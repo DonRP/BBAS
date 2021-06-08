@@ -3,422 +3,405 @@
 translate english strings:
 
 
-    old "История"
-    new "History"
+    old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
+    new "{b}ONLINE STORE{/b}"
 
 
-    old "Пропуск"
-    new "Skip"
+    old "{b}ОНЛАЙН-КУРСЫ{/b}"
+    new "{b}ONLINE-COURSES{/b}"
 
 
-    old "Авто"
-    new "Auto"
+    old "{b}КУПИТЬ ПРОДУКТЫ{/b}"
+    new "{b}GROCERY STORE{/b}"
 
 
-    old "Сохранить"
-    new "Save"
+    old "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
+    new "{b}GET STARTED ON YOUR SITE{/b}"
 
 
-    old "Б.Сохр"
-    new "Q.Save"
+    old "{b}СВОЙ САЙТ{/b}"
+    new "{b}MY SITE{/b}"
 
 
-    old "Б.Загр"
-    new "Q.Load"
+    old "{b}CYBER-БАНК{/b}"
+    new "{b}CYBER-BANK{/b}"
 
 
-    old "Опции"
-    new "Options"
+    old "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+    new "LUCRATIVE LOANS TO INTERNET ENTREPRENEURS"
 
 
-    old "Начать новую игру"
-    new "Start new game"
+    old "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+    new "Debt: {color=[_col]}$[mgg.credit.debt]{/color}"
 
 
-    old "Загрузить игру"
-    new "Load game"
+    old "[mgg.credit.left] дней на погашение"
+    new "[mgg.credit.left] days for repayment"
 
 
-    old "Сохранить игру"
-    new "Save game"
+    old "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
+    new "PAY OFF"
 
 
-    old "Настройки"
-    new "Preferences"
+    old "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
+    new "SETTLE PART OF THE DEBT"
 
 
-    old "Завершить повтор"
-    new "End replay"
+    old "ВЗЯТЬ КРЕДИТ"
+    new "TAKE CREDIT"
 
 
-    old "Выйти из игры"
-    new "Quit the game"
+    old "Что будем искать?"
+    new "What are we looking for?"
 
 
-    old "Назад"
-    new "Back"
+    old "{i}{b}КУПЛЕНО{/b}{/i}"
+    new "{i}{b}COMPLETED{/b}{/i}"
 
 
-    old "НОВАЯ ИГРА"
-    new "NEW GAME"
+    old "ОНЛАЙН-КУРСЫ"
+    new "ONLINE-COURSES"
 
 
-    old "ПРОДОЛЖИТЬ"
-    new "CONTINUE"
+    old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+    new "You've finished all possible courses and lessons from this category. New lessons will be added in coming updates."
 
 
-    old "ЗАГРУЗИТЬ"
-    new "LOAD"
+    old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+    new "You've paid for this course and can watch the next lesson at any time."
 
 
-    old "НАСТРОЙКИ"
-    new "PREFERENCES"
+    old "Занятие [text1] из [text2]"
+    new "Lesson [text1] from [text2]"
 
 
-    old "ВЫЙТИ"
-    new "QUIT"
+    old "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
+    new "{i}{b}START VIDEO LESSON{/b}{/i}"
 
 
-    old "ГЛАВНОЕ МЕНЮ"
-    new "MAIN MENU"
+    old "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
+    new "{i}{b}YOU'VE SEEN A LESSON RECENTLY. TAKE A BREAK!{/b}{/i}"
 
 
-    old "Введите описание файла сохранения:"
-    new "Enter a description of the save file:"
+    old "Количество занятий: [text2]"
+    new "Number of lessons: [text2]"
 
 
-    old "(Нет описания)"
-    new "(no description)"
+    old "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+    new "{i}{b}BUY THIS COURSE FOR: $[price]{/b}{/i}"
 
 
-    old "{} страница"
-    new "Page {}"
+    old "ДОХОД ОТ ПРОСМОТРОВ"
+    new "VIEWING REVENUE"
 
 
-    old "Автосохранения"
-    new "Automatic saves"
+    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."
+    new "Each visit to your site brings revenue. Increase the size of your audience and earn more with advertising!\n\nMinimum one-time withdrawal amount: $100"
 
 
-    old "Быстрые сохранения"
-    new "Quick saves"
+    old "На вашем счете $[paid]"
+    new "You have $[paid] in your account."
 
 
-    old "{#file_time}%a, %d %b %Y, %H:%M"
-    new "{#file_time}%a, %b %d %Y, %H:%M"
+    old "Забрать $[paid]"
+    new "Pick up $[paid]"
 
 
-    old "Пустой слот"
-    new "empty slot"
+    old "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+    new "INSUFFICIENT FUNDS TO WITHDRAW"
 
 
-    old "ДЕНЬ [load_day]"
-    new "DAY[load_day]"
+    old "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+    new "BANNER ADVERTISING NETWORK"
 
 
-    old "{#file_time}%d %b %Y, %H:%M"
-    new "{#file_time}%b %d %Y, %H:%M"
+    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+    new "Unique offer just for you! Our banner network is designed for customers with special requests and is ready to bring your advertising to the target audience. \n\nFor each package that you pay now, we guarantee 10000 displays of your site advertising in the near future!"
 
 
-    old "<"
-    new "<"
+    old "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+    new "GO FOR A $50 ADVERTISING PACKAGE"
 
 
-    old "{#auto_page}Автосохр."
-    new "{#auto_page}Auto save."
+    old "{b}РЕКЛАМА{/b}"
+    new "{b}PROMOTION{/b}"
 
 
-    old "{#quick_page}Быстрые сохр."
-    new "{#quick_page}Quick save."
+    old "{b}ВЫВОД СРЕДСТВ{/b}"
+    new "{b}WITHDRAW FUNDS{/b}"
 
 
-    old ">"
-    new ">"
+    old "Расположение:"
+    new "Location"
 
 
-    old "Режим экрана"
-    new "Display"
+    old "Зрителей:"
+    new "Viewers:"
 
 
-    old "Оконный"
-    new "Window"
+    old "Общий доход:"
+    new "Total income:"
 
 
-    old "Полный"
-    new "Fullscreen"
+    old "Доход сегодня:"
+    new "Revenue today:"
 
 
-    old "Сторона отката"
-    new "Rollback Side"
+    old "ЖДАТЬ"
+    new "WAIT"
 
 
-    old "Отключено"
-    new "Disable"
+    old "Зрителей: [public]"
+    new "Viewers: [public]"
 
 
-    old "Левая"
-    new "Left"
+    old "ПОЛЕЗНОЕ"
+    new "HELP"
 
 
-    old "Правая"
-    new "Right"
+    old "ВОЗМОЖНОСТИ ([kol] / [all])"
+    new "OPPORTUNITIES ([kol] / [all])"
 
 
-    old "Всего текста"
-    new "Unseen Text"
+    old "ВЕЩИ"
+    new "ITEMS"
 
 
-    old "После выборов"
-    new "After Choices"
+    old "Ни один предмет не выбран"
+    new "No item selected"
 
 
-    old "Переходов"
-    new "Transitions"
+    old "В данный момент в инвентаре ничего нет"
+    new "Your inventory is empty"
 
 
-    old "Язык"
-    new "Language"
+    old "ПЕРСОНАЖИ"
+    new "CHARACTERS"
 
 
-    old "Русский"
-    new "Русский"
+    old "Отношения с [char_name!t]"
+    new "Relationship ([char_name!t])"
 
 
-    old "English"
-    new "English"
+    old "Запас сил"
+    new "Energy"
 
 
-    old "Дополнительно"
-    new "Additionally"
+    old "Тренированность"
+    new "Fitness"
 
 
-    old "Patreon-интро"
-    new "Patreon-intro"
+    old "Чистота"
+    new "Cleanliness"
 
 
-    old "Оригинальное интро"
-    new "Original intro"
+    old "Навыки:"
+    new "Skills:"
 
 
-    old "Запрашивать название при сохранении"
-    new "Request a name when saving"
+    old "Навык убеждения"
+    new "Persuade skill"
 
 
-    old "Скорость текста"
-    new "Text Speed"
+    old "Навык скрытности"
+    new "Stealth skill"
 
 
-    old "Скорость авточтения"
-    new "Auto-Forward Time"
+    old "Навык массажа"
+    new "Massage skill"
 
 
-    old "История диалогов пуста."
-    new "The dialogue history is empty."
+    old "Навык эро.массажа"
+    new "Ero. massage skill"
 
 
-    old "Помощь"
-    new "Help"
+    old "Навык поцелуев"
+    new "Kissing skill"
 
 
-    old "Клавиатура"
-    new "Keyboard"
+    old "Сексуальный опыт"
+    new "Sexual experience"
 
 
-    old "Мышь"
-    new "Mouse"
+    old "Уровень отношений"
+    new "Relationship level"
 
 
-    old "Геймпад"
-    new "Gamepad"
+    old "Раскрепощенность"
+    new "Liberation"
 
 
-    old "Enter"
-    new "Enter"
+    old "Отношения с Эриком"
+    new "Relationship (Eric)"
 
 
-    old "Прохождение диалогов, активация интерфейса."
-    new "Advances dialogue and activates the interface."
+    old "Влияние Эрика"
+    new "Eric's Influence"
 
 
-    old "Пробел"
-    new "Space"
+    old "Задать одежду персонажа"
+    new "Set character's clothing"
 
 
-    old "Прохождение диалогов без возможности делать выбор."
-    new "Advances dialogue without selecting choices."
+    old "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+    new "SET THE CHARACTER'S CLOTHING"
 
 
-    old "Стрелки"
-    new "Arrow Keys"
+    old "Автосмена каждые 2 дня"
+    new "Auto change every 2 days"
 
 
-    old "Навигация по интерфейсу."
-    new "Navigate the interface."
+    old "Сделать текущей"
+    new "Select as current"
 
 
-    old "Esc"
-    new "Escape"
-
-
-    old "Вход в игровое меню."
-    new "Accesses the game menu."
-
-
-    old "Ctrl"
-    new "Ctrl"
-
-
-    old "Пропускает диалоги, пока зажат."
-    new "Skips dialogue while held down."
-
-
-    old "Tab"
-    new "Tab"
-
-
-    old "Включает режим пропуска."
-    new "Toggles dialogue skipping."
-
-
-    old "Page Up"
-    new "Page Up"
-
-
-    old "Откат назад по сюжету игры."
-    new "Rolls back to earlier dialogue."
-
-
-    old "Page Down"
-    new "Page Down"
-
-
-    old "Откатывает предыдущее действие вперёд."
-    new "Rolls forward to later dialogue."
-
-
-    old "Скрывает интерфейс пользователя."
-    new "Hides user interface."
-
-
-    old "Делает снимок экрана."
-    new "Takes a screenshot."
-
-
-    old "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-
-
-    old "Левый клик"
-    new "Left Click"
-
-
-    old "Клик колёсиком"
-    new "Middle Click"
-
-
-    old "Правый клик"
-    new "Right Click"
-
-
-    old "Колёсико вверх\nКлик на сторону отката"
-    new "Mouse Wheel Up\nClick Rollback Side"
-
-
-    old "Колёсико вниз"
-    new "Mouse Wheel Down"
-
-
-    old "Правый триггер\nA/Нижняя кнопка"
-    new "Right Trigger\nA/Bottom Button"
-
-
-    old "Левый Триггер\nЛевый Бампер"
-    new "Left Trigger\nLeft Shoulder"
-
-
-    old "Правый бампер"
-    new "Right Shoulder"
-
-
-    old "Крестовина, Стики"
-    new "D-Pad, Sticks"
-
-
-    old "Start, Guide"
-    new "Start, Guide"
-
-
-    old "Y/Верхняя кнопка"
-    new "Y/Top Button"
-
-
-    old "Калибровка"
-    new "Calibrate"
-
-
-    old "Да"
-    new "Yes"
-
-
-    old "Нет"
-    new "No"
-
-
-    old "Пропускаю"
-    new "Skipping"
-
-
-    old "Скрыть интерфейс"
-    new "Hide interface"
-
-
-    old "Меню"
-    new "Menu"
+    old "[view_cam[1].public]"
+    new "[view_cam[1].public]"
 
 
 
 translate english strings:
 
 
-    old "Громкость музыки"
-    new "Music volume"
+    old "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+    new "{i}{b}Congratulations!{/b} You have completed this opportunity!{/i}"
 
 
-    old "Громкость звуков"
-    new "Sound volume"
-
-
-    old "Тест"
-    new "Test"
-
-
-    old "Громкость голоса"
-    new "Voice volume"
-
-
-    old "Без звука"
-    new "Mute"
+    old "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+    new "{i}{b}Failure.{/b} Your choices have led to an unfortunate end, blocking further advancement of this \"opportunity\"{/i}"
 
 
 
 translate english strings:
 
 
-    old "Прозрачное текстовое окно"
-    new "Transparent text box"
+    old "Отношения с [char_name!t]:"
+    new "Relationship to [char_name!t]:"
 
+
+    old "Запас сил:"
+    new "Reserve strength:"
+
+
+    old "Тренированность:"
+    new "Exercise:"
+
+
+    old "Чистота:"
+    new "Cleanliness:"
+
+
+    old "Навык убеждения:"
+    new "Persuasion skill:"
+
+
+    old "Навык скрытности:"
+    new "Stealth skill:"
+
+
+    old "Навык массажа:"
+    new "Massage skill:"
+
+
+    old "Навык эро.массажа:"
+    new "Skill ero.massage:"
+
+
+    old "Навык поцелуев:"
+    new "Kissing Skill:"
+
+
+    old "Сексуальный опыт:"
+    new "Sexual Experience:"
+
+
+    old "Настроение:"
+    new "Mood:"
+
+
+    old "Уровень отношений:"
+    new "Relationship Level:"
+
+
+    old "Раскрепощенность:"
+    new "Looseness:"
+
+
+    old "Предпочтения в сладостях:"
+    new "Sweets preferences:"
+
+
+    old "Любит \"Ritter Sport\""
+    new "Loves \"Ritter Sport\""
+
+
+    old "Сгодится \"Raffaello\""
+    new "\"Raffaello\" will do."
+
+
+    old "Ненавидит \"Ferrero Rocher\""
+    new "Hates \"Ferrero Rocher\""
+
+
+    old "Предпочтения в массаже:"
+    new "Massage preferences:"
+
+
+    old "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+    new "- After massaging her hands, Lisa might let you massage her shoulders (and a little extra) when she does her homework"
+
+
+    old "Любит \"Ferrero Rocher\""
+    new "Loves \"Ferrero Rocher\""
+
+
+    old "Сгодится \"Ritter Sport\""
+    new "\"Ritter Sport\" will do"
+
+
+    old "Ненавидит \"Raffaello\""
+    new "Hates \"Raffaello\""
+
+
+    old "Действие алкоголя:"
+    new "Effects of Alcohol:"
+
+
+    old "???"
+    new "???"
+
+
+    old "- Не может вспомнить всё, что происходило, пока она была пьяна"
+    new "- Can't remember everything that happened while she was drunk"
+
+
+    old "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+    new "- If you start a massage with Alice in the yard with the feet, you are more likely to massage other areas"
+
+
+    old "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+    new "- You can get a foot-job (and more) from Alice during a massage in front of the TV with liquor candy"
+
+
+    old "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+    new "- Getting a footjob from Alice during a massage by the TV, there's a chance to see her masturbate before bed using a spy-camera."
 
 
 translate english strings:
 
 
-    old "Deutsch"
-    new "Deutsch"
+    old "В ПРОЦЕССЕ..."
+    new "IN PROGRESS..."
 
 
+    old "ЗАВЕРШЕНЫ..."
+    new "COMPLETED..."
 
-translate english strings:
+
+    old "НЕ ОТКРЫТЫ..."
+    new "NOT STARTED..."
 
 
-    old "Отображать все \"Возможности\""
-    new "Display all \"Possibilities\""
+    old "Подсказка:"
+    new "Hint:"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
