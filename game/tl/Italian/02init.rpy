@@ -4,11 +4,11 @@ translate english strings:
 
 
     old "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
-    new "{color=#E59400}{i}Persuasion Failed!{/i}{/color}\n"
+    new "{color=#E59400}{i}Persuasione Fallita!{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Persuasion Successful!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Persuasione Riuscita!{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
@@ -20,19 +20,19 @@ translate english strings:
 
 
     old "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Alice liked the massage!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Alice ha apprezzato il massaggio!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
-    new "{color=#E59400}{i}Alice did not like the massage!{/i}{/color}\n"
+    new "{color=#E59400}{i}Alice non ha apprezzato il massaggio!{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Lisa liked the massage!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Lisa ha apprezzato il massaggio!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
-    new "{color=#E59400}{i}Lisa did not like the massage!{/i}{/color}\n"
+    new "{color=#E59400}{i}Lisa non ha apprezzato il massaggio!{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
@@ -44,67 +44,67 @@ translate english strings:
 
 
     old "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Lisa liked the kiss!{/i}{/color}\n"
+    new "{color=#00FF00}{i}A Lisa è piaciuto il bacio!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Лизе не понравился поцелуй!{/i}{/color}\n"
-    new "{color=#E59400}{i}Lisa didn't like the kiss!{/i}{/color}\n"
+    new "{color=#00FF00}{i}A Lisa non è piaciuto il bacio!{/i}{/color}\n"
 
 
     old "ВС"
-    new "SUN"
+    new "DOM"
 
 
     old "ВОСКРЕСЕНЬЕ"
-    new "SUNDAY"
+    new "DOMENICA"
 
 
     old "ПН"
-    new "MON"
+    new "LUN"
 
 
     old "ПОНЕДЕЛЬНИК"
-    new "MONDAY"
+    new "LUNEDÌ"
 
 
     old "ВТ"
-    new "TUE"
+    new "MAR"
 
 
     old "ВТОРНИК"
-    new "TUESDAY"
+    new "MARTEDÌ"
 
 
     old "СР"
-    new "WED"
+    new "MER"
 
 
     old "СРЕДА"
-    new "WEDNESDAY"
+    new "MERCOLEDÌ"
 
 
     old "ЧТ"
-    new "THU"
+    new "GIO"
 
 
     old "ЧЕТВЕРГ"
-    new "THURSDAY"
+    new "GIOVEDÌ"
 
 
     old "ПТ"
-    new "FRI"
+    new "VEN"
 
 
     old "ПЯТНИЦА"
-    new "FRIDAY"
+    new "VENERDÌ"
 
 
     old "СБ"
-    new "SAT"
+    new "SAB"
 
 
     old "СУББОТА"
-    new "SATURDAY"
+    new "SABATO"
 
 
     old "Управление"
@@ -112,15 +112,15 @@ translate english strings:
 
 
     old "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\nF5 - сохранить, F8 - загрузить.\n\n\nКроме того, во время диалогов работают клавиши 1... 9 для различных вариантов ответов. Если вариант всего один, можно нажимать клавишу [[Space].\n\n\nДля переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\nОтключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\nЭто очень удобно, если область диалогов скрывает интересную часть изображения..."
-    new "You can use the keyboard to control this game. You can save at any time. Default shortcuts:\nF5 - save, F8 - load.\n\n\nAlso, you can use keys 1... 9 in dialogs to select an answer. If there is only one option, use can use [[Space].\n\n\n To switch rooms, you can use keys 1-7\n\n\nYou can temporarily hide the game’s interface by pressing [[ ` ], [[ h ] or by pressing middle mouse button.\nIt’s very useful when it obscures something on screen..."
+    new "È possibile utilizzare la tastiera per controllare questo gioco. You can save at any time. Scorciatoie predefinite:\nF5 - salva, F8 - carica.\n\n\nInoltre, puoi usare i tasti 1... 9 nelle finestre di dialogo per selezionare una risposta. Se esiste una sola opzione, utilizzare [[Space].\n\n\n Per cambiare stanza, puoi usare le chiavi 1-7\n\n\nPuoi nascondere temporaneamente l'interfaccia del gioco premendo [[ ` ], [[ h ] o premendo il tasto centrale del mouse.\nÈ molto utile quando nasconde qualcosa sullo schermo..."
 
 
     old "Возможности"
-    new "Opportunities"
+    new "Opportunità"
 
 
     old "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
-    new "During in-game dialogues and other actions, you may be presented with \"opportunities\". These are comparable to quests in other games, with a few differences. \n\n\n\"Opportunities\" can open hidden actions, items in the online shop, options on your laptop and actions in some rooms. Read their description carefully and you won't miss anything!"
+    new "Durante i dialoghi di gioco e altre azioni, si possono presentare \"opportunità\". Queste sono paragonabili alle missioni in altri giochi, con alcune differenze. \n\n\n\"Opportunità\" può aprire azioni nascoste, elementi nel negozio online, opzioni sul tuo computer portatile e azioni in alcune stanze. Leggi attentamente la loro descrizione e non ti mancherà niente!"
 
 
     old "Настроение"
@@ -128,7 +128,7 @@ translate english strings:
 
 
     old "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\nЕсли у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\nПостепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\nЧтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
-    new "Different actions or phrases will affect characters moods.\n\n\nIf a character is in a bad mood, they might refuse to talk about some topics, or shut down the players advances.\n\n\nEvery hour, character's moods slowly shift towards neutral. If you've done something to put them in a particularly bad mood, it will take even longer for them to return to normal.\n\nYou may gift some specific items to help fix your mistakes. Certain dialogue choices can also radically improve someones mood."
+    nuove "Le diverse azioni o frasi influenzeranno gli stati d'animo dei caratteri.\n\n\nSe un personaggio è di cattivo umore, potrebbero rifiutarsi di parlare di alcuni argomenti, o concludere la conversazione.\n\n\nOgni ora, gli stati d'animo del personaggio si spostano lentamente verso il neutrale. Se hai fatto qualcosa per metterli in cattivo umore, ci vorrà ancora più tempo per tornare alla normalità.\n\nPuoi regalare alcuni oggetti specifici per aiutare a correggere i tuoi errori. Alcune scelte di dialogo possono anche migliorare radicalmente l'umore di qualcuno."
 
 
     old "Шоу"
@@ -136,59 +136,59 @@ translate english strings:
 
 
     old "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\nУвеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\nЕсли у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
-    new "Hidden cameras can be a major source of income. A larger audience means you'll find more people willing to pay you.\n\n\nYou can attract more viewers using advertising. If your cameras fail to capture anything interesting, the number of viewers will decrease. So, you'll need to figure out how to keep the audience watching.\n\nIf you have a website, you can make some money from banners.\n\n\n{i}{b}Attention:{/b} VIP-users with special demands will be introduced in later versions. If you do what they want, you’ll be significantly rewarded.{/i}"
+    new "Telecamere nascoste possono essere una fonte importante di reddito. Un pubblico più grande significa che troverai più persone disposte a pagarti.\n\n\nPuoi attrarre più spettatori usando la pubblicità. Se le telecamere non riescono a catturare qualcosa di interessante, il numero di spettatori diminuirà. Così, avrete bisogno di capire come mantenere il pubblico online.\n\nSe si dispone di un sito web, è possibile guadagnare da banner.\n\n\n{i}{b}Attenzione:{/b} Gli utenti VIP con richieste speciali saranno introdotti nelle versioni successive. Se fate quello che vogliono, sarete ricompensati in modo significativo.{/i}"
 
 
     old "Значит, у тебя есть блог?"
-    new "So, you have a blog?"
+    new "Quindi, hai un blog?"
 
 
     old "Слушай, насчёт блога..."
-    new "Listen, about your blog..."
+    new "Ascolta, approposito del tuo blog..."
 
 
     old "Насчёт твоего блога... А если не особо раздеваться?"
-    new "About your blog... Maybe you don't have to undress completely?"
+    new "Riguardo al tuo blog... Forse non devi spogliarti completamente?"
 
 
     old "О школе..."
-    new "About school..."
+    new "Riguardo alla scuola..."
 
 
     old "А ты чего так загораешь?"
-    new "Why are you sunbathing like this?"
+    new "Perché stai prendendo il sole così?"
 
 
     old "Насчёт твоего парня..."
-    new "About your boyfriend..."
+    new "Riguardo al tuo fidanzato..."
 
 
     old "Насчёт посуды..."
-    new "About the dishes..."
+    new "Approposito dei piatti..."
 
 
     old "Мам, дай денег, пожалуйста..."
-    new "Could you give me some money, Mom?"
+    new "Potresti darmi un po' di soldi, mamma?"
 
 
     old "Я продукты заказал!"
-    new "I've ordered the groceries, Mom!"
+    new "Ho ordinato la spesa, mamma!"
 
 
     old "Мам, бассейн чист!"
-    new "I've cleaned the pool, Mom!"
+    new "Ho pulito la piscina, mamma!"
 
 
     old "Что смотришь?"
-    new "What are you watching?"
+    new "Cosa stai guardando?"
 
 
     old "Не возражаешь против компании?"
-    new "Do you mind some company?"
+    new "Ti dispiace un po' di compagnia?"
 
 
     old "Что читаешь?"
-    new "What are you reading?"
+    new "Cosa stai leggendo?"
 
 
     old "Насчёт случая с Лизой..."
@@ -200,15 +200,15 @@ translate english strings:
 
 
     old "Хотел поговорить о Большом Максе..."
-    new "I wanted to talk about Big Max..."
+    new "Volevo parlare di Big Max..."
 
 
     old "А ты у нас шалунья, оказывается..."
-    new "I didn't think you were such a naughty girl..."
+    new "Non pensavo che fossi una ragazza così cattiva..."
 
 
     old "Насчёт успеваемости..."
-    new "About your grades..."
+    new "Riguardo ai tuoi voti..."
 
 
     old "Ну как, ты подумала о моих условиях?"
@@ -216,11 +216,11 @@ translate english strings:
 
 
     old "Помочь с уроками?"
-    new "Do you want some help with your homework?"
+    new "Vuoi un po' di aiuto con i compiti?"
 
 
     old "Хотел извиниться за утренний инцидент..."
-    new "I wanted to apologize for this morning..."
+    new "Volevo scusarmi per questa mattina..."
 
 
     old "Загораешь?"
@@ -244,71 +244,71 @@ translate english strings:
 
 
     old "Насчёт ванны ночью..."
-    new "About the bath the other night..."
+    new "A proposito del bagno dell'altra notte..."
 
 
     old "Да тут всегда хорошая погода..."
-    new "We always have great weather here..."
+    new "Abbiamo sempre bel tempo qui..."
 
 
     old "Ага, как всегда..."
-    new "Yep, like always..."
+    new "Sì, come sempre..."
 
 
     old "Да, шикарная!"
-    new "Yes, the weather is great!"
+    new "Sì, il tempo è fantastico!"
 
 
     old "Мам, а как учатся целоваться?"
-    new "Mom, how do you learn to kiss?"
+    new "Mamma, come si impara a baciare?"
 
 
     old "А ты умеешь целоваться?"
-    new "Do you know how to kiss?"
+    new "Sai baciare?"
 
 
     old "Кира, мне нужно научиться целоваться..."
-    new "Aunt Kira, I need to learn how to kiss..."
+    new "Zia Kira, ho bisogno di imparare a baciare..."
 
 
     old "Ну что, Лиза, готова?"
-    new "So, are you ready?"
+    new "Allora, sei pronto?"
 
 
     old "Ну что, готова?"
-    new "Are you ready?"
+    new "Sei pronto?"
 
 
     old "Лиза, ты же любишь читать?"
-    new "You enjoy reading, right?"
+    new "Ti piace leggere, giusto?"
 
 
     old "Лиза, у меня для тебя особая книжка..."
-    new "Hey Lisa, I have a book you might find interesting..."
+    new "Hey Lisa, ho un libro che potresti trovare interessante..."
 
 
     old "Ну как, ты с мамой-то поговорила?"
-    new "So, did you talk to Mom?"
+    new "Quindi, hai parlato con la mamma?"
 
 
     old "Как отдыхается, тётя Кира?"
-    new "How's your vacation going, Aunt Kira?"
+    new "Come va la vacanza, zia Kira?"
 
 
     old "Насчёт фотосессии..."
-    new "About the photo shoot..."
+    new "A proposito del servizio fotografico..."
 
 
     old "Понравились фотографии?"
-    new "Did you like the photos?"
+    new "Ti sono piaciute le foto?"
 
 
     old "Не злишься на меня, тётя Кира?"
-    new "Aren't you mad at me, Aunt Kira?"
+    new "Non sei arrabbiata con me, zia Kira?"
 
 
     old "Мне нужны деньги..."
-    new "I need money..."
+    new "Ho bisogno di soldi..."
 
 
     old "Эрик, мы же договорились!"
@@ -316,31 +316,31 @@ translate english strings:
 
 
     old "Одежда"
-    new "Clothes"
+    new "Abbigliamento"
 
 
     old "Книги"
-    new "Books"
+    new "Libri"
 
 
     old "Продукты"
-    new "Food"
+    new "Alimenti"
 
 
     old "Электроника"
-    new "Electronics"
+    new "Elettronica"
 
 
     old "Товары 18+"
-    new "Adult 18+"
+    new "Adulto 18+"
 
 
     old "Косметика"
-    new "Cosmetics"
+    new "Cosmetici"
 
 
     old "Украшения"
-    new "Jewelry"
+    new "Gioielleria"
 
 
     old "Другое"
@@ -348,15 +348,15 @@ translate english strings:
 
 
     old "А у меня есть то, о чём ты мечтала..."
-    new "I have something you wanted..."
+    new "Ho qualcosa che volevi..."
 
 
     old "У меня для тебя подарок {i}(Халат){/i}"
-    new "I have a gift for you {i}(Bathrobe){/i}"
+    new "Ho un regalo per te {i}(Bathrobe){/i}"
 
 
     old "{color=#808080}У меня для тебя вкусняшка! \n (нужно выждать несколько дней){/color}"
-    new "{color=#808080}I have a treat for you! \n (you need to wait a few days){/color}"
+    new "{color=#808080}I have a treat for you! \n (devi attendere qualche giorno){/color}"
 
 
     old "У меня для тебя вкусняшка!"
@@ -364,39 +364,39 @@ translate english strings:
 
 
     old "У меня есть кое-что запрещённое..."
-    new "I have something forbidden for you..."
+    new "Ho qualcosa di proibito per te..."
 
 
     old "Угадай: маленькое, чёрненькое..."
-    new "Guess: small, black..."
+    new "Indovini: piccolo, nero..."
 
 
     old "У меня для тебя одна книжка..."
-    new "I have a book for you..."
+    new "Ho un libro per te..."
 
 
     old "У меня снова для тебя книжка..."
-    new "I have a book for you again..."
+    nuovo "Ho un altro libro per te..."
 
 
     old "И снова у меня для тебя книжка..."
-    new "I have a book for you again..."
+    nuovo "Ho un altro libro per te..."
 
 
     old "У меня для тебя подарок {i}(Пижама){/i}"
-    new "I have a gift for you {i}(Pajamas){/i}"
+    new "Ho un regalo per te {i}(Pajamas){/i}"
 
 
     old "У меня есть кое-что, о чём мы беседовали..."
-    new "I have something we spoke about earlier..."
+    new "Ho qualcosa di cui abbiamo parlato prima..."
 
 
     old "{color=#808080}Прикупил для тебя немного сладенького! \n (нужно выждать несколько дней){/color}"
-    new "{color=#808080}I bought you some sweets! \n (you need to wait a few days){/color}"
+    new "{color=#808080}Ti ho comprato dei dolci! \n (devi attendere qualche giorno){/color}"
 
 
     old "Прикупил для тебя немного сладенького!"
-    new "I bought you some sweets!"
+    new "Ti ho comprato dei dolci!"
 
 
 
@@ -404,11 +404,11 @@ translate english strings:
 
 
     old "Рассказывай, что делали?"
-    new "Tell me, what did you do?"
+    new "Dimmi, cosa hai fatto?"
 
 
     old "Ну так и чему же тебя учили?"
-    new "So what did they teach you?"
+    new "Quindi che cosa ti hanno insegnato?"
 
 
 
@@ -420,11 +420,11 @@ translate english strings:
 
 
     old "Что нового мама с Эриком тебе рассказали?"
-    new "Learn anything new from Mom and Eric?"
+    new "Impara qualcosa di nuovo dalla mamma e da Eric?"
 
 
     old "Что нового узнала на уроке у мамы и Эрика?"
-    new "What did you learn from Mom and Eric?"
+    new "Che cosa hai imparato dalla mamma e da Eric?"
 
 
 
@@ -432,7 +432,7 @@ translate english strings:
 
 
     old "{i}урок поцелуев{/i}"
-    new "{i}Kissing Lesson{/i}"
+    new "{i}Lezioni di Bacio{/i}"
 
 
     old "Так когда будем снова фотографироваться, тётя Кира?"
@@ -443,11 +443,11 @@ translate english strings:
 
 
     old "Я слышал, Эрик тебе новое бельё собирается купить?"
-    new "I hear Eric's going to buy you some new underwear?"
+    new "Ho sentito che Eric ti comprerà un nuovo intimo?"
 
 
     old "Покажешь боди, которое тебе Эрик купит?"
-    new "Will you show me the bodysuit that Eric will buy you?"
+    new "Mi mostrerai il body che Eric ti comprerà?"
 
 
 
@@ -455,29 +455,29 @@ translate english strings:
 
 
     old "Хочу рассказать тебе кое-что о Кире..."
-    new "I want to tell you something about Kira..."
+    new "Voglio dirti qualcosa su Kira..."
 
 
     old "Я хотел поговорить о Кире..."
-    new "I wanted to talk about Kira..."
+    new "Volevo parlare di Kira..."
 
 
 translate english strings:
 
 
     old "{color=#00FF00}{i}Ей нравится!{/i}{/color}\n"
-    new "{color=#00FF00}{i}She loves it!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Lo ama!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Ей не нравится!{/i}{/color}\n"
-    new "{color=#E59400}{i}She does not like it!{/i}{/color}\n"
+    new "{color=#E59400}{i}Non le piace!{/i}{/color}\n"
 
 
 translate english strings:
 
 
     old "Хотел узнать, хорошо ли тебе сидится?"
-    new "I was wondering if you're comfortable?"
+    new "Mi chiedevo se sei comodo?"
 
 
     old "Не слабо тебя отшлёпали!"
@@ -485,11 +485,11 @@ translate english strings:
 
 
     old "Ты не передумала о наказаниях?"
-    new "About punishments - Have you changed your mind?"
+    new "Sulle punizioni - Hai cambiato idea?"
 
 
     old "Отшлёпать тебя сейчас или..."
-    new "Should I spank you now or...?"
+    new "Ti dovrei sculacciare ora...?"
 
 
     old "Пора отшлёпать одну милую попку!"
@@ -501,19 +501,19 @@ translate english strings:
 
 
     old "Мам, Кира отправила меня к тебе..."
-    new "Mom, Kira sent me to you..."
+    new "Mamma, Kira mi ha mandato a te..."
 
 
     old "С тобой можно?"
-    new "Can I join you?"
+    new "Posso unirmi a te?"
 
 
     old "Я присоединюсь?"
-    new "Shall I join you?"
+    new "Mi unisco a te?"
 
 
     old "Тётя Кира, когда ты уже с мамой поговоришь?!"
-    new "Aunt Kira, when are you going to talk to Mom?!"
+    new "Zia Kira, quando parlerai con la mamma?!"
 
 
     old "Я хотел спросить про тот случай из детства мамы..."
@@ -525,7 +525,7 @@ translate english strings:
 
 
     old "Мам, я купил тебе одежду полегче!"
-    new "Mom, I bought you some better clothes!"
+    new "Mamma, ti ho comprato dei vestiti migliori!"
 
 
 
@@ -533,7 +533,7 @@ translate english strings:
 
 
     old "Насчёт Алекса..."
-    new "About Alex..."
+    new "Riguardo Alex..."
 
 
     old "Есть успехи с Оливией?"
@@ -541,15 +541,15 @@ translate english strings:
 
 
     old "Что-нибудь узнала про Оливию?"
-    new "Did you find out anything about Olivia?"
+    new "Hai scoperto qualcosa su Olivia?"
 
 
     old "Ну так, что там с трусиками Оливии?"
-    new "So, what about Olivia's panties?"
+    nuovo "Dunque, che dire delle mutandine di Olivia?"
 
 
     old "Ты позвала Оливию к нам?"
-    new "Did you ask Olivia to join us?"
+    new "Hai chiesto a Olivia di unirsi a noi?"
 
 
 
@@ -557,11 +557,11 @@ translate english strings:
 
 
     old "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
-    new "{color=#E59400}{i}It's too risky!{/i}{/color}\n"
+    new "{color=#E59400}{i}È troppo rischioso!{/i}{/color}\n"
 
 
     old "Ну как, получилось рассказать всё Оливии?"
-    new "Did you get to tell Olivia everything?"
+    new "Sei riuscita a dire a Olivia tutto?"
 
 
     old "Учтите, я испытываю... некоторый подъём!"
@@ -573,7 +573,7 @@ translate english strings:
 
 
     old "Что новенького, Оливия?"
-    new "What's new, Olivia?"
+    new "Cosa c'è di nuovo, Olivia?"
 
 
     old "Рад тебя видеть, Оливия!"
@@ -593,17 +593,17 @@ translate english strings:
 
 
     old "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Mom liked the massage{/i}{/color}\n"
+    new "{color=#E59400}{i}Mamma ha apprezzato il massaggio!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
-    new "{color=#E59400}{i}Mom didn't like the massage{/i}{/color}\n"
+    new "{color=#E59400}{i}Mamma non ha apprezzato il massaggio!{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
-    new "{color=#00FF00}{i}It worked!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Ha funzionato!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
-    new "{color=#E59400}{i}It didn't work!{/i}{/color}\n"
+    new "{color=#E59400}{i}Non ha funzionato!{/i}{/color}\n"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
