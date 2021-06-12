@@ -4,43 +4,43 @@
 translate english Eric_talk_afterdinner_84e16ca3:
 
 
-    Eric_00 "Max, I would like to talk to you in private while your mom is getting dressed."
+    Eric_00 "Max, vorrei parlare con te in privato mentre tua mamma si veste."
 
 
 translate english Eric_talk_afterdinner_9a9eff04:
 
 
-    Max_01 "Sure..."
+    Max_01 "Certo..."
 
 
 translate english Eric_talk_afterdinner_7bba59ab:
 
 
-    Eric_05 "I've noticed that you're being friendly, and it's important for me to get along with your family, so that your mom doesn't feel uncomfortable." nointeract
+    Eric_05 "Ho notato che sei amichevole, ed è importante per me andare d'accordo con la tua famiglia, in modo che la tua mamma non si senta a disagio." nointeract
 
 
 translate english Eric_talk_afterdinner_0d5cb7f0:
 
 
-    Max_00 "Well, okay..."
+    Max_00 "Beh, ok..."
 
 
 translate english Eric_talk_afterdinner_6065daea:
 
 
-    Eric_09 "I know we had a rocky start, but I think we can find some common ground. It's important to me that your mom doesn't feel uncomfortable because of this." nointeract
+    Eric_09 "So che abbiamo avuto un inizio arido, ma credo che possiamo trovare un terreno comune. È importante per me che tua mamma non si senta a disagio per questo." nointeract
 
 
 translate english Eric_talk_afterdinner_3d2bc793:
 
 
-    Max_09 "Do I have a choice?"
+    Max_09 "Ho una scelta?"
 
 
 translate english Eric_talk_afterdinner_f01572f3:
 
 
-    Eric_13 "I know we had a bad start, but I want us to have a civilized relationship. I wouldn't want to cause your mom stress." nointeract
+    Eric_13 "So che abbiamo avuto un brutto inizio, ma voglio che abbiamo un rapporto civile. I wouldn't want to cause your mom stress." nointeract
 
 
 translate english Eric_talk_afterdinner_good_576d188f:
