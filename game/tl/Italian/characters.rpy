@@ -4,7 +4,7 @@ translate english strings:
 
 
     old "Мама"
-    new "Mom"
+    new "Mamma"
 
 
     old "Майя"
