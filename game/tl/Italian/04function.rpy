@@ -4,23 +4,23 @@ translate english strings:
 
 
     old "+ к навыку скрытности"
-    new "+ Stealth skill"
+    new "+ Abilità Stealth"
 
 
     old "+ к навыку убеждения"
-    new "+ Persuasion skill"
+    new "+ Abilità Persuasione"
 
 
     old "+ к навыку массажа"
-    new "+ Massage skill"
+    new "+ Abilità Massaggio"
 
 
     old "+ к навыку поцелуев"
-    new "+ Kissing skill"
+    new "+ Abilità Bacio"
 
 
     old "+ к навыку эротического массажа"
-    new "+ Erotic massage skill"
+    new "+ Abilità Massaggio Erotico"
 
 
     old "+ к тренированности"
@@ -32,35 +32,35 @@ translate english strings:
 
 
     old "+ к сексуальному опыту"
-    new "+ Sexual experience"
+    new "+ Esperienza sessuale"
 
 
     old "+ к опыту анального секса"
-    new "+ Anal sex experience"
+    new "+ Esperienza Sesso Anale"
 
 
     old "{color=[red]}значительно ухудшилось{/color}"
-    new "{color=[red]}deteriorated significantly{/color}"
+    new "{color=[red]}peggiorato significativamente{/color}"
 
 
     old "{color=[red]}ухудшилось{/color}"
-    new "{color=[red]}deteriorated{/color}"
+    new "{color=[red]}peggiorato{/color}"
 
 
     old "{color=[red]}немного ухудшилось{/color}"
-    new "{color=[red]}gotten a little worse{/color}"
+    new "{color=[red]}è peggiorato un po'{/color}"
 
 
     old "{color=[lime]}немного улучшилось{/color}"
-    new "{color=[lime]}improved a little{/color}"
+    new "{color=[lime]}è migliorato un po'{/color}"
 
 
     old "{color=[lime]}улучшилось{/color}"
-    new "{color=[lime]}improved{/color}"
+    new "{color=[lime]}migliorato{/color}"
 
 
     old "{color=[lime]}значительно улучшилось{/color}"
-    new "{color=[lime]}improved significantly{/color}"
+    new "{color=[lime]}migliorato significativamente{/color}"
 
 
     old "{color=[red]}снизилось{/color}"
@@ -84,11 +84,11 @@ translate english strings:
 
 
     old "Война"
-    new "War"
+    new "Guerra"
 
 
     old "Враждебные"
-    new "Hostile"
+    new "Ostile"
 
 
     old "Плохие"
@@ -100,11 +100,11 @@ translate english strings:
 
 
     old "Неплохие"
-    new "Not bad"
+    new "Non male"
 
 
     old "Хорошие"
-    new "Good"
+    new "Buono"
 
 
     old "Тёплые"
@@ -112,7 +112,7 @@ translate english strings:
 
 
     old "Дружеские"
-    new "Friendly"
+    new "Amichevole"
 
 
     old "Близкие"
@@ -128,5 +128,5 @@ translate english strings:
 
 
     old "Так... В накладной написано следующее:"
-    new "So... The waybill says the following:"
+    new "Quindi... The waybill says the following:"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
