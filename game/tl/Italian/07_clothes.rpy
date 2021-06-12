@@ -4,19 +4,19 @@ translate english strings:
 
 
     old "Для йоги"
-    new "For yoga"
+    new "Per yoga"
 
 
     old "Блог в нижнем белье"
-    new "The lingerie blog"
+    new "Il blog di lingerie"
 
 
     old "Готовит завтрак"
-    new "Making breakfast"
+    new "Fare colazione"
 
 
     old "Готовит ужин"
-    new "Cooking dinner"
+    new "Preparare la cena"
 
 
     old "Утренний отдых"
@@ -28,5 +28,5 @@ translate english strings:
 
 
     old "Влияние Макса недостаточно"
-    new "Max's influence isn't high enough"
+    new "L'influenza di Max non è abbastanza elevata"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
