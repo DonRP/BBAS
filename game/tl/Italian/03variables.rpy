@@ -4,43 +4,43 @@ translate english strings:
 
 
     old "МОЯ\nКОМНАТА"
-    new "MY ROOM"
+    new "CAMERA MIA"
 
 
     old "МОЯ КОМНАТА"
-    new "MY ROOM"
+    new "CAMERA MIA"
 
 
     old "КОМНАТА\nАЛИСЫ"
-    new "ALICE'S\nROOM"
+    new "CAMERA\nDI ALICE"
 
 
     old "КОМНАТА АЛИСЫ"
-    new "ALICE'S ROOM"
+    new "CAMERA DI ALICE"
 
 
     old "КОМНАТА\nАННЫ"
-    new "ANN'S\nROOM"
+    new "CAMERA\nDI ANN"
 
 
     old "КОМНАТА АННЫ"
-    new "ANN'S ROOM"
+    new "CAMERA DI ANN"
 
 
     old "ВАННАЯ\nКОМНАТА"
-    new "BATHROOM"
+    new "BAGNO"
 
 
     old "ВАННАЯ КОМНАТА"
-    new "BATHROOM"
+    new "BAGNO"
 
 
     old "ГОСТИНАЯ"
-    new "LOUNGE"
+    new "SALA"
 
 
     old "ВЕРАНДА"
-    new "TERRACE"
+    new "TERRAZZA"
 
 
     old "ДВОР"
@@ -68,7 +68,7 @@ translate english strings:
 
 
     old "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    new "This is Lisa, my younger sister. She's very cute and has a playful personality. She's still going to school. Even though we fight sometimes we're actually pretty close, and she always looks to me for for help whenever there's trouble."
+    new " Lei è Lisa, mia sorella minore. È molto carina e ha una personalità giocosa. Va ancora a scuola. Anche se a volte litighiamo, siamo in realtà abbastanza legati, e mi guarda sempre ogni volta che c'è problema per un aiuto."
 
 
     old "Алиса"
@@ -92,7 +92,7 @@ translate english strings:
 
 
     old "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-    new "Alice-my older sister. She has a short fuse, if she's angry at me I can expect a slap to the face at best. She recently graduated from school and is supposed to be looking for work, but all I see her do all day is blog on her laptop. She thinks I'm an idiot and we don't really get along. Why do older sisters have to be so bitchy?"
+    new "Alice-mia sorella maggiore. Ha una miccia corta, se è arrabbiata con me posso aspettarmi, minimo, uno schiaffo sul viso. Si è laureata di recente in università e dovrebbe essere in cerca di lavoro, ma tutto quello che la vedo fare tutto il giorno è il blog sul suo portatile. Lei pensa che sia un idiota, e non andiamo tanto d'accordo. Perché le sorelle maggiori sono così cagne?"
 
 
     old "Анна"
@@ -116,7 +116,7 @@ translate english strings:
 
 
     old "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-    new "Ann, my Mom. She's been raising my sisters and I by herself for several years. She works in the office at some big company. She earns enough to survive, but rent, food, clothing, and other various expenses eat up most of her salary."
+    new "Ann, mia mamma. Ha cresciuto le mie sorelle e me da sola per diversi anni. Lavora in ufficio in una grande azienda. Lei guadagna abbastanza per sopravvivere, ma l'affitto, il cibo, l'abbigliamento e altre spese varie mangiano la maggior parte del suo stipendio."
 
 
     old "Макс"
@@ -140,143 +140,143 @@ translate english strings:
 
 
     old "Всегда в поисках приключений на свою пятую точку."
-    new "Always looking for new thrills and adventures."
+    new "Sempre alla ricerca di nuove emozioni e avventure."
 
 
     old "спит в нашей комнате (ночь)"
-    new "sleeping in our room (night)"
+    new "dorme nella nostra stanza (notte)"
 
 
     old "спит в нашей комнате (утро)"
-    new "sleeping in our room (morning)"
+    new "dorme nella nostra stanza (mattina)"
 
 
     old "принимает душ"
-    new "in the shower"
+    new "sotto la doccia"
 
 
     old "читает в нашей комнате"
-    new "reading in our room"
+    new "legge nella nostra stanza"
 
 
     old "семейный завтрак"
-    new "family breakfast"
+    new "colazione di famiglia"
 
 
     old "одевается в школу"
-    new "getting dressed for school"
+    new "si veste per la scuola"
 
 
     old "одевается в магазин"
-    new "clothes shop "
+    new "negozio di vestiti"
 
 
     old "одевается к репетитору"
-    new "dressing for a tutor"
+    new "si veste per un tutor"
 
 
     old "в школе"
-    new "at school"
+    new "a scuola"
 
 
     old "в магазине"
-    new "at the store"
+    new "al negozio"
 
 
     old "у репетитора"
-    new "at the tutor"
+    new "dal tutor"
 
 
     old "в бассейне"
-    new "in the pool"
+    new "in piscina"
 
 
     old "загорает"
-    new "sunbathing"
+    new "prendere il sole"
 
 
     old "семейный ужин"
-    new "family dinner"
+    new "cena di famiglia"
 
 
     old "моет посуду"
-    new "washing the dishes"
+    new "lava i piatti"
 
 
     old "лежит с телефоном в нашей комнате"
-    new "on her phone in our room"
+    new "al telefono nella nostra stanza"
 
 
     old "принимает ванну"
-    new "taking a bath"
+    new "fa' un bagno"
 
 
     old "учит уроки"
-    new "Doing homework"
+    new "Fa' i compiti"
 
 
     old "спит"
-    new "sleeping"
+    new "dorme"
 
 
     old "занимается йогой"
-    new "doing yoga"
+    new "fa' yoga"
 
 
     old "готовит завтрак"
-    new "making breakfast"
+    new "fa' colazione"
 
 
     old "одевается на работу"
-    new "getting dressed for work"
+    new "si veste per lavoro"
 
 
     old "в своей комнате"
-    new "in his room"
+    new "nella sua stanza"
 
 
     old "на работе"
-    new "at work"
+    new "al lavoro"
 
 
     old "читает на веранде"
-    new "reading on the terrace"
+    new "legge in terrazza"
 
 
     old "загорает с Алисой"
-    new "sunbathing with Alice"
+    new "prende il sole con Alice"
 
 
     old "в бассейне с Алисой"
-    new "in the pool with Alice"
+    new "in piscina con Alice"
 
 
     old "готовит ужин"
-    new "preparing dinner"
+    new "prepara la cena"
 
 
     old "смотрит ТВ"
-    new "watching TV"
+    new "guarda la TV"
 
 
     old "спит (ночь)"
-    new "sleeping (night)"
+    new "dorme (notte)"
 
 
     old "спит (утро)"
-    new "sleeping (morning)"
+    new "dorme (mattina)"
 
 
     old "одевается к подруге"
-    new "dresses for a friend"
+    new "si veste per un amico"
 
 
     old "загорает с Анной"
-    new "sunbathing with Ann"
+    new "prende il sole con Ann"
 
 
     old "в бассейне с Анной"
-    new "in the pool with Ann"
+    new "in piscina con Ann"
 
 
     old "Повседневная"
@@ -292,27 +292,27 @@ translate english strings:
 
 
     old "За уроками"
-    new "During lessons"
+    new "Durante le lezioni"
 
 
     old "Для приготовления завтрака"
-    new "For making breakfast"
+    new "Per fare colazione"
 
 
     old "Для приготовления ужина"
-    new "For cooking dinner"
+    new "Per fare la cena"
 
 
     old "Для утреннего отдыха"
-    new "For Morning rest"
+    new "Per il riposo mattutino"
 
 
     old "Для вечернего отдыха"
-    new "Evening-wear"
+    new "Abbigliamento da sera"
 
 
     old "ПОСМОТРЕТЬ\nФИЛЬМ"
-    new "WATCH\nTHE MOVIE"
+    new "GUARDA\nIL FILM"
 
 
     old "ВЫЙТИ\nИЗ ДОМА"
@@ -320,7 +320,7 @@ translate english strings:
 
 
     old "ПОИГРАТЬ\nС ЛИЗОЙ"
-    new "PLAY WITH\nLISA"
+    new "GIOCA CON\nLISA"
 
 
     old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
@@ -332,7 +332,7 @@ translate english strings:
 
 
     old "СПРЯТАТЬ\nПАУКА"
-    new "HIDE\nSPIDER"
+    new "NASCONDI\nRAGNO"
 
 
     old "БРОСИТЬ\nПАУКА"
@@ -356,7 +356,7 @@ translate english strings:
 
 
     old "ЧИТАТЬ"
-    new "READ"
+    new "LEGGI"
 
 
     old "ИСКАТЬ\nКАМЕРУ"
@@ -364,55 +364,55 @@ translate english strings:
 
 
     old "РАЗОБРАТЬ\nКОРОБКИ"
-    new "UNPACK\nBOXES"
+    new "APRI\nSCATOLE"
 
 
     old "ВКЛЮЧИТЬ\nНОУТБУК"
-    new "TURN ON\nLAPTOP"
+    new "APRI\nLAPTOP"
 
 
     old "СПАТЬ"
-    new "SLEEP"
+    new "DORMI"
 
 
     old "УСТАНОВИТЬ\nБУДИЛЬНИК"
-    new "SET THE\nALARM"
+    new "IMPOSTA\nSVEGLIA"
 
 
     old "ВЗДРЕМНУТЬ"
-    new "NAP"
+    new "PISOLINO"
 
 
     old "ПРИНЯТЬ\nДУШ"
-    new "TAKE A\nSHOWER"
+    new "FAI UNA\nDOCCIA"
 
 
     old "ПРИНЯТЬ\nВАННУ"
-    new "TAKE A\nBATH"
+    new "FAI UN\nBAGNO"
 
 
     old "ПОГОВОРИТЬ"
-    new "TALK"
+    new "PARLA"
 
 
     old "МЫТЬ\nПОСУДУ"
-    new "WASH\nDISHES"
+    new "LAVA\nPIATTI"
 
 
     old "ПАУК"
-    new "SPIDER"
+    new "RAGNO"
 
 
     old "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
-    new "The scariest creature ever. From Alice's point of view anyways. I should use this at the right time!"
+    new "La creatura più spaventosa di sempre. Almeno, dal punto di vista di Alice. Dovrei usare questo al momento giusto!"
 
 
     old "СКРЫТАЯ КАМЕРА"
-    new "HIDDEN CAM"
+    new "NASCONDI CAMERA"
 
 
     old "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
-    new "Advanced micro camera for concealed surveillance. It has a radio-module so it can transfer encrypted digital video streams."
+    new "Micro fotocamera avanzata per la sorveglianza occultata. Ha un modulo radio in modo da poter trasferire flussi video digitali crittografati."
 
 
     old "ШЕЛКОВЫЙ ХАЛАТ"
@@ -420,7 +420,7 @@ translate english strings:
 
 
     old "Короткий, лёгкий, почти шёлковый халат высшего качества. Made in China."
-    new "Short, light, silk bathrobe. Great quality! Made in China."
+    new "Accappatoio di seta, leggero, corto. Ottima qualità! Made in China."
 
 
     old "КУПАЛЬНИК КРАСНЫЙ"
@@ -428,23 +428,23 @@ translate english strings:
 
 
     old "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
-    new "A sexy swimsuit for those who aren't shy about their bodies. Hides only the most intimate areas. Everything else is exposed to the sun and the eyes."
+    new "Un costume da bagno sexy per coloro che non sono timidi per i loro corpi. Nasconde solo le zone più intime. Tutto il resto è esposto al sole e agli occhi."
 
 
     old "СИГАРЕТЫ"
-    new "CIGARETTES"
+    new "SIGARETTE"
 
 
     old "Пачка сигарет Lucky Strike. Для настоящих мужчин!"
-    new "Pack of smokes, Lucky Strike. For real men!"
+    new "Pacchetto di sigarette, Lucky Strike. Per uomini veri!"
 
 
     old "МАЛЕНЬКОЕ ЧЕРНОЕ ПЛАТЬЕ"
-    new "LITTLE BLACK DRESS"
+    new "PICCOLO ABITO NERO"
 
 
     old "Отличный подарок для девушки, желающей произвести фурор на вечеринке или дискотеке."
-    new "Great gift for a girl who wants to make an impression at the party."
+    new "Ottimo regalo per una ragazza che vuole fare impressione alla festa."
 
 
     old "ЛЮБЯЩАЯ РУБИ"
@@ -452,7 +452,7 @@ translate english strings:
 
 
     old "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
-    new "I’ve heard all the rumors: He killed his wife. He’s under house arrest. He’s a vampire. Yes, I know I’m crazy."
+    new "Ho sentito tutte le voci: Ha ucciso la moglie. È agli arresti domiciliari. È un vampiro. Sì, so di essere pazzo."
 
 
     old "ПРЕМЬЕР-МИНИСТР"
@@ -460,7 +460,7 @@ translate english strings:
 
 
     old "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
-    new "A kinky Prime Minister, a vanilla intern, and a scandal that shouldn't feel so right or cost so much."
+    new "Un primo ministro cinico, un tirocinio alla vaniglia e uno scandalo che non dovrebbe sentirsi così giusto o costato tanto."
 
 
     old "БЫТЬ КУКЛОЙ"
@@ -468,7 +468,7 @@ translate english strings:
 
 
     old "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
-    new "At Carter Manor, women are groomed to become the perfect next trophy wife for the most influential and powerful men in the world."
+    new "A Villa Carter, le donne sono destinate a diventare la perfetta moglie trofeo per gli uomini più influenti e potenti del mondo."
 
 
     old "КНИГА ОРГАЗМОВ"
@@ -476,23 +476,23 @@ translate english strings:
 
 
     old "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
-    new "What happens when you bring together 69 authors sharing their hottest orgasm stories?"
+    new "Cosa succede quando si riunano 69 autori che condividono le loro storie dei orgasmi più eccitanti?"
 
 
     old "ИСТОРИЯ О"
-    new "STORY OF O"
+    new "Histoire d'O"
 
 
     old "Это история о доминировании и подчинении. История об одной прекрасной девушке по имени О."
-    new "Story of O is a tale of female submission involving a beautiful Parisian fashion photographer named O. "
+    new "Histoire d'O è un racconto di sottomissione femminile che coinvolge un bellissimo fotografo di moda parigino di nome O. "
 
 
     old "СТРЕМЯНКА"
-    new "STEPLADDER"
+    new "SCALETTA"
 
 
     old "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-    new "A small stepladder to help access difficult areas."
+    new "Una piccola scaletta per aiutare ad accedere alle aree difficili."
 
 
     old "WEB STANDARDS"
@@ -500,11 +500,11 @@ translate english strings:
 
 
     old "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
-    new "The book teaches how to create custom sites which will be able to work with any device."
+    new "Il libro insegna come creare siti personalizzati che saranno in grado di lavorare con qualsiasi dispositivo."
 
 
     old "ЛЁГКАЯ ПИЖАМА"
-    new "BLUE PYJAMAS"
+    new "PIGIAMA BLU"
 
 
     old "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
@@ -524,67 +524,67 @@ translate english strings:
 
 
     old "Небольшой набор косметики для повседневного использования. Для женщин - только лучшее..."
-    new "A small set of cosmetics for everyday use. For women, only the best..."
+    new "Un piccolo set di cosmetici per l'uso quotidiano. Per le donne, solo il meglio..."
 
 
     old "Шоколад \"Ritter Sport\" mini (9 штук)"
-    new "Chocolate \"Ritter Sport\" mini (9 pieces)"
+    new "Cioccolato \"Ritter Sport\" mini (9 pezzi)"
 
 
     old "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
-    new "A chocolate delight for every occasion... Plenty of delicious varieties with the best ingredients from all over the world."
+    nuovo "Una delizia al cioccolato per ogni occasione... Abbondanti varietà deliziose con i migliori ingredienti da tutto il mondo."
 
 
     old "Шоколад \"Ritter Sport\" (4 штуки)"
-    new "Chocolate \"Ritter Sport\" (4 pieces)"
+    new "Cioccolato \"Ritter Sport\" (4 pezzi)"
 
 
     old "Конфеты \"Raffaello\" (16 штук)"
-    new "Chocolate \"Raffaello\" (16 pieces)"
+    new "Cioccolato \"Raffaello\" (16 pezzi)"
 
 
     old "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
-    new "Crispy coconuts with whole almond nuts. Says more than a thousand words..."
+    new "Croccante al cocco con noci di mandorle intere. Dice più di mille parole..."
 
 
     old "Конфеты \"Raffaello\" (24 штуки)"
-    new "Chocolate \"Raffaello\" (24 pieces)"
+    new "Cioccolato \"Raffaello\" (24 pezzi)"
 
 
     old "Конфеты \"Ferrero Rocher\" (16 штук)"
-    new "Sweets \"Ferrero Rocher\" (16 pieces)"
+    new "Cioccolatini \"Ferrero Rocher\" (16 pezzi)"
 
 
     old "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
-    new "The combination of whole hazelnuts and a delicious creamy nut in a crispy waffle shell will give you a unique taste experience."
+    new "La combinazione di nocciole intere e una deliziosa noce cremosa in un guscio di waffle croccante vi darà un'esperienza di gusto unica."
 
 
     old "Конфеты \"Ferrero Rocher\" (24 штуки)"
-    new "Sweets \"Ferrero Rocher\" (24 pieces)"
+    new "Cioccolatini \"Ferrero Rocher\" (24 pezzi)"
 
 
     old "КРЕМ ДЛЯ ЗАГАРА"
-    new "SUNSCREEN"
+    new "CREMA SOLARE"
 
 
     old "Легкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
-    new "Light, well-absorbed product for accelerating tanning with moisturizing and protective properties. Recommended for use on the beach and in the Solarium."
+    new "Prodotto leggero, adatto per accelerare l'abbronzatura con proprietà idratanti e protettive. Consigliato per l'uso in spiaggia e nel Solarium."
 
 
     old "МУЖСКИЕ МАЙКА И ШОРТЫ"
-    new "MEN'S T-SHIRT AND SHORTS"
+    new "T-SHIRT E PANTALONCINO UOMO"
 
 
     old "Свободный и лёгкий летний комплект одежды на каждый день."
-    new "A free and light set of summer clothes for every-day wear."
+    new "Un set gratuito e leggero di vestiti estivi per tutti i giorni."
 
 
     old "КОНФЕТЫ С ЛИКЁРОМ"
-    new "LIQUEUR SWEETS"
+    new "CIOCCOLATINI LIQUOROSI"
 
 
     old "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
-    new "Chocolate candy and liqueur. Unique flavors hide the taste of alcohol. They're very strong."
+    new "Cioccolatini e liquore. I sapori unici nascondo il sapore dell'alcol. Sono molto forti."
 
 
     old "КОМПЛЕКТ ТЁМНОГО НИЖНЕГО БЕЛЬЯ"
@@ -592,7 +592,7 @@ translate english strings:
 
 
     old "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-    new "Exotic dark-colored underwear. A great gift for your favorite girl."
+    new "Intimo esotico di colore scuro. Un grande regalo per la tua ragazza preferita."
 
 
     old "СЕКС-ОБРАЗОВАНИЕ"
@@ -600,15 +600,15 @@ translate english strings:
 
 
     old "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
-    new "A comprehensive guide to sex and bodily functions. Great for safely teaching those with limited experience."
+    nuovo "Una guida completa per il sesso e le funzioni del corpo. Ottimo per insegnare in modo sicuro coloro che hanno un'esperienza limitata."
 
 
     old "ФОТОАППАРАТ"
-    new "CAMERA"
+    new "FOTOCAMERA"
 
 
     old "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
-    new "Professional camera with a lens. Not new, but in excellent condition. Suitable for both beginners and professionals."
+    new "Macchina fotografica professionale con una lente. Non nuovo, ma in ottime condizioni. Adatto sia per principianti che professionisti."
 
 
     old "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
@@ -616,107 +616,107 @@ translate english strings:
 
 
     old "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
-    new "The seductive black shirt is made of elastic tulle. The set also includes string panties."
+    new "La seducente camicia nera è realizzata in tulle elastico. Il set include anche il perizoma."
 
 
     old "Скрытые камеры"
-    new "Hidden cams"
+    new "Telecamere nascoste"
 
 
     old "Я нашёл пустую коробку из под скрытой камеры. Видимо, она установлена где-то в доме. Нужно поискать как следует - вдруг, кто-то за нами наблюдал всё это время?"
-    new "I found an empty box that would have contained a hidden camera. It's probably installed somewhere in the house. I should try to find it, what if someone has been watching us all this time?"
+    new "Ho trovato una scatola vuota che conteneva una telecamera nascosta. Probabilmente è installata da qualche parte in casa. Dovrei cercare di trovarla, cosa succede se qualcuno ci ha guardati tutto questo tempo?"
 
 
     old "Итак, я нашёл скрытую камеру в гостиной. Она вмонтирована в стену, видимо, во время ремонта. Поэтому, её нельзя вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Может быть, стоит целенаправленно изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
-    new "I've found the hidden cam in the living room. It's mounted in the wall, so I can't pull it out without damaging it. It's not connected to anything, maybe I should look up ways to fix that, it could be useful..."
+    new "Ho trovato la telecamera nascosta nel salotto. È montata nel muro, quindi non posso tirarla fuori senza danneggiarla. Non è collegato a niente, forse dovrei cercare un modo per risolvere questo, potrebbe essere utile..."
 
 
     old "Ко мне пришла отличная идея - заработать на трансляции с веб-камеры в интернет, но я об этом знаю очень мало... Может быть, поможет какая-то литература?"
-    new "Here's an idea: I could earn some money by streaming the live feed from the hidden cam. Too bad I don't really know how to set everything up. Maybe I should look it up on the web?"
+    new "Ecco un'idea: potrei guadagnare un po' di soldi in streaming dalla diretta della telecamera nascosta. Peccato che non so proprio come configurare il tutto. Forse dovrei cercarlo sul web?"
 
 
     old "Итак, я внимательно прочитал книгу Web Standards и разобрался как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
-    new "Well, I've read Web Standards and figured out how to set up my website. I guess that should be my starting point. I'll need some money to acquire a domain, hosting and design template. $100 should do."
+    new "Beh, ho letto Web Standards e ho capito come impostare il mio sito web. Immagino che questo dovrebbe essere il mio punto di partenza. Avrò bisogno di soldi per acquisire un dominio, hosting e modello di design. $100 dovrebbe dastare."
 
 
     old "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход от рекламных баннеров. Сделать это можно с помощью вложений в рекламу своего сайта. Кроме того, если в кадре происходит что-то интересное, аудитория также растёт."
-    new "Finally, I have my own streaming website! Now I need to increase the size of my audience to earn more money. And for that I need to advertise my website somewhere. My audience should grow when something exciting happens on stream."
+    new "Finalmente, ho il mio sito di streaming! Ora ho bisogno di aumentare le dimensioni del mio pubblico per guadagnare più soldi. E per questo ho bisogno di pubblicizzare il mio sito da qualche parte. Il mio pubblico dovrebbe crescere quando succede qualcosa di eccitante in stream."
 
 
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "{i}{b}Attention:{/b} You've reached the end of this opportunity in the current version of the game.{/i}"
+    new "{i}{b}Attenzione:{/b} Hai raggiunto la fine di questa opportunità nella versione attuale del gioco.{/i}"
 
 
     old "Наставник"
-    new "Mentor"
+    new "Mentore"
 
 
     old "Кажется, Лиза совсем ничего не знает о мальчиках. Возможно, она даже порно ни разу не видела, раз так удивилась обычному утреннему стояку. Может быть, стоит заняться просветительской деятельностью среди своей младшей сестрёнки? Но с чего начать? Поговорить?"
-    new "Looks like Lisa doesn't know anything about male anatomy. She was so surprised by my morning wood, she's probably never even seen porn. Maybe I should help educate her. I'll start by bringing it up in conversation."
+    new "Sembra che Lisa non sappia nulla di anatomia maschile. Era così sorpresa dal mio alzabandiera mattutino, probabilmente non ha mai visto un porno. Forse dovrei aiutare e istruirla. Inizierò riaprendi il discorso in una conversazione."
 
 
     old "Я поговорил с Лизой и стало ясно, что для того, чтобы чему-то учить, нужно сначала завоевать авторитет."
-    new "I talked to Lisa and she doesn't seem to respect me enough to listen, I need to fix that before continuing with my lessons."
+    new "Ho parlato con Lisa e lei non sembra rispettarmi abbastanza per ascoltarmi, ho bisogno di risolvere questo problema prima di continuare con le mie lezioni."
 
 
     old "Лиза снова увидела мой утренний стояк. На этот раз маму она не позвала, что уже хорошо. Хотя, смотрела она на мой член не только с подозрением, но ещё и с интересом. По крайней мере, мне так показалось. Думаю, нужно с ней об этом поговорить..."
-    new "Lisa saw my morning wood again. This time she didn't call Mom, which is good. I feel like she was staring at my cock with something other than suspicion this time... I think I should talk to her about it..."
+    new "Lisa ha visto di nuovo il mio alzabandiera. Questa volta non ha chiamato la mamma, bene. Mi sembra che stesse fissando il mio cazzo con qualcosa di diverso dal sospetto questa volta... Penso che dovrei parlarle di questo..."
 
 
     old "Это, конечно, не точно, но Лиза хотела потрогать мой член, думая, что я спал. И судя по её реакции на то, что я это увидел, даже она сама с себя удивилась. Посмотрим, что она потом об этом скажет..."
-    new "Curiosity got the better of her. I caught Lisa trying to touch me thinking I was asleep. Judging from her reaction, she was just as surprised as I was. Let's see what she has to say about it later..."
+    new "Curiosità ha ottenuto il meglio da lei. Ho beccato Lisa che cercava di toccarmi pensando che stessi dormento. A giudicare dalla sua reazione, era altrettanto sorpresa come me. Vediamo cosa ha da dirmi su questo più tardi..."
 
 
     old "Похоже, интерес Лизы к противоположному полу и всему, что связано со взрослой жизнью, растёт не по дням, а по часам. Не знаю уж, мой стоящий по утрам член так её раззадорил или ещё что-то, но она согласилась меня слушаться по вопросам о мальчиках и всем этим взрослым штучкам... Вот только прежде, чем учить, может быть стоит самому чему-то научиться? А самое главное - при этом ничего не испортить, а то она снова откажется..."
-    new "It seems that Lisa's interest in the opposite sex and everything related to adult life is growing by leaps and bounds. I'm not sure how much my morning wood stirred all this excitement, but she agreed to listen to me on questions about boys and all that adult stuff... But before you teach, maybe you should learn something yourself? The most important thing is not to push too far..."
+    new "Sembra che l'interesse di Lisa per il sesso opposto e tutto ciò che riguarda la vita adulta sta crescendo con alti e bassi. Non sono sicuro di quanto l'alza bandiera abbia mescolato tutta questa eccitazione, ma ha accettato di ascoltarmi sulle domande sui ragazzi e su tutta quella roba per adulti... Ma prima di insegnare, forse dovrei imparare qualcosa da solo? La cosa più importante è non spingermi troppo oltre..."
 
 
     old "Итак, Лиза поинтересовалась, чему же я собираюсь её учить. И сразу же поставила меня в глупую ситуацию. Я вроде бы должен её учить, но сам не умею даже целоваться! Нужно срочно найти кого-то, кто бы мне помог в этом... Да, легко сказать..."
-    new "So, Lisa asked me what I was going to teach her, and she immediately put me in a sticky situation. I'm supposed to teach her how to kiss, but what do I know?! I need to find someone to help me with this right now... Maybe easier said than done..."
+    new "Così, Lisa mi ha chiesto cosa stavo per insegnarle, e mi ha immediatamente messo in una situazione scomoda. Dovrei insegnarle a baciare, ma che cosa ne so io?! Ho bisogno di trovare qualcuno per aiutarmi con questo adesso... Forse più facile dire che fare..."
 
 
     old "Кажется, я нашёл ту, которая научит меня целоваться. И это... моя тётя! Это так странно... Ну она точно в этом вопросе понимает достаточно. Да я был бы рад любому учителю, но такой - идеален! Да, тётя Кира сказала, что лучше об этом поговорить в более интимной обстановке. Например, когда она ночью смотрит телек."
-    new "I think I've found someone who can teach me how to kiss. My aunt! This is so strange... Well, she certainly knows enough about the topic. I'd be happy with any teacher, but this is better than what I expected! Aunt Kira said it would be better to talk about this in a more intimate setting. For example, when she's watching TV at night."
+    new "Penso di aver trovato qualcuno che mi possa insegnare a baciare. Mia zia! Questo è così strano... Beh, di sicuro ne sa abbastanza sull'argomento. Sarei felice con qualsiasi insegnante, ma questo è meglio di quello che mi aspettavo! Zia Kira ha detto che sarebbe meglio parlarne in un'ambientazione più riservato. Ad esempio, quando sta guardando la TV di notte."
 
 
     old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
-    new "Aunt Kira is an excellent kissing teacher! She agreed to tutor me. Who knows, maybe it will lead to something else?\n\nI just need to keep the practice up, and pass my knowledge on to Lisa... But she might still need some convincing..."
+    new "Zia Kira è un eccellente insegnante di bacio! Ha accettato di insegnarmi. Chissà, forse porterà a qualcos'altro?\n\nHo solo bisogno di continuare ad esercitarmi, e trasmettere la mia conoscenza a Lisa... Ma potrebbe ancora avere bisogno di qualche motivo convincente..."
 
 
     old "Я поговорил с Лизой насчёт её обучения. Она выдвинула ряд условий, среди которых запрет мне к ней прикасаться, если она против. Ну уже что-то."
-    new "I spoke to Lisa about her training. She put forward a number of conditions, including no touching her without permission. Well, at least it's a start."
+    new "Ho parlato a Lisa del suo allenamento. Ha presentato una serie di condizioni, tra cui non toccarla senza permesso. Beh, almeno è un inizio."
 
 
     old "Похоже обучаться Лиза согласна только если у неё хорошее настроение..."
-    new "It seems that Lisa only agrees to learn when she's in a good mood..."
+    new "Sembra che Lisa accetti di imparare solo quando è di buon umore..."
 
 
     old "Мне удалось впечатлить Лизу своим искусством целоваться! Хотя, пока на искусство это не тянет, но ей понравилось! Всё-таки, тётя Кира отличный учитель. Но нужно продолжать практиковаться."
-    new "I managed to impress Lisa with my kissing skills! I think I have a way to go, but she still liked it! Aunt Kira really is a great teacher. I should keep practicing. "
+    new "Sono riuscito a impressionare Lisa con le mie abilità nel bacio! I think I have a way to go, but she still liked it! Zia Kira è davvero una brava insegnante. Dovrei continuare a esercitarmi. "
 
 
     old "Лиза намекнула, что не против двигаться дальше и я решил увлечь её поцелуями настолько, чтобы ей нравились при этом и мои прикосновения. А для этого нужно больше целоваться с тётей Кирой по ночам..."
-    new "Lisa appears to be getting a lot more receptive to being touched. I think I'm onto something. I'd better do some more practice with Kira."
+    new "Lisa appears to be getting a lot more receptive to being touched. I think I'm onto something. Farei meglio a fare un altro po' di pratica con Kira."
 
 
     old "Лизе очень нравится как я целуюсь. Она даже намекнула, что пора бы научить её ещё чему-то полезному. На этот раз, как мне кажется, стоит подтянуть теорию. Может быть, купить ей какую-то книжку по анатомии, чтобы она разобралась в физиологии и поняла, какие естественные процессы могут происходить между мужчинами и женщинами?"
-    new "Lisa really likes the way I kiss her. She even hinted that she might be interested in learning something more advanced. It's time to test my theory. Maybe I should buy her an anatomy book so she could learn more about the natural proccesses that happen between men and women?"
+    new "A Lisa piace davvero il modo in cui la bacio. Ha persino intuito che potrebbe essere interessata ad imparare qualcosa di più avanzato. È ora di mettere alla prova la mia teoria. Forse dovrei comprarle un libro di anatomia in modo che può imparare di più sui processi naturali che accadono tra gli uomini e le donne?"
 
 
     old "Я решил, что и мне самому будет полезно прочитать купленную для Лизы книгу. Вдруг, тем самым, я что-то для себя интересное открою..."
-    new "I decided that it would be useful for me to read the book I bought for Lisa. Maybe I'll learn something interesting for myself?"
+    new "Ho deciso che mi sarebbe utile leggere il libro che ho comprato per Lisa. Forse imparerò qualcosa di interessante per me?"
 
 
     old "Книга прочитана! Не то, чтобы много всего нового я для себя открыл, но есть то, что может помочь нам с Лизой ещё больше сблизиться. А пока можно ей книжку подарить..."
-    new "I finished the book! I didn't actually learn anything new, but I did notice something that could help Lisa and I get closer. In the meantime, I should give her the book."
+    new "Ho finito il libro! In realtà non ho imparato niente di nuovo, ma ho notato qualcosa che potrebbe aiutare Lisa e avvicinarmi. Nel frattempo le dovrei dare il libro."
 
 
     old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Нужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
-    new "I gave Lisa the book, which will hopefully answer some of her more perverted questions. I'll have to ask her what she thinks after I give her some time to read it."
+    new "Ho dato a Lisa il libro, spero che risponderà ad alcune delle sue domande più perverse. Dopo averle dato un po' di tempo per leggerlo, dovrò chiederle cosa ne pensa."
 
 
     old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
-    new "I gave Lisa a book that should answer some of her questions. Yes, it would be useful for me to read it myself, but I'm too lazy.\n\n\\I will need to ask after a while what she thinks about this book..."
+    new "Ho dato a Lisa un libro che dovrebbe rispondere ad alcune delle sue domande. Sì, sarebbe utile per me leggerlo da solo, ma sono troppo pigro.\n\n\\Dopo un po' dovrò chiedere cosa pensa di questo libro..."
 
 
     old "Особые книги"
@@ -724,43 +724,43 @@ translate english strings:
 
 
     old "Алиса читает какие-то книги, но не хочет говорить о них. На порно журналы не похоже... Что же ещё там может быть? Нужно попытаться выяснить это как можно скорее... Любопытно же!"
-    new "Alice won't tell me what book she's reading. It doesn't look like porn, what could it possibly be? I should investigate."
+    new "Alice non mi dirà quale libro sta leggendo. Non sembra un porno, cosa potrebbe essere? Dovrei indagare."
 
 
     old "Я нашёл какую-то книгу, но из названия ничего не понятно, а читать саму книгу ни времени, ни желания нет. Может быть, поискать о ней информацию в интернете?"
-    new "I've found a book, but I don't recognise the name and I don't want to waste my time reading it. I should look it up on the web."
+    nuovo "Ho trovato un libro, ma non riconosco il nome e non voglio perdere tempo a leggerlo. Dovrei cercarlo sul web."
 
 
     old "Вот это да! Я был не так далёк от истины. Конечно, это не порно, но уж точно эротика, да ещё какая! Видимо, Алисе нравятся любовные романы с эротическими оттенками, так сказать. Может быть, стоит ей подарить подобную книгу и посмотреть на её реакцию?"
-    new "Wow, I was almost right! It's not porn, but it's definitely erotica, and it's not the soft type either! I guess Alice likes love stories with an erotic touch. Maybe I should gift her something like it?"
+    new "Wow, avevo quasi ragione! Non è un porno, ma è sicuramente erotica, e non è nemmeno il tipo morbido! Immagino che ad Alice piacciono le storie d'amore con un tocco erotico. Forse le dovrei regalare qualcosa del genere?"
 
 
     old "Судя по реакции Алисы, подарок ей понравился. Видимо, стоит периодически заходить в книжный интернет-магазин и смотреть новинки. Возможно, таким образом удастся чуть-чуть улучшить отношения с Алисой."
-    new "Judging by her reaction she liked my present. I should frequent the e-book store every once in a while to look for new releases. "
+    new "A giudicare dalla sua reazione le è piaciuto il mio regalo. Dovrei controllare il negozio di e-book ogni tanto per cercare nuove versioni. "
 
 
     old "Одноклассник"
-    new "Schoolmate"
+    new "Compagno scuola"
 
 
     old "Очевидно, Лиза по уши влюблена в какого-то своего одноклассника по имени Алекс. Как она рассказала, у него есть подруга Оливия, самая красивая девочка в школе. Лиза ждёт от меня помощи в виде совета - как ей быть дальше.\n\nВ голову приходит сразу три варианта: предложить ей забыть об этом парне, предложить ей сражаться с Оливией за Алекса до конца или же помочь переключить внимание Оливии на кого-то другого..."
-    new "Lisa is obviously in love with her schoolmate Alex. She told me he has a girlfriend - Olivia, the most beautiful girl in the school. I can help Lisa by suggesting her next step.\n\nI can see three options: Tell her to forget all about him, fight with Olivia over him, or maybe we could channel Olivia's attention onto someone else..."
+    new "Lisa è ovviamente innamorata del suo compagno Alex. Mi ha detto che ha una fidanzata - Olivia, la ragazza più bella della scuola. Posso aiutare Lisa suggerendo il suo prossimo passo.\n\nHo tre opzioni: Dille di dimenticare tutto di lui, combattere per lui con Olivia, o forse potremmo incanalare l'attenzione di Olivia su qualcun altro..."
 
 
     old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "Oh, and it looks like Lisa only talks about him when she's in a good mood... \n\n{i}{b}Attention:{/b} You've reached the end of this opportunity in the current version of the game.{/i}"
+    new "Oh, e sembra che Lisa parli solo di lui quando è di buon umore... \n\n{i}{b}Attenzione:{/b} Hai raggiunto la fine di questa opportunità nella versione attuale del gioco.{/i}"
 
 
     old "Я предложил Лизе забыть о её парне и, похоже, она прислушалась к моему совету. Конечно, она расстроилась, но может быть это и к лучшему? Возможно, она сосредоточит своё внимание на ком-то, кто всегда рядом?"
-    new "I told Lisa to forget about Alex and she followed my advice. She's very upset, but maybe it's for the best? Maybe now she'll focus her attention on someone she knows a little better?"
+    new "Ho detto a Lisa di dimenticare Alex e ha seguito i miei consigli. È molto sconvolta, ma forse è meglio così? Forse ora concentrerà la sua attenzione su qualcuno che conosce un po' meglio?"
 
 
     old "Я убедил Лизу, что нужно бороться за своё счастье. Осталось только разработать план и достичь поставленной цели!"
-    new "I convinced Lisa she should fight for her happiness. Now I just have to come up with a plan and reach this goal!"
+    new "Ho convinto Lisa che dovrebbe lottare per la sua felicità. Ora devo solo elaborare un piano e raggiungere questo obiettivo!"
 
 
     old "Я разработал хитрый план, который сделает всех счастливыми: Лиза должна подужиться с Оливией, стать её лучшей подругой, познакомить её со мной, а я её соблазню... Ну, попытаюсь. Но если получится, то у меня будет девушка, а у Лизы её Алекс. Отличный план! Вот только как соблазняют самых красивых девочек школы?"
-    new "I've come up with an idea that would make everyone happy. Lisa will have to befriend Olivia, introduce me and then I'll seduce her... Well, I'll try. But if I succeed I'll get a girlfriend and Lisa will get Alex. Great plan! Now, how would one go about seducing the prettiest girl in school?"
+    new "Ho trovato un'idea che renderebbe tutti felici. Lisa dovrà fare amicizia con Olivia, presentarmi e poi la sedurrò... Beh, ci proverò. Ma se ho successo otterrò una ragazza e Lisa otterrà Alex. Ottimo piano! Ora, come si seduce la ragazza più carina della scuola?"
 
 
     old "Блог"
@@ -768,15 +768,15 @@ translate english strings:
 
 
     old "Алиса рассказала о своём блоге и о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. Кажется, она согласна на любую помощь и идеи, даже от меня! Может быть, посидеть в интернете, поискать какое-то решение?"
-    new "Alice has told me about her blog and the \"lack of clothes\" problem. Now she has nothing to show, nothing to wear in the blog and she's heartbroken. She's desperate for any kind of help, even from me! Maybe I should look on the web for solutions?"
+    new "Alice mi ha parlato del suo blog e del problema della \"mancanza di vestiti\". Ora non ha niente da mostrare, niente da indossare per il blog e lei è affranta. È disperata, cerca qualsiasi tipo di aiuto, anche da me! Forse dovrei cercare sul web una soluzione?"
 
 
     old "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды... Может быть, поговорить с ней об этом?"
-    new "After conducting extensive research on the internet, I made a shocking discovery. All of the most popular bloggers are female! Furthermore, their popularity appears to be closely correlated with the skimpiness of their outfits and size of their breasts. Now, there's not much I can do about Alices boobs, but some sexier outftits... Should I talk to her about it?"
+    new "Dopo aver condotto ampie ricerche su internet, ho fatto una scoperta scioccante. Tutti i blogger più popolari sono femminili! Inoltre, la loro popolarità sembra essere strettamente correlata con la scollatura dei loro abiti e le dimensioni del loro seno. Ora, non c'è molto che posso fare sulle tette di Alice, ma qualche qualche abito più sexy... Dovrei parlarne con lei?"
 
 
     old "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается, так что покрутит сама того не зная, когда я поставлю скрытую камеру в её комнату. Как знать, сколько всего интересного можно будет увидеть..."
-    new "I discussed my conclusions with Alice and suggested she shouldn't just advertise creams and cosmetics, but also lingerie, for instance. But she's not going to put on a show just yet. At least, not knowingly. I wonder what a well-placed hidden camera in her room might reveal?"
+    new "Ho discusso le mie conclusioni con Alice e le ho suggerito che non dovrebbe solo pubblicizzare creme e cosmetici, ma anche lingerie, per esempio. Ma non inserirà ancora uno spettacolo. Almeno, non consapevolmente. Mi chiedo che cosa potrebbe rivelare una telecamera nascosta ben posizionata nella sua stanza?"
 
 
     old "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается... А зря, ведь она и так уже это делает на скрытую камеру, которую я поставил в её комнате. Как знать, может мне удастся увидеть что-то, чего ещё не было..."
@@ -1204,7 +1204,7 @@ translate english strings:
 
 
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! В обмен на возможность подглядывать за этим процессом и кое-каким бонусом, с которым мне нужно будет определиться со временем, я согласился его поддержать. Мы же с ним как-никак \"друзья\"."
-    new "Eric stepped in as soon as I gave Lisa a book on sex ed. Mom has decided to join him, now they're both taking over her sex education! I agreed to help Eric so he'd let me spy on the process, as well as some other perks we're yet to agree on. Let's see where this goes, we are \"friends\" after all."
+    new "Eric è intervenuto non appena ho dato a Lisa un libro sul educazione al sesso. La mamma ha deciso di unirsi a lui, ora stanno prendendo in mano la sua educazione sessuale! Ho accettato di aiutare Eric in modo che mi avrebbe lasciato spiare, così come alcuni altri vantaggi che dobbiamo ancora concordare. Let's see where this goes, we are \"friends\" after all."
 
 
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! В обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
@@ -1244,7 +1244,7 @@ translate english strings:
 
 
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом и кое-каким бонусом, с которым мне нужно будет определиться со временем, я согласился его поддержать. Мы же с ним как-никак \"друзья\"."
-    new "As soon as I gave Lisa a book on sex education, Eric showed up. He and Mom are going to take up her sexual education! \n\nIn exchange for the opportunity to spy on this process and some undecided bonus, I agreed to help. We are \"friends\" after all."
+    new "Appena ho dato a Lisa un libro sull'educazione sessuale, si è presentato Eric. Lui e la mamma stanno per prendere in mano la sua istruzione sessuale! \n\nIn cambio della possibilità di spiare e qualche bonus indeciso, ho accettato di aiutare. Siamo \"amici\" dopo tutto."
 
 
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
