@@ -4,13 +4,13 @@
 translate english AfterWaiting_c2510a45:
 
 
-    Max_00 "I'm too tired. I should take a nap..."
+    Max_00 "Sono troppo stanco. Dovrei fare un pisolino..."
 
 
 translate english night_of_fun_cae91685:
 
 
-    Max_19 "Now I can sleep in peace..."
+    Max_19 "Ora posso dormire in pace..."
 
 
 translate english cam_after_waiting_6058d5d4:
