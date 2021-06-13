@@ -4,19 +4,19 @@ translate english strings:
 
 
     old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение..."
-    new "Yes, and it seems that Lisa only talks about him when she's in a good mood..."
+    new "Sì, e sembra che Lisa parli solo di lui quando è di buon umore..."
 
 
     old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает..."
-    new "It's true that Lisa was a little offended by me, but I can live with that. I'll give her a sweet treat and she'll thaw..."
+    new "È vero che Lisa si è un po 'offeso, ma posso vivere con questo peso. Le darò un dolce e così si scioglierà..."
 
 
     old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает."
-    new "I doubt that I can set her up now, she has too much mistrust for me."
+    new "Dubito di poterle dare lezioni ora, ha troppa sfiducia in me."
 
 
     old "На этот раз Лиза не стала просить сладости или одежду... Она решила \"наказать меня\" совместным просмотром фильмов перед сном! Всё бы ничего, да смотреть мы будем романтические фильмы... Остаётся надеяться, что это будет терпимо, потому что глазеть на принимающую душ Лизу я люблю."
-    new "This time Lisa didn't ask for candy or clothes... She decided to \"punish me\" by watching movies together before bed! That would be all right, but we're going to watch romantic movies... We can only hope that it will be tolerable, because I love to watch Lisa taking a shower."
+    new "Questa volta Lisa non ha chiesto caramelle o vestiti... Ha deciso di \"punirmi\" guardando i film insieme prima di andare a letto! Sarebbe tutto perfetto, ma guardiano film romantici... Possiamo solo sperare che sia tollerabile, perché amo guardare Lisa farsi la doccia."
 
 
     old "Затея Лизы с просмотром романтики оказалась лучше, чем я думал! По крайней мере для меня. Сестрёнка в нижнем белье со мной рядом в одной постели! А на экране ещё и откровенные сцены мелькают, да такие, что у меня встал! Лизу это как-то не обрадовало, но посмотрим, что будет дальше..."
