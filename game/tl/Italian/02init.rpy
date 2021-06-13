@@ -12,11 +12,11 @@ translate english strings:
 
 
     old "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
-    new "{color=#00FF00}{i}You are undetected!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Non sei stato rilevato!{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
-    new "{color=#E59400}{i}You've been spotted!{/i}{/color}\n"
+    new "{color=#E59400}{i}Sei stato visto!{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
@@ -36,11 +36,11 @@ translate english strings:
 
 
     old "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
-    new "{color=#00FF00}{i}Managed to hold back{/i}{/color}\n"
+    new "{color=#00FF00}{i}Adesso è possibile tornare in dietro{/i}{/color}\n"
 
 
     old "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
-    new "{color=#E59400}{i}Couldn't hold back{/i}{/color}\n"
+    new "{color=#E59400}{i}Impossibile tornare indietro{/i}{/color}\n"
 
 
     old "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
@@ -108,11 +108,11 @@ translate english strings:
 
 
     old "Управление"
-    new "Controls"
+    new "Controlli"
 
 
     old "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\nF5 - сохранить, F8 - загрузить.\n\n\nКроме того, во время диалогов работают клавиши 1... 9 для различных вариантов ответов. Если вариант всего один, можно нажимать клавишу [[Space].\n\n\nДля переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\nОтключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\nЭто очень удобно, если область диалогов скрывает интересную часть изображения..."
-    new "È possibile utilizzare la tastiera per controllare questo gioco. You can save at any time. Scorciatoie predefinite:\nF5 - salva, F8 - carica.\n\n\nInoltre, puoi usare i tasti 1... 9 nelle finestre di dialogo per selezionare una risposta. Se esiste una sola opzione, utilizzare [[Space].\n\n\n Per cambiare stanza, puoi usare le chiavi 1-7\n\n\nPuoi nascondere temporaneamente l'interfaccia del gioco premendo [[ ` ], [[ h ] o premendo il tasto centrale del mouse.\nÈ molto utile quando nasconde qualcosa sullo schermo..."
+    new "È possibile utilizzare la tastiera per controllare questo gioco. È possibile salvare in qualsiasi momento. Scorciatoie predefinite:\nF5 - salva, F8 - carica.\n\n\nInoltre, puoi usare i tasti 1... 9 nelle finestre di dialogo per selezionare una risposta. Se esiste una sola opzione, utilizzare [[Space].\n\n\n Per cambiare stanza, puoi usare le chiavi 1-7\n\n\nPuoi nascondere temporaneamente l'interfaccia del gioco premendo [[ ` ], [[ h ] o premendo il tasto centrale del mouse.\nÈ molto utile quando nasconde qualcosa sullo schermo..."
 
 
     old "Возможности"
@@ -196,7 +196,7 @@ translate english strings:
 
 
     old "Насчёт этого случая утром..."
-    new "About that time in the morning..."
+    nee "A proposito di quella mattina..."
 
 
     old "Хотел поговорить о Большом Максе..."
@@ -212,7 +212,7 @@ translate english strings:
 
 
     old "Ну как, ты подумала о моих условиях?"
-    new "So, have you thought about my terms?"
+    nee "Quindi, hai pensato alle miei condizioni?"
 
 
     old "Помочь с уроками?"
@@ -228,11 +228,11 @@ translate english strings:
 
 
     old "У меня для тебя обещанная вкусняшка!"
-    new "I've got something yummy that I promised you!"
+    new "Ho qualcosa di delizioso che ti ho promesso!"
 
 
     old "У тебя странный вид..."
-    new "You look a little strange..."
+    new "Sembri un po' strana..."
 
 
     old "Может всё-таки поделишься своими переживаниями по поводу Алисы?"
@@ -240,7 +240,7 @@ translate english strings:
 
 
     old "Массаж рук заказывала?"
-    new "Did you order a hand massage?"
+    new "Hai richiesto un massaggio a mano?"
 
 
     old "Насчёт ванны ночью..."
@@ -312,7 +312,7 @@ translate english strings:
 
 
     old "Эрик, мы же договорились!"
-    new "Eric, we had a deal!"
+    new "Eric, avevamo un accordo!"
 
 
     old "Одежда"
@@ -416,7 +416,7 @@ translate english strings:
 
 
     old "Что новенького было на уроке?"
-    new "What have you been learning from your lessons?"
+    new "Cosa hai imparato dalle tue lezioni?"
 
 
     old "Что нового мама с Эриком тебе рассказали?"
@@ -436,7 +436,7 @@ translate english strings:
 
 
     old "Так когда будем снова фотографироваться, тётя Кира?"
-    new "So when are we doing another photo-shoot?"
+    new "Così quando facciamo un altro foto-shoot?"
 
 
 translate english strings:
@@ -517,11 +517,11 @@ translate english strings:
 
 
     old "Я хотел спросить про тот случай из детства мамы..."
-    new "I wanted to ask about that incident from Mom's childhood..."
+    new "Volevo chiederti di quell'incidente di infanzia della mamma..."
 
 
     old "Расскажи уже про тот случай из детства мамы..."
-    new "Tell me about that incident from Mom's childhood..."
+    new "Dimmi di quell'incidente di infanzia della mamma..."
 
 
     old "Мам, я купил тебе одежду полегче!"
@@ -537,7 +537,7 @@ translate english strings:
 
 
     old "Есть успехи с Оливией?"
-    new "Any luck with Olivia?"
+    new "Hai avuto fortuna con Olivia?"
 
 
     old "Что-нибудь узнала про Оливию?"
@@ -569,7 +569,7 @@ translate english strings:
 
 
     old "Пошепчемся немного о моей сестрёнке?"
-    new "Let's have a little chat about my sister, shall we?"
+    new "Facciamo una piccola chiacchierata su mia sorella, lo faremo?"
 
 
     old "Что новенького, Оливия?"
@@ -577,7 +577,7 @@ translate english strings:
 
 
     old "Рад тебя видеть, Оливия!"
-    new "Good to see you, Olivia!"
+    new "Bello vederti, Olivia!"
 
 
 
