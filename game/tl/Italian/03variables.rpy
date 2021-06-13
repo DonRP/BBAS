@@ -288,7 +288,7 @@ translate english strings:
 
 
     old "КУПАЛЬНИК"
-    new "SWIMSUIT"
+    new "COSTUME"
 
 
     old "За уроками"
@@ -316,7 +316,7 @@ translate english strings:
 
 
     old "ВЫЙТИ\nИЗ ДОМА"
-    new "LEAVE\nTHE HOUSE"
+    new "ESCI\nDA CASA"
 
 
     old "ПОИГРАТЬ\nС ЛИЗОЙ"
@@ -328,7 +328,7 @@ translate english strings:
 
 
     old "УСТАНОВИТЬ\nКАМЕРУ"
-    new "INSTALL\nCAMERA"
+    new "INSTALLA\nTELECAMERA"
 
 
     old "СПРЯТАТЬ\nПАУКА"
@@ -336,23 +336,23 @@ translate english strings:
 
 
     old "БРОСИТЬ\nПАУКА"
-    new "THROW\nSPIDER"
+    new "GETTA\nRAGNO"
 
 
     old "ИСКАТЬ\nПАУКОВ"
-    new "LOOK FOR\nSPIDERS"
+    new "CERCA\nRAGNO"
 
 
     old "ИСКАТЬ\nСИГАРЕТЫ"
-    new "LOOK FOR\nCIGARETTES"
+    new "CERCA\nSIGARETTE"
 
 
     old "ИСКАТЬ\nКНИГУ"
-    new "LOOK FOR\nBOOK"
+    new "CERCA\nLIBRO"
 
 
     old "ЧИСТИТЬ\nБАССЕЙН"
-    new "CLEAN\nPOOL"
+    new "PULISCI\nPISCINA"
 
 
     old "ЧИТАТЬ"
@@ -360,7 +360,7 @@ translate english strings:
 
 
     old "ИСКАТЬ\nКАМЕРУ"
-    new "LOOK FOR\nCAM"
+    new "CERCA\nTELECAMERA"
 
 
     old "РАЗОБРАТЬ\nКОРОБКИ"
@@ -424,7 +424,7 @@ translate english strings:
 
 
     old "КУПАЛЬНИК КРАСНЫЙ"
-    new "RED SWIMSUIT"
+    new "BIKINI ROSSO"
 
 
     old "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
@@ -720,7 +720,7 @@ translate english strings:
 
 
     old "Особые книги"
-    new "Special books"
+    new "Libri speciali"
 
 
     old "Алиса читает какие-то книги, но не хочет говорить о них. На порно журналы не похоже... Что же ещё там может быть? Нужно попытаться выяснить это как можно скорее... Любопытно же!"
@@ -780,43 +780,43 @@ translate english strings:
 
 
     old "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается... А зря, ведь она и так уже это делает на скрытую камеру, которую я поставил в её комнате. Как знать, может мне удастся увидеть что-то, чего ещё не было..."
-    new "I discussed my conclusions with Alice and suggested she shouldn't just advertise creams and cosmetics, but also lingerie, for instance. Even though she might not be willing to put on a show, she's been giving me one anyway thanks to the hidden camera in her room. I should check it again now that we've had this conversation."
+    new "Ho discusso le mie conclusioni con Alice e le ho suggerito che non dovrebbe solo pubblicizzare creme e cosmetici, ma anche lingerie, per esempio. Anche se potrebbe non essere disposta a mettersi in mostra, me ne sta dando uno comunque grazie alla telecamera nascosta nella sua stanza. Dovrei controllare di nuovo ora che abbiamo avuto questa conversazione."
 
 
     old "Я решил снова предложить Алисе идею по развитию её блога - рекламировать нижнее бельё. Удивительно, но она согласилась! Правда, теперь мне нужно найти нижнее бельё для того, чтобы она заинтересовала свою аудиторию и привлекла внимание рекламодателей..."
-    new "I reminded Alice of the idea to advertise lingerie on her blog, and surprisingly, she agreed! I should find her something sexy to wear. Something that can really get peoples attention..."
+    new "Ho ricordato ad Alice l'idea di pubblicizzare lingerie sul suo blog, e sorprendentemente ha accettato! Le dovrei trovare qualcosa di sexy da indossare. Qualcosa che può davvero attirare l'attenzione del publico..."
 
 
     old "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Правда, увидеть мне ничего не удалось, только Алису уже в этом самом белье, но даже это было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
-    new "I gave Alice a cute set of underwear. She really liked it. However, I didn't get to see anything. She was wearing it before I got a chance to watch, but even that was exciting... But the interesting thing was... She hinted I could try looking for something more sexual!"
+    new "Ho dato ad Alice un set carino di biancheria intima. Le è davvero piaciuto. Tuttavia, non sono riuscito a vedere nulla. Si è vestita velocemente senza darmi la possibilità di guardare, ma è stato lo stesso eccitante... Ma la cosa interessante è stata... Ha accennato che potrei provare a cercare qualcosa di più sexy!"
 
 
     old "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Она даже при мне его примерила! Увидел я не так чтобы много всего, но было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
-    new "I gave Alice a cute set of underwear. She really liked it. I even got to watch her try it on! That was exciting... But the interesting thing was... She hinted I could try looking for something more sexual!"
+    new "Ho dato ad Alice un set carino di biancheria intima. Le è davvero piaciuto. Ho anche avuto modo di vederla provarselo! È stato eccitante... Ma la cosa interessante è stata... Ha accennato che potrei provare a cercare qualcosa di più sexy!"
 
 
     old "Купальник"
-    new "Swimsuit"
+    new "Bikini"
 
 
     old "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
-    new "I noticed Lisa is always wearing the same one-piece swimsuit. How is she supposed to tan in that? She agrees, but she doesn't have anything else to wear, everything got lost when we moved. Maybe I can help her out somehow?"
+    new "Ho notato che Lisa indossa sempre lo stesso costume da bagno monopezzo. Come dovrebbe abbronziarsi in questo? Lei è d'accordo, ma non ha altro da indossare, si è perso tutto quando ci siamo trasferiti. Forse posso aiutarla in qualche modo?"
 
 
     old "Во время завтрака Лиза намекнула маме, что нужно бы купить во время шоппинга купальник, который не скрывает половину тела и в котором можно загорать..."
-    new "At breakfast Lisa hinted to Mom that she needs a new swimsuit so she can tan."
+    new "A colazione Lisa ha accennato alla mamma che ha bisogno di un nuovo costume da bagno in modo che possa abbronzarsi."
 
 
     old "Выяснилось, что во время последнего шоппинга забыли купить Лизе купальник, о котором она просила. Теперь придётся ждать до следующих выходных, когда Эрик снова повезёт всех за покупками. Но в этот раз сам Эрик пообещал ей подарить этот купальник. Может быть, его опередить?"
-    new "Mom forgot to buy a new swimsuit for Lisa. Now she has to wait until next weekend when Eric will take everyone shopping. This time Eric promised to buy one himself. I should beat him to it!"
+    new "Mamma si è dimenticata di acquistare un nuovo costume da bagno per Lisa. Ora dovrà aspettare fino al prossimo weekend, quando Eric porterà tutte a fare shopping. Questa volta Eric ha promesso che ne comprerà uno lui. Dovrei batterlo su questo!"
 
 
     old "Мне удалось накопить немного денег и купить тот самый купальник, который так хотела Лиза. Кажется, она меня любит! А Эрик теперь обломается со своими подарками, ведь я уже подарил то, что так хочет младшая сестрёнка!"
-    new "I got enough money to buy Lisa the swimsuit she wanted. I think she really appreciates it. And Eric can shove it."
+    new "Ho avuto abbastanza soldi per comprare a Lisa il bikini che voleva. Penso che lo apprezzi davvero. And Eric can shove it."
 
 
     old "Мне не удалось купить и подарить Лизе купальник до того, как это сделал для неё Эрик. Кажется, их отношения улучшились. Вот если бы я подарил тот чёртов купальник, то Лиза была бы мне очень благодарна, а не ему..."
-    new "I couldn't buy Lisa the swimsuit that she wanted before Eric. I think their relationship improved. Too bad I couldn't give her that stupid swimsuit so Lisa would be grateful of me."
+    new "Non posso comprare a Lisa il bikini che voleva, prima di Eric. Penso che la loro relazione sia migliorata. Peccato che non avrei potuto darle quello stupido bikini così Lisa sarebbe grato con me."
 
 
     old "Тусовщица"
@@ -824,39 +824,39 @@ translate english strings:
 
 
     old "Алиса настойчиво просит маму купить ей вечернее платье для посещения ночных клубов. Та ей регулярно отказывала, пока Эрик не предложил подарить ей платье во время следующего шоппинга. Нужно поспешить, если я хочу сделать это первым!"
-    new "Alice asked Mom for a new evening dress. Usually Mom would say no, but this time Eric said he'd buy her one on the next shopping trip. I should hurry if I want to beat him to it and give her the present myself."
+    new "Alice ha chiesto alla mamma un nuovo abito da sera. Di solito la mamma direbbe di no, ma questa volta Eric ha detto che l'avrebbe comprata uno la prossima che andranno a fare shopping. Dovrei sbrigarmi se voglio batterlo e farglielo io stesso."
 
 
     old "Мне удалось скопить приличную сумму и купить платье для Алисы. Теперь, нужно успеть его подарить ей, пока это не сделал кто-то другой..."
-    new "I managed to earn some money and buy a dress for Alice. Now I have to give it to her before Eric gets her one."
+    new "Sono riuscito a guadagnare un po' di soldi e a comprare un vestito per Alice. Ora devo darglielo prima che Eric ne compri uno."
 
 
     old "Вот что значит не везёт. Я долго копил на красивое короткое платье для Алисы и даже купил его, но меня опередил Эрик... И что самое обидное, он купил точно такое же, но подарил его первым. Теперь у меня есть бесполезное платье..."
-    new "Now this is bad luck. I've spent so much money on a beautiful short dress for Alice, but Eric has beaten me to it. And of course he picked the same one as me, so I can't just give mine to her."
+    new "Questa è sfortuna. Ho speso così tanti soldi per quel bellissimo abito corto per Alice, ma Eric mi ha battuto. E naturalmente ha scelto lo stesso che ho preso io, quindi non posso darle il mio."
 
 
     old "Вот что значит не везёт. Я долго копил на красивое короткое платье для Алисы, но меня опередил Эрик... Не удивительно. У него же куча денег. Он может себе позволить такие подарки... Кажется, теперь Алиса к нему относится гораздо лучше..."
-    new "Now this is bad luck. I tried so hard to buy that dress, but in the end it didn't even matter. Not surprising, Eric's loaded, he certainly can afford it. Now his relationship with Alice has improved."
+    new "Questa è sfortuna. Ho provato così tanto ad acquistare quel vestito, ma alla fine non importava nemmeno. Not surprising, Eric's loaded, he certainly can afford it. Ora la sua relazione con Alice è migliorata."
 
 
     old "Да, я сделал это! Мне удалось не только накопить на платье, но и подарить его до того, как нечто подобное сделал Эрик. А он собирался. С его то деньгами это не сложно... Теперь Алиса ко мне относится намного лучше. Ещё бы! Теперь она может ходить по ночным клубам..."
-    new "Yes! I did it! I've managed to give her the dress before Eric! Alice is grateful, now she can go clubbbing."
+    new "Sì! L'ho fatto! Sono riuscito a darle l'abito prima di Eric! Alice è grata, ora può andare in discoteca."
 
 
     old "Лиза рассказала мне по секрету кое-что интересное. Оказывается, Алиса не умеет пить. А точнее, капля алкоголя её меняет!"
-    new "Lisa told me a juicy secret. Turns out Alice can't hold her drinks. Or, more accurately, drinking drastically changes her behavior."
+    new "Lisa mi ha detto un segreto interessante. A quanto pare Alice non mantiene bene l'alcol. Oppure, più precisamente, bere cambia drasticamente il suo comportamento."
 
 
     old "Именно поэтому она и не соглашается ни на какие алкогольные напитки. Но, может быть, можно придумать что-то другое?"
-    new "Which is why she never drinks. Maybe I can come up with something?"
+    new "Ecco perché non beve mai. Forse posso inventarmi qualcosa?"
 
 
     old "Итак, у меня есть коробка конфет с ликёром. Судя по надписи на коробке, аромат утончённый. Это значит, есть шанс, что Алиса не заметит алкоголь. Интересно, этого хватит, чтобы её как-то подтолкнуть к этим... безбашенным поступкам?"
-    new "Well, I got myself a box of chocolate liqueurs. They should be subtle enough for sis to not notice any alcohol. I wonder if that would be enough for her to... Change."
+    new "Bene, ho preso una scatola di cioccolatini liquorosi. Dovrebbero essere abbastanza leggeri per mia sorella per non far notare l'alcol. Chissà se questo le basterebbe a... Cambiare."
 
 
     old "Всё получилось. И прошло как-то... слишком неожиданно. О таком даже не принято никому рассказывать. Видимо, лишняя капля алкоголя сорвала Алисе крышу и она напилась в ночном клубе. Ну что же, будем надеяться, что она сама ничего не помнит об этом, а иначе мне не жить..."
-    new "Everything worked out fine. And quite... Unexpectedly. Can't tell anyone about this. I guess Alice lost her inhibitions and got herself drunk at the club. Let's hope she won't remember anything, or I'm a goner..."
+    new "Tutto ha funzionato perfettamente. And quite... Unexpectedly. Non può dirlo a nessuno. I guess Alice lost her inhibitions and got herself drunk at the club. Speriamo che non si ricordi niente, o sono morto."
 
 
     old "Дым сигарет"
@@ -864,23 +864,23 @@ translate english strings:
 
 
     old "Оказалось, что Алиса курит. Причём, она старается это делать, когда дома никого нет. Это можно использовать... Рассказать маме самому или подставить Алису, чтобы мама сама догадалась... А может быть, всё это позволит наладить с Алисой отношения? Столько вариантов. Какой же выбрать?"
-    new "Turns out Alice is a smoker, trying to get one in when nobodys around. I could use this... I could tell Mom, or even frame Alice? Or maybe it could improve our relationship by keeping it a secret? So many options, what should I choose?"
+    new "Turns out Alice is a smoker, trying to get one in when nobodys around. Potrei sfruttarlo... Potrei dirlo a Mamma, o persino incastrare Alice? O forse potrebbei migliorare il nostro rapporto mantenendo il segreto? Così tante opzioni, cosa dovrei scegliere?"
 
 
     old "Мама всё узнала про сигареты и Алиса была наказана. Причём, серьёзно так, у всех на глазах, да по голой заднице. Что самое печальное - Алиса знает, что это я её сдал. Так что, она меня теперь ненавидит, наверное... Неизвестно, получится ли теперь завоевать её доверие..."
-    new "Mom learned about Alices habit and gave her a harsh punishment. Mom slapped her bare ass in front of everyone. Unfortunately, Alice knows I ratted her out so she probably hates me. I'm not sure if I'll ever earn her trust again."
+    new "La mamma ha scoperto le abitudini di Alice e le ha dato una dura punizione. La mamma ha schiaffeggiato il suo culo nudo di fronte a tutti. Unfortunately, Alice knows I ratted her out so she probably hates me. Non sono sicuro che riguadagnerò mai più la sua fiducia."
 
 
     old "Мама почувствовала сигаретный дым, но я не сдал Алису. Кажется, сестрёнка это оценила. Вот только что мешает её подставить, чтобы мама узнала об этом не от меня, а как бы сама что-то нашла? И я не при делах!\n\nА может быть, эта вредная привычка Алисы поможет мне улучшить с ней отношения?"
-    new "Mom noticed ciggarette smoke but I didn't rat Alice out. I could still frame Alice in a way that wouldn't implicate me.\n\n\nOr maybe I could improve my relationship with her?"
+    new "Mamma ha notato il fumo della siggaretto, ma non ho tradito Alice. I could still frame Alice in a way that wouldn't implicate me.\n\n\nOr maybe I could improve my relationship with her?"
 
 
     old "Школьница"
-    new "Schoolgirl"
+    new "Studentessa"
 
 
     old "Итак, в новой школе Лиза оказалась не такой отличницей, как раньше. Видимо, в новой школе уровень знаний требуется намного более высокий. Ну что же, это хорошая возможность проявить свои школьные знания и помочь младшей сестрёнке разобраться в материале... Или же наоборот, помешать получить хорошую оценку и понаблюдать, как мама её накажет? А может быть, попросить у неё что-то за помощь? Но сначала надо поговорить с Лизой и спросить, что она обо всём этом думает?"
-    new "Lisa's grades took a dive. Looks like her new school has a much higher standard. This is a good opportunity to show my knowledge and help out my little sister... Or sabotage her grades and see how Mom will punish her. Or, maybe I can ask for something in exchange for my help? But first I'll have to talk to Lisa and get her thoughts on the situation."
+    new "I voti di Lisa sono calati. Sembra che la sua nuova scuola abbia un livello molto più alto. Questa è una buona occasione per mostrare la mia conoscenza e aiutare la mia sorellina... O sabotare i suoi voti e vedere come la mamma punirà. Oppure, forse potrei chiederle qualcosa in cambio del mio aiuto? Ma prima dovrò parlare con Lisa per sapere cosapensa sulla sua situazione."
 
 
     old "Я поговорил с Лизой насчёт уроков и намекнул, что моя помощь будет стоить... некоторых услуг. Конечно, она отказалась. Но это пока. До первого наказания. Как только её отшлёпают у меня на глазах, всё изменится! Но для этого надо сделать так, чтобы она снова получила двойку..."
@@ -892,67 +892,67 @@ translate english strings:
 
 
     old "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\nТеперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"
-    new "I think I convinced Lisa to listen to me under fear of punishment. Now she's sleeping in her t-shirt and panties only, and that's only the beginning!\n\nNow, under pretense of helping I can fail her homework so I can see her get punished... Who knows, maybe I'll even be able to go further?"
+    new "I think I convinced Lisa to listen to me under fear of punishment. Ora dorme solo con la t-shirt e solo con le mutandine, e questo è solo l'inizio!\n\nOra, quando la aiuto a fare i compiti posso sbagliare per poter vedere la sua punizione... Chissà, forse sarò anche in grado di andare oltre?"
 
 
     old "Хоть я и пообещал помогать Лизе с уроками, но делать этого я не стал. И без того было много дел. После очередной двойки и наказания от мамы, она подошла ко мне и упрашивала о помощи. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "Even though I promised to help Lisa with her lessons, I didn't do it. And there was already a lot to do. After another F and Mom's punishment, she came to me and asked for help. I agreed, but with the condition that she would only sleep in her T-shirt and panties. And I think I can get her to do something else..."
+    new "Anche se ho promesso di aiutare a Lisa con le sue lezioni, non l'ho fatto. And there was already a lot to do. Dopo un'altra F e la punizione di mamma, è venuta da me e ha chiesto aiuto. Ho accettato, ma con la condizione che dormiva solo nella sua t-shirt e le mutandine. E penso di riuscire a farle fare qualcos'altro..."
 
 
     old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "It's true Lisa's a little offended with me, but I'll get over it. I'll give her something delicious and she'll thaw... \n\n{i}{b}Attention:{/b} You've reached the end of this opportunity in the current version of the game.{/i}"
+    new "È vero che Lisa è un po' offesa, ma lo supererà. I'll give her something delicious and she'll thaw... \n\n{i}{b}Attenzione:{/b} Hai raggiunto la fine di questa opportunità nella versione attuale del gioco.{/i}"
 
 
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я перестал уделять ей внимание с этим. И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "I helped Lisa with her homework for a while, and for free, but it got pretty boring and I stopped paying attention to it. And so, after another F and a punishment from Mom, she came to me for help. I agreed, but on the condition that she would only sleep in her T-shirt and panties. And I think I can get her to do something else..."
+    new "Ho aiutato Lisa con i compiti a casa per un po', e gratis, ma mi ha abbastanza rotto e ho smesso di prestare attenzione. E così, dopo un'altra F e una punizione dalla mamma, è venuta da me per un aiuto. Ho accettato, ma a condizione che dormiva solo nella sua t-shirt e le mutandine. E penso di riuscire a farle fare qualcos'altro..."
 
 
     old "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
-    new "Having promised to help Lisa with her lessons, I forgot all about our quid pro quo. And so, after another round of punishments from Mom, Lisa reminded me of what I promised her. Maybe I should pay more attention to her lessons..."
+    new "Dopo aver promesso di aiutare Lisa con le sue lezioni, ho dimenticato tutto il nostro quid pro quo. E così, dopo un altro giro di punizioni dalla mamma, Lisa mi ha ricordato quello che le avevo promesso. Forse dovrei prestare più attenzione alle sue lezioni..."
 
 
     old "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
-    new "Under the guise of helping with Lisa's lessons, I deliberately made mistakes so that she would get a D and get punished... Which is what she now suspects me of. No wonder Lisa was very angry with me, but at the same time, my help was not refused..."
+    new "Con il pretesto di aiutare con le lezioni di Lisa, ho deliberatamente fatto degli errori in modo che lei avrebbe ottenuto un D e vedere la sua punizione... Che è quello di cui ora sospetta. Non c'è da stupirsi che Lisa fosse molto arrabbiata con me, ma allo stesso tempo il mio aiuto non è stato rifiutato..."
 
 
     old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "I doubt it'll be possible to intentionally make mistakes now, she's too distrustful of me. \n\n{i}{b}Attention:{/b} You've reached the end of this opportunity in the current version of the game.{/i}"
+    new "Dubito che sarà possibile commettere intenzionalmente errori adesso, lei è troppo diffidente con me. \n\n{i}{b}Attenzione:{/b} Hai raggiunto la fine di questa opportunità nella versione attuale del gioco.{/i}"
 
 
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "I helped Lisa with her homework for a while, and for free, but it got pretty boring and I deliberately made mistakes so that she would get a D and get punished... And so, after another F and a punishment from Mom, she came to me for help. I agreed, but on the condition that she would only sleep in her T-shirt and panties. And I think I can get her to do something else..."
+    new "Ho aiutato Lisa con i compiti a casa per un po', e gratis, ma mi ha abbastanza annoiato e ho fatto deliberatamente degli errori in modo da ottenere una D e vedere la sua punizione... E così, dopo un'altra F e una punizione dalla mamma, è venuta da me per un aiuto. Ho accettato, ma a condizione che dormiva solo nella sua t-shirt e le mutandine. E penso di riuscire a farle fare qualcos'altro..."
 
 
     old "Арахнофобия"
-    new "Arachnophobia"
+    new "Arachnofobia"
 
 
     old "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для такого рода насекомых... Нужно будет поймать одного и подкинуть Алисе, вот забавно будет! Вот только как и где их искать?"
-    new "Looks like Alice is terrified of spiders. And the climate here is very good for that kind of insect... Catching one and dropping it off to Alice should be hilarious! Now how would I get one?"
+    new "Sembra che Alice sia terrorizzata dai ragni. E il clima qui è molto facirevole per quel tipo di insetto... Catturarne uno e lanciarlo ad Alice dovrebbe essere esilarante! Ora come ne ottengo uno?"
 
 
     old "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
-    new "I looked it up on the web, and there's a local type of spider that would be perfect for my goal! It's completely harmless and pretty big. Looks like I can try and catch one in the morning when spiders check their webs for prey."
+    new "Ho guardato sul web, e c'è un tipo locale di ragno che sarebbe perfetto per il mio obiettivo! È completamente innocuo e piuttosto grande. Sembra che io lo possa provare a prenderne uno al mattino quando i ragni controllano le loro ragnatele per la preda."
 
 
     old "Итак, я поймал огромного паука. Это не так сложно, если знать в какое время и где их ловить. Теперь нужно испытать этого монстра на сестрёнке. Вот только бы выбрать подходящий момент..."
-    new "I've got myself a huge spider, turns out it's quite easy if you know what you're doing. Now I just have to test this monster on my sister. Where would be the best place for my experiment..."
+    new "Mi sono procurato un ragno enorme, risulta abbastanza facile se sai cosa stai facendo. Ora devo solo testare questo mostro su mia sorella. Dove scoprire il posto migliore per il mio esperimento... "
 
 
     old "Алиса определённо боится пауков! Визг слышали все соседи со всей округи, это точно! Вот только если Алиса узнает, что я это всё специально подстроил, меня ждёт смерть. Надеюсь, быстрая..."
-    new "Yep, Alice is a huge arachnophobe. Her shrieks were heard by the whole block. If Alice ever finds out I'm the culprit she'll definitely kill me. I hope I die quickly."
+    new "Yep, Alice è una grandissima aracnofoba. Her shrieks were heard by the whole block. Se Alice scoprirà mai che sono io il colpevole mi ammazza sicuramente. Spero di morire rapidamente."
 
 
     old "Алиса так боится пауков, что согласилась раздеться ради того, чтобы я убил одного, который залез в её постель. Ага, сам он залез, как же... Тем не менее, этой её фобией можно пользоваться в своих интересах. Посмотрим, к чему это всё приведёт..."
-    new "Alice is so afraid of spiders she agreed to get naked just so I will kill one in her bed. I'm so lucky spiders keep climbing into Alice's bedroom for no reason... Anyway, I wonder what else I can get from Alice for killing a spider..."
+    new "Alice ha così paura dei ragni che ha accettato di spogliarsi in cambio di ucciderne uno nel suo letto. Sono così fortunato, i ragni continuano ad arrampicarsi nella cameretta di Alice per alcun motivo... Comunque, chissà che altro posso ottenere da Alice per aver ucciso un ragno..."
 
 
     old "После очередного избавления от паука я намекнул Алисе, что было бы не плохо, если бы я спал рядом и охранял её. Она отказалась. Видимо, слишком мало пауков попадает к ней в постель..."
-    new "I've killed another spider for Alice and asked her about staying in her room to guard her. She turned me down. I guess she needs more spiders in her bed to change her mind..."
+    new "Ho ucciso un altro ragno per Alice e le ho chiesto di rimanere nella sua stanza per guardarla. Ha rifiutato. Immagino che abbia bisogno di più ragni nel suo letto per cambiare idea..."
 
 
     old "Похоже, я способствую развитию арахнофобии у Алисы. Во всяком случае, прогресс очевиден. Теперь Алиса задумывается о том, что было бы неплохо иногда впускать меня в постель для защиты от пауков. Но пока только задумывается... Значит, стоит продолжать..."
-    new "I think I may be worsening Alice's arachnophobia. Alice is starting to think about letting me into her bed. She still didn't let me sleep in her room, so I think I should keep trying."
+    new "Credo di poter peggiorare l'aracnofobia di Alice. Alice inizia a pensare di lasciarmi entrare nel suo letto. Non mi ha ancora lasciato dormire nella sua stanza, quindi penso che dovrei continuare a provare."
 
 
     old "Да! Алиса разрешила мне спать рядом. Конечно, потребовалось столько паучьих жертв, но оно того стоило! Первый шаг сделан, разрешение получено, а дальше уже всё пойдёт как по маслу!"
@@ -1008,59 +1008,59 @@ translate english strings:
 
 
     old "Как оказалось, за нравящиеся Лизе сладости можно получить крепкие объятия! И это не смотря на то, что я за ней подглядывал. Посмотрим, что ещё мне удастся получить от сестрёнки..."
-    new "Looks like I can get a big hug for getting sweets that Lisa likes! And this is despite the fact that I was spying on her. Let's see what else I can get from my sister..."
+    new "Looks like I can get a big hug for getting sweets that Lisa likes! And this is despite the fact that I was spying on her. Vediamo cos'altro posso ottenere da mia sorella..."
 
 
     old "Обнимашки - не единственное, что я получил от Лизы за сладости. Она была в таком восторге, что даже чмокнула меня в щёку! Вот уж не думал, что подглядывания за сестрёнкой могут обернуться такими приятными неожиданностями! Интересно, что будет дальше..."
-    new "Hugs aren't the only thing I can get in exchange for giving Lisa sweets. She was so happy that she even kissed me on the cheek! I didn't think that spying on my sister could turn out to be such a pleasant surprise! I wonder what will happen next..."
+    new "Gli abbracci non sono l'unica cosa che posso ottenere in cambio di dolci per Lisa. Era così felice che mi ha baciato anche sulla guancia! Non pensavo che spiare mia sorella potesse rivelarsi una sorpresa così piacevole! Mi chiedo cosa accadrà dopo..."
 
 
     old "Похоже, сладостей Лизе уже мало и она хочет халатик, как у Алисы. Это уже серьёзная покупка! На этот раз времени у меня больше, но всё равно лучше поторопиться с подарком. Интересно, что меня будет за это ждать..."
-    new "It seems that sweets aren't enough for Lisa. Now, she wants a robe like Alice's. This is a serious purchase! I have more time to get it, but it's still better to hurry up with the gift. I wonder what I'll get for it..."
+    new "Sembra che i dolci non bastino a Lisa. Ora, vuole una vestaglia come quella di Alice. Si tratta di un acquisto serio! Ho più tempo per ottenerlo, ma è meglio sbriarsi con il regalo. Mi chiedo cosa otterrò per questo..."
 
 
     old "От моих подарков Лиза уже не просто целует меня в щёку, а запрыгивает на меня с крепкими объятиями! Может быть и мне уже пора в такие моменты проявлять какую-то активность? Так что подглядывать полезно, если правильно извиниться."
-    new "Lisa isn't just giving me kisses anymore, she's leaping onto me to give me hugs! Maybe I should take the initiative? Peeking could be worth it now, as long as I follow up with the right apology."
+    new "Lisa non mi dà più solo baci, ora salta su di me per darmeli! Forse dovrei prendere l'iniziativa? Peeking could be worth it now, as long as I follow up with the right apology."
 
 
     old "Кто не рискует..."
-    new "Who doesn't take risks..."
+    new "Chi non rischia non rosica..."
 
 
     old "Я подглядывал, как Алиса принимает душ и она меня заметила. Пытаясь извиниться я пообещал купить ей какую-нибудь сладость, в обмен на то, чтобы она не рассказывала обо всём маме. На удивление, я ещё жив, но времени у меня немного..."
-    new "I was watching Alice take a shower and she noticed me. Trying to apologize, I promised to buy her some sweets, in exchange for her not telling Mom about everything. Surprisingly, I'm still alive, but I don't have much time..."
+    new "Stavo guardando Alice farsi la doccia e mi ha notato. Cercando di scusarsi, ho promesso di comprarle dei dolci, in cambio per non aver raccontato tutto a mamma. Sorprendentemente, sono ancora vivo, ma non ho molto tempo..."
 
 
     old "Увы, я не успел подарить Алисе сладость в срок и поэтому она рассказала маме, как я за ней подглядывал. Возможно, в следующий раз, если Алиса меня заметит, я успею..."
-    new "Unfortunately, I did not give Alice a sweet in time and so she told Mom I spied on her. Maybe next time, if Alice sees me, I'll make it..."
+    new "Sfortunatamente, non ho dato ad Alice il dolce in tempo e così ha detto a mamma che l'ho spiata. Forse la prossima volta, se Alice mi vedrà, lo farò..."
 
 
     old "Я купил для Алисы конфеты \"Ferrero Rocher\" и она была очень довольна! Ещё бы, ведь оказалось, что это её любимая сладость! Может быть, в следующий раз, стоит подарить ей большую коробку с этими конфетами?"
-    new "I bought Alice some \"Ferrero Rocher\" and she was very happy! Of course, it turned out to be her favorite sweet! Maybe next time, I should give her a big box of them."
+    new "Ho comprato ad Alice qualche \"Ferrero Rocher\" ed era molto felice! Naturalmente, si è rivelato essere il suo dolce preferito! Forse la prossima volta, dovrei darle una confezione più grande."
 
 
     old "Я купил для Алисы шоколад \"Ritter Sport\" и она приняла его, но без особого восторга! Возможно, в следующий раз, следует подарить ей что-то другое?"
-    new "I bought a chocolate \"Ritter Sport\" for Alice and she accepted it, but without much enthusiasm! Maybe next time, I should give her something different?"
+    new "Ho comprato un cioccolato \"Ritter Sport\" per Alice e lei lo ha accettato, ma senza molto entusiasmo! Forse la prossima volta le dovrei dare qualcosa di diverso?"
 
 
     old "Я купил для Алисы конфеты \"Raffaello\" и как оказалось, они ей не нравятся! В следующий раз, лучше подарить что-то другое..."
-    new "I bought sweets for Alice \"Raffaello\" and as it turned out, she does not like them! Next time, it's better to give something else..."
+    new "Ho comprato i dolci per Alice \"Raffaello\" e quanto si è rivelato, non le piacciono! La prossima volta è meglio darle qualcos'altro..."
 
 
     old "Эх... Если бы я знал, что Алиса станет выкручивать мне уши, то подумал бы, стоит ли ей дарить сладости! Хотя, тогда я рискую быть наказанным при всех, а это хуже... Так что лучше и в следующий раз рискнуть, вдруг повезёт и Алиса ничего мне не сделает."
-    new "Eh... If I had known that Alice would twist my ears, I would have thought about giving her sweets! Although, then I risk being punished in front of everyone, which is worse... So it's better to take a chance next time, in case I get lucky and Alice doesn't do anything to me."
+    new "Eh... If I had known that Alice would twist my ears, I would have thought about giving her sweets! Although, then I risk being punished in front of everyone, which is worse... Quindi è meglio cogliere l'occasione la prossima volta, nel caso in cui avessi fortuna e Alice non mi fa nulla."
 
 
     old "Как оказалось, за нравящиеся Алисе сладости можно не только сохранить уши в целости, но и ощутить её скромные объятия! И это не смотря на то, что я за ней подглядывал. Посмотрим, что ещё мне удастся получить от сестрёнки..."
-    new "As it turned out, for the sweets Alice likes, you can not only keep your ears intact, but also feel her modest embrace! And this is despite the fact that I was spying on her. Let's see what else I can get from my sister..."
+    new "As it turned out, for the sweets Alice likes, you can not only keep your ears intact, but also feel her modest embrace! E questo nonostante il fatto che la stavo spiando. Vediamo cos'altro posso ottenere da mia sorella..."
 
 
     old "Похоже, сладостей Алисе уже мало и теперь ОНА будет ставить условия! Она хочет, чтобы я купил ей пижаму и это уже покупка посерьёзнее! На этот раз времени у меня больше, но всё равно лучше поторопиться с подарком. Интересно, что меня будет за это ждать..."
-    new "It seems that Alice's sweets are not enough and now she will set conditions! She wants me to buy her pajamas and this is a bigger purchase! I have more time, but it's still better to hurry up with the gift. I wonder what I'll get for it..."
+    new "Sembra che i dolci di Alice non siano sufficienti e ora stabilirà le condizioni! She wants me to buy her pajamas and this is a bigger purchase! Ho più tempo, ma è meglio sbriarsi con il regalo. Mi chiedo cosa otterrò per questo..."
 
 
     old "Алиса согласилась пустить меня к себе в комнату, пока примеряла пижаму! Конечно, она просила, чтобы я не подглядывал, хотя прекрасно знала, что я буду... И угрозы её стали какими-то шуточными. Интересно, к чему это приведёт? Так что подглядывать полезно, если правильно извиниться."
-    new "Alice agreed to let me into her room while she tried on her pajamas! Of course, she asked me not to peek, even though she knew I would... And her threats became something of a joke. I wonder what this will lead to? So peeking is useful if you apologize correctly."
+    new "Alice ha accettato di farmi entrare nella sua stanza mentre si prova il suo pigiama! Certo, mi ha chiesto di non sbirciare, anche se sapeva che avrei... E le sue minacce sono diventate una sorta di scherzo. Chissà che cosa porterà? Quindi sbirciare è utile se ti scusi correttamente."
 
 
     old "Кристина"
@@ -1068,11 +1068,11 @@ translate english strings:
 
 
     old "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \nЯ не решился подкатить к ней... Она бы меня наверняка отшила. Хотя, попробовать всё равно можно было..."
-    new "The delivery girl got suspicious over my constant orders for women's clothes. Her name is Christina. \nI didn't dare hit on her, she'd definitely turn me down. Although, It's not like I have anything to lose by trying..."
+    new "La ragazza delle consegnr si è insospettita per miei ordini costanti di i vestiti da donna. Si chiama Christina. \nI didn't dare hit on her, she'd definitely turn me down. Anche se, non è che ho molto da perdere provando..."
 
 
     old "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \nНе самым умным решением было к ней сразу же подкатывать, но что сделано, то сделано. Понятно, что она бы в любом случае меня отшила, но попробовать стоило..."
-    new "The delivery girl got interested by my suspicious orders of women's clothing. Her name is Christina. \nThe smartest decision for me was to hit on her right away, but what's done is done. It's clear that she would have turned me down anyway, but it was worth a try..."
+    new "La ragazza delle consegna si è interessata dai miei ordini sospetti di abbigliamento femminile. Si chiama Christina. \nLa decisione più intelligente per me è stata quella di colpirla subito, ma quello che è stato fatto è fatto. It's clear that she would have turned me down anyway, but it was worth a try..."
 
 
     old "Контроль"
@@ -1180,7 +1180,7 @@ translate english strings:
 
 
     old "Фотосессия вышла классная, хоть ничего нового я для себя и не открыл. Ну почти, были интересные моменты, а это намного лучше, чем вообще ничего! Теперь нужно немного подождать, чтобы стало понятно, насколько удачными получились снимки. Может я даже что-то и получу за эту фотосессию..."
-    new "The photo shoot went well, but I didn't learn anything new. Luckily there were a few interesting moments that made it worthwhile! Now I'll have to wait to see how the images turned out. Hopefully I can get something good out of this..."
+    new "The photo shoot went well, but I didn't learn anything new. Luckily there were a few interesting moments that made it worthwhile! Now I'll have to wait to see how the images turned out. Speriamo di poter ottenere qualcosa di buono da questo.. "
 
 
     old "Итак, снимки вышли удачными и мы с Кирой договорились на новую фотосессию, пока никого не будет дома. Но ещё не ясно, когда мы её проведём... Интересно, что такое Кира хочет достать для съёмок!? Остаётся только ждать..."
