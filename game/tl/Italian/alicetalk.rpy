@@ -322,19 +322,19 @@ translate english alice_talk_tv_01add315:
 translate english alice_talk_tv_31159ca0:
 
 
-    Max_00 "Cool. What are you watching?"
+    Max_00 "Cool. Cosa stai guardando?"
 
 
 translate english alice_talk_tv_a38da904:
 
 
-    Alice_13 "Nothing interesting, really. I'm just kinda zoning out..." nointeract
+    Alice_13 "Davvero nulla di interessante. I'm just kinda zoning out..." nointeract
 
 
 translate english alice_talk_tv_13b3ba4f:
 
 
-    Max_11 "{i}( There's nothing interesting on TV today. It would be exciting if there were some adult films to choose from. Could even be fun to watch it with sis... ){/i}"
+    Max_11 "{i}( Non c'è niente di interessante in TV oggi. Sarebbe eccitante se ci fossero dei film per adulti tra cui scegliere. Potrebbe anche essere divertente guardarlo con mia sorella... ){/i}"
 
 
 translate english alice_talk_tv_55b37ec4:
@@ -346,37 +346,37 @@ translate english alice_talk_tv_55b37ec4:
 translate english alice_talk_tv_8b5ba6bc:
 
 
-    Alice_02 "That's something new... Do you even know how?"
+    Alice_02 "È qualcosa di nuovo... Do you even know how?"
 
 
 translate english alice_talk_tv_afb02258:
 
 
-    Max_01 "Absolutely!"
+    Max_01 "Assolutamente!"
 
 
 translate english alice_talk_tv_818807e7:
 
 
-    Alice_01 "Where'd you learn it? I didn't know it was something you were interested in. You're obviously not going to school for it either..."
+    Alice_01 "Dove l'hai imparato? Non sapevo che fosse qualcosa che ti interessava. You're obviously not going to school for it either..."
 
 
 translate english alice_talk_tv_b7d6b725:
 
 
-    Max_02 "Online courses!"
+    Max_02 "Corsi online!"
 
 
 translate english alice_talk_tv_eefdc983:
 
 
-    Alice_02 "Great. Is it even possible to learn how to give a proper massage on Youtube?" nointeract
+    Alice_02 "Fantastico. Is it even possible to learn how to give a proper massage on Youtube?" nointeract
 
 
 translate english alice_talk_tv_35e3c14c:
 
 
-    Alice_01 "Well, if you paid for them, that changes everything!" nointeract
+    Alice_01 "Beh, se hai pagato per questo, cambia tutto!"
 
 
 translate english alice_talk_tv_fa2a2aee:
