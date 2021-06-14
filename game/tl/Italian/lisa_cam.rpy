@@ -4,91 +4,91 @@
 translate english cam0_lisa_sleep_night_cab47b53:
 
 
-    Max_01 "Lisa is sleeping soundly..."
+    Max_01 "Lisa dorme dolcemente..."
 
 
 translate english cam0_lisa_sleep_morning_36c03e6c:
 
 
-    Max_01 "Lisa is still asleep..."
+    Max_01 "Lisa sta ancora dormendo..."
 
 
 translate english cam0_lisa_shower_cf65001d:
 
 
-    Max_09 "I can't see Lisa through this camera. Should I try another one?"
+    Max_09 "Lisa non puo' essere vista attraverso questa telecamera... Forse guardarne un'altra?"
 
 
 translate english cam0_lisa_shower_99a12737:
 
 
-    Max_09 "I can't see Lisa through this camera..."
+    Max_09 "Lisa non e' visibile attraverso questa telecamera..."
 
 
 translate english cam0_lisa_shower_30b79938:
 
 
-    Max_04 "Lisa's taking a shower... I love watching her clean her tight little body!"
+    Max_04 "La sorella minore fa la doccia... I love watching her clean her tight little body!"
 
 
 translate english cam1_lisa_shower_d17010c3:
 
 
-    Max_03 "She's checking herself out in the mirror. Now the audience can check her out, too. "
+    Max_03 "Lisa, prima di fare la doccia, si ammira davanti allo specchio. Now the audience can check her out, too. "
 
 
 translate english cam1_lisa_shower_cf65001d:
 
 
-    Max_09 "I can't see Lisa through this camera. Should I try another one?"
+    Max_09 "Lisa non puo' essere vista attraverso questa telecamera... Forse guardarne un'altra?"
 
 
 translate english cam0_lisa_read_b78fc025:
 
 
-    Max_07 "I love watching Lisa read. I don't think she realises how suggestive her posture is..."
+    Max_07 "Adoro guardare Lisa che legge. I don't think she realises how suggestive her posture is..."
 
 
 translate english cam0_lisa_dressed_school_f7db1942:
 
 
-    Max_09 "Nothing interesting here. Lisa is completely dressed."
+    Max_09 "Non vedro' niente di interessante qui, Liza e' completamente vestita." Max_09 "Non vedro' niente di interessante qui, Liza e' completamente vestita."
 
 
 translate english cam0_lisa_dressed_school_e79b2255:
 
 
-    Max_07 "Perfect! Lisa's getting ready to go to school..." nointeract
+    Max_07 "Eccellente! Lisa si traveste per andare a scuola..." nointeract
 
 
 translate english cam0_lisa_dressed_school_e61ca9e9:
 
 
-    Max_02 "Yes! Her cute body makes for a great show..." nointeract
+    Max_02 "Wow! Adesso e' cosi' nuda e carina..." nointeract
 
 
 translate english cam0_lisa_dressed_school_e16161a7:
 
 
-    Max_04 "My little sister is such a naughty girl beneath that uniform. I hope the audience likes it!"
+    Max_04 "E' fantastico che la mia sorellina sia una studentessa cosi' seducente. Sono sicuro che gli spettatori lo adorano!"
 
 
 translate english cam0_lisa_dressed_shop_f7db1942:
 
 
-    Max_09 "Nothing interesting. Lisa is completely dressed."
+    Max_09 "Non vedi niente... Lisa is completely dressed."
 
 
 translate english cam0_lisa_dressed_shop_2978876d:
 
 
-    Max_07 "Lisa's getting ready to go shopping..." nointeract
+    Lisa si traveste per andare a fare shopping..." nointeract
 
 
 translate english cam0_lisa_dressed_shop_e61ca9e9:
 
 
-    Max_02 "Yes! Her cute body makes for a great show..." nointeract
+    Max_02 "Wow! Adesso e' cosi' nuda e carina..." nointeract
 
 
 translate english cam0_lisa_dressed_shop_639be09f:
@@ -100,55 +100,55 @@ translate english cam0_lisa_dressed_shop_639be09f:
 translate english cam0_lisa_sun_fafb408a:
 
 
-    Max_01 "Lisa sunbathing makes a great show for the audience! And me, of course..."
+    Max_01 "Lisa prende il sole e soddisfa i miei spettatori con questo! E io, ovviamente..."
 
 
 translate english cam1_lisa_sun_ce238a73:
 
 
-    Max_09 "I can't see anything through this camera. Should I try another one?"
+    Max_09 "Non puoi vedere niente attraverso questa telecamera... Forse guardarne un'altra?"
 
 
 translate english cam0_lisa_swim_39c0bef3:
 
 
-    Max_09 "I can't really see anything. It might be worth trying another camera..."
+    Max_09 "Non puoi davvero vedere nulla... Vale la pena guardare attraverso un'altra telecamera..."
 
 
 translate english cam0_lisa_swim_06c19036:
 
 
-    Max_09 "I can't see anything. I should install a camera that covers the entire pool."
+    Max_09 "Lisa non puo' essere vista attraverso questa telecamera... Dobbiamo installare una telecamera che copra l'intera piscina..."
 
 
 translate english cam1_lisa_swim_0cc13309:
 
 
-    Max_01 "Lisa seems to enjoy using the pool..."
+    Max_01 "Lisa ha quasi attinto l'acqua, anche se sto guardando qualcos'altro..."
 
 
 translate english cam0_lisa_dishes_0b71076a:
 
 
-    Max_01 "Lisa's doing the dishes. She seems to be really grateful when I help her..."
+    Max_01 "Lisa lava i piatti. She seems to be really grateful when I help her..."
 
 
 translate english cam0_lisa_phone_14f355ab:
 
 
-    Max_01 "Lisa's only playing on her phone, but she's lying there beautifully..."
+    Max_01 "La sorellina sta scherzando ed e' bloccata sul suo telefono. Ma giace magnificamente..."
 
 
 translate english cam0_lisa_bath_b32c78c2:
 
 
-    Max_01 "The tubs almost full... But my attention is somewhere else..."
+    Max_04 "Eh, Liza... But my attention is somewhere else..."
 
 
 translate english cam0_lisa_bath_4e37cfa9:
 
 
-    Max_04 "Lisa's body looks amazing when it's wet!"
+    Max_01 "E' bello guardare la sorellina vicino all'acqua..."
 
 
 translate english cam0_lisa_bath_8714e3c3:
@@ -166,5 +166,5 @@ translate english cam1_lisa_bath_cf65001d:
 translate english cam0_lisa_homework_8bf186e7:
 
 
-    Max_01 "Lisa's doing her homeowork. I might have missed a chance to help her."
+    Max_01 "Lisa insegna lezioni. Forse avresti dovuto aiutarla?!"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
