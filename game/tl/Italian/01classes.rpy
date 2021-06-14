@@ -20,11 +20,11 @@ translate english strings:
 
 
     old "Нейтральное"
-    new "Neutrale"
+    new "Non male"
 
 
     old "Неплохое"
-    new "Non male"
+    new "Benino"
 
 
     old "Хорошее"
