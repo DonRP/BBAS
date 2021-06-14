@@ -4,13 +4,13 @@
 translate english KiraTalkStart_14a49468:
 
 
-    Max_01 "Do you mind if I join you?"
+    Max_01 "Non contro la compagnia?"
 
 
 translate english KiraTalkStart_c5aab882:
 
 
-    Kira_01 "Not at all, Max. Lie down with me, the sun feels great today!" nointeract
+    Kira_01 "Certo, Max. Il tempo e' fantastico oggi!" nointeract
 
 
 translate english KiraTalkStart_f5d167eb:
@@ -22,847 +22,847 @@ translate english KiraTalkStart_f5d167eb:
 translate english kira_firsttalk_19e17a9f:
 
 
-    Kira_04 "So tell me, how are you adjusting to your new home? What's it like living here?"
+    Kira_02 "Dimmi allora, Max, cosa fai mentre ti siedi a casa? What's it like living here?"
 
 
 translate english kira_firsttalk_349bd8c8:
 
 
-    Max_04 "Well, I... uh..."
+    Max_04 "Si, bene... Uh..."
 
 
 translate english kira_firsttalk_043877d2:
 
 
-    Kira_02 "Oh, is my swimsuit distracting? Maybe I should have taken it off..." nointeract
+    Kira_02 "Max, il mio costume da bagno ti da' fastidio? A-ah..." nointeract
 
 
 translate english kira_firsttalk_58c6b494:
 
 
-    Kira_07 "Yeah, I'm sure. But will you be okay? Will you be able to took me in the eyes or have I completely lost you?" nointeract
+    Kira_07 "Bene, si, non ho dubbi. Ma cosa ti succedera'? Max, puoi guardarmi negli occhi o ti abbiamo perso?" nointeract
 
 
 translate english kira_firsttalk_00e14e8d:
 
 
-    Kira_07 "But I know. Max, try not to stare at my breasts. Eyes a little higher. Hello? Anyone home?" nointeract
+    Kira_07 "Ma io so. Max, cerca di non fissarmi il petto. Gli occhi sono un po' piu' alti. Hello? Oh si..." nointeract
 
 
 translate english kira_firsttalk_8ab98c15:
 
 
-    Kira_04 "Yeah, it was my fault for wearing something so revealing. To be honest, I usually sunbathe naked, but you're Ann's kids, so I thought I'd show some modesty... Max!"
+    Kira_04 "Si, e' un mio errore scegliere un costume da bagno simile. Ad essere sincero, di solito prendo il sole nudo, ma tu sei un bambino e vale la pena nasconderlo un po'. Max!"
 
 
 translate english kira_firsttalk_527eb426:
 
 
-    Max_07 "What?"
+    Max_07 "E?
 
 
 translate english kira_firsttalk_16797a1b:
 
 
-    Kira_05 "Wow, I can see you've grown in the right place! How long have you been hiding that treasure?" nointeract
+    Kira_06 "Questo perche' non stai fissando il posto giusto. Da quanto tempo nascondi un tale tesoro?" nointeract
 
 
 translate english kira_firsttalk_562bf199:
 
 
-    Kira_06 "I can see you take after your father... " nointeract
+    Kira_06 "Come vedo, siete andati tutti da vostro padre... Si..." nointeract
 
 
 translate english kira_firsttalk_c61d1e38:
 
 
-    Kira_03 "Oh, I mean your... modesty. Yeah, Anyway, let's change the subject!"
+    Kira_03 "Oh, sto sicuramente parlando della tua... Modestia. E, in generale, cambiamo argomento!"
 
 
 translate english kira_firsttalk_3bdfc955:
 
 
-    Kira_03 "What do I know? Nothing. I'm just talking about your modesty, of course... let's change the subject!"
+    Kira_07 "Credi che non lo sappia? Niente. Sto parlando della tua modestia, ovviamente... E, in generale, cambiamo argomento!"
 
 
 translate english kira_firsttalk_e43fd195:
 
 
-    Max_08 "Aunt Kira!"
+    Max_08 "Zia Kira!"
 
 
 translate english kira_firsttalk_1efd517d:
 
 
-    Kira_04 "What about your Aunt? Forget it. Someone needs to take a shower and relax. Maybe I do too, but the two of us shouldn't go together. So go take a shower. A cold one. Make sure it's really cold! "
+    Kira_04 "E che dire di zia Kira? Forget it. Alcune persone hanno solo bisogno di fare una doccia e rilassarsi. Forse lo faccio anch'io, ma voi due non dovreste farlo. Quindi vai a fare la doccia. A cold one. Molto freddo!" Uh..."
 
 
 translate english kira_firsttalk_6e7aee99:
 
 
-    Max_00 "Okay..."
+    Max_00 "Ok"
 
 
 translate english kira_firsttalk_2937ee66:
 
 
-    Max_03 "{i}( Relax in the shower? Easy. Especially with a woman like that around. Ugh! I've never thought about my Aunt like this before, but something's changed... is it me, or is this her true nature?... ){/i}" nointeract
+    Max_03 "{i} (Rilassarsi sotto la doccia? Facile. Soprattutto quando una donna del genere e' vicina. Aw. Non ho mai pensato a mia zia al riguardo, ma ora qualcosa e' cambiato... is it me, or is this her true nature?... E' orribile!) {/i}" nointeract
 
 
 translate english kira_firsttalk_b89d504e:
 
 
-    Max_20 "Oh, Kira... I want you..."
+    Max_20 "Oh, Kira... E quanto lo voglio..."
 
 
 translate english kira_firsttalk_d6159f85:
 
 
-    Max_07 "I didn't say that out loud, did I?"
+    Max_07 "Non l'ho detto ad alta voce?"
 
 
 translate english kira_talk2_cd1cb660:
 
 
-    Kira_02 "We didn't get to finish our conversation last time... Max, do you have a girlfriend?" nointeract
+    Kira_02 "L'ultima volta, la nostra conversazione non ha avuto molto successo. Ascolta, Max, hai una ragazza?" nointeract
 
 
 translate english kira_talk2_19060dc1:
 
 
-    Kira_04 "Does she know about this?" nointeract
+    Kira_04 "Lei lo sa?" nointeract
 
 
 translate english kira_talk2_dac0052a:
 
 
-    Kira_08 "Wow! What's her name?"
+    Kira_08 "Wow! Qual'e' il suo nome?"
 
 
 translate english kira_talk2_4aed4595:
 
 
-    Max_00 "It's not important..."
+    Max_00 "Non importa..."
 
 
 translate english kira_talk2_839cdd26:
 
 
-    Kira_01 "Well... Then one last question. Do you see her right now, is she here somewhere?"
+    Kira_01 "Bene... Quindi l'ultima domanda. La vedi in questo momento, e' qui da qualche parte?"
 
 
 translate english kira_talk2_b8a10094:
 
 
-    Max_08 "I'm not making it up! She's not some imaginary friend!"
+    Max_08 "Si, non l'ho inventato! Non e' una ragazza immaginaria!"
 
 
 translate english kira_talk2_b0ac0801:
 
 
-    Kira_07 "Well then I'm happy for you, Max. How long have you been dating?"
+    Kira_07 "Bene, sono felice per te, Max. Da quanto tempo esci?"
 
 
 translate english kira_talk2_0104ee16:
 
 
-    Max_10 "Well..."
+    Max_10 "Bene...
 
 
 translate english kira_talk2_b57a97d8:
 
 
-    Kira_02 "I thought so. Don't worry Max, I'm not here to judge. You just arrived in a new city and you don't leave your house. Tell me honestly, you don't have a girlfriend, do you?"
+    Kira_02 "Cosi' ho pensato. Ok, Max, non preoccuparti di questo. Sei appena arrivato in una nuova citta', non esci di casa. Dimmi onestamente, hai qualche ragazza?"
 
 
 translate english kira_talk2_c9ad559a:
 
 
-    Max_11 "Well, you're right, no..."
+    Max_11 "Beh si, hai ragione, no..."
 
 
 translate english kira_talk2_bd7b611a:
 
 
-    Kira_07 "Well, that explains a lot. Your age, hormones, being around half-naked girls all the time... It must be hard labor for you. So you can be honest with me. I won't say a word to anyone!"
+    Kira_07 "Bene, questo spiega molto. Che eta', ormoni, ragazze e donne seminude... Forse questo e' un duro lavoro per te? Puoi parlare francamente con me. Non dico una parola a nessuno!"
 
 
 translate english kira_talk2_3948cb74:
 
 
-    Max_00 "Well, I just can't control it sometimes..."
+    Max_01 "Ok, non ti daro' fastidio..."
 
 
 translate english kira_talk2_3377b3dc:
 
 
-    Kira_06 "That's because you're staring at my breasts. Try looking into my eyes..."
+    Kira_06 "That's because you're staring at my breasts. Guarda negli occhi..."
 
 
 translate english kira_talk2_d2b1efcc:
 
 
-    Max_04 "Yeah, well... It just happens anyway..."
+    Max_04 "Eh si... Eh..."
 
 
 translate english kira_talk2_9ec6735a:
 
 
-    Kira_05 "I see. Well, try to hold it together. And I don't mean how you 'held' it last time. That's not what I'm getting at... I'm being vulgar, aren't I? Should I be more tactful?" nointeract
+    Kira_05 "Bene. Well, try to hold it together. And I don't mean how you 'held' it last time. Non e' esattamente quello che intendo... Sono troppo volgare, vero? Devo essere piu' sensibile?" nointeract
 
 
 translate english kira_talk2_93b5a4b6:
 
 
-    Kira_04 "I'm glad. Usually I don't watch my mouth and it gets me into some sticky situations... But you have to be careful around young people... Even though you're obviously not a child anymore."
+    Kira_04 "Ottimo. Usually I don't watch my mouth and it gets me into some sticky situations... But you have to be careful around young people... Anche se non sei piu' un bambino."
 
 
 translate english kira_talk2_e915aeea:
 
 
-    Max_01 "That's right..."
+    Max_01 "Ho capito..."
 
 
 translate english kira_talk2_b86be14d:
 
 
-    Kira_01 "Listen, Max, how do you manage sleeping in the same room as Lisa? I imagine it must be tempting having her just an arms reach away..."
+    Kira_01 "Ascolta, Max, come riesci ad andare d'accordo con Lisa nella stessa stanza? I imagine it must be tempting having her just an arms reach away..."
 
 
 translate english kira_talk2_c670a86c:
 
 
-    Max_02 "Well, there was one incident recently..."
+    Max_02 "Bene, c'e' stato un incidente..."
 
 
 translate english kira_talk2_12c2d256:
 
 
-    Kira_02 "Morning wood, perhaps? And how did she react?"
+    Kira_02 "Un'erezione mattutina, probabilmente? E come ha reagito?"
 
 
 translate english kira_talk2_b8c0dea5:
 
 
-    Max_03 "She freaked out and called Mom!"
+    Max_03 "Ha sollevato il panico, ha chiamato mia madre!"
 
 
 translate english kira_talk2_c0a0b7f1:
 
 
-    Kira_08 "I can imagine! I'll have a chat to Lisa. She's not a little girl anymore, and there's no way she's going to get any life experience with Ann's helicopter parenting." nointeract
+    Kira_08 "Immaginare! Bene, parlero' anche con Lisa. She's not a little girl anymore, and there's no way she's going to get any life experience with Ann's helicopter parenting." nointeract
 
 
 translate english kira_talk2_6a11f48f:
 
 
-    Kira_03 "I'll tell you where children come from, of course! Max, you are so funny. Girls have their secrets, you don't have to know everything..."
+    Kira_03 "Ti diro' da dove vengono i bambini, ovviamente! Max, sei cosi' divertente. Le ragazze hanno i loro segreti, non devi sapere tutto..."
 
 
 translate english kira_talk2_f9ff1c6f:
 
 
-    Max_01 "I understand..."
+    Max_01 "Giusto..."
 
 
 translate english kira_talk2_1f8d1009:
 
 
-    Kira_07 "Max... I think it's time you took a shower again. I might need to start covering myself when you're around to keep your mind from wandering." nointeract
+    Kira_07 "Max... Sembra che dovresti andare di nuovo a fare la doccia. Forse in qualche modo mi nascondo dietro quando ci sei, dato che hai tutti i tuoi pensieri da qualche altra parte?" nointeract
 
 
 translate english kira_talk2_00d0240b:
 
 
-    Kira_04 "Well, I won't. But go take a shower. An icy one. The colder the better..."
+    Kira_04 "Va bene non lo faro'. Ma vai sotto la doccia. An icy one. E con il ghiaccio sarebbe ancora migliore..."
 
 
 translate english kira_talk2_6e7aee99:
 
 
-    Max_00 "Okay..."
+    Max_00 "Ok"
 
 
 translate english kira_talk2_a2e870c1:
 
 
-    Max_20 "{i}( I don't think Aunt Kira is provoking me on purpose, but I'm totally drawn to her. Her almost naked body is so alluring... ){/i}" nointeract
+    Max_20 "{i} (Sembra che zia Kira non provochi intenzionalmente, ma e' cosi' attratta da lei. Il suo corpo caldo, quasi nudo fa cenno...) {/i}" nointeract O in me o in lei...) {/i}" nointeract
 
 
 translate english kira_talk2_36826af7:
 
 
-    Max_07 "{i}( Oh Yes... I hope she didn't catch on to what I was doing. Although, she doesn't miss much. Yes, I think she saw me... my... ){/i}"
+    Max_07 "{i} (Oh si... Spero che non abbia capito cosa stavo facendo ora, guardandola. Although, she doesn't miss much. si, riguarda lei. Io..." ){/i}"
 
 
 translate english kira_talk3_744eb86a:
 
 
-    Kira_05 "Have you adjusted to seeing me in my swimsuit? Or is something dirty on your mind again?" nointeract
+    Kira_05 "Sei gia' abituato al mio costume oggi? O ancora, solo una cosa in mente?" nointeract
 
 
 translate english kira_talk3_e1f63d41:
 
 
-    Kira_07 "I understand, Max. Well, you either have to accept it or avoid it. As I see it, you don't plan to avoid me, and I'm very happy about that. But let's change the subject, see if it helps..."
+    Max_01 "Ho capito. Bene, qui devi venire a patti o evitare. A mio avviso, non prevedi di evitarmi, e ne sono molto contento. Ma cambiamo argomento, improvvisamente aiutera'..."
 
 
 translate english kira_talk3_6a4c87c3:
 
 
-    Max_01 "Come on!"
+    Max_01 "Dai!"
 
 
 translate english kira_talk3_cf0c1c23:
 
 
-    Kira_02 "So tell me, Max, what do you do while you're at home? Can't you just hang out on porn sites?"
+    Kira_02 "Qualunque cosa tu dica, Max. Non puo' semplicemente appendere su siti porno?"
 
 
 translate english kira_talk3_9173a4ee:
 
 
-    Max_08 "Porn sites don't work here..."
+    Max_08 "I siti porno non funzionano per noi..."
 
 
 translate english kira_talk3_57a842cb:
 
 
-    Kira_14 "Ah, of course, and I thought there was something wrong with my phone! Why don't they work? Did your Mom block them?"
+    Kira_14 "Ah, ecco la cosa! Perche' no? Did your Mom block them?"
 
 
 translate english kira_talk3_764e2abb:
 
 
-    Max_09 "Yeah, she made our provider install some kind of firewall that blocks adult content..."
+    Max_09 "Si, dal lato provider c'e' la protezione dei minori..."
 
 
 translate english kira_talk3_0000db15:
 
 
-    Kira_04 "Wow, I'm sorry to hear that. I feel like I understand your situation a lot better now. Shall we change the subject?"
+    Kira_05 "Mi dispiace che cosa? I feel like I understand your situation a lot better now. Forse cambi argomento?"
 
 
 translate english kira_talk3_82324783:
 
 
-    Max_01 "Sure..."
+    Max_02 "Si...
 
 
 translate english kira_talk3_4fe1e9be:
 
 
-    Kira_13 "Can I ask your opinion? Don't you think your Mom has been acting a little strange, in terms of her obsession with Eric?" nointeract
+    Kira_13 "Esattamente? Parla con Eric o tua madre per scoprirlo.
 
 
 translate english kira_talk3_8905a3cf:
 
 
-    Kira_14 "So I'm not the only one who's noticed? I see, so there's definitely something..." nointeract
+    Kira_14 "Quindi, non mi e' sembrato solo? E in qualche modo, specialmente cosi'..." nointeract
 
 
 translate english kira_talk3_f9226615:
 
 
-    Kira_02 "Max, if anything, I'm on your side. You can trust me!" nointeract
+    Kira_02 "Max, semmai, sono dalla tua parte. Puoi fidarti di me!" nointeract
 
 
 translate english kira_talk3_1942b017:
 
 
-    Kira_13 "You must be joking, right? There's no way this is happening. Your Mom's not blind. Of course, she was always a little naive in the past, but this..." nointeract
+    Kira_13 "Max, probabilmente stai scherzando, vero? There's no way this is happening. Tua mamma non e' cieca. Of course, she was always a little naive in the past, but this..." nointeract
 
 
 translate english kira_talk3_b62fecc1:
 
 
-    Kira_14 "I don't think that's what this is about. I'll tell you some other time... So everything you told me about Eric... It's true? I can't believe it..."
+    Kira_14 "Mi sembra che non si tratti di questo adesso. Te lo dico un'altra volta... Quindi, tutto quello che hai detto su Eric... E' vero? Non ci posso credere..."
 
 
 translate english kira_talk3_a4e29c8c:
 
 
-    Max_07 "I have no reason to lie!"
+    Max_07 "Non ho motivo di mentire!"
 
 
 translate english kira_talk3_b133b86a:
 
 
-    Kira_03 "I think I need to hear the full story. Talk to either Eric or your Mom to find out if that's the case. Maybe you're... exaggerating..."
+    Kira_03 "Penso di aver bisogno di sentire l'altra parte. Slegami in fretta, altrimenti tua madre scoprira' tutto! Forse sei un po'... Abbellito..."
 
 
 translate english kira_talk3_754341a2:
 
 
-    Max_09 "Well I didn't embellish anything..."
+    Max_09 "E non ho abbellito nulla..."
 
 
 translate english kira_talk3_9b753d7c:
 
 
-    Kira_04 "Okay, don't sulk. Let's change the subject, or better yet, lie in the sun in silence, if you don't mind..."
+    Kira_04 "Va bene, non tenere il broncio. Cambiamo argomento, e ancora meglio stendiamoci al sole in silenzio, se non ti dispiace..."
 
 
 translate english kira_talk3_3a1dee30:
 
 
-    Max_01 "Okay, I'll leave you to it..."
+    Max_04 "Beh, io...
 
 
 translate english kira_about_kiss_5e0a2b2a:
 
 
-    Kira_07 "That's the approach, I understand! Is there anything else you need?" nointeract
+    Kira_07 "Questo e' l'approccio, ho capito! Forse hai ancora bisogno di qualcos'altro?" nointeract
 
 
 translate english kira_about_kiss_a5fac119:
 
 
-    Kira_08 "You're a joker, Max... Wait, did you find a girl? Who is she? From where? How did you meet? What's her name? I want to know everything!"
+    Kira_08 "Sei un burlone, Max... Aspetta un minuto, hai trovato una ragazza? Chi e' lei? Da dove? Come vi siete incontrati? Il nome di? Vuoi sapere tutto!"
 
 
 translate english kira_about_kiss_eb1abb76:
 
 
-    Kira_08 "For starters? Funny... Wait, did you find a girl? Who is she? From where? How did you meet? What's her name? I want to know everything!"
+    Kira_08 "Iniziare? Divertente... Aspetta un minuto, hai trovato una ragazza? Chi e' lei? Da dove? Come vi siete incontrati? Il nome di? Vuoi sapere tutto!"
 
 
 translate english kira_about_kiss_e243c55d:
 
 
-    Max_01 "How did you know?"
+    Max_01 "Come hai indovinato?"
 
 
 translate english kira_about_kiss_50fc02f9:
 
 
-    Kira_05 "Well, why else would a guy need it? think about it... So, what, you don't have anybody else to ask for help, so you decided to come to me?" nointeract
+    Kira_05 "Bene, perche' altrimenti un ragazzo potrebbe averne bisogno, pensare da solo... Aspetta... E cosa, nessun altro a cui chiedere aiuto, ha deciso di contattarmi?" nointeract
 
 
 translate english kira_about_kiss_98e57cfa:
 
 
-    Kira_01 "Not even Mom helped? Wow! She must have told you to just practice with your girlfriend, right?"
+    Kira_01 "La mamma non ha aiutato? Wow! Sicuramente ha detto che dovresti imparare a baciare la tua ragazza?"
 
 
 translate english kira_about_kiss_848411ec:
 
 
-    Max_07 "That's right!"
+    Max_07 "Giusto!"
 
 
 translate english kira_about_kiss_ca020699:
 
 
-    Kira_01 "Unsurprising. Well, I wouldn't go to Alice with such questions either if I were you..."
+    Kira_01 "Non sorprendente. Bene, non vorrei rispondere ad Alice con tali domande al posto tuo..."
 
 
 translate english kira_about_kiss_efd591e7:
 
 
-    Max_07 "Yes, I already regret it..."
+    Max_07 "Si, mi dispiace gia'..."
 
 
 translate english kira_about_kiss_1f69aa9c:
 
 
-    Kira_07 "Well... I think I can help you. But not here and not now. We need a little more privacy. I'm usually up late at night in the living room. If you're having a 'hard' time sleeping, come and remind me of your request." nointeract
+    Kira_07 "Ma... Penso di poterti aiutare. Vero, non qui e non ora. We need a little more privacy. Oh, a volte guardo la TV la sera. Se non hai intenzione di dormire, ricordati della tua richiesta..." nointeract
 
 
 translate english kira_about_kiss_d9323be4:
 
 
-    Kira_04 "Max, you should be a little more... considerate. Anyway, I'll help you, just pick the right time. You get me?"
+    Kira_04 "Max, dovresti essere un po' piu'... considerate. Anyway, I'll help you, just pick the right time. E tu?"
 
 
 translate english kira_about_kiss_25aa812b:
 
 
-    Max_01 "Absolutely!"
+    Max_01 "Ah!
 
 
 translate english kira_talk4_ae571178:
 
 
-    Kira_10 "There you go! Straight to the point, right? No, Max, I didn't get a chance. But I'll definitely figure it out and find out what's going on."
+    Kira_10 "Quindi e' tutto! Dritto al punto, giusto? No, Max, non ho potuto parlare. Ma lo scopriro' sicuramente e scopriro' cosa sta succedendo."
 
 
 translate english kira_talk4_9f389adc:
 
 
-    Max_00 "Alright. So... you're a maid?"
+    Max_00 "Va bene. Si, cosi'... you're a maid?"
 
 
 translate english kira_talk4_8013cd48:
 
 
-    Kira_01 "Well... not exactly. Do I look like one?"
+    Kira_06 "Oh... Non puo' essere che sia cosi'. Non ti sembra?"
 
 
 translate english kira_talk4_a1691294:
 
 
-    Max_09 "Yeah. I mean, maybe..."
+    Max_05 "Si. Nella migliore delle ipotesi..."
 
 
 translate english kira_talk4_9f00eadd:
 
 
-    Kira_07 "What? Aren't I allowed to work as a maid?" nointeract
+    Kira_03 "Cosa so? Non posso lavorare come domestica?" nointeract
 
 
 translate english kira_talk4_00a37ecd:
 
 
-    Kira_04 "Maybe they'd rather be out of the house some nights?"
+    Kira_04 "Forse amano dormire e non sono a casa solo la sera?"
 
 
 translate english kira_talk4_3280e304:
 
 
-    Max_07 "Your hands look too soft for that kind of work..."
+    Max_07 "Le tue mani sono troppo delicate per un lavoro del genere..."
 
 
 translate english kira_talk4_a260fdd8:
 
 
-    Kira_04 "You really do take after Ann. Have you considered that I might just be wearing gloves? It can do a lot to save your skin."
+    Kira_04 "Anch'io sono pronto. Forse lavoro con i guanti. It can do a lot to save your skin."
 
 
 translate english kira_talk4_f99b18bd:
 
 
-    Max_07 "Who's putting things in order tonight?"
+    Max_07 "Chi mette le cose in ordine la sera?"
 
 
 translate english kira_talk4_32ed8e84:
 
 
-    Kira_08 "Ouch. You figured me out. All right, I'm not actually a maid..." nointeract
+    Kira_07 "Vedrai. You figured me out. Non sono davvero una cameriera..." nointeract
 
 
 translate english kira_talk4_7ccd734d:
 
 
-    Kira_14 "If you tell Mom, I'm sure she'd either kill me or force me out to the streets."
+    Kira_14 "Se lo dici a tua madre, mi uccidera' e mi caccera' in albergo...
 
 
 translate english kira_talk4_4acdf68b:
 
 
-    Max_01 "Trust me, I won't say a word!"
+    Non dico una parola a nessuno!"
 
 
 translate english kira_talk4_5ee83267:
 
 
-    Kira_13 "I hope so. Basically, I'm playing a maid in a movie. I accidently got my costume dirty and went to get it washed when your Mom noticed..."
+    Kira_14 "Beh si. In generale, recito in un film... L'ho macchiato per sbaglio e l'ho portato a lavare, e tua madre ha notato..."
 
 
 translate english kira_talk4_634c769c:
 
 
-    Max_07 "So you're an actress now?!"
+    Max_07 "Quindi sei un'attrice adesso?!"
 
 
 translate english kira_talk4_abeddefc:
 
 
-    Kira_08 "Yes, and I'm really close to making it big! But I'm keeping it a huge secret, so you can't say a word!" nointeract
+    Kira_08 "Si, e' cosi', Max! Ma non dirlo a nessuno. Questo e' un grande segreto per tutti!" nointeract
 
 
 translate english kira_talk4_5c93772d:
 
 
-    Kira_05 "Well, these movies aren't exactly mainstream. And they don't offer the kinds of roles you'd want your family knowing about just yet..."
+    Kira_05 "Ebbene, questi non sono esattamente i film che sfoggiano in famiglia, se mi capisci..." And they don't offer the kinds of roles you'd want your family knowing about just yet..."
 
 
 translate english kira_talk4_d3b3b86a:
 
 
-    Max_08 "It's porn, isn't it!?"
+    Max_08 "Questo e' porno?!"
 
 
 translate english kira_talk4_2dea5ed4:
 
 
-    Kira_03 "Why does it have to come down to just being porn? Maybe it's a sophisticated erotica with mature themes and great acting..."
+    Kira_03 "Max, perche' il porno in una volta? Forse questa e' un'erotica sofisticata con una trama interessante e una recitazione eccellente..."
 
 
 translate english kira_talk4_0e40a20a:
 
 
-    Max_07 "So... porn."
+    Max_07 "Ehm... porn."
 
 
 translate english kira_talk4_d23403c0:
 
 
-    Kira_14 "Alright, yes. A woman has to earn money somehow. It's not paying much, but the producer is promising me a lead role."
+    Kira_12 "Si, quindi... La ragazza ha bisogno di guadagnare in qualche modo. E' vero, non pagano molto, ma il produttore mi ha promesso il ruolo principale..."
 
 
 translate english kira_talk4_ac124599:
 
 
-    Max_09 "They all promise that."
+    Max_09 "Lo promettono a tutti"
 
 
 translate english kira_talk4_803e8921:
 
 
-    Kira_07 "You think I wouldn't be aware? It's just how they work. I'm getting a stable salary at least, even if it only adds up to a few pennies..."
+    Kira_06 "Non pensi che mi sia accorto che sbirciavi? It's just how they work. Li' mi pagano almeno costantemente, anche se un centesimo..."
 
 
 translate english kira_talk4_069f6948:
 
 
-    Max_03 "My Aunt's doing porn... that's crazy!"
+    Max_03 "Mia zia sta facendo porno... Questo sara' un pompino pazzo!"
 
 
 translate english kira_talk4_21d679b2:
 
 
-    Kira_08 "Looks like you're getting excited again. It would be interesting to see how you'd react to seeing me in a movie! Although, this isn't far from the plot of one..."
+    Kira_08 "Max, sei di nuovo troppo eccitato. Ho paura di immaginare cosa succedera' se vedrai un film con la mia partecipazione! Although, this isn't far from the plot of one..."
 
 
 translate english kira_talk4_95af88df:
 
 
-    Max_05 "Why, can you see something?"
+    Max_05 "Quello che potete vedere?"
 
 
 translate english kira_talk4_956de982:
 
 
-    Kira_04 "I can see you've had enough fun for today. Run along and take a shower before you start giving me ideas..."
+    Kira_04 "Penso che tu ne abbia avuto abbastanza per oggi. Run along and take a shower before you start giving me ideas..."
 
 
 translate english kira_talk4_fe013028:
 
 
-    Max_02 "Are you sure you can't give me a hand with this?"
+    Max_02 "Puoi aiutarmi con questo?"
 
 
 translate english kira_talk4_b082f0c1:
 
 
-    Kira_06 "Max! What are you saying to your Aunt? Shame on you..."
+    Kira_06 "Max! Cosa stai suggerendo a tua zia! Non ti vergogni..."
 
 
 translate english kira_talk4_9a8f75a9:
 
 
-    Max_09 "Okay, laugh it up..."
+    Max_09 "Va bene, ridi..."
 
 
 translate english kira_talk4_e2118520:
 
 
-    Max_04 "{i}( My Aunt is doing porn! I should keep this a secret. Oh ... how lucky for me! ){/i}"
+    Max_04 "{i} (Mia zia sta facendo del porno! I should keep this a secret. D-ah... E' una fortuna per me!) {/i}" ){/i}"
 
 
 translate english kira_talk4_1992b98d:
 
 
-    Max_19 "{i}( Oh Yes, Kira, you and I will be in a movie... and not just one. I'll make you a star and more! ){/i}"
+    Max_19 "{i} (Oh si, Kira, io e te reciteremo ancora nel film... E nemmeno uno. Ti rendero' una star e non solo!) {/i}" I'll make you a star and more! ){/i}"
 
 
 translate english kira_talk4_ed62975f:
 
 
-    Kira_05 "Excuse me? I didn't catch that..."
+    Kira_04 "Si? Non ho sentito l'ultima..."
 
 
 translate english kira_talk4_fabb36af:
 
 
-    Max_08 "But... You were there ... Me..."
+    Max_08 "Ma... Tu eri li'... Diventerai mai mia..."
 
 
 translate english kira_talk4_92ee4f4a:
 
 
-    Kira_08 "Just fantasizing about your Aunt?"
+    Kira_08 "Stai solo fantasticando un po' su tua zia?"
 
 
 translate english kira_talk4_dbc4f220:
 
 
-    Max_09 "What do you think? I have to, since you're not helping..."
+    Max_09 "Ebbene, cosa ne pensi? Devo, visto che non stai aiutando..."
 
 
 translate english kira_talk4_89a335de:
 
 
-    Kira_01 "Okay! You take your time, I'll shower later. Don't slip!" nointeract
+    Kira_08 "Oh wow! Kira_01 "Ok, finisci qui, faro' una doccia piu' tardi. Non scivolare!" nointeract
 
 
 translate english kira_talk4_b5596ff7:
 
 
-    Max_07 "{i}( Well, Aunt Kira, this is all on you! I'm going to find a way to realize my fantasies... ){/i}"
+    Max_07 "{i} (Beh, zia Kira, mi stai prendendo in giro! Sto ancora realizzando le mie fantasie con te...) {/i}" ){/i}"
 
 
 translate english kira_talk5_088b1488:
 
 
-    Kira_01 "Great, Max! I was hoping you'd come over. I need help with something that could really use your energy and enthusiasm."
+    Kira_01 "Con piacere, Max! A proposito, stavo aspettando che tu arrivassi. Ho bisogno di aiuto in un caso e il tuo entusiasmo ed energia possono aiutarmi in questo."
 
 
 translate english kira_talk5_db0426c3:
 
 
-    Max_01 "What's up? You've got my attention."
+    Max_01 "Ok" You've got my attention."
 
 
 translate english kira_talk5_d67758aa:
 
 
-    Kira_03 "How have you been earning money? Do you have an income or have you only been using what you get from your Mom?"
+    Kira_03 "Come fai i soldi? Hai qualche tipo di reddito o vivi con la paghetta che ti da' tua madre?"
 
 
 translate english kira_talk5_de353ad8:
 
 
-    Max_07 "I mean... kind of."
+    Max_02 "Beh... Tipo, giusto?"
 
 
 translate english kira_talk5_6ff0442e:
 
 
-    Kira_07 "Either way, I have an idea. It's going to need some cash to get started, but I promise it will pay off.."
+    Max_02 "Si, ma ho un'idea migliore." extend "Mi piacerebbe sbottonarlo, ma cominciamo dall'alto.
 
 
 translate english kira_talk5_ce85c004:
 
 
-    Max_09 "What are you saying?"
+    Max_09 "Di cosa stai parlando?"
 
 
 translate english kira_talk5_bf982ee2:
 
 
-    Kira_05 "I need some professional photos taken to build my portfolio. I could find a photographer, but I'd be more comfortable paying you if you have a camera. Do you know much about photography?" nointeract
+    Kira_05 "Devo fare una serie di scatti del portfolio. Potrei rivolgermi a un fotografo professionista, ma se hai una macchina fotografica e hai un desiderio, allora preferisco pagarti... Sai fotografare?" nointeract
 
 
 translate english kira_talk5_f8afef08:
 
 
-    Kira_04 "Yes? And where did you study? And most importantly - when? Or are you considering a few photos taken with your phone as experience?"
+    Kira_08 "Si... E dove hai studiato? E, soprattutto, quando? O consideri le fotografie sul tuo telefono un'esperienza?"
 
 
 translate english kira_talk5_7b554a11:
 
 
-    Max_02 "Well... I can take good pictures!"
+    Max_04 "Fatto..." Riesci anche a fare foto!
 
 
 translate english kira_talk5_3f1fe536:
 
 
-    Kira_14 "Too bad... Without experience, it probably won't be worth it..."
+    Kira_06 "Oh... Senza esperienza, molto probabilmente, non succede davvero nulla..."
 
 
 translate english kira_talk5_07f69b5e:
 
 
-    Max_07 "How about if I do it for free?"
+    Max_07 "E se provo gratuitamente, metterai in posa?"
 
 
 translate english kira_talk5_2d538912:
 
 
-    Kira_02 "Actually, that's not a bad idea. You might have some hidden talent! So, do you have a camera? "
+    Kira_01 "Che bella idea! You might have some hidden talent! A proposito, hai una fotocamera?" ﻿
 
 
 translate english kira_talk5_c8d1310a:
 
 
-    Max_04 "I'll get one!"
+    Max_04 "Lo trovero'!"
 
 
 translate english kira_talk5_fb23b87b:
 
 
-    Kira_08 "Then I have no reason to refuse your help if you're so determined."
+    Kira_08 "Bene, allora non vedo alcun motivo per rifiutare un ragazzo cosi' deciso..."
 
 
 translate english kira_talk5_59b8a856:
 
 
-    Max_03 "Here we go!"
+    Max_03 "Wow Fico!"
 
 
 translate english kira_talk5_be66e8de:
 
 
-    Kira_06 "I don't know what you've already got in your head about the photo shoot, but it's time for you to shower again. Why are you so impressionable?"
+    Kira_06 "Non so, Max, cosa hai gia' fantasticato sulla sessione fotografica, ma devi fare di nuovo la doccia. Perche' sei cosi' impressionabile?
 
 
 translate english kira_talk5_45d25fb1:
 
 
-    Max_09 "Yeah I'll get going. And unless you're going to help me out, don't bother me like last time!"
+    Max_07 "Credo sia si. E se non vuoi aiutarmi con questo, allora non disturbarmi, come quella volta!"
 
 
 translate english kira_talk5_25e093b1:
 
 
-    Max_04 "{i} ( What luck! I've got a photo shoot with a pornstar! I've heard stories about cameramen getting all kinds of rewards for their services... maybe I'll get something too? ){/i}"
+    Max_04 "{i} (Questa e' fortuna! Una porno star posera' per me per un servizio fotografico! Ho sentito da qualche parte che le modelle porno danno sempre ai fotografi un pagamento per le riprese... maybe I'll get something too? ){/i}"
 
 
 translate english kira_talk5_dfeec0a5:
 
 
-    Max_20 "There's just the small matter of getting a camera. I wonder how much they cost? Oh, I'll worry about that later. I'm so looking forward to what I'll get from Aunt Kira! I'm sure it'll be worth the effort." nointeract
+    Max_20 "La questione e' piccola. Mi chiedo quanto costano? Oh, I'll worry about that later. Non e' male che la zia Kira si stia travestendo! Forse e' ora di mettere in atto qualcos'altro..." nointeract
 
 
 translate english kira_talk5_b53777de:
 
 
-    Max_09 "{i}( I always look forward to the exciting things I can get up to with Aunt Kira! ){/i}"
+    Max_09 "{i} (Eh, e' piu' interessante finire con zia Kira... ){/i}"
 
 
 translate english kira_talk6_a9812af2:
 
 
-    Kira_01 "Do you have a camera yet?" nointeract
+    Kira_01 "Hai gia' trovato la tua fotocamera?" nointeract
 
 
 translate english kira_talk6_12fde23b:
 
 
-    Kira_02 "I see. Well, let me know when you have one. I'm almost always ready to for a photo shoot, but we need to make sure it's just us at home. I don't want to be...interrupted." nointeract
+    Kira_02 "Sicuro. Bene, non appena lo trovi, fammi sapere. Sono quasi sempre pronto per essere fotografato, ma anche a casa non ho bisogno di nessuno... I don't want to be...interrupted." nointeract
 
 
 translate english kira_talk6_75ec74c9:
 
 
-    Kira_04 "Very well. Now you just need to pick a time when we have the house to ourselves..."
+    Kira_04 "E' fantastico. Ora devi scegliere il momento giusto in cui nessuno sara' a casa..."
 
 
 translate english kira_talk6_3410e32f:
 
 
-    Max_01 "Precisely!"
+    Max_01 "Certo!"
 
 
 translate english kira_talk6_94f1fd99:
 
 
-    Kira_07 "Max, you're amazing! I'm fresh and ready for the camera, as always. You just need to decide where we'll do it..."
+    Kira_07 "Max, sei un miracolo! Sono sempre allegra, bella e fresca da fotografare. Devi solo decidere dove sara'..."
 
 
 translate english kira_talk6_1d4e4efa:
 
 
-    Max_04 "Maybe in the living room?"
+    Max_04 "Forse in soggiorno?"
 
 
 translate english first_photoset_2b73fd4a:
 
 
-    Kira_01 "What a great idea! Just wait a bit while I change into my nightgown... it's pretty sexy, don't you think?"
+    Kira_03 "Oh, adoro questa idea! Aspetta un po', mi metto la camicia da notte... E' piuttosto sexy, non credi?"
 
 
 translate english first_photoset_eb9d500f:
@@ -874,61 +874,61 @@ translate english first_photoset_eb9d500f:
 translate english first_photoset_fea89793:
 
 
-    Kira_05 "Let me guess, you want me to get naked, right?"
+    Kira_06 "Beh, ti piace il mio vestito?
 
 
 translate english first_photoset_b020807e:
 
 
-    Max_04 "No need to guess! I decided to buy you a shirt that's even sexier than yours..." nointeract
+    Max_04 "Non ho indovinato! Ho deciso di comprarti una maglietta, anche piu' sexy della tua..." nointeract
 
 
 translate english first_photoset_87e394b1:
 
 
-    Kira_08 "Wow! It's very nice... I'm impressed. How did you get so much money from your Mom to afford this?"
+    Kira_08 "Wow! Questo e' molto bello... I'm impressed. E come hai ricevuto cosi' tanti soldi da tua madre per questo?"
 
 
 translate english first_photoset_abad37bd:
 
 
-    Max_03 "Well, I had to dip into some savings. But don't worry, it's no problem for someone as awesome as you!"
+    Max_03 "Si, ci sono stati dei risparmi... But don't worry, it's no problem for someone as awesome as you!"
 
 
 translate english first_photoset_2863dbd0:
 
 
-    Kira_07 "Yes, this set will be perfect. How do my panties look? Do they suit me?"
+    Kira_07 "Si, questo kit e' perfetto per la nostra fotografia. Bene, come mi stanno le mutandine? Do they suit me?"
 
 
 translate english first_photoset_c886f41a:
 
 
-    Max_05 "Yeah. I really like it. It looks good on you!"
+    Max_01 "Si" Mi piace molto. Sei bellissima!"
 
 
 translate english first_photoset_5ec026e1:
 
 
-    Kira_06 "In that case, I'm ready! Where do we start shooting?"
+    Kira_06 "Bene, Max, sono completamente pronto! Da dove iniziamo le riprese?"
 
 
 translate english first_photoset_889601ec:
 
 
-    Max_01 "Let's start on the couch. You're still in your nightgown, so let's pretend you're just waking up..."
+    Max_01 "Cominciamo dal divano. Dopotutto, sei in una maglietta, quindi ti mostriamo come ti svegli..." Ora sdraiati sul letto in qualche modo interessante..."
 
 
 translate english first_photoset_676c261f:
 
 
-    Kira_03 "Oh, I like this idea! So I just lie down on the couch or..." nointeract
+    Kira_01 "Qualcosa del genere. Quindi mi sdraio sul divano o..." nointeract
 
 
 translate english first_photoset_a1b55e52:
 
 
-    Kira_04 "Try to keep me in focus and make sure that the horizon isn't blocked... But I'm sure you'll know what to focus on. I trust you."
+    Kira_04 "Max, cerca di tenermi a fuoco e assicurati che l'orizzonte non sia sopraffatto... But I'm sure you'll know what to focus on. In generale, mi fido di te."
 
 
 translate english first_photoset_9c27deac:
@@ -940,7 +940,7 @@ translate english first_photoset_9c27deac:
 translate english first_photoset_set2_8b0aa53e:
 
 
-    Kira_02 "Like this? Does my stretching look good?"
+    Kira_02 "Chiaro. Does my stretching look good?"
 
 
 translate english first_photoset_set2_e69c1ade:
@@ -952,13 +952,13 @@ translate english first_photoset_set2_e69c1ade:
 translate english first_photoset_set2_0542ad6b:
 
 
-    Kira_01 "With pleasure, Max! How do you want me to get positioned?" nointeract
+    Kira_01 "Fantastico, Max! How do you want me to get positioned?" nointeract
 
 
 translate english first_photoset_set2_f70e99f0:
 
 
-    Kira_05 "This is how it should look beautiful... Or should I sit differently?"
+    Kira_05 "Ecco come dovrebbe apparire bello... O sedersi in modo diverso?"
 
 
 translate english first_photoset_set2_cb150c0d:
@@ -970,7 +970,7 @@ translate english first_photoset_set2_cb150c0d:
 translate english first_photoset_set4_434fb1ca:
 
 
-    Kira_07 "I see you like it. I'm starting to understand why you wore jeans all the time..."
+    Kira_07 "Vedo che ti piace? E' chiaro il motivo per cui indossavi jeans tutto il tempo..."
 
 
 translate english first_photoset_set4_02a6204c:
@@ -1006,7 +1006,7 @@ translate english first_photoset_set6_8770e393:
 translate english first_photoset_set6_d74aef50:
 
 
-    Kira_06 "Like this? I think the shot was excellent..."
+    Kira_06 "Cosi'? Penso che lo scatto sara' eccellente..."
 
 
 translate english first_photoset_set6_5aa51c90:
@@ -1018,7 +1018,7 @@ translate english first_photoset_set6_5aa51c90:
 translate english first_photoset_set6_42057bef:
 
 
-    Kira_07 "I need my portfolio to really stand out! Do you mind if I take off my panties?"
+    Kira_07 "Ho bisogno che i telai siano ancora migliori! Pensi che possiamo togliermi le mutandine?"
 
 
 translate english first_photoset_set6_55baaf3c:
@@ -1030,7 +1030,7 @@ translate english first_photoset_set6_55baaf3c:
 translate english first_photoset_set6_44dd7e29:
 
 
-    Kira_09 "I'd be happy to demonstrate them... As long as you can keep the camera steady!"
+    Kira_09 "E saro' felice di dimostrarli... Soprattutto se ottieni scatti molto buoni!"
 
 
 translate english first_photoset_set6_3f977c27:
@@ -1042,7 +1042,7 @@ translate english first_photoset_set6_3f977c27:
 translate english first_photoset_set6_8f9aa457:
 
 
-    Kira_02 "Whatever you say, Max. Now hang on tight... this is gonna be a crazy blowjob!"
+    Kira_08 "Ok, ok, mi hai fatto passare, Max. Oh, sto venendo... this is gonna be a crazy blowjob!"
 
 
 translate english first_photoset_set6_023fea82:
@@ -1066,7 +1066,7 @@ translate english first_photoset_set11_af242d30:
 translate english first_photoset_set11_94d8f220:
 
 
-    Kira_08 "Yes, that's it, Max! Don't hold back! I have to look like a real porn star..."
+    Kira_07 "Molto, Massimo! Non trattenerti! Devo sembrare una vera porno star..."
 
 
 translate english first_photoset_set11_4fbe04b2:
@@ -1078,55 +1078,55 @@ translate english first_photoset_set11_4fbe04b2:
 translate english first_photoset_set11_9aa39956:
 
 
-    Kira_06 "Hopefully... I'll take a copy of the photos and send them to a friend to process. I appreciate your help, Max. If I need some more photos taken, you'd be happy to help your Aunt again, right?"
+    Kira_05 "Wow... Butto via le mie foto, il mio amico le elaborera' e li' vedremo cosa e' successo. Grazie Max. A proposito, semmai non ti rifiuterai di fare di nuovo clic su tua zia?"
 
 
 translate english first_photoset_set11_be82d054:
 
 
-    Max_03 "Of course, you don't even have to ask."
+    Max_05 "Non e' necessario, ma puoi!"
 
 
 translate english first_photoset_set11_8dd8559a:
 
 
-    Kira_01 "That's great to hear! Okay, I'll go clean up and change, and thank you again..."
+    Max_05 "Sei fantastico! Ok, vado a pulire e cambiarmi, e grazie ancora..."
 
 
 translate english first_photoset_set11_d5bd3dd4:
 
 
-    Max_07 "{i}( It was much better than nothing! Maybe next time, I can get a little more... ){/i}"
+    Max_07 "{i} (Era molto meglio di niente! Forse la prossima volta interrompero' molto di piu'...) {/i}" ){/i}"
 
 
 translate english kira_about_photo1_406e9eeb:
 
 
-    Kira_04 "Ah, Max. I heard back from my friend. He said all the photos were suitable! The focus, the angles, it was all great. I was hoping you could help me out again? If you have don't mind..."
+    Kira_04 "A, max. I heard back from my friend. He said all the photos were suitable! La messa a fuoco e' ottima, anche l'angolo. I was hoping you could help me out again? If you have don't mind..."
 
 
 translate english kira_about_photo1_3b74eef4:
 
 
-    Max_01 "Of course, any time you need."
+    Max_01 "In qualsiasi momento, zia Kira"
 
 
 translate english kira_about_photo1_ac2316d0:
 
 
-    Kira_14 "Yes, although this time we'll need to be even more discreet. I need you to be ready while no one else is home, because if we get caught, this arrangement will definitely have to end. And I don't want that to happen..."
+    Kira_04 "Si, credo sia ora di legarmi al letto! I need you to be ready while no one else is home, because if we get caught, this arrangement will definitely have to end. E quanto lo voglio..."
 
 
 translate english kira_about_photo1_b3630916:
 
 
-    Max_04 "Yeah, me neither... but what did you have in mind for the next shoot?"
+    Max_04 "Si, anch'io... but what did you have in mind for the next shoot?"
 
 
 translate english kira_about_photo1_b2f703a2:
 
 
-    Kira_05 "It's only natural you'd be curious. Why not ask your friend? He seems to have some ideas..."
+    Solo cosi' sembra naturale, ok?" nointeract Why not ask your friend? He seems to have some ideas..."
 
 
 translate english kira_about_photo1_3ee32226:
@@ -1138,25 +1138,25 @@ translate english kira_about_photo1_3ee32226:
 translate english kira_about_photo1_c9b83336:
 
 
-    Kira_07 "Let's just say I think you'll find it interesting. But right now I think someone needs another cold shower... make it very cold!"
+    Kira_05 "Quanto sei curioso, Max. Per ora, alcune persone dovrebbero fare una doccia fredda... Molto fredda!"
 
 
 translate english kira_about_photo1_3c46af2f:
 
 
-    Max_02 "Will you help me with this?"
+    Max_02 "Mi aiuterai con questo?"
 
 
 translate english kira_about_photo1_65138e4c:
 
 
-    Kira_02 "I think I'll soak up some more sun. You'll manage on your own..."
+    Kira_02 "Forse prendero' il sole ancora un po'. Puoi cavartela da solo..."
 
 
 translate english kira_about_photo1_caa6f41d:
 
 
-    Max_09 "Guess I have to do everything myself..."
+    Max_09 "Eh, devi fare tutto da solo..."
 
 
 translate english kira_about_photo1_fc887226:
@@ -1168,133 +1168,133 @@ translate english kira_about_photo1_fc887226:
 translate english kira_about_photo1_36196eca:
 
 
-    Kira_04 "Don't panic, Max, it's just me. It was getting too hot... You don't mind my company, do you?"
+    Kira_04 "Niente panico Max, sono solo io. In qualche modo e' diventato troppo caldo... Non sei contro la mia compagnia, vero?"
 
 
 translate english kira_about_photo1_33a9ff94:
 
 
-    Max_03 "Of course not! You don't need to ask..."
+    Max_03 "E' d'accordo!" Chiedi anche..."
 
 
 translate english kira_about_photo1_e5e21458:
 
 
-    Kira_07 "I thought the photo shoot was just a photo shoot, and I should thank you for the clothes seperately. What do you think?"
+    Kira_07 "Ho pensato, una sessione fotografica e' una sessione fotografica e devo ringraziare separatamente per la maglia. Cosa pensi?"
 
 
 translate english kira_about_photo1_ecccc582:
 
 
-    Max_05 "Not necessary... but you can if you like!"
+    Kira_09 "Max... Anche se puoi fare tutto, dici...
 
 
 translate english kira_about_photo1_2b4065e5:
 
 
-    Kira_10 "Do you have any idea, Max, of what happens if we get caught doing this?"
+    Kira_10 "Hai qualche idea, Max, cosa succederebbe se venissimo scoperti a fare questo?"
 
 
 translate english kira_about_photo1_f1756a61:
 
 
-    Max_07 "I'm afraid to imagine... Maybe we should make it quick?"
+    Max_07 "Ho paura anche solo di immaginare... Forse di fare tutto in fretta?"
 
 
 translate english kira_about_photo1_ae59965c:
 
 
-    Kira_02 "Then we'd better turn off the water... And make sure nobody's watching! We're really misbehaving right now..."
+    Kira_02 "Allora e' meglio chiudere l'acqua... E guardarci intorno in modo che nessuno veda quello che stiamo facendo! We're really misbehaving right now..."
 
 
 translate english kira_about_photo1_fe79864c:
 
 
-    Max_02 "Of course, Aunt Kira!"
+    Max_02 "Certo, zia Kira!"
 
 
 translate english kira_about_photo1_e143d1d3:
 
 
-    Max_20 "{i}( Oh, she's taking me so well... So deep... she's got a real talent for this! Man, I'm on the edge... I'm about to come... shit! ){/i}" nointeract
+    Max_20 "{i} (Oh, come fa schifo... Si, cosi' profondo... she's got a real talent for this! Sto venendo... Sto per finire... Caspita! ){/i}" nointeract
 
 
 translate english kira_about_photo1_b438d6cf:
 
 
-    Max_22 "{i}( Yes... I came... Right in her mouth! Oh God... She sucks the head of my cock so hard... her lips are around me so tight! I've got to crown her a blowjob queen!! ){/i}"
+    Max_22 "{i} (Si'... Ottenuto... Proprio nella sua bocca! Oh mio Dio... Mi succhia la testa del pene cosi' gustoso... her lips are around me so tight! I've got to crown her a blowjob queen!! ){/i}"
 
 
 translate english kira_about_photo1_74184a9e:
 
 
-    Kira_05 "Well. Did you like it? Not a drop wasted..."
+    Kira_05 "Chiaro. E' piaciuto? E non una goccia..."
 
 
 translate english kira_about_photo1_deee8dbc:
 
 
-    Max_05 "You're amazing! It was great!"
+    Max_05 "Fuh, e' stato fantastico! E' stato bello!"
 
 
 translate english kira_about_photo1_87ba2404:
 
 
-    Kira_01 "I'm glad I was able to relieve your tension. Now, let's move before someone sees us..."
+    Kira_01 "Sono contento di essere riuscito ad alleviare la tua tensione. Ora scappiamo prima che qualcuno ci veda..."
 
 
 translate english kira_about_photo1_9b836c58:
 
 
-    Max_04 "Of course!"
+    Max_04 "Certo!"
 
 
 translate english kira_about_cuni_8cc8ec4f:
 
 
-    Kira_13 "Well Max, should I?"
+    Kira_13 "Cosa, Max, dovrei?"
 
 
 translate english kira_about_cuni_063924e5:
 
 
-    Max_07 "Probably, yeah. I didn't see you in the shower..."
+    Max_01 "Dimmi. Non ho guardato nella tua doccia..."
 
 
 translate english kira_about_cuni_c16b4060:
 
 
-    Kira_14 "I'm not angry, but I'm a little upset... I'll be mad if you just forgot!" nointeract
+    Kira_14 "Non sono arrabbiato, ma un po' arrabbiato... E mi arrabbiero' se te ne dimenticassi!" nointeract
 
 
 translate english kira_about_cuni_06c8a7c0:
 
 
-    Kira_07 "It must have been something important if you decided not to come see your beautfiul, naked Aunt in the shower!"
+    Kira_07 "Deve essere stato qualcosa di importante, dal momento che hai deciso di non venire dalla tua amata zia completamente nuda sotto la doccia!"
 
 
 translate english kira_about_cuni_7ea229cb:
 
 
-    Max_09 "My sisters needed help! Is your invitation still valid?"
+    Max_09 "Le sorelle hanno bisogno di aiuto! Il tuo invito e' ancora valido?"
 
 
 translate english kira_about_cuni_17b9a3e8:
 
 
-    Kira_04 "Tonight, when I get back from work. Unless, of course, you fall asleep before..."
+    Kira_04 "Anche se solo di notte, Max. A meno che, naturalmente, non ti addormenti prima del mio ritorno..."
 
 
 translate english kira_about_cuni_92d34ad2:
 
 
-    Kira_04 "Only tomorrow night, Max. When I come back from work. Unless, of course, you fall asleep before..."
+    Kira_04 "Se solo domani sera, Max. Quando torno dal lavoro. A meno che, naturalmente, non ti addormenti prima del mio ritorno..."
 
 
 translate english kira_about_cuni_a74acaec:
 
 
-    Max_02 "I won't forget, I'll wait for you!"
+    Max_02 "Non crollero', ti aspettero'!"
 
 
 translate english kira_about_cuni_a7579d1c:
@@ -1534,115 +1534,115 @@ translate english KiraTalkStart_7e1cb4f7:
 translate english kira_about_photo2_95c353c3:
 
 
-    Kira_05 "What, Max, can't wait?"
+    Kira_05 "Cosa, Max, non puoi aspettare?"
 
 
 translate english kira_about_photo2_3e9c6954:
 
 
-    Max_01 "Well I'm ready! Are you?"
+    Sono pronto! Destra?"
 
 
 translate english kira_about_photo2_1d7615a9:
 
 
-    Kira_04 "I am, but we don't have the house to ourselves yet... It would be too hard to explain if we were to be caught."
+    Kira_04 "Anch'io ho tutto pronto, ma come sai, ora non siamo soli a casa. It would be too hard to explain if we were to be caught."
 
 
 translate english kira_about_photo2_ef86c016:
 
 
-    Max_07 "Er... Explain what?"
+    Kira_07 "Oh, Max... Che cosa?"
 
 
 translate english kira_about_photo2_37f9ae96:
 
 
-    Kira_07 "That's a surprise, Max. So be patient."
+    Kira_07 "E questa e' una sorpresa, Max. Quindi abbi pazienza..."
 
 
 translate english kira_about_photo2_cc5c82d4:
 
 
-    Max_04 "Understood..."
+    Kira_07 "Oh, Max...
 
 
 translate english kira_about_photo2_246387f7:
 
 
-    Kira_04 "I'm ready too. This time, I need an extra special photo shoot..." nointeract
+    Max_01 "Ok sto aspettando." Ho bisogno di un servizio fotografico speciale questa volta..." nointeract
 
 
 translate english kira_about_photo2_7455059f:
 
 
-    Kira_07 "What, not even curious about what it is? Well, then, let's go to your Mom's room..."
+    Kira_07 "Cosa, nemmeno curioso di sapere di cosa parla il discorso? Bene, allora andiamo nella stanza di tua madre..."
 
 
 translate english kira_about_photo2_60e45d8b:
 
 
-    Max_07 "Okay, but why?"
+    Max_07 "Ok, perche'?"
 
 
 translate english kira_about_photo2_22b6f676:
 
 
-    Kira_07 "You'll see, come."
+    Kira_02 "E ora lo scoprirai.
 
 
 translate english kira_about_photo2_60e45d8b_1:
 
 
-    Max_07 "Okay... But why?"
+    Kira_07 "Oh, Max... Max_07 "Ok, perche'?"
 
 
 translate english kira_about_photo2_d01a437e:
 
 
-    Kira_02 "You'll know shortly. Hurry now, we need to do this before the others get back from shopping."
+    Kira_02 "You'll know shortly. Andiamo piu' veloci, dobbiamo avere tempo per fare tutto prima che il nostro torni dalla spesa..."
 
 
 translate english kira_about_photo2_6374794e:
 
 
-    Max_01 "Aha..."
+    Max_07 "Qualcosa del genere..."
 
 
 translate english kira_about_photo2_f75acffb:
 
 
-    Kira_06 "This time I need shots in a certain style... BDSM... Ropes, leather, that's all..."
+    Kira_06 "In generale, questa volta ho bisogno di una serie di scatti nello stile di... BDSM... Corde, pelle, tutto qui..."
 
 
 translate english kira_about_photo2_d8e7f542:
 
 
-    Max_03 "Oh, wow!"
+    Max_03 "{i} (Wow!
 
 
 translate english kira_about_photo2_096955da:
 
 
-    Kira_07 "What are you so happy about? I didn't say who would be getting tied up."
+    Kira_07 "Perche' sei cosi' felice, non ho detto chi legheremo..." I didn't say who would be getting tied up."
 
 
 translate english kira_about_photo2_1354d716:
 
 
-    Max_02 "You don't need to. I'm the photographer, so it's pretty obvious."
+    Max_02 "Non mi importa! Ma io sono un fotografo, quindi ti legheremo sicuramente."
 
 
 translate english kira_about_photo2_fa67fb03:
 
 
-    Kira_05 "Well aren't you switched on! I'm glad you don't mind. Wait outside the door for a minute while I change..."
+    Kira_13 "Che ragazzo cattivo che sei! Sono contento che non ti dispiaccia. Aspetta un attimo fuori dalla porta, mi cambio..."
 
 
 translate english kira_about_photo2_8159a78d:
 
 
-    Max_01 "All right, I'm waiting."
+    Kira_05 "Ottimo, Massimo.
 
 
 translate english kira_about_photo2_d60ba812:
@@ -1654,109 +1654,109 @@ translate english kira_about_photo2_d60ba812:
 translate english kira_about_photo2_e610eb0a:
 
 
-    Kira_06 "Well, how do you like my outfit? Worth the wait?"
+    Beh, ti piace il mio vestito?" Worth the wait?"
 
 
 translate english kira_about_photo2_9cb75980:
 
 
-    Max_05 "Absolutely... Aunt Kira, you look gorgeous!"
+    Kira_08 "Si... Max_02 "Certo, zia Kira!"
 
 
 translate english kira_about_photo2_38650218:
 
 
-    Max_03 "{i}( Damn, that's a hot outfit! I hope she doesn't notice my... What am I saying? It's Kira! She's probably even getting turned on right now... ){/i}"
+    Max_07 "{i} (Beh, copre solo le cose piu' interessanti con questo vestito di pelle... Spero non si accorga di me, altrimenti... Pero', di cosa sto parlando?! E' Kira! La fa anche eccitare...) {/i}" ){/i}"
 
 
 translate english kira_about_photo2_b7c89231:
 
 
-    Max_07 "{i}( That leather suit is covering all the most interesting bits... I could make it look even better if she let me undress her! Is it just me, or does she seem to get off from dressing so openly? ){/i}"
+    Max_04 "{i} (Le corde e la pelle sono interessanti! Anche se sara' piu' interessante per me spogliarla! Mi sembra, o in qualche modo si veste in modo troppo erotico?) {/i}" ){/i}"
 
 
 translate english kira_about_photo2_14506dda:
 
 
-    Kira_06 "Do you think I haven't noticed you peeking? That's exactly what I expected. Well, how do you like my outfit?"
+    Kira_07 "Cosa ti confonde? Questo e' quello che mi aspettavo da te. Well, how do you like my outfit?"
 
 
 translate english kira_about_photo2_2e41e060:
 
 
-    Max_04 "You look gorgeous!"
+    Max_04 "Sei bellissima!"
 
 
 translate english kira_about_photo2_3b99b008:
 
 
-    Kira_04 "That's great to hear! Now, let's get started. I need some shots with the bed in the background. Oh, and also, don't tell your mom I've been walking around in boots..."
+    Kira_04 "That's great to hear! Allora cominciamo. Devi scattare alcune foto sullo sfondo della stanza e del letto. A proposito, non dire a mia madre che stavo calpestando i miei stivali..."
 
 
 translate english kira_about_photo2_17697838:
 
 
-    Max_01 "You got it! Now let's capture a good angle... Imagine the girl in that picture on the wall has come to life and wants to touch your chest! {p=1.5}{nw}"
+    Max_01 "Giusto!" Ora selezionero' solo un angolo piu' interessante e sara' eccellente... Oh si, tieni duro, come se la ragazza della foto sul muro non potesse resistere e decidesse di toccarti il petto! {p=1.5}{nw}"
 
 
 translate english kira_about_photo2_1e1833a1:
 
 
-    extend "Done! Now lie down on the bed..."
+    extend "Fatto! Now lie down on the bed..."
 
 
 translate english kira_about_photo2_3632b5af:
 
 
-    Kira_05 "Will that be good enough? Or should the first shots be more exciting?"
+    Sembra buono?" O troppo modesto per i primi scatti?"
 
 
 translate english kira_about_photo2_5a7f8753:
 
 
-    Max_02 "It's great! I'll just get a better angle and it'll be perfect... {p=1.5}{nw}"
+    Max_02 "Giusto! I'll just get a better angle and it'll be perfect... {p=1.5}{nw}"
 
 
 translate english kira_about_photo2_2281fcac:
 
 
-    extend "Aha, that's it! Now let's see your ass again. Lie down as if you're tired and resting..."
+    extend "Si C'e'! Now let's see your ass again. Lie down as if you're tired and resting..."
 
 
 translate english kira_about_photo2_b4d729d5:
 
 
-    Kira_09 "After all these laces and buckles, I should have no trouble feigning fatigue... But I have enough energy for everything that will happen next."
+    Kira_09 "Dopo tutti questi lacci e chiusure, non sara' difficile per me ritrarre la fatica... Ma ho abbastanza forza per tutto cio' che accade dopo."
 
 
 translate english kira_about_photo2_cc3722f2:
 
 
-    Max_03 "Is that the zipper on your panties, Aunt Kira? {p=1.5}{nw}"
+    Max_03 "E questa e' la cerniera delle tue mutandine, zia Kira? {p=1.5}{nw}"
 
 
 translate english kira_about_photo2_08b22229:
 
 
-    extend "I'd love to unbutton it, but let's start at the top. It must be very hot in all that leather..."
+    extend "I'd love to unbutton it, but let's start at the top. Deve essere molto caldo in tutta questa pelle..."
 
 
 translate english kira_about_photo2_b42365a4:
 
 
-    Kira_07 "Very much, Max! And it's a crime to keep my pretty girls out of sight. Isn't that right?"
+    Kira_01 "Fantastico, Max! Ed e' un crimine nascondere alla vista le mie adorabili ragazze. Non e' vero?"
 
 
 translate english kira_about_photo2_663fd71a:
 
 
-    Max_04 "Yeah, those puppies deserve some fresh air. You're on fire! {p=1.5}{nw}"
+    Max_04 "Yeah, those puppies deserve some fresh air. Ce l'hai - fuoco! {p=1.5}{nw}"
 
 
 translate english kira_about_photo2_a22807a0:
 
 
-    extend "That's a good shot. What did you say about the ropes?"
+    extend "That's a good shot. Cosa hai detto delle corde?"
 
 
 translate english kira_about_photo2_eb14f139:
@@ -1768,133 +1768,133 @@ translate english kira_about_photo2_eb14f139:
 translate english kira_about_photo2_e9b5eb7d:
 
 
-    Kira_05 "Now we need to take some pictures where I have to look very depraved! I'll need your undivided attention..." nointeract
+    Ora dobbiamo fare delle foto in cui devo sembrare molto birichina! Prenditi il tuo tempo..." nointeract
 
 
 translate english kira_about_photo2_d43cbc87:
 
 
-    Kira_13 "What a naughty boy, doing that to your aunt! Untie me quickly, or your mother will find out! This was only supposed to help you focus..."
+    Ora, cazzo tua zia!" nointeract Untie me quickly, or your mother will find out! This was only supposed to help you focus..."
 
 
 translate english kira_about_photo2_ed7eabcb:
 
 
-    Max_01 "Sure, and what would she find out? What kind of shameless and dirty sister she has? {p=1.5}{nw}"
+    Max_01 "Sure, and what would she find out? Qual e' la sua sorella spudorata e depravata? {p=1.5}{nw}"
 
 
 translate english kira_about_photo2_499c97e0:
 
 
-    extend "Why don't you tell me how you like to suck my cock?"
+    extend "E anche come ti piace succhiarmi il cazzo puoi dirlo?"
 
 
 translate english kira_about_photo2_76feb6c2:
 
 
-    Kira_10 "Do you think you can shut me up?! Your mom will know!" nointeract
+    Kira_10 "Credi di potermi tacere?! Tua mamma sapra' tutto!" nointeract
 
 
 translate english kira_about_photo2_6714f4ea:
 
 
-    Max_02 "Yes... Like this... This is way more fun when I can do whatever I want with you! I should take another picture first, though..."
+    Max_03 "Si, farei clic su..." Da fare... Con te posso fare tutto quello che mi viene in mente! Anche se prima avrei fatto un altro scatto..."
 
 
 translate english kira_about_photo2_2779f8a6:
 
 
-    Kira_03 "Well, Max... Did you see what you wanted? Did you like it? Oh, I mean, hurry up and untie me..."
+    Kira_03 "Ebbene Max... Hai visto cosa volevi? Piace? Oh, volevo dire, ora chiudi la cerniera e slegami..."
 
 
 translate english kira_about_photo2_1bb70dcb:
 
 
-    Max_07 "Oh, let's not rush it... But I'll still untie you to make things a little easier, starting with your leather underwear." nointeract
+    Max_05 "Cosa sei, zia Kira... Inoltre, preferirei toglierti quelle mutandine di pelle.
 
 
 translate english kira_about_photo2_eb2363b9:
 
 
-    Kira_06 "Ahh... It's definitely easier... Ahh... to do... that. Yes... You've become very good at it. Oh, I love it when you do that!" nointeract
+    Kira_06 "Spero... Probabilmente difficile? Ahh... Da fare... Esatto... Si... Sei diventato molto bravo in questo. Oh, mi piace quando lo fai!" nointeract
 
 
 translate english kira_about_photo2_37168e7e:
 
 
-    Kira_08 "Yes... So good... Mmm... Maybe it's time for something else..." nointeract
+    Kira_10 "Si... Che bello... Mmm... Forse e' ora di mettere in atto qualcos'altro..." nointeract
 
 
 translate english kira_about_photo2_e9b9fac1:
 
 
-    Kira_09 "If you continue like this, I won't be able to hold back... You have such good fingers... Yes..." nointeract
+    Se continui cosi', non riusciro' a trattenermi... Hai delle dita cosi' abili... Bene, qual e' il problema, dimmi..." nointeract
 
 
 translate english kira_about_photo2_67976a1c:
 
 
-    Kira_10 "Yes... Just a little more and I'll come... Then maybe you can use something thicker than your fingers. Just take your time..." nointeract
+    Kira_07 "Beh... Ancora un po' e finisco... Forse puoi usare qualcosa di piu' grosso delle dita e della lingua? So che hai gia' voglia di..." nointeract
 
 
 translate english kira_about_photo2_c99a9a7c:
 
 
-    Kira_07 "Oh... You must be dying to fuck me! I think I want it too..."
+    Kira_07 "Capisco, Max. Devi essere impaziente di piantarmi! E quanto lo voglio..."
 
 
 translate english kira_about_photo2_c99a9a7c_1:
 
 
-    Kira_07 "Oh... You must be dying to fuck me! I think I want it too..."
+    Kira_14 "E' un peccato... Devi essere impaziente di piantarmi! Immagina cosa penserebbero se vedessero questo..."
 
 
 translate english kira_about_photo2_eb2363b9_1:
 
 
-    Kira_06 "Ahh... It's definitely easier... Ahh... To do... It. Yes... You've become very good at it. Oh, I love it when you do that!" nointeract
+    Max_09 "Si, e' tutto strano..." It's definitely easier... Ahh... Sospetti di tutto... Li'. si... Sei diventato molto bravo in questo. Oh, mi piace quando lo fai!" nointeract
 
 
 translate english kira_about_photo2_37168e7e_1:
 
 
-    Kira_08 "Yes... So good... Mmm... Maybe it's time for something else..." nointeract
+    Kira_08 "Si, quasi una star! Che bello... Mmm... Per renderlo piu' conveniente..." nointeract
 
 
 translate english kira_about_photo2_c99a9a7c_2:
 
 
-    Kira_07 "Oh... You must be dying to fuck me! I think I want it too..."
+    Max_07 "Quindi e' vero porno..." Devi essere impaziente di piantarmi! I think I want it too..."
 
 
 translate english kira_about_photo2_dc8e7c61:
 
 
-    Kira_09 "Uhh, it's been a long time since I've had one this big... A-a-a... That's it, Max... Take your time, let me get used to it... Now, fuck your aunt!" nointeract
+    Kira_09 "Wow, non ne ho avuto uno cosi' grande in me da molto tempo... si... Questo e' tutto, Max... Non avere fretta, fammi abituare... Lo fai con tua zia...
 
 
 translate english kira_about_photo2_5e707a5f:
 
 
-    Kira_11 "Ah, I was right to prepare you for the first time! Mmm... Otherwise, you would have come almost as soon as you got inside me... And I wanted my beloved nephew to enjoy sex with me! You even had time to take pictures! Oh..." nointeract
+    Kira_11 "Ah, ho fatto bene a decidere di prepararti per la prima volta! Mmm... Altrimenti avresti finito quasi appena mi fossi penetrato... E volevo che il mio adorato nipote si godesse il sesso con me! Ma le foto erano belle!" Oh..." nointeract
 
 
 translate english kira_about_photo2_d2748148:
 
 
-    Kira_12 "Yes... Deeper, faster! Fuck that pussy, fuck me the way you want! Yes, that's it... Oh, I'm coming... A-a-a..." nointeract
+    Kira_12 "Yes... Piu' in profondita', piu' velocemente! Al diavolo la tenerezza, fottimi come vuoi! Yes, that's it... Dannazione, sono gia' sull'orlo... Altrimenti non ci capiranno..." nointeract
 
 
 translate english kira_about_photo2_b83148a3:
 
 
-    Kira_07 "Feel better, Max? How was your first time? Was it what you were expecting?"
+    Kira_07 "Bene, ti senti meglio, Max? Ti piace la prima volta? Was it what you were expecting?"
 
 
 translate english kira_about_photo2_f2e0ce1e:
 
 
-    Max_05 "That was awesome! I could do it all day!"
+    Kira_05 "Sei pieno di sorprese, Max! I could do it all day!"
 
 
 translate english kira_about_photo2_20b9c0f0:
@@ -1906,25 +1906,25 @@ translate english kira_about_photo2_20b9c0f0:
 translate english kira_about_photo2_c7e8b3a3:
 
 
-    Kira_07 "Thanks for not leaving me like this until your mom and Eric arrived... We'd have to explain a lot to them, and we don't want anyone to know our secrets, do we?"
+    Kira_07 "Grazie, Max, per non avermi lasciato cosi' prima che arrivassero tua madre ed Eric... Avrei dovuto spiegare loro molte cose, e non vogliamo che i nostri segreti vengano a conoscenza di nessuno, giusto?"
 
 
 translate english kira_about_photo2_18aab452:
 
 
-    Max_02 "Of course, Aunt Kira!"
+    Kira_05 "Ora immagino, Max, di recitare completamente nudo!
 
 
 translate english kira_about_photo2_121983c7:
 
 
-    Kira_05 "We had a lot of fun, and I'm stating the obvious here, but let's keep this between us... Have a good day, Max. If it could even get any better... "
+    Kira_05 "Ci siamo divertiti molto. Sei qui, Max?" nointeract If it could even get any better... Pazza!"
 
 
 translate english kira_about_photo2_92defb81:
 
 
-    Max_01 "Thanks for the photo-shoot!"
+    Max_01 "Grazie per la sessione fotografica!"
 
 translate english strings:
 
@@ -2600,15 +2600,15 @@ translate english strings:
 
 
     old "Но это моя семья! \n{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
-    new "But this is my family! \n{color=[ch1.col]}(Persuasion. Chance: [ch1.vis]){/color}"
+    new "Ma questa e' la mia famiglia!\n{color=[ch1.col]} (Persuasione. \n{color=[ch1.col]} (Persuasione. Possibilita': [ch1.vis]) {/color}"
 
 
     old "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь... \n{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
-    new "It's not like I've got an ulterior motive! I want to help her. \n{color=[ch1.col]}(persuasion. Chance: [ch1.vis]){/color}"
+    new "Non lo chiedo per scopi egoistici! Voglio aiutarla... Possibilita': [ch1.vis]) {/color}" Chance: [ch1.vis]){/color}"
 
 
     old "Так ты бросила там мою маму?"
-    new "So you left my mom there?"
+    new "Quindi hai lasciato mia madre li'?"
 
 
     old "Тебе удалось сбежать?"
