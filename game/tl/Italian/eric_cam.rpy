@@ -4,181 +4,181 @@
 translate english cam0_eric_ann_sleep_a3ac7d5a:
 
 
-    Max_01 "Mom and Eric are sleeping completely naked. No shame, no conscience..."
+    Max_01 "Mamma ed Eric stanno dormendo completamente nudi. Nessuna vergogna, nessuna coscienza..."
 
 
 translate english cam0_eric_ann_shower_e29b6be3:
 
 
-    Max_09 "Mom and Eric can't be seen through this camera... Can I look through the other one?"
+    Max_09 "Mamma ed Eric non possono essere visti attraverso questa telecamera... Forse guardano attraverso l'altra?"
 
 
 translate english cam0_eric_ann_shower_d5dc1a0c:
 
 
-    Max_09 "Mom and Eric can't be seen through this camera..."
+    Max_09 "Mamma ed Eric non sono visibili attraverso questa telecamera..."
 
 
 translate english cam0_eric_ann_shower_a12fda17:
 
 
-    Max_07 "Wow... Looks like there's more going on than just taking a shower!"
+    Max_07 "Wow... Sembra che ci sia molto altro in arrivo oltre alla semplice doccia!"
 
 
 translate english cam0_eric_ann_shower_86fdc169:
 
 
-    Max_08 "Looks like Eric has settled in well... Mom is really enjoying sucking him off!"
+    Max_08 "Si, Eric si e' sistemato bene... La mamma lo succhia con un tale piacere, non riesce a staccarsi!"
 
 
 translate english cam0_eric_ann_shower_22662e7c:
 
 
-    Max_04 "Eric is lucky... Mom is so affectionate with her hands!"
+    Max_08 "Quanto e' stato fortunato Eric! Dopotutto, mia madre ha mani cosi' gentili e tenere!"
 
 
 translate english cam0_eric_ann_shower_ff432e4e:
 
 
-    Max_06 "Wow! They look like they're really into it! Looking at Mom's face, she's enjoying it..."
+    Max_06 "Fanculo! They look like they're really into it! E sembra che alla mamma piaccia davvero!"
 
 
 translate english cam0_eric_ann_shower_447bb5aa:
 
 
-    Max_05 "Wow! Eric's pounding Mom from behind with so much force...she's even pressing her ass back against him at the end of every thrust!"
+    Max_05 "Wow! Eric scopa sua madre da dietro, ma cosi' attivamente...
 
 
 translate english cam0_eric_ann_shower_003db972:
 
 
-    Max_09 "Eric's just given Mom a money shot, like in some kind of porno! She's even caught some of his cum in her mouth!"
+    Eric viene proprio sulla faccia di mamma come in un porno! Inoltre, le piace cosi' tanto che sorride e cattura il suo sperma con la bocca!"
 
 
 translate english cam0_eric_ann_shower_bf82d597:
 
 
-    Max_01 "Well, Who would have doubted that Eric wouldn't last long. Mom knows what she's doing!"
+    Chi dubiterebbe che Eric non durera' troppo a lungo. La mamma conosce i suoi affari!"
 
 
 translate english cam0_eric_ann_shower_7630adf0:
 
 
-    Max_07 "Oh, Eric's already finished. Lucky bastard, and she's still smiling?"
+    Max_08 "{i} (Oh, Eric non ha resistito e ha finito... E sorride ancora?!"
 
 
 translate english cam0_eric_ann_shower_f5884de3:
 
 
-    Max_08 "Damn, he's already finished, lucky bastard. Came all over Mom's back and ass!"
+    Max_08 "{i} (Si', il coglione e' andato via... Ha spruzzato tutta la schiena di sua madre con il suo culo di sperma!"
 
 
 translate english cam1_eric_ann_shower_6725d9af:
 
 
-    Max_07 "Ohh... that looks intimate. Look's like something interesting is about to happen."
+    Max_07 "Ohh... that looks intimate. Sembra che qualcosa iniziera' ora..."
 
 
 translate english cam1_eric_ann_shower_dcf7279d:
 
 
-    Max_10 "Mom's giving him another blowjob... I wonder if this is her way of releasing her sexual frustration, or if she actually loves him?"
+    Max_10 "Mia madre lo sta succhiando di nuovo... Le piace davvero farlo cosi' tanto o lo ama cosi' tanto?"
 
 
 translate english cam1_eric_ann_shower_41ff898a:
 
 
-    Max_08 "Damn! I'd kill to be in his place! Her wet ass is sliding up and down his cock so hypnotically, it's making my head spin!"
+    Max_08 "Oh mio Dio! I'd kill to be in his place! Quando il suo culo bagnato cavalca cosi' meravigliosamente sul cazzo, la sua testa inizia a girare!"
 
 
 translate english cam1_eric_ann_shower_1f796a37:
 
 
-    Max_10 "That's what they get up to! Eric's taking Mom in front of the mirror, spreading her like she's some slut..."
+    Max_10 "Wow! Eric si scopa sua madre, allargandola davanti allo specchio come una specie di troia..."
 
 
 translate english cam1_eric_ann_shower_a29fe6f5:
 
 
-    Max_08 "She took all his cum in her mouth and over her face, now she's greedily licking his cock clean..."
+    Ha preso tutto il suo sperma in bocca e in faccia, e ora con tale avidita' e piacere glielo lecca via dal pene..."
 
 
 translate english cam1_eric_ann_shower_9aaa6a3b:
 
 
-    Max_10 "Well it didn't take long to wait for the finale! Look's like everyone had fun, as usual..."
+    Max_10 "Ma la finale non si e' fatta attendere! E sembra che tutto sia piaciuto, come sempre..."
 
 
 translate english cam1_eric_ann_shower_e29b6be3:
 
 
-    Max_09 "Mom and Eric can't be seen through this camera... Can I look through the other one?"
+    Max_09 "Mamma ed Eric non possono essere visti attraverso questa telecamera... Forse guardano attraverso l'altra?"
 
 
 translate english cam0_eric_resting_2cc4c213:
 
 
-    Max_01 "Oh, is this the nature channel? I must be watching a guerilla, or a chimpanzee on steroids..."
+    Max_01 "Oh, spettacolo \"Nel mondo animale\"! Che si tratti di uno scimpanze' sotto steroidi o di un gorilla..."
 
 
 translate english cam0_eric_ann_tv_e5606f30:
 
 
-    Max_01 "Mom and Eric are watching a movie. Probably more porn..."
+    Max_01 "Mamma ed Eric stanno guardando un film. Sicuramente, ancora una volta, il porno..."
 
 
 translate english cam0_eric_ann_tv_28588bd6:
 
 
-    Max_01 "Mom and Eric are watching a movie. I wonder which one?"
+    Max_01 "Mamma ed Eric stanno guardando un film. Mi chiedo quale?"
 
 
 translate english cam0_eric_ann_tv_814eef63:
 
 
-    Max_08 "How many times do I need to say Eric is lucky? I'd kill to have Mom's hands skillfully wrapped around my cock..."
+    Beh, Eric e' stato fortunato... Se le mani gentili e abili di mia madre accarezzassero il mio pene..."
 
 
 translate english cam0_eric_ann_tv_91bf9136:
 
 
-    Max_08 "Damn Mom, you're not even interested in what's on the screen. You're just focusing on sucking off Eric!"
+    Max_08 "Dannazione, mamma, sei cosi' disinteressata a quello che sta succedendo sullo schermo o ti piace solo succhiare Eric?!" Eric ha gia' finito...
 
 
 translate english cam0_eric_ann_tv_01416e5e:
 
 
-    Max_09 "Of course, just watching TV isn't enough. They also have to do this..."
+    Max_09 "Beh, ovviamente, non si limiteranno a guardare cosa sta succedendo sullo schermo, e' imperativo farlo..." They also have to do this..."
 
 
 translate english cam0_eric_ann_tv_5f6b9297:
 
 
-    Max_10 "Oh, well, it's definitely better without a towel... But you're in the living room! What if someone walks in on this..."
+    Max_10 "Ah, si, senza asciugamano e' decisamente meglio... Ma tu sei in soggiorno! E se qualcuno entra e ti diverti qui..."
 
 
 translate english cam0_eric_ann_fucking_6381ec84:
 
 
-    Max_09 "Mom and Eric are lying in bed, probably exhausted. Looks like they actually talk to each other when they're not busy fucking."
+    Max_09 "La mamma stanca ed Eric sono sdraiati sul letto. Looks like they actually talk to each other when they're not busy fucking."
 
 
 translate english cam0_eric_ann_fucking_3495581a:
 
 
-    Max_07 "They didn't let me peek through the window, so we'll check in through the camera... And of course they're having fun!"
+    Max_07 "Non mi hanno dato una sbirciatina dalla finestra, quindi lo controlleremo attraverso la telecamera... E si stanno divertendo qui, in arrivo!"
 
 
 translate english cam0_eric_ann_fucking_f159866a:
 
 
-    Max_07 "I better not dare peek through the window, they might notice. But I can look as much as a want through the camera, and it looks like I picked a good time!"
+    Max_07 "Non ho osato sbirciare dalla finestra, potrebbero notarlo, ma attraverso la telecamera posso godermi impunemente quanto voglio... But I can look as much as a want through the camera, and it looks like I picked a good time!"
 
 
 translate english cam0_eric_ann_fucking_61e6a6a9:
 
 
-    Max_07 "Wow! It's almost as good as watching porn..."
+    Max_07 "Wow! E' come guardare un porno..."
 
 
 translate english cam0_eric_ann_fucking_96882403:
@@ -272,79 +272,79 @@ translate english cam0_sexed_lisa_cd87d381:
 translate english cam0_sexed_lisa_39b6afbd:
 
 
-    Max_08 "{i}( It's a pity the cameras don't transmit sound. I'll have to ask Lisa what they were talking about! ){/i}"
+    Max_08 "{i} (Peccato che le telecamere non trasmettano il suono. Bisognera' chiedere a Lisa di cosa stavano parlando!) {/i}" I'll have to ask Lisa what they were talking about! ){/i}"
 
 
 translate english cam0_sexed_lisa_ec99c2de:
 
 
-    Max_07 "{i}( Lisa made it to her lesson. Let's see what happens... ){/i}"
+    Max_07 "{i} (Lisa e' venuta a lezione con sua madre ed Eric. Vediamo cosa succede...) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_e3adf436:
 
 
-    Max_09 "{i}( Here's Eric! He hung out his cock... I wonder what they're telling Lisa ){/i}"
+    Max_09 "{i} (Ecco Eric! Ha appeso fuori il suo membro... Molto probabilmente, hanno deciso di mostrare a Lisa di cosa si trattava.) {/i}"
 
 
 translate english cam0_sexed_lisa_42d2aaeb:
 
 
-    Max_08 "{i}( Yeah, there they go... And Eric talked Mom into all this... ){/i}"
+    Max_07 "Oh, dannazione... Ed Eric ha convinto sua madre a fare tutto questo...) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_ec99c2de_1:
 
 
-    Max_07 "{i}( Lisa made it to her lesson. Let's see what happens... ){/i}"
+    Max_07 "{i} (Lisa e' venuta a lezione con sua madre ed Eric. Vediamo cosa succede...) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_7fb4b50b:
 
 
-    Max_09 "{i}( Mom's already jerking off Eric in front of Lisa! I wonder what they're talking about? ){/i}"
+    Max_09 "{i} (La mamma di fronte a Lisa sta gia' masturbando Eric come se fosse cosi'! Chissa' cosa le dicono li'?) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_90313c76:
 
 
-    Max_08 "{i}( Yeah, Mom's turning up the heat with a display of her gorgeous tits... And Eric talked her into all this! ){/i}"
+    Max_08 "{i} (Si', la mamma si alza di grado mostrando i suoi splendidi seni... Ed Eric ha convinto sua madre a fare tutto questo!) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_ec99c2de_2:
 
 
-    Max_07 "{i}( Lisa made it to her lesson. Let's see what happens... ){/i}"
+    Max_07 "{i} (Lisa e' venuta a lezione con sua madre ed Eric. Vediamo cosa succede...) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_e1ae85f3:
 
 
-    Max_09 "{i}( Jerking off Eric in front of Lisa for educational purposes? Of course, the usual stuff... I wonder what they're telling her? ){/i}"
+    Max_09 "{i} (Masturbarsi Eric davanti a Lisa per scopi didattici? Certo, e' una cosa comune, non fate caso... I wonder what they're telling her? ){/i}"
 
 
 translate english cam0_sexed_lisa_19cd50f3:
 
 
-    Max_08 "{i}( Oh, I wouldn't say no to that! Just the thought of Mom's hands gently massaging my balls makes me want to cum... ){/i}"
+    Max_08 "{i} (Oh, non mi dispiacerebbe! Solo pensare alle mani di mia madre che massaggiano dolcemente le mie palle mi fa venire voglia di venire...) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_ec99c2de_3:
 
 
-    Max_07 "{i}( Lisa made it to her lesson. Let's see what happens... ){/i}"
+    Max_07 "{i} (Lisa e' venuta a lezione con sua madre ed Eric. Vediamo cosa succede...) {/i}" ){/i}"
 
 
 translate english cam0_sexed_lisa_2fbe73f5:
 
 
-    Max_09 "{i}( Jerking off... I guess they're consolidating. How many times are they going to do this?! ){/i}"
+    Max_04 "Ohh... I guess they're consolidating. How many times are they going to do this?! ){/i}"
 
 
 translate english cam0_sexed_lisa_6253e993:
 
 
-    Max_08 "{i}( Oh, Eric couldn't take it and came... It's likely they decided to show Lisa what it was all about. ){/i}"
+    Max_08 "Dannazione... It's likely they decided to show Lisa what it was all about. ){/i}"
 
 
 
