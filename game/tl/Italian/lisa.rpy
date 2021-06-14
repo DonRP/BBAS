@@ -4,73 +4,73 @@
 translate english lisa_shower_1532bb65:
 
 
-    Max_00 "Lisa is in the shower..." nointeract
+    Max_00 "Lisa sta facendo la doccia ora..." nointeract
 
 
 translate english lisa_shower_97ede92e:
 
 
-    Max_14 "Lisa already caught me peeking. She threatened to tell Mom. I don't want to risk making her any angrier."
+    Max_14 "Lisa mi ha gia' beccato a sbirciare. Ho minacciato di dirlo a mia madre. I don't want to risk making her any angrier."
 
 
 translate english lisa_shower_309d9d70:
 
 
-    Max_09 "Lisa almost caught me peeping. Lucky I escaped in time. Don't want to risk it again."
+    Max_01 "Oggi ho gia' spiato Liza. Lucky I escaped in time. Non rischiare di nuovo."
 
 
 translate english lisa_shower_854c3ca9:
 
 
-    Max_01 "I've already spied on Lisa today and didn't get caught. Don't want to push my luck."
+    Max_09 "Oggi sono quasi stata beccata da Lisa mentre faceva capolino. Sono stato fortunato a essere riuscito a scappare in tempo. Don't want to push my luck."
 
 
 translate english lisa_shower_791d34d9:
 
 
-    Max_09 "Looks like Lisa is in the bath..." nointeract
+    Max_09 "Sembra che Lisa stia facendo qualcosa in bagno..." nointeract
 
 
 translate english lisa_shower_7a2afa4f:
 
 
-    Lisa "{b}Lisa:{/b} Who's there? I'm not done yet. Just give me a few more minutes..." nointeract
+    Lisa "{b}Lisa:{/b} Chi c'è lì? Non ho ancora finito. Aspetta un po'..." nointeract
 
 
 translate english lisa_shower_0451df43:
 
 
-    Lisa "{b}Lisa:{/b} What do you want, Max? I'm not done yet!" nointeract
+    Lisa "{b} Lisa: {/b} Max, cosa volevi? Sto arrivando presto!" nointeract
 
 
 translate english lisa_shower_d84f6a90:
 
 
-    Lisa "{b}Lisa:{/b} No, Max. Just hold on, I'm almost done!" nointeract
+    Lisa "{b} Lisa: {/b} No, Max. Dico, parto presto!" nointeract
 
 
 translate english lisa_shower_8d94a43d:
 
 
-    Max_10 "I want to take another look at my naked sister, but I haven't given her what I promised yet..."
+    Max_10 "Certo, vorrei guardare ancora una volta la sorella nuda, ma non le ho ancora dato la promessa..."
 
 
 translate english lisa_shower_ladder_2b325faf:
 
 
-    Max_04 "Let's see what we got here..."
+    Max_04 "Vediamo cosa abbiamo qui..."
 
 
 translate english lisa_shower_ladder_76d51683:
 
 
-    Max_03 "Great! Lisa looks very inviting in that robe... Especially when you can see her perky tits so clearly!"
+    Max_07 "Eccellente! Lisa guarda nella vestaglia che ho donato in modo molto seducente... Soprattutto quando le sue tette elastiche sono cosi' chiaramente visibili!"
 
 
 translate english lisa_shower_ladder_86046798:
 
 
-    Max_07 "Oh, yes! My charming sister in nothing but panties... I just want to come in and take them off her beautiful ass!"
+    Max_07 "Oh si! La mia affascinante sorellina in pantaloncini corti... Voglio solo entrare e tirarli fuori dal suo bel culo!"
 
 
 translate english lisa_shower_ladder_595bd709:
@@ -82,37 +82,37 @@ translate english lisa_shower_ladder_595bd709:
 translate english lisa_shower_ladder_90ff417e:
 
 
-    Max_00 "I don't want to, but before I get noticed, I'd better..."
+    Max_00 "Anche se non voglio, ma fino a quando non mi notano, e' meglio andarsene..."
 
 
 translate english lisa_shower_start_peeping_f30ef1eb:
 
 
-    Max_07 "Perfect! My little sister's taking a shower... it's a nice view, as long as she doesn't see me..." nointeract
+    Max_03 "Accidenti! La mia sorellina si fa una doccia... Se solo non mi avesse notato..." nointeract
 
 
 translate english lisa_shower_alt_peepeng_022529c8:
 
 
-    Max_02 "[undetect!t]Lisa's so wet! Her figure and tight body are so hot... I'd love to slide my hands all over it..."
+    Max_02 "[undetect!t] Lisa e' tutta cosi' bagnata... Her figure and tight body are so hot... I'd love to slide my hands all over it..."
 
 
 translate english lisa_shower_alt_peepeng_42f03b58:
 
 
-    Max_03 "[undetect!t]Oh, yeah! The water is rinsing her cute ass, I have to keep my eyes on it..."
+    Max_03 "[undetect!t] Oh si! Per come l'acqua scorre nel suo culo affascinante, voglio guardare senza fermarmi..."
 
 
 translate english lisa_shower_closer_peepeng_022529c8:
 
 
-    Max_02 "[undetect!t]Lisa's so wet! Her figure and tight body are so hot... I'd love to slide my hands all over it..."
+    Max_02 "[undetect!t] Lisa e' tutta cosi' bagnata... Her figure and tight body are so hot... I'd love to slide my hands all over it..."
 
 
 translate english lisa_shower_closer_peepeng_42f03b58:
 
 
-    Max_03 "[undetect!t]Oh, yeah! The water is rinsing her cute ass, I have to keep my eyes on it..."
+    Max_03 "[undetect!t] Oh si! Per come l'acqua scorre nel suo culo affascinante, voglio guardare senza fermarmi..."
 
 
 translate english lisa_shower_not_luck_e8e13c34:
@@ -124,13 +124,13 @@ translate english lisa_shower_not_luck_e8e13c34:
 translate english lisa_shower_pinded_05cff630:
 
 
-    Lisa_12 "[spotted!t]Max! I can't believe you're peeping! I'm telling Mom about this!" nointeract
+    Lisa_12 "[spotted!t] Max! I can't believe you're peeping! Diro' tutto a mia mamma!" nointeract
 
 
 translate english lisa_dressed_school_lisa_dressed_ae455b87:
 
 
-    Max_09 "{i}( Looks like Lisa is getting ready for school... ){/i}" nointeract
+    Max_09 "{i} (Sembra che Lisa stia andando a scuola...) {/i}" nointeract ){/i}" nointeract
 
 
 translate english lisa_dressed_school_look_window_be364192:
@@ -142,31 +142,31 @@ translate english lisa_dressed_school_look_window_be364192:
 translate english lisa_dressed_school_come_in_e44012a5:
 
 
-    Lisa_00 "Max, what's the rush? Don't you know I have to get ready for school?\n\n{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ` ] hide/show the interface.{/i}{/color}" nointeract
+    Lisa_00 "Max, perche' stai rompendo? \n\n{color=[orange]} {i} {b} Suggerimento: {/b} Tasto h per l'interfaccia on/off.
 
 
 translate english lisa_dressed_school_come_in_d468ca42:
 
 
-    Lisa_12 "I knew you should've taken the couch in the living room... Okay, I'm dressed, come in... I'm going to school."
+    Lisa_12 "E sapeva che dovevi essere mandato nei divani del soggiorno... Okay, mi sono gia' vestito, vieni gia'... I'm going to school."
 
 
 translate english lisa_dressed_school_come_in_5991dbe6:
 
 
-    Max_00 "Good luck!"
+    Max_00 "Buona fortuna"
 
 
 translate english lisa_dressed_school_come_in_4357c29a:
 
 
-    Lisa_02 "Anyway, I'm dressed, so you can come in now. I'm going to school."
+    Lisa_02 "In ogni caso, mi sono gia' vestito, quindi entra. I'm going to school."
 
 
 translate english lisa_dressed_school_come_in_5991dbe6_1:
 
 
-    Max_00 "Good luck!"
+    Max_00 "Buona fortuna"
 
 
 translate english lisa_dressed_school_come_in_cc005fe2:
@@ -178,7 +178,7 @@ translate english lisa_dressed_school_come_in_cc005fe2:
 translate english lisa_dressed_school_come_in_a9b3ede6:
 
 
-    Max_00 "Bye, Lisa!"
+    Max_00 "Ciao Lisa!"
 
 
 translate english lisa_dressed_school_come_in_d12137de:
@@ -190,7 +190,7 @@ translate english lisa_dressed_school_come_in_d12137de:
 translate english lisa_dressed_school_come_in_a9b3ede6_1:
 
 
-    Max_00 "Bye, Lisa!"
+    Max_00 "Ciao Lisa!"
 
 
 translate english lisa_dressed_school_come_in_74da160f:
@@ -208,31 +208,31 @@ translate english lisa_dressed_school_come_in_ff787e08:
 translate english lisa_dressed_school_come_in_a9b3ede6_2:
 
 
-    Max_00 "Bye, Lisa!"
+    Max_00 "Ciao Lisa!"
 
 
 translate english lisa_dressed_school_come_in_fac113ab:
 
 
-    Lisa_03 "Oh, a gentleman! Anyway, I'm dressed and going to school, bye!"
+    Lisa_03 "Si, sei un gentiluomo! E sono corso a scuola."
 
 
 translate english lisa_dressed_school_come_in_b153d389:
 
 
-    Lisa_03 "Oh, a gentleman!"
+    Lisa_03 "Si, a quanto pare, un gentiluomo!"
 
 
 translate english lisa_dressed_school_come_in_1f075eff:
 
 
-    Lisa_01 "Anyway, I'm dressed and going to school. Bye!"
+    Lisa_01 "In generale, ho finito qui e sono corso a scuola. Bye!"
 
 
 translate english lisa_dressed_school_come_in_a9b3ede6_3:
 
 
-    Max_00 "Bye, Lisa!"
+    Max_00 "Ciao Lisa!"
 
 
 translate english lisa_dressed_school_open_door_a5a35250:
