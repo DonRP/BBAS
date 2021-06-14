@@ -4,175 +4,175 @@
 translate english olivia_first_meeting_7515fc87:
 
 
-    Lisa_01 "Here's my big brother, meet Olivia, my classmate!"
+    Lisa_01 "Ecco mio fratello maggiore, incontrami, questa e' Olivia, la mia compagna di classe!"
 
 
 translate english olivia_first_meeting_f436f9ae:
 
 
-    Max_04 "Hi, I'm Max!"
+    Max_04 "Ciao, sono Massimo!"
 
 
 translate english olivia_first_meeting_8a767ef2:
 
 
-    Olivia_01 "Nice to meet you, Max!"
+    Olivia_01 "Piacere di conoscerti, Massimo!"
 
 
 translate english olivia_first_meeting_6fc69982:
 
 
-    Max_02 "Yeah, me too... I'm glad Lisa made a friend."
+    Max_02 "Si, anch'io... Sono contenta che Lisa abbia finalmente una ragazza."
 
 
 translate english olivia_first_meeting_55b077a5:
 
 
-    Olivia_04 "I'm glad, too. Wow... You have such a big, beautiful and stylish house... And an amazing pool!"
+    Olivia_04 "Sono lieto anch'io. Wow... Hai una casa cosi' grande, bella ed elegante... E una piscina cosi' bella!"
 
 
 translate english olivia_first_meeting_5adfc42d:
 
 
-    Max_03 "So rest while the sun is still shining!"
+    Max_03 "Quindi riposa mentre il sole splende ancora!"
 
 
 translate english olivia_first_meeting_798cf6f1:
 
 
-    Lisa_02 "Yeah, we're going to change quickly and realx in the pool for an hour or two. We might even get a tan... if someone doesn't get in our way..."
+    Lisa_02 "Si, ci cambieremo velocemente e sguazzeremo in piscina per un'ora o due. Forse avremo tempo per prendere il sole... Se qualcuno non ci da' fastidio..."
 
 
 translate english olivia_first_meeting_269ffcd7:
 
 
-    Max_01 "I won't cause any trouble..."
+    Max_01 "Solo se un po'..."
 
 
 translate english olivia_first_meeting_0a346054:
 
 
-    Olivia_03 "Let's get changed already, then we'll talk."
+    Olivia_03 "Spogliamoci gia', e poi parleremo."
 
 
 translate english olivia_first_meeting_bdf9e8bb:
 
 
-    Lisa_01 "Yes, we'll be right back..." nointeract
+    Lisa_01 "Si, torneremo presto..." nointeract
 
 
 translate english olivia_first_meeting_249478eb:
 
 
-    Max_07 "{i}( Olivia is a pretty girl! I hope this Alex guy isn't anything special... Anyway, Lisa will let me know when she finds out... ){/i}"
+    Max_07 "{i} (E Olivia e' una ragazza carina! Spero che stia con questo Alex solo per il suo aspetto e in effetti, non e' niente di speciale... In un modo o nell'altro, Lisa condividera' ancora queste informazioni con me quando scoprira' tutto...) {/i}" ){/i}"
 
 
 translate english olivia_first_meeting_4001b456:
 
 
-    Olivia_03 "Hey, Max... What are you thinking about?"
+    Olivia_03 "Ehi Max... A cosa stai pensando?"
 
 
 translate english olivia_first_meeting_caf12e57:
 
 
-    Max_06 "It's just... Wow! No, not like that... wow, wow, wow... Did I fall asleep? Or did you just forget something at home?"
+    Max_06 "Si, cosi'... Wow! No, non cosi'... Oh. Mi sono addormentato o cosa?! O hai appena dimenticato qualcosa a casa?"
 
 
 translate english olivia_first_meeting_20e61eff:
 
 
-    Olivia_02 "No, I didn't. In fact, I took more with me than I would have liked... My parents are naturists and we like to live naked, I'm used to it! Well, I know it can be shocking, especially for boys, so I decided to wear at least a swimsuit bottom..."
+    Olivia_02 "No, non ho dimenticato. In effetti, ho portato con me piu' di quanto avrei voluto... I miei genitori sono naturisti e andiamo tutti nudi a casa, ci sono abituato! Beh, so quanto puo' scioccare, specialmente i ragazzi, quindi ho deciso di indossare almeno il fondo di un costume da bagno..."
 
 
 translate english olivia_first_meeting_95624c8d:
 
 
-    Lisa_02 "Yeah, like she's hiding so much..."
+    Lisa_02 "Si, si nasconde cosi' tanto..."
 
 
 translate english olivia_first_meeting_689fb74b:
 
 
-    Max_02 "You know, Olivia, if you're much more comfortable nude, you can take it off! No one will mind..."
+    Max_02 "Sai, Olivia, se sei molto piu' a tuo agio senza costume da bagno, allora puoi toglierlo! A nessuno dispiacera'..."
 
 
 translate english olivia_first_meeting_7348c02f:
 
 
-    Lisa_03 "Of course... Max already seems to have responded to it in his own style..."
+    Lisa_03 "Beh, certo... Max sembra aver gia' reagito a questo a suo modo..."
 
 
 translate english olivia_first_meeting_0bbd8816:
 
 
-    Olivia_05 "That's normal! My dad had the same reaction when we were swimming or sunbathing together... So, I'm used to it!"
+    Olivia_05 "Si, e' normale! Papa' ha avuto la stessa reazione quando siamo andati a nuotare oa prendere il sole con lui... Quindi, ci sono abituato!"
 
 
 translate english olivia_first_meeting_d35082b4:
 
 
-    Max_07 "Did you hear that, Lisa? It's okay! Olivia, where's your Dad now?"
+    Max_07 "Hai sentito, Lisa?E'normale! Ok, tranquillo... Olivia, dov'e' tuo padre adesso?"
 
 
 translate english olivia_first_meeting_a3a21fd8:
 
 
-    Olivia_06 "Well... He and my Mom had a fight some time ago and now he doesn't live with us. Also, our pool is broken and there's no one to fix it... Can I come and use yours?"
+    Olivia_06 "Ebbene... Lui e sua madre hanno litigato qualche tempo fa e ora non vive con noi. E anche la nostra piscina e' rotta e non c'e' nessuno che la aggiusti... Posso venire da te a fare una nuotata?"
 
 
 translate english olivia_first_meeting_7db6c66b:
 
 
-    Max_05 "I'm all for it!"
+    Max_06 "Questo e' wow!"
 
 
 translate english olivia_first_meeting_b88de960:
 
 
-    Olivia_04 "That's great! Come swim with us! Or sunbathe... I'm so jealous of you... You have a clean pool and the palm trees let you see the sky... It's like heaven!"
+    Olivia_04 "Grande! Vieni a nuotare con noi, Max! Oppure prendere il sole... Ti invidio tanto... Hai una piscina pulita e le palme non coprono quasi nulla... E' come il paradiso qui!"
 
 
 translate english olivia_first_meeting_0100401a:
 
 
-    Max_07 "I'd love to, but there's just one thing that might make you uncomfortable..."
+    Max_07 "Sarei felice, ma solo qualcosa ti confondera'..."
 
 
 translate english olivia_first_meeting_04039790:
 
 
-    Olivia_03 "Come on, you're covering up... I don't mind at all! Honestly, I've never seen one that big before... My dad's half, if not three times smaller, like my boyfriend's. Uhh... Did I just say that out loud?"
+    Olivia_03 "Dai, ti nascondi dietro... Non mi da fastidio per niente! Onestamente, non ne ho mai visti di grandi prima... Mio padre ne ha meno di due, se non tre, e il mio ragazzo... Beh... L'ho detto ad alta voce adesso?!"
 
 
 translate english olivia_first_meeting_45794192:
 
 
-    Max_09 "I can see that you don't mind, but Lisa..."
+    Max_09 "Ho gia' capito che questo non ti da' fastidio, ma Liza e' ancora..."
 
 
 translate english olivia_first_meeting_a3c16fbb:
 
 
-    Olivia_05 "Really?! Lisa, I thought you said you and Max slept in the same room... Why are you embarrassed?"
+    Olivia_05 "Ah! Lisa, hai detto che tu e Max vivete nella stessa stanza... Perche' sei imbarazzata?"
 
 
 translate english olivia_first_meeting_79999f7c:
 
 
-    Lisa_10 "It's just that for a long time I thought he had a hard-on because he was thinking dirty things about me."
+    Lisa_10 "E' solo che per molto tempo ho pensato che ne valesse la pena, perche' per me rappresenta qualcosa di osceno."
 
 
 translate english olivia_first_meeting_353cfe52:
 
 
-    Max_07 "And I've told her a bunch of times that it's a natural reaction."
+    Max_07 "E le ho detto un sacco di volte che questa e' una reazione naturale"
 
 
 translate english olivia_first_meeting_ae3a419f:
 
 
-    Olivia_02 "Oh, guys... You understand each other now, right? It's time to get used to each other's bodies. All right, I want to get a tan, and then I want to swim. If you want to join us, Max, we're here..."
+    Olivia_02 "Eh, ragazzi... Beh, adesso sapete e capite tutto perfettamente, no? It's time to get used to each other's bodies. Va bene, voglio prendere il sole e poi nuotare! Se vuoi unirti a noi, Max, siamo qui..."
 
 
 translate english olivia_first_meeting_ced16fa4:
@@ -468,457 +468,457 @@ translate english olivia_second_night_visit_a6603bc7:
 translate english olivia_first_night_out_with_67a0d9d9:
 
 
-    Max_05 "Wow! Wow! I forgot what I was going to ask..."
+    Max_05 "Wow! Wow! Ho anche dimenticato quello che volevo chiedere..."
 
 
 translate english olivia_first_night_out_with_1f749322:
 
 
-    Olivia_03 "So sit down, Max... You'll remember later!"
+    Olivia_03 "Quindi siediti, Max... Allora te ne ricorderai!"
 
 
 translate english olivia_first_night_out_with_292d59ce:
 
 
-    Max_02 "Ah, here... I'll sit naked, too! You don't mind, do you?"
+    Max_02 "Ah, ecco... Mi siedo nudo anch'io! Non ti dispiace, vero?"
 
 
 translate english olivia_first_night_out_with_922025e6:
 
 
-    Olivia_05 "Not a bit!"
+    Olivia_05 "Neanche un po!"
 
 
 translate english olivia_first_night_out_with_11409cf9:
 
 
-    Lisa_10 "Okay, hold on! This is too much! I'm not sure I want to sit next to my naked brother. At least leave your underwear on..." nointeract
+    Lisa_10 "Quindi, alzati! Questo e' troppo! Non sono sicuro di volermi sedere accanto a mio fratello nudo. Lascia le tue mutandine..." nointeract
 
 
 translate english olivia_first_night_out_with_7542b55d:
 
 
-    Olivia_04 "Wow, Max! That's brave! And impressive..."
+    Olivia_04 "Wow, Massimo! E' audace! E impressionante..."
 
 
 translate english olivia_first_night_out_with_125c98a4:
 
 
-    Lisa_11 "How aren't you... aren't you ashamed to sit like that in front of us?"
+    Lisa_01 "Poi vediamo... Non ti vergogni a sederti di fronte a noi cosi'?"
 
 
 translate english olivia_first_night_out_with_587b76a6:
 
 
-    Max_07 "How are you going to go out with boys if you can't even feel comfortable with me naked? Get used to it..."
+    Max_07 "Come farai ad uscire con i ragazzi, anche se non ti senti a tuo agio con me nuda? Abituati..."
 
 
 translate english olivia_first_night_out_with_771331f5:
 
 
-    Olivia_03 "Max is right, by the way... You should get used to it by now. Holding hands with the boys and going for walks is great, but it's not all you'll be doing."
+    Olivia_03 "Max, tra l'altro, ha ragione... Dovresti abituarti. Tenere le mani con i ragazzi e camminare e' fantastico, ma non farai solo questo."
 
 
 translate english olivia_first_night_out_with_f5c5342c:
 
 
-    Lisa_10 "At least be more modest, both of you, because you're making a nudist couch here."
+    Lisa_10 "Almeno siediti entrambi in modo piu' modesto, altrimenti qui hanno fatto un divano per nudisti."
 
 
 translate english olivia_first_night_out_with_58c3781e:
 
 
-    Max_04 "Let's see what's interesting..."
+    Max_04 "Vediamo cosa c'e' di interessante dove..."
 
 
 translate english olivia_first_night_out_with_87c0e726:
 
 
-    Olivia_01 "Here, we can watch this show... It sounds like something interesting is going on there. We should look into it..."
+    Olivia_01 "Ecco, possiamo guardare questa serie... Sembra che stia succedendo qualcosa di interessante. Dobbiamo approfondire..."
 
 
 translate english olivia_first_night_out_with_edd2047c:
 
 
-    Max_02 "{i}( I'm more interested in what's going on on the couch... And there are two gorgeous girls sitting next to me, and one of them is completely naked, just like me! ){/i}"
+    Max_02 "{i} (Sono molto piu' interessato a quello che succede sul divano... E qui accanto a me ci sono due ragazze fantastiche e una di loro e' completamente nuda, come me!) {/i}" ){/i}"
 
 
 translate english olivia_first_night_out_with_4095a71d:
 
 
-    Max_03 "{i}( Lisa is still embarrassed to see me... She looks away a little, but she glances in my direction sometimes. Olivia, on the other hand, feels very comfortable. So relaxed and beautiful... ){/i}"
+    Max_03 "{i} (Lisa e' ancora imbarazzata dal mio aspetto... Si e' leggermente voltata, ma a volte guarda nella mia direzione. Ma Olivia si sente molto a suo agio. Cosi' rilassata e bella...) {/i}" ){/i}"
 
 
 translate english olivia_first_night_out_with_f5a27884:
 
 
-    Olivia_02 "How are you doing there, Max? Still excited to see me? Yeah, I see you are..."
+    Olivia_02 "Come stai Massimo? Ancora eccitato dal mio aspetto? Si, vedo che si..."
 
 
 translate english olivia_first_night_out_with_9ab76b64:
 
 
-    Lisa_09 "How long can he stay like that?"
+    Lisa_09 "E per quanto tempo puo' essere cosi'?"
 
 
 translate english olivia_first_night_out_with_73fd36de:
 
 
-    Olivia_03 "It seems like a long time... But you'll get used to it if you spend more time with me."
+    Olivia_03 "Sembra tanto tempo... Ma ti ci abituerai se passi piu' tempo con me."
 
 
 translate english olivia_first_night_out_with_1b6f1ed5:
 
 
-    Max_05 "Sounds like a great reason for you to come see us more often!"
+    Max_05 "Per me, questo e' un ottimo motivo per venire da noi piu' spesso!"
 
 
 translate english olivia_first_night_out_with_c9f25499:
 
 
-    Olivia_04 "I would love to, Max. I wish I had more free time... The company is nice here, and the water in the pool is so warm... I love the water. Well, you already know that."
+    Olivia_04 "Mi piacerebbe, Max. Avrei avuto piu' tempo libero... Qui e la compagnia e' piacevole, e l'acqua in piscina e' cosi' calda... Adoro l'acqua! Beh, lo sai gia'."
 
 
 translate english olivia_first_night_out_with_efc50a5f:
 
 
-    Lisa_01 "And he calms down at last..."
+    Lisa_01 "E Max finalmente si calma..."
 
 
 translate english olivia_first_night_out_with_ab1aa461:
 
 
-    Max_04 "Just a little bit."
+    Max_04 "Un po."
 
 
 translate english olivia_first_night_out_with_807cb8f9:
 
 
-    Olivia_03 "I just sat a little more modestly so that Max wouldn't get squinty-eyed.Boys are like that, even if he tries to look at the screen, his eyes will still search for the naked girl's charms."
+    Olivia_03 "Mi sono solo seduto un po' piu' modestamente in modo che Max non sviluppi uno strabismo.
 
 
 translate english olivia_first_night_out_with_2ddf4686:
 
 
-    Lisa_02 "I, on the other hand, easily manage to watch the show without getting distracted."
+    Lisa_02 "Ma posso facilmente guardare la serie e non essere distratto da nessuna parte."
 
 
 translate english olivia_first_night_out_with_681a47c1:
 
 
-    Max_02 "{i}( I can see your eyes running back and forth between me and Olivia. I bet even Lisa likes what she sees... ){/i}"
+    Max_02 "{i} (Vedo come guizzano i tuoi occhi, poi su di me, poi su Olivia. Sicuramente, a Lisa piace anche quello che sta succedendo qui oggi...) {/i}" ){/i}"
 
 
 translate english olivia_first_night_out_with_55adf1fc:
 
 
-    Olivia_06 "Guys, my eyes are already falling asleep. Let's wrap it up, I'm going home..."
+    Olivia_06 "Ragazzi, i miei occhi si stanno gia' incollando. Finiamo, si, vado a casa..."
 
 
 translate english olivia_first_night_out_with_a32a19b0:
 
 
-    Lisa_00 "Maybe you shouldn't wander around at night. Stay with us and you can go home in the morning."
+    Lisa_00 "Forse non dovresti vagare per strada di notte. Resta con noi e torna a casa la mattina."
 
 
 translate english olivia_first_night_out_with_e353bc4d:
 
 
-    Max_03 "Yes, stay the night!"
+    Max_03 "Si, passa la notte qui!"
 
 
 translate english olivia_first_night_out_with_b0e3e2ee:
 
 
-    Olivia_01 "Oh, I hadn't actually planned to, but you're right, it's better to stay with you until morning."
+    Olivia_01 "Oh, in realta' non avevo programmato, ma hai ragione, e' meglio stare con te fino al mattino."
 
 
 translate english olivia_first_night_out_with_e7f08135:
 
 
-    Lisa_01 "Let's go into our room then..."
+    Lisa_01 "Andiamo in camera allora..."
 
 
 translate english olivia_first_night_out_with_638cf225:
 
 
-    Max_04 "Who will lie down where?"
+    Max_04 "Chi mentira' dove?"
 
 
 translate english olivia_first_night_out_with_a4ff6d3b:
 
 
-    Lisa_02 "Naturally, Olivia will lie down with me, and you, as usual... on your own."
+    Lisa_02 "Naturalmente, Olivia giacera' con me e tu, come sempre... Da solo."
 
 
 translate english olivia_first_night_out_with_bf95efa9:
 
 
-    Max_02 "Olivia is a guest... Why don't we put her on your bed and you come with me?"
+    Max_02 "Olivia e' in visita... Forse possiamo metterla sul tuo letto, e tu sei con me?"
 
 
 translate english olivia_first_night_out_with_e113e5b9:
 
 
-    Lisa_01 "So you can poke me all night with that big thing of yours?! You wish!"
+    Lisa_01 "In modo che tu mi stuzzichi tutta la notte con la tua cosa pesante?! Non vuoi?"
 
 
 translate english olivia_first_night_out_with_9d8d213d:
 
 
-    Olivia_02 "Nice try, Max! Don't miss me in the morning, I'll leave early. Good night, everybody..."
+    Olivia_02 "Bel tentativo Massimo! Non perdermi domattina, partiro' presto. Buona notte a tutti..."
 
 
 translate english olivia_first_night_out_with_e05418ee:
 
 
-    Max_01 "Sweet dreams."
+    Max_01 "Sogni piacevoli."
 
 
 translate english olivia_second_night_out_with_f1daf02f:
 
 
-    Lisa_11 "And you suggest that I take my clothes off! Max is the only one who reacts this way, Olivia... Can you imagine what would happen if I got naked too? His thing would probably explode!"
+    Lisa_11 "E mi offri anche di spogliarmi! Questo e' Max solo per te, Olivia, e' cosi' che reagisce... E immagina cosa succederebbe se mi spogliassi anch'io? La sua cosa probabilmente sta per esplodere!"
 
 
 translate english olivia_second_night_out_with_e5631105:
 
 
-    Max_03 "Nothing will explode, don't worry."
+    Max_03 "Niente esplodera', non preoccuparti."
 
 
 translate english olivia_second_night_out_with_ff43958c:
 
 
-    Olivia_03 "Better be happy for your brother, Lisa. Not every boy is so lucky with his size... It's not every day you get to see it in person. Or rather... you get to see it!"
+    Olivia_03 "Sara' meglio che tu sia felice per tuo fratello, Lisa. Non tutti i ragazzi sono cosi' fortunati con le dimensioni... Non tutti i giorni puoi vederlo dal vivo. O meglio... Puoi solo vedere!"
 
 
 translate english olivia_second_night_out_with_d1e724aa:
 
 
-    Lisa_03 "That's all I live for... Just to see Max's boner every day!"
+    Lisa_03 "E' solo per questo e io vivo... Per vedere l'alzata di Max almeno una volta al giorno!"
 
 
 translate english olivia_second_night_out_with_dfc7aba6:
 
 
-    Olivia_05 "You mean you've never thought of Max as a boy to try something with... Well... something like that..."
+    Olivia_05 "Vuoi dire che non hai mai pensato a Max da ragazzo con cui provare qualcosa... Aspetta... Qualcosa del genere..."
 
 
 translate english olivia_second_night_out_with_e6bc223b:
 
 
-    Lisa_13 "No, of course not! I can't believe you're saying that too..."
+    Lisa_13 "Ovviamente no! Forse..."
 
 
 translate english olivia_second_night_out_with_2c2c214a:
 
 
-    Max_02 "{i}( I wonder how Olivia would react if she knew about our kissing lessons! She's acting like a saint. Oh, well... ){/i}"
+    Max_02 "{i} (Mi chiedo come reagirebbe Olivia se Lisa dicesse come le insegno a baciare e dove finiscono le mie mani?! Si sta facendo santa. Bene, ok...) {/i}" ){/i}"
 
 
 translate english olivia_second_night_out_with_bd177cb8:
 
 
-    Olivia_03 "Sure, Sure, you rascal... What about you, Max?"
+    Olivia_00 "Oh si... Beh, e tu, Max?"
 
 
 translate english olivia_second_night_out_with_0ab5792e:
 
 
-    Max_04 "Of course, yes! But I'm powerless here, it's involuntary."
+    Max_04 "Certo che si! Ma qui sono impotente, questo e' involontario."
 
 
 translate english olivia_second_night_out_with_44544fc0:
 
 
-    Olivia_04 "You see, Lisa, what an honest brother you have! Nothing like Alex."
+    Olivia_04 "Vedi, Liza, che fratello onesto hai! Non come Alex."
 
 
 translate english olivia_second_night_out_with_d7a49712:
 
 
-    Max_07 "What's wrong with him?"
+    Max_07 "E lui?"
 
 
 translate english olivia_second_night_out_with_be6fd8f1:
 
 
-    Olivia_00 "Oh, yeah... You probably didn't know that. Alex brazenly tried to hit on Lisa! What a jerk!"
+    Olivia_03 "Dai! Probabilmente non lo sai. Alex insolentemente, senza rompere con me, ha cercato di incollare Lisa! Che bruto!"
 
 
 translate english olivia_second_night_out_with_07e7c841:
 
 
-    Max_09 "That's it! Wait a minute... But since you're both here, you must be doing well, right?"
+    Max_09 "Ecco come! Si sta facendo tardi... Ma visto che siete entrambi qui, allora vi va tutto bene?"
 
 
 translate english olivia_second_night_out_with_bac5e609:
 
 
-    Lisa_02 "We do! Alex, not so much. He missed out on two amazing girls! Although, now that I know how much of a jerk he is, I'm sure he's already hitting on someone else..."
+    Lisa_02 "Abbiamo - si! Alex non e' molto bravo. Gli mancavano due ragazze fantastiche! Anche se, ora sapendo che tipo di capra e', non escludo che stia gia' incollando qualcun altro..."
 
 
 translate english olivia_second_night_out_with_455d7806:
 
 
-    Olivia_06 "If you haven't already glued it together! No, I don't even want to think about it... Ugh!"
+    Olivia_06 "Se non gia' incollato! No, non voglio nemmeno pensarci... Fu!"
 
 
 translate english olivia_second_night_out_with_c9b2dc7c:
 
 
-    Max_00 "So Olivia broke up with her boyfriend?"
+    Max_00 "Quindi Olivia ha rotto con il suo ragazzo?"
 
 
 translate english olivia_second_night_out_with_7482216d:
 
 
-    Lisa_01 "That's right."
+    Lisa_01 "Esattamente."
 
 
 translate english olivia_second_night_out_with_205fcde2:
 
 
-    Olivia_00 "And most importantly, Alex wasn't upset that I broke up with him, or that Lisa didn't go out with him. I'm sure it was because he had a backup."
+    Olivia_00 "E, soprattutto, Alex non era turbato ne' dal fatto che l'avessi lasciato, ne' dal fatto che Lisa non avesse iniziato a frequentarlo. Sono sicuro che sia perche' ha avuto un fallback."
 
 
 translate english olivia_second_night_out_with_f2a6a804:
 
 
-    Max_07 "That's why I prefer sex without a relationship! You can have sex whenever you want, with whomever you want... without problems!"
+    Max_07 "Ecco perche' preferisco il sesso senza relazioni! Scopare quando vuoi e con chi vuoi... without problems!"
 
 
 translate english olivia_second_night_out_with_f7150c4a:
 
 
-    Lisa_11 "Wha-a-a-t?!"
+    Lisa_11 "Cosa-oh-oh-oh!"
 
 
 translate english olivia_second_night_out_with_3a4a3ad7:
 
 
-    Max_02 "This is my way of distracting you from the subject of Alex."
+    Max_02 "E' cosi' che ho deciso di distrarti dall'argomento con Alex."
 
 
 translate english olivia_second_night_out_with_fcee3664:
 
 
-    Lisa_03 "Phew... I had all sorts of unbelievable things going through my head!"
+    Lisa_03 "Fuh... E poi tutto l'incredibile mi e' entrato subito in testa!"
 
 
 translate english olivia_second_night_out_with_ecb528d2:
 
 
-    Olivia_05 "Ha! That was funny, Max! I'm glad to be in such warm company. I hope it stays that way..."
+    Olivia_04 "DI! E' stato divertente, Max! Sono contento di essermi trovato in una compagnia cosi' calorosa. spero che questo continui..."
 
 
 translate english olivia_second_night_out_with_767fd836:
 
 
-    Max_04 "Yeah, we really get along!"
+    Max_04 "Aha, ci sediamo bene!"
 
 
 translate english olivia_second_night_out_with_2ffdea61:
 
 
-    Lisa_02 "You know, I'm in such a good mood right now, because everything ended so well for me and Olivia, that I'm ready to take my shirt off..."
+    Lisa_02 "Sai, ora sono cosi' di buon umore, perche' tutto e' finito cosi' bene per me e Olivia che sono persino pronto a togliermi la maglietta..."
 
 
 translate english olivia_second_night_out_with_edcfe1f3:
 
 
-    Max_06 "Wow, that's really something!"
+    Lisa_02 "Cio' che e' vero e' vero!
 
 
 translate english olivia_second_night_out_with_41a2f02d:
 
 
-    Olivia_03 "Oh, come on! Max is here... I thought you didn't want to do that in front of him..."
+    Olivia_05 "Verita'?! Max e' qui... Sembrava che tu non volessi stare con lui..."
 
 
 translate english olivia_second_night_out_with_a1d40e09:
 
 
-    Lisa_05 "Let him watch if he wants to. Let's consider him very lucky today, because I want to share my joy!"
+    Lisa_05 "Lascialo guardare se vuole. Consideriamo che oggi e' molto fortunato, perche' voglio condividere la mia gioia!"
 
 
 translate english olivia_second_night_out_with_24817f5b:
 
 
-    Max_05 "{i}( That's my sister! Naturally, I want to look at it... It's not that I'm brazen, but I've never seen so many naked boobs on this couch before! ){/i}"
+    Max_05 "{i} (La sorella lo da'! Naturalmente, voglio guardarlo... Non che nell'impudente, ma ancora non ci sono state cosi' tante tette nude su questo divano!) {/i}" ){/i}"
 
 
 translate english olivia_second_night_out_with_af8b6b2b:
 
 
-    Olivia_02 "And Max is quiet. He's probably wondering where to look! He should at least look at the screen for decency."
+    Olivia_02 "E Max era tranquillo. Probabilmente tutto in pensiero, dove meglio guardare! Se solo potessi guardare lo schermo per decenza."
 
 
 translate english olivia_second_night_out_with_9d4433da:
 
 
-    Max_03 "It seems my head can't turn."
+    Max_03 "La testa non gira in alcun modo."
 
 
 translate english olivia_second_night_out_with_050b3b4f:
 
 
-    Lisa_01 "It's all right, you said yourself - he'll get used to it... I'm a little used to you sitting here naked myself."
+    Lisa_01 "Niente, hai detto tu stesso - ci si abituera'... Sono un po' abituato al fatto che tu sia seduto qui nudo."
 
 
 translate english olivia_second_night_out_with_2664741f:
 
 
-    Olivia_01 "And I would have gone to bed already. It's late... I'm all sore. How about you?"
+    Olivia_01 "E sarei andato a letto. It's late... I'm all sore. How about you?"
 
 
 translate english olivia_second_night_out_with_e274b123:
 
 
-    Lisa_02 "Let's go before everyone falls asleep here. Aunt Kira would be in for a surprise..."
+    Lisa_05 "Si, andiamo alle culle prima di addormentarci qui." nointeract Andiamocene prima che tutti qui si addormentino. Vorrei che zia Kira fosse sorpresa..."
 
 
 translate english olivia_second_night_out_with_1718f5fe:
 
 
-    Max_04 "Good night, girls. I love our nightly get-togethers!"
+    Max_04 "Buonanotte, ragazze. Sono felice dei nostri incontri notturni con voi!"
 
 
 translate english olivia_second_night_out_with_be029ca0:
 
 
-    Lisa_03 "You can see how happy you are. I'm sure you're hoping I'll forget to put my top on and just lie down like this..."
+    Lisa_03 "Puoi vedere chiaramente quanto sei soddisfatto. Sono sicuro che speri che dimentichero' di mettermi la maglietta e sdraiarmi cosi'..."
 
 
 translate english olivia_second_night_out_with_0d262a66:
 
 
-    Max_02 "Well surely you will, right?"
+    Max_02 "Beh, non si sa mai."
 
 
 translate english olivia_second_night_out_with_66fdb528:
 
 
-    Lisa_02 "Don't count on it! I might watch soap operas in the middle of the night in my panties, But that doesn't mean I'm going to sleep like that!"
+    Lisa_02 "Ovviamente invano! Forse guardero' i programmi TV nel cuore della notte nelle mie mutandine, e questo non e' un dato di fatto...
 
 
 translate english olivia_second_night_out_with_6c069ffd:
 
 
-    Max_03 "Okay, geez... Can't even dream anymore."
+    Max_03 "Scusami... E' gia' impossibile sognare."
 
 
 translate english olivia_second_night_out_with_2ee7a236:
 
 
-    Olivia_06 "I left quietly last time, didn't I? I didn't bother anyone?"
+    Olivia_06 "L'ultima volta che me ne sono andato in silenzio e inosservato? Hai disturbato qualcuno?"
 
 
 translate english olivia_second_night_out_with_e5665dce:
 
 
-    Lisa_01 "No, I didn't even notice you getting up..."
+    Lisa_01 "No, non mi sono nemmeno accorto di come ti sei alzato..."
 
 
 translate english olivia_second_night_out_with_9b2e7333:
@@ -1072,223 +1072,223 @@ translate english olivia_night_visit_r_a6603bc7:
 translate english olivia_repeatable_night_out_with_01d47c87:
 
 
-    Lisa_02 "What are you hangin' around for, Max? Come on, get in quick..."
+    Lisa_02 "Perche' hai riattaccato, Max? Sediamoci piu' velocemente..."
 
 
 translate english olivia_repeatable_night_out_with_35ff1b35:
 
 
-    Max_02 "You know, there are times when you look at something and then you can't look away..."
+    Max_02 "Sai, ci sono momenti in cui fissi qualcosa e poi non riesci proprio a staccarti..."
 
 
 translate english olivia_repeatable_night_out_with_3e8c189f:
 
 
-    Lisa_01 "Maybe I should get dressed, then, so you don't have to stand over me."
+    Lisa_01 "Forse allora dovrei vestirmi in modo che tu non stia sopra la mia anima?"
 
 
 translate english olivia_repeatable_night_out_with_d5bd5179:
 
 
-    Max_04 "No, no, no... I'm already undressing!"
+    Max_04 "No, no, no... Mi sto gia' spogliando!"
 
 
 translate english olivia_repeatable_night_out_with_01d47c87_1:
 
 
-    Lisa_02 "What are you hangin' around for, Max? Come on, get in quick..."
+    Lisa_02 "Perche' hai riattaccato, Max? Sediamoci piu' velocemente..."
 
 
 translate english olivia_repeatable_night_out_with_f90d7bab:
 
 
-    Max_02 "I was wondering how I could convince you to take your top off... I don't think there's any chance, is there?"
+    Max_02 "Si, mi chiedevo come posso convincerti a toglierti la maglietta... Solo, secondo me, senza possibilita', giusto?"
 
 
 translate english olivia_repeatable_night_out_with_fe51560e:
 
 
-    Lisa_01 "Exactly! You either don't stand over me then, or get undressed and join in... while I'm being nice."
+    Lisa_01 "Esattamente! O non stai al di sopra della tua anima allora, o ti togli i vestiti e ti unisci... Purche' io sia gentile."
 
 
 translate english olivia_repeatable_night_out_with_34230b3b:
 
 
-    Max_04 "I wouldn't refuse such good-looking company as you!"
+    Max_04 "Non rifiutero' una compagnia cosi' gentile come te!"
 
 
 translate english olivia_repeatable_night_out_with_217e442e:
 
 
-    Olivia_05 "You'd better be more careful jumping on the couch, Max! Or you'll hit Lisa with that huge thing! You'll have to explain to your friends how she got the black eye."
+    Olivia_05 "Faresti meglio a saltare sul divano, Max! E poi colpirai ancora Liza con il tuo enorme aggeggio! You'll have to explain to your friends how she got the black eye."
 
 
 translate english olivia_repeatable_night_out_with_f33032d6:
 
 
-    Max_03 "I'm sorry... Just try not to leave your mouth open!"
+    Olivia_03 "Beh, cosa ne pensi, Max... E' meglio non sbadigliare con la bocca!"
 
 
 translate english olivia_repeatable_night_out_with_323f301e:
 
 
-    Lisa_02 "What's true is true! I've seen Max naked so many times, and I'm still surprised."
+    Olivia_04 "La tua verita'. Ho visto Max nudo cosi' tante volte, e sono ancora sorpreso."
 
 
 translate english olivia_repeatable_night_out_with_07085c52:
 
 
-    Max_05 "I wonder who the bigger pervert really is?"
+    Max_05 "E chi, alla fine, fissa chi di piu'?"
 
 
 translate english olivia_repeatable_night_out_with_797a3326:
 
 
-    Lisa_02 "Careful, Max, hop up on the couch, or you'll hit me with that thing! I don't want to make up a story to explain my black eye."
+    Lisa_02 "Stai attento, Max, salta sul divano, altrimenti questa tua cosa mi colpira'! Non voglio andare in giro con un occhio nero e inventare una storia in cui il tuo pene non appare."
 
 
 translate english olivia_repeatable_night_out_with_79cd0f1c:
 
 
-    Max_03 "You better watch out for me! Then there won't be any injuries."
+    Max_03 "Meglio stare all'erta con me! Allora non ci saranno dita."
 
 
 translate english olivia_repeatable_night_out_with_dfd0b5de:
 
 
-    Olivia_05 "I've never met such shameless guys as Max. Although it's understandable why... He's got something to be proud of!"
+    Olivia_05 "Non ho mai incontrato ragazzi cosi' spudorati come Max. Anche se, e' comprensibile il motivo... C'e' qualcosa di cui essere orgogliosi!"
 
 
 translate english olivia_repeatable_night_out_with_1c4fe2d2:
 
 
-    Max_05 "Thank you! I certainly don't mind all this attention being focused on my dick, but you should look at the screen, too."
+    Max_05 "Grazie! A me, ovviamente, non dispiace questa attenzione inchiodata al mio pene, ma anche tu e guarda lo schermo."
 
 
 translate english olivia_repeatable_night_out_with_965e183f:
 
 
-    Olivia_04 "Oh! Let's watch this... Too bad we didn't get to the very beginning of the series, because it's kind of hard to see what's going on there."
+    Lisa_11 "Wow! Vediamolo... E' un peccato che non siamo arrivati all'inizio della serie, altrimenti e' in qualche modo completamente incomprensibile cio' che sta accadendo li'."
 
 
 translate english olivia_repeatable_night_out_with_72187a45:
 
 
-    Lisa_01 "It's not clear, but personally I'm intrigued... I wonder what will happen next."
+    Lisa_01 "Non e' chiaro, ma personalmente mi ha incuriosito... Chissa' cosa accadra' dopo."
 
 
 translate english olivia_repeatable_night_out_with_83c9fee5:
 
 
-    Max_04 "{i}( But I don't care what happens on the show... After all, there are things on this couch that you don't see on TV! ){/i}"
+    Max_04 "{i} (Ma per me non fa differenza quello che succede nella serie... Dopotutto, c'e' qualcosa su questo divano che non vedi tutti i giorni nei programmi TV!) {/i}" ){/i}"
 
 
 translate english olivia_repeatable_night_out_with_22d3a585:
 
 
-    Olivia_04 "Here, we can watch this show... It sounds like something interesting is going on there. We have to look into it..."
+    Olivia_04 "Ecco, possiamo guardare questa serie... Sembra che stia succedendo qualcosa di interessante. Dobbiamo approfondire..."
 
 
 translate english olivia_repeatable_night_out_with_00c76c93:
 
 
-    Lisa_01 "Then let's see... Maybe we'll figure it all out as we go along."
+    Lisa_01 "Ovviamente guarda! Forse lo scopriremo nel corso della visione."
 
 
 translate english olivia_repeatable_night_out_with_42357461:
 
 
-    Max_04 "{i}( But I'm much more interested in what's going on on the couch... Here, next to me, there are two gorgeous girls who don't mind my company! ){/i}"
+    Max_04 "{i} (Ma sono molto piu' interessato a quello che succede sul divano... Qui, accanto a me, ci sono due ragazze fantastiche che non sono contro la mia compagnia!) {/i}" ){/i}"
 
 
 translate english olivia_repeatable_night_out_with_f6fc3e47:
 
 
-    Olivia_02 "It's great to be able to just hang out in an empty, fancy house like this... And with great friends like you!"
+    Olivia_02 "E' fantastico che tu possa semplicemente oziare in una casa vuota e lussuosa... E anche con ragazzi cosi' fantastici come te!"
 
 
 translate english olivia_repeatable_night_out_with_c95bc97f:
 
 
-    Lisa_03 "Yeah. Especially great for Max. That must be what all the boys want, right?!"
+    Lisa_03 "Si. Particolarmente buono per Max. That must be what all the boys want, right?!"
 
 
 translate english olivia_repeatable_night_out_with_a0ea375d:
 
 
-    Olivia_02 "They're doing a good job, they're not doing well at all... I can't even sit still. I want to stretch out on the couch, but that would show to much."
+    Olivia_02 "E lo hanno fatto bene, stanno andando molto male... Non riesco a stare fermo. Vorrei stendermi sul divano, ma per te sara' troppo schietto."
 
 
 translate english olivia_repeatable_night_out_with_45fbf759:
 
 
-    Lisa_03 "I want to do it myself... It would be especially great for Max, he's probably dreaming about it right now!"
+    Lisa_03 "Io stesso voglio... Sara' particolarmente bello per Max, perche' probabilmente lo sogna ora!"
 
 
 translate english olivia_repeatable_night_out_with_0a4c9412:
 
 
-    Max_02 "It's not just about that. But this is still pretty great!"
+    Max_02 "Non solo su questo. Ma il fatto che ora sia anche cool!"
 
 
 translate english olivia_repeatable_night_out_with_05e08a2a:
 
 
-    Olivia_01 "You're lucky to have a brother, Lisa. Boys only think about one thing, but that's how nature made them. Max is no exception, but at least he pays attention to us."
+    Olivia_01 "Sei fortunato con tuo fratello, Lisa. I ragazzi pensano a una cosa sola, ma la natura li ha fatti cosi'. E Max non fa eccezione, ma almeno e' attento a noi."
 
 
 translate english olivia_repeatable_night_out_with_0f6c9465:
 
 
-    Lisa_02 "Max is very attentive when he wants to spy on someone!"
+    Lisa_02 "Max e' molto attento quando vuole spiare qualcuno!"
 
 
 translate english olivia_repeatable_night_out_with_d1813384:
 
 
-    Max_01 "I'm always attentive."
+    Max_01 "Sono sempre attento."
 
 
 translate english olivia_repeatable_night_out_with_59450400:
 
 
-    Olivia_03 "So what do you think, Max... Are the characters in the show doing the right thing or not?"
+    Olivia_03 "Allora ti ho creduto, birichino... I personaggi della serie stanno facendo la cosa giusta o no?"
 
 
 translate english olivia_repeatable_night_out_with_268c1645:
 
 
-    Max_03 "One way or another, yes. After all, there are many more seasons to come..."
+    Max_03 "In un modo o nell'altro, si. Dopotutto, ci sono ancora molte stagioni davanti a..."
 
 
 translate english olivia_repeatable_night_out_with_925a0535:
 
 
-    Lisa_09 "Hey, you ruined all the suspense! How are we going to watch now, knowing that they're going to make it?"
+    Lisa_09 "Ehi, hai rovinato l'intero intrigo! Come faremo a guardare oltre ora, sapendo che avranno successo?"
 
 
 translate english olivia_repeatable_night_out_with_74291412:
 
 
-    Max_07 "Well, not everyone can get lucky! Somebody's going to get hurt... maybe..."
+    Max_07 "Quindi non tutti possono essere fortunati! Qualcuno sbattera'... maybe..."
 
 
 translate english olivia_repeatable_night_out_with_72c801d9:
 
 
-    Olivia_04 "You're right. Okay, quiet... Are we going to watch or discuss?"
+    Olivia_04 "You're right. Okay, quiet... Staremo a guardare oa discutere?"
 
 
 translate english olivia_repeatable_night_out_with_6cd95a15:
 
 
-    Lisa_01 "Of course you can watch! We can talk about it later... If Max doesn't blab about something again."
+    Lisa_01 "Of course you can watch! Discuti e poi puoi... Se Max non parla piu' di qualcosa."
 
 
 translate english olivia_repeatable_night_out_with_dd6e369a:
 
 
-    Olivia_06 "This is the end of the series. Do you guys want to go to bed? I'm already yawning, but that's understandable, it's the middle of the night."
+    Olivia_06 "Quindi la serie finisce. Come vuoi dormire? Sto gia' sbadigliando, ma e' comprensibile, e' notte fuori..."
 
 
 translate english olivia_repeatable_night_out_with_0b752bfe:
@@ -1300,37 +1300,37 @@ translate english olivia_repeatable_night_out_with_0b752bfe:
 translate english olivia_repeatable_night_out_with_1e38110f:
 
 
-    Max_04 "If you happen to get tired of sleeping together, I'm always happy to snuggle either of you in my bed."
+    Max_04 "Se improvvisamente vi stancate di dormire insieme, sono sempre lieto di ospitare qualcuno di voi nel mio letto."
 
 
 translate english olivia_repeatable_night_out_with_e56be7a5:
 
 
-    Olivia_03 "Thank you, Max! At least put some underpants on so it's not so obvious how excited you are about these fantasies."
+    Olivia_03 "Grazie Massimo! Almeno mettiti le mutandine, in modo che non sia cosi' evidente quanto sei felice con queste fantasie."
 
 
 translate english olivia_repeatable_night_out_with_6538cfc3:
 
 
-    Lisa_02 "And what makes you think we're going to get bored?"
+    Lisa_02 "E dove hai capito che ci annoiamo?"
 
 
 translate english olivia_repeatable_night_out_with_893cf053:
 
 
-    Max_02 "Well, you never know."
+    Max_02 "Si.
 
 
 translate english olivia_repeatable_night_out_with_76458fcb:
 
 
-    Olivia_01 "Good night, everyone..."
+    Olivia_01 "Buona notte a tutti..."
 
 
 translate english olivia_repeatable_night_out_with_cb768b4d:
 
 
-    Max_01 "Sweet dreams."
+    Max_01 "Sogni d'oro."
 
 translate english strings:
 
