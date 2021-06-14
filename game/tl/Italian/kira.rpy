@@ -4,31 +4,31 @@
 translate english kira_bath_e51d277a:
 
 
-    Max_01 "Only one person would be awake and in the bath at this time- Aunt Kira!" nointeract
+    Max_01 "Solo una persona in questo momento non puo' dormire e sguazzare nella vasca da bagno. E quest'uomo e' Kira!" nointeract
 
 
 translate english kira_bath_fef8596e:
 
 
-    Kira "{b}Kira:{/b} Who's there? I'm taking a bath and I'm completely naked... So don't come in!"
+    Kira "{b} Kira: {/b} Chi e'? Faccio il bagno e sono completamente nudo... Quindi non entrare, riposati!"
 
 
 translate english kira_bath_5bdda7d4:
 
 
-    Max_09 "There needs to be a better vantage point to see into the bathroom. Maybe I should try the yard tonight?"
+    Max_09 "Devi trovare un modo per spiare in qualche modo le ragazze in bagno. Forse dovresti guardarti intorno dall'interno?!" Maybe I should try the yard tonight?"
 
 
 translate english kira_bath_b499c0e8:
 
 
-    Max_09 "There must be better way to check on the girls in the bathroom. Maybe I should take a look inside?"
+    Max_09 "Devi trovare un modo per spiare in qualche modo le ragazze in bagno. Magari prova la sera dal cortile?!" Maybe I should take a look inside?"
 
 
 translate english kira_bath_e602bda6:
 
 
-    Max_09 "Looks like buying a stepladder will be my best chance to get a good view of the bathroom."
+    Max_09 "Dobbiamo finalmente comprare una scala a pioli per sbirciare quello che sta succedendo in bagno..."
 
 
 translate english kira_bath_67b54ecf:
@@ -40,7 +40,7 @@ translate english kira_bath_67b54ecf:
 translate english kira_bath_6a58c36d:
 
 
-    Max_01 "I hope no one asks why a stepladder's here. Was it worth buying? Time to find out!"
+    Max_01 "Spero che nessuno abbia una domanda, ma cosa ci fa la scala a pioli qui... Was it worth buying? Time to find out!"
 
 
 translate english kira_bath_ladder_2b325faf:
@@ -52,79 +52,79 @@ translate english kira_bath_ladder_2b325faf:
 translate english kira_bath_ladder_7cba9683:
 
 
-    Max_02 "Oh! What a fat ass she's got... Lucky I waited for her to get back! Come on, Aunt Kira, it's time that ass got wet..."
+    Max_02 "Dannazione! Che culo delizioso ha... Che ho deciso di aspettare con successo il suo ritorno! Dai, zia Kira, e' tempo che questo culo si bagni..."
 
 
 translate english kira_bath_ladder_1e31a44d:
 
 
-    Max_05 "Wow! She decided to play with her pussy... Oh, that's awesome. Just why not do it lying down in the bathroom? It feels like she was doing it on purpose..."
+    Max_05 "Wow! Si, ha deciso per la prima volta di giocare con la sua figa... E' fantastico! Proprio perche' non farlo mentre giace in bagno? Sembra che sia apposta..."
 
 
 translate english kira_bath_ladder_a5472214:
 
 
-    Max_10 "Shit! She saw me! That's not good... It's Aunt Kira, though... she's not going to turn me in to Mom, is she? "
+    Max_10 "Pancake! Lei mi ha visto! Ora non e' bello... Anche se questa e' la zia Kira... Non mi dara' alla mamma? "
 
 
 translate english kira_bath_ladder_25ce42f2:
 
 
-    Max_08 "What? Is she calling me over?! I'm nervous, I don't like where this is going..." nointeract
+    Max_08 "Che cosa? Mi sta chiamando da lei?! In qualche modo non mi piace davvero..." nointeract
 
 
 translate english kira_bath_ladder_be5e0493:
 
 
-    Max_04 "Yeah, she's got great tits! I wonder what her nipples taste like... Oh, I'd take a bath with her! I hope it at least happens in my dreams."
+    Max_04 "Si, i suoi seni sono fantastici! I wonder what her nipples taste like... Oh, vorrei fare un bagno con lei! Spero di sognarlo.
 
 
 translate english kira_bath_kira_mass_bath_first_7398c496:
 
 
-    Kira_04 "I was wondering if you'd dare come in... So, Max, you like spying on your Aunt?"
+    Kira_04 "E mi chiedevo se osi fermarti... Allora, Max, ti piace sbirciare?"
 
 
 translate english kira_bath_kira_mass_bath_first_c457930d:
 
 
-    Max_07 "Well, yeah, sometimes..."
+    Max_07 "Bene, un po'..."
 
 
 translate english kira_bath_kira_mass_bath_first_93c94ec0:
 
 
-    Kira_05 "Sometimes? How often is that? Once a week? Or once a day?"
+    Kira_05 "Poco? O una volta al giorno?" Una volta a settimana? Or once a day?"
 
 
 translate english kira_bath_kira_mass_bath_first_7b934ba1:
 
 
-    Max_09 "Are you gonna tell Mom?"
+    Max_09 "Mi consegnerai alla mamma?"
 
 
 translate english kira_bath_kira_mass_bath_first_14b70a3b:
 
 
-    Kira_02 "Oh, of course not, Max! It's only normal to want to watch something you're interested in."
+    Kira_02 "Oh, certo che no, Max! It's only normal to want to watch something you're interested in."
 
 
 translate english kira_bath_kira_mass_bath_first_4507dc04:
 
 
-    Max_01 "Phew... That's a relief."
+    Max_07 "Uh... That's a relief."
 
 
 translate english kira_bath_kira_mass_bath_first_cf835ccb:
 
 
-    Kira_07 "But it's going to depend on you, though!"
+    Kira_07 "Anche se tutto dipendera' da te!"
 
 
 translate english kira_bath_kira_mass_bath_first_825c8fc0:
 
 
-    Max_08 "Wait, what does that mean?"
+    Max_08 "In che senso?"
 
 
 translate english kira_bath_kira_mass_bath_first_af29342a:
@@ -136,319 +136,319 @@ translate english kira_bath_kira_mass_bath_first_af29342a:
 translate english kira_bath_kira_mass_bath_first_3b03420e:
 
 
-    Max_01 "Well, yeah, but it's not how it sounds."
+    Max_01 "Beh, si, succede."
 
 
 translate english kira_bath_kira_mass_bath_first_5ed6b6a0:
 
 
-    Kira_02 "Well I'm very tired today... And if there was someone who could help relieve the stress from my legs, then maybe, as a thank you, I wouldn't tell my sister what a perverted son she has."
+    Kira_02 "Oggi sono molto stanco... E se ci fosse qualcuno che potesse aiutarmi a togliermi la stanchezza dalle gambe, allora forse, come ringraziamento, non direi a mia sorella che figlio viziato ha."
 
 
 translate english kira_bath_kira_mass_bath_first_50c1f105:
 
 
-    Max_07 "Uh, uh... What, right here?"
+    Max_08 "Si, ma... Cosa, proprio qui?"
 
 
 translate english kira_bath_kira_mass_bath_first_d286de06:
 
 
-    Kira_05 "Oh, are you embarrassed now? Isn't this what you were spying on? And here I am giving you a chance to gaze as much as you like..."
+    Kira_05 "Oh, e ti sto davvero mettendo in imbarazzo, Max?! Non hai spiato questo? And here I am giving you a chance to gaze as much as you like..."
 
 
 translate english kira_bath_kira_mass_bath_first_1f73cf5f:
 
 
-    Max_08 "Yes, but... Right here... In the bath?!"
+    Max_20 "Si-ah... Proprio qui... Nel bagno?!"
 
 
 translate english kira_bath_kira_mass_bath_first_1994407b:
 
 
-    Kira_08 "Ha! Of course! I can see how hard it is for you to cover your own... Enthusiasm... Relax already and get in the tub. You're not going to leave now, are you?"
+    Kira_07 "Oh! Si! Vedo quanto duramente nascondi il tuo... Entusiasmo... Rilassati e entra nel bagno. O forse vuoi andartene?" You're not going to leave now, are you?"
 
 
 translate english kira_bath_kira_mass_bath_first_1f0f11e4:
 
 
-    Max_02 "Of course not! Here I come..."
+    Max_02 "Ovviamente no! Sto venendo...
 
 
 translate english kira_bath_kira_mass_bath_first_a6050d8d:
 
 
-    Kira_07 "So, Max, are you happy with the view? Are you comfortable?"
+    Kira_07 "Bene, e come, Max, soddisfatto dell'aspetto? Confortevole?"
 
 
 translate english kira_bath_kira_mass_bath_first_4c5d4be5:
 
 
-    Max_05 "Yeah, I have an incredible Aunt!"
+    Max_05 "Si, ho solo un'incredibile zia!"
 
 
 translate english kira_bath_kira_mass_bath_first_7c395da3:
 
 
-    Kira_02 "Hahaha yes you do... I know you wouldn't mind sitting there all night, but isn't it time to make your favorite Aunt happy?" nointeract
+    Kira_08 "Cosa sei, no! Capisco che non ti dispiacerebbe restare cosi' tutta la notte, ma e' tempo di rendere bella la tua amata zia?" nointeract
 
 
 translate english kira_bath_kira_mass_bath_first_bd743433:
 
 
-    Max_04 "{i}( I never would have thought I'd be sharing a bath with my Aunt like this... She's so classy with the way she's using her legs to conceal her entrance! ){/i}"
+    Max_04 "{i} (Non avrei mai potuto immaginare una cosa del genere! She's so classy with the way she's using her legs to conceal her entrance! ){/i}"
 
 
 translate english kira_bath_kira_mass_bath_first_9a97257d:
 
 
-    Kira_04 "Yes, Max, it's very nice! Well done... Who taught you that?"
+    Kira_04 "Si, Max, e' molto carino! Ben fatto... Chi te l'ha insegnato?"
 
 
 translate english kira_bath_kira_mass_bath_first_b78e1d45:
 
 
-    Max_01 "Online courses... Well, I also practiced on Alice and Lisa."
+    Max_01 "Corsi al computer... Beh, su Alice con Lisa allenata."
 
 
 translate english kira_bath_kira_mass_bath_first_7e4304c9:
 
 
-    Kira_05 "You should definitely keep at it... I know you're gentle, but strong fingers can also bring incredible pleasure!"
+    Kira_05 "Penso che tu debba sviluppare questo... Sono sicuro che le tue dita tenere, ma forti possono portare un piacere incredibile!"
 
 
 translate english kira_bath_kira_mass_bath_first_1095bd15:
 
 
-    Max_07 "And how do I develop this?"
+    Max_07 "E come lo sviluppo?"
 
 
 translate english kira_bath_kira_mass_bath_first_00ca4913:
 
 
-    Kira_01 "I have an old friend here. She and her husband are specialists in massage and yoga. I'll try to meet with her and arrange for them to train you... If, of course, you want to?"
+    Kira_01 "I have an old friend here. Kira_01 "Ho un ex compagno di studi qui e, come ricordo, lei e suo marito stanno solo facendo massaggi e yoga. Provero' ad incontrarla e faro' in modo che ti addestrino in questo... Se, ovviamente, vuoi?"
 
 
 translate english kira_bath_kira_mass_bath_first_d2d2822b:
 
 
-    Max_03 "Of course, Yes! I just realized how cool it is to massage a naked woman!"
+    Max_03 "Certo che si! Ora ho capito quanto e' bello massaggiare una donna nuda!"
 
 
 translate english kira_bath_kira_mass_bath_first_b23d3900:
 
 
-    Kira_09 "Just don't stop, your touch makes me feel so warm..."
+    Kira_09 "Non fermarti, mi fa sentire cosi' caldo dal tuo tocco..."
 
 
 translate english kira_bath_kira_mass_bath_first_0e8fa115:
 
 
-    Max_07 "Uhh, Aunt Kira, you..."
+    Max_07 "Ugh, zia Kira, tu..."
 
 
 translate english kira_bath_kira_mass_bath_first_f06c6c95:
 
 
-    Kira_07 "Oops! What's this long and hard object that my foot is resting on?"
+    Kira_06 "Inoltre... E cosa c'e' di cosi' duro e grande appoggiato il mio piede?"
 
 
 translate english kira_bath_kira_mass_bath_first_5ac92d8a:
 
 
-    Max_02 "Can't you tell!?"
+    Max_02 "Perche' non lo sai?!"
 
 
 translate english kira_bath_kira_mass_bath_first_f7c1f2ae:
 
 
-    Kira_09 "Ahahaha I'm just teasing. Let's call it a day for now, Max. I didn't realise it was so late..." nointeract
+    Kira_09 "Beh, certo che lo so... Quindi arrotondiamo, Max. E' gia' cosi' tardi..." nointeract
 
 
 translate english kira_bath_kira_mass_bath_first_7302a902:
 
 
-    Max_04 "Okay, Aunt Kira. I'll go then. Good night. It was really nice to be with you!"
+    Max_04 "Va bene, zia Kira. Sono andato allora. Good night. E' stato molto bello stare con te!"
 
 
 translate english kira_bath_kira_mass_bath_first_832dfdc4:
 
 
-    Kira_04 "Sleep well, Max. And yes, I guess next time, you can just come in without knocking. If you're awake..."
+    Kira_04 "Fai un bel sogno, Max. E si, forse la prossima volta, puoi semplicemente entrare senza bussare. Se ancora non dormirai..."
 
 
 translate english kira_bath_kira_mass_bath_first_422f0f66:
 
 
-    Max_05 "I'd love to."
+    Max_05 "Con gioia."
 
 
 translate english kira_bath_mass_bath_097bbf0b:
 
 
-    Kira_01 "Oh, Max, it's you! You're up late... I wanted to lie in the tub a little before I went to bed. Will you join?"
+    Kira_01 "Ah, Max, sei tu! Stai tutta la notte... Ma volevo stendermi un po' nella vasca da bagno prima di andare a letto. Ti unirai"
 
 
 translate english kira_bath_mass_bath_702751e6:
 
 
-    Max_02 "Of course, Aunt Kira! I was waiting for you." nointeract
+    Max_02 "Certo, zia Kira! Ti stavo aspettando." nointeract
 
 
 translate english kira_bath_mass_bath_bde9bebf:
 
 
-    Kira_02 "Oh, yes, I see how you've been waiting for me! Get in quickly..." nointeract
+    Kira_02 "Oh si, vedo come mi stavi aspettando! Entra presto..." nointeract
 
 
 translate english kira_bath_mass_bath_a6050d8d:
 
 
-    Kira_07 "So, Max, are you happy with the view? Are you comfortable?"
+    Kira_07 "Bene, e come, Max, soddisfatto dell'aspetto? Confortevole?"
 
 
 translate english kira_bath_mass_bath_70ceb864:
 
 
-    Max_05 "Yeah, I have the most beautiful Aunt in the world!"
+    Max_05 "Si, ho la zia piu' bella del mondo!"
 
 
 translate english kira_bath_mass_bath_7c395da3:
 
 
-    Kira_02 "Hahaha yes you do... I know you wouldn't mind sitting there all night, but isn't it time to make your favorite Aunt happy?" nointeract
+    Kira_02 "Si, sono cosi'... Capisco che non ti dispiacerebbe restare cosi' tutta la notte, ma e' tempo di rendere bella la tua amata zia?" nointeract
 
 
 translate english kira_bath_mass_bath_6f52c62f:
 
 
-    Max_04 "{i}( Dreams come true if you want them to! I get to sit with my Aunt naked in the bath. My sexy Aunt is letting me massage her smooth and slender legs. And how gracefully she covers her pussy with them! ){/i}"
+    Max_04 "{i} (Ma i sogni diventano realta', se proprio lo vuoi! Ci sediamo con mia zia nuda nella vasca da bagno e le massaggio le gambe lisce e sottili. Che mi sarei seduto con una zia completamente nuda nella stessa vasca da bagno e le avrei massaggiato le gambe... E con che grazia le copre con la figa!) {/i}" ){/i}"
 
 
 translate english kira_bath_mass_bath_6ab88328:
 
 
-    Kira_04 "How nice... This is what I need right now! I want it to last as long as possible..."
+    Kira_04 "Che bello... Questo e' quello che mi serve in questo momento! Voglio che questo duri il piu' a lungo possibile..."
 
 
 translate english kira_bath_mass_bath_553110b2:
 
 
-    Max_03 "{i}( She is so beautiful! Her tits are rising up and down as she takes a deep breaths from my massage... ){/i}"
+    Max_03 "{i} (E' cosi' bella... I suoi seni meravigliosi si alzano cosi' freddamente quando inizia a respirare profondamente dal mio massaggio...) {/i}" ){/i}"
 
 
 translate english kira_bath_mass_bath_65c7355c:
 
 
-    Kira_07 "You just don't stop, your touch makes me feel so hot, But the tension is gone..."
+    Kira_07 "Non fermarti, mi fa sentire cosi' caldo dal tuo tocco!
 
 
 translate english kira_bath_mass_bath_ee1cd498:
 
 
-    Max_01 "That's because I'll be done soon." nointeract
+    Max_01 "Questo perche' finiro' presto." nointeract
 
 
 translate english kira_bath_mass_bath_5a982a00:
 
 
-    Kira_08 "You're good, Max. I was very pleased, and how easy it was for my legs! Let's wrap this up. It's so late..."
+    Kira_08 "Ben fatto, Max. Mi ha fatto molto piacere, ma quanto e' diventato facile per le mie gambe! Let's wrap this up. E' gia' cosi' tardi..."
 
 
 translate english kira_bath_mass_bath_7302a902:
 
 
-    Max_04 "Okay, Aunt Kira. I'll go then. Good night. It was really nice to be with you!"
+    Max_04 "Va bene, zia Kira. Sono andato allora. Good night. E' stato molto bello stare con te!"
 
 
 translate english kira_bath_mass_bath_45071b84:
 
 
-    Kira_04 "Sleep well, Max."
+    Kira_04 "Fai un bel sogno, Max."
 
 
 translate english kira_bath_mass_bath_91d4ef49:
 
 
-    Kira_07 "You just don't stop, your touch makes me feel so hot, But the tension is gone..." nointeract
+    Kira_07 "Non fermarti, mi fa sentire cosi' caldo dal tuo tocco!
 
 
 translate english kira_bath_mass_bath_fea49aa2:
 
 
-    Kira_09 "Max, it's so late... and I'm so relaxed with the bath and your massage that I'm falling asleep. So let's wrap this up."
+    Kira_09 "Max, e' gia' cosi' tardi... E il bagno e il tuo massaggio mi hanno rilassato cosi' tanto che mi addormento. Quindi concludiamolo."
 
 
 translate english kira_bath_mass_bath_7302a902_1:
 
 
-    Max_04 "Okay, Aunt Kira. I'll go then. Good night. It was really nice to be with you!"
+    Max_04 "Va bene, zia Kira. Sono andato allora. Good night. E' stato molto bello stare con te!"
 
 
 translate english kira_bath_mass_bath_45071b84_1:
 
 
-    Kira_04 "Sleep well, Max."
+    Kira_04 "Fai un bel sogno, Max."
 
 
 translate english kira_bath_mass_bath_9aa686b4:
 
 
-    Kira_05 "Oh, you're right, Max! I think it is very difficult to sit in the same bath with me and limit yourself to just a massage..."
+    Kira_05 "Oh, hai ragione, Max! Penso che sia molto difficile sedermi con me nella stessa vasca e limitarmi a un massaggio..."
 
 
 translate english kira_bath_mass_bath_d80a6a38:
 
 
-    Max_05 "Uhh... your touch makes me feel a little better!"
+    Max_05 "Uhh... Il tuo tocco mi fa sentire un po' meglio!"
 
 
 translate english kira_bath_mass_bath_66a1d6d3:
 
 
-    Kira_02 "Since you removed the fatigue from my legs, then maybe as a thank you, I can help you..."
+    Kira_02 "Dato che mi hai rimosso la fatica dalle gambe, forse anche loro, come ringraziamento, saranno in grado di aiutarti..."
 
 
 translate english kira_bath_mass_bath_27bf21cd:
 
 
-    Max_03 "{i}( Oh... she definitely can! It's not for nothing that I flexed her fingers so well, they're starting to do this... Wow! My Aunt was so excited that she spread her legs and began to rub her pussy... ){/i}"
+    Max_03 "{i} (Oh... Sicuramente possono! Non per niente ho allungato le dita cosi' bene, iniziano ad alzarsi... Wow! La zia si e' cosi' eccitata che ha allargato le gambe e ha iniziato ad accarezzare la figa...) {/i}" ){/i}"
 
 
 translate english kira_bath_mass_bath_0bcadd58:
 
 
-    Kira_07 "How's it going, Max? Do you like what your Aunt can do with her feet?"
+    Kira_07 "Bene, Max? Ti piace quello che tua zia puo' fare con le sue gambe?"
 
 
 translate english kira_bath_mass_bath_21d93cdd:
 
 
-    Max_20 "Yeah... This is very nice! Just don't stop, Aunt Kira!"
+    Max_20 "Fuh... E' molto bello! Non fermarti, zia Kira!"
 
 
 translate english kira_bath_mass_bath_2f045ba2:
 
 
-    Kira_09 "Your young cock is turning me on! Do you like seeing me play with myself, my big tits? Oh, can you see how wet my pussy is, don't take your eyes off it like a good boy..." nointeract
+    Kira_09 "Oh, Max, come mi eccita il tuo enorme cazzo! Do you like seeing me play with myself, my big tits? Ah, la mia figa sta bruciando, non distogliere lo sguardo da lei..." nointeract
 
 
 translate english kira_bath_mass_bath_a7080c78:
 
 
-    Kira_06 "[norestrain!t]Uhh, Max! You came sooner than I wanted you to..."
+    Kira_06 "[norestrain!t] Uhh, max! Hai finito prima di quanto volessi..."
 
 
 translate english kira_bath_mass_bath_b30dfbdb:
 
 
-    Kira_10 "[restrain!t]You like the way I put my fingers in my pussy? They're sliding in so easily, I'm going to cum! Oh... Come on, don't hold back..." nointeract
+    Kira_10 "[restrain!t] Ti piace il modo in cui metto le dita nella mia figa? They're sliding in so easily, I'm going to cum! Oh... Dai, non trattenerti..." nointeract
 
 
 translate english kira_bath_mass_bath_7193f533:
 
 
-    Kira_08 "Phew, Max, well, we gave it away with you..."
+    Kira_08 "Fuh, Max, beh, abbiamo tradito con te..."
 
 
 translate english kira_bath_mass_bath_7e4401f1:
@@ -466,55 +466,55 @@ translate english kira_bath_mass_bath_94418467:
 translate english kira_bath_mass_bath_23817ff1:
 
 
-    Max_01 "Good night, Aunt Kira. It's great having you here!"
+    Max_01 "Good night, Aunt Kira. E' fantastico con te!"
 
 
 translate english kira_bath_mass_bath_45071b84_2:
 
 
-    Kira_04 "Sleep well, Max."
+    Kira_04 "Fai un bel sogno, Max."
 
 
 translate english kira_bath_promise_cuni_a2ff7924:
 
 
-    Kira_02 "Since you've taken the tension off my legs, can you please your Aunt like you promised? Or have you already forgotten!?"
+    Kira_02 "Visto che mi hai tolto la fatica dalle gambe, puoi accontentare tua zia, come avevi promesso? Or have you already forgotten!?"
 
 
 translate english kira_bath_promise_cuni_c2754243:
 
 
-    Max_03 "Of course I remember! I'd love to make you happy again..." nointeract
+    Max_03 "Of course I remember! E voglio accontentarti di piu'..." nointeract
 
 
 translate english kira_bath_promise_cuni_7f37310e:
 
 
-    Kira_05 "Aww... You're a naughty boy! You have such delicate fingers... Yes... Play with it!" nointeract
+    Kira_05 "Aww... You're a naughty boy! You have such delicate fingers... Yes... Gioca con lei!" nointeract
 
 
 translate english kira_bath_promise_cuni_2b19c412:
 
 
-    Kira_09 "Uhh... I love how your your hot tongue slides down there... taste my pussy! That's it ... Mmm..." nointeract
+    Kira_09 "Uhh... Come scivola abilmente la tua lingua calda laggiu'... taste my pussy! Ecco fatto... Mmm..." nointeract
 
 
 translate english kira_bath_promise_cuni_d3732a7c:
 
 
-    Kira_09 "Uhh... Yes, more... Get your fingers in deeper... That's it! Even faster ... Mmm..." nointeract
+    Kira_09 "Uhh... Yes, more... Hai dita cosi' delicate... Ah! Ancora piu' veloce... Mmm..." nointeract
 
 
 translate english kira_bath_promise_cuni_a6041d47:
 
 
-    Kira_11 "Max... Yeah... go on like this, I can't hold back anymore... Squeeze my ass! So close ... Yes! I'm coming ... ahh..."
+    Kira_11 "Max... Yeah... Continua cosi', non riesco a trattenermi... Squeeze my ass! Cosi' vicino... Yes! I'm coming ... ahh..."
 
 
 translate english kira_bath_promise_cuni_4d360262:
 
 
-    Max_03 "It looks like I've massaged everything right here, too!"
+    Max_03 "Sembra che anche qui ho massaggiato tutto!"
 
 
 translate english kira_bath_promise_cuni_3a13b724:
@@ -526,25 +526,25 @@ translate english kira_bath_promise_cuni_3a13b724:
 translate english kira_bath_promise_cuni_9823a121:
 
 
-    Max_05 "And you're beautiful, Aunt Kira! You're great!"
+    Max_05 "E tu sei molto carina, zia Kira! E' molto bello con te!"
 
 
 translate english kira_bath_promise_cuni_0649d7bf:
 
 
-    Kira_01 "Thank you, Max, that's nice to hear... Let's get going, I think I might have been too loud."
+    Kira_01 "Grazie, Max, e' bello sentirlo... Let's get going, I think I might have been too loud."
 
 
 translate english kira_bath_promise_cuni_08545885:
 
 
-    Max_01 "Good night, Aunt Kira."
+    Buonanotte, zia Kira."
 
 
 translate english kira_bath_promise_cuni_45071b84:
 
 
-    Kira_04 "Sleep well, Max."
+    Kira_04 "Fai un bel sogno, Max."
 
 
 translate english kira_bath_cuni_bj_b0f7c22d:
@@ -562,31 +562,31 @@ translate english kira_bath_cuni_bj_2b19c412:
 translate english kira_bath_cuni_bj_d3732a7c:
 
 
-    Kira_09 "Uhh... Yes, more... Get your fingers in deeper... That's it! Even faster ... Mmm..." nointeract
+    Kira_09 "Uhh... Yes, more... Vai piu' a fondo con le dita... Dai! Ancora piu' veloce... Mmm..." nointeract
 
 
 translate english kira_bath_cuni_bj_a6041d47:
 
 
-    Kira_11 "Max... Yeah... go on like this, I can't hold back anymore... Squeeze my ass! Already so close... Yes! I'm cumming ... Ahh..."
+    Kira_11 "Max... Yeah... Continua cosi', non riesco a trattenermi... Squeeze my ass! Cosi' vicino... Yes! Sto venendo... Ahh..."
 
 
 translate english kira_bath_cuni_bj_4d360262:
 
 
-    Max_03 "It looks like I massaged everything right here, too!"
+    Max_03 "Sembra che anche qui ho massaggiato tutto!"
 
 
 translate english kira_bath_cuni_bj_b2b39a0b:
 
 
-    Kira_06 "Yes... You are my capable nephew... Now I want your cock! I want to taste you..." nointeract
+    Kira_06 "Si... Sei mio nipote capace... E voglio il tuo cazzo! Voglio sentirlo in bocca..." nointeract
 
 
 translate english kira_bath_cuni_bj_7a7528d8:
 
 
-    Kira_02 "Oh, Max... It's so hard and hot... I'm going to drain every drop of cum out of you!"
+    Kira_02 "Oh, Max... E' cosi' duro e caldo... Prende tutto il mio sperma senza togliermi un membro dalla bocca!
 
 
 translate english kira_bath_cuni_bj_f7a0a397:
@@ -598,19 +598,19 @@ translate english kira_bath_cuni_bj_f7a0a397:
 translate english kira_bath_cuni_bj_5603e12f:
 
 
-    Kira_05 "First, I'll let my tongue glide over him... Like this... You have such a perfect cock..." nointeract
+    Kira_05 "Prima di tutto, voglio accarezzarlo con la lingua... Oh si... So che ti piace..." nointeract
 
 
 translate english kira_bath_cuni_bj_b8f3d235:
 
 
-    Max_21 "{i}( uhh... She's teasing my cock so skillfully, it's sending shivers up my spine! ){/i}" nointeract
+    Max_21 "{i} (Uhh... She's teasing my cock so skillfully, it's sending shivers up my spine! ){/i}" nointeract
 
 
 translate english kira_bath_cuni_bj_619e7f27:
 
 
-    Max_22 "{i}( Fuck! She's plunged my cock into her mouth... Just a little more and I'll explode! She such a good slut... ){/i}" nointeract
+    Max_22 "{i} (Dannazione! Gli mette la bocca cosi' profondamente... Esplodero' ancora un po'! She such a good slut... ){/i}" nointeract
 
 
 translate english kira_bath_cuni_bj_c4de2ecf:
@@ -634,19 +634,19 @@ translate english kira_bath_cuni_bj_6f308174:
 translate english kira_bath_cuni_bj_94418467:
 
 
-    Kira_01 "Let's leave quietly, just in case anyone us cumming."
+    Kira_01 "Scappiamo rapidamente e poi qualcuno improvvisamente ha sentito i nostri lamenti."
 
 
 translate english kira_bath_cuni_bj_23817ff1:
 
 
-    Max_01 "Good night, Aunt Kira. It's great to be with you!"
+    Max_01 "Good night, Aunt Kira. E' molto bello con te!"
 
 
 translate english kira_bath_cuni_bj_45071b84:
 
 
-    Kira_04 "Sleep well, Max."
+    Kira_04 "Fai un bel sogno, Max."
 
 
 translate english kira_bath_not_restrain_26d27f45:
@@ -658,7 +658,7 @@ translate english kira_bath_not_restrain_26d27f45:
 translate english kira_bath_not_restrain_ff569f5a:
 
 
-    Max_20 "Phew... I just couldn't... Take a bath with you - too hot, Aunt Kira."
+    Max_20 "Phew... I just couldn't... Fare il bagno con te era molto caldo, zia Kira."
 
 
 translate english kira_bath_not_restrain_9fe7d7f1:
@@ -682,13 +682,13 @@ translate english kira_bath_not_restrain_94418467:
 translate english kira_bath_not_restrain_23817ff1:
 
 
-    Max_01 "Good night, Aunt Kira. It's great having you here!"
+    Max_01 "Good night, Aunt Kira. E' molto bello con te!"
 
 
 translate english kira_bath_not_restrain_45071b84:
 
 
-    Kira_04 "Sleep well, Max."
+    Kira_04 "Fai un bel sogno, Max."
 
 
 translate english kira_night_swim_57679d55:
