@@ -16,7 +16,7 @@ translate english alice_bath_ab9e6db9:
 translate english alice_bath_74fd8c7a:
 
 
-    Alice "{b} Alice: {/b} Max, sei sordo? Te l'ho detto, mi tuffero' nella vasca da bagno. Aspetta almeno un'ora!" Don't come back for at least an hour!"
+    Alice "{b} Alice: {/b} Max, sei sordo? Te l'ho detto, mi tuffero' nella vasca da bagno. Aspetta almeno un'ora!" Non tornate per almeno un'ora!"
 
 
 translate english alice_bath_84309eb3:
@@ -28,7 +28,7 @@ translate english alice_bath_84309eb3:
 translate english alice_bath_12dd9242:
 
 
-    Max_00 "Alice sembra fare la doccia..." nointeract Too bad I can't see much because of the frosted glass. Ma e' pericoloso avvicinarsi - potresti notare..."
+    Max_00 "Alice sembra fare la doccia..." nointeract Peccato che non riesco a vedere molto a causa del vetro satinato. Ma e' pericoloso avvicinarsi - potresti notare..."
 
 
 translate english alice_bath_617c9a2e:
@@ -46,7 +46,7 @@ translate english alice_bath_6a58c36d:
 translate english alice_bath_ladder_2b325faf:
 
 
-    Max_04 "Let's see what we got here..."
+    Max_04 "Vediamo cosa abbiamo qui..."
 
 
 translate english alice_bath_ladder_40583688:
@@ -70,7 +70,7 @@ translate english alice_bath_ladder_5529b0b9_1:
 translate english alice_bath_ladder_98712b50:
 
 
-    Max_07 "Eh! My favourite part didn't last long... L'unica cosa rimasta da fare alla fine e' godersi il suo culo ineguagliabile!" nointeract
+    Max_07 "Eh! La mia parte preferita non è durata molto... L'unica cosa rimasta da fare alla fine e' godersi il suo culo ineguagliabile!" nointeract
 
 
 translate english alice_sleep_night_7ff48024:
@@ -82,7 +82,7 @@ translate english alice_sleep_night_7ff48024:
 translate english alice_sleep_night_3e18ecfd:
 
 
-    Max_07 "Oh, yes! My big sister looks amazing... The curves of her body, you look so sexy right now!" nointeract
+    Max_07 "Oh si! My big sister looks amazing... The curves of her body, you look so sexy right now!" nointeract
 
 
 translate english alice_sleep_night_5d061581:
@@ -94,7 +94,7 @@ translate english alice_sleep_night_5d061581:
 translate english alice_sleep_night_9133399c:
 
 
-    Max_01 "Awesome! Sis sleeps with her back bent out, so her naked breasts stick out like two hills... A tempting spectacle..." nointeract
+    Max_01 "Fantastico! La sorellina dorme con la schiena arcuata, il che le fa sporgere il petto come due collinette... Uno spettacolo allettante..." nointeract
 
 
 translate english alice_sleep_night_013f61a2:
@@ -112,7 +112,7 @@ translate english alice_sleep_night_153a8299:
 translate english alice_sleep_night_aa8e7463:
 
 
-    Max_01 "Awesome! La sorellina dorme con la schiena inarcata, motivo per cui il suo petto sporge come due tumuli... Allettante... Ma sembra che si sia dimenticata di togliersi qualcosa prima di andare a letto!"
+    Max_01 "Fantastico! La sorellina dorme con la schiena inarcata, motivo per cui il suo petto sporge come due tumuli... Allettante... Ma sembra che si sia dimenticata di togliersi qualcosa prima di andare a letto!"
 
 
 translate english alice_sleep_night_a66d1095:
