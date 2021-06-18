@@ -118,13 +118,13 @@ translate english alice_sleep_night_aa8e7463:
 translate english alice_sleep_night_a66d1095:
 
 
-    Max_09 "Sometimes it's good to go out of your comfort zone. Maybe I should take advantage of what Alice is most afraid of?" nointeract
+    Max_09 "Sometimes it's good to go out of your comfort zone. Forse dovrei approfittare di quello che Alice ha più paura?" nointeract
 
 
 translate english alice_sleep_night_dc2760cf:
 
 
-    Max_07 "Oh, yes! My big sister looks amazing... Voglio guardare per sempre le curve del suo corpo in questa lingerie traslucida!" nointeract
+    Max_07 "Oh si! My big sister looks amazing... Voglio guardare per sempre le curve del suo corpo in questa lingerie traslucida!" nointeract
 
 
 translate english alice_sleep_night_a31094ba:
@@ -136,13 +136,13 @@ translate english alice_sleep_night_a31094ba:
 translate english alice_sleep_night_0e56ded8:
 
 
-    Max_01 "Awesome! La sorellina dorme con la schiena arcuata, il che le fa sporgere il petto come due collinette... Seducente..." nointeract
+    Max_01 "Fantastico! La sorellina dorme con la schiena arcuata, il che le fa sporgere il petto come due collinette... Seducente..." nointeract
 
 
 translate english alice_sleep_night_43e235c5:
 
 
-    Max_03 "Si... E' solo un peccato che il seno non sia visibile come vorremmo, ma puoi ammirare all'infinito il suo culo affascinante... Voglio solo schiaffeggiarla... Vero, allora questa sara' l'ultima cosa che faccio nella vita. So it's better to leave quietly..." nointeract
+    Max_03 "Si... E' solo un peccato che il seno non sia visibile come vorremmo, ma puoi ammirare all'infinito il suo culo affascinante... Voglio solo schiaffeggiarla... Vero, allora questa sara' l'ultima cosa che faccio nella vita. Quindi è meglio lasciarla tranquilla... " nointeract
 
 
 translate english alice_sleep_night_eab46551:
@@ -154,7 +154,7 @@ translate english alice_sleep_night_eab46551:
 translate english alice_sleep_night_e0bac404:
 
 
-    Max_05 "Damn, how attractive she is when she's lying there like this, with her breasts completely bare... I just want to sneak in between those boobs and her slender legs! As long as she doesn't wake up now..." nointeract
+    Max_05 "Accidenti, quanto è attraente quando è sdraiata lì così, con il suo seno completamente nudo... Voglio solo intrufolarmi tra quelle tette e le sue gambe slanciate! Finché non si sveglia adesso..." nointeract
 
 
 translate english alice_sleep_night_9ed99f0c:
@@ -178,7 +178,7 @@ translate english alice_sleep_night_ef329553:
 translate english alice_sleep_morning_7ff48024:
 
 
-    Max_00 "Alice sembra dormire. Probably shouldn't knock. \nAnd it's way too dangerous to just walk in..." nointeract
+    Max_00 "Alice sembra dormire. Probabilmente non dovrei bussare. \nAnd it's way too dangerous to just walk in..." nointeract
 
 
 translate english alice_sleep_morning_7c1f0327:
@@ -196,13 +196,13 @@ translate english alice_sleep_morning_c26f2753:
 translate english alice_sleep_morning_478c8465:
 
 
-    Max_04 "Wow! Such tempting curves and boobs can make you lose consciousness early in the morning... What a big sister I have!" nointeract
+    Max_04 "Wow! Tanta tentazione e le tette possono farti perdere conoscenza presto la mattina... Che sorella grande che ho!" nointeract
 
 
 translate english alice_sleep_morning_3ed48829:
 
 
-    Max_07 "Yes! Alice sta ancora dormendo, il che sicuramente mi rende felice... Significa che posso esaminare correttamente la sua figura fresca, quasi nuda... Solo ora indossa piu' di quanto dovrebbe essere!"
+    Max_07 "Sì! Alice sta ancora dormendo, il che sicuramente mi rende felice... Significa che posso esaminare correttamente la sua figura fresca, quasi nuda... Solo ora indossa piu' di quanto dovrebbe essere!"
 
 
 translate english alice_sleep_morning_88467c6d:
@@ -214,25 +214,25 @@ translate english alice_sleep_morning_88467c6d:
 translate english alice_sleep_morning_f62eae9b:
 
 
-    Max_02 "Wow! I just love those curves. Mia sorella maggiore ha un aspetto fantastico... E sarebbe ancora meglio se mi togliessi quello che dovrei!"
+    Max_02 "Wow! Amo solo quelle curve. Mia sorella maggiore ha un aspetto fantastico... E sarebbe ancora meglio se mi togliessi quello che dovrei!"
 
 
 translate english alice_sleep_morning_333a5d36:
 
 
-    Max_09 "I ought to take her out of her comfort zone... maybe I could use what she fears most?" nointeract
+    Max_09 "Dovrei portarla fuori dalla sua zona di comfort... forse potrei usare quello che teme di più?"
 
 
 translate english alice_sleep_morning_5a7b04f5:
 
 
-    Max_07 "Yes! Alice is still asleep, which makes me very happy...it means I have a good chance to admire her... Ho bisogno di aiuto!" nointeract
+    Max_07 "Sì! Alice dorme ancora, il che mi rende molto felice... significa che ho buone possibilità di ammirarla... Ho bisogno di aiuto!" nointeract
 
 
 translate english alice_sleep_morning_f2de281e:
 
 
-    Max_01 "Shit! Anche se dorme, ma direttamente di fronte a me... Eppure, posso godermi la bellezza del suo corpo e come..." nointeract
+    Max_01 "Merda! Anche se dorme, ma direttamente di fronte a me... Eppure, posso godermi la bellezza del suo corpo e come..." nointeract
 
 
 translate english alice_sleep_morning_159c77a0:
@@ -250,13 +250,13 @@ translate english alice_sleep_morning_bbfe755e:
 translate english alice_sleep_morning_dc8fde31:
 
 
-    Max_03 "Oh si! Non sdraiarti e non ottenere questo culo tenero - un vero crimine... Oltre ad accarezzare questi deliziosi capezzoli! Solo Alice conta in modo diverso e mi strappa la testa proprio qui. So it's better to leave quietly..." nointeract
+    Max_03 "Oh si! Non sdraiarti e non ottenere questo culo tenero - un vero crimine... Oltre ad accarezzare questi deliziosi capezzoli! Solo Alice conta in modo diverso e mi strappa la testa proprio qui. Quindi è meglio lasciarla tranquilla..." nointeract
 
 
 translate english alice_sleep_morning_abc53cfb:
 
 
-    Max_02 "Hell! What a great pleasure it would be to sit next to her, put my hands in her panties and play with those soft boobs all morning... Ah, nice sis, but it's time to go... If she wakes up, I'm definitely not gonna be around to say hello." nointeract
+    Max_02 "Maledizione! Che grande piacere sarebbe sedersi accanto a lei, mettere le mani nelle sue paure e giocare con quelle tette morbide tutta la mattina... Ah, che bella sorelle, ma è il momento di andarsene... If she wakes up, I'm definitely not gonna be around to say hello." nointeract
 
 
 translate english alice_sleep_morning_807b976b:
@@ -316,7 +316,7 @@ translate english alice_shower_edba9d24:
 translate english alice_shower_start_peeping_24696a80:
 
 
-    Alice Nuda e' a solo un paio di metri da me! She's so beautiful...but also very dangerous. Better make sure she doesn't see me." nointeract
+    Alice Nuda e' a solo un paio di metri da me! È così meravigliosa... ma anche molto pericolosa. Meglio assicurarsi che non mi veda." nointeract
 
 
 translate english alice_shower_spider_09c9d753:
@@ -946,19 +946,19 @@ translate english spider_in_bed_help_aa7a7a05:
 translate english spider_in_bed_help_165abb28:
 
 
-    Alice_13 "You're such a pervert, Max! Aren't you ashamed to ask that?!"
+    Alice_13 "Sei un tale pervertito, Max! Non ti vergogni a chiederlo?!"
 
 
 translate english spider_in_bed_help_adbdf35e:
 
 
-    Max_01 "It's your fault! I wanted to be with you for a good reason... You can't get away with this now, can you?!"
+    Max_01 "È colpa tua! Volevo essere con te per un buon motivo... Non riescirai a farla franca, puoi?! "
 
 
 translate english spider_in_bed_help_ab9c3416:
 
 
-    Alice_03 "Bene, vieni dentro. Guarda... E non dire che questo non e' abbastanza... I won't show you any more! Sei soddisfatto?"
+    Alice_03 "Bene, vieni dentro. Guarda... E non dire che questo non e' abbastanza... Non ti mostrerò più! Sei soddisfatto?"
 
 
 translate english spider_in_bed_help_407fb08c:
@@ -1012,19 +1012,19 @@ translate english spider_in_bed_tits_556ab3f7:
 translate english spider_in_bed_tits_455bb217:
 
 
-    Alice_09 "[succes!t] Ah! You're such a pig... Ok, ammira, sono gentile oggi. Ora vai, uccidilo gia', finalmente!"
+    Alice_09 "[succes!t] Ah! Sei un maiale... Ok, ammira, sono gentile oggi. Ora vai, uccidilo gia', finalmente!"
 
 
 translate english spider_in_bed_tits_eccbb760:
 
 
-    Max_04 "Nice tits! Okay, dov'e' il tuo ragno..."
+    Max_04 "Belle tette! Okay, dov'e' il tuo ragno..."
 
 
 translate english spider_in_bed_toples_199ed983:
 
 
-    Alice_17 "[failed!t] Cosa?! Bene, boor... Are you happy now, you perv? E uccidilo gia', finalmente!"
+    Alice_17 "[failed!t] Cosa?! Bene, boor... Sei felice ora, perv? E uccidilo gia', finalmente!"
 
 
 translate english spider_in_bed_toples_19d75d09:
@@ -1042,7 +1042,7 @@ translate english spider_in_bed_spider_952bda97:
 translate english spider_in_bed_spider_a3432394:
 
 
-    Alice_16 "Max! You have to kill it or I'll think you planted it in my room! Dimostra che non eri tu!" nointeract
+    Alice_16 " Max! You have to kill it or I'll think you planted it in my room! Dimostra che non eri tu!" nointeract
 
 
 translate english spider_in_bed_spider_be1cbc22:
@@ -1108,7 +1108,7 @@ translate english alice_after_club_75acb86d:
 translate english alice_after_club_74fd8c7a:
 
 
-    Alice "{b} Alice: {/b} Max, sei sordo? Te l'ho detto, mi tuffero' nella vasca da bagno. Aspetta almeno un'ora!" Don't come back for at least an hour!"
+    Alice "{b} Alice: {/b} Max, sei sordo? Te l'ho detto, mi tuffero' nella vasca da bagno. Aspetta almeno un'ora!" Non tornate per almeno un'ora!"
 
 
 translate english alice_after_club_9ddb515e:
@@ -1126,7 +1126,7 @@ translate english alice_after_club_ab9e6db9:
 translate english alice_after_club_74fd8c7a_1:
 
 
-    Alice "{b} Alice: {/b} Max, sei sordo? Te l'ho detto, mi tuffero' nella vasca da bagno. Aspetta almeno un'ora!" Don't come back for at least an hour!"
+    Alice "{b} Alice: {/b} Max, sei sordo? Te l'ho detto, mi tuffero' nella vasca da bagno. Aspetta almeno un'ora!" Non tornate per almeno un'ora!"
 
 
 translate english alice_after_club_9ddb515e_1:
@@ -1138,7 +1138,7 @@ translate english alice_after_club_9ddb515e_1:
 translate english alice_after_club_a18aa67b:
 
 
-    Max_01 "Accidenti! Nessuna fortuna... Alice e' gia' caduta per fare un bagno. Da qui non vedo nulla..." I can't see anything from here..."
+    Max_01 "Accidenti! Nessuna fortuna... Alice e' gia' caduta per fare un bagno. Da qui non vedo nulla..." Non riesco a vedere nulla da qui..."
 
 
 translate english alice_after_club_6a58c36d:
@@ -1222,13 +1222,13 @@ translate english alice_after_club_knock_c3cd096e:
 translate english alice_after_club_knock_bc114c30:
 
 
-    Max_09 "Why are you wearing panties?"
+    Max_09 "Perché porti le mutandine?"
 
 
 translate english alice_after_club_knock_72f86c2b:
 
 
-    Alice_05 "Orribile! Looks like I broke our agreement... O no... Non posso indossarli di notte?"
+    Alice_05 "Orribile! Sembra cheabbia infranto il nostro accordo... O no... Non posso indossarli di notte?"
 
 
 translate english alice_after_club_knock_5120f774:
@@ -1270,7 +1270,7 @@ translate english alice_after_club_knock_45d91082:
 translate english alice_after_club_knock_7c101327:
 
 
-    Alice_05 "Sai... Non sono ancora cosi' ubriaco e, a quanto pare, sto gia' lasciando andare. Devi affrontare il tuo problema da solo... And I've got a bath waiting for me. Quindi, leggermente..."
+    Alice_05 "Sai... Non sono ancora cosi' ubriaco e, a quanto pare, sto gia' lasciando andare. Devi affrontare il tuo problema da solo... E ho un bagno che mi aspetta. Quindi, leggermente..."
 
 
 translate english alice_after_club_knock_bb48092d:
@@ -1282,7 +1282,7 @@ translate english alice_after_club_knock_bb48092d:
 translate english alice_after_club_knock_cfe6cd28:
 
 
-    Max_00 "I understand, I'm leaving..."
+    Max_00 "Capisco, me ne vado..."
 
 
 translate english alice_after_club_next1_156a877b:
@@ -1348,7 +1348,7 @@ translate english alice_after_club_caress_26f96547:
 translate english alice_after_club_caress_72bb6cc5:
 
 
-    Alice_05 "Nessun dubbio. La vasca e' quasi piena d'acqua, quindi possiamo fare qualcos'altro in fretta! But be careful what you wish for..." nointeract
+    Alice_05 "Nessun dubbio. La vasca e' quasi piena d'acqua, quindi possiamo fare qualcos'altro in fretta! Ma state attenti a ciò che desiderate..." nointeract
 
 
 translate english alice_after_club_caress_ea00c690:
