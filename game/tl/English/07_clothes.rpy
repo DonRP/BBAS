@@ -1,26 +1,26 @@
-﻿# TODO: Translation updated at 2021-06-19 20:09
+﻿# TODO: Translation updated at 2021-04-15 10:31
 
-translate crowdin strings:
+translate english strings:
 
     # game/core/07_clothes.rpy:86
     old "Повседневная"
-    new "Повседневная"
+    new "Evening Recreation"
 
     # game/core/07_clothes.rpy:86
     old "Для сна"
-    new "Для сна"
+    new "Making breakfast"
 
     # game/core/07_clothes.rpy:86
     old "Для йоги"
-    new "Для йоги"
+    new "For yoga"
 
     # game/core/07_clothes.rpy:86
     old "Блог в нижнем белье"
-    new "Блог в нижнем белье"
+    new "The lingerie blog"
 
     # game/core/07_clothes.rpy:86
     old "Готовит завтрак"
-    new "Готовит завтрак"
+    new "Cooking dinner"
 
     # game/core/07_clothes.rpy:86
     old "Готовит ужин"
@@ -44,5 +44,5 @@ translate crowdin strings:
 
     # game/core/07_clothes.rpy:160
     old "Влияние Макса недостаточно"
-    new "Влияние Макса недостаточно"
+    new "Max's influence isn't high enough"
 
