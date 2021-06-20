@@ -4,45 +4,45 @@ translate crowdin strings:
 
     # game/core/01classes.rpy:587
     old "Ужасное"
-    new "Ужасное"
+    new "Terribile"
 
     # game/core/01classes.rpy:587
     old "Очень плохое"
-    new "Очень плохое"
+    new "Molto male"
 
     # game/core/01classes.rpy:587
     old "Плохое"
-    new "Плохое"
+    new "Male"
 
     # game/core/01classes.rpy:587
     old "Не очень"
-    new "Не очень"
+    new "Così così"
 
     # game/core/01classes.rpy:587
     old "Нейтральное"
-    new "Нейтральное"
+    new "Neutro"
 
     # game/core/01classes.rpy:587
     old "Неплохое"
-    new "Неплохое"
+    new "Non male"
 
     # game/core/01classes.rpy:587
     old "Хорошее"
-    new "Хорошее"
+    new "Buono"
 
     # game/core/01classes.rpy:587
     old "Очень хорошее"
-    new "Очень хорошее"
+    new "Molto buono"
 
     # game/core/01classes.rpy:587
     old "Прекрасное"
-    new "Прекрасное"
+    new "Ottimo"
 
     # game/core/01classes.rpy:962
     old "Приобретен пакет рекламы"
-    new "Приобретен пакет рекламы"
+    new "Pacchetto pubblicitario acquisito"
 
     # game/core/01classes.rpy:1185
     old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-    new "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+    new "{color=[lime]}{i}{b}Attenzione:{/b} Hai scoperto una nuova \"opportunità\"!{/i}{/color}"
 
