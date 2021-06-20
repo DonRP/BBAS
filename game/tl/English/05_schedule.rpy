@@ -4,25 +4,25 @@ translate crowdin strings:
 
     # game/core/05_schedule.rpy:7
     old "курит"
-    new "курит"
+    new "smokes"
 
     # game/core/05_schedule.rpy:7
     old "в бассейне"
-    new "в бассейне"
+    new "in the pool"
 
     # game/core/05_schedule.rpy:74
     old "спит (утро)"
-    new "спит (утро)"
+    new "sleep (morning)"
 
     # game/core/05_schedule.rpy:74
     old "в своей комнате"
-    new "в своей комнате"
+    new "in your room"
 
     # game/core/05_schedule.rpy:74
     old "читает на веранде"
-    new "читает на веранде"
+    new "reads on the veranda"
 
     # game/core/05_schedule.rpy:162
     old "семейный ужин"
-    new "семейный ужин"
+    new "family dinner"
 
