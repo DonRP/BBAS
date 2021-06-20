@@ -4,295 +4,295 @@
 translate crowdin AliceTalkStart_50ef2ada:
 
     # Alice_00 "Ну, Макс, чего надо?" nointeract
-    Alice_00 "Ну, Макс, чего надо?" nointeract
+    Alice_00 "Beh, Max, di cosa hai bisogno?"
 
 # game/dialogues/alicetalk.rpy:43
 translate crowdin Alice_badbadmood_86d8a37d:
 
     # Alice_09 "Да пошёл ты! Не хочу тебя видеть даже!" nointeract
-    Alice_09 "Да пошёл ты! Не хочу тебя видеть даже!" nointeract
+    Alice_09 "Dai! Non voglio nemmeno vederti!" nointeract
 
 # game/dialogues/alicetalk.rpy:52
 translate crowdin Alice_badmood_de141364:
 
     # Alice_09 "Макс, отвали! Я не хочу с тобой разговаривать." nointeract
-    Alice_09 "Макс, отвали! Я не хочу с тобой разговаривать." nointeract
+    Alice_09 "Max, vattene! Non voglio parlare con te." nointeract
 
 # game/dialogues/alicetalk.rpy:61
 translate crowdin Alice_asksorry_2395f0d1:
 
     # Alice_13 "Хотел извиниться? Каким образом?" nointeract
-    Alice_13 "Хотел извиниться? Каким образом?" nointeract
+    Alice_13 "Vorresti scusarti? Come? nointeract
 
 # game/dialogues/alicetalk.rpy:68
 translate crowdin Alice_normalmood_1faefb22:
 
     # Alice_09 "Макс, давай не сейчас..." nointeract
-    Alice_09 "Макс, давай не сейчас..." nointeract
+    Alice_09 "Max, non facciamolo ora..." nointeract
 
 # game/dialogues/alicetalk.rpy:75
 translate crowdin Alice_cooldown_9093ad70:
 
     # Alice_09 "Макс... Не сейчас."
-    Alice_09 "Макс... Не сейчас."
+    Alice_09 "Max... Non ora."
 
 # game/dialogues/alicetalk.rpy:76
 translate crowdin Alice_cooldown_689c772b:
 
     # Max_00 "Ладно..."
-    Max_00 "Ладно..."
+    Max_00 "Ok..."
 
 # game/dialogues/alicetalk.rpy:82
 translate crowdin wash_dishes_alice_6dd3a0ed:
 
     # Alice_13 "Хочешь о посуде поговорить или пришёл помочь?" nointeract
-    Alice_13 "Хочешь о посуде поговорить или пришёл помочь?" nointeract
+    Alice_13 "Vuoi parlare dei piatti o venire ad aiutare?" nointeract
 
 # game/dialogues/alicetalk.rpy:85
 translate crowdin wash_dishes_alice_9cbbc5d1:
 
     # Alice_07 "Что это с тобой? Но я не откажусь. И... спасибо." nointeract
-    Alice_07 "Что это с тобой? Но я не откажусь. И... спасибо." nointeract
+    Alice_07 "Cosa non va in te? Ma non dirò di no. e... grazie." nointeract
 
 # game/dialogues/alicetalk.rpy:93
 translate crowdin wash_dishes_alice_07966f8d:
 
     # Max_11 "И почему здесь нет посудомоечной машины..." nointeract
-    Max_11 "И почему здесь нет посудомоечной машины..." nointeract
+    Max_11 "E perché non c'è una lavastoviglie..." nointeract
 
 # game/dialogues/alicetalk.rpy:99
 translate crowdin wash_dishes_alice_e341ef54:
 
     # Alice_09 "Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил!" nointeract
-    Alice_09 "Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил!" nointeract
+    Alice_09 "Sai cosa, esci di qui prima che ti arrivi uno straccio bagnato in testa!" nointeract
 
 # game/dialogues/alicetalk.rpy:113
 translate crowdin talkblog1_3a17a0f5:
 
     # Alice_00 "А типа ты не знаешь? Позлорадствовать пришёл?" nointeract
-    Alice_00 "А типа ты не знаешь? Позлорадствовать пришёл?" nointeract
+    Alice_00 "Come se non lo sapessi? Sei qui per gongolare?" nointeract
 
 # game/dialogues/alicetalk.rpy:116
 translate crowdin talkblog1_7eb6bffd:
 
     # Alice_02 "Что, даже не начнёшь подкалывать? И что ты хотел узнать?" nointeract
-    Alice_02 "Что, даже не начнёшь подкалывать? И что ты хотел узнать?" nointeract
+    Alice_02 "Che c'è, non inizi nemmeno a curiosare? E cosa volevi sapere?" nointeract
 
 # game/dialogues/alicetalk.rpy:119
 translate crowdin talkblog1_972348e1:
 
     # Alice_13 "Ну, пока наши вещи не пропали во время переезда, я показывала как наносить лак, как применять различные средства и делилась разными хитростями..." nointeract
-    Alice_13 "Ну, пока наши вещи не пропали во время переезда, я показывала как наносить лак, как применять различные средства и делилась разными хитростями..." nointeract
+    Alice_13 "Beh, fino a quando la nostra roba è andata persa durante il trasloco, stavo mostrando come applicare lo smalto, come applicare diversi prodotti e condividere diversi trucchi..." nointeract
 
 # game/dialogues/alicetalk.rpy:122
 translate crowdin talkblog1_e315e67b:
 
     # Alice_01 "Да у других таких же блогеров подсмотрела, конечно. Все так делают! Ну и сама в интернете разное читаю, изучаю..." nointeract
-    Alice_01 "Да у других таких же блогеров подсмотрела, конечно. Все так делают! Ну и сама в интернете разное читаю, изучаю..." nointeract
+    Alice_01 "Sì da altri blogger come me, naturalmente. Lo fanno tutti! Bene, e io stesso in Internet leggo diverso, studio..." nointeract
 
 # game/dialogues/alicetalk.rpy:125
 translate crowdin talkblog1_51f5104a:
 
     # Alice_00 "Нет, но мне это всё как-то по душе. Говорят, у человека лучше получается то, что нравится. А мне это нравится..." nointeract
-    Alice_00 "Нет, но мне это всё как-то по душе. Говорят, у человека лучше получается то, что нравится. А мне это нравится..." nointeract
+    Alice_00 "No, ma in qualche modo mi piace tutto. Si dice che una persona è migliore in ciò che le piace. E mi piace..." nointeract
 
 # game/dialogues/alicetalk.rpy:136
 translate crowdin talkblog1_4c394248:
 
     # Alice_00 "Развиваться? Шутишь? Все мои вещи, лаки, материалы и прочее было в том контейнере, который пропал. Теперь у меня нет ничего..." nointeract
-    Alice_00 "Развиваться? Шутишь? Все мои вещи, лаки, материалы и прочее было в том контейнере, который пропал. Теперь у меня нет ничего..." nointeract
+    Alice_00 "Sviluppare? Mi stai prendendo in giro? Tutta la mia roba, le vernici, i materiali e il resto erano in quel container che è scomparso. Ora non ho niente..." nointeract
 
 # game/dialogues/alicetalk.rpy:139
 translate crowdin talkblog1_b5c0083a:
 
     # Alice_13 "Совсем всё. У меня даже нет подходящей одежды, чтобы вести блог. Нельзя же постоянно быть в одной майке перед зрителями..." nointeract
-    Alice_13 "Совсем всё. У меня даже нет подходящей одежды, чтобы вести блог. Нельзя же постоянно быть в одной майке перед зрителями..." nointeract
+    Alice_13 "Questo è tutto. Non ho nemmeno i vestiti giusti per il blog. Non posso indossare sempre la stessa maglietta davanti a un pubblico..." nointeract
 
 # game/dialogues/alicetalk.rpy:142
 translate crowdin talkblog1_d69e84a6:
 
     # Alice_00 "Ага, потому что единственная, да? А ещё какая фишка? Нет материалов, нечего показывать?" nointeract
-    Alice_00 "Ага, потому что единственная, да? А ещё какая фишка? Нет материалов, нечего показывать?" nointeract
+    Alice_00 "Sì, perché è l'unico, giusto? Qual è il problema? Nessun materiale, niente da mostrare?" nointeract
 
 # game/dialogues/alicetalk.rpy:149
 translate crowdin talkblog1_7b2f88d3:
 
     # Alice_00 "Очень важно. Ну, ладно, чёрт с ней, с одеждой, а что мне в блоге показывать? Как себя правильно расчёсывать? У меня нет ничего..." nointeract
-    Alice_00 "Очень важно. Ну, ладно, чёрт с ней, с одеждой, а что мне в блоге показывать? Как себя правильно расчёсывать? У меня нет ничего..." nointeract
+    Alice_00 "È molto importante. Beh, ok, al diavolo i vestiti, ma di cosa dovrei parlare nel blog? Come pettinarsi correttamente? Non ho niente..." nointeract
 
 # game/dialogues/alicetalk.rpy:158
 translate crowdin talkblog1_bc534058:
 
     # Alice_13 "Да ты издеваешься, да?" nointeract
-    Alice_13 "Да ты издеваешься, да?" nointeract
+    Alice_13 "Mi stai prendendo in giro, vero?" nointeract
 
 # game/dialogues/alicetalk.rpy:164
 translate crowdin talkblog1_no_f28dfb56:
 
     # Alice_00 "Типа ты не в курсе, что у нас пропала большая часть вещей во время переезда?" nointeract
-    Alice_00 "Типа ты не в курсе, что у нас пропала большая часть вещей во время переезда?" nointeract
+    Alice_00 "Come se non sapessi che abbiamo perso la maggior parte delle nostre cose durante il trasloco?" nointeract
 
 # game/dialogues/alicetalk.rpy:168
 translate crowdin talkblog1_no_e05a3f44:
 
     # Alice_09 "Знаешь что, Макс, отвали!"
-    Alice_09 "Знаешь что, Макс, отвали!"
+    Alice_09 "Sai una cosa, Max, vattene!"
 
 # game/dialogues/alicetalk.rpy:169
 translate crowdin talkblog1_no_4a96e107:
 
     # Max_00 "Ну и ладно..."
-    Max_00 "Ну и ладно..."
+    Max_00 "Ok..."
 
 # game/dialogues/alicetalk.rpy:173
 translate crowdin talkblog1_no_c2e53ff4:
 
     # Alice_13 "Ну, вот среди тех вещей было всё, что я использовала для ведения своего блога. Одежда, различные лаки, кремы... вообще всё!" nointeract
-    Alice_13 "Ну, вот среди тех вещей было всё, что я использовала для ведения своего блога. Одежда, различные лаки, кремы... вообще всё!" nointeract
+    Alice_13 "Beh, tra quelle cose c'era tutto quello che ho usato per mantenere il mio blog. Vestiti, smalti vari, creme... tutto!" nointeract
 
 # game/dialogues/alicetalk.rpy:180
 translate crowdin talkblog1_no_a26f49f6:
 
     # Alice_13 "Макс, тебе заняться нечем, кроме как меня доставать? Ты же знаешь, что у меня всё пропало!" nointeract
-    Alice_13 "Макс, тебе заняться нечем, кроме как меня доставать? Ты же знаешь, что у меня всё пропало!" nointeract
+    Alice_13 "Max, non hai niente di meglio da fare che tormentarmi? Sai benissimo che mi manca tutto!" nointeract
 
 # game/dialogues/alicetalk.rpy:185
 translate crowdin talkblog1_no_3c44b91d:
 
     # Alice_00 "Конечно! Там же было вообще всё, что мне нужно для ведения блога. Шмотки, мои любимые лаки, косметика... вообще всё!" nointeract
-    Alice_00 "Конечно! Там же было вообще всё, что мне нужно для ведения блога. Шмотки, мои любимые лаки, косметика... вообще всё!" nointeract
+    Alice_00 "Certo! Voglio dire, tutto ciò di cui avevo bisogno per il blog era lì. I vestiti, il mio smalto preferito, il trucco... tutto!" nointeract
 
 # game/dialogues/alicetalk.rpy:191
 translate crowdin talkblog1_sad_4c5abd35:
 
     # Alice_13 "Вот-вот... Надо было всё с собой брать, а не складывать в тот контейнер.." nointeract
-    Alice_13 "Вот-вот... Надо было всё с собой брать, а не складывать в тот контейнер.." nointeract
+    Alice_13 "È vero... Avrei dovuto portare tutto con me invece di metterlo in quel contenitore..." nointeract
 
 # game/dialogues/alicetalk.rpy:198
 translate crowdin talkblog1_help_9598919f:
 
     # Alice_01 "Ты у нас внезапно стал миллионером? Или просто деньги появились? Самый простой способ - это купить недостающее. Ну, или найти то, что пропало" nointeract
-    Alice_01 "Ты у нас внезапно стал миллионером? Или просто деньги появились? Самый простой способ - это купить недостающее. Ну, или найти то, что пропало" nointeract
+    Alice_01 "Sei improvvisamente milionario? O i soldi sono semplicemente apparsi? Il modo più semplice è comprare quello che manca. O trovare ciò che manca." nointeract
 
 # game/dialogues/alicetalk.rpy:201
 translate crowdin talkblog1_help_39dfe6d6:
 
     # Alice_13 "А без денег тут ничем не поможешь. Вообще, я в депрессии из-за всей этой истории. Вся жизнь перевернулась..." nointeract
-    Alice_13 "А без денег тут ничем не поможешь. Вообще, я в депрессии из-за всей этой истории. Вся жизнь перевернулась..." nointeract
+    Alice_13 "Non si può fare niente senza soldi. In effetti, sono depressa per tutta la faccenda. Tutta la mia vita è stata stravolta..." nointeract
 
 # game/dialogues/alicetalk.rpy:204
 translate crowdin talkblog1_help_a1831006:
 
     # Alice_00 "Да, в этом плане ты прав, Макс. Но я хотела чего-то добиться. Стать известным блогером и заработать кучу денег. А теперь..." nointeract
-    Alice_00 "Да, в этом плане ты прав, Макс. Но я хотела чего-то добиться. Стать известным блогером и заработать кучу денег. А теперь..." nointeract
+    Alice_00 "Sì, su questo hai ragione, Max. Ma volevo ottenere qualcosa. Diventare una blogger famosa e fare un sacco di soldi. E ora..." nointeract
 
 # game/dialogues/alicetalk.rpy:211
 translate crowdin talkblog1_help_675f913d:
 
     # Alice_00 "Верно. Но всё равно, это всё очень грустно. Я даже не представляю, как теперь быть..." nointeract
-    Alice_00 "Верно. Но всё равно, это всё очень грустно. Я даже не представляю, как теперь быть..." nointeract
+    Alice_00 "Giusto. Ma comunque, è tutto molto triste. Non ho la minima idea di cosa fare adesso..." nointeract
 
 # game/dialogues/alicetalk.rpy:220
 translate crowdin talkblog1_help_c3653c20:
 
     # Alice_00 "А кто ты тогда? Чем же именно можешь помочь?" nointeract
-    Alice_00 "А кто ты тогда? Чем же именно можешь помочь?" nointeract
+    Alice_00 "Chi sei allora? Come puoi aiutare esattamente?" nointeract
 
 # game/dialogues/alicetalk.rpy:223
 translate crowdin talkblog1_help_d354a72a:
 
     # Alice_07 "Много разных идей? Например?" nointeract
-    Alice_07 "Много разных идей? Например?" nointeract
+    Alice_07 "Tante idee diverse? Ad esempio?" nointeract
 
 # game/dialogues/alicetalk.rpy:230
 translate crowdin talkblog1_help_b9c2b277:
 
     # Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Лучше бы что-то конкретное предложил..." nointeract
-    Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Лучше бы что-то конкретное предложил..." nointeract
+    Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Faresti meglio a suggerire qualcosa di specifico..." nointeract
 
 # game/dialogues/alicetalk.rpy:237
 translate crowdin talkblog1_whatnow_84b3cf98:
 
     # Alice_00 "Не знаю, если честно. Мне даже показаться перед зрителями не в чем. Какой же я бьюти-блогер, если на мне всегда одна и та же одежда..." nointeract
-    Alice_00 "Не знаю, если честно. Мне даже показаться перед зрителями не в чем. Какой же я бьюти-блогер, если на мне всегда одна и та же одежда..." nointeract
+    Alice_00 "Non lo so, ad essere onesti. Non ho nemmeno qualcosa da mostrare davanti agli spettatori. Che razza di beauty blogger sono se indosso sempre gli stessi vestiti..." nointeract
 
 # game/dialogues/alicetalk.rpy:246
 translate crowdin talkblog1_otherway_f854dfd1:
 
     # Alice_00 "Ты о чём? Есть какие-то мысли?" nointeract
-    Alice_00 "Ты о чём? Есть какие-то мысли?" nointeract
+    Alice_00 "Cosa vuoi dire? Hai qualche idea?" nointeract
 
 # game/dialogues/alicetalk.rpy:257
 translate crowdin talkblog1_together_78d4a1fa:
 
     # Alice_14 "Вместе? Ещё ничего нет, а уже в партнёры набиваешься?" nointeract
-    Alice_14 "Вместе? Ещё ничего нет, а уже в партнёры набиваешься?" nointeract
+    Alice_14 "Insieme? Non c'è ancora niente e tu sei già socio?" nointeract
 
 # game/dialogues/alicetalk.rpy:260
 translate crowdin talkblog1_together_770663dd:
 
     # Alice_01 "Ну, если придумаешь. Если. Да и смотря что... Сильно удаляться от этой темы не хочется. Но попробовать что-то новое можно... В общем, когда что-то придумаешь, тогда и поговорим..."
-    Alice_01 "Ну, если придумаешь. Если. Да и смотря что... Сильно удаляться от этой темы не хочется. Но попробовать что-то новое можно... В общем, когда что-то придумаешь, тогда и поговорим..."
+    Alice_01 "Beh, se lo capisci. Se. Dipende... Non voglio andare troppo fuori tema. Ma si può provare qualcosa di nuovo... Beh, quando ti verrà in mente qualcosa, allora ne parleremo..."
 
 # game/dialogues/alicetalk.rpy:261
 translate crowdin talkblog1_together_22a16723:
 
     # Max_00 "Хорошо!"
-    Max_00 "Хорошо!"
+    Max_00 "Va bene!"
 
 # game/dialogues/alicetalk.rpy:263
 translate crowdin talkblog1_together_486c60cb:
 
     # Alice_07 "Семейный бизнес? На моём блоге? Может ещё и сам вести будешь?" nointeract
-    Alice_07 "Семейный бизнес? На моём блоге? Может ещё и сам вести будешь?" nointeract
+    Alice_07 "Azienda di famiglia? Sul mio blog? Forse lo gestirai tu stesso?" nointeract
 
 # game/dialogues/alicetalk.rpy:271
 translate crowdin talkblog1_together_becb28cf:
 
     # Alice_00 "Знаешь, мне кажется, что это всё пустые разговоры. Сначала что-то предложи, тогда и обсудим..."
-    Alice_00 "Знаешь, мне кажется, что это всё пустые разговоры. Сначала что-то предложи, тогда и обсудим..."
+    Alice_00 "Sai, penso che tutto questo sia solo un chiacchiere. Offri qualcosa prima, poi ne discuteremo..."
 
 # game/dialogues/alicetalk.rpy:272
 translate crowdin talkblog1_together_8b9af65e:
 
     # Max_00 "Хорошо, я подумаю"
-    Max_00 "Хорошо, я подумаю"
+    Max_00 "Ok, ci penserò."
 
 # game/dialogues/alicetalk.rpy:274
 translate crowdin talkblog1_together_70bd54b8:
 
     # Alice_00 "Попробовать можно, но сначала надо понять что. Ты пока ничего конкретного не предложил. Когда будут идеи, тогда и подходи..."
-    Alice_00 "Попробовать можно, но сначала надо понять что. Ты пока ничего конкретного не предложил. Когда будут идеи, тогда и подходи..."
+    Alice_00 "Puoi provare, ma prima devi capire cosa. Non hai ancora offerto nulla di concreto. Quando hai delle idee, allora vieni..."
 
 # game/dialogues/alicetalk.rpy:275
 translate crowdin talkblog1_together_0c9332b5:
 
     # Max_00 "Ладно, когда будут идеи, обсудим..."
-    Max_00 "Ладно, когда будут идеи, обсудим..."
+    Max_00 "Ok, bene, quando avrò delle idee, ne discuteremo..."
 
 # game/dialogues/alicetalk.rpy:280
 translate crowdin talkblog1_findout_e3b65ac0:
 
     # Alice_07 "Ну, давай. Сомневаюсь, конечно, что это не пустая болтовня, но вдруг... Удиви меня!" nointeract
-    Alice_07 "Ну, давай. Сомневаюсь, конечно, что это не пустая болтовня, но вдруг... Удиви меня!" nointeract
+    Alice_07 "Beh, andiamo. Dubito, ovviamente, che non siano chiacchiere a vuoto, ma forse... Sorprendimi!" nointeract
 
 # game/dialogues/alicetalk.rpy:283
 translate crowdin talkblog1_findout_68795405:
 
     # Alice_00 "Постарайся. Я тоже буду думать. Но бросать блог не хочу. Может быть и правда стоит сменить формат, но на какой?"
-    Alice_00 "Постарайся. Я тоже буду думать. Но бросать блог не хочу. Может быть и правда стоит сменить формат, но на какой?"
+    Alice_00 "Prova. Ci penserò anch'io. Non voglio smettere di bloggare. Forse vale davvero la pena cambiare il genere, ma quale?"
 
 # game/dialogues/alicetalk.rpy:284
 translate crowdin talkblog1_findout_7fcd8d45:
 
     # Max_00 "Договорились!"
-    Max_00 "Договорились!"
+    Max_00 "Siamo d'accordo!"
 
 # game/dialogues/alicetalk.rpy:286
 translate crowdin talkblog1_findout_d1651ff3:
 
     # Alice_00 "А я другого и не жду. Если бы у тебя были мысли, ты бы и сам мог на таком заработать... В общем, будем думать..."
-    Alice_00 "А я другого и не жду. Если бы у тебя были мысли, ты бы и сам мог на таком заработать... В общем, будем думать..."
+    Alice_00 "Non mi aspetto il contrario. Se avessi qualche idea, potresti fare soldi da solo... Comunque, ci penseremo..."
 
 # game/dialogues/alicetalk.rpy:287
 translate crowdin talkblog1_findout_7852d704:
