@@ -4,313 +4,313 @@
 translate crowdin EricTalkStart_210d83ab:
 
     # Eric_01 "Чего хотел, Макс?" nointeract
-    Eric_01 "Чего хотел, Макс?" nointeract
+    Eric_01 "Cosa volevi, Max?" nointeract
 
 # game/dialogues/erictalk.rpy:29
 translate crowdin eric_needmoney_e5486f7f:
 
     # Eric_09 "Ну так заработай! Причём тут я?"
-    Eric_09 "Ну так заработай! Причём тут я?"
+    Eric_09 "Allora guadagnatela! Cosa ha a che fare con me?"
 
 # game/dialogues/erictalk.rpy:30
 translate crowdin eric_needmoney_4a3382d7:
 
     # Max_09 "Мы договаривались..."
-    Max_09 "Мы договаривались..."
+    Max_09 "Avevamo un accordo...."
 
 # game/dialogues/erictalk.rpy:31
 translate crowdin eric_needmoney_b2da0d5e:
 
     # Eric_03 "Да? Ну, ладно... Держи. Только на глаза не попадайся..."
-    Eric_03 "Да? Ну, ладно... Держи. Только на глаза не попадайся..."
+    Eric_03 "Sì? Bene, ok... Ecco qua. Non farti beccare..."
 
 # game/dialogues/erictalk.rpy:32
 translate crowdin eric_needmoney_82324783:
 
     # Max_01 "Хорошо..."
-    Max_01 "Хорошо..."
+    Max_01 "Okay..."
 
 # game/dialogues/erictalk.rpy:44
 translate crowdin eric_voy_wtf_17303bac:
 
     # Eric_05 "А можно конкретнее? О чём речь?"
-    Eric_05 "А можно конкретнее? О чём речь?"
+    Eric_05 "Puoi essere più specifico? Di cosa stiamo parlando?"
 
 # game/dialogues/erictalk.rpy:45
 translate crowdin eric_voy_wtf_8fb9a89b:
 
     # Max_15 "Меня наказали за подглядывания!"
-    Max_15 "Меня наказали за подглядывания!"
+    Max_15 "Sono stato punito per aver spiato!"
 
 # game/dialogues/erictalk.rpy:46
 translate crowdin eric_voy_wtf_f081506b:
 
     # Eric_08 "Ну, и что здесь не так? Подглядывал - наказали... Преступление и наказание. Классика!"
-    Eric_08 "Ну, и что здесь не так? Подглядывал - наказали... Преступление и наказание. Классика!"
+    Eric_08 "Beh, cosa c'è di male? Guardare, punire... Delitto e castigo. Classico!"
 
 # game/dialogues/erictalk.rpy:47
 translate crowdin eric_voy_wtf_9e2a702c:
 
     # Max_09 "Ты обещал, что можно будет подглядывать без наказаний!"
-    Max_09 "Ты обещал, что можно будет подглядывать без наказаний!"
+    Max_09 "Avevi promesso che avremmo potuto spiare senza punizione!"
 
 # game/dialogues/erictalk.rpy:49
 translate crowdin eric_voy_wtf_03406ea1:
 
     # Eric_06 "Я такое обещал? Хм... Может быть. То есть, ты хочешь, чтобы я убедил твою маму, что это нормально, когда она трахается на твоих глазах и нужно молчать?" nointeract
-    Eric_06 "Я такое обещал? Хм... Может быть. То есть, ты хочешь, чтобы я убедил твою маму, что это нормально, когда она трахается на твоих глазах и нужно молчать?" nointeract
+    Eric_06 "Ho promesso una cosa simile? Hmm... Forse. Quindi vuoi che io convinca tua madre che è giusto che lei scopi davanti a te e che stia zitta?" nointeract
 
 # game/dialogues/erictalk.rpy:52
 translate crowdin eric_voy_wtf_23eef4f0:
 
     # Eric_03 "А как? Через раз? Один раз можно, другой нет? Так чего именно ты хочешь?"
-    Eric_03 "А как? Через раз? Один раз можно, другой нет? Так чего именно ты хочешь?"
+    Eric_03 "Come? Ogni volta? Una volta si può, un'altra no? Allora, cosa vuoi esattamente?"
 
 # game/dialogues/erictalk.rpy:55
 translate crowdin eric_voy_wtf_a0fb08f0:
 
     # Eric_03 "Ну у тебя и запросы, Макс! Я даже не знаю... Ты точно этого хочешь?"
-    Eric_03 "Ну у тебя и запросы, Макс! Я даже не знаю... Ты точно этого хочешь?"
+    Eric_03 "Hai delle richieste, Max! Non so nemmeno... Sei sicuro che è questo che vuoi?"
 
 # game/dialogues/erictalk.rpy:57
 translate crowdin eric_voy_wtf_1fa7083f:
 
     # Max_07 "Я хочу смотреть и чтобы мне ничего за это не было!"
-    Max_07 "Я хочу смотреть и чтобы мне ничего за это не было!"
+    Max_07 "Voglio guardare e non voglio niente in più!"
 
 # game/dialogues/erictalk.rpy:59
 translate crowdin eric_voy_wtf_32c38a21:
 
     # Eric_01 "Да уж. Ну, раз мы с тобой теперь друзья, я что-нибудь придумаю. Только это будет не сразу, а постепенно, но думаю, что смогу настроить маму так, как нужно..." nointeract
-    Eric_01 "Да уж. Ну, раз мы с тобой теперь друзья, я что-нибудь придумаю. Только это будет не сразу, а постепенно, но думаю, что смогу настроить маму так, как нужно..." nointeract
+    Eric_01 "Sì. Beh, visto che ora siamo amici, mi inventerò qualcosa. Solo che non sarà immediato, sarà graduale, ma credo che riuscirò a manipolare tua mamma come occorre..." nointeract
 
 # game/dialogues/erictalk.rpy:62
 translate crowdin eric_voy_wtf_0365ec8f:
 
     # Eric_02 "Не понял. Как я делаю... что?"
-    Eric_02 "Не понял. Как я делаю... что?"
+    Eric_02 "Non capisco. Come faccio... cosa?"
 
 # game/dialogues/erictalk.rpy:63
 translate crowdin eric_voy_wtf_ca50ebd8:
 
     # Max_09 "Ну... Манипулируешь мамой, например..."
-    Max_09 "Ну... Манипулируешь мамой, например..."
+    Max_09 "Beh... Manipolare la mamma, per esempio..."
 
 # game/dialogues/erictalk.rpy:65
 translate crowdin eric_voy_wtf_a30920d7:
 
     # Eric_03 "Так я тебе и выдал свой секрет! Не сейчас. Может быть, однажды расскажу. Но поверь, мой способ очень эффективен! Так что, слушайся меня и я не буду настраивать никого против тебя..." nointeract
-    Eric_03 "Так я тебе и выдал свой секрет! Не сейчас. Может быть, однажды расскажу. Но поверь, мой способ очень эффективен! Так что, слушайся меня и я не буду настраивать никого против тебя..." nointeract
+    Eric_03 " così che ti ho detto il mio segreto! Non ora. Forse un giorno te lo dirò. Ma credetemi, il mio modo è molto efficace! Quindi, ascoltatemi e non ti metterò nessuno contro..." nointeract
 
 # game/dialogues/erictalk.rpy:68
 translate crowdin eric_voy_wtf_adbd392c:
 
     # Eric_04 "А, думай что хочешь. Но то, что теперь твоя жизнь в моих руках, это факт. И теперь я тебе буду давать немного меньше денег, раз у тебя такие специфичные требования насчёт мамы..."
-    Eric_04 "А, думай что хочешь. Но то, что теперь твоя жизнь в моих руках, это факт. И теперь я тебе буду давать немного меньше денег, раз у тебя такие специфичные требования насчёт мамы..."
+    Eric_04 "Ah, pensa quello che vuoi. Ma il fatto che la tua vita sia nelle mie mani ora è un fatto. E ti darò un po' meno soldi ora che hai delle richieste così specifiche su tua madre..."
 
 # game/dialogues/erictalk.rpy:69
 translate crowdin eric_voy_wtf_6b7811d2:
 
     # Max_10 "Так не честно! Мы об этом сразу договаривались!"
-    Max_10 "Так не честно! Мы об этом сразу договаривались!"
+    Max_10 "Non è giusto! Questo è quello su cui ci siamo messi d'accordo subito!"
 
 # game/dialogues/erictalk.rpy:72
 translate crowdin eric_voy_wtf_dcfbc779:
 
     # Eric_00 "Да, раз у тебя такие необычные запросы насчёт твоей мамы, то теперь я тебе буду давать чуть меньше денег, чем собирался..."
-    Eric_00 "Да, раз у тебя такие необычные запросы насчёт твоей мамы, то теперь я тебе буду давать чуть меньше денег, чем собирался..."
+    Eric_00 "Sì, visto che hai delle richieste così insolite su tua madre, ora ti darò un po' meno soldi di quanto stavo per fare..."
 
 # game/dialogues/erictalk.rpy:73
 translate crowdin eric_voy_wtf_6b7811d2_1:
 
     # Max_10 "Так не честно! Мы об этом сразу договаривались!"
-    Max_10 "Так не честно! Мы об этом сразу договаривались!"
+    Max_10 "Non è giusto! Questo è quello su cui ci siamo messi d'accordo subito!"
 
 # game/dialogues/erictalk.rpy:76
 translate crowdin eric_voy_wtf_dcfbc779_1:
 
     # Eric_00 "Да, раз у тебя такие необычные запросы насчёт твоей мамы, то теперь я тебе буду давать чуть меньше денег, чем собирался..."
-    Eric_00 "Да, раз у тебя такие необычные запросы насчёт твоей мамы, то теперь я тебе буду давать чуть меньше денег, чем собирался..."
+    Eric_00 "Sì, visto che hai delle richieste così insolite su tua madre, ora ti darò un po' meno soldi di quanto stavo per fare..."
 
 # game/dialogues/erictalk.rpy:77
 translate crowdin eric_voy_wtf_6b7811d2_2:
 
     # Max_10 "Так не честно! Мы об этом сразу договаривались!"
-    Max_10 "Так не честно! Мы об этом сразу договаривались!"
+    Max_10 "Non è giusto! Questo è quello su cui ci siamo messi d'accordo subito!"
 
 # game/dialogues/erictalk.rpy:78
 translate crowdin eric_voy_wtf_553b8dcf:
 
     # Eric_01 "Вообще, жизнь - штука несправедливая. А учитывая, что твоя ещё и в моих руках, то жаловаться никому не стоит, даже мне. Ну всё, иди займись чем-нибудь..." nointeract
-    Eric_01 "Вообще, жизнь - штука несправедливая. А учитывая, что твоя ещё и в моих руках, то жаловаться никому не стоит, даже мне. Ну всё, иди займись чем-нибудь..." nointeract
+    Eric_01 "In generale, la vita è ingiusta. E dato che anche la tua è nelle mie mani, non dovresti lamentarti con nessuno, nemmeno con me. Beh, vai a fare qualcosa..." nointeract
 
 # game/dialogues/erictalk.rpy:109
 translate crowdin lessons_from_Eric_first_bj_fa9a17f5:
 
     # Max_07 "К вам ведь можно?"
-    Max_07 "К вам ведь можно?"
+    Max_07 "È permesso, vero?"
 
 # game/dialogues/erictalk.rpy:110
 translate crowdin lessons_from_Eric_first_bj_89eb8cdc:
 
     # Eric_03 "Да, Макс, проходи..."
-    Eric_03 "Да, Макс, проходи..."
+    Eric_03 "Sì, Max, vieni dentro..."
 
 # game/dialogues/erictalk.rpy:119
 translate crowdin lessons_from_Eric_first_bj_839230dd:
 
     # Ann_14 "Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
-    Ann_14 "Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
+    Ann_14 "Eric! Vuoi davvero che lui guardi te e me... qui..."
 
 # game/dialogues/erictalk.rpy:120
 translate crowdin lessons_from_Eric_first_bj_228bf30f:
 
     # Eric_09 "Ань, расслабься! Детям нужно об этом от кого-то узнать. Или ты хочешь, чтобы они выросли неприспособленными к нормальной социальной жизни!?"
-    Eric_09 "Ань, расслабься! Детям нужно об этом от кого-то узнать. Или ты хочешь, чтобы они выросли неприспособленными к нормальной социальной жизни!?"
+    Eric_09 "Ann, rilassati! I bambini lo devono apprendere da qualcuno. O vuoi che crescano incapaci di una vita sociale normale!?"
 
 # game/dialogues/erictalk.rpy:121
 translate crowdin lessons_from_Eric_first_bj_bf1c9777:
 
     # Ann_13 "Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
-    Ann_13 "Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
+    Ann_13 "Certo che voglio che i bambini stiano bene! Ma come può aiutare il fatto che rimanga con noi? Non è normale!"
 
 # game/dialogues/erictalk.rpy:122
 translate crowdin lessons_from_Eric_first_bj_98ec4a27:
 
     # Eric_00 "Мы не можем изменить наш образ жизни, чтобы всем угодить. Ты всё время на работе и со мной. Макс остаётся без внимания и более того, без родителей. Как думаешь, выйдет из него что-нибудь толковое, если он будет предоставлен самому себе!?"
-    Eric_00 "Мы не можем изменить наш образ жизни, чтобы всем угодить. Ты всё время на работе и со мной. Макс остаётся без внимания и более того, без родителей. Как думаешь, выйдет из него что-нибудь толковое, если он будет предоставлен самому себе!?"
+    Eric_00 "Non possiamo cambiare il nostro stile di vita per accontentare tutti. Sei al lavoro e con me tutto il tempo. Max viene trascurato e per di più senza i suoi genitori. Pensi che farà qualcosa di buono se viene lasciato a se stesso!?"
 
 # game/dialogues/erictalk.rpy:123
 translate crowdin lessons_from_Eric_first_bj_5c15448b:
 
     # Ann_15 "Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
-    Ann_15 "Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
+    Ann_15 "No... Ora capisco perché sta cercando di spiarci. Gli manca l'attenzione dei genitori!"
 
 # game/dialogues/erictalk.rpy:132
 translate crowdin lessons_from_Eric_first_bj_8d94ef9d:
 
     # Eric_01 "Именно, Ань! И лишь в такие интимные моменты ты можешь показать ему, как ты о нём заботишься и как он для тебя важен."
-    Eric_01 "Именно, Ань! И лишь в такие интимные моменты ты можешь показать ему, как ты о нём заботишься и как он для тебя важен."
+    Eric_01 "Esattamente, Ann! Ed è solo in momenti intimi come questo che puoi mostrargli quanto tieni a lui e quanto è importante per te."
 
 # game/dialogues/erictalk.rpy:133
 translate crowdin lessons_from_Eric_first_bj_dcbf09ea:
 
     # Ann_14 "Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
-    Ann_14 "Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
+    Ann_14 "Mi dispiace, Max... Sono stata una madre così schifosa con te..."
 
 # game/dialogues/erictalk.rpy:134
 translate crowdin lessons_from_Eric_first_bj_e2384074:
 
     # Max_00 "Всё хорошо, мам! Я думаю, это всё сможет нас сблизить!"
-    Max_00 "Всё хорошо, мам! Я думаю, это всё сможет нас сблизить!"
+    Max_00 "Va tutto bene, mamma! Penso che questo possa avvicinarci tutti di più!"
 
 # game/dialogues/erictalk.rpy:143
 translate crowdin lessons_from_Eric_first_bj_44c95186:
 
     # Eric_02 "А теперь Ань, ты должна вести себя так, как вела бы, если бы мы были только вдвоём! Давай, продолжай то, на чём мы остановились..."
-    Eric_02 "А теперь Ань, ты должна вести себя так, как вела бы, если бы мы были только вдвоём! Давай, продолжай то, на чём мы остановились..."
+    Eric_02 "Ora Ann, devi comportarti come faresti se fossimo solo noi due! Dai, riprendiamo da dove abbiamo lasciato..."
 
 # game/dialogues/erictalk.rpy:144
 translate crowdin lessons_from_Eric_first_bj_0aa141a6:
 
     # Ann_12 "Да, ты прав, я должна сделать это, ради Макса..."
-    Ann_12 "Да, ты прав, я должна сделать это, ради Макса..."
+    Ann_12 "Sì, hai ragione, dovrei farlo, per il bene di Max..."
 
 # game/dialogues/erictalk.rpy:145
 translate crowdin lessons_from_Eric_first_bj_26abae8c:
 
     # Eric_03 "А ты Макс, подсаживайся, не стесняйся..." nointeract
-    Eric_03 "А ты Макс, подсаживайся, не стесняйся..." nointeract
+    Eric_03 "E tu Max, siediti, non essere timido..." nointeract
 
 # game/dialogues/erictalk.rpy:157
 translate crowdin lessons_from_Eric_first_bj_1f6057cd:
 
     # Max_08 "{i}( Вау! Мама продолжила отсасывать Эрику! При мне... Хотя, видно что делает она это не так чувственно, как раньше. ){/i}"
-    Max_08 "{i}( Вау! Мама продолжила отсасывать Эрику! При мне... Хотя, видно что делает она это не так чувственно, как раньше. ){/i}"
+    Max_08 "{i}( Wow! La mamma continuava a succhiare il cazzo di Erik! Davanti a me... Anche se si vede che non lo fa più in modo sexy come prima. ){/i}"
 
 # game/dialogues/erictalk.rpy:158
 translate crowdin lessons_from_Eric_first_bj_245d909c:
 
     # Eric_05 "Смотри Макс, как хороша твоя мама! А ты Ань, не стесняйся, делай это уверенно... Покажи Максу, каким удовольствием делятся любящие друг друга люди."
-    Eric_05 "Смотри Макс, как хороша твоя мама! А ты Ань, не стесняйся, делай это уверенно... Покажи Максу, каким удовольствием делятся любящие друг друга люди."
+    Eric_05 "Guarda, Max, com'è buona tua madre! E tu, Ann, non essere timida, fallo bene... Mostra a Max che piacere sia ha nell condividerlo con persone che si amano."
 
 # game/dialogues/erictalk.rpy:159
 translate crowdin lessons_from_Eric_first_bj_3e2cd5f5:
 
     # Max_07 "{i}( Главное не перевозбуждаться настолько, чтобы мой член меня выдал... Хотя, сложно не представлять себя на месте Эрика! ){/i}"
-    Max_07 "{i}( Главное не перевозбуждаться настолько, чтобы мой член меня выдал... Хотя, сложно не представлять себя на месте Эрика! ){/i}"
+    Max_07 "{i}( Basta che non vi eccitiate così tanto che il mio cazzo mi può tradire... Anche se è difficile non immaginarmi nei panni di Eric! ){/i}"
 
 # game/dialogues/erictalk.rpy:160
 translate crowdin lessons_from_Eric_first_bj_16441ec9:
 
     # Eric_04 "Ух, детка, да... Прервись ненадолго, я хочу лечь поудобнее..." nointeract
-    Eric_04 "Ух, детка, да... Прервись ненадолго, я хочу лечь поудобнее..." nointeract
+    Eric_04 "Uh, baby, sì... Fai una pausa per un po', voglio sdraiarmi..." nointeract
 
 # game/dialogues/erictalk.rpy:172
 translate crowdin lessons_from_Eric_first_bj_3654667c:
 
     # Max_10 "{i}( Какая же она обалденная! Такую женщину я бы с удовольствием ласкал часами... Она это заслуживает! ){/i}"
-    Max_10 "{i}( Какая же она обалденная! Такую женщину я бы с удовольствием ласкал часами... Она это заслуживает! ){/i}"
+    Max_10 "{i}( Che splendida donna è! Mi piacerebbe coccolare per ore una donna così... Se lo merita! ){/i}"
 
 # game/dialogues/erictalk.rpy:173
 translate crowdin lessons_from_Eric_first_bj_21122167:
 
     # Eric_01 "Твоя мама ещё довольно скована, так что для первого раза думаю достаточно. Нет ничего такого в том, чтобы делиться близостью, но ей нужно время, чтобы привыкнуть."
-    Eric_01 "Твоя мама ещё довольно скована, так что для первого раза думаю достаточно. Нет ничего такого в том, чтобы делиться близостью, но ей нужно время, чтобы привыкнуть."
+    Eric_01 "Tua madre è ancora piuttosto rigida, quindi penso che sia sufficiente per la prima volta. Non c'è niente di male nel condividere l'intimità, ma ha bisogno di tempo per abituarsi."
 
 # game/dialogues/erictalk.rpy:174
 translate crowdin lessons_from_Eric_first_bj_5ab78a33:
 
     # Max_00 "Хорошо, я тогда пошёл... Продолжайте!" nointeract
-    Max_00 "Хорошо, я тогда пошёл... Продолжайте!" nointeract
+    Max_00 "Ok, allora vado... Continuate pure!" nointeract
 
 # game/dialogues/erictalk.rpy:188
 translate crowdin lessons_from_Eric_second_bj_fa9a17f5:
 
     # Max_07 "К вам ведь можно?"
-    Max_07 "К вам ведь можно?"
+    Max_07 "È permesso, vero?"
 
 # game/dialogues/erictalk.rpy:189
 translate crowdin lessons_from_Eric_second_bj_b55cbfe3:
 
     # Eric_03 "Да, Макс, проходи... Твоей маме как раз есть о чём тебе рассказать!"
-    Eric_03 "Да, Макс, проходи... Твоей маме как раз есть о чём тебе рассказать!"
+    Eric_03 "Sì, Max, vieni dentro... Tua madre ha molto da dirti!"
 
 # game/dialogues/erictalk.rpy:198
 translate crowdin lessons_from_Eric_second_bj_f12a7ec3:
 
     # Ann_13 "А вам не кажется, что это уже слишком!?"
-    Ann_13 "А вам не кажется, что это уже слишком!?"
+    Ann_13 "Non pensi che sia un po' troppo!?"
 
 # game/dialogues/erictalk.rpy:199
 translate crowdin lessons_from_Eric_second_bj_41c10ddd:
 
     # Max_01 "{i}( Похоже, я застал маму в очень... открытом положении. Она уже не так враждебна, как в первый раз, но очень смущена! ){/i}"
-    Max_01 "{i}( Похоже, я застал маму в очень... открытом положении. Она уже не так враждебна, как в первый раз, но очень смущена! ){/i}"
+    Max_01 "{i}( Sembra che io abbia scoperto mia madre in una... mentalità più aperta. Non è più ostile come la prima volta, ma molto imbarazzata! ){/i}"
 
 # game/dialogues/erictalk.rpy:200
 translate crowdin lessons_from_Eric_second_bj_8f4a23a2:
 
     # Eric_05 "По мне, так это отличный способ для того, чтобы мужчине и женщине ещё больше сблизиться. Вы достаточно открыты друг для друга и все при деле..."
-    Eric_05 "По мне, так это отличный способ для того, чтобы мужчине и женщине ещё больше сблизиться. Вы достаточно открыты друг для друга и все при деле..."
+    Eric_05 "Mi sembra un ottimo modo per un uomo e una donna di avvicinarsi ancora di più. Вы достаточно открыты друг для друга и все при деле..."
 
 # game/dialogues/erictalk.rpy:201
 translate crowdin lessons_from_Eric_second_bj_c1aabe17:
 
     # Max_00 "Ясно. Вы продолжайте, а я посмотрю... как это..."
-    Max_00 "Ясно. Вы продолжайте, а я посмотрю... как это..."
+    Max_00 "Capisco. Tu vai avanti e io guardo... come è..."
 
 # game/dialogues/erictalk.rpy:202
 translate crowdin lessons_from_Eric_second_bj_a6141667:
 
     # Ann_14 "Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
-    Ann_14 "Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
+    Ann_14 "Eric, sei sicuro che sia corretto mostrarmi così sfacciatamente a nostro figlio!? Ho grandi dubbi!"
 
 # game/dialogues/erictalk.rpy:203
 translate crowdin lessons_from_Eric_second_bj_13f3dcbf:
 
     # Eric_03 "Не напрягайся из-за этого, Ань. Всё, что мы с тобой делаем - это естественно. И Максу нужно это знать и увидеть..."
-    Eric_03 "Не напрягайся из-за этого, Ань. Всё, что мы с тобой делаем - это естественно. И Максу нужно это знать и увидеть..."
+    Eric_03 "Non stressarti, Ann. Tutto ciò che io e te facciamo è naturale. E Max deve saperlo e vederlo..."
 
 # game/dialogues/erictalk.rpy:204
 translate crowdin lessons_from_Eric_second_bj_d7ef656e:
