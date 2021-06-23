@@ -4,61 +4,61 @@
 translate crowdin intro_8dea4dcf:
 
     # Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
-    Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
+    Max_00 "Mi chiamo Max. Sono solo un ragazzo ordinario di una famiglia ordinaria. Quanto ordinario... normale. Anche se, chi voglio prendere in giro. Non c'è molta normalità nella mia famiglia. Ma prima le cose importanti." nointeract
 
 # game/script.rpy:41
 translate crowdin intro_0f762891:
 
     # Max_01 "Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
-    Max_01 "Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
+    Max_01 "Sono stato recentemente cacciato da scuola. Ufficialmente - per voti bassi. Anche se i miei voti erano così così, ma la vera ragione era la matematica. Dicono che ci ho provato con... Mi stava facendo gli occhi dolci! Al preside, suo marito, non piaceva per qualche motivo..."
 
 # game/script.rpy:43
 translate crowdin intro_20141f46:
 
     # Max_00 "Когда мне было 3 года эта семья усыновила меня и сейчас никто уже и не вспоминает, что я приёмный. Мои же настоящие родители таинственно исчезли и их так и не нашли. Надеюсь, что когда-нибудь об этом хоть что-то станет известно..."
-    Max_00 "Когда мне было 3 года эта семья усыновила меня и сейчас никто уже и не вспоминает, что я приёмный. Мои же настоящие родители таинственно исчезли и их так и не нашли. Надеюсь, что когда-нибудь об этом хоть что-то станет известно..."
+    Max_00 "Quando avevo 3 anni, questa famiglia mi ha adottato e ora nessuno fa caso al fatto che sono stato adottato. I miei veri genitori scomparvero misteriosamente e non furono mai ritrovati. Spero che un giorno si saprà qualcosa al riguardo..."
 
 # game/script.rpy:44
 translate crowdin intro_95eb5e47:
 
     # Max_01 "На кануне девятнадцатилетия, когда я уже вот-вот должен был закончить школу, меня из неё выперли. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
-    Max_01 "На кануне девятнадцатилетия, когда я уже вот-вот должен был закончить школу, меня из неё выперли. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
+    Max_01 "Alla vigilia del mio diciannovesimo, quando stavo per diplomarmi, sono stato cacciato da scuola. Ufficialmente, per i brutti voti. Anche se i miei voti erano così così, ma la vera ragione era la matematica. Dicono che ci ho provato con... Mi stava facendo gli occhi dolci! Al preside, suo marito, non piaceva per qualche motivo..."
 
 # game/script.rpy:45
 translate crowdin intro_4e148ae4:
 
     # Max_14 "В общем, сейчас я с неоконченным средним образованием. Без работы и конкретных планов на будущее... Но всё должно измениться, обязательно!"
-    Max_14 "В общем, сейчас я с неоконченным средним образованием. Без работы и конкретных планов на будущее... Но всё должно измениться, обязательно!"
+    Max_14 "Comunque, ora ho terminato le superiori. Nessun lavoro e nessun piano concreto per il futuro... Ma le cose devono cambiare, per forza!"
 
 # game/script.rpy:48
 translate crowdin intro_1c9ab78c:
 
     # Max_04 "Это Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату съёмного жилья, еду и одежду."
-    Max_04 "Это Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату съёмного жилья, еду и одежду."
+    Max_04 "Questa è Ann, mia madre. Ha cresciuto me e le mie due sorelle da sola per qualche anno. Lavora nell'ufficio di qualche azienda. Anche se il suo stipendio è abbastanza decente, quasi tutto se ne va per pagare l'affitto, il cibo e i vestiti."
 
 # game/script.rpy:50
 translate crowdin intro_e288a47f:
 
     # Max_04 "Это Анна, моя приёмная мама. У неё есть две родные дочери и она воспитывает нас троих уже много лет одна. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату съёмного жилья, еду и одежду."
-    Max_04 "Это Анна, моя приёмная мама. У неё есть две родные дочери и она воспитывает нас троих уже много лет одна. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату съёмного жилья, еду и одежду."
+    Max_04 "Questa è Ann, la mia madre adottiva. Ha due figlie legittima e ha cresciuto noi tre da sola per anni. Lavora nell'ufficio di qualche azienda. Anche se il suo stipendio è abbastanza decente, quasi tutto se ne va per pagare l'affitto, il cibo e i vestiti."
 
 # game/script.rpy:52
 translate crowdin intro_cb16881c:
 
     # Max_00 "Ну а это наша квартира. Тот ещё тараканник! Мама пытается заработать на первый взнос, чтобы взять ипотеку, но пока что-то не получается. Все мы мечтаем отсюда съехать, но куда?"
-    Max_00 "Ну а это наша квартира. Тот ещё тараканник! Мама пытается заработать на первый взнос, чтобы взять ипотеку, но пока что-то не получается. Все мы мечтаем отсюда съехать, но куда?"
+    Max_00 "Beh, questo è il nostro appartamento. Тот ещё тараканник! La mamma sta cercando di guadagnare un acconto per accendere un mutuo, ma finora qualcosa non ha funzionato. Все мы мечтаем отсюда съехать, но куда?"
 
 # game/script.rpy:55
 translate crowdin intro_4547bbbc:
 
     # Max_08 "Алиса, моя старшая сестра. Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-    Max_08 "Алиса, моя старшая сестра. Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
+    Max_08 "Alice, mia sorella maggiore. Si è da poco diplomata e, proprio come me, sta cercando la sua strada. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
 
 # game/script.rpy:57
 translate crowdin intro_ff38ed12:
 
     # Max_08 "Алиса, моя старшая сестра. Хоть она мне и не родная, но тем не менее, мы росли под одной крышей с самых малых лет, так что косички я ей подёргал за это время на славу. Уже несколько лет, как закончила школу, но до сих пор ищет свой путь, так же, как и я теперь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-    Max_08 "Алиса, моя старшая сестра. Хоть она мне и не родная, но тем не менее, мы росли под одной крышей с самых малых лет, так что косички я ей подёргал за это время на славу. Уже несколько лет, как закончила школу, но до сих пор ищет свой путь, так же, как и я теперь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
+    Max_08 "Alice, mia sorella maggiore. Хоть она мне и не родная, но тем не менее, мы росли под одной крышей с самых малых лет, так что косички я ей подёргал за это время на славу. Sono passati alcuni anni da quando si è diplomata, ma sta ancora cercando la sua strada, proprio come me adesso. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
 
 # game/script.rpy:60
 translate crowdin intro_75876970:
