@@ -64,79 +64,79 @@ translate crowdin intro_ff38ed12:
 translate crowdin intro_75876970:
 
     # Max_00 "Лиза, младшая сестрёнка, ещё учится в школе. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    Max_00 "Лиза, младшая сестрёнка, ещё учится в школе. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
+    Max_00 "Lisa, la mia sorellina, va ancora a scuola. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
 
 # game/script.rpy:62
 translate crowdin intro_6274a5c1:
 
     # Max_00 "Лиза, младшая сестрёнка, ещё учится в школе, но последний год. Не знаю как учится, но, если не выгнали как меня, значит всё в порядке. С Лизой мы практически ровесники, ей уже восемнадцать лет. Мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    Max_00 "Лиза, младшая сестрёнка, ещё учится в школе, но последний год. Не знаю как учится, но, если не выгнали как меня, значит всё в порядке. С Лизой мы практически ровесники, ей уже восемнадцать лет. Мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
+    Max_00 "Lisa, la mia sorellina, va ancora a scuola, ma è all'ultimo anno. Non so come stia studiando, ma se non è stata cacciata come me, allora va bene. Lisa ed io abbiamo praticamente la stessa età, ora ha diciotto anni. Siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Но если что-то случается, защиты ищет именно у меня."
 
 # game/script.rpy:65
 translate crowdin intro_bebe466e:
 
     # Max_14 "Отца я плохо помню. Он ушёл, когда мне было лет пять. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
-    Max_14 "Отца я плохо помню. Он ушёл, когда мне было лет пять. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
+    Max_14 "Non ricordo molto bene mio padre. Se n'è andato quando avevo circa cinque anni. Mia madre non vuole dirmi cosa è successo allora... Si dice che i suoi affari siano andati male. Da allora non abbiamo più avuto sue notizie. Fino al mese scorso, quando è arrivata quella ragazza..."
 
 # game/script.rpy:67
 translate crowdin intro_c94c5394:
 
     # Max_14 "Приёмного отца я плохо помню. Он ушёл, когда мне было лет восемь. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
-    Max_14 "Приёмного отца я плохо помню. Он ушёл, когда мне было лет восемь. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
+    Max_14 "Non ricordo molto bene il mio padre adottivo. Se n'è andato quando avevo circa otto anni. Mia madre non vuole dirmi cosa è successo allora... Si dice che i suoi affari siano andati male. Da allora non abbiamo più avuto sue notizie. Fino al mese scorso, quando è arrivata quella ragazza..."
 
 # game/script.rpy:69
 translate crowdin intro_fdc8ae44:
 
     # Maya_01 "Здравствуйте, меня зовут Майя, я адвокат вашего бывшего мужа. У вас найдётся для меня минутка?"
-    Maya_01 "Здравствуйте, меня зовут Майя, я адвокат вашего бывшего мужа. У вас найдётся для меня минутка?"
+    Maya_01 "Buongiorno, mi chiamo Maya, sono l'avvocato del tuo ex marito. Ha un minuto per me?"
 
 # game/script.rpy:70
 translate crowdin intro_165806c1:
 
     # Ann_00 "Здравствуйте, да, конечно. Меня зовут Анна, но вы и так это знаете похоже. Так в чём дело? С ним что-то случилось?"
-    Ann_00 "Здравствуйте, да, конечно. Меня зовут Анна, но вы и так это знаете похоже. Так в чём дело? С ним что-то случилось?"
+    Ann_00 "Salve, sì, certo. Mi chiamo Ann, ma credo che lei lo sappia già. Allora, che cosa succede? Gli è successo qualcosa?"
 
 # game/script.rpy:71
 translate crowdin intro_32cb457a:
 
     # Maya_03 "Не переживайте, он жив-здоров, но сам приехать не смог. Сказал, что вы будете не очень рады, хотя новости у меня для вас отличные!"
-    Maya_03 "Не переживайте, он жив-здоров, но сам приехать не смог. Сказал, что вы будете не очень рады, хотя новости у меня для вас отличные!"
+    Maya_03 "Non si preoccupi, è vivo e sta bene, ma non ce l'ha fatta da solo. Mi ha detto che non sarebbe stata molto entusiasta, anche se ho una grande notizia per lei!"
 
 # game/script.rpy:72
 translate crowdin intro_9858c279:
 
     # Ann_01 "Любопытно. И что же это за новости спустя столько лет?"
-    Ann_01 "Любопытно. И что же это за новости спустя столько лет?"
+    Ann_01 "Strano. E qual è questa notizia dopo tutti questi anni?"
 
 # game/script.rpy:73
 translate crowdin intro_a97592f1:
 
     # Maya_02 "Я принесла документы на недвижимость, которую он решил передать вам. Если вы их подпишите, то станете полноправным владельцем."
-    Maya_02 "Я принесла документы на недвижимость, которую он решил передать вам. Если вы их подпишите, то станете полноправным владельцем."
+    Maya_02 "Le ho portato gli atti della proprietà che ha deciso di cederle. Se li firma, diventerà il legittimo proprietario."
 
 # game/script.rpy:74
 translate crowdin intro_8b0c7301:
 
     # Ann_17 "Что-то я не поняла. Это совсем на него не похоже. Какая недвижимость? О чём речь?"
-    Ann_17 "Что-то я не поняла. Это совсем на него не похоже. Какая недвижимость? О чём речь?"
+    Ann_17 "Non capisco. Non sembra affatto da lui. Di quali immobili si tratta? Di cosa sta parlando?"
 
 # game/script.rpy:75
 translate crowdin intro_ce5a5dae:
 
     # Maya_01 "Это двухэтажный дом на юге страны, который построила его компания. А насчёт того, что это на него не похоже... В последние пару лет он очень изменился. Не уверена, что эти изменения пошли на пользу бизнесу."
-    Maya_01 "Это двухэтажный дом на юге страны, который построила его компания. А насчёт того, что это на него не похоже... В последние пару лет он очень изменился. Не уверена, что эти изменения пошли на пользу бизнесу."
+    Maya_01 "È una casa a due piani al sud che la sua azienda ha costruito. E per quanto riguarda il fatto che non sembra lui... È cambiato molto negli ultimi due anni. Non sono sicuro che questi cambiamenti siano stati positivi per gli affari."
 
 # game/script.rpy:76
 translate crowdin intro_43a9e56e:
 
     # Ann_01 "Что-то вы меня озадачили. В чём подвох? Я что-то должна? Столько лет никаких вестей, ничего, и тут... дом. И что там с его бизнесом?"
-    Ann_01 "Что-то вы меня озадачили. В чём подвох? Я что-то должна? Столько лет никаких вестей, ничего, и тут... дом. И что там с его бизнесом?"
+    Ann_01 "Mi ha lasciato perplessa. Qual è la fregatura? Devo qualcosa? Tutti questi anni, nessuna parola, niente, e poi... una casa. E i suoi affari?"
 
 # game/script.rpy:77
 translate crowdin intro_60f50736:
 
     # Maya_02 "В данный момент он продал большую часть недвижимости, чтобы погасить налоговую задолженность, но этот дом решил передать вам. Я не знаю причин, да они меня и не касаются."
-    Maya_02 "В данный момент он продал большую часть недвижимости, чтобы погасить налоговую задолженность, но этот дом решил передать вам. Я не знаю причин, да они меня и не касаются."
+    Maya_02 "Al momento ha venduto la maggior parte della proprietà per pagare il debito fiscale, ma questa casa ha deciso di cederla a voi. Non conosco le ragioni e non mi riguardano."
 
 # game/script.rpy:78
 translate crowdin intro_ea2ebd5a:
