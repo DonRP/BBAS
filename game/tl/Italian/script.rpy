@@ -142,91 +142,91 @@ translate crowdin intro_60f50736:
 translate crowdin intro_ea2ebd5a:
 
     # Ann_00 "Вы знаете, Майя, я не могу принять такой... подарок. Во-первых, я не в курсе его махинаций или что он там придумал, а во-вторых, мы с ним уже столько лет не общались, и мне не нужно от него ничего!"
-    Ann_00 "Вы знаете, Майя, я не могу принять такой... подарок. Во-первых, я не в курсе его махинаций или что он там придумал, а во-вторых, мы с ним уже столько лет не общались, и мне не нужно от него ничего!"
+    Ann_00 "Sai, Maya, non posso accettare un tale... regalo. Prima di tutto, non sono al corrente delle sue manipolazioni o di cosa abbia in mente, e in secondo luogo, sono passati tanti anni da quando ho parlato con lui, e non ho bisogno di niente da lui!"
 
 # game/script.rpy:79
 translate crowdin intro_734c8765:
 
     # Maya_01 "Да, он предупреждал меня о такой вашей реакции... С юридической точки зрения дом абсолютно чист, и вы ничем не рискуете. Кроме того, ваши дети растут и им нужно место, своё личное пространство..."
-    Maya_01 "Да, он предупреждал меня о такой вашей реакции... С юридической точки зрения дом абсолютно чист, и вы ничем не рискуете. Кроме того, ваши дети растут и им нужно место, своё личное пространство..."
+    Maya_01 "Sì, mi ha avvertito della sua reazione... Legalmente, la casa è completamente pulita e non si rischia nulla. Inoltre, i tuoi figli stanno crescendo e hanno bisogno del loro spazio, della loro privacy..."
 
 # game/script.rpy:80
 translate crowdin intro_8db9c9f1:
 
     # Ann_14 "С этим не поспоришь. У меня есть время подумать обо всём?"
-    Ann_14 "С этим не поспоришь. У меня есть время подумать обо всём?"
+    Ann_14 "Non si può discutere su questo. Ho il tempo di rielaborare il tutto?"
 
 # game/script.rpy:81
 translate crowdin intro_8e21e5ab:
 
     # Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
-    Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
+    Maya_03 "Certo, Ann. Ecco il mio biglietto da visita. Chiamatemi quando sarete pronti a prendere una decisione. Lascerò anche le copie di tutti i documenti. Arrivederci." nointeract
 
 # game/script.rpy:86
 translate crowdin intro_eaf717b9:
 
     # Max_04 "К счастью, мама приняла верное решение. Когда мы увидели дом, не поверили своим глазам! Вживую он оказался гораздо больше и красивее, чем на фотографиях. Но самым приятным сюрпризом оказался бассейн!"
-    Max_04 "К счастью, мама приняла верное решение. Когда мы увидели дом, не поверили своим глазам! Вживую он оказался гораздо больше и красивее, чем на фотографиях. Но самым приятным сюрпризом оказался бассейн!"
+    Max_04 "Per fortuna, la mamma ha preso la decisione giusta. Quando abbiamo visto la casa, non potevamo credere ai nostri occhi! Si è rivelato molto più grande e più bella delle foto. Ma la sorpresa migliore è stata la piscina!"
 
 # game/script.rpy:88
 translate crowdin intro_afbd2795:
 
     # Max_00 "Алиса сразу заняла одну из спален. Кстати, их оказалось всего две. Несмотря на огромную гостиную с кухней и просторную ванную, в доме всего три отдельные комнаты: две спальни и кабинет."
-    Max_00 "Алиса сразу заняла одну из спален. Кстати, их оказалось всего две. Несмотря на огромную гостиную с кухней и просторную ванную, в доме всего три отдельные комнаты: две спальни и кабинет."
+    Max_00 "Alice prese subito una delle camere da letto. A proposito, si è scoperto che erano solo due. Nonostante l'enorme soggiorno con cucina e lo spazioso bagno, la casa ha solo tre stanze separate: due camere da letto e uno studio."
 
 # game/script.rpy:90
 translate crowdin intro_5fc10bfc:
 
     # Max_08 "В кабинете мебели почти не оказалось, и мне пришла в голову отличная идея разместить здесь наши с Лизой кровати из старой квартиры."
-    Max_08 "В кабинете мебели почти не оказалось, и мне пришла в голову отличная идея разместить здесь наши с Лизой кровати из старой квартиры."
+    Max_08 "Non c'era quasi nessun mobile nello studio, così ho avuto la grande idea di mettere qui il mio letto e quello di Lisa dal vecchio appartamento."
 
 # game/script.rpy:92
 translate crowdin intro_c174fdf7:
 
     # Ann_01 "Что-то мне не нравится эта твоя идея, Макс. Вы уже взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
-    Ann_01 "Что-то мне не нравится эта твоя идея, Макс. Вы уже взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
+    Ann_01 "Non mi piace questa tua idea, Max. Siete troppo grandi per dormire nella stessa stanza. Lasciamo questo ufficio a te e l'altra camera da letto a Lisa. E io dormirò in salotto. C'è un bel divano lì..."
 
 # game/script.rpy:94
 translate crowdin intro_d6949af8:
 
     # Ann_01 "Что-то мне не нравится эта твоя идея, Макс. Вы уже совсем взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
-    Ann_01 "Что-то мне не нравится эта твоя идея, Макс. Вы уже совсем взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
+    Ann_01 "Non mi piace questa tua idea, Max. Siete tutti troppo grandi per dormire nella stessa stanza. Lasciamo questo ufficio a te e l'altra camera da letto a Lisa. E io dormirò in salotto. C'è un bel divano lì..."
 
 # game/script.rpy:95
 translate crowdin intro_8132e149:
 
     # Max_01 "Мам, мы и так все жили как селёдки в бочке, нам не привыкать. А тут такие огромные комнаты. Нам с Лизой места хватит. Правда, сестрёнка?"
-    Max_01 "Мам, мы и так все жили как селёдки в бочке, нам не привыкать. А тут такие огромные комнаты. Нам с Лизой места хватит. Правда, сестрёнка?"
+    Max_01 "Mamma, abbiamo già vissuto tutti come aringhe in un barile, ci siamo abituati. E queste stanze sono così enormi. Lisa e io abbiamo abbastanza spazio. Giusto, sorellina?"
 
 # game/script.rpy:96
 translate crowdin intro_fbedb073:
 
     # Lisa_02 "Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
-    Lisa_02 "Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
+    Lisa_02 "Certo! Mamma, io e Max andiamo d'accordo. А если будет косячить, выгоню его в эту самую гостиную! E ti meriti assolutamente la tua stanza. E non preoccuparti. Siamo tutti d'accordo su questo."
 
 # game/script.rpy:97
 translate crowdin intro_07cd4260:
 
     # Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем!" nointeract
-    Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем!" nointeract
+    Ann_07 "Va bene. La compagnia di spedizioni ha riferito che la nostra roba era in ritardo. Mi sto già pentendo di averli contattati... Comunque, ci trasferiamo tra una settimana!" nointeract
 
 # game/script.rpy:102
 translate crowdin intro_dbd412b7:
 
     # Max_00 "Спустя неделю часть наших вещей из старой квартиры доставили. Но только часть. Как я понял, кое-что потерялось в пути. Надеюсь, компенсируют это как-то..."
-    Max_00 "Спустя неделю часть наших вещей из старой квартиры доставили. Но только часть. Как я понял, кое-что потерялось в пути. Надеюсь, компенсируют это как-то..."
+    Max_00 "Una settimana dopo, alcune delle nostre cose del vecchio appartamento sono state consegnate. Ma solo in parte. Da quanto ho capito, qualcosa si è perso durante il trasporto. Spero che rimedieranno in qualche modo..."
 
 # game/script.rpy:103
 translate crowdin intro_356cd733:
 
     # Max_04 "Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное!" nointeract
-    Max_04 "Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное!" nointeract
+    Max_04 "Mamma ha trovato un nuovo lavoro. Lisa ha frequentato la scuola locale. Alice è ancora seduta davanti al suo portatile, e io... È qui che finisce la mia storia e comincia qualcosa di nuovo e interessante!" nointeract
 
 # game/script.rpy:117
 translate crowdin about_poss_0cd5a085:
 
     # Max_00 "\"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
-    Max_00 "\"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
+    Max_00 "\"Opportunità\" - sono percorsi specifici che possono essere seguiti per ottenere un certo tipo di risultato. Di solito sono nascosti e non molto evidenti."
 
 # game/script.rpy:118
 translate crowdin about_poss_0f75481c:
