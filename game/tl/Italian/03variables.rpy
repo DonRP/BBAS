@@ -4,139 +4,139 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:25
     old "МОЯ\nКОМНАТА"
-    new "МОЯ\nКОМНАТА"
+    new "LA MIA\nCAMERETTA"
 
     # game/core/03variables.rpy:25
     old "МОЯ КОМНАТА"
-    new "МОЯ КОМНАТА"
+    new "LA MIA CAMERETTA"
 
     # game/core/03variables.rpy:25
     old "КОМНАТА\nАЛИСЫ"
-    new "КОМНАТА\nАЛИСЫ"
+    new "LA CAMERA\nDI ALICE"
 
     # game/core/03variables.rpy:25
     old "КОМНАТА АЛИСЫ"
-    new "КОМНАТА АЛИСЫ"
+    new "LA CAMERA DI ALICE"
 
     # game/core/03variables.rpy:25
     old "КОМНАТА\nАННЫ"
-    new "КОМНАТА\nАННЫ"
+    new "LA CAMERA\nDI ANN"
 
     # game/core/03variables.rpy:25
     old "КОМНАТА АННЫ"
-    new "КОМНАТА АННЫ"
+    new "LA CAMERA DI ANN"
 
     # game/core/03variables.rpy:25
     old "ВАННАЯ\nКОМНАТА"
-    new "ВАННАЯ\nКОМНАТА"
+    new "BAGNO"
 
     # game/core/03variables.rpy:25
     old "ВАННАЯ КОМНАТА"
-    new "ВАННАЯ КОМНАТА"
+    new "BAGNO"
 
     # game/core/03variables.rpy:25
     old "ГОСТИНАЯ"
-    new "ГОСТИНАЯ"
+    new "SOGGIORNO"
 
     # game/core/03variables.rpy:25
     old "ВЕРАНДА"
-    new "ВЕРАНДА"
+    new "VERANDA"
 
     # game/core/03variables.rpy:25
     old "ДВОР"
-    new "ДВОР"
+    new "GIARDINO"
 
     # game/core/03variables.rpy:85
     old "Алиса"
-    new "Алиса"
+    new "Alice"
 
     # game/core/03variables.rpy:85
     old "Алисы"
-    new "Алисы"
+    new "Alice"
 
     # game/core/03variables.rpy:85
     old "Алисе"
-    new "Алисе"
+    new "Alice"
 
     # game/core/03variables.rpy:85
     old "Алису"
-    new "Алису"
+    new "Alice"
 
     # game/core/03variables.rpy:85
     old "Алисой"
-    new "Алисой"
+    new "Alice"
 
     # game/core/03variables.rpy:85
     old "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-    new "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
+    new "Alice, mia sorella maggiore.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Si è da poco diplomata e, proprio come me, sta cercando la sua strada. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
 
     # game/core/03variables.rpy:85
     old "Лиза"
-    new "Лиза"
+    new "Lisa"
 
     # game/core/03variables.rpy:85
     old "Лизы"
-    new "Лизы"
+    new "Lisa"
 
     # game/core/03variables.rpy:85
     old "Лизе"
-    new "Лизе"
+    new "Lisa"
 
     # game/core/03variables.rpy:85
     old "Лизу"
-    new "Лизу"
+    new "Lisa"
 
     # game/core/03variables.rpy:85
     old "Лизой"
-    new "Лизой"
+    new "Lisa"
 
     # game/core/03variables.rpy:85
     old "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    new "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
+    new "Лиза, младшая сестрёнка. Dolce e allegra. Va ancora a liceo. Siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Но если что-то случается, защиты ищет именно у меня."
 
     # game/core/03variables.rpy:85
     old "Анна"
-    new "Анна"
+    new "Ann"
 
     # game/core/03variables.rpy:85
     old "Анны"
-    new "Анны"
+    new "Ann"
 
     # game/core/03variables.rpy:85
     old "Анне"
-    new "Анне"
+    new "Ann"
 
     # game/core/03variables.rpy:85
     old "Анну"
-    new "Анну"
+    new "Ann"
 
     # game/core/03variables.rpy:85
     old "Анной"
-    new "Анной"
+    new "Ann"
 
     # game/core/03variables.rpy:85
     old "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-    new "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
+    new "Ann, mia madre. Ha cresciuto me e le mie due sorelle da sola per qualche anno. Lavora nell'ufficio di qualche azienda. Anche se il suo stipendio è abbastanza decente, quasi tutto se ne va per pagare l'affitto, il cibo e i vestiti."
 
     # game/core/03variables.rpy:96
     old "Макс"
-    new "Макс"
+    new "Max"
 
     # game/core/03variables.rpy:96
     old "Макса"
-    new "Макса"
+    new "Max"
 
     # game/core/03variables.rpy:96
     old "Максу"
-    new "Максу"
+    new "Max"
 
     # game/core/03variables.rpy:96
     old "Максом"
-    new "Максом"
+    new "Max"
 
     # game/core/03variables.rpy:96
     old "Максе"
-    new "Максе"
+    new "Max"
 
     # game/core/03variables.rpy:96
     old "Всегда в поисках приключений на свою пятую точку."
@@ -144,23 +144,23 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "ПОСМОТРЕТЬ\nФИЛЬМ"
-    new "ПОСМОТРЕТЬ\nФИЛЬМ"
+    new "GUARDA\nFILM"
 
     # game/core/03variables.rpy:132
     old "ВЫЙТИ\nИЗ ДОМА"
-    new "ВЫЙТИ\nИЗ ДОМА"
+    new "VAI FUORI\nCASA"
 
     # game/core/03variables.rpy:132
     old "ПОИГРАТЬ\nС ЛИЗОЙ"
-    new "ПОИГРАТЬ\nС ЛИЗОЙ"
+    new "GIOCA\nCON LISA"
 
     # game/core/03variables.rpy:132
     old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
-    new "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
+    new "INSTALLA\nKEYLOGGER"
 
     # game/core/03variables.rpy:132
     old "УСТАНОВИТЬ\nКАМЕРУ"
-    new "УСТАНОВИТЬ\nКАМЕРУ"
+    new "INSTALLA\nTELECAMERA"
 
     # game/core/03variables.rpy:132
     old "СПРЯТАТЬ\nПАУКА"
@@ -172,35 +172,35 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "ИСКАТЬ\nПАУКОВ"
-    new "ИСКАТЬ\nПАУКОВ"
+    new "CERCA\nIL RAGNO"
 
     # game/core/03variables.rpy:132
     old "ИСКАТЬ\nСИГАРЕТЫ"
-    new "ИСКАТЬ\nСИГАРЕТЫ"
+    new "CERCA\nLE SIGARETTE"
 
     # game/core/03variables.rpy:132
     old "ИСКАТЬ\nКНИГУ"
-    new "ИСКАТЬ\nКНИГУ"
+    new "CERCA\nIL LIBRO"
 
     # game/core/03variables.rpy:132
     old "ЧИСТИТЬ\nБАССЕЙН"
-    new "ЧИСТИТЬ\nБАССЕЙН"
+    new "PULISCI\nLA PISCINA"
 
     # game/core/03variables.rpy:132
     old "ЧИТАТЬ"
-    new "ЧИТАТЬ"
+    new "LEGGI"
 
     # game/core/03variables.rpy:132
     old "ИСКАТЬ\nКАМЕРУ"
-    new "ИСКАТЬ\nКАМЕРУ"
+    new "CERCA\nTELECAMERA"
 
     # game/core/03variables.rpy:132
     old "РАЗОБРАТЬ\nКОРОБКИ"
-    new "РАЗОБРАТЬ\nКОРОБКИ"
+    new "APRI\nLE SCATOLE"
 
     # game/core/03variables.rpy:132
     old "ВКЛЮЧИТЬ\nНОУТБУК"
-    new "ВКЛЮЧИТЬ\nНОУТБУК"
+    new "ACCENDI \nIL PORTATILE"
 
     # game/core/03variables.rpy:132
     old "СПАТЬ"
@@ -208,7 +208,7 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "УСТАНОВИТЬ\nБУДИЛЬНИК"
-    new "УСТАНОВИТЬ\nБУДИЛЬНИК"
+    new "IMPOSTA\nLA SVEGLIA"
 
     # game/core/03variables.rpy:132
     old "ВЗДРЕМНУТЬ"
@@ -220,35 +220,35 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "ПРИНЯТЬ\nВАННУ"
-    new "ПРИНЯТЬ\nВАННУ"
+    new "FAI\nUN BAGNO"
 
     # game/core/03variables.rpy:132
     old "ПОГОВОРИТЬ"
-    new "ПОГОВОРИТЬ"
+    new "PARLA"
 
     # game/core/03variables.rpy:132
     old "МЫТЬ\nПОСУДУ"
-    new "МЫТЬ\nПОСУДУ"
+    new "LAVA\nI PIATTI"
 
     # game/core/03variables.rpy:187
     old "Общение"
-    new "Общение"
+    new "Comunicazione"
 
     # game/core/03variables.rpy:187
     old "Навыки общения: Чувства человека"
-    new "Навыки общения: Чувства человека"
+    new "Capacità di comunicazione: Sentimenti umani"
 
     # game/core/03variables.rpy:187
     old "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
-    new "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
+    new "Questo è un corso di base sulle abilità comunicative e contiene informazioni di base sui sensi, su come le persone reagiscono alle tue parole e sulle basi del linguaggio del corpo."
 
     # game/core/03variables.rpy:187
     old "Навыки общения: Основы коммуникации"
-    new "Навыки общения: Основы коммуникации"
+    new "Abilità comunicative: Fondamenti della comunicazione"
 
     # game/core/03variables.rpy:187
     old "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-    new "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+    new "Questo è il secondo corso sulle capacità di comunicazione. Da esso imparerai come influenzare la decisione di una persona senza parole, come trovare le parole giuste nella situazione giusta per raggiungere i propri obiettivi."
 
     # game/core/03variables.rpy:187
     old "Навыки общения: Без границ"
