@@ -4,7 +4,7 @@ translate crowdin strings:
 
     # game/core/01classes.rpy:587
     old "Ужасное"
-    new "Ужасное"
+    nuevo "Terrible"
 
     # game/core/01classes.rpy:587
     old "Очень плохое"
