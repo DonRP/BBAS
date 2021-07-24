@@ -4,7 +4,7 @@
 translate crowdin AfterWaiting_c2510a45:
 
     # Max_00 "Я слишком устал. Надо бы вздремнуть..."
-    Max_00 "Я слишком устал. Надо бы вздремнуть..."
+    Max_00 "Estoy demasiado cansado. Deberíamos tomarnos una siesta..."
 
 # game/core/core.rpy:522
 translate crowdin night_of_fun_cae91685:
@@ -16,7 +16,7 @@ translate crowdin night_of_fun_cae91685:
 translate crowdin cam_after_waiting_6058d5d4:
 
     # Max_09 "Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
-    Max_09 "Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+    Max_09 “No creo que sea una buena idea mirar las cámaras en este momento. No fue suficiente para que Lisa notara algo... Tal vez debería ir a la terraza? Там сейчас не должно никого быть..." nointeract
 
 # game/core/core.rpy:561
 translate crowdin cam_after_waiting_c283f316:
