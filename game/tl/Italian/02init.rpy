@@ -56,11 +56,11 @@ translate crowdin strings:
 
     # game/core/02init.rpy:36
     old "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
-    new "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
+    new "{color=#00FF00}{i}Gestito per contenere{/i}{/color}\n"
 
     # game/core/02init.rpy:37
     old "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
-    new "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
+    new "{color=#E59400}{i}Impossibile trattenere{/i}{/color}\n"
 
     # game/core/02init.rpy:39
     old "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
@@ -72,11 +72,11 @@ translate crowdin strings:
 
     # game/core/02init.rpy:42
     old "{color=#00FF00}{i}Ей нравится!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Ей нравится!{/i}{/color}\n"
+    new "{color=#00FF00}{i}Le piace!{/i}{/color}\n"
 
     # game/core/02init.rpy:43
     old "{color=#E59400}{i}Ей не нравится!{/i}{/color}\n"
-    new "{color=#E59400}{i}Ей не нравится!{/i}{/color}\n"
+    new "{color=#E59400}{i}Non le piace!{/i}{/color}\n"
 
     # game/core/02init.rpy:79
     old "ВС"
@@ -164,7 +164,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:120
     old "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\nУвеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\nЕсли у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
-    new "Le telecamere nascoste possono essere una grande fonte di guadagno. Più grande è il pubblico, più persone sono disposte a pagare per guardare.\n\n\nper aumentare il pubblico si può usare la pubblicità. Se non succede niente di interessante nella telecamera - il pubblico si abbassa. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\nЕсли у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Quindi più grande è il pubblico, più è il guadagno.\n\n\n{i}{b}Attenzione:{/b} Nelle prossime versioni del gioco ci saranno utenti VIP con richieste speciali. Se li soddisfi, avrai un grande incremento di entrate.{/i}"
+    new "Le telecamere nascoste possono essere una grande fonte di guadagno. Più grande è il pubblico, più persone sono disposte a pagare per guardare.\n\n\nper aumentare il pubblico si può usare la pubblicità. Se non succede niente di interessante nella telecamera - il pubblico si abbassa. Se ci sono momenti picche, il pubblico cresce.\n\n\nSe hai un sito Web, puoi fare soldi con banner pubblicitari. Quindi più grande è il pubblico, più è il guadagno.\n\n\n{i}{b}Attenzione:{/b} Nelle prossime versioni del gioco ci saranno utenti VIP con richieste speciali. Se li soddisfi, avrai un grande incremento di entrate.{/i}"
 
     # game/core/02init.rpy:128
     old "Значит, у тебя есть блог?"
@@ -176,7 +176,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "Насчёт твоего блога... А если не особо раздеваться?"
-    new "Riguardo al tuo blog... А если не особо раздеваться?"
+    new "Riguardo al tuo blog... E se non ti spogli davvero?"
 
     # game/core/02init.rpy:128
     old "Насчёт посуды..."
@@ -256,7 +256,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "Насчёт случая с Лизой..."
-    new "Насчёт случая с Лизой..."
+    new "Sul caso di Lisa..."
 
     # game/core/02init.rpy:128
     old "Мам, а как учатся целоваться?"
@@ -460,7 +460,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "Учтите, я испытываю... некоторый подъём!"
-    new "Ho qualcosa che volevi..." некоторый подъём!"
+    new "Ho qualcosa che volevi... qualche impennata!"
 
     # game/core/02init.rpy:128
     old "Пошепчемся немного о моей сестрёнке?"
@@ -516,7 +516,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:230
     old "{color=#808080}У меня для тебя вкусняшка! \n (нужно выждать несколько дней){/color}"
-    new "{color=#808080}Ti ho comprato dei dolci! \n (нужно выждать несколько дней){/color}"
+    new "{color=#808080}Ti ho comprato dei dolci! \n (è necessario attendere alcuni giorni){/color}"
 
     # game/core/02init.rpy:230
     old "У меня для тебя вкусняшка!"
@@ -548,11 +548,11 @@ translate crowdin strings:
 
     # game/core/02init.rpy:230
     old "У меня есть кое-что, о чём мы беседовали..."
-    new "У меня есть кое-что, о чём мы беседовали..."
+    new "Ho qualcosa di cui abbiamo parlato..."
 
     # game/core/02init.rpy:230
     old "{color=#808080}Прикупил для тебя немного сладенького! \n (нужно выждать несколько дней){/color}"
-    new "Ti ho comprato dei dolci!" \n (нужно выждать несколько дней){/color}"
+    new "Ti ho comprato dei dolci!" \n (è necessario attendere alcuni giorni){/color}"
 
     # game/core/02init.rpy:230
     old "Прикупил для тебя немного сладенького!"
