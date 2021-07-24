@@ -12,7 +12,7 @@ translate crowdin strings:
 
     # game/core/01classes.rpy:587
     old "Плохое"
-    new "Плохое"
+    坏的
 
     # game/core/01classes.rpy:587
     old "Не очень"
