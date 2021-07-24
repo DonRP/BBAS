@@ -4,315 +4,315 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Скрытые камеры"
-    new "Скрытые камеры"
+    new "Telecamere nascoste"
 
     # game/core/09_opportunities.rpy:4
     old "Я нашёл пустую коробку из под скрытой камеры. Видимо, она установлена где-то в доме. Нужно поискать как следует - вдруг, кто-то за нами наблюдал всё это время?"
-    new "Я нашёл пустую коробку из под скрытой камеры. Видимо, она установлена где-то в доме. Нужно поискать как следует - вдруг, кто-то за нами наблюдал всё это время?"
+    new "Ho trovato una scatola vuota di una telecamera nascosta. A quanto pare è installato da qualche parte nella casa. Dovremmo fare una ricerca adeguata - e se qualcuno ci avesse osservato per tutto questo tempo?"
 
     # game/core/09_opportunities.rpy:4
     old "Вероятнее всего, скрытая камера будет охватывать самую людную комнату внутри дома..."
-    new "Вероятнее всего, скрытая камера будет охватывать самую людную комнату внутри дома..."
+    new "È probabile che la telecamera nascosta copra la stanza più affollata della casa..."
 
     # game/core/09_opportunities.rpy:4
     old "Итак, я нашёл скрытую камеру в гостиной. Она вмонтирована в стену, видимо, во время ремонта. Поэтому, её нельзя вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Может быть, стоит целенаправленно изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
-    new "Итак, я нашёл скрытую камеру в гостиной. Она вмонтирована в стену, видимо, во время ремонта. Поэтому, её нельзя вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Может быть, стоит целенаправленно изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
+    new "Così, ho trovato una telecamera nascosta nel soggiorno. È costruito nel muro, apparentemente durante la ristrutturazione. Pertanto, non può essere estratto senza danneggiarlo. Inoltre, si è scoperto che la telecamera ora non era collegata a nulla. Potrebbe valere la pena di esplorare deliberatamente i modi di collegare le fotocamere per ottenere qualche utilizzo..."
 
     # game/core/09_opportunities.rpy:4
     old "Информацию можно поискать с помощью ноутбука..."
-    new "Информацию можно поискать с помощью ноутбука..."
+    new "Puoi cercare informazioni usando il tuo computer portatile..."
 
     # game/core/09_opportunities.rpy:4
     old "Ко мне пришла отличная идея - заработать на трансляции с веб-камеры в интернет, но я об этом знаю очень мало... Может быть, поможет какая-то литература?"
-    new "Ко мне пришла отличная идея - заработать на трансляции с веб-камеры в интернет, но я об этом знаю очень мало... Может быть, поможет какая-то литература?"
+    new "Ho avuto una grande idea di fare soldi con le trasmissioni via webcam su internet, ma ne so molto poco... Forse un po' di letteratura potrebbe aiutare?"
 
     # game/core/09_opportunities.rpy:4
     old "Иногда, специализированные книги куда лучше, чем то, что пишут в интернете! Это как раз такой случай..."
-    new "Иногда, специализированные книги куда лучше, чем то, что пишут в интернете! Это как раз такой случай..."
+    new "A volte, i libri specializzati sono molto meglio di ciò che è scritto su internet! Questo è proprio un caso del genere..."
 
     # game/core/09_opportunities.rpy:4
     old "Итак, я внимательно прочитал книгу Web Standards и разобрался, как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
-    new "Итак, я внимательно прочитал книгу Web Standards и разобрался, как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
+    new "Così, ho letto attentamente il libro Web Standards e ho capito come fare il mio sito web. Questo è probabilmente un buon punto di partenza. Avrò bisogno di soldi per un dominio, l'hosting e il pagamento di un template pronto con un design. Tutto ciò che serve sono circa $100."
 
     # game/core/09_opportunities.rpy:4
     old "Главное, собрать нужную сумму, а остальное - уже ерунда..."
-    new "Главное, собрать нужную сумму, а остальное - уже ерунда..."
+    new "La cosa principale è raccogliere la giusta quantità di denaro, e il resto non è niente..."
 
     # game/core/09_opportunities.rpy:4
     old "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход от рекламных баннеров. Сделать это можно с помощью вложений в рекламу своего сайта. Кроме того, если в кадре происходит что-то интересное, аудитория также растёт. Для начала стоит установить камеры в каждую комнату, а так же во двор..."
-    new "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход от рекламных баннеров. Сделать это можно с помощью вложений в рекламу своего сайта. Кроме того, если в кадре происходит что-то интересное, аудитория также растёт. Для начала стоит установить камеры в каждую комнату, а так же во двор..."
+    new "Finalmente, ho il mio sito web che trasmette le immagini della telecamera dal mio salotto! Ora devi aumentare il tuo pubblico, perché più persone ci sono, più guadagni ottieni dai banner. Puoi farlo investendo in pubblicità per il tuo sito web. Inoltre, se succede qualcosa di interessante nell'inquadratura, anche il pubblico cresce. Per cominciare, dovresti installare telecamere in ogni stanza, così come nel cortile..."
 
     # game/core/09_opportunities.rpy:4
     old "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
-    new "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
+    new "Devi periodicamente pagare la pubblicità per il sito per risparmiare più velocemente i soldi per nuove macchine fotografiche e, in alternativa, cercare di elemosinare qualcosa da Alice, mamma o Erik..."
 
     # game/core/09_opportunities.rpy:4
     old "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
-    new "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
+    new "Grande! Ora ho telecamere in ogni stanza! Il costo è stato alto, ma sarà sicuramente ripagato, dato che ci sono tante belle ragazze in questa casa, che mostrano il loro fascino di tanto in tanto... Anche se non sarebbe male mettere un'altra telecamera nel cortile, visto che le ragazze non solo prendono il sole ma nuotano anche. Per completare il quadro, il mio pubblico vorrà sicuramente ammirare le ragazze bagnate! Inoltre, la copertura della telecamera nel bagno è troppo piccola, anche se abbastanza interessante. Vale la pena installare un'altra telecamera lì dentro? Questo dovrà essere testato..."
 
     # game/core/09_opportunities.rpy:4
     old "Лучше начать с поиска хорошего обзора ванной комнаты..."
-    new "Лучше начать с поиска хорошего обзора ванной комнаты..."
+    new "Meglio iniziare trovando una buona panoramica del bagno..."
 
     # game/core/09_opportunities.rpy:4
     old "Вечер - это самое лучшее время, чтобы попробовать подсмотреть за кем-нибудь в ванной комнате и не попасться..."
-    new "Вечер - это самое лучшее время, чтобы попробовать подсмотреть за кем-нибудь в ванной комнате и не попасться..."
+    new "La sera è il momento migliore per cercare di spiare qualcuno in bagno e non farsi beccare..."
 
     # game/core/09_opportunities.rpy:4
     old "Стоит понаблюдать, чем обычно все занимаются у зеркала в ванной комнате..."
-    new "Стоит понаблюдать, чем обычно все занимаются у зеркала в ванной комнате..."
+    new "Vale la pena osservare cosa fanno tutti intorno allo specchio del bagno..."
 
     # game/core/09_opportunities.rpy:4
     old "Не забыть установить вторую камеру во дворе и в ванной комнате"
-    new "Не забыть установить вторую камеру во дворе и в ванной комнате"
+    new "Ricordatevi di installare una seconda telecamera nel cortile e nel bagno"
 
     # game/core/09_opportunities.rpy:4
     old "Ну вот, пожалуй, девяти камер будет более чем достаточно, чтобы неплохо зарабатывать! Остаётся лишь позаботиться о том, чтобы по каждой из них, моим зрителям было что увидеть..."
-    new "Ну вот, пожалуй, девяти камер будет более чем достаточно, чтобы неплохо зарабатывать! Остаётся лишь позаботиться о том, чтобы по каждой из них, моим зрителям было что увидеть..."
+    new "Beh, credo che nove macchine fotografiche sarebbero più che sufficienti per vivere bene! Non resta che fare in modo che su ognuno di essi, i miei spettatori abbiano qualcosa da vedere..."
 
     # game/core/09_opportunities.rpy:4
     old "Особые книги"
-    new "Особые книги"
+    new "Libri speciali"
 
     # game/core/09_opportunities.rpy:4
     old "Алиса читает какие-то книги, но не хочет говорить о них. На порно журналы не похоже... Что же ещё там может быть? Нужно попытаться выяснить это как можно скорее... Любопытно же!"
-    new "Алиса читает какие-то книги, но не хочет говорить о них. На порно журналы не похоже... Что же ещё там может быть? Нужно попытаться выяснить это как можно скорее... Любопытно же!"
+    new "Alice sta leggendo alcuni libri ma non vuole parlarne. Non sembrano riviste porno... Cos'altro potrebbe essere? Dovremmo cercare di scoprirlo il prima possibile... Curioso!"
 
     # game/core/09_opportunities.rpy:4
     old "Стоит поискать книгу в комнате Алисы..."
-    new "Стоит поискать книгу в комнате Алисы..."
+    new "Vale la pena cercare un libro nella stanza di Alice..."
 
     # game/core/09_opportunities.rpy:4
     old "Я нашёл какую-то книгу, но из названия ничего не понятно, а читать саму книгу ни времени, ни желания нет. Может быть, поискать о ней информацию в интернете?"
-    new "Я нашёл какую-то книгу, но из названия ничего не понятно, а читать саму книгу ни времени, ни желания нет. Может быть, поискать о ней информацию в интернете?"
+    new "Ho trovato un libro, ma il titolo non ha senso, e non ho il tempo o la voglia di leggerlo. Forse potrei cercarlo su internet?"
 
     # game/core/09_opportunities.rpy:4
     old "Всё просто! До ноутбука дойти не проблема..."
-    new "Всё просто! До ноутбука дойти не проблема..."
+    new "È facile! Nessun problema a raggiungere il portatile..."
 
     # game/core/09_opportunities.rpy:4
     old "Вот это да! Я был не так далёк от истины. Конечно, это не порно, но уж точно эротика, да ещё какая! Видимо, Алисе нравятся любовные романы с эротическими оттенками, так сказать. Может быть, стоит ей подарить подобную книгу и посмотреть на её реакцию?"
-    new "Вот это да! Я был не так далёк от истины. Конечно, это не порно, но уж точно эротика, да ещё какая! Видимо, Алисе нравятся любовные романы с эротическими оттенками, так сказать. Может быть, стоит ей подарить подобную книгу и посмотреть на её реакцию?"
+    new "Wow! Non ero così lontano dalla verità. Non era porno, naturalmente, ma era certamente erotico, e che erotico! A quanto pare, ad Alice piacciono i romanzi d'amore con sfumature erotiche, per così dire. Forse dovrei darle un libro del genere e vedere come reagisce?"
 
     # game/core/09_opportunities.rpy:4
     old "Наверняка удастся найти похожие книги в интернет-магазине. Были бы деньги..."
-    new "Наверняка удастся найти похожие книги в интернет-магазине. Были бы деньги..."
+    new "Probabilmente si possono trovare libri simili in un negozio online. Se solo ci fossero i soldi..."
 
     # game/core/09_opportunities.rpy:4
     old "Судя по реакции Алисы, подарок ей понравился. Видимо, стоит периодически заходить в книжный интернет-магазин и смотреть новинки. Возможно, таким образом удастся чуть-чуть улучшить отношения с Алисой."
-    new "Судя по реакции Алисы, подарок ей понравился. Видимо, стоит периодически заходить в книжный интернет-магазин и смотреть новинки. Возможно, таким образом удастся чуть-чуть улучшить отношения с Алисой."
+    new "A giudicare dalla reazione di Alice, il regalo le è piaciuto. Potrebbe essere una buona idea andare periodicamente alla libreria online e controllare le novità. Forse questo migliorerà un po' le cose con Alice."
 
     # game/core/09_opportunities.rpy:4
     old "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
-    new "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
+    new "Ho notato che Lisa indossa sempre lo stesso costume da bagno chiuso. È anche impossibile abbronzarsi bene? Anche lei lo pensa, ma non c'è altro. Gli altri sono scomparsi con altre cose durante il trasloco. Forse possiamo aiutarla in qualche modo?"
 
     # game/core/09_opportunities.rpy:4
     old "Стоит подождать, вдруг проблема разрешится сама собой..."
-    new "Стоит подождать, вдруг проблема разрешится сама собой..."
+    new "Vale la pena aspettare per vedere se il problema si risolve da solo..."
 
     # game/core/09_opportunities.rpy:4
     old "Во время завтрака Лиза намекнула маме, что нужно бы купить во время шопинга купальник, который не скрывает половину тела и в котором можно загорать..."
-    new "Во время завтрака Лиза намекнула маме, что нужно бы купить во время шопинга купальник, который не скрывает половину тела и в котором можно загорать..."
+    new "Durante la colazione, Lisa accennò a sua madre che avrebbe dovuto comprare un costume da bagno durante lo shopping che non nascondesse metà del suo corpo e che avrebbe potuto prendere il sole in..."
 
     # game/core/09_opportunities.rpy:4
     old "Выяснилось, что во время последнего шопинга забыли купить Лизе купальник, о котором она просила. Теперь придётся ждать до следующих выходных, когда Эрик снова повезёт всех за покупками. Но в этот раз сам Эрик пообещал ей подарить этот купальник. Может быть, его опередить?"
-    new "Выяснилось, что во время последнего шопинга забыли купить Лизе купальник, о котором она просила. Теперь придётся ждать до следующих выходных, когда Эрик снова повезёт всех за покупками. Но в этот раз сам Эрик пообещал ей подарить этот купальник. Может быть, его опередить?"
+    new "Si scopre che durante l'ultimo giro di shopping hanno dimenticato di comprare a Lisa il costume da bagno che aveva chiesto. Ora dobbiamo aspettare fino al prossimo fine settimana, quando Eric porterà di nuovo tutti a fare shopping. Ma questa volta Eric stesso ha promesso di darle il costume da bagno. Forse dovremmo precederlo?"
 
     # game/core/09_opportunities.rpy:4
     old "Мне удалось накопить немного денег и купить тот самый купальник, который так хотела Лиза. Теперь, главное подарить его ей, пока это не сделал Эрик..."
-    new "Мне удалось накопить немного денег и купить тот самый купальник, который так хотела Лиза. Теперь, главное подарить его ей, пока это не сделал Эрик..."
+    new "Sono riuscito a risparmiare un po' di soldi e a comprare il costume da bagno che Lisa voleva. Ora, l'importante è darglielo prima che lo faccia Eric..."
 
     # game/core/09_opportunities.rpy:4
     old "Лучше торопиться и со всех ног бежать к Лизе..."
-    new "Лучше торопиться и со всех ног бежать к Лизе..."
+    new "Meglio sbrigarsi e correre più veloce che si può da Lisa..."
 
     # game/core/09_opportunities.rpy:4
     old "Ну как же так! Я столько копил на купальник для Лизы, а Эрик всё равно меня обскакал... Ещё бы. Денег у него хватает, не то что у меня... Кажется, их отношения улучшились."
-    new "Ну как же так! Я столько копил на купальник для Лизы, а Эрик всё равно меня обскакал... Ещё бы. Денег у него хватает, не то что у меня... Кажется, их отношения улучшились."
+    new "Come mai! Ho risparmiato per un costume da bagno per Lisa, e Eric mi batte ancora sul tempo... Lo dico io. Ha i soldi, non come me... Penso che il loro rapporto sia migliorato."
 
     # game/core/09_opportunities.rpy:4
     old "Как же хорошо, что я успел и купить для Лизы купальник, и подарить его ей раньше Эрика! Кажется, Лиза меня любит! А Эрик теперь обломается со своими подарками, ведь я уже подарил то, что так хочет младшая сестрёнка!"
-    new "Как же хорошо, что я успел и купить для Лизы купальник, и подарить его ей раньше Эрика! Кажется, Лиза меня любит! А Эрик теперь обломается со своими подарками, ведь я уже подарил то, что так хочет младшая сестрёнка!"
+    new "Meno male che sono riuscito a comprare un costume da bagno a Lisa e a darglielo prima di Eric! Credo che Lisa mi ami! E ora Eric riceverà una scocciatura per i suoi regali, perché le ho già preso qualcosa che la sua sorellina vuole!"
 
     # game/core/09_opportunities.rpy:4
     old "Может купальник я и купил, но вот подарить не успел... Эрик меня опередил! Вот если бы я подарил этот чёртов купальник, то Лиза была бы мне очень благодарна, а не ему... И что мне теперь с этим купальником делать?"
-    new "Может купальник я и купил, но вот подарить не успел... Эрик меня опередил! Вот если бы я подарил этот чёртов купальник, то Лиза была бы мне очень благодарна, а не ему... И что мне теперь с этим купальником делать?"
+    new "Potrei aver comprato un costume da bagno, ma non ho avuto il tempo di presentarlo... Eric mi ha battuto sul tempo! Se avessi dato quel dannato costume da bagno, Lisa sarebbe stata più grata a me che a lui... Cosa dovrei fare ora con un costume da bagno?"
 
     # game/core/09_opportunities.rpy:4
     old "Тусовщица"
-    new "Тусовщица"
+    new "Party Girl"
 
     # game/core/09_opportunities.rpy:4
     old "Алиса настойчиво просит маму купить ей вечернее платье для посещения ночных клубов. Та ей регулярно отказывала, пока Эрик не предложил подарить ей платье во время следующего шопинга. Нужно поспешить, если я хочу сделать это первым!"
-    new "Алиса настойчиво просит маму купить ей вечернее платье для посещения ночных клубов. Та ей регулярно отказывала, пока Эрик не предложил подарить ей платье во время следующего шопинга. Нужно поспешить, если я хочу сделать это первым!"
+    new "Alice persiste nel chiedere a sua madre di comprarle un abito da sera da indossare nei nightclub. Lei rifiuta regolarmente, finché Eric si offre di regalarle un vestito durante il suo prossimo giro di shopping. Devo sbrigarmi se voglio farlo per primo!"
 
     # game/core/09_opportunities.rpy:4
     old "Мне удалось скопить приличную сумму и купить платье для Алисы. Теперь, нужно успеть его подарить ей, пока это не сделал кое-кто другой..."
-    new "Мне удалось скопить приличную сумму и купить платье для Алисы. Теперь, нужно успеть его подарить ей, пока это не сделал кое-кто другой..."
+    new "Sono riuscita a risparmiare una discreta quantità di denaro e a comprare un vestito per Alice. Ora, devo portarglielo prima che lo faccia qualcun altro..."
 
     # game/core/09_opportunities.rpy:4
     old "Лучше торопиться и со всех ног бежать к Алисе..."
-    new "Лучше торопиться и со всех ног бежать к Алисе..."
+    new "Meglio sbrigarsi e correre più veloce che si può da Alice..."
 
     # game/core/09_opportunities.rpy:4
     old "Вот что значит не везёт! Я долго копил на красивое короткое платье для Алисы и даже купил его, но меня опередил Эрик... И что самое обидное, он купил точно такое же, но подарил его первым. Теперь у меня есть бесполезное платье..."
-    new "Вот что значит не везёт! Я долго копил на красивое короткое платье для Алисы и даже купил его, но меня опередил Эрик... И что самое обидное, он купил точно такое же, но подарил его первым. Теперь у меня есть бесполезное платье..."
+    new "Ecco cosa significa la sfortuna! Ho risparmiato a lungo per un bel vestito corto per Alice, e l'ho anche comprato, ma Eric mi ha battuto... E la cosa frustrante è che ha comprato lo stesso identico, ma lo ha dato a me per primo. Ora ho un vestito inutile..."
 
     # game/core/09_opportunities.rpy:4
     old "Чтобы узнать больше о том, чем Алиса занимается за пределами дома, мне стоит улучшить отношения с Лизой. Сестры наверняка знают друг о друге разные пикантные секретики..."
-    new "Чтобы узнать больше о том, чем Алиса занимается за пределами дома, мне стоит улучшить отношения с Лизой. Сестры наверняка знают друг о друге разные пикантные секретики..."
+    new "Per scoprire di più su quello che Alice fa fuori casa, dovrei migliorare il mio rapporto con Lisa. Le sorelle devono conoscere ogni sorta di segreti sconci l'una sull'altra..."
 
     # game/core/09_opportunities.rpy:4
     old "Вот что значит не везёт! Я долго копил на красивое короткое платье для Алисы, но меня опередил Эрик... Не удивительно. У него же куча денег. Он может себе позволить такие подарки... Кажется, теперь Алиса к нему относится гораздо лучше..."
-    new "Вот что значит не везёт! Я долго копил на красивое короткое платье для Алисы, но меня опередил Эрик... Не удивительно. У него же куча денег. Он может себе позволить такие подарки... Кажется, теперь Алиса к нему относится гораздо лучше..."
+    new "Ecco cosa significa la sfortuna! Ho risparmiato per un bel vestito corto per Alice, ma Eric mi ha battuto sul tempo... Non sono sorpreso. Ha un sacco di soldi. Può permettersi regali come questo... Alice sembra piacergli molto di più adesso..."
 
     # game/core/09_opportunities.rpy:4
     old "Да, я сделал это! Мне удалось не только накопить на платье, но и подарить его до того, как нечто подобное сделал Эрик. А он собирался. С его то деньгами это не сложно... Теперь Алиса ко мне относится намного лучше. Ещё бы! Теперь она может ходить по ночным клубам..."
-    new "Да, я сделал это! Мне удалось не только накопить на платье, но и подарить его до того, как нечто подобное сделал Эрик. А он собирался. С его то деньгами это не сложно... Теперь Алиса ко мне относится намного лучше. Ещё бы! Теперь она может ходить по ночным клубам..."
+    new "Sì, l'ho fatto! Non solo sono riuscita a risparmiare per un vestito, ma sono anche riuscita a donarlo prima che una cosa del genere fosse fatta da Eric. E stava per farlo. Con i suoi soldi, non è difficile... Alice mi tratta molto meglio ora. Certo che lo fa! Ora può andare in discoteca..."
 
     # game/core/09_opportunities.rpy:4
     old "Лиза рассказала мне по секрету кое-что интересное. Оказывается, Алиса не умеет пить. А точнее, капля алкоголя её меняет! Именно поэтому она и не соглашается ни на какие алкогольные напитки. Но, может быть, можно придумать что-то другое?"
-    new "Лиза рассказала мне по секрету кое-что интересное. Оказывается, Алиса не умеет пить. А точнее, капля алкоголя её меняет! Именно поэтому она и не соглашается ни на какие алкогольные напитки. Но, может быть, можно придумать что-то другое?"
+    new "Lisa mi ha detto qualcosa di interessante in confidenza. Si scopre che Alice non sa bere. O meglio, una goccia di alcol la cambia! Ecco perché non si accontenta di nessuna bevanda alcolica. Ma forse possiamo pensare a qualcos'altro?"
 
     # game/core/09_opportunities.rpy:4
     old "В магазине наверняка найдётся что-то, что мне поможет..."
-    new "В магазине наверняка найдётся что-то, что мне поможет..."
+    new "Ci sarà sicuramente qualcosa nel negozio che mi aiuterà..."
 
     # game/core/09_opportunities.rpy:4
     old "Итак, у меня есть коробка конфет с ликёром. Судя по надписи на коробке, аромат утончённый. Это значит, есть шанс, что Алиса не заметит алкоголь. Интересно, этого хватит, чтобы её как-то подтолкнуть к этим... безбашенным поступкам?"
-    new "Итак, у меня есть коробка конфет с ликёром. Судя по надписи на коробке, аромат утончённый. Это значит, есть шанс, что Алиса не заметит алкоголь. Интересно, этого хватит, чтобы её как-то подтолкнуть к этим... безбашенным поступкам?"
+    new "Allora, ho una scatola di cioccolatini al liquore. A giudicare dalla scritta sulla scatola, il sapore è sottile. Questo significa che c'è la possibilità che Alice non noti l'alcol. Mi chiedo se questo sia sufficiente per incoraggiarla in qualche modo a fare queste... atti sconsiderati?"
 
     # game/core/09_opportunities.rpy:4
     old "Проверить, действительно ли Алиса теряет голову от алкоголя, лучше прямо перед тем, как она отправится в клуб..."
-    new "Проверить, действительно ли Алиса теряет голову от алкоголя, лучше прямо перед тем, как она отправится в клуб..."
+    new "Per vedere se Alice sta davvero perdendo la testa a causa dell'alcol, è meglio controllare appena prima che vada al club..."
 
     # game/core/09_opportunities.rpy:4
     old "Всё получилось. И прошло как-то... слишком неожиданно. О таком даже не принято никому рассказывать. Видимо, лишняя капля алкоголя сорвала Алисе крышу и она напилась в ночном клубе. Ну что же, будем надеяться, что она сама ничего не помнит об этом, а иначе мне не жить..."
-    new "Всё получилось. И прошло как-то... слишком неожиданно. О таком даже не принято никому рассказывать. Видимо, лишняя капля алкоголя сорвала Алисе крышу и она напилась в ночном клубе. Ну что же, будем надеяться, что она сама ничего не помнит об этом, а иначе мне не жить..."
+    new "Tutto ha funzionato. Ed è andata in qualche modo... troppo improvviso. Non è nemmeno qualcosa che si dovrebbe dire a qualcuno. A quanto pare, la goccia di alcol in più ha fatto saltare la testa ad Alice che si è ubriacata in un nightclub. Beh, speriamo che non se lo ricordi, altrimenti sono morto..."
 
     # game/core/09_opportunities.rpy:4
     old "Интересно, если я не буду вести себя как озабоченный и скажу что-нибудь приятное, Алиса будет реагировать иначе..."
-    new "Интересно, если я не буду вести себя как озабоченный и скажу что-нибудь приятное, Алиса будет реагировать иначе..."
+    new "Mi chiedo se non faccio l'arrapato e dico qualcosa di carino, Alice reagirà diversamente..."
 
     # game/core/09_opportunities.rpy:4
     old "Особенно мне понравилось то, как Алиса стыдилась своего стервозного поведения со мной! С этими конфетами было достаточно всего одного комплимента, чтобы Алиса начала дразнить меня своими голыми и потрясающими сиськами... Интересно, можно ли её развести на что-то большее?"
-    new "Особенно мне понравилось то, как Алиса стыдилась своего стервозного поведения со мной! С этими конфетами было достаточно всего одного комплимента, чтобы Алиса начала дразнить меня своими голыми и потрясающими сиськами... Интересно, можно ли её развести на что-то большее?"
+    new "Ho amato soprattutto come Alice si vergognava del suo comportamento da stronza con me! Con tutte quelle caramelle è bastato un complimento perché Alice cominciasse a prendermi in giro con le sue tette nude e fantastiche... Mi chiedo se possa essere ingannata con qualcosa di più?"
 
     # game/core/09_opportunities.rpy:4
     old "Может, если уговорить Алису не носить трусики, то и в клуб она их не наденет? А раз так, то и после клуба она может быть без них..."
-    new "Может, если уговорить Алису не носить трусики, то и в клуб она их не наденет? А раз так, то и после клуба она может быть без них..."
+    new "Forse se convinci Alice a non indossare le mutandine, non le indosserà nemmeno al club? E visto che lo è, potrebbe anche essere senza di loro dopo il club..."
 
     # game/core/09_opportunities.rpy:4
     old "Чтобы добиться большего с Алисой в ванной комнате, мне стоит помогать ей с её блогом. Возможно, это нас сблизит..."
-    new "Чтобы добиться большего с Алисой в ванной комнате, мне стоит помогать ей с её блогом. Возможно, это нас сблизит..."
+    new "Per ottenere di più con Alice nel bagno, dovrei aiutarla con il suo blog. Forse questo ci avvicinerà di più..."
 
     # game/core/09_opportunities.rpy:4
     old "Чувствовать нежные ручки Алисы на своём члене нереально круто! Как же я хочу развести её на ещё большее, чем это... А раз она, будучи под действием алкоголя, совершенно не стесняется подрочить мне, то что будет, если я впечатлю её своими поцелуями?"
-    new "Чувствовать нежные ручки Алисы на своём члене нереально круто! Как же я хочу развести её на ещё большее, чем это... А раз она, будучи под действием алкоголя, совершенно не стесняется подрочить мне, то что будет, если я впечатлю её своими поцелуями?"
+    new "Sentire le mani delicate di Alice sul mio cazzo è una figata irreale! Come vorrei farle fare ancora di più... E siccome lei, essendo sotto l'influenza dell'alcol, non è affatto timida nel farmi una sega, cosa succede se la impressiono con i miei baci?"
 
     # game/core/09_opportunities.rpy:4
     old "Чтобы было, чем впечатлять, нужно хорошенько поучиться поцелуям..."
-    new "Чтобы было, чем впечатлять, нужно хорошенько поучиться поцелуям..."
+    new "Per impressionarla, devi imparare molto sul bacio..."
 
     # game/core/09_opportunities.rpy:4
     old "Похоже, Алиса поражена тем, как я целуюсь. Но одних увлечений поцелуями мало, нужно ещё больше с ней сблизиться, чтобы у неё даже в голове не возникло меня останавливать, когда я начну всячески ласкать её во время этих поцелуев!"
-    new "Похоже, Алиса поражена тем, как я целуюсь. Но одних увлечений поцелуями мало, нужно ещё больше с ней сблизиться, чтобы у неё даже в голове не возникло меня останавливать, когда я начну всячески ласкать её во время этих поцелуев!"
+    new "Alice sembra impressionata dal modo in cui bacio. Ma i baci non bastano, ho bisogno di avvicinarmi ancora di più a lei in modo che non pensi nemmeno di fermarmi quando inizio ad accarezzarla durante quei baci in tutti i modi!"
 
     # game/core/09_opportunities.rpy:4
     old "Нужно больше подарков для Алисы, а значит потребуются успехи в возможности \"Блог\"..."
-    new "Нужно больше подарков для Алисы, а значит потребуются успехи в возможности \"Блог\"..."
+    new "Abbiamo bisogno di più regali per Alice, il che significa che avrai bisogno di successo nella possibilità di \"Blog\"..."
 
     # game/core/09_opportunities.rpy:4
     old "Такие игры с Алисой в ванной комнате уже куда интереснее... Вот бы она ещё помнила, что вытворяет, хотя бы немного. Ну, а пока, у меня есть всё, чтобы оттачивать на Алисе свой сексуальный опыт. Нужно лишь не забывать давать ей ещё одну конфету с ликёром по возвращению из клуба. А уже где я её застану, у зеркала или в ванне, зависит от того, сколько времени я потрачу на тётю Киру."
-    new "Такие игры с Алисой в ванной комнате уже куда интереснее... Вот бы она ещё помнила, что вытворяет, хотя бы немного. Ну, а пока, у меня есть всё, чтобы оттачивать на Алисе свой сексуальный опыт. Нужно лишь не забывать давать ей ещё одну конфету с ликёром по возвращению из клуба. А уже где я её застану, у зеркала или в ванне, зависит от того, сколько времени я потрачу на тётю Киру."
+    new "Questo tipo di gioco con Alice nel bagno è già molto più interessante... Se solo si ricordasse cosa stava facendo, almeno un po'. Nel frattempo, ho tutto il necessario per affinare la mia esperienza sessuale con Alice. Devo solo ricordarmi di darle un'altra barretta di liquore quando torno dal club. Se la prendo allo specchio o nella vasca da bagno dipende da quanto tempo passo con la zia Kira."
 
     # game/core/09_opportunities.rpy:4
     old "Дым сигарет"
-    new "Дым сигарет"
+    new "Fumo di sigaretta"
 
     # game/core/09_opportunities.rpy:4
     old "Оказалось, что Алиса курит. Причём, она старается это делать, когда дома никого нет. Это можно использовать... Рассказать маме не вариант, иначе Алиса мне жизни в этом доме не даст! Но можно подставить Алису, чтобы мама сама догадалась... А может быть, всё это позволит наладить с Алисой отношения? Ясно одно, нужно проверить, как Алиса отреагирует, если я не стану её сдавать маме."
-    new "Оказалось, что Алиса курит. Причём, она старается это делать, когда дома никого нет. Это можно использовать... Рассказать маме не вариант, иначе Алиса мне жизни в этом доме не даст! Но можно подставить Алису, чтобы мама сама догадалась... А может быть, всё это позволит наладить с Алисой отношения? Ясно одно, нужно проверить, как Алиса отреагирует, если я не стану её сдавать маме."
+    new "Si è scoperto che Alice fuma. E cerca di farlo quando non c'è nessuno in casa. Questo può essere usato... Dirlo a mia madre non è un'opzione, altrimenti Alice non mi lascerà vivere in questa casa! Ma si potrebbe incastrare Alice per far capire a mia madre... O forse migliorerebbe le cose con Alice? Una cosa è chiara, devo vedere come reagirà Alice se non la consegno alla mamma."
 
     # game/core/09_opportunities.rpy:4
     old "Стоит немного подождать и мама сама что-нибудь заметит..."
-    new "Стоит немного подождать и мама сама что-нибудь заметит..."
+    new "Basta aspettare un po' e la mamma noterà qualcosa da sola..."
 
     # game/core/09_opportunities.rpy:4
     old "Мама почувствовала сигаретный дым, но я не сдал Алису. Кажется, сестрёнка это оценила. Вот только что мешает её подставить, чтобы мама узнала об этом не от меня, а как бы сама что-то нашла? И я не при делах!\n\nА лучше, попробовать развести сестрёнку на что-нибудь эдакое... Думаю, она на многое согласится, лишь бы её не отшлёпали у всех на глазах! Конечно, в разумных пределах."
-    new "Мама почувствовала сигаретный дым, но я не сдал Алису. Кажется, сестрёнка это оценила. Вот только что мешает её подставить, чтобы мама узнала об этом не от меня, а как бы сама что-то нашла? И я не при делах!\n\nА лучше, попробовать развести сестрёнку на что-нибудь эдакое... Думаю, она на многое согласится, лишь бы её не отшлёпали у всех на глазах! Конечно, в разумных пределах."
+    new "La mamma ha percepito il fumo di sigaretta, ma non ho rinunciato ad Alice. Sorella sembrava apprezzarlo. Ma cosa le impedisce di incastrarla in modo che la mamma lo scopra, non da me, ma come se avesse trovato qualcosa lei stessa? Io non c'entro niente.\n\nMeglio ancora, cerca di ingannare mia sorella per farle fare qualcosa... Penso che accetterà molto, purché non venga sculacciata davanti a tutti! Entro limiti ragionevoli, ovviamente."
 
     # game/core/09_opportunities.rpy:4
     old "Нужно поймать Алису, когда она курит..."
-    new "Нужно поймать Алису, когда она курит..."
+    new "Necessità di prendere Alice che fuma..."
 
     # game/core/09_opportunities.rpy:4
     old "Не так-то всё просто, как я думал! Алиса уверена, что сможет сохранить свою вредную привычку в тайне от мамы. Видимо, придётся освежить в памяти Алисы то, как сильно мама лупит по заднице провинившихся. И это я ей теперь могу обеспечить!"
-    new "Не так-то всё просто, как я думал! Алиса уверена, что сможет сохранить свою вредную привычку в тайне от мамы. Видимо, придётся освежить в памяти Алисы то, как сильно мама лупит по заднице провинившихся. И это я ей теперь могу обеспечить!"
+    new "Non è così facile come pensavo! Alice è sicura di poter mantenere la sua cattiva abitudine un segreto con sua madre. A quanto pare, dovrò rinfrescare la memoria di Alice su quanto duramente la mamma schiaffeggia i colpevoli sul culo. E che ora posso provvedere a lei!"
 
     # game/core/09_opportunities.rpy:4
     old "Лучше подложить сигареты в комнату Алисы на видное место прямо перед приходом мамы с работы..."
-    new "Лучше подложить сигареты в комнату Алисы на видное место прямо перед приходом мамы с работы..."
+    new "Meglio mettere le sigarette in un posto ben visibile nella stanza di Alice appena prima che la mamma torni dal lavoro..."
 
     # game/core/09_opportunities.rpy:4
     old "Вот и залетела Алисина попка под мамину суровую руку! Теперь её секрет раскрыт и маму она точно больше не обдурит... Если, конечно, я ей в этом не посодействую. Остаётся лишь убедить Алису в том, что я могу быть хорошим союзником... Но не за просто так."
-    new "Вот и залетела Алисина попка под мамину суровую руку! Теперь её секрет раскрыт и маму она точно больше не обдурит... Если, конечно, я ей в этом не посодействую. Остаётся лишь убедить Алису в том, что я могу быть хорошим союзником... Но не за просто так."
+    new "Così il sedere di Alice è stato messo al tappeto dalla mano severa della mamma! Ora il suo segreto è svelato e non ingannerà più la mamma... A meno che, ovviamente, io non la aiuti a farlo. Non resta che convincere Alice che posso essere un buon alleato... Ma non per niente."
 
     # game/core/09_opportunities.rpy:4
     old "Главное убедить, а остальное - уже ерунда..."
-    new "Главное убедить, а остальное - уже ерунда..."
+    new "La cosa principale è convincere, e il resto è spazzatura..."
 
     # game/core/09_opportunities.rpy:4
     old "Ну вот, дело сделано. Теперь Алиса готова выполнять мои мелкие, но пикантные прихоти. Ей не сложно, а мне приятно. Ох, сколько теперь будет разных интересных ситуаций с Алисой..."
-    new "Ну вот, дело сделано. Теперь Алиса готова выполнять мои мелкие, но пикантные прихоти. Ей не сложно, а мне приятно. Ох, сколько теперь будет разных интересных ситуаций с Алисой..."
+    new "Bene, è fatta. Ora Alice è pronta a fare i miei piccoli ma piccanti capricci. Non è difficile per lei e mi fa sentire bene. Oh, ci saranno molte situazioni interessanti con Alice ora..."
 
     # game/core/09_opportunities.rpy:4
     old "Блог"
-    new "Блог"
+    new "Blog"
 
     # game/core/09_opportunities.rpy:4
     old "Алиса рассказала о своём блоге и о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. Кажется, она согласна на любую помощь и идеи, даже от меня! Может быть, посидеть в интернете, поискать какое-то решение?"
-    new "Алиса рассказала о своём блоге и о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. Кажется, она согласна на любую помощь и идеи, даже от меня! Может быть, посидеть в интернете, поискать какое-то решение?"
+    new "Alice ha parlato del suo blog e del suo problema di perdere le cose durante il trasloco. Ora non ha niente da mostrare, niente da scrivere sul blog e in generale è triste. Sembra accettare qualsiasi aiuto e idea, anche da parte mia! Forse navigando in internet, cercando una qualche soluzione?"
 
     # game/core/09_opportunities.rpy:4
     old "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды..."
-    new "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды..."
+    new "Cercando su internet informazioni su ciò che Alice potrebbe fare, abbiamo scoperto alcune cose. I blog più popolari erano quelli in cui i presentatori erano ragazze. Inoltre, più gli abiti sono rivelatori e più i seni sono grandi, più gli spettacoli sono popolari. Non c'è niente da fare per il seno, naturalmente, ma gli abiti..."
 
     # game/core/09_opportunities.rpy:4
     old "Может быть, поговорить с ней об этом?"
-    new "Может быть, поговорить с ней об этом?"
+    new "Magari parlane con lei?"
 
     # game/core/09_opportunities.rpy:4
     old "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается, так что покрутит сама того не зная, когда я поставлю скрытую камеру в её комнату. Как знать, сколько всего интересного можно будет увидеть..."
-    new "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается, так что покрутит сама того не зная, когда я поставлю скрытую камеру в её комнату. Как знать, сколько всего интересного можно будет увидеть..."
+    new "Ho chiacchierato con Alice delle mie conclusioni sulla popolarità del blog e ho accennato al fatto che si potrebbe pubblicizzare non solo creme e smalti, ma anche biancheria intima, per esempio. Ma non girerà il suo culo per la telecamera, quindi lo farà quando metterò una telecamera nascosta nella sua stanza senza che lei lo sappia. Chissà quante cose interessanti potresti vedere..."
 
     # game/core/09_opportunities.rpy:4
     old "Нужно будет последить через скрытую камеру за тем, как Алиса ведёт блог..."
-    new "Нужно будет последить через скрытую камеру за тем, как Алиса ведёт блог..."
+    new "Dovremo seguire il blogging di Alice attraverso una telecamera nascosta..."
 
     # game/core/09_opportunities.rpy:4
     old "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается... А зря, ведь она и так уже это делает на скрытую камеру, которую я поставил в её комнате. Как знать, может мне удастся увидеть что-то, чего ещё не было..."
-    new "Я пообщался с Алисой насчёт своих выводов о популярности блога и намекнул, что можно рекламировать не только крема и лаки, но и нижнее бельё, например. Но крутить своей попкой перед камерой она не собирается... А зря, ведь она и так уже это делает на скрытую камеру, которую я поставил в её комнате. Как знать, может мне удастся увидеть что-то, чего ещё не было..."
+    new "Ho chiacchierato con Alice delle mie conclusioni sulla popolarità del blog e ho accennato al fatto che si potrebbe pubblicizzare non solo creme e smalti, ma anche biancheria intima, per esempio. Ma non ha intenzione di muovere il sedere davanti alla telecamera... E dovrebbe, perché lo sta già facendo con la telecamera nascosta che ho messo nella sua stanza. Chissà, forse riuscirò a vedere qualcosa che non ho ancora visto..."
 
     # game/core/09_opportunities.rpy:4
     old "Я решил снова предложить Алисе идею по развитию её блога - рекламировать нижнее бельё. Удивительно, но она согласилась! Правда, теперь мне нужно найти нижнее бельё для того, чтобы она заинтересовала свою аудиторию и привлекла внимание рекламодателей..."
-    new "Я решил снова предложить Алисе идею по развитию её блога - рекламировать нижнее бельё. Удивительно, но она согласилась! Правда, теперь мне нужно найти нижнее бельё для того, чтобы она заинтересовала свою аудиторию и привлекла внимание рекламодателей..."
+    new "Ho deciso di offrire ad Alice l'idea di sviluppare nuovamente il suo blog - per promuovere la lingerie. Sorprendentemente, ha accettato! Vero, ora devo trovare della lingerie per lei per interessare il suo pubblico e attirare l'attenzione dei pubblicitari..."
 
     # game/core/09_opportunities.rpy:4
     old "Стоит подарить Алисе красивое нижнее бельё. Дело плёвое, если есть деньги..."
-    new "Стоит подарить Алисе красивое нижнее бельё. Дело плёвое, если есть деньги..."
+    new "Vale la pena di comprare ad Alice della bella lingerie. È un gioco da ragazzi se hai i soldi..."
 
     # game/core/09_opportunities.rpy:4
     old "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Правда, увидеть мне ничего не удалось, только Алису уже в этом самом белье, но даже это было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное! И кстати, может предложить ей устроить фотосессию? Алисе точно пригодятся снимки в нижнем белье для её блога. Лишь бы она только согласилась!"
-    new "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Правда, увидеть мне ничего не удалось, только Алису уже в этом самом белье, но даже это было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное! И кстати, может предложить ей устроить фотосессию? Алисе точно пригодятся снимки в нижнем белье для её блога. Лишь бы она только согласилась!"
+    new "Ho dato ad Alice un bel set di biancheria intima. Le è piaciuto molto. È vero, non ho potuto vedere niente, solo Alice già in quella lingerie, ma anche questo è stato eccitante... Curiosamente, ha accennato che potremmo cercare qualcosa di un po' più... sexy! E a proposito, forse potremmo offrirle un servizio fotografico? Alice potrebbe sicuramente usare alcuni scatti di lingerie per il suo blog. Basta che lei dica di sì!"
 
     # game/core/09_opportunities.rpy:4
     old "Купить для Алисы что-нибудь посексуальнее я только рад. Были бы деньги... Как на нижнее бельё, так и на фотоаппарат..."
-    new "Купить для Алисы что-нибудь посексуальнее я только рад. Были бы деньги... Как на нижнее бельё, так и на фотоаппарат..."
+    new "Per comprare qualcosa di più sexy per Alice, sono fin troppo felice. Se solo avessi i soldi... Sia per la lingerie che per la macchina fotografica..."
 
     # game/core/09_opportunities.rpy:4
     old "Купить для Алисы что-нибудь посексуальнее я только рад. Были бы деньги..."
-    new "Купить для Алисы что-нибудь посексуальнее я только рад. Были бы деньги..."
+    new "Per comprare qualcosa di più sexy per Alice, sono fin troppo felice. Se solo ci fossero i soldi..."
 
     # game/core/09_opportunities.rpy:4
     old "Самый лучший момент для дарения, когда Алиса ведёт свой блог в нижнем белье..."
