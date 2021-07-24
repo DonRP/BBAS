@@ -68,7 +68,7 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:85
     old "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-    new "Alice, mia sorella maggiore.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Si è da poco diplomata e, proprio come me, sta cercando la sua strada. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
+    new "Alice, mia sorella maggiore.  In qualsiasi situazione incomprensibile, colpisce in faccia (Nella migliore delle ipotesi). Si è da poco diplomata e, proprio come me, sta cercando la sua strada. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
 
     # game/core/03variables.rpy:85
     old "Лиза"
@@ -92,7 +92,7 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:85
     old "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    new "Лиза, младшая сестрёнка. Dolce e allegra. Va ancora a liceo. Siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Но если что-то случается, защиты ищет именно у меня."
+    new "Lisa, la sorella minore. Dolce e allegra. Va ancora a liceo. Siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, sono io che cerco protezione."
 
     # game/core/03variables.rpy:85
     old "Анна"
@@ -140,7 +140,7 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:96
     old "Всегда в поисках приключений на свою пятую точку."
-    new "Всегда в поисках приключений на свою пятую точку."
+    new "Sempre alla ricerca di avventure al suo quinto punto."
 
     # game/core/03variables.rpy:132
     old "ПОСМОТРЕТЬ\nФИЛЬМ"
@@ -164,11 +164,11 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "СПРЯТАТЬ\nПАУКА"
-    new "СПРЯТАТЬ\nПАУКА"
+    new "NASCONDI\nRAGNO"
 
     # game/core/03variables.rpy:132
     old "БРОСИТЬ\nПАУКА"
-    new "БРОСИТЬ\nПАУКА"
+    new "TOGLI\nRAGNO"
 
     # game/core/03variables.rpy:132
     old "ИСКАТЬ\nПАУКОВ"
@@ -204,7 +204,7 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "СПАТЬ"
-    new "СПАТЬ"
+    new "DOMI"
 
     # game/core/03variables.rpy:132
     old "УСТАНОВИТЬ\nБУДИЛЬНИК"
@@ -212,11 +212,11 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "ВЗДРЕМНУТЬ"
-    new "ВЗДРЕМНУТЬ"
+    new "FAI UN PISOLINO"
 
     # game/core/03variables.rpy:132
     old "ПРИНЯТЬ\nДУШ"
-    new "ПРИНЯТЬ\nДУШ"
+    nuovo "FAI\nLA DOCCIA"
 
     # game/core/03variables.rpy:132
     old "ПРИНЯТЬ\nВАННУ"
@@ -252,77 +252,77 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:187
     old "Навыки общения: Без границ"
-    new "Навыки общения: Без границ"
+    new "Capacità di comunicazione: senza limiti"
 
     # game/core/03variables.rpy:187
     old "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-    new "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
+    new "Questo è un corso avanzato a lungo termine progettato per coloro che vogliono imparare e migliorare continuamente. Questo è attualmente l'ultimo corso disponibile."
 
     # game/core/03variables.rpy:218
     old "Эрик"
-    new "Эрик"
+    new "Eric"
 
     # game/core/03variables.rpy:218
     old "Эрика"
-    new "Эрика"
+    new "Eric"
 
     # game/core/03variables.rpy:218
     old "Эрику"
-    new "Эрику"
+    new "Eric"
 
     # game/core/03variables.rpy:218
     old "Эриком"
-    new "Эриком"
+    new "Eric"
 
     # game/core/03variables.rpy:218
     old "Эрике"
-    new "Эрике"
+    new "Eric"
 
     # game/core/03variables.rpy:218
     old "Ещё до того, как мама познакомила меня со своим внезапным ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт. Слишком уж он подозрительный..."
-    new "Ещё до того, как мама познакомила меня со своим внезапным ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт. Слишком уж он подозрительный..."
+    new "Anche prima che mia madre mi presentasse il suo improvviso fidanzato Eric, ho cominciato a sentire che non avrebbe portato nulla di buono nella mia vita. È troppo sospettoso...."
 
     # game/core/03variables.rpy:229
     old "Кира"
-    new "Кира"
+    new "Kira"
 
     # game/core/03variables.rpy:229
     old "Киры"
-    new "Киры"
+    new "Kira"
 
     # game/core/03variables.rpy:229
     old "Кире"
-    new "Кире"
+    new "Kira"
 
     # game/core/03variables.rpy:229
     old "Киру"
-    new "Киру"
+    new "Kira"
 
     # game/core/03variables.rpy:229
     old "Кирой"
-    new "Кирой"
+    new "Kira"
 
     # game/core/03variables.rpy:229
     old "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
-    new "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
+    new "Zia Kira, la sorella minore della mamma. Certo, prima non si era visto che aveva dei complessi, ma ora era diventata così... come questo..."
 
     # game/core/03variables.rpy:265
     old "Оливия"
-    new "Оливия"
+    new "Olivia"
 
     # game/core/03variables.rpy:265
     old "Оливии"
-    new "Оливии"
+    new "Olivia"
 
     # game/core/03variables.rpy:265
     old "Оливию"
-    new "Оливию"
+    new "Olivia"
 
     # game/core/03variables.rpy:265
     old "Оливией"
-    new "Оливией"
+    new "Olivia"
 
     # game/core/03variables.rpy:265
     old "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
-    new "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
+    new "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto carina. E soprattutto con un colpo di scena... Va in giro per la scuola senza mutandine, e per casa sua nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
 
