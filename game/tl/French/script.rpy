@@ -4,13 +4,13 @@
 translate crowdin intro_8dea4dcf:
 
     # Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
-    Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
+    Max_00 "Je m'appelle Max. Je suis un gars ordinaire d’une famille normale. Eh bien, comme d’habitude... normal. Mais, de qui je me moque . Il n'y a pas grand chose de normal dans ma famille. Mais chaque chose en son temps." nointeract
 
 # game/script.rpy:41
 translate crowdin intro_0f762891:
 
     # Max_01 "Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
-    Max_01 "Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
+    Max_01 "J'ai été récemment renvoyé de l'école. Officiellement, pour de mauvais résultats scolaires. Même si les notes étaient moyennes, la vraie raison était le professeur de maths. Ils dit que j'ai harcelé... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
 
 # game/script.rpy:43
 translate crowdin intro_20141f46:
