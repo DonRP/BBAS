@@ -420,179 +420,179 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Итак, Лиза поинтересовалась, чему же я собираюсь её учить. И сразу же поставила меня в глупую ситуацию. Я вроде бы должен её учить, но сам не умею даже целоваться! Нужно срочно найти кого-то, кто бы мне помог в этом... Да, легко сказать..."
-    new "Итак, Лиза поинтересовалась, чему же я собираюсь её учить. И сразу же поставила меня в глупую ситуацию. Я вроде бы должен её учить, но сам не умею даже целоваться! Нужно срочно найти кого-то, кто бы мне помог в этом... Да, легко сказать..."
+    new "Così Lisa si chiedeva cosa le avrei insegnato. Mi ha subito messo in una situazione stupida. Dovrei insegnarle, ma non so nemmeno baciare! Ho bisogno di trovare qualcuno che mi aiuti con questo subito... Sì, facile per te dirlo..."
 
     # game/core/09_opportunities.rpy:4
     old "Кажется, я нашёл ту, которая научит меня целоваться. И это... моя тётя! Это так странно... Ну она точно в этом вопросе понимает достаточно. Да я был бы рад любому учителю, но такой - идеален! Да, тётя Кира сказала, что лучше об этом поговорить в более интимной обстановке. Например, когда она ночью смотрит телек."
-    new "Кажется, я нашёл ту, которая научит меня целоваться. И это... моя тётя! Это так странно... Ну она точно в этом вопросе понимает достаточно. Да я был бы рад любому учителю, но такой - идеален! Да, тётя Кира сказала, что лучше об этом поговорить в более интимной обстановке. Например, когда она ночью смотрит телек."
+    new "Credo di aver trovato qualcuno che può insegnarmi a baciare. E questo è... è mia zia! Questo è così strano... Beh, certamente ne capisce abbastanza sull'argomento. Да я был бы рад любому учителю, но такой - идеален! Sì, la zia Kira ha detto che è meglio parlarne in un ambiente più intimo. Come quando guarda la TV la sera."
 
     # game/core/09_opportunities.rpy:4
     old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
-    new "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
+    new "La zia Kira è un'eccellente insegnante di baci! Ha accettato di insegnarmi qualche volta. Chissà, forse ti insegnerà anche qualcos'altro?\n\nQuesto è tutto. Ora devi esercitarti a baciare la zia Kira e trasmettere a Lisa quello che hai imparato... Solo che ha ancora bisogno di essere persuasa..."
 
     # game/core/09_opportunities.rpy:4
     old "Ну всё, можно сказать, что азы я освоил и это было очень горячо! Целуясь с тётей Кирой, я прикасался много к чему очень возбуждающему и прекрасному... Теперь нужно продолжать практиковаться с ней в поцелуях и передавать полученные знания Лизе... И учить её этому лучше, когда она больше всего расслаблена и находится в нашей с ней комнате. Только вот её ещё нужно убедить..."
-    new "Ну всё, можно сказать, что азы я освоил и это было очень горячо! Целуясь с тётей Кирой, я прикасался много к чему очень возбуждающему и прекрасному... Теперь нужно продолжать практиковаться с ней в поцелуях и передавать полученные знания Лизе... И учить её этому лучше, когда она больше всего расслаблена и находится в нашей с ней комнате. Только вот её ещё нужно убедить..."
+    new "Ecco, si può dire che avevo imparato le basi ed era molto caldo! Baciando con la zia Kira, ho toccato un sacco di cose che erano molto eccitanti e belle... Ora devo continuare a praticare il bacio con lei e trasmettere a Lisa quello che ho imparato... Ed è meglio insegnarle quando è più rilassata e nella nostra stanza con lei. A parte il fatto che ha ancora bisogno di essere persuasa..."
 
     # game/core/09_opportunities.rpy:4
     old "Я поговорил с Лизой насчёт её обучения. Она выдвинула ряд условий, среди которых запрет мне к ней прикасаться, если она против. Ну уже что-то."
-    new "Я поговорил с Лизой насчёт её обучения. Она выдвинула ряд условий, среди которых запрет мне к ней прикасаться, если она против. Ну уже что-то."
+    new "Ho parlato con Lisa per insegnarle. Ha posto una serie di condizioni, tra cui il divieto di toccarla se lei è contraria. Beh, è già qualcosa."
 
     # game/core/09_opportunities.rpy:4
     old "Похоже обучаться Лиза согласна только если у неё хорошее настроение..."
-    new "Похоже обучаться Лиза согласна только если у неё хорошее настроение..."
+    new "Lisa sembra disposta a imparare solo se è di buon umore..."
 
     # game/core/09_opportunities.rpy:4
     old "Мне удалось впечатлить Лизу своим искусством целоваться! Хотя, пока на искусство это не тянет, но ей понравилось! Всё-таки, тётя Кира отличный учитель. Но нужно продолжать практиковаться."
-    new "Мне удалось впечатлить Лизу своим искусством целоваться! Хотя, пока на искусство это не тянет, но ей понравилось! Всё-таки, тётя Кира отличный учитель. Но нужно продолжать практиковаться."
+    new "Sono riuscito a impressionare Lisa con le mie capacità di bacio! Non è ancora una vera e propria arte, ma le è piaciuto molto! Dopo tutto, zia Kira è una grande insegnante. Ma dobbiamo continuare ad allenarci."
 
     # game/core/09_opportunities.rpy:4
     old "Лиза намекнула, что не против двигаться дальше и я решил увлечь её поцелуями настолько, чтобы ей нравились при этом и мои прикосновения. А для этого нужно больше целоваться с тётей Кирой по ночам..."
-    new "Лиза намекнула, что не против двигаться дальше и я решил увлечь её поцелуями настолько, чтобы ей нравились при этом и мои прикосновения. А для этого нужно больше целоваться с тётей Кирой по ночам..."
+    new "Lisa ha lasciato intendere che non le dispiaceva andare avanti e ho deciso di invogliarla a baciare così tanto che anche lei avrebbe goduto del mio tocco. E per farlo ho bisogno di baciare di più la zia Kira di notte..."
 
     # game/core/09_opportunities.rpy:4
     old "Лизе очень нравится как я целуюсь. Она даже намекнула, что пора бы научить её ещё чему-то полезному. На этот раз, как мне кажется, стоит подтянуть теорию. Может быть, купить ей какую-то книжку по анатомии, чтобы она разобралась в физиологии и поняла, какие естественные процессы могут происходить между мужчинами и женщинами?"
-    new "Лизе очень нравится как я целуюсь. Она даже намекнула, что пора бы научить её ещё чему-то полезному. На этот раз, как мне кажется, стоит подтянуть теорию. Может быть, купить ей какую-то книжку по анатомии, чтобы она разобралась в физиологии и поняла, какие естественные процессы могут происходить между мужчинами и женщинами?"
+    new "A Lisa piace molto il modo in cui bacio. Ha anche accennato al fatto che è ora che le insegni qualcos'altro di utile. Questa volta, credo che valga la pena di tirare fuori la teoria. Magari procuratele qualche libro di anatomia in modo che capisca la fisiologia e quali processi naturali possono avvenire tra uomini e donne?"
 
     # game/core/09_opportunities.rpy:4
     old "Я решил, что и мне самому будет полезно прочитать купленную для Лизы книгу. Вдруг, тем самым, я что-то для себя интересное открою..."
-    new "Я решил, что и мне самому будет полезно прочитать купленную для Лизы книгу. Вдруг, тем самым, я что-то для себя интересное открою..."
+    new "Ho pensato che mi sarebbe stato utile leggere il libro che avevo comprato per Lisa. Ho pensato che mi sarebbe stato utile leggere il libro che avevo comprato per Lisa..."
 
     # game/core/09_opportunities.rpy:4
     old "Книга прочитана! Не то, чтобы много всего нового я для себя открыл, но есть то, что может помочь нам с Лизой ещё больше сблизиться. А пока можно ей книжку подарить..."
-    new "Книга прочитана! Не то, чтобы много всего нового я для себя открыл, но есть то, что может помочь нам с Лизой ещё больше сблизиться. А пока можно ей книжку подарить..."
+    new "Il libro è stato letto! Non che abbia scoperto molto di nuovo, ma ci sono cose che potrebbero aiutare me e Lisa ad avvicinarci ancora di più. Nel frattempo, posso regalarle il libro..."
 
     # game/core/09_opportunities.rpy:4
     old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Нужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
-    new "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Нужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
+    new "Ho dato a Lisa un libro che ha molte risposte alle sue domande. Dovrò chiederle tra un po' cosa pensa del libro..."
 
     # game/core/09_opportunities.rpy:4
     old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
-    new "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
+    new "Ho dato a Lisa un libro che ha molte risposte alle sue domande. Sarebbe bene che lo leggessi io stesso, ma sono pigro.\n\n\nDovrò chiederle tra un po' cosa pensa del libro..."
 
     # game/core/09_opportunities.rpy:4
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом и кое-каким бонусом, с которым мне нужно будет определиться со временем, я согласился его поддержать. Мы же с ним как-никак \"друзья\"."
-    new "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом и кое-каким бонусом, с которым мне нужно будет определиться со временем, я согласился его поддержать. Мы же с ним как-никак \"друзья\"."
+    new "Appena ho dato a Lisa un libro sull'educazione sessuale, è arrivato Eric. Lui, vedete, con mia madre, si occuperà della sua educazione sessuale! \n\nIn cambio della possibilità di sbirciare questo processo e di qualche bonus che avrei dovuto decidere a tempo debito, ho accettato di sostenerlo. Voglio dire, siamo \"amici\", dopo tutto."
 
     # game/core/09_opportunities.rpy:4
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
-    new "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
+    new "Proprio quando ho dato a Lisa un libro sull'educazione sessuale, è arrivato Eric. Lui, insieme a mia madre, si occuperà della sua educazione sessuale! \n\nIn cambio della possibilità di spiare il processo, ho accettato di sostenerlo. Non c'è motivo di inimicarsi Eric."
 
     # game/core/09_opportunities.rpy:4
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nНе смотря на то, что мы с ним \"дружим\", я постарался убедить его, что Лизе ещё рановато это познавать... Это не особо помогло, но Эрик дал мне пару недель на \"чтение книг по теме сексуального образования\" с Лизой. По крайней мере, я выиграл немного времени, которое стоит использовать с умом..."
-    new "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nНе смотря на то, что мы с ним \"дружим\", я постарался убедить его, что Лизе ещё рановато это познавать... Это не особо помогло, но Эрик дал мне пару недель на \"чтение книг по теме сексуального образования\" с Лизой. По крайней мере, я выиграл немного времени, которое стоит использовать с умом..."
+    new "Proprio quando ho dato a Lisa un libro sull'educazione sessuale, è arrivato Eric. Vedete, lui e mia madre si occuperanno della sua educazione sessuale! \n\nNonostante il fatto che siamo \"amici\", ho cercato di convincerlo che è un po' presto per Lisa per imparare... Non ha aiutato molto, ma Eric mi ha dato un paio di settimane per \"leggere libri di educazione sessuale\" con Lisa. Almeno mi sono guadagnato un po' di tempo da usare saggiamente..."
 
     # game/core/09_opportunities.rpy:4
     old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nЯ, естественно, отказался ему в этом содействовать. Враждовать, так враждовать! Вряд ли теперь у меня есть много времени, чтобы избавиться от него, так что нужно скорее искать такой способ..."
-    new "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nЯ, естественно, отказался ему в этом содействовать. Враждовать, так враждовать! Вряд ли теперь у меня есть много времени, чтобы избавиться от него, так что нужно скорее искать такой способ..."
+    new "Avevo appena dato a Lisa un libro sull'educazione sessuale quando è arrivato Eric. Lui, insieme a mia madre, si occuperà della sua educazione sessuale! \n\nNaturalmente, mi sono rifiutato di collaborare. Una faida è una faida! Non credo di avere molto tempo per liberarmi di lui ora, quindi è meglio che trovi un modo..."
 
     # game/core/09_opportunities.rpy:4
     old "Как выяснилось, Эрик проплатил репетитора для Лизы по воскресеньям, чтобы улучшить её оценки, а в действительности, чтобы втереться к ней в доверие. Теперь он и моя мама будут по понедельникам проводить для Лизы уроки сексуального воспитания..."
-    new "Как выяснилось, Эрик проплатил репетитора для Лизы по воскресеньям, чтобы улучшить её оценки, а в действительности, чтобы втереться к ней в доверие. Теперь он и моя мама будут по понедельникам проводить для Лизы уроки сексуального воспитания..."
+    new "Come si è scoperto, Eric aveva pagato un tutor per Lisa la domenica per migliorare i suoi voti, ma in realtà per guadagnare la sua fiducia. Ora lui e mia madre daranno lezioni di educazione sessuale a Lisa il lunedì..."
 
     # game/core/09_opportunities.rpy:4
     old "Как выяснилось, Эрик проплатил дополнительные курсы для Лизы в школе, чтобы улучшить её оценки, а в действительности, чтобы втереться к ней в доверие. А заодно и от меня отстранить, ведь теперь моя помощь с уроками ей особо и не нужна. И ещё он и моя мама будут по понедельникам проводить для Лизы уроки сексуального воспитания..."
-    new "Как выяснилось, Эрик проплатил дополнительные курсы для Лизы в школе, чтобы улучшить её оценки, а в действительности, чтобы втереться к ней в доверие. А заодно и от меня отстранить, ведь теперь моя помощь с уроками ей особо и не нужна. И ещё он и моя мама будут по понедельникам проводить для Лизы уроки сексуального воспитания..."
+    new "Come si è scoperto, Eric aveva pagato dei corsi extra per Lisa a scuola per migliorare i suoi voti, ma in realtà per guadagnare la sua fiducia. E anche per togliermela di torno, visto che non aveva più bisogno del mio aiuto per le sue lezioni. E lui e mia madre davano lezioni di educazione sessuale a Lisa il lunedì..."
 
     # game/core/09_opportunities.rpy:4
     old "Одноклассник"
-    new "Одноклассник"
+    new "Compagno di classe"
 
     # game/core/09_opportunities.rpy:4
     old "Очевидно, Лиза по уши влюблена в какого-то своего одноклассника по имени Алекс. Как она рассказала, у него есть подруга Оливия, самая красивая девочка в школе. Лиза ждёт от меня помощи в виде совета - как ей быть дальше.\n\nВ голову приходит сразу три варианта: предложить ей забыть об этом парне, предложить ей сражаться с Оливией за Алекса до конца или же помочь переключить внимание Оливии на кого-то другого..."
-    new "Очевидно, Лиза по уши влюблена в какого-то своего одноклассника по имени Алекс. Как она рассказала, у него есть подруга Оливия, самая красивая девочка в школе. Лиза ждёт от меня помощи в виде совета - как ей быть дальше.\n\nВ голову приходит сразу три варианта: предложить ей забыть об этом парне, предложить ей сражаться с Оливией за Алекса до конца или же помочь переключить внимание Оливии на кого-то другого..."
+    new "A quanto pare, Lisa è innamorata pazza di un suo compagno di classe di nome Alex. Come mi dice, ha un'amica di nome Olivia, la ragazza più carina della scuola. Come mi dice, ha un'amica di nome Olivia, la ragazza più carina della scuola.\n\nTre opzioni mi vengono in mente subito: suggerirle di dimenticare questo ragazzo, suggerirle di combattere Olivia per Alex fino alla fine, o aiutarla a spostare l'attenzione di Olivia su qualcun altro..."
 
     # game/core/09_opportunities.rpy:4
     old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение..."
-    new "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение..."
+    new "Sì, e sembra che Lisa parli di suo figlio solo quando è di buon umore..."
 
     # game/core/09_opportunities.rpy:4
     old "Хорошенько подумав, какой совет дать Лизе относительно Алекса, я решил поступить хитро и предложил ей подружиться с Оливией. Таким образом Лиза сможет узнать от неё, действительно ли Алекс так хорош, как ей кажется. Наверняка ведь, он не слишком идеален... А может и ещё хуже... Не знаю, сколько времени понадобиться, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
-    new "Хорошенько подумав, какой совет дать Лизе относительно Алекса, я решил поступить хитро и предложил ей подружиться с Оливией. Таким образом Лиза сможет узнать от неё, действительно ли Алекс так хорош, как ей кажется. Наверняка ведь, он не слишком идеален... А может и ещё хуже... Не знаю, сколько времени понадобиться, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
+    new "Dopo aver pensato bene a quale consiglio dare a Lisa riguardo ad Alex, ho deciso di essere scaltra e suggerirle di diventare amica di Olivia. In questo modo Lisa poteva scoprire da lei se Alex era davvero così bravo come lei pensava. Sono sicuro che non è perfetto... Forse anche peggio... Non so quanto tempo ci vorrà perché Lisa riesca a fare amicizia con Olivia in modo discreto. Forse dovrei interessarmi ai suoi progressi di tanto in tanto..."
 
     # game/core/09_opportunities.rpy:4
     old "Лиза пытается понять, как ей подружиться с Оливией, девушкой Алекса. Для этого Лиза попытается подружиться с кем-то, кому ещё нравится Оливия, чтобы выпытать у него побольше информации об этой девушке..."
-    new "Лиза пытается понять, как ей подружиться с Оливией, девушкой Алекса. Для этого Лиза попытается подружиться с кем-то, кому ещё нравится Оливия, чтобы выпытать у него побольше информации об этой девушке..."
+    new "Lisa sta cercando di capire come fare amicizia con Olivia, la ragazza di Alex. Per fare questo, Lisa cercherà di fare amicizia con qualcun altro a cui piace Olivia per ottenere più informazioni sulla ragazza..."
 
     # game/core/09_opportunities.rpy:4
     old "Лизе удалось выяснить одну любопытную особенность Оливии: она не носит нижнее бельё! Конечно, это не очень много, но это может оказаться хорошей темой для обсуждения... Глядишь и разболтаются, а там и до дружбы недалеко..."
-    new "Лизе удалось выяснить одну любопытную особенность Оливии: она не носит нижнее бельё! Конечно, это не очень много, но это может оказаться хорошей темой для обсуждения... Глядишь и разболтаются, а там и до дружбы недалеко..."
+    new "Lisa è riuscita a scoprire una cosa curiosa su Olivia: non indossa biancheria intima! Certo, non è molto, ma potrebbe essere un buon argomento di discussione... Potreste conoscervi, e poi si passa all'amicizia..."
 
     # game/core/09_opportunities.rpy:4
     old "Наконец-то что-то начало получаться! Лизе удалось выяснить, что Оливия не носит трусы, потому что она из семьи каких-то нудистов или натуристов, не важно. И ещё она обожает бассейны, но у них дома он почему-то не работает. Теперь дело за малым... Чтобы Лиза позвала Оливию к нам в гости, где они будут загорать и купаться. Ну и, конечно, общаться вне школы, что, как я думаю, их сблизит..."
-    new "Наконец-то что-то начало получаться! Лизе удалось выяснить, что Оливия не носит трусы, потому что она из семьи каких-то нудистов или натуристов, не важно. И ещё она обожает бассейны, но у них дома он почему-то не работает. Теперь дело за малым... Чтобы Лиза позвала Оливию к нам в гости, где они будут загорать и купаться. Ну и, конечно, общаться вне школы, что, как я думаю, их сблизит..."
+    new "Finalmente qualcosa comincia a funzionare! Lisa è riuscita a scoprire che Olivia non indossa le mutandine perché viene da una famiglia nudista o naturista che sia. E ama anche le piscine, ma per qualche motivo non funziona a casa loro. Ora è solo una questione di tempo... Che Lisa inviti Olivia a casa nostra, dove possono prendere il sole e nuotare. E, naturalmente, per socializzare al di fuori della scuola, cosa che penso li avvicinerà di più..."
 
     # game/core/09_opportunities.rpy:4
     old "Я познакомился с Оливией! Да, реальность даже немного превзошла все мои ожидания! Оливия абсолютно не стесняется своей наготы... На что я соответствующе отреагировал. Ну ничего, главное, что я произвел впечатление..."
-    new "Я познакомился с Оливией! Да, реальность даже немного превзошла все мои ожидания! Оливия абсолютно не стесняется своей наготы... На что я соответствующе отреагировал. Ну ничего, главное, что я произвел впечатление..."
+    new "Ho incontrato Olivia! Sì, la realtà ha persino superato leggermente le mie aspettative! Olivia non si vergogna affatto della sua nudità... Al che ho reagito di conseguenza. Beh, va bene così, purché abbia fatto una buona impressione..."
 
     # game/core/09_opportunities.rpy:4
     old "Мне удалось немного поболтать с Оливией. Она оказалась не такой глупой, как я думал. Она весёлая, жизнерадостная, острая на язычок... Ох, попробовать бы его... Но я отвлёкся от дела. Как я понял, их отношения с Алексом не идеальны. Вопрос только в том, кто в этом больше виноват, она или он? Думаю, со временем нам с Лизой удастся узнать больше о них. А пока, я могу, как минимум раз в неделю, совершенно без последствий наблюдать голую грудь Оливии у нас во дворе!"
-    new "Мне удалось немного поболтать с Оливией. Она оказалась не такой глупой, как я думал. Она весёлая, жизнерадостная, острая на язычок... Ох, попробовать бы его... Но я отвлёкся от дела. Как я понял, их отношения с Алексом не идеальны. Вопрос только в том, кто в этом больше виноват, она или он? Думаю, со временем нам с Лизой удастся узнать больше о них. А пока, я могу, как минимум раз в неделю, совершенно без последствий наблюдать голую грудь Оливии у нас во дворе!"
+    new "Sono riuscito a fare una piccola chiacchierata con Olivia. Si è rivelata non così stupida come pensavo. E' divertente, allegra, dalla lingua tagliente... Oh, mi piacerebbe provarlo... Ma ero distratto. Da quello che ho capito, la sua relazione con Alex non è perfetta. L'unica domanda è chi ha più colpa, lei o lui? Penso che, col tempo, Lisa ed io saremo in grado di imparare di più su di loro. Nel frattempo, posso, almeno una volta alla settimana, guardare i seni nudi di Olivia nel nostro giardino davanti a casa nostra, completamente indifferente!"
 
     # game/core/09_opportunities.rpy:4
     old "Мы с Оливией немного пошептались о Лизе. Пускай, это не очень красиво, но мы пришли к выводу, что нужно поработать над сексуальным раскрепощением моей младшей сестрёнки. Хотя бы немного... И компания Оливии идеально для этого подходит! Она девочка без комплексов, очень открытая во всех смыслах. А как говорится, с кем поведёшься, от того и наберёшься!"
-    new "Мы с Оливией немного пошептались о Лизе. Пускай, это не очень красиво, но мы пришли к выводу, что нужно поработать над сексуальным раскрепощением моей младшей сестрёнки. Хотя бы немного... И компания Оливии идеально для этого подходит! Она девочка без комплексов, очень открытая во всех смыслах. А как говорится, с кем поведёшься, от того и наберёшься!"
+    new "Olivia ed io abbiamo fatto una piccola chiacchierata su Lisa. Anche se non è molto bello, siamo giunti alla conclusione che dobbiamo lavorare sulla liberazione sessuale della mia sorellina. Almeno un po'... E la compagnia di Olivia è perfetta per questo! È una ragazza disinibita, molto aperta in tutti i sensi. E come si dice, si ottiene ciò che si ottiene da chi si ottiene!"
 
     # game/core/09_opportunities.rpy:4
     old "Оливия узнала, что по вечерам пятницы наш дом пустеет и мы с Лизой остаёмся одни на какое-то время... Отличное время, чтобы втроём полодырничать у нашего большого экрана в гостиной! И самое классное, что я понятия не имею, во что это выльется! Но в чём я уверен точно, так это в том, что будет интересно..."
-    new "Оливия узнала, что по вечерам пятницы наш дом пустеет и мы с Лизой остаёмся одни на какое-то время... Отличное время, чтобы втроём полодырничать у нашего большого экрана в гостиной! И самое классное, что я понятия не имею, во что это выльется! Но в чём я уверен точно, так это в том, что будет интересно..."
+    new "Olivia ha scoperto che il venerdì sera la nostra casa è vuota e io e Lisa siamo soli per un po'... Un grande momento per noi tre di fare a metà con il nostro grande schermo in salotto! E la parte migliore è che non ho idea di cosa sarà! Ma quello che so è che sarà interessante..."
 
     # game/core/09_opportunities.rpy:4
     old "Оливия пришла в полночь, как и обещала. Хоть я и догадывался, в каком виде намечаются наши ночные посиделки, но всё равно сомневался, действительно ли мне так повезёт... И Оливия меня не разочаровала! Она сразу же распрощалась с одеждой..."
-    new "Оливия пришла в полночь, как и обещала. Хоть я и догадывался, в каком виде намечаются наши ночные посиделки, но всё равно сомневался, действительно ли мне так повезёт... И Оливия меня не разочаровала! Она сразу же распрощалась с одеждой..."
+    new "Olivia è arrivata a mezzanotte, come promesso. Anche se avevo indovinato il tipo di serata che avremmo passato, mi chiedevo ancora se sarei stato davvero così fortunato... E Olivia non mi ha deluso! Ha subito detto addio ai suoi vestiti..."
 
     # game/core/09_opportunities.rpy:4
     old "Только вот все остальные мои надежды разбились о нежелание Лизы находится на одном диване с моим стояком! Невероятно обидно... У меня на диване среди ночи сидят такие классные девчонки и я хочу с ними! Похоже, нужно что-то делать, чтобы для Лизы мой возбуждённый вид стал чем-то довольно обыденным и естественным. Пока она меня стесняется, на диван к ним мне не попасть..."
-    new "Только вот все остальные мои надежды разбились о нежелание Лизы находится на одном диване с моим стояком! Невероятно обидно... У меня на диване среди ночи сидят такие классные девчонки и я хочу с ними! Похоже, нужно что-то делать, чтобы для Лизы мой возбуждённый вид стал чем-то довольно обыденным и естественным. Пока она меня стесняется, на диван к ним мне не попасть..."
+    new "Se non fosse che tutte le altre mie speranze sono state deluse dalla riluttanza di Lisa a stare sullo stesso divano della mia erezione! Incredibilmente frustrante... Ho delle ragazze fantastiche sedute sul mio divano nel mezzo della notte e voglio stare con loro! Sembra che si debba fare qualcosa per far sembrare il mio arrapamento abbastanza ordinario e naturale per Lisa. Finché è timida, non posso salire sul divano con loro..."
 
     # game/core/09_opportunities.rpy:4
     old "Ухх... Как же классно оказаться с такими прекрасными девчонками на одном диване! Оливия совершенно голая... Я совершенно голый... Только одна Лиза ещё стесняется... Но думаю, со временем, если такие посиделки станут традицией, она привыкнет и более того, сама начнёт раздеваться! Мечтать не вредно. Главное, не давить на неё, пусть привыкает... Не исключено, что втайне, ей очень нравится всё, что происходит!"
-    new "Ухх... Как же классно оказаться с такими прекрасными девчонками на одном диване! Оливия совершенно голая... Я совершенно голый... Только одна Лиза ещё стесняется... Но думаю, со временем, если такие посиделки станут традицией, она привыкнет и более того, сама начнёт раздеваться! Мечтать не вредно. Главное, не давить на неё, пусть привыкает... Не исключено, что втайне, ей очень нравится всё, что происходит!"
+    new "Ugh... Che bello stare con ragazze così belle sullo stesso divano! Olivia è completamente nuda... Sono completamente nudo... Lisa è l'unica che è ancora timida... Ma penso che con il tempo, se questo tipo di incontro diventa una tradizione, si abituerà e inoltre, comincerà a spogliarsi da sola! Non c'è niente di male nel sognare. La cosa principale è non farle pressione, lasciarla abituare... È possibile che segretamente le piaccia davvero tutto quello che succede!"
 
     # game/core/09_opportunities.rpy:4
     old "Оливия рассказала мне о кое-каких своих опасениях... После того, как Алекс узнал от неё, какой у нас классный и дорогой дом, он быстренько переобулся и начал проявлять к Лизе большой интерес. Похоже, это Алекс тот ещё альфонс... Теперь главное, ненавязчиво донести этот факт до Лизы! Думаю, она рано или поздно обратиться ко мне за советом... И даже не раз..."
-    new "Оливия рассказала мне о кое-каких своих опасениях... После того, как Алекс узнал от неё, какой у нас классный и дорогой дом, он быстренько переобулся и начал проявлять к Лизе большой интерес. Похоже, это Алекс тот ещё альфонс... Теперь главное, ненавязчиво донести этот факт до Лизы! Думаю, она рано или поздно обратиться ко мне за советом... И даже не раз..."
+    new "Olivia mi ha parlato di alcune delle sue preoccupazioni... Dopo che Alex ha scoperto da lei che casa fantastica e costosa abbiamo, ha cambiato rapidamente le sue scarpe e ha iniziato a mostrare molto interesse per Lisa. Sembra che Alex sia il maschio alfa... Ora l'importante è rendere Lisa consapevole di questo fatto in modo discreto! Penso che prima o poi verrà da me per un consiglio... Più di una volta..."
 
     # game/core/09_opportunities.rpy:4
     old "Вот всё и разрешилось с этим Алексом! Оливия его бросила, а Лиза в нём разочаровалась. Хотя, если бы не мои подсказки, Лиза бы точно наделала глупостей и тот первый ночной визит Оливии мог стать последним... Но одну глупость Лиза всё же сделала на радостях - сняла свою маечку прямо на мох глазах! Это очень приятная глупость! Правда, она намекнула, что это может остаться единичным случаем, поэтому лучше делать всё, чтобы моя сестрёнка чувствовала на себе мою заботу..."
-    new "Вот всё и разрешилось с этим Алексом! Оливия его бросила, а Лиза в нём разочаровалась. Хотя, если бы не мои подсказки, Лиза бы точно наделала глупостей и тот первый ночной визит Оливии мог стать последним... Но одну глупость Лиза всё же сделала на радостях - сняла свою маечку прямо на мох глазах! Это очень приятная глупость! Правда, она намекнула, что это может остаться единичным случаем, поэтому лучше делать всё, чтобы моя сестрёнка чувствовала на себе мою заботу..."
+    new "Alla faccia di quella cosa di Alex! Olivia lo ha scaricato e Lisa era delusa da lui. Anche se, se non fosse stato per i miei suggerimenti, Lisa avrebbe sicuramente fatto qualcosa di stupido e quella prima visita notturna di Olivia avrebbe potuto essere la sua ultima... Ma una cosa stupida che Lisa ha fatto per divertirsi - si è tolta il top proprio davanti ai miei occhi! Questa è una cosa molto bella e sciocca! Tuttavia, ha lasciato intendere che questo potrebbe rimanere un incidente isolato, quindi è meglio che mi assicuri che mia sorella senta la mia preoccupazione..."
 
     # game/core/09_opportunities.rpy:4
     old "Теперь две эти симпатичные попки в моём распоряжении... Аж глаза разбегаются... Хоть Оливия и не особо привязывалась к Алексу, но расставание есть расставание и ей явно нужно время, чтобы оправиться. Как знать, может у нас с ней что-нибудь получится?! Ну а чтобы Лиза чаще сверкала своими голыми сисечками, нужно проявить побольше заботы... Главное постоянно и в разумных пределах! А позаботиться можно и о защите её от маминых наказаний, и о помощи с домашним заданием. А так же уделять внимание и её рукам, помогая с мытьём посуды и делая массаж."
-    new "Теперь две эти симпатичные попки в моём распоряжении... Аж глаза разбегаются... Хоть Оливия и не особо привязывалась к Алексу, но расставание есть расставание и ей явно нужно время, чтобы оправиться. Как знать, может у нас с ней что-нибудь получится?! Ну а чтобы Лиза чаще сверкала своими голыми сисечками, нужно проявить побольше заботы... Главное постоянно и в разумных пределах! А позаботиться можно и о защите её от маминых наказаний, и о помощи с домашним заданием. А так же уделять внимание и её рукам, помогая с мытьём посуды и делая массаж."
+    new "Ora ho questi due bei culetti a mia disposizione... Non posso fare a meno di chiedermi... Anche se Olivia non era particolarmente attaccata ad Alex, ma una rottura è una rottura e lei ovviamente ha bisogno di tempo per recuperare. Chissà, forse con lei funzionerà?! Beh, per far sì che Lisa mostri più spesso le sue tette nude, devi mostrare un po' più di attenzione... Sempre e nei limiti del ragionevole! E ci si può preoccupare di proteggerla dalle punizioni della madre e di aiutarla con i compiti. Puoi anche prestare attenzione alle sue mani aiutandola a lavare i piatti e a massaggiarle."
 
     # game/core/09_opportunities.rpy:4
     old "Школьница"
-    new "Школьница"
+    new "Studentessa"
 
     # game/core/09_opportunities.rpy:4
     old "Итак, в новой школе Лиза оказалась не такой отличницей, как раньше. Видимо, в новой школе уровень знаний требуется намного более высокий. Ну что же, это хорошая возможность проявить свои школьные знания и помочь младшей сестрёнке разобраться в материале... Или же наоборот, помешать получить хорошую оценку и понаблюдать, как мама её накажет? А может быть, попросить у неё что-то за помощь? Но сначала надо поговорить с Лизой и спросить, что она обо всём этом думает?"
-    new "Итак, в новой школе Лиза оказалась не такой отличницей, как раньше. Видимо, в новой школе уровень знаний требуется намного более высокий. Ну что же, это хорошая возможность проявить свои школьные знания и помочь младшей сестрёнке разобраться в материале... Или же наоборот, помешать получить хорошую оценку и понаблюдать, как мама её накажет? А может быть, попросить у неё что-то за помощь? Но сначала надо поговорить с Лизой и спросить, что она обо всём этом думает?"
+    new "Quindi, nella nuova scuola Lisa non è così brava come prima. A quanto pare, la nuova scuola richiede un livello di conoscenza molto più alto. Bene, questa è una buona occasione per mostrare le tue conoscenze scolastiche e aiutare la tua sorellina a capire il materiale... O, in alternativa, impedirle di prendere un buon voto e guardare sua madre che la punisce? O forse chiederle qualcosa per il suo aiuto? Ma prima dobbiamo parlare con Lisa e chiederle cosa pensa di tutto questo?"
 
     # game/core/09_opportunities.rpy:4
     old "Я поговорил с Лизой насчёт уроков и намекнул, что моя помощь будет стоить... некоторых услуг. Конечно, она отказалась. Но это пока. До первого наказания. Как только её отшлёпают у меня на глазах, всё изменится! Но для этого надо сделать так, чтобы она снова получила двойку..."
-    new "Я поговорил с Лизой насчёт уроков и намекнул, что моя помощь будет стоить... некоторых услуг. Конечно, она отказалась. Но это пока. До первого наказания. Как только её отшлёпают у меня на глазах, всё изменится! Но для этого надо сделать так, чтобы она снова получила двойку..."
+    new "Ho parlato con Lisa delle lezioni e le ho accennato che il mio aiuto sarebbe costato... alcuni favori. Naturalmente, ha rifiutato. Ma questo è per ora. Fino alla prima punizione. Quando sarà sculacciata davanti a me, tutto cambierà! Ma per farlo, devo assicurarmi che prenda di nuovo una F..."
 
     # game/core/09_opportunities.rpy:4
     old "Я поговорил с Лизой и пообещал ей, что помогу с уроками. Причём, абсолютно безвозмездно. То есть - даром. Конечно, это не очень свойственно для меня, но зато есть все шансы наладить отношения с сестрёнкой и завоевать её доверие..."
-    new "Я поговорил с Лизой и пообещал ей, что помогу с уроками. Причём, абсолютно безвозмездно. То есть - даром. Конечно, это не очень свойственно для меня, но зато есть все шансы наладить отношения с сестрёнкой и завоевать её доверие..."
+    new "Ho parlato con Lisa e le ho promesso che l'avrei aiutata con le sue lezioni. E assolutamente gratuito. То есть - даром. Certo, non è molto tipico di me, ma ci sono tutte le possibilità che io possa costruire un rapporto con mia sorella e guadagnare la sua fiducia..."
 
     # game/core/09_opportunities.rpy:4
     old "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\nТеперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"
-    new "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\nТеперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"
+    new "Credo di aver convinto Lisa a obbedirmi sotto pena di punizione. Ora dorme solo con una maglietta e biancheria intima. Va bene, ho appena iniziato.\n\nOra posso far finta di aiutarla con i compiti, modificare i suoi calcoli per farle prendere una D e guardarla mentre viene punita di nuovo... Chi lo sa, forse posso farle fare di più?"
 
     # game/core/09_opportunities.rpy:4
     old "Хоть я и пообещал помогать Лизе с уроками, но делать этого я не стал. И без того было много дел. После очередной двойки и наказания от мамы, она подошла ко мне и упрашивала о помощи. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "Хоть я и пообещал помогать Лизе с уроками, но делать этого я не стал. И без того было много дел. После очередной двойки и наказания от мамы, она подошла ко мне и упрашивала о помощи. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
+    new "Anche se avevo promesso di aiutare Lisa con le sue lezioni, non l'ho fatto. C'erano già troppe cose da fare. Dopo un altro D e una punizione di sua madre, è venuta da me e mi ha implorato di aiutarla. Ho accettato, ma a condizione che dormisse solo in maglietta e mutandine. E credo di riuscire a farle fare qualcos'altro..."
 
     # game/core/09_opportunities.rpy:4
     old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает..."
-    new "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает..."
+    new "È vero che Lisa è un po' arrabbiata con me, ma posso conviverci. Le darò qualcosa di buono da mangiare e si calmerà..."
 
     # game/core/09_opportunities.rpy:4
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я перестал уделять ей внимание с этим. И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я перестал уделять ей внимание с этим. И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
+    new "Ho aiutato Lisa con le sue lezioni per un po', senza costi per lei, ma è diventato piuttosto noioso e ho smesso di prestarle attenzione con quello. Così, dopo un'altra 'F' e una punizione di sua madre, si è rivolta a me per chiedere aiuto. Ho accettato, ma a condizione che dormisse solo in maglietta e mutandine. E penso che potrei riuscire a farle fare qualcos'altro..."
 
     # game/core/09_opportunities.rpy:4
     old "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
@@ -600,15 +600,15 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
-    new "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
+    new "Con la scusa di aiutare con le lezioni di Lisa, ho deliberatamente fatto degli errori in modo che lei prendesse delle F e venisse punita... Cosa di cui lei ora sospetta. Non sorprende che Lisa si sia offesa molto con me, ma allo stesso tempo non ha rifiutato il mio aiuto..."
 
     # game/core/09_opportunities.rpy:4
     old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает."
-    new "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает."
+    new "Dubito di poterla incastrare ora, ha troppa diffidenza nei miei confronti."
 
     # game/core/09_opportunities.rpy:4
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
+    new "Ho aiutato Lisa con le sue lezioni per un po', gratuitamente, ma è diventato abbastanza noioso e ho deliberatamente iniziato a fare errori in modo che lei prendesse F e punizioni... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
 
     # game/core/09_opportunities.rpy:4
     old "Арахнофобия"
