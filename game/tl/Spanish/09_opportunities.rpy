@@ -860,17 +860,17 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:258
     old "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
-    new "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
+    "Tal vez deberías preguntarte qué vive mi hermana pequeña cuando no está sentada en su habitación..."
 
     # game/core/09_opportunities.rpy:258
     old "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
-    new "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
+    "Tal vez deberías preguntarte qué vive mi hermana pequeña cuando no está sentada en su habitación..."
 
     # game/core/09_opportunities.rpy:258
     old "Всему своё время..."
-    new "Всему своё время..."
+    nuevo "Todo tiene su tiempo..."
 
     # game/core/09_opportunities.rpy:258
     old "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
-    new "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
+    new "Может быть у Алисы есть какие-нибудь секретные увлечения? Si es así, obviamente lo hará cuando la gente esté menos en casa..."
 
