@@ -10,18 +10,18 @@ translate crowdin AnnTalkStart_452e8666:
 translate crowdin Ann_badbadmood_321edff9:
 
     # Ann_18 "Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать!" nointeract
-    Ann_18 "Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать!" nointeract
+    Ann_18 "Max, sono di pessimo umore in questo momento e non voglio parlarti!"
 
 # game/dialogues/anntalk.rpy:52
 translate crowdin Ann_badmood_46817e38:
 
     # Ann_18 "Макс, я сейчас не в настроении и не хочу разговаривать." nointeract
-    Ann_18 "Макс, я сейчас не в настроении и не хочу разговаривать." nointeract
+    Ann_18 "Max, non sono dell'umore giusto in questo momento e non voglio parlare. "
 
 # game/dialogues/anntalk.rpy:61
 translate crowdin Ann_asksorry_634d3dbe:
 
-    # Ann_01 "Да? Я тебя слушаю?" nointeract
+    # Ann_01 "Да? Ti sto ascoltando?
     Ann_01 "Да? Я тебя слушаю?" nointeract
 
 # game/dialogues/anntalk.rpy:68
