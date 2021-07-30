@@ -68,7 +68,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "БЫТЬ КУКЛОЙ"
-    new "БЫТЬ КУКЛОЙ"
+    ESSERE UNA BAMBOLA
 
     # game/core/06_items.rpy:2
     old "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
@@ -240,7 +240,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
-    new "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
+    CORPETTI SPORTIVI E MINI PANTALONCINI
 
     # game/core/06_items.rpy:2
     old "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
@@ -248,7 +248,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
-    new "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
+    fILM \"COLORE DELLA NOTTE\" 1994 ANNO
 
     # game/core/06_items.rpy:2
     old "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
