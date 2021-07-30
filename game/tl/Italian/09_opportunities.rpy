@@ -328,7 +328,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\nФотосессия вышла очень интересной, спасибо за это конфетам с алкоголем. Мне удалось сделать несколько весьма горячих снимков с Алисой и они прекрасно подойдут для моей коллекции... Хоть мы с Алисой всё ещё не очень близки, но уже лучше находим общий язык. Посмотрим, что будет дальше..."
-    new "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. Uno moderatamente rivelatore, perché altrimenti rischiavo di non vederglielo addosso. E come regalo, mentre era impressionata, sono riuscito a farla posare per me... ha bisogno di foto di qualità per sviluppare il suo blog! \n\nIl servizio fotografico si è rivelato molto divertente, grazie a qualche caramella e all'alcol. Sono riuscito a fare delle foto piuttosto sexy con Alice e sono perfette per la mia collezione... Anche se io e Alice non siamo ancora molto uniti, ma stiamo migliorando nel trovare un terreno comune. Vedremo cosa succede dopo..."
+    Ho preso qualcosa di più sexy per Alice, cioè un body traslucido. Uno moderatamente rivelatore, perché altrimenti rischiavo di non vederglielo addosso. E come regalo, mentre era impressionata, sono riuscito a farla posare per me... ha bisogno di foto di qualità per sviluppare il suo blog! \n\nIl servizio fotografico si è rivelato molto divertente, grazie a qualche caramella e all'alcol. Sono riuscito a fare delle foto piuttosto sexy con Alice e sono perfette per la mia collezione... Anche se io e Alice non siamo ancora molto uniti, ma stiamo migliorando nel trovare un terreno comune. Vedremo cosa succede dopo..."
 
     # game/core/09_opportunities.rpy:4
     old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nЯ рассказал ему всё, что знал о её блоге. Ну а как иначе, мы же друзья. Теперь он собирается помочь ей с развитием блога и мне лучше этому не мешать... а ещё лучше - помогать ему с этим."
@@ -344,7 +344,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nЯ решил прекратить вражду с Эриком и рассказал ему всё, что знал о её блоге. Теперь он собирается помочь ей с развитием блога и мне лучше этому не мешать... а ещё лучше - помогать ему с этим."
-    new "Proprio quando il mio rapporto con Alice cominciava a migliorare, Eric venne da me a chiedermi cosa stesse facendo la mia sorella maggiore al computer... \n\nHo deciso di porre fine alla faida con Eric e gli ho detto tutto quello che sapevo sul suo blog. Ora la aiuterà a sviluppare il suo blog e sarà meglio che io non mi metta in mezzo... а ещё лучше - помогать ему с этим."
+    new "Proprio quando il mio rapporto con Alice cominciava a migliorare, Eric venne da me a chiedermi cosa stesse facendo la mia sorella maggiore al computer... \n\nHo deciso di porre fine alla faida con Eric e gli ho detto tutto quello che sapevo sul suo blog. Ora la aiuterà a sviluppare il suo blog e sarà meglio che io non mi metta in mezzo... o meglio ancora, aiutarlo a farlo."
 
     # game/core/09_opportunities.rpy:4
     old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nУ меня совершенно нет желания помогать ему подкатывать к моей сестрёнке, что ему и сказал. У нас ведь вражда! Главное, чтобы мне это боком не вышло..."
@@ -424,7 +424,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Кажется, я нашёл ту, которая научит меня целоваться. И это... моя тётя! Это так странно... Ну она точно в этом вопросе понимает достаточно. Да я был бы рад любому учителю, но такой - идеален! Да, тётя Кира сказала, что лучше об этом поговорить в более интимной обстановке. Например, когда она ночью смотрит телек."
-    new "Credo di aver trovato qualcuno che può insegnarmi a baciare. E questo è... è mia zia! Questo è così strano... Beh, certamente ne capisce abbastanza sull'argomento. Да я был бы рад любому учителю, но такой - идеален! Sì, la zia Kira ha detto che è meglio parlarne in un ambiente più intimo. Come quando guarda la TV la sera."
+    new "Credo di aver trovato qualcuno che può insegnarmi a baciare. E questo è... è mia zia! Questo è così strano... Beh, certamente ne capisce abbastanza sull'argomento. Sì, sarei felice con qualsiasi insegnante, ma questo è perfetto! Sì, la zia Kira ha detto che è meglio parlarne in un ambiente più intimo. Come quando guarda la TV la sera."
 
     # game/core/09_opportunities.rpy:4
     old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
@@ -576,7 +576,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Я поговорил с Лизой и пообещал ей, что помогу с уроками. Причём, абсолютно безвозмездно. То есть - даром. Конечно, это не очень свойственно для меня, но зато есть все шансы наладить отношения с сестрёнкой и завоевать её доверие..."
-    new "Ho parlato con Lisa e le ho promesso che l'avrei aiutata con le sue lezioni. E assolutamente gratuito. То есть - даром. Certo, non è molto tipico di me, ma ci sono tutte le possibilità che io possa costruire un rapporto con mia sorella e guadagnare la sua fiducia..."
+    new "Ho parlato con Lisa e le ho promesso che l'avrei aiutata con le sue lezioni. E assolutamente gratuito. Cioè, per niente. Certo, non è molto tipico di me, ma ci sono tutte le possibilità che io possa costruire un rapporto con mia sorella e guadagnare la sua fiducia..."
 
     # game/core/09_opportunities.rpy:4
     old "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\nТеперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"
@@ -596,7 +596,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
-    new "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
+    Promettendo di aiutare Lisa con lezioni sul principio di "tu me - sono te", mi sono completamente dimenticato di lei dopo un po '. E così, dopo un'altra deuce e punizione da parte di mia madre, Lisa le ricordò quello che le avevo promesso. Forse dovrei prestare più attenzione alle sue lezioni ..."
 
     # game/core/09_opportunities.rpy:4
     old "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
@@ -608,7 +608,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-    new "Ho aiutato Lisa con le sue lezioni per un po', gratuitamente, ma è diventato abbastanza noioso e ho deliberatamente iniziato a fare errori in modo che lei prendesse F e punizioni... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
+    new "Ho aiutato Lisa con le sue lezioni per un po', gratuitamente, ma è diventato abbastanza noioso e ho deliberatamente iniziato a fare errori in modo che lei prendesse F e punizioni... Così, dopo un'altra 'F' e una punizione di sua madre, si è rivolta a me per chiedere aiuto. Ho accettato, ma a condizione che dormisse solo in maglietta e mutandine. E penso che potrei riuscire a farle fare qualcos'altro..."
 
     # game/core/09_opportunities.rpy:4
     old "Арахнофобия"
@@ -616,11 +616,11 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для такого рода насекомых... Нужно будет поймать одного и подкинуть Алисе, вот забавно будет! Вот только как и где их искать?"
-    new "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для такого рода насекомых... Нужно будет поймать одного и подкинуть Алисе, вот забавно будет! Вот только как и где их искать?"
+    new "Любопытно. Sembra che Alice abbia paura a morte dei ragni. E va notato che il clima qui è molto adatto per questo tipo di insetti ... Dovrai prenderne uno e lanciare Alice, sarà divertente! Questo è proprio come e dove cercarli?
 
     # game/core/09_opportunities.rpy:4
     old "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
-    new "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
+    Ho cercato su Internet e ho scoperto che è molto facile trovare una specie di ragno nella nostra zona. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
 
     # game/core/09_opportunities.rpy:4
     old "Итак, я поймал огромного паука. Это не так сложно, если знать в какое время и где их ловить. Теперь нужно испытать этого монстра на сестрёнке. Вот только бы выбрать подходящий момент... Интересно, а она заметит паука, если будет принимать душ?"
