@@ -4,7 +4,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:18
     old "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
-    new "{color=#E59400}{i}Persuasion failed! {/i} {/color}\n"
+    new "{color=#E59400}{i}¡La persuasión fallada!{/i} {/color}\n"
 
     # game/core/02init.rpy:19
     old "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -12,35 +12,35 @@ translate crowdin strings:
 
     # game/core/02init.rpy:21
     old "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
+    new "{color=#00FF00}{i}¡Pasaste desapercibido!{/i}{/color}\n"
 
     # game/core/02init.rpy:22
     old "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
-    new "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
+    new "{color=#E59400}{i}¡Has sido notado!{/i}{/color}\n"
 
     # game/core/02init.rpy:23
     old "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
-    new "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
+    new "{color=#E59400}{i}¡Demasiado arriesgado! {/i} {/color}\n"
 
     # game/core/02init.rpy:25
     old "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
+    nuevo "{color=#00FF00}{i}Alice me encantó el masaje! {/i} {/color}\n"
 
     # game/core/02init.rpy:26
     old "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
-    new "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
+    nuevo "{color=#E59400}{i}Alice no le gustó el masaje! {/i} {/color}\n"
 
     # game/core/02init.rpy:28
     old "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
+    nuevo "{color=#E59400}{i}Alice no le gustó el masaje! {/i} {/color}\n"
 
     # game/core/02init.rpy:29
     old "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
-    new "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
+    nuevo "{color=#E59400}{i}Alice no le gustó el masaje! {/i} {/color}\n"
 
     # game/core/02init.rpy:31
     old "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
+    nuevo "{color=#E59400}{i}Alice no le gustó el masaje! {/i} {/color}\n"
 
     # game/core/02init.rpy:32
     old "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
@@ -48,19 +48,19 @@ translate crowdin strings:
 
     # game/core/02init.rpy:33
     old "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
-    new "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
+    nuevo "{color=#00FF00}{i}¡Funcionó! {/i} {/color}\n"
 
     # game/core/02init.rpy:34
     old "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
-    new "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
+    new "{color=#E59400}{i}¡No funcionó! {/i} {/color}\n"
 
     # game/core/02init.rpy:36
     old "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
-    new "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
+    new "{color=#00FF00}{i}Tratar de reprimirse{/i}{/color}\n"
 
     # game/core/02init.rpy:37
     old "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
-    new "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
+    new "{color=#E59400}{i}No me pudo contener{/i}{/color}\n"
 
     # game/core/02init.rpy:39
     old "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
