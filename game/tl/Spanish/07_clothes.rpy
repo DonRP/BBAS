@@ -4,45 +4,45 @@ translate crowdin strings:
 
     # game/core/07_clothes.rpy:86
     old "Повседневная"
-    new "Повседневная"
+    new "Casual"
 
     # game/core/07_clothes.rpy:86
     old "Для сна"
-    new "Для сна"
+    new "Para dormir"
 
     # game/core/07_clothes.rpy:86
     old "Для йоги"
-    new "Для йоги"
+    new "Para Yoga"
 
     # game/core/07_clothes.rpy:86
     old "Блог в нижнем белье"
-    new "Блог в нижнем белье"
+    new "Blog en ropa interior"
 
     # game/core/07_clothes.rpy:86
     old "Готовит завтрак"
-    new "Готовит завтрак"
+    new "Cocineros desayuno"
 
     # game/core/07_clothes.rpy:86
     old "Готовит ужин"
-    new "Готовит ужин"
+    new "Cocinar la cena"
 
     # game/core/07_clothes.rpy:86
     old "Утренний отдых"
-    new "Утренний отдых"
+    new "Descanso matutino"
 
     # game/core/07_clothes.rpy:86
     old "Вечерний отдых"
-    new "Вечерний отдых"
+    new "Descanso matutino"
 
     # game/core/07_clothes.rpy:86
     old "Купальник"
-    new "Купальник"
+    new "Traje de baño"
 
     # game/core/07_clothes.rpy:86
     old "За уроками"
-    new "За уроками"
+    new "Para lecciones"
 
     # game/core/07_clothes.rpy:160
     old "Влияние Макса недостаточно"
-    new "Влияние Макса недостаточно"
+    new "La influencia de Max no es suficiente"
 
