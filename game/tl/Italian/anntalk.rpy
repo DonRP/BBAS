@@ -21,7 +21,7 @@ translate crowdin Ann_badmood_46817e38:
 # game/dialogues/anntalk.rpy:61
 translate crowdin Ann_asksorry_634d3dbe:
 
-    # Ann_01 "Да? Ti sto ascoltando?
+    # Ann_01 "Да? Я тебя слушаю?" nointeract
     Ann_01 "Да? Я тебя слушаю?" nointeract
 
 # game/dialogues/anntalk.rpy:68
