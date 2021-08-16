@@ -216,7 +216,7 @@ translate crowdin strings:
 
     # game/core/03variables.rpy:132
     old "ПРИНЯТЬ\nДУШ"
-    nuovo "FAI\nLA DOCCIA"
+    new "FAI\nLA DOCCIA"
 
     # game/core/03variables.rpy:132
     old "ПРИНЯТЬ\nВАННУ"
