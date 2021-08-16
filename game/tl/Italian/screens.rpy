@@ -2,407 +2,339 @@
 
 translate crowdin strings:
 
-    # game/screens.rpy:280
-    old "История"
-    new "Storia"
-
-    # game/screens.rpy:281
-    old "Пропуск"
-    new "Salta"
-
-    # game/screens.rpy:282
-    old "Авто"
-    new "Auto"
-
-    # game/screens.rpy:283
-    old "Сохранить"
-    new "Salva"
-
-    # game/screens.rpy:284
-    old "Б.Сохр"
-    new "Salva V."
-
-    # game/screens.rpy:285
-    old "Б.Загр"
-    new "Carica V."
-
-    # game/screens.rpy:286
-    old "Опции"
-    new "Opzioni"
-
-    # game/screens.rpy:326
-    old "Начать новую игру"
-    new "Iniziare una nuova partita"
-
-    # game/screens.rpy:332
-    old "Загрузить игру"
-    new "Carica"
-
-    # game/screens.rpy:335
-    old "Сохранить игру"
-    new "Salvare la partita"
-
-    # game/screens.rpy:339
-    old "Настройки"
-    new "Opzioni"
-
-    # game/screens.rpy:344
-    old "Завершить повтор"
-    new "Fine Replay"
-
-    # game/screens.rpy:351
-    old "Выйти из игры"
-    new "Esci dal gioco"
-
-    # game/screens.rpy:357
-    old "Назад"
-    new "Indietro"
-
-    # game/screens.rpy:422
-    old "НОВАЯ ИГРА"
-    new "NUOVO GIOCO"
-
-    # game/screens.rpy:428
-    old "ПРОДОЛЖИТЬ"
-    new "CONTINUA"
-
-    # game/screens.rpy:431
-    old "ЗАГРУЗИТЬ"
-    new "CARICA"
-
-    # game/screens.rpy:435
-    old "НАСТРОЙКИ"
-    new "IMPOSTAZIONI"
-
-    # game/screens.rpy:436
-    old "ВЫЙТИ"
-    new "USCITA"
-
-    # game/screens.rpy:467
-    old "ГЛАВНОЕ МЕНЮ"
-    new "MENU PRINCIPALE"
-
-    # game/screens.rpy:601
-    old "Введите описание файла сохранения:"
-    new "Inserisci una descrizione del file di salvataggio:"
-
-    # game/screens.rpy:622
-    old "(Нет описания)"
-    new "(Nessuna descrizione)"
-
-    # game/screens.rpy:641
-    old "{} страница"
-    new "Pagina {}"
-
-    # game/screens.rpy:641
-    old "Автосохранения"
-    new "Salvataggi automatici"
-
-    # game/screens.rpy:641
-    old "Быстрые сохранения"
-    new "Salvataggi rapidi"
-
-    # game/screens.rpy:716
-    old "{#file_time}%a, %d %b %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
-
-    # game/screens.rpy:716
-    old "Пустой слот"
-    new "Spazio Vuoto"
-
-    # game/screens.rpy:724
-    old "ДЕНЬ [load_day]"
-    new "GIORNO [load_day]"
-
-    # game/screens.rpy:774
-    old "{#file_time}%d %b %Y, %H:%M"
-    new "{#file_time}%b %d %Y, %H:%M"
-
-    # game/screens.rpy:798
-    old "<"
-    new "<"
-
-    # game/screens.rpy:801
-    old "{#auto_page}Автосохр."
-    new "{#auto_page}A"
-
-    # game/screens.rpy:804
-    old "{#quick_page}Быстрые сохр."
-    new "{#quick_page}R"
-
-    # game/screens.rpy:810
-    old ">"
-    new ">"
-
-    # game/screens.rpy:879
-    old "Режим экрана"
-    new "Schermo"
-
-    # game/screens.rpy:880
-    old "Оконный"
-    new "Finestra"
-
-    # game/screens.rpy:881
-    old "Полный"
-    new "Schermo intero"
-
-    # game/screens.rpy:884
-    old "Сторона отката"
-    new "Lato Riavvolgimento"
-
-    # game/screens.rpy:885
-    old "Отключено"
-    new "Disattiva"
-
-    # game/screens.rpy:886
-    old "Левая"
-    new "Sinistra"
-
-    # game/screens.rpy:887
-    old "Правая"
-    new "Destra"
-
-    # game/screens.rpy:893
-    old "Всего текста"
-    new "Testo non letto"
-
-    # game/screens.rpy:894
-    old "После выборов"
-    new "Dopo le Scelte"
-
-    # game/screens.rpy:895
-    old "Переходов"
-    new "Transizioni"
-
-    # game/screens.rpy:898
-    old "Язык"
-    new "Lingua"
-
-    # game/screens.rpy:899
-    old "Русский"
-    new "Russo"
-
-    # game/screens.rpy:900
-    old "English"
-    new "Inglese"
-
-    # game/screens.rpy:901
-    old "Deutsch"
-    new "Tedesco"
-
-    # game/screens.rpy:907
-    old "Дополнительно"
-    new "Extra"
-
-    # game/screens.rpy:908
-    old "Patreon-интро"
-    new "Patreon-intro"
-
-    # game/screens.rpy:909
-    old "Оригинальное интро"
-    new "Introduzione originale"
-
-    # game/screens.rpy:913
-    old "Запрашивать название при сохранении"
-    new "Richiedere un nome quando si salva"
-
-    # game/screens.rpy:914
-    old "Прозрачное текстовое окно"
-    new "Прозрачное текстовое окно"
-
-    # game/screens.rpy:915
-    old "Отображать все \"Возможности\""
-    new "Mostra tutte le\"Oppurtunità\""
-
-    # game/screens.rpy:928
-    old "Скорость текста"
-    new "Velocità Testo"
-
-    # game/screens.rpy:932
-    old "Скорость авточтения"
-    new "Avanzamento automatico"
-
-    # game/screens.rpy:939
-    old "Громкость музыки"
-    new "Volume Musica"
-
-    # game/screens.rpy:946
-    old "Громкость звуков"
-    new "Volume Suoni"
-
-    # game/screens.rpy:952
-    old "Тест"
-    new "Prova"
-
-    # game/screens.rpy:956
-    old "Громкость голоса"
-    new "Volume Voce"
-
-    # game/screens.rpy:967
-    old "Без звука"
-    new "Silenzio"
-
-    # game/screens.rpy:1088
-    old "История диалогов пуста."
-    new "Nessun dialogo da mostrare."
-
-    # game/screens.rpy:1151
-    old "Помощь"
-    new "Aiuto"
-
-    # game/screens.rpy:1160
-    old "Клавиатура"
-    new "Tastiera"
-
-    # game/screens.rpy:1161
-    old "Мышь"
-    new "Mouse"
-
-    # game/screens.rpy:1164
-    old "Геймпад"
-    new "Gamepad"
-
-    # game/screens.rpy:1177
-    old "Enter"
-    new "Invio"
-
-    # game/screens.rpy:1178
-    old "Прохождение диалогов, активация интерфейса."
-    new "Avanza nei dialoghi e conferma scelta."
-
-    # game/screens.rpy:1181
-    old "Пробел"
-    new "Spazio"
-
-    # game/screens.rpy:1182
-    old "Прохождение диалогов без возможности делать выбор."
-    new "Avanza nei dialoghi senza eseguire scelte."
-
-    # game/screens.rpy:1185
-    old "Стрелки"
-    new "Tasti Freccia"
-
-    # game/screens.rpy:1186
-    old "Навигация по интерфейсу."
-    new "Naviga nell'interfaccia."
-
-    # game/screens.rpy:1189
-    old "Esc"
-    new "Esc"
-
-    # game/screens.rpy:1190
-    old "Вход в игровое меню."
-    new "Accedi al menu di gioco."
-
-    # game/screens.rpy:1193
-    old "Ctrl"
-    new "Ctrl"
-
-    # game/screens.rpy:1194
-    old "Пропускает диалоги, пока зажат."
-    new "Tieni premuto per saltare i dialoghi."
-
-    # game/screens.rpy:1197
-    old "Tab"
-    new "Tab"
-
-    # game/screens.rpy:1198
-    old "Включает режим пропуска."
-    new "Attiva/Disattiva salto dei dialoghi."
-
-    # game/screens.rpy:1201
-    old "Page Up"
-    new "Page Up"
-
-    # game/screens.rpy:1202
-    old "Откат назад по сюжету игры."
-    new "Torna indietro al dialogo precedente."
-
-    # game/screens.rpy:1205
-    old "Page Down"
-    new "Page Down"
-
-    # game/screens.rpy:1206
-    old "Откатывает предыдущее действие вперёд."
-    new "Procedi fino all'ultimo dialogo letto."
-
-    # game/screens.rpy:1210
-    old "Скрывает интерфейс пользователя."
-    new "Nascondi l'interfaccia."
-
-    # game/screens.rpy:1214
-    old "Делает снимок экрана."
-    new "Cattura la schermata."
-
-    # game/screens.rpy:1218
-    old "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
-    new "Attiva l'{a=https://www.renpy.org/l/voicing}Assistente Vocale{/a}."
-
-    # game/screens.rpy:1224
-    old "Левый клик"
-    new "Click Sinistro"
-
-    # game/screens.rpy:1228
-    old "Клик колёсиком"
-    new "Click Centrale"
-
-    # game/screens.rpy:1232
-    old "Правый клик"
-    new "Click Destro"
-
-    # game/screens.rpy:1236
-    old "Колёсико вверх\nКлик на сторону отката"
-    new "Rotella Su\nClicca il Lato Riavvolgimento"
-
-    # game/screens.rpy:1240
-    old "Колёсико вниз"
-    new "Rotella Giu"
-
-    # game/screens.rpy:1247
-    old "Правый триггер\nA/Нижняя кнопка"
-    new "Grilletto Destro\nPulsante A/Inferiore"
-
-    # game/screens.rpy:1251
-    old "Левый Триггер\nЛевый Бампер"
-    new "Grilletto Sinistro\nLaterale Sinistro"
-
-    # game/screens.rpy:1255
-    old "Правый бампер"
-    new "Laterale Destro"
-
-    # game/screens.rpy:1260
-    old "Крестовина, Стики"
-    new "D-Pad, Sticks"
-
-    # game/screens.rpy:1264
-    old "Start, Guide"
-    new "Start, Guide"
-
-    # game/screens.rpy:1268
-    old "Y/Верхняя кнопка"
-    new "Y/Pulsante superiore"
-
-    # game/screens.rpy:1271
-    old "Калибровка"
-    new "Calibra"
-
-    # game/screens.rpy:1337
-    old "Да"
-    new "Sì"
-
-    # game/screens.rpy:1338
-    old "Нет"
-    new "No"
-
-    # game/screens.rpy:1384
-    old "Пропускаю"
-    new "Salto"
-
-    # game/screens.rpy:1608
-    old "Скрыть интерфейс"
-    new "Nascondere l'interfaccia"
-
-    # game/screens.rpy:1609
-    old "Меню"
-    new "Menu"
+    # game/core/screens.rpy:319
+    old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
+    new "{b}ONLINE STORE{/b}"
+
+    # game/core/screens.rpy:323
+    old "{b}ОНЛАЙН-КУРСЫ{/b}"
+    new "{b}CORSI ONLINE{/b}"
+
+    # game/core/screens.rpy:333
+    old "{b}КУПИТЬ ПРОДУКТЫ{/b}"
+    new "{b}ACQUISTA PRODOTTI{/b}"
+
+    # game/core/screens.rpy:346
+    old "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
+    new "{b}CURA DEL TUO SITO{/b}"
+
+    # game/core/screens.rpy:354
+    old "{b}СВОЙ САЙТ{/b}"
+    new "{b}SITO PROPRIO{/b}"
+
+    # game/core/screens.rpy:359
+    old "{b}CYBER-БАНК{/b}"
+    new "{b}CYBER-BANK{/b}"
+
+    # game/core/screens.rpy:447
+    old "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+    new "PRESTITI REDDITIZI PER GLI IMPRENDITORI DI INTERNET"
+
+    # game/core/screens.rpy:454
+    old "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+    new "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+
+    # game/core/screens.rpy:455
+    old "[mgg.credit.left] дней на погашение"
+    new "[mgg.credit.left] giorni da ripagare"
+
+    # game/core/screens.rpy:457
+    old "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
+    new "RIMBORSO DEL DEBITO"
+
+    # game/core/screens.rpy:461
+    old "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
+    new "RIMBORSARE PARTE DEL DEBITO"
+
+    # game/core/screens.rpy:469
+    old "ВЗЯТЬ КРЕДИТ"
+    new "PRENDI CREDITO"
+
+    # game/core/screens.rpy:504
+    old "Что будем искать?"
+    new "Cosa stiamo cercando?"
+
+    # game/core/screens.rpy:575
+    old "{i}{b}КУПЛЕНО{/b}{/i}"
+    new "{i}{b}BOUGHT{/b}{/i}"
+
+    # game/core/screens.rpy:650
+    old "ОНЛАЙН-КУРСЫ"
+    new "CORSI ONLINE"
+
+    # game/core/screens.rpy:668
+    old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+    new "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+
+    # game/core/screens.rpy:680
+    old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+    new "Hai già pagato per questo corso e puoi attivare il prossimo video tutorial disponibile in qualsiasi momento."
+
+    # game/core/screens.rpy:684
+    old "Занятие [text1] из [text2]"
+    new "Занятие [text1] из [text2]"
+
+    # game/core/screens.rpy:688
+    old "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
+    new "{i}{b}INIZIARE A GUARDARE VIDEO TUTORIAL{/b}{/i}"
+
+    # game/core/screens.rpy:693
+    old "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
+    new "{i}{b}HAI STUDIATO DI RECENTE. FAI UNA PAUSA! {/b} {/i}"
+
+    # game/core/screens.rpy:703
+    old "Количество занятий: [text2]"
+    new "Numero di lezioni: [text2]"
+
+    # game/core/screens.rpy:709
+    old "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+    new "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+
+    # game/core/screens.rpy:744
+    old "ДОХОД ОТ ПРОСМОТРОВ"
+    new "ДОХОД ОТ ПРОСМОТРОВ"
+
+    # game/core/screens.rpy:745
+    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."
+    new "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."
+
+    # game/core/screens.rpy:746
+    old "На вашем счете $[paid]"
+    new "На вашем счете $[paid]"
+
+    # game/core/screens.rpy:748
+    old "Забрать $[paid]"
+    new "Забрать $[paid]"
+
+    # game/core/screens.rpy:761
+    old "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+    new "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+
+    # game/core/screens.rpy:782
+    old "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+    new "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+
+    # game/core/screens.rpy:783
+    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+    new "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+
+    # game/core/screens.rpy:785
+    old "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+    new "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+
+    # game/core/screens.rpy:889
+    old "{b}РЕКЛАМА{/b}"
+    new "{b}РЕКЛАМА{/b}"
+
+    # game/core/screens.rpy:892
+    old "{b}ВЫВОД СРЕДСТВ{/b}"
+    new "{b}ВЫВОД СРЕДСТВ{/b}"
+
+    # game/core/screens.rpy:897
+    old "Расположение:"
+    new "Расположение:"
+
+    # game/core/screens.rpy:898
+    old "Зрителей:"
+    new "Зрителей:"
+
+    # game/core/screens.rpy:899
+    old "Общий доход:"
+    new "Общий доход:"
+
+    # game/core/screens.rpy:900
+    old "Доход сегодня:"
+    new "Доход сегодня:"
+
+    # game/core/screens.rpy:1073
+    old "ЖДАТЬ"
+    new "ЖДАТЬ"
+
+    # game/core/screens.rpy:1084
+    old "Зрителей: [public]"
+    new "Зрителей: [public]"
+
+    # game/core/screens.rpy:1125
+    old "ПОЛЕЗНОЕ"
+    new "ПОЛЕЗНОЕ"
+
+    # game/core/screens.rpy:1218
+    old "ВОЗМОЖНОСТИ ([kol] / [all])"
+    new "ВОЗМОЖНОСТИ ([kol] / [all])"
+
+    # game/core/screens.rpy:1231
+    old "В ПРОЦЕССЕ..."
+    new "В ПРОЦЕССЕ..."
+
+    # game/core/screens.rpy:1233
+    old "ЗАВЕРШЕНЫ..."
+    new "ЗАВЕРШЕНЫ..."
+
+    # game/core/screens.rpy:1236
+    old "НЕ ОТКРЫТЫ..."
+    new "НЕ ОТКРЫТЫ..."
+
+    # game/core/screens.rpy:1286
+    old "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+    new "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+
+    # game/core/screens.rpy:1288
+    old "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+    new "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+
+    # game/core/screens.rpy:1291
+    old "Подсказка:"
+    new "Подсказка:"
+
+    # game/core/screens.rpy:1349
+    old "ВЕЩИ"
+    new "ВЕЩИ"
+
+    # game/core/screens.rpy:1397
+    old "Ни один предмет не выбран"
+    new "Ни один предмет не выбран"
+
+    # game/core/screens.rpy:1399
+    old "В данный момент в инвентаре ничего нет"
+    new "В данный момент в инвентаре ничего нет"
+
+    # game/core/screens.rpy:1460
+    old "ПЕРСОНАЖИ"
+    new "ПЕРСОНАЖИ"
+
+    # game/core/screens.rpy:1512
+    old "Отношения с [char_name!t]:"
+    new "Отношения с [char_name!t]:"
+
+    # game/core/screens.rpy:1520
+    old "Запас сил:"
+    new "Запас сил:"
+
+    # game/core/screens.rpy:1525
+    old "Тренированность:"
+    new "Тренированность:"
+
+    # game/core/screens.rpy:1530
+    old "Чистота:"
+    new "Чистота:"
+
+    # game/core/screens.rpy:1537
+    old "Навыки:"
+    new "Навыки:"
+
+    # game/core/screens.rpy:1540
+    old "Навык убеждения:"
+    new "Навык убеждения:"
+
+    # game/core/screens.rpy:1545
+    old "Навык скрытности:"
+    new "Навык скрытности:"
+
+    # game/core/screens.rpy:1551
+    old "Навык массажа:"
+    new "Навык массажа:"
+
+    # game/core/screens.rpy:1557
+    old "Навык эро.массажа:"
+    new "Навык эро.массажа:"
+
+    # game/core/screens.rpy:1563
+    old "Навык поцелуев:"
+    new "Навык поцелуев:"
+
+    # game/core/screens.rpy:1569
+    old "Сексуальный опыт:"
+    new "Сексуальный опыт:"
+
+    # game/core/screens.rpy:1581
+    old "Настроение:"
+    new "Настроение:"
+
+    # game/core/screens.rpy:1587
+    old "Уровень отношений:"
+    new "Уровень отношений:"
+
+    # game/core/screens.rpy:1595
+    old "Раскрепощенность:"
+    new "Раскрепощенность:"
+
+    # game/core/screens.rpy:1619
+    old "Предпочтения в сладостях:"
+    new "Предпочтения в сладостях:"
+
+    # game/core/screens.rpy:1623
+    old "Любит \"Ritter Sport\""
+    new "Любит \"Ritter Sport\""
+
+    # game/core/screens.rpy:1625
+    old "Сгодится \"Raffaello\""
+    new "Сгодится \"Raffaello\""
+
+    # game/core/screens.rpy:1627
+    old "Ненавидит \"Ferrero Rocher\""
+    new "Ненавидит \"Ferrero Rocher\""
+
+    # game/core/screens.rpy:1631
+    old "Предпочтения в массаже:"
+    new "Предпочтения в массаже:"
+
+    # game/core/screens.rpy:1634
+    old "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+    new "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+
+    # game/core/screens.rpy:1643
+    old "Любит \"Ferrero Rocher\""
+    new "Любит \"Ferrero Rocher\""
+
+    # game/core/screens.rpy:1645
+    old "Сгодится \"Ritter Sport\""
+    new "Сгодится \"Ritter Sport\""
+
+    # game/core/screens.rpy:1647
+    old "Ненавидит \"Raffaello\""
+    new "Ненавидит \"Raffaello\""
+
+    # game/core/screens.rpy:1651
+    old "Действие алкоголя:"
+    new "Действие алкоголя:"
+
+    # game/core/screens.rpy:1654
+    old "???"
+    new "???"
+
+    # game/core/screens.rpy:1658
+    old "- Не может вспомнить всё, что происходило, пока она была пьяна"
+    new "- Не может вспомнить всё, что происходило, пока она была пьяна"
+
+    # game/core/screens.rpy:1664
+    old "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+    new "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+
+    # game/core/screens.rpy:1666
+    old "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+    new "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+
+    # game/core/screens.rpy:1668
+    old "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+    new "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+
+    # game/core/screens.rpy:1676
+    old "Задать одежду персонажа"
+    new "Задать одежду персонажа"
+
+    # game/core/screens.rpy:1723
+    old "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+    new "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+
+    # game/core/screens.rpy:1772
+    old "Автосмена каждые 2 дня"
+    new "Автосмена каждые 2 дня"
+
+    # game/core/screens.rpy:1783
+    old "Сделать текущей"
+    new "Сделать текущей"
+
+    # game/core/screens.rpy:1831
+    old "[view_cam[1].public]"
+    new "[view_cam[1].public]"
 
