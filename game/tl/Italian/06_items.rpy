@@ -4,7 +4,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ПАУК"
-    Ragno
+    new "RAGNO"
 
     # game/core/06_items.rpy:2
     old "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
