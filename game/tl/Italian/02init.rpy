@@ -444,7 +444,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "Ну так, что там с трусиками Оливии?"
-    nuovo "Dunque, che dire delle mutandine di Olivia?"
+    new "Dunque, che dire delle mutandine di Olivia?"
 
     # game/core/02init.rpy:128
     old "Ты позвала Оливию к нам?"
@@ -532,11 +532,11 @@ translate crowdin strings:
 
     # game/core/02init.rpy:230
     old "У меня для тебя одна книжка..."
-    nuovo "Ho un altro libro per te..."
+    new "Ho un altro libro per te..."
 
     # game/core/02init.rpy:230
     old "У меня снова для тебя книжка..."
-    nuovo "Ho un altro libro per te..."
+    new "Ho un altro libro per te..."
 
     # game/core/02init.rpy:230
     old "И снова у меня для тебя книжка..."
