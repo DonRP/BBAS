@@ -22,13 +22,13 @@ translate crowdin cam_after_waiting_6058d5d4:
 translate crowdin cam_after_waiting_c283f316:
 
     # Max_09 "Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
-    Max_09 "Lisa è nella stanza in questo momento... E sulla veranda il posto è occupato! È meglio non correre rischi e aspettare con le telecamere.
+    Max_09 "Lisa è nella stanza in questo momento... E sulla veranda il posto è occupato! Лучше не рисковать и подождать с просмотром камер."
 
 # game/core/core.rpy:565
 translate crowdin cam_after_waiting_38f46f18:
 
     # Max_09 "Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила..." nointeract
-    Max_09 "Meglio vedere le telecamere altrove! Non bastava che Lisa notasse qualcosa... "nointeract
+    Max_09 "Meglio vedere le telecamere altrove! Non c'era abbastanza per Lisa per notare qualcosa..." nointeract
 
 # game/core/core.rpy:577
 translate crowdin cam_after_waiting_d4f49617:
@@ -40,7 +40,7 @@ translate crowdin cam_after_waiting_d4f49617:
 translate crowdin cam_after_waiting_c283f316_1:
 
     # Max_09 "Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
-    Max_09 "Lisa è nella stanza in questo momento... E sulla veranda il posto è occupato! È meglio non correre rischi e aspettare con le telecamere.
+    Max_09 "Lisa è nella stanza in questo momento... E sulla veranda il posto è occupato! Лучше не рисковать и подождать с просмотром камер."
 
 # game/core/core.rpy:589
 translate crowdin cam_after_waiting_eea92f18:
