@@ -380,11 +380,11 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "У тебя странный вид..."
-    new "Mind you, I'm experiencing...
+    new "Hai uno sguardo strano..."
 
     # game/core/02init.rpy:128
     old "Может всё-таки поделишься своими переживаниями по поводу Алисы?"
-    new "Can you tell me how you feel about Alice?"
+    new "Perché non condividi i tuoi sentimenti su Alice?"
 
     # game/core/02init.rpy:128
     old "Массаж рук заказывала?"
