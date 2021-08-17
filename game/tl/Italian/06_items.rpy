@@ -12,7 +12,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "СКРЫТАЯ КАМЕРА"
-    Telecamera Nascosta
+    new "TELECAMERA NASCOSTA"
 
     # game/core/06_items.rpy:2
     old "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
@@ -20,7 +20,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ШЕЛКОВЫЙ ХАЛАТ"
-    Abıto In seta
+    new "ШЕЛКОВЫЙ ХАЛАТ"
 
     # game/core/06_items.rpy:2
     old "Короткий, лёгкий, почти шёлковый халат высшего качества. Made in China."
@@ -52,7 +52,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЛЮБЯЩАЯ РУБИ"
-    Amo Rubino
+    new "ЛЮБЯЩАЯ РУБИ"
 
     # game/core/06_items.rpy:2
     old "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
@@ -68,7 +68,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "БЫТЬ КУКЛОЙ"
-    ESSERE UNA BAMBOLA
+    new "БЫТЬ КУКЛОЙ"
 
     # game/core/06_items.rpy:2
     old "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
@@ -92,7 +92,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "СТРЕМЯНКА"
-    Stepladder
+    new "СТРЕМЯНКА"
 
     # game/core/06_items.rpy:2
     old "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
@@ -108,7 +108,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЛЁГКАЯ ПИЖАМА"
-    Pigiama leggero
+    new "ЛЁГКАЯ ПИЖАМА"
 
     # game/core/06_items.rpy:2
     old "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
@@ -168,7 +168,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КРЕМ ДЛЯ ЗАГАРА"
-    Protezione Solare
+    new "CREMA SOLARE"
 
     # game/core/06_items.rpy:2
     old "Легкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
@@ -176,7 +176,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "МУЖСКИЕ МАЙКА И ШОРТЫ"
-    T-SHIRT E Pantaloncını Da UOMO
+    new "T-SHIRT E PANTALONCINI DA UOMO"
 
     # game/core/06_items.rpy:2
     old "Свободный и лёгкий летний комплект одежды на каждый день."
@@ -184,7 +184,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КОНФЕТЫ С ЛИКЁРОМ"
-    Caramelle Con Liquore
+    new "КОНФЕТЫ С ЛИКЁРОМ"
 
     # game/core/06_items.rpy:2
     old "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
@@ -192,7 +192,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КОМПЛЕКТ ТЁМНОГО НИЖНЕГО БЕЛЬЯ"
-    Set Intimo Scuro
+    new "SET DI BIANCHERIA INTIMA SCURA"
 
     # game/core/06_items.rpy:2
     old "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
@@ -200,7 +200,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "СЕКС-ОБРАЗОВАНИЕ"
-    Educazıone Sessuale
+    new "СЕКС-ОБРАЗОВАНИЕ"
 
     # game/core/06_items.rpy:2
     old "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
@@ -208,7 +208,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ФОТОАППАРАТ"
-    Camera
+    new "ФОТОАППАРАТ"
 
     # game/core/06_items.rpy:2
     old "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
@@ -216,7 +216,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
-    Camicia Corta Pıccante
+    new "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
 
     # game/core/06_items.rpy:2
     old "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
@@ -224,7 +224,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
-    Body Sexy Nero
+    new "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
 
     # game/core/06_items.rpy:2
     old "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
@@ -232,7 +232,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
-    Body IN Pizzo Nero
+    new "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
 
     # game/core/06_items.rpy:2
     old "Женское сексуальное нижнее бельё с кружевным узором по краям."
@@ -240,7 +240,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
-    CORPETTI SPORTIVI E MINI PANTALONCINI
+    new "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
 
     # game/core/06_items.rpy:2
     old "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
