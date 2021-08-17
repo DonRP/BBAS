@@ -22,7 +22,7 @@ translate crowdin Alice_badmood_de141364:
 translate crowdin Alice_asksorry_2395f0d1:
 
     # Alice_13 "Хотел извиниться? Каким образом?" nointeract
-    Alice_13 "Vorresti scusarti? Come? nointeract
+    Alice_13 "Vorresti scusarti? Come?" nointeract
 
 # game/dialogues/alicetalk.rpy:68
 translate crowdin Alice_normalmood_1faefb22:
