@@ -596,7 +596,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
-    Promettendo di aiutare Lisa con lezioni sul principio di "tu me - sono te", mi sono completamente dimenticato di lei dopo un po '. E così, dopo un'altra deuce e punizione da parte di mia madre, Lisa le ricordò quello che le avevo promesso. Forse dovrei prestare più attenzione alle sue lezioni ..."
+    new "Dopo aver promesso di aiutare Lisa con le sue lezioni sul principio di \"Tu dai a me e io do a te\", ma dopo un po' ho dimenticato tutto di lei. E poi, dopo un'altra "D" e una punizione di sua madre, Lisa mi ha ricordato quello che le avevo promesso. Forse dovrei prestare più attenzione alle sue lezioni..."
 
     # game/core/09_opportunities.rpy:4
     old "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
@@ -616,11 +616,11 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для такого рода насекомых... Нужно будет поймать одного и подкинуть Алисе, вот забавно будет! Вот только как и где их искать?"
-    new "Любопытно. Sembra che Alice abbia paura a morte dei ragni. E va notato che il clima qui è molto adatto per questo tipo di insetti ... Dovrai prenderne uno e lanciare Alice, sarà divertente! Questo è proprio come e dove cercarli?
+    new "Любопытно. Sembra che Alice abbia paura a morte dei ragni. E va notato che il clima qui è molto adatto per questo tipo di insetti ... Dovrai prenderne uno e lanciare Alice, sarà divertente! Вот только как и где их искать?"
 
     # game/core/09_opportunities.rpy:4
     old "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
-    Ho cercato su Internet e ho scoperto che è molto facile trovare una specie di ragno nella nostra zona. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
+    new "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
 
     # game/core/09_opportunities.rpy:4
     old "Итак, я поймал огромного паука. Это не так сложно, если знать в какое время и где их ловить. Теперь нужно испытать этого монстра на сестрёнке. Вот только бы выбрать подходящий момент... Интересно, а она заметит паука, если будет принимать душ?"
