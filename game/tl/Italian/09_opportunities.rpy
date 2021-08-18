@@ -596,7 +596,7 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
-    new "Dopo aver promesso di aiutare Lisa con le sue lezioni sul principio di \"Tu dai a me e io do a te\", ma dopo un po' ho dimenticato tutto di lei. E poi, dopo un'altra "D" e una punizione di sua madre, Lisa mi ha ricordato quello che le avevo promesso. Forse dovrei prestare più attenzione alle sue lezioni..."
+    new "Dopo aver promesso di aiutare Lisa con le sue lezioni sul principio di \"Tu dai a me e io do a te\", ma dopo un po' ho dimenticato tutto di lei. E poi, dopo un'altra \"D\" e una punizione di sua madre, Lisa mi ha ricordato quello che le avevo promesso. Forse dovrei prestare più attenzione alle sue lezioni..."
 
     # game/core/09_opportunities.rpy:4
     old "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
