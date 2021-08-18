@@ -20,7 +20,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ШЕЛКОВЫЙ ХАЛАТ"
-    new "ШЕЛКОВЫЙ ХАЛАТ"
+    new "VESTE DI SETA"
 
     # game/core/06_items.rpy:2
     old "Короткий, лёгкий, почти шёлковый халат высшего качества. Made in China."
@@ -52,7 +52,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЛЮБЯЩАЯ РУБИ"
-    new "ЛЮБЯЩАЯ РУБИ"
+    new "LOVING RUBY"
 
     # game/core/06_items.rpy:2
     old "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
@@ -60,7 +60,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ПРЕМЬЕР-МИНИСТР"
-    new "PRIMO MINISTRO"
+    new "IL PRIMO MINISTRO"
 
     # game/core/06_items.rpy:2
     old "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
@@ -68,7 +68,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "БЫТЬ КУКЛОЙ"
-    new "БЫТЬ КУКЛОЙ"
+    new "Be A Doll"
 
     # game/core/06_items.rpy:2
     old "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
@@ -76,7 +76,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КНИГА ОРГАЗМОВ"
-    Lıbro Deglı Orgasmı
+    new "КНИГА ОРГАЗМОВ"
 
     # game/core/06_items.rpy:2
     old "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
@@ -108,7 +108,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЛЁГКАЯ ПИЖАМА"
-    new "ЛЁГКАЯ ПИЖАМА"
+    new "PIGIAMA LEGGERO"
 
     # game/core/06_items.rpy:2
     old "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
@@ -116,7 +116,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "НОЧНУШКА"
-    Camicia Da notte
+    new "НОЧНУШКА"
 
     # game/core/06_items.rpy:2
     old "Полупрозрачные сорочка и трусики. Облегающий фасон подчёркивает все достоинства и изгибы фигуры, а лёгкое кружево придаст ещё больше сексуальности."
