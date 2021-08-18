@@ -356,7 +356,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "Насчёт этого случая утром..."
-    nee "A proposito di quella mattina..."
+    new "A proposito di quella mattina..."
 
     # game/core/02init.rpy:128
     old "Хотел поговорить о Большом Максе..."
@@ -372,7 +372,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:128
     old "Ну как, ты подумала о моих условиях?"
-    nee "Quindi, hai pensato alle miei condizioni?"
+    new "Quindi, hai pensato alle miei condizioni?"
 
     # game/core/02init.rpy:128
     old "Помочь с уроками?"
@@ -552,7 +552,7 @@ translate crowdin strings:
 
     # game/core/02init.rpy:230
     old "{color=#808080}Прикупил для тебя немного сладенького! \n (нужно выждать несколько дней){/color}"
-    new "Ti ho comprato dei dolci!" \n (è necessario attendere alcuni giorni){/color}"
+    new "Ti ho comprato dei dolci! \n (è necessario attendere alcuni giorni){/color}"
 
     # game/core/02init.rpy:230
     old "Прикупил для тебя немного сладенького!"
