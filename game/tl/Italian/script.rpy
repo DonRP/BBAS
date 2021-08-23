@@ -46,7 +46,7 @@ translate crowdin intro_e288a47f:
 translate crowdin intro_cb16881c:
 
     # Max_00 "Ну а это наша квартира. Тот ещё тараканник! Мама пытается заработать на первый взнос, чтобы взять ипотеку, но пока что-то не получается. Все мы мечтаем отсюда съехать, но куда?"
-    Max_00 "Beh, questo è il nostro appartamento. Тот ещё тараканник! La mamma sta cercando di guadagnare un acconto per accendere un mutuo, ma finora qualcosa non ha funzionato. Все мы мечтаем отсюда съехать, но куда?"
+    Max_00 "Beh, questo è il nostro appartamento. Che scarafaggio! La mamma sta cercando di guadagnare un acconto per accendere un mutuo, ma finora qualcosa non ha funzionato. Tutti sogniamo di andarcene da qui, ma dove?"
 
 # game/script.rpy:55
 translate crowdin intro_4547bbbc:
@@ -58,19 +58,19 @@ translate crowdin intro_4547bbbc:
 translate crowdin intro_ff38ed12:
 
     # Max_08 "Алиса, моя старшая сестра. Хоть она мне и не родная, но тем не менее, мы росли под одной крышей с самых малых лет, так что косички я ей подёргал за это время на славу. Уже несколько лет, как закончила школу, но до сих пор ищет свой путь, так же, как и я теперь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-    Max_08 "Alice, mia sorella maggiore. Хоть она мне и не родная, но тем не менее, мы росли под одной крышей с самых малых лет, так что косички я ей подёргал за это время на славу. Sono passati alcuni anni da quando si è diplomata, ma sta ancora cercando la sua strada, proprio come me adesso. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
+    Max_08 "Alice, mia sorella maggiore. Non sarà mia parente, ma siamo cresciuti sotto lo stesso tetto in tenera età, quindi ho tirato le sue trecce per molto tempo. Sono passati alcuni anni da quando si è diplomata, ma sta ancora cercando la sua strada, proprio come me adesso. Tutto il giorno sta seduta al suo computer e fa un po' di blogging per conto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
 
 # game/script.rpy:60
 translate crowdin intro_75876970:
 
     # Max_00 "Лиза, младшая сестрёнка, ещё учится в школе. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    Max_00 "Lisa, la mia sorellina, va ancora a scuola. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
+    Max_00 "Lisa, la mia sorellina, va ancora a scuola. Non so per lo studio, ma se non ti cacciano via come me, va bene. Lisa ed io siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, sono io che cerco protezione."
 
 # game/script.rpy:62
 translate crowdin intro_6274a5c1:
 
     # Max_00 "Лиза, младшая сестрёнка, ещё учится в школе, но последний год. Не знаю как учится, но, если не выгнали как меня, значит всё в порядке. С Лизой мы практически ровесники, ей уже восемнадцать лет. Мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-    Max_00 "Lisa, la mia sorellina, va ancora a scuola, ma è all'ultimo anno. Non so come stia studiando, ma se non è stata cacciata come me, allora va bene. Lisa ed io abbiamo praticamente la stessa età, ora ha diciotto anni. Siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Но если что-то случается, защиты ищет именно у меня."
+    Max_00 "Lisa, la mia sorellina, va ancora a scuola, ma è all'ultimo anno. Non so come stia studiando, ma se non è stata cacciata come me, allora va bene. Lisa ed io abbiamo praticamente la stessa età, ora ha diciotto anni. Siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, sono io che cerco protezione."
 
 # game/script.rpy:65
 translate crowdin intro_bebe466e:
@@ -202,7 +202,7 @@ translate crowdin intro_8132e149:
 translate crowdin intro_fbedb073:
 
     # Lisa_02 "Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
-    Lisa_02 "Certo! Mamma, io e Max andiamo d'accordo. А если будет косячить, выгоню его в эту самую гостиную! E ti meriti assolutamente la tua stanza. E non preoccuparti. Siamo tutti d'accordo su questo."
+    Lisa_02 "Certo! Mamma, io e Max andiamo d'accordo. E se sbaglia, lo butto fuori in questo stesso salotto! E ti meriti assolutamente la tua stanza. E non preoccuparti. Siamo tutti d'accordo su questo."
 
 # game/script.rpy:97
 translate crowdin intro_07cd4260:
