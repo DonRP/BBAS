@@ -152,11 +152,11 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "Конфеты \"Raffaello\" (24 штуки)"
-    new "Конфеты \"Raffaello\" (24 штуки)"
+    new "Cioccolatini \"Raffaello\" (24 pezzi)"
 
     # game/core/06_items.rpy:2
     old "Конфеты \"Ferrero Rocher\" (16 штук)"
-    new "Конфеты \"Ferrero Rocher\" (16 штук)"
+    new "Cioccolatini \"Ferrero Rocher\" (16 pezzi)"
 
     # game/core/06_items.rpy:2
     old "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
@@ -164,7 +164,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "Конфеты \"Ferrero Rocher\" (24 штуки)"
-    new "Конфеты \"Ferrero Rocher\" (24 штуки)"
+    new "Cioccolatini \"Ferrero Rocher\" (24 pezzi)"
 
     # game/core/06_items.rpy:2
     old "КРЕМ ДЛЯ ЗАГАРА"
@@ -184,7 +184,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КОНФЕТЫ С ЛИКЁРОМ"
-    new "КОНФЕТЫ С ЛИКЁРОМ"
+    new "CIOCCOLATINI AL LIQUORE"
 
     # game/core/06_items.rpy:2
     old "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
@@ -216,7 +216,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
-    new "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
+    new "CAMICIA CORTA PICCANTE"
 
     # game/core/06_items.rpy:2
     old "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
@@ -224,7 +224,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
-    new "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
+    new "CORPO SEXY NERO"
 
     # game/core/06_items.rpy:2
     old "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
