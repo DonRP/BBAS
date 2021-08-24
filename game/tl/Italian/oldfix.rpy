@@ -22,19 +22,19 @@ translate crowdin strings:
 
     # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "{i}{b}Nota:{/b} Per ora, questo è tutto ciò che si può fare per questa \"caratteristica\" nella versione attuale del gioco.{/i}"
 
     # game/core/oldfix.rpy:51
     old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "Sì, e sembra che Lisa parli del suo ragazzo solo quando è di buon umore... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Sì, e sembra che Lisa parli del suo ragazzo solo quando è di buon umore... \n\n{i}{b}Nota:{/b} Per ora, questo è tutto ciò che si può fare per questa \"caratteristica\" nella versione attuale del gioco.{/i}"
 
     # game/core/oldfix.rpy:65
     old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "È vero, Liza è stata leggermente offesa da me, ma posso sopravvivere. Le darò qualcosa di delizioso e lei scongelerà ... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "È vero, Liza è stata leggermente offesa da me, ma posso sopravvivere. Le darò qualcosa di delizioso e lei scongelerà ... \n\n{i}{b}Nota:{/b} Per ora, questo è tutto ciò che si può fare per questa \"caratteristica\" nella versione attuale del gioco.{/i}"
 
     # game/core/oldfix.rpy:68
     old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "Dubito che ora si rivelerà a sostituirla, sente troppa sfiducia in me. \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Dubito che ora si rivelerà a sostituirla, sente troppa sfiducia in me. \n\n{i}{b}Nota:{/b} Per ora, questo è tutto ciò che si può fare per questa \"caratteristica\" nella versione attuale del gioco.{/i}"
 
     # game/core/oldfix.rpy:492
     old "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды... Может быть, поговорить с ней об этом?"
