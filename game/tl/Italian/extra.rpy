@@ -24,7 +24,7 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:56
     old "Помассирую не только ножки"
-    new "Помассирую не только ножки"
+    new "Non mi massaggerò solo i piedi"
 
     # game/extra/extra.rpy:56
     old "Первый массаж ног"
@@ -36,7 +36,7 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:56
     old "Разомнём и плечики"
-    new "Разомнём и плечики"
+    new "Allunga anche le spalle"
 
     # game/extra/extra.rpy:56
     old "Массаж для любимой тёти"
@@ -80,7 +80,7 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:56
     old "Я обошёл Эрика с подарком для Алисы"
-    new "Я обошёл Эрика с подарком для Алисы"
+    new "Sono andato da Eric con un regalo per Alice"
 
     # game/extra/extra.rpy:56
     old "Смотрим порно вместе с тётей"
@@ -144,7 +144,7 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:56
     old "Ужастики в обнимку с Лизой"
-    new "Ужастики в обнимку с Лизой"
+    new "Gli orrori tra le braccia di Lisa"
 
     # game/extra/extra.rpy:56
     old "Урок по минету от мамы и Эрика"
@@ -184,7 +184,7 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:142
     old "ФОТОСНИМКИ"
-    new "ФОТОСНИМКИ"
+    new "FOTOSNIMS"
 
     # game/extra/extra.rpy:193
     old "Воспоминание недоступно"
@@ -192,7 +192,7 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:199
     old "Воспоминание ещё не открыто"
-    new "Воспоминание ещё не открыто"
+    new "La memoria non è ancora aperta"
 
     # game/extra/extra.rpy:205
     old "В вашей коллекции ещё нет фотоснимков."
