@@ -612,15 +612,15 @@ translate crowdin strings:
 
     # game/core/09_opportunities.rpy:4
     old "Арахнофобия"
-    new "Арахнофобия"
+    new "Aracnofobia"
 
     # game/core/09_opportunities.rpy:4
     old "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для такого рода насекомых... Нужно будет поймать одного и подкинуть Алисе, вот забавно будет! Вот только как и где их искать?"
-    new "Любопытно. Sembra che Alice abbia paura a morte dei ragni. E va notato che il clima qui è molto adatto per questo tipo di insetti ... Dovrai prenderne uno e lanciare Alice, sarà divertente! Вот только как и где их искать?"
+    new "Curioso. Sembra che Alice abbia paura a morte dei ragni. E va notato che il clima qui è molto adatto per questo tipo di insetti ... Dovrai prenderne uno e lanciare Alice, sarà divertente! Ma come e dove trovarli?"
 
     # game/core/09_opportunities.rpy:4
     old "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
-    new "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
+    new "Ho curiosato su internet e ho scoperto che una specie di ragno è molto facile da incontrare nella nostra zona. Fortunatamente, è completamente innocuo, ma può essere di dimensioni piuttosto consistenti. Non si trovano di notte, ma quando il sole comincia a scaldare il terreno, strisciano alla luce e controllano le loro prede."
 
     # game/core/09_opportunities.rpy:4
     old "Итак, я поймал огромного паука. Это не так сложно, если знать в какое время и где их ловить. Теперь нужно испытать этого монстра на сестрёнке. Вот только бы выбрать подходящий момент... Интересно, а она заметит паука, если будет принимать душ?"
