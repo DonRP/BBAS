@@ -2188,7 +2188,7 @@ translate crowdin kira_night_tv_second_lesson_d77c9445:
 translate crowdin kira_night_tv_second_lesson_e9adc097:
 
     # Max_07 "Я думал, что у меня неплохо получается..."
-    Max_07 "Я думал, что у меня неплохо получается..."
+    Max_07 "Pensavo di essere abbastanza bravo..."
 
 # game/events/kira.rpy:1430
 translate crowdin kira_night_tv_second_lesson_50f2907c:
