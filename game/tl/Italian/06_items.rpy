@@ -232,7 +232,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
-    new "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
+    new "CORPO IN PIZZO NERO"
 
     # game/core/06_items.rpy:2
     old "Женское сексуальное нижнее бельё с кружевным узором по краям."
@@ -240,7 +240,7 @@ translate crowdin strings:
 
     # game/core/06_items.rpy:2
     old "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
-    new "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
+    new "CORPETTO SPORTIVO E MINI PANTALONCINI"
 
     # game/core/06_items.rpy:2
     old "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
