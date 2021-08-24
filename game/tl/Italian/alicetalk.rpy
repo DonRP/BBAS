@@ -208,7 +208,7 @@ translate crowdin talkblog1_help_d354a72a:
 translate crowdin talkblog1_help_b9c2b277:
 
     # Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Лучше бы что-то конкретное предложил..." nointeract
-    Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Faresti meglio a suggerire qualcosa di specifico..." nointeract
+    Alice_06 "E chi ha aiutato i suoi consigli finora? Ci sono molti consulenti. Faresti meglio a suggerire qualcosa di specifico..." nointeract
 
 # game/dialogues/alicetalk.rpy:237
 translate crowdin talkblog1_whatnow_84b3cf98:
