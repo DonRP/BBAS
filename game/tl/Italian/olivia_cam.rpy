@@ -4,7 +4,7 @@
 translate crowdin cam0_olivia_lisa_sun_fb60e201:
 
     # Max_01 "Благодаря натуризму Оливии, внимания ко двору станет побольше..."
-    Max_01 "Благодаря натуризму Оливии, внимания ко двору станет побольше..."
+    Max_01 "Grazie al naturismo di Olivia, ci sarà più attenzione alla corte..."
 
 # game/events/olivia_cam.rpy:31
 translate crowdin cam1_olivia_lisa_swim_c66f3478:
@@ -16,7 +16,7 @@ translate crowdin cam1_olivia_lisa_swim_c66f3478:
 translate crowdin cam0_olivia_lisa_tv_ee9551f5:
 
     # Max_01 "Девчонки смотрят сериалы... Жду не дождусь, когда Лиза тоже начнёт смотреть их голой, как Оливия!"
-    Max_01 "Le ragazze guardano le le serie tv... Жду не дождусь, когда Лиза тоже начнёт смотреть их голой, как Оливия!"
+    Max_01 "Le ragazze guardano le le serie tv... Non vedo l'ora che anche Lisa inizi a guardarli nudi, come Olivia!"
 
 # game/events/olivia_cam.rpy:54
 translate crowdin cam0_olivia_lisa_sleep_8eb12594:
