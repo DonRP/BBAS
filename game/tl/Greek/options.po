@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Большой брат: Другая история\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /master/game/tl/crowdin/options.po\n"
+"X-Crowdin-File-ID: 701\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2021-08-27 16:15\n"
+
+#    # game/options.rpy:15
+msgid "Большой брат: Другая история"
+msgstr ""
+
