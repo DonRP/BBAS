@@ -10,22 +10,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 16:26\n"
+"PO-Revision-Date: 2021-08-27 16:43\n"
 
 msgid "Self-voicing disabled."
-msgstr ""
+msgstr "Auto-fatturazione disabilitata."
 
 msgid "Clipboard voicing enabled. "
-msgstr ""
+msgstr "Voce negli Appunti abilitata. "
 
 msgid "Self-voicing enabled. "
-msgstr ""
+msgstr "Auto-fatturazione abilitata. "
 
 msgid "bar"
-msgstr ""
+msgstr "bar"
 
 msgid "selected"
-msgstr ""
+msgstr "selezionato"
 
 msgid "viewport"
 msgstr ""
