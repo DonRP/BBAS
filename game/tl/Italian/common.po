@@ -1,0 +1,893 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/common.po\n"
+"X-Crowdin-File-ID: 655\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2021-08-27 16:15\n"
+
+msgid "Self-voicing disabled."
+msgstr ""
+
+msgid "Clipboard voicing enabled. "
+msgstr ""
+
+msgid "Self-voicing enabled. "
+msgstr ""
+
+msgid "bar"
+msgstr ""
+
+msgid "selected"
+msgstr ""
+
+msgid "viewport"
+msgstr ""
+
+msgid "horizontal scroll"
+msgstr ""
+
+msgid "vertical scroll"
+msgstr ""
+
+msgid "activate"
+msgstr ""
+
+msgid "deactivate"
+msgstr ""
+
+msgid "increase"
+msgstr ""
+
+msgid "decrease"
+msgstr ""
+
+msgid "Font Override"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "DejaVu Sans"
+msgstr ""
+
+msgid "Opendyslexic"
+msgstr ""
+
+msgid "Text Size Scaling"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Line Spacing Scaling"
+msgstr ""
+
+msgid "Self-Voicing"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Text-to-speech"
+msgstr ""
+
+msgid "Clipboard"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Self-Voicing Volume Drop"
+msgstr ""
+
+msgid "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+msgstr ""
+
+msgid "Return"
+msgstr ""
+
+msgid "{#weekday}Monday"
+msgstr ""
+
+msgid "{#weekday}Tuesday"
+msgstr ""
+
+msgid "{#weekday}Wednesday"
+msgstr ""
+
+msgid "{#weekday}Thursday"
+msgstr ""
+
+msgid "{#weekday}Friday"
+msgstr ""
+
+msgid "{#weekday}Saturday"
+msgstr ""
+
+msgid "{#weekday}Sunday"
+msgstr ""
+
+msgid "{#weekday_short}Mon"
+msgstr ""
+
+msgid "{#weekday_short}Tue"
+msgstr ""
+
+msgid "{#weekday_short}Wed"
+msgstr ""
+
+msgid "{#weekday_short}Thu"
+msgstr ""
+
+msgid "{#weekday_short}Fri"
+msgstr ""
+
+msgid "{#weekday_short}Sat"
+msgstr ""
+
+msgid "{#weekday_short}Sun"
+msgstr ""
+
+msgid "{#month}January"
+msgstr ""
+
+msgid "{#month}February"
+msgstr ""
+
+msgid "{#month}March"
+msgstr ""
+
+msgid "{#month}April"
+msgstr ""
+
+msgid "{#month}May"
+msgstr ""
+
+msgid "{#month}June"
+msgstr ""
+
+msgid "{#month}July"
+msgstr ""
+
+msgid "{#month}August"
+msgstr ""
+
+msgid "{#month}September"
+msgstr ""
+
+msgid "{#month}October"
+msgstr ""
+
+msgid "{#month}November"
+msgstr ""
+
+msgid "{#month}December"
+msgstr ""
+
+msgid "{#month_short}Jan"
+msgstr ""
+
+msgid "{#month_short}Feb"
+msgstr ""
+
+msgid "{#month_short}Mar"
+msgstr ""
+
+msgid "{#month_short}Apr"
+msgstr ""
+
+msgid "{#month_short}May"
+msgstr ""
+
+msgid "{#month_short}Jun"
+msgstr ""
+
+msgid "{#month_short}Jul"
+msgstr ""
+
+msgid "{#month_short}Aug"
+msgstr ""
+
+msgid "{#month_short}Sep"
+msgstr ""
+
+msgid "{#month_short}Oct"
+msgstr ""
+
+msgid "{#month_short}Nov"
+msgstr ""
+
+msgid "{#month_short}Dec"
+msgstr ""
+
+msgid "%b %d, %H:%M"
+msgstr ""
+
+msgid "Save slot %s: [text]"
+msgstr ""
+
+msgid "Load slot %s: [text]"
+msgstr ""
+
+msgid "Delete slot [text]"
+msgstr ""
+
+msgid "File page auto"
+msgstr ""
+
+msgid "File page quick"
+msgstr ""
+
+msgid "File page [text]"
+msgstr ""
+
+msgid "Page {}"
+msgstr ""
+
+msgid "Automatic saves"
+msgstr ""
+
+msgid "Quick saves"
+msgstr ""
+
+msgid "Next file page."
+msgstr ""
+
+msgid "Previous file page."
+msgstr ""
+
+msgid "Quick save complete."
+msgstr ""
+
+msgid "Quick save."
+msgstr ""
+
+msgid "Quick load."
+msgstr ""
+
+msgid "Language [text]"
+msgstr ""
+
+msgid "The interactive director is not enabled here."
+msgstr ""
+
+msgid "⬆"
+msgstr ""
+
+msgid "⬇"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "(statement)"
+msgstr ""
+
+msgid "(tag)"
+msgstr ""
+
+msgid "(attributes)"
+msgstr ""
+
+msgid "(transform)"
+msgstr ""
+
+msgid "(transition)"
+msgstr ""
+
+msgid "(channel)"
+msgstr ""
+
+msgid "(filename)"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Statement:"
+msgstr ""
+
+msgid "Tag:"
+msgstr ""
+
+msgid "Attributes:"
+msgstr ""
+
+msgid "Transforms:"
+msgstr ""
+
+msgid "Behind:"
+msgstr ""
+
+msgid "Transition:"
+msgstr ""
+
+msgid "Channel:"
+msgstr ""
+
+msgid "Audio Filename:"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Are you sure you want to delete this save?"
+msgstr ""
+
+msgid "Are you sure you want to overwrite your save?"
+msgstr ""
+
+msgid "Loading will lose unsaved progress.\n"
+"Are you sure you want to do this?"
+msgstr ""
+
+msgid "Are you sure you want to quit?"
+msgstr ""
+
+msgid "Are you sure you want to return to the main menu?\n"
+"This will lose unsaved progress."
+msgstr ""
+
+msgid "Are you sure you want to end the replay?"
+msgstr ""
+
+msgid "Are you sure you want to begin skipping?"
+msgstr ""
+
+msgid "Are you sure you want to skip to the next choice?"
+msgstr ""
+
+msgid "Are you sure you want to skip unseen dialogue to the next choice?"
+msgstr ""
+
+msgid "Failed to save screenshot as %s."
+msgstr ""
+
+msgid "Saved screenshot as %s."
+msgstr ""
+
+msgid "Skip Mode"
+msgstr ""
+
+msgid "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+msgstr ""
+
+msgid "display"
+msgstr ""
+
+msgid "transitions"
+msgstr ""
+
+msgid "skip transitions"
+msgstr ""
+
+msgid "video sprites"
+msgstr ""
+
+msgid "show empty window"
+msgstr ""
+
+msgid "text speed"
+msgstr ""
+
+msgid "joystick"
+msgstr ""
+
+msgid "joystick..."
+msgstr ""
+
+msgid "skip"
+msgstr ""
+
+msgid "skip unseen [text]"
+msgstr ""
+
+msgid "skip unseen text"
+msgstr ""
+
+msgid "begin skipping"
+msgstr ""
+
+msgid "after choices"
+msgstr ""
+
+msgid "skip after choices"
+msgstr ""
+
+msgid "auto-forward time"
+msgstr ""
+
+msgid "auto-forward"
+msgstr ""
+
+msgid "Auto forward"
+msgstr ""
+
+msgid "auto-forward after click"
+msgstr ""
+
+msgid "automatic move"
+msgstr ""
+
+msgid "wait for voice"
+msgstr ""
+
+msgid "voice sustain"
+msgstr ""
+
+msgid "self voicing"
+msgstr ""
+
+msgid "self voicing volume drop"
+msgstr ""
+
+msgid "clipboard voicing"
+msgstr ""
+
+msgid "debug voicing"
+msgstr ""
+
+msgid "emphasize audio"
+msgstr ""
+
+msgid "rollback side"
+msgstr ""
+
+msgid "gl powersave"
+msgstr ""
+
+msgid "gl framerate"
+msgstr ""
+
+msgid "gl tearing"
+msgstr ""
+
+msgid "font transform"
+msgstr ""
+
+msgid "font size"
+msgstr ""
+
+msgid "font line spacing"
+msgstr ""
+
+msgid "system cursor"
+msgstr ""
+
+msgid "music volume"
+msgstr ""
+
+msgid "sound volume"
+msgstr ""
+
+msgid "voice volume"
+msgstr ""
+
+msgid "mute music"
+msgstr ""
+
+msgid "mute sound"
+msgstr ""
+
+msgid "mute voice"
+msgstr ""
+
+msgid "mute all"
+msgstr ""
+
+msgid "Clipboard voicing enabled. Press 'shift+C' to disable."
+msgstr ""
+
+msgid "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+msgstr ""
+
+msgid "Self-voicing enabled. Press 'v' to disable."
+msgstr ""
+
+msgid "Empty Slot."
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Joystick Mapping"
+msgstr ""
+
+msgid "Developer Menu"
+msgstr ""
+
+msgid "Interactive Director (D)"
+msgstr ""
+
+msgid "Reload Game (Shift+R)"
+msgstr ""
+
+msgid "Console (Shift+O)"
+msgstr ""
+
+msgid "Variable Viewer"
+msgstr ""
+
+msgid "Image Location Picker"
+msgstr ""
+
+msgid "Filename List"
+msgstr ""
+
+msgid "Show Image Load Log (F4)"
+msgstr ""
+
+msgid "Hide Image Load Log (F4)"
+msgstr ""
+
+msgid "Image Attributes"
+msgstr ""
+
+msgid "[name] [attributes] (hidden)"
+msgstr ""
+
+msgid "[name] [attributes]"
+msgstr ""
+
+msgid "Nothing to inspect."
+msgstr ""
+
+msgid "Hide deleted"
+msgstr ""
+
+msgid "Show deleted"
+msgstr ""
+
+msgid "Return to the developer menu"
+msgstr ""
+
+msgid "Rectangle: %r"
+msgstr ""
+
+msgid "Mouse position: %r"
+msgstr ""
+
+msgid "Right-click or escape to quit."
+msgstr ""
+
+msgid "Rectangle copied to clipboard."
+msgstr ""
+
+msgid "Position copied to clipboard."
+msgstr ""
+
+msgid "Type to filter: "
+msgstr ""
+
+msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+msgstr ""
+
+msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+msgstr ""
+
+msgid "✔ "
+msgstr ""
+
+msgid "✘ "
+msgstr ""
+
+msgid "\n"
+"{color=#cfc}✔ predicted image (good){/color}\n"
+"{color=#fcc}✘ unpredicted image (bad){/color}\n"
+"{color=#fff}Drag to move.{/color}"
+msgstr ""
+
+msgid "Displayable Inspector"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Inspecting Styles of [displayable_name!q]"
+msgstr ""
+
+msgid "displayable:"
+msgstr ""
+
+msgid "        (no properties affect the displayable)"
+msgstr ""
+
+msgid "        (default properties omitted)"
+msgstr ""
+
+msgid "<repr() failed>"
+msgstr ""
+
+msgid "a"
+msgstr ""
+
+msgid "q"
+msgstr ""
+
+msgid "Contacting App Store\n"
+"Please Wait..."
+msgstr ""
+
+msgid "The Ren'Py Updater is not supported on mobile devices."
+msgstr ""
+
+msgid "An error is being simulated."
+msgstr ""
+
+msgid "Either this project does not support updating, or the update status file was deleted."
+msgstr ""
+
+msgid "This account does not have permission to perform an update."
+msgstr ""
+
+msgid "This account does not have permission to write the update log."
+msgstr ""
+
+msgid "Could not verify update signature."
+msgstr ""
+
+msgid "The update file was not downloaded."
+msgstr ""
+
+msgid "The update file does not have the correct digest - it may have been corrupted."
+msgstr ""
+
+msgid "While unpacking {}, unknown type {}."
+msgstr ""
+
+msgid "Updater"
+msgstr ""
+
+msgid "An error has occured:"
+msgstr ""
+
+msgid "Checking for updates."
+msgstr ""
+
+msgid "This program is up to date."
+msgstr ""
+
+msgid "[u.version] is available. Do you want to install it?"
+msgstr ""
+
+msgid "Preparing to download the updates."
+msgstr ""
+
+msgid "Downloading the updates."
+msgstr ""
+
+msgid "Unpacking the updates."
+msgstr ""
+
+msgid "Finishing up."
+msgstr ""
+
+msgid "The updates have been installed. The program will restart."
+msgstr ""
+
+msgid "The updates have been installed."
+msgstr ""
+
+msgid "The updates were cancelled."
+msgstr ""
+
+msgid "Proceed"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Image [index] of [count] locked."
+msgstr ""
+
+msgid "prev"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "slideshow"
+msgstr ""
+
+msgid "return"
+msgstr ""
+
+msgid "Renderer"
+msgstr ""
+
+msgid "Automatically Choose"
+msgstr ""
+
+msgid "Force GL Renderer"
+msgstr ""
+
+msgid "Force ANGLE Renderer"
+msgstr ""
+
+msgid "Force GLES Renderer"
+msgstr ""
+
+msgid "Force GL2 Renderer"
+msgstr ""
+
+msgid "Force ANGLE2 Renderer"
+msgstr ""
+
+msgid "Force GLES2 Renderer"
+msgstr ""
+
+msgid "Gamepad"
+msgstr ""
+
+msgid "Enable (No Blocklist)"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Calibrate"
+msgstr ""
+
+msgid "Powersave"
+msgstr ""
+
+msgid "Framerate"
+msgstr ""
+
+msgid "Screen"
+msgstr ""
+
+msgid "60"
+msgstr ""
+
+msgid "30"
+msgstr ""
+
+msgid "Tearing"
+msgstr ""
+
+msgid "Changes will take effect the next time this program is run."
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Performance Warning"
+msgstr ""
+
+msgid "This computer is using software rendering."
+msgstr ""
+
+msgid "This game requires use of GL2 that can't be initialised."
+msgstr ""
+
+msgid "This computer has a problem displaying graphics: [problem]."
+msgstr ""
+
+msgid "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+msgstr ""
+
+msgid "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+msgstr ""
+
+msgid "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+msgstr ""
+
+msgid "Continue, Show this warning again"
+msgstr ""
+
+msgid "Continue, Don't show warning again"
+msgstr ""
+
+msgid "Change render options"
+msgstr ""
+
+msgid "Select Gamepad to Calibrate"
+msgstr ""
+
+msgid "No Gamepads Available"
+msgstr ""
+
+msgid "Calibrating [name] ([i]/[total])"
+msgstr ""
+
+msgid "Press or move the '[control!s]' [kind]."
+msgstr ""
+
+msgid "Skip (A)"
+msgstr ""
+
+msgid "Back (B)"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Opens the traceback.txt file in a text editor."
+msgstr ""
+
+msgid "Copy BBCode"
+msgstr ""
+
+msgid "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+msgstr ""
+
+msgid "Copy Markdown"
+msgstr ""
+
+msgid "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+msgstr ""
+
+msgid "An exception has occurred."
+msgstr ""
+
+msgid "Rollback"
+msgstr ""
+
+msgid "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+msgstr ""
+
+msgid "Ignore"
+msgstr ""
+
+msgid "Ignores the exception, allowing you to continue."
+msgstr ""
+
+msgid "Ignores the exception, allowing you to continue. This often leads to additional errors."
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Reloads the game from disk, saving and restoring game state if possible."
+msgstr ""
+
+msgid "Console"
+msgstr ""
+
+msgid "Opens a console to allow debugging the problem."
+msgstr ""
+
+msgid "Quits the game."
+msgstr ""
+
+msgid "Parsing the script failed."
+msgstr ""
+
+msgid "Opens the errors.txt file in a text editor."
+msgstr ""
+
+msgid "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+msgstr ""
+
+msgid "Copies the errors.txt file to the clipboard as Markdown for Discord."
+msgstr ""
+
