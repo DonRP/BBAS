@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/core.po\n"
+"X-Crowdin-File-ID: 889\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2021-08-28 17:00\n"
+
+msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
+msgstr ""
+
+msgid "[Max_19]Теперь можно спокойно спать и ничего больше..."
+msgstr ""
+
+msgid "[Max_09]Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
+msgstr ""
+
+msgid "[Max_09]Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
+msgstr ""
+
+msgid "[Max_09]Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...[nointeract]"
+msgstr ""
+
+msgid "[Max_09]Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
+msgstr ""
+
+msgid "[Max_09]Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
+msgstr ""
+
+msgid "[Max_09]Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...[nointeract]"
+msgstr ""
+
+msgid "[Max_00]Сейчас здесь ничего не происходит."
+msgstr ""
+
+msgid "[Max_01]{i}( Так, фотокамеру я заказал, осталось дождаться доставки... ){/i}"
+msgstr ""
+
+msgid "[Max_07]{i}( Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс... ){/i}"
+msgstr ""
+
+msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgstr ""
+
+msgid "_ver [_version], conf.ver [config.version]"
+msgstr ""
+
+#    # game/core/core.rpy:353
+msgid "В интернет-магазине доступен новый товар."
+msgstr ""
+
+#    # game/core/core.rpy:553
+msgid "{i}идти на веранду{/i}"
+msgstr ""
+
+#    # game/core/core.rpy:553
+msgid "{i}не сейчас{/i}"
+msgstr ""
+
