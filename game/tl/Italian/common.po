@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 16:43\n"
+"PO-Revision-Date: 2021-08-28 17:00\n"
 
 msgid "Self-voicing disabled."
 msgstr "Auto-fatturazione disabilitata."
@@ -28,211 +28,211 @@ msgid "selected"
 msgstr "selezionato"
 
 msgid "viewport"
-msgstr ""
+msgstr "finestra"
 
 msgid "horizontal scroll"
-msgstr ""
+msgstr "scorrimento orizzontale"
 
 msgid "vertical scroll"
-msgstr ""
+msgstr "scorrimento verticale"
 
 msgid "activate"
-msgstr ""
+msgstr "attivare"
 
 msgid "deactivate"
-msgstr ""
+msgstr "disattivare"
 
 msgid "increase"
-msgstr ""
+msgstr "aumento"
 
 msgid "decrease"
-msgstr ""
+msgstr "decrescere"
 
 msgid "Font Override"
-msgstr ""
+msgstr "Sostituzione dei caratteri"
 
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 msgid "DejaVu Sans"
-msgstr ""
+msgstr "DejaVu Sans"
 
 msgid "Opendyslexic"
-msgstr ""
+msgstr "Opendyslexic"
 
 msgid "Text Size Scaling"
-msgstr ""
+msgstr "Ridimensionamento delle dimensioni del testo"
 
 msgid "Reset"
-msgstr ""
+msgstr "Resettare"
 
 msgid "Line Spacing Scaling"
-msgstr ""
+msgstr "Ridimensionamento dell'interlinea"
 
 msgid "Self-Voicing"
-msgstr ""
+msgstr "Auto-fatturazione"
 
 msgid "Off"
-msgstr ""
+msgstr "Spento"
 
 msgid "Text-to-speech"
-msgstr ""
+msgstr "Sintesi vocale"
 
 msgid "Clipboard"
-msgstr ""
+msgstr "Appunti"
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Self-Voicing Volume Drop"
-msgstr ""
+msgstr "Calo del volume auto-fatturato"
 
 msgid "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-msgstr ""
+msgstr "Le opzioni di questo menu hanno lo scopo di migliorare l'accessibilità. Potrebbero non funzionare con tutti i giochi e alcune combinazioni di opzioni potrebbero rendere il gioco ingiocabile. Questo non è un problema con il gioco o il motore. Per ottenere i migliori risultati quando si cambiano i caratteri, cercare di mantenere le dimensioni del testo uguali a quelle originali."
 
 msgid "Return"
-msgstr ""
+msgstr "Ritorno"
 
 msgid "{#weekday}Monday"
-msgstr ""
+msgstr "{#weekday}Lunedì"
 
 msgid "{#weekday}Tuesday"
-msgstr ""
+msgstr "{#weekday}Martedì"
 
 msgid "{#weekday}Wednesday"
-msgstr ""
+msgstr "{#weekday}Mercoledì"
 
 msgid "{#weekday}Thursday"
-msgstr ""
+msgstr "{#weekday}Giovedì"
 
 msgid "{#weekday}Friday"
-msgstr ""
+msgstr "{#weekday}Venerdì"
 
 msgid "{#weekday}Saturday"
-msgstr ""
+msgstr "{#weekday}Sabato"
 
 msgid "{#weekday}Sunday"
-msgstr ""
+msgstr "{#weekday}Domenica"
 
 msgid "{#weekday_short}Mon"
-msgstr ""
+msgstr "{#weekday_short}lun"
 
 msgid "{#weekday_short}Tue"
-msgstr ""
+msgstr "{#weekday_short}Mar"
 
 msgid "{#weekday_short}Wed"
-msgstr ""
+msgstr "{#weekday_short}DiRo"
 
 msgid "{#weekday_short}Thu"
-msgstr ""
+msgstr "{#weekday_short}Gio"
 
 msgid "{#weekday_short}Fri"
-msgstr ""
+msgstr "{#weekday_short}Ven"
 
 msgid "{#weekday_short}Sat"
-msgstr ""
+msgstr "{#weekday_short}Sab"
 
 msgid "{#weekday_short}Sun"
-msgstr ""
+msgstr "{#weekday_short}Sole"
 
 msgid "{#month}January"
-msgstr ""
+msgstr "{#month}gennaio"
 
 msgid "{#month}February"
-msgstr ""
+msgstr "{#month}Febbraio"
 
 msgid "{#month}March"
-msgstr ""
+msgstr "{#month}marzo"
 
 msgid "{#month}April"
-msgstr ""
+msgstr "{#month}aprile"
 
 msgid "{#month}May"
-msgstr ""
+msgstr "{#month}maggio"
 
 msgid "{#month}June"
-msgstr ""
+msgstr "{#month}giugno"
 
 msgid "{#month}July"
-msgstr ""
+msgstr "{#month}luglio"
 
 msgid "{#month}August"
-msgstr ""
+msgstr "{#month}Agosto"
 
 msgid "{#month}September"
-msgstr ""
+msgstr "{#month}settembre"
 
 msgid "{#month}October"
-msgstr ""
+msgstr "{#month}ottobre"
 
 msgid "{#month}November"
-msgstr ""
+msgstr "{#month}Novembre"
 
 msgid "{#month}December"
-msgstr ""
+msgstr "{#month}dicembre"
 
 msgid "{#month_short}Jan"
-msgstr ""
+msgstr "{#month_short}Gen"
 
 msgid "{#month_short}Feb"
-msgstr ""
+msgstr "{#month_short}Feb"
 
 msgid "{#month_short}Mar"
-msgstr ""
+msgstr "{#month_short}mar"
 
 msgid "{#month_short}Apr"
-msgstr ""
+msgstr "{#month_short}apr"
 
 msgid "{#month_short}May"
-msgstr ""
+msgstr "{#month_short}maggio"
 
 msgid "{#month_short}Jun"
-msgstr ""
+msgstr "{#month_short}Giu"
 
 msgid "{#month_short}Jul"
-msgstr ""
+msgstr "{#month_short}lug"
 
 msgid "{#month_short}Aug"
-msgstr ""
+msgstr "{#month_short}ago"
 
 msgid "{#month_short}Sep"
-msgstr ""
+msgstr "{#month_short}Set"
 
 msgid "{#month_short}Oct"
-msgstr ""
+msgstr "{#month_short}Ott"
 
 msgid "{#month_short}Nov"
-msgstr ""
+msgstr "{#month_short}nov"
 
 msgid "{#month_short}Dec"
-msgstr ""
+msgstr "{#month_short}Dic"
 
 msgid "%b %d, %H:%M"
-msgstr ""
+msgstr "%b %d, %H:%M"
 
 msgid "Save slot %s: [text]"
-msgstr ""
+msgstr "Salva slot %s: [text]"
 
 msgid "Load slot %s: [text]"
-msgstr ""
+msgstr "%sdello slot di carico: [text]"
 
 msgid "Delete slot [text]"
-msgstr ""
+msgstr "Eliminare [text] slot"
 
 msgid "File page auto"
-msgstr ""
+msgstr "Pagina del file automatica"
 
 msgid "File page quick"
-msgstr ""
+msgstr "Pagina del file rapida"
 
 msgid "File page [text]"
-msgstr ""
+msgstr "[text] della pagina del file"
 
 msgid "Page {}"
-msgstr ""
+msgstr "Pagina {}"
 
 msgid "Automatic saves"
-msgstr ""
+msgstr "Salvataggi automatici"
 
 msgid "Quick saves"
 msgstr ""
@@ -331,156 +331,158 @@ msgid "Are you sure you want to delete this save?"
 msgstr ""
 
 msgid "Are you sure you want to overwrite your save?"
-msgstr ""
+msgstr "Sei sicuro di voler sovrascrivere il tuo salvataggio?"
 
 msgid "Loading will lose unsaved progress.\n"
 "Are you sure you want to do this?"
-msgstr ""
+msgstr "Il caricamento perderà i progressi non salvati.\n"
+"Sei sicuro di volerlo fare?"
 
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Sei sicuro di voler smettere?"
 
 msgid "Are you sure you want to return to the main menu?\n"
 "This will lose unsaved progress."
-msgstr ""
+msgstr "Sei sicuro di voler tornare al menu principale?\n"
+"Questo perderà progressi non salvati."
 
 msgid "Are you sure you want to end the replay?"
-msgstr ""
+msgstr "Sei sicuro di voler terminare il replay?"
 
 msgid "Are you sure you want to begin skipping?"
-msgstr ""
+msgstr "Sei sicuro di voler iniziare a saltare?"
 
 msgid "Are you sure you want to skip to the next choice?"
-msgstr ""
+msgstr "Sei sicuro di voler passare alla scelta successiva?"
 
 msgid "Are you sure you want to skip unseen dialogue to the next choice?"
-msgstr ""
+msgstr "Sei sicuro di voler saltare il dialogo invisibile alla prossima scelta?"
 
 msgid "Failed to save screenshot as %s."
-msgstr ""
+msgstr "Impossibile salvare lo screenshot come %s."
 
 msgid "Saved screenshot as %s."
-msgstr ""
+msgstr "Screenshot salvato come %s."
 
 msgid "Skip Mode"
-msgstr ""
+msgstr "Modalità Skip"
 
 msgid "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-msgstr ""
+msgstr "Questo programma contiene software libero sotto un certo numero di licenze, tra cui la MIT License e la GNU Lesser General Public License. Un elenco completo del software, inclusi i collegamenti al codice sorgente completo, può essere trovato {a=https://www.renpy.org/l/license}here{/a}."
 
 msgid "display"
-msgstr ""
+msgstr "esporre"
 
 msgid "transitions"
-msgstr ""
+msgstr "transizioni"
 
 msgid "skip transitions"
-msgstr ""
+msgstr "salta le transizioni"
 
 msgid "video sprites"
-msgstr ""
+msgstr "sprite video"
 
 msgid "show empty window"
-msgstr ""
+msgstr "mostra finestra vuota"
 
 msgid "text speed"
-msgstr ""
+msgstr "velocità del testo"
 
 msgid "joystick"
-msgstr ""
+msgstr "joystick"
 
 msgid "joystick..."
-msgstr ""
+msgstr "joystick..."
 
 msgid "skip"
-msgstr ""
+msgstr "saltare"
 
 msgid "skip unseen [text]"
-msgstr ""
+msgstr "salta [text] invisibili"
 
 msgid "skip unseen text"
-msgstr ""
+msgstr "ignorare il testo non visibile"
 
 msgid "begin skipping"
-msgstr ""
+msgstr "inizia a saltare"
 
 msgid "after choices"
-msgstr ""
+msgstr "dopo le scelte"
 
 msgid "skip after choices"
-msgstr ""
+msgstr "salta dopo le scelte"
 
 msgid "auto-forward time"
-msgstr ""
+msgstr "tempo di inoltro automatico"
 
 msgid "auto-forward"
-msgstr ""
+msgstr "inoltro automatico"
 
 msgid "Auto forward"
-msgstr ""
+msgstr "Inoltro automatico"
 
 msgid "auto-forward after click"
-msgstr ""
+msgstr "inoltro automatico dopo aver fatto clic su"
 
 msgid "automatic move"
-msgstr ""
+msgstr "spostamento automatico"
 
 msgid "wait for voice"
-msgstr ""
+msgstr "aspetta la voce"
 
 msgid "voice sustain"
-msgstr ""
+msgstr "voce sustain"
 
 msgid "self voicing"
-msgstr ""
+msgstr "auto-fatturazione"
 
 msgid "self voicing volume drop"
-msgstr ""
+msgstr "calo del volume auto-vocale"
 
 msgid "clipboard voicing"
-msgstr ""
+msgstr "voce degli Appunti"
 
 msgid "debug voicing"
-msgstr ""
+msgstr "eseguire il debug della voce"
 
 msgid "emphasize audio"
-msgstr ""
+msgstr "enfatizzare l'audio"
 
 msgid "rollback side"
-msgstr ""
+msgstr "lato rollback"
 
 msgid "gl powersave"
-msgstr ""
+msgstr "gl powersave"
 
 msgid "gl framerate"
-msgstr ""
+msgstr "framerate gl"
 
 msgid "gl tearing"
-msgstr ""
+msgstr "gl strappo"
 
 msgid "font transform"
-msgstr ""
+msgstr "trasformazione del carattere"
 
 msgid "font size"
-msgstr ""
+msgstr "dimensione del carattere"
 
 msgid "font line spacing"
-msgstr ""
+msgstr "interlinea del carattere"
 
 msgid "system cursor"
-msgstr ""
+msgstr "cursore di sistema"
 
 msgid "music volume"
-msgstr ""
+msgstr "volume della musica"
 
 msgid "sound volume"
-msgstr ""
+msgstr "volume del suono"
 
 msgid "voice volume"
-msgstr ""
+msgstr "volume della voce"
 
 msgid "mute music"
-msgstr ""
+msgstr "silenziare la musica"
 
 msgid "mute sound"
 msgstr ""
@@ -637,154 +639,154 @@ msgid "The Ren'Py Updater is not supported on mobile devices."
 msgstr ""
 
 msgid "An error is being simulated."
-msgstr ""
+msgstr "Si sta simulando un errore."
 
 msgid "Either this project does not support updating, or the update status file was deleted."
-msgstr ""
+msgstr "Questo progetto non supporta l'aggiornamento oppure il file di stato dell'aggiornamento è stato eliminato."
 
 msgid "This account does not have permission to perform an update."
-msgstr ""
+msgstr "Questo account non dispone dell'autorizzazione per eseguire un aggiornamento."
 
 msgid "This account does not have permission to write the update log."
-msgstr ""
+msgstr "Questo account non dispone dell'autorizzazione per scrivere il registro degli aggiornamenti."
 
 msgid "Could not verify update signature."
-msgstr ""
+msgstr "Impossibile verificare la firma di aggiornamento."
 
 msgid "The update file was not downloaded."
-msgstr ""
+msgstr "Il file di aggiornamento non è stato scaricato."
 
 msgid "The update file does not have the correct digest - it may have been corrupted."
-msgstr ""
+msgstr "Il file di aggiornamento non dispone del digest corretto - potrebbe essere stato danneggiato."
 
 msgid "While unpacking {}, unknown type {}."
-msgstr ""
+msgstr "Durante il disimballaggio {}, tipo sconosciuto {}."
 
 msgid "Updater"
-msgstr ""
+msgstr "Updater"
 
 msgid "An error has occured:"
-msgstr ""
+msgstr "Si è verificato un errore:"
 
 msgid "Checking for updates."
-msgstr ""
+msgstr "Verifica della disponibilità di aggiornamenti."
 
 msgid "This program is up to date."
-msgstr ""
+msgstr "Questo programma è aggiornato."
 
 msgid "[u.version] is available. Do you want to install it?"
-msgstr ""
+msgstr "[u.version] è disponibile. Vuoi installarlo?"
 
 msgid "Preparing to download the updates."
-msgstr ""
+msgstr "Preparazione al download degli aggiornamenti."
 
 msgid "Downloading the updates."
-msgstr ""
+msgstr "Download degli aggiornamenti."
 
 msgid "Unpacking the updates."
-msgstr ""
+msgstr "Decomprimere gli aggiornamenti."
 
 msgid "Finishing up."
-msgstr ""
+msgstr "Finire."
 
 msgid "The updates have been installed. The program will restart."
-msgstr ""
+msgstr "Gli aggiornamenti sono stati installati. Il programma verrà riavviato."
 
 msgid "The updates have been installed."
-msgstr ""
+msgstr "Gli aggiornamenti sono stati installati."
 
 msgid "The updates were cancelled."
-msgstr ""
+msgstr "Gli aggiornamenti sono stati annullati."
 
 msgid "Proceed"
-msgstr ""
+msgstr "Procedere"
 
 msgid "Fullscreen"
-msgstr ""
+msgstr "Schermo intero"
 
 msgid "Image [index] of [count] locked."
-msgstr ""
+msgstr "Immagine [index] di [count] bloccato."
 
 msgid "prev"
-msgstr ""
+msgstr "prev"
 
 msgid "next"
-msgstr ""
+msgstr "prossimo"
 
 msgid "slideshow"
-msgstr ""
+msgstr "presentazione"
 
 msgid "return"
-msgstr ""
+msgstr "ritorno"
 
 msgid "Renderer"
-msgstr ""
+msgstr "Renderer"
 
 msgid "Automatically Choose"
-msgstr ""
+msgstr "Scegli automaticamente"
 
 msgid "Force GL Renderer"
-msgstr ""
+msgstr "Forza GL Renderer"
 
 msgid "Force ANGLE Renderer"
-msgstr ""
+msgstr "Force ANGLE Renderer"
 
 msgid "Force GLES Renderer"
-msgstr ""
+msgstr "Forza GLES Renderer"
 
 msgid "Force GL2 Renderer"
-msgstr ""
+msgstr "Forza GL2 Renderer"
 
 msgid "Force ANGLE2 Renderer"
-msgstr ""
+msgstr "Forza ANGLE2 Renderer"
 
 msgid "Force GLES2 Renderer"
-msgstr ""
+msgstr "Forza GLES2 Renderer"
 
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 msgid "Enable (No Blocklist)"
-msgstr ""
+msgstr "Abilita (nessuna lista di blocchi)"
 
 msgid "Enable"
-msgstr ""
+msgstr "Abilitare"
 
 msgid "Disable"
-msgstr ""
+msgstr "Disabilitare"
 
 msgid "Calibrate"
-msgstr ""
+msgstr "Calibrare"
 
 msgid "Powersave"
-msgstr ""
+msgstr "Powersave"
 
 msgid "Framerate"
-msgstr ""
+msgstr "Framerate"
 
 msgid "Screen"
-msgstr ""
+msgstr "Schermo"
 
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgid "Tearing"
-msgstr ""
+msgstr "Violento"
 
 msgid "Changes will take effect the next time this program is run."
-msgstr ""
+msgstr "Le modifiche avranno effetto la prossima volta che questo programma verrà eseguito."
 
 msgid "Quit"
-msgstr ""
+msgstr "Dimettersi"
 
 msgid "Performance Warning"
-msgstr ""
+msgstr "Avviso sulle prestazioni"
 
 msgid "This computer is using software rendering."
-msgstr ""
+msgstr "Questo computer utilizza il rendering software."
 
 msgid "This game requires use of GL2 that can't be initialised."
 msgstr ""
