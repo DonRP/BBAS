@@ -51,8 +51,8 @@ msgstr "[Max_09]Опа, Эрик! Что это он там делает, дро
 # game/events/alice_cam.rpy:56
 # translate crowdin cam0_alice_sleep_night_ba6907da:
 
-msgid "[Max_03]Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?!" nointeract
-msgstr "[Max_03]Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?!" nointeract
+msgid "[Max_03]Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?![nointeract]"
+msgstr "[Max_03]Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?![nointeract]"
 
 # game/events/alice_cam.rpy:70
 # translate crowdin cam0_alice_sleep_night_5b3adf24:
@@ -63,8 +63,8 @@ msgstr "[Max_03]Ага! Эрик опять дрочит на Алису... То
 # game/events/alice_cam.rpy:72
 # translate crowdin cam0_alice_sleep_night_e319aa8d:
 
-msgid "[Max_03]Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой..." nointeract
-msgstr "[Max_03]Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой..." nointeract
+msgid "[Max_03]Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...[nointeract]"
+msgstr "[Max_03]Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...[nointeract]"
 
 # game/events/alice_cam.rpy:81
 # translate crowdin cam0_alice_sleep_night_badc9d8f:
@@ -75,8 +75,8 @@ msgstr "[Max_09]Эрик опять дрочит на Алису... В чём п
 # game/events/alice_cam.rpy:83
 # translate crowdin cam0_alice_sleep_night_1d708372:
 
-msgid "[Max_09]Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь..." nointeract
-msgstr "[Max_09]Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь..." nointeract
+msgid "[Max_09]Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...[nointeract]"
+msgstr "[Max_09]Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...[nointeract]"
 
 # game/events/alice_cam.rpy:93
 # translate crowdin cam0_alice_sleep_night_ecdbc7a2:
@@ -225,14 +225,14 @@ msgstr "[Max_09]Ничего интересного я здесь уже не у
 # game/events/alice_cam.rpy:327
 # translate crowdin cam0_alice_dressed_shop_c8aa5176:
 
-msgid "[Max_07]Ага! Алиса наряжается, чтобы отправиться на шопинг..." nointeract
-msgstr "[Max_07]Ага! Алиса наряжается, чтобы отправиться на шопинг..." nointeract
+msgid "[Max_07]Ага! Алиса наряжается, чтобы отправиться на шопинг...[nointeract]"
+msgstr "[Max_07]Ага! Алиса наряжается, чтобы отправиться на шопинг...[nointeract]"
 
 # game/events/alice_cam.rpy:338
 # translate crowdin cam0_alice_dressed_shop_9d360f84:
 
-msgid "[Max_02]О да! Сейчас она совсем голенькая..." nointeract
-msgstr "[Max_02]О да! Сейчас она совсем голенькая..." nointeract
+msgid "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
+msgstr "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
 
 # game/events/alice_cam.rpy:350
 # translate crowdin cam0_alice_dressed_shop_64a95c05:
@@ -261,14 +261,14 @@ msgstr "[Max_09]Ничего интересного я здесь уже не у
 # game/events/alice_cam.rpy:385
 # translate crowdin cam0_alice_dressed_friend_bf45de39:
 
-msgid "[Max_07]Ага! Алиса наряжается, чтобы куда-то отправиться..." nointeract
-msgstr "[Max_07]Ага! Алиса наряжается, чтобы куда-то отправиться..." nointeract
+msgid "[Max_07]Ага! Алиса наряжается, чтобы куда-то отправиться...[nointeract]"
+msgstr "[Max_07]Ага! Алиса наряжается, чтобы куда-то отправиться...[nointeract]"
 
 # game/events/alice_cam.rpy:396
 # translate crowdin cam0_alice_dressed_friend_9d360f84:
 
-msgid "[Max_02]О да! Сейчас она совсем голенькая..." nointeract
-msgstr "[Max_02]О да! Сейчас она совсем голенькая..." nointeract
+msgid "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
+msgstr "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
 
 # game/events/alice_cam.rpy:408
 # translate crowdin cam0_alice_dressed_friend_356c787f:
@@ -297,14 +297,14 @@ msgstr "[Max_09]Ничего интересного я здесь уже не у
 # game/events/alice_cam.rpy:437
 # translate crowdin cam0_alice_dressed_club_cc04128a:
 
-msgid "[Max_07]Ага! Алиса наряжается, чтобы отправиться в клуб..." nointeract
-msgstr "[Max_07]Ага! Алиса наряжается, чтобы отправиться в клуб..." nointeract
+msgid "[Max_07]Ага! Алиса наряжается, чтобы отправиться в клуб...[nointeract]"
+msgstr "[Max_07]Ага! Алиса наряжается, чтобы отправиться в клуб...[nointeract]"
 
 # game/events/alice_cam.rpy:448
 # translate crowdin cam0_alice_dressed_club_9d360f84:
 
-msgid "[Max_02]О да! Сейчас она совсем голенькая..." nointeract
-msgstr "[Max_02]О да! Сейчас она совсем голенькая..." nointeract
+msgid "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
+msgstr "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
 
 # game/events/alice_cam.rpy:459
 # translate crowdin cam0_alice_dressed_club_356c787f:
