@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 16:27\n"
+"PO-Revision-Date: 2021-08-28 17:01\n"
 
 #    # game/core/05_schedule.rpy:7
 msgid "курит"
-msgstr ""
+msgstr "fuma"
 
 #    # game/core/05_schedule.rpy:7
 msgid "в бассейне"
-msgstr ""
+msgstr "in piscina"
 
 #    # game/core/05_schedule.rpy:74
 msgid "спит (утро)"
-msgstr ""
+msgstr "dorme (mattina)"
 
 #    # game/core/05_schedule.rpy:74
 msgid "в своей комнате"
-msgstr ""
+msgstr "in camera"
 
 #    # game/core/05_schedule.rpy:74
 msgid "читает на веранде"
-msgstr ""
+msgstr "si legge in veranda"
 
 #    # game/core/05_schedule.rpy:162
 msgid "семейный ужин"
-msgstr ""
+msgstr "cena in famiglia"
 
