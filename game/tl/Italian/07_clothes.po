@@ -10,49 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 16:27\n"
+"PO-Revision-Date: 2021-08-28 17:02\n"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Повседневная"
-msgstr ""
+msgstr "Informale"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Для сна"
-msgstr ""
+msgstr "Per dormire"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Для йоги"
-msgstr ""
+msgstr "Per lo Yoga"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Блог в нижнем белье"
-msgstr ""
+msgstr "Blog in intimo"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Готовит завтрак"
-msgstr ""
+msgstr "Prepara la colazione"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Готовит ужин"
-msgstr ""
+msgstr "Cucina la cena"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Утренний отдых"
-msgstr ""
+msgstr "Riposo mattutino"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Вечерний отдых"
-msgstr ""
+msgstr "Riposo serale"
 
 #    # game/core/07_clothes.rpy:86
 msgid "Купальник"
-msgstr ""
+msgstr "Costume da bagno"
 
 #    # game/core/07_clothes.rpy:86
 msgid "За уроками"
-msgstr ""
+msgstr "Per le lezioni"
 
 #    # game/core/07_clothes.rpy:160
 msgid "Влияние Макса недостаточно"
-msgstr ""
+msgstr "L'influenza di Max non è sufficiente"
 
