@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-28 17:00\n"
+"PO-Revision-Date: 2021-08-31 09:14\n"
 
 msgid "Self-voicing disabled."
 msgstr "Auto-fatturazione disabilitata."
@@ -235,100 +235,100 @@ msgid "Automatic saves"
 msgstr "Salvataggi automatici"
 
 msgid "Quick saves"
-msgstr ""
+msgstr "Salvataggi rapidi"
 
 msgid "Next file page."
-msgstr ""
+msgstr "Pagina del file successivo."
 
 msgid "Previous file page."
-msgstr ""
+msgstr "Pagina del file precedente."
 
 msgid "Quick save complete."
-msgstr ""
+msgstr "Salvataggio rapido completato."
 
 msgid "Quick save."
-msgstr ""
+msgstr "Salvataggio rapido."
 
 msgid "Quick load."
-msgstr ""
+msgstr "Caricamento rapido."
 
 msgid "Language [text]"
-msgstr ""
+msgstr "[text] della lingua"
 
 msgid "The interactive director is not enabled here."
-msgstr ""
+msgstr "Il director interattivo non è abilitato qui."
 
 msgid "⬆"
-msgstr ""
+msgstr "⬆"
 
 msgid "⬇"
-msgstr ""
+msgstr "⬇"
 
 msgid "Done"
-msgstr ""
+msgstr "Fatto"
 
 msgid "(statement)"
-msgstr ""
+msgstr "(dichiarazione)"
 
 msgid "(tag)"
-msgstr ""
+msgstr "(tag)"
 
 msgid "(attributes)"
-msgstr ""
+msgstr "(attributi)"
 
 msgid "(transform)"
-msgstr ""
+msgstr "(trasformare)"
 
 msgid "(transition)"
-msgstr ""
+msgstr "(transizione)"
 
 msgid "(channel)"
-msgstr ""
+msgstr "(canale)"
 
 msgid "(filename)"
-msgstr ""
+msgstr "(nome file)"
 
 msgid "Change"
-msgstr ""
+msgstr "Cambiare"
 
 msgid "Add"
-msgstr ""
+msgstr "Aggiungere"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 msgid "Remove"
-msgstr ""
+msgstr "Togliere"
 
 msgid "Statement:"
-msgstr ""
+msgstr "Affermazione:"
 
 msgid "Tag:"
-msgstr ""
+msgstr "Cartellino:"
 
 msgid "Attributes:"
-msgstr ""
+msgstr "Attributi:"
 
 msgid "Transforms:"
-msgstr ""
+msgstr "Trasforma:"
 
 msgid "Behind:"
-msgstr ""
+msgstr "Dietro:"
 
 msgid "Transition:"
-msgstr ""
+msgstr "Transizione:"
 
 msgid "Channel:"
-msgstr ""
+msgstr "Canale:"
 
 msgid "Audio Filename:"
-msgstr ""
+msgstr "Nome file audio:"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Sei sicuro?"
 
 msgid "Are you sure you want to delete this save?"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare questo salvataggio?"
 
 msgid "Are you sure you want to overwrite your save?"
 msgstr "Sei sicuro di voler sovrascrivere il tuo salvataggio?"
@@ -485,158 +485,162 @@ msgid "mute music"
 msgstr "silenziare la musica"
 
 msgid "mute sound"
-msgstr ""
+msgstr "disattivare l'audio"
 
 msgid "mute voice"
-msgstr ""
+msgstr "disattiva voce"
 
 msgid "mute all"
-msgstr ""
+msgstr "disattiva tutto"
 
 msgid "Clipboard voicing enabled. Press 'shift+C' to disable."
-msgstr ""
+msgstr "Voce negli Appunti abilitata. Premi 'maiusc+C' per disabilitare."
 
 msgid "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-msgstr ""
+msgstr "L'auto-voce direbbe \"[renpy.display.tts.last]\". Premi 'alt+maiusc+V' per disabilitare."
 
 msgid "Self-voicing enabled. Press 'v' to disable."
-msgstr ""
+msgstr "Auto-fatturazione abilitata. Premi 'v' per disabilitare."
 
 msgid "Empty Slot."
-msgstr ""
+msgstr "Slot vuoto."
 
 msgid "Previous"
-msgstr ""
+msgstr "Precedente"
 
 msgid "Next"
-msgstr ""
+msgstr "Prossimo"
 
 msgid "Joystick Mapping"
-msgstr ""
+msgstr "Mappatura joystick"
 
 msgid "Developer Menu"
-msgstr ""
+msgstr "Menu Sviluppatore"
 
 msgid "Interactive Director (D)"
-msgstr ""
+msgstr "Direttore interattivo (D)"
 
 msgid "Reload Game (Shift+R)"
-msgstr ""
+msgstr "Ricarica gioco (Maiusc + R)"
 
 msgid "Console (Shift+O)"
-msgstr ""
+msgstr "Console (Maiusc+O)"
 
 msgid "Variable Viewer"
-msgstr ""
+msgstr "Visualizzatore variabile"
 
 msgid "Image Location Picker"
-msgstr ""
+msgstr "Selezione posizione immagine"
 
 msgid "Filename List"
-msgstr ""
+msgstr "Elenco dei nomi dei file"
 
 msgid "Show Image Load Log (F4)"
-msgstr ""
+msgstr "Mostra registro caricamento immagine (F4)"
 
 msgid "Hide Image Load Log (F4)"
-msgstr ""
+msgstr "Nascondi registro caricamento immagine (F4)"
 
 msgid "Image Attributes"
-msgstr ""
+msgstr "Attributi immagine"
 
 msgid "[name] [attributes] (hidden)"
-msgstr ""
+msgstr "[name] [attributes] (nascosto)"
 
 msgid "[name] [attributes]"
-msgstr ""
+msgstr "[name] [attributes]"
 
 msgid "Nothing to inspect."
-msgstr ""
+msgstr "Niente da ispezionare."
 
 msgid "Hide deleted"
-msgstr ""
+msgstr "Nascondi eliminato"
 
 msgid "Show deleted"
-msgstr ""
+msgstr "Mostra cancellato"
 
 msgid "Return to the developer menu"
-msgstr ""
+msgstr "Torna al menu sviluppatore"
 
 msgid "Rectangle: %r"
-msgstr ""
+msgstr "Rettangolo: %r"
 
 msgid "Mouse position: %r"
-msgstr ""
+msgstr "Posizione del mouse: %r"
 
 msgid "Right-click or escape to quit."
-msgstr ""
+msgstr "Fare clic con il pulsante destro del mouse o eseguire l'escape per uscire."
 
 msgid "Rectangle copied to clipboard."
-msgstr ""
+msgstr "Rettangolo copiato negli Appunti."
 
 msgid "Position copied to clipboard."
-msgstr ""
+msgstr "Posizione copiata negli Appunti."
 
 msgid "Type to filter: "
-msgstr ""
+msgstr "Digitare per filtrare: "
 
 msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-msgstr ""
+msgstr "Texture: [tex_count] ([tex_size_mb:.1f] MB)"
 
 msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-msgstr ""
+msgstr "Cache immagine: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
 msgid "✔ "
-msgstr ""
+msgstr "✔ "
 
 msgid "✘ "
-msgstr ""
+msgstr "✘ "
 
 msgid "\n"
 "{color=#cfc}✔ predicted image (good){/color}\n"
 "{color=#fcc}✘ unpredicted image (bad){/color}\n"
 "{color=#fff}Drag to move.{/color}"
-msgstr ""
+msgstr "\n"
+"{color=#cfc}✔ predicted image (good){/color}\n"
+"{color=#fcc}✘ unpredicted image (bad){/color}\n"
+"{color=#fff}Drag to move. {/colore}"
 
 msgid "Displayable Inspector"
-msgstr ""
+msgstr "Ispettore visualizzabile"
 
 msgid "Size"
-msgstr ""
+msgstr "Grandezza"
 
 msgid "Style"
-msgstr ""
+msgstr "Stile"
 
 msgid "Location"
-msgstr ""
+msgstr "Ubicazione"
 
 msgid "Inspecting Styles of [displayable_name!q]"
-msgstr ""
+msgstr "Ispezione degli stili di [displayable_name!q]"
 
 msgid "displayable:"
-msgstr ""
+msgstr "visualizzabile:"
 
 msgid "        (no properties affect the displayable)"
-msgstr ""
+msgstr "        (nessuna proprietà influisce sul displayable)"
 
 msgid "        (default properties omitted)"
-msgstr ""
+msgstr "        (proprietà predefinite omesse)"
 
 msgid "<repr() failed>"
-msgstr ""
+msgstr "<repr() failed>"
 
 msgid "a"
-msgstr ""
+msgstr "un"
 
 msgid "q"
-msgstr ""
+msgstr "q"
 
 msgid "Contacting App Store\n"
 "Please Wait..."
-msgstr ""
+msgstr "Contattare l'App Store\n"
+"Si prega di attendere..."
 
 msgid "The Ren'Py Updater is not supported on mobile devices."
-msgstr ""
+msgstr "Ren'Py Updater non è supportato sui dispositivi mobili."
 
 msgid "An error is being simulated."
 msgstr "Si sta simulando un errore."
@@ -789,107 +793,107 @@ msgid "This computer is using software rendering."
 msgstr "Questo computer utilizza il rendering software."
 
 msgid "This game requires use of GL2 that can't be initialised."
-msgstr ""
+msgstr "Questo gioco richiede l'uso di GL2 che non può essere inizializzato."
 
 msgid "This computer has a problem displaying graphics: [problem]."
-msgstr ""
+msgstr "Questo computer ha un problema di visualizzazione della grafica: [problem]."
 
 msgid "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-msgstr ""
+msgstr "I suoi driver grafici potrebbero non essere aggiornati o non funzionare correttamente. Ciò può portare a una visualizzazione grafica lenta o errata."
 
 msgid "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-msgstr ""
+msgstr "Il file {a=edit:1:log.txt}log.txt{/a} può contenere informazioni che consentono di determinare cosa c'è che non va nel computer."
 
 msgid "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-msgstr ""
+msgstr "Maggiori dettagli su come risolvere questo problema sono disponibili nella {a=[url]}documentation{/a}."
 
 msgid "Continue, Show this warning again"
-msgstr ""
+msgstr "Continua, mostra di nuovo questo avviso"
 
 msgid "Continue, Don't show warning again"
-msgstr ""
+msgstr "Continua, non mostrare più l'avviso"
 
 msgid "Change render options"
-msgstr ""
+msgstr "Modificare le opzioni di rendering"
 
 msgid "Select Gamepad to Calibrate"
-msgstr ""
+msgstr "Seleziona Gamepad da calibrare"
 
 msgid "No Gamepads Available"
-msgstr ""
+msgstr "Nessun gamepad disponibile"
 
 msgid "Calibrating [name] ([i]/[total])"
-msgstr ""
+msgstr "[name] di calibrazione ([i]/[total])"
 
 msgid "Press or move the '[control!s]' [kind]."
-msgstr ""
+msgstr "Premere o spostare il [kind]'[control!s]'."
 
 msgid "Skip (A)"
-msgstr ""
+msgstr "Salta (A)"
 
 msgid "Back (B)"
-msgstr ""
+msgstr "Indietro (B)"
 
 msgid "Open"
-msgstr ""
+msgstr "Aperto"
 
 msgid "Opens the traceback.txt file in a text editor."
-msgstr ""
+msgstr "Apre il file traceback.txt in un editor di testo."
 
 msgid "Copy BBCode"
-msgstr ""
+msgstr "Copia BBCode"
 
 msgid "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-msgstr ""
+msgstr "Copia il file traceback.txt negli appunti come BBcode per forum come https://lemmasoft.renai.us/."
 
 msgid "Copy Markdown"
-msgstr ""
+msgstr "Copia Markdown"
 
 msgid "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-msgstr ""
+msgstr "Copia il file traceback.txt negli Appunti come Markdown per Discord."
 
 msgid "An exception has occurred."
-msgstr ""
+msgstr "Si è verificata un'eccezione."
 
 msgid "Rollback"
-msgstr ""
+msgstr "Replica"
 
 msgid "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-msgstr ""
+msgstr "Tenta di eseguire un rollback a un'ora precedente, consentendo di salvare o scegliere una scelta diversa."
 
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorare"
 
 msgid "Ignores the exception, allowing you to continue."
-msgstr ""
+msgstr "Ignora l'eccezione, consentendoti di continuare."
 
 msgid "Ignores the exception, allowing you to continue. This often leads to additional errors."
-msgstr ""
+msgstr "Ignora l'eccezione, consentendoti di continuare. Questo spesso porta a ulteriori errori."
 
 msgid "Reload"
-msgstr ""
+msgstr "Ricaricare"
 
 msgid "Reloads the game from disk, saving and restoring game state if possible."
-msgstr ""
+msgstr "Ricarica il gioco dal disco, salvando e ripristinando lo stato del gioco, se possibile."
 
 msgid "Console"
-msgstr ""
+msgstr "Confortare"
 
 msgid "Opens a console to allow debugging the problem."
-msgstr ""
+msgstr "Apre una console per consentire il debug del problema."
 
 msgid "Quits the game."
-msgstr ""
+msgstr "Chiude il gioco."
 
 msgid "Parsing the script failed."
-msgstr ""
+msgstr "L'analisi dello script non è riuscita."
 
 msgid "Opens the errors.txt file in a text editor."
-msgstr ""
+msgstr "Apre il file errors.txt in un editor di testo."
 
 msgid "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-msgstr ""
+msgstr "Copia il file.txt errori negli appunti come BBcode per forum come https://lemmasoft.renai.us/."
 
 msgid "Copies the errors.txt file to the clipboard as Markdown for Discord."
-msgstr ""
+msgstr "Copia il file.txt errori negli appunti come Markdown per Discord."
 
