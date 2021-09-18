@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-08-27 16:26\n"
+"PO-Revision-Date: 2021-09-18 20:50\n"
 
 msgid "Self-voicing disabled."
 msgstr ""
@@ -25,7 +25,7 @@ msgid "bar"
 msgstr ""
 
 msgid "selected"
-msgstr ""
+msgstr "selecionado"
 
 msgid "viewport"
 msgstr ""
