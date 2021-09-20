@@ -10,399 +10,399 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-20 08:28\n"
+"PO-Revision-Date: 2021-09-20 09:04\n"
 
 msgid "[Max_01]Вы не против, если я тоже позагораю?"
-msgstr ""
+msgstr "[Max_01]non ti dispiace se prendo il sole anche io?"
 
 msgid "[Olivia_01]Конечно, Макс... Мы не против! Такая классная погода стоит...[nointeract]"
-msgstr ""
+msgstr "[Olivia_01]Certo, Max... Non ci dispiace! Un clima così fresco vale la pena...[nointeract]"
 
 msgid "[Olivia_00]А, Макс. Хотел поговорить?[nointeract]"
-msgstr ""
+msgstr "[Olivia_00]A, Max. Volevi parlare?[nointeract]"
 
 msgid "[Lisa_01]Настроения?!"
-msgstr ""
+msgstr "[Lisa_01]Mood?!"
 
 msgid "[Olivia_02]Ага... И настроения тоже... Я, Макс, к этому абсолютно спокойно отношусь и всё понимаю. У тебя там, кстати, резинка в шортах не тугая? А то ещё передавит тебе там всё..."
-msgstr ""
+msgstr "[Olivia_02]sì... E anche l'umore... Io, Max, sono assolutamente calmo su questo e capisco tutto. A proposito, hai un elastico nei pantaloncini che non è stretto? Oppure ti schiaccerà tutto lì..."
 
 msgid "[Max_07]Нормально. Не особо мешает."
-msgstr ""
+msgstr "[Max_07]Va bene. Non si preoccupa davvero."
 
 msgid "[Olivia_05]Смотри... Если больно или туго, то ты не стесняйся, снимай шорты..."
-msgstr ""
+msgstr "[Olivia_05]Guarda... Se fa male o è stretto, allora non esiti, togliti i pantaloncini..."
 
 msgid "[Lisa_02]Эй! Хватит моего брата тут раздевать!"
-msgstr ""
+msgstr "[Lisa_02]Ehi! Ferma mio fratello che si spoglia qui!"
 
 msgid "[Max_02]Я сниму, если вы снимите!"
-msgstr ""
+msgstr "[Max_02]Sparerò se spari!"
 
 msgid "[Olivia_03]Ох, я только за! Мне куда комфортнее отдыхать голышом... Такой у меня образ жизни!"
-msgstr ""
+msgstr "[Olivia_03]Oh, sono tutto per questo! Mi sento molto più a mio agio a rilassarmi nudo... Questo è il mio modo di vivere!"
 
 msgid "[Lisa_10]Так, во-первых, я не стану раздеваться, а во-вторых, своим голым видом вы меня только смутите... Я к такому не готова!"
-msgstr ""
+msgstr "[Lisa_10]Quindi, in primo luogo, non mi spoglierò e, in secondo luogo, con il tuo aspetto nudo mi metterai solo in imbarazzo... Non sono pronto per questo!"
 
 msgid "[Max_11]Какой облом!"
-msgstr ""
+msgstr "[Max_11]Che relitto!"
 
 msgid "[Olivia_05]Да всё нормально, Лиза... Никто не будет оголяться сейчас, не волнуйся. Я думала, раз вы живёте в одной комнате, о уже привыкли к особенностям друг друга..."
-msgstr ""
+msgstr "[Olivia_05]Sì, Lisa... Nessuno sarà fuori ora, non ti preoccupare. Ho pensato, visto che vivi nella stessa stanza, sei abituato alle reciproche peculiarità..."
 
 msgid "[Lisa_03]О да... Я его особенность почти каждое утро наблюдаю..."
-msgstr ""
+msgstr "[Lisa_03]Oh sì... Vedo la sua particolarità quasi ogni mattina..."
 
 msgid "[Max_03]Я как просыпаюсь, успеваю увидеть, как она мой член разглядывает!"
-msgstr ""
+msgstr "[Max_03]mi sveglio e la vedo guardare il mio cazzo!"
 
 msgid "[Lisa_01]Мне просто любопытно было..."
-msgstr ""
+msgstr "[Lisa_01]ero solo curioso..."
 
 msgid "[Max_04]Честное слово, один раз даже видел, как она потрогать его собиралась!"
-msgstr ""
+msgstr "[Max_04]Onestamente, una volta ho visto come lo avrebbe toccato!"
 
 msgid "[Lisa_11]Макс! Это неправда!"
-msgstr ""
+msgstr "[Lisa_11]Max! Non è vero!"
 
 msgid "[Olivia_03]Так Лиза у нас оказывается шалунья! А со стороны такой скромняжкой кажется..."
-msgstr ""
+msgstr "[Olivia_03]Quindi Lisa abbiamo una shalonya! E dall'esterno, un tale modesto sembra..."
 
 msgid "[Lisa_13]Ну всё! А Макс тут за всеми нами подглядывает, когда мы голые! За мной, за моей старшей сестрой, даже за мамой..."
-msgstr ""
+msgstr "[Lisa_13]Beh, questo è tutto! E Max è qui a sbirciare tutti noi quando siamo nudi! Dietro di me, per mia sorella maggiore, anche per mia madre..."
 
 msgid "[Max_09]И прошу заметить, это всё происходит в доме, где окна размерами со стену! Здесь просто не реально куда-то пойти, чтобы не застать кого-нибудь за интересными делами..."
-msgstr ""
+msgstr "[Max_09]E per favore nota, tutto questo accade in una casa dove le finestre hanno le dimensioni di un muro! Non è realistico andare da qualche parte qui, per non catturare qualcuno che fa cose interessanti..."
 
 msgid "[Olivia_02]Весело у вас тут! У тебя, Макс, девушка-то есть? Или ты любишь женщин постарше..."
-msgstr ""
+msgstr "[Olivia_02]divertimento qui! Hai una ragazza, Max? O ami le donne anziane..."
 
 msgid "[Max_10]Э-э-э... В смысле?!"
-msgstr ""
+msgstr "[Max_10]uh... Voglio dire?!"
 
 msgid "[Olivia_03]Ну... мне Лиза рассказала, почему тебя из школы выгнали..."
-msgstr ""
+msgstr "[Olivia_03]Beh... Lisa mi ha detto perché sei stata cacciata da scuola..."
 
 msgid "[Max_07]Ах, ты про это..."
-msgstr ""
+msgstr "[Max_07]Oh, stai parlando di questo..."
 
 msgid "[Olivia_04]Хм... Мне уже интересно о чём ты сейчас подумал..."
-msgstr ""
+msgstr "[Olivia_04]Hmm... Mi sto già chiedendo cosa stai pensando..."
 
 msgid "[Max_00]Нет, девушки у меня нет. Пока что..."
-msgstr ""
+msgstr "[Max_00]No, non ho una ragazza. Finora..."
 
 msgid "[Olivia_06]Эх, такой большой потенциал пропадает..."
-msgstr ""
+msgstr "[Olivia_06]Oh, si perde così tanto potenziale..."
 
 msgid "[Max_02]То, что у меня нет девушки не значит, что потенциал пропадает! Активен и ещё как..."
-msgstr ""
+msgstr "[Max_02]Solo perché non ho una ragazza non significa che il potenziale sia sparito! Attivo e più come..."
 
 msgid "[Olivia_05]Ой, Макс, это здорово! Я за тебя рада! Молодец."
-msgstr ""
+msgstr "[Olivia_05]Oh, Max, è fantastico! Sono felice per te! Ottimo lavoro."
 
 msgid "[Max_04]Ну а у тебя как дела на личном фронте? Лиза говорила, у тебя есть парень."
-msgstr ""
+msgstr "[Max_04]Beh, come stai sul fronte personale? Lisa ha detto che hai un fidanzato."
 
 msgid "[Olivia_01]Ага, есть. У нас с ним по-всякому бывает. Иногда ссоримся по пустякам, но всё хорошо."
-msgstr ""
+msgstr "[Olivia_01]sì, sì. Abbiamo qualcosa a che fare con lui. A volte litighiamo per sciocchezze, ma va tutto bene."
 
 msgid "[Max_07]Ты уж приглядывай за ним! Сестрёнка у меня симпатичная, может спокойно у тебя парня увести. Не расхваливай его сильно при ней."
-msgstr ""
+msgstr "[Max_07]Lo stai davvero cercando! Mia sorella è carina, può tranquillamente portare via il tuo ragazzo. Non lodatelo troppo in sua presenza."
 
 msgid "[Lisa_09]Я вообще-то всё слышу! Хватит уже на меня наговаривать!"
-msgstr ""
+msgstr "[Lisa_09]in realtà sento tutto! Smettila di parlare con me!"
 
 msgid "[Olivia_03]Да его и не за что расхваливать. Он красивый, спортивный... но простой, как деревянная табуретка..."
-msgstr ""
+msgstr "[Olivia_03]Sì, non c'è nulla per cui lodarlo. E' bellissimo, sportivo... ma semplice come uno sgabello in legno..."
 
 msgid "[Max_09]Раз так, тогда почему ты с ним встречаешься?"
-msgstr ""
+msgstr "[Max_09]Se è così, allora perché lo stai frequentando?"
 
 msgid "[Olivia_02]А чтобы завидовали все в школе! Не то, чтобы я была совсем бесчувственной, просто не хочу к нему сильно привязываться."
-msgstr ""
+msgstr "[Olivia_02]E invidiare tutti a scuola! Non che io sia completamente insensibile, semplicemente non voglio affezionarmi troppo ad esso."
 
 msgid "[Max_03]Н-да... Внешность не главное..."
-msgstr ""
+msgstr "[Max_03]N-sì... L'aspetto non è la cosa principale..."
 
 msgid "[Olivia_03]Ты, Макс, смотри... Будешь так залипать на мою грудь - ослепнешь!"
-msgstr ""
+msgstr "[Olivia_03]Tu, Max, guarda... Se ti attieni al mio petto in quel modo, sarai cieco!"
 
 msgid "[Max_04]Ага. Что-то я залежался тут с вами. Пора и делами заниматься. А вы - развлекайтесь..."
-msgstr ""
+msgstr "[Max_04]sì. Qualcosa che ho giaito qui con te. È tempo di fare le cose. E tu - divertiti..."
 
 msgid "[Olivia_02]Рада была пообщаться... Думаю, я загляну к вам в следующую среду. Ведь можно?"
-msgstr ""
+msgstr "[Olivia_02]felice di parlare... Penso che ti darò il check-out mercoledì prossimo. E' possibile?"
 
 msgid "[Max_01]Конечно, Оливия. Мы будем только рады."
-msgstr ""
+msgstr "[Max_01]Certo, Olivia. Saremo felici."
 
 msgid "[Olivia_03]Что, Макс? Какие-то гадости хочешь рассказать о Лизе?"
-msgstr ""
+msgstr "[Olivia_03]Cosa, Max? Qualche cosa brutta che vuoi raccontare su Lisa?"
 
 msgid "[Max_04]Нет. Она славная девчонка. Такая вся добрая, умная..."
-msgstr ""
+msgstr "[Max_04]No. È una bella ragazza. Così gentile, intelligente..."
 
 msgid "[Olivia_02]Она у вас вся такая невинная... Но это очень мило. Она мне нравится. Обычно такие скромницы, на самом деле, те ещё проказницы!"
-msgstr ""
+msgstr "[Olivia_02]È tutta così innocente... Ma è molto carino. Mi piace. Di solito tali modesti, infatti, quelli sono ancora burloni!"
 
 msgid "[Max_05]Правда?"
-msgstr ""
+msgstr "[Max_05]Davvero?"
 
 msgid "[Olivia_01]Лиза ещё не опытна в плане своей сексуальности, но мне кажется с ней будет очень интересно..."
-msgstr ""
+msgstr "[Olivia_01]Lisa non ha ancora esperienza in termini di sessualità, ma penso che sarà molto interessante con lei..."
 
 msgid "[Max_02]Ну, ты же как её подружка, поможешь ей так сказать, раскрепоститься?"
-msgstr ""
+msgstr "[Max_02]Beh, tu, come la sua ragazza, la aiuterai a liberarsi, per così dire?"
 
 msgid "[Olivia_03]А ты уже, наверно, во всю представляешь, как мы с ней лежим голенькие в постели и предаёмся различным утехам?"
-msgstr ""
+msgstr "[Olivia_03]E tu già, probabilmente, in piena idea, come ci sdraiamo nudi a letto con lei e ci concediamo vari piaceri?"
 
 msgid "[Max_03]Мечтать не вредно!"
-msgstr ""
+msgstr "[Max_03]Sognare non è dannoso!"
 
 msgid "[Olivia_05]Ты, Макс, весьма озорной, мне это нравится... Хотя, не удивительно. Как я поняла, ты парень, окружённый семьёй из одних женщин!"
-msgstr ""
+msgstr "[Olivia_05]Tu, Max, sei molto malizioso, mi piace... Anche se, non sorprendentemente. A quanto ho capito, sei un ragazzo circondato da una famiglia di sole donne!"
 
 msgid "[Max_07]Ага. Ты даже не представляешь, как сложно построить тёплые и доверительные отношения со всеми ними. Лиза так до сих пор настораживается, когда я в \"приподнятом настроении\", как сейчас..."
-msgstr ""
+msgstr "[Max_07]sì. Non hai idea di quanto sia difficile costruire un rapporto caldo e fiducioso con tutti loro. Lisa è ancora così eccitata quando sono di \"buon umore\" come lo sono ora..."
 
 msgid "[Olivia_06]Здесь я не многим могу помочь... Одно дело, если она будет чувствовать себя комфортно рядом с мной, и совсем другое - с тобой."
-msgstr ""
+msgstr "[Olivia_06]non posso aiutare molto qui... Una cosa è se si sente a suo agio intorno a me, e un'altra con te."
 
 msgid "[Max_09]Может тогда что-нибудь посоветуешь?"
-msgstr ""
+msgstr "[Max_09]Puoi consigliarmi allora?"
 
 msgid "[Olivia_02]Ну... Вам нужно больше времени проводить вместе. И будет хорошо, если с вами будет кто-то, кто сексуально раскрепощён..."
-msgstr ""
+msgstr "[Olivia_02]Beh... Devi passare più tempo insieme. E sarà bello se qualcuno è sessualmente liberato con te..."
 
 msgid "[Max_07]Моя тётя такая, только вот она мало времени проводит у нас дома... работает допоздна. Так что вся надежда только на тебя!"
-msgstr ""
+msgstr "[Max_07]Mia zia è così, ma passa poco tempo a casa nostra... lavora fino a tardi. Quindi tutta la speranza è su di te!"
 
 msgid "[Olivia_03]Посмотрим, чем я смогу помочь. Нужно подумать..."
-msgstr ""
+msgstr "[Olivia_03]Vediamo come posso aiutarti. Dobbiamo pensare..."
 
 msgid "[Max_02]Спасибо. Ох, как же с вами жарко загорать! И это я не только про солнце..."
-msgstr ""
+msgstr "[Max_02]Grazie. Oh, quanto fa caldo prendere il sole con te! E non sto parlando solo del sole..."
 
 msgid "[Olivia_02]Да, мы такие!"
-msgstr ""
+msgstr "[Olivia_02]sì, lo siamo!"
 
 msgid "[Max_04]Пойду я... Рад был повидаться! Когда снова к нам заглянешь?"
-msgstr ""
+msgstr "[Max_04]andrò... Felice di vederti! Quando ci visiterai di nuovo?"
 
 msgid "[Olivia_05]Взаимно, Макс... Наверное, теперь буду приходить почаще, скажем во вторник и пятницу... Я же не помешаю?"
-msgstr ""
+msgstr "[Olivia_05]Reciprocamente, Max... Probabilmente, ora verrò più spesso, diciamo il martedì e il venerdì... Non mi faccio male, vero?"
 
 msgid "[Max_01]Нисколько. Обязательно приходи..."
-msgstr ""
+msgstr "[Max_01]Niente affatto. Assicurati di venire..."
 
 msgid "[Olivia_06]Да как всегда, Макс. Учимся, да вот потом отдыхаем... А там и домашнее задание скоро делать. Тебе ли не знать..."
-msgstr ""
+msgstr "[Olivia_06]Sì come sempre, Max. Studiamo, ma poi ci riposiamo... E poi ci sono i compiti a casa presto da fare. Non lo sai..."
 
 msgid "[Max_08]Да-а-а... Как вспомню, так страшно становится!"
-msgstr ""
+msgstr "[Max_08]sì... Come ricordo, diventa così spaventoso!"
 
 msgid "[Olivia_03]Кстати, я тут узнала от Лизы, что у вас тут в пятницу вечером все разъезжаются и вы остаётесь вдвоём!"
-msgstr ""
+msgstr "[Olivia_03]A proposito, ho imparato da Lisa che hai tutti qui il venerdì sera e stai insieme!"
 
 msgid "[Max_07]Да, старшая сестра с тётей возвращаются не раньше трёх часов ночи, а мама и вовсе только утром."
-msgstr ""
+msgstr "[Max_07]Sì, la sorella maggiore e la zia non tornano fino alle tre del mattino, e mia madre non torna affatto solo al mattino."
 
 msgid "[Olivia_05]Я вот что думаю... У вас такой большой экран в гостиной, давайте зависнем на диване и будем что-нибудь смотреть?! Прямо как в кинотеатре, только можно не запариваться по поводу одежды!"
-msgstr ""
+msgstr "[Olivia_05]penso... Hai uno schermo così grande in salotto, usciamo sul divano e guardiamo qualcosa?! Proprio come in un cinema, basta non preoccuparsi dei vestiti!"
 
 msgid "[Lisa_01]Слушайте, а можно... Правда раньше полуночи я не освобожусь..."
-msgstr ""
+msgstr "[Lisa_01]Ascolta, puoi... Tuttavia, non sarò rilasciato prima di mezzanotte..."
 
 msgid "[Max_03]Ну и ладно, у нас ещё будет несколько часов, прежде чем кто-нибудь вернётся."
-msgstr ""
+msgstr "[Max_03]Ok, avremo ancora qualche ora prima che qualcuno torni."
 
 msgid "[Olivia_04]Класс! Я улизну из дома ближе к полуночи в пятницу и будем веселиться! Встретишь меня, Макс?"
-msgstr ""
+msgstr "[Olivia_04]classe! Uscirò di nascosto da casa verso mezzanotte di venerdì e mi divertirò! Mi incontrerai, Max?"
 
 msgid "[Max_04]Обязательно!"
-msgstr ""
+msgstr "[Max_04]Assolutamente!"
 
 msgid "[Lisa_02]Может и Алекса с собой приведёшь?"
-msgstr ""
+msgstr "[Lisa_02]Forse puoi portare Alex con te?"
 
 msgid "[Olivia_03]Вот ещё! Всего лишь одна ночь на неделе, когда можно спокойно поваляться на диване перед огромным экраном с друзьями, а Алекс у меня в распоряжении почти всегда. Так что обойдётся!"
-msgstr ""
+msgstr "[Olivia_03]Ecco di più! Solo una notte alla settimana in cui puoi tranquillamente sdraiarti sul divano di fronte a un enorme schermo con gli amici, e Alex è a mia disposizione quasi sempre. Così sarà!"
 
 msgid "[Max_07]Какая ты суровая!"
-msgstr ""
+msgstr "[Max_07]Quanto sei duro!"
 
 msgid "[Olivia_02]Ничего, он любит меня продинамить, когда в свои любимые видеоигры играет или в тренажёрном зале торчит. Я лучше с вами время проведу."
-msgstr ""
+msgstr "[Olivia_02]Niente, gli piace passarmi nei miei videogiochi preferiti o sporge in palestra. Preferirei passare del tempo con te."
 
 msgid "[Max_02]А мы с тобой!"
-msgstr ""
+msgstr "[Max_02]E noi siamo con voi!"
 
 msgid "[Olivia_03]В тебе, Макс, я нисколько не сомневалась... У тебя вон, полные шорты энтузиазма! И уже долгое время..."
-msgstr ""
+msgstr "[Olivia_03]non ho dubitato di te, Max... Sei fuori, pieno di entusiasmo pantaloncini! E per molto tempo..."
 
 msgid "[Max_01]Да, я пожалуй пойду, развеюсь немного..."
-msgstr ""
+msgstr "[Max_01]sì, probabilmente andrò a rilassarmi un po '..."
 
 msgid "[Olivia_02]Я тоже рада... Кстати, ты первый парень, который не только таращится на мои сиськи или задницу, но и глазами со мной встречается. Я перед тобой лежу голая и мы при этом спокойно можем болтать..."
-msgstr ""
+msgstr "[Olivia_02]sono contento anche io... A proposito, sei il primo ragazzo che non solo fissa le mie tette o il mio culo, ma mi incontra anche con i suoi occhi. Sono sdraiato nudo di fronte a te e possiamo tranquillamente chattare..."
 
 msgid "[Max_07]Это хорошо или плохо?"
-msgstr ""
+msgstr "[Max_07]Questo è buono o cattivo?"
 
 msgid "[Olivia_03]Это очень хорошо, Макс. Честно признаюсь, в первую нашу встречу ты ничем не отличался от других парней, ну... кроме как своим выдающимся... ну ты понял, а сейчас я вижу в тебе интересного человека. Это приятно..."
-msgstr ""
+msgstr "[Olivia_03]Questo è molto buono, Max. Onestamente, nel nostro primo incontro non eri diverso dagli altri ragazzi, beh... tranne che per la sua eccezionale... beh, hai capito, e ora ti vedo come una persona interessante. E' bello..."
 
 msgid "[Max_02]Рассказала своему парню, как у нас ночь провела?"
-msgstr ""
+msgstr "[Max_02]Detto al suo ragazzo come abbiamo passato la notte?"
 
 msgid "[Olivia_06]Рассказала... Но, тс-с-с-с! Кажется, Алекс начал интересоваться Лизой... И вашим домом..."
-msgstr ""
+msgstr "[Olivia_06]Detto... Ma, ts-s-s-s! Sembra che Alex abbia iniziato ad interessarsi a Lisa... E la tua casa..."
 
 msgid "[Max_09]Тебя это беспокоит?"
-msgstr ""
+msgstr "[Max_09]ti dà fastidio?"
 
 msgid "[Olivia_00]Не особо. Скорее, просто разочаровывает. Оказалось, Алекс тот ещё подарочек..."
-msgstr ""
+msgstr "[Olivia_00]Non proprio. Piuttosto, è solo deludente. Si è scoperto che Alex era ancora un regalo..."
 
 msgid "[Max_07]Ты о чём?"
-msgstr ""
+msgstr "[Max_07]parli di cosa?"
 
 msgid "[Olivia_06]Ну, у нашей семьи, если ты знаешь, сейчас проблемы. Мама с папой ссорятся. Думаю, будут разводиться. Ну и финансовые проблемы начались. И Алекса как будто подменили. Сразу Лиза ему интересна стала, как только он о вашей шикарной вилле от меня услышал..."
-msgstr ""
+msgstr "[Olivia_06]Beh, la nostra famiglia, se lo sai, è nei guai in questo momento. Mamma e papà litigano. Penso che divorzieranno. Bene, sono iniziati i problemi finanziari. E Alex sembrava essere stato sostituito. Immediatamente Lisa è diventata interessante per lui non appena ha sentito da me della tua villa di lusso..."
 
 msgid "[Max_09]А ты ей об этом рассказала?"
-msgstr ""
+msgstr "[Max_09]Glielo hai detto?"
 
 msgid "[Olivia_03]Да, сегодня как раз и рассказала. Она полдня сегодня в школе притихшая ходила... Похоже, она запала на моего парня, а теперь в смятении."
-msgstr ""
+msgstr "[Olivia_03]sì, te l'ho detto oggi. Oggi ha camminato tranquillamente a scuola per mezza giornata... Sembra che sia affondata dal mio ragazzo e ora è confusa."
 
 msgid "[Max_08]Ты уж не вини её за это. Видимо, в этого вашего красавчика Алекса все влюбляются."
-msgstr ""
+msgstr "[Max_08]Non la biasimi per questo. Apparentemente, in questo tuo bel Alex tutti si innamora."
 
 msgid "[Olivia_02]Если бы я не знала Лизу, то подумала бы, что попытка подружиться со мной, была с целью как раз к нему подкатить..."
-msgstr ""
+msgstr "[Olivia_02]Se non avessi conosciuto Lisa, avrei pensato che cercare di fare amicizia con me fosse arrivare a lui..."
 
 msgid "[Max_07]Но?"
-msgstr ""
+msgstr "[Max_07]Ma?"
 
 msgid "[Olivia_04]Но она не умеет такие сложные комбинации строить. Она классная, но девчонка простая. Видимо, просто так всё совпало..."
-msgstr ""
+msgstr "[Olivia_04]Ma lei non sa come costruire combinazioni così complesse. È cool, ma la ragazza è semplice. Apparentemente, è solo così tutto coinciso..."
 
 msgid "[Max_00]Хорошо, что теперь выяснилось, как твой парень падок на всякое красивое и дорогое."
-msgstr ""
+msgstr "[Max_00]È bello che ora si scopra come il tuo ragazzo sia una jenk di ogni sorta di cose belle e costose."
 
 msgid "[Olivia_03]Как бы уже не бывший парень... Но нужно посмотреть, что он дальше думает делать."
-msgstr ""
+msgstr "[Olivia_03]Come se non fosse un ex fidanzato... Ma dobbiamo vedere cosa pensa di fare dopo."
 
 msgid "[Max_14]Постарайся надеяться на лучшее, но приготовься к худшему."
-msgstr ""
+msgstr "[Max_14]Cerca di sperare per il meglio, ma preparati al peggio."
 
 msgid "[Olivia_05]Спасибо. Хотя, в данной ситуации - худшее, может быть не таким уж и плохим."
-msgstr ""
+msgstr "[Olivia_05]Grazie. Anche se, in questa situazione - la peggiore, potrebbe non essere così male."
 
 msgid "[Max_03]Ага, может..."
-msgstr ""
+msgstr "[Max_03]sì, forse..."
 
 msgid "[Lisa_09]Эй, ребята, вы там чего расшушукались?! Со мной не хотите поделиться?"
-msgstr ""
+msgstr "[Lisa_09]Ehi ragazzi, cosa avete intenzione di fare lì?! Non vuoi condividere con me?"
 
 msgid "[Olivia_02]Да так, всякие школьные байки травим. Пойдём купаться или ещё позагораем?"
-msgstr ""
+msgstr "[Olivia_02]Sì, tutti i tipi di storie scolastiche sono avvelenate. Andiamo a fare una nuotata o prendere il sole?"
 
 msgid "[Lisa_01]Я ещё хочу позагорать немного..."
-msgstr ""
+msgstr "[Lisa_01]voglio ancora prendere il sole un po '..."
 
 msgid "[Max_04]Ну а я пойду по своим делам."
-msgstr ""
+msgstr "[Max_04]Beh, farò i miei affari."
 
 msgid "[Olivia_01]Хорошо поболтали, Макс. В эту пятницу я успею к вам только днём забежать на пару часов, так что устроим ночные посиделки в следующую пятницу, ладно?"
-msgstr ""
+msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avrò solo il tempo di correre da te questo venerdì pomeriggio per un paio d'ore, quindi avremo una serata insieme venerdì prossimo, ok?"
 
 msgid "[Max_01]Не вопрос. Будем только рады..."
-msgstr ""
+msgstr "[Max_01]Non è una domanda. Saremo lieti..."
 
 msgid "[Olivia_01]Хорошо поболтали, Макс. Мы же устроим ночные посиделки в следующую пятницу, да?"
-msgstr ""
+msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avremo un raduno serale venerdì prossimo, giusto?"
 
 msgid "[Max_01]Конечно. Будем только рады..."
-msgstr ""
+msgstr "[Max_01]Certo. Saremo lieti..."
 
 msgid "[Olivia_01]Хорошо поболтали, Макс. Мы же устроим ночные посиделки в эту пятницу, да?"
-msgstr ""
+msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avremo una serata fuori questo venerdì, giusto?"
 
 msgid "[Max_01]Конечно. Будем тебя ждать..."
-msgstr ""
+msgstr "[Max_01]Certo. Ti aspettiamo..."
 
 msgid "[Olivia_01]Хорошо поболтали, Макс. Мы же устроим ночные посиделки в эту пятницу, да?"
-msgstr ""
+msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avremo una serata fuori questo venerdì, giusto?"
 
 msgid "[Max_01]Конечно. Будем тебя ждать..."
-msgstr ""
+msgstr "[Max_01]Certo. Ti aspettiamo..."
 
 msgid "[Max_09]Лиза... А что насчёт сегодняшнего наказания?"
-msgstr ""
+msgstr "[Max_09]Lisa... E la punizione di oggi?"
 
 msgid "[Lisa_11]Ой! А я и забыла уже..."
-msgstr ""
+msgstr "[Lisa_11]Oh! E ho già dimenticato..."
 
 msgid "[Olivia_04]Что это у вас там за наказания?"
-msgstr ""
+msgstr "[Olivia_04]Quali sono le tue punizioni lì?"
 
 msgid "[Lisa_09]Я заметила, как Макс за мной подглядывал в душе..."
-msgstr ""
+msgstr "[Lisa_09]ho notato Max che mi sbircia sotto la doccia..."
 
 msgid "[Max_07]Естественно, случайно!"
-msgstr ""
+msgstr "[Max_07]Certo, per caso!"
 
 msgid "[Lisa_02]Да, как всегда. И чтобы мама об этом ничего не узнала, я мучаю Макса просмотром фильмов, которые ему не нравятся. Если он заснул или не досмотрел, то не прощён!"
-msgstr ""
+msgstr "[Lisa_02]sì, come sempre. E così che mia madre non ne sa nulla, tormento Max guardando film che non gli piacciono. Se si è addormentato o non ha guardato, non è perdonato!"
 
 msgid "[Max_09]Да, да, да... Так что с этим решим?"
-msgstr ""
+msgstr "[Max_09]sì, sì, sì... Quindi cosa decidiamo al riguardo?"
 
 msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник...[nointeract]"
-msgstr ""
+msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi...[nointeract]"
 
 msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже...[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già...[nointeract]"
 
 msgid "[Max_09]Лиза... А что насчёт сегодняшнего наказания?"
-msgstr ""
+msgstr "[Max_09]Lisa... E la punizione di oggi?"
 
 msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник...[nointeract]"
-msgstr ""
+msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi...[nointeract]"
 
 msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже...[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già...[nointeract]"
 
 msgid "[Lisa_01]Просто перенесём на следующую ночь, вот и всё."
-msgstr ""
+msgstr "[Lisa_01]Basta spostarlo alla notte successiva, questo è tutto."
 
 msgid "[Max_01]Хорошо. Тогда приятного вам просмотра..."
-msgstr ""
+msgstr "[Max_01]Va bene. Allora goditi la tua visione..."
 
 msgid "[Olivia_06]Как?! Не останешься с нами? Жалко..."
-msgstr ""
+msgstr "[Olivia_06]Come?! Non rimarrai con noi? Miseramente..."
 
 msgid "[Max_01]Мне тоже. Не скучайте."
-msgstr ""
+msgstr "[Max_01]anche a me. Non annoiarti."
 
 #    # game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
-msgstr ""
+msgstr "Anche se, no... In realtà ho cose da fare..."
 
 #    # game/dialogues/oliviatalk.rpy:253
 msgid "Давай перенесём..."
-msgstr ""
+msgstr "Spostiamoci..."
 
 #    # game/dialogues/oliviatalk.rpy:253
 msgid "Тогда приятного вам просмотра..."
-msgstr ""
+msgstr "Allora goditi la tua visione..."
 
 #    # game/dialogues/oliviatalk.rpy:256
 msgid "{i}идти в гостиную{/i}"
-msgstr ""
+msgstr "{i}vai in salotto{/i}"
 
