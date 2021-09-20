@@ -10,40 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 16:26\n"
+"PO-Revision-Date: 2021-09-20 09:02\n"
 
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
-msgstr ""
+msgstr "[Max_07]Che fortuna ho una mamma così calda... Fermati qui, dov'è Eric?! Forse sono andato in bagno? O da qualche altra parte..."
 
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... А Эрик опять где-то полуночничает..."
-msgstr ""
+msgstr "[Max_07]Che fortuna ho una mamma così calda... Ed Eric è di nuovo verso mezzanotte..."
 
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
-msgstr ""
+msgstr "[Max_01]Che fortuna ho una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi!"
 
 msgid "[Max_01]Мама и Эрик спят совсем голые. Ни стыда, ни совести..."
-msgstr ""
+msgstr "[Max_01]mamma ed Eric dormono completamente nudi. Nessuna vergogna, nessuna coscienza..."
 
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]mamma ed Eric non sono visibili attraverso questa fotocamera... Posso guardare attraverso un altro?"
 
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру..."
-msgstr ""
+msgstr "[Max_09]mamma ed Eric non sono visibili attraverso questa fotocamera..."
 
 msgid "[Max_07]Вот это да... Похоже намечается что-то большее, чем просто принять душ!"
-msgstr ""
+msgstr "[Max_07]Wow... Sembra che ci sia molto di più che fare la doccia!"
 
 msgid "[Max_08]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может!"
-msgstr ""
+msgstr "[Max_08]sì, Eric ha fatto un buon lavoro... La mamma lo succhia con tale piacere, già non può strapparsi via!"
 
 msgid "[Max_04]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки!"
-msgstr ""
+msgstr "[Max_04]oh... Eric è stato fortunato... Dopotutto, mia madre ha mani così gentili e affettuose!"
 
 msgid "[Max_06]Охренеть! Вот это страсть! Они так увлечены друг другом... И похоже, маме это очень нравится!"
-msgstr ""
+msgstr "[Max_06]cazzo! Questa è passione! Sono così appassionati l'uno dell'altro... E sembra che mia madre lo adomi!"
 
 msgid "[Max_05]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!"
-msgstr ""
+msgstr "[Max_05]'s ow! Eric scopa la mamma da dietro, così attivamente... E... sembra che le piaccia molto, si muove addirittura verso di lui... ed esausto di passione!"
 
 msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом!"
 msgstr ""
