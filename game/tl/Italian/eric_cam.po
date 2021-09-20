@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-20 09:02\n"
+"PO-Revision-Date: 2021-09-20 09:08\n"
 
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
 msgstr "[Max_07]Che fortuna ho una mamma così calda... Fermati qui, dov'è Eric?! Forse sono andato in bagno? O da qualche altra parte..."
@@ -46,110 +46,110 @@ msgid "[Max_05]Ого! Эрик трахает маму сзади, да так 
 msgstr "[Max_05]'s ow! Eric scopa la mamma da dietro, così attivamente... E... sembra che le piaccia molto, si muove addirittura verso di lui... ed esausto di passione!"
 
 msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом!"
-msgstr ""
+msgstr "[Max_09]accidenti! Eric sborra proprio sul viso di sua madre come un porno! E le piace così tanto che sorride e lo prende con la bocca!"
 
 msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает!"
-msgstr ""
+msgstr "[Max_01]sì! Chi dubiterebbe che Eric non durerebbe troppo a lungo. La mamma conosce le sue cose!"
 
 msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?!"
-msgstr ""
+msgstr "[Max_07]Oh, dannazione... Eric ha già... È un bene che non in mia madre... Felice figlio di puttana... E lei sorride ancora?!"
 
 msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой!"
-msgstr ""
+msgstr "[Max_08]Accidenti... è già... Felice bastardo... Mamma splatted su tutta la schiena con la sua sborra!"
 
 msgid "[Max_07]Охх... Боже мой, какие нежности. Похоже, сейчас что-то начнётся..."
-msgstr ""
+msgstr "[Max_07]oh... Oh mio Dio, che tenerezza. Sembra che qualcosa stia per iniziare ora..."
 
 msgid "[Max_10]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит?"
-msgstr ""
+msgstr "[Max_10]Mia mamma lo succhia di nuovo... Eric! Sì, con tanta passione! Le piace davvero farlo così tanto o lo ama così tanto?"
 
 msgid "[Max_08]О Боже! Как бы я мечтал оказаться на месте это счастливого ублюдка! Когда её мокрая попка так красиво скачет на члене, голова начинает идти кругом!"
-msgstr ""
+msgstr "[Max_08]Oh mio Dio! Come vorrei poter essere nei panni di questo felice bastardo! Quando il suo bagnato salta così magnificamente sul suo, la sua testa inizia a girare!"
 
 msgid "[Max_10]Ничего себе! Вот это они вытворяют! Эрик трахает маму, разложив её у зеркала как какую-то шлюшку..."
-msgstr ""
+msgstr "[Max_10]Wow! Questo è quello che stanno facendo! Eric scopa la mamma, stendendola davanti allo specchio come una specie di troia..."
 
 msgid "[Max_08]Чёрт возьми! Она приняла всю его сперму себе в рот и на лицо, и теперь с такой жадностью и удовольствием слизывает её с его члена..."
-msgstr ""
+msgstr "[Max_08]accidenti! Ha preso tutto il suo in bocca e in faccia, e ora con tanta avidità e piacere lo lecca via dal suo..."
 
 msgid "[Max_10]А вот и финал не заставил себя ждать! И похоже всем всё понравилось, как и всегда..."
-msgstr ""
+msgstr "[Max_10]Ed ecco che la finale non ava molto tempo ad arrivare! E sembra che a tutti sia piaciuto tutto, come sempre..."
 
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]mamma ed Eric non sono visibili attraverso questa fotocamera... Posso guardare attraverso un altro?"
 
 msgid "[Max_01]О, \"В мире животных\" показывают! То ли шимпанзе на стероидах, то ли горилла..."
-msgstr ""
+msgstr "[Max_01]Oh, viene mostrato \"Nel mondo animale\"! Se scimpanzé su steroidi, o gorilla..."
 
 msgid "[Max_01]Мама с Эриком смотрят какой-то фильм. Наверняка, опять порнушку..."
-msgstr ""
+msgstr "[Max_01]mamma ed Eric stanno guardando un film. Sicuramente, di nuovo..."
 
 msgid "[Max_01]Мама с Эриком смотрят какой-то фильм. Интересно, какой?"
-msgstr ""
+msgstr "[Max_01]mamma ed Eric stanno guardando un film. Mi chiedo quale?"
 
 msgid "[Max_08]Как же повезло Эрику! Я бы тоже с огромной радостью так посмотрел что угодно... если бы мамины нежные и умелые ручки ласкали мой член..."
-msgstr ""
+msgstr "[Max_08]Quanto è stato fortunato Eric! Mi piacerebbe vedere qualsiasi cosa con grande gioia anche... se le mani gentili e abili di mia madre mi accarezzavano..."
 
 msgid "[Max_08]Блин, мама, тебе что, настолько неинтересно то, что происходит на экране или ты просто любишь отсасывать Эрику?!"
-msgstr ""
+msgstr "[Max_08]Dannazione, mamma, sei così disinteressata a ciò che sta accadendo sullo schermo o ti piace solo succhiare Erica?!"
 
 msgid "[Max_09]Ну конечно, ведь просто так смотреть, что происходит на экране они не будут, обязательно надо вот это вот делать..."
-msgstr ""
+msgstr "[Max_09]Beh, certo, perché non guarderanno solo ciò che sta accadendo sullo schermo, è necessario farlo..."
 
 msgid "[Max_10]А, ну да, без полотенца однозначно лучше... Но вы же в гостиной! А если зайдёт кто-то, а вы тут развлекаетесь..."
-msgstr ""
+msgstr "[Max_10]A, beh, sì, senza un asciugamano è sicuramente meglio... Ma tu sei in salotto! E se qualcuno entra e ti stai divertendo qui..."
 
 msgid "[Max_09]Утомлённые мама с Эриком лежат на кровати. Благо, они не только трахаются всё время, но ещё и разговаривают..."
-msgstr ""
+msgstr "[Max_09]Mamma stanca ed Eric sono sdraiati sul letto. Fortunatamente, non solo scopano tutto il tempo, ma parlano anche..."
 
 msgid "[Max_07]Через окно подсмотреть мне не дали, значит заценим через камеру... А они тут развлекаются, только в путь!"
-msgstr ""
+msgstr "[Max_07]non mi è stato dato uno sguardo attraverso la finestra, quindi controlleremo attraverso la fotocamera... E si divertono qui, solo sulla strada!"
 
 msgid "[Max_07]Подсмотреть через окно я не рискнул, могут заметить, а вот через камеру могу наслаждаться безнаказанно, сколько захочу... И посмотреть есть на что!"
-msgstr ""
+msgstr "[Max_07]non ho osato sbirciare attraverso la finestra, possono notare, ma attraverso la fotocamera posso godermi impunemente quanto voglio... E c'è qualcosa da vedere!"
 
 msgid "[Max_07]Ого! Вот это я удачно заглянул! Всё равно, что порно посмотреть..."
-msgstr ""
+msgstr "[Max_07]'s ow! Questo è quello che ho guardato bene! È come guardare..."
 
 msgid "[Max_08]Ну вот они и кончили. По крайней мере, Эрик так точно, а вот мама..."
-msgstr ""
+msgstr "[Max_08]Beh, hanno finito. Almeno Eric è così preciso, ma mamma..."
 
 msgid "[Max_08]{i}( Жаль камеры не передают звук. Нужно будет обязательно спросить Лизу, о чём они разговаривали! ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(Peccato che le telecamere non trasmettano il suono. Dovrai chiedere a Lisa di cosa stavano parlando!) {/i}"
 
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa è venuta a lezione con sua madre ed Eric. Vediamo cosa succede... ) {/i}"
 
 msgid "[Max_09]{i}( Вот же Эрик! Член он свой вывесил... Интересно, что они ей там рассказывают? ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}(Ecco Eric! Ha appeso il suo... Mi chiedo cosa le dicono lì? ){/i}"
 
 msgid "[Max_08]{i}( Ага, дрочка пошла... И уговорил же Эрик маму на всё это... ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(sì, il drochka è andato... Ed Eric persuase sua madre a fare tutto questo...) {/i}"
 
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa è venuta a lezione con sua madre ed Eric. Vediamo cosa succede... ) {/i}"
 
 msgid "[Max_09]{i}( Мама при Лизе уже надрачивает Эрику как будто так и надо! Интересно, что они ей там рассказывают при этом? ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}(mamma di Lisa sta già dando Erica come se dovesse essere! Mi chiedo cosa le dicano lì allo stesso tempo?) {/i}"
 
 msgid "[Max_08]{i}( Ага, мама повышает градус показом своей шикарной груди... И уговорил же Эрик маму на всё это! ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(sì, la mamma alza la laurea mostrando i suoi splendidi seni ... Ed Eric persuase sua madre a fare tutto questo! ){/i}"
 
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa è venuta a lezione con sua madre ed Eric. Vediamo cosa succede... ) {/i}"
 
 msgid "[Max_09]{i}( Подрочить Эрику на глазах Лизы в образовательных целях? Конечно, обычное дело, не обращайте внимания... Интересно, что они ей там рассказывают при этом? ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}(Scopare Erica di fronte a Lisa per scopi educativi? Certo, è un luogo comune, non prestare attenzione... Mi chiedo cosa le dicono lì? ){/i}"
 
 msgid "[Max_08]{i}( О, от такого я бы не отказался! Только от одних мыслей о маминых руках, нежно массирующих мои шары, хочется кончить... ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(Oh, non mi arrenderei! Solo pensieri delle mani di mia madre che mi massaggiano delicatamente le palle, voglio ... ) {/i}"
 
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa è venuta a lezione con sua madre ed Eric. Vediamo cosa succede... ) {/i}"
 
 msgid "[Max_09]{i}( Всё дрочат и дрочат... Видимо, закрепляют материал. Ну сколько можно?! ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}(Tutti tremano e tremano... Apparentemente, aggiusta il materiale. Bene, quanto puoi?! ){/i}"
 
 msgid "[Max_08]{i}( О, Эрик не выдержал и кончил... Хотя, вряд ли. Скорее всего, они решили показать Лизе для чего это всё было нужно. ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(Oh, Eric non lo sopporta e... Anche se, è improbabile. Molto probabilmente, hanno deciso di mostrare a Lisa perché era tutto necessario. ){/i}"
 
