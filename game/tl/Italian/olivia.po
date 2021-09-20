@@ -10,16 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-20 08:28\n"
+"PO-Revision-Date: 2021-09-20 09:03\n"
 
 msgid "[Max_07]{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{i}( Le ragazze guardano alcune serie tv, e preferirei guardarle ... Questo è solo promesso di non interferire ... ) {/i}[nointeract]"
 
 msgid "[Max_10][risky!t]{i}( Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне! ){/i}[nointeract]"
-msgstr ""
+msgstr "[Max_10][rischioso!t]{i}(No, è troppo pericoloso spiarli! Possono notarmi da un momento all'altro... E sarà solo peggio per me! ){/i}[nointeract]"
 
 msgid "[Max_04]{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}"
-msgstr ""
+msgstr "[Max_04]{i}( Bellezza! Sedersi con loro sul divano sarebbe molto più interessante... Potresti guardarli con un occhio e l'altro sullo schermo. Oh, è meglio non stare qui, possono notarmi in qualsiasi momento...) {/i}"
 
 msgid "[Max_04]{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}[nointeract]"
 msgstr ""
