@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /master/game/tl/crowdin/dialogues/christina.po\n"
+"X-Crowdin-File-ID: 1031\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2021-09-20 09:02\n"
+
+msgid "[Christine_03]А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
+msgstr ""
+
+msgid "[Max_01]Это всё я покупаю, поэтому и расписываюсь за доставку."
+msgstr ""
+
+msgid "[Christine_04]Ого! А ты ещё не слишком мал, чтобы такое покупать? Хотя, ты не единственный паренёк в нашем районе, кто любит натягивать женскую одежду..."
+msgstr ""
+
+msgid "[Max_08]Чего!? Это всё было для моих сестёр, мамы и тёти!"
+msgstr ""
+
+msgid "[Christine_03]Оу! Да я шутила, конечно... По крайней мере про тебя."
+msgstr ""
+
+msgid "[Max_09]И ничего я не мал!"
+msgstr ""
+
+msgid "[Christine_04]Ясно, ясно, как скажешь... Даже не знаю, что думать, ты купил очень сексуальную сорочку... Интересные у тебя отношения с твоей семьёй!"
+msgstr ""
+
+msgid "[Max_07]Я единственный мужчина в семье, так что приходится за всеми ними присматривать и давать им то, что им будет нужно."
+msgstr ""
+
+msgid "[Christine_01]Похоже ты славный паренёк..."
+msgstr ""
+
+msgid "[Max_04]Макс! Меня зовут Макс. А тебя?"
+msgstr ""
+
+msgid "[Christine_02]А я Кристина. Рада познакомится с таким внимательным и заботливым мальчиком!"
+msgstr ""
+
+msgid "[Max_09]Да не маленький я уже!"
+msgstr ""
+
+msgid "[Christine_04]Макс, ты выглядишь лет на десять!"
+msgstr ""
+
+msgid "[Max_07]Не правда! Два раза по десять!"
+msgstr ""
+
+msgid "[Christine_03]А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить...[nointeract]"
+msgstr ""
+
+msgid "[Christine_03]Спасибо, Макс. Была рада познакомиться!"
+msgstr ""
+
+msgid "[Max_01]Я тоже, Кристина! Пока."
+msgstr ""
+
+msgid "[Christine_04]Ничего себе! Десятилетки ко мне ещё не подкатывали..."
+msgstr ""
+
+msgid "[Christine_04]Знаю, тебе двадцать!"
+msgstr ""
+
+msgid "[Max_09]Так будем гулять?"
+msgstr ""
+
+msgid "[Christine_01]Макс, посмотри на меня... Ну... что скажешь?"
+msgstr ""
+
+msgid "[Max_03]Ну, ты красивая... Вроде, интересная..."
+msgstr ""
+
+msgid "[Christine_02]Вот... Я по полдня развожу одежду и ко мне пытаются подкатить почти в каждом доме! Даже женщины, временами..."
+msgstr ""
+
+msgid "[Max_04]Да уж. Я их понимаю!"
+msgstr ""
+
+msgid "[Christine_00]И всем вам нужно лишь одно, залезть ко мне в трусы! Так ведь?"
+msgstr ""
+
+msgid "[Max_07]Это однозначно вопрос с подвохом... Если скажу - да, гулять мы не пойдём. А если скажу - нет, то ты мне не поверишь и гулять мы опять же не пойдём."
+msgstr ""
+
+msgid "[Christine_01]Умный мальчик. Так что, давай без подкатов, ладно?"
+msgstr ""
+
+msgid "[Max_00]Ага. Ладно... Тогда, хорошего тебе дня."
+msgstr ""
+
+msgid "[Christine_03]Спасибо, Макс. Была рада познакомиться!"
+msgstr ""
+
+msgid "[Max_01]Я тоже, Кристина! Пока."
+msgstr ""
+
+#    # game/dialogues/christina.rpy:25
+msgid "Хорошего тебе дня!"
+msgstr ""
+
+#    # game/dialogues/christina.rpy:25
+msgid "А чем вечером будешь заниматься? Давай погуляем!?"
+msgstr ""
+
