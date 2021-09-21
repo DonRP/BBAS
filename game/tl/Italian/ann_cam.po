@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-20 09:09\n"
+"PO-Revision-Date: 2021-09-21 09:04\n"
 
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
 msgstr "[Max_01]Che fortuna ho una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi!"
@@ -94,26 +94,26 @@ msgid "[Max_09]Ничего толком не видно... Стоит взгл�
 msgstr "[Max_09]Niente di veramente visibile... Vale la pena guardare attraverso un'altra fotocamera..."
 
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
-msgstr ""
+msgstr "[Max_09]Niente di veramente visibile... Vale la pena guardare attraverso un'altra fotocamera..."
 
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
-msgstr ""
+msgstr "[Max_09]Niente da vedere... È necessario installare una telecamera che copra l'intera piscina..."
 
 msgid "[Max_01]Две соблазнительные дамочки в бассейне, что может быть лучше? Только если бы они были ещё и голые!"
-msgstr ""
+msgstr "[Max_01]Due seducenti signore in piscina, cosa c'è di meglio? Solo se anche loro erano nudi!"
 
 msgid "[Max_01]Такой шикарной попке, как у моей мамы, любая женщина может позавидовать..."
-msgstr ""
+msgstr "[Max_01]un così bello come mia madre, ogni donna può invidiare..."
 
 msgid "[Max_04]Не вытирайся, мам, ходи мокренькая..."
-msgstr ""
+msgstr "[Max_04]Non pulirti, mamma, bagnati..."
 
 msgid "[Max_05]И зачем нужны все эти эротические ролики в интернете, когда можно посмотреть на мою маму в ванне?!"
-msgstr ""
+msgstr "[Max_05]E perché abbiamo bisogno di tutti questi video erotici su Internet, quando puoi guardare mia madre nella vasca da bagno?!"
 
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]mamma non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
 
 msgid "[Max_01]Мама, как всегда, отдыхает за просмотром сериала или фильма."
-msgstr ""
+msgstr "[Max_01]mamma, come sempre, riposa guardando una serie Tv o un film."
 
