@@ -10,43 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-22 14:23\n"
+"PO-Revision-Date: 2021-09-22 14:29\n"
 
 msgid "[Max_01]Не против компании?"
-msgstr ""
+msgstr "[Max_01]Non contro l'azienda?"
 
 msgid "[Kira_01]Конечно, Макс. Ложись рядом. Погода сегодня отличная![nointeract]"
-msgstr ""
+msgstr "[Kira_01]Certo, Max. Sdraiati uno accanto all'altro. Il tempo oggi è fantastico![nointeract]"
 
 msgid "[Kira_00]Макс, чем тебе помочь?[nointeract]"
-msgstr ""
+msgstr "[Kira_00]Max, come posso aiutarti?[nointeract]"
 
 msgid "[Kira_04]Ну, рассказывай, Макс, как ты тут живёшь, как твои дела, что нового?"
-msgstr ""
+msgstr "[Kira_04]Beh, dimmi, Max, come vivi qui, come stai, cosa c'è di nuovo?"
 
 msgid "[Max_04]Ну, я... э..."
-msgstr ""
+msgstr "[Max_04]Beh, io... uh..."
 
 msgid "[Kira_02]Макс, тебя смущает мой купальник? Может быть, его снять?[nointeract]"
-msgstr ""
+msgstr "[Kira_02]Max, sei imbarazzato dal mio costume da bagno? Forse rimuoverlo?[nointeract]"
 
 msgid "[Kira_07]Ну да, не сомневаюсь. Только что же с тобой будет? Макс, ты можешь смотреть мне в глаза или мы тебя потеряли?[nointeract]"
-msgstr ""
+msgstr "[Kira_07]Beh, sì, non ho dubbi. Cosa ti succederà? Max, puoi guardarmi negli occhi o ti abbiamo perso?[nointeract]"
 
 msgid "[Kira_07]Зато знаю я. Макс, постарайся не пялиться на мою грудь. Глаза чуть выше. Ау. Ты здесь, Макс?[nointeract]"
-msgstr ""
+msgstr "[Kira_07]Ma lo so. Max, cerca di non fissarmi il petto. Gli occhi sono leggermente più alti. Au. Sei qui, Max?[nointeract]"
 
 msgid "[Kira_04]Да, это моя ошибка, что выбрала такой купальник. Если честно, то я обычно загораю голая, но вы же дети и стоит хоть немного прикрываться. Вот я и прикрылась... Макс!"
-msgstr ""
+msgstr "[Kira_04]Sì, è un mio errore che ho scelto un costume da bagno del genere. Ad essere onesti, di solito prendo il sole nudo, ma siete bambini e vale almeno una piccola copertura. Così ho coperto... Max!"
 
 msgid "[Max_07]А? Что?"
-msgstr ""
+msgstr "[Max_07]Y? A cosa?"
 
 msgid "[Kira_05]Ого... Да я смотрю твой рост пошёл куда надо! И давно ты такое сокровище скрываешь?[nointeract]"
-msgstr ""
+msgstr "[Kira_05]Del... Sì, guardo la tua crescita andare dove dovrebbe! E da quanto tempo nascondi un tale tesoro?[nointeract]"
 
 msgid "[Kira_06]Как я вижу, ты весь пошёл в отца... А кое в чём, так особенно...[nointeract]"
-msgstr ""
+msgstr "[Kira_06]Come vedo tutti voi siete andati dal padre... E in un certo senso, quindi soprattutto...[nointeract]"
 
 msgid "[Kira_03]Ой, я конечно про твою... скромность. Да, речь о ней. И, вообще, давай сменим тему!"
 msgstr ""
