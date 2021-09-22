@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-21 09:05\n"
+"PO-Revision-Date: 2021-09-22 14:17\n"
 
 msgid "[Max_01]Благодаря натуризму Оливии, внимания ко двору станет побольше..."
-msgstr ""
+msgstr "[Max_01]Grazie al naturismo di Olivia, l'attenzione alla corte sarà più..."
 
 msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички и тем, как Оливия светит своими прелестями..."
-msgstr ""
+msgstr "[Max_01]È bello guardare la mia sorellina in acqua e come Olivia brilla con il suo fascino..."
 
 msgid "[Max_01]Девчонки смотрят сериалы... Жду не дождусь, когда Лиза тоже начнёт смотреть их голой, как Оливия!"
-msgstr ""
+msgstr "[Max_01]Girls guardano programmi Tv... Non vedo l'ora che Lisa inizi a guardarli nudi come Olivia!"
 
 msgid "[Max_01]Красавицы сладко спят..."
-msgstr ""
+msgstr "[Max_01]Bellezze dormono dolcemente..."
 
