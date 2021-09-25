@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/events/kira_cam.po\n"
+"X-Crowdin-File-ID: 923\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2021-09-25 17:53\n"
+
+msgid "[Max_01]Моя очаровательная тётя Кира спит..."
+msgstr "[Max_01]La mia adorabile zia Kira dorme..."
+
+msgid "[Max_01]Моя очаровательная тётя Кира спит..."
+msgstr "[Max_01]La mia adorabile zia Kira dorme..."
+
+msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Киры не видно через эту камеру..."
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera..."
+
+msgid "[Max_04]За такой классной тётей, принимающей душ, будет преступлением не понаблюдать..."
+msgstr "[Max_04]una zia così cool che si faceva la doccia sarebbe un crimine non guardare..."
+
+msgid "[Max_05]О да, тётя Кира! Потереть киску на камеру будет точно не лишним... Зрители будут в восторге."
+msgstr "[Max_05]Oh sì, zia Kira! Strofinare la tua fotocamera non sarà sicuramente superfluo... Gli spettatori saranno felici."
+
+msgid "[Max_03]Тётя Кира красуется перед зеркалом. Полюбуемся..."
+msgstr "[Max_03]zia Kira sfoggia davanti allo specchio. Ammiriamo..."
+
+msgid "[Max_05]Ого! А ей явно не хватает секса, раз она решила пошалить перед душем... А как красиво!"
+msgstr "[Max_05]'s ow! E chiaramente non ha abbastanza sesso, dal momento che ha deciso di scherzare davanti alla doccia... E che bello!"
+
+msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_04]Старшая сестрёнка принимает душ... Это зрелище, которое никогда мне не надоест..."
+msgstr "[Max_04]sorella maggiore fa la doccia... È uno spettacolo di cui non mi annoierò mai..."
+
+msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Киры не видно через эту камеру..."
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera..."
+
+msgid "[Max_04]За такой классной тётей, принимающей душ, будет преступлением не понаблюдать..."
+msgstr "[Max_04]una zia così cool che si faceva la doccia sarebbe un crimine non guardare..."
+
+msgid "[Max_09]Алиса, должно быть, красуется перед зеркалом... Надо взглянуть через другую камеру..."
+msgstr "[Max_09]Alice deve ostentare davanti allo specchio... Devi guardare attraverso un'altra macchina fotografica..."
+
+msgid "[Max_09]Алиса, должно быть, красуется перед зеркалом, но здесь этого не увидеть..."
+msgstr "[Max_09]Alice deve ostentare davanti a uno specchio, ma non puoi vederlo qui..."
+
+msgid "[Max_07]Ого... Две очень плохие девочки сегодня моются вместе... тётя Кира и Алиса! Как же они хороши..."
+msgstr "[Max_07]Del... Due ragazze molto cattive si lavano insieme oggi... Zia Ciro e Alice! Quanto sono bravi..."
+
+msgid "[Max_03]Тётя Кира красуется перед зеркалом. Полюбуемся..."
+msgstr "[Max_03]zia Kira sfoggia davanti allo specchio. Ammiriamo..."
+
+msgid "[Max_05]Ух, старшая сестрёнка просто сногсшибательна..."
+msgstr "[Max_05]Ukh, la sorella maggiore è semplicemente sbalorditiva..."
+
+msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
+msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_04]Младшая сестрёнка принимает душ... Прекрасная Лиза - прекрасное утро!"
+msgstr "[Max_04]sorellina fa la doccia... Bella Lisa - una bella mattina!"
+
+msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Киры не видно через эту камеру..."
+msgstr "[Max_09]Kira non è visibile attraverso questa fotocamera..."
+
+msgid "[Max_04]За такой классной тётей, принимающей душ, будет преступлением не понаблюдать..."
+msgstr "[Max_04]una zia così cool che si faceva la doccia sarebbe un crimine non guardare..."
+
+msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Lisa non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Лизы не видно через эту камеру..."
+msgstr "[Max_09]Lisa non è visibile attraverso questa fotocamera..."
+
+msgid "[Max_07]О как... Тётя и младшая сестрёнка сегодня моются вместе! Они офигенно хороши..."
+msgstr "[Max_07]Come... Zia e sorellina si lavano insieme oggi! Sono incredibilmente buoni..."
+
+msgid "[Max_03]Тётя Кира красуется перед зеркалом. Полюбуемся..."
+msgstr "[Max_03]zia Kira sfoggia davanti allo specchio. Ammiriamo..."
+
+msgid "[Max_03]Лиза любуется собой перед зеркалом. И мы этим со зрителями тоже полюбуемся..."
+msgstr "[Max_03]Lisa si ammira davanti allo specchio. E lo ammireremo anche con il pubblico..."
+
+msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
+msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_01]Ух, тётя Кира загорает и радует нас всех своими соблазнительными формами..."
+msgstr "[Max_01]Uh, zia Kira prende il sole e ci piace tutti con le sue forme seducenti..."
+
+msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
+msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
+msgstr "[Max_09]Niente di veramente visibile... Vale la pena guardare attraverso un'altra fotocamera..."
+
+msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
+msgstr "[Max_09]Niente da vedere... È necessario installare una telecamera che copra l'intera piscina..."
+
+msgid "[Max_01]Всегда приятно посмотреть, как тётя Кира расслабляется во дворе..."
+msgstr "[Max_01]È sempre bello vedere zia Kira rilassarsi nel cortile..."
+
+msgid "[Max_01]Тётя Кира набирает воду. После долгого рабочего дня самое то принять ванну..."
+msgstr "[Max_01]zia Kira sta guadagnando acqua. Dopo una lunga giornata di lavoro, la cosa più importante è fare il bagno..."
+
+msgid "[Max_04]Эх, тётя Кира уже вытирается, самое интересное позади. Почти..."
+msgstr "[Max_04]Oh, zia Kira sta già pulendo, la più interessante è dietro. Quasi..."
+
+msgid "[Max_05]Так, руки на стол! Можно обжечься... ведь тётя Кира - огонь!"
+msgstr "[Max_05]Quindi, mani sul tavolo! Puoi scottarti... dopo tutto, zia Kira è fuoco!"
+
+msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
+msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_02]Похоже, тётя Кира смотрит какой-то сериал или кино... Может, стоит составить ей компанию?"
+msgstr "[Max_02]Sembra che zia Kira stia guardando alcune serie tv o film... Forse dovremmo tenerle compagnia?"
+
+msgid "[Max_01]Похоже, тётя Кира смотрит какой-то сериал или кино... Ну а мне приятней смотреть на тётю..."
+msgstr "[Max_01]Sembra che zia Kira stia guardando alcune serie tv o film... Beh, sono più piacevole guardare mia zia..."
+
+msgid "[Max_05]Ага, тётя наверняка порнушку включила! Хотя, может ей стало просто скучно... Может, ей помочь?"
+msgstr "[Max_05]sì, mia zia deve averlo acceso! Anche se, forse era solo annoiata... Forse aiutarla?"
+
+msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
+msgstr "[Max_09]Niente di veramente visibile... Vale la pena guardare attraverso un'altra fotocamera..."
+
+msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
+msgstr "[Max_09]Niente da vedere... È necessario installare una telecamera che copra l'intera piscina..."
+
+msgid "[Max_05]Класс! Тётя Кира решила ночью поплавать без купальника... пока никто не видит... Ну да, никто!"
+msgstr "[Max_05]classe! Zia Kira ha deciso di nuotare di notte senza costume da bagno... mentre nessuno vede... Oh sì, nessuno!"
+
+msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
+msgstr "[Max_09]Niente di veramente visibile... Vale la pena guardare attraverso un'altra fotocamera..."
+
+msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы бассейн..."
+msgstr "[Max_09]Niente da vedere... È necessario installare una telecamera che copra la piscina..."
+
+msgid "[Max_01]{i}( Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их... ){/i}[nointeract]"
+msgstr "[Max_01]{i}( Qui e le ragazze sono tornate dal club! Se prima di andare a letto vuoi cercare l'avventura, allora devi correre velocemente e incontrarle ... ) {/i}[nointeract]"
+
+msgid "[Max_00]Поздно уже, пойду лучше спать..."
+msgstr "[Max_00]È troppo tardi, vado a dormire meglio..."
+
+msgid "[Max_08]Бедной тёте Кире приходится ублажать Эрика, чтобы никто о нас с ней не узнал..."
+msgstr "[Max_08]povera zia Kira deve compiacere Eric in modo che nessuno sappia di noi con lei..."
+
+msgid "[Max_01]Повезло Эрику... Тётя Кира умеет ублажать мужчин и ещё как!"
+msgstr "[Max_01]Fortunato Eric... Zia Kira sa come compiacere gli uomini e come!"
+
+msgid "[Max_10]Благо у Эрика такой член, с которым Кире не составит труда справиться! Хотя, его выдержке можно позавидовать..."
+msgstr "[Max_10]Fortunatamente, Eric ha un tale che Kire non sarà difficile da affrontare! Anche se, la sua resistenza può essere invidiata..."
+
+msgid "[Max_07]Со стороны кажется, что для Киры это самое обыденное дело! Она так легко управляется с членом Эрика, хотя это и не сложно, после моего-то..."
+msgstr "[Max_07]Dall'esterno sembra che per Kira questa sia la cosa più ordinaria! Gestisce Eric così facilmente, anche se non è difficile, dopo il mio..."
+
+msgid "[Max_09]Всё! На этот раз Кира отмучалась... Но от Эрика надо скорее избавляться."
+msgstr "[Max_09]È tutto! Questa volta Kira è stata tormentata... Ma Eric dovrebbe essere smaltito prima."
+
+msgid "[Max_02]Вот и всё! С Кирой долго не продержишься... Особенно если она нацелена доставить своим языком максимум удовольствия."
+msgstr "[Max_02]Questo è tutto! Non puoi durare a lungo con Kira... Soprattutto se mira a dare alla sua lingua il massimo piacere."
+
+msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
+msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+#    # game/events/kira_cam.rpy:425
+msgid "{i}встретить их{/i}"
+msgstr "{i}li incontriamo{/i}"
+
