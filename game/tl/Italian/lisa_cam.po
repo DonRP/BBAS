@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/events/lisa_cam.po\n"
+"X-Crowdin-File-ID: 927\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2021-09-25 17:53\n"
+
+msgid "[Max_01]Лиза сладко спит..."
+msgstr "[Max_01]Lisa dorme dolcemente..."
+
+msgid "[Max_01]Лиза ещё спит..."
+msgstr "[Max_01]Lisa è ancora addormentata..."
+
+msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Lisa non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Лизы не видно через эту камеру..."
+msgstr "[Max_09]Lisa non è visibile attraverso questa fotocamera..."
+
+msgid "[Max_04]Младшая сестрёнка принимает душ... Прекрасная Лиза - прекрасное утро!"
+msgstr "[Max_04]sorellina fa la doccia... Bella Lisa - una bella mattina!"
+
+msgid "[Max_03]Лиза, прежде чем принять душ, любуется собой перед зеркалом. И мы этим со зрителями тоже полюбуемся..."
+msgstr "[Max_03]Lisa, prima di fare la doccia, si ammira davanti allo specchio. E lo ammireremo anche con il pubblico..."
+
+msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Lisa non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_07]Люблю смотреть, как Лиза читает. Вернее, люблю позы, в которых она читает..."
+msgstr "[Max_07]Adoro guardare Lisa leggere. O meglio, adoro le pose in cui legge..."
+
+msgid "[Max_09]Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
+msgstr "[Max_09]non vedrò nulla di interessante qui, Lisa è completamente vestita."
+
+msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
+msgstr "[Max_07]Eccellente! Lisa si veste per andare a scuola...[nointeract]"
+
+msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
+msgstr "[Max_02]Uhhh Ora è così nuda e carina...[nointeract]"
+
+msgid "[Max_04]Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!"
+msgstr "[Max_04]Quanto è bello che mia sorella sia una studentessa così seducente. Sono sicuro che al pubblico piace!"
+
+msgid "[Max_09]Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
+msgstr "[Max_09]non vedrò nulla di interessante qui, Lisa è completamente vestita."
+
+msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
+msgstr "[Max_07]Eccellente! Lisa si veste per fare shopping...[nointeract]"
+
+msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
+msgstr "[Max_02]Uhhh Ora è così nuda e carina...[nointeract]"
+
+msgid "[Max_04]Повезло мне с сестрёнкой! Обворожительна в любой одежде и ещё больше - без неё..."
+msgstr "[Max_04]Fortunato me con mia sorella! Affascinante in qualsiasi vestito e anche di più - senza di esso..."
+
+msgid "[Max_01]Лиза загорает и радует этим моих зрителей! И меня, конечно же..."
+msgstr "[Max_01]Lisa prende il sole e piace ai miei spettatori con questo! E io, ovviamente..."
+
+msgid "[Max_09]Через эту камеру ничего не видно... Может посмотреть через другую?"
+msgstr "[Max_09]Nulla può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
+msgstr "[Max_09]Niente di veramente visibile... Vale la pena guardare attraverso un'altra fotocamera..."
+
+msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
+msgstr "[Max_09]Niente da vedere... È necessario installare una telecamera che copra l'intera piscina..."
+
+msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички..."
+msgstr "[Max_01]È bello guardare la mia sorellina in acqua..."
+
+msgid "[Max_01]Лиза моет посуду. А ведь я мог бы ей помочь..."
+msgstr "[Max_01]Lisa lava i piatti. Ma potrei aiutarla..."
+
+msgid "[Max_01]Сестрёнка бездельничает и залипла в свой телефон. Но лежит красиво..."
+msgstr "[Max_01]sorella si rilacca e si attacca al suo telefono. Ma giace magnificamente..."
+
+msgid "[Max_01]Лиза почти набрала воду, хотя я смотрю на кое-что другое..."
+msgstr "[Max_01]Lisa è quasi acqua così annaffiata, anche se sto guardando qualcos'altro..."
+
+msgid "[Max_04]Эх, Лиза... Не вытирайся! Ты мокренькая тоже обалденная..."
+msgstr "[Max_04]Oh, Lisa... Non cancellarti! Sei bagnato troppo fantastico..."
+
+msgid "[Max_05]Давай, сестрёнка, не стесняйся показать как можно больше всего интересного..."
+msgstr "[Max_05]Dai, sorella, non esitare a mostrare il più interessante possibile..."
+
+msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
+msgstr "[Max_09]Lisa non è visibile attraverso questa fotocamera... Posso guardare attraverso un altro?"
+
+msgid "[Max_01]Лиза учит уроки. Может, стоило ей помочь?!"
+msgstr "[Max_01]Lisa sta imparando le lezioni. Forse valeva la pena aiutarla?!"
+
