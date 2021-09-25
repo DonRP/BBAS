@@ -10,151 +10,157 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-23 14:43\n"
+"PO-Revision-Date: 2021-09-25 14:55\n"
 
 #    # game/core/03variables.rpy:25
 msgid "МОЯ\n"
 "КОМНАТА"
-msgstr ""
+msgstr "MEIN\n"
+"ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "МОЯ КОМНАТА"
-msgstr ""
+msgstr "MEIN\n"
+"ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА\n"
 "АЛИСЫ"
-msgstr ""
+msgstr "ALICE'S\n"
+"ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА АЛИСЫ"
-msgstr ""
+msgstr "ALICE'S\n"
+"ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА\n"
 "АННЫ"
-msgstr ""
+msgstr "ANNA's\n"
+"ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА АННЫ"
-msgstr ""
+msgstr "ANNA's\n"
+"ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "ВАННАЯ\n"
 "КОМНАТА"
-msgstr ""
+msgstr "BADEZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "ВАННАЯ КОМНАТА"
-msgstr ""
+msgstr "BADEZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "ГОСТИНАЯ"
-msgstr ""
+msgstr "WOHNZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "ВЕРАНДА"
-msgstr ""
+msgstr "VERANDA"
 
 #    # game/core/03variables.rpy:25
 msgid "ДВОР"
-msgstr ""
+msgstr "HOF"
 
 #    # game/core/03variables.rpy:85
 msgid "Алиса"
-msgstr ""
+msgstr "Alice"
 
 #    # game/core/03variables.rpy:85
 msgid "Алисы"
-msgstr ""
+msgstr "Alice"
 
 #    # game/core/03variables.rpy:85
 msgid "Алисе"
-msgstr ""
+msgstr "Alice"
 
 #    # game/core/03variables.rpy:85
 msgid "Алису"
-msgstr ""
+msgstr "Alice"
 
 #    # game/core/03variables.rpy:85
 msgid "Алисой"
-msgstr ""
+msgstr "Alice"
 
 #    # game/core/03variables.rpy:85
 msgid "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-msgstr ""
+msgstr "Das ist Alice, meine ältere Schwester.  In jeder unverständlichen Situation trifft es mich (bestenfalls) ins Gesicht. Sie hat vor kurzem ihr Abitur gemacht und sucht wie ich ihren Weg. Den ganzen Tag vor einem Laptop sitzen und etwas mit ihrem Blog machen. Wie so oft bei Geschwistern kommen wir nicht sehr gut miteinander aus..."
 
 #    # game/core/03variables.rpy:85
 msgid "Лиза"
-msgstr ""
+msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лизы"
-msgstr ""
+msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лизе"
-msgstr ""
+msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лизу"
-msgstr ""
+msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лизой"
-msgstr ""
+msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr ""
+msgstr "Lisa, die jüngere Schwester. Süß und lustig. Sie ist immer noch in der Schule. Lisa und ich kommunizieren auf der gleichen Wellenlänge, obwohl wir uns gelegentlich streiten. Aber wenn etwas passiert, sucht sie meinen Schutz."
 
 #    # game/core/03variables.rpy:85
 msgid "Анна"
-msgstr ""
+msgstr "Anna"
 
 #    # game/core/03variables.rpy:85
 msgid "Анны"
-msgstr ""
+msgstr "Anna"
 
 #    # game/core/03variables.rpy:85
 msgid "Анне"
-msgstr ""
+msgstr "Anna"
 
 #    # game/core/03variables.rpy:85
 msgid "Анну"
-msgstr ""
+msgstr "Anna"
 
 #    # game/core/03variables.rpy:85
 msgid "Анной"
-msgstr ""
+msgstr "Anna"
 
 #    # game/core/03variables.rpy:85
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-msgstr ""
+msgstr "Anna, meine Mutter. Sie zieht mich und meine beiden Schwestern seit einigen Jahren groß. Sie arbeitet im Büro einer Firma. Obwohl ihr Gehalt ziemlich anständig ist, geht fast alles drauf, um Unterkunft, Essen und Kleidung zu bezahlen."
 
 #    # game/core/03variables.rpy:96
 msgid "Макс"
-msgstr ""
+msgstr "Max"
 
 #    # game/core/03variables.rpy:96
 msgid "Макса"
-msgstr ""
+msgstr "Max"
 
 #    # game/core/03variables.rpy:96
 msgid "Максу"
-msgstr ""
+msgstr "Max"
 
 #    # game/core/03variables.rpy:96
 msgid "Максом"
-msgstr ""
+msgstr "Max"
 
 #    # game/core/03variables.rpy:96
 msgid "Максе"
-msgstr ""
+msgstr "Max"
 
 #    # game/core/03variables.rpy:96
 msgid "Всегда в поисках приключений на свою пятую точку."
-msgstr ""
+msgstr "Immer auf der Suche nach Abenteuer bis zum Anschlag."
 
 #    # game/core/03variables.rpy:132
 msgid "ПОСМОТРЕТЬ\n"
