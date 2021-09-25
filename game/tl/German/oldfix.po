@@ -10,14 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-25 17:49\n"
+"PO-Revision-Date: 2021-09-25 22:08\n"
 
+# game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
 msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
 msgstr ""
 
+# game/core/oldfix.rpy:10## # translate crowdin old_fix_93331e6b:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 msgstr ""
 
+# game/core/oldfix.rpy:14## # translate crowdin old_fix_93331e6b_1:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 msgstr ""
 
