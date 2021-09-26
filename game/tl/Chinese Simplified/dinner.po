@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-25 22:09\n"
+"PO-Revision-Date: 2021-09-26 08:57\n"
 
 # game/dialogues/dinner.rpy:43## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
@@ -1264,7 +1264,6 @@ msgstr ""
 msgid "[Max_01]Пока, мам..."
 msgstr ""
 
-#    # game/dialogues/dinner.rpy:56
 msgid "Как скажешь, мам..."
 msgstr ""
 
