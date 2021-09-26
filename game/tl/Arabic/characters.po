@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/characters.po\n"
+"X-Crowdin-File-ID: 801\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2021-09-26 08:55\n"
+
+msgid "Мама"
+msgstr ""
+
+#    # game/core/characters.rpy:356
+msgid "Майя"
+msgstr ""
+
+#    # game/core/characters.rpy:369
+msgid "Сэм"
+msgstr ""
+
