@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:09\n"
+"PO-Revision-Date: 2021-09-26 08:57\n"
 
 # game/dialogues/oliviatalk.rpy:17## # translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01]Вы не против, если я тоже позагораю?"
@@ -516,7 +516,6 @@ msgstr "[Olivia_06]Come?! Non rimarrai con noi? Miseramente..."
 msgid "[Max_01]Мне тоже. Не скучайте."
 msgstr "[Max_01]anche a me. Non annoiarti."
 
-#    # game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr "Anche se, no... In realtà ho cose da fare..."
 
