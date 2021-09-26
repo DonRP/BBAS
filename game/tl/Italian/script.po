@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:06\n"
+"PO-Revision-Date: 2021-09-26 08:54\n"
 
 # game/script.rpy:37## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
@@ -176,7 +176,6 @@ msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcuni possono portare 
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
 msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno![nointeract]"
 
-#    # game/script.rpy:37
 msgid "{i}далее{/i}"
 msgstr "{i}successivo{/i}"
 
