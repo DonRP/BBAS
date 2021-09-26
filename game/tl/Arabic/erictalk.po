@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-09-25 22:08\n"
+"PO-Revision-Date: 2021-09-26 08:56\n"
 
 # game/dialogues/erictalk.rpy:16## # translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -1060,7 +1060,6 @@ msgstr ""
 msgid "[Max_01]Хорошо, как надумаю, что хочу, так сразу к тебе...[nointeract]"
 msgstr ""
 
-#    # game/dialogues/erictalk.rpy:11
 msgid "{i}В другой раз...{/i}"
 msgstr ""
 
