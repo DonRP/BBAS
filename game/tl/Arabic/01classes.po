@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/01classes.po\n"
+"X-Crowdin-File-ID: 785\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2021-09-26 08:55\n"
+
+msgid "Ужасное"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Очень плохое"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Плохое"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Не очень"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Нейтральное"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Неплохое"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Хорошее"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Очень хорошее"
+msgstr ""
+
+#    # game/core/01classes.rpy:587
+msgid "Прекрасное"
+msgstr ""
+
+#    # game/core/01classes.rpy:962
+msgid "Приобретен пакет рекламы"
+msgstr ""
+
+#    # game/core/01classes.rpy:1185
+msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+msgstr ""
+
