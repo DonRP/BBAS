@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:05\n"
+"PO-Revision-Date: 2021-09-26 08:53\n"
 
 # game/events/ann.rpy:10## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -548,7 +548,6 @@ msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre posson
 msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
 msgstr "[Max_07]Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha...[nointeract]"
 
-#    # game/events/ann.rpy:185
 msgid "{i}Отвернуться{/i}"
 msgstr "{i}voltare le chiavi in giavolte{/i}"
 
