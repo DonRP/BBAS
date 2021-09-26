@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2021-09-25 22:04\n"
+"PO-Revision-Date: 2021-09-26 08:52\n"
 
 # game/events/olivia.rpy:35## # translate crowdin olivia_lisa_tv_3427be4e:
 msgid "[Max_07]{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}[nointeract]"
@@ -864,7 +864,6 @@ msgstr ""
 msgid "[Max_01]Приятных снов."
 msgstr ""
 
-#    # game/events/olivia.rpy:35
 msgid "{i}подсмотреть\n"
 "{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
 msgstr ""
