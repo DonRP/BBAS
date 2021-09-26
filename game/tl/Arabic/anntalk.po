@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-09-25 22:08\n"
+"PO-Revision-Date: 2021-09-26 08:56\n"
 
 # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -1128,7 +1128,6 @@ msgstr ""
 msgid "[Max_01]Конечно, мам!"
 msgstr ""
 
-#    # game/dialogues/anntalk.rpy:61
 msgid "В другой раз..."
 msgstr ""
 
