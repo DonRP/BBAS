@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:05\n"
+"PO-Revision-Date: 2021-09-26 08:53\n"
 
 # game/dialogues/kiratalk.rpy:17## # translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -1484,7 +1484,6 @@ msgstr "[Max_01]Sì, grazie per il consiglio!"
 msgid "[Max_09]{i}( Если я буду проводить с мамой больше времени вместе, то может быть и от Эрика будет не так уж сложно избавиться?! Главное, не вести себя по идиотски с ней... И про сестёр нужно не забывать, хорошие и доверительные отношения с ними тоже могут мне помочь. По-моему, мама каждое утро занимается йогой. Пожалуй, стоит попробовать составить ей компанию... ){/i}"
 msgstr "[Max_09]{i}(Se passo più tempo con mia madre insieme, potrebbe non essere così difficile sbarazzarsi di Eric?! La cosa principale è non comportarsi in modo idiota con lei ... E non dobbiamo dimenticare le sorelle, un rapporto buono e fiducioso con loro può anche aiutarmi. Penso che mia madre faccia yoga ogni mattina. Forse dovresti cercare di farle compagnia...) {/i}"
 
-#    # game/dialogues/kiratalk.rpy:11
 msgid "{i}Ой, в другой раз...{/i}"
 msgstr "{i}Oh, un'altra volta... {/i}"
 
