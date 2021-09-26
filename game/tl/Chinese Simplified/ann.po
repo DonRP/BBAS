@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-25 22:05\n"
+"PO-Revision-Date: 2021-09-26 08:53\n"
 
 # game/events/ann.rpy:10## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -546,7 +546,6 @@ msgstr ""
 msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
 msgstr ""
 
-#    # game/events/ann.rpy:185
 msgid "{i}Отвернуться{/i}"
 msgstr ""
 
