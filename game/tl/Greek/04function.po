@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/04function.po\n"
+"X-Crowdin-File-ID: 791\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2021-09-26 08:56\n"
+
+msgid "+ к навыку скрытности"
+msgstr ""
+
+#    # game/core/04function.rpy:284
+msgid "+ к навыку убеждения"
+msgstr ""
+
+#    # game/core/04function.rpy:288
+msgid "+ к навыку массажа"
+msgstr ""
+
+#    # game/core/04function.rpy:292
+msgid "+ к навыку поцелуев"
+msgstr ""
+
+#    # game/core/04function.rpy:296
+msgid "+ к навыку эротического массажа"
+msgstr ""
+
+#    # game/core/04function.rpy:300
+msgid "+ к тренированности"
+msgstr ""
+
+#    # game/core/04function.rpy:304
+msgid "+ к навыку кунилингуса"
+msgstr ""
+
+#    # game/core/04function.rpy:308
+msgid "+ к сексуальному опыту"
+msgstr ""
+
+#    # game/core/04function.rpy:312
+msgid "+ к опыту анального секса"
+msgstr ""
+
+#    # game/core/04function.rpy:321
+msgid "{color=[red]}значительно ухудшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:321
+msgid "{color=[red]}ухудшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:321
+msgid "{color=[red]}немного ухудшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:321
+msgid "{color=[lime]}немного улучшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:321
+msgid "{color=[lime]}улучшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:321
+msgid "{color=[lime]}значительно улучшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:332
+msgid "{color=[red]}снизилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:332
+msgid "{color=[lime]}повысилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:357
+msgid "Настроение %s %s \n"
+"Её отношение к Максу %s"
+msgstr ""
+
+#    # game/core/04function.rpy:359
+msgid "Отношение %s к Максу %s"
+msgstr ""
+
+#    # game/core/04function.rpy:361
+msgid "Настроение %s %s"
+msgstr ""
+
+#    # game/core/04function.rpy:378
+msgid "Так... В накладной написано следующее:"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Война"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Враждебные"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Плохие"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Прохладные"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Неплохие"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Хорошие"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Тёплые"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Дружеские"
+msgstr ""
+
+#    # game/core/04function.rpy:928
+msgid "Близкие"
+msgstr ""
+
+#    # game/core/04function.rpy:1231
+msgid "Конфеты закончились"
+msgstr ""
+
