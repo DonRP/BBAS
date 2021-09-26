@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/07_clothes.po\n"
+"X-Crowdin-File-ID: 797\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2021-09-26 08:55\n"
+
+msgid "Повседневная"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Для сна"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Для йоги"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Блог в нижнем белье"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Готовит завтрак"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Готовит ужин"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Утренний отдых"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Вечерний отдых"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "Купальник"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:86
+msgid "За уроками"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:160
+msgid "Влияние Макса недостаточно"
+msgstr ""
+
