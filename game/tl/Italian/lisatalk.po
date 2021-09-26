@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:08\n"
+"PO-Revision-Date: 2021-09-26 08:57\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -5890,7 +5890,6 @@ msgstr "[Lisa_12]Forse la prossima volta, almeno farai qualcosa, e non solo sede
 msgid "[Max_08]Так и сделаю. В смысле, сделаю..."
 msgstr "[Max_08]lo farò. Voglio dire, lo farò..."
 
-#    # game/dialogues/lisatalk.rpy:62
 msgid "Кажется, я передумал..."
 msgstr "Penso di aver cambiato idea..."
 
