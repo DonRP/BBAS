@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:06\n"
+"PO-Revision-Date: 2021-09-26 08:54\n"
 
 # game/events/kira.rpy:23## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -2644,7 +2644,6 @@ msgstr "[Max_09]Ecco il bastardo! Ho abbassato tutto fino all'ultima goccia di K
 msgid "[Max_02]Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа![nointeract]"
 msgstr "[Max_02]Kira non ha perso una sola goccia passata! Ed è come se nessuno l'avessi appena risucchiata... Lavoro pulito![nointeract]"
 
-#    # game/events/kira.rpy:23
 msgid "{i}войти{/i}"
 msgstr "{i}accedi{/i}"
 
