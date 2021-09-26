@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-25 22:06\n"
+"PO-Revision-Date: 2021-09-26 08:54\n"
 
 # game/events/alice.rpy:12## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -2343,7 +2343,6 @@ msgstr ""
 msgid "[Max_07]{i}( Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего... ){/i}[nointeract]"
 msgstr ""
 
-#    # game/events/alice.rpy:12
 msgid "{i}постучаться{/i}"
 msgstr ""
 
