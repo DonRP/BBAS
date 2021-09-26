@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/06_items.po\n"
+"X-Crowdin-File-ID: 795\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2021-09-26 08:55\n"
+
+msgid "ПАУК"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "СКРЫТАЯ КАМЕРА"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ШЕЛКОВЫЙ ХАЛАТ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Короткий, лёгкий, почти шёлковый халат высшего качества. Made in China."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "КУПАЛЬНИК КРАСНЫЙ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "СИГАРЕТЫ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Пачка сигарет Lucky Strike. Для настоящих мужчин!"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "МАЛЕНЬКОЕ ЧЕРНОЕ ПЛАТЬЕ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Отличный подарок для девушки, желающей произвести фурор на вечеринке или дискотеке."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ЛЮБЯЩАЯ РУБИ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ПРЕМЬЕР-МИНИСТР"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "БЫТЬ КУКЛОЙ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "КНИГА ОРГАЗМОВ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ИСТОРИЯ О"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Это история о доминировании и подчинении. История об одной прекрасной девушке по имени О."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "СТРЕМЯНКА"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "WEB STANDARDS"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ЛЁГКАЯ ПИЖАМА"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "НОЧНУШКА"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Полупрозрачные сорочка и трусики. Облегающий фасон подчёркивает все достоинства и изгибы фигуры, а лёгкое кружево придаст ещё больше сексуальности."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Набор косметики"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Небольшой набор косметики для повседневного использования. Для женщин - только лучшее..."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Шоколад \"Ritter Sport\" (4 штуки)"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Конфеты \"Raffaello\" (16 штук)"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Конфеты \"Raffaello\" (24 штуки)"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "КРЕМ ДЛЯ ЗАГАРА"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Легкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "МУЖСКИЕ МАЙКА И ШОРТЫ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Свободный и лёгкий летний комплект одежды на каждый день."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "КОНФЕТЫ С ЛИКЁРОМ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "КОМПЛЕКТ ТЁМНОГО НИЖНЕГО БЕЛЬЯ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "СЕКС-ОБРАЗОВАНИЕ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ФОТОАППАРАТ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Женское сексуальное нижнее бельё с кружевным узором по краям."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
+msgstr ""
+
+#    # game/core/06_items.rpy:2
+msgid "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
+msgstr ""
+
