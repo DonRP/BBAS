@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:08\n"
+"PO-Revision-Date: 2021-09-26 08:57\n"
 
 # game/dialogues/christina.rpy:7## # translate crowdin christina_first_talk_a072d515:
 msgid "[Christine_03]А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
@@ -132,7 +132,6 @@ msgstr "[Christine_03]Grazie, Max. Sono stato felice di conoscerti!"
 msgid "[Max_01]Я тоже, Кристина! Пока."
 msgstr "[Max_01]anch'io, Christina! Finalmente."
 
-#    # game/dialogues/christina.rpy:25
 msgid "Хорошего тебе дня!"
 msgstr "Buona Giornata!"
 
