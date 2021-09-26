@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/game/tl/crowdin/events/olivia_cam.po\n"
+"X-Crowdin-File-ID: 1057\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2021-09-26 08:54\n"
+
+# game/events/olivia_cam.rpy:8## # translate crowdin cam0_olivia_lisa_sun_fb60e201:
+msgid "[Max_01]Благодаря натуризму Оливии, внимания ко двору станет побольше..."
+msgstr ""
+
+# game/events/olivia_cam.rpy:31## # translate crowdin cam1_olivia_lisa_swim_c66f3478:
+msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички и тем, как Оливия светит своими прелестями..."
+msgstr ""
+
+# game/events/olivia_cam.rpy:42## # translate crowdin cam0_olivia_lisa_tv_ee9551f5:
+msgid "[Max_01]Девчонки смотрят сериалы... Жду не дождусь, когда Лиза тоже начнёт смотреть их голой, как Оливия!"
+msgstr ""
+
+# game/events/olivia_cam.rpy:54## # translate crowdin cam0_olivia_lisa_sleep_8eb12594:
+msgid "[Max_01]Красавицы сладко спят..."
+msgstr ""
+
