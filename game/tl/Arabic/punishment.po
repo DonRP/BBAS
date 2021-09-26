@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-09-25 22:08\n"
+"PO-Revision-Date: 2021-09-26 08:56\n"
 
 # game/dialogues/punishment.rpy:65## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -562,7 +562,6 @@ msgstr ""
 msgid "[Ann_12]Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
 msgstr ""
 
-#    # game/dialogues/punishment.rpy:169
 msgid "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
 msgstr ""
 
