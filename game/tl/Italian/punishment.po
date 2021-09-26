@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-25 22:05\n"
+"PO-Revision-Date: 2021-09-26 08:53\n"
 
 # game/dialogues/punishment.rpy:65## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -564,7 +564,6 @@ msgstr "[Ann_12]Quindi, questo è tutto, indossa i pantaloncini. Spero che tu ab
 msgid "[Ann_12]Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
 msgstr "[Ann_12]Beh, hai imparato una lezione? Vergognoso? Corretto. Dovrebbe essere un peccato. Speriamo che questo non accada di nuovo. Ora, vestiti..."
 
-#    # game/dialogues/punishment.rpy:169
 msgid "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
 msgstr "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 
