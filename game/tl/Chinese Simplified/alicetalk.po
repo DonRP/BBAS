@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-25 22:08\n"
+"PO-Revision-Date: 2021-09-26 08:56\n"
 
 # game/dialogues/alicetalk.rpy:17## # translate crowdin AliceTalkStart_50ef2ada:
 msgid "[Alice_00]Ну, Макс, чего надо?[nointeract]"
@@ -5610,7 +5610,6 @@ msgstr ""
 msgid "[Alice_13]Ох, и зачем я на всё это согласилась...[nointeract]"
 msgstr ""
 
-#    # game/dialogues/alicetalk.rpy:11
 msgid "{i}уйти{/i}"
 msgstr ""
 
