@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-10-20 01:45\n"
+"PO-Revision-Date: 2021-10-21 20:58\n"
 
 # game/events/olivia.rpy:35## # translate crowdin olivia_lisa_tv_3427be4e:
 msgid "[Max_07]{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}[nointeract]"
@@ -754,137 +754,138 @@ msgstr "[Max_05]¡Gracias! Ciertamente no me importa que la atención se centre 
 
 # game/events/olivia.rpy:561## # translate crowdin olivia_repeatable_night_out_with_965e183f:
 msgid "[Olivia_04]О! Давайте это посмотрим... Жалко, что не на самое начало серии попали, а то как-то совсем уж непонятно, что там происходит."
-msgstr ""
+msgstr "[Olivia_04]¡Oh! Veamos... Es una pena que no hayan llegar al comienzo de la serie, y luego, de alguna manera, no está del todo claro lo que está sucediendo allí."
 
 # game/events/olivia.rpy:562## # translate crowdin olivia_repeatable_night_out_with_72187a45:
 msgid "[Lisa_01]Непонятно, но лично меня заинтриговало... Мне интересно, что дальше будет."
-msgstr ""
+msgstr "[Lisa_01]No está claro, pero personalmente estaba intrigado ... Me pregunto qué sigue."
 
 # game/events/olivia.rpy:563## # translate crowdin olivia_repeatable_night_out_with_83c9fee5:
 msgid "[Max_04]{i}( А вот мне нет разницы, что происходит в сериале... Ведь на этом диване есть то, что в сериалах не каждый день увидишь! ){/i}"
-msgstr ""
+msgstr "[Max_04]{i}( Pero no me importa lo que pase en la serie... Después de todo, ¡en este sofá hay algo que en la serie no verás todos los días! ){/i}"
 
 # game/events/olivia.rpy:566## # translate crowdin olivia_repeatable_night_out_with_22d3a585:
 msgid "[Olivia_04]Вот, можем этот сериал посмотреть... Вроде, что-то интересное происходит у них там. Надо вникать..."
-msgstr ""
+msgstr "[Olivia_04]Aquí podemos ver esta serie... Como, algo interesante está sucediendo allí. Necesitamos profundizar en..."
 
 # game/events/olivia.rpy:567## # translate crowdin olivia_repeatable_night_out_with_00c76c93:
 msgid "[Lisa_01]Тогда смотрим... Может, по ходу просмотра во всём разберёмся."
-msgstr ""
+msgstr "[Lisa_01]Entonces veamos... Tal vez en el curso de la visualización todo se entenderá."
 
 # game/events/olivia.rpy:568## # translate crowdin olivia_repeatable_night_out_with_42357461:
 msgid "[Max_04]{i}( А вот мне куда интереснее то, что происходит на диване... Здесь, рядом со мной, сидят две обалденные девчонки, которые не против моей компании! ){/i}"
-msgstr ""
+msgstr "[Max_04]{i}( Pero me interesa mucho más lo que sucede en el sofá ... ¡Aquí, a mi lado, se sientan dos chicas increíbles que no están en contra de mi compañía! ){/i}"
 
 # game/events/olivia.rpy:576## # translate crowdin olivia_repeatable_night_out_with_f6fc3e47:
 msgid "[Olivia_02]Здорово, что можно просто вот так, побездельничать в пустом и шикарном доме... Да ещё и с такими классными ребятами, как вы!"
-msgstr ""
+msgstr "[Olivia_02]Es genial que puedas así, ocioso en una casa vacía y chic ... ¡E incluso con chicos geniales como tú!"
 
 # game/events/olivia.rpy:577## # translate crowdin olivia_repeatable_night_out_with_c95bc97f:
 msgid "[Lisa_03]Ага. Особенно здорово Максу. Мальчики, наверно, только о таком и мечтают?!"
-msgstr ""
+msgstr "[Lisa_03]sí. Especialmente genial max. ¡¿Chicos, probablemente, solo sobre esto y soñar?!"
 
 # game/events/olivia.rpy:580## # translate crowdin olivia_repeatable_night_out_with_a0ea375d:
 msgid "[Olivia_02]А хорошо закрутили, совсем у них дела плохи... Я аж на месте не могу усидеть. Хочется раскинуться на диване, но для вас это будет слишком откровенно."
-msgstr ""
+msgstr "[Olivia_02]Y bien retorcidos, lo están haciendo mal... No puedo quedarse quieto. Quiero estirarme en el sofá, pero para ti será demasiado franco."
 
 # game/events/olivia.rpy:581## # translate crowdin olivia_repeatable_night_out_with_45fbf759:
 msgid "[Lisa_03]Мне и самой хочется... Особенно здорово будет Максу, он ведь наверняка о таком и мечтает сейчас!"
-msgstr ""
+msgstr "[Lisa_03]quiero... Max será especialmente genial, ¡probablemente sueña con esto ahora!"
 
 # game/events/olivia.rpy:582## # translate crowdin olivia_repeatable_night_out_with_0a4c9412:
 msgid "[Max_02]Не только о таком. Но и то, что сейчас - тоже круто!"
-msgstr ""
+msgstr "[Max_02]No solo de eso. ¡Pero el hecho de que ahora también es genial!"
 
 # game/events/olivia.rpy:588## # translate crowdin olivia_repeatable_night_out_with_05e08a2a:
 msgid "[Olivia_01]Тебе повезло с братом, Лиза. Мальчишки думают только об одном, но такими уж их сделала природа. И Макс не исключение, но он хотя бы внимателен к нам."
-msgstr ""
+msgstr "[Olivia_01]Tienes suerte con tu hermano, Lisa. Los niños solo piensan en una cosa, pero la naturaleza los ha hecho así. Y Max no es una excepción, pero al menos está atento a nosotros."
 
 # game/events/olivia.rpy:589## # translate crowdin olivia_repeatable_night_out_with_0f6c9465:
 msgid "[Lisa_02]Макс очень внимательный, когда хочет за кем-нибудь подсмотреть!"
-msgstr ""
+msgstr "[Lisa_02]Max está muy atento cuando quiere espiar a alguien!"
 
 # game/events/olivia.rpy:590## # translate crowdin olivia_repeatable_night_out_with_d1813384:
 msgid "[Max_01]Я внимательный всегда."
-msgstr ""
+msgstr "[Max_01]siempre estoy atento."
 
 # game/events/olivia.rpy:596## # translate crowdin olivia_repeatable_night_out_with_59450400:
 msgid "[Olivia_03]Ну и как думаешь, Макс... Правильно герои сериала делают или нет?"
-msgstr ""
+msgstr "[Olivia_03]Bueno, piensas, Max... ¿Los personajes de la serie están haciendo lo correcto o no?"
 
 # game/events/olivia.rpy:597## # translate crowdin olivia_repeatable_night_out_with_268c1645:
 msgid "[Max_03]Так или иначе - да. Ведь впереди ещё много сезонов..."
-msgstr ""
+msgstr "[Max_03]De todos modos, sí. Después de todo, todavía quedan muchas temporadas por delante ..."
 
 # game/events/olivia.rpy:598## # translate crowdin olivia_repeatable_night_out_with_925a0535:
 msgid "[Lisa_09]Эй, ты испортил всю интригу! Как мы теперь дальше будем смотреть, зная, что у них всё получится?"
-msgstr ""
+msgstr "[Lisa_09]¡Oye, arruinaste toda la intriga! ¿Cómo vamos a ver ahora, sabiendo que tendrán éxito?"
 
 # game/events/olivia.rpy:604## # translate crowdin olivia_repeatable_night_out_with_74291412:
 msgid "[Max_07]Так не всем же может повезти! Кто-нибудь да огребёт... возможно..."
-msgstr ""
+msgstr "[Max_07]¡No todos pueden tener suerte! Alguien lo hará... Es posible..."
 
 # game/events/olivia.rpy:605## # translate crowdin olivia_repeatable_night_out_with_72c801d9:
 msgid "[Olivia_04]Твоя правда. Ладно, тихо... Мы смотреть будем или обсуждать?"
-msgstr ""
+msgstr "[Olivia_04]Tu verdad. De acuerdo, tranquilo ... ¿Vamos a ver o discutir?"
 
 # game/events/olivia.rpy:606## # translate crowdin olivia_repeatable_night_out_with_6cd95a15:
 msgid "[Lisa_01]Конечно, смотреть! Обсудить и потом можно... Если Макс опять о чём-нибудь не проболтается."
-msgstr ""
+msgstr "[Lisa_01]¡Por supuesto, mira! Discute y luego puedes... A menos que Max comience a hablar de algo de nuevo."
 
 # game/events/olivia.rpy:612## # translate crowdin olivia_repeatable_night_out_with_dd6e369a:
 msgid "[Olivia_06]Вот и серия заканчивается. Вы как, спать хотите? Я вот уже зеваю, но оно и понятно, ночь на дворе..."
-msgstr ""
+msgstr "[Olivia_06]Ahí es donde termina la serie. ¿Quieres dormir? Ya estoy bostezando, pero es comprensible, la noche está en el patio ..."
 
 # game/events/olivia.rpy:613## # translate crowdin olivia_repeatable_night_out_with_0b752bfe:
 msgid "[Lisa_05]Ага, давайте пойдём по кроваткам, пока здесь не заснули.[nointeract]"
-msgstr ""
+msgstr "[Lisa_05]sí, vayamos a las cunas antes de dormir aquí.[nointeract]"
 
 # game/events/olivia.rpy:621## # translate crowdin olivia_repeatable_night_out_with_1e38110f:
 msgid "[Max_04]Если вдруг вам надоест спать вместе, я всегда рад приютить любую из вас на своей кровати."
-msgstr ""
+msgstr "[Max_04]Si de repente se cansan de dormir juntos, siempre estoy feliz de refugiar a cualquiera de ustedes en mi cama."
 
 # game/events/olivia.rpy:622## # translate crowdin olivia_repeatable_night_out_with_e56be7a5:
 msgid "[Olivia_03]Спасибо, Макс! Трусы хоть одень, чтобы было не так заметно, насколько ты рад этим фантазиям."
-msgstr ""
+msgstr "[Olivia_03]¡Gracias, Max! Bragas al menos vestidas, para que no se note tanto lo feliz que estás con estas fantasías."
 
 # game/events/olivia.rpy:623## # translate crowdin olivia_repeatable_night_out_with_6538cfc3:
 msgid "[Lisa_02]И с чего ты взял, что нам надоест?"
-msgstr ""
+msgstr "[Lisa_02]¿Y dónde te cansaste de nosotros?"
 
 # game/events/olivia.rpy:624## # translate crowdin olivia_repeatable_night_out_with_893cf053:
 msgid "[Max_02]Ну мало ли."
-msgstr ""
+msgstr "[Max_02]Bueno, no mucho."
 
 # game/events/olivia.rpy:625## # translate crowdin olivia_repeatable_night_out_with_76458fcb:
 msgid "[Olivia_01]Всем спокойной ночи..."
-msgstr ""
+msgstr "[Olivia_01]Buenas noches a todos..."
 
 # game/events/olivia.rpy:626## # translate crowdin olivia_repeatable_night_out_with_cb768b4d:
 msgid "[Max_01]Приятных снов."
-msgstr ""
+msgstr "[Max_01]sueños agradables."
 
 msgid "{i}подсмотреть\n"
 "{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
-msgstr ""
+msgstr "{i}espía\n"
+"{color=[ch1.col]}(Stealth: Chance: [ch1.vis]){/color}{/i}"
 
 #    # game/events/olivia.rpy:91
 msgid "{i}дождаться девчонок{/i}"
-msgstr ""
+msgstr "{i}espera a las chicas{/i}"
 
 #    # game/events/olivia.rpy:175
 msgid "Конечно с вами!"
-msgstr ""
+msgstr "¡Por supuesto contigo!"
 
 #    # game/events/olivia.rpy:283
 msgid "Я с вами!"
-msgstr ""
+msgstr "¡Estoy contigo!"
 
 #    # game/events/olivia.rpy:369
 msgid "{i}раздеться и сесть рядом{/i}"
-msgstr ""
+msgstr "{i}desnudarme y sentarte al lado de{/i}"
 
 #    # game/events/olivia.rpy:613
 msgid "{i}идти в свою комнату{/i}"
-msgstr ""
+msgstr "{i}ir a tu habitación{/i}"
 
