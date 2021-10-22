@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 08:55\n"
+"PO-Revision-Date: 2021-10-22 21:14\n"
 
 msgid "Скрытые камеры"
 msgstr ""
@@ -49,11 +49,11 @@ msgstr ""
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход от рекламных баннеров. Сделать это можно с помощью вложений в рекламу своего сайта. Кроме того, если в кадре происходит что-то интересное, аудитория также растёт. Для начала стоит установить камеры в каждую комнату, а так же во двор..."
-msgstr ""
+msgstr "Enfin, Vous avez votre propre site web qui diffuse l’image de la caméra du salon! Maintenant, vous devez augmenter l’audience, car plus il y a de gens, plus les revenus des bannières publicitaires sont importants. Cela peut être fait à l’aide de pièces jointes, pour promouvoir votre site. De plus, si quelque chose d’intéressant se passe sur l'écran, le public grandit également. Pour commencer, il vaut la peine d’installer des caméras dans chaque pièce, ainsi que dans la cour ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
-msgstr ""
+msgstr "Vous devez payer périodiquement pour la publicité pour le site afin d’économiser rapidement de l’argent pour de nouvelles caméras et, alternativement, essayez de mendier quelque chose à Alice, à maman ou à Eric ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
