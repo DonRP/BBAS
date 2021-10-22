@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-10-22 21:14\n"
 
 msgid "+ к навыку скрытности"
 msgstr ""
@@ -94,45 +94,45 @@ msgstr ""
 
 #    # game/core/04function.rpy:378
 msgid "Так... В накладной написано следующее:"
-msgstr ""
+msgstr "Ainsi... La facture se lit comme suit :"
 
 #    # game/core/04function.rpy:928
 msgid "Война"
-msgstr ""
+msgstr "Guerre"
 
 #    # game/core/04function.rpy:928
 msgid "Враждебные"
-msgstr ""
+msgstr "Hostile"
 
 #    # game/core/04function.rpy:928
 msgid "Плохие"
-msgstr ""
+msgstr "Mauvais"
 
 #    # game/core/04function.rpy:928
 msgid "Прохладные"
-msgstr ""
+msgstr "Refroidir"
 
 #    # game/core/04function.rpy:928
 msgid "Неплохие"
-msgstr ""
+msgstr "Pas mauvais"
 
 #    # game/core/04function.rpy:928
 msgid "Хорошие"
-msgstr ""
+msgstr "Bon"
 
 #    # game/core/04function.rpy:928
 msgid "Тёплые"
-msgstr ""
+msgstr "Chaud"
 
 #    # game/core/04function.rpy:928
 msgid "Дружеские"
-msgstr ""
+msgstr "Amical"
 
 #    # game/core/04function.rpy:928
 msgid "Близкие"
-msgstr ""
+msgstr "Fermer"
 
 #    # game/core/04function.rpy:1231
 msgid "Конфеты закончились"
-msgstr ""
+msgstr "Les bonbons sont fini"
 
