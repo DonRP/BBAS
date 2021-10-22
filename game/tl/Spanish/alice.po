@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-10-21 20:58\n"
+"PO-Revision-Date: 2021-10-22 21:14\n"
 
 # game/events/alice.rpy:12## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -1684,203 +1684,203 @@ msgstr "[Max_03]¡No es interesante! Entonces, ¿cómo?"
 
 # game/events/alice.rpy:2105## # translate crowdin alice_blog_lingerie_147f3ff5:
 msgid "[Alice_03]Да, получается! И не мешай, иди уже...[nointeract]"
-msgstr ""
+msgstr "[Alice_03]sí, lo hace! Y no te interes en el camino, ve ya...[nointeract]"
 
 # game/events/alice.rpy:2110## # translate crowdin alice_blog_lingerie_375acb3f:
 msgid "[Alice_18]Макс!!! Я тебе сейчас...[nointeract]"
-msgstr ""
+msgstr "[Alice_18]máx!!! Estoy[nointeract]contigo ahora "
 
 # game/events/alice.rpy:2115## # translate crowdin alice_blog_lingerie_4cf96db0:
 msgid "[Alice_05]А что, мне с распахнутой дверью в нижнем белье тут сидеть?!"
-msgstr ""
+msgstr "[Alice_05]¿Y qué, yo con la puerta abierta en ropa interior aquí para sentarme?"
 
 # game/events/alice.rpy:2116## # translate crowdin alice_blog_lingerie_4b0dd3c8:
 msgid "[Max_03]Конечно, да! Мне вот нравится..."
-msgstr ""
+msgstr "[Max_03]¡Por supuesto que sí! Me gusta..."
 
 # game/events/alice.rpy:2117## # translate crowdin alice_blog_lingerie_02dd6c6b:
 msgid "[Alice_03]Ой, Макс, свали уже... Не мешай![nointeract]"
-msgstr ""
+msgstr "[Alice_03]Oh, Max, ya han caído ... ¡No te interes en el camino![nointeract]"
 
 # game/events/alice.rpy:2122## # translate crowdin alice_blog_lingerie_cc7303dd:
 msgid "[Alice_18]Да ты бессмертный что ли!!! Сейчас я тебе напинаю...[nointeract]"
-msgstr ""
+msgstr "[Alice_18]Eres inmortal!!! Ahora te estoy pateando...[nointeract]"
 
 # game/events/alice.rpy:2129## # translate crowdin alice_blog_lingerie_8ab28e18:
 msgid "[Alice_05]Если это только твои ухмылки, Макс, а не что-нибудь полезное, то ты сейчас полетишь в бассейн..."
-msgstr ""
+msgstr "[Alice_05]Si son solo tus sonrisas, Max, y no algo útil, entonces vas a volar a la piscina ahora..."
 
 # game/events/alice.rpy:2130## # translate crowdin alice_blog_lingerie_0d57bce1:
 msgid "[Max_01]Ну, это такое чёрное, полупрозрачное... и смотреться это на тебе должно очень сексуально..."
-msgstr ""
+msgstr "[Max_01]Bueno, es tan negro, translúcido... y debería verse muy sexy en ti..."
 
 # game/events/alice.rpy:2131## # translate crowdin alice_blog_lingerie_bfecc2c0:
 msgid "[Alice_07]Снова бельё мне купил! Ну ты даёшь, Макс! Давай сюда, посмотрим..."
-msgstr ""
+msgstr "[Alice_07]¡Me compré mi ropa interior de nuevo! Bueno, ¡tú das, Max! Veamos..."
 
 # game/events/alice.rpy:2137## # translate crowdin alice_blog_lingerie_f5f8f70e:
 msgid "[Max_04]Конечно! Ну как тебе?"
-msgstr ""
+msgstr "[Max_04]¡Por supuesto! ¿Cómo estás?"
 
 # game/events/alice.rpy:2138## # translate crowdin alice_blog_lingerie_7d1e8f6a:
 msgid "[Alice_03]Ого, какое классное! Мне уже не терпится примерить... А это у тебя что, фотоаппарат? Макс, ты серьёзно решил, что я позволю тебе фотографировать, как я переодеваюсь?!"
-msgstr ""
+msgstr "[Alice_03]¡Guau, qué increíble! No puedo esperar para probarlo en... ¿Tienes una cámara? Max, ¿has decidido seriamente que te dejaré tomar fotos de mí cambiándome de ropa?!"
 
 # game/events/alice.rpy:2139## # translate crowdin alice_blog_lingerie_31bb7956:
 msgid "[Max_02]Нет, это я подумал, что тебе для блога пригодятся хорошие фотографии. В белье."
-msgstr ""
+msgstr "[Max_02]No, pensé que necesitarías buenas fotos para tu blog. En lencería."
 
 # game/events/alice.rpy:2140## # translate crowdin alice_blog_lingerie_2691e894:
 msgid "[Alice_05]Ага, ну конечно, для блога... Здесь кому угодно будет понятно, что у тебя на самом деле на уме!"
-msgstr ""
+msgstr "[Alice_05]sí, por supuesto, para el blog... ¡Aquí, cualquiera entenderá lo que realmente está en tu mente!"
 
 # game/events/alice.rpy:2141## # translate crowdin alice_blog_lingerie_ffeb7ac0:
 msgid "[Max_07]Я думаю, несколько качественных фотографий пойдут твоему блогу только на пользу."
-msgstr ""
+msgstr "[Max_07]creo que unas pocas fotos de calidad solo beneficiarán a tu blog."
 
 # game/events/alice.rpy:2142## # translate crowdin alice_blog_lingerie_28bb7207:
 msgid "[Alice_02]Ты фотографировать хоть умеешь?"
-msgstr ""
+msgstr "[Alice_02]¿Sabes fotografiar?"
 
 # game/events/alice.rpy:2143## # translate crowdin alice_blog_lingerie_98218f88:
 msgid "[Max_03]Конечно! Так что давай примеряй боди и я тебя пощёлкаю."
-msgstr ""
+msgstr "[Max_03]¡Por supuesto! Así que vamos a probarnos un traje de cuerpo y te romperé."
 
 # game/events/alice.rpy:2144## # translate crowdin alice_blog_lingerie_b9b48fda:
 msgid "[Alice_13]Вот ещё! Не буду я переодеваться, когда у тебя в руках эта штука. За дверью подожди...[nointeract]"
-msgstr ""
+msgstr "[Alice_13]¡Aquí hay más! No me cambiaré de ropa cuando tengas esto en tus manos. Espera afuera de la puerta...[nointeract]"
 
 # game/events/alice.rpy:2150## # translate crowdin alice_blog_lingerie_eb1f20ab:
 msgid "[Max_02]{i}( Алиса не отказалась от снимков - уже хорошо. Интересно, как много через это боди будет видно... ){/i}"
-msgstr ""
+msgstr "[Max_02]{i}(Alice no rechazó las fotos, ya es bueno. Me pregunto cuánto se verá a través de este traje de cuerpo ...) {/i}"
 
 # game/events/alice.rpy:2152## # translate crowdin alice_blog_lingerie_720e9b65:
 msgid "[Alice_05]Так, конфетку я возьму, а ты всё равно отправляешься за дверь. А будешь спорить, я засуну тебе этот фотоаппарат в ..."
-msgstr ""
+msgstr "[Alice_05]Entonces, tomaré los dulces y aún así saldrás por la puerta. Y vas a discutir, te voy a meter esta cámara..."
 
 # game/events/alice.rpy:2155## # translate crowdin alice_blog_lingerie_43146797:
 msgid "[Max_08]Ладно, подожду за дверью..."
-msgstr ""
+msgstr "[Max_08]Está bien, esperaré afuera de la puerta..."
 
 # game/events/alice.rpy:2159## # translate crowdin alice_blog_lingerie_92921f70:
 msgid "[Max_02]{i}( Алиса не отказалась от конфетки. Интересно, как много я увижу, а главное сфотографирую... ){/i}"
-msgstr ""
+msgstr "[Max_02]{i}( Alice no rechazó los dulces. Me pregunto cuánto veré, y lo más importante tomaré una foto ... ) {/i}"
 
 # game/events/alice.rpy:2160## # translate crowdin alice_blog_lingerie_85e795c3:
 msgid "[Alice]{b}Алиса:{/b} Заходи давай, пока я не передумала![nointeract]"
-msgstr ""
+msgstr "[Alice]{b}Alice:{/b} ¡Vamos hasta que cambie de opinión![nointeract]"
 
 # game/events/alice.rpy:2170## # translate crowdin alice_blog_lingerie_a937857e:
 msgid "[Alice_05]Макс, совсем стыд потерял! Уже не подглядываешь, а просто открыто приходишь и глазеешь?[nointeract]"
-msgstr ""
+msgstr "[Alice_05]Max, ¡he perdido mi vergüenza! ¿Ya no miras, sino que vienes abiertamente y miras?[nointeract]"
 
 # game/events/alice.rpy:2178## # translate crowdin alice_blog_lingerie_a937857e_1:
 msgid "[Alice_05]Макс, совсем стыд потерял! Уже не подглядываешь, а просто открыто приходишь и глазеешь?[nointeract]"
-msgstr ""
+msgstr "[Alice_05]Max, ¡he perdido mi vergüenza! ¿Ya no miras, sino que vienes abiertamente y miras?[nointeract]"
 
 # game/events/alice.rpy:2187## # translate crowdin alice_blog_lingerie_1a6896b4:
 msgid "[Max_05]{i}( Отлично! Алиса крутит задом перед камерой в одном нижнем белье! Надеюсь, не заметит... Отсюда вид точно лучше, чем через камеру... ){/i}[nointeract]"
-msgstr ""
+msgstr "[Max_05]{i}(¡Genial! Alice gira hacia atrás frente a la cámara en ropa interior! Espero que no se dé cuenta... Desde aquí la vista es definitivamente mejor que a través de la cámara...) {/i}[nointeract]"
 
 # game/events/alice.rpy:2204## # translate crowdin alice_body_photoset1_4b9409e0:
 msgid "[Alice_02]По-моему, оно обалденное, Макс! А ты как думаешь?"
-msgstr ""
+msgstr "[Alice_02]Creo que es increíble, Max! ¿Qué te parece?"
 
 # game/events/alice.rpy:2205## # translate crowdin alice_body_photoset1_f6ff2886:
 msgid "[Max_03]Это точно! Снимки получатся прямо как для обложки!"
-msgstr ""
+msgstr "[Max_03]¡Eso es seguro! ¡Las fotos saldrán como para la portada!"
 
 # game/events/alice.rpy:2209## # translate crowdin alice_body_photoset1_ad551119:
 msgid "[Alice_05]Да вижу я по твоим шортам, что ты там уже не на обложку напредставлял, а на разворот."
-msgstr ""
+msgstr "[Alice_05]Sí, veo por tus pantalones cortos que ya no estabas allí en la portada, sino en la extensión."
 
 # game/events/alice.rpy:2210## # translate crowdin alice_body_photoset1_da413f09:
 msgid "[Max_01]Зато отличный индикатор! Сразу ясно, что выглядишь ты в этом боди очень классно. А как там сзади всё выглядит? Ну-ка покрутись..."
-msgstr ""
+msgstr "[Max_01]¡Pero un gran indicador! Está claro de inmediato que te ves muy bien en este traje de cuerpo. ¿Y cómo se ve todo desde atrás? Bueno, retuerce..."
 
 # game/events/alice.rpy:2213## # translate crowdin alice_body_photoset1_2b4d7ce7:
 msgid "[Alice_03]Там всё в порядке. Может тебе повезёт во время съёмки и ты что-то да увидишь. Будешь щёлкать меня прямо здесь, у стены или у зеркала?"
-msgstr ""
+msgstr "[Alice_03]Está bien allí. Tal vez tengas suerte durante el rodaje y veas algo. ¿Harás clic en mí aquí mismo, junto a la pared o al espejo?"
 
 # game/events/alice.rpy:2214## # translate crowdin alice_body_photoset1_650b9ebb:
 msgid "[Max_04]Давай, я думаю, на кровати. Будет больше ярких цветов."
-msgstr ""
+msgstr "[Max_04]Vamos, creo, en la cama. Habrá colores más brillantes."
 
 # game/events/alice.rpy:2217## # translate crowdin alice_body_photoset1_c280ab2b:
 msgid "[Alice_07]Там всё в порядке, так ведь?"
-msgstr ""
+msgstr "[Alice_07]Está bien allí, ¿verdad?"
 
 # game/events/alice.rpy:2218## # translate crowdin alice_body_photoset1_837487e0:
 msgid "[Max_05]О да, такую обалденную попку нужно как можно скорее пощёлкать!"
-msgstr ""
+msgstr "[Max_05]¡Oh sí, un tan increíble necesita ser roto lo antes posible!"
 
 # game/events/alice.rpy:2222## # translate crowdin alice_body_photoset1_a7e95245:
 msgid "[Alice_03]Будешь щёлкать меня прямо здесь, у стены или у зеркала?"
-msgstr ""
+msgstr "[Alice_03]¿Harás clic en mí aquí mismo, junto a la pared o por el espejo?"
 
 # game/events/alice.rpy:2223## # translate crowdin alice_body_photoset1_650b9ebb_1:
 msgid "[Max_04]Давай, я думаю, на кровати. Будет больше ярких цветов."
-msgstr ""
+msgstr "[Max_04]Vamos, creo, en la cama. Habrá colores más brillantes."
 
 # game/events/alice.rpy:2227## # translate crowdin alice_body_photoset1_72495e04:
 msgid "[Alice_02]На кровати, так на кровати. А теперь давай признавайся, Макс, когда успел фотоаппарат научиться держать? Не на своих же любимых онлайн-курсах?"
-msgstr ""
+msgstr "[Alice_02]En la cama, así en la cama. Ahora seamos realistas, Max, ¿cuándo la cámara ha aprendido a sostener? ¿No estás en tus cursos online favoritos?"
 
 # game/events/alice.rpy:2230## # translate crowdin alice_body_photoset1_37c1d751:
 msgid "[Max_01]Ты не вопросы спрашивай, а позируй лучше красиво! Может, я просто талантлив во всём, чего касаюсь... {p=1.5}{nw}"
-msgstr ""
+msgstr "[Max_01]¡No haces preguntas, sino que posas mejor hermosamente! Tal vez solo tengo talento en todo lo que toco... {p=1.5}{nw}"
 
 # game/events/alice.rpy:2232## # translate crowdin alice_body_photoset1_fa08a285:
 msgid "[extend]Снимок готов! Залазь теперь на кровать, снимем твою прелестную попку..."
-msgstr ""
+msgstr "[extend]¡La imagen está lista! Ahora sápate a la cama, vamos a quitarte el encantador..."
 
 # game/events/alice.rpy:2236## # translate crowdin alice_body_photoset1_3b98c4ab:
 msgid "[Alice_03]Смотри, чтобы красиво получалось, но не слишком откровенно! Я всё-таки бельё рекламирую, а не свои прелести. Хотя, и свои прелести тоже, но хоть немного скрытые бельём!"
-msgstr ""
+msgstr "[Alice_03]¡Mira, es hermoso, pero no demasiado franco! Todavía publico lencería, no mis encantos. Aunque, y sus encantos también, ¡pero al menos un poco de ropa interior oculta!"
 
 # game/events/alice.rpy:2239## # translate crowdin alice_body_photoset1_cfc08eb7:
 msgid "[Max_02]На тебе ведь сексуальное полупрозрачное бельё, Алиса! Думаешь могут получится не откровенные снимки? {p=1.5}{nw}"
-msgstr ""
+msgstr "[Max_02]¡Estás haciendo cola en lencería translúcida sexy, Alice! ¿Crees que puedes obtener fotos no francas? {p=1.5}{nw}"
 
 # game/events/alice.rpy:2241## # translate crowdin alice_body_photoset1_19c7aaa6:
 msgid "[extend]Получилось хорошо! Ложись на кровать, раз уж рекламируем бельё, то надо во всей красе показать, как оно на тебе сидит."
-msgstr ""
+msgstr "[extend]¡Resultó bien! Acuéstese en la cama, ya que anunciamos ropa interior, entonces debe mostrar en todo su esplendor cómo se sienta en usted."
 
 # game/events/alice.rpy:2245## # translate crowdin alice_body_photoset1_f02f67fc:
 msgid "[Alice_04]Мог бы просто сказать, что ты извращенец, который обожает глазеть на полуголый зад своей сестры! А то, что это якобы для развития блога - просто удобный предлог."
-msgstr ""
+msgstr "[Alice_04]¡Podría decir que eres un pervertido al que le encanta mirar el semidesnudo de su hermana! Y el hecho de que esto sea supuestamente para el desarrollo del blog es solo una excusa conveniente."
 
 # game/events/alice.rpy:2248## # translate crowdin alice_body_photoset1_078f176b:
 msgid "[Max_04]То, что я обожаю глазеть - не моя вина, мужчины здесь бессильны. {p=1.5}{nw}"
-msgstr ""
+msgstr "[Max_04]El hecho de que me encante mirar no es mi culpa, los hombres son impotentes aquí. {p=1.5}{nw}"
 
 # game/events/alice.rpy:2250## # translate crowdin alice_body_photoset1_d5d79998:
 msgid "[extend]Отличный кадр! Тебе только остаётся принять этот факт, повернуться ко мне и быть погорячее..."
-msgstr ""
+msgstr "[extend]¡Gran disparo! Solo tienes que aceptar este hecho, volverte a mí y estar más caliente..."
 
 # game/events/alice.rpy:2254## # translate crowdin alice_body_photoset1_907f281f:
 msgid "[Alice_05]Вот так погорячее сойдёт или ты хочешь, чтобы я показала ещё больше?"
-msgstr ""
+msgstr "[Alice_05]Así de caliente bajará o ¿quieres que muestre aún más?"
 
 # game/events/alice.rpy:2257## # translate crowdin alice_body_photoset1_75ce9628:
 msgid "[Max_03]Ага, я хочу! Такой кадр упускать нельзя, замри... {p=1.5}{nw}"
-msgstr ""
+msgstr "[Max_03]sí, quiero! Tal marco no se puede perder, congelar... {p=1.5}{nw}"
 
 # game/events/alice.rpy:2259## # translate crowdin alice_body_photoset1_49d01d2f:
 msgid "[extend]Вот так, готово! А теперь можешь показать больше..."
-msgstr ""
+msgstr "[extend]¡Eso es todo, listo! Y ahora puedes mostrar más..."
 
 # game/events/alice.rpy:2264## # translate crowdin alice_body_photoset1_1d2ef196:
 msgid "[Alice_01]Конечно, уже раздеваюсь... Закатай губу, Макс! Ты ещё маленький для такого."
-msgstr ""
+msgstr "[Alice_01]Por supuesto, ya me estoy desnudando... ¡Enrolla tu labio, Max! Todavía eres pequeño para eso."
 
 # game/events/alice.rpy:2265## # translate crowdin alice_body_photoset1_77ed3a17:
 msgid "[Max_07]Да ладно тебе, Алиса! Мы всего-то четыре снимка сделали!"
-msgstr ""
+msgstr "[Max_07]¡Vamos, Alice! ¡Solo tomamos cuatro fotos!"
 
 # game/events/alice.rpy:2268## # translate crowdin alice_body_photoset1_a7f1de8e:
 msgid "[Alice_02]Мне вполне этого будет достаточно для развития блога, пока что. Только будь добр, обработай эти фото побыстрее."
-msgstr ""
+msgstr "[Alice_02]Eso será suficiente para que yo desarrolle el blog, por ahora. Solo sé amable, procesa estas fotos rápidamente."
 
 # game/events/alice.rpy:2269## # translate crowdin alice_body_photoset1_bfa61729:
 msgid "[Max_11]Вот и помогай тебе! Никакого праздника..."
