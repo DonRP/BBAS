@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-22 21:14\n"
+"PO-Revision-Date: 2021-10-25 15:38\n"
 
 msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
 msgstr "{color=#E59400}{i}Persuasion facilitée!{/i}{/color}\n"
@@ -401,7 +401,7 @@ msgstr "Et vous êtes un, il se trouve que..."
 
 #    # game/core/02init.rpy:128
 msgid "Насчёт успеваемости..."
-msgstr ""
+msgstr "Quant à la performance académique..."
 
 #    # game/core/02init.rpy:128
 msgid "Ну как, ты подумала о моих условиях?"
