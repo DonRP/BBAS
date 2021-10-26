@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-25 15:38\n"
+"PO-Revision-Date: 2021-10-26 15:45\n"
 
 msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
 msgstr "{color=#E59400}{i}Persuasion facilitée!{/i}{/color}\n"
@@ -405,195 +405,197 @@ msgstr "Quant à la performance académique..."
 
 #    # game/core/02init.rpy:128
 msgid "Ну как, ты подумала о моих условиях?"
-msgstr ""
+msgstr "Eh bien, as-tu pensé à mes conditions?"
 
 #    # game/core/02init.rpy:128
 msgid "Помочь с уроками?"
-msgstr ""
+msgstr "De l’aide pour les leçons?"
 
 #    # game/core/02init.rpy:128
 msgid "У тебя странный вид..."
-msgstr ""
+msgstr "Tu as un regard étrange..."
 
 #    # game/core/02init.rpy:128
 msgid "Может всё-таки поделишься своими переживаниями по поводу Алисы?"
-msgstr ""
+msgstr "Peux-tu me donner ton sentiment à propos d’Alice?"
 
 #    # game/core/02init.rpy:128
 msgid "Массаж рук заказывала?"
-msgstr ""
+msgstr "As-tu envie d'un massage?"
 
 #    # game/core/02init.rpy:128
 msgid "Ну что, Лиза, готова?"
-msgstr ""
+msgstr "Lisa es-tu prête ?"
 
 #    # game/core/02init.rpy:128
 msgid "Ну что, готова?"
-msgstr ""
+msgstr "Est-ce que tu as fini?"
 
 #    # game/core/02init.rpy:128
 msgid "Лиза, ты же любишь читать?"
-msgstr ""
+msgstr "Lisa, aimes-tu lire?"
 
 #    # game/core/02init.rpy:128
 msgid "Лиза, у меня для тебя особая книжка..."
-msgstr ""
+msgstr "Lisa, j’ai un livre spécial pour toi..."
 
 #    # game/core/02init.rpy:128
 msgid "Рассказывай, что делали?"
-msgstr ""
+msgstr "Dis-nous ce que tu as fait?"
 
 #    # game/core/02init.rpy:128
 msgid "Ну так и чему же тебя учили?"
-msgstr ""
+msgstr "Alors, qu’est-ce que tu as appris?"
 
 #    # game/core/02init.rpy:128
 msgid "Что новенького было на уроке?"
-msgstr ""
+msgstr "Qu’y a-t-il de nouveau en classe ?"
 
 #    # game/core/02init.rpy:128
 msgid "Что нового мама с Эриком тебе рассказали?"
-msgstr ""
+msgstr "Qu’est-ce que maman et Eric t'as dit?"
 
 #    # game/core/02init.rpy:128
 msgid "Что нового узнала на уроке у мамы и Эрика?"
-msgstr ""
+msgstr "Qu’as-tu appris en classe de ma mère et d’Eric?"
 
 #    # game/core/02init.rpy:128
 msgid "{i}урок поцелуев{/i}"
-msgstr ""
+msgstr "{i}leçon de baiser{/i}"
 
 #    # game/core/02init.rpy:128
 msgid "Насчёт Алекса..."
-msgstr ""
+msgstr "Quant à Alex..."
 
 #    # game/core/02init.rpy:128
 msgid "Есть успехи с Оливией?"
-msgstr ""
+msgstr "Un peu de succès avec Olivia?"
 
 #    # game/core/02init.rpy:128
 msgid "Что-нибудь узнала про Оливию?"
-msgstr ""
+msgstr "As-tu appris quelque chose sur Olivia ?"
 
 #    # game/core/02init.rpy:128
 msgid "Ну так, что там с трусиками Оливии?"
-msgstr ""
+msgstr "Alors, que se passe-t-il avec la culotte d’Olivia?"
 
 #    # game/core/02init.rpy:128
 msgid "Ты позвала Оливию к нам?"
-msgstr ""
+msgstr "Tu nous as appelé Olivia ?"
 
 #    # game/core/02init.rpy:128
 msgid "Ну как, получилось рассказать всё Оливии?"
-msgstr ""
+msgstr "Eh bien, comment se fait-il que tu as tout raconter à Olivia ?"
 
 #    # game/core/02init.rpy:128
 msgid "Нравится, что я спасаю твою попку от наказания?"
-msgstr ""
+msgstr "Comme ça je sauve ton cul de la punition?"
 
 #    # game/core/02init.rpy:128
 msgid "Учтите, я испытываю... некоторый подъём!"
-msgstr ""
+msgstr "Tu vois, j'acquière de l’expérience... un peu d’évolution!"
 
 #    # game/core/02init.rpy:128
 msgid "Пошепчемся немного о моей сестрёнке?"
-msgstr ""
+msgstr "Devons-nous papoter un peu sur ma petite sœur?"
 
 #    # game/core/02init.rpy:128
 msgid "Что новенького, Оливия?"
-msgstr ""
+msgstr "Quoi de neuf, Olivia?"
 
 #    # game/core/02init.rpy:128
 msgid "Рад тебя видеть, Оливия!"
-msgstr ""
+msgstr "Heureux de te voir, Olivia!"
 
 #    # game/core/02init.rpy:219
 msgid "Одежда"
-msgstr ""
+msgstr "Vêtements"
 
 #    # game/core/02init.rpy:219
 msgid "Книги"
-msgstr ""
+msgstr "Livres"
 
 #    # game/core/02init.rpy:219
 msgid "Продукты"
-msgstr ""
+msgstr "Nourriture"
 
 #    # game/core/02init.rpy:219
 msgid "Электроника"
-msgstr ""
+msgstr "Electronique"
 
 #    # game/core/02init.rpy:219
 msgid "Товары 18+"
-msgstr ""
+msgstr "Produits pour plus de 18"
 
 #    # game/core/02init.rpy:219
 msgid "Косметика"
-msgstr ""
+msgstr "Cosmétiques"
 
 #    # game/core/02init.rpy:219
 msgid "Украшения"
-msgstr ""
+msgstr "Décorations"
 
 #    # game/core/02init.rpy:219
 msgid "Другое"
-msgstr ""
+msgstr "Autre"
 
 #    # game/core/02init.rpy:230
 msgid "А у меня есть то, о чём ты мечтала..."
-msgstr ""
+msgstr "Et j’ai ce dont tu rêvais..."
 
 #    # game/core/02init.rpy:230
 msgid "У меня для тебя подарок {i}(Халат){/i}"
-msgstr ""
+msgstr "J’ai un cadeau pour toi {i}(Peignoir){/i}"
 
 #    # game/core/02init.rpy:230
 msgid "{color=#808080}У меня для тебя вкусняшка! \n"
 " (нужно выждать несколько дней){/color}"
-msgstr ""
+msgstr "{color=#808080}J’ai une bonne surprise pour toi! \n"
+" (vous devez attendre quelques jours){/color}"
 
 #    # game/core/02init.rpy:230
 msgid "У меня для тебя вкусняшка!"
-msgstr ""
+msgstr "J’ai un délicieux cadeau pour toi!"
 
 #    # game/core/02init.rpy:230
 msgid "У меня есть кое-что запрещённое..."
-msgstr ""
+msgstr "J’ai quelque chose d’interdit..."
 
 #    # game/core/02init.rpy:230
 msgid "Угадай: маленькое, чёрненькое..."
-msgstr ""
+msgstr "Devines quoi : petit, noir..."
 
 #    # game/core/02init.rpy:230
 msgid "У меня для тебя одна книжка..."
-msgstr ""
+msgstr "J’ai un livre pour toi..."
 
 #    # game/core/02init.rpy:230
 msgid "У меня снова для тебя книжка..."
-msgstr ""
+msgstr "J’ai à nouveau un livre pour toi..."
 
 #    # game/core/02init.rpy:230
 msgid "И снова у меня для тебя книжка..."
-msgstr ""
+msgstr "Encore une fois, j’ai un livre pour toi..."
 
 #    # game/core/02init.rpy:230
 msgid "У меня для тебя подарок {i}(Пижама){/i}"
-msgstr ""
+msgstr "J’ai un cadeau pour toi {i}(pyjama){/i}"
 
 #    # game/core/02init.rpy:230
 msgid "У меня есть кое-что, о чём мы беседовали..."
-msgstr ""
+msgstr "J’ai la chose dont nous avons parlé..."
 
 #    # game/core/02init.rpy:230
 msgid "{color=#808080}Прикупил для тебя немного сладенького! \n"
 " (нужно выждать несколько дней){/color}"
-msgstr ""
+msgstr "{color=#808080}J’ai acheté des bonbons pour toi! \n"
+" (vous devez attendre quelques jours){/color}"
 
 #    # game/core/02init.rpy:230
 msgid "Прикупил для тебя немного сладенького!"
-msgstr ""
+msgstr "J'ai acheté un chose sucrée pour toi!"
 
 #    # game/core/02init.rpy:230
 msgid "Мам, я купил тебе одежду полегче!"
-msgstr ""
+msgstr "Maman, je t’ai acheté des vêtements plus légers!"
 
