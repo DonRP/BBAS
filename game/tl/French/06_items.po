@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-22 21:14\n"
+"PO-Revision-Date: 2021-10-26 15:45\n"
 
 msgid "ПАУК"
 msgstr "ARAIGNÉE"
@@ -145,121 +145,121 @@ msgstr "Chocolat 'Ritter Sport' mini (9 pièces)"
 
 #    # game/core/06_items.rpy:2
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
-msgstr ""
+msgstr "Un délice chocolaté pour toutes les occasions... Beaucoup de variétés savoureuses avec les meilleurs ingrédients du monde entier."
 
 #    # game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" (4 штуки)"
-msgstr ""
+msgstr "Chocolat 'Ritter Sport' (4 pièces)"
 
 #    # game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (16 штук)"
-msgstr ""
+msgstr "Douceurs 'Raffaello' (16 pcs)"
 
 #    # game/core/06_items.rpy:2
 msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
-msgstr ""
+msgstr "Douceur croustillante à la noix de coco avec des amandes entières. Au lieu de mille mots..."
 
 #    # game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (24 штуки)"
-msgstr ""
+msgstr "Douceur 'Raffaello' (24 pièces)"
 
 #    # game/core/06_items.rpy:2
 msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
-msgstr ""
+msgstr "Chocolat 'Ferrero Rocher' (16 pièces)"
 
 #    # game/core/06_items.rpy:2
 msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
-msgstr ""
+msgstr "La combinaison de noisettes entières et de délicieuse crème chocolat aux noix dans une coquille de gaufre croustillante vous donnera une sensation gustative unique."
 
 #    # game/core/06_items.rpy:2
 msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
-msgstr ""
+msgstr "Chocolat 'Ferrero Rocher' (24 pièces)"
 
 #    # game/core/06_items.rpy:2
 msgid "КРЕМ ДЛЯ ЗАГАРА"
-msgstr ""
+msgstr "CRÈME SOLAIRE"
 
 #    # game/core/06_items.rpy:2
 msgid "Легкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
-msgstr ""
+msgstr "Une préparation légère et bien absorbée par la peau pour accélérer le bronzage a des propriétés hydratantes et protectrices. Recommandé pour une utilisation sur la plage et dans le solarium."
 
 #    # game/core/06_items.rpy:2
 msgid "МУЖСКИЕ МАЙКА И ШОРТЫ"
-msgstr ""
+msgstr "T-SHIRTS ET SHORTS POUR HOMMES"
 
 #    # game/core/06_items.rpy:2
 msgid "Свободный и лёгкий летний комплект одежды на каждый день."
-msgstr ""
+msgstr "Ensemble de vêtements d’été légers pour tous les jours."
 
 #    # game/core/06_items.rpy:2
 msgid "КОНФЕТЫ С ЛИКЁРОМ"
-msgstr ""
+msgstr "CHOCOLATS À LA LIQUEUR"
 
 #    # game/core/06_items.rpy:2
 msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
-msgstr ""
+msgstr "Chocolats à la liqueur. Des saveurs uniques cachent le goût de l’alcool. Remonte parfaitement le moral. Très fort."
 
 #    # game/core/06_items.rpy:2
 msgid "КОМПЛЕКТ ТЁМНОГО НИЖНЕГО БЕЛЬЯ"
-msgstr ""
+msgstr "ENSEMBLE DE SOUS-VÊTEMENTS SOMBRES"
 
 #    # game/core/06_items.rpy:2
 msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-msgstr ""
+msgstr "Excellent sous-vêtements de couleur sombre. Un excellent cadeau pour votre petite amie."
 
 #    # game/core/06_items.rpy:2
 msgid "СЕКС-ОБРАЗОВАНИЕ"
-msgstr ""
+msgstr "ÉDUCATION SEXUELLE"
 
 #    # game/core/06_items.rpy:2
 msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
-msgstr ""
+msgstr "Le livre traite de tout ce qui concerne le sexe. Idéal pour éduquer la jeune génération."
 
 #    # game/core/06_items.rpy:2
 msgid "ФОТОАППАРАТ"
-msgstr ""
+msgstr "CAMÉRA"
 
 #    # game/core/06_items.rpy:2
 msgid "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
-msgstr ""
+msgstr "Appareil professionnel avec téléobjectif. Pas neuf, mais en excellent état. Convient aussi bien aux débutants qu’aux professionnels."
 
 #    # game/core/06_items.rpy:2
 msgid "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
-msgstr ""
+msgstr "CHEMISE COURTE ET SEXY"
 
 #    # game/core/06_items.rpy:2
 msgid "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
-msgstr ""
+msgstr "La chemise noire séduisante est faite de tulle élastique. Le kit comprend également des strings."
 
 #    # game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
-msgstr ""
+msgstr "BODY SEXY NOIR"
 
 #    # game/core/06_items.rpy:2
 msgid "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
-msgstr ""
+msgstr "Body en maille transparente avec le dos ouvert de couleur noire."
 
 #    # game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
-msgstr ""
+msgstr "BODY EN DENTELLE NOIRE"
 
 #    # game/core/06_items.rpy:2
 msgid "Женское сексуальное нижнее бельё с кружевным узором по краям."
-msgstr ""
+msgstr "Sous-vêtements sexy pour femmes avec un motif en dentelle sur les bords."
 
 #    # game/core/06_items.rpy:2
 msgid "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
-msgstr ""
+msgstr "TOP SPORTIF ET MINI SHORT"
 
 #    # game/core/06_items.rpy:2
 msgid "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
-msgstr ""
+msgstr "Vêtements confortables, ouverts et légers pour le sport. Il est également parfait pour les loisirs de plein air."
 
 #    # game/core/06_items.rpy:2
 msgid "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
-msgstr ""
+msgstr "FILM 'COULEUR DE LA NUIT' 1994"
 
 #    # game/core/06_items.rpy:2
 msgid "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
-msgstr ""
+msgstr "Bruce Willis dans le rôle d’un psychologue new-yorkais qui a perdu une patiente - elle s’est jetée par la fenêtre juste pendant la séance. Pour se rétablir, il se rend à Los Angeles chez son ami, avec qui il a étudié..."
 
