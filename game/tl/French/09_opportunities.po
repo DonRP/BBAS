@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-26 15:45\n"
+"PO-Revision-Date: 2021-10-27 16:09\n"
 
 msgid "Скрытые камеры"
 msgstr "Caméras cachées"
@@ -583,112 +583,113 @@ msgstr "Olivia a découvert que le vendredi soir, notre maison était vide et Li
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Оливия пришла в полночь, как и обещала. Хоть я и догадывался, в каком виде намечаются наши ночные посиделки, но всё равно сомневался, действительно ли мне так повезёт... И Оливия меня не разочаровала! Она сразу же распрощалась с одеждой..."
-msgstr ""
+msgstr "Olivia est arrivée à minuit comme promis. Bien que j’aie deviné sous quelle forme nos rassemblements nocturnes étaient prévus, mais je doutais toujours si je serais vraiment si chanceux ... Et Olivia ne m’a pas déçu ! Elle a immédiatement enlevé ses vêtements..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Только вот все остальные мои надежды разбились о нежелание Лизы находится на одном диване с моим стояком! Невероятно обидно... У меня на диване среди ночи сидят такие классные девчонки и я хочу с ними! Похоже, нужно что-то делать, чтобы для Лизы мой возбуждённый вид стал чем-то довольно обыденным и естественным. Пока она меня стесняется, на диван к ним мне не попасть..."
-msgstr ""
+msgstr "Sauf que tous mes autres espoirs ont été anéantis par la réticence de Lisa à se trouver sur le même canapé que ma trique ! C'est incroyablement frustrant... J'ai des filles géniales assises sur mon canapé au milieu de la nuit et je veux être avec elles ! Il semble que quelque chose doive être fait pour que mon apparence excitée devienne quelque chose de plutôt ordinaire et naturel pour Lisa. Tant qu'elle est timide avec moi, je ne peux pas aller sur leur canapé..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ухх... Как же классно оказаться с такими прекрасными девчонками на одном диване! Оливия совершенно голая... Я совершенно голый... Только одна Лиза ещё стесняется... Но думаю, со временем, если такие посиделки станут традицией, она привыкнет и более того, сама начнёт раздеваться! Мечтать не вредно. Главное, не давить на неё, пусть привыкает... Не исключено, что втайне, ей очень нравится всё, что происходит!"
-msgstr ""
+msgstr "Ugh... Quel bonheur d'être sur le même canapé que des filles aussi adorables ! Olivia est complètement nue... Je suis complètement nu... Seule Lisa est encore timide... Mais je pense qu'avec le temps, si ce genre de rencontre devient une tradition, elle s'y habituera et en plus, elle commencera à se déshabiller elle-même ! Il n'y a pas de mal à rêver. L'essentiel est de ne pas lui mettre la pression, de la laisser s'habituer... Il est possible que, secrètement, elle aime vraiment tout ce qui se passe !"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Оливия рассказала мне о кое-каких своих опасениях... После того, как Алекс узнал от неё, какой у нас классный и дорогой дом, он быстренько переобулся и начал проявлять к Лизе большой интерес. Похоже, это Алекс тот ещё альфонс... Теперь главное, ненавязчиво донести этот факт до Лизы! Думаю, она рано или поздно обратиться ко мне за советом... И даже не раз..."
-msgstr ""
+msgstr "Olivia m'a parlé de certaines de ses préoccupations... Après qu'Alex ait découvert par elle combien notre maison était cool et chère, il a rapidement retourné sa veste et a commencé à montrer beaucoup d'intérêt pour Lisa. On dirait qu'Alex est l'arriviste type... Maintenant, l'important est de faire comprendre ce fait à Lisa d'une manière discrète ! Je pense qu'elle viendra me demander conseil tôt ou tard... Et plus d'une fois que ce sera fait..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот всё и разрешилось с этим Алексом! Оливия его бросила, а Лиза в нём разочаровалась. Хотя, если бы не мои подсказки, Лиза бы точно наделала глупостей и тот первый ночной визит Оливии мог стать последним... Но одну глупость Лиза всё же сделала на радостях - сняла свою маечку прямо на мох глазах! Это очень приятная глупость! Правда, она намекнула, что это может остаться единичным случаем, поэтому лучше делать всё, чтобы моя сестрёнка чувствовала на себе мою заботу..."
-msgstr ""
+msgstr "Voilà qui résout tout avec cet Alex ! Olivia l'a largué et Lisa a été déçue par lui. Bien que, si je n'avais pas eu d'indices, Lisa aurait certainement fait quelque chose de stupide et cette première nuit chez Olivia aurait pu être sa dernière... Mais Lisa a fait une chose stupide dans sa joie - elle a enlevé son T-shirt juste devant mes yeux ! C'est une chose stupide et très agréable à faire ! Il est vrai qu'elle a laissé entendre que cela pourrait rester un incident isolé, alors il vaut mieux que je fasse tout ce que je peux pour que ma petite sœur se sente protégée par moi..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Теперь две эти симпатичные попки в моём распоряжении... Аж глаза разбегаются... Хоть Оливия и не особо привязывалась к Алексу, но расставание есть расставание и ей явно нужно время, чтобы оправиться. Как знать, может у нас с ней что-нибудь получится?! Ну а чтобы Лиза чаще сверкала своими голыми сисечками, нужно проявить побольше заботы... Главное постоянно и в разумных пределах! А позаботиться можно и о защите её от маминых наказаний, и о помощи с домашним заданием. А так же уделять внимание и её рукам, помогая с мытьём посуды и делая массаж."
-msgstr ""
+msgstr "Maintenant, j'ai ces deux jolies fesses à ma disposition... On ne peut s'empêcher de se demander... Même si Olivia n'était pas particulièrement attachée à Alex, une rupture est une rupture et elle a clairement besoin de temps pour s'en remettre. Qui sait, peut-être qu'on arrivera à quelque chose avec elle ! Eh bien, pour que Lisa montre ses seins nus plus souvent, je dois leurs montrer un peu plus d'attention... L'essentiel est de le faire tout le temps et dans des limites raisonnables ! Et l'on peut veiller à la fois à la protéger des punitions de sa mère et à l'aider à faire ses devoirs. Et faire également attention à ses mains, en l'aidant à se laver et à se masser."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Школьница"
-msgstr ""
+msgstr "Écolière"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, в новой школе Лиза оказалась не такой отличницей, как раньше. Видимо, в новой школе уровень знаний требуется намного более высокий. Ну что же, это хорошая возможность проявить свои школьные знания и помочь младшей сестрёнке разобраться в материале... Или же наоборот, помешать получить хорошую оценку и понаблюдать, как мама её накажет? А может быть, попросить у неё что-то за помощь? Но сначала надо поговорить с Лизой и спросить, что она обо всём этом думает?"
-msgstr ""
+msgstr "Donc, dans la nouvelle école, Lisa n'était pas aussi excellente qu'avant. Apparemment, la nouvelle école exige un niveau de connaissances beaucoup plus élevé. C'est une bonne occasion de montrer mes connaissances scolaires et d'aider ma petite sœur à comprendre la matière... Ou encore, l'empêcher d'avoir une bonne note et voir ma mère la punir ? Pourquoi ne pas lui demander quelque chose pour son aide ? Mais d'abord, nous devons parler à Lisa et lui demander ce qu'elle pense de tout ça?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я поговорил с Лизой насчёт уроков и намекнул, что моя помощь будет стоить... некоторых услуг. Конечно, она отказалась. Но это пока. До первого наказания. Как только её отшлёпают у меня на глазах, всё изменится! Но для этого надо сделать так, чтобы она снова получила двойку..."
-msgstr ""
+msgstr "J'ai parlé à Lisa des leçons et lui ai laissé entendre que mon aide serait utile... pour certains services de sa part. Bien sûr, elle a dit non. Mais c'est pour maintenant. Jusqu'à la première punition. Une fois qu'elle aura reçu une fessée devant moi, tout changera ! Mais pour ce faire, je dois m'assurer qu'elle obtienne un D à nouveau..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я поговорил с Лизой и пообещал ей, что помогу с уроками. Причём, абсолютно безвозмездно. То есть - даром. Конечно, это не очень свойственно для меня, но зато есть все шансы наладить отношения с сестрёнкой и завоевать её доверие..."
-msgstr ""
+msgstr "J'ai parlé à Lisa et je lui ai promis de l'aider avec ses leçons. Et tout à fait gratuitement. C'est-à-dire, gratuitement. Bien sûr, ce n'est pas très caractéristique de ma part, mais j'ai toutes les chances de nouer une relation avec ma sœur et de gagner sa confiance..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\n"
 "Теперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"
-msgstr ""
+msgstr "Je pense avoir persuadé Lisa de m'obéir sous peine de punition. Maintenant, elle ne dort qu'avec un T-shirt et un slip. C'est bon, je ne fais que commencer.\n\n"
+"Maintenant, je peux, sous prétexte de l'aider avec ses leçons, modifier ses calculs pour qu'elle obtienne un D et je peux la regarder être punie à nouveau... Qui sait, peut-être qu'on peut lui faire faire plus que ça ?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Хоть я и пообещал помогать Лизе с уроками, но делать этого я не стал. И без того было много дел. После очередной двойки и наказания от мамы, она подошла ко мне и упрашивала о помощи. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-msgstr ""
+msgstr "Même si j'avais promis d'aider Lisa avec ses leçons, je ne l'ai pas fait. Il y avait déjà beaucoup à faire. Après un autre D et une punition de ma mère, elle est venue me voir et m'a supplié de l'aider. J'ai accepté, mais à la condition qu'elle ne dorme que dans un T-shirt et une culotte. Et je pense que je pourrais être capable de lui faire faire autre chose..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает..."
-msgstr ""
+msgstr "Certes, Lisa a été légèrement offensée par moi, mais je vais survivre à cela. Je vais lui donner quelque chose de délicieux et elle va se décongeler par rapport à moi..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я перестал уделять ей внимание с этим. И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-msgstr ""
+msgstr "J'ai aidé Lisa avec ses leçons pendant un certain temps, et bénévolement, mais c'est devenu plutôt ennuyeux et j'ai cessé de lui prêter attention avec ça. Donc, après un autre \"D\" et une punition de sa mère, elle est venue me demander de l'aide. J'ai accepté, mais à la condition qu'elle ne dorme que dans un T-shirt et une culotte. Et je pense que je pourrais être capable de lui faire faire autre chose..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Пообещав помогать Лизе с уроками по принципу \"ты мне - я тебе\", я через некоторое время совсем про неё забыл. И вот, после очередной двойки и наказания от мамы, Лиза напомнила о том, что я ей обещал. Пожалуй, мне стоит уделять её урокам больше внимания..."
-msgstr ""
+msgstr "Après avoir promis d'aider Lisa pour ses leçons sur la base du principe 'je t'aide, tu m'aides', je l'ai oubliée au bout d'un moment. Et donc, après un autre D et une punition de maman, Lisa s'est vue rappeler ce que je lui avais promis. Je devrais peut-être faire plus attention à ses leçons..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Под видом помощи с уроками Лизы, я намеренно делал ошибки так, чтобы ей ставили двойки и наказывали... В чём теперь она меня и подозревает. Не удивительно, что Лиза сильно обиделась на меня, но вместе с тем, от моей помощи не отказалась..."
-msgstr ""
+msgstr "Sous prétexte d'aider Lisa dans ses leçons, je faisais délibérément des erreurs pour qu'elle ait des F et soit punie... Ce qu'elle me soupçonne maintenant. Il n'est pas surprenant que Lisa se soit offusquée de moi, mais en même temps, elle n'a pas refusé mon aide..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает."
-msgstr ""
+msgstr "Je doute que maintenant il sera possible de l’encadrer, elle est trop méfiante envers moi."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
-msgstr ""
+msgstr "J'ai aidé Lisa avec ses leçons pendant un moment, gratuitement, mais c'est devenu plutôt ennuyeux et j'ai délibérément commencé à faire des erreurs pour qu'elle obtienne des D et soit punie... Donc, après un autre \"D\" et une punition de ma mère, elle est venue me demander de l'aide. J'ai accepté, mais à la condition qu'elle ne dorme que dans un T-shirt et une culotte. Et je pense que je pourrais être capable de lui faire faire autre chose..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Арахнофобия"
-msgstr ""
+msgstr "Arachnophobie"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для такого рода насекомых... Нужно будет поймать одного и подкинуть Алисе, вот забавно будет! Вот только как и где их искать?"
-msgstr ""
+msgstr "Curieux. Alice semble avoir une peur bleue des araignées. Et il faut noter que le climat ici est très adapté à ce genre d'insectes... Nous devrons en attraper une et la donner à Alice, ce sera amusant ! Mais comment et où les trouver ?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я порылся в интернете и выяснил, что в нашей местности очень легко встретить один вид пауков. К счастью, он совершенно безвредный, но размеры бывают весьма солидные. Ночью их не найти, а вот когда солнце только начинает прогревать землю, они выползают на свет и проверяют свою добычу."
-msgstr ""
+msgstr "J'ai fait des recherches sur Internet et j'ai découvert qu'une espèce d'araignée est très facile à trouver dans notre région. Heureusement, elle est totalement inoffensif, mais sa taille peut être assez importante. On ne peut pas les trouver la nuit, mais lorsque le soleil commence à réchauffer le sol, elles rampent à la lumière et examinent leurs proies."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, я поймал огромного паука. Это не так сложно, если знать в какое время и где их ловить. Теперь нужно испытать этого монстра на сестрёнке. Вот только бы выбрать подходящий момент... Интересно, а она заметит паука, если будет принимать душ?"
-msgstr ""
+msgstr "Alors, j'ai attrapé une énorme araignée. Ce n'est pas si difficile si vous savez à quelle heure et où les attraper. Maintenant nous devons tester ce monstre sur ma sœur. Il s'agit juste de choisir le bon moment... Je me demande si elle remarquera l'araignée si elle se douche ?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "О да! Алиса определённо боится пауков! Такой мокрой и трясущейся от страха попки моей старшей сестрёнки я ещё не видел... Визг слышали все соседи со всей округи, это точно! Вот только если Алиса узнает, что я это всё специально подстроил, меня ждёт смерть. Надеюсь, быстрая! А пока этого не случилось, можно попробовать подложить паука в её комнату..."
-msgstr ""
+msgstr "Oh, oui ! Alice a définitivement peur des araignées ! Je n'ai jamais vu les fesses de ma grande sœur si mouillées et tremblantes de peur... Tous les voisins du quartier ont entendu les hurlements, c'est sûr ! Sauf que si Alice découvre que je l'ai fait exprès, je serais mort. Avant que cela n'arrive, je peux essayer de mettre une araignée dans sa chambre..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Алиса так боится пауков, что прибежала ко мне за спасением посреди ночи! Алиса так сексуальна в своём нижнем белье, ммм... И похоже, её можно на многое развести под страхом ночёвки с пауком, так что я точно спасаю её не в последний раз! Может, подложить паука, когда Алиса загорает?"
-msgstr ""
+msgstr "Alice a tellement peur des araignées qu'elle est venue me chercher en courant au milieu de la nuit ! Alice est si sexy dans ses sous-vêtements, mmm. Et on dirait qu'il y a beaucoup de choses qu'elle peut être tentée de faire sous peine de passer une nuit avec une araignée, donc je ne la vois certainement pas pour la dernière fois ! Peut-être mettre une araignée à côté d'elle quand Alice prend un bain de soleil ?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Таких крепких объятий от Алисы я не ожидал! Так близко к моему лицу её сиськи не были ещё никогда! С помощью пауков я могу обеспечить себе много каких по-хорошему волнующих моментов с Алисой... Посмотрим, к чему это приведёт..."
-msgstr ""
+msgstr "Un câlin si serré d'Alice, je ne m'y attendais pas ! Ses seins n'ont jamais été aussi proches de mon visage ! Avec l'aide des araignées, je peux m'offrir un tas de moments assez excitants avec Alice... Voyons voir où cela va me mener..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "А вот это интересно! Я думал Алиса, как всегда, обругает меня после того, как вцепилась в мой член, прячась от паука... Но, нет! Более того, она даже как-то... подобрела ко мне... Вернее, стала спокойнее относится к моему \"возбуждённому\" состоянию! Странно... Может, она наконец почувствовала, что пауки намного страшнее, чем мой стояк?! Если так, то это очень хорошо, потому что многое с Алисой теперь будет иначе..."
-msgstr ""
+msgstr "Voilà qui est intéressant ! Je pensais qu'Alice allait, comme d'habitude, me gronder après avoir serré ma bite en se cachant de l'araignée... Mais, non ! En plus, elle a même réussi à... être gentille avec moi... Ou plutôt, elle a été plus détendue au sujet de mon 'excitation'...! C'est étrange... Peut-être qu'elle a enfin compris que les araignées sont bien plus effrayantes que ma trique ! Si c'est le cas, c'est une très bonne chose, car beaucoup de choses seront différentes avec Alice maintenant..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Альфа"
-msgstr ""
+msgstr "Transparent"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, я познакомился с этим самым Эриком, бойфрендом мамы. Не могу сказать о нём ничего хорошего или плохого, но он мне не очень понравился. Практически сразу он предложил мне выбрать дружить с ним или воевать. Вот только зачем мне с ним дружить? Что это даст? Да и воевать... Что он может мне сделать? Так или иначе, но он дал на размышления одну неделю. Ну, подумаю как следует и решу что попало..."
@@ -916,21 +917,21 @@ msgstr ""
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
-msgstr ""
+msgstr "Peut-être que ça vaut la peine de trier les boîtes dont ma mère m'a parlé..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
-msgstr ""
+msgstr "Peut-être devrais-je me demander ce que fait ma sœur aînée quand elle n’est pas dans sa chambre..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
-msgstr ""
+msgstr "Peut-être devrais-je m'intéresser à ce que vit ma petite sœur quand elle n’est pas dans sa chambre..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Всему своё время..."
-msgstr ""
+msgstr "Chaque chose en son temps..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
-msgstr ""
+msgstr "Peut-être qu’Alice a des passe-temps secrets? Si c’est le cas, elle le fera évidemment quand il y aura moins de monde à la maison..."
 
