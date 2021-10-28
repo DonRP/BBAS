@@ -10,207 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:54\n"
+"PO-Revision-Date: 2021-10-28 16:15\n"
 
 # game/events/other.rpy:9## # translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
-msgstr ""
+msgstr "[Ann_05] ¡Max! Fuimos de compras. No nos extrañes ¿de acuerdo? Regresaremos en 3 horas [nointeract]"
 
 # game/events/other.rpy:27## # translate crowdin back_shoping_bd2b389d:
 msgid "[Lisa_02]Привет, Макс! Мы вернулись..."
-msgstr ""
+msgstr "[Lisa_02]¡Hola, Max! Estamos de vuelta..."
 
 # game/events/other.rpy:28## # translate crowdin back_shoping_cd0b2b2b:
 msgid "[Max_04]Ну как, удачно сходили?"
-msgstr ""
+msgstr "[Max_04]Bueno ¿te fue bien?"
 
 # game/events/other.rpy:29## # translate crowdin back_shoping_3945eada:
 msgid "[Alice_13]Ну, так... Платье мне, конечно, не купили. Даже то очень длинное, которое чуть выше колен..."
-msgstr ""
+msgstr "[Alice_13] Bueno, entonces... Por supuesto, no me compraron un vestido. Incluso este es muy largo, me va justo por encima de las rodillas..."
 
 # game/events/other.rpy:30## # translate crowdin back_shoping_d40343f5:
 msgid "[Max_07]А почему не купили?"
-msgstr ""
+msgstr "[Max_07]¿Por qué no lo compraron?"
 
 # game/events/other.rpy:31## # translate crowdin back_shoping_8ac1e4ec:
 msgid "[Alice_01]А вот у мамы спроси..."
-msgstr ""
+msgstr "[Alice_01]Pero pregúntale a tu madre..."
 
 # game/events/other.rpy:32## # translate crowdin back_shoping_838f5698:
 msgid "[Max_00]Мам?"
-msgstr ""
+msgstr "[Max_00]mamá?"
 
 # game/events/other.rpy:33## # translate crowdin back_shoping_ff699a77:
 msgid "[Ann_01]Алиса, мы это уже обсуждали. Я против платьев, где у тебя всё видно. То, что оно длинное, не значит, что твою задницу не видно через разрез до ушей...[nointeract]"
-msgstr ""
+msgstr "[Ann_01]Alice, ya hemos discutido esto. Estoy en contra de los vestidos donde tienes todo visible. El hecho de que sea largo no significa que tu trasero no se pueda ver a través de la hendidura hasta las orejas...[nointeract]"
 
 # game/events/other.rpy:39## # translate crowdin back_shoping_ec104f51:
 msgid "[Alice_02]Ну, теперь остаётся только мечтать. Спасибо тебе мама за чудесный шоппинг... Лизе тоже понравилось, видимо..."
-msgstr ""
+msgstr "[Alice_02]Bueno, ahora solo queda soñar. Gracias mamá por una compra maravillosa... A Lisa también le gustó, aparentemente..."
 
 # game/events/other.rpy:40## # translate crowdin back_shoping_e23a2e06:
 msgid "[Max_01]А что с Лизой? Купальник купили?"
-msgstr ""
+msgstr "[Max_01]¿Qué pasa con Lisa? ¿Compraste un traje de baño?"
 
 # game/events/other.rpy:41## # translate crowdin back_shoping_dbb7dd3e:
 msgid "[Lisa_09]Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]No. Mamá dijo que el que quería era demasiado caro y los otros demasiado abiertos...[nointeract]"
 
 # game/events/other.rpy:44## # translate crowdin back_shoping_4ac118f9:
 msgid "[Ann_01]Купальник не может стоить таких денег, а она выбрала дизайнерский какой-то. Как будто мы тут миллионеры все..."
-msgstr ""
+msgstr "[Ann_01] Un traje de baño no puede valer tanto dinero, pero eligió uno de diseñador. Como si todos fuéramos millonarios aquí..."
 
 # game/events/other.rpy:45## # translate crowdin back_shoping_0901fee4:
 msgid "[Max_05]Ясно. А насколько открытыми были остальные?"
-msgstr ""
+msgstr "[Max_05]Claro. ¿Y qué tan abiertos eran los demás?"
 
 # game/events/other.rpy:48## # translate crowdin back_shoping_b5471cb2:
 msgid "[Ann_05]Ну тебе бы точно понравилось, как и всем мужикам, кто её бы увидел, но Лиза ещё маленькая, чтобы в таком виде появляться на публике. Так что..."
-msgstr ""
+msgstr "[Ann_05]Bueno, definitivamente te gustaría, como todos los chicos que la verían, pero Lisa todavía es pequeña para aparecer en público de esta forma. Así que..."
 
 # game/events/other.rpy:49## # translate crowdin back_shoping_542cfe6c:
 msgid "[Max_03]Всё ясно..."
-msgstr ""
+msgstr "[Max_03]Todo claro entonces..."
 
 # game/events/other.rpy:50## # translate crowdin back_shoping_88944574:
 msgid "[Alice_13]В общем, бесполезно потратили время. Но Эрик обещал, что на следующий шоппинг купит нам всё, что мы захотим, да, мам?"
-msgstr ""
+msgstr "[Alice_13]En general, tiempo perdido. Pero Eric prometió que nos comprará lo que queramos para la próxima compra, ¿eh, mamá?"
 
 # game/events/other.rpy:51## # translate crowdin back_shoping_3081eefb:
 msgid "[Max_10]Что?!"
-msgstr ""
+msgstr "[Max_10]¿Qué?!"
 
 # game/events/other.rpy:52## # translate crowdin back_shoping_87e46818:
 msgid "[Ann_01]Алиса, хватит мечтать. Это всё выглядит так, как будто вы хотите из него выкачать как можно больше денег. Успокойтесь и будьте скромнее...[nointeract]"
-msgstr ""
+msgstr "[Ann_01] Alice, deja de soñar. Parece que quieres sacarle la mayor cantidad de dinero posible. Cálmate y sé humilde... [nointeract]"
 
 # game/events/other.rpy:55## # translate crowdin back_shoping_b5a1abfc:
 msgid "[Ann_05]Вот, Макс понимает, что это некрасиво клянчить деньги у других..."
-msgstr ""
+msgstr "[Ann_05]Ahora, Max se da cuenta de que es feo pedir dinero a los demás..."
 
 # game/events/other.rpy:56## # translate crowdin back_shoping_ff1fed11:
 msgid "[Max_09]Кстати, где он?"
-msgstr ""
+msgstr "[Max_09]Por cierto, ¿dónde está?"
 
 # game/events/other.rpy:59## # translate crowdin back_shoping_7fae385c:
 msgid "[Ann_00]Эрик подъедет к ужину. Сейчас у него какие-то дела. Не переживай, сегодня ты его увидишь."
-msgstr ""
+msgstr "[Ann_00] Eric vendrá a cenar. Ahora tiene algunos asuntos. No se preocupen, lo veran hoy."
 
 # game/events/other.rpy:60## # translate crowdin back_shoping_e80e3f94:
 msgid "[Max_08]Да я и не переживаю..."
-msgstr ""
+msgstr "[Max_08]no estoy preocupado..."
 
 # game/events/other.rpy:61## # translate crowdin back_shoping_b742f90d:
 msgid "[Ann_05]Вот и отлично. Ладно, поболтаем позже..."
-msgstr ""
+msgstr "[Ann_05]Eso es genial. Bien, hablemos más tarde..."
 
 # game/events/other.rpy:62## # translate crowdin back_shoping_7852d704:
 msgid "[Max_00]Ага..."
-msgstr ""
+msgstr "[Max_00]sí..."
 
 # game/events/other.rpy:68## # translate crowdin back_shoping_1deadd07:
 msgid "[Ann_05]Привет, Макс! Мы вернулись..."
-msgstr ""
+msgstr "[Ann_05]¡Hola, Max! Estamos de vuelta..."
 
 # game/events/other.rpy:69## # translate crowdin back_shoping_a28c1031:
 msgid "[Max_04]Рассказывайте, что купили?"
-msgstr ""
+msgstr "[Max_04]Cuéntanos qué compraste?"
 
 # game/events/other.rpy:78## # translate crowdin back_shoping_dc000c03:
 msgid "[Lisa_03]А мне Эрик подарил купальник! Именно такой, как я и хотела! Красный, представляешь?!"
-msgstr ""
+msgstr "[Lisa_03] ¡Y Eric me dio un traje de baño! ¡Exactamente lo que quería! Rojo, ¿te imaginas?!"
 
 # game/events/other.rpy:79## # translate crowdin back_shoping_f936ff3c:
 msgid "[Max_11]Ясно..."
-msgstr ""
+msgstr "[Max_11]Claramente..."
 
 # game/events/other.rpy:80## # translate crowdin back_shoping_45a6e528:
 msgid "[Lisa_02]Что? Ты за меня не рад? Я же теперь смогу загорать в нормальном виде!"
-msgstr ""
+msgstr "[Lisa_02]¿Qué? ¿No estás feliz por mí? ¡Ahora podré tomar el sol de una manera normal!"
 
 # game/events/other.rpy:81## # translate crowdin back_shoping_c856577b:
 msgid "[Max_09]Конечно, рад... Что-то ещё хорошее купили?"
-msgstr ""
+msgstr "[Max_09]Por supuesto, me alegro... ¿Compraste algo bueno?"
 
 # game/events/other.rpy:83## # translate crowdin back_shoping_920128b5:
 msgid "[Lisa_02]Да так, вскую ерунду... Для нас, девочек. Тебе это не интересно..."
-msgstr ""
+msgstr "[Lisa_02] Sí, eso es una tontería... Para nosotras las chicas. No te interesa..."
 
 # game/events/other.rpy:84## # translate crowdin back_shoping_f47e0d84:
 msgid "[Max_00]Понятно..."
-msgstr ""
+msgstr "[Max_00]Está bien..."
 
 # game/events/other.rpy:86## # translate crowdin back_shoping_7a400341:
 msgid "[Alice_07]Ты забыла про самое главное, Лиза. Мне Эрик купил платье! Представляешь?!"
-msgstr ""
+msgstr "[Alice_07]Te olvidaste de lo más importante, Lisa. ¡Eric me compró un vestido! Puedes imaginarlo?!"
 
 # game/events/other.rpy:87## # translate crowdin back_shoping_31015994:
 msgid "[Max_10]Да, это чудесно..."
-msgstr ""
+msgstr "[Max_10]sí, es maravilloso..."
 
 # game/events/other.rpy:88## # translate crowdin back_shoping_295e6d4e:
 msgid "[Alice_04]Вот именно! Теперь я смогу ходить по клубам, а не сидеть дома вечерами! Эрик такой молодец. Я в восторге!"
-msgstr ""
+msgstr "[Alice_04] ¡Eso es todo! ¡Ahora puedo ir a clubes en lugar de quedarme en casa por las noches! Eric es genial. ¡Estoy encantada!"
 
 # game/events/other.rpy:89## # translate crowdin back_shoping_52ba99cd:
 msgid "[Max_11]Поздравляю..."
-msgstr ""
+msgstr "[Max_11]Felicidades..."
 
 # game/events/other.rpy:96## # translate crowdin back_shoping_be1ec23c:
 msgid "[Ann_07]Макс, ты какой-то грустный. Что-то случилось? Или мне показалось?"
-msgstr ""
+msgstr "[Ann_07]Max, estás un poco triste. ¿Pasó algo? ¿O me lo parece?"
 
 # game/events/other.rpy:97## # translate crowdin back_shoping_4d9d39c8:
 msgid "[Max_00]Показалось, мам..."
-msgstr ""
+msgstr "[Max_00]Creo que te lo Pareció, mama..."
 
 # game/events/other.rpy:98## # translate crowdin back_shoping_60b98ba6:
 msgid "[Alice_02]Не переживай. Ты всегда можешь заработать и купить себе сам всё, что хочешь..."
-msgstr ""
+msgstr "[Alice_02]No te preocupes. Siempre puedes ganar y comprarte lo que quieras..."
 
 # game/events/other.rpy:99## # translate crowdin back_shoping_53937e67:
 msgid "[Max_09]Спасибо за совет..."
-msgstr ""
+msgstr "[Max_09]Gracias por la cena..."
 
 # game/events/other.rpy:113## # translate crowdin MeetingEric_ff8aa8d1:
 msgid "[Ann_00]Макс, подойди пожалуйста. К нам приехал Эрик. Знакомься..."
-msgstr ""
+msgstr "[Ann_00]Max, por favor ven. Eric vino a visitarnos. Reunámonos..."
 
 # game/events/other.rpy:115## # translate crowdin MeetingEric_56e6606a:
 msgid "[Ann_05]Знакомься, это - Эрик. Эрик, это Макс, мой сын...[nointeract]"
-msgstr ""
+msgstr "[Ann_05]Conoce a Eric. Eric, este es Max, mi hijo...[nointeract]"
 
 # game/events/other.rpy:120## # translate crowdin MeetingEric_deda115c:
 msgid "[Eric_01]Мне тоже. Как жизнь, Макс, чем занимаешься?[nointeract]"
-msgstr ""
+msgstr "[Eric_01]Yo también. ¿Cómo estás, Max, qué haces[nointeract]"
 
 # game/events/other.rpy:123## # translate crowdin MeetingEric_fae75ac4:
 msgid "[Eric_06]Отличные слова, Макс. Ну, надеюсь, найдёшь то, что ищешь..."
-msgstr ""
+msgstr "[Eric_06]Grandes palabras, Max. Bueno, espero que encuentres lo que buscas..."
 
 # game/events/other.rpy:124## # translate crowdin MeetingEric_ec11cf76:
 msgid "[Max_03]Ага, спасибо..."
-msgstr ""
+msgstr "[Max_03]sí, gracias..."
 
 # game/events/other.rpy:130## # translate crowdin MeetingEric_aa815859:
 msgid "[Eric_00]Понятно. Воздух пинаешь... Ну ничего, в своё время всё изменится..."
-msgstr ""
+msgstr "[Eric_00]Comprensible. Pateas el aire... Pues nada, a su debido tiempo todo cambiará..."
 
 # game/events/other.rpy:131## # translate crowdin MeetingEric_62426c0e:
 msgid "[Max_08]Я не пинаю воздух..."
-msgstr ""
+msgstr "[Max_08]No pateo el aire..."
 
 # game/events/other.rpy:137## # translate crowdin MeetingEric_6deddf9e:
 msgid "[Eric_09]Ого, какие мы дружелюбные, ну что же, не буду тебя утомлять своими вопросами..."
-msgstr ""
+msgstr "[Eric_09]Vaya, qué amables somos, bueno, no te aburriré con mis preguntas..."
 
 # game/events/other.rpy:138## # translate crowdin MeetingEric_2db9f65a:
 msgid "[Max_09]Ну и ладно..."
-msgstr ""
+msgstr "[Max_09]Está bien..."
 
 # game/events/other.rpy:141## # translate crowdin MeetingEric_cf7f1be0:
 msgid "[Eric_09]Очень приятно, Макс. А ты у нас не очень разговорчивый, да?[nointeract]"
-msgstr ""
+msgstr "[Eric_09]Encantado de conocerte, Max. Y aquí no eres muy hablador, ¿verdad? [nointeract]"
 
 # game/events/other.rpy:144## # translate crowdin MeetingEric_fda4595b:
 msgid "[Eric_06]Вот это да! Молодец, Макс. Вот это правильный подход."
@@ -414,202 +414,202 @@ msgstr ""
 
 # game/events/other.rpy:315## # translate crowdin Kira_arrival_end_yard_a5573412:
 msgid "[Alice_02]Ну всё, теперь моя очередь! Как вам? Лично мне очень нравится! Давно надо было раздеться."
-msgstr ""
+msgstr "[Alice_02]¡Eso es todo, ahora es mi turno! ¿Te gusta eso? Personalmente, ¡me gusta mucho! Debería haberme desvestido durante mucho tiempo."
 
 # game/events/other.rpy:316## # translate crowdin Kira_arrival_end_yard_f057f5be:
 msgid "[Max_04]Именно!"
-msgstr ""
+msgstr "[Max_04]¡Exactamente!"
 
 # game/events/other.rpy:317## # translate crowdin Kira_arrival_end_yard_d2a8a875:
 msgid "[Ann_02]Я не поняла. А трусы то на тебе хоть есть? Ты же не планируешь в таком виде ходить дома, Алиса?[nointeract]"
-msgstr ""
+msgstr "[Ann_02]No comprendo. ¿tienes bragas puestas? ¿No planeas ir a casa así, Alice?[nointeract]"
 
 # game/events/other.rpy:320## # translate crowdin Kira_arrival_end_yard_c8223c08:
 msgid "[Alice_03]Спасибо, Макс! Мам, а что такого? Ты не представляешь как жарко было в джинсах, а теперь хоть тело дышит. Да и жара такая на улице и дома..."
-msgstr ""
+msgstr "[Alice_03] Gracias Max! Mamá, ¿qué pasa? No tienes idea de lo caliente que estaba en jeans, pero ahora al menos el cuerpo está respirando. Y el calor es tal en la calle como en la casa..."
 
 # game/events/other.rpy:321## # translate crowdin Kira_arrival_end_yard_12a4e2fa:
 msgid "[Ann_01]Ладно, а что там сзади? Ну-ка покрутись..."
-msgstr ""
+msgstr "[Ann_01]Bien, ¿qué hay ahí atrás? Vamos y gira..."
 
 # game/events/other.rpy:323## # translate crowdin Kira_arrival_end_yard_4357e252:
 msgid "[Alice_05]Мам, да всё в порядке. На мне шорты, ничего не видно. Вот, смотри..."
-msgstr ""
+msgstr "[Alice_05] Mamá, está bien. Llevo pantalones cortos, no se ve nada. Aquí mira..."
 
 # game/events/other.rpy:325## # translate crowdin Kira_arrival_end_yard_4fd7558f:
 msgid "[Ann_12]Алиса, у тебя же всё видно, аж грудь вываливается! Смотри, как Макс таращится. Кажется, он даже завис..."
-msgstr ""
+msgstr "[Ann_12] Alice, se puede ver todo, ¡tu pecho se está cayendo! Mira a Max mirando. Incluso parece estar congelado..."
 
 # game/events/other.rpy:326## # translate crowdin Kira_arrival_end_yard_f70abaf0:
 msgid "[Max_07]Э... Ну... да..."
-msgstr ""
+msgstr "[Max_07]E... Bien... Sí..."
 
 # game/events/other.rpy:327## # translate crowdin Kira_arrival_end_yard_761bc9e3:
 msgid "[Alice_02]Мам, я дома могу одеваться так, как мне нравится. Ну и что, что Макс. Я из-за него не буду целыми днями ходить в парандже! Мне удобно, выглядит отлично! Ну а если и увидит что-то, пусть радуется, мне всё равно..."
-msgstr ""
+msgstr "[Alice_02] Mamá, puedo vestirme como te gusta en casa. ¿Y qué pasa con Max. ¡Gracias a él, no me pondré burka todo el día! ¡Estoy cómoda, se ve genial! Bueno, si ve algo, que sea feliz, no me importa..."
 
 # game/events/other.rpy:328## # translate crowdin Kira_arrival_end_yard_82a7c555:
 msgid "[Max_02]Отличная речь, сестрёнка!"
-msgstr ""
+msgstr "[Max_02]¡Gran discurso, hermana!"
 
 # game/events/other.rpy:331## # translate crowdin Kira_arrival_end_yard_11f0d126:
 msgid "[Ann_04]Ну, теперь и моя очередь. Как вам? Не слишком откровенно?[nointeract]"
-msgstr ""
+msgstr "[Ann_04]Bueno, ahora es mi turno. ¿Qué te parece? ¿No seas demasiado franco?[nointeract]"
 
 # game/events/other.rpy:338## # translate crowdin Kira_arrival_end_yard_27e62e75:
 msgid "[Ann_07]Мне кажется, шортики слишком короткие... Я в них еле влезла, если честно. Надо худеть...[nointeract]"
-msgstr ""
+msgstr "[Ann_07] Me parece que los pantalones cortos son demasiado cortos... Apenas me entro en ellos, para ser honesta. Necesito perder peso...[nointeract]"
 
 # game/events/other.rpy:345## # translate crowdin Kira_arrival_end_yard_a4137f9f:
 msgid "[Kira_03]Ань, всё сидит на тебе просто отлично. И очень идёт этот цвет, кстати... Ну а теперь моя очередь. Сейчас покажу, что себе прикупила..."
-msgstr ""
+msgstr "[Kira_03]Anh, todo te sienta bien. Y este color va muy bien, por cierto... Bueno, ahora me toca a mí. Ahora te mostraré lo que me compré..."
 
 # game/events/other.rpy:346## # translate crowdin Kira_arrival_end_yard_bfefabb8:
 msgid "[Max_01]Интересно..."
-msgstr ""
+msgstr "[Max_01]Interesante..."
 
 # game/events/other.rpy:349## # translate crowdin Kira_arrival_end_yard_95b07e68:
 msgid "[Kira_05]Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное.[nointeract]"
-msgstr ""
+msgstr "[Kira_05] Bueno, ¿Te gusta? ¿Esta bien? Y ni una palabra más. Todo te parece demasiado abierto[nointeract]"
 
 # game/events/other.rpy:357## # translate crowdin Kira_arrival_end_yard_2417a0cf:
 msgid "[Kira_07]Вот, слышала, Ань, детям нравится. Естественно, если в семье есть мужчина, это накладывает свои ограничения, но нельзя же быть настолько зажатыми..."
-msgstr ""
+msgstr "[Kira_07] Aquí, escuché, An, a los chicos les gusta. Naturalmente, si hay un hombre en la familia, esto impone sus propias restricciones, pero uno no puede estar tan cohibida..."
 
 # game/events/other.rpy:358## # translate crowdin Kira_arrival_end_yard_5d16cce1:
 msgid "[Max_04]Верно!"
-msgstr ""
+msgstr "[Max_04]Está bien!"
 
 # game/events/other.rpy:359## # translate crowdin Kira_arrival_end_yard_af415c55:
 msgid "[Ann_04]Ладно, посмотрим. Кира, мне кажется, что не стоило тратиться на подарки. Мы рады, что ты сама смогла к нам приехать... Но всё равно, большое спасибо!"
-msgstr ""
+msgstr "[Ann_04] Está bien, ya veremos. Kira, me parece que no valía la pena gastar dinero en regalos. Nos alegra que hayas podido venir con nosotros usted mismo... Pero aún así, ¡muchas gracias!"
 
 # game/events/other.rpy:360## # translate crowdin Kira_arrival_end_yard_438c6fcd:
 msgid "[Max_07]Давайте уже завтракать, а то остыло почти всё..."
-msgstr ""
+msgstr "[Max_07]Desayunemos ya, de lo contrario todo se va a enfriar..."
 
 msgid "Удачи"
-msgstr ""
+msgstr "Buena suerte"
 
 #    # game/events/other.rpy:33
 msgid "Да, жаль, что не купили его..."
-msgstr ""
+msgstr "Sí, lo siento, no lo compramos..."
 
 #    # game/events/other.rpy:33
 msgid "Я бы с удовольствием на это посмотрел..."
-msgstr ""
+msgstr "Me encantaría ver eso..."
 
 #    # game/events/other.rpy:41
 msgid "Слишком дорогой это сколько?"
-msgstr ""
+msgstr "Demasiado caro ¿cuánto?"
 
 #    # game/events/other.rpy:41
 msgid "Насколько открытые?"
-msgstr ""
+msgstr "¿Qué tan abierto?"
 
 #    # game/events/other.rpy:52
 msgid "Верно, сами разберёмся без Эрика"
-msgstr ""
+msgstr "Bien, lo resolveremos nosotros mismos sin Eric"
 
 #    # game/events/other.rpy:52
 msgid "Кстати, где он?"
-msgstr ""
+msgstr "Por cierto, ¿dónde está?"
 
 #    # game/events/other.rpy:115
 msgid "Очень приятно..."
-msgstr ""
+msgstr "Qué bien..."
 
 #    # game/events/other.rpy:115
 msgid "Я думал он выше..."
-msgstr ""
+msgstr "Pensé que era más alto..."
 
 #    # game/events/other.rpy:120
 msgid "Всё отлично. Ищу себя, так сказать..."
-msgstr ""
+msgstr "Todo perfectamente. Me estoy buscando a mí mismo, por así decirlo..."
 
 #    # game/events/other.rpy:120
 msgid "Да то тем, то этим..."
-msgstr ""
+msgstr "Sí, entonces esto, luego esto..."
 
 #    # game/events/other.rpy:120
 msgid "Отвечаю вот на дурацкие вопросы..."
-msgstr ""
+msgstr "Estoy respondiendo preguntas estúpidas..."
 
 #    # game/events/other.rpy:141
 msgid "Стараюсь больше слушать..."
-msgstr ""
+msgstr "Intento escuchar más..."
 
 #    # game/events/other.rpy:141
 msgid "Типа того..."
-msgstr ""
+msgstr "Algo como eso..."
 
 #    # game/events/other.rpy:141
 msgid "Да было бы о чём говорить..."
-msgstr ""
+msgstr "Sí, habría algo de qué hablar..."
 
 #    # game/events/other.rpy:162
 msgid "Да, мне тоже. Извините..."
-msgstr ""
+msgstr "Sí, yo también. Perdona..."
 
 #    # game/events/other.rpy:162
 msgid "А мне вот не очень..."
-msgstr ""
+msgstr "Realmente no..."
 
 #    # game/events/other.rpy:179
 msgid "Да мне всё равно..."
-msgstr ""
+msgstr "No me importa..."
 
 #    # game/events/other.rpy:190
 msgid "{i}идти к столу{/i}"
-msgstr ""
+msgstr "{i}Ir a la mesa{/i}"
 
 #    # game/events/other.rpy:210
 msgid "Извини, Эрик, я просто не в духе..."
-msgstr ""
+msgstr "Lo siento Eric, no estoy de muy buen humor..."
 
 #    # game/events/other.rpy:210
 msgid "Нормально себя веду..."
-msgstr ""
+msgstr "Me comporto normalmente..."
 
 #    # game/events/other.rpy:236
 msgid "Здравствуй, тётя Кира!"
-msgstr ""
+msgstr "¡Hola, tía Kira!"
 
 #    # game/events/other.rpy:236
 msgid "Что значит почти? Я настоящий мужчина!"
-msgstr ""
+msgstr "¿Qué significa casi? ¡Soy un hombre de verdad!"
 
 #    # game/events/other.rpy:251
 msgid "А мне можно тоже обнять свою тётю?"
-msgstr ""
+msgstr "¿Puedo abrazar a mi tía también?"
 
 #    # game/events/other.rpy:260
 msgid "В гостинице?"
-msgstr ""
+msgstr "¿En un hotel?"
 
 #    # game/events/other.rpy:260
 msgid "Дела?"
-msgstr ""
+msgstr "¿Asuntos?"
 
 #    # game/events/other.rpy:260
 msgid "Так ты два дня здесь?"
-msgstr ""
+msgstr "¿Así que estás aquí por dos días?"
 
 #    # game/events/other.rpy:290
 msgid "Да не стоит..."
-msgstr ""
+msgstr "Sí, no merece la pena..."
 
 #    # game/events/other.rpy:290
 msgid "Хорошо, тётя Кира!"
-msgstr ""
+msgstr "¡Muy bien, tía Kira!"
 
 #    # game/events/other.rpy:304
 msgid "Выглядит отлично!"
-msgstr ""
+msgstr "¡Se ve genial!"
 
 #    # game/events/other.rpy:304
 msgid "Ну-ка, повернись..."
-msgstr ""
+msgstr "Bueno, de la vuelta..."
 
 #    # game/events/other.rpy:317
 msgid "А что такого? Пусть ходит, я не против..."
