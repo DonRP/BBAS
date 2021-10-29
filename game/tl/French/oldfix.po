@@ -10,55 +10,58 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-10-29 16:11\n"
 
 # game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
 msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
-msgstr ""
+msgstr "La version sauvegardée de la démo n'est pas prise en charge. Recommencer une nouvelle partie ou sélectionner une autre sauvegarde."
 
 # game/core/oldfix.rpy:10## # translate crowdin old_fix_93331e6b:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-msgstr ""
+msgstr "Malheureusement, l’enregistrement de cette version n’est pas pris en charge en raison d’un grand nombre de modifications internes. Démarrer une nouvelle partie ou choisir une autre sauvegarde."
 
 # game/core/oldfix.rpy:14## # translate crowdin old_fix_93331e6b_1:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-msgstr ""
+msgstr "Malheureusement, l’enregistrement de cette version n’est pas pris en charge en raison d’un grand nombre de modifications internes. Démarrer une nouvelle partie ou choisir une autre sauvegarde."
 
 msgid "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-msgstr ""
+msgstr "{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
 
 #    # game/core/oldfix.rpy:51
 msgid "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n"
 "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-msgstr ""
+msgstr "Oui, et il semble que Lisa ne parle de son petit copain que lorsqu'elle est de bonne humeur... \n\n"
+"{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
 
 #    # game/core/oldfix.rpy:65
 msgid "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n"
 "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-msgstr ""
+msgstr "C'est vrai que Lisa a été un peu offensée, mais je peux vivre avec ça. Lui donner quelque chose de bon à manger va réchauffer la relation... \n\n"
+"{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
 
 #    # game/core/oldfix.rpy:68
 msgid "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n"
 "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-msgstr ""
+msgstr "Je doute que je puisse la piéger maintenant, elle est trop méfiante à mon égard. \n\n"
+"{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
 
 #    # game/core/oldfix.rpy:492
 msgid "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды... Может быть, поговорить с ней об этом?"
-msgstr ""
+msgstr "En cherchant sur Internet des informations sur ce qu'Alice pourrait faire, j'ai réussi à découvrir certaines choses. Les blogs les plus populaires sont ceux tenus par des filles. En outre, plus les tenues sont révélatrices et plus les seins sont gros, plus les émissions sont populaires. On ne peut rien faire pour les seins, bien sûr, mais les tenues... Peut-être lui parler de ça ?"
 
 #    # game/core/oldfix.rpy:492
 msgid "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Она даже при мне его примерила! Правда, я почти ничего не увидел, но было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
-msgstr ""
+msgstr "J'ai donné à Alice un bel ensemble de sous-vêtements. Elle a vraiment aimé ça. Elle l'a même essayé devant moi! C'est vrai, je n'ai presque rien vu, mais c'était excitant... Plus curieusement, elle a laissé entendre que quelque chose de plus... sexe serait mieux!"
 
 #    # game/core/oldfix.rpy:525
 msgid "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Правда, увидеть мне ничего не удалось, только Алису уже в этом самом белье, но даже это было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
-msgstr ""
+msgstr "J'ai donné à Alice un bel ensemble de sous-vêtements. Elle a vraiment aimé ça. Certes, je n'ai rien vu, Alice a déjà cette même lingerie, mais même ça, c'était excitant... Plus curieusement, elle a laissé entendre que quelque chose de plus... sexe serait mieux!"
 
 #    # game/core/oldfix.rpy:525
 msgid "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Она даже при мне его примерила! Увидел я не так чтобы много всего, но было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
-msgstr ""
+msgstr "J'ai donné à Alice un bel ensemble de sous-vêtements. Elle a vraiment aimé ça. Elle l'a même essayé devant moi! Je n'ai pas vu grand-chose, mais c'était excitant... Plus curieusement, elle a laissé entendre que quelque chose de plus... sexe serait mieux!"
 
 #    # game/core/oldfix.rpy:658
 msgid "А что если я не буду помогать Лизе какое-то время? Или несколько раз сделаю ошибку в её работе?"
-msgstr ""
+msgstr "Et si je n'aide pas Lisa pendant un moment? Ou faire quelques erreurs dans mon aide pour son travail?"
 
