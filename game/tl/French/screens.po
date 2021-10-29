@@ -10,140 +10,142 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 08:57\n"
+"PO-Revision-Date: 2021-10-29 16:11\n"
 
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
-msgstr ""
+msgstr "{b}BOUTIQUE EN LIGNE{/b}"
 
 #    # game/core/screens.rpy:323
 msgid "{b}ОНЛАЙН-КУРСЫ{/b}"
-msgstr ""
+msgstr "{b}COURS EN LIGNE{/b}"
 
 #    # game/core/screens.rpy:333
 msgid "{b}КУПИТЬ ПРОДУКТЫ{/b}"
-msgstr ""
+msgstr "{b}ACHETER DES PRODUITS{/b}"
 
 #    # game/core/screens.rpy:346
 msgid "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
-msgstr ""
+msgstr "{b}FAIRE VOTRE SITE{/b}"
 
 #    # game/core/screens.rpy:354
 msgid "{b}СВОЙ САЙТ{/b}"
-msgstr ""
+msgstr "{b}VOTRE SITE{/b}"
 
 #    # game/core/screens.rpy:359
 msgid "{b}CYBER-БАНК{/b}"
-msgstr ""
+msgstr "{b}CYBER-BANQUE{/b}"
 
 #    # game/core/screens.rpy:447
 msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
-msgstr ""
+msgstr "PRÊTS INTERESSANT POUR LES ENTREPRENEURS D'INTERNET"
 
 #    # game/core/screens.rpy:454
 msgid "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
-msgstr ""
+msgstr "Dettes: {color=[_col]}$[mgg.credit.debt]{/color}"
 
 #    # game/core/screens.rpy:455
 msgid "[mgg.credit.left] дней на погашение"
-msgstr ""
+msgstr "[mgg.credit.left] jours pour rembourser"
 
 #    # game/core/screens.rpy:457
 msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
-msgstr ""
+msgstr "REMBOURSER LA DETTE"
 
 #    # game/core/screens.rpy:461
 msgid "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
-msgstr ""
+msgstr "REMBOURSER UNE PARTIE DE LA DETTE"
 
 #    # game/core/screens.rpy:469
 msgid "ВЗЯТЬ КРЕДИТ"
-msgstr ""
+msgstr "CONTRACTER UN PRÊT"
 
 #    # game/core/screens.rpy:504
 msgid "Что будем искать?"
-msgstr ""
+msgstr "Qu'est ce que je recherche?"
 
 #    # game/core/screens.rpy:575
 msgid "{i}{b}КУПЛЕНО{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}AQUISITION{/b}{/i}"
 
 #    # game/core/screens.rpy:650
 msgid "ОНЛАЙН-КУРСЫ"
-msgstr ""
+msgstr "COURS EN LIGNE"
 
 #    # game/core/screens.rpy:668
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
-msgstr ""
+msgstr "Vous avez terminé tous les leçons et cours disponibles dans cette catégorie. Peut-être que de nouvelles leçons apparaîtront dans la prochaine version du jeu."
 
 #    # game/core/screens.rpy:680
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
-msgstr ""
+msgstr "Vous avez déjà payé pour ce cours et pouvez activer le prochain didacticiel vidéo disponible à tout moment."
 
 #    # game/core/screens.rpy:684
 msgid "Занятие [text1] из [text2]"
-msgstr ""
+msgstr "Cours [text1] de [text2]"
 
 #    # game/core/screens.rpy:688
 msgid "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}COMMENCER À REGARDER LE TUTORIEL VIDÉO{/b}{/i}"
 
 #    # game/core/screens.rpy:693
 msgid "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}VOUS AVEZ ÉTUDIÉ RÉCEMMENT. FAITES UNE PAUSE!{/b}{/i}"
 
 #    # game/core/screens.rpy:703
 msgid "Количество занятий: [text2]"
-msgstr ""
+msgstr "Nombre de leçons: [text2]"
 
 #    # game/core/screens.rpy:709
 msgid "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
-msgstr ""
+msgstr "{i}{b}ACHETER CE COURS POUR: [price]${/b}{/i}"
 
 #    # game/core/screens.rpy:744
 msgid "ДОХОД ОТ ПРОСМОТРОВ"
-msgstr ""
+msgstr "REVENUS DES VUS"
 
 #    # game/core/screens.rpy:745
 msgid "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
 "Минимальная сумма единоразового снятия: $100."
-msgstr ""
+msgstr "Chaque visite sur les pages de votre site web génère un petit revenu. Augmentez votre audience et gagnez de l'argent avec la publicité !\n\n"
+"Montant minimum pour un retrait: 100$."
 
 #    # game/core/screens.rpy:746
 msgid "На вашем счете $[paid]"
-msgstr ""
+msgstr "[paid]$ dans votre compte"
 
 #    # game/core/screens.rpy:748
 msgid "Забрать $[paid]"
-msgstr ""
+msgstr "Collecter [paid]$"
 
 #    # game/core/screens.rpy:761
 msgid "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
-msgstr ""
+msgstr "MONTANT INSUFFISANT POUR UN RETRAIT"
 
 #    # game/core/screens.rpy:782
 msgid "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
-msgstr ""
+msgstr "RÉSEAU DE BANNIÈRES PUBLICITAIRES"
 
 #    # game/core/screens.rpy:783
 msgid "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
 "За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
-msgstr ""
+msgstr "Une offre unique rien que pour vous ! Notre réseau de bannières est conçu pour les clients ayant des demandes spécifiques et est prêt à diffuser votre publicité auprès de votre public cible.\n\n"
+"Pour chaque forfait que vous payez maintenant, nous garantissons 10 000 impressions publicitaires pour votre site dans un avenir proche !"
 
 #    # game/core/screens.rpy:785
 msgid "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
-msgstr ""
+msgstr "ACHETER UN FORFAIT D’ANNONCES POUR 50 $"
 
 #    # game/core/screens.rpy:889
 msgid "{b}РЕКЛАМА{/b}"
-msgstr ""
+msgstr "{b}PUBLICITÉ{/b}"
 
 #    # game/core/screens.rpy:892
 msgid "{b}ВЫВОД СРЕДСТВ{/b}"
-msgstr ""
+msgstr "{b}RETRAIT{/b}"
 
 #    # game/core/screens.rpy:897
 msgid "Расположение:"
-msgstr ""
+msgstr "Emplacement :"
 
 #    # game/core/screens.rpy:898
 msgid "Зрителей:"
