@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-26 15:45\n"
+"PO-Revision-Date: 2021-10-29 16:11\n"
 
 msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
 msgstr "{color=#E59400}{i}Persuasion facilitée!{/i}{/color}\n"
@@ -373,7 +373,7 @@ msgstr "Je voulais poser des questions sur cet incident d’enfance avec ma mèr
 
 #    # game/core/02init.rpy:128
 msgid "Расскажи уже про тот случай из детства мамы..."
-msgstr "Parlez-nous de cet incident de votre enfance avec votre mère ..."
+msgstr "Parlez-nous de cet incident de ton enfance avec ta mère ..."
 
 #    # game/core/02init.rpy:128
 msgid "О школе..."
@@ -481,7 +481,7 @@ msgstr "Alors, que se passe-t-il avec la culotte d’Olivia?"
 
 #    # game/core/02init.rpy:128
 msgid "Ты позвала Оливию к нам?"
-msgstr "Tu nous as appelé Olivia ?"
+msgstr "Tu m'as appelé Olivia ?"
 
 #    # game/core/02init.rpy:128
 msgid "Ну как, получилось рассказать всё Оливии?"
@@ -497,7 +497,7 @@ msgstr "Tu vois, j'acquière de l’expérience... un peu d’évolution!"
 
 #    # game/core/02init.rpy:128
 msgid "Пошепчемся немного о моей сестрёнке?"
-msgstr "Devons-nous papoter un peu sur ma petite sœur?"
+msgstr "Devrions-nous parler de ma petite sœur?"
 
 #    # game/core/02init.rpy:128
 msgid "Что новенького, Оливия?"
