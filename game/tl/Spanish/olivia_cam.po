@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:54\n"
+"PO-Revision-Date: 2021-10-29 16:11\n"
 
 # game/events/olivia_cam.rpy:8## # translate crowdin cam0_olivia_lisa_sun_fb60e201:
 msgid "[Max_01]Благодаря натуризму Оливии, внимания ко двору станет побольше..."
-msgstr ""
+msgstr "[Max_01]Gracias al naturismo de Olivia, la atención a la corte será más ..."
 
 # game/events/olivia_cam.rpy:31## # translate crowdin cam1_olivia_lisa_swim_c66f3478:
 msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички и тем, как Оливия светит своими прелестями..."
-msgstr ""
+msgstr "[Max_01]Es agradable ver a mi hermana pequeña en el agua y cómo Olivia brilla con sus encantos..."
 
 # game/events/olivia_cam.rpy:42## # translate crowdin cam0_olivia_lisa_tv_ee9551f5:
 msgid "[Max_01]Девчонки смотрят сериалы... Жду не дождусь, когда Лиза тоже начнёт смотреть их голой, как Оливия!"
-msgstr ""
+msgstr "[Max_01]chicas ven programas de televisión... ¡No puedo esperar a que Lisa comience a verlas desnudas como Olivia también!"
 
 # game/events/olivia_cam.rpy:54## # translate crowdin cam0_olivia_lisa_sleep_8eb12594:
 msgid "[Max_01]Красавицы сладко спят..."
-msgstr ""
+msgstr "[Max_01]bellezas duermen dulcemente..."
 
