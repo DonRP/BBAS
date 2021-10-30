@@ -10,47 +10,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-10-30 16:09\n"
 
 # game/dialogues/alicetalk.rpy:17## # translate crowdin AliceTalkStart_50ef2ada:
 msgid "[Alice_00]Ну, Макс, чего надо?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]Bien, Max, de quoi as-tu besoin?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:43## # translate crowdin Alice_badbadmood_86d8a37d:
 msgid "[Alice_09]Да пошёл ты! Не хочу тебя видеть даже![nointeract]"
-msgstr ""
+msgstr "[Alice_09]Va te faire foutre! Je ne veux même pas te voir ![nointeract]"
 
 # game/dialogues/alicetalk.rpy:52## # translate crowdin Alice_badmood_de141364:
 msgid "[Alice_09]Макс, отвали! Я не хочу с тобой разговаривать.[nointeract]"
-msgstr ""
+msgstr "[Alice_09]Max, barres-toi! Je ne veux pas te parler.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:61## # translate crowdin Alice_asksorry_2395f0d1:
 msgid "[Alice_13]Хотел извиниться? Каким образом?[nointeract]"
-msgstr ""
+msgstr "[Alice_13]Tu voulais t'excuser ? Comment ?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:68## # translate crowdin Alice_normalmood_1faefb22:
 msgid "[Alice_09]Макс, давай не сейчас...[nointeract]"
-msgstr ""
+msgstr "[Alice_09]Max, pas maintenant...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:75## # translate crowdin Alice_cooldown_9093ad70:
 msgid "[Alice_09]Макс... Не сейчас."
-msgstr ""
+msgstr "[Alice_09]Max... Pas maintenant."
 
 # game/dialogues/alicetalk.rpy:76## # translate crowdin Alice_cooldown_689c772b:
 msgid "[Max_00]Ладно..."
-msgstr ""
+msgstr "[Max_00]D’accord..."
 
 # game/dialogues/alicetalk.rpy:82## # translate crowdin wash_dishes_alice_6dd3a0ed:
 msgid "[Alice_13]Хочешь о посуде поговорить или пришёл помочь?[nointeract]"
-msgstr ""
+msgstr "[Alice_13]Veux tu parler de la vaisselle ou es tu venu pour m'aider ?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:85## # translate crowdin wash_dishes_alice_9cbbc5d1:
 msgid "[Alice_07]Что это с тобой? Но я не откажусь. И... спасибо.[nointeract]"
-msgstr ""
+msgstr "[Alice_07]Qu'est-ce qui te prends? Mais je ne dirais pas non. Et... Merci.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:93## # translate crowdin wash_dishes_alice_07966f8d:
 msgid "[Max_11]И почему здесь нет посудомоечной машины...[nointeract]"
-msgstr ""
+msgstr "[Max_11]Et pourquoi il n'y a pas de lave-vaisselle....[nointeract]"
 
 # game/dialogues/alicetalk.rpy:99## # translate crowdin wash_dishes_alice_e341ef54:
 msgid "[Alice_09]Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил![nointeract]"
