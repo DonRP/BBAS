@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-29 16:11\n"
+"PO-Revision-Date: 2021-10-30 16:09\n"
 
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}BOUTIQUE EN LIGNE{/b}"
@@ -149,205 +149,205 @@ msgstr "Emplacement :"
 
 #    # game/core/screens.rpy:898
 msgid "Зрителей:"
-msgstr ""
+msgstr "Spectateurs:"
 
 #    # game/core/screens.rpy:899
 msgid "Общий доход:"
-msgstr ""
+msgstr "Revenu total:"
 
 #    # game/core/screens.rpy:900
 msgid "Доход сегодня:"
-msgstr ""
+msgstr "Revenus aujourd’hui :"
 
 #    # game/core/screens.rpy:1073
 msgid "ЖДАТЬ"
-msgstr ""
+msgstr "ATTENDRE"
 
 #    # game/core/screens.rpy:1084
 msgid "Зрителей: [public]"
-msgstr ""
+msgstr "Spectateurs : [public]"
 
 #    # game/core/screens.rpy:1125
 msgid "ПОЛЕЗНОЕ"
-msgstr ""
+msgstr "UTILE"
 
 #    # game/core/screens.rpy:1218
 msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
-msgstr ""
+msgstr "CARACTÉRISTIQUES ([kol] / [all])"
 
 #    # game/core/screens.rpy:1231
 msgid "В ПРОЦЕССЕ..."
-msgstr ""
+msgstr "DANS LE PROCESSUS..."
 
 #    # game/core/screens.rpy:1233
 msgid "ЗАВЕРШЕНЫ..."
-msgstr ""
+msgstr "TERMINÉ..."
 
 #    # game/core/screens.rpy:1236
 msgid "НЕ ОТКРЫТЫ..."
-msgstr ""
+msgstr "NON OUVERT..."
 
 #    # game/core/screens.rpy:1286
 msgid "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
-msgstr ""
+msgstr "{i}{b}Félicitations!{/b} Vous avez terminé cette fonctionnalité - 'opportunité' !{/i}"
 
 #    # game/core/screens.rpy:1288
 msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
-msgstr ""
+msgstr "{i}{b}Échec.{/b} Malheureusement, votre choix a conduit à une fin malheureuse, bloquant le développement ultérieur 'd'opportunité'.{/i}"
 
 #    # game/core/screens.rpy:1291
 msgid "Подсказка:"
-msgstr ""
+msgstr "Indice :"
 
 #    # game/core/screens.rpy:1349
 msgid "ВЕЩИ"
-msgstr ""
+msgstr "EFFETS PERSONELS"
 
 #    # game/core/screens.rpy:1397
 msgid "Ни один предмет не выбран"
-msgstr ""
+msgstr "Aucun élément sélectionné"
 
 #    # game/core/screens.rpy:1399
 msgid "В данный момент в инвентаре ничего нет"
-msgstr ""
+msgstr "Il n’y a rien dans l’inventaire pour le moment"
 
 #    # game/core/screens.rpy:1460
 msgid "ПЕРСОНАЖИ"
-msgstr ""
+msgstr "PERSONNAGES"
 
 #    # game/core/screens.rpy:1512
 msgid "Отношения с [char_name!t]:"
-msgstr ""
+msgstr "Relation avec [char_name!t]:"
 
 #    # game/core/screens.rpy:1520
 msgid "Запас сил:"
-msgstr ""
+msgstr "Réserve de force:"
 
 #    # game/core/screens.rpy:1525
 msgid "Тренированность:"
-msgstr ""
+msgstr "Aptitude:"
 
 #    # game/core/screens.rpy:1530
 msgid "Чистота:"
-msgstr ""
+msgstr "Propreté:"
 
 #    # game/core/screens.rpy:1537
 msgid "Навыки:"
-msgstr ""
+msgstr "Compétences:"
 
 #    # game/core/screens.rpy:1540
 msgid "Навык убеждения:"
-msgstr ""
+msgstr "Force de persuasion:"
 
 #    # game/core/screens.rpy:1545
 msgid "Навык скрытности:"
-msgstr ""
+msgstr "Discrétion:"
 
 #    # game/core/screens.rpy:1551
 msgid "Навык массажа:"
-msgstr ""
+msgstr "Compétence de massage:"
 
 #    # game/core/screens.rpy:1557
 msgid "Навык эро.массажа:"
-msgstr ""
+msgstr "Compétence de massage érotique:"
 
 #    # game/core/screens.rpy:1563
 msgid "Навык поцелуев:"
-msgstr ""
+msgstr "Compétence pour embrasser:"
 
 #    # game/core/screens.rpy:1569
 msgid "Сексуальный опыт:"
-msgstr ""
+msgstr "Expérience sexuelle :"
 
 #    # game/core/screens.rpy:1581
 msgid "Настроение:"
-msgstr ""
+msgstr "Humeur:"
 
 #    # game/core/screens.rpy:1587
 msgid "Уровень отношений:"
-msgstr ""
+msgstr "Niveau de relation :"
 
 #    # game/core/screens.rpy:1595
 msgid "Раскрепощенность:"
-msgstr ""
+msgstr "Émancipation intime:"
 
 #    # game/core/screens.rpy:1619
 msgid "Предпочтения в сладостях:"
-msgstr ""
+msgstr "Préférence de sucreries:"
 
 #    # game/core/screens.rpy:1623
 msgid "Любит \"Ritter Sport\""
-msgstr ""
+msgstr "Aime 'Ritter Sport'"
 
 #    # game/core/screens.rpy:1625
 msgid "Сгодится \"Raffaello\""
-msgstr ""
+msgstr "'Raffaello' fera l'affaire"
 
 #    # game/core/screens.rpy:1627
 msgid "Ненавидит \"Ferrero Rocher\""
-msgstr ""
+msgstr "Déteste 'Ferrero Rocher'"
 
 #    # game/core/screens.rpy:1631
 msgid "Предпочтения в массаже:"
-msgstr ""
+msgstr "Préférences de massage:"
 
 #    # game/core/screens.rpy:1634
 msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
-msgstr ""
+msgstr "- Après un massage des mains, Lisa peut se laisser masser les épaules (et plus encore) tout en faisant ses devoirs"
 
 #    # game/core/screens.rpy:1643
 msgid "Любит \"Ferrero Rocher\""
-msgstr ""
+msgstr "Aime 'Ferrero Rocher'"
 
 #    # game/core/screens.rpy:1645
 msgid "Сгодится \"Ritter Sport\""
-msgstr ""
+msgstr "'Ritter Sport' fera l'affaire"
 
 #    # game/core/screens.rpy:1647
 msgid "Ненавидит \"Raffaello\""
-msgstr ""
+msgstr "Déteste 'Raffaello'"
 
 #    # game/core/screens.rpy:1651
 msgid "Действие алкоголя:"
-msgstr ""
+msgstr "Effet de l’alcool:"
 
 #    # game/core/screens.rpy:1654
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #    # game/core/screens.rpy:1658
 msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
-msgstr ""
+msgstr "- Je ne me souviens pas de tout ce qui s’est passé pendant qu’elle était ivre"
 
 #    # game/core/screens.rpy:1664
 msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
-msgstr ""
+msgstr "- Si vous commencez un massage pour Alice dans la cour par ses jambes (bas des jambes), vous avez plus de chances de masser le reste de son corps"
 
 #    # game/core/screens.rpy:1666
 msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
-msgstr ""
+msgstr "- Vous pouvez masser les jambes (et plus encore) à Alice lors d'un massage devant la TV avec l'aide du chocolats à la liqueur"
 
 #    # game/core/screens.rpy:1668
 msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
-msgstr ""
+msgstr "- Si Alice s'est laissée masser les jambes devant la TV, vous pouvez la voir se masturber sur la caméra avant d'aller vous coucher"
 
 #    # game/core/screens.rpy:1676
 msgid "Задать одежду персонажа"
-msgstr ""
+msgstr "Définir les vêtements du personnage"
 
 #    # game/core/screens.rpy:1723
 msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
-msgstr ""
+msgstr "DÉFINIR LES VÊTEMENTS DU PERSONNAGE"
 
 #    # game/core/screens.rpy:1772
 msgid "Автосмена каждые 2 дня"
-msgstr ""
+msgstr "Changement automatique tous les 2 jours"
 
 #    # game/core/screens.rpy:1783
 msgid "Сделать текущей"
-msgstr ""
+msgstr "Utiliser comme vêtements actuel"
 
 #    # game/core/screens.rpy:1831
 msgid "[view_cam[1].public]"
-msgstr ""
+msgstr "[view_cam[1].public]"
 
