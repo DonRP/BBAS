@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-11 00:33\n"
+"PO-Revision-Date: 2021-11-02 12:26\n"
 
 # game/events/alice_cam.rpy:25## # translate crowdin cam0_alice_sleep_night_f2d9a8b1:
 msgid "[Max_07]Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?"
@@ -24,27 +24,27 @@ msgstr "[Max_02]是的！现在很清楚了...她决定看看...吸吮他的玩�
 msgid "[Max_06]Ого! Видимо, массаж ног с конфетами очень завёл мою сестрёнку! Может, мне попробовать помассировать ей не только ноги в следующий раз?!"
 msgstr "[Max_06]个奥戈！很显然， 用糖果按摩我的脚真的让我妹妹兴奋不一！也许下次我试着按摩她的腿？！"
 
-# game/events/alice_cam.rpy:40## # translate crowdin cam0_alice_sleep_night_bd2d0d90:
+# game/events/alice_cam.rpy:41## # translate crowdin cam0_alice_sleep_night_bd2d0d90:
 msgid "[Max_04]Ночное шоу закончилось. Теперь Алиса спит... без лифчика... Умничка!"
 msgstr "[Max_04]夜秀结束了。现在爱丽丝睡着了...没有领带...聪明！"
 
-# game/events/alice_cam.rpy:42## # translate crowdin cam0_alice_sleep_night_5eb0479b:
+# game/events/alice_cam.rpy:43## # translate crowdin cam0_alice_sleep_night_5eb0479b:
 msgid "[Max_09]Ночное шоу закончилось. Теперь Алиса спит... но не всё так, как должно быть... Кое-что она забыла с себя снять!"
 msgstr "[Max_09]夜秀结束了。现在爱丽丝睡着了...但不是所有应该的方式...她忘了脱掉一些东西！"
 
-# game/events/alice_cam.rpy:44## # translate crowdin cam0_alice_sleep_night_4b7e896c:
+# game/events/alice_cam.rpy:45## # translate crowdin cam0_alice_sleep_night_4b7e896c:
 msgid "[Max_01]Ночное шоу закончилось. Теперь Алиса спит..."
 msgstr "[Max_01]夜秀结束了。现在爱丽丝睡着了..."
 
-# game/events/alice_cam.rpy:52## # translate crowdin cam0_alice_sleep_night_64517693:
+# game/events/alice_cam.rpy:53## # translate crowdin cam0_alice_sleep_night_64517693:
 msgid "[Max_09]Эй, так вот же он! Что это он там делает, дрочит что ли? Да... Ого! Эрик стоит посреди ночи и дрочит на спящую Алису! А я и не знал, что Эрик любитель такого..."
 msgstr "[Max_09]嘿，他来了！他在那里干什么， 抽搐什么？是的...哦，大郭！埃里克半夜站着，抽搐着睡着的爱丽丝！我不知道埃里克是个业余爱好者..."
 
-# game/events/alice_cam.rpy:54## # translate crowdin cam0_alice_sleep_night_22b77a79:
+# game/events/alice_cam.rpy:55## # translate crowdin cam0_alice_sleep_night_22b77a79:
 msgid "[Max_09]Опа, Эрик! Что это он там делает, дрочит что ли? Да... Ого! Эрик стоит посреди ночи и дрочит на спящую Алису! А я и не знал, что Эрик любитель такого..."
 msgstr "[Max_09]嘿，他来了！他在那里干什么， 抽搐什么？是的...哦，大郭！埃里克半夜站着，抽搐着睡着的爱丽丝！我不知道埃里克是个业余爱好者..."
 
-# game/events/alice_cam.rpy:56## # translate crowdin cam0_alice_sleep_night_ba6907da:
+# game/events/alice_cam.rpy:58## # translate crowdin cam0_alice_sleep_night_ba6907da:
 msgid "[Max_03]Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?![nointeract]"
 msgstr "[Max_03]也许试着从阳台上仔细看看他， 但不知何故， 你甚至不敢相信他？！[nointeract]"
 
@@ -52,7 +52,7 @@ msgstr "[Max_03]也许试着从阳台上仔细看看他， 但不知何故， �
 msgid "[Max_03]Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой..."
 msgstr "[Max_03]是的！埃里克又对爱丽丝手淫了...就在她房间里，在她面前！这是一个 . . ."
 
-# game/events/alice_cam.rpy:72## # translate crowdin cam0_alice_sleep_night_e319aa8d:
+# game/events/alice_cam.rpy:73## # translate crowdin cam0_alice_sleep_night_e319aa8d:
 msgid "[Max_03]Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...[nointeract]"
 msgstr "[Max_03]是的！埃里克又对爱丽丝手淫了...就在她房间里，在她面前！这是一个 . . ."
 
@@ -60,7 +60,7 @@ msgstr "[Max_03]是的！埃里克又对爱丽丝手淫了...就在她房间里�
 msgid "[Max_09]Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь..."
 msgstr "[Max_09]埃里克又给爱丽丝手淫了...有什么好笑的？！连我都没想过..."
 
-# game/events/alice_cam.rpy:83## # translate crowdin cam0_alice_sleep_night_1d708372:
+# game/events/alice_cam.rpy:84## # translate crowdin cam0_alice_sleep_night_1d708372:
 msgid "[Max_09]Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...[nointeract]"
 msgstr "[Max_09]埃里克又给爱丽丝手淫了...有什么好笑的？！连我都没想过[nointeract]..."
 
@@ -160,11 +160,11 @@ msgstr "[Max_09]透过这个相机什么也看不见...能看另一个吗？"
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Алиса полностью оделась."
 msgstr "[Max_09]没有什么有趣的，我再也见不到这里了，妈妈已经穿好衣服了。"
 
-# game/events/alice_cam.rpy:327## # translate crowdin cam0_alice_dressed_shop_c8aa5176:
+# game/events/alice_cam.rpy:328## # translate crowdin cam0_alice_dressed_shop_c8aa5176:
 msgid "[Max_07]Ага! Алиса наряжается, чтобы отправиться на шопинг...[nointeract]"
 msgstr "[Max_07]妈妈打扮成去上班[nointeract]..."
 
-# game/events/alice_cam.rpy:338## # translate crowdin cam0_alice_dressed_shop_9d360f84:
+# game/events/alice_cam.rpy:339## # translate crowdin cam0_alice_dressed_shop_9d360f84:
 msgid "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
 msgstr "[Max_02]哦，是的！现在她很小[nointeract]..."
 
@@ -184,11 +184,11 @@ msgstr "[Max_04]她是多么诱人的屁股...我相信观众喜欢它！"
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Алиса полностью оделась."
 msgstr "[Max_09]没有什么有趣的，我再也见不到这里了，妈妈已经穿好衣服了。"
 
-# game/events/alice_cam.rpy:385## # translate crowdin cam0_alice_dressed_friend_bf45de39:
+# game/events/alice_cam.rpy:386## # translate crowdin cam0_alice_dressed_friend_bf45de39:
 msgid "[Max_07]Ага! Алиса наряжается, чтобы куда-то отправиться...[nointeract]"
 msgstr "[Max_07]是的！爱丽丝打扮成去某个地方[nointeract]..."
 
-# game/events/alice_cam.rpy:396## # translate crowdin cam0_alice_dressed_friend_9d360f84:
+# game/events/alice_cam.rpy:397## # translate crowdin cam0_alice_dressed_friend_9d360f84:
 msgid "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
 msgstr "[Max_02]哦，是的！现在她很小[nointeract]..."
 
@@ -208,11 +208,11 @@ msgstr "[Max_04]内裤在屁股上看起来不错。但是没有他们会更好.
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Алиса полностью оделась."
 msgstr "[Max_09]没有什么有趣的，我再也见不到这里了，妈妈已经穿好衣服了。"
 
-# game/events/alice_cam.rpy:437## # translate crowdin cam0_alice_dressed_club_cc04128a:
+# game/events/alice_cam.rpy:438## # translate crowdin cam0_alice_dressed_club_cc04128a:
 msgid "[Max_07]Ага! Алиса наряжается, чтобы отправиться в клуб...[nointeract]"
 msgstr "[Max_07]妈妈打扮成去上班[nointeract]..."
 
-# game/events/alice_cam.rpy:448## # translate crowdin cam0_alice_dressed_club_9d360f84:
+# game/events/alice_cam.rpy:449## # translate crowdin cam0_alice_dressed_club_9d360f84:
 msgid "[Max_02]О да! Сейчас она совсем голенькая...[nointeract]"
 msgstr "[Max_02]哦，是的！现在她很小[nointeract]..."
 
@@ -356,44 +356,44 @@ msgstr "[Max_01]爱丽丝从俱乐部回来。"
 msgid "[Max_09]Алисы не видно через эту камеру... Может посмотреть через другую?"
 msgstr "[Max_09]妈妈和埃里克不能通过这个相机看到...能看另一个吗？"
 
-# game/events/alice_cam.rpy:735## # translate crowdin cam0_blog_with_Eric_1210ca0b:
-msgid "[Max_09]{i}( Эрик о чём-то разговаривает с Алисой. И развалился так, как будто это его комната... ){/i}"
-msgstr "[Max_09]{i}（埃里克正在和爱丽丝谈论一些事情。他崩溃了，好像这是他的房间...）{/i}"
+# game/events/alice_cam.rpy:735## # translate crowdin cam0_blog_with_Eric_2dbcbfe9:
+msgid "[Max_09]{m}Эрик о чём-то разговаривает с Алисой. И развалился так, как будто это его комната...{/m}"
+msgstr ""
 
-# game/events/alice_cam.rpy:739## # translate crowdin cam0_blog_with_Eric_47a71eff:
-msgid "[Max_08]{i}( Ого! Да она при нём, похоже, переодеваться вздумала! Что сказать, Эрик умеет добиваться своего... ){/i}"
-msgstr "[Max_08]{i}（哦！ 是的， 她似乎想换衣服！{/i}"
+# game/events/alice_cam.rpy:739## # translate crowdin cam0_blog_with_Eric_f539e64b:
+msgid "[Max_08]{m}Ого! Да она при нём, похоже, переодеваться вздумала! Что сказать, Эрик умеет добиваться своего...{/m}"
+msgstr ""
 
-# game/events/alice_cam.rpy:744## # translate crowdin cam0_blog_with_Eric_9a973c1d:
-msgid "[Max_01]{i}( Голая и прекрасная Алиса! Сказала Эрику не подглядывать, только вот он точно во всю глазеет сквозь пальцы... Я бы уж точно рискнул так близко поглазеть на голую Алису! ){/i}"
-msgstr "[Max_01]{i}（裸体和可爱的爱丽丝！ 告诉埃里克不要偷看， 但他肯定通过他的手指的眼睛...我当然会冒险看裸体爱丽丝！){/i}"
+# game/events/alice_cam.rpy:744## # translate crowdin cam0_blog_with_Eric_dcf61634:
+msgid "[Max_01]{m}Голая и прекрасная Алиса! Сказала Эрику не подглядывать, только вот он точно во всю глазеет сквозь пальцы... Я бы уж точно рискнул так близко поглазеть на голую Алису!{/m}"
+msgstr ""
 
-# game/events/alice_cam.rpy:748## # translate crowdin cam0_blog_with_Eric_18d8cc91:
-msgid "[Max_07]{i}( Ухх... Алиса не спешит спрятать свои аппетитные сисечки под боди! Хм, а может она заметила, что Эрик всё равно подглядывает и таким образом дразнит его?! И не подозревает, что заодно и меня... ){/i}"
-msgstr "[Max_07]{i}（呃...爱丽丝不急于隐藏她开胃的猫头丸在身体下！嗯， 也许她注意到埃里克还在偷看， 所以取笑他？！他不知道我也是...{/i}"
+# game/events/alice_cam.rpy:748## # translate crowdin cam0_blog_with_Eric_d27dde4d:
+msgid "[Max_07]{m}Ухх... Алиса не спешит спрятать свои аппетитные сисечки под боди! Хм, а может она заметила, что Эрик всё равно подглядывает и таким образом дразнит его?! И не подозревает, что заодно и меня...{/m}"
+msgstr ""
 
-# game/events/alice_cam.rpy:753## # translate crowdin cam0_blog_with_Eric_913dbbe7:
-msgid "[Max_09]{i}( Понятно всё с вами, Алиса села на шею Эрику, а он и рад. Эх, Алиса... надеюсь, ты знаешь, что делаешь... ){/i}"
-msgstr "[Max_09]{i}（很明显， 爱丽丝坐在艾瑞卡的脖子上， 他很高兴。希望你知道你在做什么...{/i}"
+# game/events/alice_cam.rpy:753## # translate crowdin cam0_blog_with_Eric_c1401911:
+msgid "[Max_09]{m}Понятно всё с вами, Алиса села на шею Эрику, а он и рад. Эх, Алиса... надеюсь, ты знаешь, что делаешь...{/m}"
+msgstr ""
 
-# game/events/alice_cam.rpy:782## # translate crowdin cam0_blog_with_Eric_340b426d:
-msgid "[Max_08]{i}( Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю... ){/i}"
-msgstr "[Max_08]{i}（埃里克今天在爱丽丝的房间里，似乎想帮助写博客...但实际上， 看看爱丽丝的内衣， 我知道...{/i}"
+# game/events/alice_cam.rpy:782## # translate crowdin cam0_blog_with_Eric_4181192f:
+msgid "[Max_08]{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
+msgstr ""
 
 msgid "{i}Конечно{/i}"
 msgstr "{i}课程{/i}"
 
 #    # game/events/alice_cam.rpy:72
-msgid "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}拿起相机去爱丽丝的窗口 [颜色][_ch1.col]}（运气. 机会： [_ch1.vis]）{/颜色]{/i}"
+msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
+msgstr ""
 
 #    # game/events/alice_cam.rpy:72
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
 msgstr "{i}和他一起死， 让他手淫。/i]"
 
 #    # game/events/alice_cam.rpy:83
-msgid "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}拿相机去阳台 [颜色=[_ch1.col]}（运气. 机会： [_ch1.vis]）{/颜色]{/i}"
+msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
+msgstr ""
 
 #    # game/events/alice_cam.rpy:327
 msgid "{i}продолжать смотреть{/i}"
