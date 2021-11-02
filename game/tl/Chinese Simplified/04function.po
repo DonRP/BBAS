@@ -10,130 +10,130 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:17\n"
 
 msgid "+ к навыку скрытности"
 msgstr "+ 隐身技能"
 
-#    # game/core/04function.rpy:284
+#    # game/core/04function.rpy:304
 msgid "+ к навыку убеждения"
 msgstr "+ 说服技能"
 
-#    # game/core/04function.rpy:288
+#    # game/core/04function.rpy:308
 msgid "+ к навыку массажа"
 msgstr "+ 按摩技能"
 
-#    # game/core/04function.rpy:292
+#    # game/core/04function.rpy:312
 msgid "+ к навыку поцелуев"
 msgstr "+ 接吻技能"
 
-#    # game/core/04function.rpy:296
+#    # game/core/04function.rpy:316
 msgid "+ к навыку эротического массажа"
 msgstr "+ 色情按摩技能"
 
-#    # game/core/04function.rpy:300
+#    # game/core/04function.rpy:320
 msgid "+ к тренированности"
 msgstr "+ 训练"
 
-#    # game/core/04function.rpy:304
+#    # game/core/04function.rpy:324
 msgid "+ к навыку кунилингуса"
 msgstr "+ 库尼林格技能"
 
-#    # game/core/04function.rpy:308
+#    # game/core/04function.rpy:328
 msgid "+ к сексуальному опыту"
 msgstr "+ 性体验"
 
-#    # game/core/04function.rpy:312
+#    # game/core/04function.rpy:332
 msgid "+ к опыту анального секса"
 msgstr "+ 体验"
 
-#    # game/core/04function.rpy:321
+#    # game/core/04function.rpy:341
 msgid "{color=[red]}значительно ухудшилось{/color}"
 msgstr "[颜色=[red]}严重恶化{/颜色]"
 
-#    # game/core/04function.rpy:321
+#    # game/core/04function.rpy:341
 msgid "{color=[red]}ухудшилось{/color}"
 msgstr "[颜色=[red]}恶化{/颜色]"
 
-#    # game/core/04function.rpy:321
+#    # game/core/04function.rpy:341
 msgid "{color=[red]}немного ухудшилось{/color}"
 msgstr "[颜色=[red]}略有恶化{/颜色]"
 
-#    # game/core/04function.rpy:321
+#    # game/core/04function.rpy:341
 msgid "{color=[lime]}немного улучшилось{/color}"
 msgstr "[颜色=[lime]}略有恶化{/颜色]"
 
-#    # game/core/04function.rpy:321
+#    # game/core/04function.rpy:341
 msgid "{color=[lime]}улучшилось{/color}"
 msgstr "[颜色=[lime]}恶化{/颜色]"
 
-#    # game/core/04function.rpy:321
+#    # game/core/04function.rpy:341
 msgid "{color=[lime]}значительно улучшилось{/color}"
 msgstr "[颜色=[lime]}严重恶化{/颜色]"
 
-#    # game/core/04function.rpy:332
+#    # game/core/04function.rpy:352
 msgid "{color=[red]}снизилось{/color}"
 msgstr "[颜色=[red]}恶化{/颜色]"
 
-#    # game/core/04function.rpy:332
+#    # game/core/04function.rpy:352
 msgid "{color=[lime]}повысилось{/color}"
 msgstr "[颜色=[lime]}恶化{/颜色]"
 
-#    # game/core/04function.rpy:357
+#    # game/core/04function.rpy:380
 msgid "Настроение %s %s \n"
 "Её отношение к Максу %s"
 msgstr "心情 %s %s \n"
 "她对马克斯· %s的态度"
 
-#    # game/core/04function.rpy:359
+#    # game/core/04function.rpy:382
 msgid "Отношение %s к Максу %s"
 msgstr "%s 对马克斯· %s的态度"
 
-#    # game/core/04function.rpy:361
+#    # game/core/04function.rpy:384
 msgid "Настроение %s %s"
 msgstr "心情 %s %s"
 
-#    # game/core/04function.rpy:378
+#    # game/core/04function.rpy:401
 msgid "Так... В накладной написано следующее:"
 msgstr "所以...发票上写着以下内容："
 
-#    # game/core/04function.rpy:928
-msgid "Война"
-msgstr "联盟战争"
-
-#    # game/core/04function.rpy:928
-msgid "Враждебные"
-msgstr "敌对"
-
-#    # game/core/04function.rpy:928
-msgid "Плохие"
-msgstr "低品质"
-
-#    # game/core/04function.rpy:928
+#    # game/core/04function.rpy:990
 msgid "Прохладные"
 msgstr "凉爽"
 
-#    # game/core/04function.rpy:928
+#    # game/core/04function.rpy:992
+msgid "Война"
+msgstr "联盟战争"
+
+#    # game/core/04function.rpy:992
+msgid "Враждебные"
+msgstr "敌对"
+
+#    # game/core/04function.rpy:992
+msgid "Плохие"
+msgstr "低品质"
+
+#    # game/core/04function.rpy:992
 msgid "Неплохие"
 msgstr "一般"
 
-#    # game/core/04function.rpy:928
+#    # game/core/04function.rpy:992
 msgid "Хорошие"
 msgstr "優"
 
-#    # game/core/04function.rpy:928
+#    # game/core/04function.rpy:992
 msgid "Тёплые"
 msgstr "暖色"
 
-#    # game/core/04function.rpy:928
+#    # game/core/04function.rpy:992
 msgid "Дружеские"
 msgstr "友好"
 
-#    # game/core/04function.rpy:928
+#    # game/core/04function.rpy:992
 msgid "Близкие"
 msgstr "亲人"
 
-#    # game/core/04function.rpy:1231
+#    # game/core/04function.rpy:1295
 msgid "Конфеты закончились"
 msgstr "糖果用完了"
 
