@@ -10,82 +10,90 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-10-09 00:15\n"
+"PO-Revision-Date: 2021-11-02 11:16\n"
 
-msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
-msgstr "فشل {color=#E59400}{i}Persuasion! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:19
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "نجح {اللون = #00FF00}{i}الإقناع! {/i} {/اللون}\n"
 
-#    # game/core/02init.rpy:21
+#    # game/core/02init.rpy:19
 msgid "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
 msgstr "{لون = #00FF00}{i}ذهبت دون أن يلاحظها أحد! {/i} {/اللون}\n"
 
-#    # game/core/02init.rpy:22
-msgid "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
-msgstr "{لون = #E59400}{i}لاحظته! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:23
-msgid "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
-msgstr "{لون = #E59400}{i}محفوف بالمخاطر جدا! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:25
-msgid "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
-msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:26
-msgid "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
-msgstr "{اللون = #E59400}{i}أليس لم يعجبها التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:28
-msgid "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
-msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:29
-msgid "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
-msgstr "{اللون = #E59400}{i}أليس لم يعجبها التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:31
-msgid "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
-msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:32
-msgid "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
-msgstr "{اللون = #E59400}{i}أليس لم يعجبها التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:33
+#    # game/core/02init.rpy:20
 msgid "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
 msgstr "{لون = #00FF00}{i}نجح! {/i} {/اللون}\n"
 
-#    # game/core/02init.rpy:34
-msgid "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
-msgstr "{لون = #00FF00}{i}نجح! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:36
+#    # game/core/02init.rpy:21
 msgid "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
 msgstr "{اللون=#00FF00}{i}تمكنت من الاحتفاظ ب {/i}{/color}\n"
 
-#    # game/core/02init.rpy:37
-msgid "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
-msgstr "فشل {color=#E59400}{i}Persuasion! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:39
-msgid "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
-msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:40
-msgid "{color=#E59400}{i}Лизе не понравился поцелуй!{/i}{/color}\n"
-msgstr "{اللون = #E59400}{i}ليزا لم يحب قبلة! {/i} {/اللون}\n"
-
-#    # game/core/02init.rpy:42
+#    # game/core/02init.rpy:22
 msgid "{color=#00FF00}{i}Ей нравится!{/i}{/color}\n"
 msgstr "{لون = #00FF00}{i}نجح! {/i} {/اللون}\n"
 
-#    # game/core/02init.rpy:43
+#    # game/core/02init.rpy:23
+msgid "{color=#00FF00}{i}Повезло!{/i}{/color}\n"
+msgstr ""
+
+#    # game/core/02init.rpy:24
+msgid "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
+msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:25
+msgid "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
+msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:26
+msgid "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
+msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:27
+msgid "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
+msgstr "{اللون = #00FF00}{i}أليس أحب التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:29
+msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
+msgstr "فشل {color=#E59400}{i}Persuasion! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:30
+msgid "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
+msgstr "{لون = #E59400}{i}لاحظته! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:31
+msgid "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
+msgstr "{لون = #E59400}{i}محفوف بالمخاطر جدا! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:32
+msgid "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
+msgstr "{لون = #00FF00}{i}نجح! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:33
+msgid "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
+msgstr "فشل {color=#E59400}{i}Persuasion! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:34
 msgid "{color=#E59400}{i}Ей не нравится!{/i}{/color}\n"
 msgstr "{لون = #00FF00}{i}نجح! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:35
+msgid "{color=#E59400}{i}Не повезло!{/i}{/color}\n"
+msgstr ""
+
+#    # game/core/02init.rpy:36
+msgid "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
+msgstr "{اللون = #E59400}{i}أليس لم يعجبها التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:37
+msgid "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
+msgstr "{اللون = #E59400}{i}أليس لم يعجبها التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:38
+msgid "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
+msgstr "{اللون = #E59400}{i}أليس لم يعجبها التدليك! {/i} {/اللون}\n"
+
+#    # game/core/02init.rpy:39
+msgid "{color=#E59400}{i}Лизе не понравился поцелуй!{/i}{/color}\n"
+msgstr "{اللون = #E59400}{i}ليزا لم يحب قبلة! {/i} {/اللون}\n"
 
 #    # game/core/02init.rpy:79
 msgid "ВС"
@@ -228,6 +236,14 @@ msgid "Хотел извиниться за утренний инцидент...
 msgstr "أردت أن أعتذر عن حادثة الصباح..."
 
 #    # game/core/02init.rpy:128
+msgid "Извини, но я случайно увидел, как ты принимаешь душ..."
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "Хочу извиниться. Я бессовестно подглядывал за тобой утром..."
+msgstr ""
+
+#    # game/core/02init.rpy:128
 msgid "Загораешь?"
 msgstr "حمامات الشمس؟"
 
@@ -269,6 +285,26 @@ msgstr ""
 
 #    # game/core/02init.rpy:128
 msgid "Пора отшлёпать одну милую попку!"
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "Тебе помочь накрыть на стол?"
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "Я пришёл извиниться за то, что было утром. Я больше не буду."
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "Я снова подглядывал. Извини."
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "Ну давай, можешь меня наказывать..."
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "Я выбираю наказание от тебя..."
 msgstr ""
 
 #    # game/core/02init.rpy:128
@@ -324,6 +360,14 @@ msgid "Я хотел поговорить о Кире..."
 msgstr ""
 
 #    # game/core/02init.rpy:128
+msgid "Вот деньги, чтобы ты не лез к Лизе..."
+msgstr ""
+
+#    # game/core/02init.rpy:128
+msgid "У меня нет денег, чтобы ты не лез к Лизе."
+msgstr ""
+
+#    # game/core/02init.rpy:128
 msgid "Да тут всегда хорошая погода..."
 msgstr ""
 
@@ -376,6 +420,10 @@ msgid "Расскажи уже про тот случай из детства м
 msgstr ""
 
 #    # game/core/02init.rpy:128
+msgid "Когда будет новая фотосессия, тётя Кира?"
+msgstr ""
+
+#    # game/core/02init.rpy:128
 msgid "О школе..."
 msgstr ""
 
@@ -401,10 +449,6 @@ msgstr ""
 
 #    # game/core/02init.rpy:128
 msgid "Насчёт успеваемости..."
-msgstr ""
-
-#    # game/core/02init.rpy:128
-msgid "Ну как, ты подумала о моих условиях?"
 msgstr ""
 
 #    # game/core/02init.rpy:128
@@ -507,95 +551,96 @@ msgstr "ما الجديد يا (أوليفيا)؟"
 msgid "Рад тебя видеть, Оливия!"
 msgstr "من الجيد رؤيتك يا أوليفيا!"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:128
+msgid "Ну как, всё повторила? \n"
+"{i}(проводить Лизу в школу){/i}"
+msgstr ""
+
+#    # game/core/02init.rpy:235
 msgid "Одежда"
 msgstr "ملابس"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Книги"
 msgstr "كتب"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Продукты"
 msgstr "المنتجات"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Электроника"
 msgstr "إلكترونيات"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Товары 18+"
 msgstr "المنتجات 18+"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Косметика"
 msgstr "مستحضرات التجميل"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Украшения"
 msgstr "زينات"
 
-#    # game/core/02init.rpy:219
+#    # game/core/02init.rpy:235
 msgid "Другое"
 msgstr "أخرى"
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "А у меня есть то, о чём ты мечтала..."
 msgstr "ولدي ما حلمت به..."
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня для тебя подарок {i}(Халат){/i}"
 msgstr "لدي هدية لك {i}(رداء الحمام){/i}"
 
-#    # game/core/02init.rpy:230
-msgid "{color=#808080}У меня для тебя вкусняшка! \n"
-" (нужно выждать несколько дней){/color}"
-msgstr "{لون = #808080}لدي شيء جيد بالنسبة لك! \n"
-" (تحتاج إلى الانتظار بضعة أيام){/color}"
-
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня для тебя вкусняшка!"
 msgstr "لدي وجبة لذيذة لك!"
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня есть кое-что запрещённое..."
 msgstr "لدي شيء ممنوع..."
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "Угадай: маленькое, чёрненькое..."
 msgstr "تخمين ما: صغيرة، أسود..."
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня для тебя одна книжка..."
 msgstr "لدي كتاب واحد لك..."
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня снова для тебя книжка..."
 msgstr "لدي كتاب لك مرة أخرى..."
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "И снова у меня для тебя книжка..."
 msgstr "مرة أخرى، لدي كتاب لك..."
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня для тебя подарок {i}(Пижама){/i}"
 msgstr "لدي هدية لك {i}(رداء الحمام){/i}"
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "У меня есть кое-что, о чём мы беседовали..."
 msgstr "لدي شيء تحدثنا عنه..."
 
-#    # game/core/02init.rpy:230
-msgid "{color=#808080}Прикупил для тебя немного сладенького! \n"
-" (нужно выждать несколько дней){/color}"
-msgstr "{اللون = #808080}اشترى بعض الحلو بالنسبة لك! \n"
-" (تحتاج إلى الانتظار بضعة أيام){/color}"
-
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
 msgid "Прикупил для тебя немного сладенького!"
 msgstr "اشترى قليلا الحلو بالنسبة لك!"
 
-#    # game/core/02init.rpy:230
+#    # game/core/02init.rpy:246
+msgid "У меня для тебя подарок {i}(Кожаный костюм){/i}"
+msgstr ""
+
+#    # game/core/02init.rpy:246
+msgid "У меня для тебя подарок {i}(Плётка){/i}"
+msgstr ""
+
+#    # game/core/02init.rpy:246
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "أمي، اشتريت لك ملابس أخف!"
 
