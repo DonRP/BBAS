@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-26 08:57\n"
+"PO-Revision-Date: 2021-11-02 12:39\n"
 
 # game/dialogues/christina.rpy:7## # translate crowdin christina_first_talk_a072d515:
 msgid "[Christine_03]А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
@@ -68,7 +68,7 @@ msgstr ""
 msgid "[Max_07]Не правда! Два раза по десять!"
 msgstr ""
 
-# game/dialogues/christina.rpy:25## # translate crowdin christina_first_talk_0f071789:
+# game/dialogues/christina.rpy:26## # translate crowdin christina_first_talk_0f071789:
 msgid "[Christine_03]А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить...[nointeract]"
 msgstr ""
 
