@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-06-19 20:09
+﻿# TODO: Translation updated at 2021-11-02 12:54
 
 ## # translate crowdin strings:#    # game/extra/extra.rpy:56
 msgid "Новый купальник Лизы"
@@ -23,6 +23,14 @@ msgstr "Ножкам приятно"
 #    # game/extra/extra.rpy:56
 msgid "Помассирую не только ножки"
 msgstr "Помассирую не только ножки"
+
+#    # game/extra/extra.rpy:56
+msgid "Могу не только руками"
+msgstr "Могу не только руками"
+
+#    # game/extra/extra.rpy:56
+msgid "Ответная благодарность"
+msgstr "Ответная благодарность"
 
 #    # game/extra/extra.rpy:56
 msgid "Первый массаж ног"
@@ -69,6 +77,10 @@ msgid "Я была плохой девочкой"
 msgstr "Я была плохой девочкой"
 
 #    # game/extra/extra.rpy:56
+msgid "Как тебе такое?"
+msgstr "Как тебе такое?"
+
+#    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
 msgstr "Я принес тебе полотенце!"
 
@@ -79,6 +91,14 @@ msgstr "Первые снимки для блога Алисы"
 #    # game/extra/extra.rpy:56
 msgid "Я обошёл Эрика с подарком для Алисы"
 msgstr "Я обошёл Эрика с подарком для Алисы"
+
+#    # game/extra/extra.rpy:56
+msgid "Попка, которую я теперь могу отшлёпать"
+msgstr "Попка, которую я теперь могу отшлёпать"
+
+#    # game/extra/extra.rpy:56
+msgid "Меня нужно наказать именно так!"
+msgstr "Меня нужно наказать именно так!"
 
 #    # game/extra/extra.rpy:56
 msgid "Смотрим порно вместе с тётей"
@@ -129,6 +149,18 @@ msgid "Немного БДСМ от Киры"
 msgstr "Немного БДСМ от Киры"
 
 #    # game/extra/extra.rpy:56
+msgid "Хватит мять сиськи"
+msgstr "Хватит мять сиськи"
+
+#    # game/extra/extra.rpy:56
+msgid "И помылись, и порезвились"
+msgstr "И помылись, и порезвились"
+
+#    # game/extra/extra.rpy:56
+msgid "Кто нас фотографирует?"
+msgstr "Кто нас фотографирует?"
+
+#    # game/extra/extra.rpy:56
 msgid "Вкусные уроки с сестрёнкой"
 msgstr "Вкусные уроки с сестрёнкой"
 
@@ -143,6 +175,22 @@ msgstr "Больше, чем помощь с домашним заданием"
 #    # game/extra/extra.rpy:56
 msgid "Ужастики в обнимку с Лизой"
 msgstr "Ужастики в обнимку с Лизой"
+
+#    # game/extra/extra.rpy:56
+msgid "Без майки куда интереснее"
+msgstr "Без майки куда интереснее"
+
+#    # game/extra/extra.rpy:56
+msgid "Долой смущение"
+msgstr "Долой смущение"
+
+#    # game/extra/extra.rpy:56
+msgid "Это точно триллер-детектив?"
+msgstr "Это точно триллер-детектив?"
+
+#    # game/extra/extra.rpy:56
+msgid "Полотенце снова сползает..."
+msgstr "Полотенце снова сползает..."
 
 #    # game/extra/extra.rpy:56
 msgid "Урок по минету от мамы и Эрика"
@@ -176,35 +224,35 @@ msgstr "Как долго это нужно делать?"
 msgid "Кружевное боди для Алисы от Эрика"
 msgstr "Кружевное боди для Алисы от Эрика"
 
-#    # game/extra/extra.rpy:139
+#    # game/extra/extra.rpy:155
 msgid "ВОСПОМИНАНИЯ"
 msgstr "ВОСПОМИНАНИЯ"
 
-#    # game/extra/extra.rpy:142
+#    # game/extra/extra.rpy:158
 msgid "ФОТОСНИМКИ"
 msgstr "ФОТОСНИМКИ"
 
-#    # game/extra/extra.rpy:193
+#    # game/extra/extra.rpy:209
 msgid "Воспоминание недоступно"
 msgstr "Воспоминание недоступно"
 
-#    # game/extra/extra.rpy:199
+#    # game/extra/extra.rpy:215
 msgid "Воспоминание ещё не открыто"
 msgstr "Воспоминание ещё не открыто"
 
-#    # game/extra/extra.rpy:205
+#    # game/extra/extra.rpy:221
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr "В вашей коллекции ещё нет фотоснимков."
 
-#    # game/extra/extra.rpy:274
+#    # game/extra/extra.rpy:290
 msgid "Предыдущий снимок"
 msgstr "Предыдущий снимок"
 
-#    # game/extra/extra.rpy:280
+#    # game/extra/extra.rpy:296
 msgid "Вернуться в коллекцию"
 msgstr "Вернуться в коллекцию"
 
-#    # game/extra/extra.rpy:285
+#    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "Следующий снимок"
 
