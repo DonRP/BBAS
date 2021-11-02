@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:17\n"
 
 # game/dialogues/alicetalk.rpy:17## # translate crowdin AliceTalkStart_50ef2ada:
 msgid "[Alice_00]Ну, Макс, чего надо?[nointeract]"
@@ -5893,7 +5893,7 @@ msgstr "Lo scoprirai... Un tempo..."
 
 #    # game/dialogues/alicetalk.rpy:386
 msgid "От конфетки не поправишься! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-msgstr "Non puoi migliorare dalle caramelle! {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
+msgstr "Le caramelle non possono farti sentire meglio! {color=[_ch3.col]}(Persuasione. Possibilità: [_ch3.vis]){/color}"
 
 #    # game/dialogues/alicetalk.rpy:395
 msgid "Ну, хорошо {i}(начать массаж){/i}"
