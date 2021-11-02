@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-06-19 20:09
+﻿# TODO: Translation updated at 2021-11-02 12:54
 
 ## # translate crowdin strings:#    # game/core/characters.rpy:230
 msgid "Мама"
