@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 12:27\n"
+"PO-Revision-Date: 2021-11-02 12:37\n"
 
 # game/script.rpy:43## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
@@ -68,6 +68,7 @@ msgstr "No recuerdo bien la [Max_14]del Padre. Se fue cuando yo tenía unos cinc
 msgid "[Max_14]Приёмного отца я плохо помню. Он ушёл, когда мне было лет восемь. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
 msgstr "[Max_14]No recuerdo bien a mi padre adoptivo. Se fue cuando yo tenía unos ocho años. Mamá no quiere decirme lo que pasó entonces... Hubo rumores de que las cosas le habían ido cuesta arriba. No hemos oído hablar de él desde entonces. Hasta el mes pasado, cuando llegó esa chica..."
 
+# game/script.rpy:74## # translate crowdin intro_fdc8ae44:
 msgid "[Maya_01]Здравствуйте, меня зовут Майя, я адвокат вашего бывшего мужа. У вас найдётся для меня минутка?"
 msgstr "[Maya_01]Hola, mi nombre es Maya, soy la abogada de tu ex marido. ¿Tienes un momento para mí?"
 
@@ -75,6 +76,7 @@ msgstr "[Maya_01]Hola, mi nombre es Maya, soy la abogada de tu ex marido. ¿Tien
 msgid "[Ann_00]Здравствуйте, да, конечно. Меня зовут Анна, но вы и так это знаете похоже. Так в чём дело? С ним что-то случилось?"
 msgstr "[Ann_00]Hola, sí, por supuesto. Mi nombre es Anna, pero ya lo sabes de manera similar. Entonces, ¿cuál es el gran problema? ¿Le pasó algo?"
 
+# game/script.rpy:76## # translate crowdin intro_32cb457a:
 msgid "[Maya_03]Не переживайте, он жив-здоров, но сам приехать не смог. Сказал, что вы будете не очень рады, хотя новости у меня для вас отличные!"
 msgstr "[Maya_03]No te preocupes, está vivo y bien, pero no pudo venir. Dijo que no estarás muy feliz, ¡aunque tengo grandes noticias para ti!"
 
@@ -82,6 +84,7 @@ msgstr "[Maya_03]No te preocupes, está vivo y bien, pero no pudo venir. Dijo qu
 msgid "[Ann_01]Любопытно. И что же это за новости спустя столько лет?"
 msgstr "[Ann_01]Curioso. ¿Y qué tipo de noticia es esta después de tantos años?"
 
+# game/script.rpy:78## # translate crowdin intro_a97592f1:
 msgid "[Maya_02]Я принесла документы на недвижимость, которую он решил передать вам. Если вы их подпишите, то станете полноправным владельцем."
 msgstr "[Maya_02]le traje los documentos de la propiedad que decidió entregarle. Si los firmas, te convertirás en un propietario completo."
 
@@ -89,6 +92,7 @@ msgstr "[Maya_02]le traje los documentos de la propiedad que decidió entregarle
 msgid "[Ann_17]Что-то я не поняла. Это совсем на него не похоже. Какая недвижимость? О чём речь?"
 msgstr "[Ann_17]Algo que no entendí. No se parece en absoluto a él. ¿Qué tipo de propiedad? ¿De qué se trata?"
 
+# game/script.rpy:80## # translate crowdin intro_ce5a5dae:
 msgid "[Maya_01]Это двухэтажный дом на юге страны, который построила его компания. А насчёт того, что это на него не похоже... В последние пару лет он очень изменился. Не уверена, что эти изменения пошли на пользу бизнесу."
 msgstr "[Maya_01]Esta es una casa de dos pisos en el sur del país, que fue construida por su empresa. En cuanto al hecho de que no se parece a él ... Ha cambiado mucho en los últimos años. No estoy seguro de que estos cambios hayan beneficiado al negocio."
 
@@ -96,6 +100,7 @@ msgstr "[Maya_01]Esta es una casa de dos pisos en el sur del país, que fue cons
 msgid "[Ann_01]Что-то вы меня озадачили. В чём подвох? Я что-то должна? Столько лет никаких вестей, ничего, и тут... дом. И что там с его бизнесом?"
 msgstr "[Ann_01]Algo que me desconcertó. ¿Cuál es el truco? ¿Debo algo? Tantos años sin noticias, nada, y aquí... Casa. ¿Y qué pasa con su negocio?"
 
+# game/script.rpy:82## # translate crowdin intro_60f50736:
 msgid "[Maya_02]В данный момент он продал большую часть недвижимости, чтобы погасить налоговую задолженность, но этот дом решил передать вам. Я не знаю причин, да они меня и не касаются."
 msgstr "[Maya_02]Por el momento, vendió la mayor parte de la propiedad para pagar la deuda tributaria, pero esta casa decidió darle. No sé las razones, y no me preocupan."
 
@@ -103,6 +108,7 @@ msgstr "[Maya_02]Por el momento, vendió la mayor parte de la propiedad para pag
 msgid "[Ann_00]Вы знаете, Майя, я не могу принять такой... подарок. Во-первых, я не в курсе его махинаций или что он там придумал, а во-вторых, мы с ним уже столько лет не общались, и мне не нужно от него ничего!"
 msgstr "[Ann_00]sabes, Maya, no puedo aceptar eso... regalo. En primer lugar, no soy consciente de sus maquinaciones ni de lo que se le ocurrió allí, y en segundo lugar, no nos hemos comunicado con él durante tantos años, ¡y no necesito nada de él!"
 
+# game/script.rpy:84## # translate crowdin intro_734c8765:
 msgid "[Maya_01]Да, он предупреждал меня о такой вашей реакции... С юридической точки зрения дом абсолютно чист, и вы ничем не рискуете. Кроме того, ваши дети растут и им нужно место, своё личное пространство..."
 msgstr "[Maya_01]sí, me advirtió sobre tu reacción... Desde un punto de vista legal, la casa está absolutamente limpia y no arriesgas nada. Además, tus hijos están creciendo y necesitan un lugar, su propio espacio personal..."
 
@@ -110,6 +116,7 @@ msgstr "[Maya_01]sí, me advirtió sobre tu reacción... Desde un punto de vista
 msgid "[Ann_14]С этим не поспоришь. У меня есть время подумать обо всём?"
 msgstr "[Ann_14]No se puede discutir con eso. ¿Tengo tiempo para pensar en todo?"
 
+# game/script.rpy:87## # translate crowdin intro_8e21e5ab:
 msgid "[Maya_03]Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания.[nointeract]"
 msgstr "[Maya_03]Por supuesto, Anna. Aquí está mi tarjeta de presentación. Llame cuando esté listo para tomar una decisión. También dejaré copias de todos los documentos. Adiós.[nointeract]"
 
