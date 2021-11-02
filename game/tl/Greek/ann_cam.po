@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-11-02 12:35\n"
 
 # game/events/ann_cam.rpy:8## # translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
@@ -56,11 +56,11 @@ msgstr ""
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, мама полностью оделась."
 msgstr ""
 
-# game/events/ann_cam.rpy:131## # translate crowdin cam0_ann_dressed_work_2a4aa6ca:
+# game/events/ann_cam.rpy:132## # translate crowdin cam0_ann_dressed_work_2a4aa6ca:
 msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
 msgstr ""
 
-# game/events/ann_cam.rpy:142## # translate crowdin cam0_ann_dressed_work_ecd759fc:
+# game/events/ann_cam.rpy:143## # translate crowdin cam0_ann_dressed_work_ecd759fc:
 msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
 msgstr ""
 
@@ -72,11 +72,11 @@ msgstr ""
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, мама полностью оделась."
 msgstr ""
 
-# game/events/ann_cam.rpy:178## # translate crowdin cam0_ann_dressed_shop_5b93ed0b:
+# game/events/ann_cam.rpy:179## # translate crowdin cam0_ann_dressed_shop_5b93ed0b:
 msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
 msgstr ""
 
-# game/events/ann_cam.rpy:189## # translate crowdin cam0_ann_dressed_shop_ecd759fc:
+# game/events/ann_cam.rpy:190## # translate crowdin cam0_ann_dressed_shop_ecd759fc:
 msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
 msgstr ""
 
@@ -148,7 +148,11 @@ msgstr ""
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/ann_cam.rpy:343## # translate crowdin cam0_ann_tv_b8dd0b35:
+# game/events/ann_cam.rpy:344## # translate crowdin cam0_ann_tv_8b464610:
+msgid "[Max_01]{m}Как приятно видеть маму без Эрика. Может составить ей компанию, чтобы она не скучала?{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:346## # translate crowdin cam0_ann_tv_b8dd0b35:
 msgid "[Max_01]Мама, как всегда, отдыхает за просмотром сериала или фильма."
 msgstr ""
 
