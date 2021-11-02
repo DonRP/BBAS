@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:18\n"
 
 # game/events/eric.rpy:12## # translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -1185,7 +1185,7 @@ msgstr "Corretto. Ti odio!"
 
 #    # game/events/eric.rpy:181
 msgid "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
-msgstr "{color=[orange]}{i}{b}Warning:{/b} La tua relazione si è deteriorata in modo significativo! {/i} {/colore}"
+msgstr "{color=[orange]}{i}{b}Attenzione:{/b} La vostra relazione si è notevolmente peggiorata!{/i}{/color}"
 
 #    # game/events/eric.rpy:194
 msgid "Что? Ты ошибаешься!"
