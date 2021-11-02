@@ -10,1136 +10,1028 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-29 09:57\n"
+"PO-Revision-Date: 2021-11-02 12:35\n"
 
-# game/dialogues/erictalk.rpy:16## # translate crowdin EricTalkStart_210d83ab:
+# game/dialogues/erictalk.rpy:17## # translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
 msgstr "[Eric_01]¿Qué querías, Max?[nointeract]"
 
-# game/dialogues/erictalk.rpy:29## # translate crowdin eric_needmoney_e5486f7f:
+# game/dialogues/erictalk.rpy:19## # translate crowdin EricTalkStart_4e1c2d3f:
+msgid "[Eric_13]Макс, будь добр, отвали пока нафиг! Не до тебя сейчас..."
+msgstr ""
+
+# game/dialogues/erictalk.rpy:20## # translate crowdin EricTalkStart_3310c6d6:
+msgid "[Max_02]Ну, как скажешь."
+msgstr ""
+
+# game/dialogues/erictalk.rpy:35## # translate crowdin eric_needmoney_e5486f7f:
 msgid "[Eric_09]Ну так заработай! Причём тут я?"
 msgstr "[Eric_09]Bueno, ¡gásalo! ¿Qué hay conmigo?"
 
-# game/dialogues/erictalk.rpy:30## # translate crowdin eric_needmoney_4a3382d7:
+# game/dialogues/erictalk.rpy:36## # translate crowdin eric_needmoney_4a3382d7:
 msgid "[Max_09]Мы договаривались..."
 msgstr "[Max_09]Acordamos..."
 
-# game/dialogues/erictalk.rpy:31## # translate crowdin eric_needmoney_b2da0d5e:
+# game/dialogues/erictalk.rpy:37## # translate crowdin eric_needmoney_b2da0d5e:
 msgid "[Eric_03]Да? Ну, ладно... Держи. Только на глаза не попадайся..."
 msgstr "[Eric_03]sí? Bien... Espera. Simplemente no te dejes atrapar en el ojo ..."
 
-# game/dialogues/erictalk.rpy:32## # translate crowdin eric_needmoney_82324783:
+# game/dialogues/erictalk.rpy:38## # translate crowdin eric_needmoney_82324783:
 msgid "[Max_01]Хорошо..."
 msgstr "[Max_01]¡Está bien..."
 
-# game/dialogues/erictalk.rpy:44## # translate crowdin eric_voy_wtf_17303bac:
+# game/dialogues/erictalk.rpy:50## # translate crowdin eric_voy_wtf_17303bac:
 msgid "[Eric_05]А можно конкретнее? О чём речь?"
 msgstr "[Eric_05]¿Puedes ser más específico? ¿De qué se trata?"
 
-# game/dialogues/erictalk.rpy:45## # translate crowdin eric_voy_wtf_8fb9a89b:
+# game/dialogues/erictalk.rpy:51## # translate crowdin eric_voy_wtf_8fb9a89b:
 msgid "[Max_15]Меня наказали за подглядывания!"
 msgstr "[Max_15]¡me castigaron por espiar!"
 
-# game/dialogues/erictalk.rpy:46## # translate crowdin eric_voy_wtf_f081506b:
+# game/dialogues/erictalk.rpy:52## # translate crowdin eric_voy_wtf_f081506b:
 msgid "[Eric_08]Ну, и что здесь не так? Подглядывал - наказали... Преступление и наказание. Классика!"
 msgstr "[Eric_08]Bueno, ¿qué hay de malo en eso? Peeped - castigado... Crimen y castigo. ¡Clásico!"
 
-# game/dialogues/erictalk.rpy:47## # translate crowdin eric_voy_wtf_9e2a702c:
+# game/dialogues/erictalk.rpy:53## # translate crowdin eric_voy_wtf_9e2a702c:
 msgid "[Max_09]Ты обещал, что можно будет подглядывать без наказаний!"
 msgstr "[Max_09]¡Prometiste que sería posible espiar sin castigo!"
 
-# game/dialogues/erictalk.rpy:49## # translate crowdin eric_voy_wtf_03406ea1:
+# game/dialogues/erictalk.rpy:56## # translate crowdin eric_voy_wtf_03406ea1:
 msgid "[Eric_06]Я такое обещал? Хм... Может быть. То есть, ты хочешь, чтобы я убедил твою маму, что это нормально, когда она трахается на твоих глазах и нужно молчать?[nointeract]"
 msgstr "[Eric_06]me lo prometí? Hmm... Podría ser. ¿Así que quieres que convenza a tu mamá de que está bien que ella folle frente a ti y se quede callada?[nointeract]"
 
-# game/dialogues/erictalk.rpy:52## # translate crowdin eric_voy_wtf_23eef4f0:
+# game/dialogues/erictalk.rpy:58## # translate crowdin eric_voy_wtf_23eef4f0:
 msgid "[Eric_03]А как? Через раз? Один раз можно, другой нет? Так чего именно ты хочешь?"
 msgstr "[Eric_03]¿Cómo? ¿Después de un tiempo? ¿Una vez puedes, la otra no? Entonces, ¿qué es exactamente lo que quieres?"
 
-# game/dialogues/erictalk.rpy:55## # translate crowdin eric_voy_wtf_a0fb08f0:
+# game/dialogues/erictalk.rpy:61## # translate crowdin eric_voy_wtf_a0fb08f0:
 msgid "[Eric_03]Ну у тебя и запросы, Макс! Я даже не знаю... Ты точно этого хочешь?"
 msgstr "[Eric_03]Bueno, tienes peticiones, Max! Ni siquiera lo sé... ¿Es eso lo que quieres?"
 
-# game/dialogues/erictalk.rpy:57## # translate crowdin eric_voy_wtf_1fa7083f:
+# game/dialogues/erictalk.rpy:63## # translate crowdin eric_voy_wtf_1fa7083f:
 msgid "[Max_07]Я хочу смотреть и чтобы мне ничего за это не было!"
 msgstr "[Max_07]quiero ver y que no tengo nada para ello!"
 
-# game/dialogues/erictalk.rpy:59## # translate crowdin eric_voy_wtf_32c38a21:
+# game/dialogues/erictalk.rpy:66## # translate crowdin eric_voy_wtf_32c38a21:
 msgid "[Eric_01]Да уж. Ну, раз мы с тобой теперь друзья, я что-нибудь придумаю. Только это будет не сразу, а постепенно, но думаю, что смогу настроить маму так, как нужно...[nointeract]"
 msgstr "[Eric_01]sí. Bueno, ya que tú y yo somos amigos ahora, se me ocurrió algo. Solo que no será de inmediato, sino gradualmente, pero creo que podré configurar a mi madre según sea necesario ...[nointeract]"
 
-# game/dialogues/erictalk.rpy:62## # translate crowdin eric_voy_wtf_0365ec8f:
+# game/dialogues/erictalk.rpy:68## # translate crowdin eric_voy_wtf_0365ec8f:
 msgid "[Eric_02]Не понял. Как я делаю... что?"
 msgstr "[Eric_02]no entendió. Como lo hago... ¿Un qué?"
 
-# game/dialogues/erictalk.rpy:63## # translate crowdin eric_voy_wtf_ca50ebd8:
+# game/dialogues/erictalk.rpy:69## # translate crowdin eric_voy_wtf_ca50ebd8:
 msgid "[Max_09]Ну... Манипулируешь мамой, например..."
 msgstr "[Max_09]Bueno... Manipulas a tu madre, por ejemplo..."
 
-# game/dialogues/erictalk.rpy:65## # translate crowdin eric_voy_wtf_a30920d7:
+# game/dialogues/erictalk.rpy:72## # translate crowdin eric_voy_wtf_a30920d7:
 msgid "[Eric_03]Так я тебе и выдал свой секрет! Не сейчас. Может быть, однажды расскажу. Но поверь, мой способ очень эффективен! Так что, слушайся меня и я не буду настраивать никого против тебя...[nointeract]"
 msgstr "[Eric_03]¡Así que te di mi secreto! Ahora no. Tal vez te lo diga algún día. Pero créeme, ¡mi método es muy efectivo! Así que, obedeceme y no volveré a nadie contra ti...[nointeract]"
 
-# game/dialogues/erictalk.rpy:68## # translate crowdin eric_voy_wtf_adbd392c:
+# game/dialogues/erictalk.rpy:74## # translate crowdin eric_voy_wtf_adbd392c:
 msgid "[Eric_04]А, думай что хочешь. Но то, что теперь твоя жизнь в моих руках, это факт. И теперь я тебе буду давать немного меньше денег, раз у тебя такие специфичные требования насчёт мамы..."
 msgstr "[Eric_04]A, piensa lo que quieras. Pero el hecho de que ahora tu vida esté en mis manos es un hecho. Y ahora te voy a dar un poco menos de dinero, ya que tienes requisitos tan específicos sobre mamá..."
 
-# game/dialogues/erictalk.rpy:69## # translate crowdin eric_voy_wtf_6b7811d2:
+# game/dialogues/erictalk.rpy:75## # translate crowdin eric_voy_wtf_6b7811d2:
 msgid "[Max_10]Так не честно! Мы об этом сразу договаривались!"
 msgstr "[Max_10]¡No es justo! ¡Acordamos esto de inmediato!"
 
-# game/dialogues/erictalk.rpy:72## # translate crowdin eric_voy_wtf_dcfbc779:
+# game/dialogues/erictalk.rpy:78## # translate crowdin eric_voy_wtf_dcfbc779:
 msgid "[Eric_00]Да, раз у тебя такие необычные запросы насчёт твоей мамы, то теперь я тебе буду давать чуть меньше денег, чем собирался..."
 msgstr "[Eric_00]Sí, ya que tienes solicitudes tan inusuales sobre tu madre, ahora te daré un poco menos de dinero del que iba a ..."
 
-# game/dialogues/erictalk.rpy:73## # translate crowdin eric_voy_wtf_6b7811d2_1:
+# game/dialogues/erictalk.rpy:79## # translate crowdin eric_voy_wtf_6b7811d2_1:
 msgid "[Max_10]Так не честно! Мы об этом сразу договаривались!"
 msgstr "[Max_10]¡No es justo! ¡Acordamos esto de inmediato!"
 
-# game/dialogues/erictalk.rpy:76## # translate crowdin eric_voy_wtf_dcfbc779_1:
+# game/dialogues/erictalk.rpy:82## # translate crowdin eric_voy_wtf_dcfbc779_1:
 msgid "[Eric_00]Да, раз у тебя такие необычные запросы насчёт твоей мамы, то теперь я тебе буду давать чуть меньше денег, чем собирался..."
 msgstr "[Eric_00]Sí, ya que tienes solicitudes tan inusuales sobre tu madre, ahora te daré un poco menos de dinero del que iba a ..."
 
-# game/dialogues/erictalk.rpy:77## # translate crowdin eric_voy_wtf_6b7811d2_2:
+# game/dialogues/erictalk.rpy:83## # translate crowdin eric_voy_wtf_6b7811d2_2:
 msgid "[Max_10]Так не честно! Мы об этом сразу договаривались!"
 msgstr "[Max_10]¡No es justo! ¡Acordamos esto de inmediato!"
 
-# game/dialogues/erictalk.rpy:78## # translate crowdin eric_voy_wtf_553b8dcf:
+# game/dialogues/erictalk.rpy:85## # translate crowdin eric_voy_wtf_553b8dcf:
 msgid "[Eric_01]Вообще, жизнь - штука несправедливая. А учитывая, что твоя ещё и в моих руках, то жаловаться никому не стоит, даже мне. Ну всё, иди займись чем-нибудь...[nointeract]"
 msgstr "[Eric_01]En general, la vida es algo injusto. Y dado que la tuya también está en mis manos, entonces nadie debería quejarse, ni siquiera yo. Bueno, ve a hacer algo...[nointeract]"
 
-# game/dialogues/erictalk.rpy:109## # translate crowdin lessons_from_Eric_first_bj_fa9a17f5:
+# game/dialogues/erictalk.rpy:122## # translate crowdin lessons_from_Eric_first_bj_fa9a17f5:
 msgid "[Max_07]К вам ведь можно?"
 msgstr "[Max_07]¿Puedo venir a ti?"
 
-# game/dialogues/erictalk.rpy:110## # translate crowdin lessons_from_Eric_first_bj_89eb8cdc:
+# game/dialogues/erictalk.rpy:123## # translate crowdin lessons_from_Eric_first_bj_89eb8cdc:
 msgid "[Eric_03]Да, Макс, проходи..."
 msgstr "[Eric_03]sí, Max, ve ..."
 
-# game/dialogues/erictalk.rpy:119## # translate crowdin lessons_from_Eric_first_bj_839230dd:
+# game/dialogues/erictalk.rpy:133## # translate crowdin lessons_from_Eric_first_bj_839230dd:
 msgid "[Ann_14]Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
 msgstr "[Ann_14]Eric! Realmente quieres que nos mire a ti y a mí ... Aquí..."
 
-# game/dialogues/erictalk.rpy:120## # translate crowdin lessons_from_Eric_first_bj_228bf30f:
+# game/dialogues/erictalk.rpy:134## # translate crowdin lessons_from_Eric_first_bj_228bf30f:
 msgid "[Eric_09]Ань, расслабься! Детям нужно об этом от кого-то узнать. Или ты хочешь, чтобы они выросли неприспособленными к нормальной социальной жизни!?"
 msgstr "[Eric_09]An, ¡relájate! Los niños necesitan aprender sobre esto de alguien. ¿O quieres que crezcan no aptos para la vida social normal?"
 
-# game/dialogues/erictalk.rpy:121## # translate crowdin lessons_from_Eric_first_bj_bf1c9777:
+# game/dialogues/erictalk.rpy:135## # translate crowdin lessons_from_Eric_first_bj_bf1c9777:
 msgid "[Ann_13]Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
 msgstr "[Ann_13]¡Por supuesto que quiero que los niños estén bien! Pero, ¿cómo ayudará su estancia con nosotros? ¡Esto es simplemente incorrecto!"
 
-# game/dialogues/erictalk.rpy:122## # translate crowdin lessons_from_Eric_first_bj_98ec4a27:
+# game/dialogues/erictalk.rpy:136## # translate crowdin lessons_from_Eric_first_bj_98ec4a27:
 msgid "[Eric_00]Мы не можем изменить наш образ жизни, чтобы всем угодить. Ты всё время на работе и со мной. Макс остаётся без внимания и более того, без родителей. Как думаешь, выйдет из него что-нибудь толковое, если он будет предоставлен самому себе!?"
 msgstr "[Eric_00]No podemos cambiar nuestra forma de vida para complacer a todos. Estás en el trabajo y conmigo todo el tiempo. Max se queda sin atención y, además, sin padres. ¿Crees que algo sensato saldrá de él si se le deja a sí mismo?"
 
-# game/dialogues/erictalk.rpy:123## # translate crowdin lessons_from_Eric_first_bj_5c15448b:
+# game/dialogues/erictalk.rpy:137## # translate crowdin lessons_from_Eric_first_bj_5c15448b:
 msgid "[Ann_15]Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
 msgstr "[Ann_15]No... Ahora entiendo por qué está tratando de espiarnos. ¡Le falta atención de los padres!"
 
-# game/dialogues/erictalk.rpy:132## # translate crowdin lessons_from_Eric_first_bj_8d94ef9d:
+# game/dialogues/erictalk.rpy:146## # translate crowdin lessons_from_Eric_first_bj_8d94ef9d:
 msgid "[Eric_01]Именно, Ань! И лишь в такие интимные моменты ты можешь показать ему, как ты о нём заботишься и как он для тебя важен."
 msgstr "[Eric_01]Exactamente, Anh! Y solo en momentos tan íntimos puedes mostrarle cómo te preocupas por él y lo importante que es para ti."
 
-# game/dialogues/erictalk.rpy:133## # translate crowdin lessons_from_Eric_first_bj_dcbf09ea:
+# game/dialogues/erictalk.rpy:147## # translate crowdin lessons_from_Eric_first_bj_dcbf09ea:
 msgid "[Ann_14]Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
 msgstr "[Ann_14], Max... Era una madre tan inútil para ti ..."
 
-# game/dialogues/erictalk.rpy:134## # translate crowdin lessons_from_Eric_first_bj_e2384074:
+# game/dialogues/erictalk.rpy:148## # translate crowdin lessons_from_Eric_first_bj_e2384074:
 msgid "[Max_00]Всё хорошо, мам! Я думаю, это всё сможет нас сблизить!"
 msgstr "[Max_00]está bien, mamá! ¡Creo que puede acercarnos más!"
 
-# game/dialogues/erictalk.rpy:143## # translate crowdin lessons_from_Eric_first_bj_44c95186:
+# game/dialogues/erictalk.rpy:157## # translate crowdin lessons_from_Eric_first_bj_44c95186:
 msgid "[Eric_02]А теперь Ань, ты должна вести себя так, как вела бы, если бы мы были только вдвоём! Давай, продолжай то, на чём мы остановились..."
 msgstr "[Eric_02]¡Ahora Anh, tienes que comportarte de la manera en que lo harías si solo nosotros dos! Vamos, que seguimos con lo que dejamos..."
 
-# game/dialogues/erictalk.rpy:144## # translate crowdin lessons_from_Eric_first_bj_0aa141a6:
+# game/dialogues/erictalk.rpy:158## # translate crowdin lessons_from_Eric_first_bj_0aa141a6:
 msgid "[Ann_12]Да, ты прав, я должна сделать это, ради Макса..."
 msgstr "[Ann_12]sí, tienes razón, tengo que hacerlo por el bien de Max ..."
 
-# game/dialogues/erictalk.rpy:145## # translate crowdin lessons_from_Eric_first_bj_26abae8c:
+# game/dialogues/erictalk.rpy:160## # translate crowdin lessons_from_Eric_first_bj_26abae8c:
 msgid "[Eric_03]А ты Макс, подсаживайся, не стесняйся...[nointeract]"
 msgstr "[Eric_03]Y tú eres Max, siéntate, no seas tímido...[nointeract]"
 
-# game/dialogues/erictalk.rpy:157## # translate crowdin lessons_from_Eric_first_bj_1f6057cd:
-msgid "[Max_08]{i}( Вау! Мама продолжила отсасывать Эрику! При мне... Хотя, видно что делает она это не так чувственно, как раньше. ){/i}"
-msgstr "[Max_08]{i}(¡Guau! Mamá seguía chupando a Erica! Conmigo... Aunque, está claro que no lo hace tan sensualmente como antes. ){/i}"
+# game/dialogues/erictalk.rpy:171## # translate crowdin lessons_from_Eric_first_bj_385a2e04:
+msgid "[Max_08]{m}Вау! Мама продолжила отсасывать Эрику! При мне... Хотя, видно что делает она это не так чувственно, как раньше.{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:158## # translate crowdin lessons_from_Eric_first_bj_245d909c:
+# game/dialogues/erictalk.rpy:172## # translate crowdin lessons_from_Eric_first_bj_245d909c:
 msgid "[Eric_05]Смотри Макс, как хороша твоя мама! А ты Ань, не стесняйся, делай это уверенно... Покажи Максу, каким удовольствием делятся любящие друг друга люди."
 msgstr "[Eric_05]Mira Max, ¡qué buena es tu mamá! Y tú An, no seas tímido, hazlo con confianza... Muéstrale a Max el placer de amar a la gente."
 
-# game/dialogues/erictalk.rpy:159## # translate crowdin lessons_from_Eric_first_bj_3e2cd5f5:
-msgid "[Max_07]{i}( Главное не перевозбуждаться настолько, чтобы мой член меня выдал... Хотя, сложно не представлять себя на месте Эрика! ){/i}"
-msgstr "[Max_07]{i}( Lo principal es no sobreexcitarse para que mi traicione ... Aunque, ¡es difícil no imaginarte en los zapatos de Eric! ){/i}"
+# game/dialogues/erictalk.rpy:173## # translate crowdin lessons_from_Eric_first_bj_73d5ddf0:
+msgid "[Max_07]{m}Главное не перевозбуждаться настолько, чтобы мой член меня выдал... Хотя, сложно не представлять себя на месте Эрика!{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:160## # translate crowdin lessons_from_Eric_first_bj_16441ec9:
+# game/dialogues/erictalk.rpy:175## # translate crowdin lessons_from_Eric_first_bj_16441ec9:
 msgid "[Eric_04]Ух, детка, да... Прервись ненадолго, я хочу лечь поудобнее...[nointeract]"
 msgstr "[Eric_04]Ukh, bebé, sí... Tómate un breve descanso, quiero recostarme...[nointeract]"
 
-# game/dialogues/erictalk.rpy:172## # translate crowdin lessons_from_Eric_first_bj_3654667c:
-msgid "[Max_10]{i}( Какая же она обалденная! Такую женщину я бы с удовольствием ласкал часами... Она это заслуживает! ){/i}"
-msgstr "[Max_10]{i}(¡Qué increíble es! Una mujer así que con mucho gusto acariciaría durante horas ... ¡Se lo merece! ){/i}"
+# game/dialogues/erictalk.rpy:186## # translate crowdin lessons_from_Eric_first_bj_dde61a7a:
+msgid "[Max_10]{m}Какая же она обалденная! Такую женщину я бы с удовольствием ласкал часами... Она это заслуживает!{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:173## # translate crowdin lessons_from_Eric_first_bj_21122167:
+# game/dialogues/erictalk.rpy:187## # translate crowdin lessons_from_Eric_first_bj_21122167:
 msgid "[Eric_01]Твоя мама ещё довольно скована, так что для первого раза думаю достаточно. Нет ничего такого в том, чтобы делиться близостью, но ей нужно время, чтобы привыкнуть."
 msgstr "[Eric_01]Tu madre todavía está bastante limitada, así que creo que es suficiente por primera vez. No hay nada acerca de compartir la intimidad, pero ella necesita tiempo para acostumbrarse."
 
-# game/dialogues/erictalk.rpy:174## # translate crowdin lessons_from_Eric_first_bj_5ab78a33:
+# game/dialogues/erictalk.rpy:189## # translate crowdin lessons_from_Eric_first_bj_5ab78a33:
 msgid "[Max_00]Хорошо, я тогда пошёл... Продолжайте![nointeract]"
 msgstr "[Max_00]Está bien, fui entonces ... ¡Sigue![nointeract]"
 
-# game/dialogues/erictalk.rpy:188## # translate crowdin lessons_from_Eric_second_bj_fa9a17f5:
+# game/dialogues/erictalk.rpy:202## # translate crowdin lessons_from_Eric_second_bj_fa9a17f5:
 msgid "[Max_07]К вам ведь можно?"
 msgstr "[Max_07]¿Puedo venir a ti?"
 
-# game/dialogues/erictalk.rpy:189## # translate crowdin lessons_from_Eric_second_bj_b55cbfe3:
+# game/dialogues/erictalk.rpy:203## # translate crowdin lessons_from_Eric_second_bj_b55cbfe3:
 msgid "[Eric_03]Да, Макс, проходи... Твоей маме как раз есть о чём тебе рассказать!"
 msgstr "[Eric_03]sí, Max, ve ... ¡Tu mamá solo tiene algo que decirte!"
 
-# game/dialogues/erictalk.rpy:198## # translate crowdin lessons_from_Eric_second_bj_f12a7ec3:
+# game/dialogues/erictalk.rpy:213## # translate crowdin lessons_from_Eric_second_bj_f12a7ec3:
 msgid "[Ann_13]А вам не кажется, что это уже слишком!?"
 msgstr "[Ann_13]¿¡No crees que es demasiado!?"
 
-# game/dialogues/erictalk.rpy:199## # translate crowdin lessons_from_Eric_second_bj_41c10ddd:
-msgid "[Max_01]{i}( Похоже, я застал маму в очень... открытом положении. Она уже не так враждебна, как в первый раз, но очень смущена! ){/i}"
-msgstr "[Max_01]{i}( Parece que encontré a mi mamá en un muy... posición abierta. No es tan hostil como lo fue la primera vez, ¡pero está muy avergonzada! ){/i}"
+# game/dialogues/erictalk.rpy:214## # translate crowdin lessons_from_Eric_second_bj_a81d3d5f:
+msgid "[Max_01]{m}Похоже, я застал маму в очень... открытом положении. Она уже не так враждебна, как в первый раз, но очень смущена!{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:200## # translate crowdin lessons_from_Eric_second_bj_8f4a23a2:
+# game/dialogues/erictalk.rpy:215## # translate crowdin lessons_from_Eric_second_bj_8f4a23a2:
 msgid "[Eric_05]По мне, так это отличный способ для того, чтобы мужчине и женщине ещё больше сблизиться. Вы достаточно открыты друг для друга и все при деле..."
 msgstr "[Eric_05]Para mí, esta es una excelente manera para que un hombre y una mujer se acerquen aún más. Están bastante abiertos el uno al otro y todos en los negocios ..."
 
-# game/dialogues/erictalk.rpy:201## # translate crowdin lessons_from_Eric_second_bj_c1aabe17:
+# game/dialogues/erictalk.rpy:216## # translate crowdin lessons_from_Eric_second_bj_c1aabe17:
 msgid "[Max_00]Ясно. Вы продолжайте, а я посмотрю... как это..."
 msgstr "[Max_00]Claro. Continuarás, y ya veré... Así..."
 
-# game/dialogues/erictalk.rpy:202## # translate crowdin lessons_from_Eric_second_bj_a6141667:
+# game/dialogues/erictalk.rpy:217## # translate crowdin lessons_from_Eric_second_bj_a6141667:
 msgid "[Ann_14]Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
 msgstr "[Ann_14]Eric, ¿estás seguro de que es lo correcto mostrarle a mi hijo con tanta franqueza? ¡Tengo muchas dudas!"
 
-# game/dialogues/erictalk.rpy:203## # translate crowdin lessons_from_Eric_second_bj_13f3dcbf:
+# game/dialogues/erictalk.rpy:218## # translate crowdin lessons_from_Eric_second_bj_13f3dcbf:
 msgid "[Eric_03]Не напрягайся из-за этого, Ань. Всё, что мы с тобой делаем - это естественно. И Максу нужно это знать и увидеть..."
 msgstr "[Eric_03]No te esfuerzas sobre él, An. Todo lo que tú y yo hacemos es natural. Y Max necesita saber eso y ver..."
 
-# game/dialogues/erictalk.rpy:204## # translate crowdin lessons_from_Eric_second_bj_d7ef656e:
+# game/dialogues/erictalk.rpy:219## # translate crowdin lessons_from_Eric_second_bj_d7ef656e:
 msgid "[Ann_12]Да, Эрик. Если ты в этом уверен, то и я тоже..."
 msgstr "[Ann_12]sí, Eric. Si estás seguro de eso, yo también..."
 
-# game/dialogues/erictalk.rpy:205## # translate crowdin lessons_from_Eric_second_bj_866f0ec1:
+# game/dialogues/erictalk.rpy:221## # translate crowdin lessons_from_Eric_second_bj_866f0ec1:
 msgid "[Eric_01]Вот и отлично! Присаживайся, Макс.[nointeract]"
 msgstr "[Eric_01]¡Eso es genial! Siéntate, Max.[nointeract]"
 
-# game/dialogues/erictalk.rpy:217## # translate crowdin lessons_from_Eric_second_bj_5e947be6:
-msgid "[Max_07]{i}( Так близко к голой маминой попке я ещё не был! А она ведь ещё при этом Эрику отсасывает... Да уж, это что-то нереальное! ){/i}"
-msgstr "[Max_07]{i}(¡Todavía no he estado tan cerca del desnudo de mi madre! Y ella todavía chupa a Erica... ¡Sí, es algo irreal! ){/i}"
+# game/dialogues/erictalk.rpy:232## # translate crowdin lessons_from_Eric_second_bj_f35dd963:
+msgid "[Max_07]{m}Так близко к голой маминой попке я ещё не был! А она ведь ещё при этом Эрику отсасывает... Да уж, это что-то нереальное!{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:218## # translate crowdin lessons_from_Eric_second_bj_a02c3753:
+# game/dialogues/erictalk.rpy:233## # translate crowdin lessons_from_Eric_second_bj_a02c3753:
 msgid "[Eric_04]Ого, Ань! Мне кажется или ты стала ещё более мокренькой, чем всегда?"
 msgstr "[Eric_04]¡Guau, Anh! ¿Pienso o incluso estamos más we weer que nunca?"
 
-# game/dialogues/erictalk.rpy:219## # translate crowdin lessons_from_Eric_second_bj_f70c94a1:
+# game/dialogues/erictalk.rpy:234## # translate crowdin lessons_from_Eric_second_bj_f70c94a1:
 msgid "[Ann_15]Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
 msgstr "[Ann_15]Eric! ¡No digas eso bajo Max! Todo esto ya me confunde mucho..."
 
-# game/dialogues/erictalk.rpy:220## # translate crowdin lessons_from_Eric_second_bj_aceea78b:
+# game/dialogues/erictalk.rpy:236## # translate crowdin lessons_from_Eric_second_bj_aceea78b:
 msgid "[Eric_02]А по-моему это смущение делает тебя только слаще! Только посмотри, как твоя мама меня любит, Макс...[nointeract]"
 msgstr "[Eric_02]¡Y en mi opinión, esta vergüenza solo te hace más dulce! Solo mira cuánto me ama tu mamá, Max...[nointeract]"
 
-# game/dialogues/erictalk.rpy:232## # translate crowdin lessons_from_Eric_second_bj_4b65ac43:
-msgid "[Max_04]{i}( Не могу перестать представлять себя на месте Эрика! Я бы намертво вцепился в её шикарную попку, пока она не кончила бы... ){/i}"
-msgstr "[Max_04]{i}(¡No puedo dejar de imaginarme en los zapatos de Eric! Me aferraba fuertemente a su hermoso hasta que estaba cumming...) {/i}"
+# game/dialogues/erictalk.rpy:247## # translate crowdin lessons_from_Eric_second_bj_bf7b91d7:
+msgid "[Max_04]{m}Не могу перестать представлять себя на месте Эрика! Я бы намертво вцепился в её шикарную попку, пока она не кончила бы...{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:233## # translate crowdin lessons_from_Eric_second_bj_2745a5cb:
+# game/dialogues/erictalk.rpy:248## # translate crowdin lessons_from_Eric_second_bj_2745a5cb:
 msgid "[Eric_01]Я думаю, на сегодня ты увидел достаточно, Макс. Твою маму ещё немного смущает, что ты смотришь."
 msgstr "[Eric_01]creo que has visto lo suficiente para hoy, Max. Tu madre todavía está un poco avergonzada por lo que estás viendo."
 
-# game/dialogues/erictalk.rpy:234## # translate crowdin lessons_from_Eric_second_bj_5ab78a33:
+# game/dialogues/erictalk.rpy:250## # translate crowdin lessons_from_Eric_second_bj_5ab78a33:
 msgid "[Max_00]Хорошо, я тогда пошёл... Продолжайте![nointeract]"
 msgstr "[Max_00]Está bien, fui entonces ... ¡Sigue![nointeract]"
 
-# game/dialogues/erictalk.rpy:248## # translate crowdin lessons_from_Eric_third_bj_fa9a17f5:
+# game/dialogues/erictalk.rpy:263## # translate crowdin lessons_from_Eric_third_bj_fa9a17f5:
 msgid "[Max_07]К вам ведь можно?"
 msgstr "[Max_07]¿Puedo venir a ti?"
 
-# game/dialogues/erictalk.rpy:249## # translate crowdin lessons_from_Eric_third_bj_432cba4b:
+# game/dialogues/erictalk.rpy:264## # translate crowdin lessons_from_Eric_third_bj_432cba4b:
 msgid "[Eric_03]Да, Макс, как раз вовремя... Мы кое-что тебе покажем, да Ань!?"
 msgstr "[Eric_03]sí, Max, justo a tiempo... Te mostraremos algo, sí An!?"
 
-# game/dialogues/erictalk.rpy:259## # translate crowdin lessons_from_Eric_third_bj_a1dd2c0a:
+# game/dialogues/erictalk.rpy:274## # translate crowdin lessons_from_Eric_third_bj_a1dd2c0a:
 msgid "[Ann_12]Ты правда думаешь, что ему нужно такое показывать?"
 msgstr "[Ann_12]¿De verdad crees que necesita demostrarlo?"
 
-# game/dialogues/erictalk.rpy:260## # translate crowdin lessons_from_Eric_third_bj_3378f06c:
+# game/dialogues/erictalk.rpy:275## # translate crowdin lessons_from_Eric_third_bj_3378f06c:
 msgid "[Eric_05]Просто расслабься, детка... И делай, что нужно! Такое Максу тоже не лишним будет знать."
 msgstr "[Eric_05]Solo relájate, bebé... ¡Y haz lo que necesites! Este Max tampoco es superfluo de saber."
 
-# game/dialogues/erictalk.rpy:261## # translate crowdin lessons_from_Eric_third_bj_a2011752:
+# game/dialogues/erictalk.rpy:276## # translate crowdin lessons_from_Eric_third_bj_a2011752:
 msgid "[Max_09]А о чём идёт речь?"
 msgstr "[Max_09]¿De qué estamos hablando?"
 
-# game/dialogues/erictalk.rpy:262## # translate crowdin lessons_from_Eric_third_bj_613e315e:
+# game/dialogues/erictalk.rpy:278## # translate crowdin lessons_from_Eric_third_bj_613e315e:
 msgid "[Eric_04]О чувственном и глубоком минете, Макс! Там есть несколько... моментов, на которые я обращу внимание. Ты садись и смотри. И ты Ань начинай...[nointeract]"
 msgstr "[Eric_04]Sobre lo sensual y profundo, Max! Hay algunos... puntos que señalaré. Te sientas y miras. Y tú Un comienzo...[nointeract]"
 
-# game/dialogues/erictalk.rpy:274## # translate crowdin lessons_from_Eric_third_bj_93358c21:
-msgid "[Max_08]{i}( Ого! Мама уже так спокойно стала сосать его член при мне, вот это да... Реально поражаюсь тому, как Эрик манипулирует и обрабатывает людей! ){/i}"
-msgstr "[Max_08]{i}(¡Guau! Mamá ya estaba chupando la suya con tanta calma en mi presencia, wow... ¡Estoy realmente sorprendido de cómo Eric manipula y procesa a las personas! ){/i}"
+# game/dialogues/erictalk.rpy:289## # translate crowdin lessons_from_Eric_third_bj_29077bc4:
+msgid "[Max_08]{m}Ого! Мама уже так спокойно стала сосать его член при мне, вот это да... Реально поражаюсь тому, как Эрик манипулирует и обрабатывает людей!{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:275## # translate crowdin lessons_from_Eric_third_bj_f3536d70:
+# game/dialogues/erictalk.rpy:290## # translate crowdin lessons_from_Eric_third_bj_f3536d70:
 msgid "[Eric_06]Да-а-а, детка, вот так... Скоро, Макс, ты уже будешь знать об этом всё, что только можно!"
 msgstr "[Eric_06]sí, nena, así... ¡Pronto, Max, sabrás todo lo que puedas al respecto!"
 
-# game/dialogues/erictalk.rpy:276## # translate crowdin lessons_from_Eric_third_bj_7af6324c:
+# game/dialogues/erictalk.rpy:291## # translate crowdin lessons_from_Eric_third_bj_7af6324c:
 msgid "[Max_07]Ага. Но ты хотел рассказать мне о каких-то моментах?"
 msgstr "[Max_07]sí. Pero, ¿querías contarme algún momento?"
 
-# game/dialogues/erictalk.rpy:277## # translate crowdin lessons_from_Eric_third_bj_016fe00d:
+# game/dialogues/erictalk.rpy:292## # translate crowdin lessons_from_Eric_third_bj_016fe00d:
 msgid "[Eric_03]Да, точно! Так вот, здесь важно чувствовать, в каком темпе и как глубоко ты можешь двигаться. Это чувствуешь по тому, как женщина к тебе прикасается..."
 msgstr "[Eric_03]¡Sí, exactamente! Entonces, aquí es importante sentir a qué ritmo y qué tan profundo puedes moverte. Lo sientes por la forma en que una mujer te toca..."
 
-# game/dialogues/erictalk.rpy:278## # translate crowdin lessons_from_Eric_third_bj_d528ea6b:
+# game/dialogues/erictalk.rpy:293## # translate crowdin lessons_from_Eric_third_bj_d528ea6b:
 msgid "[Max_01]Ясно. А что ещё?"
 msgstr "[Max_01]Claro. ¿Qué más?"
 
-# game/dialogues/erictalk.rpy:279## # translate crowdin lessons_from_Eric_third_bj_ae49b17f:
+# game/dialogues/erictalk.rpy:295## # translate crowdin lessons_from_Eric_third_bj_ae49b17f:
 msgid "[Eric_01]Ань, давай ложись на спину. Покажем Максу ещё кое-что...[nointeract]"
 msgstr "[Eric_01]An, vamos a acostarse boca arriba. Vamos a mostrarle a Max algo más...[nointeract]"
 
-# game/dialogues/erictalk.rpy:291## # translate crowdin lessons_from_Eric_third_bj_9f0c3188:
-msgid "[Max_04]{i}( Как только этот Эрик не крутит мамой! Хотя, такую фигуристую красотку я бы тоже покрутил на своём члене... ){/i}"
-msgstr "[Max_04]{i}(¡ Tan pronto como este Eric no tuerza a mamá! Aunque, una belleza tan rizada también me retorcería en mi ... ) {/i}"
+# game/dialogues/erictalk.rpy:306## # translate crowdin lessons_from_Eric_third_bj_a45283af:
+msgid "[Max_04]{m}Как только этот Эрик не крутит мамой! Хотя, такую фигуристую красотку я бы тоже покрутил на своём члене...{/m}"
+msgstr ""
 
-# game/dialogues/erictalk.rpy:292## # translate crowdin lessons_from_Eric_third_bj_15fce2c0:
+# game/dialogues/erictalk.rpy:307## # translate crowdin lessons_from_Eric_third_bj_15fce2c0:
 msgid "[Eric_04]Главное, Макс, это двигаться уверенно, чтобы и она чувствовала, чего ты хочешь. Если она захочет сильнее, глубже или быстрее, то сама направит тебя своими прикосновениями..."
 msgstr "[Eric_04]Lo principal, Max, es moverse con confianza para que sienta lo que quieres. Si quiere más fuerte, más profundo o más rápido, te dirigirá con sus toques..."
 
-# game/dialogues/erictalk.rpy:293## # translate crowdin lessons_from_Eric_third_bj_4dd9d9b2:
+# game/dialogues/erictalk.rpy:308## # translate crowdin lessons_from_Eric_third_bj_4dd9d9b2:
 msgid "[Max_03]Круто!"
 msgstr "[Max_03]Genial!"
 
-# game/dialogues/erictalk.rpy:294## # translate crowdin lessons_from_Eric_third_bj_1375b6d8:
+# game/dialogues/erictalk.rpy:309## # translate crowdin lessons_from_Eric_third_bj_1375b6d8:
 msgid "[Eric_03]А то! В дополнение, можешь массировать её грудь и вообще всё, до чего дотянешься. Видишь, с какой страстью она от этого сосёт!?"
 msgstr "[Eric_03]¡Y luego! Además, podrás masajear sus pechos y todo lo que puedas alcanzar. ¿¡Ves lo apasionadamente que apesta de esto!?"
 
-# game/dialogues/erictalk.rpy:295## # translate crowdin lessons_from_Eric_third_bj_ebdc05cd:
+# game/dialogues/erictalk.rpy:310## # translate crowdin lessons_from_Eric_third_bj_ebdc05cd:
 msgid "[Max_07]Вижу... Что ещё расскажешь?"
 msgstr "[Max_07]ver... ¿Qué más puedes decir?"
 
-# game/dialogues/erictalk.rpy:296## # translate crowdin lessons_from_Eric_third_bj_92331caf:
+# game/dialogues/erictalk.rpy:311## # translate crowdin lessons_from_Eric_third_bj_92331caf:
 msgid "[Eric_01]Вообще-то, тебе и этого более чем хватит на сегодня. Давай, иди гуляй..."
 msgstr "[Eric_01]En realidad, eso es más que suficiente para ti hoy. Vamos, a dar un paseo..."
 
-# game/dialogues/erictalk.rpy:297## # translate crowdin lessons_from_Eric_third_bj_adf24661:
+# game/dialogues/erictalk.rpy:313## # translate crowdin lessons_from_Eric_third_bj_adf24661:
 msgid "[Max_00]Хорошо. Уже ушёл...[nointeract]"
 msgstr "[Max_00]Está bien. Ya se fue...[nointeract]"
 
-# game/dialogues/erictalk.rpy:318## # translate crowdin Eric_talk_about_Lisa_0_77426e44:
+# game/dialogues/erictalk.rpy:335## # translate crowdin Eric_talk_about_Lisa_0_77426e44:
 msgid "[Eric_00]Макс, нам нужно поговорить наедине."
 msgstr "[Eric_00]Max, necesitamos hablar en privado."
 
-# game/dialogues/erictalk.rpy:319## # translate crowdin Eric_talk_about_Lisa_0_e7f5724b:
+# game/dialogues/erictalk.rpy:336## # translate crowdin Eric_talk_about_Lisa_0_e7f5724b:
 msgid "[Max_07]Я слушаю..."
 msgstr "[Max_07]estoy escuchando..."
 
-# game/dialogues/erictalk.rpy:320## # translate crowdin Eric_talk_about_Lisa_0_e5a04ecc:
+# game/dialogues/erictalk.rpy:337## # translate crowdin Eric_talk_about_Lisa_0_e5a04ecc:
 msgid "[Eric_01]Как там твоя младшая сестрёнка, проявляет сексуальный интерес к кому-нибудь?"
 msgstr "[Eric_01]¿Cómo está tu hermana pequeña sexualmente interesada en alguien?"
 
-# game/dialogues/erictalk.rpy:321## # translate crowdin Eric_talk_about_Lisa_0_0cc9eda2:
+# game/dialogues/erictalk.rpy:338## # translate crowdin Eric_talk_about_Lisa_0_0cc9eda2:
 msgid "[Max_09]Возможно... А что?"
 msgstr "[Max_09]Tal vez... ¿Qué?"
 
-# game/dialogues/erictalk.rpy:322## # translate crowdin Eric_talk_about_Lisa_0_29ab7eaa:
+# game/dialogues/erictalk.rpy:340## # translate crowdin Eric_talk_about_Lisa_0_29ab7eaa:
 msgid "[Eric_04]Думаю, пришло время мне взяться за её сексуальное образование. Возражения будут?[nointeract]"
 msgstr "[Eric_04]creo que es hora de que yo tome su educación sexual. ¿Habrá objeciones?[nointeract]"
 
-# game/dialogues/erictalk.rpy:329## # translate crowdin Eric_talk_about_Lisa_0_e2daf20d:
+# game/dialogues/erictalk.rpy:346## # translate crowdin Eric_talk_about_Lisa_0_e2daf20d:
 msgid "[Eric_03]Вот и славно! Как она реагирует на твои стояки, Макс? Уже привыкла?"
 msgstr "[Eric_03]¡Eso es glorioso! ¿Cómo reacciona ella a tus risers, Max? ¿Ya estás acostumbrado?"
 
-# game/dialogues/erictalk.rpy:330## # translate crowdin Eric_talk_about_Lisa_0_8d6f9d1a:
+# game/dialogues/erictalk.rpy:347## # translate crowdin Eric_talk_about_Lisa_0_8d6f9d1a:
 msgid "[Max_01]Более-менее... По крайней мере маму больше не зовёт на помощь."
 msgstr "[Max_01]Más o menos... Al menos a mi madre ya no se le pide ayuda."
 
-# game/dialogues/erictalk.rpy:331## # translate crowdin Eric_talk_about_Lisa_0_d948e080:
+# game/dialogues/erictalk.rpy:348## # translate crowdin Eric_talk_about_Lisa_0_d948e080:
 msgid "[Eric_02]Уже неплохо. А о мальчиках много спрашивает?"
 msgstr "[Eric_02]No está mal. ¿Y sobre los chicos mucha gente pregunta?"
 
-# game/dialogues/erictalk.rpy:332## # translate crowdin Eric_talk_about_Lisa_0_94d23536:
+# game/dialogues/erictalk.rpy:349## # translate crowdin Eric_talk_about_Lisa_0_94d23536:
 msgid "[Max_02]Я ей книгу подарил по секс-образованию. Она как раз сейчас её читает."
 msgstr "[Max_02]le regalé un libro sobre educación sexual. Ella lo está leyendo en este momento."
 
-# game/dialogues/erictalk.rpy:333## # translate crowdin Eric_talk_about_Lisa_0_832a57f9:
+# game/dialogues/erictalk.rpy:350## # translate crowdin Eric_talk_about_Lisa_0_832a57f9:
 msgid "[Eric_05]Вот это ты хорошо сделал, Макс! Мне меньше работы будет... А с тебя содействие на счёт Лизы, если вдруг оно мне понадобится. Она теперь моя, так что больше ничему её не учи, я сделаю это сам."
 msgstr "[Eric_05]¡Eso es lo que hiciste bien, Max! Tendré menos trabajo que hacer... Y de tu ayuda a expensas de Lisa, si de repente la necesito. Ella es mía ahora, así que no le enseño nada más, lo haré yo mismo."
 
-# game/dialogues/erictalk.rpy:334## # translate crowdin Eric_talk_about_Lisa_0_8d96290d:
+# game/dialogues/erictalk.rpy:351## # translate crowdin Eric_talk_about_Lisa_0_8d96290d:
 msgid "[Max_07]А я что получу за это?!"
 msgstr "[Max_07]¡¿Qué voy a obtener por eso?!"
 
-# game/dialogues/erictalk.rpy:335## # translate crowdin Eric_talk_about_Lisa_0_7767603c:
+# game/dialogues/erictalk.rpy:352## # translate crowdin Eric_talk_about_Lisa_0_7767603c:
 msgid "[Eric_00]В каком смысле?"
 msgstr "[Eric_00]¿En qué sentido?"
 
-# game/dialogues/erictalk.rpy:336## # translate crowdin Eric_talk_about_Lisa_0_8adb268b:
+# game/dialogues/erictalk.rpy:353## # translate crowdin Eric_talk_about_Lisa_0_8adb268b:
 msgid "[Max_09]В том, что мы с тобой друзья... А я, как ты сейчас сказал, облегчил тебе задачу по обучению Лизы! Хотелось бы тоже что-то получить за это."
 msgstr "[Max_09]El hecho de que tú y yo seamos amigos... ¡Y yo, como acabas de decir, te lo hice más fácil entrenar a Lisa! También me gustaría conseguir algo para eso."
 
-# game/dialogues/erictalk.rpy:337## # translate crowdin Eric_talk_about_Lisa_0_bfb417f6:
+# game/dialogues/erictalk.rpy:354## # translate crowdin Eric_talk_about_Lisa_0_bfb417f6:
 msgid "[Eric_01]Ладно, это будет справедливо. Но давай обсудим это в другой раз? Ты как раз хорошенько подумаешь, чего хочешь. И когда надумаешь, то подходи, только смотри чтобы мы были наедине."
 msgstr "[Eric_01]Está bien, eso es justo. ¿Pero vamos a discutirlo en otra ocasión? Pensarás detenidamente sobre lo que quieres. Y cuando pienses, solo sube, solo busca que estemos solos."
 
-# game/dialogues/erictalk.rpy:338## # translate crowdin Eric_talk_about_Lisa_0_108fbf0f:
+# game/dialogues/erictalk.rpy:355## # translate crowdin Eric_talk_about_Lisa_0_108fbf0f:
 msgid "[Max_07]Договорились. Но подглядывать же можно будет... за тем, чему ты будешь её учить?"
 msgstr "[Max_07]estuvo de acuerdo. Pero será posible espiar ... ¿qué le vas a enseñar?"
 
-# game/dialogues/erictalk.rpy:339## # translate crowdin Eric_talk_about_Lisa_0_c8565167:
+# game/dialogues/erictalk.rpy:356## # translate crowdin Eric_talk_about_Lisa_0_c8565167:
 msgid "[Eric_02]Ну если тебе интересно, то да. Ты можешь подглядывать за нашими с Лизой... уроками. В комнате Ани... Я так и быть, позабочусь, чтобы тебя не заметили."
 msgstr "[Eric_02]Bueno, si estás interesado, sí. Puedes espiar a nuestra Lisa y a yo... Lecciones. En la habitación de Ani... Me aseguraré de que no te noten."
 
-# game/dialogues/erictalk.rpy:340## # translate crowdin Eric_talk_about_Lisa_0_00a3aa0c:
+# game/dialogues/erictalk.rpy:357## # translate crowdin Eric_talk_about_Lisa_0_00a3aa0c:
 msgid "[Max_02]О, класс! Обязательно гляну..."
 msgstr "[Max_02]¡Oh, clase! Me aseguraré de echar un vistazo..."
 
-# game/dialogues/erictalk.rpy:353## # translate crowdin Eric_talk_about_Lisa_0_003089f4:
-msgid "[Eric_03]А я думал, ты за Лизу горой встанешь! Решил всё же передумать и не враждовать со мной?"
-msgstr "[Eric_03]¡Y pensé que te levantarías por Lisa! ¿Decidió cambiar de opinión y no pelear conmigo?"
-
-# game/dialogues/erictalk.rpy:354## # translate crowdin Eric_talk_about_Lisa_0_9c1911c5:
-msgid "[Max_07]Да, погорячился я немного. Бывает у меня такое..."
-msgstr "[Max_07]sí, me puse un poco caliente. A veces tengo esto..."
-
-# game/dialogues/erictalk.rpy:355## # translate crowdin Eric_talk_about_Lisa_0_7e4742f9:
-msgid "[Eric_02]Ох, Макс, с кем не бывает. Лучше поздно, чем никогда. Как там Лиза, о мальчиках много спрашивает?"
-msgstr "[Eric_02]Oh, Max, que no lo hace. Más vale tarde que nunca. ¿Cómo está Lisa, pregunta mucho sobre los chicos?"
-
-# game/dialogues/erictalk.rpy:356## # translate crowdin Eric_talk_about_Lisa_0_94d23536_1:
-msgid "[Max_02]Я ей книгу подарил по секс-образованию. Она как раз сейчас её читает."
-msgstr "[Max_02]le regalé un libro sobre educación sexual. Ella lo está leyendo en este momento."
-
-# game/dialogues/erictalk.rpy:357## # translate crowdin Eric_talk_about_Lisa_0_7dfb73a0:
-msgid "[Eric_05]Вот это ты хорошо сделал, Макс! Мне меньше работы будет... А с тебя содействие на счёт Лизы, если вдруг оно мне понадобится, раз уж мы теперь друзья... Она теперь моя, так что больше ничему её не учи, я сделаю это сам."
-msgstr "[Eric_05]¡Eso es lo que hiciste bien, Max! Tendré menos trabajo que hacer... Y de tu ayuda a costa de Lisa, si de repente la necesito, ya que ahora somos amigos... Ella es mía ahora, así que no le enseño nada más, lo haré yo mismo."
-
-# game/dialogues/erictalk.rpy:358## # translate crowdin Eric_talk_about_Lisa_0_8d96290d_1:
-msgid "[Max_07]А я что получу за это?!"
-msgstr "[Max_07]¡¿Qué voy a obtener por eso?!"
-
-# game/dialogues/erictalk.rpy:359## # translate crowdin Eric_talk_about_Lisa_0_7767603c_1:
-msgid "[Eric_00]В каком смысле?"
-msgstr "[Eric_00]¿En qué sentido?"
-
-# game/dialogues/erictalk.rpy:360## # translate crowdin Eric_talk_about_Lisa_0_06f08396:
-msgid "[Max_09]В том, что мы с тобой теперь друзья... А я, как ты сейчас сказал, облегчил тебе задачу по обучению Лизы! Хотелось бы тоже что-то получить за это."
-msgstr "[Max_09]El hecho de que tú y yo ahora seamos amigos ... ¡Y yo, como acabas de decir, te lo hice más fácil entrenar a Lisa! También me gustaría conseguir algo para eso."
-
-# game/dialogues/erictalk.rpy:361## # translate crowdin Eric_talk_about_Lisa_0_c09f624b:
-msgid "[Eric_01]Ладно, Макс, в качестве жеста доброй воли ты можешь подглядывать за нашими с Лизой... уроками. В комнате Ани... Я так и быть, позабочусь, чтобы тебя не заметили."
-msgstr "[Eric_01]Bien, Max, como un gesto de buena voluntad, puedes espiar a nuestra Lisa y a nosotros ... Lecciones. En la habitación de Ani... Me aseguraré de que no te noten."
-
-# game/dialogues/erictalk.rpy:362## # translate crowdin Eric_talk_about_Lisa_0_ac9c0fdd:
-msgid "[Max_01]Неплохо. А может..."
-msgstr "[Max_01]No está mal. O tal vez..."
-
-# game/dialogues/erictalk.rpy:363## # translate crowdin Eric_talk_about_Lisa_0_5f255369:
-msgid "[Eric_06]Нет, Макс! Сперва, посмотрим как ты будешь дальше себя вести... А пока, только это."
-msgstr "[Eric_06]¡No, Max! Primero, veamos cómo sigues comportándote... Mientras tanto, solo eso."
-
-# game/dialogues/erictalk.rpy:364## # translate crowdin Eric_talk_about_Lisa_0_2c3dbd88:
-msgid "[Max_00]Ну ладно."
-msgstr "[Max_00]Está bien."
-
-# game/dialogues/erictalk.rpy:375## # translate crowdin Eric_talk_about_Lisa_0_bf62eaee:
+# game/dialogues/erictalk.rpy:392## # translate crowdin Eric_talk_about_Lisa_0_bf62eaee:
 msgid "[Eric_03]Макс, думаешь тебе это решать, когда рано, а когда нет? Смешной ты..."
 msgstr "[Eric_03]Max, ¿crees que depende de ti decidir cuándo es temprano y cuándo no? Divertido tú..."
 
-# game/dialogues/erictalk.rpy:377## # translate crowdin Eric_talk_about_Lisa_0_3d81d628:
+# game/dialogues/erictalk.rpy:394## # translate crowdin Eric_talk_about_Lisa_0_3d81d628:
 msgid "[Max_07]Да она даже из-за моих утренних стояков маму хочет звать на помощь!"
 msgstr "[Max_07]Sí, incluso por mis madrugadores, ¡mi madre quiere pedir ayuda!"
 
-# game/dialogues/erictalk.rpy:378## # translate crowdin Eric_talk_about_Lisa_0_f3cae38e:
+# game/dialogues/erictalk.rpy:395## # translate crowdin Eric_talk_about_Lisa_0_f3cae38e:
 msgid "[Eric_06]Да, возни будет много... а времени мало... Значит так, Макс, вот тебе в таком случае задание! Сделай так, чтобы Лиза перестала шарахаться от вида твоего члена."
 msgstr "[Eric_06]sí, va a haber mucho alboroto... y el tiempo es corto... Así que, Max, ¡esta es la tarea para ti! Haz que Lisa deje de temblar al ver tu."
 
-# game/dialogues/erictalk.rpy:380## # translate crowdin Eric_talk_about_Lisa_0_8057a22d:
+# game/dialogues/erictalk.rpy:397## # translate crowdin Eric_talk_about_Lisa_0_8057a22d:
 msgid "[Max_09]И как мне это сделать?"
 msgstr "[Max_09]¿Y cómo lo hago?"
 
-# game/dialogues/erictalk.rpy:382## # translate crowdin Eric_talk_about_Lisa_0_de3051f4:
-msgid "[Eric_02]Как ты это сделаешь, не знаю, у нас с Аней на это времени нет, а вот ты всё время дома. Книжки почитайте по теме сексуального воспитания, например. Если за пару недель уложишься, то буду должен - не разочаруешься."
-msgstr "[Eric_02]¿Cómo lo haces?, no sé, Anya y yo no tenemos tiempo para esto, pero estás en casa todo el tiempo. Lea libros sobre el tema de la educación sexual, por ejemplo. Si cumples con el tiempo en un par de semanas, tendré que hacerlo, no te decepcionará."
+# game/dialogues/erictalk.rpy:399## # translate crowdin Eric_talk_about_Lisa_0_c4df9dbc:
+msgid "[Eric_02]Как ты это сделаешь, не знаю, у нас с Аней на это времени нет, а вот ты всё время дома. Книжки почитайте по теме сексуального воспитания, например. Если за неделю уложишься, то буду должен - не разочаруешься."
+msgstr ""
 
-# game/dialogues/erictalk.rpy:383## # translate crowdin Eric_talk_about_Lisa_0_9631fee4:
+# game/dialogues/erictalk.rpy:400## # translate crowdin Eric_talk_about_Lisa_0_9631fee4:
 msgid "[Max_00]Хорошо, я попробую..."
 msgstr "[Max_00]Está bien, lo intentaré..."
 
-# game/dialogues/erictalk.rpy:394## # translate crowdin Eric_talk_about_Lisa_0_021426e4:
-msgid "[Eric_09]Ну, тогда у нас с тобой проблемы. Если ты помнишь, мы договорились, а договор нужно выполнять. Либо нам с тобой придётся перестать быть друзьями..."
-msgstr "[Eric_09]Bueno, entonces tenemos un problema contigo. Si recuerda, acordamos, y el contrato debe cumplirse. O tú y yo tendremos que dejar de ser amigos..."
-
-# game/dialogues/erictalk.rpy:395## # translate crowdin Eric_talk_about_Lisa_0_4fd425bf:
-msgid "[Max_15]Делай что хочешь, но Лиза моя!"
-msgstr "[Max_15]Haz lo que quieras, ¡pero Lisa es mía!"
-
-# game/dialogues/erictalk.rpy:396## # translate crowdin Eric_talk_about_Lisa_0_e0b877a8:
-msgid "[Eric_04]Ну, значит, война. Я тебя предупреждал уже, что ты проиграешь. Теперь есть возможность в этом убедиться лично. И да, готовь сапоги. Военный лагерь ждёт..."
-msgstr "[Eric_04]Bueno, entonces la guerra. Ya te he advertido que vas a perder. Ahora hay una oportunidad de ver esto personalmente. Y sí, prepara las botas. El campamento militar está esperando..."
-
-# game/dialogues/erictalk.rpy:397## # translate crowdin Eric_talk_about_Lisa_0_2c68645b:
-msgid "[Max_16]Посмотрим..."
-msgstr "[Max_16]verás..."
-
-# game/dialogues/erictalk.rpy:398## # translate crowdin Eric_talk_about_Lisa_0_5ad988a0:
-msgid "[Eric_13]И Макс, если хочешь отправиться в лагерь с целыми яйцами, то даже не пытайся настраивать Лизу против меня! Во-первых, у тебя не получится, а во-вторых, я об этом узнаю..."
-msgstr "[Eric_13]Y Max, si quieres ir al campamento con huevos enteros, ¡ni siquiera intentes poner a Lisa en mi contra! En primer lugar, no tendrá éxito, y en segundo lugar, lo descubriré ..."
-
-# game/dialogues/erictalk.rpy:399## # translate crowdin Eric_talk_about_Lisa_0_cf7c26b6:
-msgid "[Max_17]Да пошёл ты!"
-msgstr "[Max_17]¡Sí, te vas!"
-
-# game/dialogues/erictalk.rpy:409## # translate crowdin Eric_talk_about_Lisa_0_98c18922:
+# game/dialogues/erictalk.rpy:426## # translate crowdin Eric_talk_about_Lisa_0_98c18922:
 msgid "[Eric_04]Я это спросил, просто чтобы тебя позлить. Я её всё равно заберу, скоро ты в этом убедишься. И да, готовь сапоги. Военный лагерь ждёт..."
 msgstr "[Eric_04]le pregunté esto, solo a usted. Lo tomaré de todos modos, pronto estarás convencido. Y sí, prepara las botas. El campamento militar está esperando..."
 
-# game/dialogues/erictalk.rpy:410## # translate crowdin Eric_talk_about_Lisa_0_2c68645b_1:
+# game/dialogues/erictalk.rpy:427## # translate crowdin Eric_talk_about_Lisa_0_2c68645b:
 msgid "[Max_16]Посмотрим..."
 msgstr "[Max_16]verás..."
 
-# game/dialogues/erictalk.rpy:411## # translate crowdin Eric_talk_about_Lisa_0_5ad988a0_1:
+# game/dialogues/erictalk.rpy:428## # translate crowdin Eric_talk_about_Lisa_0_5ad988a0:
 msgid "[Eric_13]И Макс, если хочешь отправиться в лагерь с целыми яйцами, то даже не пытайся настраивать Лизу против меня! Во-первых, у тебя не получится, а во-вторых, я об этом узнаю..."
 msgstr "[Eric_13]Y Max, si quieres ir al campamento con huevos enteros, ¡ni siquiera intentes poner a Lisa en mi contra! En primer lugar, no tendrá éxito, y en segundo lugar, lo descubriré ..."
 
-# game/dialogues/erictalk.rpy:412## # translate crowdin Eric_talk_about_Lisa_0_cf7c26b6_1:
+# game/dialogues/erictalk.rpy:429## # translate crowdin Eric_talk_about_Lisa_0_cf7c26b6:
 msgid "[Max_17]Да пошёл ты!"
 msgstr "[Max_17]¡Sí, te vas!"
 
-# game/dialogues/erictalk.rpy:429## # translate crowdin Eric_talk_about_Lisa_1_77426e44:
+# game/dialogues/erictalk.rpy:447## # translate crowdin Eric_talk_about_Lisa_1_77426e44:
 msgid "[Eric_00]Макс, нам нужно поговорить наедине."
 msgstr "[Eric_00]Max, necesitamos hablar en privado."
 
-# game/dialogues/erictalk.rpy:430## # translate crowdin Eric_talk_about_Lisa_1_b13b8f39:
+# game/dialogues/erictalk.rpy:448## # translate crowdin Eric_talk_about_Lisa_1_b13b8f39:
 msgid "[Max_07]Я слушаю... Что такое?"
 msgstr "[Max_07]estoy escuchando... ¿Qué?"
 
-# game/dialogues/erictalk.rpy:431## # translate crowdin Eric_talk_about_Lisa_1_ed483f99:
+# game/dialogues/erictalk.rpy:449## # translate crowdin Eric_talk_about_Lisa_1_ed483f99:
 msgid "[Eric_13]А сам как думаешь!? Как там твои успехи с Лизой?"
 msgstr "[Eric_13]¿¡Qué te parece!? ¿Cómo son tus éxitos con Lisa?"
 
-# game/dialogues/erictalk.rpy:432## # translate crowdin Eric_talk_about_Lisa_1_62fad2e1:
+# game/dialogues/erictalk.rpy:450## # translate crowdin Eric_talk_about_Lisa_1_62fad2e1:
 msgid "[Max_08]Я ещё работаю над этим..."
 msgstr "[Max_08]todavía estoy trabajando en ello..."
 
-# game/dialogues/erictalk.rpy:433## # translate crowdin Eric_talk_about_Lisa_1_11f60e7b:
+# game/dialogues/erictalk.rpy:451## # translate crowdin Eric_talk_about_Lisa_1_11f60e7b:
 msgid "[Eric_15]Понятно, успехов нет. Придётся всё делать самому... Или, может, ты и не собирался мне помогать?"
 msgstr "[Eric_15]Claramente, no hay éxito. Tendrás que hacer todo tú mismo... ¿O tal vez no me ibas a ayudar?"
 
-# game/dialogues/erictalk.rpy:434## # translate crowdin Eric_talk_about_Lisa_1_ace5059d:
+# game/dialogues/erictalk.rpy:452## # translate crowdin Eric_talk_about_Lisa_1_ace5059d:
 msgid "[Max_09]Нет, просто мне нужно больше времени..."
 msgstr "[Max_09]No, solo necesito más tiempo..."
 
-# game/dialogues/erictalk.rpy:435## # translate crowdin Eric_talk_about_Lisa_1_70a63eda:
+# game/dialogues/erictalk.rpy:453## # translate crowdin Eric_talk_about_Lisa_1_70a63eda:
 msgid "[Eric_01]Теперь уже нет. Она теперь моя, так что больше ничему её не учи, я сделаю это сам."
 msgstr "[Eric_01]Ahora se ha ido. Ella es mía ahora, así que no le enseño nada más, lo haré yo mismo."
 
-# game/dialogues/erictalk.rpy:436## # translate crowdin Eric_talk_about_Lisa_1_eca5fc80:
+# game/dialogues/erictalk.rpy:454## # translate crowdin Eric_talk_about_Lisa_1_eca5fc80:
 msgid "[Max_07]А что я получу за свои старания?!"
 msgstr "[Max_07]¿Y qué obtendré por mis esfuerzos?"
 
-# game/dialogues/erictalk.rpy:437## # translate crowdin Eric_talk_about_Lisa_1_e0b0ad2d:
+# game/dialogues/erictalk.rpy:455## # translate crowdin Eric_talk_about_Lisa_1_e0b0ad2d:
 msgid "[Eric_04]Старания!? Какие ещё старания? Ладно, Макс, в качестве жеста доброй воли ты можешь подглядывать за нашими с Лизой... уроками. В комнате Ани... Я так и быть, позабочусь, чтобы тебя не заметили."
 msgstr "[Eric_04]Esfuerzos!? ¿Qué otros esfuerzos? Está bien, Max, como un gesto de buena voluntad, puedes espiar a nuestra Lisa y a nosotros ... Lecciones. En la habitación de Ani... Me aseguraré de que no te noten."
 
-# game/dialogues/erictalk.rpy:438## # translate crowdin Eric_talk_about_Lisa_1_ac9c0fdd:
+# game/dialogues/erictalk.rpy:456## # translate crowdin Eric_talk_about_Lisa_1_ac9c0fdd:
 msgid "[Max_01]Неплохо. А может..."
 msgstr "[Max_01]No está mal. O tal vez..."
 
-# game/dialogues/erictalk.rpy:439## # translate crowdin Eric_talk_about_Lisa_1_5952ea2d:
+# game/dialogues/erictalk.rpy:457## # translate crowdin Eric_talk_about_Lisa_1_5952ea2d:
 msgid "[Eric_06]Нет, Макс! Только это!"
 msgstr "[Eric_06]¡No, Max! ¡Solo eso!"
 
-# game/dialogues/erictalk.rpy:440## # translate crowdin Eric_talk_about_Lisa_1_2c3dbd88:
+# game/dialogues/erictalk.rpy:458## # translate crowdin Eric_talk_about_Lisa_1_2c3dbd88:
 msgid "[Max_00]Ну ладно."
 msgstr "[Max_00]Está bien."
 
-# game/dialogues/erictalk.rpy:452## # translate crowdin Eric_talk_about_Alice_0_5f1ddc7a:
+# game/dialogues/erictalk.rpy:471## # translate crowdin Eric_talk_about_Alice_0_5f1ddc7a:
 msgid "[Eric_01]Не торопись уходить, Макс. Нужно поговорить наедине."
 msgstr "[Eric_01]No te apresures a irte, Max. Necesitamos hablar en privado."
 
-# game/dialogues/erictalk.rpy:453## # translate crowdin Eric_talk_about_Alice_0_3bbc12a6:
+# game/dialogues/erictalk.rpy:472## # translate crowdin Eric_talk_about_Alice_0_3bbc12a6:
 msgid "[Max_07]О чём?"
 msgstr "[Max_07]¿Sobre qué?"
 
-# game/dialogues/erictalk.rpy:454## # translate crowdin Eric_talk_about_Alice_0_6f219dbb:
+# game/dialogues/erictalk.rpy:474## # translate crowdin Eric_talk_about_Alice_0_6f219dbb:
 msgid "[Eric_02]Об Алисе. Вернее о том, чем она занимается за своим компьютером?[nointeract]"
 msgstr "[Eric_02]Sobre Alice. O mejor dicho, ¿qué hace en su computadora?[nointeract]"
 
-# game/dialogues/erictalk.rpy:459## # translate crowdin Eric_talk_about_Alice_0_d798872a:
+# game/dialogues/erictalk.rpy:478## # translate crowdin Eric_talk_about_Alice_0_d798872a:
 msgid "[Eric_03]Если она ещё чем-то важным занимается за компьютером, то не только..."
 msgstr "[Eric_03]Si todavía está haciendo algo importante en la computadora, no es solo ..."
 
-# game/dialogues/erictalk.rpy:460## # translate crowdin Eric_talk_about_Alice_0_3c5fbf24:
+# game/dialogues/erictalk.rpy:479## # translate crowdin Eric_talk_about_Alice_0_3c5fbf24:
 msgid "[Max_01]Сперва она бьюти-блог вела, но я её уговорил пойти дальше и рекламировать нижнее бельё, чем она сейчас и пытается заниматься."
 msgstr "[Max_01]Al principio dirigía un blog de belleza, pero la convencí de ir más allá y anunciar ropa interior, lo que ahora está tratando de hacer."
 
-# game/dialogues/erictalk.rpy:461## # translate crowdin Eric_talk_about_Alice_0_5bcc867b:
+# game/dialogues/erictalk.rpy:480## # translate crowdin Eric_talk_about_Alice_0_5bcc867b:
 msgid "[Eric_05]Это ты правильно сделал! Девчонка она красивая, так что успехи у неё должны появиться, хотя вряд ли она станет на этом много зарабатывать, если я не помогу."
 msgstr "[Eric_05]¡Lo hiciste bien! Es una chica hermosa, por lo que debería tener éxito, aunque es poco probable que ganara mucho dinero con esto si no la ayudo."
 
-# game/dialogues/erictalk.rpy:462## # translate crowdin Eric_talk_about_Alice_0_410eb2ae:
+# game/dialogues/erictalk.rpy:481## # translate crowdin Eric_talk_about_Alice_0_410eb2ae:
 msgid "[Max_09]Почему?"
 msgstr "[Max_09]¿Por qué?"
 
-# game/dialogues/erictalk.rpy:463## # translate crowdin Eric_talk_about_Alice_0_dd9f1e60:
+# game/dialogues/erictalk.rpy:482## # translate crowdin Eric_talk_about_Alice_0_dd9f1e60:
 msgid "[Eric_04]Желающих много, но пробиваются единицы. Здесь нужны и приличные вложения, да и сама она должна суметь привлечь особое внимание к себе."
 msgstr "[Eric_04]Hay muchos dispuestos, pero solo unos pocos se dirigen. Aquí necesita inversiones decentes, y ella misma debería poder atraer una atención especial hacia sí misma."
 
-# game/dialogues/erictalk.rpy:464## # translate crowdin Eric_talk_about_Alice_0_f93a5f7b:
+# game/dialogues/erictalk.rpy:483## # translate crowdin Eric_talk_about_Alice_0_f93a5f7b:
 msgid "[Max_02]Я последнее время покупал ей всякое сексуальное нижнее бельё."
 msgstr "[Max_02]últimamente le he estado comprando todo tipo de ropa interior sexy."
 
-# game/dialogues/erictalk.rpy:465## # translate crowdin Eric_talk_about_Alice_0_64344f2e:
+# game/dialogues/erictalk.rpy:484## # translate crowdin Eric_talk_about_Alice_0_64344f2e:
 msgid "[Eric_06]Об этом можешь больше не беспокоиться, Макс. Это я беру на себя!"
 msgstr "[Eric_06]Ya no tienes que preocuparte por eso, Max. ¡Lo estoy asumiendo!"
 
-# game/dialogues/erictalk.rpy:466## # translate crowdin Eric_talk_about_Alice_0_c77ab0e1:
+# game/dialogues/erictalk.rpy:485## # translate crowdin Eric_talk_about_Alice_0_c77ab0e1:
 msgid "[Max_08]А мне что тогда делать?"
 msgstr "[Max_08]¿Qué debo hacer entonces?"
 
-# game/dialogues/erictalk.rpy:467## # translate crowdin Eric_talk_about_Alice_0_5b2ddf99:
+# game/dialogues/erictalk.rpy:486## # translate crowdin Eric_talk_about_Alice_0_5b2ddf99:
 msgid "[Eric_03]Ну, а что ты там любишь делать, подглядывать? Вот и подглядывай дальше в своё удовольствие."
 msgstr "[Eric_03]Bueno, ¿qué te gusta hacer allí, mira? Así que mira más lejos para tu placer."
 
-# game/dialogues/erictalk.rpy:468## # translate crowdin Eric_talk_about_Alice_0_9607dd8c:
+# game/dialogues/erictalk.rpy:487## # translate crowdin Eric_talk_about_Alice_0_9607dd8c:
 msgid "[Max_07]Это я люблю, но тебе же может пригодиться моё прикрытие и помощь с Алисой, так, по-дружески?"
 msgstr "[Max_07]me encanta esto, pero puedes usar mi portada y ayudar con Alice, entonces, ¿de una manera amistosa?"
 
-# game/dialogues/erictalk.rpy:469## # translate crowdin Eric_talk_about_Alice_0_abbb104a:
+# game/dialogues/erictalk.rpy:488## # translate crowdin Eric_talk_about_Alice_0_abbb104a:
 msgid "[Eric_01]Если мне это понадобится, вот тогда и поговорим о твоих \"премиальных\", а пока гуляй..."
 msgstr "[Eric_01]Si lo necesito, es cuando hablaremos de tu \"premium\", pero por ahora, sal a pasear..."
 
-# game/dialogues/erictalk.rpy:470## # translate crowdin Eric_talk_about_Alice_0_173e5add:
+# game/dialogues/erictalk.rpy:489## # translate crowdin Eric_talk_about_Alice_0_173e5add:
 msgid "[Max_01]Ловлю на слове!"
 msgstr "[Max_01]¡Atrapa mi palabra!"
 
-# game/dialogues/erictalk.rpy:480## # translate crowdin Eric_talk_about_Alice_0_8fcf1769:
+# game/dialogues/erictalk.rpy:499## # translate crowdin Eric_talk_about_Alice_0_8fcf1769:
 msgid "[Eric_04]Да что ты? Это Алиса тебя так не любит или ты сам не очень хороший брат?"
 msgstr "[Eric_04]¿Qué eres? ¿Es Alice quien no te ama tanto o no eres un muy buen hermano?"
 
-# game/dialogues/erictalk.rpy:482## # translate crowdin Eric_talk_about_Alice_0_24f744d8:
+# game/dialogues/erictalk.rpy:501## # translate crowdin Eric_talk_about_Alice_0_24f744d8:
 msgid "[Max_10]Это она ко мне несколько стервозно относится! Издевается постоянно и чуть что угрозами сыпет."
 msgstr "[Max_10]¡Ella es la que me trata un poco perra! Se burla constantemente y casi vierte amenazas."
 
-# game/dialogues/erictalk.rpy:483## # translate crowdin Eric_talk_about_Alice_0_24df813b:
+# game/dialogues/erictalk.rpy:502## # translate crowdin Eric_talk_about_Alice_0_24df813b:
 msgid "[Eric_01]Макс, мне не особо хочется выяснять, чем она занимается, вникать и тратить на это время и силы, так что поручаю это дело тебе."
 msgstr "[Eric_01]Max, realmente no quiero saber lo que hace, profundizar y dedicar tiempo y esfuerzo a ello, así que te confío este asunto."
 
-# game/dialogues/erictalk.rpy:485## # translate crowdin Eric_talk_about_Alice_0_e05861a4:
+# game/dialogues/erictalk.rpy:504## # translate crowdin Eric_talk_about_Alice_0_e05861a4:
 msgid "[Max_09]И как я должен это сделать? Я же сказал, она не очень-то со мной считается!"
 msgstr "[Max_09]¿Y cómo debo hacerlo? Dije, ¡ella realmente no cuenta conmigo!"
 
-# game/dialogues/erictalk.rpy:487## # translate crowdin Eric_talk_about_Alice_0_b0566012:
+# game/dialogues/erictalk.rpy:506## # translate crowdin Eric_talk_about_Alice_0_b0566012:
 msgid "[Eric_03]Ты просто будь увереннее и настойчивее. До разумных приделов конечно. Дерзай... Будут проблемы и нужен будет совет - обращайся."
 msgstr "[Eric_03]Simplemente sé más seguro y persistente. A pasillos razonables, por supuesto. A por ello... Habrá problemas y necesitará asesoramiento - contacto."
 
-# game/dialogues/erictalk.rpy:488## # translate crowdin Eric_talk_about_Alice_0_3679282a:
+# game/dialogues/erictalk.rpy:507## # translate crowdin Eric_talk_about_Alice_0_3679282a:
 msgid "[Max_11]Ну здорово."
 msgstr "[Max_11]Bueno, genial."
 
-# game/dialogues/erictalk.rpy:497## # translate crowdin Eric_talk_about_Alice_0_58277c10:
-msgid "[Eric_09]О как! Ты разве забыл, о чём мы с тобой договорились, Макс?"
-msgstr "[Eric_09]¡Oh cómo! ¿Has olvidado lo que tú y yo acordamos, Max?"
-
-# game/dialogues/erictalk.rpy:498## # translate crowdin Eric_talk_about_Alice_0_7bfb780c:
-msgid "[Max_15]Нет, не забыл, а передумал! Это моя семья и я тебя к ней не подпущу!"
-msgstr "[Max_15]No, no lo olvidé, ¡cambié de opinión! ¡Esta es mi familia y no te dejaré hacerlo!"
-
-# game/dialogues/erictalk.rpy:499## # translate crowdin Eric_talk_about_Alice_0_86587c9b:
-msgid "[Eric_14]Ты уверен, что хочешь вражды? Я тебя предупреждал уже, что ты проиграешь."
-msgstr "[Eric_14]¿Estás seguro de que quieres un feudo? Ya te he advertido que vas a perder."
-
-# game/dialogues/erictalk.rpy:500## # translate crowdin Eric_talk_about_Alice_0_2c68645b:
-msgid "[Max_16]Посмотрим..."
-msgstr "[Max_16]verás..."
-
-# game/dialogues/erictalk.rpy:508## # translate crowdin Eric_talk_about_Alice_0_e12ec2b8:
-msgid "[Eric_04]Просто, я подумал, мало ли ты погорячился на эмоциях и спустя время одумался со мной враждовать. Вот и даю тебе, так сказать \"шанс\" сделать верный выбор."
-msgstr "[Eric_04]Simplemente, pensé, poco te calentaste con las emociones y después de un tiempo entraste en razón conmigo para pelear. Así que les doy, por así decirlo, una \"oportunidad\" de tomar la decisión correcta."
-
-# game/dialogues/erictalk.rpy:509## # translate crowdin Eric_talk_about_Alice_0_253a79c8:
-msgid "[Max_10]Пожалуй, да. Погорячился... Значит, блог тебя её интересует?"
-msgstr "[Max_10]supongo que sí. Me puse caliente... ¿Entonces estás interesado en el blog?"
-
-# game/dialogues/erictalk.rpy:510## # translate crowdin Eric_talk_about_Alice_0_d798872a_1:
-msgid "[Eric_03]Если она ещё чем-то важным занимается за компьютером, то не только..."
-msgstr "[Eric_03]Si todavía está haciendo algo importante en la computadora, no es solo ..."
-
-# game/dialogues/erictalk.rpy:511## # translate crowdin Eric_talk_about_Alice_0_3936771b:
-msgid "[Max_01]Сперва она бьюти блог вела, но я её уговорил пойти дальше и рекламировать нижнее бельё, чем она сейчас и пытается заниматься."
-msgstr "[Max_01]Al principio era un blog de belleza, pero la convencí de ir más allá y anunciar ropa interior, lo que ahora está tratando de hacer."
-
-# game/dialogues/erictalk.rpy:512## # translate crowdin Eric_talk_about_Alice_0_5bcc867b_1:
-msgid "[Eric_05]Это ты правильно сделал! Девчонка она красивая, так что успехи у неё должны появиться, хотя вряд ли она станет на этом много зарабатывать, если я не помогу."
-msgstr "[Eric_05]¡Lo hiciste bien! Es una chica hermosa, por lo que debería tener éxito, aunque es poco probable que ganara mucho dinero con esto si no la ayudo."
-
-# game/dialogues/erictalk.rpy:513## # translate crowdin Eric_talk_about_Alice_0_410eb2ae_1:
-msgid "[Max_09]Почему?"
-msgstr "[Max_09]¿Por qué?"
-
-# game/dialogues/erictalk.rpy:514## # translate crowdin Eric_talk_about_Alice_0_dd9f1e60_1:
-msgid "[Eric_04]Желающих много, но пробиваются единицы. Здесь нужны и приличные вложения, да и сама она должна суметь привлечь особое внимание к себе."
-msgstr "[Eric_04]Hay muchos dispuestos, pero solo unos pocos se dirigen. Aquí necesita inversiones decentes, y ella misma debería poder atraer una atención especial hacia sí misma."
-
-# game/dialogues/erictalk.rpy:515## # translate crowdin Eric_talk_about_Alice_0_f93a5f7b_1:
-msgid "[Max_02]Я последнее время покупал ей всякое сексуальное нижнее бельё."
-msgstr "[Max_02]últimamente le he estado comprando todo tipo de ropa interior sexy."
-
-# game/dialogues/erictalk.rpy:516## # translate crowdin Eric_talk_about_Alice_0_64344f2e_1:
-msgid "[Eric_06]Об этом можешь больше не беспокоиться, Макс. Это я беру на себя!"
-msgstr "[Eric_06]Ya no tienes que preocuparte por eso, Max. ¡Lo estoy asumiendo!"
-
-# game/dialogues/erictalk.rpy:517## # translate crowdin Eric_talk_about_Alice_0_c77ab0e1_1:
-msgid "[Max_08]А мне что тогда делать?"
-msgstr "[Max_08]¿Qué debo hacer entonces?"
-
-# game/dialogues/erictalk.rpy:518## # translate crowdin Eric_talk_about_Alice_0_5b2ddf99_1:
-msgid "[Eric_03]Ну, а что ты там любишь делать, подглядывать? Вот и подглядывай дальше в своё удовольствие."
-msgstr "[Eric_03]Bueno, ¿qué te gusta hacer allí, mira? Así que mira más lejos para tu placer."
-
-# game/dialogues/erictalk.rpy:519## # translate crowdin Eric_talk_about_Alice_0_9607dd8c_1:
-msgid "[Max_07]Это я люблю, но тебе же может пригодиться моё прикрытие и помощь с Алисой, так, по-дружески?"
-msgstr "[Max_07]me encanta esto, pero puedes usar mi portada y ayudar con Alice, entonces, ¿de una manera amistosa?"
-
-# game/dialogues/erictalk.rpy:520## # translate crowdin Eric_talk_about_Alice_0_1cfeaf31:
-msgid "[Eric_01]Если мне это понадобится, вот тогда и поговорим о твоих \"премиальных\", а пока..."
-msgstr "[Eric_01]Si lo necesito, es cuando hablaremos de tu \"premium\", pero por ahora..."
-
-# game/dialogues/erictalk.rpy:521## # translate crowdin Eric_talk_about_Alice_0_173e5add_1:
-msgid "[Max_01]Ловлю на слове!"
-msgstr "[Max_01]¡Atrapa mi palabra!"
-
-# game/dialogues/erictalk.rpy:532## # translate crowdin Eric_talk_about_Alice_0_249d4b12:
+# game/dialogues/erictalk.rpy:551## # translate crowdin Eric_talk_about_Alice_0_249d4b12:
 msgid "[Eric_09]Эх, а я думал, вдруг ты одумался и не хочешь со мной враждовать. Ну что, могу только посочувствовать..."
 msgstr "[Eric_09]Oh, y pensé, de repente entras en razón y no quieres pelear conmigo. Bueno, solo puedo simpatizar ..."
 
-# game/dialogues/erictalk.rpy:533## # translate crowdin Eric_talk_about_Alice_0_53725271:
+# game/dialogues/erictalk.rpy:552## # translate crowdin Eric_talk_about_Alice_0_53725271:
 msgid "[Max_16]Да отвали ты! И к Алисе не лезь, а то я вышибу тебя отсюда ещё быстрее, чем собирался!"
 msgstr "[Max_16]¡Sí, te caíste! ¡Y no vayas a Alice, o te echaré de aquí incluso más rápido de lo que iba!"
 
-# game/dialogues/erictalk.rpy:534## # translate crowdin Eric_talk_about_Alice_0_51b57e1f:
+# game/dialogues/erictalk.rpy:553## # translate crowdin Eric_talk_about_Alice_0_51b57e1f:
 msgid "[Eric_06]Как жёстко! У меня аж мурашки поползли по спине... от потехи..."
 msgstr "[Eric_06]¡Qué duro! Se me puso la piel de gallina en la espalda... de la hasste..."
 
-# game/dialogues/erictalk.rpy:535## # translate crowdin Eric_talk_about_Alice_0_5044ba0d:
+# game/dialogues/erictalk.rpy:554## # translate crowdin Eric_talk_about_Alice_0_5044ba0d:
 msgid "[Max_17]Ещё посмотрим, кто будет потешаться!"
 msgstr "[Max_17]¡Veremos quién se ríe!"
 
-# game/dialogues/erictalk.rpy:550## # translate crowdin Eric_talk_about_Alice_1_77426e44:
+# game/dialogues/erictalk.rpy:570## # translate crowdin Eric_talk_about_Alice_1_77426e44:
 msgid "[Eric_00]Макс, нам нужно поговорить наедине."
 msgstr "[Eric_00]Max, necesitamos hablar en privado."
 
-# game/dialogues/erictalk.rpy:551## # translate crowdin Eric_talk_about_Alice_1_b13b8f39:
+# game/dialogues/erictalk.rpy:571## # translate crowdin Eric_talk_about_Alice_1_b13b8f39:
 msgid "[Max_07]Я слушаю... Что такое?"
 msgstr "[Max_07]estoy escuchando... ¿Qué?"
 
-# game/dialogues/erictalk.rpy:552## # translate crowdin Eric_talk_about_Alice_1_6c5a1fd9:
+# game/dialogues/erictalk.rpy:572## # translate crowdin Eric_talk_about_Alice_1_6c5a1fd9:
 msgid "[Eric_13]А сам как думаешь!? Как там твои успехи с Алисой?"
 msgstr "[Eric_13]¿¡Qué te parece!? ¿Cómo son tus éxitos con Alice?"
 
-# game/dialogues/erictalk.rpy:553## # translate crowdin Eric_talk_about_Alice_1_39f68732:
+# game/dialogues/erictalk.rpy:573## # translate crowdin Eric_talk_about_Alice_1_39f68732:
 msgid "[Max_08]В процессе... С ней не всё так просто, как хотелось бы."
 msgstr "[Max_08]En el proceso... No es tan simple como nos gustaría."
 
-# game/dialogues/erictalk.rpy:554## # translate crowdin Eric_talk_about_Alice_1_772d0e28:
+# game/dialogues/erictalk.rpy:574## # translate crowdin Eric_talk_about_Alice_1_772d0e28:
 msgid "[Eric_15]Проще было с самого начала всё сделать самому... Что же ты, Макс, с родной сестрой не смог управиться?"
 msgstr "[Eric_15]Fue más fácil hacer todo tú mismo desde el principio... ¿Qué no pudiste manejar tú, Max, con tu hermana?"
 
-# game/dialogues/erictalk.rpy:555## # translate crowdin Eric_talk_about_Alice_1_4b6faf8c:
+# game/dialogues/erictalk.rpy:575## # translate crowdin Eric_talk_about_Alice_1_4b6faf8c:
 msgid "[Max_09]Если бы ты дал мне больше времени..."
 msgstr "[Max_09]Si me dieras más tiempo..."
 
-# game/dialogues/erictalk.rpy:556## # translate crowdin Eric_talk_about_Alice_1_405cc660:
+# game/dialogues/erictalk.rpy:576## # translate crowdin Eric_talk_about_Alice_1_405cc660:
 msgid "[Eric_01]Нет. Дальше я сам. А у тебя теперь задача максимально простая - не мешать мне. Справишься, я надеюсь хоть с этим?"
 msgstr "[Eric_01]No. Entonces lo hago. Y ahora tienes la tarea más simple posible: no interferir conmigo. ¿Puedes manejarlo, espero que sí?"
 
-# game/dialogues/erictalk.rpy:557## # translate crowdin Eric_talk_about_Alice_1_59c63f25:
+# game/dialogues/erictalk.rpy:577## # translate crowdin Eric_talk_about_Alice_1_59c63f25:
 msgid "[Max_07]А за мои старания мне что-нибудь причитается?!"
 msgstr "[Max_07]¿Hay algo que se me deba por mis esfuerzos?"
 
-# game/dialogues/erictalk.rpy:558## # translate crowdin Eric_talk_about_Alice_1_bf99dc17:
+# game/dialogues/erictalk.rpy:578## # translate crowdin Eric_talk_about_Alice_1_bf99dc17:
 msgid "[Eric_04]Чего!? Твои старания? Даже как-то жалко тебя стало, Макс! Ладно, так уж и быть, можешь подглядывать за нами с Алисой. По средам... И постарайся не попасться Алисе на глаза при этом."
 msgstr "[Eric_04]¿¡Qué!? ¿Sus esfuerzos? ¡Sentí lástima por ti, Max! Está bien, que así sea, puedes espiar a Alice y a mí. Los miércoles... Y trata de no llamar la atención de Alice al mismo tiempo."
 
-# game/dialogues/erictalk.rpy:559## # translate crowdin Eric_talk_about_Alice_1_ba47c279:
+# game/dialogues/erictalk.rpy:579## # translate crowdin Eric_talk_about_Alice_1_ba47c279:
 msgid "[Max_01]Сойдёт. А что ещё?"
 msgstr "[Max_01]bajará. ¿Qué más?"
 
-# game/dialogues/erictalk.rpy:560## # translate crowdin Eric_talk_about_Alice_1_5d8605aa:
+# game/dialogues/erictalk.rpy:580## # translate crowdin Eric_talk_about_Alice_1_5d8605aa:
 msgid "[Eric_06]Вот ты губу раскатал, Макс! Не наглей!"
 msgstr "[Eric_06]¡Rodaste el labio, Max! ¡No es descarado!"
 
-# game/dialogues/erictalk.rpy:561## # translate crowdin Eric_talk_about_Alice_1_2c3dbd88:
+# game/dialogues/erictalk.rpy:581## # translate crowdin Eric_talk_about_Alice_1_2c3dbd88:
 msgid "[Max_00]Ну ладно."
 msgstr "[Max_00]Está bien."
 
-# game/dialogues/erictalk.rpy:573## # translate crowdin Eric_talk_about_lace_lingerie_ef14eedc:
+# game/dialogues/erictalk.rpy:594## # translate crowdin Eric_talk_about_lace_lingerie_ef14eedc:
 msgid "[Eric_01]Задержись, Макс. Нужно поговорить наедине."
 msgstr "[Eric_01]Espera, Máx. Necesitamos hablar en privado."
 
-# game/dialogues/erictalk.rpy:577## # translate crowdin Eric_talk_about_lace_lingerie_8a1a99af:
+# game/dialogues/erictalk.rpy:598## # translate crowdin Eric_talk_about_lace_lingerie_8a1a99af:
 msgid "[Max_07]Что случилось?"
 msgstr "[Max_07]¿Qué pasó?"
 
-# game/dialogues/erictalk.rpy:578## # translate crowdin Eric_talk_about_lace_lingerie_ce5c1b7e:
+# game/dialogues/erictalk.rpy:599## # translate crowdin Eric_talk_about_lace_lingerie_ce5c1b7e:
 msgid "[Eric_09]Ты зачем подарил Алисе то кружевное боди?"
 msgstr "[Eric_09]¿Por qué le diste a Alice ese bodysuit de encaje?"
 
-# game/dialogues/erictalk.rpy:579## # translate crowdin Eric_talk_about_lace_lingerie_fef0db23:
+# game/dialogues/erictalk.rpy:600## # translate crowdin Eric_talk_about_lace_lingerie_fef0db23:
 msgid "[Max_09]Просто хотел порадовать сестрёнку."
 msgstr "[Max_09]Solo quería complacer a mi hermana."
 
-# game/dialogues/erictalk.rpy:580## # translate crowdin Eric_talk_about_lace_lingerie_c91f1a8c:
+# game/dialogues/erictalk.rpy:601## # translate crowdin Eric_talk_about_lace_lingerie_c91f1a8c:
 msgid "[Eric_13]Теперь это моя забота, её радовать. А твоя задача этому не мешать, что ты успешно нарушил!"
 msgstr "[Eric_13]Ahora es mi preocupación, es complacer. ¡Y tu tarea no es interferir con esto, que has violado con éxito!"
 
-# game/dialogues/erictalk.rpy:581## # translate crowdin Eric_talk_about_lace_lingerie_763a23da:
+# game/dialogues/erictalk.rpy:602## # translate crowdin Eric_talk_about_lace_lingerie_763a23da:
 msgid "[Max_08]Подумаешь бельё ей подарил! У тебя и без этого с ней всё хорошо."
 msgstr "[Max_08]¡Creo que le di ropa interior! Estás bien con ella sin ella."
 
-# game/dialogues/erictalk.rpy:582## # translate crowdin Eric_talk_about_lace_lingerie_a40231e1:
+# game/dialogues/erictalk.rpy:603## # translate crowdin Eric_talk_about_lace_lingerie_a40231e1:
 msgid "[Eric_00]Макс, я не так много времени могу уделять Алисе лично. И других дел полно. Поэтому мне важно, чтобы с ней всё шло по выстроенному плану и покупка этого боди - часть этого плана. А что сделал ты?"
 msgstr "[Eric_00]Max, no puedo dedicarle mucho tiempo a Alice personalmente. Y hay muchas otras cosas que hacer. Por lo tanto, es importante para mí que todo vaya de acuerdo con el plan construido con ella y la compra de este traje es parte de este plan. ¿Qué hiciste?"
 
-# game/dialogues/erictalk.rpy:583## # translate crowdin Eric_talk_about_lace_lingerie_182be5db:
+# game/dialogues/erictalk.rpy:604## # translate crowdin Eric_talk_about_lace_lingerie_182be5db:
 msgid "[Max_10]Немного нарушил..."
 msgstr "[Max_10]un poco de descanso..."
 
-# game/dialogues/erictalk.rpy:584## # translate crowdin Eric_talk_about_lace_lingerie_281c3d59:
+# game/dialogues/erictalk.rpy:605## # translate crowdin Eric_talk_about_lace_lingerie_281c3d59:
 msgid "[Eric_14]Ещё раз нарушишь мои планы и друзьями нам больше не быть. Хорошенько подумай, нужно ли тебе это, Макс, мешать мне. И о своих \"премиальных\" можешь забыть за свою оплошность!"
 msgstr "[Eric_14]Una vez más interrumpirás mis planes y ya no seremos amigos. Piensa cuidadosamente si necesitas interferir conmigo, Max. ¡Y puede olvidarse de su \"prima\" por su error!"
 
-# game/dialogues/erictalk.rpy:585## # translate crowdin Eric_talk_about_lace_lingerie_5907fcad:
+# game/dialogues/erictalk.rpy:606## # translate crowdin Eric_talk_about_lace_lingerie_5907fcad:
 msgid "[Max_13]Эй, ну как же так!"
 msgstr "[Max_13]¡Oye, cómo!"
 
-# game/dialogues/erictalk.rpy:586## # translate crowdin Eric_talk_about_lace_lingerie_563ce598:
+# game/dialogues/erictalk.rpy:607## # translate crowdin Eric_talk_about_lace_lingerie_563ce598:
 msgid "[Eric_13]Нечего мне проблемы устраивать! И мы об этом говорили сразу."
 msgstr "[Eric_13]no tengo nada que ver con el problema! Y hablamos de ello de inmediato."
 
-# game/dialogues/erictalk.rpy:587## # translate crowdin Eric_talk_about_lace_lingerie_770a09a1:
+# game/dialogues/erictalk.rpy:608## # translate crowdin Eric_talk_about_lace_lingerie_770a09a1:
 msgid "[Max_11]Ладно, я всё понял."
 msgstr "[Max_11]Está bien, lo tengo."
 
-# game/dialogues/erictalk.rpy:595## # translate crowdin Eric_talk_about_lace_lingerie_b3058115:
+# game/dialogues/erictalk.rpy:616## # translate crowdin Eric_talk_about_lace_lingerie_b3058115:
 msgid "[Max_09]Что надо?"
 msgstr "[Max_09]¿Qué necesitas?"
 
-# game/dialogues/erictalk.rpy:596## # translate crowdin Eric_talk_about_lace_lingerie_884dcc80:
+# game/dialogues/erictalk.rpy:617## # translate crowdin Eric_talk_about_lace_lingerie_884dcc80:
 msgid "[Eric_09]Тебя ждут большие проблемы, Макс! Зря ты подарил Алисе то боди. Большая ошибка."
 msgstr "[Eric_09]¡Estás en un gran problema, Max! En vano le diste a Alice ese traje de cuerpo. Craso error."
 
-# game/dialogues/erictalk.rpy:597## # translate crowdin Eric_talk_about_lace_lingerie_b54fcb7c:
+# game/dialogues/erictalk.rpy:618## # translate crowdin Eric_talk_about_lace_lingerie_b54fcb7c:
 msgid "[Max_02]Похоже, я испортил чьи-то планы... Какой ужас!"
 msgstr "[Max_02]Parece que he arruinado los planes de alguien ... ¡Qué horror!"
 
-# game/dialogues/erictalk.rpy:598## # translate crowdin Eric_talk_about_lace_lingerie_88e73d18:
+# game/dialogues/erictalk.rpy:619## # translate crowdin Eric_talk_about_lace_lingerie_88e73d18:
 msgid "[Eric_13]За всё, что будет дальше винить можешь только себя, Макс. Успехов не желаю."
 msgstr "[Eric_13]Por todo lo que seguirá culpándote solo puedes culparte a ti mismo, Max. No le deseo éxito."
 
-# game/dialogues/erictalk.rpy:599## # translate crowdin Eric_talk_about_lace_lingerie_a90aad28:
+# game/dialogues/erictalk.rpy:620## # translate crowdin Eric_talk_about_lace_lingerie_a90aad28:
 msgid "[Max_01]Да и не надо. Обойдусь."
 msgstr "[Max_01]Y no tienes que hacerlo. Me las pasaré bien."
 
-# game/dialogues/erictalk.rpy:611## # translate crowdin Eric_talk_about_Kira_0_a0b9d0c1:
+# game/dialogues/erictalk.rpy:632## # translate crowdin Eric_talk_about_Kira_0_a0b9d0c1:
 msgid "[Eric_09]Надеюсь, это что-то весьма интересное или важное, иначе меня это не особо волнует..."
 msgstr "[Eric_09]espero que esto sea algo muy interesante o importante, de lo contrario realmente no me importa ..."
 
-# game/dialogues/erictalk.rpy:612## # translate crowdin Eric_talk_about_Kira_0_4acf3d39:
+# game/dialogues/erictalk.rpy:633## # translate crowdin Eric_talk_about_Kira_0_4acf3d39:
 msgid "[Max_01]А если именно такое, то мне светят за это какие-нибудь \"премиальные\"?"
 msgstr "[Max_01]¿Y si eso es todo, entonces obtengo alguna \"prima\" por ello?"
 
-# game/dialogues/erictalk.rpy:613## # translate crowdin Eric_talk_about_Kira_0_fb65eee0:
+# game/dialogues/erictalk.rpy:634## # translate crowdin Eric_talk_about_Kira_0_90305e50:
 msgid "[Eric_03]Ну ты ушлый! Если это что-то, что поможет мне её трахнуть, то ты можешь рассчитывать на бонус. Так что у тебя там такое про неё имеется?"
 msgstr "[Eric_03]Bueno, ¡eres inteligente! Si eso es algo que me ayuda a follarla, entonces puedes contar con un bono. Entonces, ¿qué tienes sobre ella?"
 
-# game/dialogues/erictalk.rpy:614## # translate crowdin Eric_talk_about_Kira_0_5b981410:
+# game/dialogues/erictalk.rpy:635## # translate crowdin Eric_talk_about_Kira_0_5b981410:
 msgid "[Max_02]Как минимум неожиданное для тебя. Короче, мы с ней... ну, того... этого..."
 msgstr "[Max_02]Al menos inesperado para ti. En resumen, ella y yo ... bueno, eso... Éste..."
 
-# game/dialogues/erictalk.rpy:615## # translate crowdin Eric_talk_about_Kira_0_ab04f09c:
+# game/dialogues/erictalk.rpy:636## # translate crowdin Eric_talk_about_Kira_0_ab04f09c:
 msgid "[Eric_13]Используй более понятные слова, Макс."
 msgstr "[Eric_13]Usa palabras más claras, Máx."
 
-# game/dialogues/erictalk.rpy:616## # translate crowdin Eric_talk_about_Kira_0_cae5ce20:
+# game/dialogues/erictalk.rpy:637## # translate crowdin Eric_talk_about_Kira_0_cae5ce20:
 msgid "[Max_07]Мы с ней, как бы это сказать... занимаемся оральными утехами..."
 msgstr "[Max_07]Estamos con ella, ¿cómo dirías eso... hacemos placeres orales..."
 
-# game/dialogues/erictalk.rpy:617## # translate crowdin Eric_talk_about_Kira_0_ad877c77:
+# game/dialogues/erictalk.rpy:638## # translate crowdin Eric_talk_about_Kira_0_ad877c77:
 msgid "[Eric_12]Чего?!"
 msgstr "[Eric_12]¿Qué?"
 
-# game/dialogues/erictalk.rpy:618## # translate crowdin Eric_talk_about_Kira_0_41f2d91b:
+# game/dialogues/erictalk.rpy:639## # translate crowdin Eric_talk_about_Kira_0_41f2d91b:
 msgid "[Max_04]У нас с ней интимная близость, вот."
 msgstr "[Max_04]Tenemos intimidad con ella, aquí."
 
-# game/dialogues/erictalk.rpy:619## # translate crowdin Eric_talk_about_Kira_0_66b1162c:
+# game/dialogues/erictalk.rpy:640## # translate crowdin Eric_talk_about_Kira_0_66b1162c:
 msgid "[Eric_04]Да ладно! Это у тебя приколы такие, Макс?! Хочешь сказать, она тебе отсасывает?!"
 msgstr "[Eric_04]¡Vamos! ¡¿Eres así, Max?! ¡¿Quieres decir que te chupa?!"
 
-# game/dialogues/erictalk.rpy:620## # translate crowdin Eric_talk_about_Kira_0_1dc507c8:
+# game/dialogues/erictalk.rpy:641## # translate crowdin Eric_talk_about_Kira_0_1dc507c8:
 msgid "[Max_03]Ага. Кстати, по мне так это самая офигенная вещь в мире!"
 msgstr "[Max_03]sí. Por cierto, para mí, ¡esto es lo más increíble del mundo!"
 
-# game/dialogues/erictalk.rpy:621## # translate crowdin Eric_talk_about_Kira_0_695395c6:
+# game/dialogues/erictalk.rpy:642## # translate crowdin Eric_talk_about_Kira_0_695395c6:
 msgid "[Eric_06]Погоди... То есть ТЕБЕ отсасывает ТВОЯ родная тётя?! Это ты хочешь сказать?"
 msgstr "[Eric_06]Espera un minuto... Es decir, ¡¿TÚ chupas a tu propia tía?! ¿Es eso lo que estás diciendo?"
 
-# game/dialogues/erictalk.rpy:622## # translate crowdin Eric_talk_about_Kira_0_9acc7a48:
+# game/dialogues/erictalk.rpy:643## # translate crowdin Eric_talk_about_Kira_0_9acc7a48:
 msgid "[Max_01]Ну да, об этом я и говорю."
 msgstr "[Max_01]sí, de eso estoy hablando."
 
-# game/dialogues/erictalk.rpy:623## # translate crowdin Eric_talk_about_Kira_0_918aaf8d:
+# game/dialogues/erictalk.rpy:644## # translate crowdin Eric_talk_about_Kira_0_918aaf8d:
 msgid "[Eric_12]Так. Вот это нихрена себе открытие! Это как вышло вообще?!"
 msgstr "[Eric_12]así. ¡Eso es un descubrimiento! ¡¿Cómo resultó en absoluto?!"
 
-# game/dialogues/erictalk.rpy:624## # translate crowdin Eric_talk_about_Kira_0_361cd83d:
+# game/dialogues/erictalk.rpy:645## # translate crowdin Eric_talk_about_Kira_0_361cd83d:
 msgid "[Max_07]Наверно, сказалось то, что она работает в порноиндустрии сейчас... Хотя, она и без этого была довольно открыта в плане таких развлечений."
 msgstr "[Max_07]Probablemente afectada por el hecho de que ahora trabaja en la industria ... Aunque, ella era aunque, era bastante abierta en términos de tal entretenimiento."
 
-# game/dialogues/erictalk.rpy:625## # translate crowdin Eric_talk_about_Kira_0_e0b3dd08:
+# game/dialogues/erictalk.rpy:646## # translate crowdin Eric_talk_about_Kira_0_e0b3dd08:
 msgid "[Eric_08]Ого! Это шикарные новости, Макс! Ты только что подогнал мне порномодель, а она ещё и сестра моей женщины! Это очень круто!!!"
 msgstr "[Eric_08]es así! ¡Esa es una gran noticia, Max! ¡Me acabas de dar un modelo, y ella también es la hermana de mi mujer! Es muy chulo!!!"
 
-# game/dialogues/erictalk.rpy:626## # translate crowdin Eric_talk_about_Kira_0_0cb780ea:
+# game/dialogues/erictalk.rpy:647## # translate crowdin Eric_talk_about_Kira_0_0cb780ea:
 msgid "[Max_09]Значит, такая информация тянет на бонус?"
 msgstr "[Max_09]Entonces, ¿tal información tira de un bono?"
 
-# game/dialogues/erictalk.rpy:627## # translate crowdin Eric_talk_about_Kira_0_9942b3b4:
+# game/dialogues/erictalk.rpy:648## # translate crowdin Eric_talk_about_Kira_0_9942b3b4:
 msgid "[Eric_04]Однозначно тянет. Обязательно это обсудим... Но сперва, когда вы этим с Кирой занимаетесь?"
 msgstr "[Eric_04]Definitivamente tira. Definitivamente discutiremos esto ... Pero primero, ¿cuándo haces eso con Kira?"
 
-# game/dialogues/erictalk.rpy:628## # translate crowdin Eric_talk_about_Kira_0_ae52c68e:
+# game/dialogues/erictalk.rpy:649## # translate crowdin Eric_talk_about_Kira_0_ae52c68e:
 msgid "[Max_04]По ночам, когда она возвращается с работы. В это время все уже спят, а мы развлекаемся..."
 msgstr "[Max_04]Por la noche cuando regresa del trabajo. En este momento, todos ya están dormidos y nos estamos divirtiendo ..."
 
-# game/dialogues/erictalk.rpy:629## # translate crowdin Eric_talk_about_Kira_0_90704005:
+# game/dialogues/erictalk.rpy:650## # translate crowdin Eric_talk_about_Kira_0_90704005:
 msgid "[Eric_03]И где вы развлекаетесь?"
 msgstr "[Eric_03]¿Y dónde te diviertes?"
 
-# game/dialogues/erictalk.rpy:630## # translate crowdin Eric_talk_about_Kira_0_26197899:
+# game/dialogues/erictalk.rpy:651## # translate crowdin Eric_talk_about_Kira_0_26197899:
 msgid "[Max_01]Когда ты ночуешь у нас в гостях - в ванной комнате и у бассейна."
 msgstr "[Max_01]Cuando pase la noche con nosotros - en el baño y en la piscina."
 
-# game/dialogues/erictalk.rpy:631## # translate crowdin Eric_talk_about_Kira_0_f5bec7c8:
+# game/dialogues/erictalk.rpy:652## # translate crowdin Eric_talk_about_Kira_0_f5bec7c8:
 msgid "[Eric_06]Да вы рисковые ребята! Не боитесь, что вас кто-то увидит? В ванной ладно, там ещё есть шансы как-то скрыться, а вот у бассейна..."
 msgstr "[Eric_06]¡Sí, chicos arriesgados! ¿No tienes miedo de que alguien te vea? En el baño está bien, todavía hay posibilidades de escapar de alguna manera, pero junto a la piscina ..."
 
-# game/dialogues/erictalk.rpy:632## # translate crowdin Eric_talk_about_Kira_0_8bf662f4:
+# game/dialogues/erictalk.rpy:653## # translate crowdin Eric_talk_about_Kira_0_8bf662f4:
 msgid "[Max_02]Да мы там по-быстренькому шалим..."
 msgstr "[Max_02]Sí, estamos allí en un chal rápido ..."
 
-# game/dialogues/erictalk.rpy:633## # translate crowdin Eric_talk_about_Kira_0_840a0cb4:
+# game/dialogues/erictalk.rpy:654## # translate crowdin Eric_talk_about_Kira_0_840a0cb4:
 msgid "[Eric_08]В таком случае, я обязательно загляну к вам в ванную, как бы случайно... Так сказать, поймаю с поличным, чтобы можно было максимально просто развести твою тётю на оральные утехи и для себя. Ты же подыграешь мне?"
 msgstr "[Eric_08]En este caso, definitivamente miraré en su baño, como si fuera por accidente ... Por así decirlo, me atraparán in fraganti, para que sea lo más fácil posible divorciarme de tu tía por placeres orales y por mí mismo. ¿Jugarás conmigo?"
 
-# game/dialogues/erictalk.rpy:634## # translate crowdin Eric_talk_about_Kira_0_b3862c21:
+# game/dialogues/erictalk.rpy:655## # translate crowdin Eric_talk_about_Kira_0_b3862c21:
 msgid "[Max_03]Если договоримся о моих \"премиальных\", то подыграю."
 msgstr "[Max_03]Si estamos de acuerdo en mi \"prima\", seguiré el juego."
 
-# game/dialogues/erictalk.rpy:635## # translate crowdin Eric_talk_about_Kira_0_c1a34d4e:
+# game/dialogues/erictalk.rpy:656## # translate crowdin Eric_talk_about_Kira_0_c1a34d4e:
 msgid "[Eric_02]Само собой, Макс. Это уже совсем другой разговор."
 msgstr "[Eric_02]Por supuesto, Max. Esa es otra conversación."
 
-# game/dialogues/erictalk.rpy:650## # translate crowdin Eric_talk_about_Kira_1_7b4dc231:
+# game/dialogues/erictalk.rpy:671## # translate crowdin Eric_talk_about_Kira_1_7b4dc231:
 msgid "[Eric_05]О чём тут можно говорить, Макс? Твоя тётя крепко попала на мой член! И между прочим, заслуженно... совратила своего племянника, вот теперь и будет отдуваться за это."
 msgstr "[Eric_05]¿De qué podemos hablar aquí, Max? ¡Tu tía me golpeó con fuerza! Y por cierto, merecidamente... sedujo a su sobrino, ahora soplará por ello."
 
-# game/dialogues/erictalk.rpy:651## # translate crowdin Eric_talk_about_Kira_1_29e10f9b:
+# game/dialogues/erictalk.rpy:672## # translate crowdin Eric_talk_about_Kira_1_29e10f9b:
 msgid "[Max_09]И ты думаешь, что я не устрою тебе проблем, если ты от неё не отстанешь?!"
 msgstr "[Max_09]¡¿Y crees que no estaré en problemas si no la respaldas?!"
 
-# game/dialogues/erictalk.rpy:652## # translate crowdin Eric_talk_about_Kira_1_77fecde0:
+# game/dialogues/erictalk.rpy:673## # translate crowdin Eric_talk_about_Kira_1_77fecde0:
 msgid "[Eric_08]Конечно не устроишь! Как будто ты что-то можешь сделать. Я трахаю твою маму и она под моим полным контролем. Твои сёстры всё больше проникаются моим вниманием и заботой. А Кира... просто ещё один приятный бонус ко всему этому."
 msgstr "[Eric_08]¡Por supuesto que no puedes! Es como si estuvieras en algo. Me follo a tu mamá y ella está bajo mi control total. Sus hermanas están cada vez más imbuidas de mi atención y cuidado. Y Kira... solo otra buena ventaja para todo esto."
 
-# game/dialogues/erictalk.rpy:653## # translate crowdin Eric_talk_about_Kira_1_9f4a45a4:
+# game/dialogues/erictalk.rpy:674## # translate crowdin Eric_talk_about_Kira_1_9f4a45a4:
 msgid "[Max_15]Ну ты и подонок!"
 msgstr "[Max_15]Bueno, ¡eres un bastón!"
 
-# game/dialogues/erictalk.rpy:654## # translate crowdin Eric_talk_about_Kira_1_a8d3d184:
+# game/dialogues/erictalk.rpy:675## # translate crowdin Eric_talk_about_Kira_1_a8d3d184:
 msgid "[Eric_07]А ты, Макс, уже скоро вылетишь из этого дома и будешь маршировать в сапогах... Тогда как я буду трахать всю твою семью в этом чудесном доме. И если бы ты был умнее, то мы бы даже здесь с тобой смогли ужиться, но..."
 msgstr "[Eric_07]Y tú, Max, pronto saldrás volando de esta casa y marcharás con botas... Mientras que voy a follar a toda tu familia en esta maravillosa casa. Y si fueras más inteligente, incluso nos llevaríamos bien aquí, pero..."
 
-# game/dialogues/erictalk.rpy:655## # translate crowdin Eric_talk_about_Kira_1_8b72bd61:
+# game/dialogues/erictalk.rpy:677## # translate crowdin Eric_talk_about_Kira_1_8b72bd61:
 msgid "[Max_16]Да пошёл ты![nointeract]"
 msgstr "[Max_16]¡Sí, te vas![nointeract]"
 
-# game/dialogues/erictalk.rpy:662## # translate crowdin Eric_talk_about_Kira_1_2849715d:
+# game/dialogues/erictalk.rpy:683## # translate crowdin Eric_talk_about_Kira_1_2849715d:
 msgid "[Eric_09]Теперь-то зачем о ней говорить? Я уже всё знаю! Вот вопрос, почему я об этом узнал только сейчас, Макс? Как-то не по-дружески получается..."
 msgstr "[Eric_09]Ahora, ¿por qué hablar de eso? ¡Ya lo sé todo! Aquí está la pregunta, ¿por qué solo me enteré ahora, Max? De alguna manera no funciona de una manera amistosa ..."
 
-# game/dialogues/erictalk.rpy:663## # translate crowdin Eric_talk_about_Kira_1_90bc55ba:
+# game/dialogues/erictalk.rpy:684## # translate crowdin Eric_talk_about_Kira_1_90bc55ba:
 msgid "[Max_07]Я думал, тебя только моя мама и сёстры интересуют."
 msgstr "[Max_07]pensé que solo estabas interesado en mi madre y mis hermanas."
 
-# game/dialogues/erictalk.rpy:664## # translate crowdin Eric_talk_about_Kira_1_3867ce9e:
+# game/dialogues/erictalk.rpy:685## # translate crowdin Eric_talk_about_Kira_1_3867ce9e:
 msgid "[Eric_01]Вот оно что! А такую отвязную совратительницу малолетних решил для себя придержать, да? Ох, разочаровал ты меня, Макс..."
 msgstr "[Eric_01]¡Aquí está! Y un seductor tan desapegado de menores decidió retener para sí mismo, ¿verdad? Oh, me decepcionaste, Max ..."
 
-# game/dialogues/erictalk.rpy:665## # translate crowdin Eric_talk_about_Kira_1_a28191e8:
+# game/dialogues/erictalk.rpy:686## # translate crowdin Eric_talk_about_Kira_1_a28191e8:
 msgid "[Max_01]Но теперь ты о ней знаешь, так что всё супер!"
 msgstr "[Max_01]Pero ahora lo sabes, ¡así que todo es genial!"
 
-# game/dialogues/erictalk.rpy:669## # translate crowdin Eric_talk_about_Kira_1_2ee40e37:
+# game/dialogues/erictalk.rpy:690## # translate crowdin Eric_talk_about_Kira_1_2ee40e37:
 msgid "[Eric_03]У меня-то всё супер, а вот ты лишаешься своих \"премиальных\" за свою оплошность."
 msgstr "[Eric_03]soy súper, pero pierdes tu \"prima\" por tu error."
 
-# game/dialogues/erictalk.rpy:670## # translate crowdin Eric_talk_about_Kira_1_d349b414:
+# game/dialogues/erictalk.rpy:691## # translate crowdin Eric_talk_about_Kira_1_d349b414:
 msgid "[Max_08]Эй, я же не знал, что Кира тоже тебя интересует!"
 msgstr "[Max_08]¡Oye, tampoco sabía que Kira era de interés para ti!"
 
-# game/dialogues/erictalk.rpy:671## # translate crowdin Eric_talk_about_Kira_1_7985e9ed:
+# game/dialogues/erictalk.rpy:692## # translate crowdin Eric_talk_about_Kira_1_7985e9ed:
 msgid "[Eric_13]Не надо тут из себя тупого изображать, Макс, всё ты знал. Но шанс исправиться у тебя есть. Так что, если вдруг тебе будет что мне рассказать интересного, то лучше рассказывай сразу."
 msgstr "[Eric_13]No finjas ser estúpido aquí, Max, lo sabías todo. Pero tienes la oportunidad de mejorar. Entonces, si de repente tienes algo interesante que decirme, es mejor contarlo de inmediato."
 
-# game/dialogues/erictalk.rpy:672## # translate crowdin Eric_talk_about_Kira_1_3fe25b04:
+# game/dialogues/erictalk.rpy:694## # translate crowdin Eric_talk_about_Kira_1_3fe25b04:
 msgid "[Max_11]Ладно, я всё понял.[nointeract]"
 msgstr "[Max_11]Está bien, lo tengo.[nointeract]"
 
-# game/dialogues/erictalk.rpy:681## # translate crowdin Eric_talk_about_Kira_1_db0ebd21:
+# game/dialogues/erictalk.rpy:702## # translate crowdin Eric_talk_about_Kira_1_db0ebd21:
 msgid "[Eric_13]Могло бы быть супер, но ты с Алисой меня подвёл, а теперь и с Кирой. А я тебе сразу сказал, что будет, если станешь мне мешаться. Видимо, ты принял это за шутку."
 msgstr "[Eric_13]Podría haber sido genial, pero tú y Alice me decepcionan, y ahora con Kira. E inmediatamente te dije lo que pasaría si interferías conmigo. Aparentemente lo tomaste como una broma."
 
-# game/dialogues/erictalk.rpy:682## # translate crowdin Eric_talk_about_Kira_1_91b213e3:
+# game/dialogues/erictalk.rpy:703## # translate crowdin Eric_talk_about_Kira_1_91b213e3:
 msgid "[Max_08]Я исправлюсь, правда!"
 msgstr "[Max_08]¡Lo arreglaré, de verdad!"
 
-# game/dialogues/erictalk.rpy:683## # translate crowdin Eric_talk_about_Kira_1_ebd79897:
+# game/dialogues/erictalk.rpy:704## # translate crowdin Eric_talk_about_Kira_1_ebd79897:
 msgid "[Eric_03]Поздно! Премиальные ты свои потерял, как и деньги от меня. И вообще всё, что могло быть, если бы ты ценил нашу с тобой дружбу. Я так уж и быть, не стану запрещать тебе подглядывать, но если снова будешь мне мешать, то вылетишь из этого дома очень быстро. Я ясно выразился?"
 msgstr "[Eric_03]¡Es demasiado tarde! Perdiste tus bonos, al igual que el dinero de mí. Y en general, todo eso podría ser si apreciara nuestra amistad con usted. No voy a prohibirte que mires, pero si interfieres conmigo nuevamente, saldrás volando de esta casa muy rápidamente. ¿Lo dije claramente?"
 
-# game/dialogues/erictalk.rpy:684## # translate crowdin Eric_talk_about_Kira_1_5907fcad:
+# game/dialogues/erictalk.rpy:705## # translate crowdin Eric_talk_about_Kira_1_5907fcad:
 msgid "[Max_13]Эй, ну как же так!"
 msgstr "[Max_13]¡Oye, cómo!"
 
-# game/dialogues/erictalk.rpy:685## # translate crowdin Eric_talk_about_Kira_1_36c8744c:
+# game/dialogues/erictalk.rpy:706## # translate crowdin Eric_talk_about_Kira_1_36c8744c:
 msgid "[Eric_15]Всё, давай проваливай. Не раздражай меня!"
 msgstr "[Eric_15]Eso es todo, vamos a fracasar. ¡No me molestes!"
 
-# game/dialogues/erictalk.rpy:686## # translate crowdin Eric_talk_about_Kira_1_3fe25b04_1:
+# game/dialogues/erictalk.rpy:708## # translate crowdin Eric_talk_about_Kira_1_3fe25b04_1:
 msgid "[Max_11]Ладно, я всё понял.[nointeract]"
 msgstr "[Max_11]Está bien, lo tengo.[nointeract]"
 
-# game/dialogues/erictalk.rpy:699## # translate crowdin Eric_talk_about_Kira_1_492bd5d7:
+# game/dialogues/erictalk.rpy:720## # translate crowdin Eric_talk_about_Kira_1_492bd5d7:
 msgid "[Eric_03]Ты хорошо отыграл жертву, Макс. Хотя, что там было играть. Теперь твоя тётя крепко попала на мой член! И между прочим, заслуженно... нечего несовершеннолетних родственников соблазнять!"
 msgstr "[Eric_03]Interpretaste bien a la víctima, Max. Aunque, lo que había que jugar. ¡Ahora tu tía está firmemente en mi polla! Y por cierto, merecidamente... ¡no hay nada que seduzca a parientes menores!"
 
-# game/dialogues/erictalk.rpy:700## # translate crowdin Eric_talk_about_Kira_1_8c47396a:
+# game/dialogues/erictalk.rpy:721## # translate crowdin Eric_talk_about_Kira_1_8c47396a:
 msgid "[Max_07]А мне можно с вами?"
 msgstr "[Max_07]¿Puedo estar contigo?"
 
-# game/dialogues/erictalk.rpy:701## # translate crowdin Eric_talk_about_Kira_1_d7b8f73b:
+# game/dialogues/erictalk.rpy:722## # translate crowdin Eric_talk_about_Kira_1_d7b8f73b:
 msgid "[Eric_06]Тебе что, подглядываний твоих любимых мало?"
 msgstr "[Eric_06]usted, mirar a sus seres queridos no es suficiente?"
 
-# game/dialogues/erictalk.rpy:702## # translate crowdin Eric_talk_about_Kira_1_c1884aa1:
+# game/dialogues/erictalk.rpy:723## # translate crowdin Eric_talk_about_Kira_1_c1884aa1:
 msgid "[Max_09]Я вообще-то первый с ней сблизился! Конечно, она сама этого хотела, но всё же... Я мог и не рассказывать о ней, но по-дружески решил поделиться. Мне кажется, это тянет на серьёзную премию!"
 msgstr "[Max_09]¡en realidad fui el primero en acercarme a ella! Por supuesto, ella misma lo quería, pero aún así ... Puede que no haya hablado de ello, pero decidí compartirlo de una manera amistosa. ¡Creo que está tirando por un premio serio!"
 
-# game/dialogues/erictalk.rpy:706## # translate crowdin Eric_talk_about_Kira_1_895459f6:
+# game/dialogues/erictalk.rpy:727## # translate crowdin Eric_talk_about_Kira_1_895459f6:
 msgid "[Eric_02]Ну, спорить с этим не буду. Ты мне не мешал и даже с кое-чем помог, так что да... Как надумаешь, что хочешь, так сразу обращайся, что смогу - сделаю."
 msgstr "[Eric_02]Bueno, no discutiré con eso. No me molestaste e incluso me ayudaste con algo, así que sí... A medida que pienses lo que quieres, entonces gira inmediatamente que pueda, lo haré."
 
-# game/dialogues/erictalk.rpy:707## # translate crowdin Eric_talk_about_Kira_1_90c46fa5:
+# game/dialogues/erictalk.rpy:729## # translate crowdin Eric_talk_about_Kira_1_90c46fa5:
 msgid "[Max_05]Круто![nointeract]"
 msgstr "[Max_05]Genial![nointeract]"
 
-# game/dialogues/erictalk.rpy:714## # translate crowdin Eric_talk_about_Kira_1_36aae4a3:
+# game/dialogues/erictalk.rpy:735## # translate crowdin Eric_talk_about_Kira_1_36aae4a3:
 msgid "[Eric_01]Да, Макс, тянуло бы... Если бы ты не обломал мой подарок для Алисы! Но за то, что ты подогнал мне Киру на блюдечке, я тебя прощаю и даже даю возможность попросить что-либо. Конечно, в относительно разумных пределах."
 msgstr "[Eric_01]sí, Max, tiraría... ¡Si tan solo no hubieras roto mi regalo para Alice! Pero por el hecho de que pones a Kira en bandeja para mí, te perdono e incluso te doy la oportunidad de pedir algo. Por supuesto, dentro de límites relativamente razonables."
 
-# game/dialogues/erictalk.rpy:715## # translate crowdin Eric_talk_about_Kira_1_b1d48d26:
+# game/dialogues/erictalk.rpy:737## # translate crowdin Eric_talk_about_Kira_1_b1d48d26:
 msgid "[Max_01]Хорошо, как надумаю, что хочу, так сразу к тебе...[nointeract]"
 msgstr "[Max_01]Está bien, como creo que quiero, así que inmediatamente a ti ...[nointeract]"
+
+# game/dialogues/erictalk.rpy:752## # translate crowdin Eric_tribute_936f5724:
+msgid "[Eric_03]Ну вот, хоть какую-то пользу от тебя можно заиметь."
+msgstr ""
+
+# game/dialogues/erictalk.rpy:753## # translate crowdin Eric_tribute_ce89f953:
+msgid "[Max_15]Но смотри... Если всё равно будешь лезть к Лизе..."
+msgstr ""
+
+# game/dialogues/erictalk.rpy:757## # translate crowdin Eric_tribute_d3d293c3:
+msgid "[Eric_04]Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. И кстати, я решил поднять компенсацию за Лизу до 1000$ со следующего раза. Думаю, эта цена справедливее..."
+msgstr ""
+
+# game/dialogues/erictalk.rpy:758## # translate crowdin Eric_tribute_c3a2a809:
+msgid "[Max_16]Эрик, да какого чёрта?! Откуда мне знать, что ты не будешь просить каждый раз всё больше и больше?"
+msgstr ""
+
+# game/dialogues/erictalk.rpy:760## # translate crowdin Eric_tribute_22a2c20e:
+msgid "[Eric_06]Нет, Макс. Уверяю, это моё последнее требование, которое касается Лизы. Жду через неделю с моими денежками.[nointeract]"
+msgstr ""
+
+# game/dialogues/erictalk.rpy:766## # translate crowdin Eric_tribute_6795eebc:
+msgid "[Eric_04]Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
+msgstr ""
+
+# game/dialogues/erictalk.rpy:774## # translate crowdin Eric_tribute_no_money_2613eeb8:
+msgid "[Eric_09]Эх, Макс... Ну вот ни черта с тебя толку нет. Только подумал, что ты можешь принести хоть какую-то пользу... Свали с глах моих!"
+msgstr ""
+
+# game/dialogues/erictalk.rpy:775## # translate crowdin Eric_tribute_no_money_70d7eeaa:
+msgid "[Max_10]А что теперь с Лизой?"
+msgstr ""
+
+# game/dialogues/erictalk.rpy:776## # translate crowdin Eric_tribute_no_money_0cb81108:
+msgid "[Eric_01]Лиза теперь будет меньшей из твоих проблем..."
+msgstr ""
+
+# game/dialogues/erictalk.rpy:777## # translate crowdin Eric_tribute_no_money_16b03463:
+msgid "[Max_09]Это ещё что значит?"
+msgstr ""
+
+# game/dialogues/erictalk.rpy:779## # translate crowdin Eric_tribute_no_money_dd72ca96:
+msgid "[Eric_13]Скоро узнаешь. А теперь проваливай![nointeract]"
+msgstr ""
 
 msgid "{i}В другой раз...{/i}"
 msgstr "{i}Otra vez... {/i}"
 
-#    # game/dialogues/erictalk.rpy:49
+#    # game/dialogues/erictalk.rpy:55
 msgid "Э... Ну не совсем так..."
 msgstr "Este... Bueno, no exactamente..."
 
-#    # game/dialogues/erictalk.rpy:49
+#    # game/dialogues/erictalk.rpy:55
 msgid "А так можно?"
 msgstr "¿Es posible?"
 
-#    # game/dialogues/erictalk.rpy:59
+#    # game/dialogues/erictalk.rpy:65
 msgid "Кстати, как ты это делаешь?"
 msgstr "Por cierto, ¿cómo lo haces?"
 
-#    # game/dialogues/erictalk.rpy:59
+#    # game/dialogues/erictalk.rpy:65
 msgid "Отлично! Спасибо, Эрик."
 msgstr "¡Es genial! Gracias, Eric."
 
-#    # game/dialogues/erictalk.rpy:65
+#    # game/dialogues/erictalk.rpy:71
 msgid "Это угроза?"
 msgstr "¿Es una amenaza?"
 
-#    # game/dialogues/erictalk.rpy:65
+#    # game/dialogues/erictalk.rpy:71
 msgid "Хорошо, Эрик!"
 msgstr "¡Está bien, Eric!"
 
-#    # game/dialogues/erictalk.rpy:145
+#    # game/dialogues/erictalk.rpy:159
 msgid "{i}сесть на кровать{/i}"
 msgstr "{i}se sientan en la cama{/i}"
 
-#    # game/dialogues/erictalk.rpy:160
+#    # game/dialogues/erictalk.rpy:174
 msgid "{i}слегка подвинуться{/i}"
 msgstr "{i}mueve ligeramente{/i}"
 
-#    # game/dialogues/erictalk.rpy:220
+#    # game/dialogues/erictalk.rpy:235
 msgid "{i}смотреть, как мама сосёт{/i}"
 msgstr "{i}mira a mamá chupar{/i}"
 
-#    # game/dialogues/erictalk.rpy:279
+#    # game/dialogues/erictalk.rpy:294
 msgid "{i}пересесть{/i}"
 msgstr "{i}cambiar{/i}"
 
-#    # game/dialogues/erictalk.rpy:322
+#    # game/dialogues/erictalk.rpy:339
 msgid "Нет, можешь обучать... (продолжение дружбы)"
 msgstr "No, puedes enseñar... (continuación de la amistad)"
 
-#    # game/dialogues/erictalk.rpy:322
-msgid "Нет, можешь обучать... (попытка подружиться)"
-msgstr "No, puedes enseñar... (tratando de hacer amigos)"
-
-#    # game/dialogues/erictalk.rpy:322
+#    # game/dialogues/erictalk.rpy:339
 msgid "А ей не рановато? (попытка выиграть время)"
 msgstr "¿No es demasiado pronto? (tratando de ganar tiempo)"
 
-#    # game/dialogues/erictalk.rpy:322
-msgid "Лизу тебе не отдам! (расторжение дружбы)"
-msgstr "¡No te daré a Lisa! (disolución de la amistad)"
-
-#    # game/dialogues/erictalk.rpy:322
+#    # game/dialogues/erictalk.rpy:339
 msgid "Лизу тебе не отдам! (продолжение вражды)"
 msgstr "¡No te daré a Lisa! (continuación del feudo)"
 
-#    # game/dialogues/erictalk.rpy:454
+#    # game/dialogues/erictalk.rpy:473
 msgid "Значит, тебя её блог интересует? (продолжение дружбы)"
 msgstr "¿Así que estás interesado en su blog? (continuación de la amistad)"
 
-#    # game/dialogues/erictalk.rpy:454
+#    # game/dialogues/erictalk.rpy:473
 msgid "Я мало что об этом знаю... (попытка выиграть время)"
 msgstr "No sé mucho al respecto... (tratando de ganar tiempo)"
 
-#    # game/dialogues/erictalk.rpy:454
-msgid "Не лез бы ты к Алисе! (расторжение дружбы)"
-msgstr "¿No irías a Alice? (disolución de la amistad)"
-
-#    # game/dialogues/erictalk.rpy:454
-msgid "Нужна помощь? (попытка подружиться)"
-msgstr "¿Necesita ayuda? (tratando de hacer amigos)"
-
-#    # game/dialogues/erictalk.rpy:454
+#    # game/dialogues/erictalk.rpy:473
 msgid "Вот у неё и спрашивай! (продолжение вражды)"
 msgstr "¡Pregúntale! (continuación del feudo)"
 
