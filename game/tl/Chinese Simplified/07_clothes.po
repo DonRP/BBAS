@@ -10,48 +10,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:16\n"
 
 msgid "Повседневная"
 msgstr "每日"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Для сна"
 msgstr "睡眠模式"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Для йоги"
 msgstr "瑜伽"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Блог в нижнем белье"
 msgstr "内衣博客"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Готовит завтрак"
 msgstr "准备早餐"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Готовит ужин"
 msgstr "准备晚餐"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Утренний отдых"
 msgstr "早晨休息"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Вечерний отдых"
 msgstr "晚间休息"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Купальник"
 msgstr "游泳衣"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "За уроками"
 msgstr "课后"
 
-#    # game/core/07_clothes.rpy:160
+#    # game/core/07_clothes.rpy:87
+msgid "Для прогулок"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:163
 msgid "Влияние Макса недостаточно"
 msgstr "马克斯的影响是不够的"
 
