@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-06-19 20:09
+﻿# TODO: Translation updated at 2021-11-02 12:54
 
 # game/events/olivia_cam.rpy:8## # translate crowdin cam0_olivia_lisa_sun_fb60e201:
 msgid "[Max_01]Благодаря натуризму Оливии, внимания ко двору станет побольше..."
 msgstr "[Max_01]Благодаря натуризму Оливии, внимания ко двору станет побольше..."
 
-# game/events/olivia_cam.rpy:31## # translate crowdin cam1_olivia_lisa_swim_c66f3478:
+# game/events/olivia_cam.rpy:31## # translate crowdin cam1_olivia_lisa_swim_0395e8e9:
 msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички и тем, как Оливия светит своими прелестями..."
 msgstr "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички и тем, как Оливия светит своими прелестями..."
 

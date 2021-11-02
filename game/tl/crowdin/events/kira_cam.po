@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-06-19 20:09
+﻿# TODO: Translation updated at 2021-11-02 12:54
 
 # game/events/kira_cam.rpy:7## # translate crowdin cam0_kira_sleep_night_e86a44fa:
 msgid "[Max_01]Моя очаровательная тётя Кира спит..."
@@ -184,9 +184,9 @@ msgstr "[Max_09]Ничего толком не видно... Стоит взгл
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы бассейн..."
 msgstr "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы бассейн..."
 
-# game/events/kira_cam.rpy:425## # translate crowdin cam1_return_from_club_4f374152:
-msgid "[Max_01]{i}( Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их... ){/i}[nointeract]"
-msgstr "[Max_01]{i}( Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их... ){/i}[nointeract]"
+# game/events/kira_cam.rpy:426## # translate crowdin cam1_return_from_club_53f60e0c:
+msgid "[Max_01]{m}Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их...{/m}[nointeract]"
+msgstr "[Max_01]{m}Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их...{/m}[nointeract]"
 
 # game/events/kira_cam.rpy:432## # translate crowdin cam1_return_from_club_984a3aa6:
 msgid "[Max_00]Поздно уже, пойду лучше спать..."
