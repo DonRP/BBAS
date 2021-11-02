@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:20\n"
 
 msgid "Новый купальник Лизы"
 msgstr "丽莎的新泳衣"
@@ -34,6 +34,14 @@ msgstr "腿很好"
 #    # game/extra/extra.rpy:56
 msgid "Помассирую не только ножки"
 msgstr "我不仅挥舞我的腿"
+
+#    # game/extra/extra.rpy:56
+msgid "Могу не только руками"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Ответная благодарность"
+msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Первый массаж ног"
@@ -80,6 +88,10 @@ msgid "Я была плохой девочкой"
 msgstr "我是个坏女孩"
 
 #    # game/extra/extra.rpy:56
+msgid "Как тебе такое?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
 msgstr "我给你带了条毛巾！"
 
@@ -90,6 +102,14 @@ msgstr "爱丽丝博客的第一张照片"
 #    # game/extra/extra.rpy:56
 msgid "Я обошёл Эрика с подарком для Алисы"
 msgstr "我带着给爱丽丝的礼物绕过了埃里克"
+
+#    # game/extra/extra.rpy:56
+msgid "Попка, которую я теперь могу отшлёпать"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Меня нужно наказать именно так!"
+msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Смотрим порно вместе с тётей"
@@ -140,6 +160,18 @@ msgid "Немного БДСМ от Киры"
 msgstr "基拉的一点 Bdsm"
 
 #    # game/extra/extra.rpy:56
+msgid "Хватит мять сиськи"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "И помылись, и порезвились"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Кто нас фотографирует?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
 msgid "Вкусные уроки с сестрёнкой"
 msgstr "和妹妹一起上好吃的课"
 
@@ -154,6 +186,22 @@ msgstr "不仅仅是帮助做家庭作业"
 #    # game/extra/extra.rpy:56
 msgid "Ужастики в обнимку с Лизой"
 msgstr "与丽莎拥抱的恐怖片"
+
+#    # game/extra/extra.rpy:56
+msgid "Без майки куда интереснее"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Долой смущение"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Это точно триллер-детектив?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Полотенце снова сползает..."
+msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Урок по минету от мамы и Эрика"
@@ -187,35 +235,35 @@ msgstr "需要多久才能完成？"
 msgid "Кружевное боди для Алисы от Эрика"
 msgstr "蕾丝身体爱丽丝从埃里克"
 
-#    # game/extra/extra.rpy:139
+#    # game/extra/extra.rpy:155
 msgid "ВОСПОМИНАНИЯ"
 msgstr "回忆"
 
-#    # game/extra/extra.rpy:142
+#    # game/extra/extra.rpy:158
 msgid "ФОТОСНИМКИ"
 msgstr "照片"
 
-#    # game/extra/extra.rpy:193
+#    # game/extra/extra.rpy:209
 msgid "Воспоминание недоступно"
 msgstr "内存不可用"
 
-#    # game/extra/extra.rpy:199
+#    # game/extra/extra.rpy:215
 msgid "Воспоминание ещё не открыто"
 msgstr "记忆尚未打开"
 
-#    # game/extra/extra.rpy:205
+#    # game/extra/extra.rpy:221
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr "您的收藏中还没有照片。"
 
-#    # game/extra/extra.rpy:274
+#    # game/extra/extra.rpy:290
 msgid "Предыдущий снимок"
 msgstr "上一快照"
 
-#    # game/extra/extra.rpy:280
+#    # game/extra/extra.rpy:296
 msgid "Вернуться в коллекцию"
 msgstr "返回模型"
 
-#    # game/extra/extra.rpy:285
+#    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "下一快照"
 
