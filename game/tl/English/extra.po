@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-11-02 11:20\n"
 
 msgid "Новый купальник Лизы"
 msgstr ""
@@ -33,6 +33,14 @@ msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Помассирую не только ножки"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Могу не только руками"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Ответная благодарность"
 msgstr ""
 
 #    # game/extra/extra.rpy:56
@@ -80,6 +88,10 @@ msgid "Я была плохой девочкой"
 msgstr ""
 
 #    # game/extra/extra.rpy:56
+msgid "Как тебе такое?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
 msgstr ""
 
@@ -89,6 +101,14 @@ msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Я обошёл Эрика с подарком для Алисы"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Попка, которую я теперь могу отшлёпать"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Меня нужно наказать именно так!"
 msgstr ""
 
 #    # game/extra/extra.rpy:56
@@ -140,6 +160,18 @@ msgid "Немного БДСМ от Киры"
 msgstr ""
 
 #    # game/extra/extra.rpy:56
+msgid "Хватит мять сиськи"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "И помылись, и порезвились"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Кто нас фотографирует?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
 msgid "Вкусные уроки с сестрёнкой"
 msgstr ""
 
@@ -153,6 +185,22 @@ msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Ужастики в обнимку с Лизой"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Без майки куда интереснее"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Долой смущение"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Это точно триллер-детектив?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Полотенце снова сползает..."
 msgstr ""
 
 #    # game/extra/extra.rpy:56
@@ -187,35 +235,35 @@ msgstr ""
 msgid "Кружевное боди для Алисы от Эрика"
 msgstr ""
 
-#    # game/extra/extra.rpy:139
+#    # game/extra/extra.rpy:155
 msgid "ВОСПОМИНАНИЯ"
 msgstr ""
 
-#    # game/extra/extra.rpy:142
+#    # game/extra/extra.rpy:158
 msgid "ФОТОСНИМКИ"
 msgstr ""
 
-#    # game/extra/extra.rpy:193
+#    # game/extra/extra.rpy:209
 msgid "Воспоминание недоступно"
 msgstr ""
 
-#    # game/extra/extra.rpy:199
+#    # game/extra/extra.rpy:215
 msgid "Воспоминание ещё не открыто"
 msgstr ""
 
-#    # game/extra/extra.rpy:205
+#    # game/extra/extra.rpy:221
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr ""
 
-#    # game/extra/extra.rpy:274
+#    # game/extra/extra.rpy:290
 msgid "Предыдущий снимок"
 msgstr ""
 
-#    # game/extra/extra.rpy:280
+#    # game/extra/extra.rpy:296
 msgid "Вернуться в коллекцию"
 msgstr ""
 
-#    # game/extra/extra.rpy:285
+#    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr ""
 
