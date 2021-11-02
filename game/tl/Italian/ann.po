@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:18\n"
 
 # game/events/ann.rpy:10## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -553,7 +553,7 @@ msgstr "{i}voltare le chiavi in giavolte{/i}"
 
 #    # game/events/ann.rpy:197
 msgid "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Non ho sbirciata. È una coincidenza! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+msgstr "Non stavo sbirciando. È stato un incidente! {color=[_ch1.col]}(Persuasione. Possibilità: [_ch1.vis]){/color}"
 
 #    # game/events/ann.rpy:197
 msgid "Мам, извини..."
@@ -585,7 +585,7 @@ msgstr "Oh, scusa. Dimenticavo..."
 
 #    # game/events/ann.rpy:352
 msgid "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Vieni mamma! Era così poco, abbiamo di più... {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+msgstr "Andiamo, mamma! Non era abbastanza, prendiamone ancora un po'... {color=[_ch1.col]}(Persuasione. Possibilità: [_ch1.vis]){/color}"
 
 #    # game/events/ann.rpy:352
 msgid "Ну мам! Этого было так мало, давай ещё..."
