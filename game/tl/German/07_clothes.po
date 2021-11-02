@@ -10,48 +10,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-10-20 01:45\n"
+"PO-Revision-Date: 2021-11-02 11:16\n"
 
 msgid "Повседневная"
 msgstr "Routine"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Для сна"
 msgstr "Schlafen"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Для йоги"
 msgstr "Für Yoga"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Блог в нижнем белье"
 msgstr "Dessous-Blog"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Готовит завтрак"
 msgstr "Frühstück vorbereiten"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Готовит ужин"
 msgstr "Kocht Abendessen"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Утренний отдых"
 msgstr "Morgenruhe"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Вечерний отдых"
 msgstr "Abendruhe"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "Купальник"
 msgstr "Badeanzug"
 
-#    # game/core/07_clothes.rpy:86
+#    # game/core/07_clothes.rpy:87
 msgid "За уроками"
 msgstr "Für den Unterricht"
 
-#    # game/core/07_clothes.rpy:160
+#    # game/core/07_clothes.rpy:87
+msgid "Для прогулок"
+msgstr ""
+
+#    # game/core/07_clothes.rpy:163
 msgid "Влияние Макса недостаточно"
 msgstr "Max's Einfluss reicht nicht aus"
 
