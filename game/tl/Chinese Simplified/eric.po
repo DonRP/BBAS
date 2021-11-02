@@ -10,1421 +10,1756 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-11 00:33\n"
+"PO-Revision-Date: 2021-11-02 12:35\n"
 
-# game/events/eric.rpy:12## # translate crowdin Eric_talk_afterdinner_84e16ca3:
+# game/events/eric.rpy:13## # translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
 msgstr "麦克斯，只要你妈妈换衣服，我想和你谈谈。可以这么说"
 
-# game/events/eric.rpy:14## # translate crowdin Eric_talk_afterdinner_9a9eff04:
+# game/events/eric.rpy:15## # translate crowdin Eric_talk_afterdinner_9a9eff04:
 msgid "[Max_01]Конечно..."
 msgstr "[Max_01]课程{/i..."
 
-# game/events/eric.rpy:16## # translate crowdin Eric_talk_afterdinner_7bba59ab:
+# game/events/eric.rpy:18## # translate crowdin Eric_talk_afterdinner_7bba59ab:
 msgid "[Eric_05]Я заметил, что ты настроен вполне дружелюбно. Для меня важно подружиться с твоей семьёй, чтобы твоя мама не испытывала дискомфорт на этой почве, если ты меня понимаешь...[nointeract]"
 msgstr "我注意到你很友好。对我来说，与你的家人交朋友是很重要的，这样你的妈妈就不会因为你了解我而感到不适"
 
-# game/events/eric.rpy:23## # translate crowdin Eric_talk_afterdinner_0d5cb7f0:
+# game/events/eric.rpy:24## # translate crowdin Eric_talk_afterdinner_0d5cb7f0:
 msgid "[Max_00]Ну, давай..."
 msgstr "[Max_00]嗯，想想看..."
 
-# game/events/eric.rpy:25## # translate crowdin Eric_talk_afterdinner_6065daea:
+# game/events/eric.rpy:27## # translate crowdin Eric_talk_afterdinner_6065daea:
 msgid "[Eric_09]Я знаю, что мы начали знакомство не идеально, но мне показалось, что мы можем найти общий язык. Для меня важно, чтобы твоя мама не испытывала какой-либо дискомфорт из-за этого...[nointeract]"
 msgstr "我知道我们开始相识并不完美，但我觉得我们可以找到共同点。对我来说，重要的是你的妈妈不感到任何不适…"
 
-# game/events/eric.rpy:32## # translate crowdin Eric_talk_afterdinner_3d2bc793:
+# game/events/eric.rpy:33## # translate crowdin Eric_talk_afterdinner_3d2bc793:
 msgid "[Max_09]У меня есть выбор?"
 msgstr "[Max_09]我有选择的余地吗？"
 
-# game/events/eric.rpy:34## # translate crowdin Eric_talk_afterdinner_f01572f3:
+# game/events/eric.rpy:36## # translate crowdin Eric_talk_afterdinner_f01572f3:
 msgid "[Eric_13]Ты знаешь, мы начали знакомство как-то совсем неудачно. Предлагаю как-то уладить этот конфликт. Я бы очень не хотел, чтобы твоя мама испытывала дискомфорт по этому поводу...[nointeract]"
 msgstr "你知道，我们开始约会，不知何故，完全失败了。我建议以某种方式解决这场冲突。我真的不想让你妈妈不舒服…"
 
-# game/events/eric.rpy:45## # translate crowdin Eric_talk_afterdinner_good_576d188f:
+# game/events/eric.rpy:47## # translate crowdin Eric_talk_afterdinner_good_576d188f:
 msgid "[Eric_01]Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет...[nointeract]"
 msgstr "[Eric_01]很好如果我们成为朋友，你不会后悔的，麦克斯。但是，为了确保，让我们在一周后回到这次谈话。如果我们找到共同点，一切都会好起来的。如果不是[nointeract]..."
 
-# game/events/eric.rpy:57## # translate crowdin Eric_talk_afterdinner_bad_5431f4ad:
+# game/events/eric.rpy:59## # translate crowdin Eric_talk_afterdinner_bad_5431f4ad:
 msgid "[Eric_01]Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь...[nointeract]"
 msgstr "[Eric_01]如果我是你，我就不会在敌人不在的地方寻找敌人了。我建议一周后再谈。如果我们成为朋友，你不会后悔的。但是如果你决定和我打仗，你一定会输[nointeract]的..."
 
-# game/events/eric.rpy:65## # translate crowdin Eric_talk_afterdinner_what_bd2c8839:
+# game/events/eric.rpy:67## # translate crowdin Eric_talk_afterdinner_what_bd2c8839:
 msgid "[Eric_05]Если решишь испытать судьбу, то сам всё скоро узнаешь. У меня есть влияние, деньги, харизма. А главное - я умею убеждать и подчинять других людей. А что есть у тебя?[nointeract]"
 msgstr "[Eric_05]如果你决定经历命运，你很快就会知道的。我有影响力，有钱，有魅力。最重要的是，我知道如何说服和服从别人。你有什么？[nointeract]"
 
-# game/events/eric.rpy:74## # translate crowdin Eric_talk_afterdinner_what_3a292d72:
+# game/events/eric.rpy:76## # translate crowdin Eric_talk_afterdinner_what_3a292d72:
 msgid "[Eric_02]Правда? А я вот уже слышал, что Алиса относится к тебе как к маленькому извращенцу, Лиза рядом с тобой просто потому, что других защитников в доме не было, а мать смотрит на тебя как на неудачника...[nointeract]"
 msgstr "-真的吗？我听说爱丽丝把你当作一个小变态，丽莎在你身边只是因为房子里没有其他的保护者，而你的母亲看着你像一个失败者…"
 
-# game/events/eric.rpy:84## # translate crowdin Eric_talk_afterdinner_what_c8163074:
+# game/events/eric.rpy:86## # translate crowdin Eric_talk_afterdinner_what_c8163074:
 msgid "[Eric_02]Серьёзно? И как ты с этими мозгами довёл ситуацию до того, что Алиса в тебе видит маленького извращенца, подглядывающего из-за угла. Лиза рядом только потому, что других защитников не было, а мать... смотрит на тебя как на неудачника![nointeract]"
 msgstr "-真的吗？我听说爱丽丝把你当作一个小变态，丽莎在你身边只是因为房子里没有其他的保护者，而你的母亲看着你像一个失败者…"
 
-# game/events/eric.rpy:92## # translate crowdin Eric_talk_afterdinner_bullshit_efb61ad4:
+# game/events/eric.rpy:94## # translate crowdin Eric_talk_afterdinner_bullshit_efb61ad4:
 msgid "[Eric_09]Ну не знаю... Даже если что-то ещё и не так, то с моей помощью всё так и будет, поверь... Но повторюсь, я не хочу с тобой воевать и лучше бы ты был на моей стороне...[nointeract]"
 msgstr "[Eric_09]我不知道...即使还有别的东西，相信我，在我的帮助下，一切都会好起来的...但话又说回来， 我不想和你打仗， 你最好站在我这边[nointeract]..."
 
-# game/events/eric.rpy:100## # translate crowdin Eric_talk_afterdinner_shesaid_d48a9a8b:
+# game/events/eric.rpy:101## # translate crowdin Eric_talk_afterdinner_shesaid_d48a9a8b:
 msgid "[Eric_09]Ну не словами, но я же это вижу со стороны. Тебя выгнали из школы за отношения с учителем. Если ты не понял, то это такой зашквар, что вернуть себе репутацию будет непросто..."
 msgstr "[Eric_09]嗯， 不是用语言， 但我从外面看到了这一点。你因与老师的关系而被学校开除。如果你不明白， 这是一个沙什夸里， 这将是不容易恢复你的声誉..."
 
-# game/events/eric.rpy:102## # translate crowdin Eric_talk_afterdinner_shesaid_de4eb4e2:
+# game/events/eric.rpy:104## # translate crowdin Eric_talk_afterdinner_shesaid_de4eb4e2:
 msgid "[Eric_00]Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь...[nointeract]"
 msgstr "[Eric_00]但话又说回来， 我不想和你打仗。相反，我想和你交朋友，如果你站在我这边，你只会赢[nointeract]..."
 
-# game/events/eric.rpy:112## # translate crowdin Eric_talk_afterdinner_ok_b9f85d9a:
+# game/events/eric.rpy:114## # translate crowdin Eric_talk_afterdinner_ok_b9f85d9a:
 msgid "[Eric_05]Смотря как пройдёт наше общение за следующую неделю. Если помиримся, то я буду помогать решать твои проблемы, ну а ты мои, если такие возникнут с твоей семьёй...[nointeract]"
 msgstr "[Eric_05]看看我们下周的沟通将如何进行。如果我们和睦相处，我会帮你解决你的问题，而你是我的，如果这样的事情发生在你的家人[nointeract]"
 
-# game/events/eric.rpy:115## # translate crowdin Eric_talk_afterdinner_ok_4dcd84ae:
+# game/events/eric.rpy:117## # translate crowdin Eric_talk_afterdinner_ok_4dcd84ae:
 msgid "[Eric_00]Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить...[nointeract]"
 msgstr "[Eric_00]你跑得太快了，麦克斯让我们先看看事情会如何发展。至少给我一个机会来说服你[nointeract]..."
 
-# game/events/eric.rpy:127## # translate crowdin Eric_talk_afterdinner_no_099d542e:
+# game/events/eric.rpy:129## # translate crowdin Eric_talk_afterdinner_no_099d542e:
 msgid "[Eric_00]Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть.[nointeract]"
 msgstr "[Eric_00]，随心所欲。我希望你现在说的是情绪， 而不是常识。你有一个星期的时间改变主意。然后，我们将再次交谈，并会清楚如何成为。[nointeract]"
 
-# game/events/eric.rpy:137## # translate crowdin Eric_talk_afterdinner_friend_9b6bd24d:
+# game/events/eric.rpy:138## # translate crowdin Eric_talk_afterdinner_friend_9b6bd24d:
 msgid "[Eric_05]Я рад, правда. Ты не пожалеешь. Ладно, твоя мама уже идёт, мы поехали. Вернёмся к этому разговору через неделю..."
 msgstr ""
 
-# game/events/eric.rpy:138## # translate crowdin Eric_talk_afterdinner_friend_516308d2:
+# game/events/eric.rpy:139## # translate crowdin Eric_talk_afterdinner_friend_516308d2:
 msgid "[Max_04]Ага..."
 msgstr ""
 
-# game/events/eric.rpy:151## # translate crowdin Eric_talk_afterdinner_second_talk_913ec3c6:
+# game/events/eric.rpy:152## # translate crowdin Eric_talk_afterdinner_second_talk_913ec3c6:
 msgid "[Eric_00]Ну что, Макс, готов пообщаться снова, пока твоя мама собирается?"
 msgstr ""
 
-# game/events/eric.rpy:153## # translate crowdin Eric_talk_afterdinner_second_talk_25aa812b:
+# game/events/eric.rpy:154## # translate crowdin Eric_talk_afterdinner_second_talk_25aa812b:
 msgid "[Max_01]Конечно!"
 msgstr ""
 
-# game/events/eric.rpy:154## # translate crowdin Eric_talk_afterdinner_second_talk_5a895ebf:
+# game/events/eric.rpy:156## # translate crowdin Eric_talk_afterdinner_second_talk_5a895ebf:
 msgid "[Eric_05]Отлично! Ну что, вроде бы ты и правда настроен на дружбу. Я прав?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:161## # translate crowdin Eric_talk_afterdinner_second_talk_6f10b98c:
+# game/events/eric.rpy:162## # translate crowdin Eric_talk_afterdinner_second_talk_6f10b98c:
 msgid "[Max_00]Ну, можно..."
 msgstr ""
 
-# game/events/eric.rpy:162## # translate crowdin Eric_talk_afterdinner_second_talk_7a3e3f7a:
+# game/events/eric.rpy:164## # translate crowdin Eric_talk_afterdinner_second_talk_7a3e3f7a:
 msgid "[Eric_01]Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:169## # translate crowdin Eric_talk_afterdinner_second_talk_becdd118:
+# game/events/eric.rpy:170## # translate crowdin Eric_talk_afterdinner_second_talk_becdd118:
 msgid "[Max_09]Ты ещё здесь?"
 msgstr ""
 
-# game/events/eric.rpy:170## # translate crowdin Eric_talk_afterdinner_second_talk_9f170499:
+# game/events/eric.rpy:172## # translate crowdin Eric_talk_afterdinner_second_talk_9f170499:
 msgid "[Eric_09]Значит, дружить ты не намерен. Я правильно понимаю?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:180## # translate crowdin Eric_talk_afterdinner_badbad_ee988680:
+# game/events/eric.rpy:181## # translate crowdin Eric_talk_afterdinner_badbad_ee988680:
 msgid "[Eric_02]Всё ясно с тобой. Ну, это твой выбор. У тебя была неделя, чтобы всё обдумать. Ты решил начать войну, ну что же, не вини меня за то, как я её закончу..."
 msgstr ""
 
-# game/events/eric.rpy:190## # translate crowdin Eric_talk_afterdinner_goodgood_2ba39b19:
+# game/events/eric.rpy:191## # translate crowdin Eric_talk_afterdinner_goodgood_2ba39b19:
 msgid "[Eric_01]Очень хорошо. Я рад. Ну, ты не пожалеешь, это правильный выбор..."
 msgstr ""
 
-# game/events/eric.rpy:191## # translate crowdin Eric_talk_afterdinner_goodgood_910ad55d:
+# game/events/eric.rpy:192## # translate crowdin Eric_talk_afterdinner_goodgood_910ad55d:
 msgid "[Max_09]Но ты так и не сказал, почему не пожалею..."
 msgstr ""
 
-# game/events/eric.rpy:192## # translate crowdin Eric_talk_afterdinner_goodgood_d956ee71:
+# game/events/eric.rpy:193## # translate crowdin Eric_talk_afterdinner_goodgood_d956ee71:
 msgid "[Eric_03]Ну давай начнём с самого простого. Чего ты хочешь?"
 msgstr ""
 
-# game/events/eric.rpy:193## # translate crowdin Eric_talk_afterdinner_goodgood_a3b08112:
+# game/events/eric.rpy:194## # translate crowdin Eric_talk_afterdinner_goodgood_a3b08112:
 msgid "[Max_07]В каком смысле?"
 msgstr ""
 
-# game/events/eric.rpy:194## # translate crowdin Eric_talk_afterdinner_goodgood_6b61a60f:
+# game/events/eric.rpy:196## # translate crowdin Eric_talk_afterdinner_goodgood_6b61a60f:
 msgid "[Eric_05]Я не слепой и вижу как ты смотришь на своих сестёр и даже маму. Не отрицай, иногда даже твои штаны тебя выдают. Но я тебя не виню, ещё бы, такие цыпочки кругом![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:202## # translate crowdin Eric_talk_afterdinner_goodgood_3e31f80b:
+# game/events/eric.rpy:204## # translate crowdin Eric_talk_afterdinner_goodgood_3e31f80b:
 msgid "[Eric_01]Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:205## # translate crowdin Eric_talk_afterdinner_goodgood_25bd7ebc:
+# game/events/eric.rpy:207## # translate crowdin Eric_talk_afterdinner_goodgood_25bd7ebc:
 msgid "[Eric_05]Уверен в этом. И если честно, надеюсь, у меня всё получится. А ты мне в этом поможешь![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:214## # translate crowdin Eric_talk_afterdinner_goodgood_6f764d15:
+# game/events/eric.rpy:216## # translate crowdin Eric_talk_afterdinner_goodgood_6f764d15:
 msgid "[Eric_05]Конечно! Я же нормальный мужик... Кстати, ты же никому не расскажешь, верно? Мы же типа друзья?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:222## # translate crowdin Eric_talk_afterdinner_tell_539dcb1f:
+# game/events/eric.rpy:224## # translate crowdin Eric_talk_afterdinner_tell_539dcb1f:
 msgid "[Eric_03]Всем? Это кому же? Сёстрам? Ну да, поверят они тебе... Расскажешь матери? Попытайся. Заодно, узнаешь на что способны мои, так сказать, \"чары\"...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:227## # translate crowdin Eric_talk_afterdinner_tell_e73b4f64:
+# game/events/eric.rpy:229## # translate crowdin Eric_talk_afterdinner_tell_e73b4f64:
 msgid "[Eric_09]Не ожидал я от тебя такого... Ну ладно, дело твоё... Но учти, на этой войне у тебя нет ни единого шанса![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:235## # translate crowdin Eric_talk_afterdinner_tell_6653b55b:
+# game/events/eric.rpy:236## # translate crowdin Eric_talk_afterdinner_tell_6653b55b:
 msgid "[Eric_01]Так ты меня разводишь? А я тебе почти поверил! Молодец..."
 msgstr ""
 
-# game/events/eric.rpy:236## # translate crowdin Eric_talk_afterdinner_tell_b000e44b:
+# game/events/eric.rpy:237## # translate crowdin Eric_talk_afterdinner_tell_b000e44b:
 msgid "[Max_09]Ладно, а что я с этого получу?"
 msgstr ""
 
-# game/events/eric.rpy:239## # translate crowdin Eric_talk_afterdinner_get_a5be5209:
+# game/events/eric.rpy:240## # translate crowdin Eric_talk_afterdinner_get_a5be5209:
 msgid "[Eric_03]Отличный вопрос, Макс! Пришло время выяснить, чего же именно ты хочешь?"
 msgstr ""
 
-# game/events/eric.rpy:240## # translate crowdin Eric_talk_afterdinner_get_cbb3238c:
+# game/events/eric.rpy:241## # translate crowdin Eric_talk_afterdinner_get_cbb3238c:
 msgid "[Max_07]Я хочу деньги, подглядывать и кое-что ещё..."
 msgstr ""
 
-# game/events/eric.rpy:241## # translate crowdin Eric_talk_afterdinner_get_8cc4ced7:
+# game/events/eric.rpy:242## # translate crowdin Eric_talk_afterdinner_get_8cc4ced7:
 msgid "[Eric_05]Ого. Вот это запросы! Ну, мы договоримся, Макс. Деньги для меня не проблема, но в разумных пределах, конечно..."
 msgstr ""
 
-# game/events/eric.rpy:242## # translate crowdin Eric_talk_afterdinner_get_a7de4879:
+# game/events/eric.rpy:243## # translate crowdin Eric_talk_afterdinner_get_a7de4879:
 msgid "[Max_01]Сколько?"
 msgstr ""
 
-# game/events/eric.rpy:243## # translate crowdin Eric_talk_afterdinner_get_159a1b33:
+# game/events/eric.rpy:244## # translate crowdin Eric_talk_afterdinner_get_159a1b33:
 msgid "[Eric_04]Посмотрим на твоё поведение. Ещё рано торговаться. Если будешь в своё время закрывать глаза, то денег будет больше. Ну а если будешь мешать, то..."
 msgstr ""
 
-# game/events/eric.rpy:244## # translate crowdin Eric_talk_afterdinner_get_872bbc39:
+# game/events/eric.rpy:245## # translate crowdin Eric_talk_afterdinner_get_872bbc39:
 msgid "[Max_07]Ладно. А что насчёт подглядывать? Это можно?"
 msgstr ""
 
-# game/events/eric.rpy:245## # translate crowdin Eric_talk_afterdinner_get_eec94b44:
+# game/events/eric.rpy:246## # translate crowdin Eric_talk_afterdinner_get_eec94b44:
 msgid "[Eric_01]Ну лично я не возражаю. Думаю, даже твою маму подготовлю, чтобы если заметила, то не наказывала. Если ты помнишь, со следующей недели шлёпать вас будут голыми, а это очень унизительно... Что ещё ты там просил?"
 msgstr ""
 
-# game/events/eric.rpy:246## # translate crowdin Eric_talk_afterdinner_get_d2c545b7:
+# game/events/eric.rpy:247## # translate crowdin Eric_talk_afterdinner_get_d2c545b7:
 msgid "[Max_08]Я бы тоже хотел кое-кого..."
 msgstr ""
 
-# game/events/eric.rpy:247## # translate crowdin Eric_talk_afterdinner_get_9720f70e:
+# game/events/eric.rpy:249## # translate crowdin Eric_talk_afterdinner_get_9720f70e:
 msgid "[Eric_02]Если ты про свою семью, то хотя я тебя и понимаю, но торговаться на этот счёт не намерен. Я тебе буду платить за твоё невмешательство. Более того, даже разрешу подглядывать без последствий, а вот все женщины в семье - мои.[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:252## # translate crowdin Eric_talk_afterdinner_get_9af01c97:
+# game/events/eric.rpy:254## # translate crowdin Eric_talk_afterdinner_get_9af01c97:
 msgid "[Eric_09]Ну, тогда мы с тобой перед диллемой. Ты знаешь слишком много о моих планах, я знаю, что ты тот ещё извращенец... Как быть?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:255## # translate crowdin Eric_talk_afterdinner_get_5024cd98:
+# game/events/eric.rpy:257## # translate crowdin Eric_talk_afterdinner_get_5024cd98:
 msgid "[Eric_03]Ну, это как посмотреть. Ты хотел потребовать \"доступа\" к женщинам в своей семье... Если бы твоя мать узнала, сомневаюсь, что это бы хорошо для тебя закончилось, правда?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:265## # translate crowdin Eric_talk_afterdinner_get_91cf9d80:
+# game/events/eric.rpy:267## # translate crowdin Eric_talk_afterdinner_get_91cf9d80:
 msgid "[Eric_02]Боюсь, что да. Либо ты со мной, либо против меня. Напомню - я тебе буду платить, ты сможешь смотреть, но нельзя трогать... Ну или война и ты точно проиграешь. Очень быстро...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:271## # translate crowdin Eric_talk_afterdinner_get_b74ade66:
+# game/events/eric.rpy:272## # translate crowdin Eric_talk_afterdinner_get_b74ade66:
 msgid "[Eric_05]Вот это разговор! Ну, тогда мы точно поладим. Если я увижу, что ты держишь свои обещания, то даже дам тебе кое-что, от чего ни один мужик не откажется, поверь!"
 msgstr ""
 
-# game/events/eric.rpy:272## # translate crowdin Eric_talk_afterdinner_get_d9312f73:
+# game/events/eric.rpy:273## # translate crowdin Eric_talk_afterdinner_get_d9312f73:
 msgid "[Max_03]О чём речь?"
 msgstr ""
 
-# game/events/eric.rpy:273## # translate crowdin Eric_talk_afterdinner_get_773ff7d1:
+# game/events/eric.rpy:274## # translate crowdin Eric_talk_afterdinner_get_773ff7d1:
 msgid "[Eric_06]Любопытно? Ну я намекну... Сможешь не только подглядывать, но и принимать участие..."
 msgstr ""
 
-# game/events/eric.rpy:274## # translate crowdin Eric_talk_afterdinner_get_15087e37:
+# game/events/eric.rpy:275## # translate crowdin Eric_talk_afterdinner_get_15087e37:
 msgid "[Max_06]Да ладно?"
 msgstr ""
 
-# game/events/eric.rpy:275## # translate crowdin Eric_talk_afterdinner_get_97426be0:
+# game/events/eric.rpy:276## # translate crowdin Eric_talk_afterdinner_get_97426be0:
 msgid "[Eric_03]Ага. Так что, в твоих интересах мне не только не мешать, но и помогать, если возникнет такая необходимость. Ну там, слово замолвить или сделать что-то..."
 msgstr ""
 
-# game/events/eric.rpy:276## # translate crowdin Eric_talk_afterdinner_get_67b5c25f:
+# game/events/eric.rpy:277## # translate crowdin Eric_talk_afterdinner_get_67b5c25f:
 msgid "[Max_05]Договорились!"
 msgstr ""
 
-# game/events/eric.rpy:277## # translate crowdin Eric_talk_afterdinner_get_3d7ac95b:
+# game/events/eric.rpy:278## # translate crowdin Eric_talk_afterdinner_get_3d7ac95b:
 msgid "[Eric_01]Ну всё, Макс. Я рад, что мы разобрались и, так сказать, поделили территорию. Теперь всё в твоих руках. Ну и в моих тоже... О, твоя мама идёт. Ну всё, пока!"
 msgstr ""
 
-# game/events/eric.rpy:324## # translate crowdin eric_ann_tv_b2e859ec:
+# game/events/eric.rpy:326## # translate crowdin eric_ann_tv_b2e859ec:
 msgid "[Max_07][txt!t][nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:331## # translate crowdin eric_ann_tv_45b2fa85:
+# game/events/eric.rpy:333## # translate crowdin eric_ann_tv_45b2fa85:
 msgid "[Ann_12][txt2!t][nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:357## # translate crowdin eric_ann_tv_819bbc20:
+# game/events/eric.rpy:359## # translate crowdin eric_ann_tv_819bbc20:
 msgid "[Max_08][txt!t][nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:366## # translate crowdin eric_ann_tv_9b0d1773:
+# game/events/eric.rpy:368## # translate crowdin eric_ann_tv_9b0d1773:
 msgid "[Max_07][txt2!t][nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:391## # translate crowdin eric_ann_tv_819bbc20_1:
+# game/events/eric.rpy:393## # translate crowdin eric_ann_tv_819bbc20_1:
 msgid "[Max_08][txt!t][nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:400## # translate crowdin eric_ann_tv_9b0d1773_1:
+# game/events/eric.rpy:402## # translate crowdin eric_ann_tv_9b0d1773_1:
 msgid "[Max_07][txt2!t][nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:421## # translate crowdin eric_ann_tv_42ac5694:
+# game/events/eric.rpy:423## # translate crowdin eric_ann_tv_42ac5694:
 msgid "[Max_10]Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:425## # translate crowdin eric_ann_tv_c1692c11:
+# game/events/eric.rpy:426## # translate crowdin eric_ann_tv_c1692c11:
 msgid "[Max_09]Похоже, порно подходит к концу, а вот Эрик не кончает! Наверно, они просто решили {i}разогреться{/i} перед тем, что будет в маминой спальне... А это значит, мне пора уходить."
 msgstr ""
 
-# game/events/eric.rpy:431## # translate crowdin eric_ann_tv_f9ebeced:
+# game/events/eric.rpy:433## # translate crowdin eric_ann_tv_f9ebeced:
 msgid "[Max_10]Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:454## # translate crowdin eric_ann_tv_closer1_39475977:
+# game/events/eric.rpy:455## # translate crowdin eric_ann_tv_closer1_39475977:
 msgid "[Max_15]Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:456## # translate crowdin eric_ann_tv_closer1_717fa033:
+# game/events/eric.rpy:457## # translate crowdin eric_ann_tv_closer1_717fa033:
 msgid "[Max_16]Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?[nointeract]"
 msgstr "[Max_16]她赤裸裸地抽搐他吗？！就在这里...我们必须紧急停止这一切！试想一下，如何最好地做到这一点？[nointeract]"
 
-# game/events/eric.rpy:464## # translate crowdin eric_ann_tv_closer1_849abea4:
+# game/events/eric.rpy:461## # translate crowdin eric_ann_tv_closer1_849abea4:
 msgid "[Eric_09]Макс! Чего хотел? Не видишь, мы заняты? Если хочешь смотреть, делай это тихо и нам не мешай. А ты, Ань, не останавливайся, продолжай..."
 msgstr "[Eric_09]麦克斯！我想要什么？你看不出来，我们很忙吗？如果你想看，安静地做，不要打扰我们。而你，安，别停下来，继续..."
 
-# game/events/eric.rpy:465## # translate crowdin eric_ann_tv_closer1_03d660f3:
+# game/events/eric.rpy:462## # translate crowdin eric_ann_tv_closer1_03d660f3:
 msgid "[Max_12]Охренеть!"
 msgstr "[Max_12]发雷！"
 
-# game/events/eric.rpy:475## # translate crowdin eric_ann_tv_closer1_d646f6b6:
+# game/events/eric.rpy:471## # translate crowdin eric_ann_tv_closer1_d646f6b6:
 msgid "[Max_11]Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
 msgstr "[Max_11]是的，她抽搐着他！就在这里...他们彼此如此着迷，以至于他们什么也没注意到！除了屏幕上发生了什么[nointeract]..."
 
-# game/events/eric.rpy:477## # translate crowdin eric_ann_tv_closer1_224a6ad6:
+# game/events/eric.rpy:473## # translate crowdin eric_ann_tv_closer1_224a6ad6:
 msgid "[Max_07]Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
 msgstr "[Max_07]哦...妈妈是如此赤裸裸和湿...她有一个如此诱人的身体， 多么屁股！嗯...幸好他们彼此如此热情， 以至于他们周围什么也看不见！除了屏幕上发生了什么[nointeract]..."
 
-# game/events/eric.rpy:480## # translate crowdin eric_ann_tv_closer1_bdf10685:
+# game/events/eric.rpy:476## # translate crowdin eric_ann_tv_closer1_bdf10685:
 msgid "[Max_11]Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
 msgstr "[Max_11]是的，她吸了他！就在这里...他们彼此如此着迷，以至于他们什么也没注意到！除了屏幕上发生了什么[nointeract]..."
 
-# game/events/eric.rpy:482## # translate crowdin eric_ann_tv_closer1_224a6ad6_1:
+# game/events/eric.rpy:478## # translate crowdin eric_ann_tv_closer1_224a6ad6_1:
 msgid "[Max_07]Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
 msgstr "[Max_07]哦...妈妈是如此赤裸裸和湿...她有一个如此诱人的身体， 多么屁股！嗯...幸好他们彼此如此热情， 以至于他们周围什么也看不见！除了屏幕上发生了什么[nointeract]..."
 
-# game/events/eric.rpy:484## # translate crowdin eric_ann_tv_closer1_dd256959:
+# game/events/eric.rpy:480## # translate crowdin eric_ann_tv_closer1_dd256959:
 msgid "[Max_15]Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит![nointeract]"
 msgstr "[Max_15]她吸吮他吗？！就在这里...这是一个堕落的人， 如果有人来看看呢！[nointeract]"
 
-# game/events/eric.rpy:493## # translate crowdin eric_ann_tv_closer1_1cc34756:
+# game/events/eric.rpy:490## # translate crowdin eric_ann_tv_closer1_1cc34756:
 msgid "[Ann_13]Что? Кто здесь? Макс?! Выйди немедленно, не видишь...[nointeract]"
 msgstr "[Ann_13]什么？谁来了？麦克斯？！马上出来，你看不出来[nointeract]..."
 
-# game/events/eric.rpy:500## # translate crowdin eric_ann_tv_closer1_282eb1bf:
+# game/events/eric.rpy:496## # translate crowdin eric_ann_tv_closer1_282eb1bf:
 msgid "[Ann_04]Я рада, Макс, что ты всё понимаешь. Сделаем вид, что ничего не было и ты ничего не видел, хорошо?"
 msgstr "[Ann_04]我很高兴，麦克斯，你明白这一点。假装什么都没发生，你什么也没看见，好吗？"
 
-# game/events/eric.rpy:501## # translate crowdin eric_ann_tv_closer1_acd22c78:
+# game/events/eric.rpy:497## # translate crowdin eric_ann_tv_closer1_acd22c78:
 msgid "[Max_01]Конечно, мам!"
 msgstr "[Max_01]当然，妈妈！"
 
-# game/events/eric.rpy:504## # translate crowdin eric_ann_tv_closer1_6019c9f2:
+# game/events/eric.rpy:500## # translate crowdin eric_ann_tv_closer1_6019c9f2:
 msgid "[Ann_14]Так, Макс, нам надо поговорить! Отойдем на кухню..."
 msgstr "[Ann_14]，麦克斯，我们需要谈谈！我们去厨房..."
 
-# game/events/eric.rpy:505## # translate crowdin eric_ann_tv_closer1_4a3cf6f9:
+# game/events/eric.rpy:501## # translate crowdin eric_ann_tv_closer1_4a3cf6f9:
 msgid "[Max_08]Ну ладно."
 msgstr "[Max_08]哦，好吧！"
 
-# game/events/eric.rpy:509## # translate crowdin eric_ann_tv_closer1_74c87652:
+# game/events/eric.rpy:506## # translate crowdin eric_ann_tv_closer1_74c87652:
 msgid "[Ann_12]Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем...[nointeract]"
 msgstr "[Ann_12]听着，儿子...你知道，成年人有时需要隐居。我们以为楼上的一切都在这里， 我们在这里， 每个人都很清楚...一般来说[nointeract]..."
 
-# game/events/eric.rpy:512## # translate crowdin eric_ann_tv_closer1_e22f3a8c:
+# game/events/eric.rpy:508## # translate crowdin eric_ann_tv_closer1_e22f3a8c:
 msgid "[Ann_15]Макс! Что за слова? И как ты со мной разговариваешь? А ну-ка марш в свою комнату. Чтобы не видела тебя тут, пока мы смотрим фильмы!"
 msgstr "[Ann_15]麦克斯！什么词？你是怎么跟我说话的？然后游行到他的房间。在我们看电影的时候，不要在这里见到你！"
 
-# game/events/eric.rpy:513## # translate crowdin eric_ann_tv_closer1_712e0b38:
+# game/events/eric.rpy:509## # translate crowdin eric_ann_tv_closer1_712e0b38:
 msgid "[Max_11]Ладно, ладно. Так бы сразу и сказала..."
 msgstr "[Max_11]好，好吧我会马上说..."
 
-# game/events/eric.rpy:515## # translate crowdin eric_ann_tv_closer1_8bdd97e7:
+# game/events/eric.rpy:511## # translate crowdin eric_ann_tv_closer1_8bdd97e7:
 msgid "[Ann_04]Макс! Ты у меня такой умница. Хорошо, что ты всё понимаешь. Ладно, иди в свою комнату, мы больше не будем... Тебя смущать..."
 msgstr "[Ann_04]麦克斯！你太聪明了你明白这一点真好。好了，去你的房间，我们不会再...让你难堪..."
 
-# game/events/eric.rpy:516## # translate crowdin eric_ann_tv_closer1_26bf3db9:
+# game/events/eric.rpy:512## # translate crowdin eric_ann_tv_closer1_26bf3db9:
 msgid "[Max_01]Хорошо, мам..."
 msgstr "[Max_01]好吧 妈妈..."
 
-# game/events/eric.rpy:518## # translate crowdin eric_ann_tv_closer1_640330f1:
+# game/events/eric.rpy:514## # translate crowdin eric_ann_tv_closer1_640330f1:
 msgid "[Ann_13]Посмотришь? На что? На нас? Или фильм? В любом случае нет! Ты ещё маленький. И, вообще, почему я перед тобой отчитываюсь. Дай взрослым отдохнуть. А ты иди в свою комнату!"
 msgstr "[Ann_13]看看吗？什么？在我们身上？还是电影？反正不是！你还小而且，一般来说，我为什么要向你报告。让大人休息一下。你去你的房间！"
 
-# game/events/eric.rpy:519## # translate crowdin eric_ann_tv_closer1_cd0fd095:
+# game/events/eric.rpy:515## # translate crowdin eric_ann_tv_closer1_cd0fd095:
 msgid "[Max_10]Ладно, уже ухожу..."
 msgstr "[Max_10]好吧，我要走了..."
 
-# game/events/eric.rpy:539## # translate crowdin eric_ann_fucking_60cad7ba:
+# game/events/eric.rpy:535## # translate crowdin eric_ann_fucking_60cad7ba:
 msgid "[Max_00]Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит...[nointeract]"
 msgstr "[Max_00]从声音来看，妈妈和埃里克在做一些事情。你绝对不应该开门， 飞[nointeract]进来..."
 
-# game/events/eric.rpy:578## # translate crowdin eric_ann_fucking_voyeur_c6b7e289:
+# game/events/eric.rpy:571## # translate crowdin eric_ann_fucking_voyeur_c6b7e289:
 msgid "[Ann_15][spotted!t]Макс?! Какого чёрта? Ты за нами подглядываешь?! Завтра ты будешь наказан! Немедленно убирайся!"
 msgstr "[Ann_15][现货！t]最大？！什么鬼东西？你在偷看我们吗？！你明天会受到惩罚的！马上滚出去！"
 
-# game/events/eric.rpy:582## # translate crowdin eric_ann_fucking_voyeur_efe42e22:
+# game/events/eric.rpy:575## # translate crowdin eric_ann_fucking_voyeur_efe42e22:
 msgid "[Ann_19]Макс? Ты опять подглядываешь? Утром накажу у всех на глазах за это!"
 msgstr "[Ann_19]麦克斯？你又在偷看了吗？今天早上我会在众人面前为此受到惩罚！"
 
-# game/events/eric.rpy:583## # translate crowdin eric_ann_fucking_voyeur_05e8307c:
+# game/events/eric.rpy:576## # translate crowdin eric_ann_fucking_voyeur_05e8307c:
 msgid "[Max_10]Э... Не надо!"
 msgstr "[Max_10]E...别这样！"
 
-# game/events/eric.rpy:584## # translate crowdin eric_ann_fucking_voyeur_76d28525:
+# game/events/eric.rpy:577## # translate crowdin eric_ann_fucking_voyeur_76d28525:
 msgid "[Eric_03]Ань, не спеши. Макс подросток и ему всё интересно. Ты же знаешь, запретный плод сладок. Думаю, не стоит его наказывать за такие шалости. Хорошо?"
 msgstr "[Eric_03]安，不要着急。马克斯是个十几岁的孩子，他对一切都很感兴趣。你知道，禁果是甜的。我认为他不应该因为这种恶作剧而受到惩罚。好不好？"
 
-# game/events/eric.rpy:585## # translate crowdin eric_ann_fucking_voyeur_5af09ed2:
+# game/events/eric.rpy:578## # translate crowdin eric_ann_fucking_voyeur_5af09ed2:
 msgid "[Ann_14]Ну, хорошо, Эрик. Если ты так считаешь... Но пусть он уйдёт, я не могу так..."
 msgstr "[Ann_14]嗯，好吧，埃里克如果你这么认为...但让他走吧，我不能那样做..."
 
-# game/events/eric.rpy:586## # translate crowdin eric_ann_fucking_voyeur_c6425607:
+# game/events/eric.rpy:579## # translate crowdin eric_ann_fucking_voyeur_c6425607:
 msgid "[Max_07]Я уже ухожу, мам... Продолжайте!"
 msgstr "[Max_07]我要走了，妈妈...继续！"
 
-# game/events/eric.rpy:590## # translate crowdin eric_ann_fucking_voyeur_1a6dca32:
+# game/events/eric.rpy:585## # translate crowdin eric_ann_fucking_voyeur_1a6dca32:
 msgid "[Ann_18]Макс? Опять подглядываешь?! Ну-ка бегом отсюда![nointeract]"
 msgstr "[Ann_18]麦克斯？你又在偷看吗？！我们跑出去！[nointeract]"
 
-# game/events/eric.rpy:593## # translate crowdin eric_ann_fucking_voyeur_afca94eb:
+# game/events/eric.rpy:588## # translate crowdin eric_ann_fucking_voyeur_afca94eb:
 msgid "[Eric_02]Ань, пусть лучше смотрит на нас, чем на непойми какие извращения в интернете, верно? Так, Макс, зайди сюда, поговорим...[nointeract]"
 msgstr "安，让他看我们比看nepaymi更好的互联网上的变态，对吗？好吧，麦克斯，来这里，我们谈谈…"
 
-# game/events/eric.rpy:600## # translate crowdin eric_ann_fucking_voyeur_9e12ffd3:
+# game/events/eric.rpy:594## # translate crowdin eric_ann_fucking_voyeur_9e12ffd3:
 msgid "[Ann_14]Эрик, но... он мой сын. Это неправильно, ты же понимаешь..."
 msgstr "埃里克 [Ann_14]但是...他是我儿子这是不对的，你知道..."
 
-# game/events/eric.rpy:601## # translate crowdin eric_ann_fucking_voyeur_271fa166:
+# game/events/eric.rpy:595## # translate crowdin eric_ann_fucking_voyeur_271fa166:
 msgid "[Eric_03]Я думаю, что мы должны разрешить ему смотреть, если не будет мешать. Может быть, чему-то научится. Где-то ему же нужно учиться, пусть это будет таким образом... И Ань, не спорь со мной!"
 msgstr "[Eric_03]我认为我们应该让他看看，如果他不打扰。也许他会学到一些东西在某处，他需要学习，让它这样...安，别跟我争执！"
 
-# game/events/eric.rpy:602## # translate crowdin eric_ann_fucking_voyeur_e33a4f0b:
+# game/events/eric.rpy:596## # translate crowdin eric_ann_fucking_voyeur_e33a4f0b:
 msgid "[Ann_12]Как скажешь, Эрик..."
 msgstr "[Ann_12]怎么说，埃里克"
 
-# game/events/eric.rpy:603## # translate crowdin eric_ann_fucking_voyeur_9f2cfa55:
+# game/events/eric.rpy:597## # translate crowdin eric_ann_fucking_voyeur_9f2cfa55:
 msgid "[Eric_01]Ну всё, Макс. Мы тут ещё побеседуем. А для тебя на сегодня хватит, иди."
 msgstr "[Eric_01]一切，麦克斯我们在这里再谈一次。你今天就够了，走吧。"
 
-# game/events/eric.rpy:604## # translate crowdin eric_ann_fucking_voyeur_6e7aee99:
+# game/events/eric.rpy:598## # translate crowdin eric_ann_fucking_voyeur_6e7aee99:
 msgid "[Max_00]Хорошо..."
 msgstr "[Max_00]好..."
 
-# game/events/eric.rpy:620## # translate crowdin eric_ann_fucking_voyeur_02303e2f:
+# game/events/eric.rpy:613## # translate crowdin eric_ann_fucking_voyeur_02303e2f:
 msgid "[Max_10][undetect!t]Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?![nointeract]"
 msgstr "[Max_10]，哦，我的天，我妈妈在干什么？！她真的喜欢吸那个混蛋吗？！[nointeract]"
 
-# game/events/eric.rpy:622## # translate crowdin eric_ann_fucking_voyeur_6f277737:
+# game/events/eric.rpy:615## # translate crowdin eric_ann_fucking_voyeur_6f277737:
 msgid "[Max_07][undetect!t]Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится![nointeract]"
 msgstr "[Max_07]是肯定的！就像在一部很酷的色情电影中一样！我甚至无法想象我严格的妈妈能做到这一点。埃里克也不落后于她...她似乎很喜欢！[nointeract]"
 
-# game/events/eric.rpy:624## # translate crowdin eric_ann_fucking_voyeur_fd07b201:
+# game/events/eric.rpy:617## # translate crowdin eric_ann_fucking_voyeur_fd07b201:
 msgid "[Max_10][undetect!t]Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?![nointeract]"
 msgstr "[Max_10]什么？！我妈妈会吮吸那个怪胎吗？埃里克，我猜他是...像一些廉价的街头荡妇一样在嘴里乱搞她！她为什么要让他这么做？！[nointeract]"
 
-# game/events/eric.rpy:626## # translate crowdin eric_ann_fucking_voyeur_2223829f:
+# game/events/eric.rpy:619## # translate crowdin eric_ann_fucking_voyeur_2223829f:
 msgid "[Max_08][undetect!t]Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится![nointeract]"
 msgstr "[Max_08][未选中！她似乎只是没有力量反对它， 虽然也许她甚至喜欢它！[nointeract]"
 
-# game/events/eric.rpy:628## # translate crowdin eric_ann_fucking_voyeur_769f0bc5:
+# game/events/eric.rpy:621## # translate crowdin eric_ann_fucking_voyeur_769f0bc5:
 msgid "[Max_07][undetect!t]Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла...[nointeract]"
 msgstr "[Max_07][未完成！t] 哇！这就是激情！我妈妈像疯子一样跳到艾瑞卡身上！我甚至无法想象她能做什么！他们似乎对彼此如此着迷， 如果我从拐角处出来， 他们不会注意到[nointeract]的..."
 
-# game/events/eric.rpy:638## # translate crowdin eric_ann_fucking_voyeur_c6b7e289_1:
+# game/events/eric.rpy:631## # translate crowdin eric_ann_fucking_voyeur_c6b7e289_1:
 msgid "[Ann_15][spotted!t]Макс?! Какого чёрта? Ты за нами подглядываешь?! Завтра ты будешь наказан! Немедленно убирайся!"
 msgstr "[Ann_15][现货！t]最大？！什么鬼东西？你在偷看我们吗？！你明天会受到惩罚的！马上滚出去！"
 
-# game/events/eric.rpy:658## # translate crowdin eric_ann_fucking_voyeur_7613d8b5:
+# game/events/eric.rpy:651## # translate crowdin eric_ann_fucking_voyeur_7613d8b5:
 msgid "[Max_09]Чёрт, этот удачливый ублюдок кончил ей прямо в рот, причём, судя по довольному лицу мамы, ей это понравилось! Ну почему таким уродам всегда везёт?! Ладно, надо уходить, а то они сейчас меня заметят..."
 msgstr "该死的，那个幸运的混蛋在她嘴里，从她妈妈满意的脸上看，她喜欢它！为什么这样的混蛋总是幸运的？！好吧，我们得走了，否则他们会发现我…"
 
-# game/events/eric.rpy:660## # translate crowdin eric_ann_fucking_voyeur_2d5a32c4:
+# game/events/eric.rpy:653## # translate crowdin eric_ann_fucking_voyeur_2d5a32c4:
 msgid "[Max_08]Ого! Похоже, мама кончила и... Эрик тоже... Хорошо, что хоть не маме в рот... А она у нас та ещё проказница! Пора сматываться, пока меня не заметили!"
 msgstr "[Max_08]个奥戈！看来妈妈完了...埃里克也是...幸好不是妈妈在嘴里...我们还有那个小精子！是时候在他们注意到我之前闲逛了！"
 
-# game/events/eric.rpy:662## # translate crowdin eric_ann_fucking_voyeur_05040526:
+# game/events/eric.rpy:655## # translate crowdin eric_ann_fucking_voyeur_05040526:
 msgid "[Max_11]Чёрт, эта сволочь кончила ей прямо в рот и... похоже мама не в восторге от всего этого. Бедная моя мама... это нельзя так просто оставлять! А пока лучше скорее уходить, не хватало ещё, чтобы меня увидели..."
 msgstr "该死的，那个混蛋在她嘴里，和…妈妈似乎不喜欢这一切。可怜的妈妈…你不能就这样离开！我不想被看到。"
 
-# game/events/eric.rpy:664## # translate crowdin eric_ann_fucking_voyeur_8f598321:
+# game/events/eric.rpy:657## # translate crowdin eric_ann_fucking_voyeur_8f598321:
 msgid "[Max_10]Ох, чёрт... наконец-то Эрик кончил и... хорошо, что не в маму... Вот же счастливый сукин сын... залил ей своей спермой всю спину... Пожалуй, не стоит здесь задерживаться, они могут меня увидеть."
 msgstr "哦，妈的…埃里克终于结束了…很好，不是妈妈…幸运的婊子养的…我把我的精子在她的背上…他们可以看到我。"
 
-# game/events/eric.rpy:666## # translate crowdin eric_ann_fucking_voyeur_844b777a:
+# game/events/eric.rpy:659## # translate crowdin eric_ann_fucking_voyeur_844b777a:
 msgid "[Max_10]Чёрт возьми... он не сдержался и уже кончил... Хотя, это не удивительно, после таких-то скачек! Вот же повезло этой сволочи Эрику! И надо уже уходить, пока меня не заметили!"
 msgstr "该死的…他忍不住，就这样…不过，这并不奇怪，在这样的跳跃之后！这混蛋埃里克真幸运！我们得走了，直到他们发现我！"
 
-# game/events/eric.rpy:683## # translate crowdin eric_ann_sleep_eb3bfa8c:
+# game/events/eric.rpy:676## # translate crowdin eric_ann_sleep_eb3bfa8c:
 msgid "[Max_00]Кажется, все спят...[nointeract]"
 msgstr "[Max_00]似乎都睡着了[nointeract]..."
 
-# game/events/eric.rpy:698## # translate crowdin eric_ann_sleep_7df403de:
+# game/events/eric.rpy:691## # translate crowdin eric_ann_sleep_7df403de:
 msgid "[Max_09]О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?![nointeract]"
 msgstr "[Max_09]哦！妈妈独自睡觉...她是多么美丽， 尤其是裸体...埃里克在哪？爱丽丝在房间里吗？！[nointeract]"
 
-# game/events/eric.rpy:720## # translate crowdin eric_ann_sleep_b52c6465:
+# game/events/eric.rpy:712## # translate crowdin eric_ann_sleep_b52c6465:
 msgid "[Max_01]Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?[nointeract]"
 msgstr "[Max_01]看起来他们睡得很香...完全赤身裸体！见鬼， 对不起， 只有妈妈躺在埃里克后面， 几乎看不见她...他为什么这么健康？[nointeract]"
 
-# game/events/eric.rpy:722## # translate crowdin eric_ann_sleep_3032e3eb:
+# game/events/eric.rpy:714## # translate crowdin eric_ann_sleep_3032e3eb:
 msgid "[Max_07]О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла![nointeract]"
 msgstr "[Max_07]哦，是的！那天晚上，妈妈出现在所有的荣耀...完全赤裸裸...如此诱人。但这里的猴子挂得太多了！[nointeract]"
 
-# game/events/eric.rpy:724## # translate crowdin eric_ann_sleep_bf16469a:
+# game/events/eric.rpy:716## # translate crowdin eric_ann_sleep_bf16469a:
 msgid "[Max_04]Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала...[nointeract]"
 msgstr "[Max_04]类！我妈妈有世界上最好的屁股...赤裸裸的， 她只是疯了！如果那座肌肉山不躺在它附近[nointeract]..."
 
-# game/events/eric.rpy:733## # translate crowdin eric_ann_sleep_5dbd568a:
+# game/events/eric.rpy:725## # translate crowdin eric_ann_sleep_5dbd568a:
 msgid "[Max_03]Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить.[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:735## # translate crowdin eric_ann_sleep_1a7abd7b:
+# game/events/eric.rpy:727## # translate crowdin eric_ann_sleep_1a7abd7b:
 msgid "[Max_02]Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся.[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:737## # translate crowdin eric_ann_sleep_9771290e:
+# game/events/eric.rpy:729## # translate crowdin eric_ann_sleep_9771290e:
 msgid "[Max_05]Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:747## # translate crowdin eric_ann_sleep_not_eric_a05237c8:
+# game/events/eric.rpy:740## # translate crowdin eric_ann_sleep_not_eric_a05237c8:
 msgid "[Max_01]Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:749## # translate crowdin eric_ann_sleep_not_eric_f8c5f5ec:
+# game/events/eric.rpy:742## # translate crowdin eric_ann_sleep_not_eric_f8c5f5ec:
 msgid "[Max_07]О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:751## # translate crowdin eric_ann_sleep_not_eric_ca37ba4b:
+# game/events/eric.rpy:744## # translate crowdin eric_ann_sleep_not_eric_ca37ba4b:
 msgid "[Max_04]Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:765## # translate crowdin eric_ann_sleep_not_eric_closer_0982aff1:
+# game/events/eric.rpy:758## # translate crowdin eric_ann_sleep_not_eric_closer_0982aff1:
 msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:767## # translate crowdin eric_ann_sleep_not_eric_closer_5aa8a3a4:
+# game/events/eric.rpy:760## # translate crowdin eric_ann_sleep_not_eric_closer_5aa8a3a4:
 msgid "[Max_02]Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:769## # translate crowdin eric_ann_sleep_not_eric_closer_947120a8:
+# game/events/eric.rpy:762## # translate crowdin eric_ann_sleep_not_eric_closer_947120a8:
 msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:786## # translate crowdin eric_ann_shower_2822b9e1:
+# game/events/eric.rpy:780## # translate crowdin eric_ann_shower_2822b9e1:
 msgid "[Max_00]Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:801## # translate crowdin eric_ann_shower_ladder_2b325faf:
+# game/events/eric.rpy:794## # translate crowdin eric_ann_shower_ladder_2b325faf:
 msgid "[Max_04]Посмотрим, что у нас тут..."
 msgstr ""
 
-# game/events/eric.rpy:812## # translate crowdin eric_ann_shower_ladder_6725d9af:
+# game/events/eric.rpy:805## # translate crowdin eric_ann_shower_ladder_6725d9af:
 msgid "[Max_07]Охх... Боже мой, какие нежности. Похоже, сейчас что-то начнётся..."
 msgstr ""
 
-# game/events/eric.rpy:816## # translate crowdin eric_ann_shower_ladder_20e247fe:
+# game/events/eric.rpy:809## # translate crowdin eric_ann_shower_ladder_20e247fe:
 msgid "[Max_10]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется..."
 msgstr ""
 
-# game/events/eric.rpy:818## # translate crowdin eric_ann_shower_ladder_90b0887e:
+# game/events/eric.rpy:811## # translate crowdin eric_ann_shower_ladder_90b0887e:
 msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?!"
 msgstr ""
 
-# game/events/eric.rpy:821## # translate crowdin eric_ann_shower_ladder_4ce9d959:
+# game/events/eric.rpy:814## # translate crowdin eric_ann_shower_ladder_4ce9d959:
 msgid "[Max_09]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?!"
 msgstr ""
 
-# game/events/eric.rpy:826## # translate crowdin eric_ann_shower_ladder_993c77ee:
+# game/events/eric.rpy:819## # translate crowdin eric_ann_shower_ladder_993c77ee:
 msgid "[Max_09]Вау! С какой же страстью мама отсасывает Эрику... А ему, похоже, этого даже мало и он пытается засадить свой член поглубже ей в рот... Почему она ему это позволяет, ей что, нравится подчиняться?"
 msgstr ""
 
-# game/events/eric.rpy:831## # translate crowdin eric_ann_shower_ladder_c6081091:
+# game/events/eric.rpy:824## # translate crowdin eric_ann_shower_ladder_c6081091:
 msgid "[Max_08]О Боже! Как бы я мечтал оказаться на месте это счастливого ублюдка! И всё равно, что она - моя мама... Когда её мокрая попка так красиво скачет на члене, голова начинает идти кругом!"
 msgstr ""
 
-# game/events/eric.rpy:836## # translate crowdin eric_ann_shower_ladder_fa236e0e:
+# game/events/eric.rpy:829## # translate crowdin eric_ann_shower_ladder_fa236e0e:
 msgid "[Max_10]Ничего себе! Вот это они вытворяют! Эрик трахает маму, разложив её у зеркала как какую-то шлюшку, а она ещё при этом ласкает свою и без того влажную киску... Да уж, только бы со стремянки не упасть от такого зрелища!"
 msgstr ""
 
-# game/events/eric.rpy:843## # translate crowdin eric_ann_shower_ladder_6bc8173a:
+# game/events/eric.rpy:836## # translate crowdin eric_ann_shower_ladder_6bc8173a:
 msgid "[Max_10]Ого! Эрик долбит маму сзади с такой силой, что через стекло даже слышны шлепки о её попку! Похоже, она еле сдерживается, чтобы не кричать слишком громко..."
 msgstr ""
 
-# game/events/eric.rpy:850## # translate crowdin eric_ann_shower_fin1_547d305b:
+# game/events/eric.rpy:843## # translate crowdin eric_ann_shower_fin1_547d305b:
 msgid "[Max_08]Чёрт возьми! Она приняла всю его сперму себе в рот и на лицо, и теперь с такой жадностью и удовольствием слизывает её с его члена... Охх... мама, а ведь ты та ещё развратница!"
 msgstr ""
 
-# game/events/eric.rpy:854## # translate crowdin eric_ann_shower_fin2_7b69081a:
+# game/events/eric.rpy:847## # translate crowdin eric_ann_shower_fin2_7b69081a:
 msgid "[Max_10]А вот и финал не заставил себя ждать! Эрик обкончал маме всё лицо и грудь, и она, похоже, очень довольна... улыбается... Охх... какая же она горячая и развратная!"
 msgstr ""
 
-# game/events/eric.rpy:858## # translate crowdin eric_ann_shower_end_90ff417e:
+# game/events/eric.rpy:851## # translate crowdin eric_ann_shower_end_90ff417e:
 msgid "[Max_00]Хоть и не хочется, но пока меня не заметили, лучше уходить..."
 msgstr ""
 
-# game/events/eric.rpy:861## # translate crowdin eric_ann_shower_end_f00d8bbc:
+# game/events/eric.rpy:855## # translate crowdin eric_ann_shower_end_f00d8bbc:
 msgid "[Max_09]Кстати, они здесь во всю развлекаются и совершенно не попадают под ракурс моей камеры в ванной! Похоже, мне стоит установить ещё одну камеру, чтобы мои зрители видели всю происходящую здесь картину..."
 msgstr ""
 
-# game/events/eric.rpy:874## # translate crowdin eric_ann_shower_start_peeping_1cdffa73:
+# game/events/eric.rpy:868## # translate crowdin eric_ann_shower_start_peeping_1cdffa73:
 msgid "[Max_07]Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:899## # translate crowdin eric_ann_shower_alt_peepeng_d769a708:
+# game/events/eric.rpy:893## # translate crowdin eric_ann_shower_alt_peepeng_d769a708:
 msgid "[Max_10][undetect!t]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:901## # translate crowdin eric_ann_shower_alt_peepeng_42177608:
+# game/events/eric.rpy:895## # translate crowdin eric_ann_shower_alt_peepeng_42177608:
 msgid "[Max_09][undetect!t]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:903## # translate crowdin eric_ann_shower_alt_peepeng_5b560f45:
+# game/events/eric.rpy:897## # translate crowdin eric_ann_shower_alt_peepeng_5b560f45:
 msgid "[Max_04][undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:905## # translate crowdin eric_ann_shower_alt_peepeng_065723ba:
+# game/events/eric.rpy:899## # translate crowdin eric_ann_shower_alt_peepeng_065723ba:
 msgid "[Max_06][undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:907## # translate crowdin eric_ann_shower_alt_peepeng_cedd144b:
+# game/events/eric.rpy:901## # translate crowdin eric_ann_shower_alt_peepeng_cedd144b:
 msgid "[Max_05][undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:916## # translate crowdin eric_ann_shower_alt_peepeng_c849c0ca:
+# game/events/eric.rpy:913## # translate crowdin eric_ann_shower_alt_peepeng_c849c0ca:
 msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:918## # translate crowdin eric_ann_shower_alt_peepeng_925cd30e:
+# game/events/eric.rpy:915## # translate crowdin eric_ann_shower_alt_peepeng_925cd30e:
 msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:920## # translate crowdin eric_ann_shower_alt_peepeng_b85f5146:
+# game/events/eric.rpy:917## # translate crowdin eric_ann_shower_alt_peepeng_b85f5146:
 msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:922## # translate crowdin eric_ann_shower_alt_peepeng_cc0c1868:
+# game/events/eric.rpy:919## # translate crowdin eric_ann_shower_alt_peepeng_cc0c1868:
 msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:944## # translate crowdin eric_ann_shower_closer_peepeng_5b560f45:
+# game/events/eric.rpy:943## # translate crowdin eric_ann_shower_closer_peepeng_5b560f45:
 msgid "[Max_04][undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:946## # translate crowdin eric_ann_shower_closer_peepeng_065723ba:
+# game/events/eric.rpy:945## # translate crowdin eric_ann_shower_closer_peepeng_065723ba:
 msgid "[Max_06][undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:948## # translate crowdin eric_ann_shower_closer_peepeng_cedd144b:
+# game/events/eric.rpy:947## # translate crowdin eric_ann_shower_closer_peepeng_cedd144b:
 msgid "[Max_05][undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:957## # translate crowdin eric_ann_shower_closer_peepeng_925cd30e:
+# game/events/eric.rpy:959## # translate crowdin eric_ann_shower_closer_peepeng_925cd30e:
 msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:959## # translate crowdin eric_ann_shower_closer_peepeng_b85f5146:
+# game/events/eric.rpy:961## # translate crowdin eric_ann_shower_closer_peepeng_b85f5146:
 msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:961## # translate crowdin eric_ann_shower_closer_peepeng_cc0c1868:
+# game/events/eric.rpy:963## # translate crowdin eric_ann_shower_closer_peepeng_cc0c1868:
 msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:974## # translate crowdin eric_ann_shower_not_luck_cdfa03c1:
+# game/events/eric.rpy:978## # translate crowdin eric_ann_shower_not_luck_cdfa03c1:
 msgid "[Ann_15][spotted!t]Макс?! Ты какого чёрта здесь делаешь? Подглядывал за нами?! Сегодня будешь наказан! А ну быстро убирайся!"
 msgstr ""
 
-# game/events/eric.rpy:989## # translate crowdin sexed_lisa_c6d17e9e:
-msgid "[Max_09]{i}( Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит? ){/i}[nointeract]"
+# game/events/eric.rpy:994## # translate crowdin sexed_lisa_fbf9c0fd:
+msgid "[Max_09]{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит?{/m}[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1004## # translate crowdin sexed_lisa_3bf94e65:
-msgid "[Max_09]{i}( Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать. ){/i}[nointeract]"
+# game/events/eric.rpy:1009## # translate crowdin sexed_lisa_6af17f94:
+msgid "[Max_09]{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать.{/m}[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1012## # translate crowdin sexed_lisa_27707318:
-msgid "[Max_07]{i}( Эрик сказал, что всё устроит так, чтобы меня не заметили, когда я буду подглядывать. Сейчас посмотрим... ){/i}[nointeract]"
+# game/events/eric.rpy:1018## # translate crowdin sexed_lisa_139d73b1:
+msgid "[Max_07]{m}Эрик сказал, что всё устроит так, чтобы меня не заметили, когда я буду подглядывать. Сейчас посмотрим...{/m}[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1026## # translate crowdin sexed_lisa_b37af91c:
-msgid "[Max_09]{i}( Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру... ){/i}[nointeract]"
+# game/events/eric.rpy:1032## # translate crowdin sexed_lisa_bb20dbe6:
+msgid "[Max_09]{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру...{/m}[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1042## # translate crowdin sexed_lisa_5dfb44a6:
-msgid "[Max_09]{i}( Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить. ){/i}[nointeract]"
+# game/events/eric.rpy:1048## # translate crowdin sexed_lisa_331970d9:
+msgid "[Max_09]{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить.{/m}[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1054## # translate crowdin sexed_lisa_lesson_0_3242e036:
-msgid "[Max_01]{i}( Отлично! Мне как раз всё видно в зеркале. Посмотрим, чему мою сестрёнку будут учить эти извращенцы... ){/i}"
+# game/events/eric.rpy:1059## # translate crowdin sexed_lisa_lesson_0_34f083f3:
+msgid "[Max_01]{m}Отлично! Мне как раз всё видно в зеркале. Посмотрим, чему мою сестрёнку будут учить эти извращенцы...{/m}"
 msgstr ""
 
-# game/events/eric.rpy:1055## # translate crowdin sexed_lisa_lesson_0_c3153c91:
+# game/events/eric.rpy:1060## # translate crowdin sexed_lisa_lesson_0_c3153c91:
 msgid "[Eric_01]... Рано или поздно у тебя появится парень и тебе нужно знать, как доставить ему удовольствие руками. Но это если вы с ним настроены на серьёзные отношения!"
 msgstr ""
 
-# game/events/eric.rpy:1056## # translate crowdin sexed_lisa_lesson_0_956d3217:
+# game/events/eric.rpy:1061## # translate crowdin sexed_lisa_lesson_0_956d3217:
 msgid "[Ann_12]Да, Лиза, вы должны естественно к этому прийти, не нужно с этим торопиться и уж тем более, чтобы тебя к этому принуждали."
 msgstr ""
 
-# game/events/eric.rpy:1062## # translate crowdin sexed_lisa_lesson_0_ce12a8a8:
+# game/events/eric.rpy:1067## # translate crowdin sexed_lisa_lesson_0_ce12a8a8:
 msgid "[Lisa_01]Конечно, мам, на какие же ещё отношения я могу быть настроена... Итак, что и как надо делать руками?"
 msgstr ""
 
-# game/events/eric.rpy:1063## # translate crowdin sexed_lisa_lesson_0_664bad85:
+# game/events/eric.rpy:1068## # translate crowdin sexed_lisa_lesson_0_664bad85:
 msgid "[Eric_02]Давай я встану, Ань, чтобы Лизе было всё хорошо видно..."
 msgstr "[Eric_02]让我站起来， 安， 这样丽莎就能清楚地看到一切..."
 
-# game/events/eric.rpy:1070## # translate crowdin sexed_lisa_lesson_0_8ba12771:
+# game/events/eric.rpy:1075## # translate crowdin sexed_lisa_lesson_0_8ba12771:
 msgid "[Ann_02]Конечно, дорогой. Вот, Лиза, смотри... Нужно взять член крепко, но нежно и делать вот так... Если почувствуешь, что не хватает смазки, можешь использовать слюну или масло..."
 msgstr "[Ann_02]当然，亲爱的。丽莎 看...你需要采取鸡巴硬， 但温柔， 并这样做...如果你觉得没有足够的润滑剂，你可以用唾液或油..."
 
-# game/events/eric.rpy:1071## # translate crowdin sexed_lisa_lesson_0_3962b7ac:
+# game/events/eric.rpy:1076## # translate crowdin sexed_lisa_lesson_0_3962b7ac:
 msgid "[Lisa_02]Мам, а как понять, что всё происходит как надо?"
 msgstr "[Lisa_02]妈妈，你怎么知道一切都会这样？"
 
-# game/events/eric.rpy:1072## # translate crowdin sexed_lisa_lesson_0_71db625e:
+# game/events/eric.rpy:1077## # translate crowdin sexed_lisa_lesson_0_71db625e:
 msgid "[Ann_05]Ты поймёшь, дорогая. Сразу поймёшь... А может быть твой избранник даже будет подсказывать тебе, как ему больше нравится."
 msgstr "[Ann_05]你会明白的，亲爱的你会立刻明白的...也许你的选择者甚至会告诉你他有多喜欢它。"
 
-# game/events/eric.rpy:1073## # translate crowdin sexed_lisa_lesson_0_c156074c:
-msgid "[Max_08]{i}( Офигеть, что творят! Мама надрачивает Эрику прямо на глазах у Лизы, которую она так всё время оберегала. Да, хорошо Эрик над ней поработал... ){/i}"
-msgstr "[Max_08]{i}（奥菲格特在做什么！ 妈妈在丽莎面前拉埃里克， 她一直在保护她。{/i}"
+# game/events/eric.rpy:1078## # translate crowdin sexed_lisa_lesson_0_e552fab3:
+msgid "[Max_08]{m}Офигеть, что творят! Мама надрачивает Эрику прямо на глазах у Лизы, которую она так всё время оберегала. Да, хорошо Эрик над ней поработал...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1079## # translate crowdin sexed_lisa_lesson_0_84fe0924:
+# game/events/eric.rpy:1084## # translate crowdin sexed_lisa_lesson_0_84fe0924:
 msgid "[Lisa_03]Со стороны всё выглядит довольно просто или это не так?"
 msgstr "[Lisa_03]从外面看，一切看起来都很简单，还是不是？"
 
-# game/events/eric.rpy:1080## # translate crowdin sexed_lisa_lesson_0_4d9014eb:
+# game/events/eric.rpy:1085## # translate crowdin sexed_lisa_lesson_0_4d9014eb:
 msgid "[Ann_07]Ну, Лиза, я уже делала это много раз, поэтому и выглядит это очень просто, но здесь нужно чувствовать своего партнёра. У тебя ещё это всё впереди, когда придёт время..."
 msgstr "[Ann_07]嗯，丽莎，我已经做过很多次了，所以看起来很简单，但在这里你需要感觉我的伴侣。时间到了，你还有很长的路要走..."
 
-# game/events/eric.rpy:1081## # translate crowdin sexed_lisa_lesson_0_d87650b1:
+# game/events/eric.rpy:1086## # translate crowdin sexed_lisa_lesson_0_d87650b1:
 msgid "[Lisa_09]Надеюсь, я при этом ничего не испорчу..."
 msgstr "[Lisa_09]我希望我不会破坏任何东西..."
 
-# game/events/eric.rpy:1082## # translate crowdin sexed_lisa_lesson_0_58dfe180:
+# game/events/eric.rpy:1087## # translate crowdin sexed_lisa_lesson_0_58dfe180:
 msgid "[Eric_03]О, Лиза, это вряд ли! Уже просто лёгкое прикосновение женской руки к мужскому члену очень возбуждает. Всё можно испортить, если ты начнёшь это делать грубо и бесчувственно, но ты точно не такая. Всё у тебя получится, не сомневайся!"
 msgstr "[Eric_03]哦，丽莎，这不太可能！女人的手对男性鸡巴的轻微触摸已经非常令人兴奋了。如果你开始粗鲁和麻木不仁地做， 一切都可以搞砸， 但你肯定不是。你会成功的，不要怀疑！"
 
-# game/events/eric.rpy:1083## # translate crowdin sexed_lisa_lesson_0_57ac6b09:
+# game/events/eric.rpy:1088## # translate crowdin sexed_lisa_lesson_0_57ac6b09:
 msgid "[Lisa_10]Ой, так я делать не буду!"
 msgstr "[Lisa_10]哦，我不会这么做的！"
 
-# game/events/eric.rpy:1084## # translate crowdin sexed_lisa_lesson_0_863e16ef:
-msgid "[Max_02]{i}( Да, как же классно бы было, если бы моя младшая сестрёнка запустила свои нежные ручки в мои шорты и неспеша поласкала мой член... Ухх! ){/i}"
-msgstr "[Max_02]{i}（是的， 如果我的小妹妹穿着我的短裤推出她温柔的钢笔， 慢慢地爬我的鸡巴， 那会有多酷...哦，天啊！){/i}"
+# game/events/eric.rpy:1089## # translate crowdin sexed_lisa_lesson_0_b1a8e82e:
+msgid "[Max_02]{m}Да, как же классно бы было, если бы моя младшая сестрёнка запустила свои нежные ручки в мои шорты и неспеша поласкала мой член... Ухх!{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1091## # translate crowdin sexed_lisa_lesson_0_adc1e3a9:
+# game/events/eric.rpy:1096## # translate crowdin sexed_lisa_lesson_0_adc1e3a9:
 msgid "[Ann_04]Ты у меня умница, дочка. Ладно, ступай, на сегодня я думаю достаточно. Через неделю продолжим..."
 msgstr "[Ann_04]你很聪明，女儿好了，走吧，今天我想够多了。一周后，我们继续..."
 
-# game/events/eric.rpy:1092## # translate crowdin sexed_lisa_lesson_0_d2166188:
+# game/events/eric.rpy:1097## # translate crowdin sexed_lisa_lesson_0_d2166188:
 msgid "[Lisa_02]Мам, а что будет в следующий раз?"
 msgstr "[Lisa_02]妈妈，下次会发生什么？"
 
-# game/events/eric.rpy:1093## # translate crowdin sexed_lisa_lesson_0_f98bd6db:
+# game/events/eric.rpy:1098## # translate crowdin sexed_lisa_lesson_0_f98bd6db:
 msgid "[Ann_01]Ну, нам с Эриком есть, что тебе ещё показать и рассказать. Но это в следующий раз..."
 msgstr "[Ann_01]嗯，埃里克和我有东西要告诉你， 告诉你更多。但这是下一次..."
 
-# game/events/eric.rpy:1094## # translate crowdin sexed_lisa_lesson_0_25611741:
-msgid "[Max_07]{i}( О, пора мне валить к себе... ){/i}"
-msgstr "[Max_07]{i}（哦， 我该自己动了...{/i}"
+# game/events/eric.rpy:1099## # translate crowdin sexed_lisa_lesson_0_6029a41d:
+msgid "[Max_07]{m}О, пора мне валить к себе...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1105## # translate crowdin sexed_lisa_lesson_1_f2ec3c5f:
-msgid "[Max_01]{i}( Посмотрим, чему мою сестрёнку будут сегодня учить... ){/i}"
-msgstr "[Max_01]{i}（让我们看看我妹妹今天要教什么...{/i}"
+# game/events/eric.rpy:1110## # translate crowdin sexed_lisa_lesson_1_4bb42551:
+msgid "[Max_01]{m}Посмотрим, чему мою сестрёнку будут сегодня учить...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1106## # translate crowdin sexed_lisa_lesson_1_87d80caa:
+# game/events/eric.rpy:1111## # translate crowdin sexed_lisa_lesson_1_87d80caa:
 msgid "[Ann_02]... Как правильно стимулировать мужской член рукой я тебе показала. Теперь покажу тебе довольно безобидный и эффективный способ ещё больше возбудить мужчину..."
 msgstr "[Ann_02]...我向你展示了如何用手刺激男性鸡巴。现在，我要告诉你一个相当无害和有效的方法来进一步激起一个男人..."
 
-# game/events/eric.rpy:1107## # translate crowdin sexed_lisa_lesson_1_85c0a015:
+# game/events/eric.rpy:1112## # translate crowdin sexed_lisa_lesson_1_85c0a015:
 msgid "[Lisa_01]Это будет какая-то хитрая техника?"
 msgstr "[Lisa_01]这将是一些狡猾的技术吗？"
 
-# game/events/eric.rpy:1113## # translate crowdin sexed_lisa_lesson_1_d1acd262:
+# game/events/eric.rpy:1118## # translate crowdin sexed_lisa_lesson_1_d1acd262:
 msgid "[Ann_04]Ну, на технику это не тянет, скорее... очень приятное дополнение к ласкам."
 msgstr "[Ann_04]嗯， 它不拉技术， 而是...一个非常愉快的除了爱抚。"
 
-# game/events/eric.rpy:1114## # translate crowdin sexed_lisa_lesson_1_823c8b07:
+# game/events/eric.rpy:1119## # translate crowdin sexed_lisa_lesson_1_823c8b07:
 msgid "[Eric_02]Давай я встану, Ань, чтобы Лизе было всё хорошо видно... Да и мне тоже."
 msgstr "[Eric_02]让我站起来， 安， 这样丽莎就能清楚地看到一切...我也一样"
 
-# game/events/eric.rpy:1121## # translate crowdin sexed_lisa_lesson_1_fa0a2f77:
+# game/events/eric.rpy:1126## # translate crowdin sexed_lisa_lesson_1_fa0a2f77:
 msgid "[Ann_05]Мужчин очень заводит, когда женщина раздевается, так что в дополнение к ласкам можно обнажить грудь, это точно понравится твоему избраннику."
 msgstr "[Ann_05]男人在女人脱衣服时会非常兴奋，所以除了黄鼠狼，你可以露出乳房，它肯定会吸引你的选择者。"
 
-# game/events/eric.rpy:1122## # translate crowdin sexed_lisa_lesson_1_ac7ee8df:
-msgid "[Max_03]{i}( О да, мам! Мне бы очень понравилось, если бы ты подрочила мне обнажив свою сочную и упругую грудь... ){/i}"
-msgstr "[Max_03]{i}（哦， 是的， 妈妈！ 如果你让我露出你多汁和弹性的乳房， 我会喜欢的...）{/i}"
+# game/events/eric.rpy:1127## # translate crowdin sexed_lisa_lesson_1_84bf2170:
+msgid "[Max_03]{m}О да, мам! Мне бы очень понравилось, если бы ты подрочила мне обнажив свою сочную и упругую грудь...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1128## # translate crowdin sexed_lisa_lesson_1_1d6ac237:
+# game/events/eric.rpy:1133## # translate crowdin sexed_lisa_lesson_1_1d6ac237:
 msgid "[Lisa_02]А, ну это я делать умею..."
 msgstr "[Lisa_02]A， 嗯， 我能做到..."
 
-# game/events/eric.rpy:1129## # translate crowdin sexed_lisa_lesson_1_3eb6eb73:
+# game/events/eric.rpy:1134## # translate crowdin sexed_lisa_lesson_1_3eb6eb73:
 msgid "[Ann_15]В каком это смысле умеешь?! Ты что, уже кому-то показывала свою грудь? Признавайся!"
 msgstr "[Ann_15]你从什么意义上知道？！你向别人展示你的乳房了吗？承认吧！"
 
-# game/events/eric.rpy:1130## # translate crowdin sexed_lisa_lesson_1_2ba6a77d:
+# game/events/eric.rpy:1135## # translate crowdin sexed_lisa_lesson_1_2ba6a77d:
 msgid "[Lisa_10]Ой, нет, я имела ввиду, что одеваться-раздеваться я умею, каждый день это делаю."
 msgstr "[Lisa_10]，不，我是说，我可以穿衣服脱衣服，我每天都能穿衣服。"
 
-# game/events/eric.rpy:1137## # translate crowdin sexed_lisa_lesson_1_03d6e80a:
+# game/events/eric.rpy:1142## # translate crowdin sexed_lisa_lesson_1_03d6e80a:
 msgid "[Ann_08]Смотри мне, Лиза! Вот... Такая мелочь, дочка, а мужчине приятно..."
 msgstr "[Ann_08]看着我，丽莎！在这里...这是一件小事，一个女儿，一个男人很高兴..."
 
-# game/events/eric.rpy:1138## # translate crowdin sexed_lisa_lesson_1_d1ae2239:
+# game/events/eric.rpy:1143## # translate crowdin sexed_lisa_lesson_1_d1ae2239:
 msgid "[Lisa_09]Мам, твоя грудь - уж точно не мелочь! У меня поменьше будет..."
 msgstr "[Lisa_09]妈妈，你的乳房绝对不是件小事！我会少一点..."
 
-# game/events/eric.rpy:1139## # translate crowdin sexed_lisa_lesson_1_0f719766:
+# game/events/eric.rpy:1144## # translate crowdin sexed_lisa_lesson_1_0f719766:
 msgid "[Ann_02]Не переживай из-за этого, тебе ещё расти и расти."
 msgstr "[Ann_02]不要担心，你仍然成长和成长。"
 
-# game/events/eric.rpy:1140## # translate crowdin sexed_lisa_lesson_1_28fff240:
-msgid "[Max_04]{i}( Как по мне, а грудь у Лизы весьма симпатичная. Не сравнится с маминой, но они все хороши, по-своему... ){/i}"
-msgstr "[Max_04]{i}（就像我一样， 丽莎的乳房很可爱。 无法与妈妈相比， 但他们都很好， 以自己的方式...）{/i}"
+# game/events/eric.rpy:1145## # translate crowdin sexed_lisa_lesson_1_bc56a001:
+msgid "[Max_04]{m}Как по мне, а грудь у Лизы весьма симпатичная. Не сравнится с маминой, но они все хороши, по-своему...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1146## # translate crowdin sexed_lisa_lesson_1_6e3c2656:
+# game/events/eric.rpy:1151## # translate crowdin sexed_lisa_lesson_1_6e3c2656:
 msgid "[Lisa_02]Значит, достаточно просто обнажить грудь и всё?"
 msgstr "[Lisa_02]所以只要露出乳房就够了？"
 
-# game/events/eric.rpy:1147## # translate crowdin sexed_lisa_lesson_1_77b2fd6c:
+# game/events/eric.rpy:1152## # translate crowdin sexed_lisa_lesson_1_77b2fd6c:
 msgid "[Ann_05]Ну... можно ещё немного подразнить своего партнёра и поводить его членом по своей груди. Он уж точно от этого не откажется..."
 msgstr "[Ann_05]嗯...你可以再模仿一下你的伴侣， 让他在胸前当一个鸡巴。他肯定不会放弃的..."
 
-# game/events/eric.rpy:1148## # translate crowdin sexed_lisa_lesson_1_c79b264a:
+# game/events/eric.rpy:1153## # translate crowdin sexed_lisa_lesson_1_c79b264a:
 msgid "[Eric_05]А если размеры груди позволяют, то некоторые могут стимулировать член и без рук, верно Ань?"
 msgstr "[Eric_05]如果乳房大小允许， 有些人可以刺激鸡巴， 没有手， 对不对？"
 
-# game/events/eric.rpy:1149## # translate crowdin sexed_lisa_lesson_1_9299f861:
+# game/events/eric.rpy:1154## # translate crowdin sexed_lisa_lesson_1_9299f861:
 msgid "[Ann_01]Я думаю, сегодня Лиза и без этого увидела и узнала достаточно. Так что продолжим мы через неделю."
 msgstr "[Ann_01]我想丽莎今天看到并学到了很多东西。因此，我们将继续一个星期。"
 
-# game/events/eric.rpy:1156## # translate crowdin sexed_lisa_lesson_1_933c3a52:
+# game/events/eric.rpy:1161## # translate crowdin sexed_lisa_lesson_1_933c3a52:
 msgid "[Lisa_01]Конечно, мам. С интересом буду ждать следующего урока..."
 msgstr "[Lisa_01]当然，妈妈我饶有兴趣地等待下一课..."
 
-# game/events/eric.rpy:1157## # translate crowdin sexed_lisa_lesson_1_e2699e4d:
-msgid "[Max_07]{i}( С интересом... Да уж, а ещё меня называют в этом доме извращенцем! Хотя, если бы не Эрик... ){/i}"
-msgstr "[Max_07]{i}（有兴趣... 是的，我也在这所房子里被称为！不过， 如果不是埃里克...{/i}"
+# game/events/eric.rpy:1162## # translate crowdin sexed_lisa_lesson_1_0810d87a:
+msgid "[Max_07]{m}С интересом... Да уж, а ещё меня называют в этом доме извращенцем! Хотя, если бы не Эрик...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1168## # translate crowdin sexed_lisa_lesson_2_f2ec3c5f:
-msgid "[Max_01]{i}( Посмотрим, чему мою сестрёнку будут сегодня учить... ){/i}"
-msgstr "[Max_01]{i}（让我们看看我妹妹今天要教什么...{/i}"
+# game/events/eric.rpy:1173## # translate crowdin sexed_lisa_lesson_2_4bb42551:
+msgid "[Max_01]{m}Посмотрим, чему мою сестрёнку будут сегодня учить...{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1169## # translate crowdin sexed_lisa_lesson_2_4668a125:
+# game/events/eric.rpy:1174## # translate crowdin sexed_lisa_lesson_2_4668a125:
 msgid "[Ann_02]... В дополнение к тому, что ты уже видела, не стоит забывать и ещё кое о чём. Дорогой, встань. Так Лизе будет лучше видно..."
 msgstr "[Ann_02]...除了你已经看到的，你不应该忘记别的事情。亲爱的，站起来这样丽莎就能看得更清楚了..."
 
-# game/events/eric.rpy:1170## # translate crowdin sexed_lisa_lesson_2_1340ebb1:
+# game/events/eric.rpy:1175## # translate crowdin sexed_lisa_lesson_2_1340ebb1:
 msgid "[Eric_01]Конечно, Ань, сейчас."
 msgstr "[Eric_01]当然，安，现在。"
 
-# game/events/eric.rpy:1177## # translate crowdin sexed_lisa_lesson_2_24352377:
+# game/events/eric.rpy:1182## # translate crowdin sexed_lisa_lesson_2_24352377:
 msgid "[Ann_04]Так вот, Лиза, во время стимуляции члена можно ещё ласкать яички. Делать это нужно нежно и аккуратно."
 msgstr "现在，丽莎，你可以在刺激阴茎的时候，你可以抚摸你的睾丸。要做到这一点，你必须温柔而整洁。"
 
-# game/events/eric.rpy:1178## # translate crowdin sexed_lisa_lesson_2_48f4e3fa:
+# game/events/eric.rpy:1183## # translate crowdin sexed_lisa_lesson_2_48f4e3fa:
 msgid "[Lisa_10]Как много всяких нюансов..."
 msgstr "[Lisa_10]有多少细微差别..."
 
-# game/events/eric.rpy:1179## # translate crowdin sexed_lisa_lesson_2_2fff7579:
+# game/events/eric.rpy:1184## # translate crowdin sexed_lisa_lesson_2_2fff7579:
 msgid "[Ann_05]Как и в любом процессе. Если знаешь как и к чему прикасаться, то принесёшь массу удовольствия мужчине. Вот, посмотри..."
 msgstr "[Ann_05]就像在任何过程中一样。如果你知道如何触摸什么，你会给男人带来很多乐趣。看..."
 
-# game/events/eric.rpy:1186## # translate crowdin sexed_lisa_lesson_2_e3d29cb3:
+# game/events/eric.rpy:1191## # translate crowdin sexed_lisa_lesson_2_e3d29cb3:
 msgid "[Lisa_02]Значит, всё делать так же как и с членом?"
 msgstr "[Lisa_02]所以一切都和鸡巴一样？"
 
-# game/events/eric.rpy:1187## # translate crowdin sexed_lisa_lesson_2_078b2cba:
+# game/events/eric.rpy:1192## # translate crowdin sexed_lisa_lesson_2_078b2cba:
 msgid "[Ann_07]Да, разве что член нужно держать крепко, а вот яичкам достаточно лёгких прикосновений, чтобы мужчине стало невероятно хорошо. Так ведь, дорогой?"
 msgstr "[Ann_07]是的， 除了鸡巴需要紧紧抓住， 但睾丸足够轻触摸， 使男人变得令人难以置信的好。亲爱的，对吧？"
 
-# game/events/eric.rpy:1188## # translate crowdin sexed_lisa_lesson_2_fba6f0fd:
+# game/events/eric.rpy:1193## # translate crowdin sexed_lisa_lesson_2_fba6f0fd:
 msgid "[Eric_07]О да! Невероятно хорошо - это твоя мама верно сказала... Кажется, она всего лишь легонько водит по ним своими пальчиками, но ощущения... непередаваемые..."
 msgstr "[Eric_07]哦，是的！令人难以置信的好 - 这是妈说的 . . .她似乎只是轻轻地用手指开车， 但感觉...不可转让的..."
 
-# game/events/eric.rpy:1194## # translate crowdin sexed_lisa_lesson_2_8670f664:
-msgid "[Max_10]{i}( Эй! Я тоже хочу, чтобы мне яички ласкали! Судя по млеющей физиономии Эрика - это как минимум очень блаженно. ){/i}"
-msgstr "[Max_10]{i}（嘿！我也想把睾丸抚摸一下！从埃里克的哺乳动物脸部来看，这至少是非常幸福的。{/i}"
+# game/events/eric.rpy:1199## # translate crowdin sexed_lisa_lesson_2_913318bd:
+msgid "[Max_10]{m}Эй! Я тоже хочу, чтобы мне яички ласкали! Судя по млеющей физиономии Эрика - это как минимум очень блаженно.{/m}"
+msgstr ""
 
-# game/events/eric.rpy:1195## # translate crowdin sexed_lisa_lesson_2_f4970fe1:
+# game/events/eric.rpy:1200## # translate crowdin sexed_lisa_lesson_2_f4970fe1:
 msgid "[Lisa_03]Круто! А как долго это всё надо делать?"
 msgstr "[Lisa_03]酷！这一切需要多久？"
 
-# game/events/eric.rpy:1196## # translate crowdin sexed_lisa_lesson_2_d332b109:
+# game/events/eric.rpy:1201## # translate crowdin sexed_lisa_lesson_2_d332b109:
 msgid "[Ann_08]А об этом мы поговорим уже на следующем уроке, дочка. Заодно и пробежимся ещё раз по всем моментам, которые я тебе показывала. Не хочется, чтобы я тут напрасно распиналась."
 msgstr "[Ann_08]，我们将在下一节课上讨论这个问题，女儿。同时，我们将再次运行我给你看的所有时刻。我不想让我白白在这里钉十字架。"
 
-# game/events/eric.rpy:1197## # translate crowdin sexed_lisa_lesson_2_d3b4b1de:
+# game/events/eric.rpy:1202## # translate crowdin sexed_lisa_lesson_2_d3b4b1de:
 msgid "[Lisa_10]Ну хорошо. А я надеялась, что хоть здесь экзаменов не будет."
 msgstr "[Lisa_10]好吧我希望这里没有考试。"
 
-# game/events/eric.rpy:1198## # translate crowdin sexed_lisa_lesson_2_f429540b:
+# game/events/eric.rpy:1203## # translate crowdin sexed_lisa_lesson_2_f429540b:
 msgid "[Ann_04]Тут ничего сложного нет. Так что не волнуйся."
 msgstr "[Ann_04]没什么大不了的。所以不要担心。"
 
-# game/events/eric.rpy:1199## # translate crowdin sexed_lisa_lesson_2_517ed876:
-msgid "[Max_07]{i}( Экзамен... Тянет на какую-то ролевую игру. Хорошо хоть без костюмов! Хотя маму я бы не прочь увидеть в строгом, но сексуальном костюме... ){/i}"
-msgstr "[Max_07]{i}（考试...拉一些角色扮演。好吧， 至少没有西装！虽然我妈妈我不介意穿着严格但性感的西装看...）{/i}"
-
-# game/events/eric.rpy:1210## # translate crowdin sexed_lisa_lesson_3_fe9c9f59:
-msgid "[Max_01]{i}( И чему же мою сестрёнку будут сегодня учить... ){/i}"
+# game/events/eric.rpy:1204## # translate crowdin sexed_lisa_lesson_2_5ffc488b:
+msgid "[Max_07]{m}Экзамен... Тянет на какую-то ролевую игру. Хорошо хоть без костюмов! Хотя маму я бы не прочь увидеть в строгом, но сексуальном костюме...{/m}"
 msgstr ""
 
-# game/events/eric.rpy:1211## # translate crowdin sexed_lisa_lesson_3_b8ee0608:
+# game/events/eric.rpy:1215## # translate crowdin sexed_lisa_lesson_3_402847c5:
+msgid "[Max_01]{m}И чему же мою сестрёнку будут сегодня учить...{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1216## # translate crowdin sexed_lisa_lesson_3_b8ee0608:
 msgid "[Ann_02]... Посмотрим, всё ли ты усвоила из наших уроков. Что и как мне нужно сделать, чтобы доставить мужчине удовольствие?"
 msgstr ""
 
-# game/events/eric.rpy:1212## # translate crowdin sexed_lisa_lesson_3_19a9a059:
+# game/events/eric.rpy:1217## # translate crowdin sexed_lisa_lesson_3_19a9a059:
 msgid "[Lisa_10]Ой, мам, сейчас... Так... Нужно взять его член крепко, но нежно и ласкать, да?"
 msgstr ""
 
-# game/events/eric.rpy:1216## # translate crowdin sexed_lisa_lesson_3_cf0e7b09:
+# game/events/eric.rpy:1221## # translate crowdin sexed_lisa_lesson_3_cf0e7b09:
 msgid "[Ann_04]Верно, дорогая. Я снова покажу всё ещё раз, чтобы мы этот этап стимулирования мужского члена руками закончили и могли двигаться дальше."
 msgstr ""
 
-# game/events/eric.rpy:1217## # translate crowdin sexed_lisa_lesson_3_957e747c:
+# game/events/eric.rpy:1222## # translate crowdin sexed_lisa_lesson_3_957e747c:
 msgid "[Lisa_11]А будет что-то ещё?! Ещё уроки?"
 msgstr ""
 
-# game/events/eric.rpy:1218## # translate crowdin sexed_lisa_lesson_3_0db729e3:
+# game/events/eric.rpy:1223## # translate crowdin sexed_lisa_lesson_3_0db729e3:
 msgid "[Ann_05]Да, дочка. Это не единственный способ доставить мужчине удовольствие."
 msgstr ""
 
-# game/events/eric.rpy:1219## # translate crowdin sexed_lisa_lesson_3_18663d6a:
+# game/events/eric.rpy:1224## # translate crowdin sexed_lisa_lesson_3_18663d6a:
 msgid "[Lisa_02]А как ещё?"
 msgstr ""
 
-# game/events/eric.rpy:1223## # translate crowdin sexed_lisa_lesson_3_786cee35:
-msgid "[Max_08]{i}( Мама что, и отсасывать собирается Эрику при Лизе?! Да нет... Хотя, уже можно не удивляться чему-то такому... ){/i}"
+# game/events/eric.rpy:1228## # translate crowdin sexed_lisa_lesson_3_c374f98e:
+msgid "[Max_08]{m}Мама что, и отсасывать собирается Эрику при Лизе?! Да нет... Хотя, уже можно не удивляться чему-то такому...{/m}"
 msgstr ""
 
-# game/events/eric.rpy:1224## # translate crowdin sexed_lisa_lesson_3_9361d9ee:
+# game/events/eric.rpy:1229## # translate crowdin sexed_lisa_lesson_3_9361d9ee:
 msgid "[Ann_12]Лиза, не сегодня. Сегодня у нас что?"
 msgstr ""
 
-# game/events/eric.rpy:1225## # translate crowdin sexed_lisa_lesson_3_675c30b2:
+# game/events/eric.rpy:1230## # translate crowdin sexed_lisa_lesson_3_675c30b2:
 msgid "[Lisa_09]Да, я поняла, закрепление пройденного материала."
 msgstr ""
 
-# game/events/eric.rpy:1231## # translate crowdin sexed_lisa_lesson_3_d212c0f3:
+# game/events/eric.rpy:1236## # translate crowdin sexed_lisa_lesson_3_d212c0f3:
 msgid "[Ann_07]Вот и славно. Как я могу ещё больше возбудить мужчину во время стимуляции руками?"
 msgstr ""
 
-# game/events/eric.rpy:1232## # translate crowdin sexed_lisa_lesson_3_bda10a5f:
+# game/events/eric.rpy:1237## # translate crowdin sexed_lisa_lesson_3_bda10a5f:
 msgid "[Lisa_01]Можно обнажить грудь! Я это помню..."
 msgstr ""
 
-# game/events/eric.rpy:1239## # translate crowdin sexed_lisa_lesson_3_a38562a0:
+# game/events/eric.rpy:1244## # translate crowdin sexed_lisa_lesson_3_a38562a0:
 msgid "[Ann_08]Верно. Поводить его членом по своей груди тоже будет не лишним."
 msgstr ""
 
-# game/events/eric.rpy:1240## # translate crowdin sexed_lisa_lesson_3_5816beef:
+# game/events/eric.rpy:1245## # translate crowdin sexed_lisa_lesson_3_5816beef:
 msgid "[Lisa_10]Ой, забыла. Точно, ты говорила о том, чтобы немного подразнить этим мужчину."
 msgstr ""
 
-# game/events/eric.rpy:1246## # translate crowdin sexed_lisa_lesson_3_9fd70478:
+# game/events/eric.rpy:1251## # translate crowdin sexed_lisa_lesson_3_9fd70478:
 msgid "[Ann_02]Что ещё мы можем делать?"
 msgstr ""
 
-# game/events/eric.rpy:1247## # translate crowdin sexed_lisa_lesson_3_00b63f32:
+# game/events/eric.rpy:1252## # translate crowdin sexed_lisa_lesson_3_00b63f32:
 msgid "[Lisa_02]Сейчас... Ах да, ласкать яички!"
 msgstr ""
 
-# game/events/eric.rpy:1254## # translate crowdin sexed_lisa_lesson_3_59d1a715:
+# game/events/eric.rpy:1259## # translate crowdin sexed_lisa_lesson_3_59d1a715:
 msgid "[Ann_04]И как надо это делать?"
 msgstr ""
 
-# game/events/eric.rpy:1255## # translate crowdin sexed_lisa_lesson_3_cfad66eb:
+# game/events/eric.rpy:1260## # translate crowdin sexed_lisa_lesson_3_cfad66eb:
 msgid "[Lisa_10]Эээ... Нежно и аккуратно. Легонько массировать... Верно, мам?"
 msgstr ""
 
-# game/events/eric.rpy:1261## # translate crowdin sexed_lisa_lesson_3_49a44ec8:
+# game/events/eric.rpy:1266## # translate crowdin sexed_lisa_lesson_3_49a44ec8:
 msgid "[Ann_05]Верно, моя дорогая. Ты спрашивала в прошлый раз, как долго это нужно делать. Так вот, этой стимуляцией мужчину нужно довести до оргазма, когда он кончает от наслаждения."
 msgstr ""
 
-# game/events/eric.rpy:1262## # translate crowdin sexed_lisa_lesson_3_dd130e24:
+# game/events/eric.rpy:1267## # translate crowdin sexed_lisa_lesson_3_dd130e24:
 msgid "[Lisa_03]О, это как?!"
 msgstr ""
 
-# game/events/eric.rpy:1263## # translate crowdin sexed_lisa_lesson_3_02816cbb:
+# game/events/eric.rpy:1268## # translate crowdin sexed_lisa_lesson_3_02816cbb:
 msgid "[Ann_07]Уже скоро увидишь. Довести мужчину до оргазма не сложно, не то что нас, женщин. Эрик, сегодня нужно показать Лизе как мужчины кончают, так что не сдерживайся..."
 msgstr ""
 
-# game/events/eric.rpy:1264## # translate crowdin sexed_lisa_lesson_3_705d7946:
+# game/events/eric.rpy:1269## # translate crowdin sexed_lisa_lesson_3_705d7946:
 msgid "[Eric_04]Да, я уже близок к этому... Давай, детка, поработай немного быстрее и жёстче. О да... То, что надо..."
 msgstr ""
 
-# game/events/eric.rpy:1268## # translate crowdin sexed_lisa_lesson_3_53812ca7:
-msgid "[Max_10]{i}( Эй, вы там на мою сестрёнку только не попадите! Ладно вы люди взрослые, но при Лизе то поаккуратнее будьте... ){/i}"
+# game/events/eric.rpy:1273## # translate crowdin sexed_lisa_lesson_3_f13fcdfb:
+msgid "[Max_10]{m}Эй, вы там на мою сестрёнку только не попадите! Ладно вы люди взрослые, но при Лизе то поаккуратнее будьте...{/m}"
 msgstr ""
 
-# game/events/eric.rpy:1269## # translate crowdin sexed_lisa_lesson_3_d99c9cbc:
+# game/events/eric.rpy:1274## # translate crowdin sexed_lisa_lesson_3_d99c9cbc:
 msgid "[Ann_06]Вот так, Лиза, мужчины и кончают... Лучше при себе иметь влажные салфетки, чтобы привести всё в порядок после этого."
 msgstr ""
 
-# game/events/eric.rpy:1270## # translate crowdin sexed_lisa_lesson_3_0bb761d3:
+# game/events/eric.rpy:1275## # translate crowdin sexed_lisa_lesson_3_0bb761d3:
 msgid "[Lisa_13]Да уж, а никак нельзя избежать этого... беспорядка?"
 msgstr ""
 
-# game/events/eric.rpy:1271## # translate crowdin sexed_lisa_lesson_3_bb73c8db:
+# game/events/eric.rpy:1276## # translate crowdin sexed_lisa_lesson_3_bb73c8db:
 msgid "[Ann_14]Ну, куда бы мужчина не кончил, всё равно придётся прибраться за собой. Можно ещё конечно... Может ей ещё рано знать о таком, дорогой?"
 msgstr ""
 
-# game/events/eric.rpy:1272## # translate crowdin sexed_lisa_lesson_3_455ad0f2:
+# game/events/eric.rpy:1277## # translate crowdin sexed_lisa_lesson_3_455ad0f2:
 msgid "[Eric_06]О том, что можно принять всю сперму в рот и проглотить? Что ты, я думаю это самый подходящий момент!"
 msgstr ""
 
-# game/events/eric.rpy:1278## # translate crowdin sexed_lisa_lesson_3_60ac646f:
+# game/events/eric.rpy:1283## # translate crowdin sexed_lisa_lesson_3_60ac646f:
 msgid "[Lisa_11]В рот?! И проглотить! Ой, фу-фу-фу! Нет, уж лучше салфетки, потому что это даже звучит противно..."
 msgstr ""
 
-# game/events/eric.rpy:1279## # translate crowdin sexed_lisa_lesson_3_13aa06a4:
+# game/events/eric.rpy:1284## # translate crowdin sexed_lisa_lesson_3_13aa06a4:
 msgid "[Ann_01]Пожалуй, я с тобой соглашусь, дочка. По крайней мере, пока в твоей жизни не появится особенный мужчина."
 msgstr ""
 
-# game/events/eric.rpy:1280## # translate crowdin sexed_lisa_lesson_3_a14ce656:
+# game/events/eric.rpy:1285## # translate crowdin sexed_lisa_lesson_3_a14ce656:
 msgid "[Lisa_13]Всё равно, выглядит и звучит это всё ну так себе, если не сказать похуже!"
 msgstr ""
 
-# game/events/eric.rpy:1281## # translate crowdin sexed_lisa_lesson_3_be7bf484:
+# game/events/eric.rpy:1286## # translate crowdin sexed_lisa_lesson_3_be7bf484:
 msgid "[Eric_02]Зато, теперь ты знаешь, как оно всё есть без прикрас. И теперь ты готова к дальнейшим урокам..."
 msgstr ""
 
-# game/events/eric.rpy:1282## # translate crowdin sexed_lisa_lesson_3_b6d6c533:
+# game/events/eric.rpy:1287## # translate crowdin sexed_lisa_lesson_3_b6d6c533:
 msgid "[Ann_13]Эрик, давай не спешить, пусть у неё это хоть осядет в голове. И вообще, лучше всё ещё раз обсудить, прежде чем показывать ей такое."
 msgstr ""
 
-# game/events/eric.rpy:1283## # translate crowdin sexed_lisa_lesson_3_24f6a637:
+# game/events/eric.rpy:1288## # translate crowdin sexed_lisa_lesson_3_24f6a637:
 msgid "[Lisa_02]А о чём таком вы говорите?"
 msgstr ""
 
-# game/events/eric.rpy:1284## # translate crowdin sexed_lisa_lesson_3_8da9317f:
+# game/events/eric.rpy:1289## # translate crowdin sexed_lisa_lesson_3_8da9317f:
 msgid "[Ann_12]Давай не сейчас. Ступай к себе, на сегодня достаточно. Мы тебе скажем, если решим продолжить эти... уроки."
 msgstr ""
 
-# game/events/eric.rpy:1285## # translate crowdin sexed_lisa_lesson_3_93463eeb:
+# game/events/eric.rpy:1290## # translate crowdin sexed_lisa_lesson_3_93463eeb:
 msgid "[Lisa_09]Мам, ты сказала, что мальчикам сложнее сделать нам приятно там внизу, да? А почему?"
 msgstr ""
 
-# game/events/eric.rpy:1286## # translate crowdin sexed_lisa_lesson_3_a0af2116:
+# game/events/eric.rpy:1291## # translate crowdin sexed_lisa_lesson_3_a0af2116:
 msgid "[Eric_09]Хватит на сегодня вопросов. Давай беги к себе, Лиза. У взрослых ещё есть дела."
 msgstr ""
 
-# game/events/eric.rpy:1287## # translate crowdin sexed_lisa_lesson_3_762fcd5f:
+# game/events/eric.rpy:1292## # translate crowdin sexed_lisa_lesson_3_762fcd5f:
 msgid "[Lisa_01]Хорошо. Ну, я побежала..."
 msgstr ""
 
-# game/events/eric.rpy:1300## # translate crowdin first_jerk_balkon_22b77a79:
+# game/events/eric.rpy:1307## # translate crowdin first_jerk_balkon_22b77a79:
 msgid "[Max_09]Опа, Эрик! Что это он там делает, дрочит что ли? Да... Ого! Эрик стоит посреди ночи и дрочит на спящую Алису! А я и не знал, что Эрик любитель такого..."
 msgstr ""
 
-# game/events/eric.rpy:1301## # translate crowdin first_jerk_balkon_028c8f53:
+# game/events/eric.rpy:1309## # translate crowdin first_jerk_balkon_028c8f53:
 msgid "[Max_03]Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1314## # translate crowdin first_jerk_yard_b743b57a:
+# game/events/eric.rpy:1323## # translate crowdin first_jerk_yard_b743b57a:
 msgid "[Max_07]Опа, Эрик! Что это он делает среди ночи у окна Алисы?![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1320## # translate crowdin first_jerk_yard_36a13914:
+# game/events/eric.rpy:1328## # translate crowdin first_jerk_yard_36a13914:
 msgid "[Max_09]Вот и он! Что это он там делает, дрочит что ли? Да... Ого! Эрик стоит посреди ночи и дрочит на спящую Алису! А я и не знал, что Эрик любитель такого..."
 msgstr ""
 
-# game/events/eric.rpy:1321## # translate crowdin first_jerk_yard_028c8f53:
+# game/events/eric.rpy:1330## # translate crowdin first_jerk_yard_028c8f53:
 msgid "[Max_03]Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1342## # translate crowdin jerk_balkon_f235bbdd:
+# game/events/eric.rpy:1351## # translate crowdin jerk_balkon_f235bbdd:
 msgid "[Max_07]Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1354## # translate crowdin jerk_balkon_63126f2e:
+# game/events/eric.rpy:1364## # translate crowdin jerk_balkon_63126f2e:
 msgid "[Max_03]Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1387## # translate crowdin jerk_yard_f235bbdd:
+# game/events/eric.rpy:1397## # translate crowdin jerk_yard_f235bbdd:
 msgid "[Max_07]Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1402## # translate crowdin jerk_photohant1_0f4523b2:
+# game/events/eric.rpy:1413## # translate crowdin jerk_photohant1_0f4523b2:
 msgid "[Max_09]Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1409## # translate crowdin jerk_photohant1_9aed2e73:
+# game/events/eric.rpy:1419## # translate crowdin jerk_photohant1_9aed2e73:
 msgid "[Max_02]О да! Такой отвратительный снимок явно может стать полезным для меня. Конечно, если правильно его использовать..."
 msgstr ""
 
-# game/events/eric.rpy:1411## # translate crowdin jerk_photohant1_9fa70f41:
+# game/events/eric.rpy:1422## # translate crowdin jerk_photohant1_9fa70f41:
 msgid "[Max_09]А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1424## # translate crowdin jerk_photohant1_5893f935:
+# game/events/eric.rpy:1437## # translate crowdin jerk_photohant1_5893f935:
 msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1443## # translate crowdin jerk_photohant2_52df7afd:
+# game/events/eric.rpy:1457## # translate crowdin jerk_photohant2_52df7afd:
 msgid "[Max_05]Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться![nointeract]"
 msgstr ""
 
-# game/events/eric.rpy:1454## # translate crowdin jerk_photohant2_5893f935:
+# game/events/eric.rpy:1471## # translate crowdin jerk_photohant2_5893f935:
 msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1485## # translate crowdin eric_shat_684d01d0:
+msgid "[Max_07]{m}Должно быть не так Эрик хотел провести этот вечер... Только бы он наши белые стены не испачкал своими выбросами!{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1496## # translate crowdin eric_ann_resting_ad8c84cf:
+msgid "[Max_07]{m}Из комнаты мамы не доносится почти никаких звуков. Похоже, Эрику совершенно не до развлечений...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1501## # translate crowdin eric_ann_resting_d879c878:
+msgid "[Max_01]{m}Что, Эрик, сегодня ты не такой активный, как обычно? С тобой рядом такая женщина, а у тебя голова чем-то другим забита...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1520## # translate crowdin eric_sleep_9fec01f6:
+msgid "[Max_02]{m}Думаю, мама по достоинству оценит то, что ты пришёл к нам в гости и завалился дрыхнуть. Ну что за люди невоспитанные пошли...{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1531## # translate crowdin eric_ann_try_fucking_ad8c84cf:
+msgid "[Max_07]{m}Из комнаты мамы не доносится почти никаких звуков. Похоже, Эрику совершенно не до развлечений...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1535## # translate crowdin eric_ann_try_fucking_e010ae0b:
+msgid "[Max_02]{m}Ну как на такую шикарную женщину может не стоять?! Я не понимаю...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1554## # translate crowdin lisa_eric_sex_ed_practice_practice_1_3065454e:
+msgid "[Max_07]{m}Вот так! Мне всё отлично видно и если Эрик начнёт делать что-то совсем похабное с Лизой, я смогу вовремя вмешаться...{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1555## # translate crowdin lisa_eric_sex_ed_practice_practice_1_1b5c9b5b:
+msgid "[Lisa_09]...ну я не знаю..."
+msgstr ""
+
+# game/events/eric.rpy:1556## # translate crowdin lisa_eric_sex_ed_practice_practice_1_6e713c0c:
+msgid "[Eric_02]Да не переживай ты так, Лиза. Я же подскажу тебе, что и как лучше делать. Всё у тебя получится, вот увидишь!"
+msgstr ""
+
+# game/events/eric.rpy:1557## # translate crowdin lisa_eric_sex_ed_practice_practice_1_97b8fe39:
+msgid "[Lisa_10]Просто мама всё так легко и уверенно делала на тех уроках, а я..."
+msgstr ""
+
+# game/events/eric.rpy:1558## # translate crowdin lisa_eric_sex_ed_practice_practice_1_48f67dbf:
+msgid "[Eric_01]Ну, Лиза... Когда-то и твоя мама была такой же неопытной, как ты... Никто же с первой попытки не играет например, в волейбол или баскетбол, как настоящий профессионал! Для этого нужна практика, время, опыт... Ну и талант было бы к этому делу неплохо иметь."
+msgstr ""
+
+# game/events/eric.rpy:1559## # translate crowdin lisa_eric_sex_ed_practice_practice_1_1c5bd0b4:
+msgid "[Lisa_11]А вдруг никакого таланта у меня нет?!"
+msgstr ""
+
+# game/events/eric.rpy:1560## # translate crowdin lisa_eric_sex_ed_practice_practice_1_f6227f68:
+msgid "[Eric_04]О, Лиза, поверь... Мужчине можно доставить огромное удовольствие даже не имея талантов! Для этого я и предложил тебе практиковаться."
+msgstr ""
+
+# game/events/eric.rpy:1563## # translate crowdin lisa_eric_sex_ed_practice_practice_1_4a6c0e46:
+msgid "[Max_09]{m}Он что, действительно собирается добиться от Лизы дрочки?! Но она же не совсем глупышка, чтобы делать это? Или Эрик уже и Лизе совершенно мозги запудрил, как и маме...{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1568## # translate crowdin lisa_eric_sex_ed_practice_practice_1_ea93a773:
+msgid "[Lisa_09]Хорошо, Эрик. Ты меня немного успокоил. Но я всё равно волнуюсь..."
+msgstr ""
+
+# game/events/eric.rpy:1569## # translate crowdin lisa_eric_sex_ed_practice_practice_1_ff72c174:
+msgid "[Eric_03]Это нормально. Если бы у тебя появился парень, ты бы также тряслась. Но под моим чутким руководством, ты научишься вести себя уверенно и уже этот самый парень будет трястись и стараться тебя впечатлить! Когда придёт время, конечно..."
+msgstr ""
+
+# game/events/eric.rpy:1570## # translate crowdin lisa_eric_sex_ed_practice_practice_1_ef0175b7:
+msgid "[Lisa_13]Тогда сейчас стараться нужно мне... С чего лучше начать?"
+msgstr ""
+
+# game/events/eric.rpy:1571## # translate crowdin lisa_eric_sex_ed_practice_practice_1_3d5f41d3:
+msgid "[Eric_01]Мы будем это делать не спеша, шаг за шагом. Сперва высвободи мой член из под одежды. Ты уже его видела, так что не стесняйся..."
+msgstr ""
+
+# game/events/eric.rpy:1574## # translate crowdin lisa_eric_sex_ed_practice_practice_1_dd7bf2d0:
+msgid "[Max_15]{m}Вот же что сволочь делает! Пользуется моей маленькой и наивной сестрёнкой в своих самых непристойных целях.{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1578## # translate crowdin lisa_eric_sex_ed_practice_practice_1_ec143ed3:
+msgid "[Lisa_11]Ой! Вот и он... Значит, если мужчина испытывает возбуждение, то его член становится больше, правильно?"
+msgstr ""
+
+# game/events/eric.rpy:1579## # translate crowdin lisa_eric_sex_ed_practice_practice_1_b8f977fc:
+msgid "[Eric_02]Именно! Мама тебе об этом говорила. Если мужчина возбуждается по тем или иным причинам, то к его члену приливает кровь и он твердеет, становится больше..."
+msgstr ""
+
+# game/events/eric.rpy:1580## # translate crowdin lisa_eric_sex_ed_practice_practice_1_96ab81e1:
+msgid "[Lisa_10]Я помню, в маминых руках он был куда больше..."
+msgstr ""
+
+# game/events/eric.rpy:1581## # translate crowdin lisa_eric_sex_ed_practice_practice_1_aa78a0a8:
+msgid "[Eric_04]Вот тебе и первое задание... Возбудить меня своими прикосновениями к нему!"
+msgstr ""
+
+# game/events/eric.rpy:1584## # translate crowdin lisa_eric_sex_ed_practice_practice_1_3b74cda5:
+msgid "[Max_13]{m}Лиза, не вздумай! Если она не остановится, то мне некуда деваться. Придётся вмешаться!{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1593## # translate crowdin lisa_eric_sex_ed_practice_practice_1_122391ed:
+msgid "[Max_13]{m}Что!? Он уже член ей свой подсовывает! Если она не остановится и решит ему подрочить, то мне некуда деваться. Придётся вмешаться!{/m}"
+msgstr ""
+
+# game/events/eric.rpy:1595## # translate crowdin lisa_eric_sex_ed_practice_practice_1_762c7d07:
+msgid "[Lisa_11]Ой! Прямо вот так сразу?!"
+msgstr ""
+
+# game/events/eric.rpy:1596## # translate crowdin lisa_eric_sex_ed_practice_practice_1_1f94bdea:
+msgid "[Eric_00]А мы разве не для этого устроили этот урок? Разглядывать что-либо будешь в музее или на теоретических уроках. А у нас закрепление теории на практике!"
+msgstr ""
+
+# game/events/eric.rpy:1597## # translate crowdin lisa_eric_sex_ed_practice_practice_1_9645ed89:
+msgid "[Lisa_10]Э-э-э... Я как-то не уверена..."
+msgstr ""
+
+# game/events/eric.rpy:1598## # translate crowdin lisa_eric_sex_ed_practice_practice_1_3849c169:
+msgid "[Eric_03]Не бойся, Лиза, это совсем не страшно. Глаза боятся - руки делают. Главное начать..."
+msgstr ""
+
+# game/events/eric.rpy:1601## # translate crowdin lisa_eric_sex_ed_practice_practice_1_cc24ef7a:
+msgid "[Lisa_09]Ну ладно. Я сейчас попробую...[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1607## # translate crowdin lisa_eric_sex_ed_practice_practice_1_b1511ce1:
+msgid "[Eric_11]Макс!!! Ах ты мелкий... Тебя же по человечески просили не мешать! Убирайся отсюда немедленно!"
+msgstr ""
+
+# game/events/eric.rpy:1608## # translate crowdin lisa_eric_sex_ed_practice_practice_1_aa882648:
+msgid "[Lisa_10]Ой! Всё! Я больше ничего не буду делать... Мне так стыдно!"
+msgstr ""
+
+# game/events/eric.rpy:1609## # translate crowdin lisa_eric_sex_ed_practice_practice_1_793484cf:
+msgid "[Max_09]Я у себя дома, вообще-то! Куда хочу - туда и хожу..."
+msgstr ""
+
+# game/events/eric.rpy:1611## # translate crowdin lisa_eric_sex_ed_practice_practice_1_f36d522c:
+msgid "[Eric_00]Пойдём-ка выйдем, Макс, и я доходчиво объясню тебе, как не стоит делать!"
+msgstr ""
+
+# game/events/eric.rpy:1612## # translate crowdin lisa_eric_sex_ed_practice_practice_1_b112636c:
+msgid "[Max_00]Давай, попробуй..."
+msgstr ""
+
+# game/events/eric.rpy:1620## # translate crowdin lisa_eric_sex_ed_practice_practice_1_3ad9a6c7:
+msgid "[Eric_13]Я вижу, что ты точно не уймёшься и будешь мне только мешать. До меня дошли некоторые слухи, Макс... О твоей \"хозяйственности\"... И я сделаю так, что это выйдет тебе боком."
+msgstr ""
+
+# game/events/eric.rpy:1621## # translate crowdin lisa_eric_sex_ed_practice_practice_1_3d8756c9:
+msgid "[Max_15]Надоели уже твои угрозы. Может отвалишь?"
+msgstr ""
+
+# game/events/eric.rpy:1622## # translate crowdin lisa_eric_sex_ed_practice_practice_1_f5566d3d:
+msgid "[Eric_09]Ну, я угрожал, потому что считал, что ты ещё ребёнок... Но вижу, что уже нет. Так что теперь я опозорю тебя перед всей семьёй и они отправят тебя в военный лагерь."
+msgstr ""
+
+# game/events/eric.rpy:1623## # translate crowdin lisa_eric_sex_ed_practice_practice_1_c7db9fbd:
+msgid "[Max_07]Да, я уже что-то такое слышал. Не пугает. Что-то ещё или тебя уже можно послать в задницу?"
+msgstr ""
+
+# game/events/eric.rpy:1624## # translate crowdin lisa_eric_sex_ed_practice_practice_1_deab2e43:
+msgid "[Eric_14]Посмотрим, как ты будешь выёживаться дальше..."
+msgstr ""
+
+# game/events/eric.rpy:1693## # translate crowdin eric_about_practice_war_cd954bd0:
+msgid "[Eric_13]Ну-ка стой, Макс. Ты совсем страх потерял?"
+msgstr ""
+
+# game/events/eric.rpy:1694## # translate crowdin eric_about_practice_war_f825e035:
+msgid "[Max_09]Я тебя и не боялся!"
+msgstr ""
+
+# game/events/eric.rpy:1695## # translate crowdin eric_about_practice_war_9e1dccbf:
+msgid "[Eric_09]Признаюсь, я даже похлопать могу тому, что ты смог убедить Лизу отказаться от практических занятий, которые я хотел провернуть."
+msgstr ""
+
+# game/events/eric.rpy:1696## # translate crowdin eric_about_practice_war_02ffd2cd:
+msgid "[Max_07]Ну хоть цветы не стал дарить, уже хорошо."
+msgstr ""
+
+# game/events/eric.rpy:1699## # translate crowdin eric_about_practice_war_30fc7577:
+msgid "[Eric_03]Я, как это от неё услышал, сразу понял, что ты точно не уймёшься и будешь мне только мешать. Но до меня дошли некоторые слухи, Макс... О твоей \"хозяйственности\"... И я сделаю так, что это выйдет тебе боком."
+msgstr ""
+
+# game/events/eric.rpy:1700## # translate crowdin eric_about_practice_war_3d8756c9:
+msgid "[Max_15]Надоели уже твои угрозы. Может отвалишь?"
+msgstr ""
+
+# game/events/eric.rpy:1701## # translate crowdin eric_about_practice_war_df653e82:
+msgid "[Eric_04]Ну, я угрожал, потому что считал, что ты ещё ребёнок... Но вижу, что уже нет. Так что теперь я опозорю тебя перед всей семьёй и они отправят тебя в военный лагерь."
+msgstr ""
+
+# game/events/eric.rpy:1702## # translate crowdin eric_about_practice_war_c7db9fbd:
+msgid "[Max_07]Да, я уже что-то такое слышал. Не пугает. Что-то ещё или тебя уже можно послать в задницу?"
+msgstr ""
+
+# game/events/eric.rpy:1704## # translate crowdin eric_about_practice_war_b9cfdec8:
+msgid "[Eric_06]Посмотрим, как ты будешь выёживаться дальше...[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1710## # translate crowdin eric_about_practice_war_6acf127b:
+msgid "[Eric_03]Я, как это от неё услышал, первым делом хотел сделать так, чтобы тебя отсюда с позором в военный лагерь отправили или даже вовсе на улицу выпнули... Это я запросто могу сделать. Но вдруг ты не настолько уж и безнадёжен!"
+msgstr ""
+
+# game/events/eric.rpy:1711## # translate crowdin eric_about_practice_war_3d8756c9_1:
+msgid "[Max_15]Надоели уже твои угрозы. Может отвалишь?"
+msgstr ""
+
+# game/events/eric.rpy:1712## # translate crowdin eric_about_practice_war_aff378d9:
+msgid "[Eric_04]Ну, я угрожал, потому что считал, что ты ещё ребёнок... Но вижу, что уже нет. И если хочешь не опозориться и продолжать здесь жить, то придётся выплачивать мне \"компенсацию\". Так сказать, за моральный вред."
+msgstr ""
+
+# game/events/eric.rpy:1713## # translate crowdin eric_about_practice_war_d5748155:
+msgid "[Max_08]Вот ещё! То, что я перестал быть в твоих глазах ребёнком, не значит что я могу зарабатывать как взрослый человек!"
+msgstr ""
+
+# game/events/eric.rpy:1714## # translate crowdin eric_about_practice_war_78a0c784:
+msgid "[Eric_06]А вот до меня дошли слухи от твоей же семьи, что у тебя есть свой доход... в интернете... Теперь понятно, откуда у тебя деньги на всю ту одежду, которую ты покупал."
+msgstr ""
+
+# game/events/eric.rpy:1715## # translate crowdin eric_about_practice_war_6ef6aff2:
+msgid "[Max_09]Только на неё мне и хватало денег!"
+msgstr ""
+
+# game/events/eric.rpy:1719## # translate crowdin eric_about_practice_war_c0338be6:
+msgid "[Eric_01]Не знаю, как там на самом деле, Макс, но я намерен получать с тебя по 1000$ каждую неделю."
+msgstr ""
+
+# game/events/eric.rpy:1723## # translate crowdin eric_about_practice_war_dc2b96a5:
+msgid "[Eric_01]Не знаю, как там на самом деле, Макс, но я намерен получать с тебя по 500$ каждую неделю."
+msgstr ""
+
+# game/events/eric.rpy:1726## # translate crowdin eric_about_practice_war_5f1874f1:
+msgid "[Max_12]Ни хрена ты губищу раскатал!"
+msgstr ""
+
+# game/events/eric.rpy:1728## # translate crowdin eric_about_practice_war_32688ff1:
+msgid "[Eric_02]За эти деньги, я пожалуй могу мириться с твоими выкрутасами. Но смотри... Этот ценник запросто вырастет, если ты решишь портить мне настроение. И платить придётся прямо сейчас![nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1731## # translate crowdin eric_about_practice_war_65dfed3f:
+msgid "[Eric_05]К Лизе я больше не полезу. По крайней мере в ближайшую неделю, за которую ты мне и заплатишь. Но и ты не станешь мешать мне в моих планах на остальных дамочек в этом доме.[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1733## # translate crowdin eric_about_practice_war_2784de49:
+msgid "[Eric_06]Вот это деловой разговор двух мужчин! Буду ждать в комнате твоей мамы..."
+msgstr ""
+
+# game/events/eric.rpy:1738## # translate crowdin eric_about_practice_war_76a0e74b:
+msgid "[Max_09]{m}Если он и правда не полезет к Лизе, если я буду платить каждую неделю, то это уже хорошо. Но как же мне уберечь от него всех остальных? Надеюсь, я найду способ...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1743## # translate crowdin eric_about_practice_war_2ff7cd4a:
+msgid "[Eric_03]Ну вот, хоть какую-то пользу от тебя можно заиметь. Для меня это конечно гроши, но учитывая, сколько на Лизу придётся потратить времени - это хорошая компенсация."
+msgstr ""
+
+# game/events/eric.rpy:1744## # translate crowdin eric_about_practice_war_ce89f953:
+msgid "[Max_15]Но смотри... Если всё равно будешь лезть к Лизе..."
+msgstr ""
+
+# game/events/eric.rpy:1746## # translate crowdin eric_about_practice_war_6795eebc:
+msgid "[Eric_04]Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1752## # translate crowdin eric_about_practice_war_7fade9dd:
+msgid "[Eric_14]Ну так не стой и беги зарабатывай! Ты будешь платить за неделю вперёд, так что через неделю я жду от тебя удвоенную сумму. Или ты думал, что обломать мои планы на Лизу никак тебе не аукнутся?"
+msgstr ""
+
+# game/events/eric.rpy:1753## # translate crowdin eric_about_practice_war_1cacd8b8:
+msgid "[Max_15]Я постараюсь достать деньги. Но смотри... Если всё равно будешь лезть к Лизе..."
+msgstr ""
+
+# game/events/eric.rpy:1755## # translate crowdin eric_about_practice_war_14f657ad:
+msgid "[Eric_01]Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1761## # translate crowdin eric_about_practice_war_7fade9dd_1:
+msgid "[Eric_14]Ну так не стой и беги зарабатывай! Ты будешь платить за неделю вперёд, так что через неделю я жду от тебя удвоенную сумму. Или ты думал, что обломать мои планы на Лизу никак тебе не аукнутся?"
+msgstr ""
+
+# game/events/eric.rpy:1762## # translate crowdin eric_about_practice_war_315c5c07:
+msgid "[Max_09]Значит, если я достану деньги, то ты больше не полезешь к Лизе?"
+msgstr ""
+
+# game/events/eric.rpy:1763## # translate crowdin eric_about_practice_war_51da6fda:
+msgid "[Eric_05]По крайней мере в ближайшие две недели, за которые ты мне и заплатишь. Но и ты не станешь мешать мне в моих планах на остальных дамочек в этом доме."
+msgstr ""
+
+# game/events/eric.rpy:1764## # translate crowdin eric_about_practice_war_1cacd8b8_1:
+msgid "[Max_15]Я постараюсь достать деньги. Но смотри... Если всё равно будешь лезть к Лизе..."
+msgstr ""
+
+# game/events/eric.rpy:1766## # translate crowdin eric_about_practice_war_14f657ad_1:
+msgid "[Eric_01]Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1779## # translate crowdin lisa_eric_zero_practice_war_2dcab8b5:
+msgid "[Max_09]{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Я должен проследить, чтобы моя младшая и наивная сестрёнка не перешла все границы! Она просила не мешать, а ещё лучше помыть за неё посуду...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1790## # translate crowdin lisa_eric_zero_practice_war_86a0b856:
+msgid "[Max_10]{m}Нужно как можно быстрее вымыть всю посуду и бежать к своей комнате, а то Эрик может запустить свои грязные руки... А скорее всего даже не руки! Ну вот и закончил...{/m}[nointeract]"
+msgstr ""
+
+# game/events/eric.rpy:1803## # translate crowdin lisa_eric_zero_practice_war_36c2b900:
+msgid "[Max_11]{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
 msgstr ""
 
 msgid "Понимаю, хорошо..."
 msgstr ""
 
-#    # game/events/eric.rpy:16
+#    # game/events/eric.rpy:17
 msgid "И зачем мне это?"
 msgstr ""
 
-#    # game/events/eric.rpy:45
+#    # game/events/eric.rpy:46
 msgid "А если нет, то что?"
 msgstr ""
 
-#    # game/events/eric.rpy:45
+#    # game/events/eric.rpy:46
 msgid "Думаю, подружимся..."
 msgstr ""
 
-#    # game/events/eric.rpy:57
+#    # game/events/eric.rpy:58
 msgid "Это ещё почему?"
 msgstr ""
 
-#    # game/events/eric.rpy:57
+#    # game/events/eric.rpy:58
 msgid "Да я не собираюсь воевать..."
 msgstr ""
 
-#    # game/events/eric.rpy:65
+#    # game/events/eric.rpy:66
 msgid "Да верю, верю. Я просто спросил и не хочу ссориться..."
 msgstr ""
 
-#    # game/events/eric.rpy:65
+#    # game/events/eric.rpy:66
 msgid "Меня все любят и мне поверят, что ты мне угрожал!"
 msgstr ""
 
-#    # game/events/eric.rpy:65
+#    # game/events/eric.rpy:66
 msgid "У меня есть мозги и я что-нибудь придумаю!"
 msgstr ""
 
-#    # game/events/eric.rpy:74
+#    # game/events/eric.rpy:75
 msgid "Не верю! Всё не так!"
 msgstr ""
 
-#    # game/events/eric.rpy:74
+#    # game/events/eric.rpy:75
 msgid "Она так сказала?"
 msgstr ""
 
-#    # game/events/eric.rpy:92
+#    # game/events/eric.rpy:93
 msgid "Ладно, посмотрим..."
 msgstr ""
 
-#    # game/events/eric.rpy:92
+#    # game/events/eric.rpy:93
 msgid "Никогда. Отвали!"
 msgstr ""
 
-#    # game/events/eric.rpy:102
+#    # game/events/eric.rpy:103
 msgid "Ладно, посмотрим... И что я выиграю?"
 msgstr ""
 
-#    # game/events/eric.rpy:112
+#    # game/events/eric.rpy:113
 msgid "Какие проблемы?"
 msgstr ""
 
-#    # game/events/eric.rpy:112
+#    # game/events/eric.rpy:113
 msgid "Договорились..."
 msgstr ""
 
-#    # game/events/eric.rpy:115
+#    # game/events/eric.rpy:116
 msgid "Ну, ладно, убедил."
 msgstr ""
 
-#    # game/events/eric.rpy:115
+#    # game/events/eric.rpy:116
 msgid "Нет, без вариантов..."
 msgstr ""
 
-#    # game/events/eric.rpy:154
+#    # game/events/eric.rpy:155
 msgid "Да, я только за."
 msgstr ""
 
-#    # game/events/eric.rpy:154
+#    # game/events/eric.rpy:155
 msgid "Тебе показалось. Я тебя ненавижу!"
 msgstr ""
 
-#    # game/events/eric.rpy:162
+#    # game/events/eric.rpy:163
 msgid "Думаю, воевать смысла нет..."
 msgstr ""
 
-#    # game/events/eric.rpy:162
+#    # game/events/eric.rpy:163
 msgid "Я тебя ненавижу!"
 msgstr ""
 
-#    # game/events/eric.rpy:170
+#    # game/events/eric.rpy:171
 msgid "Почему? Я подумал как следует. Воевать точно не хочу..."
 msgstr ""
 
-#    # game/events/eric.rpy:170
+#    # game/events/eric.rpy:171
 msgid "Правильно. Я тебя ненавижу!"
 msgstr ""
 
-#    # game/events/eric.rpy:181
+#    # game/events/eric.rpy:182
 msgid "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
 msgstr ""
 
-#    # game/events/eric.rpy:194
+#    # game/events/eric.rpy:195
 msgid "Что? Ты ошибаешься!"
 msgstr ""
 
-#    # game/events/eric.rpy:194
+#    # game/events/eric.rpy:195
 msgid "Они никакие не цыпочки!"
 msgstr ""
 
-#    # game/events/eric.rpy:194
+#    # game/events/eric.rpy:195
 msgid "Я вдруг понял... Да пошёл ты!"
 msgstr ""
 
-#    # game/events/eric.rpy:202
+#    # game/events/eric.rpy:203
 msgid "Думаешь?"
 msgstr ""
 
-#    # game/events/eric.rpy:202
+#    # game/events/eric.rpy:203
 msgid "Постой, и ты этого хочешь?"
 msgstr ""
 
-#    # game/events/eric.rpy:205
+#    # game/events/eric.rpy:206
 msgid "А если я расскажу про это всем?"
 msgstr ""
 
-#    # game/events/eric.rpy:205
+#    # game/events/eric.rpy:206
 msgid "Только, если я что-то получу за это..."
 msgstr ""
 
-#    # game/events/eric.rpy:205
+#    # game/events/eric.rpy:206
 msgid "Ты подонок! Я передумал. Убирайся!"
 msgstr ""
 
-#    # game/events/eric.rpy:222
+#    # game/events/eric.rpy:223
 msgid "Да я не собираюсь рассказывать, просто спросил..."
 msgstr ""
 
-#    # game/events/eric.rpy:222
+#    # game/events/eric.rpy:223
 msgid "Вот и проверим..."
 msgstr ""
 
-#    # game/events/eric.rpy:222
+#    # game/events/eric.rpy:223
 msgid "Ты - псих ненормальный. Убирайся!"
 msgstr ""
 
-#    # game/events/eric.rpy:227
+#    # game/events/eric.rpy:228
 msgid "Да я пошутил! Конечно, не расскажу никому..."
 msgstr ""
 
-#    # game/events/eric.rpy:227
+#    # game/events/eric.rpy:228
 msgid "Вот и посмотрим..."
 msgstr ""
 
-#    # game/events/eric.rpy:247
+#    # game/events/eric.rpy:248
 msgid "Нет, на это я не согласен."
 msgstr ""
 
-#    # game/events/eric.rpy:252
+#    # game/events/eric.rpy:253
 msgid "Я не извращенец!"
 msgstr ""
 
-#    # game/events/eric.rpy:252
+#    # game/events/eric.rpy:253
 msgid "А есть только два варианта?"
 msgstr ""
 
-#    # game/events/eric.rpy:252
+#    # game/events/eric.rpy:253
 msgid "Ты знаешь... Я тут подумал. Да пошёл ты! Не надо мне ничего от тебя. Я от тебя избавлюсь!"
 msgstr ""
 
-#    # game/events/eric.rpy:255
+#    # game/events/eric.rpy:256
 msgid "Тогда... Остаётся только послать тебя куда подальше. Такая дружба мне не нужна!"
 msgstr ""
 
-#    # game/events/eric.rpy:265
+#    # game/events/eric.rpy:266
 msgid "Если так, то я согласен на твои условия, конечно!"
 msgstr ""
 
-#    # game/events/eric.rpy:265
+#    # game/events/eric.rpy:266
 msgid "Знаешь, что... Эрик? А иди-ка ты в жопу! Без тебя справимся!"
 msgstr ""
 
-#    # game/events/eric.rpy:278
+#    # game/events/eric.rpy:279
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Ваши отношения значительно улучшились{/i}{/color}"
 msgstr ""
 
-#    # game/events/eric.rpy:319
+#    # game/events/eric.rpy:320
 msgid "Кажется, мама с Эриком смотрят какой-то фильм. Наверняка, снова порно..."
 msgstr ""
 
-#    # game/events/eric.rpy:320
+#    # game/events/eric.rpy:321
 msgid "Макс, мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?"
 msgstr ""
 
-#    # game/events/eric.rpy:322
+#    # game/events/eric.rpy:323
 msgid "Кажется, мама с Эриком смотрят какой-то фильм. Интересно, какой..."
 msgstr ""
 
-#    # game/events/eric.rpy:323
+#    # game/events/eric.rpy:324
 msgid "Ой, Макс... Мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?"
 msgstr ""
 
-#    # game/events/eric.rpy:324
+#    # game/events/eric.rpy:325
 msgid "{i}наблюдать за ними{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:324
+#    # game/events/eric.rpy:325
 msgid "{i}подойти к ним{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:331
+#    # game/events/eric.rpy:332
 msgid "Конечно, мам! {i}(уйти){/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:331
+#    # game/events/eric.rpy:332
 msgid "Конечно, мам! {i}(спрятаться){/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:352
+#    # game/events/eric.rpy:353
 msgid "Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику..."
 msgstr ""
 
-#    # game/events/eric.rpy:353
+#    # game/events/eric.rpy:354
 msgid "На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?"
 msgstr ""
 
-#    # game/events/eric.rpy:355
+#    # game/events/eric.rpy:356
 msgid "Ого! На экране стало интереснее! А куда это мама так наклонилась?"
 msgstr ""
 
-#    # game/events/eric.rpy:356
+#    # game/events/eric.rpy:357
 msgid "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?"
 msgstr ""
 
-#    # game/events/eric.rpy:357
+#    # game/events/eric.rpy:358
 msgid "{i}подойти ближе{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:357
+#    # game/events/eric.rpy:358
 msgid "{i}тихо уйти{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:366
+#    # game/events/eric.rpy:367
 msgid "{i}Что за вопрос? Конечно!{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:386
+#    # game/events/eric.rpy:387
 msgid "Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику..."
 msgstr ""
 
-#    # game/events/eric.rpy:387
+#    # game/events/eric.rpy:388
 msgid "На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?"
 msgstr ""
 
-#    # game/events/eric.rpy:389
+#    # game/events/eric.rpy:390
 msgid "Ого! На экране стало интереснее! А что это мама там делает?"
 msgstr ""
 
-#    # game/events/eric.rpy:390
+#    # game/events/eric.rpy:391
 msgid "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?"
 msgstr ""
 
-#    # game/events/eric.rpy:421
+#    # game/events/eric.rpy:422
 msgid "{i}тихо сматываться{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:458
-msgid "Вы охренели!"
-msgstr ""
-
-#    # game/events/eric.rpy:460
+#    # game/events/eric.rpy:459
 msgid "Ма-а-ам?"
 msgstr ""
 
-#    # game/events/eric.rpy:493
+#    # game/events/eric.rpy:459
+msgid "Вы охренели!"
+msgstr ""
+
+#    # game/events/eric.rpy:489
 msgid "Как раз всё вижу. Не стыдно?"
 msgstr ""
 
-#    # game/events/eric.rpy:493
+#    # game/events/eric.rpy:489
 msgid "Хорошо. А вы тут продолжайте... Не стесняйтесь."
 msgstr ""
 
-#    # game/events/eric.rpy:493
+#    # game/events/eric.rpy:489
 msgid "Извини, мам. Я просто не ожидал ТАКОЕ увидеть..."
 msgstr ""
 
-#    # game/events/eric.rpy:509
+#    # game/events/eric.rpy:505
 msgid "Хотите потрахаться - идите в свою комнату. Нечего этим на виду у всех заниматься!"
 msgstr ""
 
-#    # game/events/eric.rpy:509
+#    # game/events/eric.rpy:505
 msgid "Да всё в порядке. Это ты извини... Я просто от неожиданности крикнул."
 msgstr ""
 
-#    # game/events/eric.rpy:509
+#    # game/events/eric.rpy:505
 msgid "А вы не против, если я посмотрю?"
 msgstr ""
 
-#    # game/events/eric.rpy:539
-msgid "{i}заглянуть в окно\n"
-"{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr ""
-
-#    # game/events/eric.rpy:539
+#    # game/events/eric.rpy:534
 msgid "{i}зайти в спальню{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:590
+#    # game/events/eric.rpy:584
 msgid "Я никому не мешаю же..."
 msgstr ""
 
-#    # game/events/eric.rpy:590
+#    # game/events/eric.rpy:584
 msgid "Я уже ухожу, мам... Извини..."
 msgstr ""
 
-#    # game/events/eric.rpy:698
+#    # game/events/eric.rpy:690
 msgid "{i}проверить{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:908
+#    # game/events/eric.rpy:902
 msgid "{i}смотреть до конца{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:989
+#    # game/events/eric.rpy:993
 msgid "{i}посмотреть через камеру{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:1314
+#    # game/events/eric.rpy:1322
 msgid "{i}Осторожно подсмотреть за ним с балкона{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:1342
-msgid "{i}сбегать за фотоаппаратом и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+#    # game/events/eric.rpy:1350
+msgid "{i}сбегать за фотоаппаратом и пойти на балкон{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:1354
-msgid "{i}сбегать за фотоаппаратом и вернуться {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+#    # game/events/eric.rpy:1363
+msgid "{i}сбегать за фотоаппаратом и вернуться{/i}"
 msgstr ""
 
-#    # game/events/eric.rpy:1402
+#    # game/events/eric.rpy:1412
 msgid "{i}сфотографировать его{/i}"
+msgstr ""
+
+#    # game/events/eric.rpy:1600
+msgid "{i}прервать Лизу и Эрика{/i}"
+msgstr ""
+
+#    # game/events/eric.rpy:1727
+msgid "И что будет, если я заплачу?"
+msgstr ""
+
+#    # game/events/eric.rpy:1727
+msgid "Да я в жизни такие деньги в руках не держал!"
+msgstr ""
+
+#    # game/events/eric.rpy:1730
+msgid "Договорились. Сейчас принесу деньги..."
+msgstr ""
+
+#    # game/events/eric.rpy:1730
+msgid "А если у меня нет таких денег?"
+msgstr ""
+
+#    # game/events/eric.rpy:1737
+msgid "{i}принести Эрику деньги{/i}"
+msgstr ""
+
+#    # game/events/eric.rpy:1778
+msgid "{i}сперва помыть посуду, а затем проследить{/i}"
+msgstr ""
+
+#    # game/events/eric.rpy:1778
+msgid "{i}проследить сразу{/i}"
+msgstr ""
+
+#    # game/events/eric.rpy:1789
+msgid "{i}быстрее смотреть, что делают Лиза и Эрик{/i}"
 msgstr ""
 
