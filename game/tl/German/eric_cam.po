@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-11-02 12:34\n"
 
 # game/events/eric_cam.rpy:13## # translate crowdin cam0_eric_ann_sleep_7477b46c:
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
@@ -100,103 +100,135 @@ msgstr ""
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/eric_cam.rpy:135## # translate crowdin cam0_eric_resting_2cc4c213:
+# game/events/eric_cam.rpy:136## # translate crowdin cam0_eric_resting_b4d3f901:
+msgid "[Max_01]{m}Кажется, подмешанное Эрику в еду средство испортило ему всё настроение и он не рискует идти к моей сестрёнке... Именно на это я и рассчитывал!{/m}"
+msgstr ""
+
+# game/events/eric_cam.rpy:138## # translate crowdin cam0_eric_resting_2cc4c213:
 msgid "[Max_01]О, \"В мире животных\" показывают! То ли шимпанзе на стероидах, то ли горилла..."
 msgstr ""
 
-# game/events/eric_cam.rpy:155## # translate crowdin cam0_eric_ann_tv_e5606f30:
+# game/events/eric_cam.rpy:158## # translate crowdin cam0_eric_ann_tv_e5606f30:
 msgid "[Max_01]Мама с Эриком смотрят какой-то фильм. Наверняка, опять порнушку..."
 msgstr ""
 
-# game/events/eric_cam.rpy:157## # translate crowdin cam0_eric_ann_tv_28588bd6:
+# game/events/eric_cam.rpy:160## # translate crowdin cam0_eric_ann_tv_28588bd6:
 msgid "[Max_01]Мама с Эриком смотрят какой-то фильм. Интересно, какой?"
 msgstr ""
 
-# game/events/eric_cam.rpy:163## # translate crowdin cam0_eric_ann_tv_814eef63:
+# game/events/eric_cam.rpy:166## # translate crowdin cam0_eric_ann_tv_814eef63:
 msgid "[Max_08]Как же повезло Эрику! Я бы тоже с огромной радостью так посмотрел что угодно... если бы мамины нежные и умелые ручки ласкали мой член..."
 msgstr ""
 
-# game/events/eric_cam.rpy:165## # translate crowdin cam0_eric_ann_tv_91bf9136:
+# game/events/eric_cam.rpy:168## # translate crowdin cam0_eric_ann_tv_91bf9136:
 msgid "[Max_08]Блин, мама, тебе что, настолько неинтересно то, что происходит на экране или ты просто любишь отсасывать Эрику?!"
 msgstr ""
 
-# game/events/eric_cam.rpy:171## # translate crowdin cam0_eric_ann_tv_01416e5e:
+# game/events/eric_cam.rpy:174## # translate crowdin cam0_eric_ann_tv_01416e5e:
 msgid "[Max_09]Ну конечно, ведь просто так смотреть, что происходит на экране они не будут, обязательно надо вот это вот делать..."
 msgstr ""
 
-# game/events/eric_cam.rpy:175## # translate crowdin cam0_eric_ann_tv_5f6b9297:
+# game/events/eric_cam.rpy:178## # translate crowdin cam0_eric_ann_tv_5f6b9297:
 msgid "[Max_10]А, ну да, без полотенца однозначно лучше... Но вы же в гостиной! А если зайдёт кто-то, а вы тут развлекаетесь..."
 msgstr ""
 
-# game/events/eric_cam.rpy:185## # translate crowdin cam0_eric_ann_fucking_6381ec84:
+# game/events/eric_cam.rpy:188## # translate crowdin cam0_eric_ann_fucking_6381ec84:
 msgid "[Max_09]Утомлённые мама с Эриком лежат на кровати. Благо, они не только трахаются всё время, но ещё и разговаривают..."
 msgstr ""
 
-# game/events/eric_cam.rpy:197## # translate crowdin cam0_eric_ann_fucking_3495581a:
+# game/events/eric_cam.rpy:200## # translate crowdin cam0_eric_ann_fucking_3495581a:
 msgid "[Max_07]Через окно подсмотреть мне не дали, значит заценим через камеру... А они тут развлекаются, только в путь!"
 msgstr ""
 
-# game/events/eric_cam.rpy:200## # translate crowdin cam0_eric_ann_fucking_f159866a:
+# game/events/eric_cam.rpy:203## # translate crowdin cam0_eric_ann_fucking_f159866a:
 msgid "[Max_07]Подсмотреть через окно я не рискнул, могут заметить, а вот через камеру могу наслаждаться безнаказанно, сколько захочу... И посмотреть есть на что!"
 msgstr ""
 
-# game/events/eric_cam.rpy:203## # translate crowdin cam0_eric_ann_fucking_61e6a6a9:
+# game/events/eric_cam.rpy:206## # translate crowdin cam0_eric_ann_fucking_61e6a6a9:
 msgid "[Max_07]Ого! Вот это я удачно заглянул! Всё равно, что порно посмотреть..."
 msgstr ""
 
-# game/events/eric_cam.rpy:212## # translate crowdin cam0_eric_ann_fucking_96882403:
+# game/events/eric_cam.rpy:215## # translate crowdin cam0_eric_ann_fucking_96882403:
 msgid "[Max_08]Ну вот они и кончили. По крайней мере, Эрик так точно, а вот мама..."
 msgstr ""
 
-# game/events/eric_cam.rpy:233## # translate crowdin cam0_sexed_lisa_39b6afbd:
-msgid "[Max_08]{i}( Жаль камеры не передают звук. Нужно будет обязательно спросить Лизу, о чём они разговаривали! ){/i}"
+# game/events/eric_cam.rpy:236## # translate crowdin cam0_sexed_lisa_451f5f08:
+msgid "[Max_08]{m}Жаль камеры не передают звук. Нужно будет обязательно спросить Лизу, о чём они разговаривали!{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:243## # translate crowdin cam0_sexed_lisa_ec99c2de:
-msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
+# game/events/eric_cam.rpy:246## # translate crowdin cam0_sexed_lisa_71c1a2f8:
+msgid "[Max_07]{m}Лиза пришла на урок к маме и Эрику. Посмотрим, что будет...{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:251## # translate crowdin cam0_sexed_lisa_e3adf436:
-msgid "[Max_09]{i}( Вот же Эрик! Член он свой вывесил... Интересно, что они ей там рассказывают? ){/i}"
+# game/events/eric_cam.rpy:254## # translate crowdin cam0_sexed_lisa_c0ac64d9:
+msgid "[Max_09]{m}Вот же Эрик! Член он свой вывесил... Интересно, что они ей там рассказывают?{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:259## # translate crowdin cam0_sexed_lisa_42d2aaeb:
-msgid "[Max_08]{i}( Ага, дрочка пошла... И уговорил же Эрик маму на всё это... ){/i}"
+# game/events/eric_cam.rpy:262## # translate crowdin cam0_sexed_lisa_91d200d1:
+msgid "[Max_08]{m}Ага, дрочка пошла... И уговорил же Эрик маму на всё это...{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:269## # translate crowdin cam0_sexed_lisa_ec99c2de_1:
-msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
+# game/events/eric_cam.rpy:272## # translate crowdin cam0_sexed_lisa_71c1a2f8_1:
+msgid "[Max_07]{m}Лиза пришла на урок к маме и Эрику. Посмотрим, что будет...{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:277## # translate crowdin cam0_sexed_lisa_7fb4b50b:
-msgid "[Max_09]{i}( Мама при Лизе уже надрачивает Эрику как будто так и надо! Интересно, что они ей там рассказывают при этом? ){/i}"
+# game/events/eric_cam.rpy:280## # translate crowdin cam0_sexed_lisa_525949f3:
+msgid "[Max_09]{m}Мама при Лизе уже надрачивает Эрику как будто так и надо! Интересно, что они ей там рассказывают при этом?{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:285## # translate crowdin cam0_sexed_lisa_90313c76:
-msgid "[Max_08]{i}( Ага, мама повышает градус показом своей шикарной груди... И уговорил же Эрик маму на всё это! ){/i}"
+# game/events/eric_cam.rpy:288## # translate crowdin cam0_sexed_lisa_0dd5dbf3:
+msgid "[Max_08]{m}Ага, мама повышает градус показом своей шикарной груди... И уговорил же Эрик маму на всё это!{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:295## # translate crowdin cam0_sexed_lisa_ec99c2de_2:
-msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
+# game/events/eric_cam.rpy:298## # translate crowdin cam0_sexed_lisa_71c1a2f8_2:
+msgid "[Max_07]{m}Лиза пришла на урок к маме и Эрику. Посмотрим, что будет...{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:303## # translate crowdin cam0_sexed_lisa_e1ae85f3:
-msgid "[Max_09]{i}( Подрочить Эрику на глазах Лизы в образовательных целях? Конечно, обычное дело, не обращайте внимания... Интересно, что они ей там рассказывают при этом? ){/i}"
+# game/events/eric_cam.rpy:306## # translate crowdin cam0_sexed_lisa_43160aa4:
+msgid "[Max_09]{m}Подрочить Эрику на глазах Лизы в образовательных целях? Конечно, обычное дело, не обращайте внимания... Интересно, что они ей там рассказывают при этом?{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:311## # translate crowdin cam0_sexed_lisa_19cd50f3:
-msgid "[Max_08]{i}( О, от такого я бы не отказался! Только от одних мыслей о маминых руках, нежно массирующих мои шары, хочется кончить... ){/i}"
+# game/events/eric_cam.rpy:314## # translate crowdin cam0_sexed_lisa_36fcd85f:
+msgid "[Max_08]{m}О, от такого я бы не отказался! Только от одних мыслей о маминых руках, нежно массирующих мои шары, хочется кончить...{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:321## # translate crowdin cam0_sexed_lisa_ec99c2de_3:
-msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
+# game/events/eric_cam.rpy:324## # translate crowdin cam0_sexed_lisa_71c1a2f8_3:
+msgid "[Max_07]{m}Лиза пришла на урок к маме и Эрику. Посмотрим, что будет...{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:329## # translate crowdin cam0_sexed_lisa_2fbe73f5:
-msgid "[Max_09]{i}( Всё дрочат и дрочат... Видимо, закрепляют материал. Ну сколько можно?! ){/i}"
+# game/events/eric_cam.rpy:332## # translate crowdin cam0_sexed_lisa_4bfb346c:
+msgid "[Max_09]{m}Всё дрочат и дрочат... Видимо, закрепляют материал. Ну сколько можно?!{/m}"
 msgstr ""
 
-# game/events/eric_cam.rpy:337## # translate crowdin cam0_sexed_lisa_6253e993:
-msgid "[Max_08]{i}( О, Эрик не выдержал и кончил... Хотя, вряд ли. Скорее всего, они решили показать Лизе для чего это всё было нужно. ){/i}"
+# game/events/eric_cam.rpy:340## # translate crowdin cam0_sexed_lisa_6918e27b:
+msgid "[Max_08]{m}О, Эрик не выдержал и кончил... Хотя, вряд ли. Скорее всего, они решили показать Лизе для чего это всё было нужно.{/m}"
+msgstr ""
+
+# game/events/eric_cam.rpy:350## # translate crowdin cam0_eric_shat_39c0bef3:
+msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
+msgstr ""
+
+# game/events/eric_cam.rpy:352## # translate crowdin cam0_eric_shat_e517fcdc:
+msgid "[Max_09]Ничего толком не видно..."
+msgstr ""
+
+# game/events/eric_cam.rpy:366## # translate crowdin cam1_eric_shat_93a7571e:
+msgid "[Max_02]Эрик во всю оценивает эффективность слабительного, которое я ему подмешал... Надеюсь, эта обезьяна знает, как пользоваться туалетной бумагой, потому что банановых листьев у нас тут нет!"
+msgstr ""
+
+# game/events/eric_cam.rpy:368## # translate crowdin cam1_eric_shat_689dedb9:
+msgid "[Max_02]Ты что, Эрик, съел что-то не то, что ли?! Бедняга. Ну, держись там..."
+msgstr ""
+
+# game/events/eric_cam.rpy:377## # translate crowdin cam0_eric_ann_resting_cb75645d:
+msgid "[Max_02]{m}Похоже, потрахушек сегодня не намечается... Интересно, с чего бы это?!{/m}"
+msgstr ""
+
+# game/events/eric_cam.rpy:387## # translate crowdin cam0_eric_sleep_bce0a0b5:
+msgid "[Max_07]{m}Остаётся надеяться, что я подмешал ему не слишком много успокоительного... Главное, что он сейчас ни к кому не пристаёт.{/m}"
+msgstr ""
+
+# game/events/eric_cam.rpy:397## # translate crowdin cam0_eric_ann_try_fucking_5da5d134:
+msgid "[Max_01]{m}Не стоит? Ну ничего, бывает... Но всё равно приятно осознавать, что это происходит из-за моих действий.{/m}"
 msgstr ""
 
