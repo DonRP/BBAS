@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-29 09:57\n"
+"PO-Revision-Date: 2021-11-02 11:19\n"
 
 msgid "Новый купальник Лизы"
 msgstr "El nuevo bañador de Lisa"
@@ -34,6 +34,14 @@ msgstr "Las piernas son bonitas"
 #    # game/extra/extra.rpy:56
 msgid "Помассирую не только ножки"
 msgstr "Masajear no solo las piernas"
+
+#    # game/extra/extra.rpy:56
+msgid "Могу не только руками"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Ответная благодарность"
+msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Первый массаж ног"
@@ -80,6 +88,10 @@ msgid "Я была плохой девочкой"
 msgstr "Era una chica mala"
 
 #    # game/extra/extra.rpy:56
+msgid "Как тебе такое?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
 msgstr "¡Te traje una toalla!"
 
@@ -90,6 +102,14 @@ msgstr "Primeras fotos para el blog de Alice"
 #    # game/extra/extra.rpy:56
 msgid "Я обошёл Эрика с подарком для Алисы"
 msgstr "Caminé alrededor de Eric con un regalo para Alice."
+
+#    # game/extra/extra.rpy:56
+msgid "Попка, которую я теперь могу отшлёпать"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Меня нужно наказать именно так!"
+msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Смотрим порно вместе с тётей"
@@ -140,6 +160,18 @@ msgid "Немного БДСМ от Киры"
 msgstr "Un poco de BDSM de Kira"
 
 #    # game/extra/extra.rpy:56
+msgid "Хватит мять сиськи"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "И помылись, и порезвились"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Кто нас фотографирует?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
 msgid "Вкусные уроки с сестрёнкой"
 msgstr "Deliciosas lecciones con mi hermana"
 
@@ -154,6 +186,22 @@ msgstr "Más que ayuda con la tarea"
 #    # game/extra/extra.rpy:56
 msgid "Ужастики в обнимку с Лизой"
 msgstr "Horror en un abrazo con Lisa"
+
+#    # game/extra/extra.rpy:56
+msgid "Без майки куда интереснее"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Долой смущение"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Это точно триллер-детектив?"
+msgstr ""
+
+#    # game/extra/extra.rpy:56
+msgid "Полотенце снова сползает..."
+msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Урок по минету от мамы и Эрика"
@@ -187,35 +235,35 @@ msgstr "¿Cuánto tiempo se debe hacer esto?"
 msgid "Кружевное боди для Алисы от Эрика"
 msgstr "Bodysuit de encaje para Alice por Eric"
 
-#    # game/extra/extra.rpy:139
+#    # game/extra/extra.rpy:155
 msgid "ВОСПОМИНАНИЯ"
 msgstr "RECUERDOS"
 
-#    # game/extra/extra.rpy:142
+#    # game/extra/extra.rpy:158
 msgid "ФОТОСНИМКИ"
 msgstr "FOTOS"
 
-#    # game/extra/extra.rpy:193
+#    # game/extra/extra.rpy:209
 msgid "Воспоминание недоступно"
 msgstr "La memoria no está disponible"
 
-#    # game/extra/extra.rpy:199
+#    # game/extra/extra.rpy:215
 msgid "Воспоминание ещё не открыто"
 msgstr "La memoria aún no está abierta"
 
-#    # game/extra/extra.rpy:205
+#    # game/extra/extra.rpy:221
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr "Todavía no hay fotos en su colección."
 
-#    # game/extra/extra.rpy:274
+#    # game/extra/extra.rpy:290
 msgid "Предыдущий снимок"
 msgstr "Foto anterior"
 
-#    # game/extra/extra.rpy:280
+#    # game/extra/extra.rpy:296
 msgid "Вернуться в коллекцию"
 msgstr "Volver a la colección"
 
-#    # game/extra/extra.rpy:285
+#    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "Siguiente imagen"
 
