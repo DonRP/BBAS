@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:19\n"
 
 # game/events/alice.rpy:12## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -2419,11 +2419,11 @@ msgstr "Dai, è una sciocchezza, vai un po '."
 
 #    # game/events/alice.rpy:419
 msgid "А как же братика обнять? {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-msgstr "E come può il fratello abbracciarsi? {colore=[_ch2.col]} (Persuasione: Chance: [_ch2.vis]) {/colore}"
+msgstr "Che ne dici di un abbraccio per tuo fratello? {color=[_ch2.col]}(Persuasione. Possibilità: [_ch2.vis]){/color}"
 
 #    # game/events/alice.rpy:442
 msgid "Конечно нет! Оно случайно выскочило из руки! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Certo che no! È saltato accidentalmente fuori dalla sua mano! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+msgstr "Certo che no! Mi è accidentalmente scivolato di mano! {color=[_ch1.col]}(Persuasione. Possibilità: [_ch1.vis]){/color}"
 
 #    # game/events/alice.rpy:471
 msgid "Зато у меня руки свободны... {i}(обнять в ответ){/i}"
@@ -2507,15 +2507,15 @@ msgstr "Cetach il ragno, ma alcune persone stanno rompendo la persuasione! O for
 
 #    # game/events/alice.rpy:1049
 msgid "Давай $10! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Vieni su $ 10! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+msgstr "Dai €10! {color=[_ch1.col]}(Persuasione. Possibilità: [_ch1.vis]){/color}"
 
 #    # game/events/alice.rpy:1049
 msgid "Покажи сиськи! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-msgstr "Mostra le tue tette! {colore=[_ch2.col]} (Persuasione: Chance: [_ch2.vis]) {/colore}"
+msgstr "Mostrami le tue tette! {color=[_ch2.col]}(Persuasione. Possibilità: [_ch2.vis]){/color}"
 
 #    # game/events/alice.rpy:1049
 msgid "Сними верх! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-msgstr "Toglilo! {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
+msgstr "Togliete il top! {color=[_ch3.col]}(Persuasione. Possibilità: [_ch3.vis]){/color}"
 
 #    # game/events/alice.rpy:1049
 msgid "А, ничего. Так поймаю..."
@@ -2523,7 +2523,7 @@ msgstr "Aa, niente. Quindi sarò attraverso..."
 
 #    # game/events/alice.rpy:1078
 msgid "На красивое глаза легче открываются... {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-msgstr "Gli occhi belli sono più facili da aprire... {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
+msgstr "È più facile aprire gli occhi alle cose belle... {color=[_ch3.col]}(Persuasione. Possibilità: [_ch3.vis]){/color}"
 
 #    # game/events/alice.rpy:1078
 msgid "Давай уже показывай сиськи!"
@@ -2641,7 +2641,7 @@ msgstr "{i}penetrarla con le dita{/i} {color=[_ch_sex4.col]}(Esperienza sessuale
 
 #    # game/events/alice.rpy:1647
 msgid "{i}ласкать её киску языком{/i} {color=[_ch_sex4.col]}(Сексуальный опыт. Шанс: [_ch_sex4.vis]){/color}"
-msgstr "{i}accarezzarla con la lingua{/i} {color=[_ch_sex4.col]}(Esperienza sessuale: caso: [_ch_sex4.vis]){/colore}"
+msgstr "{i}accarezzare la sua figa con la lingua{/i} {color=[_ch_sex4.col]}(Esperienza sessuale. Possibilità: [_ch_sex4.vis]){/color}"
 
 #    # game/events/alice.rpy:1657
 msgid "{i}ускориться{/i} {color=[_ch_sex3.col]}(Сексуальный опыт. Шанс: [_ch_sex3.vis]){/color}"
