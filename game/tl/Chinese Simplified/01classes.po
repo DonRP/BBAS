@@ -10,48 +10,48 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-11 00:34\n"
+"PO-Revision-Date: 2021-11-02 11:16\n"
 
 msgid "Ужасное"
 msgstr "Ужасное"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Очень плохое"
 msgstr "很差"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Плохое"
 msgstr "低品质"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Не очень"
 msgstr "没有"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Нейтральное"
 msgstr "平淡"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Неплохое"
 msgstr "一般"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Хорошее"
 msgstr "優"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Очень хорошее"
 msgstr "非常好"
 
-#    # game/core/01classes.rpy:587
+#    # game/core/01classes.rpy:652
 msgid "Прекрасное"
 msgstr "太赞了！ "
 
-#    # game/core/01classes.rpy:962
+#    # game/core/01classes.rpy:1041
 msgid "Приобретен пакет рекламы"
 msgstr "购买广告包"
 
-#    # game/core/01classes.rpy:1185
+#    # game/core/01classes.rpy:1286
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "[颜色=[lime]}{i}{b}注意：{/b} 获得新的\"机会\"！{/i}{/color}"
 
