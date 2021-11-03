@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 11:20\n"
+"PO-Revision-Date: 2021-11-03 12:49\n"
 
 msgid "Новый купальник Лизы"
 msgstr "Il nuovo costume da bagno di Lisa"
@@ -37,11 +37,11 @@ msgstr "Massaggiare non solo le gambe"
 
 #    # game/extra/extra.rpy:56
 msgid "Могу не только руками"
-msgstr ""
+msgstr "Posso fare di più che usare le mani"
 
 #    # game/extra/extra.rpy:56
 msgid "Ответная благодарность"
-msgstr ""
+msgstr "Grazie in cambio"
 
 #    # game/extra/extra.rpy:56
 msgid "Первый массаж ног"
@@ -89,7 +89,7 @@ msgstr "Ero una cattiva ragazza"
 
 #    # game/extra/extra.rpy:56
 msgid "Как тебе такое?"
-msgstr ""
+msgstr "Come è possibile?"
 
 #    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
@@ -105,11 +105,11 @@ msgstr "Ho camminato intorno a Eric con un regalo per Alice"
 
 #    # game/extra/extra.rpy:56
 msgid "Попка, которую я теперь могу отшлёпать"
-msgstr ""
+msgstr "Un culo che ora posso sculacciare"
 
 #    # game/extra/extra.rpy:56
 msgid "Меня нужно наказать именно так!"
-msgstr ""
+msgstr "Ho bisogno di essere punito proprio così!"
 
 #    # game/extra/extra.rpy:56
 msgid "Смотрим порно вместе с тётей"
@@ -161,15 +161,15 @@ msgstr "Un po' di BDSM da Kira"
 
 #    # game/extra/extra.rpy:56
 msgid "Хватит мять сиськи"
-msgstr ""
+msgstr "Smettere di spremere le tette"
 
 #    # game/extra/extra.rpy:56
 msgid "И помылись, и порезвились"
-msgstr ""
+msgstr "Abbiamo fatto i nostri bagni, ci siamo divertiti"
 
 #    # game/extra/extra.rpy:56
 msgid "Кто нас фотографирует?"
-msgstr ""
+msgstr "Chi ci sta fotografando?"
 
 #    # game/extra/extra.rpy:56
 msgid "Вкусные уроки с сестрёнкой"
@@ -189,19 +189,19 @@ msgstr "Orrore in un abbraccio con Lisa"
 
 #    # game/extra/extra.rpy:56
 msgid "Без майки куда интереснее"
-msgstr ""
+msgstr "È molto più interessante senza la camicia"
 
 #    # game/extra/extra.rpy:56
 msgid "Долой смущение"
-msgstr ""
+msgstr "Abbasso l'imbarazzo"
 
 #    # game/extra/extra.rpy:56
 msgid "Это точно триллер-детектив?"
-msgstr ""
+msgstr "Non è forse un thriller-detective?"
 
 #    # game/extra/extra.rpy:56
 msgid "Полотенце снова сползает..."
-msgstr ""
+msgstr "L'asciugamano scivola di nuovo verso il basso..."
 
 #    # game/extra/extra.rpy:56
 msgid "Урок по минету от мамы и Эрика"
