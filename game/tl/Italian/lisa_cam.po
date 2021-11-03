@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:36\n"
+"PO-Revision-Date: 2021-11-03 12:49\n"
 
 # game/events/lisa_cam.rpy:8## # translate crowdin cam0_lisa_sleep_night_cab47b53:
 msgid "[Max_01]Лиза сладко спит..."
@@ -46,7 +46,7 @@ msgstr "[Max_07]Adoro guardare Lisa leggere. O meglio, adoro le pose in cui legg
 
 # game/events/lisa_cam.rpy:75## # translate crowdin cam0_lisa_repeats_homework_f0fb26d2:
 msgid "[Max_01]Лиза готовится к сегодняшним урокам в школе. Какая умничка..."
-msgstr ""
+msgstr "[Max_01]Lisa si sta preparando per la scuola oggi. Che ragazza intelligente..."
 
 # game/events/lisa_cam.rpy:212## # translate crowdin cam0_lisa_dressed_f7db1942:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
@@ -62,11 +62,11 @@ msgstr "[Max_07]Eccellente! Lisa si veste per fare shopping...[nointeract]"
 
 # game/events/lisa_cam.rpy:236## # translate crowdin cam0_lisa_dressed_80e887bc:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться к репетитору...[nointeract]"
-msgstr ""
+msgstr "[Max_07]Grande! Lisa si veste per andare dal tutor...[nointeract]"
 
 # game/events/lisa_cam.rpy:238## # translate crowdin cam0_lisa_dressed_413010f3:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на прогулку...[nointeract]"
-msgstr ""
+msgstr "[Max_07]Grande! Lisa si veste per andare a fare una passeggiata...[nointeract]"
 
 # game/events/lisa_cam.rpy:250## # translate crowdin cam0_lisa_dressed_e61ca9e9:
 msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
