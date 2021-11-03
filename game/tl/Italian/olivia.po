@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:35\n"
+"PO-Revision-Date: 2021-11-03 12:48\n"
 
 # game/events/olivia.rpy:34## # translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07]{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Le ragazze stanno guardando qualche soap opera e io preferisco guardarle... A parte il fatto che ho promesso di stare fuori dai piedi...{/m}[nointeract]"
 
 # game/events/olivia.rpy:38## # translate crowdin olivia_lisa_tv_1ac759be:
 msgid "[Max_10][risky!t]{m}Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне!{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_10][risky!t]{m}No, è troppo pericoloso spiarli! Potrebbero vedermi da un momento all'altro... E questo non farebbe che peggiorare le cose per me!{/m}[nointeract]"
 
 # game/events/olivia.rpy:47## # translate crowdin olivia_lisa_tv_f4d8507c:
 msgid "[Max_04]{m}Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить...{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Bellissimo! Sedersi sul divano con loro sarebbe molto più interessante... Potevo tenere un occhio su di loro e l'altro sullo schermo. Eh, è meglio che non mi soffermi qui, potrebbero notarmi da un momento all'altro...{/m}"
 
 # game/events/olivia.rpy:49## # translate crowdin olivia_lisa_tv_661fc12b:
 msgid "[Max_04]{m}Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Bellissimo! Sedersi sul divano con loro sarebbe molto più interessante... Potevo tenere un occhio su di loro e l'altro sullo schermo. Eh, è meglio che non mi soffermi qui, potrebbero notarmi da un momento all'altro...{/m}[nointeract]"
 
 # game/events/olivia.rpy:53## # translate crowdin olivia_lisa_tv_9e5614b7:
 msgid "[Max_09]{m}Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}Allora come faccio a salire sul divano con loro? Ho bisogno che Lisa sia più adeguata al mio aspetto arrapato, ma come... Forse se si accorge che la sbircio sotto la doccia, posso negoziare con lei e non mi consegnerà a mia madre, e vorrà vedermi nudo in cambio?{/m}[nointeract]"
 
 # game/events/olivia.rpy:56## # translate crowdin olivia_lisa_tv_ed5cbb38:
 msgid "[Max_09]{m}Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}Allora come faccio a salire sul divano con loro? Ho bisogno che Lisa sia più adeguata al mio sguardo arrapato, ma come... Forse dovrei farmi beccare più spesso a sbirciare sotto la doccia?{/m}[nointeract]"
 
 # game/events/olivia.rpy:83## # translate crowdin olivia_first_meeting_7515fc87:
 msgid "[Lisa_01]Вот и мой старший брат, знакомьтесь, это Оливия, моя одноклассница!"
@@ -78,7 +78,7 @@ msgstr "[Lisa_01]sì, torneremo presto...[nointeract]"
 
 # game/events/olivia.rpy:98## # translate crowdin olivia_first_meeting_7fb7ef7c:
 msgid "[Max_07]{m}А Оливия симпатичная девчонка! Надеюсь, она с этим Алексом только из-за его внешности и на деле, ничего особенного он из себя не представляет... Так или иначе, Лиза всё равно поделится со мной этой информацией, когда всё узнает...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}E Olivia è una bella ragazza! Spero che stia con questo Alex solo per il suo aspetto e che non sia davvero niente di speciale... Comunque, Lisa condividerà questa informazione con me quando lo scoprirà...{/m}"
 
 # game/events/olivia.rpy:104## # translate crowdin olivia_first_meeting_4001b456:
 msgid "[Olivia_03]Эй, Макс... О чём задумался?"
@@ -430,11 +430,11 @@ msgstr "[Olivia_01]Qui, possiamo guardare questa serie... Ad esempio, qualcosa d
 
 # game/events/olivia.rpy:397## # translate crowdin olivia_first_night_out_with_1183f165:
 msgid "[Max_02]{m}Мне куда интереснее то, что происходит на диване... А здесь рядом со мной сидят две обалденные девчонки и одна из них - совершенно голая, как и я!{/m}"
-msgstr ""
+msgstr "[Max_02]{m}Sono molto più interessato a quello che succede sul divano... E ci sono due bellissime ragazze sedute accanto a me e una di loro è completamente nuda, proprio come me!{/m}"
 
 # game/events/olivia.rpy:401## # translate crowdin olivia_first_night_out_with_ce4a4d53:
 msgid "[Max_03]{m}Лиза пока ещё стесняется моего вида... Слегка отвернулась, но поглядывает в мою сторону иногда. А вот Оливия очень комфортно себя чувствует. Такая расслабленная и красивая...{/m}"
-msgstr ""
+msgstr "[Max_03]{m}Lisa è ancora timida rispetto alla mia vista... Lei distoglie un po' lo sguardo, ma a volte guarda nella mia direzione. Olivia, invece, è molto comoda. Così rilassato e bello...{/m}"
 
 # game/events/olivia.rpy:402## # translate crowdin olivia_first_night_out_with_f5a27884:
 msgid "[Olivia_02]Ты как там, Макс? Всё ещё возбуждён моим видом? Ага, вижу, что да..."
@@ -474,7 +474,7 @@ msgstr "[Lisa_02]E riesco solo a guardare la serie e non mi distraggo da nessuna
 
 # game/events/olivia.rpy:422## # translate crowdin olivia_first_night_out_with_5e1e7cd1:
 msgid "[Max_02]{m}Вижу я, как у тебя глазки бегают, то на меня, то на Оливию. Наверняка, Лизе даже нравится то, что здесь происходит сегодня...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}Vedo il modo in cui i tuoi occhi vanno avanti e indietro tra me e Olivia. Scommetto che a Lisa piace persino quello che succede qui stasera...{/m}"
 
 # game/events/olivia.rpy:423## # translate crowdin olivia_first_night_out_with_55adf1fc:
 msgid "[Olivia_06]Ребята, у меня уже глаза слипаются. Давайте заканчивать, да я домой пойду..."
@@ -546,7 +546,7 @@ msgstr "[Lisa_13]Certo che no! Dici anche tu..."
 
 # game/events/olivia.rpy:464## # translate crowdin olivia_second_night_out_with_e4b6d8d8:
 msgid "[Max_02]{m}Интересно, как бы Оливия отреагировала, если бы Лиза рассказала, как я учу её целоваться и где мои руки при этом оказываются?! Святую тут из себя строит. Ну да ладно...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}Mi chiedo come reagirebbe Olivia se Lisa mi raccontasse come le ho insegnato a baciare e dove sono finite le mie mani?! Si comporta come una santa. Oh, ma dai...{/m}"
 
 # game/events/olivia.rpy:465## # translate crowdin olivia_second_night_out_with_bd177cb8:
 msgid "[Olivia_03]Так я тебе и поверила, проказница... Ну а ты, Макс?"
@@ -634,7 +634,7 @@ msgstr "[Lisa_05]Lascialo guardare se vuole. Supponiamo che oggi sia molto fortu
 
 # game/events/olivia.rpy:503## # translate crowdin olivia_second_night_out_with_9833c5bf:
 msgid "[Max_05]{m}Во сестрёнка даёт! Естественно, я хочу на это смотреть... Не то, чтобы в наглую, но всё-таки такого количества голых сисек на этом диване ещё не было!{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Che sorella! Naturalmente, voglio guardarlo... Non è così sfacciato, ma non ci sono mai state così tante tette nude su questo divano!{/m}"
 
 # game/events/olivia.rpy:504## # translate crowdin olivia_second_night_out_with_af8b6b2b:
 msgid "[Olivia_02]А Макс притих. Наверно, весь в раздумьях, куда лучше смотреть! Хоть бы на экран поглядел для приличия."
@@ -762,7 +762,7 @@ msgstr "[Lisa_01]Poco chiaro, ma ero personalmente incuriosito... Mi chiedo cosa
 
 # game/events/olivia.rpy:581## # translate crowdin olivia_repeatable_night_out_with_00b10636:
 msgid "[Max_04]{m}А вот мне нет разницы, что происходит в сериале... Ведь на этом диване есть то, что в сериалах не каждый день увидишь!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Ma non mi interessa cosa succede nello show... Ci sono cose su questo divano che non si vedono tutti i giorni in TV!{/m}"
 
 # game/events/olivia.rpy:584## # translate crowdin olivia_repeatable_night_out_with_22d3a585:
 msgid "[Olivia_04]Вот, можем этот сериал посмотреть... Вроде, что-то интересное происходит у них там. Надо вникать..."
@@ -774,7 +774,7 @@ msgstr "[Lisa_01]Allora vediamo... Forse nel corso della visualizzazione tutto c
 
 # game/events/olivia.rpy:586## # translate crowdin olivia_repeatable_night_out_with_f51c8651:
 msgid "[Max_04]{m}А вот мне куда интереснее то, что происходит на диване... Здесь, рядом со мной, сидят две обалденные девчонки, которые не против моей компании!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Io, invece, sono molto più interessato a quello che succede sul divano... Ci sono due bellissime ragazze sedute accanto a me che non badano alla mia compagnia!{/m}"
 
 # game/events/olivia.rpy:594## # translate crowdin olivia_repeatable_night_out_with_f6fc3e47:
 msgid "[Olivia_02]Здорово, что можно просто вот так, побездельничать в пустом и шикарном доме... Да ещё и с такими классными ребятами, как вы!"
@@ -865,7 +865,7 @@ msgid "[Max_01]Приятных снов."
 msgstr "[Max_01]sogni piacevoli."
 
 msgid "{i}подсмотреть{/i}"
-msgstr ""
+msgstr "{i}vedere{/i}"
 
 #    # game/events/olivia.rpy:92
 msgid "{i}дождаться девчонок{/i}"
