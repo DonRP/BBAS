@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 11:17\n"
+"PO-Revision-Date: 2021-11-03 12:46\n"
 
 msgid "ПАУК"
 msgstr "RAGNO"
@@ -265,45 +265,45 @@ msgstr "Bruce Willis nel ruolo di uno psicologo di New York che ha perso un pazi
 
 #    # game/core/06_items.rpy:2
 msgid "КОМПРОМАТ НА ЭРИКА"
-msgstr ""
+msgstr "COMPROMETTERE ERIC"
 
 #    # game/core/06_items.rpy:2
 msgid "Снимок того, как Эрик по ночам дрочит на Алису у окна её комнаты."
-msgstr ""
+msgstr "Un'istantanea di Eric che si masturba davanti ad Alice fuori dalla finestra della sua stanza, di notte."
 
 #    # game/core/06_items.rpy:2
 msgid "Снимки того, как Эрик по ночам сперва дрочил на Алису у окна её комнаты, а затем и в самой комнате."
-msgstr ""
+msgstr "Istantanee di Eric che si masturba davanti ad Alice fuori dalla finestra della sua stanza di notte, e poi nella stanza stessa."
 
 #    # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ КОСТЮМ ДЛЯ РОЛЕВЫХ ИГР"
-msgstr ""
+msgstr "COSTUME DI RUOLO IN PELLE NERA"
 
 #    # game/core/06_items.rpy:2
 msgid "Женский сексуальный комплект из натуральной кожи чёрного цвета. Топ с воротничком и коротенькие шортики, которые застёгиваются на стильные заклёпки."
-msgstr ""
+msgstr "Set da donna sexy in pelle nera. Il top con colletto e pantaloncini corti che si chiudono con eleganti rivetti."
 
 #    # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ СТЕК"
-msgstr ""
+msgstr "PILA DI PELLE NERA"
 
 #    # game/core/06_items.rpy:2
 msgid "Стек освежит и разнообразит ваши отношения. Шлепок на конце девайса воспитает дерзкого и непослушного партнера. Секс-игрушка откроет просторы истинного БДСМ."
-msgstr ""
+msgstr "La pila rinfrescherà e diversificherà la vostra relazione. La sculacciata all'estremità del dispositivo alimenterà un partner ribelle e birichino. Un sex toy che apre il regno del vero BDSM."
 
 #    # game/core/06_items.rpy:2
 msgid "БЫСТРОДЕЙСТВУЮЩЕЕ СЛАБИТЕЛЬНОЕ"
-msgstr ""
+msgstr "LASSATIVO ISTANTANEO"
 
 #    # game/core/06_items.rpy:2
 msgid "Эффективное слабительное средство. Эффект не заставит себя ждать. Деликатное решение деликатной проблемы."
-msgstr ""
+msgstr "Un efficace lassativo. L'effetto non tarderà ad arrivare. Una soluzione delicata per un problema delicato."
 
 #    # game/core/06_items.rpy:2
 msgid "УСПОКОИТЕЛЬНОЕ СРЕДСТВО"
-msgstr ""
+msgstr "SEDATIVO"
 
 #    # game/core/06_items.rpy:2
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
-msgstr ""
+msgstr "Ottimo per chi non vuole essere sovraeccitato. Solo calma e serenità. Consultare sempre un medico prima dell'uso per determinare il corretto dosaggio."
 
