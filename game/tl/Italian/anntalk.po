@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:33\n"
+"PO-Revision-Date: 2021-11-03 12:47\n"
 
 # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -86,7 +86,7 @@ msgstr "[Ann_00]sì, tutto. Siediti accanto a te se vuoi...[nointeract]"
 
 # game/dialogues/anntalk.rpy:176## # translate crowdin ann_talk_tv_39730cd3:
 msgid "[Ann_05]Да вот, по кабельному какой-то фильм сейчас начнётся... Да и сериалов полно..."
-msgstr ""
+msgstr "[Ann_05]Sì, c'è un film in arrivo sul cavo... E ci sono molti spettacoli..."
 
 # game/dialogues/anntalk.rpy:193## # translate crowdin ann_talk_tv_f84710e8:
 msgid "[Ann_05]Как хочешь, дорогой. А я что-нибудь посмотрю...[nointeract]"
@@ -122,7 +122,7 @@ msgstr "[Ann_05]Bene, visto che le recensioni sono buone, allora, guardiamo![noi
 
 # game/dialogues/anntalk.rpy:232## # translate crowdin ann_talk_tv_start_e787d68c:
 msgid "[Max_01]{m}Интересно, мама хотя бы подозревает, что это эротика?... Посмотрим...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Chissà se la mamma sospetta che sia erotico...? Vediamo...{/m}"
 
 # game/dialogues/anntalk.rpy:234## # translate crowdin ann_talk_tv_start_2fbf09a3:
 msgid "[Ann_13]Ой, кажется, я не посмотрела какой возрастной рейтинг у фильма..."
@@ -186,63 +186,63 @@ msgstr "[Max_01]Certo, mamma!"
 
 # game/dialogues/anntalk.rpy:278## # translate crowdin ann_tv_casual_0_de055873:
 msgid "[Max_02]{m}Мама так близко... В одном полотенце... Даже не знаю о чём сериал, о нём я думать точно не могу...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}La mamma è così vicina... In un asciugamano... Non so nemmeno di cosa parli lo spettacolo, di certo non riesco a pensarci...{/m}"
 
 # game/dialogues/anntalk.rpy:286## # translate crowdin ann_tv_casual_0_cc5c55e4:
 msgid "[Max_08]{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... В джинсах стало прям очень тесно, член стоит как памятник! Хорошо, что мама из-за моей одежды это не увидит...{/m}"
-msgstr ""
+msgstr "[Max_08]{m}Oh, merda! Non avrei dovuto immaginare cosa ci fosse sotto l'asciugamano di mia madre... I miei jeans sono così stretti che il mio cazzo è come un monumento! È un bene che mia madre non possa vederlo da dietro i miei vestiti...{/m}"
 
 # game/dialogues/anntalk.rpy:299## # translate crowdin ann_tv_casual_0_a12834eb:
 msgid "[Max_08]{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт.{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Oh, merda! Non avrei dovuto immaginare cosa ci fosse sotto l'asciugamano di mia madre... Se mia madre vede la mia erezione, ho definitivamente finito di guardare. Anche se indosso una maglietta... Forse non se ne accorgerà, ma non lo so.{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:311## # translate crowdin ann_tv_casual_0_058e265f:
 msgid "[Ann_15][unlucky!t]Макс! Это мне кажется или у тебя... Я не поняла! Ты почему такой возбуждённый? Я конечно всё понимаю, ты подросток и такое бывает, но сейчас-то в честь чего?"
-msgstr ""
+msgstr "[Ann_15][unlucky!t]Max! Sono solo io o sei... Non capisco! Perché sei così eccitato? Voglio dire, lo capisco, sei un adolescente e succede, ma qual è il problema ora?"
 
 # game/dialogues/anntalk.rpy:312## # translate crowdin ann_tv_casual_0_11b175c9:
 msgid "[Max_10]Я не знаю! Оно само, как-то..."
-msgstr ""
+msgstr "[Max_10]Non lo so! E' solo una specie di..."
 
 # game/dialogues/anntalk.rpy:313## # translate crowdin ann_tv_casual_0_d75f04c7:
 msgid "[Ann_18]Как же, само... Давай прикрывайся, бессовестный, и беги к себе в комнату, пока не наказала. И Лизу не вздумай напугать своей возбуждённостью!"
-msgstr ""
+msgstr "[Ann_18]Com'è, se stesso... Vai a coprirti, bastardo svergognato, e corri nella tua stanza prima che ti punisca. E non cercare di spaventare Lisa con la tua eccitazione!"
 
 # game/dialogues/anntalk.rpy:315## # translate crowdin ann_tv_casual_0_56c17c37:
 msgid "[Max_14]Хорощо, мам. Извини за это.[nointeract]"
-msgstr ""
+msgstr "[Max_14]Ok, mamma. Mi dispiace per questo.[nointeract]"
 
 # game/dialogues/anntalk.rpy:335## # translate crowdin ann_tv_casual_0_db7f2794:
 msgid "[Max_08]{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли.{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Oh, merda! Non avrei dovuto immaginare cosa ci fosse sotto l'asciugamano di mia madre... Se mia madre vede la mia erezione, ho definitivamente finito di guardare. Non posso nascondere il mio cazzo in questi pantaloncini ora! Forse non se ne accorgerebbe, ma non credo.{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:353## # translate crowdin ann_tv_casual_0_1e50258d:
 msgid "[Ann_15][unlucky!t]Макс! Это что такое?! Я не поняла! Ты почему такой возбуждённый? Я конечно всё понимаю, ты подросток и такое бывает, но сейчас-то в честь чего?"
-msgstr ""
+msgstr "[Ann_15][unlucky!t]Max! Cos'è quello?! Non capisco! Perché sei così eccitato? Ho capito, sei un adolescente e succede, ma qual è il problema adesso?"
 
 # game/dialogues/anntalk.rpy:354## # translate crowdin ann_tv_casual_0_11b175c9_1:
 msgid "[Max_10]Я не знаю! Оно само, как-то..."
-msgstr ""
+msgstr "[Max_10]Non lo so! E' solo una specie di..."
 
 # game/dialogues/anntalk.rpy:355## # translate crowdin ann_tv_casual_0_d75f04c7_1:
 msgid "[Ann_18]Как же, само... Давай прикрывайся, бессовестный, и беги к себе в комнату, пока не наказала. И Лизу не вздумай напугать своей возбуждённостью!"
-msgstr ""
+msgstr "[Ann_18]Com'è, se stesso... Vai a coprirti, bastardo svergognato, e corri nella tua stanza prima che ti punisca. E non cercare di spaventare Lisa con la tua eccitazione!"
 
 # game/dialogues/anntalk.rpy:357## # translate crowdin ann_tv_casual_0_56c17c37_1:
 msgid "[Max_14]Хорощо, мам. Извини за это.[nointeract]"
-msgstr ""
+msgstr "[Max_14]Ok, mamma. Mi dispiace per questo.[nointeract]"
 
 # game/dialogues/anntalk.rpy:366## # translate crowdin ann_tv_casual_0_9417a581:
 msgid "[Ann_05]Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?[nointeract]"
-msgstr ""
+msgstr "[Ann_05]Beh, è un grande spettacolo, credo! Ti è piaciuto, Max?[nointeract]"
 
 # game/dialogues/anntalk.rpy:368## # translate crowdin ann_tv_casual_0_11e91c71:
 msgid "[Ann_05][lucky!t]Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?[nointeract]"
-msgstr ""
+msgstr "[Ann_05][lucky!t]Beh, è un grande spettacolo, credo! Ti è piaciuto, Max?[nointeract]"
 
 # game/dialogues/anntalk.rpy:373## # translate crowdin ann_tv_casual_0_88212c06:
 msgid "[Ann_07]Ну я рада. Ладно, спасибо что посидел со мной. Пойду в свою комнату, хватит глаза портить на сегодня..."
-msgstr ""
+msgstr "[Ann_07]Bene, sono contento. Va bene, grazie per essersi seduto con me. Vado in camera mia, smetto di rovinarmi gli occhi per la giornata..."
 
 # game/dialogues/anntalk.rpy:374## # translate crowdin ann_tv_casual_0_5939730b:
 msgid "[Max_04]Ага, давай..."
@@ -258,7 +258,7 @@ msgstr "[Max_00]Non prenderlo, sono io, ho scherzato senza successo..."
 
 # game/dialogues/anntalk.rpy:379## # translate crowdin ann_tv_casual_0_8dcfcf19:
 msgid "[Ann_05]Ясно. Ну, спасибо за компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
-msgstr ""
+msgstr "[Ann_05]Bene, grazie per la compagnia. Vado in camera mia, smetto di rovinarmi gli occhi per la giornata..."
 
 # game/dialogues/anntalk.rpy:380## # translate crowdin ann_tv_casual_0_980cb3ea:
 msgid "[Max_03]Ага, хорошо посидели..."
@@ -266,27 +266,27 @@ msgstr "[Max_03]sì, ben seduto..."
 
 # game/dialogues/anntalk.rpy:396## # translate crowdin ann_tv_casual_1_dfadd689:
 msgid "[Max_02]{m}Мама так близко... В одном полотенце... Какая разница, что там на экране происходит, когда рядом ТАКАЯ женщина! Не могу перестать представлять то, что скрыто под её полотенцем...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}La mamma è così vicina... In un asciugamano... Chi se ne frega di quello che succede sullo schermo quando c'è QUESTA donna in giro! Non riesco a smettere di immaginare cosa ci sia sotto il suo asciugamano...{/m}"
 
 # game/dialogues/anntalk.rpy:405## # translate crowdin ann_tv_casual_1_da7fec66:
 msgid "[Max_08]{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт.{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Non avrei dovuto immaginarlo... Se mia madre vede la mia erezione, la visione è definitivamente finita per me. Anche se sto indossando una maglietta... Forse non se ne accorgerà, ma non lo so.{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:408## # translate crowdin ann_tv_casual_1_9e2c4436:
 msgid "[Max_08]{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли.{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Non avrei dovuto immaginarlo... Se mia madre vede la mia erezione, la visione è definitivamente finita per me. Di sicuro non sto nascondendo il mio cazzo in questi pantaloncini in questo momento! Forse non se ne accorgerà, ma non credo.{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:412## # translate crowdin ann_tv_casual_1_458824c0:
 msgid "[Max_07]Мам, а зачем без дела, сидеть и смотреть в экран... Хочешь, я тебе массаж сделаю?"
-msgstr ""
+msgstr "[Max_07]Mamma, perché stare seduti a fissare lo schermo... Vuoi che ti faccia un massaggio?"
 
 # game/dialogues/anntalk.rpy:413## # translate crowdin ann_tv_casual_1_12e1af95:
 msgid "[Ann_02]Я слышала от твоих сестёр, что ты начал этим увлекаться и делаешь успехи... Неужели этому можно научиться на интернет-курсах?"
-msgstr ""
+msgstr "[Ann_02]Ho sentito dalle tue sorelle che hai iniziato a darci dentro e stai facendo progressi... È davvero qualcosa che si può imparare in un corso su internet?"
 
 # game/dialogues/anntalk.rpy:420## # translate crowdin ann_tv_casual_1_5e34b005:
 msgid "[Max_04]Если руки не кривые, то можно! И это ведь не лечебный массаж, а скорее лёгкий и поверхностный. Но расслабляет хорошо. Тебе такое точно не помешало бы..."
-msgstr ""
+msgstr "[Max_04]Se le tue mani non sono storte, puoi farlo! E non si tratta di un massaggio terapeutico, ma piuttosto di un massaggio leggero e superficiale. Ma è rilassante. Potresti sicuramente usarne uno..."
 
 # game/dialogues/anntalk.rpy:427## # translate crowdin ann_tv_casual_1_8e3248cf:
 msgid "[Ann_04]Верно, Алиса говорила, что у тебя талант... Ладно, давай посмотрим, на что ты способен... Помассируешь мне плечи?"
@@ -314,23 +314,23 @@ msgstr "[Max_04]È solo un hobby... E per il mio, sono felice di farlo."
 
 # game/dialogues/anntalk.rpy:449## # translate crowdin ann_tv_casual_1_32d30172:
 msgid "[Ann_08]Ну, бывает так, что хобби становится работой... Кажется, я и правда хорошо расслабилась, как будто поспала несколько часов... Я буду рада, если ты будешь делать мне такой массаж иногда..."
-msgstr ""
+msgstr "[Ann_08]Beh, ci sono momenti in cui un hobby diventa un lavoro... Mi sembra di essermi rilassato bene, come se avessi dormito per qualche ora... Sarei felice se mi facessi un massaggio così ogni tanto..."
 
 # game/dialogues/anntalk.rpy:450## # translate crowdin ann_tv_casual_1_b5254835:
 msgid "[Max_01]С удовольствием, мам!"
-msgstr ""
+msgstr "[Max_01]Con piacere, mamma!"
 
 # game/dialogues/anntalk.rpy:468## # translate crowdin ann_tv_casual_r_dfadd689:
 msgid "[Max_02]{m}Мама так близко... В одном полотенце... Какая разница, что там на экране происходит, когда рядом ТАКАЯ женщина! Не могу перестать представлять то, что скрыто под её полотенцем...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}La mamma è così vicina... In un asciugamano... Chi se ne frega di quello che succede sullo schermo quando c'è QUESTA donna in giro! Non riesco a smettere di immaginare cosa ci sia sotto il suo asciugamano...{/m}"
 
 # game/dialogues/anntalk.rpy:476## # translate crowdin ann_tv_casual_r_2828cae2:
 msgid "[Max_08]{m}Зря я это представил... Надеюсь, она не заметит, что у меня стоит... Но не факт, может стоит подстраховаться и предложить ей массаж?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Non avrei dovuto immaginarlo... Spero che non si accorga che ho un'erezione... Ma non per certo, forse dovrei prendere delle precauzioni e offrirle un massaggio?{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:484## # translate crowdin ann_tv_casual_r_a4da47d1:
 msgid "[Ann_04]Ой, я думала, ты и не предложишь. В прошлый раз ты так хорошо мне плечи и шею помассировал, что я буду очень рада, если ты это повторишь..."
-msgstr ""
+msgstr "[Ann_04]Oh, pensavo che non ti saresti offerto. Mi hai massaggiato così bene le spalle e il collo l'ultima volta, sarei molto felice se lo facessi di nuovo..."
 
 # game/dialogues/anntalk.rpy:485## # translate crowdin ann_tv_casual_r_b210320a:
 msgid "[Max_04]С удовольствием, мам!"
@@ -338,11 +338,11 @@ msgstr "[Max_04]Con piacere, mamma!"
 
 # game/dialogues/anntalk.rpy:492## # translate crowdin ann_tv_casual_r_37c5e269:
 msgid "[Ann_02]Ой, я думала, ты и не предложишь. Надеюсь, сегодня ты отнесёшься к массажу с большим вниманием, чем в прошлый раз?"
-msgstr ""
+msgstr "[Ann_02]Oh, pensavo che non ti saresti offerto. Spero che oggi sarai più attento al massaggio di quanto lo sei stato l'ultima volta?"
 
 # game/dialogues/anntalk.rpy:493## # translate crowdin ann_tv_casual_r_38413f74:
 msgid "[Max_01]Да, мам, я постараюсь..."
-msgstr ""
+msgstr "[Max_01]Sì, mamma, ci proverò..."
 
 # game/dialogues/anntalk.rpy:498## # translate crowdin ann_tv_casual_r_46d4b822:
 msgid "[Ann_05]Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
@@ -358,27 +358,27 @@ msgstr "[Ann_08]Sei molto bravo a farlo... Tale facilità arriva. Con tale talen
 
 # game/dialogues/anntalk.rpy:507## # translate crowdin ann_tv_casual_r_34583ab7:
 msgid "[Max_02]Очень надеюсь, что так и будет.[nointeract]"
-msgstr ""
+msgstr "[Max_02]Lo spero davvero.[nointeract]"
 
 # game/dialogues/anntalk.rpy:515## # translate crowdin ann_tv_casual_r_9db23388:
 msgid "[Max_06][ann_good_mass!t]{m}Неплохой у меня вид открывается! Под полотенцем слегка виднеются её аппетитные сосочки... Это возбуждает ещё сильнее. Вот бы её полотенце начало сползать... Возможно, она бы даже не сразу это поняла, особенно, если ей очень понравился массаж.{/m}"
-msgstr ""
+msgstr "[Max_06][ann_good_mass!t]{m}Non è una brutta vista! Sotto l'asciugamano si vedono leggermente i suoi capezzoli lussuriosi... È ancora più eccitante. Vorrei che il suo asciugamano cominciasse a scivolare... Potrebbe anche non rendersene conto subito, specialmente se le è piaciuto molto il massaggio.{/m}"
 
 # game/dialogues/anntalk.rpy:522## # translate crowdin ann_tv_casual_r_4ccbb069:
 msgid "[Ann_07]Ой, Макс! Это чудесно... Такая лёгкость. Ты знаешь как сделать приятно. Мне очень понравилось... Обязательно буду ждать следующего раза!"
-msgstr ""
+msgstr "[Ann_07]Oh, Max! È meraviglioso... Una tale leggerezza. Sai come farlo sentire bene. Mi è piaciuto molto... Aspetterò sicuramente la prossima volta!"
 
 # game/dialogues/anntalk.rpy:523## # translate crowdin ann_tv_casual_r_ea1ff6fc:
 msgid "[Max_00]Класс! Я тоже буду ждать, мам. Отдыхай."
-msgstr ""
+msgstr "[Max_00]Grande! Aspetterò anch'io, mamma. Riposati un po'."
 
 # game/dialogues/anntalk.rpy:533## # translate crowdin ann_tv_casual_r_4969c11a:
 msgid "[Ann_14][ann_bad_mass!t]Ой, Макс... Нет, теперь уже не так хорошо... Что-то даже мышцам немного больно стало. Давай в другой раз продолжим... Но всё равно, спасибо!"
-msgstr ""
+msgstr "[Ann_14][ann_bad_mass!t]Oh, Max... No, non così bene ora... Mi fa anche un po' male ai muscoli. Facciamo un'altra volta... Ma grazie comunque!"
 
 # game/dialogues/anntalk.rpy:534## # translate crowdin ann_tv_casual_r_a30f1880:
 msgid "[Max_00]Извини. Наверно, на сериал засмотрелся... Я пойду."
-msgstr ""
+msgstr "[Max_00]Mi dispiace. Devo aver guardato una soap opera... Me ne vado."
 
 # game/dialogues/anntalk.rpy:542## # translate crowdin Ann_MorningWood_bb881ec2:
 msgid "[Ann_01]Макс, не переживай ты так. Я всё прекрасно понимаю, у мальчиков это бывает..."
@@ -786,7 +786,7 @@ msgstr "[Max_01]sì, mamma. Subito..."
 
 # game/dialogues/anntalk.rpy:823## # translate crowdin ann_yoga_with_maxr_51c20210:
 msgid "[Max_05]{m}Она такая гибкая! Главное всё не испортить, хотя, как же хочется прикоснуться ко всему, что я перед собой сейчас вижу... Мама у меня конфетка!{/m}"
-msgstr ""
+msgstr "[Max_05]{m}È così flessibile! L'importante è non rovinare tutto, però, come voglio toccare tutto quello che vedo davanti a me ora... Mia madre è un bastoncino di zucchero!{/m}"
 
 # game/dialogues/anntalk.rpy:824## # translate crowdin ann_yoga_with_maxr_7a9a0790:
 msgid "[Ann_08]Макс, ты чего молчишь? Это мне говорить не очень удобно, потому что я стараюсь расслабиться и сосредоточиться на дыхании..."
@@ -846,7 +846,7 @@ msgstr "[Ann_04]Va bene. Andiamo nella mia stanza. Cambierò velocemente i vesti
 
 # game/dialogues/anntalk.rpy:873## # translate crowdin ann_gift_fit1_021e4709:
 msgid "[Max_07]{m}Надеюсь, она не станет возмущаться, насколько там всё коротенькое в одежде... С другой стороны, эта одежда не короче её бикини.{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Spero che non le dia fastidio che i vestiti siano corti... D'altra parte, quei vestiti non sono più corti del suo bikini.{/m}"
 
 # game/dialogues/anntalk.rpy:874## # translate crowdin ann_gift_fit1_dc4afcad:
 msgid "[Ann]{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
@@ -878,7 +878,7 @@ msgstr "[Ann_05]Grazie per aver reso la mamma simpatica... Vieni da me, ti abbra
 
 # game/dialogues/anntalk.rpy:888## # translate crowdin ann_gift_fit1_c3fe6e1e:
 msgid "[Max_05]{m}О да... У мамы такое потрясающее тело! Так приятно прижиматься к ней... её упругой груди... Что точно хорошо в новой одежде, так это то, что мне прекрасно видны очертания её сосочков через эту тонкую ткань!{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Oh sì... La mamma ha un corpo incredibile! È così bello accoccolarsi a lei... i suoi seni sodi... Il bello dei nuovi vestiti è che posso vedere il contorno dei suoi capezzoli attraverso il tessuto sottile!{/m}"
 
 # game/dialogues/anntalk.rpy:892## # translate crowdin ann_gift_fit1_0056777b:
 msgid "[Ann_04]Ну всё, мой дорогой, не будем же мы так часами стоять обниматься, пора делами заняться...[nointeract]"
@@ -890,7 +890,7 @@ msgstr "[Ann_05]Sei molto gentile oggi, Max! Per questo, ti bacierò anche sulla
 
 # game/dialogues/anntalk.rpy:897## # translate crowdin ann_gift_fit1_b8456594:
 msgid "[Max_06]{m}Ухх, а как хочется притянуть маму к себе за её аппетитную и подтянутую попку... Ммм... Вот это было бы очень сладко!{/m}"
-msgstr ""
+msgstr "[Max_06]{m}Ugh, mi fa venir voglia di tirare mia madre a me per il suo culo lusuoso e teso... Mmm... Sarebbe così dolce!{/m}"
 
 # game/dialogues/anntalk.rpy:899## # translate crowdin ann_gift_fit1_c5ca0730:
 msgid "[Ann_04]Ну вот, дорогой. Теперь, давай заниматься своими делами...[nointeract]"
@@ -950,39 +950,39 @@ msgstr "[Max_07]Non ti preoccupare, mamma. Guarda, la casa del suo amico è quas
 
 # game/dialogues/anntalk.rpy:951## # translate crowdin erofilm2_1_9e87de42:
 msgid "[Max_02]{m}Только в кино в твою машину может въехать такая красивая девушка! Я бы с её задним \"бампером\" такое навытворял... И так, и этак!{/m}"
-msgstr ""
+msgstr "[Max_02]{m}Solo nei film una ragazza così bella potrebbe entrare nella tua macchina! Avrei fatto una cosa simile con il suo paraurti posteriore... Di qua e di là!{/m}"
 
 # game/dialogues/anntalk.rpy:958## # translate crowdin erofilm2_1_fd88d64b:
 msgid "[Max_08]{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хорошо, что есть проверенный и приятный способ его скрыть...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Non avrei dovuto immaginarlo... Se mia madre vede la mia erezione, la visione è definitivamente finita per me. Meno male che c'è un modo provato e piacevole per nasconderlo...{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:966## # translate crowdin erofilm2_1_a4da47d1:
 msgid "[Ann_04]Ой, я думала, ты и не предложишь. В прошлый раз ты так хорошо мне плечи и шею помассировал, что я буду очень рада, если ты это повторишь..."
-msgstr ""
+msgstr "[Ann_04]Oh, pensavo che non ti saresti offerto. Mi hai massaggiato così bene le spalle e il collo l'ultima volta, sarei molto felice se lo facessi di nuovo..."
 
 # game/dialogues/anntalk.rpy:967## # translate crowdin erofilm2_1_b210320a:
 msgid "[Max_04]С удовольствием, мам!"
-msgstr ""
+msgstr "[Max_04]Con piacere, mamma!"
 
 # game/dialogues/anntalk.rpy:974## # translate crowdin erofilm2_1_37c5e269:
 msgid "[Ann_02]Ой, я думала, ты и не предложишь. Надеюсь, сегодня ты отнесёшься к массажу с большим вниманием, чем в прошлый раз?"
-msgstr ""
+msgstr "[Ann_02]Oh, pensavo che non ti saresti offerto. Spero che oggi sarai più attento al massaggio di quanto lo sei stato l'ultima volta?"
 
 # game/dialogues/anntalk.rpy:975## # translate crowdin erofilm2_1_38413f74:
 msgid "[Max_01]Да, мам, я постараюсь..."
-msgstr ""
+msgstr "[Max_01]Sì, mamma, ci proverò..."
 
 # game/dialogues/anntalk.rpy:980## # translate crowdin erofilm2_1_46d4b822:
 msgid "[Ann_05]Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
-msgstr ""
+msgstr "[Ann_05]Oh, Max! Che meraviglia... Com'è bello che io abbia te... Le tue mani sono semplicemente irrealisticamente rilassanti!"
 
 # game/dialogues/anntalk.rpy:981## # translate crowdin erofilm2_1_f4b189c3:
 msgid "[Max_03]Спасибо! Я рад, что тебе нравится."
-msgstr ""
+msgstr "[Max_03]Grazie! Sono contento che ti piaccia."
 
 # game/dialogues/anntalk.rpy:987## # translate crowdin erofilm2_1_107f36d5:
 msgid "[Ann_08]У тебя это очень хорошо получается... Такая лёгкость наступает. С таким талантом ты у нас дома будешь нарасхват! Да и вне его..."
-msgstr ""
+msgstr "[Ann_08]Sei molto bravo... Una tale facilità si impadronisce di te. Con un talento del genere, sarai molto richiesto in patria. E al di fuori di esso..."
 
 # game/dialogues/anntalk.rpy:988## # translate crowdin erofilm2_1_0aa128fe:
 msgid "[Max_02]Очень надеюсь, что так и будет."
@@ -990,11 +990,11 @@ msgstr "[Max_02]spero davvero che sia così."
 
 # game/dialogues/anntalk.rpy:995## # translate crowdin erofilm2_1_016dc119:
 msgid "[Max_05]{m}Уххх... А у мамы ведь полотенце сползло... И она это ещё не заметила! Должно быть, мой массаж действительно её хорошо расслабил! Надо продолжать... Может оно тогда ещё больше спадёт...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_05]{m}Uhhhh... L'asciugamano della mamma è scivolato... E lei non se n'era ancora accorta! Il mio massaggio deve averla rilassata molto bene! Dobbiamo continuare ad andare avanti... Forse allora scenderà ancora di più...{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:1003## # translate crowdin erofilm2_1_c74f79bd:
 msgid "[Max_06][ann_good_mass!t]{m}О да! Полотенце сползает всё больше и больше... Какие у неё милые и тёмные сосочки! Интересно, что будет, если я потяну руки ниже, как с Лизой? Вряд ли что-то хорошее...{/m}"
-msgstr ""
+msgstr "[Max_06][ann_good_mass!t]{m}Oh sì, l'asciugamano sta scivolando sempre più giù... Che bei capezzoli scuri che ha! Mi chiedo cosa succederebbe se tirassi le mani più in basso, come ho fatto con Lisa? Quasi niente di buono...{/m}"
 
 # game/dialogues/anntalk.rpy:1008## # translate crowdin erofilm2_1_2138fb99:
 msgid "[Ann_15]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась!"
@@ -1006,11 +1006,11 @@ msgstr "[Max_02]non l'ho visto! Guardo il film..."
 
 # game/dialogues/anntalk.rpy:1011## # translate crowdin erofilm2_1_3219b2c2:
 msgid "[Ann_04]А ты молодец, если умудряешься и фильм одновременно смотреть и массаж так хорошо делать!"
-msgstr ""
+msgstr "[Ann_04]Buon per te se puoi guardare un film e fare un massaggio allo stesso tempo!"
 
 # game/dialogues/anntalk.rpy:1012## # translate crowdin erofilm2_1_e21f2499:
 msgid "[Max_01]Ты же сама сказала - талант."
-msgstr ""
+msgstr "[Max_01]L'hai detto tu stesso - il talento."
 
 # game/dialogues/anntalk.rpy:1018## # translate crowdin erofilm2_1_f7a5095b:
 msgid "[Ann_14]Так, как-то здесь всё слишком откровенно начало развиваться... Прямо очень откровенно! Ты специально такой фильм купил?"
@@ -1022,31 +1022,31 @@ msgstr "[Max_07]No. Ero interessato all'inizio della descrizione del film. Proba
 
 # game/dialogues/anntalk.rpy:1037## # translate crowdin erofilm2_1_7cd6006b:
 msgid "[Ann_15][ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься.[nointeract]"
-msgstr ""
+msgstr "[Ann_15][ann_bad_mass!t]ОйOw! Wow! Max, perché non mi hai detto che il mio asciugamano stava scivolando?! Mi ha quasi lasciato nudo! Facciamo una pausa dal massaggio... e guardare il resto del film. Ti stai distraendo troppo.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1049## # translate crowdin erofilm2_1_0cbf3006:
 msgid "[Ann_14][lucky!t]Так, как-то здесь всё слишком откровенно начало развиваться... Прямо очень откровенно! Ты специально такой фильм купил?"
-msgstr ""
+msgstr "[Ann_14][lucky!t]Quindi, in qualche modo le cose hanno iniziato a diventare un po' troppo evidenti qui... È molto rivelatore! Hai comprato questo film di proposito?"
 
 # game/dialogues/anntalk.rpy:1050## # translate crowdin erofilm2_1_db9e8a82_1:
 msgid "[Max_07]Нет. Меня начало описания к фильму заинтересовало. Наверно, нужно было дочитать до конца..."
-msgstr ""
+msgstr "[Max_07]No. Era l'inizio della descrizione del film che mi interessava. Forse avrei dovuto leggere fino alla fine..."
 
 # game/dialogues/anntalk.rpy:1065## # translate crowdin erofilm2_1_7cb8cd3e:
 msgid "[Ann_15][unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? Из-за фильма? А, ну да, конечно, я ещё спрашиваю..."
-msgstr ""
+msgstr "[Ann_15][unlucky!t]Max! Cos'è questo?! Perché sei così eccitato? A causa del film? Oh, giusto, naturalmente, sto anche chiedendo..."
 
 # game/dialogues/anntalk.rpy:1066## # translate crowdin erofilm2_1_3b3108de:
 msgid "[Max_08]Похоже на то. Там ведь очень откровенные сцены пошли..."
-msgstr ""
+msgstr "[Max_08]Sembra che sia così. C'erano alcune scene molto esplicite..."
 
 # game/dialogues/anntalk.rpy:1073## # translate crowdin erofilm2_1_89504722:
 msgid "[Ann_14]Ты специально такой фильм купил?"
-msgstr ""
+msgstr "[Ann_14]Hai comprato questo film di proposito?"
 
 # game/dialogues/anntalk.rpy:1074## # translate crowdin erofilm2_1_db9e8a82_2:
 msgid "[Max_07]Нет. Меня начало описания к фильму заинтересовало. Наверно, нужно было дочитать до конца..."
-msgstr ""
+msgstr "[Max_07]No. Era l'inizio della descrizione del film che mi interessava. Forse avrei dovuto leggere fino alla fine..."
 
 # game/dialogues/anntalk.rpy:1078## # translate crowdin erofilm2_1_d5c86e1f:
 msgid "[Ann_15]Всё, Макс! Такое мы дальше смотреть не будем. По крайней мере {b}ТЫ{/b} не будешь смотреть!"
@@ -1146,39 +1146,39 @@ msgstr "[Ann_17]Allora, Max... Questa volta immaginiamo di non aver sentito null
 
 # game/dialogues/anntalk.rpy:1189## # translate crowdin erofilm2_2_6b9eb318:
 msgid "[Max_08]{m}Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Eh, mamma... Si sta facendo tardi. Ed è una vista che sicuramente non potrò dimenticare tanto presto! Spero che non si accorga che sono in piedi...{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:1197## # translate crowdin erofilm2_2_a4da47d1:
 msgid "[Ann_04]Ой, я думала, ты и не предложишь. В прошлый раз ты так хорошо мне плечи и шею помассировал, что я буду очень рада, если ты это повторишь..."
-msgstr ""
+msgstr "[Ann_04]Oh, pensavo che non ti saresti offerto. Mi hai massaggiato così bene le spalle e il collo l'ultima volta, sarei molto felice se lo facessi di nuovo..."
 
 # game/dialogues/anntalk.rpy:1198## # translate crowdin erofilm2_2_b210320a:
 msgid "[Max_04]С удовольствием, мам!"
-msgstr ""
+msgstr "[Max_04]Piacere mio, mamma!"
 
 # game/dialogues/anntalk.rpy:1205## # translate crowdin erofilm2_2_37c5e269:
 msgid "[Ann_02]Ой, я думала, ты и не предложишь. Надеюсь, сегодня ты отнесёшься к массажу с большим вниманием, чем в прошлый раз?"
-msgstr ""
+msgstr "[Ann_02]Oh, pensavo che non ti saresti offerto. Spero che oggi sarai più attento al massaggio di quanto lo sei stato l'ultima volta?"
 
 # game/dialogues/anntalk.rpy:1206## # translate crowdin erofilm2_2_38413f74:
 msgid "[Max_01]Да, мам, я постараюсь..."
-msgstr ""
+msgstr "[Max_01]Sì, mamma, ci proverò..."
 
 # game/dialogues/anntalk.rpy:1211## # translate crowdin erofilm2_2_46d4b822:
 msgid "[Ann_05]Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
-msgstr ""
+msgstr "[Ann_05]Oh, Max! Che meraviglia... È così bello averti... Le tue mani sono incredibilmente rilassanti!"
 
 # game/dialogues/anntalk.rpy:1212## # translate crowdin erofilm2_2_f4b189c3:
 msgid "[Max_03]Спасибо! Я рад, что тебе нравится."
-msgstr ""
+msgstr "[Max_03]Grazie! Sono contento che ti piaccia."
 
 # game/dialogues/anntalk.rpy:1218## # translate crowdin erofilm2_2_a59077b6:
 msgid "[Ann_08]У тебя это очень хорошо получается... Такая лёгкость наступает. С таким талантом ты у нас дома будешь нарасхват! Довольны будут все..."
-msgstr ""
+msgstr "[Ann_08]Sei molto bravo... Una tale facilità si impadronisce di te. Con un talento del genere, sarai un successo a casa! Tutti saranno felici..."
 
 # game/dialogues/anntalk.rpy:1219## # translate crowdin erofilm2_2_0aa128fe:
 msgid "[Max_02]Очень надеюсь, что так и будет."
-msgstr ""
+msgstr "[Max_02]Lo spero davvero."
 
 # game/dialogues/anntalk.rpy:1225## # translate crowdin erofilm2_2_7f77c5f6:
 msgid "[Ann_06]Не могу не признаться, но эротические моменты в этом фильме прекрасно сняты. Никогда бы не подумала, что буду говорить такое при собственном сыне. И что я за мать!"
@@ -1198,27 +1198,27 @@ msgstr "[Max_07]Come fai a sapere che sono normali? Non stiamo facendo nulla di 
 
 # game/dialogues/anntalk.rpy:1234## # translate crowdin erofilm2_2_5b33305d:
 msgid "[Max_05]{m}У мамы снова полотенце сползает, а она не чувствует... Надо продолжать, раз ей так нравится массаж... Или лучше сказать?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_05]{m}L'asciugamano della mamma sta scivolando di nuovo e lei non lo sente... Dobbiamo continuare, visto che il massaggio le piace così tanto... O dovrei dire?{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:1240## # translate crowdin erofilm2_2_faffd6fd:
 msgid "[Ann_13]Ой, Макс! Хорошо, что предупредил... Чуть голой не осталась! И давно я сижу вся такая довольная без полотенца?"
-msgstr ""
+msgstr "[Ann_13]Oh, Max! Meno male che mi hai avvertito... Quasi nudo! Da quanto tempo sono seduto qui senza un asciugamano?"
 
 # game/dialogues/anntalk.rpy:1241## # translate crowdin erofilm2_2_c0dbd91d:
 msgid "[Max_01]Не знаю. Я как заметил, так сразу и сказал."
-msgstr ""
+msgstr "[Max_01]Non lo so. L'ho notato e l'ho detto subito."
 
 # game/dialogues/anntalk.rpy:1243## # translate crowdin erofilm2_2_300645c2:
 msgid "[Ann_04]Давай-ка на сегодня прервёмся с массажем... и досмотрим фильм. Это не значит, что мне не понравилось! Ты молодец![nointeract]"
-msgstr ""
+msgstr "[Ann_04]Facciamo una pausa dal massaggio per oggi... e guardare il resto del film. Questo non significa che non mi sia piaciuto! Sei stato grande![nointeract]"
 
 # game/dialogues/anntalk.rpy:1256## # translate crowdin erofilm2_2_3ff92d9e:
 msgid "[Max_06][ann_good_mass!t]{m}Ммм... Полотенце сползает всё больше и больше... Вот бы однажды помассировать эти сочные дыньки! Ох, как же сложно удержаться и не запустить туда вниз свои руки...{/m}"
-msgstr ""
+msgstr "[Max_06][ann_good_mass!t]{m}Mmm... L'asciugamano sta scivolando sempre più giù... Vorrei poter massaggiare quei meloni succosi un giorno! Oh, è difficile non mettere le mani là sotto...{/m}"
 
 # game/dialogues/anntalk.rpy:1261## # translate crowdin erofilm2_2_2138fb99:
 msgid "[Ann_15]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась!"
-msgstr ""
+msgstr "[Ann_15]Ow! Wow! Max, perché non mi hai detto che il mio asciugamano stava scivolando?! Mi sono quasi spogliato!"
 
 # game/dialogues/anntalk.rpy:1262## # translate crowdin erofilm2_2_fc50443e:
 msgid "[Max_02]Так я не видел! Фильм же смотрю..."
@@ -1226,11 +1226,11 @@ msgstr "[Max_02]non l'ho visto! Guardo il film..."
 
 # game/dialogues/anntalk.rpy:1263## # translate crowdin erofilm2_2_3219b2c2:
 msgid "[Ann_04]А ты молодец, если умудряешься и фильм одновременно смотреть и массаж так хорошо делать!"
-msgstr ""
+msgstr "[Ann_04]Buon per te se puoi guardare un film e fare un massaggio allo stesso tempo!"
 
 # game/dialogues/anntalk.rpy:1264## # translate crowdin erofilm2_2_e21f2499:
 msgid "[Max_01]Ты же сама сказала - талант."
-msgstr ""
+msgstr "[Max_01]L'hai detto tu stesso - il talento."
 
 # game/dialogues/anntalk.rpy:1270## # translate crowdin erofilm2_2_b5f39d2e:
 msgid "[Ann_04]Помимо всего прочего, в фильме музыка очень хороша. Мне прямо нравится!"
@@ -1238,7 +1238,7 @@ msgstr "[Ann_04]Tra le altre cose, la musica nel film è molto buona. Mi piace u
 
 # game/dialogues/anntalk.rpy:1276## # translate crowdin erofilm2_2_27f6efcb:
 msgid "[Max_05]{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Chissà se mia madre aveva qualcosa... con le donne... Oh, sì, mi piacerebbe vedere una foto così! Anche se non mi dispiacerebbe partecipare...{/m}"
 
 # game/dialogues/anntalk.rpy:1282## # translate crowdin erofilm2_2_3dccf94a:
 msgid "[Ann_05]Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
@@ -1254,15 +1254,15 @@ msgstr "[Ann_06]Questo è tutto. Detective interessante... Mi è piaciuto. Ma qu
 
 # game/dialogues/anntalk.rpy:1295## # translate crowdin erofilm2_2_e0c6e9b1:
 msgid "[Max_03]А где ты тут детей видишь?[nointeract]"
-msgstr ""
+msgstr "[Max_03]Dove vedi i bambini qui?[nointeract]"
 
 # game/dialogues/anntalk.rpy:1308## # translate crowdin erofilm2_2_e77ee6ca:
 msgid "[Ann_04][lucky!t]Да, знаю... знаю... Ты уже взрослый. Почти..."
-msgstr ""
+msgstr "[Ann_04][lucky!t]Sì, lo so... lo so... Sei un adulto. Quasi..."
 
 # game/dialogues/anntalk.rpy:1317## # translate crowdin erofilm2_2_9d0711b1:
 msgid "[Ann_15][unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? В фильме же откровенные сцены давно были..."
-msgstr ""
+msgstr "[Ann_15][unlucky!t]Max! Cos'è questo?! Perché sei così eccitato? C'erano scene esplicite nel film molto tempo fa..."
 
 # game/dialogues/anntalk.rpy:1318## # translate crowdin erofilm2_2_2e2a702d:
 msgid "[Max_08]Я не знаю! Видимо, мысли об этих сценах ещё не выветрились из головы."
@@ -1290,27 +1290,27 @@ msgstr "[Ann_04]sì, lo so... Sì lo so... Sei un adulto. Quasi..."
 
 # game/dialogues/anntalk.rpy:1337## # translate crowdin erofilm2_2_7cd6006b:
 msgid "[Ann_15][ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься.[nointeract]"
-msgstr ""
+msgstr "[Ann_15][ann_bad_mass!t]Ow! Wow! Max, perché non mi hai detto che il mio asciugamano stava scivolando?! Mi ha quasi lasciato nudo! Facciamo una pausa dal massaggio... e guardare il resto del film. Ti stai distraendo troppo.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1353## # translate crowdin erofilm2_2_lucky_aaa808d8:
 msgid "[Ann_04][lucky!t]Помимо всего прочего, в фильме музыка очень хороша. Мне прямо нравится!"
-msgstr ""
+msgstr "[Ann_04][lucky!t]A parte tutto il resto, la musica del film è molto buona. Lo amo assolutamente!"
 
 # game/dialogues/anntalk.rpy:1359## # translate crowdin erofilm2_2_lucky_27f6efcb:
 msgid "[Max_05]{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Chissà se mia madre aveva qualcosa... con le donne... Oh, sì, mi piacerebbe vedere una foto così! Anche se non mi dispiacerebbe partecipare...{/m}"
 
 # game/dialogues/anntalk.rpy:1366## # translate crowdin erofilm2_2_lucky_3dccf94a:
 msgid "[Ann_05]Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
-msgstr ""
+msgstr "[Ann_05]A giudicare dalla tempistica, le cose si stanno mettendo male. È divertente guardarli tutti... Come si rendono conto solo ora di ciò che lo spettatore ha capito molto tempo fa."
 
 # game/dialogues/anntalk.rpy:1372## # translate crowdin erofilm2_2_lucky_82e6080c:
 msgid "[Max_04]Да, намёки для зрителей были местами очень жирные."
-msgstr ""
+msgstr "[Max_04]Sì, i suggerimenti per il pubblico erano molto audaci in alcuni punti."
 
 # game/dialogues/anntalk.rpy:1379## # translate crowdin erofilm2_2_lucky_2d7bb75d:
 msgid "[Ann_06]Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
-msgstr ""
+msgstr "[Ann_06]Ecco qui. Interessante storia poliziesca... Mi è piaciuto. Ma questo film non è neanche lontanamente fatto per i bambini..."
 
 # game/dialogues/anntalk.rpy:1380## # translate crowdin erofilm2_2_lucky_2e5facee:
 msgid "[Max_03]А где ты тут детей видишь?"
@@ -1318,43 +1318,43 @@ msgstr "[Max_03]Dove vedi i bambini qui?"
 
 # game/dialogues/anntalk.rpy:1386## # translate crowdin erofilm2_2_lucky_684e55df:
 msgid "[Ann_04]Да, знаю... знаю... Ты уже взрослый. Почти..."
-msgstr ""
+msgstr "[Ann_04]Sì, lo so... lo so... Sei un adulto. Quasi..."
 
 # game/dialogues/anntalk.rpy:1395## # translate crowdin erofilm2_2_unlucky_7cb8cd3e:
 msgid "[Ann_15][unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? Из-за фильма? А, ну да, конечно, я ещё спрашиваю..."
-msgstr ""
+msgstr "[Ann_15][unlucky!t]Max! Cos'è questo?! Perché sei così eccitato? A causa del film? Oh, giusto, naturalmente, sto anche chiedendo..."
 
 # game/dialogues/anntalk.rpy:1396## # translate crowdin erofilm2_2_unlucky_54519691:
 msgid "[Max_08]Похоже на то. Там ведь очень откровенные сцены были, а теперь эти дамочки что-то интересное затевают..."
-msgstr ""
+msgstr "[Max_08]Sembra che sia così. C'erano alcune scene molto esplicite, e ora queste signore stanno facendo qualcosa di interessante..."
 
 # game/dialogues/anntalk.rpy:1403## # translate crowdin erofilm2_2_unlucky_36717c12:
 msgid "[Ann_17]Рановато тебе ещё такое смотреть! Хотя, по сравнению с тем, что ты уже увидел до этого..."
-msgstr ""
+msgstr "[Ann_17]È un po' troppo presto perché tu lo veda! Anche se, rispetto a ciò che si è visto prima..."
 
 # game/dialogues/anntalk.rpy:1404## # translate crowdin erofilm2_2_unlucky_27f6efcb:
 msgid "[Max_05]{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Chissà se mia madre aveva qualcosa... con le donne... Oh, sì, mi piacerebbe vedere una foto così! Anche se non mi dispiacerebbe partecipare...{/m}"
 
 # game/dialogues/anntalk.rpy:1408## # translate crowdin erofilm2_2_unlucky_3dccf94a:
 msgid "[Ann_05]Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
-msgstr ""
+msgstr "[Ann_05]A giudicare dalla tempistica, le cose si stanno mettendo male. È divertente guardarli tutti... Come si rendono conto solo ora di ciò che lo spettatore ha capito molto tempo fa."
 
 # game/dialogues/anntalk.rpy:1409## # translate crowdin erofilm2_2_unlucky_82e6080c:
 msgid "[Max_04]Да, намёки для зрителей были местами очень жирные."
-msgstr ""
+msgstr "[Max_04]Sì, i suggerimenti per il pubblico erano molto audaci in alcuni punti."
 
 # game/dialogues/anntalk.rpy:1413## # translate crowdin erofilm2_2_unlucky_2d7bb75d:
 msgid "[Ann_06]Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
-msgstr ""
+msgstr "[Ann_06]Ecco qui. Interessante storia poliziesca... Mi è piaciuto. Ma questo film non è neanche lontanamente fatto per i bambini..."
 
 # game/dialogues/anntalk.rpy:1414## # translate crowdin erofilm2_2_unlucky_2e5facee:
 msgid "[Max_03]А где ты тут детей видишь?"
-msgstr ""
+msgstr "[Max_03]Dove vedi i bambini qui?"
 
 # game/dialogues/anntalk.rpy:1420## # translate crowdin erofilm2_2_unlucky_684e55df:
 msgid "[Ann_04]Да, знаю... знаю... Ты уже взрослый. Почти..."
-msgstr ""
+msgstr "[Ann_04]Sì, lo so... lo so... Sei un adulto. Quasi..."
 
 # game/dialogues/anntalk.rpy:1426## # translate crowdin erofilm2_2_end_e67edc91:
 msgid "[Max_02]В следующий раз посмотрим что-нибудь ещё подобное?"
@@ -1362,7 +1362,7 @@ msgstr "[Max_02]La prossima volta vedremo qualcos'altro di simile?"
 
 # game/dialogues/anntalk.rpy:1427## # translate crowdin erofilm2_2_end_7e4ad93b:
 msgid "[Ann_02]Только будь поскромнее. Этот фильм оказался очень волнующим..."
-msgstr ""
+msgstr "[Ann_02]Basta essere umili. Questo film si è rivelato molto eccitante..."
 
 # game/dialogues/anntalk.rpy:1428## # translate crowdin erofilm2_2_end_acd22c78:
 msgid "[Max_01]Конечно, мам!"
@@ -1457,7 +1457,7 @@ msgstr "Sono un adulto!"
 
 #    # game/dialogues/anntalk.rpy:298
 msgid "сидеть и надеяться на лучшее"
-msgstr ""
+msgstr "sedersi e sperare per il meglio"
 
 #    # game/dialogues/anntalk.rpy:370
 msgid "Да, очень!"
@@ -1577,7 +1577,7 @@ msgstr "Ok... Ti voglio bene mamma!"
 
 #    # game/dialogues/anntalk.rpy:1036
 msgid "{i}закончить массаж и попытаться скрыть стояк{/i}"
-msgstr ""
+msgstr "{i}finire il massaggio e cercare di nascondere l'erezione{/i}"
 
 #    # game/dialogues/anntalk.rpy:1233
 msgid "Мам, у тебя полотенце сползает..."
