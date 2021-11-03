@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:38\n"
+"PO-Revision-Date: 2021-11-03 12:45\n"
 
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasione riuscita!{/i}{/color}\n"
@@ -293,19 +293,19 @@ msgstr "Hai bisogno di aiuto per apparecchiare la tavola?"
 
 #    # game/core/02init.rpy:128
 msgid "Я пришёл извиниться за то, что было утром. Я больше не буду."
-msgstr ""
+msgstr "Sono venuto a scusarmi per quello che è successo stamattina. Non lo farò più."
 
 #    # game/core/02init.rpy:128
 msgid "Я снова подглядывал. Извини."
-msgstr ""
+msgstr "Ti stavo spiando di nuovo. Mi dispiace."
 
 #    # game/core/02init.rpy:128
 msgid "Ну давай, можешь меня наказывать..."
-msgstr ""
+msgstr "Avanti, puoi punirmi..."
 
 #    # game/core/02init.rpy:128
 msgid "Я выбираю наказание от тебя..."
-msgstr ""
+msgstr "Scelgo di essere punito da te..."
 
 #    # game/core/02init.rpy:128
 msgid "Мам, дай денег, пожалуйста..."
@@ -361,11 +361,11 @@ msgstr "Volevo parlare di Kira..."
 
 #    # game/core/02init.rpy:128
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
-msgstr ""
+msgstr "Ecco dei soldi per tenerti lontano da Lisa..."
 
 #    # game/core/02init.rpy:128
 msgid "У меня нет денег, чтобы ты не лез к Лизе."
-msgstr ""
+msgstr "Non ho i soldi per tenerti lontano da Lisa."
 
 #    # game/core/02init.rpy:128
 msgid "Да тут всегда хорошая погода..."
@@ -421,7 +421,7 @@ msgstr "Parlaci di quell'incidente dell'infanzia di mia madre..."
 
 #    # game/core/02init.rpy:128
 msgid "Когда будет новая фотосессия, тётя Кира?"
-msgstr ""
+msgstr "Quando ci sarà un nuovo servizio fotografico, zia Kira?"
 
 #    # game/core/02init.rpy:128
 msgid "О школе..."
@@ -554,7 +554,8 @@ msgstr "Bello vederti, Olivia!"
 #    # game/core/02init.rpy:128
 msgid "Ну как, всё повторила? \n"
 "{i}(проводить Лизу в школу){/i}"
-msgstr ""
+msgstr "Allora, hai fatto tutto di nuovo? \n"
+"{i}(per accompagnare Lisa a scuola){/i}"
 
 #    # game/core/02init.rpy:235
 msgid "Одежда"
@@ -634,11 +635,11 @@ msgstr "Comprato un po 'dolce per te!"
 
 #    # game/core/02init.rpy:246
 msgid "У меня для тебя подарок {i}(Кожаный костюм){/i}"
-msgstr ""
+msgstr "Ho un regalo per te {i}(Completo in pelle){/i}"
 
 #    # game/core/02init.rpy:246
 msgid "У меня для тебя подарок {i}(Плётка){/i}"
-msgstr ""
+msgstr "Ho un regalo per te {i}(La frusta){/i}"
 
 #    # game/core/02init.rpy:246
 msgid "Мам, я купил тебе одежду полегче!"
