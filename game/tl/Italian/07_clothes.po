@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 11:17\n"
+"PO-Revision-Date: 2021-11-03 12:46\n"
 
 msgid "Повседневная"
 msgstr "Informale"
@@ -53,7 +53,7 @@ msgstr "Per le lezioni"
 
 #    # game/core/07_clothes.rpy:87
 msgid "Для прогулок"
-msgstr ""
+msgstr "Per le passeggiate"
 
 #    # game/core/07_clothes.rpy:163
 msgid "Влияние Макса недостаточно"
