@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 11:16\n"
+"PO-Revision-Date: 2021-11-03 12:46\n"
 
 msgid "Скрытые камеры"
 msgstr "Telecamere nascoste"
@@ -113,111 +113,111 @@ msgstr "A giudicare dalla reazione di Alice, le piacque il regalo. Apparentement
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Что посмотрим, мам?"
-msgstr ""
+msgstr "Visto cosa, mamma?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я подошёл к маме узнать, что она смотрит, а ей как раз на днях подруга посоветовала посмотреть один фильм... Должно быть, она думала, что мама будет смотреть его одна и поэтому не сказала, что этот фильм... с эротическим содержанием... И чем дальше мы его смотрели, тем больше мама пыталась меня выпроводить. Но фильм хороший! Я бы с огромным удовольствием посмотрел вместе с мамой ещё что-нибудь такое... А пока и просто составить ей компанию за сериалом будет неплохо."
-msgstr ""
+msgstr "Sono andato da mia madre per vedere cosa stava guardando e le era stato appena consigliato da un amico di guardare un film l'altro giorno... Deve aver pensato che la mamma l'avrebbe guardato da sola, quindi non le ha detto che era... con contenuti erotici... Piu' lo guardavamo, piu' mia madre cercava di allontanarmi. Ma per il resto è stato un buon film! Mi piacerebbe guardare ancora qualcosa del genere con mia madre... Nel frattempo, anche solo tenerle compagnia durante lo spettacolo sarebbe bello."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Неплохо бы почаще составлять маме компанию за просмотром ТВ..."
-msgstr ""
+msgstr "È una buona idea tenere compagnia alla mamma mentre si guarda la TV, più spesso..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Да уж. Мама всегда смотрит ТВ после того, как примет ванну. Сидит вся такая сексуальная и мокренькая в одном полотенце... У меня даже волей-неволей от этого встаёт! А уж что происходит, когда я начинаю думать о том, что скрывается под этим полотенцем... Джинсы могут порваться... Но хорошо, что они отлично скрывают то, из-за чего мама бы переполошилась. Пока я в этой одежде можно не волноваться на этот счёт."
-msgstr ""
+msgstr "Sì... La mamma guarda sempre la TV dopo aver fatto il bagno. Seduta lì così sexy e bagnata avvolta in un asciugamano... Non posso fare a meno di avere un'erezione! E cosa succede quando inizio a pensare a cosa c'è sotto quell'asciugamano... I jeans potrebbero strapparsi... Ma è un bene che coprano perfettamente ciò per cui mia madre impazzirebbe. Finché indosso questi vestiti, non devo preoccuparmi di questo."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Мне стоит и дальше смотреть вместе с мамой ТВ. Это нас только больше сблизит..."
-msgstr ""
+msgstr "Dovrei continuare a guardare la TV con mia madre. Ci avvicinerà solo di più..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Прикольно смотреть ТВ рядом с такой женщиной, как моя мама. Вроде она и в полотенце, а мысли от этого просто сходят с ума! Надеюсь мои майка с шортами смогут скрыть то возбуждение, которое я испытываю."
-msgstr ""
+msgstr "È divertente guardare la TV accanto a una donna come mia madre. Sembra che sia in un asciugamano, ma mi fa impazzire la mente! Spero che la mia canottiera e i miei pantaloncini possano nascondere l'eccitazione che sto provando."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Если мама заметит мой стояк, то просмотр ТВ с ней точно закончится. С другой стороны, неплохо бы выяснить, а заметит ли она..."
-msgstr ""
+msgstr "Se mia madre si accorge della mia erezione, smetterebbe di guardare la TV con me definitivamente. D'altra parte, è una buona idea vedere se lei se ne accorge..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Мама в таких позах отдыхает на этом диване, что вот-вот что-нибудь пикантное да и засветит, но увы... От одних только мыслей что-нибудь такое увидеть, я не в состоянии сдержать свой член в этих шортах. Надо же было додуматься надеть только их! И близко не лучшая идея..."
-msgstr ""
+msgstr "La mamma è in certe posizioni mentre riposa sul divano che sta per far apparire qualcosa di succulento, ma ahimè... Solo il pensiero di vedere una cosa del genere, non riesco a tenere il mio cazzo in questi pantaloncini. Avrei dovuto pensare di indossarli e basta! Non è nemmeno lontanamente una buona idea..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Упс... Вот мама и заметила мой стояк. Что тут сказать, на самом деле сложно не заметить. Но я сам виноват... Что мешало мне натянуть майку и не париться на этот счёт. Там правда тоже гарантий нет, но попробовать можно..."
-msgstr ""
+msgstr "Ops... C'è mia madre e ha notato la mia erezione. Che dire, è davvero difficile non notarlo. Ma è stata colpa mia... Cosa mi ha impedito di mettere una maglietta e di non preoccuparmi? Anche lì non ci sono garanzie, ma vale la pena provare..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно узнать, заметит ли мама мой стояк, если я буду смотреть с ней ТВ в майке и шортах..."
-msgstr ""
+msgstr "Devo vedere se mia madre noterà la mia erezione se guardo la TV con lei in maglietta e pantaloncini..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Упс... Вот мама и заметила мой стояк. Что тут сказать, на самом деле сложно незаметить. Но я сам виноват... Понадеялся на лучшее, а у самого даже майки нет. Стоило бы, кстати, её купить и уже тогда спокойно смотреть с мамой ТВ. Там правда тоже гарантий нет, но попробовать можно..."
-msgstr ""
+msgstr "Ops... Così mia madre ha notato la mia erezione. Che dire, è davvero difficile non notarlo. Ma è colpa mia... Mi sono illuso e non possiedo nemmeno una camicia. A proposito, dovresti comprarne uno e poi guardare la TV con tua madre in pace. Anche lì non ci sono garanzie, ma si può provare..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Главное, собрать нужную сумму на эту майку. А после покупки нужно узнать, заметит ли мама мой стояк, если я буду смотреть с ней ТВ в майке и шортах..."
-msgstr ""
+msgstr "La cosa principale è raccogliere la giusta quantità di denaro per questa maglietta. E dopo averlo comprato, devo vedere se mia madre noterà la mia erezione se guardo la TV con lei in maglietta e pantaloncini..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Эхх... Мама заметила моё приподнятое настроение. Если уж я не смог его скрыть даже под майкой, то это проблема и этими просмотрами ТВ с мамой я буду только портить наши отношения. Что же делать? Не представляю... Но придумать что-то нужно."
-msgstr ""
+msgstr "Ehhh... Mia madre ha notato il mio umore alto. Se non potessi nasconderlo nemmeno sotto una maglietta, sarebbe un problema e guardare la TV con mia madre rovinerebbe solo il nostro rapporto. Cosa dovrei fare? Non ne ho idea... Ma devo pensare a qualcosa."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Возможно, решение этой проблемы придёт само собой. Потребуются успехи в возможности \"Талантливый массажист\"..."
-msgstr ""
+msgstr "Forse una soluzione a questo problema verrà da sola. Ci vorrà un progresso nell'opportunità di \"Massaggiatore di talento\"..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Возможно, решение этой проблемы придёт само собой. Потребуются успехи в возможности \"Шаловливые ножки\"..."
-msgstr ""
+msgstr "Forse una soluzione a questo problema verrà da sola. Ci vorrà un progresso nell'opportunità dei \"Piedi cattivi\"..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Возможно, решение этой проблемы придёт само собой. Потребуются успехи в возможности \"Школьница\"..."
-msgstr ""
+msgstr "Forse una soluzione a questo problema verrà da sola. Ci vorrà un progresso nell'opportunità \"Schoolgirl\"..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Пока я делал Лизе массаж шеи и плеч, у меня возникла отличная идея! Почему бы не решить мою проблему со стояком, когда мы с мамой смотрим вместе ТВ, предложив ей массаж? Стоит попробовать... И ей будет приятно, и мне меньше проблем. Главное, чтобы маме понравился массаж!"
-msgstr ""
+msgstr "Mentre stavo massaggiando il collo e le spalle di Lisa, ho avuto una grande idea! Perché non risolvere il mio problema di erezione quando io e mia madre guardiamo la TV insieme offrendole un massaggio? Vale la pena provare... La farà sentire bene e sarà meno un problema per me. La cosa principale è assicurarsi che a mia madre piaccia il massaggio!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Только сперва нужно отточить свои навыки массажа на Лизе, чтобы маме всё понравилось. Лизе очень понравился массаж шеи и плеч: [lisa.flags.m_shoulder] из 5"
-msgstr ""
+msgstr "Solo che prima devi affinare le tue abilità di massaggio su Lisa, in modo che alla mamma piaccia tutto. A Lisa è piaciuto molto il massaggio al collo e alle spalle: [lisa.flags.m_shoulder] su 5"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Теперь не важно, что на мне будет одето, когда мы с мамой будем смотреть ТВ. Главное предложить ей массаж..."
-msgstr ""
+msgstr "Ora non importa cosa indosso quando io e mia madre guardiamo la TV. La cosa principale è offrirle un massaggio..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Это была отличная идея! Теперь и мама знает, на что способны мои руки. Массажем она осталась довольна и даже хочет, чтобы я делал его и дальше. Я более чем не против помассировать мамины плечи время от времени и это отличная возможность скрыть моё возбуждение от её глаз. Только не стоит слишком к ней прижиматься, иначе она почувствует, как кое-что твёрдое упирается ей в спину."
-msgstr ""
+msgstr "È stata una grande idea! Ora anche mia madre sa di cosa sono capaci le mie mani. Era soddisfatta del massaggio e vuole addirittura che continui a farlo. Sono più che felice di massaggiare le spalle di mia madre ogni tanto, ed è un ottimo modo per nascondere la mia eccitazione ai suoi occhi. Basta non avvicinarsi troppo a lei, o sentirà qualcosa di duro appoggiato alla sua schiena."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ещё было бы классно делать маме массаж и смотреть при этом какой-нибудь эротический фильм. Но лучше сперва довести этот массаж до автоматизма, потому что фильм будет отвлекать. Потребуются успехи в возможности \"Любимая тётя\"..."
-msgstr ""
+msgstr "Sarebbe anche bello fare un massaggio a tua madre mentre guardi un film erotico. Ma è meglio fare prima questo massaggio, perché il film distrarrà. Dovrete progredire nell'opportunità della \"zia amata\"..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Прежде чем купить какой-нибудь эротический фильм и уговорить маму его посмотреть, нужно больше с ней сблизиться. Её утренние занятия йогой отлично подойдут для этого..."
-msgstr ""
+msgstr "Prima di comprare qualche film erotico e convincere tua madre a guardarlo, devi avvicinarti a lei. Il suo corso mattutino di yoga sarebbe perfetto per questo..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Самое время прикупить какой-нибудь эротический фильм и предложить маме его посмотреть..."
-msgstr ""
+msgstr "È un buon momento per comprare un film erotico e chiedere a tua madre di guardarlo..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Надо предложить маме посмотреть вместе фильм, который я купил. Интересно, что будет, когда она поймёт, что мы снова смотрим эротику..."
-msgstr ""
+msgstr "Dovrei suggerire alla mamma di guardare insieme il film che ho comprato. Mi chiedo cosa succederà quando si renderà conto che stiamo guardando di nuovo l'erotismo..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вообще улётно! Я посмотрел с мамой ещё один эротический фильм! Правда, не весь, но почти час... Она так прибалдела от этого фильма и массажа, что даже не почувствовала, что у неё сползло полотенце. А позиция у меня в этот момент была самая наилучшая для того, чтобы насладиться этим небольшим и случайным стриптизом от мамы. Может, в следующий раз она снова не уследит за своим полотенцем? Если она, конечно, станет досматривать этот фильм со мной..."
-msgstr ""
+msgstr "È assolutamente fantastico! Ho guardato un altro film erotico con mia madre! Non tutto, però, ma quasi un'ora... Era così spaventata dal film e dal massaggio che non ha nemmeno sentito il suo asciugamano scivolare via. E a questo punto ero nella posizione migliore per godermi questo piccolo e casuale spogliarello di mia madre. Forse la prossima volta non guarderà più il suo asciugamano. Se lei, naturalmente, finirà questo film con me..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Остаётся дождаться, когда мама будет смотреть ТВ одна и напомнить ей, что мы кое-что не досмотрели..."
-msgstr ""
+msgstr "Dobbiamo solo aspettare che la mamma guardi la TV da sola e ricordarle che non abbiamo finito di guardare qualcosa..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь!"
-msgstr ""
+msgstr "Così io e mia madre abbiamo finito di guardare Il colore della notte. Ho ammirato di nuovo i suoi seni nudi e, in generale, le cose vanno bene per noi. Comincia lentamente a capire che sono un adulto e non resiste più a guardare questo tipo di film con me. Per amor di decenza, naturalmente, mia madre mi ha detto di non comprare più tali erotici espliciti, ma come se io volessi ascoltare!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
@@ -345,15 +345,15 @@ msgstr "Tali giochi con Alice in bagno sono già molto più interessanti... Se s
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Чтобы получить большее от Алисы, мне нужно сближаться с ней без помощи конфет с ликёром. Потребуются успехи в возможности \"Шаловливые ножки\"..."
-msgstr ""
+msgstr "Per ottenere di più da Alice, devo avvicinarmi a lei senza l'aiuto delle caramelle alla liquirizia. Ci vorranno dei progressi sull'opportunità dei \"Gambe birichine\"..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Теперь я вполне могу рассчитывать на что-то большее, чем то, что Алиса вытворяет своим языком после клуба. Главное, чтобы конфет с ликёром хватало..."
-msgstr ""
+msgstr "Ora posso contare su qualcosa di più di quello che Alice fa con la sua lingua dopo il club. Finché c'è abbastanza liquore e caramelle..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ох, Алиса... Это тебе не свою розовую игрушку посасывать... У меня в трусах штука посерьёзнее будет. Её губы с таким трудом охватывают мой член и доставляют нереальное удовольствие! Уверен, впереди нас ждёт ещё много развлечений, но для этого нужно развивать наши с Алисой отношения..."
-msgstr ""
+msgstr "Oh, Alice... Non è che stai succhiando il tuo giocattolo rosa... Ho una cosa più grande nei pantaloni. Le sue labbra stanno lavorando così forte sul mio cazzo e mi sta dando un piacere irreale! Sono sicuro che ci aspetta molto divertimento, ma per questo dobbiamo sviluppare la nostra relazione con Alice..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Дым сигарет"
@@ -391,7 +391,7 @@ msgstr "Così il di Alisina volò sotto la mano severa di mia madre! Ora il suo 
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Главное поймать её снова с сигаретой. Тогда и убедить будет куда проще..."
-msgstr ""
+msgstr "L'importante è beccarla di nuovo con una sigaretta. Allora sarà molto più facile convincerla..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ну вот, дело сделано. Теперь Алиса готова выполнять мои мелкие, но пикантные прихоти. Ей не сложно, а мне приятно. Ох, сколько теперь будет разных интересных ситуаций с Алисой..."
