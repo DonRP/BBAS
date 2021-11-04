@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-02 12:33\n"
+"PO-Revision-Date: 2021-11-04 13:23\n"
 
 # game/script.rpy:43## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
@@ -162,7 +162,7 @@ msgstr "[Max_04]Maman a trouvé un nouveau travail. Lisa est allée à l'école 
 
 # game/script.rpy:122## # translate crowdin about_poss_0cd5a085:
 msgid "[Max_00]\"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
-msgstr "[Max_00]'Opportunité' - sont des chemins spécifiques qui peuvent être suivis pour atteindre un certain type de résultat. Ils sont généralement cachés et peu visibles."
+msgstr "[Max_00]'Opportunité' - ce sont des chemins spécifiques qui peuvent être suivis pour atteindre un certain type de résultat. Elle sont généralement cachées et peu visibles."
 
 # game/script.rpy:123## # translate crowdin about_poss_0f75481c:
 msgid "[Max_03]Некоторые действия в игре открывают такие \"возможности\". Увидеть их можно на соответствующем экране, который можно открыть через верхнее меню."
@@ -170,7 +170,7 @@ msgstr "[Max_03]Certaines actions du jeu ouvrent de telles 'opportunités'. Vous
 
 # game/script.rpy:124## # translate crowdin about_poss_09cf07b7:
 msgid "[Max_00]Некоторые \"возможности\" временные. Некоторые могут привести к нежелательному результату. Не стоит хвататься за первую попавшуюся и слепо следовать подсказкам!"
-msgstr "[Max_00]Quelques 'opportunités' sont temporaire. Certaines peuvent conduire à des résultats indésirables. Ne prenez pas la première qui vous tombe dessus et suivez aveuglément les instructions !"
+msgstr "[Max_00]Quelques 'opportunités' sont temporaire. Certaines peuvent conduire à des résultats indésirables. Ne prenez pas la première qui vous tombe dessus, suivez attentivement les instructions !"
 
 # game/script.rpy:126## # translate crowdin about_poss_95f72849:
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
