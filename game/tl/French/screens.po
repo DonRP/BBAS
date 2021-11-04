@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-03 12:45\n"
+"PO-Revision-Date: 2021-11-04 13:23\n"
 
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}BOUTIQUE EN LIGNE{/b}"
@@ -173,7 +173,7 @@ msgstr "UTILE"
 
 #    # game/core/screens.rpy:1233
 msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
-msgstr "CARACTÉRISTIQUES ([kol] / [all])"
+msgstr "OPPORTUNITÉS ([kol] / [all])"
 
 #    # game/core/screens.rpy:1246
 msgid "В ПРОЦЕССЕ..."
@@ -193,7 +193,7 @@ msgstr "{i}{b}Félicitations!{/b} Vous avez terminé cette fonctionnalité - 'op
 
 #    # game/core/screens.rpy:1303
 msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
-msgstr "{i}{b}Échec.{/b} Malheureusement, votre choix a conduit à une fin malheureuse, bloquant le développement ultérieur 'd'opportunité'.{/i}"
+msgstr "{i}{b}Échec.{/b} Malheureusement, votre choix a conduit à une fin malheureuse, bloquant le développement ultérieur d'autres 'opportunités'.{/i}"
 
 #    # game/core/screens.rpy:1306
 msgid "Подсказка:"
