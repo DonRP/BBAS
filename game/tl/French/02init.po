@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-03 12:45\n"
+"PO-Revision-Date: 2021-11-04 13:23\n"
 
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasion réduite!{/i}{/color}\n"
@@ -171,13 +171,13 @@ msgstr "Ce jeu fournit un contrôle au clavier. Vous pouvez l'utiliser à tout m
 
 #    # game/core/02init.rpy:120
 msgid "Возможности"
-msgstr "Les fonctionnalités"
+msgstr "Opportunités"
 
 #    # game/core/02init.rpy:120
 msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n"
 "\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
-msgstr "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'opportunités'. Leurs mécanismes sont un peu similaires aux 'quêtes' ou 'quêtes' d’autres jeux, mais il y a quelques différences.\n\n\n"
-"'Les fonctionnalités' peuvent ouvrir l’accès à des événements ou des achats cachés dans la boutique en ligne, à de nouvelles options dans l’ordinateur portable ou à des actions dans certaines pièces. Lisez attentivement la description de chaque 'opportunité' et vous ne manquerez de rien!"
+msgstr "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'opportunités'. Leurs mécanismes sont un peu similaires aux 'quêtes' d’autres jeux, mais il y a quelques différences.\n\n\n"
+"'Les opportunités' peuvent ouvrir l’accès à des événements ou des achats cachés dans la boutique en ligne, à de nouvelles options dans l’ordinateur portable ou à des actions dans certaines pièces. Lisez attentivement la description de chaque 'opportunités' et vous ne manquerez de rien!"
 
 #    # game/core/02init.rpy:120
 msgid "Настроение"
