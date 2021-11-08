@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-05 13:50\n"
+"PO-Revision-Date: 2021-11-08 10:07\n"
 
 msgid "Скрытые камеры"
 msgstr "Caméras cachées"
@@ -1097,7 +1097,7 @@ msgstr "Il faudra réussir dans 'l'opportunité' : 'Jambes coquines'..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит почаще уговаривать Лизу показать грудь. Лучше всего, когда она в очень хорошем настроении..."
-msgstr ""
+msgstr "Ca vaut la peine de persuader souvent Lisa de montrer ses seins. Le meilleur moment, quand elle est de très bonne humeur..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "А Алиса у нас та ещё болтунья оказывается! Рассказала Лизе, какой классный массаж я ей делаю. Это хорошо, потому что Лиза сама напросилась на него. Теперь можно массировать её стройные ножки, пока она делает домашнее задание. Ну и любоваться тем, что скрывается под её одеждой, как же без этого. Может, если ей понравится то, как я массирую её ножки, она захочет массаж чего-нибудь ещё?"
