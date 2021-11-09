@@ -10,35 +10,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-04 13:23\n"
+"PO-Revision-Date: 2021-11-09 10:34\n"
 
 msgid "массаж, "
-msgstr ""
+msgstr "masser, "
 
 #    # game/screens.rpy:244
 msgid "убеждение, "
-msgstr ""
+msgstr "croyance, "
 
 #    # game/screens.rpy:244
 msgid "сексуальный опыт, "
-msgstr ""
+msgstr "expérience sexuelle, "
 
 #    # game/screens.rpy:244
 msgid "поцелуи, "
-msgstr ""
+msgstr "embrasser, "
 
 #    # game/screens.rpy:244
 msgid "удача, "
-msgstr ""
+msgstr "chance, "
 
 #    # game/screens.rpy:244
 msgid "скрытность, "
-msgstr ""
+msgstr "secret, "
 
 #    # game/screens.rpy:271
 msgid "[txt] \n"
 "{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-msgstr ""
+msgstr "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
 #    # game/screens.rpy:333
 msgid "История"
@@ -158,7 +159,7 @@ msgstr "{#file_time}%d %b %Y, %H:%M"
 
 #    # game/screens.rpy:863
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #    # game/screens.rpy:866
 msgid "{#auto_page}Автосохр."
@@ -170,7 +171,7 @@ msgstr "{#quick_page}Sauvegarde rapide."
 
 #    # game/screens.rpy:875
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #    # game/screens.rpy:944
 msgid "Режим экрана"
@@ -254,7 +255,7 @@ msgstr "Afficher toutes les 'opportunités'"
 
 #    # game/screens.rpy:981
 msgid "Переодевания Лизы пропускаются, если Макс в комнате"
-msgstr ""
+msgstr "Le changement de tenue de Lisa est ignoré si Max est dans la pièce"
 
 #    # game/screens.rpy:994
 msgid "Скорость текста"
