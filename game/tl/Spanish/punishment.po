@@ -10,207 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 12:35\n"
+"PO-Revision-Date: 2021-11-09 10:34\n"
 
 # game/dialogues/punishment.rpy:99## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
-msgstr ""
+msgstr "[Ann_16]Antes de empezar, algunas personas merecen ser castigadas y ahora todo el mundo lo verá..."
 
 # game/dialogues/punishment.rpy:119## # translate crowdin punishment_5cebd4e9:
 msgid "[Ann_18]Итак, Макс, ты первый..."
-msgstr ""
+msgstr "[Ann_18]Entonces, Max, eres el primero..."
 
 # game/dialogues/punishment.rpy:121## # translate crowdin punishment_f7581ae0:
 msgid "[Ann_18]Макс, теперь твоя очередь..."
-msgstr ""
+msgstr "[Ann_18]Max, ahora es tu turno..."
 
 # game/dialogues/punishment.rpy:123## # translate crowdin punishment_8ee31be2:
 msgid "[Ann_18]Макс, иди сюда..."
-msgstr ""
+msgstr "[Ann_18]Max, ven aquí..."
 
 # game/dialogues/punishment.rpy:129## # translate crowdin punishment_4d81c6a0:
 msgid "[Ann_18]Так, Лиза, начнём с тебя..."
-msgstr ""
+msgstr "[Ann_18]Entonces, Lisa, comencemos contigo..."
 
 # game/dialogues/punishment.rpy:131## # translate crowdin punishment_353120e8:
 msgid "[Ann_18]Теперь Лиза..."
-msgstr ""
+msgstr "[Ann_18]Ahora Lisa..."
 
 # game/dialogues/punishment.rpy:133## # translate crowdin punishment_6d4a5e81:
 msgid "[Ann_18]Лиза, подойди-ка ко мне."
-msgstr ""
+msgstr "[Ann_18]Lisa, ven aqui."
 
 # game/dialogues/punishment.rpy:139## # translate crowdin punishment_0a6a61be:
 msgid "[Ann_18]Алиса, начнём с тебя..."
-msgstr ""
+msgstr "[Ann_18]Alice, comencemos contigo..."
 
 # game/dialogues/punishment.rpy:141## # translate crowdin punishment_390d46c1:
 msgid "[Ann_18]Теперь ты, Алиса..."
-msgstr ""
+msgstr "[Ann_18]Ahora tú, Alice..."
 
 # game/dialogues/punishment.rpy:143## # translate crowdin punishment_dd38597c:
 msgid "[Ann_18]Алиса, подойди-ка сюда."
-msgstr ""
+msgstr "[Ann_18]Alice, ven aquí."
 
 # game/dialogues/punishment.rpy:159## # translate crowdin first_new_punishment_9e045600:
 msgid "[Ann_12]Да, напоминаю всем. С сегодняшнего дня все наказания будут в обнажённом виде. Да, я понимаю, что это непедагогично, но очень эффективно."
-msgstr ""
+msgstr "[Ann_12]sí, les recuerdo a todos. A partir de hoy, todos los castigos serán desnudos. Sí, entiendo que esto no es pedagógico, pero sí muy efectivo."
 
 # game/dialogues/punishment.rpy:160## # translate crowdin first_new_punishment_8bbfe5b5:
 msgid "[Max_10]Но мам..."
-msgstr ""
+msgstr "[Max_10]Pero mamá..."
 
 # game/dialogues/punishment.rpy:161## # translate crowdin first_new_punishment_de217f08:
 msgid "[Ann_16]Я знаю, Макс, но уговаривать и пытаться вас убедить другим способом у меня нет ни сил ни времени. Чем более унизительно наказание, тем у вас будет меньше желания нарушить правила."
-msgstr ""
+msgstr "[Ann_16] Lo sé, Max, pero no tengo tiempo para persuadirte y tratar de persuadirte de otra manera. Cuanto más humillante sea el castigo, menos ganas tendrás de romper las reglas."
 
 # game/dialogues/punishment.rpy:162## # translate crowdin first_new_punishment_916b3b51:
 msgid "[Lisa_09]Мам, и что, нам с Алисой придётся раздеваться догола прямо перед Максом? А если он разденется, нам смотреть на этот... его... ну..."
-msgstr ""
+msgstr "[Lisa_09]mamá, y ¿Alice y yo tendremos que desnudarnos justo en frente de Max? Y si se desnuda, veremos esto... su... pene..."
 
 # game/dialogues/punishment.rpy:163## # translate crowdin first_new_punishment_51f3891b:
 msgid "[Max_07]Что, страшно?"
-msgstr ""
+msgstr "[Max_07]¿te da miedo?"
 
 # game/dialogues/punishment.rpy:164## # translate crowdin first_new_punishment_3312b1b2:
 msgid "[Ann_00]Да, Лиза. Видишь, ты уже боишься. Значит, приложишь все усилия, чтобы тебя не наказали. Уже правила работают, а стоит один раз вам быть униженными перед всей семьёй..."
-msgstr ""
+msgstr "[Ann_00]sí, Lisa. Mira, ya tienes miedo. Por lo tanto, harás todo lo posible por no ser castigada. Las reglas ya funcionan, y una vez deberías ser humillado frente a toda la familia..."
 
 # game/dialogues/punishment.rpy:165## # translate crowdin first_new_punishment_3d6a4225:
 msgid "[Max_09]А если ты накосячишь? Кто тебя будет наказывать?"
-msgstr ""
+msgstr "[Max_09]¿Qué pasa si escribes? ¿Quién te castigará?"
 
 # game/dialogues/punishment.rpy:166## # translate crowdin first_new_punishment_44a5aca6:
 msgid "[Ann_02]Макс, ну что за ерунда. Что я могу нарушить? Я же ваша мама и всегда даю вам пример для подражания..."
-msgstr ""
+msgstr "[Ann_02]Max, qué tontería. ¿Qué puedo violar? Soy tu mamá y siempre te doy un modelo a seguir..."
 
 # game/dialogues/punishment.rpy:167## # translate crowdin first_new_punishment_9b49b76d:
 msgid "[Max_08]Э... Ты уверена?"
-msgstr ""
+msgstr "[Max_08]E... ¿Estás segura?"
 
 # game/dialogues/punishment.rpy:168## # translate crowdin first_new_punishment_8cf88c09:
 msgid "[Ann_04]Да, Макс, я уверена. Но даже если я и совершу ошибку, то меня сможет наказать, допустим, Эрик... Но этого не случится. Я соблюдаю свои же правила!"
-msgstr ""
+msgstr "[Ann_04]sí, Max, estoy segura. Pero incluso si cometo un error, puedo ser castigada, digamos, Eric... Pero eso no va a suceder. ¡Sigo mis propias reglas!"
 
 # game/dialogues/punishment.rpy:169## # translate crowdin first_new_punishment_c0b6a936:
 msgid "[Max_09]Ага, уж он то накажет..."
-msgstr ""
+msgstr "[Max_09]sí, va a castigarte..."
 
 # game/dialogues/punishment.rpy:170## # translate crowdin first_new_punishment_9285451a:
 msgid "[Ann_12]Макс, ты слишком много говоришь... Ладно, дам вам последнюю поблажку - в ближайший месяц можете оставаться в трусах во время наказания. Но если и это никак вас не образумит, то всё, будете раздеваться догола. И больше никаких предупреждений. Теперь всё будет строго."
-msgstr ""
+msgstr "[Ann_12]Max, dices demasiado... Está bien, te daré una última indulgencia: el próximo mes puedes quedarte en ropa interior durante el castigo. Pero si eso no te hace cambiar de ninguna manera, entonces es todo, te desnudarás. Y no más advertencias. Ahora todo será riguroso."
 
 # game/dialogues/punishment.rpy:178## # translate crowdin first_naked_punishment_3f2e2a3f:
 msgid "[Ann_12]А так как месяц прошёл, а вы всё так же не взялись за ум, то с этого момента наказывать я вас буду полностью голых! Как и обещала..."
-msgstr ""
+msgstr "[Ann_12]Y como ha pasado un mes, y aún no tienes ni idea, ¡a partir de ahora te castigaré completamente desnudo! Como fue prometido..."
 
 # game/dialogues/punishment.rpy:179## # translate crowdin first_naked_punishment_c1e4e97a:
 msgid "[Lisa_11]Ой, нет! Не надо, мам!"
-msgstr ""
+msgstr "[Lisa_11]¡Oh, no! ¡No, mamá!"
 
 # game/dialogues/punishment.rpy:180## # translate crowdin first_naked_punishment_4a37ae29:
 msgid "[Alice_16]Это беспредел какой-то!"
-msgstr ""
+msgstr "[Alice_16]¡Esto es una especie de anarquía!"
 
 # game/dialogues/punishment.rpy:181## # translate crowdin first_naked_punishment_2c928228:
 msgid "[Ann_19]Тихо! У вас был шанс этого избежать. Если вам не стыдно за свою безалаберность, то, надеюсь, станет стыдно получать по голому заду на глазах у всех!"
-msgstr ""
+msgstr "[Ann_19]Tranquilo! Tuviste la oportunidad de evitarlo. Si no te avergüenzas de tu descuido, entonces, espero, ¡será vergonzoso recibir tu castigo desnudo frente a todos!"
 
 # game/dialogues/punishment.rpy:200## # translate crowdin punishment_max_9f9d4b10:
 msgid "[Ann_19]Макс! Я вынуждена отчитать тебя перед всеми, так как у нас в семье не должно быть никаких секретов."
-msgstr ""
+msgstr "[Ann_19]Max! Tengo que reprenderte frente a todos, porque no deberíamos tener ningún secreto en nuestra familia."
 
 # game/dialogues/punishment.rpy:202## # translate crowdin punishment_max_e667ce8e:
 msgid "[Max_10]Я снова не виноват!"
-msgstr ""
+msgstr "[Max_10]No soy culpable otra vez!"
 
 # game/dialogues/punishment.rpy:203## # translate crowdin punishment_max_aa40f9a0:
 msgid "[Ann_17]Не виноват, значит? Снова? Кажется, ты не осознаёшь, что это последнее предупреждение и в следующий раз я тебя выпорю на глазах у сестёр. Ты меня понял? А теперь рассказывай, что натворил, чтобы все были в курсе![nointeract]"
-msgstr ""
+msgstr "[Ann_17] no eres culpable entonces? ¿Una vez más? Parece que no te das cuenta de que esta es la última advertencia y la próxima vez te golpeare frente a mis hermanas. ¿Tu me entendiste? ¡Y ahora cuéntanos qué hiciste para que todos sepan[nointeract]"
 
 # game/dialogues/punishment.rpy:205## # translate crowdin punishment_max_81902265:
 msgid "[Max_10]Я не виноват!"
-msgstr ""
+msgstr "[Max_10]¡No soy culpable!"
 
 # game/dialogues/punishment.rpy:206## # translate crowdin punishment_max_3cc1d6e0:
 msgid "[Ann_17]Не виноват, значит? А я думаю, что ещё как виноват. В этот раз тебе повезло, это всего лишь первое предупреждение. Надеюсь, второго не потребуется... Кстати, можешь всем рассказать, что ты натворил...[nointeract]"
-msgstr ""
+msgstr "[Ann_17]no eres culpable, entonces? Yo creo que todavía tienes la culpa. Esta vez tienes suerte, es solo la primera advertencia. Espero que no necesites una segunda... Por cierto, ¿puedes decirle a todo el mundo lo que hiciste...[nointeract]"
 
 # game/dialogues/punishment.rpy:209## # translate crowdin punishment_max_pun_reson_2be684f3:
 msgid "[Lisa_12]Он видел меня голой, мам! Накажи его! Почему он отделывается только предупреждением? Пусть получит, что заслужил!"
-msgstr ""
+msgstr "[Lisa_12]¡Me vio desnuda, mamá! ¡Castígalo! ¿Por qué se va con solo una advertencia? ¡Que consiga lo que se merece!"
 
 # game/dialogues/punishment.rpy:211## # translate crowdin punishment_max_pun_reson_bd61ea84:
 msgid "[Max_11]Да ничего я не заслужил!"
-msgstr ""
+msgstr "[Max_11]¡Sí, no merecía nada!"
 
 # game/dialogues/punishment.rpy:214## # translate crowdin punishment_max_pun_reson_f80ba00d:
 msgid "[Alice_16]Случайно? Врёт он всё, мам! Он стоял и пялился на меня!"
-msgstr ""
+msgstr "[Alice_16]¿por casualidad? ¡Miente, mamá! ¡Se levantó y me miró fijamente!"
 
 # game/dialogues/punishment.rpy:216## # translate crowdin punishment_max_pun_reson_638d9e56:
 msgid "[Max_11]Да, я мимо проходил!"
-msgstr ""
+msgstr "[Max_11]sí, ¡pasé!"
 
 # game/dialogues/punishment.rpy:219## # translate crowdin punishment_max_pun_reson_42d1fc27:
 msgid "[Ann_14]Очень хочу надеяться, что это было случайно. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
-msgstr ""
+msgstr "[Ann_14]Realmente espero que haya sido accidental. Sin embargo, estás atrapado y, como dije, estás siendo advertido."
 
 # game/dialogues/punishment.rpy:221## # translate crowdin punishment_max_pun_reson_cc5c3e8d:
 msgid "[Max_10]Больше это не повторится!"
-msgstr ""
+msgstr "[Max_10]¡No volverá a suceder!"
 
 # game/dialogues/punishment.rpy:224## # translate crowdin punishment_max_pun_reson_c2d41112:
 msgid "[Ann_14]Очень хочу надеяться, что ты это сделал не специально и просто проходил мимо. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
-msgstr ""
+msgstr "[Ann_14]Realmente espero que haya sido accidental. Sin embargo, estás atrapado y, como dije, estás siendo advertido."
 
 # game/dialogues/punishment.rpy:226## # translate crowdin punishment_max_pun_reson_0bb98aec:
 msgid "[Max_10]Да, я мимо проходил!"
-msgstr ""
+msgstr "[Max_10]sí, ¡pasé!"
 
 # game/dialogues/punishment.rpy:229## # translate crowdin punishment_max_pun_reson_2719fc6f:
 msgid "[Ann_14]У тебя есть ещё время подумать над своим поведением. Надеюсь, следующего раза не будет!"
-msgstr ""
+msgstr "[Ann_14]Todavía tienes tiempo para pensar en tu comportamiento. ¡Esperemos que no haya otro momento!"
 
 # game/dialogues/punishment.rpy:231## # translate crowdin punishment_max_pun_reson_2f8845d8:
 msgid "[Max_10]Да, мам..."
-msgstr ""
+msgstr "[Max_10]sí, mamá..."
 
 # game/dialogues/punishment.rpy:234## # translate crowdin punishment_max_pun_reson_021885f4:
 msgid "[Alice_16]Случайно? Мам! Он всё врёт! Он подглядывал и, может быть, даже паука подбросил! А ты знаешь, как я боюсь пауков..."
-msgstr ""
+msgstr "[Alice_16]¿por casualidad? ¡Mamá! ¡Él está mintiendo! ¡Echó un vistazo y tal vez incluso arrojó una araña! Y sabes el miedo que le tengo a las arañas..."
 
 # game/dialogues/punishment.rpy:236## # translate crowdin punishment_max_pun_reson_a3ff079a:
 msgid "[Max_09]Трусиха!"
-msgstr ""
+msgstr "[Max_09]Cobarde!"
 
 # game/dialogues/punishment.rpy:241## # translate crowdin punishment_max_pun_reson_b1c59edb:
 msgid "[Ann_18]Ты не закончил, Макс. Продолжай...[nointeract]"
-msgstr ""
+msgstr "[Ann_18]No has terminado, Max. Adelante...[nointeract]"
 
 # game/dialogues/punishment.rpy:243## # translate crowdin punishment_max_pun_reson_bcdffc42:
 msgid "[Ann_18]Дальше, Макс, мы тебя внимательно слушаем...[nointeract]"
-msgstr ""
+msgstr "[Ann_18]continua Max, te estamos escuchando atentamente...[nointeract]"
 
 # game/dialogues/punishment.rpy:245## # translate crowdin punishment_max_pun_reson_a9365548:
 msgid "[Ann_18]А ты про кое-что ещё не забыл?[nointeract]"
-msgstr ""
+msgstr "[Ann_18]¿Has olvidado algo más?[nointeract]"
 
 # game/dialogues/punishment.rpy:247## # translate crowdin punishment_max_pun_reson_33837bf7:
 msgid "[Ann_16]У тебя есть ещё время подумать над своим поведением. Надеюсь, следующего раза не будет!"
-msgstr ""
+msgstr "[Ann_16]Todavía tienes tiempo para pensar en tu comportamiento. ¡Esperemos que no haya otro momento!"
 
 # game/dialogues/punishment.rpy:248## # translate crowdin punishment_max_pun_reson_d9391b60:
 msgid "[Max_14]Да, мам..."
-msgstr ""
+msgstr "[Max_14]sí, mamá..."
 
 # game/dialogues/punishment.rpy:249## # translate crowdin punishment_max_pun_reson_c9c8162f:
 msgid "[Ann_12]В общем, на этот раз вопрос уладили. Все сделали выводы, а кое-кто и серьёзно задумается. Да, Макс? Можешь не отвечать."
-msgstr ""
+msgstr "[Ann_12]En general, esta vez se ha resuelto el asunto. Todos han sacado conclusiones y algunos lo pensarán seriamente. ¿Sí, Max? No puedes contestar."
 
 # game/dialogues/punishment.rpy:252## # translate crowdin punishment_max_pun_reson_bf38fe93:
 msgid "[Ann_16]Макс! Сейчас ты будешь наказан, сам знаешь за что![nointeract]"
-msgstr ""
+msgstr "[Ann_16]¡Max! Ahora serás castigado, tú mismo sabes por qué[nointeract]"
 
 # game/dialogues/punishment.rpy:256## # translate crowdin punishment_max_pun_reson_db52f1d4:
 msgid "[Ann_14][succes!t]Ты знаешь, Макс, всё говорит о том, что ты виноват и должен быть наказан. Но поверю тебе на слово, что это была какая-то ошибка. Надеюсь, я не пожалею о своём решении..."
@@ -416,19 +416,19 @@ msgstr ""
 
 # game/dialogues/punishment.rpy:629## # translate crowdin punishment_alice_67c8b436:
 msgid "[Ann_18][_text!t][nointeract]"
-msgstr ""
+msgstr "[Ann_18][_text!t][nointeract]"
 
 # game/dialogues/punishment.rpy:633## # translate crowdin punishment_alice_cb34e360:
 msgid "[Max_08]Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
-msgstr ""
+msgstr "[Max_08]mamá, no castigues a Alice. No son sus cigarrillos, su novia vino a verla hoy, probablemente se olvidó."
 
 # game/dialogues/punishment.rpy:635## # translate crowdin punishment_alice_e5b82d3f:
 msgid "[Ann_12]Нет, Макс, даже не пытайся её оправдывать. Ты и сам накосячил... Алиса, пошевеливайся..."
-msgstr ""
+msgstr "[Ann_12]No, Max, ni siquiera intentes justificarla. Tú mismo lo arruinaste... Alicia, muévete..."
 
 # game/dialogues/punishment.rpy:637## # translate crowdin punishment_alice_48884e9e:
 msgid "[Ann_14][succes!t]Хорошо, Макс, сегодня я не стану её наказывать. Надеюсь, я не пожалею об этом... Скажи брату спасибо, Алиса, что заступился, и не приглашай больше сюда таких подружек, хорошему они не научат..."
-msgstr ""
+msgstr "[Ann_14][¡éxito!t] Está bien, Max, no la voy a castigar hoy. Espero no arrepentirme... Da gracias a tu hermano, Alice, por interceder, y no invites más a esas novias aquí, no enseñarán cosas buenas..."
 
 # game/dialogues/punishment.rpy:638## # translate crowdin punishment_alice_2a128a29:
 msgid "[Alice_13]Хорошо, мам. Спасибо, Макс, я этого не забуду."
