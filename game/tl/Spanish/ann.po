@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 12:32\n"
+"PO-Revision-Date: 2021-11-09 10:34\n"
 
 # game/events/ann.rpy:11## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -310,7 +310,7 @@ msgstr "[Ann_08]Oh... Gracias por el cumplido, querida. ¡Es inmediatamente obvi
 
 # game/events/ann.rpy:345## # translate crowdin ann_dressed_work_gift_26390c24:
 msgid "[Max_05]{m}О да... У меня действительно лучшая мама на свете! Какая же потрясающая у неё фигура... Так приятно прижиматься к ней... её упругой груди... Эту мечту не хочется отпускать!{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Oh sí... ¡Realmente tengo la mejor mamá del mundo! Qué figura tan increíble tiene ella... Es tan agradable acurrucarse con ella... sus pechos firmes... ¡No quiero dejar ir este sueño! {/m}"
 
 # game/events/ann.rpy:349## # translate crowdin ann_dressed_work_gift_b6991faf:
 msgid "[Ann_04]Ну всё, мой дорогой, мне уже скоро на работу и нужно успеть сделать ещё кое-какие дела...[nointeract]"
@@ -322,7 +322,7 @@ msgstr "[Ann_05][¡éxito!t] ¡Eres muy agradable hoy, Max! Para esto, incluso t
 
 # game/events/ann.rpy:355## # translate crowdin ann_dressed_work_gift_05855820:
 msgid "[Max_06]{m}Ого! Это даже больше того, на что я надеялся... И не менее приятно чувствовать прикосновение её губ на своём лице! Блаженно...{/m}"
-msgstr ""
+msgstr "[Max_06]{m}¡Guau! Eso es aún más de lo que esperaba... ¡Y es igual de agradable sentir el toque de sus labios en mi cara! Guau... {/i}"
 
 # game/events/ann.rpy:360## # translate crowdin ann_dressed_work_gift_c0df5b86:
 msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами.[nointeract]"
@@ -462,7 +462,7 @@ msgstr "[Ann_08]Oh... Gracias por el cumplido, querida. ¡Es inmediatamente obvi
 
 # game/events/ann.rpy:499## # translate crowdin ann_dressed_shop_gift_26390c24:
 msgid "[Max_05]{m}О да... У меня действительно лучшая мама на свете! Какая же потрясающая у неё фигура... Так приятно прижиматься к ней... её упругой груди... Эту мечту не хочется отпускать!{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Oh sí... ¡Realmente tengo la mejor mamá del mundo! Qué figura tan increíble tiene ella... Es tan agradable acurrucarse con ella... sus pechos firmes... ¡No quiero dejar ir este sueño! {/m}"
 
 # game/events/ann.rpy:503## # translate crowdin ann_dressed_shop_gift_cda3b4f9:
 msgid "[Ann_04]Ну всё, мой дорогой, нам с девочками ещё нужно успеть пробежаться по магазинам сегодня...[nointeract]"
@@ -474,7 +474,7 @@ msgstr "[Ann_05][¡éxito!t] ¡Eres muy agradable hoy, Max! Para esto, incluso t
 
 # game/events/ann.rpy:509## # translate crowdin ann_dressed_shop_gift_05855820:
 msgid "[Max_06]{m}Ого! Это даже больше того, на что я надеялся... И не менее приятно чувствовать прикосновение её губ на своём лице! Блаженно...{/m}"
-msgstr ""
+msgstr "[Max_06]{m}¡Guau! Eso es aún más de lo que esperaba... ¡Y es igual de agradable sentir el toque de sus labios en mi cara! Guau... {/i}"
 
 # game/events/ann.rpy:514## # translate crowdin ann_dressed_shop_gift_c0df5b86:
 msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами.[nointeract]"
@@ -553,7 +553,7 @@ msgstr "{i}Alejarse{/i}"
 
 #    # game/events/ann.rpy:196
 msgid "Я не подглядывал. Это случайность!"
-msgstr ""
+msgstr "No estaba mirando. ¡Fue un accidente!"
 
 #    # game/events/ann.rpy:196
 msgid "Мам, извини..."
