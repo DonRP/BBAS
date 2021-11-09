@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 11:17\n"
+"PO-Revision-Date: 2021-11-09 10:34\n"
 
 msgid "ПАУК"
 msgstr "ARAÑA"
@@ -265,45 +265,45 @@ msgstr "Bruce Willis en el papel de un psicólogo de Nueva York que perdió a un
 
 #    # game/core/06_items.rpy:2
 msgid "КОМПРОМАТ НА ЭРИКА"
-msgstr ""
+msgstr "Pruebas comprometedoras de eric"
 
 #    # game/core/06_items.rpy:2
 msgid "Снимок того, как Эрик по ночам дрочит на Алису у окна её комнаты."
-msgstr ""
+msgstr "Una foto de Eric masturbándose con Alice por la noche junto a la ventana de su habitación."
 
 #    # game/core/06_items.rpy:2
 msgid "Снимки того, как Эрик по ночам сперва дрочил на Алису у окна её комнаты, а затем и в самой комнате."
-msgstr ""
+msgstr "Imágenes de cómo Eric por la noche se masturbaba primero con Alice en la ventana de su habitación, y luego en su habitación."
 
 #    # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ КОСТЮМ ДЛЯ РОЛЕВЫХ ИГР"
-msgstr ""
+msgstr "TRAJE DE CUERO NEGRO PARA JUEGOS DE ROL"
 
 #    # game/core/06_items.rpy:2
 msgid "Женский сексуальный комплект из натуральной кожи чёрного цвета. Топ с воротничком и коротенькие шортики, которые застёгиваются на стильные заклёпки."
-msgstr ""
+msgstr "Conjunto sexy para mujer hecho de cuero genuino negro. Top con cuello y pantalones cortos, que se abrochan con elegantes remaches."
 
 #    # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ СТЕК"
-msgstr ""
+msgstr "Látigo de cuero negro"
 
 #    # game/core/06_items.rpy:2
 msgid "Стек освежит и разнообразит ваши отношения. Шлепок на конце девайса воспитает дерзкого и непослушного партнера. Секс-игрушка откроет просторы истинного БДСМ."
-msgstr ""
+msgstr "El látigo refrescará y diversificará su relación. Una bofetada al final del acto revelará un compañero valiente y mezquino. Un juguete sexual abrirá los reinos del BDSM real."
 
 #    # game/core/06_items.rpy:2
 msgid "БЫСТРОДЕЙСТВУЮЩЕЕ СЛАБИТЕЛЬНОЕ"
-msgstr ""
+msgstr "LAXANTE DE ACCIÓN RÁPIDA"
 
 #    # game/core/06_items.rpy:2
 msgid "Эффективное слабительное средство. Эффект не заставит себя ждать. Деликатное решение деликатной проблемы."
-msgstr ""
+msgstr "Un laxante eficaz. El efecto no te hará esperar. Una solución delicada a un problema delicado."
 
 #    # game/core/06_items.rpy:2
 msgid "УСПОКОИТЕЛЬНОЕ СРЕДСТВО"
-msgstr ""
+msgstr "SEDANTE"
 
 #    # game/core/06_items.rpy:2
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
-msgstr ""
+msgstr "Perfecto para aquellos que no quieren emocionarse demasiado. Solo paz y serenidad. Antes de su uso, es necesario consultar a un médico para determinar la dosis deseada."
 
