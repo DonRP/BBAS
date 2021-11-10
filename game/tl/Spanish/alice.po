@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 11:41\n"
+"PO-Revision-Date: 2021-11-10 10:38\n"
 
 # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -226,11 +226,11 @@ msgstr "[Max_01]¡Maldita sea! A pesar de que está dormida, está frente a mí.
 
 # game/events/alice.rpy:265## # translate crowdin alice_sleep_morning_345503a1:
 msgid "[Max_02]Вот это да! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка! А если бы она снимала с себя то, что должна, то было бы просто шикарно! Нарушительница..."
-msgstr "[Max_02]¡Guau! De tales curvas seductoras y sisecheks puedes perder el conocimiento por la mañana temprano... ¡Genial mi hermana mayor..."
+msgstr "[Max_02]¡Vaya! A partir de curvas tan seductoras, puedes perder el conocimiento temprano en la mañana... ¡Tengo una hermana mayor genial! Y si se quitara lo que debería, ¡sería simplemente hermoso..."
 
 # game/events/alice.rpy:267## # translate crowdin alice_sleep_morning_333a5d36_1:
 msgid "[Max_09]Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?![nointeract]"
-msgstr "[Max_09]debería llevarte a agua limpia... ¡¿Tal vez deberías aprovechar lo que más asusta a Alice?![nointeract]"
+msgstr "[Max_09] Debería sacarte a la luz... ¡¿Quizás deberíamos usar el que más asusta a Alice?! [nointeract]"
 
 # game/events/alice.rpy:271## # translate crowdin alice_sleep_morning_5a7b04f5:
 msgid "[Max_07]Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, почти голую фигурку как следует... [nointeract]"
@@ -2464,11 +2464,11 @@ msgstr ""
 
 # game/events/alice.rpy:2797## # translate crowdin blog_with_Eric_7d7ffc41:
 msgid "[Max_09]{m}Подождите-ка, они о покупке белья разговаривают... И без меня! Нужно будет поскорее узнать у Алисы, что это ей там Эрик собрался покупать...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09] {m} Espera un minuto, están hablando de comprar lencería... ¡Y sin mí! Tendremos que llevar a Alice para averiguar qué le compra Eric... {/ m} [nointeract]"
 
 # game/events/alice.rpy:2804## # translate crowdin blog_with_Eric_9660eef6:
 msgid "[Max_07]{m}Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07] {m} Eric decidió ser inteligente frente a Alice con sus conocimientos de consumismo y publicidad... Bueno, sí, mientras tanto, se queda mirando sus encantos, apenas cubiertos de lino. Todavía no tengo nada que hacer aquí... {/ m} [nointeract]"
 
 msgid "{i}постучаться{/i}"
 msgstr "{i}knock{/i}"
@@ -2539,11 +2539,11 @@ msgstr "Vamos, eso es una tontería, ve un poco."
 
 #    # game/events/alice.rpy:436
 msgid "А как же братика обнять?"
-msgstr ""
+msgstr "¿Qué tal un abrazo para tu hermano?"
 
 #    # game/events/alice.rpy:458
 msgid "Конечно нет! Оно случайно выскочило из руки!"
-msgstr ""
+msgstr "¡Por supuesto que no! ¡Salió accidentalmente de mi mano!"
 
 #    # game/events/alice.rpy:484
 msgid "Зато у меня руки свободны... {i}(обнять в ответ){/i}"
@@ -2627,11 +2627,11 @@ msgstr "Voy a cetach la araña, ¡pero algunas personas están rompiendo la pers
 
 #    # game/events/alice.rpy:1089
 msgid "Давай $10!"
-msgstr ""
+msgstr "¡Dame $ 10!"
 
 #    # game/events/alice.rpy:1089
 msgid "Сними верх!"
-msgstr ""
+msgstr "¡Quítate la parte superior!"
 
 #    # game/events/alice.rpy:1089
 msgid "А, ничего. Так поймаю..."
@@ -2639,7 +2639,7 @@ msgstr "Aa, nada. Así que estaré al otro lado..."
 
 #    # game/events/alice.rpy:1118
 msgid "На красивое глаза легче открываются..."
-msgstr ""
+msgstr "Es más fácil abrir los ojos a lo hermoso..."
 
 #    # game/events/alice.rpy:1118
 msgid "Давай уже показывай сиськи!"
@@ -2679,7 +2679,7 @@ msgstr "¡No lo mataré!"
 
 #    # game/events/alice.rpy:1281
 msgid "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз."
-msgstr ""
+msgstr "Déjalo vivir. Iré y lo tiraré del balcón detrás de la cerca para que no se arrastre hacia atrás."
 
 #    # game/events/alice.rpy:1281
 msgid "{i}выбросить с балкона{/i}"
@@ -2759,7 +2759,7 @@ msgstr "{i}en su pecho{/i}"
 
 #    # game/events/alice.rpy:1707
 msgid "Нет, я хочу ещё, но нужно поторопиться..."
-msgstr ""
+msgstr "No, quiero más, pero necesito darme prisa..."
 
 #    # game/events/alice.rpy:1707
 msgid "Вообще-то, я надеялся, что ты возьмёшь его в рот..."
@@ -2861,5 +2861,5 @@ msgstr "Así que deja ir tu lengua..."
 
 #    # game/events/alice.rpy:2598
 msgid "Нет, я даже не близко..."
-msgstr ""
+msgstr "No, ni siquiera estoy cerca..."
 
