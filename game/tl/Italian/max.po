@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:40\n"
+"PO-Revision-Date: 2021-11-10 10:38\n"
 
 # game/events/max.rpy:4## # translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -18,11 +18,11 @@ msgstr "[Max_10]mi sento troppo stanco per questo. Sarebbe bello fare prima un p
 
 # game/events/max.rpy:32## # translate crowdin Sleep_52abcf74:
 msgid "[Max_00]{m}Пожалуй, пора ложиться спать...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_00]{m}(Forse è ora di andare a letto...) {/i}[nointeract]"
 
 # game/events/max.rpy:35## # translate crowdin Sleep_9878a7fd:
 msgid "[Max_00]{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_00]{m}A che ora sarebbe meglio svegliarmi? {/m}[nointeract]"
 
 # game/events/max.rpy:48## # translate crowdin Sleep_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
@@ -30,7 +30,7 @@ msgstr "[Max_19]Quanto è bello in questa casa..."
 
 # game/events/max.rpy:64## # translate crowdin Wearied_d8557c8f:
 msgid "[Max_10]{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_10]{m}La mia testa non pensa affatto, ho bisogno di andare a letto... {/m}[nointeract]"
 
 # game/events/max.rpy:66## # translate crowdin Wearied_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
@@ -38,7 +38,7 @@ msgstr "[Max_19]Quanto è bello in questa casa..."
 
 # game/events/max.rpy:84## # translate crowdin LittleEnergy_d97dcb62:
 msgid "[Max_10]{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_10]{m}sono troppo esausto, ho bisogno di fare un pisolino... {/m}[nointeract]"
 
 # game/events/max.rpy:93## # translate crowdin LittleEnergy_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
@@ -54,7 +54,7 @@ msgstr "[Max_19]Quanto è bello in questa casa..."
 
 # game/events/max.rpy:140## # translate crowdin Alarm_9878a7fd:
 msgid "[Max_00]{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_00]{m}A che ora sarebbe meglio svegliarmi? {/m}[nointeract]"
 
 # game/events/max.rpy:152## # translate crowdin Alarm_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
@@ -286,11 +286,11 @@ msgstr "[Max_00]sì, è quello di cui hai bisogno. Grazie!"
 
 # game/events/max.rpy:631## # translate crowdin delivery2_885c0cfc:
 msgid "[Max_02]{m}Боди у меня! Теперь, нужно подарить его Алисе и больше всего мне может повезти, когда она занимается своим блогом. Она и так в это время в нижнем белье, а с учётом того, что она получит боди раньше времени, то вполне может переодеться и при мне...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}ho Bodie! Ora, ho bisogno di darlo ad Alice e soprattutto posso essere fortunato quando è impegnata nel suo blog. È già in mutande in questo momento, e dato il fatto che otterrà un body prima del tempo, potrebbe benissimo cambiare i vestiti con me ... {/m}"
 
 # game/events/max.rpy:633## # translate crowdin delivery2_1f5e97ce:
 msgid "[Max_10]{m}Боди у меня! Вот только поздно... Эрик уже купил Алисе то, что она хотела. Остаётся лишь выставить на ebay, так хотя бы половину стоимости верну.{/m}"
-msgstr ""
+msgstr "[Max_10]{m}ho Bodie! È troppo tardi... Eric aveva già comprato ad Alice quello che voleva. Resta solo da mettere su ebay, quindi almeno la metà del costo verrà restituita. {/m}"
 
 # game/events/max.rpy:644## # translate crowdin BookRead_9562ffab:
 msgid "[Max_00]Пришло время почитать что-то...[nointeract]"
@@ -372,39 +372,39 @@ msgstr "[Max_00]C'è già una macchina fotografica qui. Forse vale la pena insta
 
 # game/events/max.rpy:770## # translate crowdin InstallCam_44699dcc:
 msgid "[Max_04]{m}В этой комнате столько всего может происходить... Думаю, зрителям понравится! Главное - спрятать все провода, чтобы Лиза не заметила новую микро-камеру...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}C'è così tanto da fare in questa stanza... Penso che il pubblico lo adorerà! La cosa principale è nascondere tutti i fili in modo che Lisa non si accorga della nuova microcamera... {/m}[nointeract]"
 
 # game/events/max.rpy:776## # translate crowdin InstallCam_b9324e31:
 msgid "[Max_04]{m}Пусть зрители посмотрят, чем Алиса занимается в своей комнате, когда её не видят... Я бы и сам был бы рад посмотреть, но пока такой функции у меня нет...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Lascia che il pubblico veda cosa sta facendo Alice nella sua stanza quando non viene vista... Sarei felice di vederlo da solo, ma non ho ancora quella funzione ... {/m}[nointeract]"
 
 # game/events/max.rpy:782## # translate crowdin InstallCam_9d11ed16:
 msgid "[Max_04]{m}Конечно, здесь редко происходят события. Зато, когда они происходят, то здесь такое... Думаю, зрители будут рады таким моментам...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Naturalmente, gli eventi accadono raramente qui. Ma quando accadono, c'è questo... Penso che il pubblico sarà felice di questi momenti... {/m}[nointeract]"
 
 # game/events/max.rpy:789## # translate crowdin InstallCam_bc72cb94:
 msgid "[Max_03]{m}Теперь через обе камеры можно увидеть всё самое интересное! Девочки любят покрасоваться у зеркала, а моя мама и Эрик, как я заметил, стараются не упустить возможность потрахаться перед этим же зеркалом... Моим зрителям это явно понравится!{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_03]{m}Ora attraverso entrambe le fotocamere puoi vedere tutte le più interessanti! Le ragazze amano mostrarsi allo specchio, e mia madre ed Eric, come ho notato, cercano di non perdere l'occasione di scopare davanti allo stesso specchio ... I miei spettatori lo adoreranno! {/m}[nointeract]"
 
 # game/events/max.rpy:795## # translate crowdin InstallCam_3a6027ee:
 msgid "[Max_04]{m}Конечно, с точки зрения морали ставить камеру в ванной сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Naturalmente, dal punto di vista della moralità, è dubbio mettere una macchina fotografica in bagno. Tuttavia, qui e così la finestra in tutto il muro. Quindi, formalmente, ho appena aperto quella finestra... {/m}[nointeract]"
 
 # game/events/max.rpy:801## # translate crowdin InstallCam_918d8b5b:
 msgid "[Max_04]{m}Уж не знаю, будет ли какой-то толк от этой камеры... Тут так редко что-то происходит... Ну пусть будет. Раз уж взялся всё подключать...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}non so se ci sarà qualche utilità da parte di questa fotocamera... È così raro che qui succeda qualcosa... Bene, lascia che sia. Da quando mi sono impegnato a collegare tutto... {/m}[nointeract]"
 
 # game/events/max.rpy:808## # translate crowdin InstallCam_3a93939c:
 msgid "[Max_04]{m}Вот теперь зрители смогут насладится всеми мокрыми и блестящими красотами, происходящими во дворе...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Ora il pubblico potrà godere di tutte le bellezze bagnate e lucenti che si svolgono nel cortile ... {/m}[nointeract]"
 
 # game/events/max.rpy:814## # translate crowdin InstallCam_3426c2fd:
 msgid "[Max_04]{m}Двор... Тут почти всё время кто-то есть и что-то делает, пока светит солнце. Думаю, тут зрители будут зависать постоянно в надежде увидеть кого-то с голыми сиськами...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Yard... C'è quasi tutto il tempo qualcuno lì e fa qualcosa mentre il sole splende. Penso che qui il pubblico uscirà costantemente nella speranza di vedere qualcuno con le tette nude ... {/m}[nointeract]"
 
 # game/events/max.rpy:816## # translate crowdin InstallCam_7711d18e:
 msgid "[Max_09]{m}Пожалуй, из-за большой площади мне стоило бы установить здесь несколько камер, чтобы зрители смогли лучше разглядеть каждую попку, которая тут бывает...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Forse, a causa della vasta area, dovrei installare diverse telecamere qui in modo che il pubblico possa vedere meglio ogni che accade qui... {/m}"
 
 # game/events/max.rpy:850## # translate crowdin SearchSpider_19279e48:
 msgid "[Max_00]Так, нужно хорошенько рассмотреть траву...[nointeract]"
@@ -432,7 +432,7 @@ msgstr "[Max_00]Beh, speriamo che il ragno non scava prima che Alice vada a lett
 
 # game/events/max.rpy:923## # translate crowdin ViewLesson_f9eae862:
 msgid "[Max_00]{m}Хорошая штука эти онлайн-курсы - можно научиться всему, не входя из дома! Вот только и стоит это немало...{/m}"
-msgstr ""
+msgstr "[Max_00]{m}Buona cosa questi corsi online - puoi imparare tutto senza uscire di casa! Ne vale la pena... {/m}"
 
 # game/events/max.rpy:930## # translate crowdin SearchCigarettes_b89e2d47:
 msgid "[Max_09]Так... Где же Алиса спрятала сигареты сегодня?"
@@ -534,10 +534,10 @@ msgstr "[Max_00]Quanto restituirò ora?[nointeract]"
 
 # game/events/max.rpy:1092## # translate crowdin bedtime_thoughts_a9917f30:
 msgid "[Max_07]{m}Как же напакостить Эрику, чтобы он хотя бы на время перестал лезть к моим сёстрам... и Кире... да и к маме тоже... Хм... У меня была бы отличная возможность что-нибудь подмешать в его еду за ужином, если помочь Алисе накрыть на стол! Стоит посмотреть в интернет-магазине, можно ли что-то такое купить...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Come attaccare Eric, in modo che almeno per un po 'abbia smesso di arrampicarsi sulle mie sorelle ... e Kira... e anche a mia mamma... Hmm... Avrei una grande opportunità di mescolare qualcosa nel suo pasto a cena se aiutassi Alice ad impostare la tavola! Vale la pena cercare nel negozio online, se è possibile acquistare qualcosa di simile ... {/m}"
 
 msgid "{i}установить будильник{/i}"
-msgstr ""
+msgstr "{i}impostare l'allarme{/i}"
 
 #    # game/events/max.rpy:34
 msgid "{i}в 6 утра{/i}"
@@ -737,11 +737,11 @@ msgstr "{i}smetti di cercare{/i}"
 
 #    # game/events/max.rpy:849
 msgid "{i}искать...{/i}"
-msgstr ""
+msgstr "{i}alla ricerca di... {/i}"
 
 #    # game/events/max.rpy:876
 msgid "{i}Подложить сейчас{/i}"
-msgstr ""
+msgstr "{i}Metti ora{/i}"
 
 #    # game/events/max.rpy:922
 msgid "Вы просматриваете видеоурок и повышаете свои навыки."
