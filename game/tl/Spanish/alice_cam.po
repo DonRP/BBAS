@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 12:26\n"
+"PO-Revision-Date: 2021-11-10 10:38\n"
 
 # game/events/alice_cam.rpy:25## # translate crowdin cam0_alice_sleep_night_f2d9a8b1:
 msgid "[Max_07]Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?"
-msgstr "[Max_07]Parece que Alicia antes de acostarse decidió ver algo ... Me pregunto qué."
+msgstr "[Max_07]Parece que Alice decidió mirar algo antes de irse a la cama… ¿Me pregunto qué?"
 
 # game/events/alice_cam.rpy:28## # translate crowdin cam0_alice_sleep_night_5d7e1834:
 msgid "[Max_02]Ага! Теперь ясно... Порнушку она решила посмотреть... посасывая заодно свою игрушку..."
-msgstr "[Max_02]sí. Ahora está claro... ella decidió ver ... chupando al mismo tiempo su toy..."
+msgstr "[Max_02]¡Ajá! Ahora está claro... Decidió ver pornografía... mientras chupaba su juguete al mismo tiempo..."
 
 # game/events/alice_cam.rpy:31## # translate crowdin cam0_alice_sleep_night_7ea3366c:
 msgid "[Max_06]Ого! Видимо, массаж ног с конфетами очень завёл мою сестрёнку! Может, мне попробовать помассировать ей не только ноги в следующий раз?!"
-msgstr "[Max_06]es así! ¡Aparentemente, el masaje de pies con dulces realmente consiguió a mi hermana! ¡¿Tal vez debería intentar abasar sus piernas la próxima vez?!"
+msgstr "[Max_06]es así! ¡Aparentemente, el masaje de pies con dulces realmente consiguió a mi hermana! ¡¿Tal vez debería intentar abrasar sus piernas la próxima vez?!"
 
 # game/events/alice_cam.rpy:41## # translate crowdin cam0_alice_sleep_night_bd2d0d90:
 msgid "[Max_04]Ночное шоу закончилось. Теперь Алиса спит... без лифчика... Умничка!"
@@ -358,34 +358,34 @@ msgstr "[Max_09]Alicia no es visible a través de esta cámara... ¿Puedo mirar 
 
 # game/events/alice_cam.rpy:735## # translate crowdin cam0_blog_with_Eric_2dbcbfe9:
 msgid "[Max_09]{m}Эрик о чём-то разговаривает с Алисой. И развалился так, как будто это его комната...{/m}"
-msgstr ""
+msgstr "[Max_09] {m} Eric está hablando con Alice sobre algo. Y se acostó como si fuera su habitación... {/ m}"
 
 # game/events/alice_cam.rpy:739## # translate crowdin cam0_blog_with_Eric_f539e64b:
 msgid "[Max_08]{m}Ого! Да она при нём, похоже, переодеваться вздумала! Что сказать, Эрик умеет добиваться своего...{/m}"
-msgstr ""
+msgstr "[Max_08] {m} ¡Parece que se está cambiando de ropa delante de él! ¿Qué puedo decir? Eric sabe salirse con la suya... {/ m}"
 
 # game/events/alice_cam.rpy:744## # translate crowdin cam0_blog_with_Eric_dcf61634:
 msgid "[Max_01]{m}Голая и прекрасная Алиса! Сказала Эрику не подглядывать, только вот он точно во всю глазеет сквозь пальцы... Я бы уж точно рискнул так близко поглазеть на голую Алису!{/m}"
-msgstr ""
+msgstr "[Max_01] {m} ¡Alice hermosa y desnuda! Le dije a Eric que no mirara, solo que definitivamente él está mirando a través de sus dedos... ¡Ciertamente me arriesgo a acercarme tanto a mirar a una Alice desnuda! {/ M}"
 
 # game/events/alice_cam.rpy:748## # translate crowdin cam0_blog_with_Eric_d27dde4d:
 msgid "[Max_07]{m}Ухх... Алиса не спешит спрятать свои аппетитные сисечки под боди! Хм, а может она заметила, что Эрик всё равно подглядывает и таким образом дразнит его?! И не подозревает, что заодно и меня...{/m}"
-msgstr ""
+msgstr "[Max_07] {m} Uhhhh... ¡Alice se toma su tiempo para esconder sus deliciosas tetas debajo de su mono! Mmmm, ¡tal vez se dio cuenta de que Eric estaba mirando a escondidas de todos modos y se burlaba de él así! Y no sabe que él también se está burlando de mí... {/ m}"
 
 # game/events/alice_cam.rpy:753## # translate crowdin cam0_blog_with_Eric_c1401911:
 msgid "[Max_09]{m}Понятно всё с вами, Алиса села на шею Эрику, а он и рад. Эх, Алиса... надеюсь, ты знаешь, что делаешь...{/m}"
-msgstr ""
+msgstr "[Max_09] {m} Entiendo lo que está pasando entre ustedes dos, Alice está en el cuello de Eric y él está feliz de hacerlo. Oh, Alice... espero que sepas lo que estás haciendo... {/ m}"
 
 # game/events/alice_cam.rpy:782## # translate crowdin cam0_blog_with_Eric_4181192f:
 msgid "[Max_08]{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
-msgstr ""
+msgstr "[Max_08] {m} Eric está en la habitación de Alice hoy. Parece que está tratando de ayudar con el blog... Pero en realidad, solo lo hace para ver a Alice en ropa interior, lo sé... {/ m}"
 
 msgid "{i}Конечно{/i}"
 msgstr "{i}Por supuesto{/i}"
 
 #    # game/events/alice_cam.rpy:72
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgstr ""
+msgstr "{i}Toma la cámara y ve a la ventana de Alice{/i}"
 
 #    # game/events/alice_cam.rpy:72
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
@@ -393,7 +393,7 @@ msgstr "{i}Y a la mierda con él, déjalo temblar{/i}"
 
 #    # game/events/alice_cam.rpy:83
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgstr ""
+msgstr "{i}Toma la cámara y ve al balcón{/i}"
 
 #    # game/events/alice_cam.rpy:327
 msgid "{i}продолжать смотреть{/i}"
