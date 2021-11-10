@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-04 13:23\n"
+"PO-Revision-Date: 2021-11-10 10:38\n"
 
 # game/dialogues/kiratalk.rpy:17## # translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -82,7 +82,7 @@ msgstr "[Max_00]Va bene..."
 
 # game/dialogues/kiratalk.rpy:77## # translate crowdin kira_firsttalk_92344759:
 msgid "[Max_03]{m}Расслабиться в душе? Легко. Особенно, когда рядом такая женщина. Ух! Я и не задумывался о своей тёте в этом плане никогда, но сейчас что-то изменилось... или во мне или в ней...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_03]{m}Rilassarsi sotto la doccia? È facile. Soprattutto quando c'è una donna del genere. Oh! Non ho mai pensato a mia zia a questo proposito, ma ora qualcosa è cambiato... o in me o in lei... {/m}[nointeract]"
 
 # game/dialogues/kiratalk.rpy:79## # translate crowdin kira_firsttalk_b89d504e:
 msgid "[Max_20]О, Кира... Ты когда-нибудь станешь моей..."
@@ -202,11 +202,11 @@ msgstr "[Max_00]Va bene..."
 
 # game/dialogues/kiratalk.rpy:151## # translate crowdin kira_talk2_2e01812f:
 msgid "[Max_20]{m}Вроде тётя Кира специально и не провоцирует, но меня к ней так тянет. Её горячее, почти обнажённое тело так и манит...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_20]{m}come zia Kira non provoca di proposito, ma sono così attratto da lei. Il suo corpo caldo, quasi nudo, invita... {/m}[nointeract]"
 
 # game/dialogues/kiratalk.rpy:154## # translate crowdin kira_talk2_d3412c1c:
 msgid "[Max_07]{m}О да... Надеюсь, она не поняла, что я сейчас делал, глядя на неё. Хотя, всё она понимает. Да ещё и видела меня, мой...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Oh sì... Spero che non abbia capito cosa stavo facendo ora guardandola. Anche se, lei capisce tutto. E lei ha visto me, il mio... {/m}"
 
 # game/dialogues/kiratalk.rpy:168## # translate crowdin kira_talk3_744eb86a:
 msgid "[Kira_05]Сегодня уже привык к моему купальнику? Или опять только одно на уме?[nointeract]"
@@ -450,11 +450,11 @@ msgstr "[Max_09]Ok, ridi..."
 
 # game/dialogues/kiratalk.rpy:307## # translate crowdin kira_talk4_2dfeb566:
 msgid "[Max_04]{m}Моя тётя снимается в порно! О таком лучше вообще никому не рассказывать. Ох... вот это мне повезло!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Mia zia sta facendo porno! È meglio non dirlo a nessuno. Oh... questo è quello che sono stato fortunato! {/m}"
 
 # game/dialogues/kiratalk.rpy:311## # translate crowdin kira_talk4_5da79743:
 msgid "[Max_19]{m}О да, Кира, мы с тобой ещё снимемся в фильме... и даже не в одном. Я сделаю тебя звездой и не только!{/m}"
-msgstr ""
+msgstr "[Max_19]{m}Oh sì, Kira, tu ed io faremo il film... e nemmeno in uno. Ti farò una star e non solo! {/m}"
 
 # game/dialogues/kiratalk.rpy:312## # translate crowdin kira_talk4_ed62975f:
 msgid "[Kira_05]Что, прости? Я не расслышала последнее..."
@@ -478,7 +478,7 @@ msgstr "[Kira_01]Ok, hai finito qui, andrò sotto la doccia più tardi. Non sciv
 
 # game/dialogues/kiratalk.rpy:323## # translate crowdin kira_talk4_e05be6c3:
 msgid "[Max_07]{m}Ну, тётя Кира, ты доприкалываешься! Я ещё реализую свои фантазии с тобой...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Beh, zia Kira, lo stai ottenendo! Sto ancora realizzando le mie fantasie con te... {/m}"
 
 # game/dialogues/kiratalk.rpy:339## # translate crowdin kira_talk5_088b1488:
 msgid "[Kira_01]Прекрасно, Макс! Я, кстати, ждала, что ты подойдёшь. Мне нужна помощь в одном деле и твой энтузиазм и энергия, могут мне помочь с этим."
@@ -514,15 +514,15 @@ msgstr "[Kira_04]sì? E dove hai studiato? E soprattutto - quando? O consideri l
 
 # game/dialogues/kiratalk.rpy:350## # translate crowdin kira_talk5_1195595b:
 msgid "[Max_02]Так у нас же Алиса блог свой ведёт. Вот я ей и помогал с его развитием. Хорошие фотографии нужны всем!"
-msgstr ""
+msgstr "[Max_02]Quindi abbiamo il blog di Alice suo. Così l'ho aiutata con il suo sviluppo. Tutti hanno bisogno di buone foto!"
 
 # game/dialogues/kiratalk.rpy:351## # translate crowdin kira_talk5_8431a94b:
 msgid "[Kira_03]Так ты с телефона её фотографировал?"
-msgstr ""
+msgstr "[Kira_03]Quindi l'hai fotografata dal tuo telefono?"
 
 # game/dialogues/kiratalk.rpy:352## # translate crowdin kira_talk5_0a43014e:
 msgid "[Max_05]Нет. Я купил хороший и серьёзный фотоаппарат. Опыта у меня пока маловато, но я готов пощёлкать тебя бесплатно, если ты попозируешь..."
-msgstr ""
+msgstr "[Max_05]No. Ho comprato una macchina fotografica buona e seria. Non ho ancora molta esperienza, ma sono disposto a cliccarti gratuitamente se poponi ..."
 
 # game/dialogues/kiratalk.rpy:354## # translate crowdin kira_talk5_3f1fe536:
 msgid "[Kira_14]Очень жаль... Без опыта, скорее всего, ничего толком не получится..."
@@ -538,11 +538,11 @@ msgstr "[Kira_02]Certo. Perché no? Improvvisamente, sei bravo a farlo? A propos
 
 # game/dialogues/kiratalk.rpy:359## # translate crowdin kira_talk5_c73f7880:
 msgid "[Max_05]Ага. Вот прямо недавно купил!"
-msgstr ""
+msgstr "[Max_05]sì. Questo è appena stato acquistato!"
 
 # game/dialogues/kiratalk.rpy:362## # translate crowdin kira_talk5_b6188756:
 msgid "[Max_08]Найду!"
-msgstr ""
+msgstr "[Max_08]troverò!"
 
 # game/dialogues/kiratalk.rpy:363## # translate crowdin kira_talk5_fb23b87b:
 msgid "[Kira_08]Ну, тогда не вижу причин для отказа такому целеустремлённому мальчику..."
@@ -562,11 +562,11 @@ msgstr "[Max_09]sì, ci andrò. E se non vuoi aiutarmi con questo, allora non in
 
 # game/dialogues/kiratalk.rpy:376## # translate crowdin kira_talk5_6ed85272:
 msgid "[Max_04]{m}Вот это удача! Порно-звезда будет мне позировать для фотосессии! Я где-то слышал, что порно-модели всегда дают фотографам в качестве оплаты за съёмку... Или нет? Но вдруг!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Questa è fortuna! La star poserà per me per un servizio fotografico! Ho sentito da qualche parte che i modelli vengono sempre dati ai fotografi come pagamento per le riprese ... O no? Ma all'improvviso! {/m}"
 
 # game/dialogues/kiratalk.rpy:378## # translate crowdin kira_talk5_34346893:
 msgid "[Max_20]Фотоаппарат у меня уже есть. Дело за тем, чтобы повысить мои шансы на что-нибудь особенное от тёти Киры за эту фотосессию. Не прикупить ли для неё какую-нибудь очень сексуальную сорочку?! Я думаю, это будет совсем не лишним... О да...[nointeract]"
-msgstr ""
+msgstr "[Max_20]ho già una macchina fotografica. Si tratta di aumentare le mie possibilità di qualcosa di speciale da zia Kira per questo servizio fotografico. Non dovrei comprare una camicia molto sexy per lei?! Penso che non sarà affatto superfluo... Oh sì...[nointeract]"
 
 # game/dialogues/kiratalk.rpy:380## # translate crowdin kira_talk5_dfeec0a5:
 msgid "[Max_20]Дело за малым. Осталось где-то взять фотоаппарат и тогда... Да... Интересно, сколько они стоят? А, не важно. Важно, что мне может дать сама тётя Кира! Ради этого стоит попотеть... О да...[nointeract]"
@@ -574,7 +574,7 @@ msgstr "[Max_20]È una piccola cosa. Rimane un posto dove prendere una macchina 
 
 # game/dialogues/kiratalk.rpy:384## # translate crowdin kira_talk5_7a7cc18f:
 msgid "[Max_09]{m}Эх, с тётей Кирой кончать поинтереснее... и намного!{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Oh, con zia Kira per finire più interessante... e molto! {/m}"
 
 # game/dialogues/kiratalk.rpy:406## # translate crowdin kira_talk6_a9812af2:
 msgid "[Kira_01]Ты уже нашёл фотоаппарат?[nointeract]"
@@ -806,7 +806,7 @@ msgstr "[Kira_01]È fantastico, Max! Ok, andrò a mettermi in ordine e a cambiar
 
 # game/dialogues/kiratalk.rpy:606## # translate crowdin first_photoset_set11_23bc6a3a:
 msgid "[Max_07]{m}Это было намного лучше, чем ничего! Может, в следующий раз, мне обломится куда больше...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Era molto meglio di niente! Forse la prossima volta, scomporrò molto di più ... {/m}"
 
 # game/dialogues/kiratalk.rpy:630## # translate crowdin kira_about_photo1_406e9eeb:
 msgid "[Kira_04]А, Макс. Я сразу отправила фотографии своему знакомому и он сказал, что его всё устраивает. Фокус отличный, ракурс тоже. Так что, я бы ещё раз обратилась к тебе за помощью, если ты не против..."
@@ -850,7 +850,7 @@ msgstr "[Max_09]Oh, devi fare tutto da solo..."
 
 # game/dialogues/kiratalk.rpy:649## # translate crowdin kira_about_photo1_b4990165:
 msgid "[Max_19]{m}Интересно, когда будет следующая фотосессия? Мне уже не терпится перейти на новый уровень близости с тётей! Вот я бы её хорошенько...{/m}"
-msgstr ""
+msgstr "[Max_19]{m}chiedo quando sarà il prossimo servizio fotografico? Non vedo l'ora di prendere più intimità con mia zia! Mi piacerebbe averlo... {/m}"
 
 # game/dialogues/kiratalk.rpy:653## # translate crowdin kira_about_photo1_36196eca:
 msgid "[Kira_04]Не паникуй, Макс, это всего лишь я. Стало как-то слишком жарко... Ты же ведь не против моей компании?"
@@ -886,11 +886,11 @@ msgstr "[Max_02]Certo, zia Kira!"
 
 # game/dialogues/kiratalk.rpy:678## # translate crowdin kira_about_photo1_cc5f81d9:
 msgid "[Max_20]{m}Ох, как она сосёт... Да так глубоко... Похоже, у неё чёрный пояс по минету! Блин, я уже на грани... Вот-вот и кончу... Отпадно!{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_20]{m}Oh, come fa schifo... Sì, così profondamente... Sembra che abbia una cintura nera per un pompino! Accidenti, sono sull'orlo del... Sto per finire... Otpadno! {/m}[nointeract]"
 
 # game/dialogues/kiratalk.rpy:683## # translate crowdin kira_about_photo1_f17ba8ca:
 msgid "[Max_22]{m}Да... Я кончаю... Прямо ей в рот! О боже... Она так смачно посасывает головку моего члена... Вот это отсос, так отсос! Кажется, это самое офигенное развлечение в мире!{/m}"
-msgstr ""
+msgstr "[Max_22]{m}sì... Sto cumming... Proprio nella sua bocca! Oh Signore... Lei succhia la testa del mio così bagnato... Questo è schifo, quindi schifo! Sembra essere l'intrattenimento più impressionante del mondo! {/m}"
 
 # game/dialogues/kiratalk.rpy:686## # translate crowdin kira_about_photo1_74184a9e:
 msgid "[Kira_05]Ну вот. Понравилось? И ни капли мимо..."
@@ -1022,7 +1022,7 @@ msgstr "[Max_01]Va bene, sto aspettando."
 
 # game/dialogues/kiratalk.rpy:775## # translate crowdin kira_about_photo2_6d3909b3:
 msgid "[Max_04]{m}Верёвки и кожа - это интересно! А ещё интереснее то, насколько далеко мне удастся зайти с тётей Кирой во время этой фотосессии...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Corde e pelle - è interessante! E ancora più interessante è quanto lontano potrò andare con zia Kira durante questo servizio fotografico... {/m}[nointeract]"
 
 # game/dialogues/kiratalk.rpy:780## # translate crowdin kira_about_photo2_e610eb0a:
 msgid "[Kira_06]Ну, как тебе мой наряд? Уже не жалеешь, что столько ждал у двери?"
@@ -1034,11 +1034,11 @@ msgstr "[Max_05]Cosa sei, zia Kira... Sembri stupendo!"
 
 # game/dialogues/kiratalk.rpy:788## # translate crowdin kira_about_photo2_e874cd9d:
 msgid "[Max_03]{m}Ого! Вот это не дурно тётя Кира принаряжается! Надеюсь, она меня не заметит, а то... Хотя, о чём это я?! Это же Кира! Её это даже заводит...{/m}"
-msgstr ""
+msgstr "[Max_03]{m}'s ow! Non è male zia Kira che si veste! Spero che non si accorga di me, o poi... Anche se, di cosa sto parlando?! È Kira! La accende anche... {/m}"
 
 # game/dialogues/kiratalk.rpy:792## # translate crowdin kira_about_photo2_abc39f12:
 msgid "[Max_07]{m}Ну прямо всё самое интересное закрывает этим кожаным костюмом... Хотя, мне же интереснее будет её раздевать! Мне кажется или она как-то слишком эротично одевается?{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Beh, proprio tutto il divertimento si chiude con questo abito in pelle... Anche se, sono più interessato a spogliarla! Penso o si veste troppo eroticamente? {/m}"
 
 # game/dialogues/kiratalk.rpy:796## # translate crowdin kira_about_photo2_14506dda:
 msgid "[Kira_06]Думаешь, я не заметила, как ты подглядываешь? Именно этого я и ожидала от тебя. Ну, как тебе мой наряд?"
@@ -1222,19 +1222,19 @@ msgstr "[Kira_01]È un po' più complicato di quanto pensi. E perché non ammett
 
 # game/dialogues/kiratalk.rpy:1019## # translate crowdin kira_about_ann_secret0_475d1a3d:
 msgid "[Max_07]Она вытворяет вещи, которые до Эрика, никогда не стала бы делать! Ты видимо не знаешь, но Эрик напрямую мне заявил, что намерен трахать не только маму, но и моих сестёр!"
-msgstr ""
+msgstr "[Max_07]Sta facendo cose che non avrebbe mai fatto prima di Eric! A quanto pare non lo sai, ma Eric mi ha detto direttamente che avrebbe scopato non solo mia madre, ma anche le mie sorelle!"
 
 # game/dialogues/kiratalk.rpy:1020## # translate crowdin kira_about_ann_secret0_0767af53:
 msgid "[Kira_13]О как! Этого я действительно не знала... Тогда дела и правда плохи!"
-msgstr ""
+msgstr "[Kira_13]Oh come! Davvero non lo sapevo... Allora le cose vanno davvero male!"
 
 # game/dialogues/kiratalk.rpy:1021## # translate crowdin kira_about_ann_secret0_d8eb099b:
 msgid "[Max_10]Вот-вот. И я понятия не имею, как повлиять на маму! Она вся в его власти. Ты как, хочешь жить в месте, где все делают то, что пожелает Эрик? А скоро так и будет, если ничего не делать..."
-msgstr ""
+msgstr "[Max_10]per andare. E non ho idea di come influenzare mia madre! Lei è tutta in suo potere. Vuoi vivere in un posto dove tutti fanno quello che Eric vuole? E presto lo sarà, se non si fa nulla..."
 
 # game/dialogues/kiratalk.rpy:1022## # translate crowdin kira_about_ann_secret0_57f3cd2a:
 msgid "[Kira_13]Ты прав, такого я не хочу... Я догадываюсь, что с твоей мамой. Но это наш с ней большой секрет, точнее, скорее её секрет. И я не уверена, что могу тебе рассказать..."
-msgstr ""
+msgstr "[Kira_13]hai ragione, non lo voglio... Immagino che sia con tua madre. Ma questo è il nostro grande segreto con lei, o meglio, piuttosto il suo segreto. E non sono sicuro di potervelo dire..."
 
 # game/dialogues/kiratalk.rpy:1023## # translate crowdin kira_about_ann_secret0_881c3cb4:
 msgid "[Max_07]О чём? Что за секрет?"
@@ -1482,15 +1482,15 @@ msgstr "[Max_01]Sì, grazie per il consiglio!"
 
 # game/dialogues/kiratalk.rpy:1124## # translate crowdin story_from_childhood_ann_4b0dc04b:
 msgid "[Max_09]{m}Если я буду проводить с мамой больше времени вместе, то может быть и от Эрика будет не так уж сложно избавиться?! Главное, не вести себя по идиотски с ней... И про сестёр нужно не забывать, хорошие и доверительные отношения с ними тоже могут мне помочь. По-моему, мама каждое утро занимается йогой. Пожалуй, стоит попробовать составить ей компанию...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Se passo più tempo con mia madre insieme, forse Eric non sarà così difficile da eliminare?! La cosa principale è non comportarsi in modo idiota con lei... E non dobbiamo dimenticare le sorelle, un rapporto buono e fiducioso con loro può anche aiutarmi. Penso che mia madre faccia yoga ogni mattina. Forse dovresti cercare di farle compagnia... {/m}"
 
 # game/dialogues/kiratalk.rpy:1135## # translate crowdin kira_about_photo3_0_c209e467:
 msgid "[Kira_05]Что, Макс, так не терпится увидеть свою тётю в непристойном виде?"
-msgstr ""
+msgstr "[Kira_05]Cosa, Max, non vede l'ora di vedere sua zia in modo osceno?"
 
 # game/dialogues/kiratalk.rpy:1136## # translate crowdin kira_about_photo3_0_29045eed:
 msgid "[Max_02]Ну почему сразу в непристойном? В крайне непристойном! И желательно поскорее..."
-msgstr ""
+msgstr "[Max_02]Beh, perché immediatamente osceno? Estremamente osceno! E preferibilmente il prima possibile..."
 
 # game/dialogues/kiratalk.rpy:1139## # translate crowdin kira_about_photo3_0_3e60d3b8:
 msgid "[Kira_07]Боже, какой же ты нетерпеливый, Макс! Терпение, мой мальчик... Думаю, мы с тобой по ночам уже достаточно порезвились, чтобы ты смог продержаться на этой фотосессии до самого конца."
@@ -1694,203 +1694,203 @@ msgstr "[Kira_02]Sì, Max, sono così! Ti dispiace di non aver sbirciato e di av
 
 # game/dialogues/kiratalk.rpy:1249## # translate crowdin kira_photoset3_79e4dfc7:
 msgid "[Max_04]Нисколько, тётя Кира... Ты просто обалденно выглядишь!"
-msgstr ""
+msgstr "[Max_04]Niente, zia Kira... Hai solo un aspetto fantastico!"
 
 # game/dialogues/kiratalk.rpy:1251## # translate crowdin kira_photoset3_3db22fb1:
 msgid "[Kira_05]Заходи в комнату. Теперь нужно подготовить к фотосессии тебя...[nointeract]"
-msgstr ""
+msgstr "[Kira_05]Entra nella stanza. Ora devi prepararti per un servizio fotografico...[nointeract]"
 
 # game/dialogues/kiratalk.rpy:1261## # translate crowdin kira_photoset3_993c772c:
 msgid "[Kira_07]Итак, Макс, поскольку фотографировать сегодня будешь не ты, твоё место именно здесь - быть привязанным на этой кровати."
-msgstr ""
+msgstr "[Kira_07]Quindi, Max, dal momento che non sei tu che fotograferai oggi, il tuo posto è qui per essere legato su questo letto."
 
 # game/dialogues/kiratalk.rpy:1262## # translate crowdin kira_photoset3_76e773e0:
 msgid "[Max_08]Что? Я буду... А ты?"
-msgstr ""
+msgstr "[Max_08]Cosa? Sarò... E tu?"
 
 # game/dialogues/kiratalk.rpy:1263## # translate crowdin kira_photoset3_996ceb9d:
 msgid "[Kira_04]Не бойся, я тоже здесь буду. Раздевайся и ложись. Сегодня развлечёмся от души."
-msgstr ""
+msgstr "[Kira_04]Non abbiate paura, sarò qui anche io. Spogliati e sdraiati. Oggi ci divertiremo con il cuore."
 
 # game/dialogues/kiratalk.rpy:1264## # translate crowdin kira_photoset3_e122c94d:
 msgid "[Max_07]Ну ладно, если так, то я готов..."
-msgstr ""
+msgstr "[Max_07]Ok, se è così, sono pronto..."
 
 # game/dialogues/kiratalk.rpy:1269## # translate crowdin kira_photoset3_951bde54:
 msgid "[Kira_05]Ну что, нигде не жмёт? Я надеюсь, ты не возражаешь, что я тебя привязала..."
-msgstr ""
+msgstr "[Kira_05]Beh, non fa clic da nessuna parte? Spero che non ti dispiaccia che ti ho legato..."
 
 # game/dialogues/kiratalk.rpy:1270## # translate crowdin kira_photoset3_7366b9f7:
 msgid "[Max_03]Самое время спрашивать такое, тётя Кира, но с такой красоткой, как ты, я на всё согласен!"
-msgstr ""
+msgstr "[Max_03]È ora di chiedere questo, zia Kira, ma con una bellezza come te, sono d'accordo con tutto!"
 
 # game/dialogues/kiratalk.rpy:1271## # translate crowdin kira_photoset3_786ac9ba:
 msgid "[Kira_06]Запомни эту красотку как следует, потому что больше ты ничего не увидишь."
-msgstr ""
+msgstr "[Kira_06]Ricorda bene questa bellezza, perché non vedrai nient'altro."
 
 # game/dialogues/kiratalk.rpy:1272## # translate crowdin kira_photoset3_a63c2d23:
 msgid "[Max_10]В смысле, не увижу?"
-msgstr ""
+msgstr "[Max_10]voglio dire, non vedrò?"
 
 # game/dialogues/kiratalk.rpy:1277## # translate crowdin kira_photoset3_89c8924f:
 msgid "[Kira_02]В том самом, мой мальчик! Вся фотосессия пройдёт для тебя в этой повязке. Это чтобы ты не застеснялся фотосъёмки..."
-msgstr ""
+msgstr "[Kira_02]In questo, ragazzo mio! L'intero servizio fotografico si terrà per te in questa benda. È così che non sei vincolato dalla fotografia ..."
 
 # game/dialogues/kiratalk.rpy:1278## # translate crowdin kira_photoset3_dac3cef7:
 msgid "[Max_09]Нуу... С повязкой на глазах, конечно, хуже, но... я готов потерпеть."
-msgstr ""
+msgstr "[Max_09]Nuu... Con una benda, ovviamente, peggio, ma... Sono disposto ad essere paziente."
 
 # game/dialogues/kiratalk.rpy:1279## # translate crowdin kira_photoset3_68ecebb7:
 msgid "[Kira_07]Потерпеть?! Неужели тебе не нравится, что твоя тётя села на тебя и чувствует, как в её попку упирается большой член?"
-msgstr ""
+msgstr "[Kira_07]Sii paziente?! Non ti piace che tua zia si sia seduta sopra di te e senta un grande riposo sul suo?"
 
 # game/dialogues/kiratalk.rpy:1280## # translate crowdin kira_photoset3_fe45addd:
 msgid "[Max_02]Нравится, и даже очень, просто видеть это было бы ещё лучше!"
-msgstr ""
+msgstr "[Max_02]piace, e anche molto, solo per vederlo sarebbe ancora meglio!"
 
 # game/dialogues/kiratalk.rpy:1281## # translate crowdin kira_photoset3_b20a3097:
 msgid "[Kira_05]Уверяю тебя, Макс, ты ни о чём не пожалеешь, к тому же, подобная интрига только усиливает возбуждение. С завязанными глазами все чувства обостряются."
-msgstr ""
+msgstr "[Kira_05]ti assicuro, Max, non ti pentirai di nulla, inoltre, tale intrigo aumenta solo l'eccitazione. Bendati, tutti i sentimenti sono affilati."
 
 # game/dialogues/kiratalk.rpy:1282## # translate crowdin kira_photoset3_b287dbfe:
 msgid "[Max_04]Это да..."
-msgstr ""
+msgstr "[Max_04]sì..."
 
 # game/dialogues/kiratalk.rpy:1288## # translate crowdin kira_photoset3_178c3eb8:
 msgid "[Kira_01]О... А вот и наш фотограф... Как раз вовремя. Проходи, чувствуй себя как дома..."
-msgstr ""
+msgstr "[Kira_01]Oh... Ed ecco il nostro fotografo... Giusto in tempo. Passa, sentiti a casa..."
 
 # game/dialogues/kiratalk.rpy:1289## # translate crowdin kira_photoset3_5a80b1a2:
 msgid "[Max_01]Привет! Я, Макс. А вы?"
-msgstr ""
+msgstr "[Max_01]Ciao! Io, Max. E tu?"
 
 # game/dialogues/kiratalk.rpy:1295## # translate crowdin kira_photoset3_6e6c2203:
 msgid "[Kira_02]Макс, ты не отвлекайся и представь, что здесь только мы с тобой вдвоём. А на то, что нас там кто-то снимает - не обращай внимания."
-msgstr ""
+msgstr "[Kira_02]Max, non distraerti e immagina che noi due siamo qui. E il fatto che qualcuno ci stia filmando lì - non prestare attenzione."
 
 # game/dialogues/kiratalk.rpy:1296## # translate crowdin kira_photoset3_df2acbeb:
 msgid "[Max_07]Ох... Ну ладно."
-msgstr ""
+msgstr "[Max_07]Oh... Ok."
 
 # game/dialogues/kiratalk.rpy:1297## # translate crowdin kira_photoset3_6a59296c:
 msgid "[Kira_05]Начнём... Нам предстоит сделать несколько снимков, на которых и ты, и я должны показать всю свою страсть!"
-msgstr ""
+msgstr "[Kira_05]Cominciamo... Dobbiamo scattare alcune foto in cui sia tu che io dobbiamo mostrare tutta la tua passione!"
 
 # game/dialogues/kiratalk.rpy:1298## # translate crowdin kira_photoset3_38334523:
 msgid "[Max_09]Я постараюсь, но... не знаю, как это сделать, будучи связанным."
-msgstr ""
+msgstr "[Max_09]ci proverò, ma... Non so come farlo pur essendo legato."
 
 # game/dialogues/kiratalk.rpy:1304## # translate crowdin kira_photoset3_ea3ab740:
 msgid "[Kira_06]Ну, да... Здесь нужна поправка. Это я должна показать всю свою страсть. А твоя задача - её выдержать и не кончить раньше времени."
-msgstr ""
+msgstr "[Kira_06]Beh, sì... E' necessario un emendamento. Sta a me mostrare tutta la mia passione. E il tuo compito è resistere e non finire in anticipo."
 
 # game/dialogues/kiratalk.rpy:1305## # translate crowdin kira_photoset3_1c75271f:
 msgid "[Max_03]Пока это проще простого. Я даже не особо возбудился..."
-msgstr ""
+msgstr "[Max_03]È così semplice. Non ero nemmeno particolarmente eccitato..."
 
 # game/dialogues/kiratalk.rpy:1312## # translate crowdin kira_photoset3_65d2418d:
 msgid "[Kira_07]Это потому что ты не видишь, как я прямо сейчас стою над тобой и медленно... и красиво... {p=1.5}{nw}"
-msgstr ""
+msgstr "[Kira_07]È perché non riesci a vedermi in piedi sopra di te in questo momento e lentamente ... e bellissima... {p=1.5}{nw}"
 
 # game/dialogues/kiratalk.rpy:1314## # translate crowdin kira_photoset3_b3251128:
 msgid "[extend]стягиваю с себя те блестящие трусики, которые ты видел..."
-msgstr ""
+msgstr "[extend]togli quelle mutandine lucide che hai visto..."
 
 # game/dialogues/kiratalk.rpy:1315## # translate crowdin kira_photoset3_4b50b734:
 msgid "[Max_02]Хорошо, что я могу это хотя бы представить..."
-msgstr ""
+msgstr "[Max_02]È un bene che io possa almeno immaginare questo..."
 
 # game/dialogues/kiratalk.rpy:1322## # translate crowdin kira_photoset3_1d01b95a:
 msgid "[Kira_02]Ну, а теперь, приступим к самому главному... Не помню, говорила я тебе или нет, но наша прошлая фотосессия произвела настоящий фурор..."
-msgstr ""
+msgstr "[Kira_02]Bene, ora, passiamo alla cosa più importante... Non ricordo se te l'ho detto o no, ma il nostro ultimo servizio fotografico ha fatto un vero splash..."
 
 # game/dialogues/kiratalk.rpy:1323## # translate crowdin kira_photoset3_e8358619:
 msgid "[Max_07]Даже так?"
-msgstr ""
+msgstr "[Max_07]Anche così?"
 
 # game/dialogues/kiratalk.rpy:1325## # translate crowdin kira_photoset3_6992bca7:
 msgid "[Kira_04]Да, Макс. Я ещё до неё хотела, чтобы ты меня трахнул, но подумала, что это должно произойти как-то... необычно... А теперь, я подумала, что было весьма неплохо снять её продолжение, где мы меняемся местами. Тем более, что это могло бы принести неплохие деньги."
-msgstr ""
+msgstr "[Kira_04]Sì, Max. Volevo che tu mi scopassi prima di lei, ma pensavo che dovesse succedere in qualche modo... insolitamente... E ora, ho pensato che fosse abbastanza bello fare un sequel in cui ci scambiamo di posto. Inoltre, potrebbe portare buoni soldi."
 
 # game/dialogues/kiratalk.rpy:1326## # translate crowdin kira_photoset3_88946752:
 msgid "[Max_03]Ничего себе... Так я в доле?"
-msgstr ""
+msgstr "[Max_03]Wow... Quindi sono nella condivisione?"
 
 # game/dialogues/kiratalk.rpy:1332## # translate crowdin kira_photoset3_723ef05a:
 msgid "[Kira_07]А разве тебе не достаточно того, что ты вытворяешь со мной на этих фотосессиях?!"
-msgstr ""
+msgstr "[Kira_07]Non ne hai abbastanza di quello che fai con me in questi servizi fotografici?!"
 
 # game/dialogues/kiratalk.rpy:1333## # translate crowdin kira_photoset3_9bcf82e6:
 msgid "[Max_07]Ну... Сейчас я как раз таки ничего и не вытворяю!"
-msgstr ""
+msgstr "[Max_07]Beh... Non sto facendo nulla in questo momento!"
 
 # game/dialogues/kiratalk.rpy:1334## # translate crowdin kira_photoset3_9fa6c5f4:
 msgid "[Kira_06]Ммм... Это ты верно подметил. Это я совсем потеряла голову, привязала своего племянника к кровати его матери и играюсь своим нежным язычком с его пульсирующим от возбуждения членом!"
-msgstr ""
+msgstr "[Kira_06]Mmm... L'hai notato correttamente. Sono stato io a perdere completamente la testa, ho legato mio nipote al letto di sua madre e ho giocato con la mia tenera lingua con il suo palpitare di eccitazione!"
 
 # game/dialogues/kiratalk.rpy:1335## # translate crowdin kira_photoset3_01f1527f:
 msgid "[Max_04]Ох... А как приятно... Только вот..."
-msgstr ""
+msgstr "[Max_04]Oh... E che bello... Solo qui..."
 
 # game/dialogues/kiratalk.rpy:1342## # translate crowdin kira_photoset3_b53667ec:
 msgid "[Kira_03]Я делаю что-то не так, Макс? {p=1.5}{nw}"
-msgstr ""
+msgstr "[Kira_03]Sto facendo qualcosa di sbagliato, Max? {p=1.5}{nw}"
 
 # game/dialogues/kiratalk.rpy:1344## # translate crowdin kira_photoset3_f26895a9:
 msgid "[extend]Ты можешь сказать, как тебе больше нравится..."
-msgstr ""
+msgstr "[extend]Puoi dirmi quanto ti piace..."
 
 # game/dialogues/kiratalk.rpy:1345## # translate crowdin kira_photoset3_fd10fafc:
 msgid "[Max_09]Нет, всё так... Просто меня ещё немного смущает моё положение и то, что фотографирую не я..."
-msgstr ""
+msgstr "[Max_09]No, è così... È solo che sono un po' confuso dalla mia posizione e dal fatto che non sto fotografando..."
 
 # game/dialogues/kiratalk.rpy:1346## # translate crowdin kira_photoset3_020b2ea4:
 msgid "[Kira_02]Вот значит в чём дело... Видимо, я действую недостаточно отвлекающе, раз ты обращаешь внимание на подобные мелочи."
-msgstr ""
+msgstr "[Kira_02]Questo è il punto... Apparentemente, non sto agendo abbastanza distraente, dal momento che presti attenzione a tali sciocchezze."
 
 # game/dialogues/kiratalk.rpy:1347## # translate crowdin kira_photoset3_a8ed8e48:
 msgid "[Max_01]Вовсе нет..."
-msgstr ""
+msgstr "[Max_01]Niente affatto..."
 
 # game/dialogues/kiratalk.rpy:1353## # translate crowdin kira_photoset3_8560116e:
 msgid "[Kira_05]Я так думаю, чтобы отвлечь тебя от разных посторонних мыслей мне нужно несколько углубить процесс и... заняться твоим членом по-настоящему. Ты ведь не будешь против?"
-msgstr ""
+msgstr "[Kira_05]penso di sì, per distrarti da vari pensieri estranei, ho bisogno di approfondire un po 'il processo e ... prenditi cura di te per davvero. Non ti dispiacerebbe, vero?"
 
 # game/dialogues/kiratalk.rpy:1354## # translate crowdin kira_photoset3_d0ec3c2d:
 msgid "[Max_03]О, нет... Такое только приветствуется!"
-msgstr ""
+msgstr "[Max_03]Oh, no... Questo è il benvenuto!"
 
 # game/dialogues/kiratalk.rpy:1355## # translate crowdin kira_photoset3_14aeb79a:
 msgid "[Kira_09]Я так и подумала... Ммм... Он такой напряжённый... О да! Я чувствую, что тебе нравится то, как смачно и медленно я это делаю..."
-msgstr ""
+msgstr "[Kira_09]pensavo di sì... Mmm... È così teso... Oh sì! Mi sento come se ti piacesse quanto sia saporito e lento lo faccio..."
 
 # game/dialogues/kiratalk.rpy:1357## # translate crowdin kira_photoset3_3cc83653:
 msgid "[Max_19]Охх... Тётя Кира, твои губы... они... такие..."
-msgstr ""
+msgstr "[Max_19]oh... Zia Kira, le tue labbra... essi... tale..."
 
 # game/dialogues/kiratalk.rpy:1362## # translate crowdin kira_photoset3_b837cd37:
 msgid "[Kira_06]Судя по тому, что читается в глазах моей подруги, ей тоже нравится, как мои губы обхаживают твой член... Ммм..."
-msgstr ""
+msgstr "[Kira_06]A giudicare da ciò che si legge negli occhi della mia amica, le piace anche il modo in cui le mie labbra scodinzolano... Mmm..."
 
 # game/dialogues/kiratalk.rpy:1363## # translate crowdin kira_photoset3_3356e093:
 msgid "[Max_20]О да... Только не торопись..."
-msgstr ""
+msgstr "[Max_20]Oh sì... Prenditi il tuo tempo..."
 
 # game/dialogues/kiratalk.rpy:1370## # translate crowdin kira_photoset3_7f0a1c51:
 msgid "[Max_21]О, Господи... Если фотографии получатся не такими же сочными, как твой минет, тётя Кира... {p=1.5}{nw}"
-msgstr ""
+msgstr "[Max_21]Oh mio Dio... Se le foto non sono succose come la tua, zia Kira... {p=1.5}{nw}"
 
 # game/dialogues/kiratalk.rpy:1372## # translate crowdin kira_photoset3_34802b52:
 msgid "[extend]Ухх... Твою подругу придётся хорошенько отшлёпать!"
-msgstr ""
+msgstr "[extend]Uhh La tua ragazza dovrà sculacciare bene!"
 
 # game/dialogues/kiratalk.rpy:1378## # translate crowdin kira_photoset3_2e774034:
 msgid "[Kira_08]Не знаю, что заводит меня больше, твой упругий член, только что побывавший у меня во рту или фантазии о том, что мы тут втроём могли бы устроить..."
-msgstr ""
+msgstr "[Kira_08]non so cosa mi accomoda di più, la tua ditta che mi è appena stata in bocca o le fantasie che noi tre potremmo organizzare qui ..."
 
 # game/dialogues/kiratalk.rpy:1379## # translate crowdin kira_photoset3_da5fc595:
 msgid "[Max_05]Ого! От такого я не откажусь..."
-msgstr ""
+msgstr "[Max_05]'s ow! Non mi arrenderò a questo..."
 
 # game/dialogues/kiratalk.rpy:1380## # translate crowdin kira_photoset3_967cfe2e:
 msgid "[Kira_07]Я в этом не сомневалась, но для начала я бы на месте моей подруги сделала снимок того, как классно мы смотримся, когда я трусь грудью о твой член. Или не стоит, как думаешь, Макс?"
