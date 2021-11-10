@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-04 13:23\n"
+"PO-Revision-Date: 2021-11-10 10:38\n"
 
 # game/events/lisa.rpy:26## # translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -300,203 +300,203 @@ msgstr "[Lisa_09]Come faccio a sapere cosa hai visto e cosa non hai visto? Ad og
 
 # game/events/lisa.rpy:879## # translate crowdin lisa_dressed_moment0_930f8d87:
 msgid "[Lisa_02]Вот представь, ну никак не могу! Стесняюсь. А переодеться надо. Так что, можно я спокойно это сделаю? И без свидетелей...[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Non riesco a immaginare! Timido. E devi cambiare i vestiti. Quindi posso farlo in sicurezza? E senza testimoni...[nointeract]"
 
 # game/events/lisa.rpy:883## # translate crowdin lisa_dressed_moment0_a9de2a0b:
 msgid "[Lisa_01]И сдался он тебе прямо сейчас? Я же не буду одеваться целый час.[nointeract]"
-msgstr ""
+msgstr "[Lisa_01]E si è arreso a te proprio ora? Non ho intenzione di vestirmi per un'ora.[nointeract]"
 
 # game/events/lisa.rpy:885## # translate crowdin lisa_dressed_moment0_ce7b5650:
 msgid "[Lisa_01]Ну забирай, если он тебе так нужен. А так, я недолго буду одеваться, можешь подождать...[nointeract]"
-msgstr ""
+msgstr "[Lisa_01]Bene, toglilo se ne hai bisogno così tanto. E così, non ho intenzione di vestirmi a lungo, puoi aspettare...[nointeract]"
 
 # game/events/lisa.rpy:890## # translate crowdin lisa_dressed_moment0_4671244c:
 msgid "[Lisa_01]Спасибо, Макс. Я быстренько![nointeract]"
-msgstr ""
+msgstr "[Lisa_01]Grazie, Max. Sono veloce![nointeract]"
 
 # game/events/lisa.rpy:903## # translate crowdin lisa_dressed_stay_in_room_9edd3eac:
 msgid "[Lisa_00]Макс, мне нужно переодеться. Будь добр, погуляй немного или отвернись...[nointeract]"
-msgstr ""
+msgstr "[Lisa_00]Max, devo cambiare i vestiti. Sii gentile, fai una passeggiata o allontanati...[nointeract]"
 
 # game/events/lisa.rpy:908## # translate crowdin lisa_dressed_stay_in_room_769644c1:
 msgid "[Lisa]{b}Лиза:{/b} Я быстро... Главное, не подглядывай! Надеюсь, тебе это по силам...[nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} Sono veloce... Soprattutto, non sbirciare! Spero che tu possa farlo...[nointeract]"
 
 # game/events/lisa.rpy:910## # translate crowdin lisa_dressed_stay_in_room_08276951:
 msgid "[Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени...[nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} E non fregiamo niente! Non ci vorrà molto...[nointeract]"
 
 # game/events/lisa.rpy:912## # translate crowdin lisa_dressed_stay_in_room_cdba7705:
 msgid "[Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста![nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} E vorrei che tu cercassi di non sbirciare... So che è difficile, ma per favore![nointeract]"
 
 # game/events/lisa.rpy:936## # translate crowdin lisa_dressed_moment2_8183fb49:
 msgid "[Lisa_11]Макс! Я не одета!!! {p=3}{nw}"
-msgstr ""
+msgstr "[Lisa_11]Max! Non sono vestito!!! {p=3}{nw}"
 
 # game/events/lisa.rpy:942## # translate crowdin lisa_dressed_moment2_0caabb4b:
 msgid "[Lisa_14]Быстро закрой дверь с той стороны и не входи, пока я не переоденусь![nointeract]"
-msgstr ""
+msgstr "[Lisa_14]Chiudi rapidamente la porta dall'altra parte e non entrare fino a quando non mi cambio i vestiti![nointeract]"
 
 # game/events/lisa.rpy:945## # translate crowdin lisa_dressed_moment2_b3661128:
 msgid "[Lisa_13]Выйди и закрой за собой дверь! Мне нужно переодеться![nointeract]"
-msgstr ""
+msgstr "[Lisa_13]Esci e chiudi la porta dietro di te! Devo cambiare i vestiti![nointeract]"
 
 # game/events/lisa.rpy:948## # translate crowdin lisa_dressed_moment2_06742870:
 msgid "[Lisa_10]Выйди, пожалуйста, чтобы я могла переодеться! И дверь за собой закрой![nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Per favore, esci così posso cambiare i vestiti! E chiudi la porta dietro di te![nointeract]"
 
 # game/events/lisa.rpy:959## # translate crowdin lisa_dressed_moment1_ab3e5dbc:
 msgid "[Lisa_11]Макс! Я не одета!!! Быстро закрой дверь с той стороны и не входи, пока я не переоденусь![nointeract]"
-msgstr ""
+msgstr "[Lisa_11]Max! Non sono vestito!!! Chiudi rapidamente la porta dall'altra parte e non entrare fino a quando non mi cambio i vestiti!"
 
 # game/events/lisa.rpy:962## # translate crowdin lisa_dressed_moment1_f9a4cf77:
 msgid "[Lisa_11]Макс! Я не одета!!! Выйди и закрой за собой дверь! Мне нужно переодеться![nointeract]"
-msgstr ""
+msgstr "[Lisa_11]Max! Non sono vestito!!! Esci e chiudi la porta dietro di te! Devo cambiare i vestiti![nointeract]"
 
 # game/events/lisa.rpy:965## # translate crowdin lisa_dressed_moment1_bf8db93b:
 msgid "[Lisa_11]Макс! Я не одета!!! Выйди, пожалуйста, чтобы я могла переодеться! И дверь за собой закрой![nointeract]"
-msgstr ""
+msgstr "[Lisa_11]Max! Non sono vestito!!! Per favore, esci così posso cambiare i miei vestiti! E chiudi la porta dietro di te![nointeract]"
 
 # game/events/lisa.rpy:972## # translate crowdin lisa_dressed_lvl_1_b2616dcb:
 msgid "[Lisa_12]Что?! Если не уйдёшь, то я всё маме расскажу![nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Cosa?! Se non te ne vai, dirò tutto a mia madre![nointeract]"
 
 # game/events/lisa.rpy:976## # translate crowdin lisa_dressed_lvl_1_b2616dcb_1:
 msgid "[Lisa_12]Что?! Если не уйдёшь, то я всё маме расскажу![nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Cosa?! Se non te ne vai, dirò tutto a mia madre![nointeract]"
 
 # game/events/lisa.rpy:979## # translate crowdin lisa_dressed_lvl_1_10a5c581:
 msgid "[Lisa_12]Макс! Я ведь маме на тебя нажалуюсь, если не уйдёшь![nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Max! Mi lamenterò con mia mamma se non te ne vai![nointeract]"
 
 # game/events/lisa.rpy:982## # translate crowdin lisa_dressed_lvl_1_4d33062b:
 msgid "[Lisa_13]Ну и долго ты ещё пялиться на меня будешь?! Выйди и подожди за дверью. Пожалуйста!"
-msgstr ""
+msgstr "[Lisa_13]Beh, per quanto tempo mi fisserai?! Esci e aspetta fuori dalla porta. Prego!"
 
 # game/events/lisa.rpy:988## # translate crowdin lisa_dressed_lvl_2_366df3c4:
 msgid "[Lisa_10]Не надо меня тут комплиментами одаривать, чтобы подольше поглазеть! Или хочешь, чтобы я маме об этом рассказала?[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Non farmi complimenti qui per dare più tempo! O vuoi che lo dica a mia madre?[nointeract]"
 
 # game/events/lisa.rpy:991## # translate crowdin lisa_dressed_lvl_2_0fe7cd3f:
 msgid "[Lisa_10]А вот не надо на неё так глазеть! Я ведь и маме всё могу рассказать, если не уйдёшь.[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Ma non fissarla così! Dopotutto, posso dire tutto a mia madre se non te ne vai.[nointeract]"
 
 # game/events/lisa.rpy:994## # translate crowdin lisa_dressed_lvl_2_0d3512aa:
 msgid "[Lisa_10]Ну, Макс! Дай переодеться спокойно... Пожалуйста! Или мне маме пожаловаться?[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Bene, Max! Cambiamo i vestiti in tutta tranquillità... Prego! O dovrei lamentarmi con mia madre?[nointeract]"
 
 # game/events/lisa.rpy:999## # translate crowdin lisa_dressed_lvl_2_766601ad:
 msgid "[Lisa_09]Ну и долго ты ещё пялиться на меня будешь?! Выйди и подожди. Я недолго...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Beh, per quanto tempo mi fisserai?! Esci e aspetta. Non sono lungo...[nointeract]"
 
 # game/events/lisa.rpy:1006## # translate crowdin lisa_dressed_lvl_3_9f4e5577:
 msgid "[Lisa_01]Ты, видимо, только об этом и мечтаешь... Но нечего глазеть, как я одеваюсь! Лучше займи себя чем-нибудь полезным..."
-msgstr ""
+msgstr "[Lisa_01]Sembra che tu lo stia sognando... Ma non c'è niente da guardare come mi vesto! Meglio occuparsi di qualcosa di utile..."
 
 # game/events/lisa.rpy:1007## # translate crowdin lisa_dressed_lvl_3_f073ff95:
 msgid "[Max_02]Как раз это и делаю..."
-msgstr ""
+msgstr "[Max_02]Questo è quello che sto facendo..."
 
 # game/events/lisa.rpy:1008## # translate crowdin lisa_dressed_lvl_3_01edfdc0:
 msgid "[Lisa_09]Ну, Макс![nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Bene, Max![nointeract]"
 
 # game/events/lisa.rpy:1012## # translate crowdin lisa_dressed_lvl_3_53bb992b:
 msgid "[Lisa_01]Думаешь, она у меня такая, чтобы тебя постоянно радовать? А вот и нет! Дай одеться спокойно..."
-msgstr ""
+msgstr "[Lisa_01]Pensi che ce l'abbia per farti piacere tutto il tempo? Ed eccolo qui! Vestiamoci tranquillamente..."
 
 # game/events/lisa.rpy:1013## # translate crowdin lisa_dressed_lvl_3_f331a21c:
 msgid "[Max_02]Ага, сейчас. Только ещё немного полюбуюсь..."
-msgstr ""
+msgstr "[Max_02]sì, ora. Solo un po' più ammirando..."
 
 # game/events/lisa.rpy:1014## # translate crowdin lisa_dressed_lvl_3_01edfdc0_1:
 msgid "[Lisa_09]Ну, Макс![nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Bene, Max![nointeract]"
 
 # game/events/lisa.rpy:1017## # translate crowdin lisa_dressed_lvl_3_aa58b1e2:
 msgid "[Lisa_01]Ну ничего, Макс, ничего... Я скоро уйду и ты сможешь вдоволь поплакать. Сильно расстроился?"
-msgstr ""
+msgstr "[Lisa_01]Beh, niente, Max, niente... Sarò via presto e sarai in grado di piangere abbastanza. Molto arrabbiato?"
 
 # game/events/lisa.rpy:1018## # translate crowdin lisa_dressed_lvl_3_8cdcdb2c:
 msgid "[Max_02]Нет. Как представляю, что я тут пропустил - сразу приятно становится."
-msgstr ""
+msgstr "[Max_02]No. Come immagino cosa mi sono perso qui - diventa immediatamente piacevole."
 
 # game/events/lisa.rpy:1019## # translate crowdin lisa_dressed_lvl_3_ab614b1d:
 msgid "[Lisa_09]Ну, Макс!"
-msgstr ""
+msgstr "[Lisa_09]Bene, Max!"
 
 # game/events/lisa.rpy:1022## # translate crowdin lisa_dressed_lvl_3_1e3411b7:
 msgid "[Lisa_13]Ты! Ничего! Не видел! Понял? И хватит на меня глазеть с таким довольным лицом... Выйди и подожди за дверью![nointeract]"
-msgstr ""
+msgstr "[Lisa_13]Tu! Non c'è problema! Non l'ho visto! Ho capito? E smettila di fissarmi con una faccia così felice... Esci e aspetta fuori dalla porta![nointeract]"
 
 # game/events/lisa.rpy:1027## # translate crowdin lisa_dressed_lvl_3_fd7a8374:
 msgid "[Lisa_01]Спасибо. Но давай ты не будешь пялиться и подождёшь за дверью, я недолго... Хорошо?"
-msgstr ""
+msgstr "[Lisa_01]Grazie. Ma non fissiamo e aspettiamo fuori dalla porta, non sono lungo... Ok?"
 
 # game/events/lisa.rpy:1028## # translate crowdin lisa_dressed_lvl_3_fb1e1d49:
 msgid "[Max_04]А может повторим? Мне понравилось..."
-msgstr ""
+msgstr "[Max_04]Possiamo ripetere? Mi è piaciuto..."
 
 # game/events/lisa.rpy:1029## # translate crowdin lisa_dressed_lvl_3_b98d244b:
 msgid "[Lisa_02]Макс, займись чем-нибудь путным.[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Max, fai qualcosa.[nointeract]"
 
 # game/events/lisa.rpy:1039## # translate crowdin lisa_dressed_try_to_peek_b3342fcc:
 msgid "[Max_05][lucky!t]{m}Повезло! Лиза не видит, что я подглядываю... Ещё совсем юная, но уже такая сексуальная! Обожаю её...{/m}"
-msgstr ""
+msgstr "[Max_05][fortunato!t]{m}fortunato! Lisa non mi vede sbirciare... Ancora giovanissima, ma già così sexy! Mi piace un sacco... {/m}"
 
 # game/events/lisa.rpy:1041## # translate crowdin lisa_dressed_try_to_peek_274e1029:
 msgid "[Max_05][lucky!t]{m}Класс! Кажется, она не видит, что я подглядываю... Очень сложно оторвать взгляд от этих соблазнительных изгибов её фигуры, но надо...{/m}"
-msgstr ""
+msgstr "[Max_05][fortunato!t]{m}Class! Non sembra vedermi sbirciare... È molto difficile distogliere gli occhi da queste curve seducenti della sua figura, ma è necessario ... {/m}"
 
 # game/events/lisa.rpy:1043## # translate crowdin lisa_dressed_try_to_peek_6614903d:
 msgid "[Max_05][lucky!t]{m}Моя сестрёнка такая сладенькая! Как же мне повезло жить с такой классной девочкой в одной комнате и каждый день наслаждаться её голыми прелестями...{/m}"
-msgstr ""
+msgstr "[Max_05][fortunato!t]{m}Mia sorella è così dolce! Quanto sono fortunato a vivere con una ragazza così cool nella stessa stanza e godermi il suo fascino nudo ogni giorno ... {/m}"
 
 # game/events/lisa.rpy:1051## # translate crowdin lisa_dressed_try_to_peek_1ae137e9:
 msgid "[Lisa_11][spotted!t]Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?![nointeract]"
-msgstr ""
+msgstr "[Lisa_11][spotted!t]Max! Ho chiesto di non sbirciare! Bene, allontanati velocemente... Ancora una volta lo farai e dirò tutto a mia madre! Ho capito?![nointeract]"
 
 # game/events/lisa.rpy:1054## # translate crowdin lisa_dressed_try_to_peek_b99743fe:
 msgid "[Lisa_11][spotted!t]Ну, Макс! Прекращай подглядывать! Если не отвернёшься или ещё раз такое выкинешь, я на тебя маме нажалуюсь... Тебе ясно?![nointeract]"
-msgstr ""
+msgstr "[Lisa_11][spotted!t] Beh, Max! Smetti di sbirciare! Se non ti allontani o non lo butti fuori di nuovo, mi lamenterò di te con mia madre... Ti è chiaro?![nointeract]"
 
 # game/events/lisa.rpy:1056## # translate crowdin lisa_dressed_try_to_peek_2ba94453:
 msgid "[Lisa_11][spotted!t]Опять ты подглядываешь! И не стыдно тебе?! Делать тебе больше нечего, только глазеть, как я переодеваюсь... Прекращай![nointeract]"
-msgstr ""
+msgstr "[Lisa_11][spotted!t] Stai sbirciando di nuovo! E non vergognarti di te?! Non hai nient'altro da fare, basta fissare come cambio i vestiti... Fermarsi![nointeract]"
 
 # game/events/lisa.rpy:1059## # translate crowdin lisa_dressed_try_to_peek_d37ef64c:
 msgid "[Lisa_12]Подумаешь, я сильно на тебя обижусь и больше разговаривать не буду..."
-msgstr ""
+msgstr "[Lisa_12]Pensaci, sarò molto ferito da te e non parlerò più..."
 
 # game/events/lisa.rpy:1060## # translate crowdin lisa_dressed_try_to_peek_ff32bf71:
 msgid "[Max_08]Всё, я отвернулся!"
-msgstr ""
+msgstr "[Max_08]Questo è tutto, mi sono allontanato!"
 
 # game/events/lisa.rpy:1062## # translate crowdin lisa_dressed_try_to_peek_e97eac0d:
 msgid "[Lisa_10]А я вот стесняюсь! И перестань на меня так глазеть! А то я Алису попрошу, чтобы она тебя отпинала..."
-msgstr ""
+msgstr "[Lisa_10]E sono imbarazzato! E smettila di fissarmi così! Altro che chiederò ad Alice di darti il calcio d'inizio..."
 
 # game/events/lisa.rpy:1063## # translate crowdin lisa_dressed_try_to_peek_ff32bf71_1:
 msgid "[Max_08]Всё, я отвернулся!"
-msgstr ""
+msgstr "[Max_08]Questo è tutto, mi sono allontanato!"
 
 # game/events/lisa.rpy:1067## # translate crowdin lisa_dressed_try_to_peek_470a2396:
 msgid "[Lisa_13]Ну и долго ты ещё пялиться на меня будешь?! Отвернись![nointeract]"
-msgstr ""
+msgstr "[Lisa_13]Beh, per quanto tempo mi fisserai?! Girare![nointeract]"
 
 # game/events/lisa.rpy:1069## # translate crowdin lisa_dressed_try_to_peek_f94f03ae:
 msgid "[Lisa_09]Ну и долго ты ещё пялиться на меня будешь?! Отвернись. Я недолго...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Beh, per quanto tempo mi fisserai?! Girare. Non sono lungo...[nointeract]"
 
 # game/events/lisa.rpy:1074## # translate crowdin lisa_dressed_try_to_peek_66f1c3a5:
 msgid "[Lisa_02]Вот представь, ну никак не могу! Стесняюсь. Можно я уже спокойно переоденусь? Без этого твоего сверлящего и озабоченного взгляда..."
-msgstr ""
+msgstr "[Lisa_02]Non riesco a immaginare! Timido. Posso cambiare i miei vestiti? Senza quel tuo sguardo di perforazione e ansioso..."
 
 # game/events/lisa.rpy:1075## # translate crowdin lisa_dressed_try_to_peek_1a1c2375:
 msgid "[Max_02]Можно. Только постой так ещё немного, я быстренько сфотографирую..."
-msgstr ""
+msgstr "[Max_02]sì. Aspetta un po' di più, farò una foto veloce..."
 
 # game/events/lisa.rpy:1076## # translate crowdin lisa_dressed_try_to_peek_ab614b1d:
 msgid "[Lisa_09]Ну, Макс!"
