@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 12:33\n"
+"PO-Revision-Date: 2021-11-10 10:38\n"
 
 # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
-msgstr ""
+msgstr "[Ann_00]¿Algo pasó, querida?[nointeract]"
 
 # game/dialogues/anntalk.rpy:44## # translate crowdin Ann_badbadmood_321edff9:
 msgid "[Ann_18]Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать![nointeract]"
@@ -614,15 +614,15 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:719## # translate crowdin ann_yoga_with_max0_5b94cd49:
 msgid "[Ann_05]Спасибо, Макс! Приятно такое слышать. Значит, я не зря этим занимаюсь и это работает..."
-msgstr ""
+msgstr "[Ann_05]¡Gracias, Max! Es bueno escuchar eso. Entonces, no lo estoy haciendo en vano y funciona..."
 
 # game/dialogues/anntalk.rpy:720## # translate crowdin ann_yoga_with_max0_892ccf62:
 msgid "[Max_02]Ещё как работает! Может, я чем-то могу помочь?"
-msgstr ""
+msgstr "[Max_02]¡Cómo funciona! ¿Quizás pueda ayudarte con algo?"
 
 # game/dialogues/anntalk.rpy:725## # translate crowdin ann_yoga_with_max0_4b285dc9:
 msgid "[Ann_02]Тебе со стороны должно быть хорошо видно, всё ли я делаю правильно. У меня должна быть прямая спина и прямые ноги..."
-msgstr ""
+msgstr "[Ann_02] Debería ver claramente desde el exterior si estoy haciendo todo bien. Debería tener la espalda recta y las piernas rectas..."
 
 # game/dialogues/anntalk.rpy:726## # translate crowdin ann_yoga_with_max0_9ca4a1b0:
 msgid "[Max_01]Ну да, почти. Разве что, ножки держи попрямее. Я тебя немножко придержу, чтобы ты лучше чувствовала, правильно ли всё делаешь..."
