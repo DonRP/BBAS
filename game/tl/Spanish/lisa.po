@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-10 10:38\n"
+"PO-Revision-Date: 2021-11-14 10:58\n"
 
 # game/events/lisa.rpy:26## # translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -30,27 +30,27 @@ msgstr "[Max_01]Hoy ya espié a Liza. Suerte que no me vio. No vuelvas a arriesg
 
 # game/events/lisa.rpy:43## # translate crowdin lisa_shower_791d34d9:
 msgid "[Max_09]Кажется, Лиза что-то делает в ванной...[nointeract]"
-msgstr ""
+msgstr "[Max_09]Parece que Lisa está haciendo algo en el baño...[nointeract]"
 
 # game/events/lisa.rpy:46## # translate crowdin lisa_shower_7a2afa4f:
 msgid "[Lisa]{b}Лиза:{/b} Кто там? Я ещё не закончила. Подождите немного...[nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} ¿Quién está ahí? No he terminado. Espera un poco...[nointeract]"
 
 # game/events/lisa.rpy:49## # translate crowdin lisa_shower_0451df43:
 msgid "[Lisa]{b}Лиза:{/b} Макс, чего хотел? Я же говорю, скоро выйду![nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} Max, ¿qué querías? Digo, ¡saldré pronto![nointeract]"
 
 # game/events/lisa.rpy:52## # translate crowdin lisa_shower_d84f6a90:
 msgid "[Lisa]{b}Лиза:{/b} Нет, Макс. Жди за дверью. Я скоро![nointeract]"
-msgstr ""
+msgstr "[Lisa] {b} Lisa: {/ b} No, Max. Espera fuera de la puerta. ¡Estaré allí pronto! [nointeract]"
 
 # game/events/lisa.rpy:64## # translate crowdin lisa_shower_8d94a43d:
 msgid "[Max_10]Хочется, конечно, ещё разок взглянуть на голую сестрёнку, но я ещё не отдал ей обещанное..."
-msgstr ""
+msgstr "[Max_10] Me gustaría, por supuesto, echar un vistazo más a mi hermana desnuda, pero todavía no le he dado lo que le prometí..."
 
 # game/events/lisa.rpy:77## # translate crowdin lisa_shower_ladder_2b325faf:
 msgid "[Max_04]Посмотрим, что у нас тут..."
-msgstr ""
+msgstr "[Max_04] Veamos qué tenemos aquí..."
 
 # game/events/lisa.rpy:92## # translate crowdin lisa_shower_ladder_76d51683:
 msgid "[Max_03]Класс! Лиза смотрится в подаренном мною халатике очень соблазнительно... Особенно когда так хорошо видно её упругие сисечки!"
@@ -631,115 +631,115 @@ msgstr ""
 
 # game/events/lisa.rpy:1412## # translate crowdin lisa_romantic_movie_0_57a4b7fa:
 msgid "[Lisa_00]Ну... ладно. Подвинься тогда."
-msgstr ""
+msgstr "[Lisa_00] Bueno... está bien. Muévete entonces."
 
 # game/events/lisa.rpy:1416## # translate crowdin lisa_romantic_movie_0_8a7e7885:
 msgid "[Max_00]Ну так... каким фильмом ты собиралась меня мучить?"
-msgstr ""
+msgstr "[Max_00] Entonces... ¿con qué película me ibas a torturar?"
 
 # game/events/lisa.rpy:1417## # translate crowdin lisa_romantic_movie_0_ae7209b1:
 msgid "[Lisa_01]Точно не знаю. Напиши в поиске \"лучшие романтические фильмы\" и я что-нибудь выберу."
-msgstr ""
+msgstr "[Lisa_01] No lo sé exactamente. Busque \"mejores películas románticas\" y elegiré algo."
 
 # game/events/lisa.rpy:1418## # translate crowdin lisa_romantic_movie_0_d14c257e:
 msgid "[Max_03]Вот, смотри... Выбирай... Может вот этот? Постер уж очень интересный!"
-msgstr ""
+msgstr "[Max_03] Mira... Elige... ¿Quizás este? ¡El cartel es muy interesante!"
 
 # game/events/lisa.rpy:1419## # translate crowdin lisa_romantic_movie_0_8a55ebad:
 msgid "[Lisa_02]Нет, мы будем смотреть то, что интересно мне! Хочу вон тот фильм! Давай, включай..."
-msgstr ""
+msgstr "[Lisa_02]¡No, estaremos viendo lo que es interesante para mí! ¡Quiero esa película! Vamos, enciende..."
 
 # game/events/lisa.rpy:1421## # translate crowdin lisa_romantic_movie_0_51f733a8:
 msgid "[Max_07]{m}Да уж, это конечно намного лучше, чем получать при всех от мамы по заднице, но так скучно! Хотя бы с сестрёнкой рядом на одной кровати полежу. А смотреть можно и вполглаза...{/m}"
-msgstr ""
+msgstr "[Max_07] {m} Sí, ciertamente es mucho mejor que poner el trasero de tu mamá frente a todos, ¡pero es tan aburrido! Al menos me acostaré en la misma cama con mi hermana pequeña. Y puedes mirar con medio ojo... {/ m}"
 
 # game/events/lisa.rpy:1422## # translate crowdin lisa_romantic_movie_0_60738184:
 msgid "[Lisa_13]Макс, не спи! Ты должен смотреть - это твоё наказание! Если будешь спать, то я буду тебя пихать..."
-msgstr ""
+msgstr "[Lisa_13] Max, ¡mantente despierto! Tienes que mirar, ¡este es tu castigo! Si duermes, te empujaré..."
 
 # game/events/lisa.rpy:1426## # translate crowdin lisa_romantic_movie_0_a5e1074f:
 msgid "[Max_02]{m}Я бы тоже с огромным удовольствием попихал в тебя чем-нибудь! А если бы она ещё и уснула со мной в обнимку это было бы...{/m}"
-msgstr ""
+msgstr "[Max_02] {m} ¡Me encantaría empujarte algo también! Y si ella también se durmiera conmigo en un abrazo sería... {/ m}"
 
 # game/events/lisa.rpy:1427## # translate crowdin lisa_romantic_movie_0_14665ede:
 msgid "[Lisa_10]Ой-ёй-ёй! У фильма же вроде семейный рейтинг?! Почему они раздеваются?"
-msgstr ""
+msgstr "[Lisa_10]Oye ¡¿La película parece tener una calificación familiar?! ¿Por qué se desnudan?"
 
 # game/events/lisa.rpy:1428## # translate crowdin lisa_romantic_movie_0_36bae7b4:
 msgid "[Max_03]А вот это уже будет поинтереснее смотреть! Хороший момент, мне нравится..."
-msgstr ""
+msgstr "[Max_03] ¡Pero esto será más interesante de ver! Buen punto, me gusta..."
 
 # game/events/lisa.rpy:1429## # translate crowdin lisa_romantic_movie_0_938027f4:
 msgid "[Lisa_11]Давай промотаем! Мне как-то неудобно... Ого! А что это он там делает ей?!"
-msgstr ""
+msgstr "[Lisa_11]¡Vamos a perdernos! Estoy un poco incómoda... ¡Uau! ¡¿Y qué le está haciendo allí?!"
 
 # game/events/lisa.rpy:1430## # translate crowdin lisa_romantic_movie_0_77908404:
 msgid "[Max_05]Я не против, что персонажей в этой сцене решили... хорошенько раскрыть..."
-msgstr ""
+msgstr "[Max_05]no me importa que los personajes de esta escena se decidieran... bien revelado..."
 
 # game/events/lisa.rpy:1431## # translate crowdin lisa_romantic_movie_0_f0429dea:
 msgid "[Lisa_12]Чем это ты ноутбук шевелишь? У тебя рука что ли трясётся или..."
-msgstr ""
+msgstr "[Lisa_12] ¿Con qué estás moviendo la computadora portátil? ¿Te tiembla la mano o..."
 
 # game/events/lisa.rpy:1432## # translate crowdin lisa_romantic_movie_0_e9d4d46d:
 msgid "[Max_07]Ну... почти."
-msgstr ""
+msgstr "[Max_07]Bueno... casi."
 
 # game/events/lisa.rpy:1436## # translate crowdin lisa_romantic_movie_0_f2db6ad8:
 msgid "[Lisa_11]Макс! У тебя встал что ли?"
-msgstr ""
+msgstr "[Lisa_11] ¡Max! ¿Se te ha levantado o algo?"
 
 # game/events/lisa.rpy:1437## # translate crowdin lisa_romantic_movie_0_62089fb5:
 msgid "[Max_08]Да, немного. Такой уж фильм ты выбрала!"
-msgstr ""
+msgstr "[Max_08] Sí, un poco. ¡Has elegido una película así!"
 
 # game/events/lisa.rpy:1438## # translate crowdin lisa_romantic_movie_0_1ad44cc8:
 msgid "[Lisa_13]Немного?! Это не немного! Какой же ты озабоченный!"
-msgstr ""
+msgstr "[Lisa_13] ¿Un poco? ¡No es mucho! ¡Qué preocupado eres!"
 
 # game/events/lisa.rpy:1439## # translate crowdin lisa_romantic_movie_0_e53fb6ea:
 msgid "[Max_09]Вообще-то, так все мужчины реагируют на такое!"
-msgstr ""
+msgstr "[Max_09]En realidad, ¡así es como todos los hombres reaccionan a esto!"
 
 # game/events/lisa.rpy:1440## # translate crowdin lisa_romantic_movie_0_1095a0d0:
 msgid "[Lisa_12]Молодец, Макс! Испортил весь просмотр."
-msgstr ""
+msgstr "[Lisa_12]¡Bien hecho, Max! arruinaste toda la vista."
 
 # game/events/lisa.rpy:1441## # translate crowdin lisa_romantic_movie_0_f9bf1574:
 msgid "[Max_07]А ты на экран смотри, а не на член."
-msgstr ""
+msgstr "[Max_07]Y estás mirando la pantalla, no mi pene."
 
 # game/events/lisa.rpy:1442## # translate crowdin lisa_romantic_movie_0_1574058f:
 msgid "[Lisa_10]Да не могу я смотреть на экран, когда и там и у тебя такое... Всё, я спать!"
-msgstr ""
+msgstr "[Lisa_10] Sí, no puedo mirar la pantalla, cuando hay y tienes esto... ¡Eso es, me voy a dormir!"
 
 # game/events/lisa.rpy:1444## # translate crowdin lisa_romantic_movie_0_288ac083:
 msgid "[Max_08]Погоди, но это ведь считается, что я отбыл наказание?"
-msgstr ""
+msgstr "[Max_08] Espera, ¿pero se considera que cumplí mi condena?"
 
 # game/events/lisa.rpy:1445## # translate crowdin lisa_romantic_movie_0_3dfedd8c:
 msgid "[Lisa_09]Да ну тебя!"
-msgstr ""
+msgstr "[Lisa_09] ¡Vamos!"
 
 # game/events/lisa.rpy:1446## # translate crowdin lisa_romantic_movie_0_85436806:
 msgid "[Max_01]Ладно. Доброй ночи тогда."
-msgstr ""
+msgstr "[Max_01]Está bien. Buenas noches entonces."
 
 # game/events/lisa.rpy:1462## # translate crowdin lisa_romantic_movie_r_f3247db8:
 msgid "[Lisa_01]Ну что, Макс, смотрим кино или как?"
-msgstr ""
+msgstr "[Lisa_01]Bueno, Max, ¿ver una película o qué?"
 
 # game/events/lisa.rpy:1463## # translate crowdin lisa_romantic_movie_r_a59bad84:
 msgid "[Max_01]Да, смотрим. Сейчас всё подготовлю..."
-msgstr ""
+msgstr "[Max_01]sí, veamos. Prepararé todo ahora..."
 
 # game/events/lisa.rpy:1464## # translate crowdin lisa_romantic_movie_r_8ae1d92e:
 msgid "[Lisa_02]А я пока свет выключу."
-msgstr ""
+msgstr "[Lisa_02]Y apagaré las luces por ahora."
 
 # game/events/lisa.rpy:1470## # translate crowdin lisa_romantic_movie_r_8885d6ca:
 msgid "[Max_04]Давай, запрыгивай! Будем досматривать тот фильм?"
-msgstr ""
+msgstr "[Max_04]¡Vamos, salta! ¿Vamos a ver esa película?"
 
 # game/events/lisa.rpy:1471## # translate crowdin lisa_romantic_movie_r_04dfcf7d:
 msgid "[Lisa_09]Да, но промотай тот момент, ну ты понял..."
@@ -1210,7 +1210,7 @@ msgstr ""
 
 #    # game/events/lisa.rpy:864
 msgid "Хорошо, только ноутбук заберу..."
-msgstr ""
+msgstr "Está bien, solo tomaré la computadora portátil..."
 
 #    # game/events/lisa.rpy:864
 msgid "Да легко! Не буду мешать..."
