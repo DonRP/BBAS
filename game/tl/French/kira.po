@@ -10,123 +10,123 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-02 12:36\n"
+"PO-Revision-Date: 2021-11-14 10:58\n"
 
 # game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
-msgstr ""
+msgstr "[Max_01]Une seule personne ne peut pas dormir en ce moment et prendre un bain. Et cette personne, c’est Kira ![nointeract]"
 
 # game/events/kira.rpy:28## # translate crowdin kira_bath_fef8596e:
 msgid "[Kira]{b}Кира:{/b} Кто там? Я принимаю ванну и абсолютно голая... Так что не входите, дайте отдохнуть!"
-msgstr ""
+msgstr "[Kira]{b}Kira:{/b} Qui est là? Je prends un bain et je suis complètement nue... Alors n’entrez pas, laissez-moi me reposer!"
 
 # game/events/kira.rpy:30## # translate crowdin kira_bath_5bdda7d4:
 msgid "[Max_09]Нужно найти способ как-то подглядеть за девчонками в ванной. Может, попробовать вечером со двора?!"
-msgstr ""
+msgstr "[Max_09]Je dois trouver un moyen de surveiller les filles dans la salle de bain. Peut-être que je devrais essayer ce soir dans la cour?!"
 
 # game/events/kira.rpy:32## # translate crowdin kira_bath_b499c0e8:
 msgid "[Max_09]Нужно найти способ как-то подглядеть за девчонками в ванной. Может, стоит осмотреться изнутри?!"
-msgstr ""
+msgstr "[Max_09]Je dois trouver un moyen de surveiller les filles dans la salle de bain. Peut-être que je devrais regarder de l'intérieur?!"
 
 # game/events/kira.rpy:34## # translate crowdin kira_bath_e602bda6:
 msgid "[Max_09]Нужно уже наконец купить стремянку, чтобы подглядывать за тем, что происходит в ванной..."
-msgstr ""
+msgstr "[Max_09]Je dois enfin acheter un escabeau pour espionner ce qui se passe dans la salle de bain ..."
 
 # game/events/kira.rpy:36## # translate crowdin kira_bath_67b54ecf:
 msgid "[Max_09]В следующий раз лучше заглянуть со стремянки..."
-msgstr ""
+msgstr "[Max_09]La prochaine fois, il vaut mieux regarder depuis l’escabeau ..."
 
 # game/events/kira.rpy:45## # translate crowdin kira_bath_226743d2:
 msgid "[Max_09]Пусть лучше тётя Кира отдохнёт, а вернее отмоется от Эрика... А то как-то не очень хочется что-то делать в ванне сразу после него!"
-msgstr ""
+msgstr "[Max_09]Laisser tante Kira se reposer, ou plutôt laver d'Eric... Et puis en quelque sorte, je ne veux pas vraiment faire quelque chose dans le bain juste après!"
 
 # game/events/kira.rpy:47## # translate crowdin kira_bath_b08ab956:
 msgid "[Max_09]Пусть лучше тётя Кира отдохнёт и отмоется от Эрика... Можно было бы всё же зайти, но вдруг Эрик этого и ждёт. Лучше не рисковать!"
-msgstr ""
+msgstr "[Max_09]Laisser tante Kira se reposer et laver Eric... Je peux toujours entrer, mais soudain Eric l’attend. Mieux vaut ne pas prendre de risques !"
 
 # game/events/kira.rpy:56## # translate crowdin kira_bath_6a58c36d:
 msgid "[Max_01]Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное..."
-msgstr ""
+msgstr "[Max_01]J’espère que personne n’aura de question sur le fait que l’escabeau est ici... Comme quoi? Bien sûr, cela en vaut la peine! Et maintenant, le plaisir commence..."
 
 # game/events/kira.rpy:72## # translate crowdin kira_bath_ladder_2b325faf:
 msgid "[Max_04]Посмотрим, что у нас тут..."
-msgstr ""
+msgstr "[Max_04]Voyons ce que nous avons ici..."
 
 # game/events/kira.rpy:79## # translate crowdin kira_bath_ladder_7cba9683:
 msgid "[Max_02]Ох, чёрт! Какая аппетитная попка у неё... Это я удачно решил дождаться её возвращения! Давай, тётя Кира, этой попке пора стать мокренькой..."
-msgstr ""
+msgstr "[Max_02]Oh, merde! Quel délicieux cul elle a... C'est moi qui ai décidé d'attendre son retour! Aller, tante Kira, ce cul doit être mouillé..."
 
 # game/events/kira.rpy:83## # translate crowdin kira_bath_ladder_1e31a44d:
 msgid "[Max_05]Ого! Да она сперва решила поиграть со своей киской... Вот это классно! Только почему бы не делать это лёжа в ванной? Такое ощущение, что она это специально..."
-msgstr ""
+msgstr "[Max_05]Wow! Elle a d'abord décidé de jouer avec sa chatte... C'est cool! Pourquoi ne pas le faire allongé dans la salle de bain? J'ai l'impression qu'elle l'a fait exprès..."
 
 # game/events/kira.rpy:85## # translate crowdin kira_bath_ladder_a5472214:
 msgid "[Max_10]Блин! Она меня видела! Вот это уже не круто... Хотя, это же тётя Кира... она же не станет меня сдавать маме? Или нет?!"
-msgstr ""
+msgstr "[Max_10]Merde! Elle m'a vu! Ce n'est plus cool... Bien que ce soit tante Kira... elle ne me livrera pas à ma mère, n'est-ce pas? Ou pas?!"
 
 # game/events/kira.rpy:88## # translate crowdin kira_bath_ladder_25ce42f2:
 msgid "[Max_08]Что? Она зовёт меня к себе?! Да ладно! Как-то мне это не очень нравится...[nointeract]"
-msgstr ""
+msgstr "[Max_08]Quoi ? Elle m'appelle chez elle?! C'est pas vrai, que dire! D'une certaine manière, je n'aime pas ça...[nointeract]"
 
 # game/events/kira.rpy:98## # translate crowdin kira_bath_ladder_be5e0493:
 msgid "[Max_04]Да-а-а, у неё просто обалденная грудь! Сосочки прямо там, где надо... Ох, я бы с ней ванну попринимал! Надеюсь, мне это приснится. Пора идти спать..."
-msgstr ""
+msgstr "[Max_04]Oui, elle a des seins incroyables! Les tétons sont là où il faut... Oh, je prendrais un bain avec elle! J'espère que j'en rêve. Il est temps d'aller au lit..."
 
 # game/events/kira.rpy:105## # translate crowdin kira_bath_kira_mass_bath_first_7398c496:
 msgid "[Kira_04]А мне было интересно, осмелишься ли ты зайти... Значит, Макс, любишь подглядывать?"
-msgstr ""
+msgstr "[Kira_04]Je me demandais si tu oserais entrer... Donc, Max, tu aimes m'espionner?"
 
 # game/events/kira.rpy:106## # translate crowdin kira_bath_kira_mass_bath_first_c457930d:
 msgid "[Max_07]Ну, немного..."
-msgstr ""
+msgstr "[Max_07]Eh bien, un peu..."
 
 # game/events/kira.rpy:107## # translate crowdin kira_bath_kira_mass_bath_first_93c94ec0:
 msgid "[Kira_05]Немного? Это сколько? Раз в неделю? Или раз в день?"
-msgstr ""
+msgstr "[Kira_05]un peu? Combien? Une fois par semaine? Ou une fois par jour?"
 
 # game/events/kira.rpy:108## # translate crowdin kira_bath_kira_mass_bath_first_7b934ba1:
 msgid "[Max_09]Ты сдашь меня маме?"
-msgstr ""
+msgstr "[Max_09]Tu veux me dénoncer à ma mère?"
 
 # game/events/kira.rpy:109## # translate crowdin kira_bath_kira_mass_bath_first_14b70a3b:
 msgid "[Kira_02]Ох, конечно нет, Макс! Я и сама большая любительница за чем-нибудь... интересным понаблюдать."
-msgstr ""
+msgstr "[Kira_02]Oh, bien sûr que non, Max! Je suis moi-même une grande fane de quelque chose... intéressant à observer."
 
 # game/events/kira.rpy:110## # translate crowdin kira_bath_kira_mass_bath_first_4507dc04:
 msgid "[Max_01]Фух... хорошо."
-msgstr ""
+msgstr "[Max_01]Ouf... D’accord."
 
 # game/events/kira.rpy:111## # translate crowdin kira_bath_kira_mass_bath_first_cf835ccb:
 msgid "[Kira_07]Хотя, всё будет зависеть от тебя!"
-msgstr ""
+msgstr "[Kira_07]Bien que, tout dépendra de toi!"
 
 # game/events/kira.rpy:112## # translate crowdin kira_bath_kira_mass_bath_first_825c8fc0:
 msgid "[Max_08]В каком это смысле?"
-msgstr ""
+msgstr "[Max_08]Qu'est-ce que tu veux dire ?"
 
 # game/events/kira.rpy:117## # translate crowdin kira_bath_kira_mass_bath_first_af29342a:
 msgid "[Kira_01]Я слышала, ты неплохо так массируешь ножки то одной сестре, то другой..."
-msgstr ""
+msgstr "[Kira_01]je t’ai entendu que tu massais si bien les jambes d’une de tes sœur ou de l’autre..."
 
 # game/events/kira.rpy:118## # translate crowdin kira_bath_kira_mass_bath_first_3b03420e:
 msgid "[Max_01]Ну да, бывает такое."
-msgstr ""
+msgstr "[Max_01]Eh bien, oui, ça arrive."
 
 # game/events/kira.rpy:119## # translate crowdin kira_bath_kira_mass_bath_first_5ed6b6a0:
 msgid "[Kira_02]Я сегодня очень устала... И если бы нашёлся тот, кто помог бы снять усталость с моих ног, то может быть, в качестве благодарности, я бы и не стала рассказывать своей сестре, какой у неё испорченный сын."
-msgstr ""
+msgstr "[Kira_02]je suis très fatigué aujourd’hui... Et s’il y avait quelqu’un qui aiderait à soulager la fatigue de mes jambes, alors peut-être, en guise de remerciement, je ne dirais pas à ma sœur quel fils elle a."
 
 # game/events/kira.rpy:120## # translate crowdin kira_bath_kira_mass_bath_first_50c1f105:
 msgid "[Max_07]Э-э-э... Что, прямо здесь?"
-msgstr ""
+msgstr "[Max_07]euh... Quoi, juste ici?"
 
 # game/events/kira.rpy:121## # translate crowdin kira_bath_kira_mass_bath_first_d286de06:
 msgid "[Kira_05]Ой, а я разве тебя смущаю, Макс?! Ты разве не за этим подглядывал? Чтобы как можно больше всего увидеть безнаказанно..."
-msgstr ""
+msgstr "[Kira_05]Oh, est-ce que je t'embarrasse, Max?! Tu n'as pas regardé ça? Pour voir le plus possible en toute impunité..."
 
 # game/events/kira.rpy:122## # translate crowdin kira_bath_kira_mass_bath_first_1f73cf5f:
 msgid "[Max_08]Да, но... прямо здесь... в ванне?!"
-msgstr ""
+msgstr "[Max_08]Oui, mais... Ici... dans le bain?!"
 
 # game/events/kira.rpy:123## # translate crowdin kira_bath_kira_mass_bath_first_1994407b:
 msgid "[Kira_08]Что ты, нет! Ты сядешь здесь, рядом с ванной, а я свешу тебе свои ноги... Ха! Конечно, в ванне! Я же вижу с каким трудом ты прикрываешь свой... энтузиазм... Расслабься уже и залезай в ванну. Или, может, хочешь уйти?"
