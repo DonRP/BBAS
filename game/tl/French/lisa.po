@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-02 12:36\n"
+"PO-Revision-Date: 2021-11-16 11:27\n"
 
 # game/events/lisa.rpy:26## # translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
-msgstr ""
+msgstr "[Max_00]Lisa prend maintenant une douche...[nointeract]"
 
 # game/events/lisa.rpy:30## # translate crowdin lisa_shower_97ede92e:
 msgid "[Max_14]Лиза уже поймала меня на подглядывании. Грозилась рассказать маме. Не стоит злить её ещё больше."
