@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-11 11:00\n"
+"PO-Revision-Date: 2021-11-17 11:40\n"
 
 msgid "Скрытые камеры"
 msgstr "Cámaras ocultas"
@@ -193,31 +193,31 @@ msgstr "¡Fue una gran idea! Ahora mi madre sabe de lo que son capaces mis manos
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ещё было бы классно делать маме массаж и смотреть при этом какой-нибудь эротический фильм. Но лучше сперва довести этот массаж до автоматизма, потому что фильм будет отвлекать. Потребуются успехи в возможности \"Любимая тётя\"..."
-msgstr ""
+msgstr "También sería genial darle un masaje a mi mamá y ver una película erótica al mismo tiempo. Pero es mejor hacer que este masaje sea automático primero, porque la película distraerá. Se necesitará progreso en la función de la tía amada..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Прежде чем купить какой-нибудь эротический фильм и уговорить маму его посмотреть, нужно больше с ней сблизиться. Её утренние занятия йогой отлично подойдут для этого..."
-msgstr ""
+msgstr "Antes de comprar una película erótica y persuadir a tu madre para que la mire, debes acercarte más a ella. Su clase de yoga matutina es perfecta para eso..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Самое время прикупить какой-нибудь эротический фильм и предложить маме его посмотреть..."
-msgstr ""
+msgstr "Es hora de comprar una película erótica e invitar a mamá a verla..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Надо предложить маме посмотреть вместе фильм, который я купил. Интересно, что будет, когда она поймёт, что мы снова смотрим эротику..."
-msgstr ""
+msgstr "Debería invitar a mi madre a ver la película que compré juntos. Me pregunto qué pasará cuando se dé cuenta de que volvemos a ver erótica..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вообще улётно! Я посмотрел с мамой ещё один эротический фильм! Правда, не весь, но почти час... Она так прибалдела от этого фильма и массажа, что даже не почувствовала, что у неё сползло полотенце. А позиция у меня в этот момент была самая наилучшая для того, чтобы насладиться этим небольшим и случайным стриптизом от мамы. Может, в следующий раз она снова не уследит за своим полотенцем? Если она, конечно, станет досматривать этот фильм со мной..."
-msgstr ""
+msgstr "¡Generalmente impresionante! ¡Vi otra película erótica con mi mamá! Cierto, no todos, pero casi una hora... Estaba tan adicta a esta película y al masaje que ni siquiera sintió que se le había resbalado la toalla. Y mi posición en ese momento era la mejor para poder disfrutar de este pequeño y desenfadado desnudo de mi madre. ¿Quizás la próxima vez no vuelva a seguir la pista de su toalla? Si, por supuesto, empieza a ver esta película conmigo..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Остаётся дождаться, когда мама будет смотреть ТВ одна и напомнить ей, что мы кое-что не досмотрели..."
-msgstr ""
+msgstr "Queda esperar a que mamá mire la tele sola y le recuerde que no terminamos de ver algo..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь!"
-msgstr ""
+msgstr "Así que mi madre y yo vimos \"El color de la noche\". Volví a admirar sus pechos desnudos y en general, en general, todo nos va bien. Poco a poco comienza a comprender que ya soy un adulto y ya no se opone a ver esas películas conmigo. Por el bien de la decencia, mi madre, por supuesto, dijo que ya no debería comprar una erótica tan franca, ¡ como si fuera a obedecer!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
@@ -345,15 +345,15 @@ msgstr "Tales juegos con Alice en el baño ya son mucho más interesantes ... Si
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Чтобы получить большее от Алисы, мне нужно сближаться с ней без помощи конфет с ликёром. Потребуются успехи в возможности \"Шаловливые ножки\"..."
-msgstr ""
+msgstr "Para obtener más de Alice, necesito acercarme a ella sin la ayuda de los caramelos de licor. Se necesitará progreso en la capacidad de Piernas Traviesas..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Теперь я вполне могу рассчитывать на что-то большее, чем то, что Алиса вытворяет своим языком после клуба. Главное, чтобы конфет с ликёром хватало..."
-msgstr ""
+msgstr "Ahora puedo contar con algo más que lo que Alice hace con la lengua después del club. Lo principal es que hay bastantes caramelos con licor..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ох, Алиса... Это тебе не свою розовую игрушку посасывать... У меня в трусах штука посерьёзнее будет. Её губы с таким трудом охватывают мой член и доставляют нереальное удовольствие! Уверен, впереди нас ждёт ещё много развлечений, но для этого нужно развивать наши с Алисой отношения..."
-msgstr ""
+msgstr "Oh, Alice... No es tu juguete rosa para chupar... Tendré algo más serio en mis pantalones. ¡Sus labios son tan difíciles de cubrir mi pene y dar un placer irreal! Estoy seguro de que todavía hay mucho entretenimiento por delante, pero para ello necesitamos desarrollar nuestra relación con Alice..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Дым сигарет"
@@ -391,7 +391,7 @@ msgstr "¡Así que el de Alisina voló bajo la mano severa de mi madre! Ahora su
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Главное поймать её снова с сигаретой. Тогда и убедить будет куда проще..."
-msgstr ""
+msgstr "Lo principal es volver a pillarla con un cigarrillo. Entonces será mucho más fácil convencerla..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ну вот, дело сделано. Теперь Алиса готова выполнять мои мелкие, но пикантные прихоти. Ей не сложно, а мне приятно. Ох, сколько теперь будет разных интересных ситуаций с Алисой..."
@@ -465,7 +465,7 @@ msgstr "Elegí algo más sexy para Alice, a saber, un traje translúcido. Modera
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Остаётся ждать, пока Алисе снова что-нибудь не понадобится. И хотя бы временами интересоваться, как у неё идут дела с блогом. Заодно и на сестрёнку в нижнем белье поглазею..."
-msgstr ""
+msgstr "Queda por esperar hasta que Alice necesite algo de nuevo. Y al menos de vez en cuando preguntándole cómo le va con el blog. Al mismo tiempo miraré a mi hermanita en ropa interior..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\n"
@@ -491,7 +491,7 @@ msgstr "Solo mi relación con Alice comenzó a mejorar gradualmente, ya que Eric
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Теперь у меня есть дополнительное время на то, чтобы больше сблизиться с Алисой, пока Эрик ещё не стал к ней приставать..."
-msgstr ""
+msgstr "Ahora tengo algo de tiempo extra para acercarme a Alice, antes de que Eric comience a molestarla..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\n"
@@ -557,63 +557,63 @@ msgstr "Eric no estaba emocionado, por decir lo menos, de que yo estuviera por d
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Талантливый массажист"
-msgstr ""
+msgstr "Masajista talentoso"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я, без особых надежд, предложил Алисе намазать её кремом для загара... Которого ни у неё, ни у меня не было. Но, она не против! Я уже предвкушаю, как буду растирать этот крем по её телу... Только его сперва нужно купить. Как и одежду полегче, ведь во дворе будет жарко!"
-msgstr ""
+msgstr "Yo, sin mucha esperanza, sugerí que Alice la untara con protector solar... Que ni ella ni yo teníamos. Pero, ¡a ella no le importa! Ya estoy deseando frotar esta crema en su cuerpo... Solo que primero necesita ser comprado. ¡Así como ropa más ligera, porque hará calor en el patio!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот теперь у меня есть всё, чтобы подарить Алисе равномерный и безопасный загар. Только бы всё не испортить своими руками... Надеюсь, они у меня не слишком корявые. Так или иначе, скоро я это пойму."
-msgstr ""
+msgstr "Ahora tengo todo para darle a Alice un bronceado uniforme y seguro. Aunque solo sea para no estropear todo con tus propias manos... Espero que no sean demasiado torpes. De todos modos, lo resolveré pronto."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно хотя бы несколько раз намазать Алису кремом, прежде чем станет что-нибудь понятно..."
-msgstr ""
+msgstr "Es necesario untar a Alice con crema al menos varias veces antes de que nada se aclare..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "А я молодец! Алиса сказала, что у меня неплохо получается и подкинула идею по обучению массажу. Почему бы и нет? Может быть, там не всё так уж сложно. Наверняка в интернете можно найти базовые курсы по массажу, только вот действительно обучающие курсы будут стоить денег."
-msgstr ""
+msgstr "¡Y estoy genial! Alice dijo que yo era buena en eso y lanzó la idea de aprender masaje. ¿Por qué no? Tal vez no sea tan complicado. Seguramente en Internet puedes encontrar cursos básicos sobre masajes, pero realmente los cursos de formación costarán dinero."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит купить хотя бы один урок по массажу, чтобы было с чем снова лезть к Алисе. А в перспективе, чем больше изучу, тем больших успехов достигну..."
-msgstr ""
+msgstr "Vale la pena comprar al menos una lección de masaje para que tengas algo para ir con Alice nuevamente. Y en el futuro, cuanto más estudio, más éxito tendré..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Мне кажется или Алисе очень нравится, когда я начинаю массаж с её ног? Особенно со ступней. Может быть, это её слабое место? Если это так, то её слабость станет моим преимуществом!"
-msgstr ""
+msgstr "¿Me parece o le gusta mucho a Alice cuando empiezo el masaje en sus pies? Especialmente con los pies. ¿Quizás este es su punto débil? ¡Si es así, entonces su debilidad será mi ventaja!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Хорошо бы начинать массаж, каждый раз, с её прелестных ножек. Того гляди и везде смогу помассировать за раз. А может и верх купальника уговорю без проблем снять..."
-msgstr ""
+msgstr "Sería bueno comenzar el masaje, cada vez, con sus hermosas piernas. Pon atención a eso y en todas partes donde pueda tocar a la vez. Y tal vez la convenza para que se quite la parte superior del traje de baño sin ningún problema..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Красота! Так я могу и профессиональным массажистом стать! А что, я не против... Главное, чтобы у меня было побольше сексуальных клиенток и это будет улётно! Но одними интернет-курсами тут не обойтись, нужна полноценная практика и обучение. И возьмут ли меня куда-нибудь этому обучаться без школьного образования? Может тётя Кира с этим как-то поможет?"
-msgstr ""
+msgstr "¡Belleza! ¡Así que puedo convertirme en un masajista profesional! Y qué, no me importa... ¡Lo principal es que tengo más clientes sexuales y se irá volando! Pero los cursos de Internet por sí solos son indispensables aquí, necesita práctica y capacitación completas. ¿Y me llevarán a algún lugar para estudiar esto sin escolarización? ¿Tal vez la tía Kira ayudará con esto de alguna manera?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно будет продемонстрировать тёте Кире мои умения в массаже. А для этого потребуются успехи в возможности \"Любимая тётя\"..."
-msgstr ""
+msgstr "Tendré que demostrar a la tía Kira mis habilidades en el masaje. Y esto requerirá éxito en la posibilidad de \"Tía Amada\"..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Отличная новость! Тётя Кира сказала, что встретится со своей одноклассницей, которая занимается массажем, и возможна та, возьмёт меня к себе на обучение. Надеюсь, и правда возьмёт, потому что там я научусь ещё большему, чем тут. Буду с нетерпением этого ждать..."
-msgstr ""
+msgstr "¡Buenas noticias! La tía Kira dijo que conocería a su compañera de clase, que se dedica al masaje, y tal vez me llevaría a su entrenamiento. Espero que así sea, porque allí aprenderé aún más que aquí. Lo espero con ansias..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Шаловливые ножки"
-msgstr ""
+msgstr "Piernas traviesas"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Жалко, что Алису приходится уговаривать на массаж ног, но что поделать... Может, однажды это изменится, кто знает. Зато, так я могу ещё больше попрактиковаться в массаже, а заодно и узнать, как и что моей сестрёнке больше всего нравится. Да и виды весьма неплохие на Алису открываются."
-msgstr ""
+msgstr "Es una pena que haya que persuadir a Alice para darle un masaje en los pies, pero qué puedo hacer... Quizás algún día esto cambie, quién sabe. Pero, de esta manera, puedo practicar aún más masajes, y al mismo tiempo descubrir cómo y qué le gusta más a mi hermana. Sí, y que hablar de las buenas vistas de Alice."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Если Алисе будет нравиться массаж, то можно попробовать стащить с неё джинсы. Вернее, уговорить, чтобы она их сняла..."
-msgstr ""
+msgstr "Si a Alice le gusta el masaje, entonces puedes intentar quitarle los jeans. Más bien, persuadirla de que se los quite..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот такими красотами можно любоваться бесконечно! Обидно, что недолго, но это намного лучше, чем ничего. Эх, вот бы однажды запустить руки под эти трусики..."
-msgstr ""
+msgstr "¡Estas bellezas se pueden admirar sin cesar! Es una pena que no dure mucho, pero es mucho mejor que nada. Eh, desearía poder poner mis manos debajo de esas bragas algún día..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Было бы неплохо побольше сблизиться со своими сёстрами. Тогда наши совместные занятия с ними станут более естественными и перспективными. \n"
