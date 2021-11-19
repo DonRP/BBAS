@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-11-02 12:32\n"
+"PO-Revision-Date: 2021-11-19 11:55\n"
 
 # game/dialogues/alicetalk.rpy:13## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -5546,7 +5546,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:4459## # translate crowdin gift_lace_lingerie_d05d1c9b:
 msgid "[Alice_05]Конечно не против! Давай его сюда, буду примерять... Только, если не будешь смотреть..."
-msgstr ""
+msgstr "[Alice_05]¡Por supuesto que no me importa! Vamos a conseguirlo aquí, lo probaré en... Solo si no miras..."
 
 # game/dialogues/alicetalk.rpy:4460## # translate crowdin gift_lace_lingerie_88551f02:
 msgid "[Max_03]Конечно! Мне не терпится увидеть, как оно на тебе сидит..."
