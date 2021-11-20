@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-19 11:55\n"
+"PO-Revision-Date: 2021-11-20 11:53\n"
 
 # game/dialogues/alicetalk.rpy:13## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -6718,27 +6718,27 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:5467## # translate crowdin alice_domine_drink_47a27bae:
 msgid "[Alice_13]Ну и что ты там, подглядывая в душе, мечтал со мной сделать, а Макс?! Признавайся![nointeract]"
-msgstr ""
+msgstr "[Alice_13]Alors, qu'est-ce que tu rêvais de me faire, Max, en m'observant dans la douche ?! Avoues ![nointeract]"
 
 # game/dialogues/alicetalk.rpy:5472## # translate crowdin alice_domine_drink_b8f1c5c0:
 msgid "[Alice_05]И правильно! Твои похотливые мысли и фантазии обо мне должны таковыми и оставаться. Но это полбеды! В добавок к этому, что ты ещё должен?"
-msgstr ""
+msgstr "[Alice_05]Et à juste titre ! Tes pensées lubriques et tes fantasmes à mon sujet devraient rester des pensées. Mais c’est la moitié du problème! En plus de cela, que dois-tu faire d’autre?"
 
 # game/dialogues/alicetalk.rpy:5473## # translate crowdin alice_domine_drink_910c3a69:
 msgid "[Max_10]Ай! Моё ухо! Наверно... не подглядывать за тобой..."
-msgstr ""
+msgstr "[Max_10]Aïe ! Mon oreille ! Je suppose... pour ne pas te regarder..."
 
 # game/dialogues/alicetalk.rpy:5480## # translate crowdin alice_domine_drink_a46cd81a:
 msgid "[Alice_05]Поближе, значит... Настолько ближе? Или ты хотел бы быть ещё ближе к моей груди?!"
-msgstr ""
+msgstr "[Alice_05]Plus près, alors... Si près du but ? Ou tu veux être encore plus près de ma poitrine ?!"
 
 # game/dialogues/alicetalk.rpy:5481## # translate crowdin alice_domine_drink_5d0d17a3:
 msgid "[Max_05]О да! Я бы хотел ещё ближе!"
-msgstr ""
+msgstr "[Max_05]Oh oui ! J’aimerais m’en rapprocher encore plus !"
 
 # game/dialogues/alicetalk.rpy:5483## # translate crowdin alice_domine_drink_b60fd174:
 msgid "[Alice_07]Какая жалость! Похоже, кто-то привязан к стулу и не может быть так близко ко мне, как ему хотелось... Должно быть, обидно?[nointeract]"
-msgstr ""
+msgstr "[Alice_07]Quel dommage ! On dirait que quelqu’un est attaché à une chaise et ne peut pas être aussi proche de moi qu’il le voudrait... Ça doit être une difficile?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:5488## # translate crowdin alice_domine_drink_a3418458:
 msgid "[Alice_16]Вот ещё! Такое мог попросить только очень плохой мальчик, который совершенно не понимает, как себя надо вести со своей госпожой!"
@@ -6942,7 +6942,7 @@ msgstr "[Alice_07]C’est ce que j’espérais vraiment. De l'aide supplémentai
 
 # game/dialogues/alicetalk.rpy:5707## # translate crowdin alice_help_carry_plates_78889183:
 msgid "[Alice_07]Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду.[nointeract]"
-msgstr ""
+msgstr "[Alice_07]De l’aide?! Pourquoi es-tu, Max, si gentil ? Bien que, quelques mains supplémentaires ne me feront certainement pas de mal ... Pendant que j’ai fini avec tout ici et le nettoyage, tu peux apporter les assiettes de nourriture à la véranda.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:5715## # translate crowdin alice_help_carry_plates_9489751c:
 msgid "[Max_09]{m}Вот зачем таскать эти тарелки на второй этаж, когда у нас есть прямо здесь, в гостиной, прекрасный большой стол?!{/m}[nointeract]"
