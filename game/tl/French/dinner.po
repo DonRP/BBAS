@@ -10,51 +10,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-02 12:34\n"
+"PO-Revision-Date: 2021-11-28 08:19\n"
 
 # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
-msgstr ""
+msgstr "[Ann_01]Bon appétit, tout le monde. Je suis contente que tu aies acheté les provisions sur ton propre compte, Max. Et je peux voir que la piscine est propre. Bravo d'avoir pris cette responsabilité, nous l'apprécions tous. Maintenant, allons, dîner....[nointeract]"
 
 # game/dialogues/dinner.rpy:66## # translate crowdin typical_dinner_e043c878:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. Хоть ответственности и немного, но она важна. А теперь давайте ужинать...[nointeract]"
-msgstr ""
+msgstr "[Ann_01]Bon appétit, tout le monde. Je suis content que tu aies acheté les provisions sur ton propre compte, Max. Même si la responsabilité est faible, elle est importante. Maintenant, allons, dîner....[nointeract]"
 
 # game/dialogues/dinner.rpy:71## # translate crowdin typical_dinner_6b0248d1:
 msgid "[Ann_01]Всем приятного аппетита. Я заметила с балкона, что бассейн почищен. Спасибо тебе, Макс, что заботишься о порядке, это меня радует. А теперь давайте ужинать...[nointeract]"
-msgstr ""
+msgstr "[Ann_01]Bon appétit, tout le monde. J'ai remarqué depuis le balcon que la piscine avait été nettoyée. Merci, Max, de te soucier de l'ordre, ça me rend heureuse. Maintenant, allons, dîner....[nointeract]"
 
 # game/dialogues/dinner.rpy:73## # translate crowdin typical_dinner_ba465243:
 msgid "[Ann_00]Всем приятного аппетита. Сегодня что-то устала. Так что, давайте поужинаем в тишине...[nointeract]"
-msgstr ""
+msgstr "[Ann_00]Bon appétit, tout le monde. Je suis un peu fatiguée aujourd'hui. Alors, faisons un dîner tranquille...[nointeract]"
 
 # game/dialogues/dinner.rpy:76## # translate crowdin typical_dinner_1211a2f4:
 msgid "[Ann_05]Спасибо за понимание, Макс! Ну, приступим..."
-msgstr ""
+msgstr "[Ann_05]Merci de ta compréhension, Max! Eh bien, commençons..."
 
 # game/dialogues/dinner.rpy:77## # translate crowdin typical_dinner_4a7da202:
 msgid "[Max_00]Приятного аппетита!"
-msgstr ""
+msgstr "[Max_00]Bon appétit!"
 
 # game/dialogues/dinner.rpy:79## # translate crowdin typical_dinner_e7b121b0:
 msgid "[Ann_05]Да, всё в порядке, Макс. Спасибо, что спросил. Просто за день столько всего, что пора бы уже и отдохнуть..."
-msgstr ""
+msgstr "[Ann_05]Oui, c'est bon, Max. Merci de demander. Il y a tellement de choses à faire en une journée, il est temps de se reposer..."
 
 # game/dialogues/dinner.rpy:80## # translate crowdin typical_dinner_63f629c8:
 msgid "[Max_00]Понятно. Приятного аппетита!"
-msgstr ""
+msgstr "[Max_00]Compris. Bon appétit!"
 
 # game/dialogues/dinner.rpy:86## # translate crowdin dinner_first_650c2c5d:
 msgid "[Ann_07]Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
-msgstr ""
+msgstr "[Ann_07]Content que tout le monde ait pu se réunir aujourd'hui. Bon appétit, tout le monde ! Alors, comment s'est passée votre journée ?"
 
 # game/dialogues/dinner.rpy:87## # translate crowdin dinner_first_ed236883:
 msgid "[Alice_00]Мам, да у нас всё как обычно. Это ты рассказывай, как первый рабочий день?"
-msgstr ""
+msgstr "[Alice_00]Maman, le boulot comme d'habitude. C'est à toi de le dire, comment s'est passé ton premier jour de travail ?"
 
 # game/dialogues/dinner.rpy:89## # translate crowdin dinner_first_54cbe6e6:
 msgid "[Ann_00]Вы знаете, довольно неплохо. Такой офис! Такие все важные. Но я смогу там работать и даже планирую подняться по карьерной лестнице...[nointeract]"
-msgstr ""
+msgstr "[Ann_00]Tu sais, plutôt bien. Quel bureau ! Tout le monde est si important. Mais je peux y travailler et j'envisage même de gravir les échelons de la hiérarchie....[nointeract]"
 
 # game/dialogues/dinner.rpy:92## # translate crowdin dinner_first_7344f574:
 msgid "[Ann_01]Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом.[nointeract]"
