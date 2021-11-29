@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-28 08:19\n"
+"PO-Revision-Date: 2021-11-29 10:39\n"
 
 # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
@@ -58,15 +58,15 @@ msgstr "[Ann_00]Tu sais, plutôt bien. Quel bureau ! Tout le monde est si import
 
 # game/dialogues/dinner.rpy:92## # translate crowdin dinner_first_7344f574:
 msgid "[Ann_01]Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом.[nointeract]"
-msgstr ""
+msgstr "[Ann_01]Y a-t-il un problème avec ta mémoire, Max? Peut-être demander à ton médecin de te prescrire des vitamines? Je travaille dans le département du développement, je fais du marketing.[nointeract]"
 
 # game/dialogues/dinner.rpy:99## # translate crowdin dinner_first_ccf193ad:
 msgid "[Ann_14]Вот с этим беда. На общественном транспорте добираться долго. Но думаю, что эта проблема решится...[nointeract]"
-msgstr ""
+msgstr "[Ann_14]C'est là le problème. C'est un long voyage en transport public. Mais je pense que ce problème sera résolu...[nointeract]"
 
 # game/dialogues/dinner.rpy:106## # translate crowdin dinner_first_great_f75fe005:
 msgid "[Ann_07]Спасибо, Макс. Вы всё вопросы задаёте. Поели бы, хоть немного. Кстати, молодец Алиса, что приготовила ужин. Сама я бы ещё долго возилась."
-msgstr ""
+msgstr "[Ann_07]Merci, Max. Tu continues à poser des questions. Tu aurais dû manger, au moins un peu. Au fait, bravo à Alice pour avoir préparé le dîner. Il m'aurait fallu beaucoup de temps pour y arriver moi-même."
 
 # game/dialogues/dinner.rpy:107## # translate crowdin dinner_first_great_0ed07e47:
 msgid "[Alice_07]Не за что. Ты же сама меня научила всему, вот и пожинай плоды! Слушай, ну а кто у тебя начальник на работе?"
