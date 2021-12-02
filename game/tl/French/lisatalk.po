@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-01 11:00\n"
+"PO-Revision-Date: 2021-12-02 10:57\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -18,199 +18,199 @@ msgstr "[Lisa_00]Max, tu veux parler?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:45## # translate crowdin Lisa_badbadmood_da371c18:
 msgid "[Lisa_09]Макс, уйди. Не хочу тебя видеть![nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Max, va-t'en. Je ne veux pas te voir ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:54## # translate crowdin Lisa_badmood_94440bf9:
 msgid "[Lisa_09]Макс, уйди пожалуйста. Не хочу сейчас общаться.[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Max, s'il te plaît, va-t'en. Je ne veux pas parler en ce moment.[nointeract]"
 
 # game/dialogues/lisatalk.rpy:63## # translate crowdin Lisa_asksorry_43688099:
 msgid "[Lisa_09]Извиниться? Как?[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]S'excuser ? Comment ?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:70## # translate crowdin Lisa_normalmood_be3ffbfe:
 msgid "[Lisa_09]Не сейчас, Макс...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Pas maintenant, Max...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:76## # translate crowdin Lisa_cooldown_f6aab63f:
 msgid "[Lisa_09]Макс, давай поговорим об этом в другой раз."
-msgstr ""
+msgstr "[Lisa_09]Max, parlons de ça une autre fois."
 
 # game/dialogues/lisatalk.rpy:77## # translate crowdin Lisa_cooldown_7e3e09b0:
 msgid "[Max_00]Хорошо, Лиза..."
-msgstr ""
+msgstr "[Max_00]D’accord, Lisa..."
 
 # game/dialogues/lisatalk.rpy:87## # translate crowdin MorningWood_7249d4b4:
 msgid "[Lisa_11]Макс! Это что такое?! Я сейчас маму позову![nointeract]"
-msgstr ""
+msgstr "[Lisa_11]Max ! Qu'est-ce que c'est ? Je vais chercher maman![nointeract]"
 
 # game/dialogues/lisatalk.rpy:93## # translate crowdin MorningWood_ba2e7763:
 msgid "[Lisa_12]Ты чем таким занимался при мне?!"
-msgstr ""
+msgstr "[Lisa_12]Qu'est-ce que tu faisais avec moi?!"
 
 # game/dialogues/lisatalk.rpy:94## # translate crowdin MorningWood_c0152bb5:
 msgid "[Max_12]Да ты о чём, вообще?"
-msgstr ""
+msgstr "[Max_12]De quoi tu parles ?"
 
 # game/dialogues/lisatalk.rpy:98## # translate crowdin MorningWood_328a9a51:
 msgid "[Lisa_13]Ма-ам! Иди сюда, скорее![nointeract]"
-msgstr ""
+msgstr "[Lisa_13]Ma-man! Viens ici, vite ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:101## # translate crowdin MorningWood_42595202:
 msgid "[Lisa_12]Не то, о чём думаю? Это явно то, о чём я думаю! Ма-ам![nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Pas ce que je pense ? C'est clairement c'est ce que je pense ! Ma-man ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:108## # translate crowdin MorningWood_981dc250:
 msgid "[Lisa_12]Так я тебе и поверила! Ма-ам![nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Alors je t’ai cru ! Ma-man![nointeract]"
 
 # game/dialogues/lisatalk.rpy:115## # translate crowdin MorningWood_9d87c0fa:
 msgid "[Ann_15]Лиза? Что случилось?!"
-msgstr ""
+msgstr "[Ann_15]Lisa ? Que s'est-il passé ?!"
 
 # game/dialogues/lisatalk.rpy:118## # translate crowdin MorningWood_a656cae5:
 msgid "[Lisa_12]Мам! Смотри, что у него!"
-msgstr ""
+msgstr "[Lisa_12]Maman ! Regardes ce qu'il y a !"
 
 # game/dialogues/lisatalk.rpy:120## # translate crowdin MorningWood_a4f80a17:
 msgid "[Ann_19]Макс! Объяснишь, чем ты занимался при сестре?![nointeract]"
-msgstr ""
+msgstr "[Ann_19]Max ! Peux-tu expliquer ce que tu faisais devant ta sœur ? ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:122## # translate crowdin MorningWood_2d999f3b:
 msgid "[Ann_09]Ну, если ничего не делал и само... Тогда, Лиза, Макс ни в чём не виноват. Так бывает у мальчиков..."
-msgstr ""
+msgstr "[Ann_09]Eh bien, si tu n'as rien fait et que c'est tout seul... Alors, Lisa, ce n'est pas la faute de Max. C'est ce qui arrive aux garçons le matin parfois..."
 
 # game/dialogues/lisatalk.rpy:125## # translate crowdin MorningWood_e227a0bf:
 msgid "[Ann_09]Ну, да, Лиза. Так у мальчиков иногда бывает по утрам. Не нужно паниковать..."
-msgstr ""
+msgstr "[Ann_09]Eh bien, oui, Lisa. C'est ainsi que les garçons l'ont parfois le matin. Il n'y a pas lieu de paniquer..."
 
 # game/dialogues/lisatalk.rpy:126## # translate crowdin MorningWood_37c5030c:
 msgid "[Max_11]Я так сразу и сказал..."
-msgstr ""
+msgstr "[Max_11]C'est ce que j'ai dit depuis le début..."
 
 # game/dialogues/lisatalk.rpy:127## # translate crowdin MorningWood_a848ff4c:
 msgid "[Lisa_12]Это не правда! Так не может быть... само. Он что-то делал, наверняка..."
-msgstr ""
+msgstr "[Lisa_12]Ce n'est pas vrai ! Ce n'est pas possible... lui... Il faisait quelque chose, c'est sûr..."
 
 # game/dialogues/lisatalk.rpy:128## # translate crowdin MorningWood_a48912dd:
 msgid "[Max_10]Да ничего я не делал!"
-msgstr ""
+msgstr "[Max_10]Je n'ai rien fait !"
 
 # game/dialogues/lisatalk.rpy:130## # translate crowdin MorningWood_21eb77e9:
 msgid "[Ann_08]Ты сама видела, чтобы Макс чем-то {i}таким{/i} занимался при тебе?"
-msgstr ""
+msgstr "[Ann_08]As-tu déjà vu Max faire quelque chose {i}comme ceci{/i} devant toi ?"
 
 # game/dialogues/lisatalk.rpy:131## # translate crowdin MorningWood_089c8445:
 msgid "[Lisa_09]Нет, но мам... Я просто испугалась."
-msgstr ""
+msgstr "[Lisa_09]Non, mais maman... J'ai juste eu peur."
 
 # game/dialogues/lisatalk.rpy:135## # translate crowdin MorningWood_138bef5f:
 msgid "[Ann_04]Лиза. Ты, похоже, совсем ничего не знаешь о мальчиках. С одной стороны, я рада, что ты у меня такая. А с другой..."
-msgstr ""
+msgstr "[Ann_04]Lisa. Tu n'as pas l'air de connaître quoi que ce soit aux garçons. D'un côté, je suis content de t'avoir. D'un autre côté..."
 
 # game/dialogues/lisatalk.rpy:136## # translate crowdin MorningWood_a468566c:
 msgid "[Lisa_10]А что с другой? Я хочу всё знать!"
-msgstr ""
+msgstr "[Lisa_10]Et quoi d'autre ? Je veux tout savoir !"
 
 # game/dialogues/lisatalk.rpy:138## # translate crowdin MorningWood_21fcc87f:
 msgid "[Ann_09]Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?[nointeract]"
-msgstr ""
+msgstr "[Ann_09]Non, Lisa, il est trop tôt pour que tu t'intéresses à ce genre de choses. Quand tu seras plus âgée, nous parlerons. C'est la fin de l'histoire. Faisons comme si ça n'était jamais arrivé. D'accord ?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:156## # translate crowdin MorningWoodCont_2a9ba99c:
 msgid "[Lisa_12]Ну и как тебе это, Макс? Не стыдно, вот так валяться передо мной?"
-msgstr ""
+msgstr "[Lisa_12]Qu'est-ce que tu en penses, Max ? Tu n'as pas honte, de durcir devant moi comme ça ?"
 
 # game/dialogues/lisatalk.rpy:157## # translate crowdin MorningWoodCont_80da94d9:
 msgid "[Max_07]Что случилось опять?"
-msgstr ""
+msgstr "[Max_07]Que s'est-il passé encore ?"
 
 # game/dialogues/lisatalk.rpy:160## # translate crowdin MorningWoodCont_b16aed06:
 msgid "[Lisa_09]Не знаю, может у кого-то кое-что не помещается в трусах!"
-msgstr ""
+msgstr "[Lisa_09]Je ne sais pas, peut-être que certaines personnes ne peuvent pas mettre quelque chose dans leur pantalon !"
 
 # game/dialogues/lisatalk.rpy:161## # translate crowdin MorningWoodCont_cd0dcccf:
 msgid "[Max_09]Вот ты про что... Странно, что ты ещё маму не позвала..."
-msgstr ""
+msgstr "[Max_09]C'est ce que tu veux dire... Je suis surpris que tu n'aies pas appelé notre mère..."
 
 # game/dialogues/lisatalk.rpy:165## # translate crowdin MorningWoodCont_d9073d40:
 msgid "[Lisa_00]Сомневаюсь, что она знает, что тебе такое снится... от чего эта твоя штука, становится такой большой."
-msgstr ""
+msgstr "[Lisa_00]Je doute qu'elle sache que tu rêves... Qu'est-ce qui fait que ton truc devient si gros."
 
 # game/dialogues/lisatalk.rpy:166## # translate crowdin MorningWoodCont_4c6514d8:
 msgid "[Max_00]Да ничего мне такого не снится! Это от моих снов вообще не зависит..."
-msgstr ""
+msgstr "[Max_00]Je ne rêve à rien ! Ça ne dépend pas du tout de mes rêves..."
 
 # game/dialogues/lisatalk.rpy:167## # translate crowdin MorningWoodCont_0ba198fe:
 msgid "[Lisa_01]Ага, рассказывай! Может он у тебя своей собственной жизнью живёт?"
-msgstr ""
+msgstr "[Lisa_01]Ouais, racontes-moi ! Peut-être qu'il vit sa propre vie ton truc?"
 
 # game/dialogues/lisatalk.rpy:168## # translate crowdin MorningWoodCont_752c5aea:
 msgid "[Max_02]Знаешь, если бы тебе это всё не нравилось, ты бы так на него не глазела!"
-msgstr ""
+msgstr "[Max_02]Tu sais, si tu n'aimais pas tout ça, tu ne le fixerais pas comme ça !"
 
 # game/dialogues/lisatalk.rpy:169## # translate crowdin MorningWoodCont_cd02e3ce:
 msgid "[Lisa_11]Что?! Думаешь, мне нравится на него смотреть?!"
-msgstr ""
+msgstr "[Lisa_11]Quoi ? ! Tu crois que j'aime le regarder ?!"
 
 # game/dialogues/lisatalk.rpy:170## # translate crowdin MorningWoodCont_64a9a6b6:
 msgid "[Max_03]Конечно! Иначе, ты бы просто закрыла глаза или отвернулась..."
-msgstr ""
+msgstr "[Max_03]Bien sûr ! Sinon, tu fermerais les yeux ou tu te détournerais..."
 
 # game/dialogues/lisatalk.rpy:172## # translate crowdin MorningWoodCont_efa3176e:
 msgid "[Lisa_12]Вот и отвернусь!"
-msgstr ""
+msgstr "[Lisa_12]je vais me détourner !"
 
 # game/dialogues/lisatalk.rpy:174## # translate crowdin MorningWoodCont_75849bb5:
 msgid "[Max_04]Да я не против, можешь смотреть..."
-msgstr ""
+msgstr "[Max_04]Ça ne me dérange pas, tu peux regarder..."
 
 # game/dialogues/lisatalk.rpy:175## # translate crowdin MorningWoodCont_e3c0bf2a:
 msgid "[Lisa_09]Да ну тебя, Макс!"
-msgstr ""
+msgstr "[Lisa_09]Aller, Max !"
 
 # game/dialogues/lisatalk.rpy:183## # translate crowdin MorningWoodCont_4fbd8958:
 msgid "[Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?[nointeract]"
-msgstr ""
+msgstr "[Max]Qu'est-ce que c'est ? Lisa veut toucher ma bite ? ! Non, je dois encore rêver... Ou est-ce le cas ?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:189## # translate crowdin MorningWoodCont_b3cadc1a:
 msgid "[Lisa_11]Ой, Макс, ты не спишь! Это... не то, что ты подумал..."
-msgstr ""
+msgstr "[Lisa_11]Oh, Max, tu es réveillé ! C'est... pas ce que tu penses..."
 
 # game/dialogues/lisatalk.rpy:190## # translate crowdin MorningWoodCont_bfeb18df:
 msgid "[Max_07]А похоже именно на то, что я подумал!"
-msgstr ""
+msgstr "[Max_07]Et ça ressemble exactement à ce que je pensais!"
 
 # game/dialogues/lisatalk.rpy:191## # translate crowdin MorningWoodCont_25e0d430:
 msgid "[Lisa_13]Вот ещё! Это не так!"
-msgstr ""
+msgstr "[Lisa_13]Et voilà ! Ce n'est pas le cas !"
 
 # game/dialogues/lisatalk.rpy:195## # translate crowdin MorningWoodCont_61e76916:
 msgid "[Max_04]Если всё ещё хочешь, то можешь потрогать его..."
-msgstr ""
+msgstr "[Max_04]Si tu le veux toujours, tu peux le toucher..."
 
 # game/dialogues/lisatalk.rpy:196## # translate crowdin MorningWoodCont_1f6eac9a:
 msgid "[Lisa_10]Не собиралась я его трогать! Я просто... хотела его прикрыть... Вот!"
-msgstr ""
+msgstr "[Lisa_10]Je n'allais pas le toucher ! J'ai juste... je voulait le couvrir... Voilà !"
 
 # game/dialogues/lisatalk.rpy:197## # translate crowdin MorningWoodCont_4a409afb:
 msgid "[Max_02]Ну да, это рукой, видимо?"
-msgstr ""
+msgstr "[Max_02]Ouais, eh bien, c'est ta main, n'est-ce pas ?"
 
 # game/dialogues/lisatalk.rpy:198## # translate crowdin MorningWoodCont_f5cbe6f0:
 msgid "[Lisa_11]Э-э-э... Ой, всё! Я... вообще в ванную шла..."
-msgstr ""
+msgstr "[Lisa_11]Hum... Oh, c'est ça ! Je... vais aux toilettes en premier..."
 
 # game/dialogues/lisatalk.rpy:199## # translate crowdin MorningWoodCont_e65dd32b:
 msgid "[Max_01]Конечно, я так и подумал."
-msgstr ""
+msgstr "[Max_01]Bien sûr, c'est ce que je pensais."
 
 # game/dialogues/lisatalk.rpy:206## # translate crowdin MorningWoodCont_60559c82:
 msgid "[Lisa_01]Эй, Макс, а у всех мальчиков эта штука такая большая?"
-msgstr ""
+msgstr "[Lisa_01]Hé, Max, ce truc est si grand sur tous les garçons ?"
 
 # game/dialogues/lisatalk.rpy:207## # translate crowdin MorningWoodCont_8a88a159:
 msgid "[Max_19]Я сплю, Лиза... Какая штука?"
-msgstr ""
+msgstr "[Max_19]Je suis endormi, Lisa... Quel genre de chose ?"
 
 # game/dialogues/lisatalk.rpy:208## # translate crowdin MorningWoodCont_23c96df8:
 msgid "[Lisa_05]Ну эта ваша штука..."
