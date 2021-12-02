@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-11-02 11:16\n"
+"PO-Revision-Date: 2021-12-02 10:57\n"
 
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Überzeugungsarbeit gelungen! {/i} {/color}\n"
@@ -33,7 +33,7 @@ msgstr "{color=#00FF00}{i}Es hat geklappt! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:23
 msgid "{color=#00FF00}{i}Повезло!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Es hat geklappt! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:24
 msgid "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
@@ -77,7 +77,7 @@ msgstr "{color=#E59400}{i}Sie mag nicht! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:35
 msgid "{color=#E59400}{i}Не повезло!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Es hat nicht funktioniert! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:36
 msgid "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
@@ -237,11 +237,11 @@ msgstr "Ich wollte mich für den Vorfall am Morgen entschuldigen..."
 
 #    # game/core/02init.rpy:128
 msgid "Извини, но я случайно увидел, как ты принимаешь душ..."
-msgstr ""
+msgstr "Tut mir leid, aber ich habe dich zufällig beim Duschen gesehen..."
 
 #    # game/core/02init.rpy:128
 msgid "Хочу извиниться. Я бессовестно подглядывал за тобой утром..."
-msgstr ""
+msgstr "Ich möchte mich entschuldigen. Ich habe dich am Morgen schamlos angeschaut..."
 
 #    # game/core/02init.rpy:128
 msgid "Загораешь?"
@@ -289,23 +289,23 @@ msgstr "Zeit, einen süßen Arsch zu versohlen!"
 
 #    # game/core/02init.rpy:128
 msgid "Тебе помочь накрыть на стол?"
-msgstr ""
+msgstr "Kann ich dir helfen den Tisch zu decken?"
 
 #    # game/core/02init.rpy:128
 msgid "Я пришёл извиниться за то, что было утром. Я больше не буду."
-msgstr ""
+msgstr "Ich kam, um mich für das zu entschuldigen, was am Morgen passiert war. Ich werde es nicht noch einmal tun."
 
 #    # game/core/02init.rpy:128
 msgid "Я снова подглядывал. Извини."
-msgstr ""
+msgstr "Ich schaute wieder. Tut mir Leid."
 
 #    # game/core/02init.rpy:128
 msgid "Ну давай, можешь меня наказывать..."
-msgstr ""
+msgstr "Komm schon, du kannst mich bestrafen..."
 
 #    # game/core/02init.rpy:128
 msgid "Я выбираю наказание от тебя..."
-msgstr ""
+msgstr "Ich wähle die Strafe von dir..."
 
 #    # game/core/02init.rpy:128
 msgid "Мам, дай денег, пожалуйста..."
@@ -361,11 +361,11 @@ msgstr "Ich wollte über Kira sprechen..."
 
 #    # game/core/02init.rpy:128
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
-msgstr ""
+msgstr "Hier ist das Geld, damit du nicht zu Lisa gehst..."
 
 #    # game/core/02init.rpy:128
 msgid "У меня нет денег, чтобы ты не лез к Лизе."
-msgstr ""
+msgstr "Ich habe nicht das Geld, um dich davon abzuhalten, zu Lisa zu gehen."
 
 #    # game/core/02init.rpy:128
 msgid "Да тут всегда хорошая погода..."
@@ -421,7 +421,7 @@ msgstr "Erzählen du mir von diesem Vorfall aus der Kindheit meiner Mutter..."
 
 #    # game/core/02init.rpy:128
 msgid "Когда будет новая фотосессия, тётя Кира?"
-msgstr ""
+msgstr "Wann gibt es ein neues Fotoshooting, Tante Kira?"
 
 #    # game/core/02init.rpy:128
 msgid "О школе..."
@@ -554,7 +554,8 @@ msgstr "Schön, dich zu sehen, Olivia!"
 #    # game/core/02init.rpy:128
 msgid "Ну как, всё повторила? \n"
 "{i}(проводить Лизу в школу){/i}"
-msgstr ""
+msgstr "Also, hast du alles nochmal gemacht?\n"
+"{i} (um Lisa zur Schule zu begleiten) {/ i}"
 
 #    # game/core/02init.rpy:235
 msgid "Одежда"
@@ -634,11 +635,11 @@ msgstr "Ich habe etwas Süßes für dich gekauft!"
 
 #    # game/core/02init.rpy:246
 msgid "У меня для тебя подарок {i}(Кожаный костюм){/i}"
-msgstr ""
+msgstr "Ich habe ein Geschenk für dich {i}(Lederanzug){/i}"
 
 #    # game/core/02init.rpy:246
 msgid "У меня для тебя подарок {i}(Плётка){/i}"
-msgstr ""
+msgstr "Ich habe ein Geschenk für dich {i}(Peitsche){/i}"
 
 #    # game/core/02init.rpy:246
 msgid "Мам, я купил тебе одежду полегче!"
