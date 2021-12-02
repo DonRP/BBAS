@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-11-02 12:35\n"
+"PO-Revision-Date: 2021-12-02 10:57\n"
 
 # game/dialogues/punishment.rpy:99## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -30,27 +30,27 @@ msgstr ""
 
 # game/dialogues/punishment.rpy:129## # translate crowdin punishment_4d81c6a0:
 msgid "[Ann_18]Так, Лиза, начнём с тебя..."
-msgstr ""
+msgstr "[Ann_18]Also, Lisa, lass uns mit dir anfangen..."
 
 # game/dialogues/punishment.rpy:131## # translate crowdin punishment_353120e8:
 msgid "[Ann_18]Теперь Лиза..."
-msgstr ""
+msgstr "[Ann_18]Jetzt Lisa..."
 
 # game/dialogues/punishment.rpy:133## # translate crowdin punishment_6d4a5e81:
 msgid "[Ann_18]Лиза, подойди-ка ко мне."
-msgstr ""
+msgstr "[Ann_18]Lisa, komm zu mir."
 
 # game/dialogues/punishment.rpy:139## # translate crowdin punishment_0a6a61be:
 msgid "[Ann_18]Алиса, начнём с тебя..."
-msgstr ""
+msgstr "[Ann_18]Alice, fangen wir mit dir an..."
 
 # game/dialogues/punishment.rpy:141## # translate crowdin punishment_390d46c1:
 msgid "[Ann_18]Теперь ты, Алиса..."
-msgstr ""
+msgstr "[Ann_18]Jetzt du, Alice..."
 
 # game/dialogues/punishment.rpy:143## # translate crowdin punishment_dd38597c:
 msgid "[Ann_18]Алиса, подойди-ка сюда."
-msgstr ""
+msgstr "[Ann_18]Alice, komm her."
 
 # game/dialogues/punishment.rpy:159## # translate crowdin first_new_punishment_9e045600:
 msgid "[Ann_12]Да, напоминаю всем. С сегодняшнего дня все наказания будут в обнажённом виде. Да, я понимаю, что это непедагогично, но очень эффективно."
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/dialogues/punishment.rpy:160## # translate crowdin first_new_punishment_8bbfe5b5:
 msgid "[Max_10]Но мам..."
-msgstr ""
+msgstr "[Max_10]Aber Mama..."
 
 # game/dialogues/punishment.rpy:161## # translate crowdin first_new_punishment_de217f08:
 msgid "[Ann_16]Я знаю, Макс, но уговаривать и пытаться вас убедить другим способом у меня нет ни сил ни времени. Чем более унизительно наказание, тем у вас будет меньше желания нарушить правила."
