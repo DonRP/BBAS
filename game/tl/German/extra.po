@@ -10,154 +10,154 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-11-02 11:20\n"
+"PO-Revision-Date: 2021-12-02 10:57\n"
 
 msgid "Новый купальник Лизы"
 msgstr "Lisas neuer Badeanzug"
 
 #    # game/extra/extra.rpy:56
 msgid "Извинительная пижамка для Алисы"
-msgstr ""
+msgstr "Pyjama für Alice als Entschuldigung"
 
 #    # game/extra/extra.rpy:56
 msgid "Тёмное кружево"
-msgstr ""
+msgstr "Schwarze Spitze"
 
 #    # game/extra/extra.rpy:56
 msgid "Давай я нанесу крем"
-msgstr ""
+msgstr "Lass mich Dich eincremen"
 
 #    # game/extra/extra.rpy:56
 msgid "Ножкам приятно"
-msgstr ""
+msgstr "Schöne Füße"
 
 #    # game/extra/extra.rpy:56
 msgid "Помассирую не только ножки"
-msgstr ""
+msgstr "Ich werde nicht nur die Beine massieren"
 
 #    # game/extra/extra.rpy:56
 msgid "Могу не только руками"
-msgstr ""
+msgstr "Ich kann nicht nur mit meinen Händen"
 
 #    # game/extra/extra.rpy:56
 msgid "Ответная благодарность"
-msgstr ""
+msgstr "Danke gleichfalls"
 
 #    # game/extra/extra.rpy:56
 msgid "Первый массаж ног"
-msgstr ""
+msgstr "Erste Fußmassage"
 
 #    # game/extra/extra.rpy:56
 msgid "Внимание к пальчикам"
-msgstr ""
+msgstr "Aufmerksamkeit auf die Finger"
 
 #    # game/extra/extra.rpy:56
 msgid "Разомнём и плечики"
-msgstr ""
+msgstr "Schultermassage"
 
 #    # game/extra/extra.rpy:56
 msgid "Массаж для любимой тёти"
-msgstr ""
+msgstr "Massage für deine geliebte Tante"
 
 #    # game/extra/extra.rpy:56
 msgid "Совсем другой массаж"
-msgstr ""
+msgstr "Eine ganz besondere Massage"
 
 #    # game/extra/extra.rpy:56
 msgid "Ночные страхи"
-msgstr ""
+msgstr "Nächtlicher Terror"
 
 #    # game/extra/extra.rpy:56
 msgid "Кто это там ползёт"
-msgstr ""
+msgstr "Was kriecht dort"
 
 #    # game/extra/extra.rpy:56
 msgid "Монстр в ванной комнате"
-msgstr ""
+msgstr "Monster im Badezimmer"
 
 #    # game/extra/extra.rpy:56
 msgid "Держи и не отпускай"
-msgstr ""
+msgstr "Durchhalten und nicht loslassen"
 
 #    # game/extra/extra.rpy:56
 msgid "После клуба"
-msgstr ""
+msgstr "Nach dem Club"
 
 #    # game/extra/extra.rpy:56
 msgid "Я была плохой девочкой"
-msgstr ""
+msgstr "Ich war ein böses Mädchen"
 
 #    # game/extra/extra.rpy:56
 msgid "Как тебе такое?"
-msgstr ""
+msgstr "Wie gefällt dir das?"
 
 #    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
-msgstr ""
+msgstr "Ich habe dir ein Handtuch mitgebracht!"
 
 #    # game/extra/extra.rpy:56
 msgid "Первые снимки для блога Алисы"
-msgstr ""
+msgstr "Die ersten Fotos für Alices Blog"
 
 #    # game/extra/extra.rpy:56
 msgid "Я обошёл Эрика с подарком для Алисы"
-msgstr ""
+msgstr "Ich ging um Eric herum mit einem Geschenk für Alice"
 
 #    # game/extra/extra.rpy:56
 msgid "Попка, которую я теперь могу отшлёпать"
-msgstr ""
+msgstr "Ein Arsch, den ich jetzt versohlen kann"
 
 #    # game/extra/extra.rpy:56
 msgid "Меня нужно наказать именно так!"
-msgstr ""
+msgstr "Ich muss so bestraft werden!"
 
 #    # game/extra/extra.rpy:56
 msgid "Смотрим порно вместе с тётей"
-msgstr ""
+msgstr "Mit meiner Tante Pornos gucken"
 
 #    # game/extra/extra.rpy:56
 msgid "Первый урок поцелуев"
-msgstr ""
+msgstr "Die erste Kussstunde"
 
 #    # game/extra/extra.rpy:56
 msgid "А это уже совсем не массаж!"
-msgstr ""
+msgstr "Es ist überhaupt keine Massage!"
 
 #    # game/extra/extra.rpy:56
 msgid "Второй урок поцелуев"
-msgstr ""
+msgstr "Die zweite Kussstunde"
 
 #    # game/extra/extra.rpy:56
 msgid "Третий урок поцелуев"
-msgstr ""
+msgstr "Die dritte Kussstunde"
 
 #    # game/extra/extra.rpy:56
 msgid "Горячее, чем порно"
-msgstr ""
+msgstr "Heißer als Pornos"
 
 #    # game/extra/extra.rpy:56
 msgid "Небольшое приключение перед сном"
-msgstr ""
+msgstr "Ein kleines Abenteuer vor dem Schlafengehen"
 
 #    # game/extra/extra.rpy:56
 msgid "Не зря купил сорочку"
-msgstr ""
+msgstr "Kein Wunder, dass ich ein Hemd gekauft habe"
 
 #    # game/extra/extra.rpy:56
 msgid "С меня приятный должок"
-msgstr ""
+msgstr "Ich bin zu großem Dank verpflichtet"
 
 #    # game/extra/extra.rpy:56
 msgid "Стриптиз после клуба"
-msgstr ""
+msgstr "Striptease nach dem Club"
 
 #    # game/extra/extra.rpy:56
 msgid "Порно-портфолио для Киры"
-msgstr ""
+msgstr "Porno-Portfolio für Kira"
 
 #    # game/extra/extra.rpy:56
 msgid "Немного БДСМ от Киры"
-msgstr ""
+msgstr "Etwas BDSM von Kira"
 
 #    # game/extra/extra.rpy:56
 msgid "Хватит мять сиськи"
@@ -197,11 +197,11 @@ msgstr ""
 
 #    # game/extra/extra.rpy:56
 msgid "Это точно триллер-детектив?"
-msgstr ""
+msgstr "Ist das ein Detektivthriller?"
 
 #    # game/extra/extra.rpy:56
 msgid "Полотенце снова сползает..."
-msgstr ""
+msgstr "Das Handtuch rutscht wieder..."
 
 #    # game/extra/extra.rpy:56
 msgid "Урок по минету от мамы и Эрика"
