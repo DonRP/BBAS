@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-02 10:57\n"
+"PO-Revision-Date: 2021-12-03 15:22\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -414,23 +414,23 @@ msgstr ""
 
 # game/dialogues/lisatalk.rpy:354## # translate crowdin about_school_ok_8dd8bef3:
 msgid "[Lisa_03]Обычно? Это ты свой первый день в таком месте и таком доме называешь обычным?![nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Habituel? Est-ce que c'est ton premier jour dans un endroit et une maison comme celle-ci que tu appelles ordinaire ?![nointeract]"
 
 # game/dialogues/lisatalk.rpy:357## # translate crowdin about_school_ok_4a5b1960:
 msgid "[Lisa_02]Это если нам повезёт и нас отсюда не выгонят. За неуплату чего-то...[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Si on a la chance de ne pas être mis à la porte. Pour ne pas avoir payé quelque chose...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:359## # translate crowdin about_school_ok_9b52ff89:
 msgid "[Lisa_00]Обычно да, но до сих пор не верится, что наша жизнь так изменилась!"
-msgstr ""
+msgstr "[Lisa_00]Habituel oui, mais je n'arrive toujours pas à croire que nos vies ont tellement changé!"
 
 # game/dialogues/lisatalk.rpy:360## # translate crowdin about_school_ok_10db7583:
 msgid "[Max_00]Ладно, не будем о грустном"
-msgstr ""
+msgstr "[Max_00]Ok, ne parlons pas de choses tristes"
 
 # game/dialogues/lisatalk.rpy:363## # translate crowdin about_school_ok_188cdb07:
 msgid "[Lisa_00]Ладно, Макс, не будем о грустном. Может быть, всё будет хорошо!"
-msgstr ""
+msgstr "[Lisa_00]Ok, Max, ne parlons pas de choses tristes. Peut-être que tout ira bien !"
 
 # game/dialogues/lisatalk.rpy:364## # translate crowdin about_school_ok_85ed3da3:
 msgid "[Max_00]Да, ты права"
