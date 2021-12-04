@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-03 15:22\n"
+"PO-Revision-Date: 2021-12-04 15:48\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -434,23 +434,23 @@ msgstr "[Lisa_00]Ok, Max, ne parlons pas de choses tristes. Peut-être que tout 
 
 # game/dialogues/lisatalk.rpy:364## # translate crowdin about_school_ok_85ed3da3:
 msgid "[Max_00]Да, ты права"
-msgstr ""
+msgstr "[Max_00]Oui, tu as raison"
 
 # game/dialogues/lisatalk.rpy:370## # translate crowdin about_school_ok_c9f8ad64:
 msgid "[Lisa_03]Да уж, задача сложная. Невыносимые условия жизни и всё такое, да?[nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Oui, c'est une tâche difficile. Des conditions de vie insupportables et tout ça, hein ?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:377## # translate crowdin about_school_sad_cc78098b:
 msgid "[Lisa_02]Так что планируешь делать, чем займёшься?[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Alors, que comptes-tu faire, que feras-tu?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:379## # translate crowdin about_school_sad_3cc509d1:
 msgid "[Lisa_03]Я бы посоветовала тебе искупаться, для начала. Собственно, я этим и планирую заняться!"
-msgstr ""
+msgstr "[Lisa_03]Je te conseille de prendre un bain, pour commencer. En fait, c'est ce que je compte faire !"
 
 # game/dialogues/lisatalk.rpy:380## # translate crowdin about_school_sad_1c015bc2:
 msgid "[Max_04]Хорошая идея..."
-msgstr ""
+msgstr "[Max_04]Bonne idée..."
 
 # game/dialogues/lisatalk.rpy:383## # translate crowdin about_school_sad_9dbc5990:
 msgid "[Lisa_03]Лично я буду купаться и загорать. Загорать и купаться. Пока не надоест. А потом повторю!"
