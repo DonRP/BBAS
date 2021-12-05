@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 15:48\n"
+"PO-Revision-Date: 2021-12-05 18:11\n"
 
 msgid "Скрытые камеры"
 msgstr "Telecamere nascoste"
@@ -465,7 +465,7 @@ msgstr "Ho preso qualcosa di più sexy per Alice, vale a dire un body traslucido
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Остаётся ждать, пока Алисе снова что-нибудь не понадобится. И хотя бы временами интересоваться, как у неё идут дела с блогом. Заодно и на сестрёнку в нижнем белье поглазею..."
-msgstr "Остаётся ждать, пока Алисе снова что-нибудь не понадобится. И хотя бы временами интересоваться, как у неё идут дела с блогом. Заодно и на сестрёнку в нижнем белье поглазею..."
+msgstr "Dobbiamo aspettare che Alice abbia di nuovo bisogno di qualcosa. E almeno ogni tanto chiedile come va il suo blog. Posso anche guardare mia sorella in mutande..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\n"
