@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2021-11-02 11:16\n"
+"PO-Revision-Date: 2021-12-05 15:48\n"
 
 msgid "Скрытые камеры"
 msgstr ""
@@ -1862,83 +1862,83 @@ msgstr ""
 msgid "Так уже намного лучше! Теперь у мамы есть новый спортивный костюм, который подарит нам с ней много тёплых эмоций. Она даже не слишком выступала по поводу того, что он очень открытый. Это смотря для чего... Как по мне, если бы она занималась йогой совершенно голой - это была бы бомба! Эх, мечты... Но как знать, может однажды..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "А не посмотреть ли вместе с мамой какой-нибудь фильм? Может и стоит..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Алиса любит понежиться на солнышке. Интересно, а она бы разрешила мне растереть ей спину каким-нибудь средством для загара? Стоит узнать..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Почему бы не составить Алисе компанию, когда она смотрит ТВ? А чтобы не сидеть без дела, можно и массаж ей сделать. Только нужно хоть какими-то знаниями обзавестись в этом деле..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Чтобы лезть к Лизе с расспросами о её однокласснике, лучше сперва позаботиться о том, чтобы у неё было хорошее настроение..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "С тётей Кирой о стольком можно поговорить! Нужно успевать, пока она нежится на солнце..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Если мои сёстры увидят, что я подглядываю за тем, как они принимают душ, то у меня будет много проблем. Но вдруг их удастся чем-то задобрить..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эта возможность доступна только при дружбе с Эриком..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эрик намекнул, что мне можно подглядывать за тем, чем они с мамой занимаются наедине. Теперь за ними спокойно можно подглядывать в спальне..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Потребуются успехи в возможности \"Любимая тётя\"..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эрик явно проявляет к Алисе особый интерес. Нужно приглядывать за этой парочкой, когда они вместе. Но что-то непристойное может происходить и ночью, если вдруг не все будут спать..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нет смысла что-либо затевать в отношении Алисиной попки, пока её хотя бы раз не накажут голой..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Я слишком мало защищал Алису от наказаний мамы..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нужно опередить Эрика во всём, что он будет делать для Алисы. Особенно в дарении одежды..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нужно и дальше защищать Алису от наказаний..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эрик подарил Алисе кружевное боди раньше меня, а значит я упустил возможность ещё больше с ней сблизиться. По крайней мере, пока не избавлюсь от него (но не в этой версии игры)..."
 msgstr ""
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
 msgstr ""
 
