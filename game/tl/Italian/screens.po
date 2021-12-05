@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 15:48\n"
+"PO-Revision-Date: 2021-12-05 16:50\n"
 
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}NEGOZIO ONLINE{/b}"
@@ -361,25 +361,25 @@ msgstr "[view_cam[1].public]"
 
 #    # game/core/screens.rpy:2039
 msgid "ВНИМАНИЕ"
-msgstr ""
+msgstr "ATTENZIONE"
 
 #    # game/core/screens.rpy:2040
 msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
-msgstr ""
+msgstr "CONTENUTI PER ADULTI"
 
 #    # game/core/screens.rpy:2044
 msgid "Эта игра содержит контент сексуального характера"
-msgstr ""
+msgstr "Questo gioco contiene contenuti di natura sessuale"
 
 #    # game/core/screens.rpy:2045
 msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
-msgstr ""
+msgstr "Continuando, confermi di essere abbastanza grande per questi contenuti"
 
 #    # game/core/screens.rpy:2047
 msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
-msgstr ""
+msgstr "Tutti i personaggi rappresentati in questo gioco sono immaginari e hanno più di 18 anni"
 
 #    # game/core/screens.rpy:2051
 msgid "Продолжить"
-msgstr ""
+msgstr "Continua"
 
