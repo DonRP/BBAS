@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-11-02 12:54
+﻿# TODO: Translation updated at 2021-12-05 17:43
 
 # game/events/max.rpy:4## # translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -16,25 +16,29 @@ msgstr "[Max_00]{m}В каком часу мне будет лучше прос�
 msgid "[Max_19]Как же в этом доме хорошо..."
 msgstr "[Max_19]Как же в этом доме хорошо..."
 
-# game/events/max.rpy:64## # translate crowdin Wearied_d8557c8f:
+# game/events/max.rpy:65## # translate crowdin Wearied_d8557c8f:
 msgid "[Max_10]{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}[nointeract]"
 msgstr "[Max_10]{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}[nointeract]"
 
-# game/events/max.rpy:66## # translate crowdin Wearied_dca71115:
+# game/events/max.rpy:67## # translate crowdin Wearied_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
 msgstr "[Max_19]Как же в этом доме хорошо..."
 
-# game/events/max.rpy:84## # translate crowdin LittleEnergy_d97dcb62:
+# game/events/max.rpy:85## # translate crowdin LittleEnergy_d97dcb62:
 msgid "[Max_10]{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}[nointeract]"
 msgstr "[Max_10]{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}[nointeract]"
 
-# game/events/max.rpy:93## # translate crowdin LittleEnergy_dca71115:
+# game/events/max.rpy:94## # translate crowdin LittleEnergy_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
 msgstr "[Max_19]Как же в этом доме хорошо..."
 
-# game/events/max.rpy:118## # translate crowdin Nap_89de1ee6:
-msgid "[Max_00][txt!t][nointeract]"
-msgstr "[Max_00][txt!t][nointeract]"
+# game/events/max.rpy:114## # translate crowdin Nap_89e3b066:
+msgid "[Max_00]{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}[nointeract]"
+msgstr "[Max_00]{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}[nointeract]"
+
+# game/events/max.rpy:116## # translate crowdin Nap_286b3b95:
+msgid "[Max_00]{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}[nointeract]"
+msgstr "[Max_00]{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}[nointeract]"
 
 # game/events/max.rpy:131## # translate crowdin Nap_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
@@ -516,35 +520,27 @@ msgstr "{i}в 6 утра{/i}"
 msgid "{i}в 7 утра{/i}"
 msgstr "{i}в 7 утра{/i}"
 
-#    # game/events/max.rpy:83
+#    # game/events/max.rpy:84
 msgid "{i}вздремнуть{/i}"
 msgstr "{i}вздремнуть{/i}"
 
-#    # game/events/max.rpy:113
-msgid "{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}"
-msgstr "{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}"
-
-#    # game/events/max.rpy:115
-msgid "{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}"
-msgstr "{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}"
-
-#    # game/events/max.rpy:117
+#    # game/events/max.rpy:118
 msgid "{i}подремать пару часов{/i}"
 msgstr "{i}подремать пару часов{/i}"
 
-#    # game/events/max.rpy:117
+#    # game/events/max.rpy:118
 msgid "{i}подремать 3 часа{/i}"
 msgstr "{i}подремать 3 часа{/i}"
 
-#    # game/events/max.rpy:117
+#    # game/events/max.rpy:118
 msgid "{i}подремать 4 часа{/i}"
 msgstr "{i}подремать 4 часа{/i}"
 
-#    # game/events/max.rpy:117
+#    # game/events/max.rpy:118
 msgid "{i}подремать 5 часов{/i}"
 msgstr "{i}подремать 5 часов{/i}"
 
-#    # game/events/max.rpy:117
+#    # game/events/max.rpy:118
 msgid "{i}не-а, может позже...{/i}"
 msgstr "{i}не-а, может позже...{/i}"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-11-02 12:54
+﻿# TODO: Translation updated at 2021-12-05 17:43
 
 ## # translate crowdin strings:#    # game/screens.rpy:244
 msgid "массаж, "
@@ -64,11 +64,11 @@ msgstr "Начать новую игру"
 msgid "Загрузить игру"
 msgstr "Загрузить игру"
 
-#    # game/screens.rpy:388
+#    # game/screens.rpy:387
 msgid "Сохранить игру"
 msgstr "Сохранить игру"
 
-#    # game/screens.rpy:392
+#    # game/screens.rpy:390
 msgid "Настройки"
 msgstr "Настройки"
 
@@ -80,27 +80,27 @@ msgstr "Завершить повтор"
 msgid "Выйти из игры"
 msgstr "Выйти из игры"
 
-#    # game/screens.rpy:410
+#    # game/screens.rpy:413
 msgid "Назад"
 msgstr "Назад"
 
-#    # game/screens.rpy:487
+#    # game/screens.rpy:490
 msgid "НОВАЯ ИГРА"
 msgstr "НОВАЯ ИГРА"
 
-#    # game/screens.rpy:493
+#    # game/screens.rpy:496
 msgid "ПРОДОЛЖИТЬ"
 msgstr "ПРОДОЛЖИТЬ"
 
-#    # game/screens.rpy:496
+#    # game/screens.rpy:499
 msgid "ЗАГРУЗИТЬ"
 msgstr "ЗАГРУЗИТЬ"
 
-#    # game/screens.rpy:500
+#    # game/screens.rpy:503
 msgid "НАСТРОЙКИ"
 msgstr "НАСТРОЙКИ"
 
-#    # game/screens.rpy:501
+#    # game/screens.rpy:504
 msgid "ВЫЙТИ"
 msgstr "ВЫЙТИ"
 
@@ -108,99 +108,99 @@ msgstr "ВЫЙТИ"
 msgid "ГЛАВНОЕ МЕНЮ"
 msgstr "ГЛАВНОЕ МЕНЮ"
 
-#    # game/screens.rpy:666
+#    # game/screens.rpy:669
 msgid "Введите описание файла сохранения:"
 msgstr "Введите описание файла сохранения:"
 
-#    # game/screens.rpy:687
+#    # game/screens.rpy:690
 msgid "(Нет описания)"
 msgstr "(Нет описания)"
 
-#    # game/screens.rpy:706
+#    # game/screens.rpy:709
 msgid "{} страница"
 msgstr "{} страница"
 
-#    # game/screens.rpy:706
+#    # game/screens.rpy:709
 msgid "Автосохранения"
 msgstr "Автосохранения"
 
-#    # game/screens.rpy:706
+#    # game/screens.rpy:709
 msgid "Быстрые сохранения"
 msgstr "Быстрые сохранения"
 
-#    # game/screens.rpy:781
+#    # game/screens.rpy:784
 msgid "{#file_time}%a, %d %b %Y, %H:%M"
 msgstr "{#file_time}%a, %d %b %Y, %H:%M"
 
-#    # game/screens.rpy:781
+#    # game/screens.rpy:784
 msgid "Пустой слот"
 msgstr "Пустой слот"
 
-#    # game/screens.rpy:789
+#    # game/screens.rpy:792
 msgid "ДЕНЬ [load_day]"
 msgstr "ДЕНЬ [load_day]"
 
-#    # game/screens.rpy:839
+#    # game/screens.rpy:842
 msgid "{#file_time}%d %b %Y, %H:%M"
 msgstr "{#file_time}%d %b %Y, %H:%M"
 
-#    # game/screens.rpy:863
+#    # game/screens.rpy:866
 msgid "<"
 msgstr "<"
 
-#    # game/screens.rpy:866
+#    # game/screens.rpy:869
 msgid "{#auto_page}Автосохр."
 msgstr "{#auto_page}Автосохр."
 
-#    # game/screens.rpy:869
+#    # game/screens.rpy:872
 msgid "{#quick_page}Быстрые сохр."
 msgstr "{#quick_page}Быстрые сохр."
 
-#    # game/screens.rpy:875
+#    # game/screens.rpy:878
 msgid ">"
 msgstr ">"
 
-#    # game/screens.rpy:944
+#    # game/screens.rpy:947
 msgid "Режим экрана"
 msgstr "Режим экрана"
 
-#    # game/screens.rpy:945
+#    # game/screens.rpy:948
 msgid "Оконный"
 msgstr "Оконный"
 
-#    # game/screens.rpy:946
+#    # game/screens.rpy:949
 msgid "Полный"
 msgstr "Полный"
 
-#    # game/screens.rpy:949
+#    # game/screens.rpy:952
 msgid "Сторона отката"
 msgstr "Сторона отката"
 
-#    # game/screens.rpy:950
+#    # game/screens.rpy:953
 msgid "Отключено"
 msgstr "Отключено"
 
-#    # game/screens.rpy:951
+#    # game/screens.rpy:954
 msgid "Левая"
 msgstr "Левая"
 
-#    # game/screens.rpy:952
+#    # game/screens.rpy:955
 msgid "Правая"
 msgstr "Правая"
 
-#    # game/screens.rpy:958
+#    # game/screens.rpy:961
 msgid "Всего текста"
 msgstr "Всего текста"
 
-#    # game/screens.rpy:959
+#    # game/screens.rpy:962
 msgid "После выборов"
 msgstr "После выборов"
 
-#    # game/screens.rpy:960
+#    # game/screens.rpy:963
 msgid "Переходов"
 msgstr "Переходов"
 
-#    # game/screens.rpy:963
+#    # game/screens.rpy:966
 msgid "Язык"
 msgstr "Язык"
 
