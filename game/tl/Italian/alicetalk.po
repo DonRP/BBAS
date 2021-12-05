@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 16:50\n"
+"PO-Revision-Date: 2021-12-05 18:12\n"
 
 # game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -294,7 +294,7 @@ msgstr "[Alice_02]Beh, non lo so, non lo so...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:388## # translate crowdin alice_tv_massage_starter_f3e20bd8:
 msgid "[Alice_02][failed!t]Нет, Макс, в другой раз. Что-то я сомневаюсь. Вдруг, ты мне что-то сломаешь... Нет, спасибо."
-msgstr "[Alice_02][fallito!t] No, Max, un'altra volta. Qualcosa di cui dubito. Improvvisamente, stai per rompere qualcosa per me... No grazie."
+msgstr "[Alice_02][failed!t] No, Max, un'altra volta. Qualcosa di cui dubito. Improvvisamente, stai per rompere qualcosa per me... No grazie."
 
 # game/dialogues/alicetalk.rpy:389## # translate crowdin alice_tv_massage_starter_ea0eef90:
 msgid "[Max_08]Ну, как хочешь... Не буду тебе мешать..."
@@ -366,11 +366,11 @@ msgstr "[Max_01]Forse dovresti toglierti i jeans allora? Non farà così caldo..
 
 # game/dialogues/alicetalk.rpy:564## # translate crowdin alice_talk_tv_choice_mass_create_menu_c7c13cf5:
 msgid "[Alice_03][failed!t]Нет, мне хватит одной... А то я мигом фигуру испорчу. Лучше продолжай массировать мои ножки...[nointeract]"
-msgstr "[Alice_03][fallito!t] No, uno mi basta... Altro che rovinerò la figura in un attimo. Meglio continuare a massaggiarmi le gambe...[nointeract]"
+msgstr "[Alice_03][failed!t] No, uno mi basta... Altro che rovinerò la figura in un attimo. Meglio continuare a massaggiarmi le gambe...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:574## # translate crowdin alice_talk_tv_choice_mass_create_menu_06eaca6d:
 msgid "[Alice_05][failed!t]Это так ты к девушкам подкатываешь, сразу предлагаешь снять штаны?[nointeract]"
-msgstr "[Alice_05][fallito!t] È così che ti arrotoli verso le ragazze, offriti immediatamente di toglierti i pantaloni?[nointeract]"
+msgstr "[Alice_05][failed!t] È così che ti arrotoli verso le ragazze, offriti immediatamente di toglierti i pantaloni?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:579## # translate crowdin alice_talk_tv_choice_mass_create_menu_cd8988f9:
 msgid "[Alice_01]Да шучу я. Но джинсы снимать не стану. Даже не надейся. Кстати, ты закончил с массажем? Спасибо большое, можешь идти..."
@@ -634,7 +634,7 @@ msgstr "[Max_00]Va bene..."
 
 # game/dialogues/alicetalk.rpy:892## # translate crowdin alice_talk_tv_massage_next_e52ff194:
 msgid "[Alice_03][alice_good_mass!t]Ух, как хорошо... Макс, а ты молодец сегодня! Не ожидала такой чувственности и в то же время силы... Ну всё спасибо, иди..."
-msgstr "[Alice_03]Ukh, che bello... Max, e oggi sei grande! Non mi aspettavo tanta sensualità e allo stesso tempo forza... Bene, grazie, vai..."
+msgstr "[Alice_03][alice_good_mass!t]Wow, che bella sensazione... Max, sei stato grande oggi! Non mi aspettavo una tale sensualità e allo stesso tempo forza... Bene, grazie, vai..."
 
 # game/dialogues/alicetalk.rpy:893## # translate crowdin alice_talk_tv_massage_next_e263d7d3:
 msgid "[Max_04]Не за что..."
@@ -1402,7 +1402,7 @@ msgstr "[Max_03]Va bene. Aspetterò...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1802## # translate crowdin smoke_fear_9229c45e:
 msgid "[Alice_16][failed!t]Нет уж! Что-то другое ещё можешь попробовать выпросить, но к своей попке я тебя сегодня не подпущу.[nointeract]"
-msgstr "[Alice_16][fallito!t] No! Puoi provare a chiedere l'e-eresina per qualcos'altro, ma oggi non ti lascerò andare al mio.[nointeract]"
+msgstr "[Alice_16][failed!t] No! Puoi provare a chiedere l'e-eresina per qualcos'altro, ma oggi non ti lascerò andare al mio.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1816## # translate crowdin smoke_fear_f8226515:
 msgid "[Alice_14]Голой? Прямо совсем-совсем голой?! Что, фантазия закончилась, скатился до самого простейшего?"
@@ -1498,7 +1498,7 @@ msgstr "[Max_03]sto aspettando..."
 
 # game/dialogues/alicetalk.rpy:1910## # translate crowdin smoke_fear_money_cb48f066:
 msgid "[Alice_16][failed!t]Макс, не наглей! Сейчас принесу $10. Жди..."
-msgstr "[Alice_16][fallito!t] Max, non essere sfacciato! Ora porterò $ 10. Aspettare..."
+msgstr "[Alice_16][failed!t] Max, non essere sfacciato! Ora porterò $ 10. Aspettare..."
 
 # game/dialogues/alicetalk.rpy:1911## # translate crowdin smoke_fear_money_21c2303f:
 msgid "[Max_04]Ну ладно, я жду..."
@@ -1510,7 +1510,7 @@ msgstr "[Alice_12]Tieni i tuoi soldi... E non ricattarmi più. Davvero non mi pi
 
 # game/dialogues/alicetalk.rpy:1926## # translate crowdin smoke_fear_fail_1bbfb6e5:
 msgid "[Alice_16][failed!t]Ага, сейчас! Ну ты и хам, Макс... Всё, отвали, дай покурить спокойно...[nointeract]"
-msgstr "[Alice_16][fallito!t] sì, ora! Beh, sei boorish, Max... Tutto, cadere, lasciarmi fumare tranquillamente...[nointeract]"
+msgstr "[Alice_16][failed!t] sì, ora! Beh, sei boorish, Max... Tutto, cadere, lasciarmi fumare tranquillamente...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1935## # translate crowdin smoke_fear_fail2_77090a0c:
 msgid "[Alice_12][failed!t]Вот так значит? А я вот выбираю вариант, в котором ты, может быть, останешься сегодня цел, если очень быстро свалишь отсюда и не будешь мне надоедать... Пока я ещё более-менее добрая.[nointeract]"
@@ -2538,7 +2538,7 @@ msgstr "[Max_01]Capito, sorella! Non ti disturberò..."
 
 # game/dialogues/alicetalk.rpy:2560## # translate crowdin gift_pajamas_bf71de6e:
 msgid "[Alice_05][failed!t]Ладно, поверю, считай твои извинения приняты... Ого, а что это у тебя здесь..."
-msgstr "[Alice_05][fallito!t] Ok, ti crederò, considera accettate le tue scuse... Walth, com'è qui..."
+msgstr "[Alice_05][failed!t] Ok, ti crederò, considera accettate le tue scuse... Walth, com'è qui..."
 
 # game/dialogues/alicetalk.rpy:2562## # translate crowdin gift_pajamas_324b4e00_1:
 msgid "[Max_12]А-а-ай! Мне же больно, Алиса!"
@@ -2574,7 +2574,7 @@ msgstr "[Max_01]No, volevo solo vedere come ti avrebbe guardato il tuo pigiama..
 
 # game/dialogues/alicetalk.rpy:2571## # translate crowdin gift_pajamas_f9ed34d4:
 msgid "[Alice_05]Ладно, поверю, считай твои извинения приняты... Ого, а что это у тебя здесь..."
-msgstr "[Alice_05]Ok, ti crederò\", considera accettate le tue scuse... Walth, com'è qui..."
+msgstr "[Alice_05]Va bene, ti crederò, accetto le tue scuse... Oh, che cos'hai lì..."
 
 # game/dialogues/alicetalk.rpy:2573## # translate crowdin gift_pajamas_324b4e00_2:
 msgid "[Max_12]А-а-ай! Мне же больно, Алиса!"
@@ -2838,7 +2838,7 @@ msgstr "[Max_02]Continua così, sorella!"
 
 # game/dialogues/alicetalk.rpy:2972## # translate crowdin massage_sunscreen_talk_topless_8007ab35:
 msgid "[Alice_04][failed!t]Вот только на \"слабо\" меня брать не надо!"
-msgstr "[Alice_04][fallito!t] Questo è solo sul \"debole\" che non ho bisogno di prendere!"
+msgstr "[Alice_04][failed!t] Questo è solo sul \"debole\" che non ho bisogno di prendere!"
 
 # game/dialogues/alicetalk.rpy:2973## # translate crowdin massage_sunscreen_talk_topless_57148625:
 msgid "[Max_01]Ладно, как скажешь..."
@@ -3286,7 +3286,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3312## # translate crowdin alice_sorry_gifts_middle_again_bc52a6b0:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3313## # translate crowdin alice_sorry_gifts_middle_again_088d0b2a:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -3406,7 +3406,7 @@ msgstr "[Alice_05]Beh, certo... Dai."
 
 # game/dialogues/alicetalk.rpy:3363## # translate crowdin alice_sorry_gifts_what_bummer_22133154:
 msgid "[Alice_05][failed!t]Ах, а так хотелось! Какой облом..."
-msgstr "[Alice_05][fallito!t] Oh, e così ho voluto! Che relitto..."
+msgstr "[Alice_05][failed!t] Oh, e così ho voluto! Che relitto..."
 
 # game/dialogues/alicetalk.rpy:3364## # translate crowdin alice_sorry_gifts_what_bummer_ecf61f90:
 msgid "[Max_09]Обнять меня или придушить?"
@@ -3426,7 +3426,7 @@ msgstr "[Alice_02]Beh, come vuoi..."
 
 # game/dialogues/alicetalk.rpy:3372## # translate crowdin alice_sorry_gifts_im_in_pain_6b2c5b58:
 msgid "[Alice_05][failed!t]Ладно, Макс, считай твои извинения приняты... Ого, а что это у тебя здесь..."
-msgstr "[Alice_05][fallito!t] Ok, Max, considera le tue scuse accettate... Walth, com'è qui..."
+msgstr "[Alice_05][failed!t] Ok, Max, considera le tue scuse accettate... Walth, com'è qui..."
 
 # game/dialogues/alicetalk.rpy:3374## # translate crowdin alice_sorry_gifts_im_in_pain_324b4e00:
 msgid "[Max_12]А-а-ай! Мне же больно, Алиса!"
@@ -3522,7 +3522,7 @@ msgstr "[Alice_02]Esatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3414## # translate crowdin alice_sorry_gifts_bad_bc52a6b0:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3415## # translate crowdin alice_sorry_gifts_bad_088d0b2a:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -3670,7 +3670,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3468## # translate crowdin alice_sorry_gifts_bad_bc52a6b0_1:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3469## # translate crowdin alice_sorry_gifts_bad_088d0b2a_3:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -3766,7 +3766,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3510## # translate crowdin alice_sorry_gifts_bad_bc52a6b0_2:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3511## # translate crowdin alice_sorry_gifts_bad_088d0b2a_5:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -3818,7 +3818,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3536## # translate crowdin alice_sorry_gifts_bad_bc52a6b0_3:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3537## # translate crowdin alice_sorry_gifts_bad_088d0b2a_6:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -3882,7 +3882,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3568## # translate crowdin alice_sorry_gifts_bad_bc52a6b0_4:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3569## # translate crowdin alice_sorry_gifts_bad_088d0b2a_7:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -4014,7 +4014,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3623## # translate crowdin alice_sorry_gifts_middle_bc52a6b0:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3624## # translate crowdin alice_sorry_gifts_middle_088d0b2a:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -4090,7 +4090,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3650## # translate crowdin alice_sorry_gifts_middle_bc52a6b0_1:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3651## # translate crowdin alice_sorry_gifts_middle_088d0b2a_1:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -4250,7 +4250,7 @@ msgstr "[Max_01]Capito, sorella! Non ti disturberò..."
 
 # game/dialogues/alicetalk.rpy:3719## # translate crowdin alice_sorry_gifts_middle_6b2c5b58:
 msgid "[Alice_05][failed!t]Ладно, Макс, считай твои извинения приняты... Ого, а что это у тебя здесь..."
-msgstr "[Alice_05][fallito!t] Ok, Max, considera le tue scuse accettate... Walth, com'è qui..."
+msgstr "[Alice_05][failed!t] Ok, Max, considera le tue scuse accettate... Walth, com'è qui..."
 
 # game/dialogues/alicetalk.rpy:3721## # translate crowdin alice_sorry_gifts_middle_324b4e00_4:
 msgid "[Max_12]А-а-ай! Мне же больно, Алиса!"
@@ -4310,7 +4310,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3744## # translate crowdin alice_sorry_gifts_middle_bc52a6b0_2:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3745## # translate crowdin alice_sorry_gifts_middle_088d0b2a_3:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -4366,7 +4366,7 @@ msgstr "[Max_01]Capito, sorella! Non ti disturberò..."
 
 # game/dialogues/alicetalk.rpy:3770## # translate crowdin alice_sorry_gifts_middle_6b2c5b58_1:
 msgid "[Alice_05][failed!t]Ладно, Макс, считай твои извинения приняты... Ого, а что это у тебя здесь..."
-msgstr "[Alice_05][fallito!t] Ok, Max, considera le tue scuse accettate... Walth, com'è qui..."
+msgstr "[Alice_05][failed!t] Ok, Max, considera le tue scuse accettate... Walth, com'è qui..."
 
 # game/dialogues/alicetalk.rpy:3772## # translate crowdin alice_sorry_gifts_middle_324b4e00_6:
 msgid "[Max_12]А-а-ай! Мне же больно, Алиса!"
@@ -4430,7 +4430,7 @@ msgstr "[Max_01]Oh, ho capito, sorella! Non interferirò..."
 
 # game/dialogues/alicetalk.rpy:3802## # translate crowdin alice_sorry_gifts_good_53fcd775:
 msgid "[Alice_05][failed!t]Ладно, Макс, считай твои извинения приняты... А ну-ка иди сюда..."
-msgstr "[Alice_05][fallito!t] Ok, Max, considera le tue scuse accettate... Vieni qui..."
+msgstr "[Alice_05][failed!t] Ok, Max, considera le tue scuse accettate... Vieni qui..."
 
 # game/dialogues/alicetalk.rpy:3804## # translate crowdin alice_sorry_gifts_good_c2c05b19:
 msgid "[Max_12]А-а-ай! Алиса! Больно ведь!"
@@ -4666,7 +4666,7 @@ msgstr "[Alice_02]Ben fatto! Camminare..."
 
 # game/dialogues/alicetalk.rpy:3902## # translate crowdin alice_sorry_gifts_good_bc52a6b0:
 msgid "[Alice_12][failed!t]Ты всерьёз думаешь, что меня можно в этом убедить?! Нет уж, я очень хочу посмотреть, как мама тебя отшлёпает!"
-msgstr "[Alice_12][fallito!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
+msgstr "[Alice_12][failed!t] Pensi seriamente che io possa essere persuaso di questo?! No, voglio davvero vedere mia madre sculacciarti!"
 
 # game/dialogues/alicetalk.rpy:3903## # translate crowdin alice_sorry_gifts_good_088d0b2a:
 msgid "[Max_14]Но, Алиса, я же купил вкусняшку... Ой, отпусти!"
@@ -4754,7 +4754,7 @@ msgstr "[Alice_05]Beh, certo... Dai."
 
 # game/dialogues/alicetalk.rpy:3941## # translate crowdin alice_sorry_gifts_good_22133154:
 msgid "[Alice_05][failed!t]Ах, а так хотелось! Какой облом..."
-msgstr "[Alice_05][fallito!t] Oh, e così ho voluto! Che relitto..."
+msgstr "[Alice_05][failed!t] Oh, e così ho voluto! Che relitto..."
 
 # game/dialogues/alicetalk.rpy:3942## # translate crowdin alice_sorry_gifts_good_ecf61f90:
 msgid "[Max_09]Обнять меня или придушить?"
@@ -5190,7 +5190,7 @@ msgstr "[Alice_05]Prova con te? Non eravamo d'accordo su questo. Mi presenterò 
 
 # game/dialogues/alicetalk.rpy:4186## # translate crowdin gift_black_lingerie_d8f3eecd:
 msgid "[Alice_12][failed!t]Примерю при тебе? Об этом мы не договаривались. Я покажусь в нём и только... А если будешь и дальше упрашивать, то вообще ничего не увидишь! Понял?"
-msgstr "[Alice_12][fallito!t] Prova con te? Non eravamo d'accordo su questo. Mi presenterò in esso e solo... E se continui a mendicare, non vedrai nulla! Ho capito?"
+msgstr "[Alice_12][failed!t] Prova con te? Non eravamo d'accordo su questo. Mi presenterò in esso e solo... E se continui a mendicare, non vedrai nulla! Ho capito?"
 
 # game/dialogues/alicetalk.rpy:4187## # translate crowdin gift_black_lingerie_5cfb418f:
 msgid "[Max_10]Да понял... Ладно. Буду ждать за дверью."
@@ -5422,7 +5422,7 @@ msgstr "[Max_01]Buon divertimento, dolce! Non interferirò..."
 
 # game/dialogues/alicetalk.rpy:4370## # translate crowdin alice_gift_sweets_22133154:
 msgid "[Alice_05][failed!t]Ах, а так хотелось! Какой облом..."
-msgstr "[Alice_05][fallito!t] Oh, e così ho voluto! Che relitto..."
+msgstr "[Alice_05][failed!t] Oh, e così ho voluto! Che relitto..."
 
 # game/dialogues/alicetalk.rpy:4373## # translate crowdin alice_gift_sweets_2eba28c2:
 msgid "[Max_09]Ну вот, я тебе любимые конфеты покупаю от чистого сердца, а ты..."
@@ -6550,7 +6550,7 @@ msgstr "[Alice_08]Mmm... Adoro queste cande! Seguimi![nointeract]"
 
 # game/dialogues/alicetalk.rpy:5281## # translate crowdin alice_mistress_3_dc08410d:
 msgid "[Alice_06][failed!t]А мне вот чувствуется, что это просто способ меня задобрить... Так что нет. Спасибо, но я обойдусь."
-msgstr "[Alice_06][fallito!t] E sento che è solo un modo per placarmi ... Quindi no. Grazie, ma me la farò."
+msgstr "[Alice_06][failed!t]Io, d'altra parte, sento che questo è solo un modo per placarmi... Quindi, no. Grazie, ma sono a posto."
 
 # game/dialogues/alicetalk.rpy:5282## # translate crowdin alice_mistress_3_3f92400e:
 msgid "[Max_07]Ну и зря, я хотел, как лучше."
