@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-04 13:23\n"
+"PO-Revision-Date: 2021-12-05 15:48\n"
 
 msgid "Скрытые камеры"
 msgstr "Telecamere nascoste"
@@ -1892,83 +1892,83 @@ msgstr "Puoi darle un nuovo abbigliamento sportivo almeno quando. Se solo fosse 
 msgid "Так уже намного лучше! Теперь у мамы есть новый спортивный костюм, который подарит нам с ней много тёплых эмоций. Она даже не слишком выступала по поводу того, что он очень открытый. Это смотря для чего... Как по мне, если бы она занималась йогой совершенно голой - это была бы бомба! Эх, мечты... Но как знать, может однажды..."
 msgstr "È molto meglio! Ora la mamma ha una nuova tuta che ci regalerà molte emozioni calde. Non ha nemmeno parlato troppo del fatto che fosse molto aperto. Dipende da cosa... Per quanto mi riguarda, se facesse yoga completamente nuda - sarebbe una bomba! Oh, sogni... Ma chissà, forse un giorno..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
 msgstr "Forse vale la pena sistemare le scatole di cui parlava mia madre..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
 msgstr "Forse dovresti chiederti cosa vive mia sorella maggiore quando non è seduta nella sua stanza..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "А не посмотреть ли вместе с мамой какой-нибудь фильм? Может и стоит..."
 msgstr "E non guardare con mia madre qualche film? Forse dovrebbe..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
 msgstr "Forse dovresti essere interessato a ciò che vive la mia sorellina quando non è seduta nella sua stanza..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
 msgstr "Forse Alice ha qualche hobby segreto? Se è così, ovviamente lo farà quando ci saranno meno persone a casa..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Алиса любит понежиться на солнышке. Интересно, а она бы разрешила мне растереть ей спину каким-нибудь средством для загара? Стоит узнать..."
 msgstr "Alice ama prendere il sole. Mi chiedo se mi lascerebbe strofinare la schiena con una sorta di agente abbronzante. Vale la pena saperlo..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Почему бы не составить Алисе компанию, когда она смотрит ТВ? А чтобы не сидеть без дела, можно и массаж ей сделать. Только нужно хоть какими-то знаниями обзавестись в этом деле..."
 msgstr "Perché non tenere compagnia ad Alice quando guarda la TV? E per non stare seduto inattivo, puoi massaggiarla. Solo tu hai bisogno di almeno un po 'di conoscenza da acquisire in questa materia ..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Чтобы лезть к Лизе с расспросами о её однокласснике, лучше сперва позаботиться о том, чтобы у неё было хорошее настроение..."
 msgstr "Per arrivare a Lisa con domande sulla sua compagna di classe, è meglio prima assicurarsi che abbia un buon umore ..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "С тётей Кирой о стольком можно поговорить! Нужно успевать, пока она нежится на солнце..."
 msgstr "Puoi parlare con zia Kira di così tanto! Devi tenere il passo mentre lei è in ovatta al sole ..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Если мои сёстры увидят, что я подглядываю за тем, как они принимают душ, то у меня будет много проблем. Но вдруг их удастся чем-то задобрить..."
 msgstr "Se le mie sorelle mi vedono spiare loro mentre si fa la doccia, avrò molti problemi. Ma all'improvviso saranno in grado di placarli con qualcosa..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эта возможность доступна только при дружбе с Эриком..."
 msgstr "Questa opportunità è disponibile solo con un'amicizia con Eric..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эрик намекнул, что мне можно подглядывать за тем, чем они с мамой занимаются наедине. Теперь за ними спокойно можно подглядывать в спальне..."
 msgstr "Eric ha lasciato intendere che potevo spiare quello che lui e sua madre stavano facendo in privato. Ora puoi tranquillamente spiarli in camera da letto ..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Потребуются успехи в возможности \"Любимая тётя\"..."
 msgstr "Ci vorrà il successo nell'opportunità \"Amata zia\"..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эрик явно проявляет к Алисе особый интерес. Нужно приглядывать за этой парочкой, когда они вместе. Но что-то непристойное может происходить и ночью, если вдруг не все будут спать..."
 msgstr "Eric ha chiaramente un interesse speciale per Alice. Devi tenere d'occhio questa coppia quando sono insieme. Ma qualcosa di osceno può accadere di notte, se improvvisamente non tutti dormiranno ..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нет смысла что-либо затевать в отношении Алисиной попки, пока её хотя бы раз не накажут голой..."
 msgstr "Non ha senso iniziare nulla sul di Alisina fino a quando non viene punita nuda almeno una volta..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Я слишком мало защищал Алису от наказаний мамы..."
 msgstr "Ho difeso Alice troppo poco dalla punizione di mia madre..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нужно опередить Эрика во всём, что он будет делать для Алисы. Особенно в дарении одежды..."
 msgstr "Devi anticipare Eric in tutto ciò che farà per Alice. Soprattutto nel regalo di vestiti..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нужно и дальше защищать Алису от наказаний..."
 msgstr "È necessario continuare a proteggere Alice dalla punizione ..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Эрик подарил Алисе кружевное боди раньше меня, а значит я упустил возможность ещё больше с ней сблизиться. По крайней мере, пока не избавлюсь от него (но не в этой версии игры)..."
 msgstr "Eric ha dato ad Alice un body di pizzo davanti a me, il che significa che ho perso l'opportunità di avvicinarmi ancora di più a lei. Almeno fino a quando non me ne libererò (ma non in questa versione del gioco)..."
 
-#    # game/core/09_opportunities.rpy:787
+#    # game/core/09_opportunities.rpy:789
 msgid "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
 msgstr "Ho bisogno di passare più tempo con mia madre. Le sue lezioni di yoga mattutine ci aiuteranno ad avvicinarci..."
 
