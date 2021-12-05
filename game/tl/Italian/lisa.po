@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-10 10:38\n"
+"PO-Revision-Date: 2021-12-05 18:13\n"
 
 # game/events/lisa.rpy:26## # translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -1355,7 +1355,7 @@ msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Scream
 
 #    # game/events/lisa.rpy:1758
 msgid "{i}да пофиг!{/i}"
-msgstr "{i}! {/i}"
+msgstr "{i}chi se ne frega!{/i}"
 
 #    # game/events/lisa.rpy:1781
 msgid "{i}поцеловать Лизу{/i}"
