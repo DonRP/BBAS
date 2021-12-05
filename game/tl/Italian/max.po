@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 16:53\n"
+"PO-Revision-Date: 2021-12-05 18:13\n"
 
 # game/events/max.rpy:4## # translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -304,7 +304,7 @@ msgstr "[Max_00]È tempo di leggere qualcosa...[nointeract]"
 msgid "[Max_00]Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n"
 "{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"
 msgstr "[Max_00]Hmm... un mucchio di parole incomprensibili. Sembra che i primi capitoli dovranno essere riletti...\n\n"
-"{color=[orange]}{i}(Il libro è studiato al 20%){/i}{/color}"
+"{color=[orange]}{i}(Il libro è studiato al 20%%){/i}{/color}"
 
 # game/events/max.rpy:655## # translate crowdin BookRead_manual_0826f3fe:
 msgid "[Max_00]Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n"
