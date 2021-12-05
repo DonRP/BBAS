@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-10 10:38\n"
+"PO-Revision-Date: 2021-12-05 16:51\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -1496,9 +1496,9 @@ msgstr "[Lisa_02]sì. E per favore controlla se ho fatto tutto bene..."
 msgid "[Lisa_09][lisa_bad_mass!t]Ай, всё... Прекращай, Макс! Щекотно же... Я не могу на домашнем задании сосредоточиться... Не так уж ты и хорош в этом деле."
 msgstr "[Lisa_09][lisa_bad_mass!t]Ehi, questo è tutto... Fermati, Max! È solleticato... Non riesco a concentrarmi sui compiti... Non sei così bravo a farlo."
 
-# game/dialogues/lisatalk.rpy:1285## # translate crowdin Lisa_HomeWork_first_foot_mass_d6b64053:
-msgid "[Max_07]К тебе, просто, другой подход нужен. Не как с Алисой. В следующий раз у меня получится лучше..."
-msgstr "[Max_07]Per te, semplicemente, è necessario un approccio diverso. Non come Alice. La prossima volta farò meglio..."
+# game/dialogues/lisatalk.rpy:1285## # translate crowdin Lisa_HomeWork_first_foot_mass_235a9d11:
+msgid "[Max_07]К тебе просто другой подход нужен. Не как с Алисой. В следующий раз у меня получится лучше..."
+msgstr "[Max_07]Avete solo bisogno di un approccio diverso. Non come con Alice. Posso fare meglio la prossima volta..."
 
 # game/dialogues/lisatalk.rpy:1286## # translate crowdin Lisa_HomeWork_first_foot_mass_7ecaa66b:
 msgid "[Lisa_02]Да уж, хотелось бы. И проверь, пожалуйста, всё ли я сделала правильно..."
@@ -2726,9 +2726,17 @@ msgstr "[Lisa_00]spero..."
 msgid "[Max_09]Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра."
 msgstr "[Max_09]penso che non dovresti dare un pasto delizioso oggi. Questo può causare inutili sospetti... È meglio farlo domani."
 
-# game/dialogues/lisatalk.rpy:2321## # translate crowdin lisa_sorry_gifts_0d977679:
-msgid "[Lisa_02][txt!t][nointeract]"
-msgstr "[Lisa_02][txt!t][nointeract]"
+# game/dialogues/lisatalk.rpy:2316## # translate crowdin lisa_sorry_gifts_5dc942a0:
+msgid "[Lisa_02]Правда? Ты всё-таки достал её для меня?! А какую?[nointeract]"
+msgstr "[Lisa_02]L'hai fatto? L'hai preso per me dopo tutto?! Quale?[nointeract]"
+
+# game/dialogues/lisatalk.rpy:2318## # translate crowdin lisa_sorry_gifts_18215912:
+msgid "[Lisa_02]Правда? Ну ты даёшь! А какую на этот раз?![nointeract]"
+msgstr "[Lisa_02]L'hai fatto? Oh, sei un vero spasso! Qual è questa volta?![nointeract]"
+
+# game/dialogues/lisatalk.rpy:2320## # translate crowdin lisa_sorry_gifts_18a348cf:
+msgid "[Lisa_02]Правда? Ну давай, показывай, что у тебя на этот раз?![nointeract]"
+msgstr "[Lisa_02]Davvero? Dai, mostrami cosa hai questa volta?![nointeract]"
 
 # game/dialogues/lisatalk.rpy:2342## # translate crowdin lisa_sorry_gifts_bad_st_6f8a0f02:
 msgid "[Lisa_13]Фу-у-у... Макс, я не люблю эти конфеты! Почему ты купил именно их?!"
@@ -5954,7 +5962,7 @@ msgstr "[Max_07], non c'è dubbio... E perché queste lezioni con Eric si terran
 msgid "[Lisa_10]Потому что мама не хочет учить меня большему, а я хочу..."
 msgstr "[Lisa_10]Perché mia madre non vuole insegnarmi di più, e io voglio..."
 
-# game/dialogues/lisatalk.rpy:4247## # translate crowdin lisa_about_ae_sexed5_40774e99:
+# game/dialogues/lisatalk.rpy:4251## # translate crowdin lisa_about_ae_sexed5_40774e99:
 msgid "[Max_09]И Эрик, видимо, вызвался тебе помочь с этим, да?"
 msgstr "[Max_09]Ed Eric apparentemente si è offerto volontario per aiutarti in questo, giusto?"
 
@@ -7160,18 +7168,6 @@ msgstr "No, non ho detto..."
 #    # game/dialogues/lisatalk.rpy:2200
 msgid "Лиза не любит признавать, что ей нужна помощь Макса. Её отношение к Максу ухудшилось."
 msgstr "A Lisa non piace ammettere di aver bisogno dell'aiuto di Max. Il suo atteggiamento nei confronti di Max si deteriorò."
-
-#    # game/dialogues/lisatalk.rpy:2315
-msgid "Правда? Ты всё-таки достал её для меня?! А какую?"
-msgstr "Davvero? L'hai capito per me?! E quale?"
-
-#    # game/dialogues/lisatalk.rpy:2315
-msgid "Правда? Ну ты даёшь! А какую на этот раз?!"
-msgstr "Davvero? Bene, tu dai! E quale questa volta?!"
-
-#    # game/dialogues/lisatalk.rpy:2315
-msgid "Правда? Ну давай, показывай, что у тебя на этот раз?!"
-msgstr "Davvero? Dai, mostrami cosa hai questa volta?!"
 
 #    # game/dialogues/lisatalk.rpy:2489
 msgid "Однозначно надо обнять!"
