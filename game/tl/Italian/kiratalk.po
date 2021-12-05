@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-10 10:38\n"
+"PO-Revision-Date: 2021-12-05 15:48\n"
 
 # game/dialogues/kiratalk.rpy:17## # translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -1342,7 +1342,7 @@ msgstr "[Kira_14]Poi è iniziata la ricerca. Anya uscì a cercare quasi tutti gl
 
 # game/dialogues/kiratalk.rpy:1089## # translate crowdin story_from_childhood_ann_8989f4f4:
 msgid "[Max_12]Неделю?! Это же где-то недалеко от дома было?"
-msgstr "settimana [Max_12]?! Era da qualche parte vicino a casa?"
+msgstr "[Max_12]Una settimana?! Non era un posto vicino a casa?"
 
 # game/dialogues/kiratalk.rpy:1090## # translate crowdin story_from_childhood_ann_88f82231:
 msgid "[Kira_03]К лесу мы ездили на велосипедах, так что, не очень близко. Да и ночью от того домика я не помню в какую сторону бежала... В общем, мы его нашли..."
