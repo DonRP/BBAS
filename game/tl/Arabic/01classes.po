@@ -10,48 +10,48 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-11-02 11:16\n"
+"PO-Revision-Date: 2021-12-05 15:47\n"
 
 msgid "Ужасное"
 msgstr "سيء للغاية"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Очень плохое"
 msgstr "سيء جدًا"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Плохое"
 msgstr "سيء"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Не очень"
 msgstr "ليس جدا"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Нейтральное"
 msgstr "محايد"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Неплохое"
 msgstr "ليس سيئا"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Хорошее"
 msgstr "جيدة"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Очень хорошее"
 msgstr "جيد جداً"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Прекрасное"
 msgstr "مدهش"
 
-#    # game/core/01classes.rpy:1041
+#    # game/core/01classes.rpy:1047
 msgid "Приобретен пакет рекламы"
 msgstr "شراء حزمة إعلانية"
 
-#    # game/core/01classes.rpy:1286
+#    # game/core/01classes.rpy:1292
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "{لون =[lime]}{i}{b}الانتباه:{/b} تم الحصول على \"فرصة\" جديدة! {/i} {/اللون}"
 
