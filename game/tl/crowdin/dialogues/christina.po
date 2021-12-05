@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-11-02 12:54
+﻿# TODO: Translation updated at 2021-12-05 17:43
 
 # game/dialogues/christina.rpy:7## # translate crowdin christina_first_talk_a072d515:
 msgid "[Christine_03]А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
