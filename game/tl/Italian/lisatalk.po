@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 16:51\n"
+"PO-Revision-Date: 2021-12-05 18:12\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -1266,7 +1266,7 @@ msgstr "[Lisa_01]No, Max, grazie. Ora sto seguendo corsi extra a scuola, quindi 
 
 # game/dialogues/lisatalk.rpy:1042## # translate crowdin Lisa_HomeWork_9c68abf9:
 msgid "[Lisa_00][failed!t]Нет, я должна сама сделать уроки. Да и к тому же я не слишком и устала. Но всё равно спасибо!"
-msgstr "[Lisa_00][fallito!t] No, devo fare le lezioni da solo. E inoltre, non sono troppo stanco. Ma grazie comunque!"
+msgstr "[Lisa_00][failed!t] No, devo fare le lezioni da solo. E inoltre, non sono troppo stanco. Ma grazie comunque!"
 
 # game/dialogues/lisatalk.rpy:1043## # translate crowdin Lisa_HomeWork_24da02ca:
 msgid "[Max_10]Эх, ну как знаешь."
@@ -1374,7 +1374,7 @@ msgstr "[Max_01]ci ho provato. Questa volta andrà tutto bene."
 
 # game/dialogues/lisatalk.rpy:1159## # translate crowdin Lisa_HomeWork_show_breast_d57733c8:
 msgid "[Lisa_12][failed!t]Знаешь что, Макс? Отвали! Я сама всё сделаю. Пусть и на двойку, но зато без тебя с твоими... извращёнными мыслями!"
-msgstr "[Lisa_12][fallito!t] Sai una cosa, Max? Torna indietro! Lo farò da solo. Lascia e per due, ma senza di te con il tuo... pensieri perversi!"
+msgstr "[Lisa_12][failed!t] Sai una cosa, Max? Torna indietro! Lo farò da solo. Lascia e per due, ma senza di te con il tuo... pensieri perversi!"
 
 # game/dialogues/lisatalk.rpy:1160## # translate crowdin Lisa_HomeWork_show_breast_2443b693:
 msgid "[Max_07]Как скажешь..."
@@ -1402,7 +1402,7 @@ msgstr "[Max_01]Non per niente!"
 
 # game/dialogues/lisatalk.rpy:1182## # translate crowdin Lisa_HomeWork_make_bag_bbf49f04:
 msgid "[Lisa_13][failed!t]Нет, Макс, ты не прав. Тут надо всё совсем не так решать. Спасибо за помощь, но я уже разобралась..."
-msgstr "[Lisa_13][fallito!t] No, Max, ti sbagli. Non è così che le cose devono essere risolte. Grazie per l'aiuto, ma l'ho capito..."
+msgstr "[Lisa_13][failed!t] No, Max, ti sbagli. Non è così che le cose devono essere risolte. Grazie per l'aiuto, ma l'ho capito..."
 
 # game/dialogues/lisatalk.rpy:1183## # translate crowdin Lisa_HomeWork_make_bag_920afc01:
 msgid "[Max_07]Как знаешь..."
@@ -2820,7 +2820,7 @@ msgstr "[Max_02]Esatto."
 
 # game/dialogues/lisatalk.rpy:2374## # translate crowdin lisa_sorry_gifts_persuasion_failed_cf880015:
 msgid "[Lisa_01][failed!t]Знаешь, а я передумала! А то вдруг ты и правда за мной подглядывал..."
-msgstr "[Lisa_01][fallito!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
+msgstr "[Lisa_01][failed!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
 
 # game/dialogues/lisatalk.rpy:2375## # translate crowdin lisa_sorry_gifts_persuasion_failed_da577192:
 msgid "[Max_11]Ну вот..."
@@ -2960,7 +2960,7 @@ msgstr "[Max_01]Beh, almeno. È meglio di niente."
 
 # game/dialogues/lisatalk.rpy:2503## # translate crowdin lisa_sorry_gifts_middle_e386c2b3:
 msgid "[Lisa_09][failed!t]Знаешь, а я передумала! А то вдруг ты и правда за мной подглядывал..."
-msgstr "[Lisa_09][fallito!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
+msgstr "[Lisa_09][failed!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
 
 # game/dialogues/lisatalk.rpy:2504## # translate crowdin lisa_sorry_gifts_middle_da577192:
 msgid "[Max_11]Ну вот..."
@@ -3076,7 +3076,7 @@ msgstr "[Max_07]Chiaramente... Ne prenderò sicuramente conto!"
 
 # game/dialogues/lisatalk.rpy:2546## # translate crowdin lisa_sorry_gifts_middle_e386c2b3_1:
 msgid "[Lisa_09][failed!t]Знаешь, а я передумала! А то вдруг ты и правда за мной подглядывал..."
-msgstr "[Lisa_09][fallito!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
+msgstr "[Lisa_09][failed!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
 
 # game/dialogues/lisatalk.rpy:2547## # translate crowdin lisa_sorry_gifts_middle_da577192_1:
 msgid "[Max_11]Ну вот..."
@@ -3120,7 +3120,7 @@ msgstr "[Max_10]capito."
 
 # game/dialogues/lisatalk.rpy:2565## # translate crowdin lisa_sorry_gifts_middle_7b7e69c5:
 msgid "[Lisa_12][failed!t]Знаешь, а вот не пройдёт это, Макс! Так что жди наказания от мамы..."
-msgstr "[Lisa_12][fallito!t] Sai, ma non passerà, Max! Quindi aspettati una punizione da tua madre..."
+msgstr "[Lisa_12][failed!t] Sai, ma non passerà, Max! Quindi aspettati una punizione da tua madre..."
 
 # game/dialogues/lisatalk.rpy:2566## # translate crowdin lisa_sorry_gifts_middle_2d20dcdf:
 msgid "[Max_08]Но, Лиза, я же..."
@@ -3604,7 +3604,7 @@ msgstr "[Max_02]Esatto."
 
 # game/dialogues/lisatalk.rpy:2820## # translate crowdin lisa_sorry_gifts_good_cf880015:
 msgid "[Lisa_01][failed!t]Знаешь, а я передумала! А то вдруг ты и правда за мной подглядывал..."
-msgstr "[Lisa_01][fallito!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
+msgstr "[Lisa_01][failed!t] Sai, ho cambiato idea! E poi all'improvviso mi stavi davvero spiando..."
 
 # game/dialogues/lisatalk.rpy:2821## # translate crowdin lisa_sorry_gifts_good_da577192:
 msgid "[Max_11]Ну вот..."
@@ -4120,7 +4120,7 @@ msgstr "[Lisa_10]Alice mi ha chiesto di non raccontarlo... Quindi...[nointeract]
 
 # game/dialogues/lisatalk.rpy:3100## # translate crowdin liza_secret_alisa_56fa1346:
 msgid "[Lisa_09][failed!t]Нет, Макс, не расскажу. Я обещала. Ты же не хочешь, чтобы твои секреты кто-то узнал, верно?"
-msgstr "[Lisa_09][fallito!t] No, Max, non te lo dirò. L'ho promesso. Non vuoi che nessuno conosca i tuoi segreti, giusto?"
+msgstr "[Lisa_09][failed!t] No, Max, non te lo dirò. L'ho promesso. Non vuoi che nessuno conosca i tuoi segreti, giusto?"
 
 # game/dialogues/lisatalk.rpy:3101## # translate crowdin liza_secret_alisa_1e8b77df:
 msgid "[Max_00]Верно..."
@@ -4204,7 +4204,7 @@ msgstr "[Max_01]Buon divertimento, dolce!"
 
 # game/dialogues/lisatalk.rpy:3183## # translate crowdin lisa_gift_sweets_3cca42ec:
 msgid "[Lisa_01][failed!t]Знаешь, а я передумала! Вот купил бы большую шоколадку, тогда бы и чмокнула..."
-msgstr "[Lisa_01][fallito!t] Sai, ho cambiato idea! Compravo una grossa tavoletta di cioccolato, poi mi bagnavo..."
+msgstr "[Lisa_01][failed!t] Sai, ho cambiato idea! Compravo una grossa tavoletta di cioccolato, poi mi bagnavo..."
 
 # game/dialogues/lisatalk.rpy:3184## # translate crowdin lisa_gift_sweets_da577192:
 msgid "[Max_11]Ну вот..."
@@ -6300,7 +6300,7 @@ msgstr "[Lisa_02]Beh, un po' di bene. Ho corso, non annoiarti..."
 
 # game/dialogues/lisatalk.rpy:4483## # translate crowdin take_to_school_93e24500:
 msgid "[Lisa_01][failed!t]Ну... Я бы чмокнула... Если бы ты почаще помогал с уроками. Так что старайся, а я побежала. Не скучай!"
-msgstr "[Lisa_01][fallito!t] Beh... Sarei cupo... Se solo potessi aiutare con le lezioni più spesso. Quindi provaci, e ho corso. Non annoiarti!"
+msgstr "[Lisa_01][failed!t] Beh... Sarei cupo... Se solo potessi aiutare con le lezioni più spesso. Quindi provaci, e ho corso. Non annoiarti!"
 
 # game/dialogues/lisatalk.rpy:4485## # translate crowdin take_to_school_bb885618:
 msgid "[Max_01]А я буду. Успехов тебе!"
@@ -6320,7 +6320,7 @@ msgstr "[Lisa_02]Beh, un po' di bene. Ho corso, non annoiarti..."
 
 # game/dialogues/lisatalk.rpy:4502## # translate crowdin take_to_school_fb1c6e25:
 msgid "[Lisa_01][failed!t]Эй... Вот разбежался! Если бы ты почаще помогал с уроками, то я бы разрешила, а так... больше старайся. Я побежала в школу, не скучай!"
-msgstr "[Lisa_01][fallito!t]Ehi... Qui sono scappato! Se aiutassi con le lezioni più spesso, lo permetterei, e così ... prova di più. Sono corso a scuola, non annoiarti!"
+msgstr "[Lisa_01][failed!t]Ehi... Che testa vuota! Se mi aiutassi più spesso con i compiti, te lo permetterei, ma... provate di più. Vado a scuola, divertitevi!"
 
 # game/dialogues/lisatalk.rpy:4504## # translate crowdin take_to_school_bb885618_1:
 msgid "[Max_01]А я буду. Успехов тебе!"
