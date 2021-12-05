@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-25 08:15\n"
+"PO-Revision-Date: 2021-12-05 16:49\n"
 
-# game/dialogues/alicetalk.rpy:13## # translate crowdin AliceTalkStart_123d1aca:
+# game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
 msgstr "[Max_07]{m}Alice est sur le point de se passer de son chocolat à la liqueur, il est donc préférable de la laisser tranquille pour la journée...{/m}"
 
-# game/dialogues/alicetalk.rpy:16## # translate crowdin AliceTalkStart_40123f86:
+# game/dialogues/alicetalk.rpy:15## # translate crowdin AliceTalkStart_40123f86:
 msgid "[Max_09]{m}Впечатлений от времяпрепровождения с Алисой мне и в её комнате хватило. Сегодня к ней лучше больше не лезть...{/m}"
 msgstr "[Max_09]{m}L'expérience de passer du temps avec Alice m'a suffi dans sa chambre. Je ferais mieux de ne plus m'approcher d'elle aujourd'hui....{/m}"
 
@@ -3240,9 +3240,17 @@ msgstr "[Max_08]{m}Il reste peu de crème, la prochaine fois que ce ne sera peut
 msgid "[Max_09]Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра."
 msgstr "[Max_09]Je pense que je ne devrais pas donner une chose délicieuse aujourd’hui. Cela peut provoquer des soupçons inutiles... Il vaut mieux le faire demain."
 
-# game/dialogues/alicetalk.rpy:3245## # translate crowdin alice_sorry_gifts_a4021d45:
-msgid "[Alice_02][txt!t][nointeract]"
-msgstr "[Alice_02][txt!t][nointeract]"
+# game/dialogues/alicetalk.rpy:3240## # translate crowdin alice_sorry_gifts_fd790983:
+msgid "[Alice_02]Да ладно! Это мне нравится... И что там у тебя?[nointeract]"
+msgstr "[Alice_02]Aller! J'aime bien ça... Et qu'est-ce que tu as là ?[nointeract]"
+
+# game/dialogues/alicetalk.rpy:3242## # translate crowdin alice_sorry_gifts_567ab5fa:
+msgid "[Alice_02]Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?[nointeract]"
+msgstr ""
+
+# game/dialogues/alicetalk.rpy:3244## # translate crowdin alice_sorry_gifts_e3d28a54:
+msgid "[Alice_02]Наконец-то! Ну давай, показывай, что у тебя на этот раз?![nointeract]"
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:3298## # translate crowdin alice_sorry_gifts_middle_again_ebaef405:
 msgid "[Alice_13]Вот значит как! Снова купил эти шоколадки... Спасибо, конечно, но не очень-то тебе хочется избежать наказания, как я вижу."
@@ -5366,7 +5374,7 @@ msgstr "[Max_09]{m}C'est un peu tôt pour les sucreries, je pourrais ruiner la s
 
 # game/dialogues/alicetalk.rpy:4341## # translate crowdin alice_gift_sweets_fd790983:
 msgid "[Alice_02]Да ладно! Это мне нравится... И что там у тебя?[nointeract]"
-msgstr "[Alice_02]Aller! J'aime bien ça... Et qu'est-ce que tu as là ?[nointeract]"
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:4348## # translate crowdin alice_gift_sweets_cd967215:
 msgid "[Alice_07]Ага! Мои любимые конфеты! Как здорово... Большое тебе спасибо, Макс!"
@@ -7880,18 +7888,6 @@ msgstr "{i}déplacer les mains{/i}"
 #    # game/dialogues/alicetalk.rpy:3167
 msgid "{i}тискать дальше...{/i}"
 msgstr "{i}presser davantage...{/i}"
-
-#    # game/dialogues/alicetalk.rpy:3239
-msgid "Да ладно! Это мне нравится... И что там у тебя?"
-msgstr "Aller! J'aime bien ça... Et qu'est-ce que tu as là ?"
-
-#    # game/dialogues/alicetalk.rpy:3239
-msgid "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?"
-msgstr "Wow ! Veux-tu vraiment prendre ce risque... Et qu'est-ce que tu as cette fois ?"
-
-#    # game/dialogues/alicetalk.rpy:3239
-msgid "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!"
-msgstr "Enfin ! Aller, montres-nous ce que tu as cette fois ?!"
 
 #    # game/dialogues/alicetalk.rpy:3303
 msgid "Да я же случайно оказался около душа..."
