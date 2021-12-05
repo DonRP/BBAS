@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:48\n"
+"PO-Revision-Date: 2021-12-05 15:48\n"
 
 # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -616,7 +616,7 @@ msgstr "[Max_00]È sempre bello guardare Alice, ma perché è in mutandine? Dopo
 
 # game/events/alice.rpy:670## # translate crowdin alice_shower_ladder_847a824b:
 msgid "[Max_00]Непорядок. Нужно с этим что-то делать..."
-msgstr "Disturbo [Max_00]. Bisogna fare qualcosa al riguardo..."
+msgstr "[Max_00]Non è giusto. Bisogna fare qualcosa..."
 
 # game/events/alice.rpy:674## # translate crowdin alice_shower_ladder_41ab7e32:
 msgid "[Max_02]Да-а... Может Алиса и в халатике, но сиськи её видны просто замечательно! А они у неё - что надо..."
