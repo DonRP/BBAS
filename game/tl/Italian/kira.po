@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 16:52\n"
+"PO-Revision-Date: 2021-12-05 18:13\n"
 
 # game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -1486,7 +1486,7 @@ msgstr "[Kira_07]Mmm... Max... Credo... dobbiamo finire. È così tardi.[nointer
 
 # game/events/kira.rpy:1439## # translate crowdin kira_night_tv_second_lesson_d78e1c5c:
 msgid "[Kira_04][failed!t]Уже значительно лучше. С сегодняшним уроком ты справился очень хорошо, но хорошего помаленьку. А то у тебя будет мозоль на языке... А теперь бегом спать! Я тут планирую ещё немного телек посмотреть..."
-msgstr "[Kira_04][fallito!t] Già molto meglio. Con la lezione di oggi hai affrontato molto bene, ma a poco a poco. E poi avrai un mais sulla lingua... E ora corri a dormire! Sto pensando di guardare un po 'più di Tv qui..."
+msgstr "[Kira_04][failed!t] Già molto meglio. Con la lezione di oggi hai affrontato molto bene, ma a poco a poco. E poi avrai un mais sulla lingua... E ora corri a dormire! Sto pensando di guardare un po 'più di Tv qui..."
 
 # game/events/kira.rpy:1443## # translate crowdin kira_night_tv_second_lesson_4466434c:
 msgid "[Kira_09][succes!t]О да... уже значительно лучше... Ты быстро схватываешь... Ммм...[nointeract]"
@@ -2090,7 +2090,7 @@ msgstr "[Max_01]sì, avere bei sogni..."
 
 # game/events/kira.rpy:2222## # translate crowdin kira_night_tv_failed_45397e89:
 msgid "[Kira_14][failed!t]Приятно слышать, Макс, но тебе пора спать! Три часа ночи... Мне уже и самой пора ложиться спать."
-msgstr "[Kira_14][fallito!t] Bello sentire, Max, ma è ora che tu dorma! Alle tre del mattino... È ora che io vada a letto."
+msgstr "[Kira_14][failed!t]Bello sentire, Max, ma è ora che tu dorma! Alle tre del mattino... È ora che io vada a letto."
 
 # game/events/kira.rpy:2223## # translate crowdin kira_night_tv_failed_27592ad9:
 msgid "[Max_08]Вот так всегда..."
