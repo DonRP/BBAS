@@ -10,369 +10,129 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-11-02 11:17\n"
-
-msgid "МОЯ\n"
-"КОМНАТА"
-msgstr "我的\n"
-"室"
-
-#    # game/core/03variables.rpy:37
-msgid "МОЯ КОМНАТА"
-msgstr "我的\n"
-"室"
-
-#    # game/core/03variables.rpy:37
-msgid "КОМНАТА\n"
-"АЛИСЫ"
-msgstr "爱丽丝\n"
-"室"
-
-#    # game/core/03variables.rpy:37
-msgid "КОМНАТА АЛИСЫ"
-msgstr "爱丽丝的房间"
-
-#    # game/core/03variables.rpy:37
-msgid "КОМНАТА\n"
-"АННЫ"
-msgstr "安娜\n"
-"室"
-
-#    # game/core/03variables.rpy:37
-msgid "КОМНАТА АННЫ"
-msgstr "安娜\n"
-"室"
-
-#    # game/core/03variables.rpy:37
-msgid "ВАННАЯ\n"
-"КОМНАТА"
-msgstr "浴室\n"
-"间"
-
-#    # game/core/03variables.rpy:37
-msgid "ВАННАЯ КОМНАТА"
-msgstr "浴室\n"
-"间"
-
-#    # game/core/03variables.rpy:37
-msgid "ГОСТИНАЯ"
-msgstr "客厅"
-
-#    # game/core/03variables.rpy:37
-msgid "ВЕРАНДА"
-msgstr "阳台"
-
-#    # game/core/03variables.rpy:37
-msgid "ДВОР"
-msgstr "庭院"
-
-#    # game/core/03variables.rpy:100
-msgid "Алиса"
-msgstr "Alice"
-
-#    # game/core/03variables.rpy:100
-msgid "Алисы"
-msgstr "爱丽丝"
-
-#    # game/core/03variables.rpy:100
-msgid "Алисе"
-msgstr "Alice"
-
-#    # game/core/03variables.rpy:100
-msgid "Алису"
-msgstr "爱丽丝"
-
-#    # game/core/03variables.rpy:100
-msgid "Алисой"
-msgstr "爱丽丝"
-
-#    # game/core/03variables.rpy:100
-msgid "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-msgstr "爱丽丝，我的姐姐我最近毕业了，和我一样，在寻找我的方式。整天坐在笔记本电脑上，做一些博客。和兄弟姐妹和长子经常发生的情况一样， 我们相处得不太好..."
-
-#    # game/core/03variables.rpy:100
-msgid "Лиза"
-msgstr "丽莎"
-
-#    # game/core/03variables.rpy:100
-msgid "Лизы"
-msgstr "丽莎"
-
-#    # game/core/03variables.rpy:100
-msgid "Лизе"
-msgstr "小红"
-
-#    # game/core/03variables.rpy:100
-msgid "Лизу"
-msgstr "丽莎"
-
-#    # game/core/03variables.rpy:100
-msgid "Лизой"
-msgstr "利扎伊"
-
-#    # game/core/03variables.rpy:100
-msgid "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr "丽莎，小妹妹，还在上学。我不知道我是怎么学习的， 但如果我没有像我一样被踢出去， 那就没事了。我们和丽莎在同一波浪上聊天，尽管我们偶尔会吵架。但是，如果发生什么事情，辩方正在寻找我。"
-
-#    # game/core/03variables.rpy:100
-msgid "Анна"
-msgstr "小兰"
-
-#    # game/core/03variables.rpy:100
-msgid "Анны"
-msgstr "安娜"
-
-#    # game/core/03variables.rpy:100
-msgid "Анне"
-msgstr "小兰"
-
-#    # game/core/03variables.rpy:100
-msgid "Анну"
-msgstr "安娜"
-
-#    # game/core/03variables.rpy:100
-msgid "Анной"
-msgstr "安娜"
-
-#    # game/core/03variables.rpy:100
-msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-msgstr "是安娜，我妈妈几年来，她一直在抚养我们和两个姐妹。他在一家公司的办公室工作。虽然她的工资相当可观，但几乎一切都用于支付可出租的住房、食物和衣服。"
-
-#    # game/core/03variables.rpy:111
-msgid "Макс"
-msgstr "最大值"
-
-#    # game/core/03variables.rpy:111
-msgid "Макса"
-msgstr "马克萨"
-
-#    # game/core/03variables.rpy:111
-msgid "Максу"
-msgstr "马克苏"
-
-#    # game/core/03variables.rpy:111
-msgid "Максом"
-msgstr "马克西姆"
-
-#    # game/core/03variables.rpy:111
-msgid "Максе"
-msgstr "马克萨"
-
-#    # game/core/03variables.rpy:111
-msgid "Всегда в поисках приключений на свою пятую точку."
-msgstr "总是寻找冒险到你的第五点。"
-
-#    # game/core/03variables.rpy:147
-msgid "ПОСМОТРЕТЬ\n"
-"ФИЛЬМ"
-msgstr "观看\n"
-"电影"
-
-#    # game/core/03variables.rpy:147
-msgid "ВЫЙТИ\n"
-"ИЗ ДОМА"
-msgstr "\n"
-"离开家"
-
-#    # game/core/03variables.rpy:147
-msgid "ПОИГРАТЬ\n"
-"С ЛИЗОЙ"
-msgstr "和丽莎一起玩"
-
-#    # game/core/03variables.rpy:147
-msgid "УСТАНОВИТЬ\n"
-"КЕЙЛОГГЕР"
-msgstr "安装\n"
-"键盘记录器"
-
-#    # game/core/03variables.rpy:147
-msgid "УСТАНОВИТЬ\n"
-"КАМЕРУ"
-msgstr "安装\n"
-"摄像头"
-
-#    # game/core/03variables.rpy:147
-msgid "СПРЯТАТЬ\n"
-"ПАУКА"
-msgstr "隐藏蜘蛛"
-
-#    # game/core/03variables.rpy:147
-msgid "БРОСИТЬ\n"
-"ПАУКА"
-msgstr "扔蜘蛛"
-
-#    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"ПАУКОВ"
-msgstr "寻找蜘蛛"
-
-#    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"СИГАРЕТЫ"
-msgstr "寻找\n"
-"香烟"
-
-#    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"КНИГУ"
-msgstr "搜索\n"
-"书"
-
-#    # game/core/03variables.rpy:147
-msgid "ЧИСТИТЬ\n"
-"БАССЕЙН"
-msgstr "清洁\n"
-"游泳池"
-
-#    # game/core/03variables.rpy:147
-msgid "ЧИТАТЬ"
-msgstr "阅读"
-
-#    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"КАМЕРУ"
-msgstr "搜索\n"
-"相机"
-
-#    # game/core/03variables.rpy:147
-msgid "РАЗОБРАТЬ\n"
-"КОРОБКИ"
-msgstr "拆解\n"
-"框"
-
-#    # game/core/03variables.rpy:147
-msgid "ВКЛЮЧИТЬ\n"
-"НОУТБУК"
-msgstr "打开笔记本电脑"
-
-#    # game/core/03variables.rpy:147
-msgid "СПАТЬ"
-msgstr "睡眠"
-
-#    # game/core/03variables.rpy:147
-msgid "УСТАНОВИТЬ\n"
-"БУДИЛЬНИК"
-msgstr "设置\n"
-"闹钟"
-
-#    # game/core/03variables.rpy:147
-msgid "ВЗДРЕМНУТЬ"
-msgstr "小睡一会儿"
-
-#    # game/core/03variables.rpy:147
-msgid "ПРИНЯТЬ\n"
-"ДУШ"
-msgstr "淋浴"
-
-#    # game/core/03variables.rpy:147
-msgid "ПРИНЯТЬ\n"
-"ВАННУ"
-msgstr "洗个\n"
-"澡"
-
-#    # game/core/03variables.rpy:147
-msgid "ПОГОВОРИТЬ"
-msgstr "交谈"
-
-#    # game/core/03variables.rpy:147
-msgid "МЫТЬ\n"
-"ПОСУДУ"
-msgstr "洗\n"
-"盘子"
-
-#    # game/core/03variables.rpy:202
-msgid "Общение"
-msgstr "社交"
-
-#    # game/core/03variables.rpy:202
-msgid "Навыки общения: Чувства человека"
-msgstr "沟通技巧：人的感受"
-
-#    # game/core/03variables.rpy:202
-msgid "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
-msgstr "这是一个基本的沟通技能培训课程，包含有关感官，关于一个人对你的话的反应的基本信息，以及肢体语言的基础知识。"
-
-#    # game/core/03variables.rpy:202
-msgid "Навыки общения: Основы коммуникации"
-msgstr "沟通技巧：沟通基础知识"
-
-#    # game/core/03variables.rpy:202
-msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr "这是沟通技巧培训的第二门课程。从中，您将学习如何影响一个没有言语的人的决定，如何在正确的情况下选择正确的词来实现你的目标。"
-
-#    # game/core/03variables.rpy:202
-msgid "Навыки общения: Без границ"
-msgstr "沟通技巧：无国界"
-
-#    # game/core/03variables.rpy:202
-msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr "这是一个高级的长课程，专为那些谁想要不断学习和提高。目前，这是最后一个可用的课程。"
-
-#    # game/core/03variables.rpy:233
-msgid "Эрик"
-msgstr "艾瑞克"
-
-#    # game/core/03variables.rpy:233
-msgid "Эрика"
-msgstr "艾瑞卡"
-
-#    # game/core/03variables.rpy:233
-msgid "Эрику"
-msgstr "埃里库"
-
-#    # game/core/03variables.rpy:233
-msgid "Эриком"
-msgstr "埃里克"
-
-#    # game/core/03variables.rpy:233
-msgid "Эрике"
-msgstr "艾瑞卡"
-
-#    # game/core/03variables.rpy:233
-msgid "Ещё до того, как мама познакомила меня со своим внезапным ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт. Слишком уж он подозрительный..."
-msgstr "甚至在我妈妈把我介绍给她突然的男朋友埃里克之前，我就开始觉得他不会给我的生活带来任何好处。他太可疑了..."
-
-#    # game/core/03variables.rpy:247
-msgid "Кира"
-msgstr "基拉"
-
-#    # game/core/03variables.rpy:247
-msgid "Киры"
-msgstr "基拉"
-
-#    # game/core/03variables.rpy:247
-msgid "Кире"
-msgstr "基拉"
-
-#    # game/core/03variables.rpy:247
-msgid "Киру"
-msgstr "基拉"
-
-#    # game/core/03variables.rpy:247
-msgid "Кирой"
-msgstr "基罗伊"
-
-#    # game/core/03variables.rpy:247
-msgid "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
-msgstr "基拉阿姨，妈妈的妹妹当然，她以前从未见过任何情结，但现在她变成了这样...这样..."
-
-#    # game/core/03variables.rpy:283
-msgid "Оливия"
-msgstr "奥利维亚"
-
-#    # game/core/03variables.rpy:283
-msgid "Оливии"
-msgstr "奥利维亚"
-
-#    # game/core/03variables.rpy:283
-msgid "Оливию"
-msgstr "奥利维亚"
-
-#    # game/core/03variables.rpy:283
-msgid "Оливией"
-msgstr "奥利维亚"
-
-#    # game/core/03variables.rpy:283
-msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
-msgstr "奥利维亚，我妹妹丽莎的同学。一个相当可爱的女孩。最重要的是，有一个亮点...他在学校里走来走去，没有内裤，她的房子一般赤身裸体，就像她的父母一样，他们是裸体主义者。丽莎有这么有趣的女朋友真是太好了！"
+"PO-Revision-Date: 2021-12-05 15:48\n"
+
+msgid "+ к навыку скрытности"
+msgstr ""
+
+#    # game/core/04function.rpy:304
+msgid "+ к навыку убеждения"
+msgstr ""
+
+#    # game/core/04function.rpy:308
+msgid "+ к навыку массажа"
+msgstr ""
+
+#    # game/core/04function.rpy:312
+msgid "+ к навыку поцелуев"
+msgstr ""
+
+#    # game/core/04function.rpy:316
+msgid "+ к навыку эротического массажа"
+msgstr ""
+
+#    # game/core/04function.rpy:320
+msgid "+ к тренированности"
+msgstr ""
+
+#    # game/core/04function.rpy:324
+msgid "+ к навыку кунилингуса"
+msgstr ""
+
+#    # game/core/04function.rpy:328
+msgid "+ к сексуальному опыту"
+msgstr ""
+
+#    # game/core/04function.rpy:332
+msgid "+ к опыту анального секса"
+msgstr ""
+
+#    # game/core/04function.rpy:341
+msgid "{color=[red]}значительно ухудшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:341
+msgid "{color=[red]}ухудшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:341
+msgid "{color=[red]}немного ухудшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:341
+msgid "{color=[lime]}немного улучшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:341
+msgid "{color=[lime]}улучшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:341
+msgid "{color=[lime]}значительно улучшилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:352
+msgid "{color=[red]}снизилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:352
+msgid "{color=[lime]}повысилось{/color}"
+msgstr ""
+
+#    # game/core/04function.rpy:380
+msgid "Настроение %s %s \n"
+"Её отношение к Максу %s"
+msgstr ""
+
+#    # game/core/04function.rpy:382
+msgid "Отношение %s к Максу %s"
+msgstr ""
+
+#    # game/core/04function.rpy:384
+msgid "Настроение %s %s"
+msgstr ""
+
+#    # game/core/04function.rpy:401
+msgid "Так... В накладной написано следующее:"
+msgstr ""
+
+#    # game/core/04function.rpy:990
+msgid "Прохладные"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Война"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Враждебные"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Плохие"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Неплохие"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Хорошие"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Тёплые"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Дружеские"
+msgstr ""
+
+#    # game/core/04function.rpy:992
+msgid "Близкие"
+msgstr ""
+
+#    # game/core/04function.rpy:1295
+msgid "Конфеты закончились"
+msgstr ""
 
