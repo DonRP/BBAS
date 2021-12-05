@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 16:50\n"
+"PO-Revision-Date: 2021-12-05 18:11\n"
 
 # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -442,7 +442,7 @@ msgstr "[Alice_05]Beh, certo..."
 
 # game/events/alice.rpy:453## # translate crowdin alice_shower_spider_3c76bf47:
 msgid "[Alice_16][failed!t]Я тебе не верю! Наверняка ты это сделал специально, чтобы поглазеть на меня! Твоё счастье, что я не могу знать этого точно... А так бы врезала тебе между ног!"
-msgstr "[Alice_16][fallito!t] Non ti credo! Sicuramente l'hai fatto di proposito per fissarmi! La tua felicità che non posso sapere con certezza... E così ti taglierebbe tra le gambe!"
+msgstr "[Alice_16][failed!t] Non ti credo! Sicuramente l'hai fatto di proposito per fissarmi! La tua felicità che non posso sapere con certezza... E così ti taglierebbe tra le gambe!"
 
 # game/events/alice.rpy:454## # translate crowdin alice_shower_spider_86ecd118:
 msgid "[Max_10]Так получилось! Я не хотел..."
@@ -478,7 +478,7 @@ msgstr "[Max_01]sì. Non dimenticherò..."
 
 # game/events/alice.rpy:488## # translate crowdin alice_shower_hug_f3a79944:
 msgid "[Alice_05][failed!t]Ага, знаю я, чего ты хочешь! Полуголую сестрёнку полапать за всякие запретные места... Нет уж, Макс, я пошла... Только не забудь паука вышвырнуть из ванной, хорошо?!"
-msgstr "[Alice_05][fallito!t] sì, so cosa vuoi! Sorella polapap seminuda per tutti i tipi di luoghi proibiti... No, Max, sono andato... Basta non dimenticare di buttare il ragno fuori dal bagno, ok?!"
+msgstr "[Alice_05][failed!t] sì, so cosa vuoi! Sorella polapap seminuda per tutti i tipi di luoghi proibiti... No, Max, sono andato... Basta non dimenticare di buttare il ragno fuori dal bagno, ok?!"
 
 # game/events/alice.rpy:489## # translate crowdin alice_shower_hug_428606a5_1:
 msgid "[Max_01]Да. Не забуду..."
@@ -972,7 +972,7 @@ msgstr "[Max_04]Ok, ora puoi prendere..."
 
 # game/events/alice.rpy:1218## # translate crowdin spider_in_bed_fail_afe9b556:
 msgid "[Alice_17][failed!t]Что?! Да я сама тебя сейчас придушу! Тебя-то я не боюсь! Быстро убил его! Или он, или ты. Кто-то из вас умрёт сегодня!"
-msgstr "[Alice_17][fallito!t] Cosa?! Sì, ora ti strangolarò! Non ho paura di te! Lo ha ucciso rapidamente! O lui o te. Alcuni di voi moriranno oggi!"
+msgstr "[Alice_17][failed!t] Cosa?! Sì, ora ti strangolarò! Non ho paura di te! Lo ha ucciso rapidamente! O lui o te. Alcuni di voi moriranno oggi!"
 
 # game/events/alice.rpy:1219## # translate crowdin spider_in_bed_fail_11231cfc:
 msgid "[Max_08]Ух, какая ты кровожадная. Ну ладно..."
@@ -1028,7 +1028,7 @@ msgstr "[Alice_13]Questo è tutto, smetti di sederti sul mio letto, esci di qui.
 
 # game/events/alice.rpy:1296## # translate crowdin spider_in_bed_spider_3533aec8:
 msgid "[Alice_16][failed!t]Нет уж, Макс! Ты его убиваешь прямо здесь и сейчас или я сильно на тебя обижусь! Выбирай..."
-msgstr "[Alice_16][fallito!t] No, Max! Lo stai uccidendo proprio qui e ora o mi offenderò molto con te! Scegliere..."
+msgstr "[Alice_16][failed!t] No, Max! Lo stai uccidendo proprio qui e ora o mi offenderò molto con te! Scegliere..."
 
 # game/events/alice.rpy:1297## # translate crowdin spider_in_bed_spider_d5b490ac:
 msgid "[Max_09]Ладно, будет тебе! Раз ты такая кровожадная..."
