@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-04 13:23\n"
+"PO-Revision-Date: 2021-12-05 18:12\n"
 
 # game/dialogues/punishment.rpy:99## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -306,7 +306,7 @@ msgstr "[Lisa_02]Grazie, Max!"
 
 # game/dialogues/punishment.rpy:476## # translate crowdin punishment_lisa_929c11ac:
 msgid "[Ann_12][failed!t]Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай..."
-msgstr "[Ann_12][fallito!t] No, Max, la tua persuasione non la aiuterà. Ottieni ciò che meriti. E tu, Lisa, non sopportare un pilastro, muovici andiamo..."
+msgstr "[Ann_12][failed!t] No, Max, la tua persuasione non la aiuterà. Ottieni ciò che meriti. E tu, Lisa, non sopportare un pilastro, muovici andiamo..."
 
 # game/dialogues/punishment.rpy:480## # translate crowdin punishment_lisa_8b6bc93a:
 msgid "[Lisa_10]Мам... Я не специально... Просто, задание было сложное..."
@@ -362,7 +362,7 @@ msgstr "[Max_07]{m}Non si può andare lontano con un semplice 'grazie'... Dobbia
 
 # game/dialogues/punishment.rpy:536## # translate crowdin punishment_lisa_929c11ac_1:
 msgid "[Ann_12][failed!t]Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай..."
-msgstr "[Ann_12][fallito!t] No, Max, la tua persuasione non la aiuterà. Ottieni ciò che meriti. E tu, Lisa, non sopportare un pilastro, muovici andiamo..."
+msgstr "[Ann_12][failed!t] No, Max, la tua persuasione non la aiuterà. Ottieni ciò che meriti. E tu, Lisa, non sopportare un pilastro, muovici andiamo..."
 
 # game/dialogues/punishment.rpy:552## # translate crowdin punishment_lisa_022518f9:
 msgid "[Max_04]{m}А вот это мне уже нравится... Сестрёнка сверкает своими классными сиськами... Можно смотреть и ничего за это не будет! Красота!{/m}"
@@ -438,7 +438,7 @@ msgstr "[Alice_13]Va bene, mamma. Grazie, Max, non lo dimenticherò."
 
 # game/dialogues/punishment.rpy:643## # translate crowdin punishment_alice_c8f8e3ea:
 msgid "[Ann_16][failed!t]Нет, Макс, твои уговоры ей не помогут. Получит в любом случае, не за себя, так за подружку. Не будет водится с такими, до добра они не доведут..."
-msgstr "[Ann_16][fallito!t] No, Max, la tua persuasione non la aiuterà. Prendi in ogni caso, non per te stesso, così per la tua ragazza. Non si troveranno con tale, al bene non porteranno..."
+msgstr "[Ann_16][failed!t] No, Max, la tua persuasione non la aiuterà. Prendi in ogni caso, non per te stesso, così per la tua ragazza. Non si troveranno con tale, al bene non porteranno..."
 
 # game/dialogues/punishment.rpy:648## # translate crowdin punishment_alice_055a6121:
 msgid "[Alice_13]Мам... Это не мои сигареты... Я не курю, честно..."
@@ -526,7 +526,7 @@ msgstr "[Max_09]{i}sì, non dimenticherà... Hmm... Forse dovrei chiederle qualc
 
 # game/dialogues/punishment.rpy:724## # translate crowdin punishment_alice_c8f8e3ea_1:
 msgid "[Ann_16][failed!t]Нет, Макс, твои уговоры ей не помогут. Получит в любом случае, не за себя, так за подружку. Не будет водится с такими, до добра они не доведут..."
-msgstr "[Ann_16][fallito!t] No, Max, la tua persuasione non la aiuterà. Prendi in ogni caso, non per te stesso, così per la tua ragazza. Non si troveranno con tale, al bene non porteranno..."
+msgstr "[Ann_16][failed!t] No, Max, la tua persuasione non la aiuterà. Prendi in ogni caso, non per te stesso, così per la tua ragazza. Non si troveranno con tale, al bene non porteranno..."
 
 # game/dialogues/punishment.rpy:751## # translate crowdin punishment_alice_6bf98fd4:
 msgid "[Alice_15]Ай, больно же! Мам, я больше не буду!!!"
