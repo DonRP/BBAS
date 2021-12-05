@@ -10,48 +10,48 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-11-02 11:16\n"
+"PO-Revision-Date: 2021-12-05 15:47\n"
 
 msgid "Ужасное"
 msgstr "Schrecklich"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Очень плохое"
 msgstr "Sehr schlecht"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Плохое"
 msgstr "Schlecht"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Не очень"
 msgstr "Nicht besonders"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Нейтральное"
 msgstr "Neutral"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Неплохое"
 msgstr "Nicht schlecht"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Хорошее"
 msgstr "Gut"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Очень хорошее"
 msgstr "Sehr gut"
 
-#    # game/core/01classes.rpy:652
+#    # game/core/01classes.rpy:658
 msgid "Прекрасное"
 msgstr "Unglaublich!"
 
-#    # game/core/01classes.rpy:1041
+#    # game/core/01classes.rpy:1047
 msgid "Приобретен пакет рекламы"
 msgstr "Werbepaket gekauft"
 
-#    # game/core/01classes.rpy:1286
+#    # game/core/01classes.rpy:1292
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Achtung:{/b} Eine neue \"Gelegenheit\" wurde erhalten! {/i} {/farbe}"
+msgstr "{color=[lime]}{i}{b}Achtung:{/b} Du hast eine neue \"Gelegenheit\" erhalten! {/i} {/color}"
 
