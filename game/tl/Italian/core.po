@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:46\n"
+"PO-Revision-Date: 2021-12-05 16:50\n"
 
 # game/core/core.rpy:496## # translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
@@ -56,6 +56,14 @@ msgstr "[Max_01]{m}Allora, ho ordinato la macchina fotografica, ora devo aspetta
 msgid "[Max_07]{m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
 msgstr "[Max_07]{m}Mi chiedo con cosa verrà fotografata la zia Kira fuori dai suoi vestiti? Ne ha bisogno per il suo portafoglio porno... Quindi forse dovrei prendere qualcosa di sexy per lei. Come una camicia da notte più rivelatrice! Questo sarebbe un vantaggio per me...{/m}"
 
+# game/core/core.rpy:821## # translate crowdin after_load_84f87582:
+msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
+
+# game/core/core.rpy:827## # translate crowdin after_load_e53fbeb7:
+msgid "_ver [_version], conf.ver [config.version]"
+msgstr "_ver [_version], conf.ver [config.version]"
+
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nuovo prodotto è disponibile nel negozio online."
 
@@ -67,7 +75,7 @@ msgstr "{i}vai in veranda{/i}"
 msgid "{i}не сейчас{/i}"
 msgstr "{i}non ora{/i}"
 
-#    # game/core/core.rpy:890
+#    # game/core/core.rpy:908
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
@@ -75,7 +83,7 @@ msgstr "Era interessante! Ho detto ad Alice, per divertimento, che non volevo pi
 "All'inizio l'ha accettato, ma dopo alcune punizioni da parte di sua madre, ha accettato di lasciarsi sculacciare da me. Almeno, se fosse possibile salvare Alice dalla mano di sua madre. Dovrei anche ricordarmi di discutere con lei quando potrei sculacciarla.\n\n"
 "C'è, tuttavia, una piccola sfumatura che ha fatto sì che Alice fosse d'accordo... Le ho promesso che le avrei dato una sculacciata gentile. Sì, non sarà facile non prenderla a schiaffi per essere così stronza..."
 
-#    # game/core/core.rpy:890
+#    # game/core/core.rpy:908
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
