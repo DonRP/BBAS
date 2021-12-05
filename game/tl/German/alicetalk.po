@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-11-02 12:33\n"
+"PO-Revision-Date: 2021-12-05 16:50\n"
 
-# game/dialogues/alicetalk.rpy:13## # translate crowdin AliceTalkStart_123d1aca:
+# game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
 msgstr ""
 
-# game/dialogues/alicetalk.rpy:16## # translate crowdin AliceTalkStart_40123f86:
+# game/dialogues/alicetalk.rpy:15## # translate crowdin AliceTalkStart_40123f86:
 msgid "[Max_09]{m}Впечатлений от времяпрепровождения с Алисой мне и в её комнате хватило. Сегодня к ней лучше больше не лезть...{/m}"
 msgstr ""
 
@@ -3238,8 +3238,16 @@ msgstr ""
 msgid "[Max_09]Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра."
 msgstr ""
 
-# game/dialogues/alicetalk.rpy:3245## # translate crowdin alice_sorry_gifts_a4021d45:
-msgid "[Alice_02][txt!t][nointeract]"
+# game/dialogues/alicetalk.rpy:3240## # translate crowdin alice_sorry_gifts_fd790983:
+msgid "[Alice_02]Да ладно! Это мне нравится... И что там у тебя?[nointeract]"
+msgstr ""
+
+# game/dialogues/alicetalk.rpy:3242## # translate crowdin alice_sorry_gifts_567ab5fa:
+msgid "[Alice_02]Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?[nointeract]"
+msgstr ""
+
+# game/dialogues/alicetalk.rpy:3244## # translate crowdin alice_sorry_gifts_e3d28a54:
+msgid "[Alice_02]Наконец-то! Ну давай, показывай, что у тебя на этот раз?![nointeract]"
 msgstr ""
 
 # game/dialogues/alicetalk.rpy:3298## # translate crowdin alice_sorry_gifts_middle_again_ebaef405:
@@ -7876,18 +7884,6 @@ msgstr ""
 
 #    # game/dialogues/alicetalk.rpy:3167
 msgid "{i}тискать дальше...{/i}"
-msgstr ""
-
-#    # game/dialogues/alicetalk.rpy:3239
-msgid "Да ладно! Это мне нравится... И что там у тебя?"
-msgstr ""
-
-#    # game/dialogues/alicetalk.rpy:3239
-msgid "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?"
-msgstr ""
-
-#    # game/dialogues/alicetalk.rpy:3239
-msgid "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!"
 msgstr ""
 
 #    # game/dialogues/alicetalk.rpy:3303
