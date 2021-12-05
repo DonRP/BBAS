@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:49\n"
+"PO-Revision-Date: 2021-12-05 18:12\n"
 
 # game/events/ann.rpy:11## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -158,7 +158,7 @@ msgstr "[Max_04]sì, va bene, mamma!"
 
 # game/events/ann.rpy:204## # translate crowdin ann_shower_serious_talk_65550d20:
 msgid "[Ann_16][failed!t]Случайно пробрался сюда, спрятался и глазеешь тут? Случайно?! А ну-ка марш отсюда! Перед завтраком поговорим!"
-msgstr "[Ann_16][fallito!t] si è accidentalmente intrufolato qui, nascosto e fissato qui? Accidentalmente?! E bene, marcia da qui! Prima di colazione, parliamone!"
+msgstr "[Ann_16][failed!t] si è accidentalmente intrufolato qui, nascosto e fissato qui? Accidentalmente?! E bene, marcia da qui! Prima di colazione, parliamone!"
 
 # game/events/ann.rpy:205## # translate crowdin ann_shower_serious_talk_e071f814:
 msgid "[Max_10]Хорошо..."
