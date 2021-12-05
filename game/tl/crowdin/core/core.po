@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-11-02 12:54
+﻿# TODO: Translation updated at 2021-12-05 17:43
 
 # game/core/core.rpy:496## # translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
