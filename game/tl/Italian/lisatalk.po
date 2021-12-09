@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:12\n"
+"PO-Revision-Date: 2021-12-09 15:41\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -706,7 +706,7 @@ msgstr "[Lisa_10]Beh... Il più aperto possibile. Ma non del tutto completamente
 
 # game/dialogues/lisatalk.rpy:662## # translate crowdin talk_swim_want_b25ca551:
 msgid "[Max_09]Ясно... {m}или нет{/m}"
-msgstr "[Max_09]Chiaramente... {m}(o no){/i}"
+msgstr "[Max_09]Chiaramente... {m}o no{/m}"
 
 # game/dialogues/lisatalk.rpy:663## # translate crowdin talk_swim_want_58527b43:
 msgid "[Lisa_02]В общем, на твоё усмотрение. Только чтобы не хуже, чем этот. Хотя, куда уж хуже..."
@@ -1358,7 +1358,7 @@ msgstr "[Max_05]Ora convinto!"
 
 # game/dialogues/lisatalk.rpy:1152## # translate crowdin Lisa_HomeWork_show_breast_a1b246d0:
 msgid "[Max_00]{m}Ну, раз Лиза выполнила мою просьбу, придётся всё сделать как положено. Да и если ей поставят двойку за это снова, она больше ничего уже не покажет мне...{/m}"
-msgstr "[Max_00]{m}( Beh, dal momento che Lisa ha soddisfatto la mia richiesta, dovrai fare tutto come dovrebbe essere. E se le viene dato di nuovo un deuce per questo, non mi mostrerà nient'altro ... ) {/i}"
+msgstr "[Max_00]{m}Beh, dal momento che Lisa ha soddisfatto la mia richiesta, dovrai fare tutto come dovrebbe essere. E se le viene dato di nuovo un deuce per questo, non mi mostrerà nient'altro...{/i}"
 
 # game/dialogues/lisatalk.rpy:1153## # translate crowdin Lisa_HomeWork_show_breast_4a5d69ef:
 msgid "[Max_04]Ну всё, Лиза, я закончил!"
@@ -2932,7 +2932,7 @@ msgstr "[Max_01]Sicuramente per caso!"
 
 # game/dialogues/lisatalk.rpy:2490## # translate crowdin lisa_sorry_gifts_middle_38ed7eaf:
 msgid "[Lisa_01]Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-msgstr "[Lisa_01]penso che se è così chiaro\", forse dovrei anche abbracciarti?[nointeract]"
+msgstr "[Lisa_01]Sto pensando che se è così inequivocabile, forse dovrei anche abbracciarti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:2494## # translate crowdin lisa_sorry_gifts_middle_ef6e48ab:
 msgid "[Lisa_05][succes!t]Думаю, этому можно верить. Иди сюда - дай я тебя обниму!"
@@ -3056,7 +3056,7 @@ msgstr "[Max_01]Sicuramente per caso!"
 
 # game/dialogues/lisatalk.rpy:2535## # translate crowdin lisa_sorry_gifts_middle_38ed7eaf_1:
 msgid "[Lisa_01]Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-msgstr "[Lisa_01]penso che se è così chiaro\", forse dovrei anche abbracciarti?[nointeract]"
+msgstr "[Lisa_01]Sto pensando che se è così inequivocabile, forse dovrei anche abbracciarti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:2539## # translate crowdin lisa_sorry_gifts_middle_ef6e48ab_1:
 msgid "[Lisa_05][succes!t]Думаю, этому можно верить. Иди сюда - дай я тебя обниму!"
@@ -3152,7 +3152,7 @@ msgstr "[Max_01]Sicuramente per caso!"
 
 # game/dialogues/lisatalk.rpy:2582## # translate crowdin lisa_sorry_gifts_middle_38ed7eaf_2:
 msgid "[Lisa_01]Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-msgstr "[Lisa_01]penso che se è così chiaro\", forse dovrei anche abbracciarti?[nointeract]"
+msgstr "[Lisa_01]Sto pensando che se è così inequivocabile, forse dovrei anche abbracciarti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:2586## # translate crowdin lisa_sorry_gifts_middle_ef6e48ab_2:
 msgid "[Lisa_05][succes!t]Думаю, этому можно верить. Иди сюда - дай я тебя обниму!"
@@ -3240,7 +3240,7 @@ msgstr "[Max_01]Sicuramente per caso!"
 
 # game/dialogues/lisatalk.rpy:2633## # translate crowdin lisa_sorry_gifts_middle_38ed7eaf_3:
 msgid "[Lisa_01]Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-msgstr "[Lisa_01]penso che se è così chiaro\", forse dovrei anche abbracciarti?[nointeract]"
+msgstr "[Lisa_01]Sto pensando che se è così inequivocabile, forse dovrei anche abbracciarti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:2637## # translate crowdin lisa_sorry_gifts_middle_ef6e48ab_3:
 msgid "[Lisa_05][succes!t]Думаю, этому можно верить. Иди сюда - дай я тебя обниму!"
@@ -3284,7 +3284,7 @@ msgstr "[Max_01]Sicuramente per caso!"
 
 # game/dialogues/lisatalk.rpy:2657## # translate crowdin lisa_sorry_gifts_middle_38ed7eaf_4:
 msgid "[Lisa_01]Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-msgstr "[Lisa_01]penso che se è così chiaro\", forse dovrei anche abbracciarti?[nointeract]"
+msgstr "[Lisa_01]Sto pensando che se è così inequivocabile, forse dovrei anche abbracciarti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:2661## # translate crowdin lisa_sorry_gifts_middle_ef6e48ab_4:
 msgid "[Lisa_05][succes!t]Думаю, этому можно верить. Иди сюда - дай я тебя обниму!"
@@ -3328,7 +3328,7 @@ msgstr "[Max_01]Sicuramente per caso!"
 
 # game/dialogues/lisatalk.rpy:2681## # translate crowdin lisa_sorry_gifts_middle_38ed7eaf_5:
 msgid "[Lisa_01]Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-msgstr "[Lisa_01]penso che se è così chiaro\", forse dovrei anche abbracciarti?[nointeract]"
+msgstr "[Lisa_01]Sto pensando che se è così inequivocabile, forse dovrei anche abbracciarti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:2685## # translate crowdin lisa_sorry_gifts_middle_ef6e48ab_5:
 msgid "[Lisa_05][succes!t]Думаю, этому можно верить. Иди сюда - дай я тебя обниму!"
