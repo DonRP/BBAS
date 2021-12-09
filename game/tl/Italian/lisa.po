@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:13\n"
+"PO-Revision-Date: 2021-12-09 15:42\n"
 
 # game/events/lisa.rpy:26## # translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -82,7 +82,7 @@ msgstr "[Max_02][undetect!t] Lisa è tutta così bagnata... classe! La figura e 
 
 # game/events/lisa.rpy:141## # translate crowdin lisa_shower_alt_peepeng_42f03b58:
 msgid "[Max_03][undetect!t]О, да! За тем, как вода стекает по её обворожительной попке, хочется смотреть не отрываясь..."
-msgstr "[Max_03][non esperto!t] Oh, sì! Per il modo in cui l'acqua scorre lungo il suo affascinante, voglio guardare senza distogliere lo distogliere lo studio..."
+msgstr "[Max_03][undetect!t]Oh, sì! Per il modo in cui l'acqua scorre lungo il suo affascinante, voglio guardare senza distogliere lo distogliere lo studio..."
 
 # game/events/lisa.rpy:154## # translate crowdin lisa_shower_closer_peepeng_022529c8:
 msgid "[Max_02][undetect!t]Лиза вся такая мокренькая... класс! Фигурка и всё остальное у неё – что надо... Как же хочется потрогать!"
@@ -90,7 +90,7 @@ msgstr "[Max_02][undetect!t] Lisa è tutta così bagnata... classe! La figura e 
 
 # game/events/lisa.rpy:156## # translate crowdin lisa_shower_closer_peepeng_42f03b58:
 msgid "[Max_03][undetect!t]О, да! За тем, как вода стекает по её обворожительной попке, хочется смотреть не отрываясь..."
-msgstr "[Max_03][non esperto!t] Oh, sì! Per il modo in cui l'acqua scorre lungo il suo affascinante, voglio guardare senza distogliere lo distogliere lo studio..."
+msgstr "[Max_03][undetect!t]Oh, sì! Per il modo in cui l'acqua scorre lungo il suo affascinante, voglio guardare senza distogliere lo distogliere lo studio..."
 
 # game/events/lisa.rpy:171## # translate crowdin lisa_shower_not_luck_e8e13c34:
 msgid "[Max_12]{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n"
@@ -444,15 +444,15 @@ msgstr "[Lisa_02]Max, fai qualcosa.[nointeract]"
 
 # game/events/lisa.rpy:1039## # translate crowdin lisa_dressed_try_to_peek_b3342fcc:
 msgid "[Max_05][lucky!t]{m}Повезло! Лиза не видит, что я подглядываю... Ещё совсем юная, но уже такая сексуальная! Обожаю её...{/m}"
-msgstr "[Max_05][fortunato!t]{m}fortunato! Lisa non mi vede sbirciare... Ancora giovanissima, ma già così sexy! Mi piace un sacco... {/m}"
+msgstr "[Max_05][lucky!t]{m}fortunato! Lisa non mi vede sbirciare... Ancora giovanissima, ma già così sexy! Mi piace un sacco...{/m}"
 
 # game/events/lisa.rpy:1041## # translate crowdin lisa_dressed_try_to_peek_274e1029:
 msgid "[Max_05][lucky!t]{m}Класс! Кажется, она не видит, что я подглядываю... Очень сложно оторвать взгляд от этих соблазнительных изгибов её фигуры, но надо...{/m}"
-msgstr "[Max_05][fortunato!t]{m}Class! Non sembra vedermi sbirciare... È molto difficile distogliere gli occhi da queste curve seducenti della sua figura, ma è necessario ... {/m}"
+msgstr "[Max_05][lucky!t]{m}Class! Non sembra vedermi sbirciare... È molto difficile distogliere gli occhi da queste curve seducenti della sua figura, ma è necessario...{/m}"
 
 # game/events/lisa.rpy:1043## # translate crowdin lisa_dressed_try_to_peek_6614903d:
 msgid "[Max_05][lucky!t]{m}Моя сестрёнка такая сладенькая! Как же мне повезло жить с такой классной девочкой в одной комнате и каждый день наслаждаться её голыми прелестями...{/m}"
-msgstr "[Max_05][fortunato!t]{m}Mia sorella è così dolce! Quanto sono fortunato a vivere con una ragazza così cool nella stessa stanza e godermi il suo fascino nudo ogni giorno ... {/m}"
+msgstr "[Max_05][lucky!t]{m}Mia sorella è così dolce! Quanto sono fortunato a vivere con una ragazza così cool nella stessa stanza e godermi il suo fascino nudo ogni giorno...{/m}"
 
 # game/events/lisa.rpy:1051## # translate crowdin lisa_dressed_try_to_peek_1ae137e9:
 msgid "[Lisa_11][spotted!t]Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?![nointeract]"
