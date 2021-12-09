@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:11\n"
+"PO-Revision-Date: 2021-12-09 15:41\n"
 
 # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -988,11 +988,11 @@ msgstr "[Max_04]Soldi tornerà sempre utile! Ok, dov'è il tuo ragno..."
 
 # game/events/alice.rpy:1236## # translate crowdin spider_in_bed_tits_556ab3f7:
 msgid "[Alice_14][succes!t]Ах! Ну ты хам... Ладно, смотри быстро. И убей его уже, наконец!"
-msgstr "[Alice_14][successo!t]Oh! Beh, sei boorish... Ok, guarda veloce. E uccidilo già, finalmente!"
+msgstr "[Alice_14][succes!t]Oh! Beh, sei boorish... Ok, guarda veloce. E uccidilo già, finalmente!"
 
 # game/events/alice.rpy:1239## # translate crowdin spider_in_bed_tits_455bb217:
 msgid "[Alice_09][succes!t]Ах! Ну и хам же ты, Макс... Ладно, любуйся, я сегодня добрая. И убей его уже, наконец!"
-msgstr "[Alice_09][successo!t]Oh! Oh beh, sei come, Max... Ok, ammira, oggi sono gentile. E uccidilo già, finalmente!"
+msgstr "[Alice_09][succes!t]Oh! Oh beh, sei come, Max... Ok, ammira, oggi sono gentile. E uccidilo già, finalmente!"
 
 # game/events/alice.rpy:1240## # translate crowdin spider_in_bed_tits_eccbb760:
 msgid "[Max_04]Сиськи - что надо! Ладно, где этот твой паук..."
@@ -1000,7 +1000,7 @@ msgstr "[Max_04]Tits - quello che ti serve! Ok, dov'è il tuo ragno..."
 
 # game/events/alice.rpy:1251## # translate crowdin spider_in_bed_toples_199ed983:
 msgid "[Alice_15][succes!t]Ах! Ну ты хам... Ладно... Ну что, доволен, извращенец? А теперь иди, убей его уже, наконец!"
-msgstr "[Alice_15][successo!t]Oh! Beh, sei boorish... Ok... Bene, soddisfatto, pervertito? Ora vai, uccidilo già, finalmente!"
+msgstr "[Alice_15][succes!t]Oh! Beh, sei boorish... Ok... Bene, soddisfatto, pervertito? Ora vai, uccidilo già, finalmente!"
 
 # game/events/alice.rpy:1252## # translate crowdin spider_in_bed_toples_19d75d09:
 msgid "[Max_05]Отличные сиськи! Ладно, где этот твой паук..."
@@ -1324,7 +1324,7 @@ msgstr "[Alice_06]D-a-a... Voglio dire, volevo dire... erroneamente! Ma accident
 
 # game/events/alice.rpy:1657## # translate crowdin alice_after_club_next2_a9d15c00:
 msgid "[Alice_10][like!t]Ах! Вот чёрт, Макс! Да-а-а... это так классно... быстрее... Как же меня возбуждает твой огромный член!"
-msgstr "[Alice_10][come!t] Ah! Accidenti, Max! Sì... è così bello... Più velocemente... Quanto sono eccitato dal tuo enorme cazzo!"
+msgstr "[Alice_10][like!t]Ah! Accidenti, Max! Sì... è così bello... Più velocemente... Quanto sono eccitato dal tuo enorme cazzo!"
 
 # game/events/alice.rpy:1659## # translate crowdin alice_after_club_next2_09f682d1:
 msgid "[Max_04]{i}Алиса так приятно постанывает... А уж мне не менее приятно трахать эту нежную киску пальцами. Может быть, она даже кончит, если я ускорюсь...{/i}[nointeract]"
@@ -1332,7 +1332,7 @@ msgstr "[Max_04]{i}Alice è così bella da stare in piedi... E sono altrettanto 
 
 # game/events/alice.rpy:1675## # translate crowdin alice_after_club_fast_fingers_4c3bcf59:
 msgid "[Alice_11][like!t]Да, Макс, да! Я кончаю... загони свои шаловливые пальчики поглубже... да... Ох... Класс! А ты скоро кончишь?"
-msgstr "[Alice_11][come!t] Sì, Max, sì! Sto cumming... infondi le tue dita cattive... Sì... Oh... Classe! Hai intenzione di farlo presto?"
+msgstr "[Alice_11][like!t]Sì, Max, sì! Sto cumming... infondi le tue dita cattive... Sì... Oh... Classe! Hai intenzione di farlo presto?"
 
 # game/events/alice.rpy:1676## # translate crowdin alice_after_club_fast_fingers_0a46f6d0:
 msgid "[Max_02]Для этого тебе придётся очень постараться..."
@@ -1352,7 +1352,7 @@ msgstr "[Alice_07]Mmm... Non avrei mai pensato di fare questo a te! Beh, avevi q
 
 # game/events/alice.rpy:1721## # translate crowdin alice_after_club_cunnilingus_22cc9964:
 msgid "[Alice_09][like!t]Да, Макс, да! Я уже так близко... Не останавливайся... У тебя такой быстрый и ловкий язычок, Макс... Ммм...[nointeract]"
-msgstr "[Alice_09][come!t] Sì, Max, sì! Sono così vicino... Continua a camminare... Hai una lingua così veloce e agile, Max... Mmm...[nointeract]"
+msgstr "[Alice_09][like!t]Sì, Max, sì! Sono così vicino... Continua a camminare... Hai una lingua così veloce e agile, Max... Mmm...[nointeract]"
 
 # game/events/alice.rpy:1730## # translate crowdin alice_after_club_cunnilingus_7b561508:
 msgid "[Alice_11]Ах! Я больше не могу, Макс... Кончаю! Да... Как же это было классно! Ох... А ты кончил?"
