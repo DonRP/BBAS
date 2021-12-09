@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:12\n"
+"PO-Revision-Date: 2021-12-09 15:42\n"
 
 # game/events/ann.rpy:11## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -124,7 +124,7 @@ msgstr "[Max_03][undetect!t] Puoi essere awilled! Non tutti i giorni c'è una ta
 
 # game/events/ann.rpy:149## # translate crowdin ann_shower_alt_peepeng_3c3328bd:
 msgid "[Max_05][undetect!t]О, да! Зрелище просто потрясающее... Такой сочной попке может позавидовать любая женщина! Какая мокренькая..."
-msgstr "[Max_05][non esperto!t] Oh, sì! Lo spettacolo è semplicemente sbalorditivo... Un così succoso può essere l'invidia di qualsiasi donna! Che bagnato..."
+msgstr "[Max_05][undetect!t]Oh, sì! Lo spettacolo è semplicemente sbalorditivo... Un così succoso può essere l'invidia di qualsiasi donna! Che bagnato..."
 
 # game/events/ann.rpy:162## # translate crowdin ann_shower_closer_peepeng_e486fb14:
 msgid "[Max_03][undetect!t]Обалдеть можно! Не каждый день выпадает такое счастье, любоваться этой красотой! Её большая упругая грудь и стройная фигурка просто загляденье..."
@@ -132,7 +132,7 @@ msgstr "[Max_03][undetect!t] Puoi essere awilled! Non tutti i giorni c'è una ta
 
 # game/events/ann.rpy:164## # translate crowdin ann_shower_closer_peepeng_3c3328bd:
 msgid "[Max_05][undetect!t]О, да! Зрелище просто потрясающее... Такой сочной попке может позавидовать любая женщина! Какая мокренькая..."
-msgstr "[Max_05][non esperto!t] Oh, sì! Lo spettacolo è semplicemente sbalorditivo... Un così succoso può essere l'invidia di qualsiasi donna! Che bagnato..."
+msgstr "[Max_05][undetect!t]Oh, sì! Lo spettacolo è semplicemente sbalorditivo... Un così succoso può essere l'invidia di qualsiasi donna! Che bagnato..."
 
 # game/events/ann.rpy:177## # translate crowdin ann_shower_not_luck_4a76a42b:
 msgid "[Max_12]{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n"
@@ -150,7 +150,7 @@ msgstr "[Ann_19]Mi stai spiando? Dovresti vergognarti! Avremo una conversazione 
 
 # game/events/ann.rpy:200## # translate crowdin ann_shower_serious_talk_5cc0688c:
 msgid "[Ann_12][succes!t]Случайность, говоришь? Ну ладно, поверю. А теперь бегом отсюда!"
-msgstr "[Ann_12][successo!t] Casualità, dici? Ok, ti crederò. E ora corri da qui!"
+msgstr "[Ann_12][succes!t]Casualità, dici? Ok, ti crederò. E ora corri da qui!"
 
 # game/events/ann.rpy:201## # translate crowdin ann_shower_serious_talk_b81f7229:
 msgid "[Max_04]Ага, хорошо, мам!"
