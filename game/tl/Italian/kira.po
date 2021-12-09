@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:13\n"
+"PO-Revision-Date: 2021-12-09 15:42\n"
 
 # game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -1562,7 +1562,7 @@ msgstr "[Kira_05]Oh... Max, le mie papille stanno già brontolando con il deside
 
 # game/events/kira.rpy:1518## # translate crowdin kira_night_tv_repeat_lesson_2df27d30:
 msgid "[Kira_06]Д-а-а... Вот так, Макс... Поиграй со мной! Как же я уже хочу, чтобы ты опускался своим шустрым язычком всё ниже и ниже... прямо туда... Оххх...[nointeract]"
-msgstr "[Kira_06]D-a-a... Esatto, Max... Gioca con me! Come voglio già che tu affondi la tua lingua agile sempre più in basso... Proprio lì... oh[nointeract]h"
+msgstr "[Kira_06]D-a-a... Esatto, Max... Gioca con me! Come voglio già che tu affondi la tua lingua agile sempre più in basso... Proprio lì... ohh[nointeract]"
 
 # game/events/kira.rpy:1522## # translate crowdin kira_night_tv_repeat_lesson_c494b70e:
 msgid "[Kira_02]Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам."
@@ -1698,7 +1698,7 @@ msgstr "[Kira_05]Oh... Max, i miei capezzoli sono già esausti dal volerli tocca
 
 # game/events/kira.rpy:1652## # translate crowdin kira_night_tv_teach_cuni_2df27d30:
 msgid "[Kira_06]Д-а-а... Вот так, Макс... Поиграй со мной! Как же я уже хочу, чтобы ты опускался своим шустрым язычком всё ниже и ниже... прямо туда... Оххх...[nointeract]"
-msgstr "[Kira_06]D-a-a... Esatto, Max... Gioca con me! Come voglio già che tu affondi la tua lingua agile sempre più in basso... Proprio lì... oh[nointeract]h"
+msgstr "[Kira_06]D-a-a... Esatto, Max... Gioca con me! Come voglio già che tu affondi la tua lingua agile sempre più in basso... Proprio lì... ohh[nointeract]"
 
 # game/events/kira.rpy:1657## # translate crowdin kira_night_tv_teach_cuni_328ceb80:
 msgid "[Kira_02]Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам.[nointeract]"
@@ -2182,7 +2182,7 @@ msgstr "[Kira_05]E sono qui, tutto così bagnato e pensando - dimenticato di me 
 
 # game/events/kira.rpy:2379## # translate crowdin kira_shower_promise_cuni_7e9dc3d1:
 msgid "[Max_03]Как о тебе можно забыть, тётя Кира? Тебя нужно как следует порадовать за вчерашнее...[nointeract]"
-msgstr "[Max_03]Come puoi dimenticarti di te, zia Kira? Devi essere adeguatamente contento per il...[nointeract]di ieri"
+msgstr "[Max_03]Come puoi dimenticarti di te, zia Kira? Devi essere adeguatamente contento per il... di ieri[nointeract]"
 
 # game/events/kira.rpy:2386## # translate crowdin kira_shower_promise_cuni_d3c0b1c3:
 msgid "[Kira_04]Ох... Ты тот ещё шалунишка! Я обожаю, когда ласкают мою грудь и особенно мои сосочки... Ммм...[nointeract]"
