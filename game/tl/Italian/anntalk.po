@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:47\n"
+"PO-Revision-Date: 2021-12-09 15:41\n"
 
 # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -1022,7 +1022,7 @@ msgstr "[Max_07]No. Ero interessato all'inizio della descrizione del film. Proba
 
 # game/dialogues/anntalk.rpy:1037## # translate crowdin erofilm2_1_7cd6006b:
 msgid "[Ann_15][ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься.[nointeract]"
-msgstr "[Ann_15][ann_bad_mass!t]ОйOw! Wow! Max, perché non mi hai detto che il mio asciugamano stava scivolando?! Mi ha quasi lasciato nudo! Facciamo una pausa dal massaggio... e guardare il resto del film. Ti stai distraendo troppo.[nointeract]"
+msgstr "[Ann_15][ann_bad_mass!t]Ow! Wow! Max, perché non mi hai detto che il mio asciugamano stava scivolando?! Mi ha quasi lasciato nudo! Facciamo una pausa dal massaggio... e guardare il resto del film. Ti stai distraendo troppo.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1049## # translate crowdin erofilm2_1_0cbf3006:
 msgid "[Ann_14][lucky!t]Так, как-то здесь всё слишком откровенно начало развиваться... Прямо очень откровенно! Ты специально такой фильм купил?"
