@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:34\n"
+"PO-Revision-Date: 2021-12-09 15:41\n"
 
 # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
@@ -962,7 +962,7 @@ msgstr "[Max_04]Eccellente!"
 
 # game/dialogues/dinner.rpy:627## # translate crowdin dinner_12_797024eb:
 msgid "[Lisa_01]Тётя Кира же рассказывала, Макс! Она любит эту историю, правда, каждый раз рассказывает её по-новому. Вот спросишь у неё и узнаешь новую версию!"
-msgstr "[Lisa_01]zia Kira ha detto: \"Max! Ama questa storia, però, ogni volta che la racconta in un modo nuovo. Qui le chiedi e scopri la nuova versione!"
+msgstr "[Lisa_01]Zia Kira ha detto, Max! Ama questa storia, però, ogni volta che la racconta in un modo nuovo. Qui le chiedi e scopri la nuova versione!"
 
 # game/dialogues/dinner.rpy:628## # translate crowdin dinner_12_9c03c99d:
 msgid "[Max_02]Ага, спрошу..."
