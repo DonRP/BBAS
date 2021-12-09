@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:12\n"
+"PO-Revision-Date: 2021-12-09 15:41\n"
 
 # game/dialogues/punishment.rpy:99## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -240,7 +240,7 @@ msgstr "[Ann_16][_text!t]"
 msgid "[Max_14]{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n"
 "{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
 msgstr "[Max_14]{i}mamma mi punisce proprio davanti alle sorelle... È così umiliante... {/i}\n\n"
-"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/colore}"
+"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
 
 # game/dialogues/punishment.rpy:328## # translate crowdin punishment_max_pun_reson_700a2ea3:
 msgid "[Ann_12]Ну вот. Теперь все всё поняли? Ведите себя хорошо и вас не ждёт эта участь..."
@@ -274,7 +274,7 @@ msgstr "[Ann_16][_text!t]"
 msgid "[Max_14]{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n"
 "{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
 msgstr "[Max_14]{i}Accidenti... Tutti guardano con tanto interesse come vengo punito... È così umiliante... {/i}\n\n"
-"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/colore}"
+"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
 
 # game/dialogues/punishment.rpy:400## # translate crowdin punishment_max_pun_reson_faf292df:
 msgid "[Ann_12]Ну всё, Макс, одевайся. Надеюсь, ты сделал выводы и постараешься больше не попадать в такую унизительную ситуацию..."
