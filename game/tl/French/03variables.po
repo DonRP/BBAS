@@ -10,22 +10,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 15:47\n"
+"PO-Revision-Date: 2021-12-10 15:37\n"
 
 msgid "+ к навыку скрытности"
-msgstr ""
+msgstr "+ de compétence pour la furtivité"
 
 #    # game/core/04function.rpy:304
 msgid "+ к навыку убеждения"
-msgstr ""
+msgstr "+ de capacité de persuasion"
 
 #    # game/core/04function.rpy:308
 msgid "+ к навыку массажа"
-msgstr ""
+msgstr "+ compétence de massage"
 
 #    # game/core/04function.rpy:312
 msgid "+ к навыку поцелуев"
-msgstr ""
+msgstr "+ à la compétence de baiser"
 
 #    # game/core/04function.rpy:316
 msgid "+ к навыку эротического массажа"
