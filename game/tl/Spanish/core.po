@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-12-05 16:49\n"
+"PO-Revision-Date: 2021-12-10 15:37\n"
 
 # game/core/core.rpy:496## # translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
-msgstr "[Max_00]Estoy demasiado cansado. Debería tomar una siesta ..."
+msgstr "[Max_00]Estoy demasiado cansado. Debería tomar una siesta..."
 
 # game/core/core.rpy:641## # translate crowdin night_of_fun_cae91685:
 msgid "[Max_19]Теперь можно спокойно спать и ничего больше..."
@@ -58,11 +58,11 @@ msgstr "[Max_07] {m} Me pregunto con qué ropa me gustaría fotografiar a la tí
 
 # game/core/core.rpy:821## # translate crowdin after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:827## # translate crowdin after_load_e53fbeb7:
 msgid "_ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "_ver [_version], conf.ver [config.version]"
 
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nuevo producto está disponible en la tienda en línea."
