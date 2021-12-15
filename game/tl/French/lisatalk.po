@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-08 15:29\n"
+"PO-Revision-Date: 2021-12-15 09:46\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -454,15 +454,15 @@ msgstr "[Max_04]Bonne idée..."
 
 # game/dialogues/lisatalk.rpy:383## # translate crowdin about_school_sad_9dbc5990:
 msgid "[Lisa_03]Лично я буду купаться и загорать. Загорать и купаться. Пока не надоест. А потом повторю!"
-msgstr ""
+msgstr "[Lisa_03]Personnellement, je vais me baigner et prendre un bain de soleil. Bain de soleil et baignade. Jusqu'à ce que je m'ennuies. Et puis je recommencerais !"
 
 # game/dialogues/lisatalk.rpy:384## # translate crowdin about_school_sad_6a6ff284:
 msgid "[Max_04]Отличный план!"
-msgstr ""
+msgstr "[Max_04]Super plan !"
 
 # game/dialogues/lisatalk.rpy:387## # translate crowdin about_school_sad_cf550dc0:
 msgid "[Lisa_00]Что, прямо с первого дня? Отдохни, искупайся для начала. Может быть, мысли появятся..."
-msgstr ""
+msgstr "[Lisa_00]Quoi, dès le premier jour ? Reposes-toi, vas te baigner pour commencer. Peut-être que des idées viendront..."
 
 # game/dialogues/lisatalk.rpy:388## # translate crowdin about_school_sad_b53a40c7:
 msgid "[Max_00]Может, ты и права..."
