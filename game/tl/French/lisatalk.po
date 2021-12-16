@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-15 09:46\n"
+"PO-Revision-Date: 2021-12-16 09:41\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -466,191 +466,191 @@ msgstr "[Lisa_00]Quoi, dès le premier jour ? Reposes-toi, vas te baigner pour c
 
 # game/dialogues/lisatalk.rpy:388## # translate crowdin about_school_sad_b53a40c7:
 msgid "[Max_00]Может, ты и права..."
-msgstr ""
+msgstr "[Max_00]Tu as peut-être raison..."
 
 # game/dialogues/lisatalk.rpy:392## # translate crowdin about_school_want_23392a66:
 msgid "[Lisa_00]Может быть, в другой раз...[nointeract]"
-msgstr ""
+msgstr "[Lisa_00]Peut-être une autre fois...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:395## # translate crowdin about_school_want_95d73f52:
 msgid "[Lisa_02]Что, ты правда такой любопытный? Не знала![nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Tu es vraiment curieux ? Je ne le savais pas ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:407## # translate crowdin about_school_boy_7997f692:
 msgid "[Lisa_10]Ну... его зовут Алекс. Мы учимся в одном классе. Даже сидим рядом...[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Eh bien... son nom est Alex. Nous sommes dans la même classe. Même assis l'un à côté de l'autre...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:409## # translate crowdin about_school_boy_eac690ad:
 msgid "[Lisa_02]А какие тут могут быть подробности? Мы учимся вместе, сидим в одном классе за одной партой... Ну и он со мной заговорил..."
-msgstr ""
+msgstr "[Lisa_02]Quel niveau de détail peut-il y avoir ? Nous allons à l'école ensemble, nous nous asseyons dans la même classe, au même bureau... Alors il m'a parlé..."
 
 # game/dialogues/lisatalk.rpy:410## # translate crowdin about_school_boy_cbae7740:
 msgid "[Max_00]И что он сказал?"
-msgstr ""
+msgstr "[Max_00]Et qu'a-t-il dit ?"
 
 # game/dialogues/lisatalk.rpy:413## # translate crowdin about_school_boy_dfeb307d:
 msgid "[Lisa_02]Макс. Ну как ещё я могла познакомиться в первый день в школе с парнем? К тому же, если ещё и сидим рядом... Просто, он со мной заговорил..."
-msgstr ""
+msgstr "[Lisa_02]Max. Sinon, comment aurais-je pu rencontrer un gars le premier jour d'école ? En plus, si on est aussi assis l'un à côté de l'autre... C'est juste qu'il m'a parlé..."
 
 # game/dialogues/lisatalk.rpy:414## # translate crowdin about_school_boy_cbae7740_1:
 msgid "[Max_00]И что он сказал?"
-msgstr ""
+msgstr "[Max_00]Et qu'a-t-il dit ?"
 
 # game/dialogues/lisatalk.rpy:418## # translate crowdin about_school_boy_08a91089:
 msgid "[Lisa_02]Ну, парень как парень. Вот как ты, только не такой зануда и красивый.[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Eh bien, un gars est un gars. Tout comme toi, mais pas aussi ringard et il est beau.[nointeract]"
 
 # game/dialogues/lisatalk.rpy:420## # translate crowdin about_school_boy_770fda5d:
 msgid "[Lisa_03]Ещё какой зануда! Достаёшь меня допросами о моём парне..."
-msgstr ""
+msgstr "[Lisa_03]Quel ennui! Se faire questionner sur mon petit ami..."
 
 # game/dialogues/lisatalk.rpy:421## # translate crowdin about_school_boy_d83a4ec4:
 msgid "[Max_06]Ого, так он уже твой парень?!"
-msgstr ""
+msgstr "[Max_06]Wow, alors c'est déjà ton petit ami ?!"
 
 # game/dialogues/lisatalk.rpy:423## # translate crowdin about_school_boy_70f49692:
 msgid "[Lisa_10]Нет, ну... я не так выразилась. Мы только познакомились и, конечно, он не мой парень![nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Non, eh bien... Je ne l'ai pas dit comme ça. On vient de se rencontrer et, bien sûr, ce n'est pas mon petit ami ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:426## # translate crowdin about_school_boy_9d85db70:
 msgid "[Lisa_01]Думаю, что да. У меня ещё никогда не было парня. А этот...[nointeract]"
-msgstr ""
+msgstr "[Lisa_01]Je pense que oui. Je n'ai jamais eu de petit ami avant. Et celui-là...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:433## # translate crowdin about_school_boy_3ed631d7:
 msgid "[Lisa_03]Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате![nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Tu es mon petit frère ! Ne dis pas n'importe quoi. Toi et moi dormons déjà ensemble. Eh bien, dans la même pièce ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:439## # translate crowdin about_school_boy_8cf6e30f:
 msgid "[Lisa_00]Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать![nointeract]"
-msgstr ""
+msgstr "[Lisa_00]Imbécile ! Je l'ai dit en plaisantant. Et de toute façon, arrêtes de m'embêter ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:446## # translate crowdin about_school_boy_d7b4c3ad:
 msgid "[Lisa_03]А какой у тебя типаж? Неудачника, который достаёт младшую сестрёнку?[nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Quel est ton type ? Le loser qui harcèle sa petite sœur ?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:453## # translate crowdin about_school_boy_784ede1f:
 msgid "[Lisa_03]Ну, когда не зануда, вполне![nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Eh bien, quand ce n’est pas ennuyeux, tout à fait![nointeract]"
 
 # game/dialogues/lisatalk.rpy:456## # translate crowdin about_school_boy_2665fa38:
 msgid "[Lisa_12]Вот теперь ты зануда и нравишься мне с каждой секундой всё меньше и меньше...[nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Maintenant tu es un nerd et je t'aime de moins en moins à chaque seconde...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:459## # translate crowdin about_school_boy_6829da3a:
 msgid "[Lisa_03]То-то же! А то ведёшь себя как придурок...[nointeract]"
-msgstr ""
+msgstr "[Lisa_03]C'est vrai! Sinon, tu te comportes comme un con...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:467## # translate crowdin about_school_boy_75e223c5:
 msgid "[Lisa_10]Всё, Макс, достал меня. Дай отдохнуть, поплавать, позагорать..."
-msgstr ""
+msgstr "[Lisa_10]C'est ça, Max, j'en ai marre. Laisses-moi me reposer, nager, bronzer..."
 
 # game/dialogues/lisatalk.rpy:468## # translate crowdin about_school_boy_90866782:
 msgid "[Max_00]Эх..."
-msgstr ""
+msgstr "[Max_00]Eh..."
 
 # game/dialogues/lisatalk.rpy:476## # translate crowdin about_school_hey_59a885fe:
 msgid "[Lisa_00]Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились...[nointeract]"
-msgstr ""
+msgstr "[Lisa_00]Désolé. Je n'y ai pas pensé. Au fait, merci d'avoir discuté avec moi. J'avais l'habitude de parler de ces choses à Alice, mais elle est devenue trop vieille et nous nous sommes éloignés...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:483## # translate crowdin about_school_hey_e2bcf6f1:
 msgid "[Lisa_09]Ну вот, только я хотела тебе поплакаться о разбитой любви, а ты...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Je voulais juste te parler de mon amour brisé, et tu...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:486## # translate crowdin about_school_hey_06d45dde:
 msgid "[Lisa_03]Ага, два раза! Он ещё даже не знает, что мне нравится...[nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Oui, deux fois ! Il ne sait même pas encore ce que j'aime...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:493## # translate crowdin about_school_hey_b0bf4202:
 msgid "[Lisa_03]Ну, тогда терпи меня![nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Alors, sois indulgent avec moi ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:499## # translate crowdin about_school_hey_cae1772b:
 msgid "[Lisa_02]Ладно, буду иметь в виду![nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Ok, je vais garder ça en tête ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:506## # translate crowdin about_school_say_add69335:
 msgid "[Lisa_03]А вот это уже тебя не касается. Что сказал, то сказал. Мне понравилось. Так и познакомились...[nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Maintenant, ce n'est pas ton affaire. Ce qu'il a dit, il l'a dit. J'ai aimé. C'est ainsi que nous nous sommes rencontrés...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:515## # translate crowdin about_school_whatnow_e3abd53f:
 msgid "[Lisa_00]Я не знаю. Это же только первый день. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая...[nointeract]"
-msgstr ""
+msgstr "[Lisa_00]Je ne sais pas. Ce n'est que le premier jour. On va voir comment ça se passe. Peut-être qu'il voit déjà quelqu'un d'autre, et je suis là, si jolie...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:522## # translate crowdin about_school_whatnow_32ffb166:
 msgid "[Lisa_12]Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила...[nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Quand tu avais mon âge, tu traînais déjà avec machin-chose... Vraiment, elle t'a quitté...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:525## # translate crowdin about_school_whatnow_3ded53e0:
 msgid "[Lisa_02]Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь...[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Ouais, et ensuite tu montais la garde devant sa fenêtre pour lui dire à quel point tu ne l'aimais pas...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:536## # translate crowdin about_school_no_d48a9ada:
 msgid "[Lisa_03]Так или иначе, я не слышала, чтобы у тебя было много побед на любовном фронте..."
-msgstr ""
+msgstr "[Lisa_03]En tout cas, je n'ai pas entendu dire que tu avais eu beaucoup de victoires sur le plan amoureux..."
 
 # game/dialogues/lisatalk.rpy:537## # translate crowdin about_school_no_7df8cb39:
 msgid "[Max_00]Я же не обо всём рассказывал..."
-msgstr ""
+msgstr "[Max_00]Ce n'est pas comme si je parlais de tout..."
 
 # game/dialogues/lisatalk.rpy:541## # translate crowdin about_school_xp_6bf918d9:
 msgid "[Lisa_03]Да уж, ты у нас опытный любовник![nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Oui, tu es un amant si expérimenté ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:549## # translate crowdin about_school_yes_274715fe:
 msgid "[Lisa_02]Любопытно... И о чём же ты умолчал?[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Curieux... Et sur quoi as-tu garder le silence ?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:551## # translate crowdin about_school_yes_20801c09:
 msgid "[Lisa_11]Куча девушек? Надувных? Где же ты их всех прятал?"
-msgstr ""
+msgstr "[Lisa_11]Beaucoup de filles ? Gonflable ? Où les as-tu cachées ?"
 
 # game/dialogues/lisatalk.rpy:552## # translate crowdin about_school_yes_0aed0f34:
 msgid "[Max_14]Парни о таком не рассказывают"
-msgstr ""
+msgstr "[Max_14]Les gars ne parlent pas de ces choses"
 
 # game/dialogues/lisatalk.rpy:558## # translate crowdin about_school_yes_e685e146:
 msgid "[Lisa_12]Так я тебе и поверила...[nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Alors je t’ai cru...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:561## # translate crowdin about_school_yes_6acb2820:
 msgid "[Lisa_02]Ладно, ладно. Если ты так говоришь, пусть так.[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Très bien, très bien. Si tu le dis, qu'il en soit ainsi.[nointeract]"
 
 # game/dialogues/lisatalk.rpy:570## # translate crowdin about_school_so_9e22a0c9:
 msgid "[Lisa_02]Я подумаю над твоим предложением. А пока, мы что-то заболтались. Я бы хотела искупаться и позагорать..."
-msgstr ""
+msgstr "[Lisa_02]Je vais réfléchir à ta suggestion. En attendant, nous avons discuté. J'aimerais nager et prendre le soleil..."
 
 # game/dialogues/lisatalk.rpy:571## # translate crowdin about_school_so_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr ""
+msgstr "[Max_00]D’accord..."
 
 # game/dialogues/lisatalk.rpy:575## # translate crowdin about_school_like_2d12d67a:
 msgid "[Lisa_03]Ну конечно! Что за глупые вопросы. Вот только я не знаю как правильно себя вести, что говорить...[nointeract]"
-msgstr ""
+msgstr "[Lisa_03]Bien sûr ! Quelle question stupide. Je ne sais pas comment me comporter correctement, et quoi dire...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:582## # translate crowdin about_school_help_bbbc9140:
 msgid "[Lisa_00]Хорошо, Макс, буду иметь в виду. И спасибо, что поболтал со мной. А пока ты не против, если я немного отдохну?"
-msgstr ""
+msgstr "[Lisa_00]Ok, Max, je vais garder ça en tête. Et merci d'avoir discuté avec moi. En attendant, ça te dérange si je me repose un peu ?"
 
 # game/dialogues/lisatalk.rpy:583## # translate crowdin about_school_help_ceecc1ac:
 msgid "[Max_00]Конечно! А я пойду..."
-msgstr ""
+msgstr "[Max_00]Bien sûr ! Et j’irai..."
 
 # game/dialogues/lisatalk.rpy:587## # translate crowdin about_school_willbeok_53b15e9d:
 msgid "[Lisa_02]Спасибо, Макс. Приятно слышать, что кому-то не всё равно..."
-msgstr ""
+msgstr "[Lisa_02]Merci, Max. C'est bon d'entendre que quelqu'un s'en soucie..."
 
 # game/dialogues/lisatalk.rpy:588## # translate crowdin about_school_willbeok_a1311e58:
 msgid "[Max_04]Если будет нужна помощь, обращайся"
-msgstr ""
+msgstr "[Max_04]Si tu as besoin d'aide, contacte-moi"
 
 # game/dialogues/lisatalk.rpy:592## # translate crowdin about_school_goodplan_03f4b5ba:
 msgid "[Lisa_00]В общем, если что, я тут."
-msgstr ""
+msgstr "[Lisa_00]Bref, je suis là si tu as besoin de moi."
 
 # game/dialogues/lisatalk.rpy:593## # translate crowdin about_school_goodplan_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr ""
+msgstr "[Max_00]D’accord..."
 
 # game/dialogues/lisatalk.rpy:605## # translate crowdin talk_swim_f9fb2825:
 msgid "[Lisa_10]Как... так?[nointeract]"
@@ -1062,47 +1062,47 @@ msgstr "[Lisa_00]À propos de qui?!"
 
 # game/dialogues/lisatalk.rpy:903## # translate crowdin Lisa_MorningWoodCont_98701acf:
 msgid "[Max_01]О Большом Максе, на которого ты, с таким интересом, смотрела утром."
-msgstr ""
+msgstr "[Max_01]A propos du Big Max que tu regardais avec tant d'intérêt ce matin."
 
 # game/dialogues/lisatalk.rpy:904## # translate crowdin Lisa_MorningWoodCont_56152c0c:
 msgid "[Lisa_02]Ага! Так значит я была права! Раз у него есть имя, значит он и правда живёт своей жизнью..."
-msgstr ""
+msgstr "[Lisa_02]Aha ! J'avais donc raison ! S'il a un nom, alors il a vraiment une vie..."
 
 # game/dialogues/lisatalk.rpy:905## # translate crowdin Lisa_MorningWoodCont_93c24ad5:
 msgid "[Max_04]Нет, не живёт... Просто \"Большой Макс\" звучит как-то получше, чем \"эта штука\"."
-msgstr ""
+msgstr "[Max_04]Non, il ne le fait pas... Juste 'Big Max'. ça sonne en quelque sorte mieux que 'cette chose'."
 
 # game/dialogues/lisatalk.rpy:906## # translate crowdin Lisa_MorningWoodCont_746dce08:
 msgid "[Lisa_01]Как ни называй, а у вас, мальчиков, там очень странная штука."
-msgstr ""
+msgstr "[Lisa_01]Quel que soit le nom que tu lui donnes, il se passe quelque chose de très étrange chez toi."
 
 # game/dialogues/lisatalk.rpy:907## # translate crowdin Lisa_MorningWoodCont_e06656d9:
 msgid "[Max_03]Ты поэтому с таким интересом смотрела?"
-msgstr ""
+msgstr "[Max_03]C'est pour cela que tu regardais avec tant d'intérêt ?"
 
 # game/dialogues/lisatalk.rpy:908## # translate crowdin Lisa_MorningWoodCont_5b6f1cdb:
 msgid "[Lisa_09]Ну, Макс, нисколько не сомневаюсь, что если бы я спала практически голая, то ты бы тоже смотрел с интересом..."
-msgstr ""
+msgstr "[Lisa_09]Eh bien, Max, je ne doute pas que si je dormais pratiquement nue, tu regarderais aussi avec intérêt..."
 
 # game/dialogues/lisatalk.rpy:909## # translate crowdin Lisa_MorningWoodCont_2931ed71:
 msgid "[Max_05]А что, по-моему очень честно, если бы ты спала только в трусиках, без верха!"
-msgstr ""
+msgstr "[Max_05]Pourquoi, je pense que ce serait très juste si tu dormais juste en culotte, sans le haut !"
 
 # game/dialogues/lisatalk.rpy:910## # translate crowdin Lisa_MorningWoodCont_c83ed0ea:
 msgid "[Lisa_11]В смысле, честно?!"
-msgstr ""
+msgstr "[Lisa_11]Je veux dire, honnêtement ?!"
 
 # game/dialogues/lisatalk.rpy:911## # translate crowdin Lisa_MorningWoodCont_955ee47f:
 msgid "[Max_07]В том смысле, что я сплю в трусах и ты теперь иногда видишь моего \"Большого Макса\", а вот я вижу тебя слишком одетой... Это не честно!"
-msgstr ""
+msgstr "[Max_07]Dans le sens où je dors en pantalon et que tu vois parfois mon 'Big Max', mais que je te vois trop habillée... Ce n'est pas juste !"
 
 # game/dialogues/lisatalk.rpy:912## # translate crowdin Lisa_MorningWoodCont_81db866f:
 msgid "[Lisa_00]Для такого извращенца, как ты, Макс, это очень честно! Можешь только мечтать..."
-msgstr ""
+msgstr "[Lisa_00]Pour un pervers comme toi, Max, c'est très juste ! Tu peux seulement rêver..."
 
 # game/dialogues/lisatalk.rpy:913## # translate crowdin Lisa_MorningWoodCont_8dbc1caf:
 msgid "[Max_01]Ну ладно, как хочешь."
-msgstr ""
+msgstr "[Max_01]Très bien, comme tu veux."
 
 # game/dialogues/lisatalk.rpy:915## # translate crowdin Lisa_MorningWoodCont_54722f97:
 msgid "[Lisa_09]Нет, Макс, давай не будем говорить о том, что было утром..."
