@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-20 08:54\n"
+"PO-Revision-Date: 2021-12-21 09:17\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -1010,47 +1010,47 @@ msgstr "[Max_05]Je peux t'aider à devenir une adulte."
 
 # game/dialogues/lisatalk.rpy:881## # translate crowdin Lisa_MorningWood_888aacca:
 msgid "[Lisa_02]Ты же понимаешь, как это звучит? Лучше уточни, что ты имеешь в виду..."
-msgstr ""
+msgstr "[Lisa_02]Tu sais comment ça sonne, n'est-ce pas ? Mieux vaut préciser ce que tu veux dire..."
 
 # game/dialogues/lisatalk.rpy:882## # translate crowdin Lisa_MorningWood_0862a8fa:
 msgid "[Max_03]Я поделюсь с тобой знаниями, которые тебе помогут..."
-msgstr ""
+msgstr "[Max_03]Je vais partager avec toi les connaissances qui t'aideront..."
 
 # game/dialogues/lisatalk.rpy:883## # translate crowdin Lisa_MorningWood_9b43c9fd:
 msgid "[Lisa_01]Помогут с чем? Мне мама говорит, что ещё рано о таком думать."
-msgstr ""
+msgstr "[Lisa_01]Aider à quoi ? Ma mère dit qu'il est trop tôt pour y penser."
 
 # game/dialogues/lisatalk.rpy:884## # translate crowdin Lisa_MorningWood_b137429d:
 msgid "[Max_01]И что, ты не думаешь об этом?"
-msgstr ""
+msgstr "[Max_01]Et quoi, tu n'y penses pas ?"
 
 # game/dialogues/lisatalk.rpy:885## # translate crowdin Lisa_MorningWood_68178c5f:
 msgid "[Lisa_10]Думаю... Но я не знаю. О таком вроде не с мальчиками говорят, особенно с братом..."
-msgstr ""
+msgstr "[Lisa_10]J'y pense... Mais je ne sais pas. Ce n'est pas quelque chose dont on parle aux garçons, surtout à son frère..."
 
 # game/dialogues/lisatalk.rpy:886## # translate crowdin Lisa_MorningWood_fef33fff:
 msgid "[Max_07]У Алисы свои заботы, а мама тебе уже всё сказала..."
-msgstr ""
+msgstr "[Max_07]Alice a ses propres soucis et ta mère t'a déjà tout dit..."
 
 # game/dialogues/lisatalk.rpy:887## # translate crowdin Lisa_MorningWood_4e003c5c:
 msgid "[Lisa_00]Ну, я подумаю. Ты как-то слишком настойчиво помощь предлагаешь. Как будто у тебя свой интерес какой-то..."
-msgstr ""
+msgstr "[Lisa_00]Eh bien, je vais y réfléchir. Tu es un peu pressant pour offrir ton aide. C'est comme si tu avais ton propre intérêt..."
 
 # game/dialogues/lisatalk.rpy:888## # translate crowdin Lisa_MorningWood_d246544c:
 msgid "[Max_04]Хочу только помочь младшей сестрёнке."
-msgstr ""
+msgstr "[Max_04]Je veux juste aider ma petite sœur."
 
 # game/dialogues/lisatalk.rpy:889## # translate crowdin Lisa_MorningWood_6116b3e3:
 msgid "[Lisa_02]Ну да, ну да... В общем, я подумаю. Только вот не уверена, что ты всё-таки подходишь на роль такого... наставника, если ты меня понимаешь..."
-msgstr ""
+msgstr "[Lisa_02]Bien, bien... Bref, je vais y réfléchir. Sauf que je ne suis pas sûr que tu sois la bonne personne pour ça après tout... mentor, si tu vois ce que je veux dire..."
 
 # game/dialogues/lisatalk.rpy:890## # translate crowdin Lisa_MorningWood_1b8bc4b2:
 msgid "[Max_09]Что, моё мнение недостаточно авторитетно для тебя?"
-msgstr ""
+msgstr "[Max_09]Quoi, mon opinion ne fait pas assez autorité pour toi ?"
 
 # game/dialogues/lisatalk.rpy:891## # translate crowdin Lisa_MorningWood_cb9e1c45:
 msgid "[Lisa_01]Ну не знаю. Посмотрим..."
-msgstr ""
+msgstr "[Lisa_01]Je ne sais pas. Voyons voir..."
 
 # game/dialogues/lisatalk.rpy:892## # translate crowdin Lisa_MorningWood_626efed0:
 msgid "[Max_01]Посмотрим..."
@@ -1662,203 +1662,203 @@ msgstr "[Max_05]C'est vrai, Lisa. Il n'y a pas d'erreurs aujourd'hui. Tu es inte
 
 # game/dialogues/lisatalk.rpy:1455## # translate crowdin Lisa_HomeWork_random_answer_9676ac23:
 msgid "[Max_04]Всё лучше и лучше, никаких ошибок. Молодец, Лиза!"
-msgstr ""
+msgstr "[Max_04]C'est de mieux en mieux, pas d'erreurs. Bien joué, Lisa !"
 
 # game/dialogues/lisatalk.rpy:1457## # translate crowdin Lisa_HomeWork_random_answer_7608cf70:
 msgid "[Max_03]Всё сделано отлично, только вот тут есть небольшая ошибка. Вот так будет правильней."
-msgstr ""
+msgstr "[Max_03]Tout est bien fait, sauf qu'il y a une petite erreur ici. C'est la bonne façon de faire."
 
 # game/dialogues/lisatalk.rpy:1458## # translate crowdin Lisa_HomeWork_random_answer_2dddc65d:
 msgid "[Lisa_03]Классно! Спасибо, что помогаешь."
-msgstr ""
+msgstr "[Lisa_03]Cool ! Merci de ton aide."
 
 # game/dialogues/lisatalk.rpy:1459## # translate crowdin Lisa_HomeWork_random_answer_02025e2e:
 msgid "[Max_01]Да не за что."
-msgstr ""
+msgstr "[Max_01]De rien."
 
 # game/dialogues/lisatalk.rpy:1463## # translate crowdin Lisa_HomeWork_random_answer_ff9c96d3:
 msgid "[Lisa_09]Макс, а массаж рук ты сможешь сделать?"
-msgstr ""
+msgstr "[Lisa_09]Max, tu peux me faire un massage des mains ?"
 
 # game/dialogues/lisatalk.rpy:1465## # translate crowdin Lisa_HomeWork_random_answer_42868852:
 msgid "[Max_04]Да, смогу. Устала писать?"
-msgstr ""
+msgstr "[Max_04]Oui, je peux. Fatigué d'écrire ?"
 
 # game/dialogues/lisatalk.rpy:1467## # translate crowdin Lisa_HomeWork_random_answer_9e744743:
 msgid "[Max_07]Вообще-то, такое я ещё не делал и даже не изучал. Устала писать?"
-msgstr ""
+msgstr "[Max_07]En fait, je ne l'ai pas encore fait ou même étudié. Fatigué d'écrire ?"
 
 # game/dialogues/lisatalk.rpy:1468## # translate crowdin Lisa_HomeWork_random_answer_86751a8e:
 msgid "[Lisa_01]Немного. Во вторник и пятницу мне приходится много писать, а твой массаж мог бы это облегчить."
-msgstr ""
+msgstr "[Lisa_01]Pas trop. Je dois écrire beaucoup le mardi et le vendredi, et ton massage pourrait me faciliter la tâche."
 
 # game/dialogues/lisatalk.rpy:1470## # translate crowdin Lisa_HomeWork_random_answer_52d217a7:
 msgid "[Max_03]Тогда давай попробуем перед уроками, когда ты сидишь в телефоне?"
-msgstr ""
+msgstr "[Max_03]Alors essayons avant le cours quand tu es sur ton téléphone ?"
 
 # game/dialogues/lisatalk.rpy:1472## # translate crowdin Lisa_HomeWork_random_answer_2750982c:
 msgid "[Max_03]Тогда я быстренько узнаю, как это делается и попробуем перед уроками, когда ты сидишь в телефоне?"
-msgstr ""
+msgstr "[Max_03]Alors je vais vite trouver comment le faire et l'essayer avant le cours quand tu es sur le téléphone ?"
 
 # game/dialogues/lisatalk.rpy:1473## # translate crowdin Lisa_HomeWork_random_answer_8545162f:
 msgid "[Lisa_02]Давай."
-msgstr ""
+msgstr "[Lisa_02]Aller."
 
 # game/dialogues/lisatalk.rpy:1474## # translate crowdin Lisa_HomeWork_random_answer_b6886dad:
 msgid "[Max_01]Хорошо. Договорились."
-msgstr ""
+msgstr "[Max_01]D’accord. Faisons-le."
 
 # game/dialogues/lisatalk.rpy:1489## # translate crowdin Lisa_HomeWork_new_self_641cf30e:
 msgid "{i}Спустя какое-то время...{/i}"
-msgstr ""
+msgstr "{i}Après un certain temps...{/i}"
 
 # game/dialogues/lisatalk.rpy:1490## # translate crowdin Lisa_HomeWork_new_self_64ba960e:
 msgid "[Max_03]Всё, Лиза, я закончил!"
-msgstr ""
+msgstr "[Max_03]C'est bon, Lisa, j'ai fini !"
 
 # game/dialogues/lisatalk.rpy:1494## # translate crowdin Lisa_HomeWork_new_self_c4f78369:
 msgid "[Lisa_01]Спасибо, Макс! Ты так меня выручил! Если конечно там всё правильно, что я сейчас и проверю..."
-msgstr ""
+msgstr "[Lisa_01]Merci, Max ! Tu m'as beaucoup aidé ! En supposant que c'est correct, ce que je suis sur le point de vérifier..."
 
 # game/dialogues/lisatalk.rpy:1495## # translate crowdin Lisa_HomeWork_new_self_62781807:
 msgid "[Max_02]Может я сделаю тебе массаж ног, пока ты проверяешь? Тебе станет легче..."
-msgstr ""
+msgstr "[Max_02]Et si je te faisais un massage des pieds pendant que tu vérifies ? Tu te sentiras mieux..."
 
 # game/dialogues/lisatalk.rpy:1501## # translate crowdin Lisa_HomeWork_new_massage_71299d13:
 msgid "[Lisa_02]Дай-ка подумать... Да, давай! Я люблю, когда ты это делаешь![nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Laissez-moi voir... Oui, aller ! J'adore quand tu fais ça ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:1509## # translate crowdin Lisa_HomeWork_new_massage_4549fd0d:
 msgid "[Max_04]А я люблю массировать твои стройные ножки! Это меньшее, что я могу сделать для своей любимой сестрёнки..."
-msgstr ""
+msgstr "[Max_04]Et j'adore masser tes jambes fines ! C'est le moins que je puisse faire pour ma sœur adorée..."
 
 # game/dialogues/lisatalk.rpy:1511## # translate crowdin Lisa_HomeWork_new_massage_65c8d363:
 msgid "[Lisa_05]Твой массаж так хорошо расслабляет, даже уроки нескучно проверять. Очень приятно...[nointeract]"
-msgstr ""
+msgstr "[Lisa_05]Ton massage est si relaxant qu'il n'est même pas ennuyeux de vérifier mes devoirs. C'est un plaisir...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1518## # translate crowdin Lisa_HomeWork_new_massage_751c15f5:
 msgid "[Max_02]Мне приятно такое слышать! Я всё делал как надо, да?"
-msgstr ""
+msgstr "[Max_02]Je suis heureux de l'entendre ! J'ai tout fait correctement, n'est-ce pas ?"
 
 # game/dialogues/lisatalk.rpy:1519## # translate crowdin Lisa_HomeWork_new_massage_c6577f41:
 msgid "[Lisa_06]Ммм, да... Совершенно не хочется, чтобы это закончилось. Так приятно и легко..."
-msgstr ""
+msgstr "[Lisa_06]Mmm, ouais... Je ne veux pas du tout que ça se termine. C'est si agréable et facile..."
 
 # game/dialogues/lisatalk.rpy:1520## # translate crowdin Lisa_HomeWork_new_massage_93373081:
 msgid "[Max_07]Я вообще-то говорил про уроки, но принято к сведению."
-msgstr ""
+msgstr "[Max_07]Je parlais en fait des leçons, mais c'est noté."
 
 # game/dialogues/lisatalk.rpy:1525## # translate crowdin Lisa_HomeWork_new_massage_98679327:
 msgid "[Lisa_10]Ой, нет, я в смысле... Ну... это...[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Oh, non, je veux dire... Eh bien... c'est...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1527## # translate crowdin Lisa_HomeWork_new_massage_8eabf02d:
 msgid "[Max_04]Ну вот и всё. А то ещё заснёшь прямо за столом."
-msgstr ""
+msgstr "[Max_04]C'est donc ça. Tu pourrais t'endormir à table."
 
 # game/dialogues/lisatalk.rpy:1528## # translate crowdin Lisa_HomeWork_new_massage_f16a8a0d:
 msgid "[Lisa_03]Это было так приятно... Ещё раз спасибо, Макс! И за уроки, и за мои ножки."
-msgstr ""
+msgstr "[Lisa_03]C'était si bon... Merci encore, Max ! Tant pour les leçons que pour mes jambes."
 
 # game/dialogues/lisatalk.rpy:1529## # translate crowdin Lisa_HomeWork_new_massage_02025e2e:
 msgid "[Max_01]Да не за что."
-msgstr ""
+msgstr "[Max_01]De rien."
 
 # game/dialogues/lisatalk.rpy:1535## # translate crowdin Lisa_HomeWork_new_massage_9f553937:
 msgid "[Lisa_01][failed!t]Нет, Макс. Думаю хватит. Мне и так уже очень тепло и хорошо! Ещё усну... Ещё раз спасибо, Макс! И за уроки, и за мои ножки."
-msgstr ""
+msgstr "[Lisa_01][failed!t]Non, Max. Je pense que c'est suffisant. J'ai déjà très chaud et je suis détendue! Je vais même m’endormir... Merci encore, Max ! Tant pour les leçons que pour mes jambes."
 
 # game/dialogues/lisatalk.rpy:1536## # translate crowdin Lisa_HomeWork_new_massage_02025e2e_1:
 msgid "[Max_01]Да не за что."
-msgstr ""
+msgstr "[Max_01]De rien."
 
 # game/dialogues/lisatalk.rpy:1545## # translate crowdin Lisa_HomeWork_new_shoulders_a640ac19:
 msgid "[Lisa_02][succes!t]Ну, можно. Мне бы это тоже не помешало.[nointeract]"
-msgstr ""
+msgstr "[Lisa_02][succes!t]Eh bien, tu peux. Je pourrais faire avec ça aussi.[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1553## # translate crowdin Lisa_HomeWork_new_shoulders_414bb52e:
 msgid "[Lisa_05]Да... То, что мне и нужно! Как хорошо..."
-msgstr ""
+msgstr "[Lisa_05]Oui... Juste ce dont j'ai besoin! Comme c'est gentil..."
 
 # game/dialogues/lisatalk.rpy:1554## # translate crowdin Lisa_HomeWork_new_shoulders_a8dbd30a:
 msgid "[Max_03]Сейчас я помассирую тебе шею... Теперь плечи... Чувствую, они уже так не напряжены."
-msgstr ""
+msgstr "[Max_03]Je vais te masser le cou maintenant... Maintenant les épaules... Je sens qu'elles ne sont plus aussi tendues."
 
 # game/dialogues/lisatalk.rpy:1556## # translate crowdin Lisa_HomeWork_new_shoulders_66637f7f:
 msgid "[Lisa_06]Ага... У меня даже глаза начинают закрываться от удовольствия.[nointeract]"
-msgstr ""
+msgstr "[Lisa_06]Ouais... Mes yeux commencent même à se fermer de plaisir.[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1562## # translate crowdin Lisa_HomeWork_new_shoulders_ac499777:
 msgid "[Lisa_04]Ммм... Макс... Не очень хочется это говорить, но по-моему это уже не плечи..."
-msgstr ""
+msgstr "[Lisa_04]Mmm... Max... Je déteste dire ça, mais je pense que ce ne sont plus les épaules..."
 
 # game/dialogues/lisatalk.rpy:1565## # translate crowdin Lisa_HomeWork_new_shoulders_a3369cfd:
 msgid "[Max_02]Уверена?"
-msgstr ""
+msgstr "[Max_02]Tu es sûr ?"
 
 # game/dialogues/lisatalk.rpy:1566## # translate crowdin Lisa_HomeWork_new_shoulders_12f99b71:
 msgid "[Lisa_06]Да-а-а... От этого массажа мне становится слишком горячо... А здесь и так жарко!"
-msgstr ""
+msgstr "[Lisa_06]Ouais... Ce massage me donne trop chaud... Et il fait assez chaud comme ça !"
 
 # game/dialogues/lisatalk.rpy:1569## # translate crowdin Lisa_HomeWork_new_shoulders_f9066800:
 msgid "[Max_03]{m}Кстати! А это отличная возможность скрыть мой стояк от мамы, когда мы смотрим вместе ТВ! Массажем я уже овладел весьма неплохо... Так почему бы не предложить его маме? И если она согласится, то я смогу оказаться прямо за ней и она ничего не увидит. Так и надо будет сделать!{/m}"
-msgstr ""
+msgstr "[Max_03]{m}D'ailleurs ! Et c'est un bon moyen de cacher ma trique à ma mère quand on regarde la télé ensemble! Je maîtrise déjà assez bien le massage... Alors pourquoi ne pas l'offrir à maman? Et si elle accepte, je peux être juste derrière elle et elle ne verra rien. C'est ce que je devrais faire !{/m}"
 
 # game/dialogues/lisatalk.rpy:1571## # translate crowdin Lisa_HomeWork_new_shoulders_3593d09b:
 msgid "[Max_09]{m}Только сперва нужно отточить свои навыки массажа на Лизе. Ещё не хватало перед мамой позориться тем, что я так себе массажист. Нужно, чтобы ей понравилось...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Tu dois juste affiner tes compétences en massage sur Lisa d'abord. Je ne veux pas me ridiculiser devant ma mère en n'étant pas un bon masseur. Il faut qu'elle aime ça...{/m}"
 
 # game/dialogues/lisatalk.rpy:1573## # translate crowdin Lisa_HomeWork_new_shoulders_a6128590:
 msgid "[Max_04]Тогда это всё. Всё у меня там правильно?"
-msgstr ""
+msgstr "[Max_04]Alors c'est tout. Tout est bien ?"
 
 # game/dialogues/lisatalk.rpy:1577## # translate crowdin Lisa_HomeWork_new_shoulders_ba9e962f:
 msgid "[Lisa_01]Да, Макс. Ещё раз спасибо! И за уроки, и за мои ножки... и плечи..."
-msgstr ""
+msgstr "[Lisa_01]Oui, Max. Merci encore ! Tant pour les leçons que pour mes jambes... et les épaules..."
 
 # game/dialogues/lisatalk.rpy:1578## # translate crowdin Lisa_HomeWork_new_shoulders_02025e2e:
 msgid "[Max_01]Да не за что."
-msgstr ""
+msgstr "[Max_01]De rien."
 
 # game/dialogues/lisatalk.rpy:1581## # translate crowdin Lisa_HomeWork_new_shoulders_c6b09ede:
 msgid "[Max_02]Ну... Пожалуй, я немного отклонился от курса, чтобы тебе было ещё приятнее... Или нет?"
-msgstr ""
+msgstr "[Max_02]Eh bien... Je me suis peut-être un peu éloigné du sujet pour le rendre encore plus agréable pour toi... Est-ce le cas ?"
 
 # game/dialogues/lisatalk.rpy:1584## # translate crowdin Lisa_HomeWork_new_shoulders_f9066800_1:
 msgid "[Max_03]{m}Кстати! А это отличная возможность скрыть мой стояк от мамы, когда мы смотрим вместе ТВ! Массажем я уже овладел весьма неплохо... Так почему бы не предложить его маме? И если она согласится, то я смогу оказаться прямо за ней и она ничего не увидит. Так и надо будет сделать!{/m}"
-msgstr ""
+msgstr "[Max_03]{m}D'ailleurs ! Et c'est un bon moyen de cacher ma trique à ma mère quand on regarde la télé ensemble! Je maîtrise déjà assez bien le massage... Alors pourquoi ne pas l'offrir à maman? Et si elle accepte, je peux être juste derrière elle et elle ne verra rien. C'est ce que je devrais faire !{/m}"
 
 # game/dialogues/lisatalk.rpy:1586## # translate crowdin Lisa_HomeWork_new_shoulders_3593d09b_1:
 msgid "[Max_09]{m}Только сперва нужно отточить свои навыки массажа на Лизе. Ещё не хватало перед мамой позориться тем, что я так себе массажист. Нужно, чтобы ей понравилось...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Tu dois juste affiner tes compétences en massage sur Lisa d'abord. Je ne veux pas me ridiculiser devant ma mère en n'étant pas un bon masseur. Il faut qu'elle aime ça...{/m}"
 
 # game/dialogues/lisatalk.rpy:1589## # translate crowdin Lisa_HomeWork_new_shoulders_eac8a037:
 msgid "[Lisa_05]Мне надо сказать \"нет\", но я не хочу, чтобы ты останавливался...[nointeract]"
-msgstr ""
+msgstr "[Lisa_05]je dois dire non, mais je ne veux pas que tu t'arrêtes...[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1596## # translate crowdin Lisa_HomeWork_new_shoulders_45a8919b:
 msgid "[Lisa_10][lisa_bad_mass!t]Ой, Макс! Это уже как-то... грубовато. Ты, видимо, уже устал. Давай на этом закончим."
-msgstr ""
+msgstr "[Lisa_10][lisa_bad_mass!t]Oh, Max ! C'est déjà un peu... impoli. Tu dois être fatigué maintenant. Arrêtons là pour aujourd'hui."
 
 # game/dialogues/lisatalk.rpy:1597## # translate crowdin Lisa_HomeWork_new_shoulders_052f029d:
 msgid "[Max_10]Хорошо. Пожалуй, ты права."
-msgstr ""
+msgstr "[Max_10]Bien. Tu as probablement raison."
 
 # game/dialogues/lisatalk.rpy:1607## # translate crowdin Lisa_HomeWork_new_shoulders_a71a7519:
 msgid "[Max_05][lisa_good_mass!t]{m}Похоже, Лиза уже так возбудилась, что с ней можно делать всё, что только захочется! У неё такая упругая и нежная грудь... Вот бы добраться и до неё губами!{/m}"
-msgstr ""
+msgstr "[Max_05][lisa_good_mass!t]{m}Lisa semble être si excitée maintenant que je peux faire ce que je veux avec elle ! Ses seins sont si fermes et tendres... J'aimerais pouvoir les atteindre avec mes lèvres !{/m}"
 
 # game/dialogues/lisatalk.rpy:1608## # translate crowdin Lisa_HomeWork_new_shoulders_52b18094:
 msgid "[Lisa_06]Аххх... Да, Макс! Мне так это нравится... Твои руки..."
-msgstr ""
+msgstr "[Lisa_06]Ahhhh... Oui, Max ! Je l'aime tellement... Tes mains..."
 
 # game/dialogues/lisatalk.rpy:1610## # translate crowdin Lisa_HomeWork_new_shoulders_90b36f7e:
 msgid "[Max_07]{m}Да, Лиза... Я чувствую, как сильно ты хочешь, чтобы я не прекращал ласкать твои сисечки. А твои сочные губки... Не могу удержаться, чтобы они не встретились с моими!{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Oui, Lisa... Je peux sentir à quel point tu veux que je continue à caresser tes seins. Et tes lèvres juteuses... Je ne peux pas résister au fait qu'elles rencontrent les miennes !{/m}[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1617## # translate crowdin Lisa_HomeWork_new_shoulders_af730dde:
 msgid "[Max_06]{m}Ухх... А у меня страстная сестрёнка! И очень сладкая... Её сосочки стали такими твёрденькими! Обалденная девочка...{/m}"
-msgstr ""
+msgstr "[Max_06]{m}Ugh... Et j'ai une sœur passionnée ! Et très douse... Ses tétons deviennent si durs ! Une super petite fille...{/m}"
 
 # game/dialogues/lisatalk.rpy:1621## # translate crowdin Lisa_HomeWork_new_shoulders_81d89528:
 msgid "[Lisa_02]Ой, Макс, ну всё... Это уже чересчур! И не стыдно тебе такое делать?"
