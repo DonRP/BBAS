@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 16:49\n"
+"PO-Revision-Date: 2021-12-27 09:42\n"
 
 # game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -3246,11 +3246,11 @@ msgstr "[Alice_02]Aller! J'aime bien ça... Et qu'est-ce que tu as là ?[nointer
 
 # game/dialogues/alicetalk.rpy:3242## # translate crowdin alice_sorry_gifts_567ab5fa:
 msgid "[Alice_02]Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?[nointeract]"
-msgstr ""
+msgstr "[Alice_02]Wow ! Veux-tu vraiment prendre ce risque... Et qu'est-ce que tu as cette fois ?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:3244## # translate crowdin alice_sorry_gifts_e3d28a54:
 msgid "[Alice_02]Наконец-то! Ну давай, показывай, что у тебя на этот раз?![nointeract]"
-msgstr ""
+msgstr "[Alice_02]Enfin ! Aller, montres-nous ce que tu as cette fois ?![nointeract]"
 
 # game/dialogues/alicetalk.rpy:3298## # translate crowdin alice_sorry_gifts_middle_again_ebaef405:
 msgid "[Alice_13]Вот значит как! Снова купил эти шоколадки... Спасибо, конечно, но не очень-то тебе хочется избежать наказания, как я вижу."
@@ -5374,7 +5374,7 @@ msgstr "[Max_09]{m}C'est un peu tôt pour les sucreries, je pourrais ruiner la s
 
 # game/dialogues/alicetalk.rpy:4341## # translate crowdin alice_gift_sweets_fd790983:
 msgid "[Alice_02]Да ладно! Это мне нравится... И что там у тебя?[nointeract]"
-msgstr ""
+msgstr "[Alice_02]Aller! J'aime bien ça... Et qu'est-ce que tu as là ?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:4348## # translate crowdin alice_gift_sweets_cd967215:
 msgid "[Alice_07]Ага! Мои любимые конфеты! Как здорово... Большое тебе спасибо, Макс!"
