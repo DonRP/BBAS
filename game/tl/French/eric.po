@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 16:52\n"
+"PO-Revision-Date: 2021-12-27 09:42\n"
 
 # game/events/eric.rpy:13## # translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -250,51 +250,51 @@ msgstr "[Eric_01]C'est ça, Max. Je suis heureux que nous ayons réglé le probl
 
 # game/events/eric.rpy:320## # translate crowdin eric_ann_tv_bca2c1fb:
 msgid "[Max_07]{m}Кажется, мама с Эриком смотрят какой-то фильм. Наверняка, снова порно...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Maman et Eric semblent regarder une sorte de film. Probablement encore du porno...{/m}[nointeract]"
 
 # game/events/eric.rpy:322## # translate crowdin eric_ann_tv_098f8cbb:
 msgid "[Max_07]{m}Кажется, мама с Эриком смотрят какой-то фильм. Интересно, какой...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Maman et Eric semblent regarder une sorte de film. Je me demande quel genre de...{/m}[nointeract]"
 
 # game/events/eric.rpy:330## # translate crowdin eric_ann_tv_ef522b93:
 msgid "[Ann_12]Макс, мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?[nointeract]"
-msgstr ""
+msgstr "[Ann_12]Max, Eric et moi regardons un film. Je t'inviterais bien, mais ce n'est pas pour les enfants. Tu ne pourrais pas aller te promener quelque part ? Et s'il te plaît, ne regardes pas. D'accord ?[nointeract]"
 
 # game/events/eric.rpy:332## # translate crowdin eric_ann_tv_0d84ad96:
 msgid "[Ann_12]Ой, Макс... Мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?[nointeract]"
-msgstr ""
+msgstr "[Ann_12]Oh, Max... Eric et moi regardons un film. Je t'inviterais bien, mais ce n'est pas pour les enfants. Tu ne pourrais pas aller te promener quelque part ? Et s'il te plaît, ne regardes pas. D'accord ?[nointeract]"
 
 # game/events/eric.rpy:353## # translate crowdin eric_ann_tv_57c1f4ce:
 msgid "[Max_08]Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику...[nointeract]"
-msgstr ""
+msgstr "[Max_08]Wow ! L'écran vient de devenir plus intéressant ! Et maman a apparemment tendu la main pour sucer la bite d'Eric à nouveau...[nointeract]"
 
 # game/events/eric.rpy:355## # translate crowdin eric_ann_tv_dd49566e:
 msgid "[Max_08]Ого! На экране стало интереснее! А куда это мама так наклонилась?[nointeract]"
-msgstr ""
+msgstr "[Max_08]Wow ! L'écran vient de devenir plus intéressant ! Où est-ce que maman se penche comme ça ?[nointeract]"
 
 # game/events/eric.rpy:365## # translate crowdin eric_ann_tv_1734441a:
 msgid "[Max_07]На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?[nointeract]"
-msgstr ""
+msgstr "[Max_07]C'est partout sur l'écran et maman a jeté l'éponge! J'aimerais pouvoir voir ce cul nu sous un autre angle... Devrais-je me rapprocher?[nointeract]"
 
 # game/events/eric.rpy:367## # translate crowdin eric_ann_tv_e2d170ee:
 msgid "[Max_07]Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?[nointeract]"
-msgstr ""
+msgstr "[Max_07]Wow ! Eric retire la serviette de maman et je peux voir son derrière nu ! Devrais-je me rapprocher?[nointeract]"
 
 # game/events/eric.rpy:387## # translate crowdin eric_ann_tv_07619ed6:
 msgid "[Max_08]Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику...[nointeract]"
-msgstr ""
+msgstr "[Max_08]Wow ! L'écran vient de devenir plus intéressant ! Et maman semble avoir recommencé à branler Eric...[nointeract]"
 
 # game/events/eric.rpy:389## # translate crowdin eric_ann_tv_3fda5669:
 msgid "[Max_08]Ого! На экране стало интереснее! А что это мама там делает?[nointeract]"
-msgstr ""
+msgstr "[Max_08]Wow ! L'écran vient de devenir plus intéressant ! Qu'est-ce que maman fait là ?[nointeract]"
 
 # game/events/eric.rpy:399## # translate crowdin eric_ann_tv_6e12a3a4:
 msgid "[Max_07]На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?[nointeract]"
-msgstr ""
+msgstr "[Max_07]C'est partout sur l'écran et maman a jeté l'éponge ! C'est dommage que ses seins ne soient pas clairement visibles... Devrais-je me rapprocher ?[nointeract]"
 
 # game/events/eric.rpy:401## # translate crowdin eric_ann_tv_59d45b77:
 msgid "[Max_07]Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?[nointeract]"
-msgstr ""
+msgstr "[Max_07]Wow ! Eric retire la serviette de maman et je peux voir ses seins nus! Devrais-je me rapprocher?[nointeract]"
 
 # game/events/eric.rpy:423## # translate crowdin eric_ann_tv_42ac5694:
 msgid "[Max_10]Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут[nointeract]"
