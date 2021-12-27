@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 16:53\n"
+"PO-Revision-Date: 2021-12-27 09:42\n"
 
 # game/events/max.rpy:4## # translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -46,11 +46,11 @@ msgstr "[Max_19]Comme cette maison est belle..."
 
 # game/events/max.rpy:114## # translate crowdin Nap_89e3b066:
 msgid "[Max_00]{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}[nointeract]"
-msgstr ""
+msgstr "[Max_00]{i}Je n'ai pas vraiment envie de dormir en ce moment, mais une petite sieste ne ferait pas de mal...{/i}[nointeract]"
 
 # game/events/max.rpy:116## # translate crowdin Nap_286b3b95:
 msgid "[Max_00]{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}[nointeract]"
-msgstr ""
+msgstr "[Max_00]{i}Oh, je suis épuisé aujourd'hui, j'ai besoin de faire une sieste...{/i}[nointeract]"
 
 # game/events/max.rpy:131## # translate crowdin Nap_dca71115:
 msgid "[Max_19]Как же в этом доме хорошо..."
