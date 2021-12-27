@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 16:53\n"
+"PO-Revision-Date: 2021-12-27 09:42\n"
 
 # game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -986,11 +986,11 @@ msgstr "[Max_05]Merde, la vue de ces jambes écartées et minces, mon short devi
 
 # game/events/kira.rpy:930## # translate crowdin kira_sleep_morning_5dc1d3f5:
 msgid "[Max_04]Тёте Кире очень идёт быть голой! Может быть, это потому что я привык видеть её голой? В такие округлости просто нельзя не влюбиться...[nointeract]"
-msgstr ""
+msgstr "[Max_04]Tante Kira est belle nue ! Peut-être que c'est parce que j'ai l'habitude de la voir nue ? On ne peut s'empêcher de tomber amoureux d'une telle beauté...[nointeract]"
 
 # game/events/kira.rpy:932## # translate crowdin kira_sleep_morning_18e1a5d4:
 msgid "[Max_04]Ага! Тётя Кира ещё спит. Хорошо, что её ночнушка слегка просвечивает... Ухх, как она хороша...[nointeract]"
-msgstr ""
+msgstr "[Max_04]Aha ! Tante Kira dort encore. C'est une bonne chose que sa nuisette soit légèrement transparente... Ugh, elle est si bonne...[nointeract]"
 
 # game/events/kira.rpy:938## # translate crowdin kira_sleep_morning_37f4a3ba:
 msgid "[Max_02]Класс! Какая сладкая попка у моей тёти... Хочется любоваться бесконечно. И не только любоваться..."
