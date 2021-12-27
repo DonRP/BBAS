@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 16:49\n"
+"PO-Revision-Date: 2021-12-27 09:42\n"
 
 # game/core/core.rpy:496## # translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
@@ -58,11 +58,11 @@ msgstr "[Max_07]{m}je me demande dans quel vêtements tante Kira voudra être ph
 
 # game/core/core.rpy:821## # translate crowdin after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:827## # translate crowdin after_load_e53fbeb7:
 msgid "_ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "_ver [_version], conf.ver [config.version]"
 
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nouveau produit est disponible dans la boutique en ligne."
