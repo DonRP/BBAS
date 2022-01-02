@@ -80,8 +80,8 @@
     new "Vous avez déjà payé pour ce cours et pouvez activer le prochain didacticiel vidéo disponible à tout moment."
 
     # game/core/screens.rpy:713
-    old "Занятие [text1] из [text2]"
-    new "Cours [text1] de [text2]"
+    old "Занятие [text1 " из [text2 ""
+    new "Cours [text1 " de [text2 ""
 
     # game/core/screens.rpy:717
     old "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
@@ -92,8 +92,8 @@
     new "{i}{b}VOUS AVEZ ÉTUDIÉ RÉCEMMENT. FAITES UNE PAUSE!{/b}{/i}"
 
     # game/core/screens.rpy:732
-    old "Количество занятий: [text2]"
-    new "Nombre de leçons: [text2]"
+    old "Количество занятий: [text2 ""
+    new "Nombre de leçons: [text2 ""
 
     # game/core/screens.rpy:738
     old "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
@@ -356,8 +356,8 @@
     new "Utiliser comme vêtements actuel"
 
     # game/core/screens.rpy:1957
-    old "[view_cam[1].public]"
-    view_cam[1].public]"
+    old "[view_cam[1 ".public]"
+    view_cam[1 ".public]"
 
     # game/core/screens.rpy:2039
     old "ВНИМАНИЕ"
