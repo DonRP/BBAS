@@ -14,17 +14,20 @@
 
 # game/core/oldfix.rpy:6
 translate italian old_fix_6c975de3:
-msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
+
+    # Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
 msgstr "Il salvataggio della versione demo techno non è supportato. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:10
 translate italian old_fix_93331e6b:
-msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+
+    # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 msgstr "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:14
 translate italian old_fix_93331e6b_1:
-msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+
+    # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 msgstr "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 msgid "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
