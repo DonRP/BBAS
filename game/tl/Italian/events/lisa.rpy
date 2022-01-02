@@ -1745,199 +1745,199 @@ translate italian lisa_horor_movie_r_not_restrain_f26114cd:
 msgid "Это я, Макс!"
 msgstr "Sono io, Max!"
 
-#    # game/events/lisa.rpy:48
+    # game/events/lisa.rpy:48
 msgid "Можно я войду? Мне очень нужно..."
 msgstr "Posso partecipare? Ho davvero bisogno di..."
 
-#    # game/events/lisa.rpy:48
+    # game/events/lisa.rpy:48
 msgid "Хорошо, я подожду"
 msgstr "Ok, aspetterò"
 
-#    # game/events/lisa.rpy:51
+    # game/events/lisa.rpy:51
 msgid "Ладно, ладно..."
 msgstr "Va bene, va bene..."
 
-#    # game/events/lisa.rpy:753
+    # game/events/lisa.rpy:753
 msgid "Можно войти на секунду? Я только ноутбук возьму..."
 msgstr "Posso accedere per un secondo? Prenderò solo un laptop..."
 
-#    # game/events/lisa.rpy:759
+    # game/events/lisa.rpy:759
 msgid "{i}всё равно забрать ноутбук{/i}"
 msgstr "{i}ancora prendere il laptop{/i}"
 
-#    # game/events/lisa.rpy:824
+    # game/events/lisa.rpy:824
 msgid "{i}уйти с ноутбуком на веранду{/i}"
 msgstr "{i}andare con il tuo laptop in veranda{/i}"
 
-#    # game/events/lisa.rpy:833
+    # game/events/lisa.rpy:833
 msgid "{i}забрать ноутбук{/i}"
 msgstr "{i}il tuo laptop{/i}"
 
-#    # game/events/lisa.rpy:864
+    # game/events/lisa.rpy:864
 msgid "А я разве чем-то помешаю?"
 msgstr "Ho intenzione di interferire con qualcosa?"
 
-#    # game/events/lisa.rpy:864
+    # game/events/lisa.rpy:864
 msgid "Да чего я там не видел..."
 msgstr "Quello che non ho visto lì..."
 
-#    # game/events/lisa.rpy:864
+    # game/events/lisa.rpy:864
 msgid "А при мне ты этого сделать не можешь?"
 msgstr "E con me, non puoi farlo?"
 
-#    # game/events/lisa.rpy:864
+    # game/events/lisa.rpy:864
 msgid "Хорошо, только ноутбук заберу..."
 msgstr "Ok, prenderò solo il portatile ..."
 
-#    # game/events/lisa.rpy:864
+    # game/events/lisa.rpy:864
 msgid "Да легко! Не буду мешать..."
 msgstr "Sì facile! Non interferirò..."
 
-#    # game/events/lisa.rpy:867
+    # game/events/lisa.rpy:867
 msgid "Не буду. Честное слово!"
 msgstr "Non lo farò. La mia parola su di esso!"
 
-#    # game/events/lisa.rpy:902
+    # game/events/lisa.rpy:902
 msgid "{i}отвернуться{/i}"
 msgstr "{i}voltare le chiavi{/i}"
 
-#    # game/events/lisa.rpy:902
+    # game/events/lisa.rpy:902
 msgid "{i}подождать за дверью, пока Лиза переоденется{/i}"
 msgstr "{i}aspettare fuori dalla porta che Lisa si cambi il vestito{/i}"
 
-#    # game/events/lisa.rpy:913
+    # game/events/lisa.rpy:913
 msgid "{i}не подглядывать{/i}"
 msgstr "{i}non sbirciare{/i}"
 
-#    # game/events/lisa.rpy:913
+    # game/events/lisa.rpy:913
 msgid "{i}попробовать подглядеть{/i}"
 msgstr "{i}prova a fare pipì{/i}"
 
-#    # game/events/lisa.rpy:969
+    # game/events/lisa.rpy:969
 msgid "А у тебя сиськи подросли!"
 msgstr "E le tue tette sono cresciute!"
 
-#    # game/events/lisa.rpy:969
+    # game/events/lisa.rpy:969
 msgid "Отличный зад, я тебе скажу!"
 msgstr "Grande, te lo dirò!"
 
-#    # game/events/lisa.rpy:969
+    # game/events/lisa.rpy:969
 msgid "А если я хочу на это посмотреть?"
 msgstr "Cosa succede se voglio guardarlo?"
 
-#    # game/events/lisa.rpy:969
+    # game/events/lisa.rpy:969
 msgid "Извини, я не знал... Красиво смотришься!"
 msgstr "Scusa, non lo sapevo... Sei bellissima!"
 
-#    # game/events/lisa.rpy:986
+    # game/events/lisa.rpy:986
 msgid "У тебя красивая грудь, Лиза. Не стесняйся..."
 msgstr "Hai un bel seno, Lisa. Non essere timido..."
 
-#    # game/events/lisa.rpy:986
+    # game/events/lisa.rpy:986
 msgid "Какая соблазнительная попка у тебя..."
 msgstr "Che seducente hai..."
 
-#    # game/events/lisa.rpy:986
+    # game/events/lisa.rpy:986
 msgid "А где же волшебное слово?"
 msgstr "E dov'è la parola magica?"
 
-#    # game/events/lisa.rpy:1003
+    # game/events/lisa.rpy:1003
 msgid "У тебя красивая грудь, Лиза. Не прячь её..."
 msgstr "Hai un bel seno, Lisa. Non nasconderlo..."
 
-#    # game/events/lisa.rpy:1003
+    # game/events/lisa.rpy:1003
 msgid "Эх, не повезло! Я надеялся, что ты будешь раздета..."
 msgstr "Oh, senza fortuna! Speravo che ti spogliavi..."
 
-#    # game/events/lisa.rpy:1003
+    # game/events/lisa.rpy:1003
 msgid "Кто-то у нас тут трусики не успел надеть..."
 msgstr "Qualcuno qui mutandine non ha avuto il tempo di indossare ..."
 
-#    # game/events/lisa.rpy:1003
+    # game/events/lisa.rpy:1003
 msgid "Извини, я не знал... Ты такая очаровательная!"
 msgstr "Scusa, non lo sapevo... Sei così affascinante!"
 
-#    # game/events/lisa.rpy:1057
+    # game/events/lisa.rpy:1057
 msgid "Подумаешь, сестрёнку полуголую увидел..."
 msgstr "Pensateci, ho visto mia sorella seminuda..."
 
-#    # game/events/lisa.rpy:1057
+    # game/events/lisa.rpy:1057
 msgid "Да ладно тебе, можешь меня не стесняться!"
 msgstr "Dai, non vergognarti di me!"
 
-#    # game/events/lisa.rpy:1057
+    # game/events/lisa.rpy:1057
 msgid "Извини, не удержался... Хорошо выглядишь!"
 msgstr "Scusate, non ho potuto resistere... Guardando un bell'uomo!"
 
-#    # game/events/lisa.rpy:1057
+    # game/events/lisa.rpy:1057
 msgid "А ты представь, что меня тут на самом деле нет!"
 msgstr "E immaginate che io non sia proprio qui!"
 
-#    # game/events/lisa.rpy:1057
+    # game/events/lisa.rpy:1057
 msgid "Извини, не удержался... Ты очень красивая!"
 msgstr "Scusate, non ho potuto resistere... Sei davvero bellissima!"
 
-#    # game/events/lisa.rpy:1296
+    # game/events/lisa.rpy:1296
 msgid "Это я, Макс! Можно войти?"
 msgstr "Sono io, Max! Posso entrare?"
 
-#    # game/events/lisa.rpy:1345
+    # game/events/lisa.rpy:1345
 msgid "Извини, дверь была открыта и я подумал..."
 msgstr "Mi dispiace, la porta era aperta e ho pensato..."
 
-#    # game/events/lisa.rpy:1345
+    # game/events/lisa.rpy:1345
 msgid "А ты симпатичная..."
 msgstr "E sei carino..."
 
-#    # game/events/lisa.rpy:1345
+    # game/events/lisa.rpy:1345
 msgid "И что такого? Сестра стесняется брата?"
 msgstr "E allora? Mia sorella è imbarazzata da suo fratello?"
 
-#    # game/events/lisa.rpy:1564
+    # game/events/lisa.rpy:1564
 msgid "{i}смотреть \"Кошмар на улице Вязов\"{/i}"
 msgstr "{i}guardare \"A Nightmare on Elm Street\"{/i}"
 
-#    # game/events/lisa.rpy:1564
+    # game/events/lisa.rpy:1564
 msgid "{i}смотреть \"Пятница 13-е\"{/i}"
 msgstr "{i}guarda \"Venerdì 13\"{/i}"
 
-#    # game/events/lisa.rpy:1564
+    # game/events/lisa.rpy:1564
 msgid "{i}смотреть \"Крик\"{/i}"
 msgstr "{i}guardare \"Scream\"{/i}"
 
-#    # game/events/lisa.rpy:1653
+    # game/events/lisa.rpy:1653
 msgid "Тогда досматриваем... (продолжаем смотреть \"Кошмар на улице Вязов\")"
 msgstr "Poi ispezioniamo... (continua a guardare \"A Nightmare on Elm Street\")"
 
-#    # game/events/lisa.rpy:1653
+    # game/events/lisa.rpy:1653
 msgid "Тогда досматриваем... (продолжаем смотреть \"Пятница 13-е\")"
 msgstr "Poi ispezioniamo... (continua a guardare \"Venerdì 13\")"
 
-#    # game/events/lisa.rpy:1653
+    # game/events/lisa.rpy:1653
 msgid "Тогда досматриваем... (продолжаем смотреть \"Крик\")"
 msgstr "Poi ispezioniamo... (continua a guardare \"Scream\")"
 
-#    # game/events/lisa.rpy:1689
+    # game/events/lisa.rpy:1689
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Кошмар на улице Вязов\")"
 msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Nightmare on Elm Street\")"
 
-#    # game/events/lisa.rpy:1689
+    # game/events/lisa.rpy:1689
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Пятница 13-е\")"
 msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Venerdì 13\")"
 
-#    # game/events/lisa.rpy:1689
+    # game/events/lisa.rpy:1689
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Крик\")"
 msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Scream\")"
 
-#    # game/events/lisa.rpy:1758
+    # game/events/lisa.rpy:1758
 msgid "{i}да пофиг!{/i}"
 msgstr "{i}chi se ne frega!{/i}"
 
-#    # game/events/lisa.rpy:1781
+    # game/events/lisa.rpy:1781
 msgid "{i}поцеловать Лизу{/i}"
 msgstr "{i}bacio Lisa{/i}"
 
-#    # game/events/lisa.rpy:1781
+    # game/events/lisa.rpy:1781
 msgid "Просто иди и всё..."
 msgstr "Basta andare e il è tutto..."
 

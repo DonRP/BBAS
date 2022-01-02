@@ -15,11 +15,11 @@
 msgid "Мама"
 msgstr "Maman"
 
-#    # game/core/characters.rpy:356
+    # game/core/characters.rpy:356
 msgid "Майя"
 msgstr "Maya"
 
-#    # game/core/characters.rpy:369
+    # game/core/characters.rpy:369
 msgid "Сэм"
 msgstr "Sam"
 

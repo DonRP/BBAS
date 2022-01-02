@@ -15,47 +15,47 @@
 msgid "Повседневная"
 msgstr "Informel"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Для сна"
 msgstr "Pour dormir"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Для йоги"
 msgstr "Pour le yoga"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Блог в нижнем белье"
 msgstr "Blog sur la lingerie"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Готовит завтрак"
 msgstr "Préparer le petit-déjeuner"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Готовит ужин"
 msgstr "Dîner du soir"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Утренний отдых"
 msgstr "Repos matinal"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Вечерний отдых"
 msgstr "Repos du soir"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Купальник"
 msgstr "Maillot de bain"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "За уроками"
 msgstr "Pour les leçons"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
 msgid "Для прогулок"
 msgstr "Pour les promenades"
 
-#    # game/core/07_clothes.rpy:163
+    # game/core/07_clothes.rpy:163
 msgid "Влияние Макса недостаточно"
 msgstr "Le niveau de persuasion de Max n'est pas suffisant"
 

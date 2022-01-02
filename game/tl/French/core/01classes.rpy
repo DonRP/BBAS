@@ -15,43 +15,43 @@
 msgid "Ужасное"
 msgstr "Terrible"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Очень плохое"
 msgstr "New"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Плохое"
 msgstr "Mauvais"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Не очень"
 msgstr "Pas vraiment"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Нейтральное"
 msgstr "Neutre"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Неплохое"
 msgstr "Décent"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Хорошее"
 msgstr "Bon"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Очень хорошее"
 msgstr "Très bon"
 
-#    # game/core/01classes.rpy:658
+    # game/core/01classes.rpy:658
 msgid "Прекрасное"
 msgstr "Parfait"
 
-#    # game/core/01classes.rpy:1047
+    # game/core/01classes.rpy:1047
 msgid "Приобретен пакет рекламы"
 msgstr "Pack de pub acheté"
 
-#    # game/core/01classes.rpy:1292
+    # game/core/01classes.rpy:1292
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "{color=[lime]}{i}{b}Attention:{/b} Vous avez obtenu une nouvelle 'opportunité'! {/i} {/color}"
 

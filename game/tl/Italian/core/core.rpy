@@ -93,15 +93,15 @@ msgstr "_ver [_version], conf.ver [config.version]"
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nuovo prodotto è disponibile nel negozio online."
 
-#    # game/core/core.rpy:677
+    # game/core/core.rpy:677
 msgid "{i}идти на веранду{/i}"
 msgstr "{i}vai in veranda{/i}"
 
-#    # game/core/core.rpy:677
+    # game/core/core.rpy:677
 msgid "{i}не сейчас{/i}"
 msgstr "{i}non ora{/i}"
 
-#    # game/core/core.rpy:908
+    # game/core/core.rpy:908
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
@@ -109,7 +109,7 @@ msgstr "Era interessante! Ho detto ad Alice, per divertimento, che non volevo pi
 "All'inizio l'ha accettato, ma dopo alcune punizioni da parte di sua madre, ha accettato di lasciarsi sculacciare da me. Almeno, se fosse possibile salvare Alice dalla mano di sua madre. Dovrei anche ricordarmi di discutere con lei quando potrei sculacciarla.\n\n"
 "C'è, tuttavia, una piccola sfumatura che ha fatto sì che Alice fosse d'accordo... Le ho promesso che le avrei dato una sculacciata gentile. Sì, non sarà facile non prenderla a schiaffi per essere così stronza..."
 
-#    # game/core/core.rpy:908
+    # game/core/core.rpy:908
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."

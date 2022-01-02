@@ -771,15 +771,15 @@ translate italian olivia_about_film_punish_nice_view_3e444279:
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr "Anche se, no... In realtà ho cose da fare..."
 
-#    # game/dialogues/oliviatalk.rpy:259
+    # game/dialogues/oliviatalk.rpy:259
 msgid "Давай перенесём..."
 msgstr "Spostiamoci..."
 
-#    # game/dialogues/oliviatalk.rpy:259
+    # game/dialogues/oliviatalk.rpy:259
 msgid "Тогда приятного вам просмотра..."
 msgstr "Allora goditi la tua visione..."
 
-#    # game/dialogues/oliviatalk.rpy:262
+    # game/dialogues/oliviatalk.rpy:262
 msgid "{i}идти в гостиную{/i}"
 msgstr "{i}vai in salotto{/i}"
 

@@ -771,15 +771,15 @@ translate frenh olivia_about_film_punish_nice_view_3e444279:
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr "Bien que, non... En fait, j'ai des choses à faire..."
 
-#    # game/dialogues/oliviatalk.rpy:259
+    # game/dialogues/oliviatalk.rpy:259
 msgid "Давай перенесём..."
 msgstr "Passons à autre chose..."
 
-#    # game/dialogues/oliviatalk.rpy:259
+    # game/dialogues/oliviatalk.rpy:259
 msgid "Тогда приятного вам просмотра..."
 msgstr "Alors profitez de votre film..."
 
-#    # game/dialogues/oliviatalk.rpy:262
+    # game/dialogues/oliviatalk.rpy:262
 msgid "{i}идти в гостиную{/i}"
 msgstr "{i}aller dans le salon{/i}"
 

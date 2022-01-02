@@ -219,31 +219,31 @@ translate italian about_poss_95f72849:
 msgid "{i}далее{/i}"
 msgstr "{i}prosegui{/i}"
 
-#    # game/script.rpy:57
+    # game/script.rpy:57
 msgid "{i}пропустить{/i}"
 msgstr "{i}salta{/i}"
 
-#    # game/script.rpy:85
+    # game/script.rpy:85
 msgid "{i}пару недель спустя...{/i}"
 msgstr "{i}un paio di settimane dopo...{/i}"
 
-#    # game/script.rpy:98
+    # game/script.rpy:98
 msgid "{i}спустя неделю...{/i}"
 msgstr "{i}una settimana dopo...{/i}"
 
-#    # game/script.rpy:104
+    # game/script.rpy:104
 msgid "{i}Начать игру{/i}"
 msgstr "{i}Avvia il gioco{/i}"
 
-#    # game/script.rpy:104
+    # game/script.rpy:104
 msgid "{i}Повторить историю{/i}"
 msgstr "{i}Ripetere il prologo{/i}"
 
-#    # game/script.rpy:121
+    # game/script.rpy:121
 msgid "{i}всё ясно{/i}"
 msgstr "{i}è tutto chiaro{/i}"
 
-#    # game/script.rpy:121
+    # game/script.rpy:121
 msgid "{i}повторить{/i}"
 msgstr "{i}ripeti{/i}"
 

@@ -567,23 +567,23 @@ translate frenh cam0_blog_with_Eric_4181192f:
 msgid "{i}Конечно{/i}"
 msgstr "{i}Bien sûr{/i}"
 
-#    # game/events/alice_cam.rpy:72
+    # game/events/alice_cam.rpy:72
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
 msgstr "{i}Prendre l'appareil photo et aller à la fenêtre d'Alice.{/i}"
 
-#    # game/events/alice_cam.rpy:72
+    # game/events/alice_cam.rpy:72
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
 msgstr "{i}Putain, laisse-le se branler.{/i}"
 
-#    # game/events/alice_cam.rpy:83
+    # game/events/alice_cam.rpy:83
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
 msgstr "{i}Prendre l'appareil photo et aller sur le balcon.{/i}"
 
-#    # game/events/alice_cam.rpy:327
+    # game/events/alice_cam.rpy:327
 msgid "{i}продолжать смотреть{/i}"
 msgstr "{i}continuer à chercher{/i}"
 
-#    # game/events/alice_cam.rpy:327
+    # game/events/alice_cam.rpy:327
 msgid "{i}достаточно{/i}"
 msgstr "{i}assez!{/i}"
 

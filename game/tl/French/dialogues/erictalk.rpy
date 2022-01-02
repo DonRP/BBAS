@@ -1449,67 +1449,67 @@ translate frenh Eric_tribute_no_money_dd72ca96:
 msgid "{i}В другой раз...{/i}"
 msgstr "{i}Une autre fois...{/i}"
 
-#    # game/dialogues/erictalk.rpy:55
+    # game/dialogues/erictalk.rpy:55
 msgid "Э... Ну не совсем так..."
 msgstr "Euh... Eh bien, pas exactement..."
 
-#    # game/dialogues/erictalk.rpy:55
+    # game/dialogues/erictalk.rpy:55
 msgid "А так можно?"
 msgstr "Est-ce possible?"
 
-#    # game/dialogues/erictalk.rpy:65
+    # game/dialogues/erictalk.rpy:65
 msgid "Кстати, как ты это делаешь?"
 msgstr "Au fait, comment fais-tu cela?"
 
-#    # game/dialogues/erictalk.rpy:65
+    # game/dialogues/erictalk.rpy:65
 msgid "Отлично! Спасибо, Эрик."
 msgstr "C’est cool! Merci, Eric."
 
-#    # game/dialogues/erictalk.rpy:71
+    # game/dialogues/erictalk.rpy:71
 msgid "Это угроза?"
 msgstr "Est-ce une menace?"
 
-#    # game/dialogues/erictalk.rpy:71
+    # game/dialogues/erictalk.rpy:71
 msgid "Хорошо, Эрик!"
 msgstr "D’accord, Eric !"
 
-#    # game/dialogues/erictalk.rpy:159
+    # game/dialogues/erictalk.rpy:159
 msgid "{i}сесть на кровать{/i}"
 msgstr "{i}s’asseoir sur le lit{/i}"
 
-#    # game/dialogues/erictalk.rpy:174
+    # game/dialogues/erictalk.rpy:174
 msgid "{i}слегка подвинуться{/i}"
 msgstr "{i}se déplacer légèrement{/i}"
 
-#    # game/dialogues/erictalk.rpy:235
+    # game/dialogues/erictalk.rpy:235
 msgid "{i}смотреть, как мама сосёт{/i}"
 msgstr "{i}regarder Maman sucer{/i}"
 
-#    # game/dialogues/erictalk.rpy:294
+    # game/dialogues/erictalk.rpy:294
 msgid "{i}пересесть{/i}"
 msgstr "{i}se déplacer{/i}"
 
-#    # game/dialogues/erictalk.rpy:339
+    # game/dialogues/erictalk.rpy:339
 msgid "Нет, можешь обучать... (продолжение дружбы)"
 msgstr "Non, tu peux lui enseigner... (poursuite de l'amitié)"
 
-#    # game/dialogues/erictalk.rpy:339
+    # game/dialogues/erictalk.rpy:339
 msgid "А ей не рановато? (попытка выиграть время)"
 msgstr "Elle n'est pas un peu jeune ? (essayer de gagner du temps)"
 
-#    # game/dialogues/erictalk.rpy:339
+    # game/dialogues/erictalk.rpy:339
 msgid "Лизу тебе не отдам! (продолжение вражды)"
 msgstr "Tu ne peux pas avoir Lisa ! (l'animosité continue)"
 
-#    # game/dialogues/erictalk.rpy:473
+    # game/dialogues/erictalk.rpy:473
 msgid "Значит, тебя её блог интересует? (продолжение дружбы)"
 msgstr "Tu es donc intéressé par son blog ? (poursuite de l'amitié)"
 
-#    # game/dialogues/erictalk.rpy:473
+    # game/dialogues/erictalk.rpy:473
 msgid "Я мало что об этом знаю... (попытка выиграть время)"
 msgstr "Je n'y connais pas grand-chose... (essayer de gagner du temps)"
 
-#    # game/dialogues/erictalk.rpy:473
+    # game/dialogues/erictalk.rpy:473
 msgid "Вот у неё и спрашивай! (продолжение вражды)"
 msgstr "Demandes-lui ! (l'animosité continue)"
 

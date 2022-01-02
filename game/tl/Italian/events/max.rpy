@@ -797,239 +797,239 @@ translate italian bedtime_thoughts_a9917f30:
 msgid "{i}установить будильник{/i}"
 msgstr "{i}impostare l'allarme{/i}"
 
-#    # game/events/max.rpy:34
+    # game/events/max.rpy:34
 msgid "{i}в 6 утра{/i}"
 msgstr "{i}alle 6 del.m{/i}"
 
-#    # game/events/max.rpy:34
+    # game/events/max.rpy:34
 msgid "{i}в 7 утра{/i}"
 msgstr "{i}alle 7 del.m{/i}"
 
-#    # game/events/max.rpy:84
+    # game/events/max.rpy:84
 msgid "{i}вздремнуть{/i}"
 msgstr "{i}fare un pisolino{/i}"
 
-#    # game/events/max.rpy:118
+    # game/events/max.rpy:118
 msgid "{i}подремать пару часов{/i}"
 msgstr "{i}fare un pisolino per un paio d'ore{/i}"
 
-#    # game/events/max.rpy:118
+    # game/events/max.rpy:118
 msgid "{i}подремать 3 часа{/i}"
 msgstr "{i}fare un pisolino per 3 ore{/i}"
 
-#    # game/events/max.rpy:118
+    # game/events/max.rpy:118
 msgid "{i}подремать 4 часа{/i}"
 msgstr "{i}fare un pisolino per 4 ore{/i}"
 
-#    # game/events/max.rpy:118
+    # game/events/max.rpy:118
 msgid "{i}подремать 5 часов{/i}"
 msgstr "{i}fare un pisolino per 5 ore{/i}"
 
-#    # game/events/max.rpy:118
+    # game/events/max.rpy:118
 msgid "{i}не-а, может позже...{/i}"
 msgstr "{i}no, forse più tardi... {/i}"
 
-#    # game/events/max.rpy:273
+    # game/events/max.rpy:273
 msgid "{i}почитать о камерах{/i}"
 msgstr "{i}leggi le fotocamere{/i}"
 
-#    # game/events/max.rpy:275
+    # game/events/max.rpy:275
 msgid "{i}читать о блогах{/i}"
 msgstr "{i}leggi di blog{/i}"
 
-#    # game/events/max.rpy:277
+    # game/events/max.rpy:277
 msgid "{i}узнать о книге Алисы{/i}"
 msgstr "{i}conoscere il libro di Alice{/i}"
 
-#    # game/events/max.rpy:279
+    # game/events/max.rpy:279
 msgid "{i}читать о пауках{/i}"
 msgstr "{i}leggi di spiders{/i}"
 
-#    # game/events/max.rpy:281
+    # game/events/max.rpy:281
 msgid "{i}искать информацию по кредитам{/i}"
 msgstr "{i}cercare informazioni sui prestiti{/i}"
 
-#    # game/events/max.rpy:352
+    # game/events/max.rpy:352
 msgid "Оплатить всё ($100)"
 msgstr "Paga per tutto ($ 100)"
 
-#    # game/events/max.rpy:359
+    # game/events/max.rpy:359
 msgid "Настроить работу сайта"
 msgstr "Personalizza il sito"
 
-#    # game/events/max.rpy:413
+    # game/events/max.rpy:413
 msgid "Собрать статистику"
 msgstr "Raccogli statistiche"
 
-#    # game/events/max.rpy:413
+    # game/events/max.rpy:413
 msgid "Просмотреть популярные блоги"
 msgstr "Visualizza i blog più popolari"
 
-#    # game/events/max.rpy:413
+    # game/events/max.rpy:413
 msgid "Почитать комменты на блогах"
 msgstr "Leggi i commenti sui blog"
 
-#    # game/events/max.rpy:416
+    # game/events/max.rpy:416
 msgid "Проанализировать результаты"
 msgstr "Analizza i risultati"
 
-#    # game/events/max.rpy:416
+    # game/events/max.rpy:416
 msgid "Построить таблицу"
 msgstr "Tabella di compilazione"
 
-#    # game/events/max.rpy:416
+    # game/events/max.rpy:416
 msgid "Нарисовать график"
 msgstr "Disegnare un grafico"
 
-#    # game/events/max.rpy:419
+    # game/events/max.rpy:419
 msgid "Хм... Так... Ага. Это сюда запишем, это сюда..."
 msgstr "Hmm... Così... Aha. Scriviamolo qui, è qui..."
 
-#    # game/events/max.rpy:421
+    # game/events/max.rpy:421
 msgid "Так. Из этой таблицы мы делаем вывод. Ага. Вот это значит, что... Нет, не так. Вот. Вроде получилось..."
 msgstr "Così. Da questa tabella traiamo una conclusione. Aha. Ciò significa che... No, non lo è. Qui. Sembra che si sia scoperto..."
 
-#    # game/events/max.rpy:423
+    # game/events/max.rpy:423
 msgid "Рисователь графиков из меня ещё тот. Но попробуем. Так, это шкала популярности, это... Ага. Кажется, всё сходится..."
 msgstr "Il cassetto del grafico da me è sempre lo stesso. Ma proviamoci. Quindi, è una scala di popolarità, è... Aha. Tutto sembra andare di pari passo..."
 
-#    # game/events/max.rpy:425
+    # game/events/max.rpy:425
 msgid "Составить список"
 msgstr "Crea una lista"
 
-#    # game/events/max.rpy:425
+    # game/events/max.rpy:425
 msgid "Отсортировать..."
 msgstr "Sorta..."
 
-#    # game/events/max.rpy:425
+    # game/events/max.rpy:425
 msgid "Сравнить количество лайков..."
 msgstr "Confronta il numero di Mi piace..."
 
-#    # game/events/max.rpy:428
+    # game/events/max.rpy:428
 msgid "Так, вычёркиваем из списка этих, вот этих и тех. Что тут у нас остаётся?"
 msgstr "Quindi, sappiamo dall'elenco di questi, questi e quelli. Che cosa ci resta qui?"
 
-#    # game/events/max.rpy:430
+    # game/events/max.rpy:430
 msgid "Так, сравниваем аудиторию. Время публикации... Исключаем сомнительный контент..."
 msgstr "Quindi, confrontiamo il pubblico. Tempo di pubblicazione... Escludi i contenuti discutibili..."
 
-#    # game/events/max.rpy:432
+    # game/events/max.rpy:432
 msgid "Сортируем по количеству лайков. Убираем тех, кто с дизлайками больше этого процента..."
 msgstr "Ordina in ordine il numero di Mi piace. Rimuoviamo coloro che hanno antipatie più di questa percentuale..."
 
-#    # game/events/max.rpy:434
+    # game/events/max.rpy:434
 msgid "Воспользоваться поиском"
 msgstr "Usa la ricerca"
 
-#    # game/events/max.rpy:434
+    # game/events/max.rpy:434
 msgid "Читать всё подряд"
 msgstr "Leggi tutto"
 
-#    # game/events/max.rpy:434
+    # game/events/max.rpy:434
 msgid "Выбрать лучшие комменты"
 msgstr "Seleziona i commenti migliori"
 
-#    # game/events/max.rpy:437
+    # game/events/max.rpy:437
 msgid "Так, в поиске мы видим любопытные результаты. Так, выберем то что нам подходит..."
 msgstr "Quindi, nella ricerca vediamo risultati interessanti. Quindi, scegliamo quello che fa per noi..."
 
-#    # game/events/max.rpy:439
+    # game/events/max.rpy:439
 msgid "Ох. Всё оказалось ещё хуже. Кажется, тут нет ничего полезного... Хотя. Думаю, можно сделать даже какой-то вывод..."
 msgstr "Oh. Era anche peggio. Non sembra esserci nulla di utile qui... Anche se. Penso che tu possa anche trarre qualche conclusione..."
 
-#    # game/events/max.rpy:441
+    # game/events/max.rpy:441
 msgid "Так, топовые комменты все сводятся к одному. Не может быть?"
 msgstr "Quindi, i commenti in alto si riducono tutti a uno. Assolutamente no?"
 
-#    # game/events/max.rpy:443
+    # game/events/max.rpy:443
 msgid "Сделать вывод..."
 msgstr "Dedurre..."
 
-#    # game/events/max.rpy:459
+    # game/events/max.rpy:459
 msgid "{i}читать о книге{/i}"
 msgstr "{i}letto del libro{/i}"
 
-#    # game/events/max.rpy:475
+    # game/events/max.rpy:475
 msgid "Искать виды насекомых по регионам"
 msgstr "Cerca specie di insetti per regione"
 
-#    # game/events/max.rpy:475
+    # game/events/max.rpy:475
 msgid "Читать где водятся какие пауки"
 msgstr "Leggi dove ci sono ragni"
 
-#    # game/events/max.rpy:482
+    # game/events/max.rpy:482
 msgid "Выяснить, чем питается..."
 msgstr "Scopri cosa mangia..."
 
-#    # game/events/max.rpy:482
+    # game/events/max.rpy:482
 msgid "Почитать о повадках..."
 msgstr "Leggi le abitudini..."
 
-#    # game/events/max.rpy:643
+    # game/events/max.rpy:643
 msgid "{i}читать \"WEB STANDARDS\"{/i}"
 msgstr "{i}leggere \"WEB STANDARDS\"{/i}"
 
-#    # game/events/max.rpy:643
+    # game/events/max.rpy:643
 msgid "{i}читать \"СЕКС-ОБРАЗОВАНИЕ\"{/i}"
 msgstr "{i}leggere \"EDUCAZIONE SESSUALE\"{/i}"
 
-#    # game/events/max.rpy:692
+    # game/events/max.rpy:692
 msgid "{i}искать под подушкой{/i}"
 msgstr "{i}guarda sotto il cuscino{/i}"
 
-#    # game/events/max.rpy:692
+    # game/events/max.rpy:692
 msgid "{i}искать в шкафу{/i}"
 msgstr "{i}guarda nell'armadio{/i}"
 
-#    # game/events/max.rpy:692
+    # game/events/max.rpy:692
 msgid "{i}прекратить поиски{/i}"
 msgstr "{i}smetti di cercare{/i}"
 
-#    # game/events/max.rpy:849
+    # game/events/max.rpy:849
 msgid "{i}искать...{/i}"
 msgstr "{i}alla ricerca di... {/i}"
 
-#    # game/events/max.rpy:876
+    # game/events/max.rpy:876
 msgid "{i}Подложить сейчас{/i}"
 msgstr "{i}Metti ora{/i}"
 
-#    # game/events/max.rpy:922
+    # game/events/max.rpy:922
 msgid "Вы просматриваете видеоурок и повышаете свои навыки."
 msgstr "Guarda un video tutorial e migliora le tue abilità."
 
-#    # game/events/max.rpy:956
+    # game/events/max.rpy:956
 msgid "{i}подставить Алису{/i}"
 msgstr "{i}sostituto Alice{/i}"
 
-#    # game/events/max.rpy:956
+    # game/events/max.rpy:956
 msgid "{i}не подставлять Алису{/i}"
 msgstr "{i}non sostituire Alice{/i}"
 
-#    # game/events/max.rpy:1051
+    # game/events/max.rpy:1051
 msgid "$500"
 msgstr "€500"
 
-#    # game/events/max.rpy:1051
+    # game/events/max.rpy:1051
 msgid "$1000"
 msgstr "€1000"
 
-#    # game/events/max.rpy:1051
+    # game/events/max.rpy:1051
 msgid "$2000"
 msgstr "€2000"
 
-#    # game/events/max.rpy:1051
+    # game/events/max.rpy:1051
 msgid "$5000"
 msgstr "€5000"
 
-#    # game/events/max.rpy:1068
+    # game/events/max.rpy:1068
 msgid "$50"
 msgstr "€50"
 
-#    # game/events/max.rpy:1068
+    # game/events/max.rpy:1068
 msgid "$100"
 msgstr "€100"
 
-#    # game/events/max.rpy:1068
+    # game/events/max.rpy:1068
 msgid "$200"
 msgstr "€200"
 

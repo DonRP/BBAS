@@ -195,7 +195,7 @@ translate italian christina_first_talk_204a6521_1:
 msgid "Хорошего тебе дня!"
 msgstr "Buona Giornata!"
 
-#    # game/dialogues/christina.rpy:25
+    # game/dialogues/christina.rpy:25
 msgid "А чем вечером будешь заниматься? Давай погуляем!?"
 msgstr "E cosa farai la sera? Facciamo una passeggiata!?"
 

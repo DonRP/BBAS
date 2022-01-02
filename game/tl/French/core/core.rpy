@@ -93,15 +93,15 @@ msgstr "_ver [_version], conf.ver [config.version]"
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nouveau produit est disponible dans la boutique en ligne."
 
-#    # game/core/core.rpy:677
+    # game/core/core.rpy:677
 msgid "{i}идти на веранду{/i}"
 msgstr "{i}Aller à la véranda{/i}"
 
-#    # game/core/core.rpy:677
+    # game/core/core.rpy:677
 msgid "{i}не сейчас{/i}"
 msgstr "{i}pas maintenant{/i}"
 
-#    # game/core/core.rpy:908
+    # game/core/core.rpy:908
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
@@ -109,7 +109,7 @@ msgstr "C'est intéressant ! J'ai dit à Alice, par intérêt, que je ne voulais
 "Elle l'a d'abord pris mal, mais après quelques punitions de notre mère, elle a accepté que je lui donne la fessée. Du moins, s'il était possible de sauver Alice de la main de notre mère. Je ne dois pas oublier non plus de discuter avec elle, du moment où, je pourrais lui donner une fessée.\n\n"
 "Il y a, cependant, une petite nuance qui a fait qu'Alice a accepté... J'ai promis de lui donner une fessée par trop forte. Ouais, ça ne va pas être facile de résister à la gifler violemment pour avoir été une telle salope..."
 
-#    # game/core/core.rpy:908
+    # game/core/core.rpy:908
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."

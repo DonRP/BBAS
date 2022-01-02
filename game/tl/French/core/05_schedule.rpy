@@ -15,23 +15,23 @@
 msgid "курит"
 msgstr "fumée"
 
-#    # game/core/05_schedule.rpy:7
+    # game/core/05_schedule.rpy:7
 msgid "в бассейне"
 msgstr "dans la piscine"
 
-#    # game/core/05_schedule.rpy:74
+    # game/core/05_schedule.rpy:74
 msgid "спит (утро)"
 msgstr "dormir (matin)"
 
-#    # game/core/05_schedule.rpy:74
+    # game/core/05_schedule.rpy:74
 msgid "в своей комнате"
 msgstr "dans votre chambre"
 
-#    # game/core/05_schedule.rpy:74
+    # game/core/05_schedule.rpy:74
 msgid "читает на веранде"
 msgstr "lire sur la véranda"
 
-#    # game/core/05_schedule.rpy:162
+    # game/core/05_schedule.rpy:162
 msgid "семейный ужин"
 msgstr "dîner de famille"
 

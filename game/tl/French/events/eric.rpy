@@ -2121,323 +2121,323 @@ translate frenh lisa_eric_zero_practice_war_36c2b900:
 msgid "Понимаю, хорошо..."
 msgstr "Je comprends, d’accord..."
 
-#    # game/events/eric.rpy:17
+    # game/events/eric.rpy:17
 msgid "И зачем мне это?"
 msgstr "Et pourquoi le ferais-je?"
 
-#    # game/events/eric.rpy:46
+    # game/events/eric.rpy:46
 msgid "А если нет, то что?"
 msgstr "Et si ce n’est pas le cas, quoi?"
 
-#    # game/events/eric.rpy:46
+    # game/events/eric.rpy:46
 msgid "Думаю, подружимся..."
 msgstr "Je pense que nous serons amis..."
 
-#    # game/events/eric.rpy:58
+    # game/events/eric.rpy:58
 msgid "Это ещё почему?"
 msgstr "Pourquoi ça ?"
 
-#    # game/events/eric.rpy:58
+    # game/events/eric.rpy:58
 msgid "Да я не собираюсь воевать..."
 msgstr "Je ne vais pas me battre..."
 
-#    # game/events/eric.rpy:66
+    # game/events/eric.rpy:66
 msgid "Да верю, верю. Я просто спросил и не хочу ссориться..."
 msgstr "Oui, je le fais, je le fais. Je demande juste et je ne veux pas me disputer..."
 
-#    # game/events/eric.rpy:66
+    # game/events/eric.rpy:66
 msgid "Меня все любят и мне поверят, что ты мне угрожал!"
 msgstr "Tout le monde m'aime et ils croiront que tu m'as menacé !"
 
-#    # game/events/eric.rpy:66
+    # game/events/eric.rpy:66
 msgid "У меня есть мозги и я что-нибудь придумаю!"
 msgstr "J'ai un cerveau et je trouverais bien quelque chose !"
 
-#    # game/events/eric.rpy:75
+    # game/events/eric.rpy:75
 msgid "Не верю! Всё не так!"
 msgstr "Je n'y crois pas ! Ce n'est pas comme ça !"
 
-#    # game/events/eric.rpy:75
+    # game/events/eric.rpy:75
 msgid "Она так сказала?"
 msgstr "Elle a dit ça ?"
 
-#    # game/events/eric.rpy:93
+    # game/events/eric.rpy:93
 msgid "Ладно, посмотрим..."
 msgstr "D’accord, on verra..."
 
-#    # game/events/eric.rpy:93
+    # game/events/eric.rpy:93
 msgid "Никогда. Отвали!"
 msgstr "Jamais. Va te faire foutre !"
 
-#    # game/events/eric.rpy:103
+    # game/events/eric.rpy:103
 msgid "Ладно, посмотрим... И что я выиграю?"
 msgstr "D’accord, on verra... Et qu’est-ce que je vais gagner?"
 
-#    # game/events/eric.rpy:113
+    # game/events/eric.rpy:113
 msgid "Какие проблемы?"
 msgstr "Quel est le problème ?"
 
-#    # game/events/eric.rpy:113
+    # game/events/eric.rpy:113
 msgid "Договорились..."
 msgstr "D’accord..."
 
-#    # game/events/eric.rpy:116
+    # game/events/eric.rpy:116
 msgid "Ну, ладно, убедил."
 msgstr "Bon, d'accord, je suis convaincu."
 
-#    # game/events/eric.rpy:116
+    # game/events/eric.rpy:116
 msgid "Нет, без вариантов..."
 msgstr "Non, il n'y a pas d'options..."
 
-#    # game/events/eric.rpy:155
+    # game/events/eric.rpy:155
 msgid "Да, я только за."
 msgstr "Oui, je suis d'accord."
 
-#    # game/events/eric.rpy:155
+    # game/events/eric.rpy:155
 msgid "Тебе показалось. Я тебя ненавижу!"
 msgstr "Tu y crois. Je te déteste !"
 
-#    # game/events/eric.rpy:163
+    # game/events/eric.rpy:163
 msgid "Думаю, воевать смысла нет..."
 msgstr "Je pense qu'il n'y a aucun intérêt à se battre..."
 
-#    # game/events/eric.rpy:163
+    # game/events/eric.rpy:163
 msgid "Я тебя ненавижу!"
 msgstr "Je te déteste !"
 
-#    # game/events/eric.rpy:171
+    # game/events/eric.rpy:171
 msgid "Почему? Я подумал как следует. Воевать точно не хочу..."
 msgstr "Pourquoi ? J'ai réfléchis. Je ne veux certainement pas aller à la guerre..."
 
-#    # game/events/eric.rpy:171
+    # game/events/eric.rpy:171
 msgid "Правильно. Я тебя ненавижу!"
 msgstr "C’est bien ça. Je te hais!"
 
-#    # game/events/eric.rpy:182
+    # game/events/eric.rpy:182
 msgid "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
 msgstr "{color=[orange]}{i}{b}Attention:{/b} Votre relation s'est considérablement détériorée!{/i}{/color}"
 
-#    # game/events/eric.rpy:195
+    # game/events/eric.rpy:195
 msgid "Что? Ты ошибаешься!"
 msgstr "Quoi? Tu as tort!"
 
-#    # game/events/eric.rpy:195
+    # game/events/eric.rpy:195
 msgid "Они никакие не цыпочки!"
 msgstr "Ce ne sont pas des poussins !"
 
-#    # game/events/eric.rpy:195
+    # game/events/eric.rpy:195
 msgid "Я вдруг понял... Да пошёл ты!"
 msgstr "Je me suis soudain rendu compte... Va te faire foutre !"
 
-#    # game/events/eric.rpy:203
+    # game/events/eric.rpy:203
 msgid "Думаешь?"
 msgstr "Tu crois ?"
 
-#    # game/events/eric.rpy:203
+    # game/events/eric.rpy:203
 msgid "Постой, и ты этого хочешь?"
 msgstr "Attends, c'est ce que tu veux aussi ?"
 
-#    # game/events/eric.rpy:206
+    # game/events/eric.rpy:206
 msgid "А если я расскажу про это всем?"
 msgstr "Et si je le disais à tout le monde ?"
 
-#    # game/events/eric.rpy:206
+    # game/events/eric.rpy:206
 msgid "Только, если я что-то получу за это..."
 msgstr "Seulement si je reçois quelque chose en échange..."
 
-#    # game/events/eric.rpy:206
+    # game/events/eric.rpy:206
 msgid "Ты подонок! Я передумал. Убирайся!"
 msgstr "Espèce de salaud ! J'ai changé d'avis. Sors !"
 
-#    # game/events/eric.rpy:223
+    # game/events/eric.rpy:223
 msgid "Да я не собираюсь рассказывать, просто спросил..."
 msgstr "Je ne vais pas te le dire, je demande juste..."
 
-#    # game/events/eric.rpy:223
+    # game/events/eric.rpy:223
 msgid "Вот и проверим..."
 msgstr "Allons voir ça..."
 
-#    # game/events/eric.rpy:223
+    # game/events/eric.rpy:223
 msgid "Ты - псих ненормальный. Убирайся!"
 msgstr "Tu es un fou furieux. Sors !"
 
-#    # game/events/eric.rpy:228
+    # game/events/eric.rpy:228
 msgid "Да я пошутил! Конечно, не расскажу никому..."
 msgstr "Je ne faisais que plaisanter ! Bien sûr, je ne le dirais à personne..."
 
-#    # game/events/eric.rpy:228
+    # game/events/eric.rpy:228
 msgid "Вот и посмотрим..."
 msgstr "Donc on verra..."
 
-#    # game/events/eric.rpy:248
+    # game/events/eric.rpy:248
 msgid "Нет, на это я не согласен."
 msgstr "Non, je ne suis pas d’accord avec cela."
 
-#    # game/events/eric.rpy:253
+    # game/events/eric.rpy:253
 msgid "Я не извращенец!"
 msgstr "Je ne suis pas un pervers !"
 
-#    # game/events/eric.rpy:253
+    # game/events/eric.rpy:253
 msgid "А есть только два варианта?"
 msgstr "N'y a-t-il que deux options ?"
 
-#    # game/events/eric.rpy:253
+    # game/events/eric.rpy:253
 msgid "Ты знаешь... Я тут подумал. Да пошёл ты! Не надо мне ничего от тебя. Я от тебя избавлюсь!"
 msgstr "Tu sais... J'ai réfléchi. Va te faire foutre ! Je ne veux rien de toi. Je vais me débarrasser de toi !"
 
-#    # game/events/eric.rpy:256
+    # game/events/eric.rpy:256
 msgid "Тогда... Остаётся только послать тебя куда подальше. Такая дружба мне не нужна!"
 msgstr "Alors... La seule chose qui reste à faire est de te dire d'aller te faire foutre. Ce n'est pas le genre d'amitié que je veux !"
 
-#    # game/events/eric.rpy:266
+    # game/events/eric.rpy:266
 msgid "Если так, то я согласен на твои условия, конечно!"
 msgstr "Si oui, j'accepte tes conditions, bien sûr !"
 
-#    # game/events/eric.rpy:266
+    # game/events/eric.rpy:266
 msgid "Знаешь, что... Эрик? А иди-ка ты в жопу! Без тебя справимся!"
 msgstr "Tu sais quoi... Eric ? Va te faire foutre ! Je peux le faire sans toi !"
 
-#    # game/events/eric.rpy:279
+    # game/events/eric.rpy:279
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Ваши отношения значительно улучшились{/i}{/color}"
 msgstr "{color=[lime]}{i}{b}Attention:{/b} Votre relation s'est considérablement améliorée{/i}{/color}"
 
-#    # game/events/eric.rpy:323
+    # game/events/eric.rpy:323
 msgid "{i}наблюдать за ними{/i}"
 msgstr "{i}garder un œil sur eux{/i}"
 
-#    # game/events/eric.rpy:323
+    # game/events/eric.rpy:323
 msgid "{i}подойти к ним{/i}"
 msgstr "{i}Les approcher{/i}"
 
-#    # game/events/eric.rpy:333
+    # game/events/eric.rpy:333
 msgid "Конечно, мам! {i}(уйти){/i}"
 msgstr "Bien sûr, maman! {i}(Partir){/i}"
 
-#    # game/events/eric.rpy:333
+    # game/events/eric.rpy:333
 msgid "Конечно, мам! {i}(спрятаться){/i}"
 msgstr "Bien sûr, maman! {i}(se cacher){/i}"
 
-#    # game/events/eric.rpy:356
+    # game/events/eric.rpy:356
 msgid "{i}подойти ближе{/i}"
 msgstr "{i}se rapprocher{/i}"
 
-#    # game/events/eric.rpy:356
+    # game/events/eric.rpy:356
 msgid "{i}тихо уйти{/i}"
 msgstr "{i}partir tranquillement{/i}"
 
-#    # game/events/eric.rpy:368
+    # game/events/eric.rpy:368
 msgid "{i}Что за вопрос? Конечно!{/i}"
 msgstr "{i}Quelle est la question? Bien sûr! {/i}"
 
-#    # game/events/eric.rpy:422
+    # game/events/eric.rpy:422
 msgid "{i}тихо сматываться{/i}"
 msgstr "{i}tourner doucement{/i}"
 
-#    # game/events/eric.rpy:459
+    # game/events/eric.rpy:459
 msgid "Ма-а-ам?"
 msgstr "Ma-ama-an?"
 
-#    # game/events/eric.rpy:459
+    # game/events/eric.rpy:459
 msgid "Вы охренели!"
 msgstr "Tu as perdu la tête !"
 
-#    # game/events/eric.rpy:489
+    # game/events/eric.rpy:489
 msgid "Как раз всё вижу. Не стыдно?"
 msgstr "Je peux tout voir. Pas de honte ?"
 
-#    # game/events/eric.rpy:489
+    # game/events/eric.rpy:489
 msgid "Хорошо. А вы тут продолжайте... Не стесняйтесь."
 msgstr "Bien. Et tu continues... Ne sois pas timide."
 
-#    # game/events/eric.rpy:489
+    # game/events/eric.rpy:489
 msgid "Извини, мам. Я просто не ожидал ТАКОЕ увидеть..."
 msgstr "Désolé, maman. Je ne m'attendais pas à voir CA..."
 
-#    # game/events/eric.rpy:505
+    # game/events/eric.rpy:505
 msgid "Хотите потрахаться - идите в свою комнату. Нечего этим на виду у всех заниматься!"
 msgstr "Si tu veux t'envoyer en l'air, va dans ta chambre. Ne le fais pas devant tout le monde !"
 
-#    # game/events/eric.rpy:505
+    # game/events/eric.rpy:505
 msgid "Да всё в порядке. Это ты извини... Я просто от неожиданности крикнул."
 msgstr "C'est bon. C'est toi qui es désolé... J'ai juste crié de surprise."
 
-#    # game/events/eric.rpy:505
+    # game/events/eric.rpy:505
 msgid "А вы не против, если я посмотрю?"
 msgstr "Ça te dérange si je jette un coup d'œil ?"
 
-#    # game/events/eric.rpy:534
+    # game/events/eric.rpy:534
 msgid "{i}зайти в спальню{/i}"
 msgstr "{i}aller dans la chambre{/i}"
 
-#    # game/events/eric.rpy:584
+    # game/events/eric.rpy:584
 msgid "Я никому не мешаю же..."
 msgstr "Je ne dérange personne, n'est-ce pas ..."
 
-#    # game/events/eric.rpy:584
+    # game/events/eric.rpy:584
 msgid "Я уже ухожу, мам... Извини..."
 msgstr "Je suis en train de sortir, maman... Désolé..."
 
-#    # game/events/eric.rpy:690
+    # game/events/eric.rpy:690
 msgid "{i}проверить{/i}"
 msgstr "{i}vérifier{/i}"
 
-#    # game/events/eric.rpy:902
+    # game/events/eric.rpy:902
 msgid "{i}смотреть до конца{/i}"
 msgstr "{i}regarder jusqu'à la fin{/i}"
 
-#    # game/events/eric.rpy:993
+    # game/events/eric.rpy:993
 msgid "{i}посмотреть через камеру{/i}"
 msgstr "{i}regarder à travers la caméra{/i}"
 
-#    # game/events/eric.rpy:1322
+    # game/events/eric.rpy:1322
 msgid "{i}Осторожно подсмотреть за ним с балкона{/i}"
 msgstr "{i}jeter un coup d'œil prudemment sur elle depuis le balcon.{/i}"
 
-#    # game/events/eric.rpy:1350
+    # game/events/eric.rpy:1350
 msgid "{i}сбегать за фотоаппаратом и пойти на балкон{/i}"
 msgstr "{i}Courir prendre la caméra et aller au balcon.{/i}"
 
-#    # game/events/eric.rpy:1363
+    # game/events/eric.rpy:1363
 msgid "{i}сбегать за фотоаппаратом и вернуться{/i}"
 msgstr "{i}courir chercher la caméra et revenir{/i}"
 
-#    # game/events/eric.rpy:1396
+    # game/events/eric.rpy:1396
 msgid "{i}сфотографировать его{/i}"
 msgstr "{i}prendre une photo{/i}"
 
-#    # game/events/eric.rpy:1584
+    # game/events/eric.rpy:1584
 msgid "{i}прервать Лизу и Эрика{/i}"
 msgstr "{i}interrompre Lisa et Eric{/i}"
 
-#    # game/events/eric.rpy:1711
+    # game/events/eric.rpy:1711
 msgid "И что будет, если я заплачу?"
 msgstr "Et que se passe-t-il si je paie ?"
 
-#    # game/events/eric.rpy:1711
+    # game/events/eric.rpy:1711
 msgid "Да я в жизни такие деньги в руках не держал!"
 msgstr "Je n'ai jamais eu une telle somme d'argent dans ma vie!"
 
-#    # game/events/eric.rpy:1714
+    # game/events/eric.rpy:1714
 msgid "Договорились. Сейчас принесу деньги..."
 msgstr "C'est un marché. Je vais chercher l'argent..."
 
-#    # game/events/eric.rpy:1714
+    # game/events/eric.rpy:1714
 msgid "А если у меня нет таких денег?"
 msgstr "Et si je n'ai pas cet argent ?"
 
-#    # game/events/eric.rpy:1721
+    # game/events/eric.rpy:1721
 msgid "{i}принести Эрику деньги{/i}"
 msgstr "{i}apporter l'argent à Eric{/i}"
 
-#    # game/events/eric.rpy:1762
+    # game/events/eric.rpy:1762
 msgid "{i}сперва помыть посуду, а затем проследить{/i}"
 msgstr "{i}Laver d'abord la vaisselle, puis y aller{/i}"
 
-#    # game/events/eric.rpy:1762
+    # game/events/eric.rpy:1762
 msgid "{i}проследить сразу{/i}"
 msgstr "{i}y aller de suite{/i}"
 
-#    # game/events/eric.rpy:1773
+    # game/events/eric.rpy:1773
 msgid "{i}быстрее смотреть, что делают Лиза и Эрик{/i}"
 msgstr "{i}regarder ce que font Lisa et Eric rapidement{/i}"
 

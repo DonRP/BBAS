@@ -15,35 +15,35 @@
 msgid "{i}искать под кроватью{/i}"
 msgstr "{i}rechercher sous le lit{/i}"
 
-#    # game/core/imagemaps.rpy:34
+    # game/core/imagemaps.rpy:34
 msgid "{i}искать в тумбочке{/i}"
 msgstr "{i}regarder dans la table de nuit{/i}"
 
-#    # game/core/imagemaps.rpy:37
+    # game/core/imagemaps.rpy:37
 msgid "{i}искать в столе{/i}"
 msgstr "{i}rechercher sur le bureau{/i}"
 
-#    # game/core/imagemaps.rpy:56
+    # game/core/imagemaps.rpy:56
 msgid "{i}массировать ступни{/i}"
 msgstr "{i}massage des jambes{/i}"
 
-#    # game/core/imagemaps.rpy:64
+    # game/core/imagemaps.rpy:64
 msgid "{i}массировать голени{/i}"
 msgstr "{i}masser le bas des jambes{/i}"
 
-#    # game/core/imagemaps.rpy:74
+    # game/core/imagemaps.rpy:74
 msgid "{i}массировать бёдра{/i}"
 msgstr "{i}masser les hanches{/i}"
 
-#    # game/core/imagemaps.rpy:78
+    # game/core/imagemaps.rpy:78
 msgid "{i}массировать плечи{/i}"
 msgstr "{i}masser les épaules{/i}"
 
-#    # game/core/imagemaps.rpy:82
+    # game/core/imagemaps.rpy:82
 msgid "{i}массировать спину{/i}"
 msgstr "{i}masser le dos{/i}"
 
-#    # game/core/imagemaps.rpy:87
+    # game/core/imagemaps.rpy:87
 msgid "{i}массировать попку{/i}"
 msgstr "{i}masser les fesses{/i}"
 

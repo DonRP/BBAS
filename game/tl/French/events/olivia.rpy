@@ -1293,23 +1293,23 @@ translate frenh olivia_repeatable_night_out_with_cb768b4d:
 msgid "{i}подсмотреть{/i}"
 msgstr "{i}espionner{/i}"
 
-#    # game/events/olivia.rpy:92
+    # game/events/olivia.rpy:92
 msgid "{i}дождаться девчонок{/i}"
 msgstr "{i}attendre les filles{/i}"
 
-#    # game/events/olivia.rpy:178
+    # game/events/olivia.rpy:178
 msgid "Конечно с вами!"
 msgstr "Bien sûr, avec vous !"
 
-#    # game/events/olivia.rpy:291
+    # game/events/olivia.rpy:291
 msgid "Я с вами!"
 msgstr "J'en suis !"
 
-#    # game/events/olivia.rpy:379
+    # game/events/olivia.rpy:379
 msgid "{i}раздеться и сесть рядом{/i}"
 msgstr "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
 
-#    # game/events/olivia.rpy:631
+    # game/events/olivia.rpy:631
 msgid "{i}идти в свою комнату{/i}"
 msgstr "{i}allez dans votre chambre{/i}"
 
