@@ -727,8 +727,8 @@ translate frenh alice_shower_dangerous_hugs_e3f63f1b:
 # game/events/alice.rpy:504
 translate frenh alice_shower_dangerous_hugs_11fdb519:
 
-    # extend]" nointeract
-    extend]" nointeract
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/events/alice.rpy:520
 translate frenh alice_shower_dangerous_hugs_8f49945b:
@@ -2865,8 +2865,8 @@ translate frenh alice_body_photoset1_37c1d751:
 # game/events/alice.rpy:2285
 translate frenh alice_body_photoset1_fa08a285:
 
-    # extend]Снимок готов! Залазь теперь на кровать, снимем твою прелестную попку..."
-    extend]L'appareil est prêt! Monte sur le lit maintenant, prenons une photo de ton joli cul..."
+    # extend "Снимок готов! Залазь теперь на кровать, снимем твою прелестную попку..."
+    extend "L'appareil est prêt! Monte sur le lit maintenant, prenons une photo de ton joli cul..."
 
 # game/events/alice.rpy:2289
 translate frenh alice_body_photoset1_3b98c4ab:
@@ -2883,8 +2883,8 @@ translate frenh alice_body_photoset1_cfc08eb7:
 # game/events/alice.rpy:2294
 translate frenh alice_body_photoset1_19c7aaa6:
 
-    # extend]Получилось хорошо! Ложись на кровать, раз уж рекламируем бельё, то надо во всей красе показать, как оно на тебе сидит."
-    extend]Ça a bien marché ! Allonges-toi sur le lit, puisque nous faisons de la publicité pour de la lingerie, nous devons te montrer comment elle te va."
+    # extend "Получилось хорошо! Ложись на кровать, раз уж рекламируем бельё, то надо во всей красе показать, как оно на тебе сидит."
+    extend "Ça a bien marché ! Allonges-toi sur le lit, puisque nous faisons de la publicité pour de la lingerie, nous devons te montrer comment elle te va."
 
 # game/events/alice.rpy:2298
 translate frenh alice_body_photoset1_f02f67fc:
@@ -2901,8 +2901,8 @@ translate frenh alice_body_photoset1_078f176b:
 # game/events/alice.rpy:2303
 translate frenh alice_body_photoset1_d5d79998:
 
-    # extend]Отличный кадр! Тебе только остаётся принять этот факт, повернуться ко мне и быть погорячее..."
-    extend]Superbe photo! Tout ce que tu dois faire, c'est accepter ce fait, te tourner vers moi et devenir plus sexy..."
+    # extend "Отличный кадр! Тебе только остаётся принять этот факт, повернуться ко мне и быть погорячее..."
+    extend "Superbe photo! Tout ce que tu dois faire, c'est accepter ce fait, te tourner vers moi et devenir plus sexy..."
 
 # game/events/alice.rpy:2307
 translate frenh alice_body_photoset1_907f281f:
@@ -2919,8 +2919,8 @@ translate frenh alice_body_photoset1_75ce9628:
 # game/events/alice.rpy:2312
 translate frenh alice_body_photoset1_49d01d2f:
 
-    # extend]Вот так, готово! А теперь можешь показать больше..."
-    extend]C'est ça, c'est fait ! Maintenant, tu peux en montrer plus..."
+    # extend "Вот так, готово! А теперь можешь показать больше..."
+    extend "C'est ça, c'est fait ! Maintenant, tu peux en montrer plus..."
 
 # game/events/alice.rpy:2317
 translate frenh alice_body_photoset1_1d2ef196:
@@ -2991,8 +2991,8 @@ translate frenh alice_body_photoset1_995e42b4:
 # game/events/alice.rpy:2342
 translate frenh alice_body_photoset1_398d59b9:
 
-    # extend]Люблю исследовать что-нибудь интересное своими ножками! Это меня очень заводит..."
-    extend]J'aime explorer quelque chose d'intéressant avec mes pieds ! Ça m'excite vraiment..."
+    # extend "Люблю исследовать что-нибудь интересное своими ножками! Это меня очень заводит..."
+    extend "J'aime explorer quelque chose d'intéressant avec mes pieds ! Ça m'excite vraiment..."
 
 # game/events/alice.rpy:2343
 translate frenh alice_body_photoset1_52f0f933:
@@ -3015,8 +3015,8 @@ translate frenh alice_body_photoset1_c493453c:
 # game/events/alice.rpy:2352
 translate frenh alice_body_photoset1_fbbf7ca9:
 
-    # extend]Готово. Кадр и правда очень хорош!"
-    extend]C'est fait. Le cliché est vraiment bon !"
+    # extend "Готово. Кадр и правда очень хорош!"
+    extend "C'est fait. Le cliché est vraiment bon !"
 
 # game/events/alice.rpy:2356
 translate frenh alice_body_photoset1_3cbe1fe4:
@@ -3033,8 +3033,8 @@ translate frenh alice_body_photoset1_313fbe6b:
 # game/events/alice.rpy:2361
 translate frenh alice_body_photoset1_d80f658c:
 
-    # extend]Да, кадр получился что надо! Может, теперь фото без белья?"
-    extend]Oui, c'est un bon cliché! Que dirais-tu d'une photo sans sous-vêtements maintenant ?"
+    # extend "Да, кадр получился что надо! Может, теперь фото без белья?"
+    extend "Oui, c'est un bon cliché! Que dirais-tu d'une photo sans sous-vêtements maintenant ?"
 
 # game/events/alice.rpy:2365
 translate frenh alice_body_photoset1_f7ab4a06:
@@ -3051,8 +3051,8 @@ translate frenh alice_body_photoset1_4ebdba51:
 # game/events/alice.rpy:2370
 translate frenh alice_body_photoset1_26ab28a4:
 
-    # extend]Сделал! Вот и отснимались."
-    extend]C'est fait ! Nous avons donc fait une séance."
+    # extend "Сделал! Вот и отснимались."
+    extend "C'est fait ! Nous avons donc fait une séance."
 
 # game/events/alice.rpy:2374
 translate frenh alice_body_photoset1_976b418f:

@@ -975,8 +975,8 @@ translate frenh first_photoset_4e92d6fb:
 # game/dialogues/kiratalk.rpy:470
 translate frenh first_photoset_92396b51:
 
-    # extend]Готово! Теперь садись. Ты уже проснулась и решила красиво потянуться..."
-    extend]C'est fait ! Maintenant, assois-toi. Tu t'es déjà réveillée et as décidé de t'étirer en beauté..."
+    # extend "Готово! Теперь садись. Ты уже проснулась и решила красиво потянуться..."
+    extend "C'est fait ! Maintenant, assois-toi. Tu t'es déjà réveillée et as décidé de t'étirer en beauté..."
 
 # game/dialogues/kiratalk.rpy:475
 translate frenh first_photoset_set2_8b0aa53e:
@@ -993,8 +993,8 @@ translate frenh first_photoset_set2_2cc32318:
 # game/dialogues/kiratalk.rpy:480
 translate frenh first_photoset_set2_e0b39b37:
 
-    # extend]Ага, есть! А дальше мы щёлкнем твою попку..."
-    extend]Oui, c'est ça! Ensuite, nous allons prendre ton cul..."
+    # extend "Ага, есть! А дальше мы щёлкнем твою попку..."
+    extend "Oui, c'est ça! Ensuite, nous allons prendre ton cul..."
 
 # game/dialogues/kiratalk.rpy:485
 translate frenh first_photoset_set2_0542ad6b:
@@ -1017,8 +1017,8 @@ translate frenh first_photoset_set2_ec1bc097:
 # game/dialogues/kiratalk.rpy:498
 translate frenh first_photoset_set2_f7295a5d:
 
-    # extend]Вот и готово. Давай, привстань немного, я сделаю ещё снимок..."
-    extend]Voilà, c'est fait. Aller, lève-toi un peu, je vais prendre une autre photo..."
+    # extend "Вот и готово. Давай, привстань немного, я сделаю ещё снимок..."
+    extend "Voilà, c'est fait. Aller, lève-toi un peu, je vais prendre une autre photo..."
 
 # game/dialogues/kiratalk.rpy:503
 translate frenh first_photoset_set4_434fb1ca:
@@ -1035,8 +1035,8 @@ translate frenh first_photoset_set4_d32c6105:
 # game/dialogues/kiratalk.rpy:510
 translate frenh first_photoset_set4_47f29f71:
 
-    # extend]Отлично! Вот что делаем дальше..." nointeract
-    extend]Super ! Voici ce que nous faisons ensuite..." nointeract
+    # extend "Отлично! Вот что делаем дальше..." nointeract
+    extend "Super ! Voici ce que nous faisons ensuite..." nointeract
 
 # game/dialogues/kiratalk.rpy:521
 translate frenh first_photoset_set4_00af3fa8:
@@ -1053,8 +1053,8 @@ translate frenh first_photoset_set4_c305aae6:
 # game/dialogues/kiratalk.rpy:526
 translate frenh first_photoset_set4_947687dd:
 
-    # extend]Снимок выйдет чумовой... Теперь переходим с дивана к столу."
-    extend]Ça va être un cliché de folie... Passons maintenant du canapé à la table."
+    # extend "Снимок выйдет чумовой... Теперь переходим с дивана к столу."
+    extend "Ça va être un cliché de folie... Passons maintenant du canapé à la table."
 
 # game/dialogues/kiratalk.rpy:531
 translate frenh first_photoset_set6_9af80df1:
@@ -1071,8 +1071,8 @@ translate frenh first_photoset_set6_04c93189:
 # game/dialogues/kiratalk.rpy:536
 translate frenh first_photoset_set6_9e415db6:
 
-    # extend]Снимок готов. Давай, покажи мне что-нибудь погорячее..."
-    extend]L'image est faite. Aller, montre-moi quelque chose de plus sexy..."
+    # extend "Снимок готов. Давай, покажи мне что-нибудь погорячее..."
+    extend "L'image est faite. Aller, montre-moi quelque chose de plus sexy..."
 
 # game/dialogues/kiratalk.rpy:540
 translate frenh first_photoset_set6_d74aef50:
@@ -1089,8 +1089,8 @@ translate frenh first_photoset_set6_1f7ddded:
 # game/dialogues/kiratalk.rpy:547
 translate frenh first_photoset_set6_ff3a2d28:
 
-    # extend]Да, кадр получился что надо!" nointeract
-    extend]Oui, la claque s'est avérée nécessaire!" nointeract
+    # extend "Да, кадр получился что надо!" nointeract
+    extend "Oui, la claque s'est avérée nécessaire!" nointeract
 
 # game/dialogues/kiratalk.rpy:550
 translate frenh first_photoset_set6_42057bef:
@@ -1107,8 +1107,8 @@ translate frenh first_photoset_set6_ef185983:
 # game/dialogues/kiratalk.rpy:555
 translate frenh first_photoset_set6_b116d87b:
 
-    # extend]Это же все для портфолио, а в нём должны быть продемонстрированы твои умения..."
-    extend]C'est pour un portfolio, et c'est censé mettre en valeur tes compétences d'actrice x..."
+    # extend "Это же все для портфолио, а в нём должны быть продемонстрированы твои умения..."
+    extend "C'est pour un portfolio, et c'est censé mettre en valeur tes compétences d'actrice x..."
 
 # game/dialogues/kiratalk.rpy:559
 translate frenh first_photoset_set6_44dd7e29:
@@ -1125,8 +1125,8 @@ translate frenh first_photoset_set6_fd2a8d5d:
 # game/dialogues/kiratalk.rpy:566
 translate frenh first_photoset_set6_11fdb519:
 
-    # extend]" nointeract
-    extend]" nointeract
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/dialogues/kiratalk.rpy:577
 translate frenh first_photoset_set6_8f9aa457:
@@ -1143,8 +1143,8 @@ translate frenh first_photoset_set6_2da65c76:
 # game/dialogues/kiratalk.rpy:583
 translate frenh first_photoset_set6_77e15199:
 
-    # extend]Да... продолжай вот так, это будет отличный кадр! Может тебе есть, чем меня удивить?"
-    extend]Oui... continues comme ça, ce sera une belle photo ! Tu as peut-être quelque chose à me proposer pour me surprendre ?"
+    # extend "Да... продолжай вот так, это будет отличный кадр! Может тебе есть, чем меня удивить?"
+    extend "Oui... continues comme ça, ce sera une belle photo ! Tu as peut-être quelque chose à me proposer pour me surprendre ?"
 
 # game/dialogues/kiratalk.rpy:587
 translate frenh first_photoset_set11_2fd9047a:
@@ -1161,8 +1161,8 @@ translate frenh first_photoset_set11_be14bc45:
 # game/dialogues/kiratalk.rpy:593
 translate frenh first_photoset_set11_54845204:
 
-    # extend]Думаю, я уже почти готов для последнего снимка! Готовься, тётя Кира..."
-    extend]Je pense que je suis presque prêt pour une dernière photo ! Prépare-toi, tante Kira..."
+    # extend "Думаю, я уже почти готов для последнего снимка! Готовься, тётя Кира..."
+    extend "Je pense que je suis presque prêt pour une dernière photo ! Prépare-toi, tante Kira..."
 
 # game/dialogues/kiratalk.rpy:596
 translate frenh first_photoset_set11_94d8f220:
@@ -1179,8 +1179,8 @@ translate frenh first_photoset_set11_adb51051:
 # game/dialogues/kiratalk.rpy:602
 translate frenh first_photoset_set11_9c4f2555:
 
-    # extend]Да уж, это было потрясающе! Думаю, снимки получились удачными..."
-    extend]Oui, c'était incroyable ! Je pense que les photos sont bien réussies..."
+    # extend "Да уж, это было потрясающе! Думаю, снимки получились удачными..."
+    extend "Oui, c'était incroyable ! Je pense que les photos sont bien réussies..."
 
 # game/dialogues/kiratalk.rpy:603
 translate frenh first_photoset_set11_9aa39956:
@@ -1581,8 +1581,8 @@ translate frenh kira_about_photo2_17697838:
 # game/dialogues/kiratalk.rpy:810
 translate frenh kira_about_photo2_1e1833a1:
 
-    # extend]Готово! Теперь приляг на кровать как-нибудь интересно..."
-    extend]C'est fait ! Maintenant, allonges-toi sur le lit d'une manière lascive..."
+    # extend "Готово! Теперь приляг на кровать как-нибудь интересно..."
+    extend "C'est fait ! Maintenant, allonges-toi sur le lit d'une manière lascive..."
 
 # game/dialogues/kiratalk.rpy:815
 translate frenh kira_about_photo2_3632b5af:
@@ -1599,8 +1599,8 @@ translate frenh kira_about_photo2_5a7f8753:
 # game/dialogues/kiratalk.rpy:820
 translate frenh kira_about_photo2_2281fcac:
 
-    # extend]Ага, есть! А дальше мы щёлкнем твою попку ещё раз, ложись как будто устала и отдыхаешь..."
-    extend]Oui, c'est ça! Et ensuite, je vais claquer sur ton cul encore une fois, tu t'allongeras comme si tu étais fatigué et que tu te reposais..."
+    # extend "Ага, есть! А дальше мы щёлкнем твою попку ещё раз, ложись как будто устала и отдыхаешь..."
+    extend "Oui, c'est ça! Et ensuite, je vais claquer sur ton cul encore une fois, tu t'allongeras comme si tu étais fatigué et que tu te reposais..."
 
 # game/dialogues/kiratalk.rpy:825
 translate frenh kira_about_photo2_b4d729d5:
@@ -1617,8 +1617,8 @@ translate frenh kira_about_photo2_cc3722f2:
 # game/dialogues/kiratalk.rpy:830
 translate frenh kira_about_photo2_08b22229:
 
-    # extend]С радостью бы её расстегнул, но давай начнём с верху. Наверно, во всей этой коже очень жарко..."
-    extend]J'adorerais la défaire, mais commençons par le début. Il doit faire très chaud dans toute ce cuir..."
+    # extend "С радостью бы её расстегнул, но давай начнём с верху. Наверно, во всей этой коже очень жарко..."
+    extend "J'adorerais la défaire, mais commençons par le début. Il doit faire très chaud dans toute ce cuir..."
 
 # game/dialogues/kiratalk.rpy:835
 translate frenh kira_about_photo2_b42365a4:
@@ -1635,8 +1635,8 @@ translate frenh kira_about_photo2_663fd71a:
 # game/dialogues/kiratalk.rpy:840
 translate frenh kira_about_photo2_a22807a0:
 
-    # extend]Снимок готов. А что ты там говорила про верёвки?"
-    extend]La photo est prête. Qu'est-ce que tu as dit à propos des cordes ?"
+    # extend "Снимок готов. А что ты там говорила про верёвки?"
+    extend "La photo est prête. Qu'est-ce que tu as dit à propos des cordes ?"
 
 # game/dialogues/kiratalk.rpy:844
 translate frenh kira_about_photo2_eb14f139:
@@ -1665,8 +1665,8 @@ translate frenh kira_about_photo2_ed7eabcb:
 # game/dialogues/kiratalk.rpy:862
 translate frenh kira_about_photo2_499c97e0:
 
-    # extend]И даже, как любишь сосать мой член расскажешь?"
-    extend]Et me diras-tu au moins comment tu aimes me sucer la bite ?"
+    # extend "И даже, как любишь сосать мой член расскажешь?"
+    extend "Et me diras-tu au moins comment tu aimes me sucer la bite ?"
 
 # game/dialogues/kiratalk.rpy:864
 translate frenh kira_about_photo2_76feb6c2:
@@ -2685,8 +2685,8 @@ translate frenh kira_photoset3_65d2418d:
 # game/dialogues/kiratalk.rpy:1314
 translate frenh kira_photoset3_b3251128:
 
-    # extend]стягиваю с себя те блестящие трусики, которые ты видел..."
-    extend]en descendant cette culotte brillante que tu as vue..."
+    # extend "стягиваю с себя те блестящие трусики, которые ты видел..."
+    extend "en descendant cette culotte brillante que tu as vue..."
 
 # game/dialogues/kiratalk.rpy:1315
 translate frenh kira_photoset3_4b50b734:
@@ -2751,8 +2751,8 @@ translate frenh kira_photoset3_b53667ec:
 # game/dialogues/kiratalk.rpy:1344
 translate frenh kira_photoset3_f26895a9:
 
-    # extend]Ты можешь сказать, как тебе больше нравится..."
-    extend]Tu peux dire comment tu préfères..."
+    # extend "Ты можешь сказать, как тебе больше нравится..."
+    extend "Tu peux dire comment tu préfères..."
 
 # game/dialogues/kiratalk.rpy:1345
 translate frenh kira_photoset3_fd10fafc:
@@ -2817,8 +2817,8 @@ translate frenh kira_photoset3_7f0a1c51:
 # game/dialogues/kiratalk.rpy:1372
 translate frenh kira_photoset3_34802b52:
 
-    # extend]Ухх... Твою подругу придётся хорошенько отшлёпать!"
-    extend]Ugh... Ton amie va avoir besoin d'une bonne fessée !"
+    # extend "Ухх... Твою подругу придётся хорошенько отшлёпать!"
+    extend "Ugh... Ton amie va avoir besoin d'une bonne fessée !"
 
 # game/dialogues/kiratalk.rpy:1378
 translate frenh kira_photoset3_2e774034:
@@ -2865,8 +2865,8 @@ translate frenh kira_photoset3_4e3a97cd:
 # game/dialogues/kiratalk.rpy:1397
 translate frenh kira_photoset3_35211b2c:
 
-    # extend]Ты как, готов трахнуть свою тётю или тебя ещё помучить..."
-    extend]Es-tu prêt à baiser ta tante ou veux-tu être torturé un peu plus..."
+    # extend "Ты как, готов трахнуть свою тётю или тебя ещё помучить..."
+    extend "Es-tu prêt à baiser ta tante ou veux-tu être torturé un peu plus..."
 
 # game/dialogues/kiratalk.rpy:1398
 translate frenh kira_photoset3_bc109d9b:
@@ -2919,8 +2919,8 @@ translate frenh kira_photoset3_66f2bbc9:
 # game/dialogues/kiratalk.rpy:1423
 translate frenh kira_photoset3_8c30c98f:
 
-    # extend]У меня до сих пор дрожь по телу..."
-    extend]J'ai encore des frissons dans tout le corps..."
+    # extend "У меня до сих пор дрожь по телу..."
+    extend "J'ai encore des frissons dans tout le corps..."
 
 # game/dialogues/kiratalk.rpy:1424
 translate frenh kira_photoset3_d4f0958c:

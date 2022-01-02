@@ -4759,8 +4759,8 @@ translate italian massage_sunscreen_squeeze_chest_1c5bed82:
 # game/dialogues/alicetalk.rpy:3164
 translate italian massage_sunscreen_squeeze_chest_11fdb519:
 
-    # extend]" nointeract
-    extend]" nointeract
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/dialogues/alicetalk.rpy:3180
 translate italian massage_sunscreen_squeeze_chest_1160d297:

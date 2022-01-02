@@ -727,8 +727,8 @@ translate italian alice_shower_dangerous_hugs_e3f63f1b:
 # game/events/alice.rpy:504
 translate italian alice_shower_dangerous_hugs_11fdb519:
 
-    # extend]" nointeract
-    extend]" nointeract
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/events/alice.rpy:520
 translate italian alice_shower_dangerous_hugs_8f49945b:
@@ -2865,8 +2865,8 @@ translate italian alice_body_photoset1_37c1d751:
 # game/events/alice.rpy:2285
 translate italian alice_body_photoset1_fa08a285:
 
-    # extend]Снимок готов! Залазь теперь на кровать, снимем твою прелестную попку..."
-    extend]L'immagine è pronta! Ora sali sul letto, togliamoci il tuo bel..."
+    # extend "Снимок готов! Залазь теперь на кровать, снимем твою прелестную попку..."
+    extend "L'immagine è pronta! Ora sali sul letto, togliamoci il tuo bel..."
 
 # game/events/alice.rpy:2289
 translate italian alice_body_photoset1_3b98c4ab:
@@ -2883,8 +2883,8 @@ translate italian alice_body_photoset1_cfc08eb7:
 # game/events/alice.rpy:2294
 translate italian alice_body_photoset1_19c7aaa6:
 
-    # extend]Получилось хорошо! Ложись на кровать, раз уж рекламируем бельё, то надо во всей красе показать, как оно на тебе сидит."
-    extend]È andata bene! Sdraiati sul letto, dal momento che pubblicizziamo biancheria intima, quindi devi mostrare in tutto il suo splendore come si siede su di te."
+    # extend "Получилось хорошо! Ложись на кровать, раз уж рекламируем бельё, то надо во всей красе показать, как оно на тебе сидит."
+    extend "È andata bene! Sdraiati sul letto, dal momento che pubblicizziamo biancheria intima, quindi devi mostrare in tutto il suo splendore come si siede su di te."
 
 # game/events/alice.rpy:2298
 translate italian alice_body_photoset1_f02f67fc:
@@ -2901,8 +2901,8 @@ translate italian alice_body_photoset1_078f176b:
 # game/events/alice.rpy:2303
 translate italian alice_body_photoset1_d5d79998:
 
-    # extend]Отличный кадр! Тебе только остаётся принять этот факт, повернуться ко мне и быть погорячее..."
-    extend]Ottimo scatto! Devi solo accettare questo fatto, rivolgerti a me ed essere più caldo..."
+    # extend "Отличный кадр! Тебе только остаётся принять этот факт, повернуться ко мне и быть погорячее..."
+    extend "Ottimo scatto! Devi solo accettare questo fatto, rivolgerti a me ed essere più caldo..."
 
 # game/events/alice.rpy:2307
 translate italian alice_body_photoset1_907f281f:
@@ -2919,8 +2919,8 @@ translate italian alice_body_photoset1_75ce9628:
 # game/events/alice.rpy:2312
 translate italian alice_body_photoset1_49d01d2f:
 
-    # extend]Вот так, готово! А теперь можешь показать больше..."
-    extend]Questo è tutto, fatto! E ora puoi mostrare di più..."
+    # extend "Вот так, готово! А теперь можешь показать больше..."
+    extend "Questo è tutto, fatto! E ora puoi mostrare di più..."
 
 # game/events/alice.rpy:2317
 translate italian alice_body_photoset1_1d2ef196:
@@ -2991,8 +2991,8 @@ translate italian alice_body_photoset1_995e42b4:
 # game/events/alice.rpy:2342
 translate italian alice_body_photoset1_398d59b9:
 
-    # extend]Люблю исследовать что-нибудь интересное своими ножками! Это меня очень заводит..."
-    extend]mi piace esplorare qualcosa di interessante con le mie gambe! Mi accende molto..."
+    # extend "Люблю исследовать что-нибудь интересное своими ножками! Это меня очень заводит..."
+    extend "mi piace esplorare qualcosa di interessante con le mie gambe! Mi accende molto..."
 
 # game/events/alice.rpy:2343
 translate italian alice_body_photoset1_52f0f933:
@@ -3015,8 +3015,8 @@ translate italian alice_body_photoset1_c493453c:
 # game/events/alice.rpy:2352
 translate italian alice_body_photoset1_fbbf7ca9:
 
-    # extend]Готово. Кадр и правда очень хорош!"
-    extend]Fatto. Lo scatto è davvero molto buono!"
+    # extend "Готово. Кадр и правда очень хорош!"
+    extend "Fatto. Lo scatto è davvero molto buono!"
 
 # game/events/alice.rpy:2356
 translate italian alice_body_photoset1_3cbe1fe4:
@@ -3033,8 +3033,8 @@ translate italian alice_body_photoset1_313fbe6b:
 # game/events/alice.rpy:2361
 translate italian alice_body_photoset1_d80f658c:
 
-    # extend]Да, кадр получился что надо! Может, теперь фото без белья?"
-    extend]Sì, la cornice si è rivelata quella di cui hai bisogno! Forse ora una foto senza biancheria intima?"
+    # extend "Да, кадр получился что надо! Может, теперь фото без белья?"
+    extend "Sì, la cornice si è rivelata quella di cui hai bisogno! Forse ora una foto senza biancheria intima?"
 
 # game/events/alice.rpy:2365
 translate italian alice_body_photoset1_f7ab4a06:
@@ -3051,8 +3051,8 @@ translate italian alice_body_photoset1_4ebdba51:
 # game/events/alice.rpy:2370
 translate italian alice_body_photoset1_26ab28a4:
 
-    # extend]Сделал! Вот и отснимались."
-    extend]fatto! Così abbiamo filmato."
+    # extend "Сделал! Вот и отснимались."
+    extend "fatto! Così abbiamo filmato."
 
 # game/events/alice.rpy:2374
 translate italian alice_body_photoset1_976b418f:
