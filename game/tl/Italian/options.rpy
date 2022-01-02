@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Большой брат: Другая история\n"
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -13,6 +13,6 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2021-09-26 08:54\n"
 
-msgid "Большой брат: Другая история"
+    old "Большой брат: Другая история"
 msgstr "Big Brother: un'altra storia"
 

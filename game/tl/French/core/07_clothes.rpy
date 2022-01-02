@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -12,50 +12,50 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2021-11-03 12:46\n"
 
-msgid "Повседневная"
+    old "Повседневная"
 msgstr "Informel"
 
     # game/core/07_clothes.rpy:87
-msgid "Для сна"
+    old "Для сна"
 msgstr "Pour dormir"
 
     # game/core/07_clothes.rpy:87
-msgid "Для йоги"
+    old "Для йоги"
 msgstr "Pour le yoga"
 
     # game/core/07_clothes.rpy:87
-msgid "Блог в нижнем белье"
+    old "Блог в нижнем белье"
 msgstr "Blog sur la lingerie"
 
     # game/core/07_clothes.rpy:87
-msgid "Готовит завтрак"
+    old "Готовит завтрак"
 msgstr "Préparer le petit-déjeuner"
 
     # game/core/07_clothes.rpy:87
-msgid "Готовит ужин"
+    old "Готовит ужин"
 msgstr "Dîner du soir"
 
     # game/core/07_clothes.rpy:87
-msgid "Утренний отдых"
+    old "Утренний отдых"
 msgstr "Repos matinal"
 
     # game/core/07_clothes.rpy:87
-msgid "Вечерний отдых"
+    old "Вечерний отдых"
 msgstr "Repos du soir"
 
     # game/core/07_clothes.rpy:87
-msgid "Купальник"
+    old "Купальник"
 msgstr "Maillot de bain"
 
     # game/core/07_clothes.rpy:87
-msgid "За уроками"
+    old "За уроками"
 msgstr "Pour les leçons"
 
     # game/core/07_clothes.rpy:87
-msgid "Для прогулок"
+    old "Для прогулок"
 msgstr "Pour les promenades"
 
     # game/core/07_clothes.rpy:163
-msgid "Влияние Макса недостаточно"
+    old "Влияние Макса недостаточно"
 msgstr "Le niveau de persuasion de Max n'est pas suffisant"
 

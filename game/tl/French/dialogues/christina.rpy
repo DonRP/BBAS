@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -192,10 +192,10 @@ translate frenh christina_first_talk_204a6521_1:
     # [Max_01]Я тоже, Кристина! Пока."
     Max_01]Moi aussi, Christine ! Au revoir."
 
-msgid "Хорошего тебе дня!"
+    old "Хорошего тебе дня!"
 msgstr "Bonne journée!"
 
     # game/dialogues/christina.rpy:25
-msgid "А чем вечером будешь заниматься? Давай погуляем!?"
+    old "А чем вечером будешь заниматься? Давай погуляем!?"
 msgstr "Que vas-tu faire ce soir? Allons nous nous promener !?"
 

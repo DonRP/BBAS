@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -12,374 +12,374 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-01-02 16:49\n"
 
-msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
+    old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}NEGOZIO ONLINE{/b}"
 
     # game/core/screens.rpy:352
-msgid "{b}ОНЛАЙН-КУРСЫ{/b}"
+    old "{b}ОНЛАЙН-КУРСЫ{/b}"
 msgstr "{b}CORSI ONLINE{/b}"
 
     # game/core/screens.rpy:362
-msgid "{b}КУПИТЬ ПРОДУКТЫ{/b}"
+    old "{b}КУПИТЬ ПРОДУКТЫ{/b}"
 msgstr "{b}ACQUISTA PRODOTTI{/b}"
 
     # game/core/screens.rpy:375
-msgid "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
+    old "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
 msgstr "{b}FARE IL TUO SITO{/b}"
 
     # game/core/screens.rpy:383
-msgid "{b}СВОЙ САЙТ{/b}"
+    old "{b}СВОЙ САЙТ{/b}"
 msgstr "{b}IL TUO SITO{/b}"
 
     # game/core/screens.rpy:388
-msgid "{b}CYBER-БАНК{/b}"
+    old "{b}CYBER-БАНК{/b}"
 msgstr "{b}CYBER-BANK{/b}"
 
     # game/core/screens.rpy:476
-msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+    old "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
 msgstr "PRESTITI REDDITIZI AGLI IMPRENDITORI DI INTERNET"
 
     # game/core/screens.rpy:483
-msgid "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+    old "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
 msgstr "Debito: {color=[_col]}$[mgg.credit.debt]{/color}"
 
     # game/core/screens.rpy:484
-msgid "[mgg.credit.left] дней на погашение"
+    old "[mgg.credit.left] дней на погашение"
     mgg.credit.left] giorni per rimborsare"
 
     # game/core/screens.rpy:486
-msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
+    old "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
 msgstr "RIMBORSARE IL DEBITO"
 
     # game/core/screens.rpy:490
-msgid "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
+    old "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
 msgstr "RIMBORSARE PARTE DEL DEBITO"
 
     # game/core/screens.rpy:498
-msgid "ВЗЯТЬ КРЕДИТ"
+    old "ВЗЯТЬ КРЕДИТ"
 msgstr "PRENDI UN PRESTITO"
 
     # game/core/screens.rpy:533
-msgid "Что будем искать?"
+    old "Что будем искать?"
 msgstr "Cosa cerchiamo?"
 
     # game/core/screens.rpy:604
-msgid "{i}{b}КУПЛЕНО{/b}{/i}"
+    old "{i}{b}КУПЛЕНО{/b}{/i}"
 msgstr "{i}{b}ACQUISTATO{/b}{/i}"
 
     # game/core/screens.rpy:679
-msgid "ОНЛАЙН-КУРСЫ"
+    old "ОНЛАЙН-КУРСЫ"
 msgstr "CORSI ONLINE"
 
     # game/core/screens.rpy:697
-msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+    old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr "Hai completato tutti i corsi e le classi disponibili di questa categoria. Forse nuove lezioni appariranno nella prossima versione del gioco."
 
     # game/core/screens.rpy:709
-msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+    old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 msgstr "Hai già pagato per questo corso e puoi attivare il prossimo video tutorial disponibile in qualsiasi momento."
 
     # game/core/screens.rpy:713
-msgid "Занятие [text1] из [text2]"
+    old "Занятие [text1] из [text2]"
     text1] da [text2]"
 
     # game/core/screens.rpy:717
-msgid "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
+    old "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
 msgstr "{i}{b}INIZIA A GUARDARE VIDEO TUTORIAL{/b}{/i}"
 
     # game/core/screens.rpy:722
-msgid "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
+    old "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
 msgstr "{i}{b}HAI STUDIATO DI RECENTE. PRENDITI UNA PAUSA! {/b} {/i}"
 
     # game/core/screens.rpy:732
-msgid "Количество занятий: [text2]"
+    old "Количество занятий: [text2]"
 msgstr "Numero di lezioni: [text2]"
 
     # game/core/screens.rpy:738
-msgid "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+    old "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
 msgstr "{i}{b}ACQUISTA QUESTO CORSO PER: $[price]{/b}{/i}"
 
     # game/core/screens.rpy:773
-msgid "ДОХОД ОТ ПРОСМОТРОВ"
+    old "ДОХОД ОТ ПРОСМОТРОВ"
 msgstr "ENTRATE DA VISUALIZZAZIONI"
 
     # game/core/screens.rpy:774
-msgid "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
+    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
 "Минимальная сумма единоразового снятия: $100."
 msgstr "Ogni visita alle pagine del tuo sito porta un piccolo reddito. Aumenta il tuo pubblico e guadagna sulla pubblicità!\n\n"
 "Importo minimo di prelievo una tantum: $ 100."
 
     # game/core/screens.rpy:775
-msgid "На вашем счете $[paid]"
+    old "На вашем счете $[paid]"
 msgstr "$[paid] nel tuo account"
 
     # game/core/screens.rpy:777
-msgid "Забрать $[paid]"
+    old "Забрать $[paid]"
 msgstr "Raccogli $[paid]"
 
     # game/core/screens.rpy:790
-msgid "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+    old "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
 msgstr "IMPORTO INSUFFICIENTE PER IL PRELIEVO"
 
     # game/core/screens.rpy:811
-msgid "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+    old "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
 msgstr "RETE DI BANNER PUBBLICITARI"
 
     # game/core/screens.rpy:812
-msgid "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
+    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
 "За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
 msgstr "Un'offerta unica solo per te! La nostra rete di banner è progettata per i clienti con richieste speciali ed è pronta a trasmettere la tua pubblicità al pubblico di destinazione.\n\n"
 "Per ogni pacchetto che paghi per ora, garantiamo 10.000 impressioni degli annunci del tuo sito web nel prossimo futuro!"
 
     # game/core/screens.rpy:814
-msgid "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+    old "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
 msgstr "ACQUISTA IL PACCHETTO PUBBLICITARIO PER $ 50"
 
     # game/core/screens.rpy:918
-msgid "{b}РЕКЛАМА{/b}"
+    old "{b}РЕКЛАМА{/b}"
 msgstr "{b}PUBBLICITÀ{/b}"
 
     # game/core/screens.rpy:921
-msgid "{b}ВЫВОД СРЕДСТВ{/b}"
+    old "{b}ВЫВОД СРЕДСТВ{/b}"
 msgstr "{b}PRELIEVO{/b}"
 
     # game/core/screens.rpy:926
-msgid "Расположение:"
+    old "Расположение:"
 msgstr "Ubicazione:"
 
     # game/core/screens.rpy:927
-msgid "Зрителей:"
+    old "Зрителей:"
 msgstr "Spettatori:"
 
     # game/core/screens.rpy:928
-msgid "Общий доход:"
+    old "Общий доход:"
 msgstr "Reddito totale:"
 
     # game/core/screens.rpy:929
-msgid "Доход сегодня:"
+    old "Доход сегодня:"
 msgstr "Reddito oggi:"
 
     # game/core/screens.rpy:1114
-msgid "ЖДАТЬ"
+    old "ЖДАТЬ"
 msgstr "ATTENDERE"
 
     # game/core/screens.rpy:1125
-msgid "Зрителей: [public]"
+    old "Зрителей: [public]"
 msgstr "Spettatori: [public]"
 
     # game/core/screens.rpy:1172
-msgid "ПОЛЕЗНОЕ"
+    old "ПОЛЕЗНОЕ"
 msgstr "UTILE"
 
     # game/core/screens.rpy:1265
-msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
+    old "ВОЗМОЖНОСТИ ([kol] / [all])"
 msgstr "CARATTERISTICHE ([kol] / [all])"
 
     # game/core/screens.rpy:1278
-msgid "В ПРОЦЕССЕ..."
+    old "В ПРОЦЕССЕ..."
 msgstr "NEL PROCESSO..."
 
     # game/core/screens.rpy:1280
-msgid "ЗАВЕРШЕНЫ..."
+    old "ЗАВЕРШЕНЫ..."
 msgstr "FINITO..."
 
     # game/core/screens.rpy:1283
-msgid "НЕ ОТКРЫТЫ..."
+    old "НЕ ОТКРЫТЫ..."
 msgstr "NON APERTO..."
 
     # game/core/screens.rpy:1333
-msgid "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+    old "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
 msgstr "{i}{b}Congratulazioni! {/b} Hai completato questa funzione! {/i}"
 
     # game/core/screens.rpy:1335
-msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+    old "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
 msgstr "{i}{b}fallimento. {/b} Sfortunatamente, la tua scelta ha portato a un finale sfortunato, bloccando l'ulteriore sviluppo dell'\"opportunità\"{/i}"
 
     # game/core/screens.rpy:1338
-msgid "Подсказка:"
+    old "Подсказка:"
 msgstr "Alludere:"
 
     # game/core/screens.rpy:1411
-msgid "ВЕЩИ"
+    old "ВЕЩИ"
 msgstr "EFFETTI PERSONALI"
 
     # game/core/screens.rpy:1459
-msgid "Ни один предмет не выбран"
+    old "Ни один предмет не выбран"
 msgstr "Nessun elemento selezionato"
 
     # game/core/screens.rpy:1461
-msgid "В данный момент в инвентаре ничего нет"
+    old "В данный момент в инвентаре ничего нет"
 msgstr "Non c'è nulla nell'inventario al momento"
 
     # game/core/screens.rpy:1522
-msgid "ПЕРСОНАЖИ"
+    old "ПЕРСОНАЖИ"
 msgstr "PERSONAGGI"
 
     # game/core/screens.rpy:1574
-msgid "Отношения с [char_name!t]:"
+    old "Отношения с [char_name!t]:"
 msgstr "Rapporto con [char_name!t]:"
 
     # game/core/screens.rpy:1582
-msgid "Запас сил:"
+    old "Запас сил:"
 msgstr "Riserva di forze:"
 
     # game/core/screens.rpy:1587
-msgid "Тренированность:"
+    old "Тренированность:"
 msgstr "Idoneità:"
 
     # game/core/screens.rpy:1592
-msgid "Чистота:"
+    old "Чистота:"
 msgstr "Purezza:"
 
     # game/core/screens.rpy:1599
-msgid "Навыки:"
+    old "Навыки:"
 msgstr "Abilità:"
 
     # game/core/screens.rpy:1602
-msgid "Навык убеждения:"
+    old "Навык убеждения:"
 msgstr "Abilità di persuasione:"
 
     # game/core/screens.rpy:1607
-msgid "Навык скрытности:"
+    old "Навык скрытности:"
 msgstr "Abilità Stealth:"
 
     # game/core/screens.rpy:1613
-msgid "Навык массажа:"
+    old "Навык массажа:"
 msgstr "Abilità di massaggio:"
 
     # game/core/screens.rpy:1619
-msgid "Навык эро.массажа:"
+    old "Навык эро.массажа:"
 msgstr "Ero.massage abilità:"
 
     # game/core/screens.rpy:1625
-msgid "Навык поцелуев:"
+    old "Навык поцелуев:"
 msgstr "Abilità di bacio:"
 
     # game/core/screens.rpy:1631
-msgid "Сексуальный опыт:"
+    old "Сексуальный опыт:"
 msgstr "Esperienza sessuale:"
 
     # game/core/screens.rpy:1643
-msgid "Настроение:"
+    old "Настроение:"
 msgstr "Umore:"
 
     # game/core/screens.rpy:1649
-msgid "Уровень отношений:"
+    old "Уровень отношений:"
 msgstr "Livello di relazione:"
 
     # game/core/screens.rpy:1677
-msgid "Влияние Макса:"
+    old "Влияние Макса:"
 msgstr "Influenza di Max:"
 
     # game/core/screens.rpy:1682
-msgid "Влияние Эрика:"
+    old "Влияние Эрика:"
 msgstr "Influenza di Eric:"
 
     # game/core/screens.rpy:1701
-msgid "Лучше пока не попадаться на подглядывании за Лизой в душе"
+    old "Лучше пока не попадаться на подглядывании за Лизой в душе"
 msgstr "Meglio non farsi beccare a sbirciare Lisa sotto la doccia"
 
     # game/core/screens.rpy:1705
-msgid "Предпочтения в сладостях:"
+    old "Предпочтения в сладостях:"
 msgstr "Preferenze nei dolci:"
 
     # game/core/screens.rpy:1709
-msgid "Любит \"Ritter Sport\""
+    old "Любит \"Ritter Sport\""
 msgstr "Ama \"Ritter Sport\""
 
     # game/core/screens.rpy:1711
-msgid "Сгодится \"Raffaello\""
+    old "Сгодится \"Raffaello\""
 msgstr "\"Raffaello\" farà"
 
     # game/core/screens.rpy:1713
-msgid "Ненавидит \"Ferrero Rocher\""
+    old "Ненавидит \"Ferrero Rocher\""
 msgstr "Odia \"Ferrero Rocher\""
 
     # game/core/screens.rpy:1718
-msgid "Предпочтения в массаже:"
+    old "Предпочтения в массаже:"
 msgstr "Preferenze di massaggio:"
 
     # game/core/screens.rpy:1721
-msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+    old "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
 msgstr "- Dopo un massaggio alle mani, Lisa può lasciare che le sue spalle (e non solo loro) vengano massaggiate quando fa i compiti"
 
     # game/core/screens.rpy:1725
-msgid "Лучше пока не попадаться на подглядывании за Алисой в душе"
+    old "Лучше пока не попадаться на подглядывании за Алисой в душе"
 msgstr "Meglio non essere ancora sorpresi a sbirciare Alice sotto la doccia"
 
     # game/core/screens.rpy:1733
-msgid "Любит \"Ferrero Rocher\""
+    old "Любит \"Ferrero Rocher\""
 msgstr "Ama \"Ferrero Rocher\""
 
     # game/core/screens.rpy:1735
-msgid "Сгодится \"Ritter Sport\""
+    old "Сгодится \"Ritter Sport\""
 msgstr "Vestibilità \"Ritter Sport\""
 
     # game/core/screens.rpy:1737
-msgid "Ненавидит \"Raffaello\""
+    old "Ненавидит \"Raffaello\""
 msgstr "Odia \"Raffaello\""
 
     # game/core/screens.rpy:1741
-msgid "Действие алкоголя:"
+    old "Действие алкоголя:"
 msgstr "Effetto dell'alcol:"
 
     # game/core/screens.rpy:1744
-msgid "???"
+    old "???"
 msgstr "???"
 
     # game/core/screens.rpy:1748
-msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
+    old "- Не может вспомнить всё, что происходило, пока она была пьяна"
 msgstr "- Non riesco a ricordare tutto ciò che è successo mentre era ubriaca"
 
     # game/core/screens.rpy:1754
-msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+    old "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
 msgstr "- Se inizi un massaggio per Alice nel cortile con un piede, allora la probabilità di massaggiare il resto è maggiore"
 
     # game/core/screens.rpy:1756
-msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+    old "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
 msgstr "- Con l'aiuto di caramelle con liquore, è possibile ottenere un lavoro ai piedi (e non solo) da Alice durante un massaggio in TV"
 
     # game/core/screens.rpy:1758
-msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+    old "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
 msgstr "- Avendo ricevuto un lavoro ai piedi da Alice durante un massaggio in TV, c'è la possibilità di vedere attraverso la telecamera come si masturba prima di coricarsi"
 
     # game/core/screens.rpy:1801
-msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+    old "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
 msgstr "IMPOSTA ABITI DA PERSONAGGIO"
 
     # game/core/screens.rpy:1898
-msgid "Автосмена каждые 2 дня"
+    old "Автосмена каждые 2 дня"
 msgstr "Cambio automatico ogni 2 giorni"
 
     # game/core/screens.rpy:1909
-msgid "Сделать текущей"
+    old "Сделать текущей"
 msgstr "Rendi corrente"
 
     # game/core/screens.rpy:1957
-msgid "[view_cam[1].public]"
+    old "[view_cam[1].public]"
     view_cam[1].public]"
 
     # game/core/screens.rpy:2039
-msgid "ВНИМАНИЕ"
+    old "ВНИМАНИЕ"
 msgstr "ATTENZIONE"
 
     # game/core/screens.rpy:2040
-msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+    old "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 msgstr "CONTENUTI PER ADULTI"
 
     # game/core/screens.rpy:2044
-msgid "Эта игра содержит контент сексуального характера"
+    old "Эта игра содержит контент сексуального характера"
 msgstr "Questo gioco contiene contenuti di natura sessuale"
 
     # game/core/screens.rpy:2045
-msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+    old "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 msgstr "Continuando, confermi di essere abbastanza grande per questi contenuti"
 
     # game/core/screens.rpy:2047
-msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+    old "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 msgstr "Tutti i personaggi rappresentati in questo gioco sono immaginari e hanno più di 18 anni"
 
     # game/core/screens.rpy:2051
-msgid "Продолжить"
+    old "Продолжить"
 msgstr "Continua"
 

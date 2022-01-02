@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -12,46 +12,46 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2021-12-05 15:47\n"
 
-msgid "Ужасное"
+    old "Ужасное"
 msgstr "Terribile"
 
     # game/core/01classes.rpy:658
-msgid "Очень плохое"
+    old "Очень плохое"
 msgstr "Molto male"
 
     # game/core/01classes.rpy:658
-msgid "Плохое"
+    old "Плохое"
 msgstr "Cattivo"
 
     # game/core/01classes.rpy:658
-msgid "Не очень"
+    old "Не очень"
 msgstr "Non molto"
 
     # game/core/01classes.rpy:658
-msgid "Нейтральное"
+    old "Нейтральное"
 msgstr "Neutrale"
 
     # game/core/01classes.rpy:658
-msgid "Неплохое"
+    old "Неплохое"
 msgstr "Decente"
 
     # game/core/01classes.rpy:658
-msgid "Хорошее"
+    old "Хорошее"
 msgstr "Buono"
 
     # game/core/01classes.rpy:658
-msgid "Очень хорошее"
+    old "Очень хорошее"
 msgstr "Molto bene"
 
     # game/core/01classes.rpy:658
-msgid "Прекрасное"
+    old "Прекрасное"
 msgstr "Perfetto"
 
     # game/core/01classes.rpy:1047
-msgid "Приобретен пакет рекламы"
+    old "Приобретен пакет рекламы"
 msgstr "Acquistato un pacchetto pubblicitario"
 
     # game/core/01classes.rpy:1292
-msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+    old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "{color=[lime]}{i}{b}Attenzione:{/b} Si è presentata una nuova \"opportunità\"!{/i}{/color}"
 

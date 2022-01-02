@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -90,19 +90,19 @@ translate frenh after_load_e53fbeb7:
     # _ver [_version], conf.ver [config.version]"
 msgstr "_ver [_version], conf.ver [config.version]"
 
-msgid "В интернет-магазине доступен новый товар."
+    old "В интернет-магазине доступен новый товар."
 msgstr "Un nouveau produit est disponible dans la boutique en ligne."
 
     # game/core/core.rpy:677
-msgid "{i}идти на веранду{/i}"
+    old "{i}идти на веранду{/i}"
 msgstr "{i}Aller à la véranda{/i}"
 
     # game/core/core.rpy:677
-msgid "{i}не сейчас{/i}"
+    old "{i}не сейчас{/i}"
 msgstr "{i}pas maintenant{/i}"
 
     # game/core/core.rpy:908
-msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
+    old "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
 msgstr "C'est intéressant ! J'ai dit à Alice, par intérêt, que je ne voulais plus prendre sa défense lorsqu'elle était punie, mais que j'étais prêt à continuer à le faire si elle acceptait de recevoir une fessée de ma part.\n"
@@ -110,7 +110,7 @@ msgstr "C'est intéressant ! J'ai dit à Alice, par intérêt, que je ne voulais
 "Il y a, cependant, une petite nuance qui a fait qu'Alice a accepté... J'ai promis de lui donner une fessée par trop forte. Ouais, ça ne va pas être facile de résister à la gifler violemment pour avoir été une telle salope..."
 
     # game/core/core.rpy:908
-msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
+    old "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
 msgstr "Le spectacle est vraiment fascinant! Peu de gens ont réussi à déshabiller et fesser leur grande sœur...\n"

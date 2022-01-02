@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -12,14 +12,14 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2021-10-29 16:11\n"
 
-msgid "Мама"
+    old "Мама"
 msgstr "Maman"
 
     # game/core/characters.rpy:356
-msgid "Майя"
+    old "Майя"
 msgstr "Maya"
 
     # game/core/characters.rpy:369
-msgid "Сэм"
+    old "Сэм"
 msgstr "Sam"
 

@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -216,34 +216,34 @@ translate frenh about_poss_95f72849:
     # [Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
     Max_04]Mais vous ne devez pas non plus en avoir peur. C'est grâce à des 'opportunités' que vous pouvez réaliser des choses dont certaines personnes ne rêvent même pas ![nointeract]"
 
-msgid "{i}далее{/i}"
+    old "{i}далее{/i}"
 msgstr "{i}suivant{/i}"
 
     # game/script.rpy:57
-msgid "{i}пропустить{/i}"
+    old "{i}пропустить{/i}"
 msgstr "{i}sauter - skipper{/i}"
 
     # game/script.rpy:85
-msgid "{i}пару недель спустя...{/i}"
+    old "{i}пару недель спустя...{/i}"
 msgstr "{i}quelques semaines plus tard... {/i}"
 
     # game/script.rpy:98
-msgid "{i}спустя неделю...{/i}"
+    old "{i}спустя неделю...{/i}"
 msgstr "{i}une semaine plus tard... {/i}"
 
     # game/script.rpy:104
-msgid "{i}Начать игру{/i}"
+    old "{i}Начать игру{/i}"
 msgstr "{i}Démarrer le jeu{/i}"
 
     # game/script.rpy:104
-msgid "{i}Повторить историю{/i}"
+    old "{i}Повторить историю{/i}"
 msgstr "{i}Répéter le prologue{/i}"
 
     # game/script.rpy:121
-msgid "{i}всё ясно{/i}"
+    old "{i}всё ясно{/i}"
 msgstr "{i}tout est clair{/i}"
 
     # game/script.rpy:121
-msgid "{i}повторить{/i}"
+    old "{i}повторить{/i}"
 msgstr "{i}répéter{/i}"
 

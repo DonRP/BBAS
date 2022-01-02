@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -12,26 +12,26 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2021-09-26 08:55\n"
 
-msgid "курит"
+    old "курит"
 msgstr "fuma"
 
     # game/core/05_schedule.rpy:7
-msgid "в бассейне"
+    old "в бассейне"
 msgstr "in piscina"
 
     # game/core/05_schedule.rpy:74
-msgid "спит (утро)"
+    old "спит (утро)"
 msgstr "dorme (mattina)"
 
     # game/core/05_schedule.rpy:74
-msgid "в своей комнате"
+    old "в своей комнате"
 msgstr "in camera"
 
     # game/core/05_schedule.rpy:74
-msgid "читает на веранде"
+    old "читает на веранде"
 msgstr "si legge in veranda"
 
     # game/core/05_schedule.rpy:162
-msgid "семейный ужин"
+    old "семейный ужин"
 msgstr "cena in famiglia"
 

@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -1446,70 +1446,70 @@ translate italian Eric_tribute_no_money_dd72ca96:
     # [Eric_13]Скоро узнаешь. А теперь проваливай![nointeract]"
     Eric_13]Lo scoprirai presto. Ora sparisci![nointeract]"
 
-msgid "{i}В другой раз...{/i}"
+    old "{i}В другой раз...{/i}"
 msgstr "{i}Un'altra volta... {/i}"
 
     # game/dialogues/erictalk.rpy:55
-msgid "Э... Ну не совсем так..."
+    old "Э... Ну не совсем так..."
 msgstr "Uh... Beh, non esattamente..."
 
     # game/dialogues/erictalk.rpy:55
-msgid "А так можно?"
+    old "А так можно?"
 msgstr "E' possibile?"
 
     # game/dialogues/erictalk.rpy:65
-msgid "Кстати, как ты это делаешь?"
+    old "Кстати, как ты это делаешь?"
 msgstr "A proposito, come si fa?"
 
     # game/dialogues/erictalk.rpy:65
-msgid "Отлично! Спасибо, Эрик."
+    old "Отлично! Спасибо, Эрик."
 msgstr "È fantastico! Grazie, Eric."
 
     # game/dialogues/erictalk.rpy:71
-msgid "Это угроза?"
+    old "Это угроза?"
 msgstr "È una minaccia?"
 
     # game/dialogues/erictalk.rpy:71
-msgid "Хорошо, Эрик!"
+    old "Хорошо, Эрик!"
 msgstr "Va bene, Eric!"
 
     # game/dialogues/erictalk.rpy:159
-msgid "{i}сесть на кровать{/i}"
+    old "{i}сесть на кровать{/i}"
 msgstr "{i}siedono sul letto{/i}"
 
     # game/dialogues/erictalk.rpy:174
-msgid "{i}слегка подвинуться{/i}"
+    old "{i}слегка подвинуться{/i}"
 msgstr "{i}spostati leggermente{/i}"
 
     # game/dialogues/erictalk.rpy:235
-msgid "{i}смотреть, как мама сосёт{/i}"
+    old "{i}смотреть, как мама сосёт{/i}"
 msgstr "{i}guarda la mamma succhiare{/i}"
 
     # game/dialogues/erictalk.rpy:294
-msgid "{i}пересесть{/i}"
+    old "{i}пересесть{/i}"
 msgstr "{i}cambiare{/i}"
 
     # game/dialogues/erictalk.rpy:339
-msgid "Нет, можешь обучать... (продолжение дружбы)"
+    old "Нет, можешь обучать... (продолжение дружбы)"
 msgstr "No, puoi insegnare... (continuazione dell'amicizia)"
 
     # game/dialogues/erictalk.rpy:339
-msgid "А ей не рановато? (попытка выиграть время)"
+    old "А ей не рановато? (попытка выиграть время)"
 msgstr "Non è troppo presto? (cercando di guadagnare tempo)"
 
     # game/dialogues/erictalk.rpy:339
-msgid "Лизу тебе не отдам! (продолжение вражды)"
+    old "Лизу тебе не отдам! (продолжение вражды)"
 msgstr "Non ti darò Lisa! (continuazione della faida)"
 
     # game/dialogues/erictalk.rpy:473
-msgid "Значит, тебя её блог интересует? (продолжение дружбы)"
+    old "Значит, тебя её блог интересует? (продолжение дружбы)"
 msgstr "Quindi sei interessato al suo blog? (continuazione dell'amicizia)"
 
     # game/dialogues/erictalk.rpy:473
-msgid "Я мало что об этом знаю... (попытка выиграть время)"
+    old "Я мало что об этом знаю... (попытка выиграть время)"
 msgstr "Non ne so molto... (cercando di guadagnare tempo)"
 
     # game/dialogues/erictalk.rpy:473
-msgid "Вот у неё и спрашивай! (продолжение вражды)"
+    old "Вот у неё и спрашивай! (продолжение вражды)"
 msgstr "Chiediglielo! (continuazione della faida)"
 

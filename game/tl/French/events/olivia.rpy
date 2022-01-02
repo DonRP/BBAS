@@ -1,4 +1,4 @@
-# msgid ""
+#     old ""
 # msgstr ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -1290,26 +1290,26 @@ translate frenh olivia_repeatable_night_out_with_cb768b4d:
     # [Max_01]Приятных снов."
     Max_01]Faites de beaux rêves."
 
-msgid "{i}подсмотреть{/i}"
+    old "{i}подсмотреть{/i}"
 msgstr "{i}espionner{/i}"
 
     # game/events/olivia.rpy:92
-msgid "{i}дождаться девчонок{/i}"
+    old "{i}дождаться девчонок{/i}"
 msgstr "{i}attendre les filles{/i}"
 
     # game/events/olivia.rpy:178
-msgid "Конечно с вами!"
+    old "Конечно с вами!"
 msgstr "Bien sûr, avec vous !"
 
     # game/events/olivia.rpy:291
-msgid "Я с вами!"
+    old "Я с вами!"
 msgstr "J'en suis !"
 
     # game/events/olivia.rpy:379
-msgid "{i}раздеться и сесть рядом{/i}"
+    old "{i}раздеться и сесть рядом{/i}"
 msgstr "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
 
     # game/events/olivia.rpy:631
-msgid "{i}идти в свою комнату{/i}"
+    old "{i}идти в свою комнату{/i}"
 msgstr "{i}allez dans votre chambre{/i}"
 
