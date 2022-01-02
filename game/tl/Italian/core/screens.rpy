@@ -104,7 +104,8 @@
     new "ENTRATE DA VISUALIZZAZIONI"
 
     # game/core/screens.rpy:774
-    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."\n   new "Ogni visita alle pagine del tuo sito porta un piccolo reddito. Aumenta il tuo pubblico e guadagna sulla pubblicità!\n\nImporto minimo di prelievo una tantum: $ 100."
+    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."
+    new "Ogni visita alle pagine del tuo sito porta un piccolo reddito. Aumenta il tuo pubblico e guadagna sulla pubblicità!\n\nImporto minimo di prelievo una tantum: $ 100."
 
     # game/core/screens.rpy:775
     old "На вашем счете $[paid]"
@@ -123,7 +124,8 @@
     new "RETE DI BANNER PUBBLICITARI"
 
     # game/core/screens.rpy:812
-    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"\n   new "Un'offerta unica solo per te! La nostra rete di banner è progettata per i clienti con richieste speciali ed è pronta a trasmettere la tua pubblicità al pubblico di destinazione.\n\nPer ogni pacchetto che paghi per ora, garantiamo 10.000 impressioni degli annunci del tuo sito web nel prossimo futuro!"
+    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+    new "Un'offerta unica solo per te! La nostra rete di banner è progettata per i clienti con richieste speciali ed è pronta a trasmettere la tua pubblicità al pubblico di destinazione.\n\nPer ogni pacchetto che paghi per ora, garantiamo 10.000 impressioni degli annunci del tuo sito web nel prossimo futuro!"
 
     # game/core/screens.rpy:814
     old "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"

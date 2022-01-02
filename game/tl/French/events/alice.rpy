@@ -4051,7 +4051,8 @@ translate frenh blog_with_Eric_9660eef6:
     new "{i}ouvrir la porte{/i}"
 
     # game/events/alice.rpy:2464
-    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\n   new "Eh bien, sauf si c'est comme ça....\n{i}(commencer à masser sa chatte avec la main){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+    new "Eh bien, sauf si c'est comme ça....\n{i}(commencer à masser sa chatte avec la main){/i}"
 
     # game/events/alice.rpy:2464
     old "Поласкай свою киску для меня..."

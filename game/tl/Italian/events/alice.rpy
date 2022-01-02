@@ -4051,7 +4051,8 @@ translate italian blog_with_Eric_9660eef6:
     new "{i}apri la porta{/i}"
 
     # game/events/alice.rpy:2464
-    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\n   new "Beh, a parte questo...\n{i}(inizia a massaggiarla con la mano){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+    new "Beh, a parte questo...\n{i}(inizia a massaggiarla con la mano){/i}"
 
     # game/events/alice.rpy:2464
     old "Поласкай свою киску для меня..."

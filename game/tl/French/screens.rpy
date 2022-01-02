@@ -37,7 +37,7 @@
 
     # game/screens.rpy:271
     old "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-    txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
+    new "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
     # game/screens.rpy:333
     old "История"

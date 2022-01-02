@@ -11298,7 +11298,8 @@ translate frenh alice_help_carry_plates_2edc33ad:
     new "{i}faire un massage avec la crème{/i}"
 
     # game/dialogues/alicetalk.rpy:2647
-    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"\n   new "{i}{color=[gray]}faire un massage avec la crème{/color}{color=[red]}\nla crème n'est pas suffisante{/color}{/i}"
+    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+    new "{i}{color=[gray]}faire un massage avec la crème{/color}{color=[red]}\nla crème n'est pas suffisante{/color}{/i}"
 
     # game/dialogues/alicetalk.rpy:2647
     old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"

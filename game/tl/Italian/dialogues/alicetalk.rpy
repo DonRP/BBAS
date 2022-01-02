@@ -11298,7 +11298,8 @@ translate italian alice_help_carry_plates_2edc33ad:
     new "massaggio {i}con crema{/i}"
 
     # game/dialogues/alicetalk.rpy:2647
-    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"\n   new "{i}{color=[gray]}massaggio con crema{/color}{color=[red]}\ncrema non basta{/color}{/i}"
+    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+    new "{i}{color=[gray]}massaggio con crema{/color}{color=[red]}\ncrema non basta{/color}{/i}"
 
     # game/dialogues/alicetalk.rpy:2647
     old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
