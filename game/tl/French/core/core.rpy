@@ -12,55 +12,68 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2021-12-27 09:42\n"
 
-# game/core/core.rpy:496## # translate frenh AfterWaiting_c2510a45:
+# game/core/core.rpy:496
+translate frenh AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
 msgstr "[Max_00]Je suis trop fatigué. Je devrais faire une sieste..."
 
-# game/core/core.rpy:641## # translate frenh night_of_fun_cae91685:
+# game/core/core.rpy:641
+translate frenh night_of_fun_cae91685:
 msgid "[Max_19]Теперь можно спокойно спать и ничего больше..."
 msgstr "[Max_19]Maintenant, je peux dormir paisiblement et rien de plus..."
 
-# game/core/core.rpy:678## # translate frenh cam_after_waiting_6058d5d4:
+# game/core/core.rpy:678
+translate frenh cam_after_waiting_6058d5d4:
 msgid "[Max_09]Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
 msgstr "[Max_09]Je ne pense pas que ce soit une bonne idée de visionner les caméras maintenant. Je ne veux pas que Lisa remarque quoi que ce soit... Je devrais peut-être aller dans la véranda. Il ne devrait plus y avoir personne maintenant....[nointeract]"
 
-# game/core/core.rpy:685## # translate frenh cam_after_waiting_c283f316:
+# game/core/core.rpy:685
+translate frenh cam_after_waiting_c283f316:
 msgid "[Max_09]Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
 msgstr "[Max_09]Lisa est dans la chambre maintenant... Et la véranda est occupée! Il est préférable de ne pas prendre de risques et d'attendre pour visionner les caméras."
 
-# game/core/core.rpy:690## # translate frenh cam_after_waiting_38f46f18:
+# game/core/core.rpy:690
+translate frenh cam_after_waiting_38f46f18:
 msgid "[Max_09]Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...[nointeract]"
 msgstr "[Max_09]Mieux vaut visionner les caméras ailleurs! Il ne faudrait pas que Lisa se doute de quelque chose...[nointeract]"
 
-# game/core/core.rpy:702## # translate frenh cam_after_waiting_d4f49617:
+# game/core/core.rpy:702
+translate frenh cam_after_waiting_d4f49617:
 msgid "[Max_09]Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
 msgstr "[Max_09]Peut-être ne devrais-je pas visionner les caméras maintenant. Lisa pourrait se réveiller et remarquer ce que je fais... Peut-être devrais-je aller à la véranda? Il ne devrait y avoir personne là-bas maintenant...[nointeract]"
 
-# game/core/core.rpy:709## # translate frenh cam_after_waiting_c283f316_1:
+# game/core/core.rpy:709
+translate frenh cam_after_waiting_c283f316_1:
 msgid "[Max_09]Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
 msgstr "[Max_09]Lisa est dans la chambre maintenant... Et la véranda est occupée! Il est préférable de ne pas prendre de risques et d'attendre pour visionner les caméras."
 
-# game/core/core.rpy:714## # translate frenh cam_after_waiting_eea92f18:
+# game/core/core.rpy:714
+translate frenh cam_after_waiting_eea92f18:
 msgid "[Max_09]Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...[nointeract]"
 msgstr "[Max_09]Mieux vaut visionner les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais...[nointeract]"
 
-# game/core/core.rpy:766## # translate frenh cam_after_waiting_27f05bf1:
+# game/core/core.rpy:766
+translate frenh cam_after_waiting_27f05bf1:
 msgid "[Max_00]Сейчас здесь ничего не происходит."
 msgstr "[Max_00]Rien ne se passe ici en ce moment."
 
-# game/core/core.rpy:801## # translate frenh after_buying_27b33f97:
+# game/core/core.rpy:801
+translate frenh after_buying_27b33f97:
 msgid "[Max_01]{m}Так, фотокамеру я заказал, осталось дождаться доставки...{/m}"
 msgstr "[Max_01]{m}Alors, j’ai commandé l’appareil photo, il reste plu qu'à attendre la livraison... {/m}"
 
-# game/core/core.rpy:802## # translate frenh after_buying_46e6b997:
+# game/core/core.rpy:802
+translate frenh after_buying_46e6b997:
 msgid "[Max_07]{m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
 msgstr "[Max_07]{m}je me demande dans quel vêtements tante Kira voudra être photographiée? Elle en a besoin pour un portfolio... Alors peut-être que je devrais acheter quelque chose de sexy pour elle?! Par exemple, une chemise de nuit plus sexy! Cela sera un plus...{/m}"
 
-# game/core/core.rpy:821## # translate frenh after_load_84f87582:
+# game/core/core.rpy:821
+translate frenh after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
 msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
-# game/core/core.rpy:827## # translate frenh after_load_e53fbeb7:
+# game/core/core.rpy:827
+translate frenh after_load_e53fbeb7:
 msgid "_ver [_version], conf.ver [config.version]"
 msgstr "_ver [_version], conf.ver [config.version]"
 

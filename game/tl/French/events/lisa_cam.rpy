@@ -12,119 +12,148 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2021-11-11 11:00\n"
 
-# game/events/lisa_cam.rpy:8## # translate frenh cam0_lisa_sleep_night_cab47b53:
+# game/events/lisa_cam.rpy:8
+translate frenh cam0_lisa_sleep_night_cab47b53:
 msgid "[Max_01]Лиза сладко спит..."
 msgstr "[Max_01]Lisa dort gentiment..."
 
-# game/events/lisa_cam.rpy:17## # translate frenh cam0_lisa_sleep_morning_36c03e6c:
+# game/events/lisa_cam.rpy:17
+translate frenh cam0_lisa_sleep_morning_36c03e6c:
 msgid "[Max_01]Лиза ещё спит..."
 msgstr "[Max_01]Lisa dort encore..."
 
-# game/events/lisa_cam.rpy:26## # translate frenh cam0_lisa_shower_cf65001d:
+# game/events/lisa_cam.rpy:26
+translate frenh cam0_lisa_shower_cf65001d:
 msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
 msgstr "[Max_09]Lisa ne peut pas être vue à travers cette caméra... Je regarde sur l'autre ?"
 
-# game/events/lisa_cam.rpy:28## # translate frenh cam0_lisa_shower_99a12737:
+# game/events/lisa_cam.rpy:28
+translate frenh cam0_lisa_shower_99a12737:
 msgid "[Max_09]Лизы не видно через эту камеру..."
 msgstr "[Max_09]Lisa ne peut pas être vue à travers cette caméra..."
 
-# game/events/lisa_cam.rpy:36## # translate frenh cam0_lisa_shower_30b79938:
+# game/events/lisa_cam.rpy:36
+translate frenh cam0_lisa_shower_30b79938:
 msgid "[Max_04]Младшая сестрёнка принимает душ... Прекрасная Лиза - прекрасное утро!"
 msgstr "[Max_04]Ma petite sœur prend une douche... Belle Lisa - belle matinée !"
 
-# game/events/lisa_cam.rpy:53## # translate frenh cam1_lisa_shower_d17010c3:
+# game/events/lisa_cam.rpy:53
+translate frenh cam1_lisa_shower_d17010c3:
 msgid "[Max_03]Лиза, прежде чем принять душ, любуется собой перед зеркалом. И мы этим со зрителями тоже полюбуемся..."
 msgstr "[Max_03]Lisa, avant de prendre une douche, s'admire devant le miroir. Et moi, ainsi que le public, l'admirons aussi..."
 
-# game/events/lisa_cam.rpy:59## # translate frenh cam1_lisa_shower_cf65001d:
+# game/events/lisa_cam.rpy:59
+translate frenh cam1_lisa_shower_cf65001d:
 msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
 msgstr "[Max_09]Lisa ne peut pas être vue à travers cette caméra... Je regarde sur l'autre ?"
 
-# game/events/lisa_cam.rpy:67## # translate frenh cam0_lisa_read_b78fc025:
+# game/events/lisa_cam.rpy:67
+translate frenh cam0_lisa_read_b78fc025:
 msgid "[Max_07]Люблю смотреть, как Лиза читает. Вернее, люблю позы, в которых она читает..."
 msgstr "[Max_07]J'adore regarder Lisa lire. Ou plutôt, j'aime les poses dans lesquelles elle lit..."
 
-# game/events/lisa_cam.rpy:75## # translate frenh cam0_lisa_repeats_homework_f0fb26d2:
+# game/events/lisa_cam.rpy:75
+translate frenh cam0_lisa_repeats_homework_f0fb26d2:
 msgid "[Max_01]Лиза готовится к сегодняшним урокам в школе. Какая умничка..."
 msgstr "[Max_01]Lisa se prépare pour les leçons d'aujourd'hui à l'école. Quelle fille intelligente..."
 
-# game/events/lisa_cam.rpy:212## # translate frenh cam0_lisa_dressed_f7db1942:
+# game/events/lisa_cam.rpy:212
+translate frenh cam0_lisa_dressed_f7db1942:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
 msgstr "[Max_09]Je ne vois plus rien d'intéressant ici, Lisa est complètement habillée."
 
-# game/events/lisa_cam.rpy:232## # translate frenh cam0_lisa_dressed_e79b2255:
+# game/events/lisa_cam.rpy:232
+translate frenh cam0_lisa_dressed_e79b2255:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
 msgstr "[Max_07]Excellent! Lisa s'habille pour aller à l'école...[nointeract]"
 
-# game/events/lisa_cam.rpy:234## # translate frenh cam0_lisa_dressed_2978876d:
+# game/events/lisa_cam.rpy:234
+translate frenh cam0_lisa_dressed_2978876d:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
 msgstr "[Max_07]Excellent! Lisa qui s'habille pour aller faire du shopping...[nointeract]"
 
-# game/events/lisa_cam.rpy:236## # translate frenh cam0_lisa_dressed_80e887bc:
+# game/events/lisa_cam.rpy:236
+translate frenh cam0_lisa_dressed_80e887bc:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться к репетитору...[nointeract]"
 msgstr "[Max_07]Excellent! Lisa s'habille pour aller chez son tuteur...[nointeract]"
 
-# game/events/lisa_cam.rpy:238## # translate frenh cam0_lisa_dressed_413010f3:
+# game/events/lisa_cam.rpy:238
+translate frenh cam0_lisa_dressed_413010f3:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на прогулку...[nointeract]"
 msgstr "[Max_07]Excellent! Lisa qui s'habille pour aller en promenade...[nointeract]"
 
-# game/events/lisa_cam.rpy:250## # translate frenh cam0_lisa_dressed_e61ca9e9:
+# game/events/lisa_cam.rpy:250
+translate frenh cam0_lisa_dressed_e61ca9e9:
 msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
 msgstr "[Max_02]Ugh ! Maintenant elle est nue et si mignonne...[nointeract]"
 
-# game/events/lisa_cam.rpy:265## # translate frenh cam0_lisa_dressed_e16161a7:
+# game/events/lisa_cam.rpy:265
+translate frenh cam0_lisa_dressed_e16161a7:
 msgid "[Max_04]Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!"
 msgstr "[Max_04]C'est pas cool que ma petite sœur soit une écolière si séduisante ? Je suis sûr que le public adore ça !"
 
-# game/events/lisa_cam.rpy:267## # translate frenh cam0_lisa_dressed_639be09f:
+# game/events/lisa_cam.rpy:267
+translate frenh cam0_lisa_dressed_639be09f:
 msgid "[Max_04]Повезло мне с сестрёнкой! Обворожительна в любой одежде и ещё больше - без неё..."
 msgstr "[Max_04]J'ai de la chance avec ma sœur ! Charmante dans n'importe quelle tenue et encore plus sans..."
 
-# game/events/lisa_cam.rpy:275## # translate frenh cam0_lisa_sun_fafb408a:
+# game/events/lisa_cam.rpy:275
+translate frenh cam0_lisa_sun_fafb408a:
 msgid "[Max_01]Лиза загорает и радует этим моих зрителей! И меня, конечно же..."
 msgstr "[Max_01]Lisa prend un bain de soleil et en fait profiter mes téléspectateurs ! Et moi, bien sûr..."
 
-# game/events/lisa_cam.rpy:282## # translate frenh cam1_lisa_sun_ce238a73:
+# game/events/lisa_cam.rpy:282
+translate frenh cam1_lisa_sun_ce238a73:
 msgid "[Max_09]Через эту камеру ничего не видно... Может посмотреть через другую?"
 msgstr "[Max_09]On ne peut rien voir à travers cette caméra... Je regarde sur une autre ?"
 
-# game/events/lisa_cam.rpy:290## # translate frenh cam0_lisa_swim_39c0bef3:
+# game/events/lisa_cam.rpy:290
+translate frenh cam0_lisa_swim_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
 msgstr "[Max_09]On ne peut pas vraiment voir quelque chose... Ça vaut la peine de regarder dans une autre caméra..."
 
-# game/events/lisa_cam.rpy:292## # translate frenh cam0_lisa_swim_06c19036:
+# game/events/lisa_cam.rpy:292
+translate frenh cam0_lisa_swim_06c19036:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
 msgstr "[Max_09]On ne voit rien... Je dois installer une caméra qui couvre toute la piscine..."
 
-# game/events/lisa_cam.rpy:300## # translate frenh cam1_lisa_swim_0cc13309:
+# game/events/lisa_cam.rpy:300
+translate frenh cam1_lisa_swim_0cc13309:
 msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички..."
 msgstr "[Max_01]C'est bien de regarder ma petite sœur à l'eau..."
 
-# game/events/lisa_cam.rpy:309## # translate frenh cam0_lisa_dishes_0b71076a:
+# game/events/lisa_cam.rpy:309
+translate frenh cam0_lisa_dishes_0b71076a:
 msgid "[Max_01]Лиза моет посуду. А ведь я мог бы ей помочь..."
 msgstr "[Max_01]Lisa fait la vaisselle. Et je pourrais l'aider..."
 
-# game/events/lisa_cam.rpy:319## # translate frenh cam0_lisa_phone_14f355ab:
+# game/events/lisa_cam.rpy:319
+translate frenh cam0_lisa_phone_14f355ab:
 msgid "[Max_01]Сестрёнка бездельничает и залипла в свой телефон. Но лежит красиво..."
 msgstr "[Max_01]Ma sœur est en train de pianoter sur son téléphone. Mais c'est beau..."
 
-# game/events/lisa_cam.rpy:329## # translate frenh cam0_lisa_bath_b32c78c2:
+# game/events/lisa_cam.rpy:329
+translate frenh cam0_lisa_bath_b32c78c2:
 msgid "[Max_01]Лиза почти набрала воду, хотя я смотрю на кое-что другое..."
 msgstr "[Max_01]Lisa a presque pris de l'eau, même si je regarde autre chose..."
 
-# game/events/lisa_cam.rpy:336## # translate frenh cam0_lisa_bath_4e37cfa9:
+# game/events/lisa_cam.rpy:336
+translate frenh cam0_lisa_bath_4e37cfa9:
 msgid "[Max_04]Эх, Лиза... Не вытирайся! Ты мокренькая тоже обалденная..."
 msgstr "[Max_04]Oh, Lisa... Ne t'essuies pas ! Tu es aussi génial mouillée..."
 
-# game/events/lisa_cam.rpy:342## # translate frenh cam0_lisa_bath_8714e3c3:
+# game/events/lisa_cam.rpy:342
+translate frenh cam0_lisa_bath_8714e3c3:
 msgid "[Max_05]Давай, сестрёнка, не стесняйся показать как можно больше всего интересного..."
 msgstr "[Max_05]Allez, ma sœur, n'hésites pas à montrer autant de choses intéressantes que tu veux..."
 
-# game/events/lisa_cam.rpy:349## # translate frenh cam1_lisa_bath_cf65001d:
+# game/events/lisa_cam.rpy:349
+translate frenh cam1_lisa_bath_cf65001d:
 msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
 msgstr "[Max_09]Lisa ne peut pas être vue à travers cette caméra... Je regarde sur l'autre ?"
 
-# game/events/lisa_cam.rpy:357## # translate frenh cam0_lisa_homework_8bf186e7:
+# game/events/lisa_cam.rpy:357
+translate frenh cam0_lisa_homework_8bf186e7:
 msgid "[Max_01]Лиза учит уроки. Может, стоило ей помочь?!"
 msgstr "[Max_01]Lisa apprend ses leçons. Peut-être que j'aurais dû l'aider ?!"
 
