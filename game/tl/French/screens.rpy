@@ -38,7 +38,7 @@ msgstr "secret, "
 #    # game/screens.rpy:271
 msgid "[txt] \n"
 "{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-msgstr "[txt] \n"
+    txt] \n"
 "{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
 #    # game/screens.rpy:333

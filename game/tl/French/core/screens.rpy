@@ -45,7 +45,7 @@ msgstr "Dettes: {color=[_col]}$[mgg.credit.debt]{/color}"
 
 #    # game/core/screens.rpy:484
 msgid "[mgg.credit.left] дней на погашение"
-msgstr "[mgg.credit.left] jours pour rembourser"
+    mgg.credit.left] jours pour rembourser"
 
 #    # game/core/screens.rpy:486
 msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
@@ -111,7 +111,7 @@ msgstr "Chaque visite sur les pages de votre site web génère un petit revenu. 
 
 #    # game/core/screens.rpy:775
 msgid "На вашем счете $[paid]"
-msgstr "[paid]$ dans votre compte"
+    paid]$ dans votre compte"
 
 #    # game/core/screens.rpy:777
 msgid "Забрать $[paid]"
@@ -357,7 +357,7 @@ msgstr "Utiliser comme vêtements actuel"
 
 #    # game/core/screens.rpy:1957
 msgid "[view_cam[1].public]"
-msgstr "[view_cam[1].public]"
+    view_cam[1].public]"
 
 #    # game/core/screens.rpy:2039
 msgid "ВНИМАНИЕ"

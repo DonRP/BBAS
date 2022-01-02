@@ -45,7 +45,7 @@ msgstr "Debito: {color=[_col]}$[mgg.credit.debt]{/color}"
 
 #    # game/core/screens.rpy:484
 msgid "[mgg.credit.left] дней на погашение"
-msgstr "[mgg.credit.left] giorni per rimborsare"
+    mgg.credit.left] giorni per rimborsare"
 
 #    # game/core/screens.rpy:486
 msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
@@ -81,7 +81,7 @@ msgstr "Hai già pagato per questo corso e puoi attivare il prossimo video tutor
 
 #    # game/core/screens.rpy:713
 msgid "Занятие [text1] из [text2]"
-msgstr "[text1] da [text2]"
+    text1] da [text2]"
 
 #    # game/core/screens.rpy:717
 msgid "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
@@ -357,7 +357,7 @@ msgstr "Rendi corrente"
 
 #    # game/core/screens.rpy:1957
 msgid "[view_cam[1].public]"
-msgstr "[view_cam[1].public]"
+    view_cam[1].public]"
 
 #    # game/core/screens.rpy:2039
 msgid "ВНИМАНИЕ"
