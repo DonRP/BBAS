@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -193,9 +193,9 @@ translate frenh christina_first_talk_204a6521_1:
     Max_01]Moi aussi, Christine ! Au revoir."
 
     old "Хорошего тебе дня!"
-msgstr "Bonne journée!"
+    new "Bonne journée!"
 
     # game/dialogues/christina.rpy:25
     old "А чем вечером будешь заниматься? Давай погуляем!?"
-msgstr "Que vas-tu faire ce soir? Allons nous nous promener !?"
+    new "Que vas-tu faire ce soir? Allons nous nous promener !?"
 

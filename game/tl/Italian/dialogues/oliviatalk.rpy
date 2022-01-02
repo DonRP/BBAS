@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -769,17 +769,17 @@ translate italian olivia_about_film_punish_nice_view_3e444279:
     Max_01]anche a me. Non annoiarti."
 
     old "Хотя, нет... У меня вообще-то дела есть..."
-msgstr "Anche se, no... In realtà ho cose da fare..."
+    new "Anche se, no... In realtà ho cose da fare..."
 
     # game/dialogues/oliviatalk.rpy:259
     old "Давай перенесём..."
-msgstr "Spostiamoci..."
+    new "Spostiamoci..."
 
     # game/dialogues/oliviatalk.rpy:259
     old "Тогда приятного вам просмотра..."
-msgstr "Allora goditi la tua visione..."
+    new "Allora goditi la tua visione..."
 
     # game/dialogues/oliviatalk.rpy:262
     old "{i}идти в гостиную{/i}"
-msgstr "{i}vai in salotto{/i}"
+    new "{i}vai in salotto{/i}"
 

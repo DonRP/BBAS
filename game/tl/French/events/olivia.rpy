@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -1291,25 +1291,25 @@ translate frenh olivia_repeatable_night_out_with_cb768b4d:
     Max_01]Faites de beaux rêves."
 
     old "{i}подсмотреть{/i}"
-msgstr "{i}espionner{/i}"
+    new "{i}espionner{/i}"
 
     # game/events/olivia.rpy:92
     old "{i}дождаться девчонок{/i}"
-msgstr "{i}attendre les filles{/i}"
+    new "{i}attendre les filles{/i}"
 
     # game/events/olivia.rpy:178
     old "Конечно с вами!"
-msgstr "Bien sûr, avec vous !"
+    new "Bien sûr, avec vous !"
 
     # game/events/olivia.rpy:291
     old "Я с вами!"
-msgstr "J'en suis !"
+    new "J'en suis !"
 
     # game/events/olivia.rpy:379
     old "{i}раздеться и сесть рядом{/i}"
-msgstr "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
+    new "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
 
     # game/events/olivia.rpy:631
     old "{i}идти в свою комнату{/i}"
-msgstr "{i}allez dans votre chambre{/i}"
+    new "{i}allez dans votre chambre{/i}"
 

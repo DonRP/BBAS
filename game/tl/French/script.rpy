@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -217,33 +217,33 @@ translate frenh about_poss_95f72849:
     Max_04]Mais vous ne devez pas non plus en avoir peur. C'est grâce à des 'opportunités' que vous pouvez réaliser des choses dont certaines personnes ne rêvent même pas ![nointeract]"
 
     old "{i}далее{/i}"
-msgstr "{i}suivant{/i}"
+    new "{i}suivant{/i}"
 
     # game/script.rpy:57
     old "{i}пропустить{/i}"
-msgstr "{i}sauter - skipper{/i}"
+    new "{i}sauter - skipper{/i}"
 
     # game/script.rpy:85
     old "{i}пару недель спустя...{/i}"
-msgstr "{i}quelques semaines plus tard... {/i}"
+    new "{i}quelques semaines plus tard... {/i}"
 
     # game/script.rpy:98
     old "{i}спустя неделю...{/i}"
-msgstr "{i}une semaine plus tard... {/i}"
+    new "{i}une semaine plus tard... {/i}"
 
     # game/script.rpy:104
     old "{i}Начать игру{/i}"
-msgstr "{i}Démarrer le jeu{/i}"
+    new "{i}Démarrer le jeu{/i}"
 
     # game/script.rpy:104
     old "{i}Повторить историю{/i}"
-msgstr "{i}Répéter le prologue{/i}"
+    new "{i}Répéter le prologue{/i}"
 
     # game/script.rpy:121
     old "{i}всё ясно{/i}"
-msgstr "{i}tout est clair{/i}"
+    new "{i}tout est clair{/i}"
 
     # game/script.rpy:121
     old "{i}повторить{/i}"
-msgstr "{i}répéter{/i}"
+    new "{i}répéter{/i}"
 

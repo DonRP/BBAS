@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -2119,325 +2119,325 @@ translate italian lisa_eric_zero_practice_war_36c2b900:
     Max_11]{m}è meglio lavare i piatti dopo tutto, a parte Lisa non inizierà a parlarmi presto... {/m}"
 
     old "Понимаю, хорошо..."
-msgstr "Capisco, va bene..."
+    new "Capisco, va bene..."
 
     # game/events/eric.rpy:17
     old "И зачем мне это?"
-msgstr "E perché dovrei?"
+    new "E perché dovrei?"
 
     # game/events/eric.rpy:46
     old "А если нет, то что?"
-msgstr "E se no, cosa?"
+    new "E se no, cosa?"
 
     # game/events/eric.rpy:46
     old "Думаю, подружимся..."
-msgstr "Penso che faremo amicizia..."
+    new "Penso che faremo amicizia..."
 
     # game/events/eric.rpy:58
     old "Это ещё почему?"
-msgstr "Perché?"
+    new "Perché?"
 
     # game/events/eric.rpy:58
     old "Да я не собираюсь воевать..."
-msgstr "Non ho intenzione di combattere..."
+    new "Non ho intenzione di combattere..."
 
     # game/events/eric.rpy:66
     old "Да верю, верю. Я просто спросил и не хочу ссориться..."
-msgstr "Sì, credo, credo. Ho appena chiesto e non voglio litigare..."
+    new "Sì, credo, credo. Ho appena chiesto e non voglio litigare..."
 
     # game/events/eric.rpy:66
     old "Меня все любят и мне поверят, что ты мне угрожал!"
-msgstr "Tutti mi amano e mi crederanno che mi hai minacciato!"
+    new "Tutti mi amano e mi crederanno che mi hai minacciato!"
 
     # game/events/eric.rpy:66
     old "У меня есть мозги и я что-нибудь придумаю!"
-msgstr "Ho il cervello e mi verrà in mente qualcosa!"
+    new "Ho il cervello e mi verrà in mente qualcosa!"
 
     # game/events/eric.rpy:75
     old "Не верю! Всё не так!"
-msgstr "Non credo! Non è così!"
+    new "Non credo! Non è così!"
 
     # game/events/eric.rpy:75
     old "Она так сказала?"
-msgstr "L'ha detto?"
+    new "L'ha detto?"
 
     # game/events/eric.rpy:93
     old "Ладно, посмотрим..."
-msgstr "Ok, vedremo..."
+    new "Ok, vedremo..."
 
     # game/events/eric.rpy:93
     old "Никогда. Отвали!"
-msgstr "Mai. Torna indietro!"
+    new "Mai. Torna indietro!"
 
     # game/events/eric.rpy:103
     old "Ладно, посмотрим... И что я выиграю?"
-msgstr "Ok, vedremo... E cosa vincerò?"
+    new "Ok, vedremo... E cosa vincerò?"
 
     # game/events/eric.rpy:113
     old "Какие проблемы?"
-msgstr "Quali sono i problemi?"
+    new "Quali sono i problemi?"
 
     # game/events/eric.rpy:113
     old "Договорились..."
-msgstr "Fatto..."
+    new "Fatto..."
 
     # game/events/eric.rpy:116
     old "Ну, ладно, убедил."
-msgstr "Bene, ok, l'ho fatto."
+    new "Bene, ok, l'ho fatto."
 
     # game/events/eric.rpy:116
     old "Нет, без вариантов..."
-msgstr "No, nessuna opzione..."
+    new "No, nessuna opzione..."
 
     # game/events/eric.rpy:155
     old "Да, я только за."
-msgstr "Sì, sono tutto per questo."
+    new "Sì, sono tutto per questo."
 
     # game/events/eric.rpy:155
     old "Тебе показалось. Я тебя ненавижу!"
-msgstr "Hai pensato. Ti odio!"
+    new "Hai pensato. Ti odio!"
 
     # game/events/eric.rpy:163
     old "Думаю, воевать смысла нет..."
-msgstr "Penso che non abbia senso combattere..."
+    new "Penso che non abbia senso combattere..."
 
     # game/events/eric.rpy:163
     old "Я тебя ненавижу!"
-msgstr "Ti odio!"
+    new "Ti odio!"
 
     # game/events/eric.rpy:171
     old "Почему? Я подумал как следует. Воевать точно не хочу..."
-msgstr "Perché? Ho pensato bene. Sicuramente non voglio combattere..."
+    new "Perché? Ho pensato bene. Sicuramente non voglio combattere..."
 
     # game/events/eric.rpy:171
     old "Правильно. Я тебя ненавижу!"
-msgstr "Corretto. Ti odio!"
+    new "Corretto. Ti odio!"
 
     # game/events/eric.rpy:182
     old "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
-msgstr "{color=[orange]}{i}{b}Attenzione:{/b} La vostra relazione si è notevolmente peggiorata!{/i}{/color}"
+    new "{color=[orange]}{i}{b}Attenzione:{/b} La vostra relazione si è notevolmente peggiorata!{/i}{/color}"
 
     # game/events/eric.rpy:195
     old "Что? Ты ошибаешься!"
-msgstr "A cosa? Ti sbagli!"
+    new "A cosa? Ti sbagli!"
 
     # game/events/eric.rpy:195
     old "Они никакие не цыпочки!"
-msgstr "Non sono pulcini!"
+    new "Non sono pulcini!"
 
     # game/events/eric.rpy:195
     old "Я вдруг понял... Да пошёл ты!"
-msgstr "All'improvviso mi sono reso conto... Fai molta strada!"
+    new "All'improvviso mi sono reso conto... Fai molta strada!"
 
     # game/events/eric.rpy:203
     old "Думаешь?"
-msgstr "Pensare?"
+    new "Pensare?"
 
     # game/events/eric.rpy:203
     old "Постой, и ты этого хочешь?"
-msgstr "Aspetta, e lo vuoi?"
+    new "Aspetta, e lo vuoi?"
 
     # game/events/eric.rpy:206
     old "А если я расскажу про это всем?"
-msgstr "E se ne parlassi a tutti?"
+    new "E se ne parlassi a tutti?"
 
     # game/events/eric.rpy:206
     old "Только, если я что-то получу за это..."
-msgstr "Solo se ottengo qualcosa per questo..."
+    new "Solo se ottengo qualcosa per questo..."
 
     # game/events/eric.rpy:206
     old "Ты подонок! Я передумал. Убирайся!"
-msgstr "Sei un basso! Ho cambiato idea. Fuori dai piedi!"
+    new "Sei un basso! Ho cambiato idea. Fuori dai piedi!"
 
     # game/events/eric.rpy:223
     old "Да я не собираюсь рассказывать, просто спросил..."
-msgstr "Sì, non te lo dirò, ho solo chiesto..."
+    new "Sì, non te lo dirò, ho solo chiesto..."
 
     # game/events/eric.rpy:223
     old "Вот и проверим..."
-msgstr "Quindi controlliamo..."
+    new "Quindi controlliamo..."
 
     # game/events/eric.rpy:223
     old "Ты - псих ненормальный. Убирайся!"
-msgstr "Sei pazzo pazzo. Fuori dai piedi!"
+    new "Sei pazzo pazzo. Fuori dai piedi!"
 
     # game/events/eric.rpy:228
     old "Да я пошутил! Конечно, не расскажу никому..."
-msgstr "Sì, stavo scherzando! Certo, non lo dirò a nessuno..."
+    new "Sì, stavo scherzando! Certo, non lo dirò a nessuno..."
 
     # game/events/eric.rpy:228
     old "Вот и посмотрим..."
-msgstr "Quindi vedremo..."
+    new "Quindi vedremo..."
 
     # game/events/eric.rpy:248
     old "Нет, на это я не согласен."
-msgstr "No, non sono d'accordo."
+    new "No, non sono d'accordo."
 
     # game/events/eric.rpy:253
     old "Я не извращенец!"
-msgstr "Non sono un pervertito!"
+    new "Non sono un pervertito!"
 
     # game/events/eric.rpy:253
     old "А есть только два варианта?"
-msgstr "E ci sono solo due opzioni?"
+    new "E ci sono solo due opzioni?"
 
     # game/events/eric.rpy:253
     old "Ты знаешь... Я тут подумал. Да пошёл ты! Не надо мне ничего от тебя. Я от тебя избавлюсь!"
-msgstr "Lo sai... Ci ho pensato. Fai molta strada! Non ho bisogno di nulla da te. Mi libererò di te!"
+    new "Lo sai... Ci ho pensato. Fai molta strada! Non ho bisogno di nulla da te. Mi libererò di te!"
 
     # game/events/eric.rpy:256
     old "Тогда... Остаётся только послать тебя куда подальше. Такая дружба мне не нужна!"
-msgstr "Allora... Resta solo da mandarti lontano. Non ho bisogno di una tale amicizia!"
+    new "Allora... Resta solo da mandarti lontano. Non ho bisogno di una tale amicizia!"
 
     # game/events/eric.rpy:266
     old "Если так, то я согласен на твои условия, конечно!"
-msgstr "Se è così, accetto i tuoi termini, ovviamente!"
+    new "Se è così, accetto i tuoi termini, ovviamente!"
 
     # game/events/eric.rpy:266
     old "Знаешь, что... Эрик? А иди-ка ты в жопу! Без тебя справимся!"
-msgstr "Sapere cosa... Eric? E vai nel culo! Possiamo farlo senza di te!"
+    new "Sapere cosa... Eric? E vai nel culo! Possiamo farlo senza di te!"
 
     # game/events/eric.rpy:279
     old "{color=[lime]}{i}{b}Внимание:{/b} Ваши отношения значительно улучшились{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Nota:{/b} Il tuo rapporto è migliorato significativamente{/i}{/color}"
+    new "{color=[lime]}{i}{b}Nota:{/b} Il tuo rapporto è migliorato significativamente{/i}{/color}"
 
     # game/events/eric.rpy:323
     old "{i}наблюдать за ними{/i}"
-msgstr "{i}guardarli{/i}"
+    new "{i}guardarli{/i}"
 
     # game/events/eric.rpy:323
     old "{i}подойти к ним{/i}"
-msgstr "{i}avvicinarli{/i}"
+    new "{i}avvicinarli{/i}"
 
     # game/events/eric.rpy:333
     old "Конечно, мам! {i}(уйти){/i}"
-msgstr "Certo, mamma! {i}(leave){/i}"
+    new "Certo, mamma! {i}(leave){/i}"
 
     # game/events/eric.rpy:333
     old "Конечно, мам! {i}(спрятаться){/i}"
-msgstr "Certo, mamma! {i}(nascondi){/i}"
+    new "Certo, mamma! {i}(nascondi){/i}"
 
     # game/events/eric.rpy:356
     old "{i}подойти ближе{/i}"
-msgstr "{i}avvicinarti{/i}"
+    new "{i}avvicinarti{/i}"
 
     # game/events/eric.rpy:356
     old "{i}тихо уйти{/i}"
-msgstr "{i}tranquillamente partire{/i}"
+    new "{i}tranquillamente partire{/i}"
 
     # game/events/eric.rpy:368
     old "{i}Что за вопрос? Конечно!{/i}"
-msgstr "{i}Qual è la domanda? Naturalmente,! {/i}"
+    new "{i}Qual è la domanda? Naturalmente,! {/i}"
 
     # game/events/eric.rpy:422
     old "{i}тихо сматываться{/i}"
-msgstr "{i}rotolare tranquillamente{/i}"
+    new "{i}rotolare tranquillamente{/i}"
 
     # game/events/eric.rpy:459
     old "Ма-а-ам?"
-msgstr "Ma-a-am?"
+    new "Ma-a-am?"
 
     # game/events/eric.rpy:459
     old "Вы охренели!"
-msgstr "Tu su!"
+    new "Tu su!"
 
     # game/events/eric.rpy:489
     old "Как раз всё вижу. Не стыдно?"
-msgstr "Vedo tutto. Non ti vergogni?"
+    new "Vedo tutto. Non ti vergogni?"
 
     # game/events/eric.rpy:489
     old "Хорошо. А вы тут продолжайте... Не стесняйтесь."
-msgstr "Ok. E tu vai avanti... Non essere timido."
+    new "Ok. E tu vai avanti... Non essere timido."
 
     # game/events/eric.rpy:489
     old "Извини, мам. Я просто не ожидал ТАКОЕ увидеть..."
-msgstr "Mi dispiace, mamma. Non mi aspettavo di vedere QUELLO..."
+    new "Mi dispiace, mamma. Non mi aspettavo di vedere QUELLO..."
 
     # game/events/eric.rpy:505
     old "Хотите потрахаться - идите в свою комнату. Нечего этим на виду у всех заниматься!"
-msgstr "Se vuoi scopare - vai nella tua stanza. Non c'è niente da fare in bella vista!"
+    new "Se vuoi scopare - vai nella tua stanza. Non c'è niente da fare in bella vista!"
 
     # game/events/eric.rpy:505
     old "Да всё в порядке. Это ты извини... Я просто от неожиданности крикнул."
-msgstr "Sì, va bene. Mi dispiace... Ho solo urlato di sorpresa."
+    new "Sì, va bene. Mi dispiace... Ho solo urlato di sorpresa."
 
     # game/events/eric.rpy:505
     old "А вы не против, если я посмотрю?"
-msgstr "Ti dispiace se do un'occhiata?"
+    new "Ti dispiace se do un'occhiata?"
 
     # game/events/eric.rpy:534
     old "{i}зайти в спальню{/i}"
-msgstr "{i}andare in camera da letto{/i}"
+    new "{i}andare in camera da letto{/i}"
 
     # game/events/eric.rpy:584
     old "Я никому не мешаю же..."
-msgstr "Non sto disturbando nessuno..."
+    new "Non sto disturbando nessuno..."
 
     # game/events/eric.rpy:584
     old "Я уже ухожу, мам... Извини..."
-msgstr "Me ne vado, mamma... Scusa..."
+    new "Me ne vado, mamma... Scusa..."
 
     # game/events/eric.rpy:690
     old "{i}проверить{/i}"
-msgstr "{i}check{/i}"
+    new "{i}check{/i}"
 
     # game/events/eric.rpy:902
     old "{i}смотреть до конца{/i}"
-msgstr "{i}guarda fino alla fine{/i}"
+    new "{i}guarda fino alla fine{/i}"
 
     # game/events/eric.rpy:993
     old "{i}посмотреть через камеру{/i}"
-msgstr "{i}vista attraverso la fotocamera{/i}"
+    new "{i}vista attraverso la fotocamera{/i}"
 
     # game/events/eric.rpy:1322
     old "{i}Осторожно подсмотреть за ним с балкона{/i}"
-msgstr "{i}Spiarlo attentamente dal balcone{/i}"
+    new "{i}Spiarlo attentamente dal balcone{/i}"
 
     # game/events/eric.rpy:1350
     old "{i}сбегать за фотоаппаратом и пойти на балкон{/i}"
-msgstr "{i}corri per la fotocamera e vai sul balcone{/i}"
+    new "{i}corri per la fotocamera e vai sul balcone{/i}"
 
     # game/events/eric.rpy:1363
     old "{i}сбегать за фотоаппаратом и вернуться{/i}"
-msgstr "{i}di correre dietro alla fotocamera e tornare{/i}"
+    new "{i}di correre dietro alla fotocamera e tornare{/i}"
 
     # game/events/eric.rpy:1396
     old "{i}сфотографировать его{/i}"
-msgstr "{i}scatta una foto{/i}"
+    new "{i}scatta una foto{/i}"
 
     # game/events/eric.rpy:1584
     old "{i}прервать Лизу и Эрика{/i}"
-msgstr "{i}interrompere Lisa ed Eric{/i}"
+    new "{i}interrompere Lisa ed Eric{/i}"
 
     # game/events/eric.rpy:1711
     old "И что будет, если я заплачу?"
-msgstr "E cosa succede se pago?"
+    new "E cosa succede se pago?"
 
     # game/events/eric.rpy:1711
     old "Да я в жизни такие деньги в руках не держал!"
-msgstr "Sì, non ho tenuto questi soldi nelle mie mani nella mia vita!"
+    new "Sì, non ho tenuto questi soldi nelle mie mani nella mia vita!"
 
     # game/events/eric.rpy:1714
     old "Договорились. Сейчас принесу деньги..."
-msgstr "Fatto. Ora porterò i soldi..."
+    new "Fatto. Ora porterò i soldi..."
 
     # game/events/eric.rpy:1714
     old "А если у меня нет таких денег?"
-msgstr "Cosa succede se non ho quei soldi?"
+    new "Cosa succede se non ho quei soldi?"
 
     # game/events/eric.rpy:1721
     old "{i}принести Эрику деньги{/i}"
-msgstr "{i}portare soldi a Eric{/i}"
+    new "{i}portare soldi a Eric{/i}"
 
     # game/events/eric.rpy:1762
     old "{i}сперва помыть посуду, а затем проследить{/i}"
-msgstr "{i}lavare prima i piatti e poi tracciare{/i}"
+    new "{i}lavare prima i piatti e poi tracciare{/i}"
 
     # game/events/eric.rpy:1762
     old "{i}проследить сразу{/i}"
-msgstr "{i}rintracciato immediatamente{/i}"
+    new "{i}rintracciato immediatamente{/i}"
 
     # game/events/eric.rpy:1773
     old "{i}быстрее смотреть, что делают Лиза и Эрик{/i}"
-msgstr "{i}vedere cosa stanno facendo Lisa ed Eric più velocemente{/i}"
+    new "{i}vedere cosa stanno facendo Lisa ed Eric più velocemente{/i}"
 

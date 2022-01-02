@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,13 +13,13 @@
 # "PO-Revision-Date: 2021-09-26 08:55\n"
 
     old "Мама"
-msgstr "Mamma"
+    new "Mamma"
 
     # game/core/characters.rpy:356
     old "Майя"
-msgstr "Maya"
+    new "Maya"
 
     # game/core/characters.rpy:369
     old "Сэм"
-msgstr "Sam"
+    new "Sam"
 

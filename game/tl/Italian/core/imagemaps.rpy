@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,37 +13,37 @@
 # "PO-Revision-Date: 2021-09-26 08:55\n"
 
     old "{i}искать под кроватью{/i}"
-msgstr "{i}cerca sotto il letto{/i}"
+    new "{i}cerca sotto il letto{/i}"
 
     # game/core/imagemaps.rpy:34
     old "{i}искать в тумбочке{/i}"
-msgstr "{i}guarda nel comodino{/i}"
+    new "{i}guarda nel comodino{/i}"
 
     # game/core/imagemaps.rpy:37
     old "{i}искать в столе{/i}"
-msgstr "{i}guarda nella tabella{/i}"
+    new "{i}guarda nella tabella{/i}"
 
     # game/core/imagemaps.rpy:56
     old "{i}массировать ступни{/i}"
-msgstr "{i}massaggiare i piedi{/i}"
+    new "{i}massaggiare i piedi{/i}"
 
     # game/core/imagemaps.rpy:64
     old "{i}массировать голени{/i}"
-msgstr "{i}massaggiare gli stinchi{/i}"
+    new "{i}massaggiare gli stinchi{/i}"
 
     # game/core/imagemaps.rpy:74
     old "{i}массировать бёдра{/i}"
-msgstr "{i}massaggiare i fianchi{/i}"
+    new "{i}massaggiare i fianchi{/i}"
 
     # game/core/imagemaps.rpy:78
     old "{i}массировать плечи{/i}"
-msgstr "{i}massaggiare gli stinchi{/i}"
+    new "{i}massaggiare gli stinchi{/i}"
 
     # game/core/imagemaps.rpy:82
     old "{i}массировать спину{/i}"
-msgstr "{i}massaggiare la schiena{/i}"
+    new "{i}massaggiare la schiena{/i}"
 
     # game/core/imagemaps.rpy:87
     old "{i}массировать попку{/i}"
-msgstr "{i}massaggiarmi il culo{/i}"
+    new "{i}massaggiarmi il culo{/i}"
 

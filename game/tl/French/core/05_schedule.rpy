@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,25 +13,25 @@
 # "PO-Revision-Date: 2021-10-22 21:14\n"
 
     old "курит"
-msgstr "fumée"
+    new "fumée"
 
     # game/core/05_schedule.rpy:7
     old "в бассейне"
-msgstr "dans la piscine"
+    new "dans la piscine"
 
     # game/core/05_schedule.rpy:74
     old "спит (утро)"
-msgstr "dormir (matin)"
+    new "dormir (matin)"
 
     # game/core/05_schedule.rpy:74
     old "в своей комнате"
-msgstr "dans votre chambre"
+    new "dans votre chambre"
 
     # game/core/05_schedule.rpy:74
     old "читает на веранде"
-msgstr "lire sur la véranda"
+    new "lire sur la véranda"
 
     # game/core/05_schedule.rpy:162
     old "семейный ужин"
-msgstr "dîner de famille"
+    new "dîner de famille"
 

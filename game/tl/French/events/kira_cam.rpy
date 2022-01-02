@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -343,5 +343,5 @@ translate frenh cam1_kira_bath_with_eric_77deb168:
     Max_09]On ne peut voir personne à travers cette caméra... Je regarde sur une autre ?"
 
     old "{i}встретить их{/i}"
-msgstr "{i}les rencontrer{/i}"
+    new "{i}les rencontrer{/i}"
 

@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -727,157 +727,157 @@ translate frenh Kira_arrival_end_yard_438c6fcd:
     Max_07]Prenons déjà le petit-déjeuner, il refroidit presque..."
 
     old "Удачи"
-msgstr "Bonne chance"
+    new "Bonne chance"
 
     # game/events/other.rpy:40
     old "Да, жаль, что не купили его..."
-msgstr "Oui, c'est dommage que je ne l'ai pas acheté ..."
+    new "Oui, c'est dommage que je ne l'ai pas acheté ..."
 
     # game/events/other.rpy:40
     old "Я бы с удовольствием на это посмотрел..."
-msgstr "J’adorerais regarder ça..."
+    new "J’adorerais regarder ça..."
 
     # game/events/other.rpy:48
     old "Слишком дорогой это сколько?"
-msgstr "Est-ce trop cher?"
+    new "Est-ce trop cher?"
 
     # game/events/other.rpy:48
     old "Насколько открытые?"
-msgstr "Comment ouvert?"
+    new "Comment ouvert?"
 
     # game/events/other.rpy:59
     old "Верно, сами разберёмся без Эрика"
-msgstr "C’est vrai, découvrons-le sans Eric"
+    new "C’est vrai, découvrons-le sans Eric"
 
     # game/events/other.rpy:59
     old "Кстати, где он?"
-msgstr "Au fait, où est-il ?"
+    new "Au fait, où est-il ?"
 
     # game/events/other.rpy:123
     old "Очень приятно..."
-msgstr "Très bien..."
+    new "Très bien..."
 
     # game/events/other.rpy:123
     old "Я думал он выше..."
-msgstr "Je pensais qu'il était au-dessus ..."
+    new "Je pensais qu'il était au-dessus ..."
 
     # game/events/other.rpy:128
     old "Всё отлично. Ищу себя, так сказать..."
-msgstr "Tout va bien. Je le cherche, pour ainsi dire..."
+    new "Tout va bien. Je le cherche, pour ainsi dire..."
 
     # game/events/other.rpy:128
     old "Да то тем, то этим..."
-msgstr "Oui, alors..."
+    new "Oui, alors..."
 
     # game/events/other.rpy:128
     old "Отвечаю вот на дурацкие вопросы..."
-msgstr "Je réponds à des questions stupides..."
+    new "Je réponds à des questions stupides..."
 
     # game/events/other.rpy:149
     old "Стараюсь больше слушать..."
-msgstr "J’essaie d’écouter plus..."
+    new "J’essaie d’écouter plus..."
 
     # game/events/other.rpy:149
     old "Типа того..."
-msgstr "Comme ça..."
+    new "Comme ça..."
 
     # game/events/other.rpy:149
     old "Да было бы о чём говорить..."
-msgstr "Oui, il y aurait de quoi parler..."
+    new "Oui, il y aurait de quoi parler..."
 
     # game/events/other.rpy:170
     old "Да, мне тоже. Извините..."
-msgstr "Oui moi aussi. Désolé..."
+    new "Oui moi aussi. Désolé..."
 
     # game/events/other.rpy:170
     old "А мне вот не очень..."
-msgstr "Et je ne suis pas très ..."
+    new "Et je ne suis pas très ..."
 
     # game/events/other.rpy:187
     old "Да мне всё равно..."
-msgstr "Je m’en fous..."
+    new "Je m’en fous..."
 
     # game/events/other.rpy:198
     old "{i}идти к столу{/i}"
-msgstr "{i}aller à la table{/i}"
+    new "{i}aller à la table{/i}"
 
     # game/events/other.rpy:218
     old "Извини, Эрик, я просто не в духе..."
-msgstr "Désolé, Eric, je ne suis tout simplement pas dans présent dans ma tête..."
+    new "Désolé, Eric, je ne suis tout simplement pas dans présent dans ma tête..."
 
     # game/events/other.rpy:218
     old "Нормально себя веду..."
-msgstr "Je me comporte normalement ..."
+    new "Je me comporte normalement ..."
 
     # game/events/other.rpy:245
     old "Здравствуй, тётя Кира!"
-msgstr "Bonjour, tante Kira!"
+    new "Bonjour, tante Kira!"
 
     # game/events/other.rpy:245
     old "Что значит почти? Я настоящий мужчина!"
-msgstr "Qu'est-ce qui signifie presque? Je suis un vrai homme!"
+    new "Qu'est-ce qui signifie presque? Je suis un vrai homme!"
 
     # game/events/other.rpy:260
     old "А мне можно тоже обнять свою тётю?"
-msgstr "Et je peux aussi embrasser ma tante?"
+    new "Et je peux aussi embrasser ma tante?"
 
     # game/events/other.rpy:269
     old "В гостинице?"
-msgstr "À l'hôtel?"
+    new "À l'hôtel?"
 
     # game/events/other.rpy:269
     old "Дела?"
-msgstr "À faire?"
+    new "À faire?"
 
     # game/events/other.rpy:269
     old "Так ты два дня здесь?"
-msgstr "Donc tues ici pour deux jours?"
+    new "Donc tues ici pour deux jours?"
 
     # game/events/other.rpy:299
     old "Да не стоит..."
-msgstr "Pas de quoi..."
+    new "Pas de quoi..."
 
     # game/events/other.rpy:299
     old "Хорошо, тётя Кира!"
-msgstr "Très bien, tante Kira!"
+    new "Très bien, tante Kira!"
 
     # game/events/other.rpy:313
     old "Выглядит отлично!"
-msgstr "Ça a l’air génial!"
+    new "Ça a l’air génial!"
 
     # game/events/other.rpy:313
     old "Ну-ка, повернись..."
-msgstr "Eh bien, retournes-toi..."
+    new "Eh bien, retournes-toi..."
 
     # game/events/other.rpy:326
     old "А что такого? Пусть ходит, я не против..."
-msgstr "Quel est le problème ? Laisses-le partir, ça ne me dérange pas..."
+    new "Quel est le problème ? Laisses-le partir, ça ne me dérange pas..."
 
     # game/events/other.rpy:340
     old "Нет, мам, всё отлично!"
-msgstr "Non, maman, ça va!"
+    new "Non, maman, ça va!"
 
     # game/events/other.rpy:340
     old "А можешь немного повернуться?"
-msgstr "Tu peux te retourner un peu ?"
+    new "Tu peux te retourner un peu ?"
 
     # game/events/other.rpy:347
     old "Ты знаешь, длина оптимальная!"
-msgstr "Tu sais, la longueur est optimale !"
+    new "Tu sais, la longueur est optimale !"
 
     # game/events/other.rpy:347
     old "Мне нравится, мам!"
-msgstr "J'adore ça, maman !"
+    new "J'adore ça, maman !"
 
     # game/events/other.rpy:358
     old "Мне нравится. Просто и со вкусом!"
-msgstr "Je l'aime bien. Simple et de bon goût !"
+    new "Je l'aime bien. Simple et de bon goût !"
 
     # game/events/other.rpy:358
     old "Отличные... вещички!"
-msgstr "Super... ces choses !"
+    new "Super... ces choses !"
 
     # game/events/other.rpy:358
     old "И почти ничего не видно..."
-msgstr "Et on ne voit presque rien..."
+    new "Et on ne voit presque rien..."
 

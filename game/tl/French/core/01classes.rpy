@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,45 +13,45 @@
 # "PO-Revision-Date: 2021-12-05 15:47\n"
 
     old "Ужасное"
-msgstr "Terrible"
+    new "Terrible"
 
     # game/core/01classes.rpy:658
     old "Очень плохое"
-msgstr "New"
+    new "New"
 
     # game/core/01classes.rpy:658
     old "Плохое"
-msgstr "Mauvais"
+    new "Mauvais"
 
     # game/core/01classes.rpy:658
     old "Не очень"
-msgstr "Pas vraiment"
+    new "Pas vraiment"
 
     # game/core/01classes.rpy:658
     old "Нейтральное"
-msgstr "Neutre"
+    new "Neutre"
 
     # game/core/01classes.rpy:658
     old "Неплохое"
-msgstr "Décent"
+    new "Décent"
 
     # game/core/01classes.rpy:658
     old "Хорошее"
-msgstr "Bon"
+    new "Bon"
 
     # game/core/01classes.rpy:658
     old "Очень хорошее"
-msgstr "Très bon"
+    new "Très bon"
 
     # game/core/01classes.rpy:658
     old "Прекрасное"
-msgstr "Parfait"
+    new "Parfait"
 
     # game/core/01classes.rpy:1047
     old "Приобретен пакет рекламы"
-msgstr "Pack de pub acheté"
+    new "Pack de pub acheté"
 
     # game/core/01classes.rpy:1292
     old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Attention:{/b} Vous avez obtenu une nouvelle 'opportunité'! {/i} {/color}"
+    new "{color=[lime]}{i}{b}Attention:{/b} Vous avez obtenu une nouvelle 'opportunité'! {/i} {/color}"
 

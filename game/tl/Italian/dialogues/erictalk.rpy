@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -1447,69 +1447,69 @@ translate italian Eric_tribute_no_money_dd72ca96:
     Eric_13]Lo scoprirai presto. Ora sparisci![nointeract]"
 
     old "{i}В другой раз...{/i}"
-msgstr "{i}Un'altra volta... {/i}"
+    new "{i}Un'altra volta... {/i}"
 
     # game/dialogues/erictalk.rpy:55
     old "Э... Ну не совсем так..."
-msgstr "Uh... Beh, non esattamente..."
+    new "Uh... Beh, non esattamente..."
 
     # game/dialogues/erictalk.rpy:55
     old "А так можно?"
-msgstr "E' possibile?"
+    new "E' possibile?"
 
     # game/dialogues/erictalk.rpy:65
     old "Кстати, как ты это делаешь?"
-msgstr "A proposito, come si fa?"
+    new "A proposito, come si fa?"
 
     # game/dialogues/erictalk.rpy:65
     old "Отлично! Спасибо, Эрик."
-msgstr "È fantastico! Grazie, Eric."
+    new "È fantastico! Grazie, Eric."
 
     # game/dialogues/erictalk.rpy:71
     old "Это угроза?"
-msgstr "È una minaccia?"
+    new "È una minaccia?"
 
     # game/dialogues/erictalk.rpy:71
     old "Хорошо, Эрик!"
-msgstr "Va bene, Eric!"
+    new "Va bene, Eric!"
 
     # game/dialogues/erictalk.rpy:159
     old "{i}сесть на кровать{/i}"
-msgstr "{i}siedono sul letto{/i}"
+    new "{i}siedono sul letto{/i}"
 
     # game/dialogues/erictalk.rpy:174
     old "{i}слегка подвинуться{/i}"
-msgstr "{i}spostati leggermente{/i}"
+    new "{i}spostati leggermente{/i}"
 
     # game/dialogues/erictalk.rpy:235
     old "{i}смотреть, как мама сосёт{/i}"
-msgstr "{i}guarda la mamma succhiare{/i}"
+    new "{i}guarda la mamma succhiare{/i}"
 
     # game/dialogues/erictalk.rpy:294
     old "{i}пересесть{/i}"
-msgstr "{i}cambiare{/i}"
+    new "{i}cambiare{/i}"
 
     # game/dialogues/erictalk.rpy:339
     old "Нет, можешь обучать... (продолжение дружбы)"
-msgstr "No, puoi insegnare... (continuazione dell'amicizia)"
+    new "No, puoi insegnare... (continuazione dell'amicizia)"
 
     # game/dialogues/erictalk.rpy:339
     old "А ей не рановато? (попытка выиграть время)"
-msgstr "Non è troppo presto? (cercando di guadagnare tempo)"
+    new "Non è troppo presto? (cercando di guadagnare tempo)"
 
     # game/dialogues/erictalk.rpy:339
     old "Лизу тебе не отдам! (продолжение вражды)"
-msgstr "Non ti darò Lisa! (continuazione della faida)"
+    new "Non ti darò Lisa! (continuazione della faida)"
 
     # game/dialogues/erictalk.rpy:473
     old "Значит, тебя её блог интересует? (продолжение дружбы)"
-msgstr "Quindi sei interessato al suo blog? (continuazione dell'amicizia)"
+    new "Quindi sei interessato al suo blog? (continuazione dell'amicizia)"
 
     # game/dialogues/erictalk.rpy:473
     old "Я мало что об этом знаю... (попытка выиграть время)"
-msgstr "Non ne so molto... (cercando di guadagnare tempo)"
+    new "Non ne so molto... (cercando di guadagnare tempo)"
 
     # game/dialogues/erictalk.rpy:473
     old "Вот у неё и спрашивай! (продолжение вражды)"
-msgstr "Chiediglielo! (continuazione della faida)"
+    new "Chiediglielo! (continuazione della faida)"
 

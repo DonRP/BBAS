@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -4075,325 +4075,325 @@ translate italian kira_bath_with_eric_6bca3a88:
     Max_02]Kira non ha perso una sola goccia passata! Ed è come se nessuno l'avessi appena risucchiata... Lavoro pulito![nointeract]"
 
     old "{i}войти{/i}"
-msgstr "{i}accedi{/i}"
+    new "{i}accedi{/i}"
 
     # game/events/kira.rpy:87
     old "{i}идти к Кире{/i}"
-msgstr "{i}vai a Kira{/i}"
+    new "{i}vai a Kira{/i}"
 
     # game/events/kira.rpy:201
     old "{i}присоединиться к тёте{/i}"
-msgstr "{i}unisciti a mia zia{/i}"
+    new "{i}unisciti a mia zia{/i}"
 
     # game/events/kira.rpy:236
     old "А моё напряжение только растёт, тётя Кира! Может поможешь?"
-msgstr "E la mia tensione sta solo crescendo, zia Kira! Puoi aiutarmi?"
+    new "E la mia tensione sta solo crescendo, zia Kira! Puoi aiutarmi?"
 
     # game/events/kira.rpy:267
     old "{i}подтянуть её к себе и ласкать пальцами{/i}"
-msgstr "{i}tirarlo su di te e accarezzarlo con le dita{/i}"
+    new "{i}tirarlo su di te e accarezzarlo con le dita{/i}"
 
     # game/events/kira.rpy:267
     old "{i}пытаться не кончить{/i}"
-msgstr "{i}cercare di non cum{/i}"
+    new "{i}cercare di non cum{/i}"
 
     # game/events/kira.rpy:306
     old "{i}поработать языком{/i}"
-msgstr "{i}funzionano con la lingua{/i}"
+    new "{i}funzionano con la lingua{/i}"
 
     # game/events/kira.rpy:306
     old "{i}проникнуть в неё пальцами{/i}"
-msgstr "{i}penetrarlo con le dita{/i}"
+    new "{i}penetrarlo con le dita{/i}"
 
     # game/events/kira.rpy:314
     old "{i}работать языком быстрее{/i}"
-msgstr "{i}funzionano più velocemente{/i}"
+    new "{i}funzionano più velocemente{/i}"
 
     # game/events/kira.rpy:364
     old "Садись на меня, тётя Кира!"
-msgstr "Siediti su di me, zia Kira!"
+    new "Siediti su di me, zia Kira!"
 
     # game/events/kira.rpy:364
     old "Давай-ка сюда свою шикарную попку!"
-msgstr "Vieni qui il tuo splendido culo!"
+    new "Vieni qui il tuo splendido culo!"
 
     # game/events/kira.rpy:383
     old "{i}приблизиться членом к её лицу{/i}"
-msgstr "{i}avvicinarlo al suo viso{/i}"
+    new "{i}avvicinarlo al suo viso{/i}"
 
     # game/events/kira.rpy:401
     old "Ох, тётя Кира... Ты слишком ловко меня дразнишь! Я могу не выдержать..."
-msgstr "Oh, zia Kira... Mi stai prendendo in giro troppo abilmente! Non lo sopporto..."
+    new "Oh, zia Kira... Mi stai prendendo in giro troppo abilmente! Non lo sopporto..."
 
     # game/events/kira.rpy:417
     old "Да, давай ещё тётя Кира! Какие же горячие и ненасытные у тебя губки... Да..."
-msgstr "Sì, vieni zia Kira! Che spugne calde e insaziabili hai... Sì..."
+    new "Sì, vieni zia Kira! Che spugne calde e insaziabili hai... Sì..."
 
     # game/events/kira.rpy:427
     old "Тётя Кира, я больше не могу... сейчас кончу! Да-а-а..."
-msgstr "Zia Kira, non ce la faccio più... Finirò ora! Sì..."
+    new "Zia Kira, non ce la faccio più... Finirò ora! Sì..."
 
     # game/events/kira.rpy:534
     old "{i}кончить в неё{/i}"
-msgstr "{i}in esso{/i}"
+    new "{i}in esso{/i}"
 
     # game/events/kira.rpy:534
     old "{i}кончить ей на ноги{/i}"
-msgstr "{i}in piedi{/i}"
+    new "{i}in piedi{/i}"
 
     # game/events/kira.rpy:534
     old "{i}кончить ей в рот{/i}"
-msgstr "{i}in bocca{/i}"
+    new "{i}in bocca{/i}"
 
     # game/events/kira.rpy:574
     old "{i}трахать её{/i}"
-msgstr "{i}cazzo{/i}"
+    new "{i}cazzo{/i}"
 
     # game/events/kira.rpy:590
     old "{i}кончить ей на попку{/i}"
-msgstr "{i}sul suo culo{/i}"
+    new "{i}sul suo culo{/i}"
 
     # game/events/kira.rpy:721
     old "Да, что-то не спится... К тебе можно?"
-msgstr "Sì, qualcosa non dorme... Posso venire da te?"
+    new "Sì, qualcosa non dorme... Posso venire da te?"
 
     # game/events/kira.rpy:721
     old "Не могу уснуть, слишком напряжён! {i}(снять шорты){/i}"
-msgstr "Non riesco a dormire, sono troppo teso! {i}(pantaloncini da togliere){/i}"
+    new "Non riesco a dormire, sono troppo teso! {i}(pantaloncini da togliere){/i}"
 
     # game/events/kira.rpy:721
     old "Я просто прогуливался перед сном. Пойду, уже поздно..."
-msgstr "Ho appena camminato prima di andare a letto. Vado, è troppo tardi..."
+    new "Ho appena camminato prima di andare a letto. Vado, è troppo tardi..."
 
     # game/events/kira.rpy:754
     old "{i}кончить ей в рот!{/i}"
-msgstr "{i}in bocca! {/i}"
+    new "{i}in bocca! {/i}"
 
     # game/events/kira.rpy:782
     old "{i}спуститься к Кире{/i}"
-msgstr "{i}scendere a Kira{/i}"
+    new "{i}scendere a Kira{/i}"
 
     # game/events/kira.rpy:836
     old "{i}получать удовольствие{/i}"
-msgstr "{i}divertiti{/i}"
+    new "{i}divertiti{/i}"
 
     # game/events/kira.rpy:903
     old "{i}подойти поближе{/i}"
-msgstr "{i}avvicinarti{/i}"
+    new "{i}avvicinarti{/i}"
 
     # game/events/kira.rpy:976
     old "{i}посмотреть, что будет дальше{/i}"
-msgstr "{i}vedere cosa succede dopo{/i}"
+    new "{i}vedere cosa succede dopo{/i}"
 
     # game/events/kira.rpy:976
     old "{i}уже поздно, пора спать...{/i}"
-msgstr "{i}è troppo tardi, è ora di dormire... {/i}"
+    new "{i}è troppo tardi, è ora di dormire... {/i}"
 
     # game/events/kira.rpy:983
     old "Мне что-то не спится. Можно тоже телек с тобой посмотреть?"
-msgstr "Non riesco a dormire. Posso guardare la Tv anche con te?"
+    new "Non riesco a dormire. Posso guardare la Tv anche con te?"
 
     # game/events/kira.rpy:983
     old "Я насчёт уроков поцелуев, если момент подходящий..."
-msgstr "Sto baciando le lezioni, se il momento è giusto..."
+    new "Sto baciando le lezioni, se il momento è giusto..."
 
     # game/events/kira.rpy:983
     old "Я просто хотел пожелать спокойной ночи!"
-msgstr "Volevo solo augurarvi una buona notte!"
+    new "Volevo solo augurarvi una buona notte!"
 
     # game/events/kira.rpy:986
     old "Может быть, эротику?"
-msgstr "Forse erotica?"
+    new "Forse erotica?"
 
     # game/events/kira.rpy:986
     old "Давай смотреть порно?!"
-msgstr "Guardiamo il porno?!"
+    new "Guardiamo il porno?!"
 
     # game/events/kira.rpy:1012
     old "Ни капли!"
-msgstr "Non una goccia!"
+    new "Non una goccia!"
 
     # game/events/kira.rpy:1012
     old "Да ты продолжай, я посижу, посмотрю..."
-msgstr "Sì, vai avanti, mi siederò e vedrò..."
+    new "Sì, vai avanti, mi siederò e vedrò..."
 
     # game/events/kira.rpy:1055
     old "Конечно, да!"
-msgstr "Sì certo!"
+    new "Sì certo!"
 
     # game/events/kira.rpy:1090
     old "Вообще-то, с лучшей тётей на свете!"
-msgstr "In realtà, con la migliore zia del mondo!"
+    new "In realtà, con la migliore zia del mondo!"
 
     # game/events/kira.rpy:1138
     old "{i}начать дрочить{/i}"
-msgstr "{i}iniziano a tremare{/i}"
+    new "{i}iniziano a tremare{/i}"
 
     # game/events/kira.rpy:1213
     old "{i}начать ласкать её киску языком{/i}"
-msgstr "{i}iniziare ad accarezzarla con la lingua{/i}"
+    new "{i}iniziare ad accarezzarla con la lingua{/i}"
 
     # game/events/kira.rpy:1218
     old "{i}раздеть её и повернуть{/i}"
-msgstr "{i}spogliarlo e girare{/i}"
+    new "{i}spogliarlo e girare{/i}"
 
     # game/events/kira.rpy:1238
     old "{i}продолжить языком{/i}"
-msgstr "{i}continuare con{/i}"
+    new "{i}continuare con{/i}"
 
     # game/events/kira.rpy:1264
     old "С чего начнём?"
-msgstr "Da dove cominciamo?"
+    new "Da dove cominciamo?"
 
     # game/events/kira.rpy:1264
     old "Как в прошлый раз?"
-msgstr "Come l'ultima volta?"
+    new "Come l'ultima volta?"
 
     # game/events/kira.rpy:1289
     old "{i}поцеловать её{/i}"
-msgstr "{i}baciala{/i}"
+    new "{i}baciala{/i}"
 
     # game/events/kira.rpy:1295
     old "{i}продолжить целоваться{/i}"
-msgstr "{i}continuare a baciare{/i}"
+    new "{i}continuare a baciare{/i}"
 
     # game/events/kira.rpy:1357
     old "{i}прикоснуться к её попке{/i}"
-msgstr "{i}toccarle il culo{/i}"
+    new "{i}toccarle il culo{/i}"
 
     # game/events/kira.rpy:1357
     old "{i}подтянуть её ближе к себе{/i}"
-msgstr "{i}avvicinalo a te{/i}"
+    new "{i}avvicinalo a te{/i}"
 
     # game/events/kira.rpy:1433
     old "Давай ещё немного, тётя Кира... У меня ведь неплохо получается?"
-msgstr "Dai un po' di più, zia Kira... Sono bravo a farlo?"
+    new "Dai un po' di più, zia Kira... Sono bravo a farlo?"
 
     # game/events/kira.rpy:1442
     old "{i}развязать её ночнушку{/i}"
-msgstr "{i}slegare il suo nightie{/i}"
+    new "{i}slegare il suo nightie{/i}"
 
     # game/events/kira.rpy:1508
     old "{i}ласкать её грудь и киску{/i}"
-msgstr "{i}accarezza il seno e la figa{/i}"
+    new "{i}accarezza il seno e la figa{/i}"
 
     # game/events/kira.rpy:1530
     old "{i}продолжить пальцами и языком{/i}"
-msgstr "{i}continuare con le dita e la lingua{/i}"
+    new "{i}continuare con le dita e la lingua{/i}"
 
     # game/events/kira.rpy:1554
     old "Как бы мне не кончить уже сейчас! Какой у тебя игривый язычок... Ммм..."
-msgstr "Come potrei non farlo ora! Che lingua giocosa hai... Mmm..."
+    new "Come potrei non farlo ora! Che lingua giocosa hai... Mmm..."
 
     # game/events/kira.rpy:1573
     old "Да, вот так тётя Кира, твои губки творят чудеса! Охх..."
-msgstr "Sì, è così che è zia Kira, le tue spugne fanno miracoli! Oh..."
+    new "Sì, è così che è zia Kira, le tue spugne fanno miracoli! Oh..."
 
     # game/events/kira.rpy:1587
     old "Тётя Кира, ещё быстрее... Да... Я сейчас кончу... А-а-а..."
-msgstr "Zia Kira, ancora più veloce... Sì... Vado a ora... Ahh..."
+    new "Zia Kira, ancora più veloce... Sì... Vado a ora... Ahh..."
 
     # game/events/kira.rpy:1656
     old "{i}раздеть её{/i}"
-msgstr "{i}spogliarla{/i}"
+    new "{i}spogliarla{/i}"
 
     # game/events/kira.rpy:1656
     old "{i}раздеться вместе{/i}"
-msgstr "{i}spogliarsi insieme{/i}"
+    new "{i}spogliarsi insieme{/i}"
 
     # game/events/kira.rpy:1862
     old "{i}трахнуть тётю Киру{/i} (миссионерская поза)"
-msgstr "{i}cazzo zia Kira{/i} (posa missionaria)"
+    new "{i}cazzo zia Kira{/i} (posa missionaria)"
 
     # game/events/kira.rpy:1862
     old "{i}снять шорты и трахнуть тётю Киру{/i} (миссионерская поза)"
-msgstr "{i}togliermi i pantaloncini e scopare zia Kira{/i} (posa missionaria)"
+    new "{i}togliermi i pantaloncini e scopare zia Kira{/i} (posa missionaria)"
 
     # game/events/kira.rpy:1862
     old "{i}трахнуть тётю Киру{/i} (поза на боку)"
-msgstr "{i}cazzo zia Kira{/i} (posa laterale)"
+    new "{i}cazzo zia Kira{/i} (posa laterale)"
 
     # game/events/kira.rpy:1874
     old "{i}трахнуть тётю Киру (догги-стайл){/i}"
-msgstr "{i}cazzo zia Kira (stile cagnolino){/i}"
+    new "{i}cazzo zia Kira (stile cagnolino){/i}"
 
     # game/events/kira.rpy:1904
     old "Порадуешь меня минетом, тётя Кира?"
-msgstr "Mi darai un, zia Kira?"
+    new "Mi darai un, zia Kira?"
 
     # game/events/kira.rpy:1904
     old "Давай сменим позу, тётя Кира..."
-msgstr "Cambiamo la posa, zia Kira..."
+    new "Cambiamo la posa, zia Kira..."
 
     # game/events/kira.rpy:1964
     old "{i}кончить в Киру{/i}"
-msgstr "{i}in Kira{/i}"
+    new "{i}in Kira{/i}"
 
     # game/events/kira.rpy:2015
     old "{i}кончить ей на живот{/i}"
-msgstr "{i}a pancia in giù{/i}"
+    new "{i}a pancia in giù{/i}"
 
     # game/events/kira.rpy:2289
     old "К тебе можно, тётя Кира?"
-msgstr "Posso venire da te, zia Kira?"
+    new "Posso venire da te, zia Kira?"
 
     # game/events/kira.rpy:2372
     old "{i}раздеться и присоединиться к Кире{/i}"
-msgstr "{i}spogliati e unisciti a Kira{/i}"
+    new "{i}spogliati e unisciti a Kira{/i}"
 
     # game/events/kira.rpy:2378
     old "{i}ласкать её грудь{/i}"
-msgstr "{i}accarezza il seno{/i}"
+    new "{i}accarezza il seno{/i}"
 
     # game/events/kira.rpy:2747
     old "Давай лучше я уложу тётю Киру!"
-msgstr "Facciamo meglio a posare zia Kira!"
+    new "Facciamo meglio a posare zia Kira!"
 
     # game/events/kira.rpy:2747
     old "Ну, ладно... Пока!"
-msgstr "Ok... Finalmente!"
+    new "Ok... Finalmente!"
 
     # game/events/kira.rpy:2754
     old "{i}отвести тётю в гостиную{/i}"
-msgstr "{i}portare mia zia in salotto{/i}"
+    new "{i}portare mia zia in salotto{/i}"
 
     # game/events/kira.rpy:2794
     old "{i}Дать Алисе конфету и отвести тётю в гостиную{/i}"
-msgstr "{i}Regala ad Alice caramelle e porta sua zia in salotto{/i}"
+    new "{i}Regala ad Alice caramelle e porta sua zia in salotto{/i}"
 
     # game/events/kira.rpy:2794
     old "{i}Отвести тётю в гостиную{/i}"
-msgstr "{i}Porta mia zia in salotto{/i}"
+    new "{i}Porta mia zia in salotto{/i}"
 
     # game/events/kira.rpy:2816
     old "Такого поворота событий я не ожидал! Можно и задержаться..."
-msgstr "Non mi aspettavo una tale svolta degli eventi! Puoi soffermarti..."
+    new "Non mi aspettavo una tale svolta degli eventi! Puoi soffermarti..."
 
     # game/events/kira.rpy:2816
     old "Я бы задержался, но нужно проверить, как там Алиса..."
-msgstr "Sarei in ritardo, ma ho bisogno di controllare come Alice è lì..."
+    new "Sarei in ritardo, ma ho bisogno di controllare come Alice è lì..."
 
     # game/events/kira.rpy:2913
     old "Хочу грудью!"
-msgstr "Voglio il seno!"
+    new "Voglio il seno!"
 
     # game/events/kira.rpy:2913
     old "Хочу попкой!"
-msgstr "Voglio il mio culo!"
+    new "Voglio il mio culo!"
 
     # game/events/kira.rpy:2922
     old "Но я всё равно хочу твою грудь!"
-msgstr "Ma voglio ancora il tuo seno!"
+    new "Ma voglio ancora il tuo seno!"
 
     # game/events/kira.rpy:2922
     old "Я не могу устоять перед твоей попкой. Хочу её!"
-msgstr "Non posso resistere al tuo. La voglio!"
+    new "Non posso resistere al tuo. La voglio!"
 
     # game/events/kira.rpy:2953
     old "Но я всё равно хочу твою попку!"
-msgstr "Ma voglio ancora il tuo culo!"
+    new "Ma voglio ancora il tuo culo!"
 
     # game/events/kira.rpy:2953
     old "Я не могу устоять перед твоей грудью. Хочу её!"
-msgstr "Non posso resistere al tuo seno. La voglio!"
+    new "Non posso resistere al tuo seno. La voglio!"
 

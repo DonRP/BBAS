@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -769,17 +769,17 @@ translate frenh olivia_about_film_punish_nice_view_3e444279:
     Max_01]Moi aussi. Je ne veux pas vous ennuyer."
 
     old "Хотя, нет... У меня вообще-то дела есть..."
-msgstr "Bien que, non... En fait, j'ai des choses à faire..."
+    new "Bien que, non... En fait, j'ai des choses à faire..."
 
     # game/dialogues/oliviatalk.rpy:259
     old "Давай перенесём..."
-msgstr "Passons à autre chose..."
+    new "Passons à autre chose..."
 
     # game/dialogues/oliviatalk.rpy:259
     old "Тогда приятного вам просмотра..."
-msgstr "Alors profitez de votre film..."
+    new "Alors profitez de votre film..."
 
     # game/dialogues/oliviatalk.rpy:262
     old "{i}идти в гостиную{/i}"
-msgstr "{i}aller dans le salon{/i}"
+    new "{i}aller dans le salon{/i}"
 

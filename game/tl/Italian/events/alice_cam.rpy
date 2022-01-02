@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -565,25 +565,25 @@ translate italian cam0_blog_with_Eric_4181192f:
     Max_08]{m}Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog... Ma davvero, solo per guardare Alice in mutande, lo so...{/m}"
 
     old "{i}Конечно{/i}"
-msgstr "{i}Certo{/i}"
+    new "{i}Certo{/i}"
 
     # game/events/alice_cam.rpy:72
     old "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgstr "{i}Prendi la macchina fotografica e vai alla finestra di Alice{/i}"
+    new "{i}Prendi la macchina fotografica e vai alla finestra di Alice{/i}"
 
     # game/events/alice_cam.rpy:72
     old "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgstr "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
+    new "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
 
     # game/events/alice_cam.rpy:83
     old "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgstr "{i}Prendi la macchina fotografica e vai al balcone{/i}"
+    new "{i}Prendi la macchina fotografica e vai al balcone{/i}"
 
     # game/events/alice_cam.rpy:327
     old "{i}продолжать смотреть{/i}"
-msgstr "{i}continua a guardare{/i}"
+    new "{i}continua a guardare{/i}"
 
     # game/events/alice_cam.rpy:327
     old "{i}достаточно{/i}"
-msgstr "{i}abbastanza{/i}"
+    new "{i}abbastanza{/i}"
 

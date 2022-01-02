@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Большой брат: Другая история\n"
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -14,5 +14,5 @@
 # "PO-Revision-Date: 2021-09-26 08:54\n"
 
     old "Большой брат: Другая история"
-msgstr "Big Brother: un'altra storia"
+    new "Big Brother: un'altra storia"
 

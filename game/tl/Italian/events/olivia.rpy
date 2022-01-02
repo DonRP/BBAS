@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -1291,25 +1291,25 @@ translate italian olivia_repeatable_night_out_with_cb768b4d:
     Max_01]sogni piacevoli."
 
     old "{i}подсмотреть{/i}"
-msgstr "{i}vedere{/i}"
+    new "{i}vedere{/i}"
 
     # game/events/olivia.rpy:92
     old "{i}дождаться девчонок{/i}"
-msgstr "{i}aspettare le ragazze{/i}"
+    new "{i}aspettare le ragazze{/i}"
 
     # game/events/olivia.rpy:178
     old "Конечно с вами!"
-msgstr "Naturalmente con te!"
+    new "Naturalmente con te!"
 
     # game/events/olivia.rpy:291
     old "Я с вами!"
-msgstr "Sono con te!"
+    new "Sono con te!"
 
     # game/events/olivia.rpy:379
     old "{i}раздеться и сесть рядом{/i}"
-msgstr "{i}spogliati e siediti accanto a{/i}"
+    new "{i}spogliati e siediti accanto a{/i}"
 
     # game/events/olivia.rpy:631
     old "{i}идти в свою комнату{/i}"
-msgstr "{i}vai nella tua stanza{/i}"
+    new "{i}vai nella tua stanza{/i}"
 

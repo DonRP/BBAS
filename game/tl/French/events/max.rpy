@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -714,13 +714,13 @@ translate frenh need_money_e2987b4e:
 translate frenh cheat_money_46383d7e:
 
     # На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-msgstr "A ce stade du jeu, Max ne peut pas avoir ce montant. Le piratage peut entraîner des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités, ainsi que des erreurs critiques qui vous empêcheront de continuer à jouer au jeu."
+    new "A ce stade du jeu, Max ne peut pas avoir ce montant. Le piratage peut entraîner des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités, ainsi que des erreurs critiques qui vous empêcheront de continuer à jouer au jeu."
 
 # game/events/max.rpy:1024
 translate frenh cheat_money_strateg_16b9bde6:
 
     # Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-msgstr "Vous êtes soit un hacker prudent, soit un bon stratège. Dans les deux cas, vous n'avez pas besoin de méthodes supplémentaires pour obtenir de l'argent. Sachez que le piratage peut avoir des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités du jeu, ainsi que des erreurs critiques qui vous empêcheront de poursuivre le jeu."
+    new "Vous êtes soit un hacker prudent, soit un bon stratège. Dans les deux cas, vous n'avez pas besoin de méthodes supplémentaires pour obtenir de l'argent. Sachez que le piratage peut avoir des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités du jeu, ainsi que des erreurs critiques qui vous empêcheront de poursuivre le jeu."
 
 # game/events/max.rpy:1032
 translate frenh about_credit_235ff689:
@@ -795,241 +795,241 @@ translate frenh bedtime_thoughts_a9917f30:
     Max_07]{m}Comment faire pour qu'Eric arrête d'embêter mes sœurs, au moins pour un moment... et Kira... et ma mère aussi... Hmmm... J'aurais une belle occasion de glisser quelque chose dans sa nourriture au dîner si j'aidais Alice à mettre la table ! Cela vaut la peine de regarder la boutique en ligne pour voir si je peux acheter quelque chose comme ça....{/m}"
 
     old "{i}установить будильник{/i}"
-msgstr "{i}mettre une alarme{/i}"
+    new "{i}mettre une alarme{/i}"
 
     # game/events/max.rpy:34
     old "{i}в 6 утра{/i}"
-msgstr "{i}à 6 heures du matin{/i}"
+    new "{i}à 6 heures du matin{/i}"
 
     # game/events/max.rpy:34
     old "{i}в 7 утра{/i}"
-msgstr "{i}à 7 heures du matin{/i}"
+    new "{i}à 7 heures du matin{/i}"
 
     # game/events/max.rpy:84
     old "{i}вздремнуть{/i}"
-msgstr "{i}faire une sieste{/i}"
+    new "{i}faire une sieste{/i}"
 
     # game/events/max.rpy:118
     old "{i}подремать пару часов{/i}"
-msgstr "{i}faire une sieste pendant quelques heures{/i}"
+    new "{i}faire une sieste pendant quelques heures{/i}"
 
     # game/events/max.rpy:118
     old "{i}подремать 3 часа{/i}"
-msgstr "{i}faire une sieste pendant 3 heures{/i}"
+    new "{i}faire une sieste pendant 3 heures{/i}"
 
     # game/events/max.rpy:118
     old "{i}подремать 4 часа{/i}"
-msgstr "{i}faire une sieste pendant 4 heures{/i}"
+    new "{i}faire une sieste pendant 4 heures{/i}"
 
     # game/events/max.rpy:118
     old "{i}подремать 5 часов{/i}"
-msgstr "{i}faire une sieste pendant 5 heures{/i}"
+    new "{i}faire une sieste pendant 5 heures{/i}"
 
     # game/events/max.rpy:118
     old "{i}не-а, может позже...{/i}"
-msgstr "{i}non, peut-être plus tard... {/i}"
+    new "{i}non, peut-être plus tard... {/i}"
 
     # game/events/max.rpy:273
     old "{i}почитать о камерах{/i}"
-msgstr "{i}Regarder les caméras{/i}"
+    new "{i}Regarder les caméras{/i}"
 
     # game/events/max.rpy:275
     old "{i}читать о блогах{/i}"
-msgstr "{i}En apprendre plus sur les blogs{/i}"
+    new "{i}En apprendre plus sur les blogs{/i}"
 
     # game/events/max.rpy:277
     old "{i}узнать о книге Алисы{/i}"
-msgstr "{i}Découvrir le livre d'Alice{/i}"
+    new "{i}Découvrir le livre d'Alice{/i}"
 
     # game/events/max.rpy:279
     old "{i}читать о пауках{/i}"
-msgstr "{i}En apprendre plus sur les araignées{/i}"
+    new "{i}En apprendre plus sur les araignées{/i}"
 
     # game/events/max.rpy:281
     old "{i}искать информацию по кредитам{/i}"
-msgstr "{i}recherche d’informations sur les prêts{/i}"
+    new "{i}recherche d’informations sur les prêts{/i}"
 
     # game/events/max.rpy:352
     old "Оплатить всё ($100)"
-msgstr "Payer pour tout (100 $)"
+    new "Payer pour tout (100 $)"
 
     # game/events/max.rpy:359
     old "Настроить работу сайта"
-msgstr "Configurer votre site"
+    new "Configurer votre site"
 
     # game/events/max.rpy:413
     old "Собрать статистику"
-msgstr "Recueillir des statistiques"
+    new "Recueillir des statistiques"
 
     # game/events/max.rpy:413
     old "Просмотреть популярные блоги"
-msgstr "Voir les blogs populaires"
+    new "Voir les blogs populaires"
 
     # game/events/max.rpy:413
     old "Почитать комменты на блогах"
-msgstr "Lire les commentaires sur les blogs"
+    new "Lire les commentaires sur les blogs"
 
     # game/events/max.rpy:416
     old "Проанализировать результаты"
-msgstr "Analyser les résultats"
+    new "Analyser les résultats"
 
     # game/events/max.rpy:416
     old "Построить таблицу"
-msgstr "Mettre la table"
+    new "Mettre la table"
 
     # game/events/max.rpy:416
     old "Нарисовать график"
-msgstr "Dessiner un graphique"
+    new "Dessiner un graphique"
 
     # game/events/max.rpy:419
     old "Хм... Так... Ага. Это сюда запишем, это сюда..."
-msgstr "Hum... Donc... Ouais. On va écrire ça ici..."
+    new "Hum... Donc... Ouais. On va écrire ça ici..."
 
     # game/events/max.rpy:421
     old "Так. Из этой таблицы мы делаем вывод. Ага. Вот это значит, что... Нет, не так. Вот. Вроде получилось..."
-msgstr "Donc. De ce tableau, j'en conclus. Ouais. Voici ce qui signifie que... Non, pas vrai. Voici. Voilà..."
+    new "Donc. De ce tableau, j'en conclus. Ouais. Voici ce qui signifie que... Non, pas vrai. Voici. Voilà..."
 
     # game/events/max.rpy:423
     old "Рисователь графиков из меня ещё тот. Но попробуем. Так, это шкала популярности, это... Ага. Кажется, всё сходится..."
-msgstr "Je suis le dessinateur. Mais essayons. Donc, c'est l'échelle de popularité, c'est... Ouais. Tout semble converger..."
+    new "Je suis le dessinateur. Mais essayons. Donc, c'est l'échelle de popularité, c'est... Ouais. Tout semble converger..."
 
     # game/events/max.rpy:425
     old "Составить список"
-msgstr "Faire une liste"
+    new "Faire une liste"
 
     # game/events/max.rpy:425
     old "Отсортировать..."
-msgstr "Trier..."
+    new "Trier..."
 
     # game/events/max.rpy:425
     old "Сравнить количество лайков..."
-msgstr "Comparer le nombre de likes..."
+    new "Comparer le nombre de likes..."
 
     # game/events/max.rpy:428
     old "Так, вычёркиваем из списка этих, вот этих и тех. Что тут у нас остаётся?"
-msgstr "On raye de la liste ceux-là, ceux-là et ceux-là?"
+    new "On raye de la liste ceux-là, ceux-là et ceux-là?"
 
     # game/events/max.rpy:430
     old "Так, сравниваем аудиторию. Время публикации... Исключаем сомнительный контент..."
-msgstr "Donc, nous comparons le public. Temps de publication... Exclure le contenu douteux..."
+    new "Donc, nous comparons le public. Temps de publication... Exclure le contenu douteux..."
 
     # game/events/max.rpy:432
     old "Сортируем по количеству лайков. Убираем тех, кто с дизлайками больше этого процента..."
-msgstr "Trier par le nombre de likes. Nous enlevons ceux qui ont des aversions plus que ce pourcentage..."
+    new "Trier par le nombre de likes. Nous enlevons ceux qui ont des aversions plus que ce pourcentage..."
 
     # game/events/max.rpy:434
     old "Воспользоваться поиском"
-msgstr "Utiliser la recherche"
+    new "Utiliser la recherche"
 
     # game/events/max.rpy:434
     old "Читать всё подряд"
-msgstr "Tout lire"
+    new "Tout lire"
 
     # game/events/max.rpy:434
     old "Выбрать лучшие комменты"
-msgstr "Sélectionner les meilleurs commentaires"
+    new "Sélectionner les meilleurs commentaires"
 
     # game/events/max.rpy:437
     old "Так, в поиске мы видим любопытные результаты. Так, выберем то что нам подходит..."
-msgstr "Ainsi, dans la recherche, je vois des résultats curieux. Je choisirais ce qui me convient..."
+    new "Ainsi, dans la recherche, je vois des résultats curieux. Je choisirais ce qui me convient..."
 
     # game/events/max.rpy:439
     old "Ох. Всё оказалось ещё хуже. Кажется, тут нет ничего полезного... Хотя. Думаю, можно сделать даже какой-то вывод..."
-msgstr "Oh. Tout est encore pire. Il n'y a rien d'utile ici... Quoique. Je pense que je peux même tirer une conclusion..."
+    new "Oh. Tout est encore pire. Il n'y a rien d'utile ici... Quoique. Je pense que je peux même tirer une conclusion..."
 
     # game/events/max.rpy:441
     old "Так, топовые комменты все сводятся к одному. Не может быть?"
-msgstr "Donc, les principaux commentaires se résument tous à un. Pas possible?"
+    new "Donc, les principaux commentaires se résument tous à un. Pas possible?"
 
     # game/events/max.rpy:443
     old "Сделать вывод..."
-msgstr "Déduire..."
+    new "Déduire..."
 
     # game/events/max.rpy:459
     old "{i}читать о книге{/i}"
-msgstr "{i}En apprendre plus sur le livre{/i}"
+    new "{i}En apprendre plus sur le livre{/i}"
 
     # game/events/max.rpy:475
     old "Искать виды насекомых по регионам"
-msgstr "Rechercher des espèces d'insectes par région"
+    new "Rechercher des espèces d'insectes par région"
 
     # game/events/max.rpy:475
     old "Читать где водятся какие пауки"
-msgstr "Lire où sont les araignées"
+    new "Lire où sont les araignées"
 
     # game/events/max.rpy:482
     old "Выяснить, чем питается..."
-msgstr "Découvrir ce qu’elle mange..."
+    new "Découvrir ce qu’elle mange..."
 
     # game/events/max.rpy:482
     old "Почитать о повадках..."
-msgstr "En savoir plus sur les habitudes..."
+    new "En savoir plus sur les habitudes..."
 
     # game/events/max.rpy:643
     old "{i}читать \"WEB STANDARDS\"{/i}"
-msgstr "{i}lire les 'WEB STANDARDS'{/i}"
+    new "{i}lire les 'WEB STANDARDS'{/i}"
 
     # game/events/max.rpy:643
     old "{i}читать \"СЕКС-ОБРАЗОВАНИЕ\"{/i}"
-msgstr "{i}lire 'ÉDUCATION SEXUELLE'{/i}"
+    new "{i}lire 'ÉDUCATION SEXUELLE'{/i}"
 
     # game/events/max.rpy:692
     old "{i}искать под подушкой{/i}"
-msgstr "{i}regarder sous l’oreiller{/i}"
+    new "{i}regarder sous l’oreiller{/i}"
 
     # game/events/max.rpy:692
     old "{i}искать в шкафу{/i}"
-msgstr "{i}regarder dans le placard{/i}"
+    new "{i}regarder dans le placard{/i}"
 
     # game/events/max.rpy:692
     old "{i}прекратить поиски{/i}"
-msgstr "{i}arrêter la recherche{/i}"
+    new "{i}arrêter la recherche{/i}"
 
     # game/events/max.rpy:849
     old "{i}искать...{/i}"
-msgstr "{i}chercher...{/i}"
+    new "{i}chercher...{/i}"
 
     # game/events/max.rpy:876
     old "{i}Подложить сейчас{/i}"
-msgstr "{i}Mettre maintenant{/i}"
+    new "{i}Mettre maintenant{/i}"
 
     # game/events/max.rpy:922
     old "Вы просматриваете видеоурок и повышаете свои навыки."
-msgstr "Regarder des leçons vidéo pour améliorer mes compétences."
+    new "Regarder des leçons vidéo pour améliorer mes compétences."
 
     # game/events/max.rpy:956
     old "{i}подставить Алису{/i}"
-msgstr "{i}piéger Alice{/i}"
+    new "{i}piéger Alice{/i}"
 
     # game/events/max.rpy:956
     old "{i}не подставлять Алису{/i}"
-msgstr "{i}ne pas piéger Alice{/i}"
+    new "{i}ne pas piéger Alice{/i}"
 
     # game/events/max.rpy:1051
     old "$500"
-msgstr "500 $"
+    new "500 $"
 
     # game/events/max.rpy:1051
     old "$1000"
-msgstr "1000 $"
+    new "1000 $"
 
     # game/events/max.rpy:1051
     old "$2000"
-msgstr "2000 $"
+    new "2000 $"
 
     # game/events/max.rpy:1051
     old "$5000"
-msgstr "5000 $"
+    new "5000 $"
 
     # game/events/max.rpy:1068
     old "$50"
-msgstr "50 $"
+    new "50 $"
 
     # game/events/max.rpy:1068
     old "$100"
-msgstr "100 $"
+    new "100 $"
 
     # game/events/max.rpy:1068
     old "$200"
-msgstr "200 $"
+    new "200 $"
 

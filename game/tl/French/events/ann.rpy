@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -815,69 +815,69 @@ translate frenh ann_bath_ladder_36138fd2:
     Max_07]Eh ! On dirait que la partie amusante est terminée... Bien que regarder maman essuyer son corps humide et séduisant soit tout aussi satisfaisant ! Oh, quel cul elle a...[nointeract]"
 
     old "{i}Отвернуться{/i}"
-msgstr "{i}Se retourner{/i}"
+    new "{i}Se retourner{/i}"
 
     # game/events/ann.rpy:196
     old "Я не подглядывал. Это случайность!"
-msgstr "Je ne regardais pas. C'est un accident !"
+    new "Je ne regardais pas. C'est un accident !"
 
     # game/events/ann.rpy:196
     old "Мам, извини..."
-msgstr "Maman, je suis désolé..."
+    new "Maman, je suis désolé..."
 
     # game/events/ann.rpy:196
     old "Попка у тебя - что надо!"
-msgstr "Tu as un super cul !"
+    new "Tu as un super cul !"
 
     # game/events/ann.rpy:256
     old "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-msgstr "C'est moi, Max. Je peux entrer ? J'ai quelque chose pour toi."
+    new "C'est moi, Max. Je peux entrer ? J'ai quelque chose pour toi."
 
     # game/events/ann.rpy:278
     old "Хорошо выглядишь, мам!"
-msgstr "Tu as l'air en forme, maman !"
+    new "Tu as l'air en forme, maman !"
 
     # game/events/ann.rpy:278
     old "У меня для тебя кое-что есть."
-msgstr "J’ai quelque chose pour toi."
+    new "J’ai quelque chose pour toi."
 
     # game/events/ann.rpy:278
     old "Зачётные сиськи!"
-msgstr "Beaux seins !"
+    new "Beaux seins !"
 
     # game/events/ann.rpy:278
     old "Ой, извини. Я забыл..."
-msgstr "Oh, je suis désolé. J'ai oublié..."
+    new "Oh, je suis désolé. J'ai oublié..."
 
     # game/events/ann.rpy:348
     old "Ну мам! Этого было так мало, давай ещё..."
-msgstr "Allez, maman ! Ce n'était pas assez, ayons-en plus..."
+    new "Allez, maman ! Ce n'était pas assez, ayons-en plus..."
 
     # game/events/ann.rpy:348
     old "Конечно, мам! Хорошего тебе дня..."
-msgstr "Bien sûr, maman ! Passez une bonne journée..."
+    new "Bien sûr, maman ! Passez une bonne journée..."
 
     # game/events/ann.rpy:437
     old "Ой, извини..."
-msgstr "Oh, désolé..."
+    new "Oh, désolé..."
 
     # game/events/ann.rpy:626
     old "Это я, Макс."
-msgstr "C’est moi, Max."
+    new "C’est moi, Max."
 
     # game/events/ann.rpy:629
     old "Можно я войду?"
-msgstr "Je peux entrer ?"
+    new "Je peux entrer ?"
 
     # game/events/ann.rpy:629
     old "Нет, ничего"
-msgstr "Non, rien"
+    new "Non, rien"
 
     # game/events/ann.rpy:629
     old "Я подожду..."
-msgstr "J'attends..."
+    new "J'attends..."
 
     # game/events/ann.rpy:633
     old "Ой, нет, я передумал"
-msgstr "Oh, non, j'ai changé d'avis"
+    new "Oh, non, j'ai changé d'avis"
 

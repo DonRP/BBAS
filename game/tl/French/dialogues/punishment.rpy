@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -839,125 +839,125 @@ translate frenh punishment_alice_3006a77e:
     Ann_12]Alors, tu as compris la leçon ? Honteuse ? Bien. Il faut avoir honte. J'espère que ça ne se reproduira pas. Maintenant, habille-toi..."
 
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
-msgstr "Il se trouve que j'étais à côté de la douche quand Lisa était là..."
+    new "Il se trouve que j'étais à côté de la douche quand Lisa était là..."
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
-msgstr "Il se trouve que j'étais à côté de la douche où Alice se baignait..."
+    new "Il se trouve que j'étais à côté de la douche où Alice se baignait..."
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я подглядывал за тобой, мам..."
-msgstr "Eh bien, je te regardais, maman..."
+    new "Eh bien, je te regardais, maman..."
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я подглядывал за вами с Эриком..."
-msgstr "Eh bien, je t'ais épiés, toi et Eric..."
+    new "Eh bien, je t'ais épiés, toi et Eric..."
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я плохо себя вёл..."
-msgstr "Eh bien, je me suis mal comporté..."
+    new "Eh bien, je me suis mal comporté..."
 
     # game/dialogues/punishment.rpy:251
     old "Я же не виноват!"
-msgstr "Ce n'est pas ma faute !"
+    new "Ce n'est pas ma faute !"
 
     # game/dialogues/punishment.rpy:266
     old "штаны"
-msgstr "pantalon"
+    new "pantalon"
 
     # game/dialogues/punishment.rpy:268
     old "шорты"
-msgstr "short"
+    new "short"
 
     # game/dialogues/punishment.rpy:269
     old "{i}снять штаны{/i}"
-msgstr "{i}enlever le pantalon{/i}"
+    new "{i}enlever le pantalon{/i}"
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr "Au cas où vous ne le sauriez pas, Max sera puni pour avoir espionné Lisa. Je vous ai déjà prévenu que je n'aime pas quand quelqu'un viole l'espace personnel de chacun..."
+    new "Au cas où vous ne le sauriez pas, Max sera puni pour avoir espionné Lisa. Je vous ai déjà prévenu que je n'aime pas quand quelqu'un viole l'espace personnel de chacun..."
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr "Au cas où vous ne le sauriez pas, Max sera puni pour avoir espionné Alice. Je vous ai déjà prévenu que je n'aime pas quand quelqu'un viole l'espace personnel de chacun..."
+    new "Au cas où vous ne le sauriez pas, Max sera puni pour avoir espionné Alice. Je vous ai déjà prévenu que je n'aime pas quand quelqu'un viole l'espace personnel de chacun..."
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr "Au cas où vous ne le sauriez pas, Max sera puni pour m'avoir espionné. Je vous ai déjà prévenu que je n'aime pas quand quelqu'un viole l'espace personnel de chacun..."
+    new "Au cas où vous ne le sauriez pas, Max sera puni pour m'avoir espionné. Je vous ai déjà prévenu que je n'aime pas quand quelqu'un viole l'espace personnel de chacun..."
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной... с Эриком. Я уже предупреждала, что такое недопустимо!"
-msgstr "Au cas où vous ne le sauriez pas, Max sera puni pour m'avoir espionné... avec Eric. Je vous ai déjà prévenu que cela ne sera pas toléré !"
+    new "Au cas où vous ne le sauriez pas, Max sera puni pour m'avoir espionné... avec Eric. Je vous ai déjà prévenu que cela ne sera pas toléré !"
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за своё отвратительное поведение. Надеюсь, теперь ты будешь хорошенько думать о том, что делаешь и что говоришь!"
-msgstr "Au cas où vous ne le sauriez pas, Max sera puni pour son comportement dégoûtant. J'espère que vous réfléchissez bien maintenant à ce que vous faites et à ce que vous dites !"
+    new "Au cas où vous ne le sauriez pas, Max sera puni pour son comportement dégoûtant. J'espère que vous réfléchissez bien maintenant à ce que vous faites et à ce que vous dites !"
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой в душе и, возможно, даже подбросил туда паука. Ты знаешь, что такое я не потерплю!"
-msgstr "Au cas où vous ne le sauriez pas, Max sera puni pour avoir épié Alice sous la douche et peut-être même pour y avoir planté une araignée. Vous savez que je ne tolérerais pas ça !"
+    new "Au cas où vous ne le sauriez pas, Max sera puni pour avoir épié Alice sous la douche et peut-être même pour y avoir planté une araignée. Vous savez que je ne tolérerais pas ça !"
 
     # game/dialogues/punishment.rpy:333
     old "{i}раздеться{/i}"
-msgstr "{i}se mettre à poil{/i}"
+    new "{i}se mettre à poil{/i}"
 
     # game/dialogues/punishment.rpy:338
     old "{i}снять шорты{/i}"
-msgstr "{i}baisser le short{/i}"
+    new "{i}baisser le short{/i}"
 
     # game/dialogues/punishment.rpy:455
     old "Ближе подходи, Лиза. И да, снимай штаны, ты заслужила!"
-msgstr "Approche-toi, Lisa. Et oui, enlève ton pantalon, tu le mérites !"
+    new "Approche-toi, Lisa. Et oui, enlève ton pantalon, tu le mérites !"
 
     # game/dialogues/punishment.rpy:457
     old "Ближе подходи, Лиза. И да, снимай свой халат, ты заслужила!"
-msgstr "Approche-toi, Lisa. Et oui, enlèves ta robe de chambre, tu le mérites !"
+    new "Approche-toi, Lisa. Et oui, enlèves ta robe de chambre, tu le mérites !"
 
     # game/dialogues/punishment.rpy:461
     old "{i}Заступиться за Лизу{/i}"
-msgstr "{i}Défendre Lisa{/i}"
+    new "{i}Défendre Lisa{/i}"
 
     # game/dialogues/punishment.rpy:482
     old "Быстро снимай штаны!"
-msgstr "Enlèves ton pantalon maintenant !"
+    new "Enlèves ton pantalon maintenant !"
 
     # game/dialogues/punishment.rpy:484
     old "Быстро снимай халат!"
-msgstr "Enlève vite ta robe de chambre !"
+    new "Enlève vite ta robe de chambre !"
 
     # game/dialogues/punishment.rpy:499
     old "Теперь ложись, и побыстрее, все есть хотят..."
-msgstr "Maintenant, descends et dépêches-toi, tout le monde a faim..."
+    new "Maintenant, descends et dépêches-toi, tout le monde a faim..."
 
     # game/dialogues/punishment.rpy:502
     old "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
-msgstr "Qu'est-ce que tu couvres, Lisa ? Es-tu gêné ? Honteuse ? C'est bien... Maintenant, allonge-toi sur mes genoux. Vite !"
+    new "Qu'est-ce que tu couvres, Lisa ? Es-tu gêné ? Honteuse ? C'est bien... Maintenant, allonge-toi sur mes genoux. Vite !"
 
     # game/dialogues/punishment.rpy:562
     old "Говоришь тебе, говоришь, все как об стенку горох..."
-msgstr "Je te le dis, je te le dis, c'est comme un mur contre un mur..."
+    new "Je te le dis, je te le dis, c'est comme un mur contre un mur..."
 
     # game/dialogues/punishment.rpy:568
     old "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
-msgstr "Incroyable ! Même Max t'aide et tu attrapes les deux !"
+    new "Incroyable ! Même Max t'aide et tu attrapes les deux !"
 
     # game/dialogues/punishment.rpy:622
     old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
-msgstr "Alice, tu te moques de moi? J'ai trouvé des cigarettes dans ta chambre! Tu fumes à nouveau ! Rapidement, tu enlèves ton pantalon et tu t'allonges sur mes genoux, C'est dit !"
+    new "Alice, tu te moques de moi? J'ai trouvé des cigarettes dans ta chambre! Tu fumes à nouveau ! Rapidement, tu enlèves ton pantalon et tu t'allonges sur mes genoux, C'est dit !"
 
     # game/dialogues/punishment.rpy:624
     old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
-msgstr "Alice, tu te fous de moi? J'ai trouvé des cigarettes dans ta chambre! Tu fumes encore! Rapidement, tu enlèves ton pantalon et tu t'allonges sur mes genoux, C'est dit !"
+    new "Alice, tu te fous de moi? J'ai trouvé des cigarettes dans ta chambre! Tu fumes encore! Rapidement, tu enlèves ton pantalon et tu t'allonges sur mes genoux, C'est dit !"
 
     # game/dialogues/punishment.rpy:628
     old "{i}Заступиться за Алису{/i}"
-msgstr "{i}Défendre Alice{/i}"
+    new "{i}Défendre Alice{/i}"
 
     # game/dialogues/punishment.rpy:686
     old "Теперь ложись побыстрее, ужин стынет..."
-msgstr "Maintenant, couches-toi vite, sinon le dîner sera froid..."
+    new "Maintenant, couches-toi vite, sinon le dîner sera froid..."
 
     # game/dialogues/punishment.rpy:689
     old "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
-msgstr "Alors, Alice, tu as honte? Tu te tais? Penses à ce que tu fais pendant que je te punis devant tout le monde... Allonges-toi sur mes genoux!"
+    new "Alors, Alice, tu as honte? Tu te tais? Penses à ce que tu fais pendant que je te punis devant tout le monde... Allonges-toi sur mes genoux!"
 

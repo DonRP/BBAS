@@ -1,5 +1,5 @@
 #     old ""
-# msgstr ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -193,9 +193,9 @@ translate italian christina_first_talk_204a6521_1:
     Max_01]anch'io, Christina! Finalmente."
 
     old "Хорошего тебе дня!"
-msgstr "Buona Giornata!"
+    new "Buona Giornata!"
 
     # game/dialogues/christina.rpy:25
     old "А чем вечером будешь заниматься? Давай погуляем!?"
-msgstr "E cosa farai la sera? Facciamo una passeggiata!?"
+    new "E cosa farai la sera? Facciamo una passeggiata!?"
 
