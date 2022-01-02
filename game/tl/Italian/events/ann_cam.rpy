@@ -81,14 +81,14 @@ translate italian cam0_ann_dressed_work_6161d2f7:
 # game/events/ann_cam.rpy:132
 translate italian cam0_ann_dressed_work_2a4aa6ca:
 
-    # [Max_07 "Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
-    Max_07 "Così mia mamma si veste per andare al lavoro...[nointeract]"
+    # [Max_07 "Вот и мама наряжается, чтобы отправиться на работу..." nointeract
+    Max_07 "Così mia mamma si veste per andare al lavoro..." nointeract
 
 # game/events/ann_cam.rpy:143
 translate italian cam0_ann_dressed_work_ecd759fc:
 
-    # [Max_02 "Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso...[nointeract]"
+    # [Max_02 "Ох! Голая мама - это восхитительное зрелище..." nointeract
+    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso..." nointeract
 
 # game/events/ann_cam.rpy:155
 translate italian cam0_ann_dressed_work_8e5f0391:
@@ -105,14 +105,14 @@ translate italian cam0_ann_dressed_shop_6161d2f7:
 # game/events/ann_cam.rpy:179
 translate italian cam0_ann_dressed_shop_5b93ed0b:
 
-    # [Max_07 "Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Così mia madre si veste per andare a fare shopping...[nointeract]"
+    # [Max_07 "Вот и мама наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Così mia madre si veste per andare a fare shopping..." nointeract
 
 # game/events/ann_cam.rpy:190
 translate italian cam0_ann_dressed_shop_ecd759fc:
 
-    # [Max_02 "Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso...[nointeract]"
+    # [Max_02 "Ох! Голая мама - это восхитительное зрелище..." nointeract
+    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso..." nointeract
 
 # game/events/ann_cam.rpy:202
 translate italian cam0_ann_dressed_shop_8e5f0391:

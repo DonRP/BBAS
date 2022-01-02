@@ -15,8 +15,8 @@
 # game/events/kira.rpy:26
 translate frenh kira_bath_e51d277a:
 
-    # [Max_01 "Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
-    Max_01 "Une seule personne ne peut pas dormir en ce moment et prendre un bain. Et cette personne, c’est Kira ![nointeract]"
+    # [Max_01 "Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!" nointeract
+    Max_01 "Une seule personne ne peut pas dormir en ce moment et prendre un bain. Et cette personne, c’est Kira !" nointeract
 
 # game/events/kira.rpy:28
 translate frenh kira_bath_fef8596e:
@@ -93,8 +93,8 @@ translate frenh kira_bath_ladder_a5472214:
 # game/events/kira.rpy:88
 translate frenh kira_bath_ladder_25ce42f2:
 
-    # [Max_08 "Что? Она зовёт меня к себе?! Да ладно! Как-то мне это не очень нравится...[nointeract]"
-    Max_08 "Quoi ? Elle m'appelle chez elle?! C'est pas vrai, que dire! D'une certaine manière, je n'aime pas ça...[nointeract]"
+    # [Max_08 "Что? Она зовёт меня к себе?! Да ладно! Как-то мне это не очень нравится..." nointeract
+    Max_08 "Quoi ? Elle m'appelle chez elle?! C'est pas vrai, que dire! D'une certaine manière, je n'aime pas ça..." nointeract
 
 # game/events/kira.rpy:98
 translate frenh kira_bath_ladder_be5e0493:
@@ -213,8 +213,8 @@ translate frenh kira_bath_kira_mass_bath_first_4c5d4be5:
 # game/events/kira.rpy:131
 translate frenh kira_bath_kira_mass_bath_first_7c395da3:
 
-    # [Kira_02 "Да, я такая... Понимаю, ты был бы не прочь так всю ночь просидеть, но не пора ли сделать своей любимой тёте приятно?[nointeract]"
-    Kira_02 "Oui, je suis... Je sais que ça ne te dérangerait pas de rester assis comme ça toute la nuit, mais n'est-il pas temps de faire plaisir à ta tante préférée ?[nointeract]"
+    # [Kira_02 "Да, я такая... Понимаю, ты был бы не прочь так всю ночь просидеть, но не пора ли сделать своей любимой тёте приятно?" nointeract
+    Kira_02 "Oui, je suis... Je sais que ça ne te dérangerait pas de rester assis comme ça toute la nuit, mais n'est-il pas temps de faire plaisir à ta tante préférée ?" nointeract
 
 # game/events/kira.rpy:136
 translate frenh kira_bath_kira_mass_bath_first_d2cc2bca:
@@ -285,8 +285,8 @@ translate frenh kira_bath_kira_mass_bath_first_5ac92d8a:
 # game/events/kira.rpy:153
 translate frenh kira_bath_kira_mass_bath_first_f7c1f2ae:
 
-    # [Kira_09 "Ну конечно знаю... Видимо, мне стало уже слишком хорошо, чтобы просто лежать без дела. Так что давай-ка закругляться, Макс. Уже так поздно...[nointeract]"
-    Kira_09 "Bien sûr que oui... Apparemment, c'est trop bon pour rester inactif. Alors, terminons, Max. Il est si tard...[nointeract]"
+    # [Kira_09 "Ну конечно знаю... Видимо, мне стало уже слишком хорошо, чтобы просто лежать без дела. Так что давай-ка закругляться, Макс. Уже так поздно..." nointeract
+    Kira_09 "Bien sûr que oui... Apparemment, c'est trop bon pour rester inactif. Alors, terminons, Max. Il est si tard..." nointeract
 
 # game/events/kira.rpy:160
 translate frenh kira_bath_kira_mass_bath_first_7302a902:
@@ -315,14 +315,14 @@ translate frenh kira_bath_mass_bath_097bbf0b:
 # game/events/kira.rpy:195
 translate frenh kira_bath_mass_bath_702751e6:
 
-    # [Max_02 "Конечно, тётя Кира! Тебя я и дожидался.[nointeract]"
-    Max_02 "Bien sûr, tante Kira ! Tu es celle que j'attendais...[nointeract]"
+    # [Max_02 "Конечно, тётя Кира! Тебя я и дожидался." nointeract
+    Max_02 "Bien sûr, tante Kira ! Tu es celle que j'attendais..." nointeract
 
 # game/events/kira.rpy:202
 translate frenh kira_bath_mass_bath_bde9bebf:
 
-    # [Kira_02 "О да, я вижу, как ты меня ждал! Залезай скорее...[nointeract]"
-    Kira_02 "Oh oui, je vois que tu m'attendais ! Entres rapidement...[nointeract]"
+    # [Kira_02 "О да, я вижу, как ты меня ждал! Залезай скорее..." nointeract
+    Kira_02 "Oh oui, je vois que tu m'attendais ! Entres rapidement..." nointeract
 
 # game/events/kira.rpy:207
 translate frenh kira_bath_mass_bath_a6050d8d:
@@ -339,8 +339,8 @@ translate frenh kira_bath_mass_bath_70ceb864:
 # game/events/kira.rpy:210
 translate frenh kira_bath_mass_bath_7c395da3:
 
-    # [Kira_02 "Да, я такая... Понимаю, ты был бы не прочь так всю ночь просидеть, но не пора ли сделать своей любимой тёте приятно?[nointeract]"
-    Kira_02 "Oui, je suis... Je sais que ça ne te dérangerait pas de rester assis comme ça toute la nuit, mais n'est-il pas temps de faire plaisir à ta tante préférée ?[nointeract]"
+    # [Kira_02 "Да, я такая... Понимаю, ты был бы не прочь так всю ночь просидеть, но не пора ли сделать своей любимой тёте приятно?" nointeract
+    Kira_02 "Oui, je suis... Je sais que ça ne te dérangerait pas de rester assis comme ça toute la nuit, mais n'est-il pas temps de faire plaisir à ta tante préférée ?" nointeract
 
 # game/events/kira.rpy:216
 translate frenh kira_bath_mass_bath_3289b3af:
@@ -369,8 +369,8 @@ translate frenh kira_bath_mass_bath_65c7355c:
 # game/events/kira.rpy:225
 translate frenh kira_bath_mass_bath_ee1cd498:
 
-    # [Max_01 "Это потому что я уже скоро закончу.[nointeract]"
-    Max_01 "C'est parce que je suis sur le point de jouir.[nointeract]"
+    # [Max_01 "Это потому что я уже скоро закончу." nointeract
+    Max_01 "C'est parce que je suis sur le point de jouir." nointeract
 
 # game/events/kira.rpy:230
 translate frenh kira_bath_mass_bath_5a982a00:
@@ -393,8 +393,8 @@ translate frenh kira_bath_mass_bath_45071b84:
 # game/events/kira.rpy:237
 translate frenh kira_bath_mass_bath_91d4ef49:
 
-    # [Kira_07 "Ты только не останавливайся, от твоих прикосновений мне становится так жарко! Напряжения, как не бывало...[nointeract]"
-    Kira_07 "Ne t'arrête pas, ton contact me rend si chaude ! La tension a disparu...[nointeract]"
+    # [Kira_07 "Ты только не останавливайся, от твоих прикосновений мне становится так жарко! Напряжения, как не бывало..." nointeract
+    Kira_07 "Ne t'arrête pas, ton contact me rend si chaude ! La tension a disparu..." nointeract
 
 # game/events/kira.rpy:240
 translate frenh kira_bath_mass_bath_fea49aa2:
@@ -453,8 +453,8 @@ translate frenh kira_bath_mass_bath_21d93cdd:
 # game/events/kira.rpy:268
 translate frenh kira_bath_mass_bath_2f045ba2:
 
-    # [Kira_09 "Ох, Макс, как же меня заводит твой огромный член! Ты так жадно смотришь, как я ласкаю себя, свою грудь... Ах, моя киска вся горит, не отводи от неё глаз...[nointeract]"
-    Kira_09 "Oh, Max, je suis tellement excitée par ta grosse bite! Tu regardes avec avidité comment je me caresse, mes seins... Ah, ma chatte est en feu, ne la quitte pas des yeux....[nointeract]"
+    # [Kira_09 "Ох, Макс, как же меня заводит твой огромный член! Ты так жадно смотришь, как я ласкаю себя, свою грудь... Ах, моя киска вся горит, не отводи от неё глаз..." nointeract
+    Kira_09 "Oh, Max, je suis tellement excitée par ta grosse bite! Tu regardes avec avidité comment je me caresse, mes seins... Ah, ma chatte est en feu, ne la quitte pas des yeux...." nointeract
 
 # game/events/kira.rpy:276
 translate frenh kira_bath_mass_bath_a7080c78:
@@ -465,8 +465,8 @@ translate frenh kira_bath_mass_bath_a7080c78:
 # game/events/kira.rpy:281
 translate frenh kira_bath_mass_bath_b30dfbdb:
 
-    # [Kira_10 "[restrain!t]Тебе нравится, как я ввожу пальчики в свою киску? Это так приятно и сладко, что я уже вот-вот кончу! Ох... давай, не сдерживайся...[nointeract]"
-    Kira_10 "[restrain!t]Tu aimes la façon dont je mets mes doigts dans ma chatte? C'est si agréable et doux, je suis sur le point de jouir! Oh... Aller, ne te retiens pas...[nointeract]"
+    # [Kira_10 "[restrain!t]Тебе нравится, как я ввожу пальчики в свою киску? Это так приятно и сладко, что я уже вот-вот кончу! Ох... давай, не сдерживайся..." nointeract
+    Kira_10 "[restrain!t]Tu aimes la façon dont je mets mes doigts dans ma chatte? C'est si agréable et doux, je suis sur le point de jouir! Oh... Aller, ne te retiens pas..." nointeract
 
 # game/events/kira.rpy:286
 translate frenh kira_bath_mass_bath_7193f533:
@@ -507,26 +507,26 @@ translate frenh kira_bath_promise_cuni_a2ff7924:
 # game/events/kira.rpy:302
 translate frenh kira_bath_promise_cuni_c2754243:
 
-    # [Max_03 "Конечно помню! И хочу порадовать тебя ещё...[nointeract]"
-    Max_03 "Bien sûr que je m'en souviens! Et je veux te rendre heureuse à nouveau...[nointeract]"
+    # [Max_03 "Конечно помню! И хочу порадовать тебя ещё..." nointeract
+    Max_03 "Bien sûr que je m'en souviens! Et je veux te rendre heureuse à nouveau..." nointeract
 
 # game/events/kira.rpy:307
 translate frenh kira_bath_promise_cuni_7f37310e:
 
-    # [Kira_05 "Оу... Ты тот ещё шалунишка! У тебя такие нежные пальчики... Да... Поиграй с ней![nointeract]"
-    Kira_05 "Oh... Tu es un vilain garçon ! Tu as des doigts si délicats... Oui... Joues avec elle![nointeract]"
+    # [Kira_05 "Оу... Ты тот ещё шалунишка! У тебя такие нежные пальчики... Да... Поиграй с ней!" nointeract
+    Kira_05 "Oh... Tu es un vilain garçon ! Tu as des doigts si délicats... Oui... Joues avec elle!" nointeract
 
 # game/events/kira.rpy:310
 translate frenh kira_bath_promise_cuni_2b19c412:
 
-    # [Kira_09 "Ухх... Как же ловко твой горячий язычок скользит там внизу... Это такие сладкие ощущения! Ещё быстрее... Ммм...[nointeract]"
-    Kira_09 "Ugh... Avec quelle habileté ta langue chaude glisse là-dedans... C'est une sensation si douce ! Encore plus vite... Mmm...[nointeract]"
+    # [Kira_09 "Ухх... Как же ловко твой горячий язычок скользит там внизу... Это такие сладкие ощущения! Ещё быстрее... Ммм..." nointeract
+    Kira_09 "Ugh... Avec quelle habileté ta langue chaude glisse là-dedans... C'est une sensation si douce ! Encore plus vite... Mmm..." nointeract
 
 # game/events/kira.rpy:313
 translate frenh kira_bath_promise_cuni_d3732a7c:
 
-    # [Kira_09 "Ухх... Да, ещё... Входи своими пальчиками поглубже... Это такие сладкие ощущения! Ещё быстрее... Ммм...[nointeract]"
-    Kira_09 "Ugh... Oui, aussi... Vas en profondeur avec tes doigts... C'est une sensation si douce! Encore plus vite... Mmm...[nointeract]"
+    # [Kira_09 "Ухх... Да, ещё... Входи своими пальчиками поглубже... Это такие сладкие ощущения! Ещё быстрее... Ммм..." nointeract
+    Kira_09 "Ugh... Oui, aussi... Vas en profondeur avec tes doigts... C'est une sensation si douce! Encore plus vite... Mmm..." nointeract
 
 # game/events/kira.rpy:325
 translate frenh kira_bath_promise_cuni_a6041d47:
@@ -573,32 +573,32 @@ translate frenh kira_bath_promise_cuni_45071b84:
 # game/events/kira.rpy:350
 translate frenh kira_bath_cuni_bj_b0f7c22d:
 
-    # [Kira_05 "Оу... Макс, не выдержал и сам захотел поласкать мою киску? У тебя такие нежные пальчики... Да... Поиграй с ней![nointeract]"
-    Kira_05 "Oh... Max, tu ne pouvais pas le supporter et tu voulais caresser ma chatte toi-même ? Tu as des doigts si délicats... Oui... Joues avec ![nointeract]"
+    # [Kira_05 "Оу... Макс, не выдержал и сам захотел поласкать мою киску? У тебя такие нежные пальчики... Да... Поиграй с ней!" nointeract
+    Kira_05 "Oh... Max, tu ne pouvais pas le supporter et tu voulais caresser ma chatte toi-même ? Tu as des doigts si délicats... Oui... Joues avec !" nointeract
 
 # game/events/kira.rpy:355
 translate frenh kira_bath_cuni_bj_c7076e54:
 
-    # [Kira_09 "Ухх... Как же ловко твой горячий язычок скользит там внизу... Это такие сладкие ощущения! Ммм... Но я бы не отказалась от кое-чего большого и у тебя это есть... Что скажешь?[nointeract]"
-    Kira_09 "Ugh... Avec quelle habileté ta langue chaude glisse là-dedans... C'est une sensation si douce !Mmm... Mais je ne renoncerais pas quelque chose de grand que tu as... Qu'en dis-tu?[nointeract]"
+    # [Kira_09 "Ухх... Как же ловко твой горячий язычок скользит там внизу... Это такие сладкие ощущения! Ммм... Но я бы не отказалась от кое-чего большого и у тебя это есть... Что скажешь?" nointeract
+    Kira_09 "Ugh... Avec quelle habileté ta langue chaude glisse là-dedans... C'est une sensation si douce !Mmm... Mais je ne renoncerais pas quelque chose de grand que tu as... Qu'en dis-tu?" nointeract
 
 # game/events/kira.rpy:357
 translate frenh kira_bath_cuni_bj_2b19c412:
 
-    # [Kira_09 "Ухх... Как же ловко твой горячий язычок скользит там внизу... Это такие сладкие ощущения! Ещё быстрее... Ммм...[nointeract]"
-    Kira_09 "Ugh... Avec quelle habileté ta langue chaude glisse là-dedans... C'est une sensation si douce ! Encore plus vite... Mmm...[nointeract]"
+    # [Kira_09 "Ухх... Как же ловко твой горячий язычок скользит там внизу... Это такие сладкие ощущения! Ещё быстрее... Ммм..." nointeract
+    Kira_09 "Ugh... Avec quelle habileté ta langue chaude glisse là-dedans... C'est une sensation si douce ! Encore plus vite... Mmm..." nointeract
 
 # game/events/kira.rpy:361
 translate frenh kira_bath_cuni_bj_e7c17474:
 
-    # [Kira_09 "Ухх... Да, ещё... Входи своими пальчиками поглубже... Это такие сладкие ощущения! Ммм... Не хочешь проникнуть в свою тётю чем-нибудь ещё?[nointeract]"
-    Kira_09 "Ugh... Oui, aussi... Va en profondeur avec tes doigts... C'est une sensation si douce! Mmm... Veux-tu pénétrer ta tante avec quelque chose d'autre ?[nointeract]"
+    # [Kira_09 "Ухх... Да, ещё... Входи своими пальчиками поглубже... Это такие сладкие ощущения! Ммм... Не хочешь проникнуть в свою тётю чем-нибудь ещё?" nointeract
+    Kira_09 "Ugh... Oui, aussi... Va en profondeur avec tes doigts... C'est une sensation si douce! Mmm... Veux-tu pénétrer ta tante avec quelque chose d'autre ?" nointeract
 
 # game/events/kira.rpy:363
 translate frenh kira_bath_cuni_bj_d3732a7c:
 
-    # [Kira_09 "Ухх... Да, ещё... Входи своими пальчиками поглубже... Это такие сладкие ощущения! Ещё быстрее... Ммм...[nointeract]"
-    Kira_09 "Ugh... Oui, aussi... Vas en profondeur avec tes doigts... C'est une sensation si douce! Encore plus vite... Mmm...[nointeract]"
+    # [Kira_09 "Ухх... Да, ещё... Входи своими пальчиками поглубже... Это такие сладкие ощущения! Ещё быстрее... Ммм..." nointeract
+    Kira_09 "Ugh... Oui, aussi... Vas en profondeur avec tes doigts... C'est une sensation si douce! Encore plus vite... Mmm..." nointeract
 
 # game/events/kira.rpy:381
 translate frenh kira_bath_cuni_bj_a6041d47:
@@ -615,8 +615,8 @@ translate frenh kira_bath_cuni_bj_4d360262:
 # game/events/kira.rpy:384
 translate frenh kira_bath_cuni_bj_b2b39a0b:
 
-    # [Kira_06 "Да... Ты у меня способный племянник... и я хочу твой член! Хочу почувствовать его у себя во рту...[nointeract]"
-    Kira_06 "Oui... Tu es un neveu compétent... et je veux ta bite ! Je veux la sentir dans ma bouche...[nointeract]"
+    # [Kira_06 "Да... Ты у меня способный племянник... и я хочу твой член! Хочу почувствовать его у себя во рту..." nointeract
+    Kira_06 "Oui... Tu es un neveu compétent... et je veux ta bite ! Je veux la sentir dans ma bouche..." nointeract
 
 # game/events/kira.rpy:393
 translate frenh kira_bath_cuni_bj_7a7528d8:
@@ -633,20 +633,20 @@ translate frenh kira_bath_cuni_bj_f7a0a397:
 # game/events/kira.rpy:402
 translate frenh kira_bath_cuni_bj_5603e12f:
 
-    # [Kira_05 "Сначала, я хочу приласкать его своим язычком... Вот так... Я знаю, что тебе это нравится...[nointeract]"
-    Kira_05 "D'abord, je veux le caresser avec ma langue... Et voilà... Je sais que tu aimes ça...[nointeract]"
+    # [Kira_05 "Сначала, я хочу приласкать его своим язычком... Вот так... Я знаю, что тебе это нравится..." nointeract
+    Kira_05 "D'abord, je veux le caresser avec ma langue... Et voilà... Je sais que tu aimes ça..." nointeract
 
 # game/events/kira.rpy:418
 translate frenh kira_bath_cuni_bj_bb70212d:
 
-    # [Max_21 "{m}Ухх... Как нежно она посасывает своими губами мой член. И язычком орудует с такой страстью... Просто бесподобно!{/m}[nointeract]"
-    Max_21 "{m}Ugh... Comme elle suce doucement ma bite avec ses lèvres. Et elle manie sa langue avec une telle passion... C'est tout simplement imbattable !{/m}[nointeract]"
+    # [Max_21 "{m}Ухх... Как нежно она посасывает своими губами мой член. И язычком орудует с такой страстью... Просто бесподобно!{/m}" nointeract
+    Max_21 "{m}Ugh... Comme elle suce doucement ma bite avec ses lèvres. Et elle manie sa langue avec une telle passion... C'est tout simplement imbattable !{/m}" nointeract
 
 # game/events/kira.rpy:428
 translate frenh kira_bath_cuni_bj_f78fddf3:
 
-    # [Max_22 "{m}Вот чёрт! Она так глубоко насаживает на него свой ротик... Ещё чуть-чуть и я взорвусь! А она сосёт всё быстрее...{/m}[nointeract]"
-    Max_22 "{m}Oh, merde ! Elle y met sa bouche si profondément... Je suis sur le point d'exploser ! Et elle suce de plus en plus vite...{/m}[nointeract]"
+    # [Max_22 "{m}Вот чёрт! Она так глубоко насаживает на него свой ротик... Ещё чуть-чуть и я взорвусь! А она сосёт всё быстрее...{/m}" nointeract
+    Max_22 "{m}Oh, merde ! Elle y met sa bouche si profondément... Je suis sur le point d'exploser ! Et elle suce de plus en plus vite...{/m}" nointeract
 
 # game/events/kira.rpy:430
 translate frenh kira_bath_cuni_bj_0da4483d:
@@ -879,14 +879,14 @@ translate frenh kira_bath_caught_b1929586:
 # game/events/kira.rpy:508
 translate frenh kira_bath_caught_c0bc19eb:
 
-    # [Max_10 "Ладно, я понял...[nointeract]"
-    Max_10 "D’accord, j’ai compris...[nointeract]"
+    # [Max_10 "Ладно, я понял..." nointeract
+    Max_10 "D’accord, j’ai compris..." nointeract
 
 # game/events/kira.rpy:519
 translate frenh kira_bath_horsewoman_2e8e9ba1:
 
-    # [Kira_09 "Ах, Макс... Д-а-а... Вот так... Хватит уже дразнить мою киску... Дай мне уже сесть на него! Какой он твёрдый... Ммм...[nointeract]"
-    Kira_09 "Ah, Max... A-a-a... Et voilà... Arrêtes de me taquiner la chatte... Laisses-moi m'asseoir dessus! Comme elle est dur... Mmm...[nointeract]"
+    # [Kira_09 "Ах, Макс... Д-а-а... Вот так... Хватит уже дразнить мою киску... Дай мне уже сесть на него! Какой он твёрдый... Ммм..." nointeract
+    Kira_09 "Ah, Max... A-a-a... Et voilà... Arrêtes de me taquiner la chatte... Laisses-moi m'asseoir dessus! Comme elle est dur... Mmm..." nointeract
 
 # game/events/kira.rpy:532
 translate frenh kira_bath_horsewoman_06f39603:
@@ -903,8 +903,8 @@ translate frenh kira_bath_horsewoman_7d6ba17c:
 # game/events/kira.rpy:535
 translate frenh kira_bath_horsewoman_bd9f2b57:
 
-    # [Kira_12 "О да! Я больше не могу, Макс... Ммм... Ох, как хорошо! Да, я кончаю... Ахх...[nointeract]"
-    Kira_12 "Oh, oui ! Je ne peux pas continuer, Max... Mmm... Oh, ça fait du bien ! Oui, je viens... Ahhh....[nointeract]"
+    # [Kira_12 "О да! Я больше не могу, Макс... Ммм... Ох, как хорошо! Да, я кончаю... Ахх..." nointeract
+    Kira_12 "Oh, oui ! Je ne peux pas continuer, Max... Mmm... Oh, ça fait du bien ! Oui, je viens... Ahhh...." nointeract
 
 # game/events/kira.rpy:541
 translate frenh kira_bath_horsewoman_88fc2651:
@@ -951,14 +951,14 @@ translate frenh kira_bath_horsewoman_b732174a:
 # game/events/kira.rpy:566
 translate frenh kira_bath_horsewoman_4144ec85:
 
-    # [Max_01 "Ага. Спокойной ночи, тётя Кира. С тобой очень здорово![nointeract]"
-    Max_01 "Ouaip. Bonne nuit, tante Kira. C'est génial d'être avec toi![nointeract]"
+    # [Max_01 "Ага. Спокойной ночи, тётя Кира. С тобой очень здорово!" nointeract
+    Max_01 "Ouaip. Bonne nuit, tante Kira. C'est génial d'être avec toi!" nointeract
 
 # game/events/kira.rpy:575
 translate frenh kira_bath_dogstyle_c700c47b:
 
-    # [Kira_09 "Вот, держи... Д-а-а... Вот так... Вводи его не спеша... Ох, Макс... Он с таким трудом входит в меня, даже когда я такая мокренькая... Ммм...[nointeract]"
-    Kira_09 "Voilà... A-a-a... Et voilà... Mets-le doucement... Oh, Max... Il a tellement de mal à me pénétrer, même quand je suis si mouillée... Mmm...[nointeract]"
+    # [Kira_09 "Вот, держи... Д-а-а... Вот так... Вводи его не спеша... Ох, Макс... Он с таким трудом входит в меня, даже когда я такая мокренькая... Ммм..." nointeract
+    Kira_09 "Voilà... A-a-a... Et voilà... Mets-le doucement... Oh, Max... Il a tellement de mal à me pénétrer, même quand je suis si mouillée... Mmm..." nointeract
 
 # game/events/kira.rpy:587
 translate frenh kira_bath_dogstyle_4f355bc8:
@@ -975,8 +975,8 @@ translate frenh kira_bath_dogstyle_847cda3f:
 # game/events/kira.rpy:591
 translate frenh kira_bath_dogstyle_e8270cba:
 
-    # [Kira_12 "О да! Трахай меня ещё быстрее! Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, вот так... Ммм... Да, я кончаю... Ахх...[nointeract]"
-    Kira_12 "Oh, oui ! Baises-moi encore plus vite! Je peux à peine me contenir... Oh, ça fait du bien! Plus! Oui, c'est ça... Mmm... Oui, je viens... Ahhh...[nointeract]"
+    # [Kira_12 "О да! Трахай меня ещё быстрее! Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, вот так... Ммм... Да, я кончаю... Ахх..." nointeract
+    Kira_12 "Oh, oui ! Baises-moi encore plus vite! Je peux à peine me contenir... Oh, ça fait du bien! Plus! Oui, c'est ça... Mmm... Oui, je viens... Ahhh..." nointeract
 
 # game/events/kira.rpy:597
 translate frenh kira_bath_dogstyle_88fc2651:
@@ -1023,14 +1023,14 @@ translate frenh kira_bath_dogstyle_b732174a:
 # game/events/kira.rpy:625
 translate frenh kira_bath_dogstyle_4144ec85:
 
-    # [Max_01 "Ага. Спокойной ночи, тётя Кира. С тобой очень здорово![nointeract]"
-    Max_01 "Ouaip. Bonne nuit, tante Kira. C'est génial d'être avec toi![nointeract]"
+    # [Max_01 "Ага. Спокойной ночи, тётя Кира. С тобой очень здорово!" nointeract
+    Max_01 "Ouaip. Bonne nuit, tante Kira. C'est génial d'être avec toi!" nointeract
 
 # game/events/kira.rpy:657
 translate frenh kira_bath_cum_in_her_mouth_8f9ac8f3:
 
-    # [Max_21 "[restrain!t]Ухх... Какие же горячие и ненасытные у тебя губки... Ты просто бесподобно сосёшь, тётя Кира! Да...[nointeract]"
-    Max_21 "[restrain!t]Ugh... Comme tes lèvres sont chaudes et insatiables... Tu suces incroyablement bien, tante Kira ! Oui...[nointeract]"
+    # [Max_21 "[restrain!t]Ухх... Какие же горячие и ненасытные у тебя губки... Ты просто бесподобно сосёшь, тётя Кира! Да..." nointeract
+    Max_21 "[restrain!t]Ugh... Comme tes lèvres sont chaudes et insatiables... Tu suces incroyablement bien, tante Kira ! Oui..." nointeract
 
 # game/events/kira.rpy:663
 translate frenh kira_bath_cum_in_her_mouth_0da4483d:
@@ -1083,8 +1083,8 @@ translate frenh kira_bath_end_sex_94418467:
 # game/events/kira.rpy:689
 translate frenh kira_bath_end_sex_4144ec85:
 
-    # [Max_01 "Ага. Спокойной ночи, тётя Кира. С тобой очень здорово![nointeract]"
-    Max_01 "Ouaip. Bonne nuit, tante Kira. C'est génial d'être avec toi![nointeract]"
+    # [Max_01 "Ага. Спокойной ночи, тётя Кира. С тобой очень здорово!" nointeract
+    Max_01 "Ouaip. Bonne nuit, tante Kira. C'est génial d'être avec toi!" nointeract
 
 # game/events/kira.rpy:711
 translate frenh kira_night_swim_57679d55:
@@ -1131,8 +1131,8 @@ translate frenh kira_night_swim_57679d55_1:
 # game/events/kira.rpy:722
 translate frenh kira_night_swim_41436e7f:
 
-    # [Kira_01 "А, Макс... Я думала, что все уже спят. Хотела немного поплавать... А ты чего не спишь?[nointeract]"
-    Kira_01 "Ah, Max... Je pensais que tout le monde était endormi maintenant. Je voulais aller nager un peu... Qu'est-ce que tu fais debout?[nointeract]"
+    # [Kira_01 "А, Макс... Я думала, что все уже спят. Хотела немного поплавать... А ты чего не спишь?" nointeract
+    Kira_01 "Ah, Max... Je pensais que tout le monde était endormi maintenant. Je voulais aller nager un peu... Qu'est-ce que tu fais debout?" nointeract
 
 # game/events/kira.rpy:730
 translate frenh kira_night_swim_d6e151bf:
@@ -1149,8 +1149,8 @@ translate frenh kira_night_swim_3989efe8:
 # game/events/kira.rpy:733
 translate frenh kira_night_swim_5418a907:
 
-    # [Kira_05 "Абсолютно голая! Ладно, спускайся, а то я не могу спокойно на это смотреть...[nointeract]"
-    Kira_05 "Complètement nue ! Très bien, descends, je ne peux pas supporter de regarder ça...[nointeract]"
+    # [Kira_05 "Абсолютно голая! Ладно, спускайся, а то я не могу спокойно на это смотреть..." nointeract
+    Kira_05 "Complètement nue ! Très bien, descends, je ne peux pas supporter de regarder ça..." nointeract
 
 # game/events/kira.rpy:737
 translate frenh kira_night_swim_809f12e2:
@@ -1203,8 +1203,8 @@ translate frenh kira_night_swim_bfbddab0:
 # game/events/kira.rpy:755
 translate frenh kira_night_swim_1f0f4d2e:
 
-    # [Kira_02 "Какой же ты испорченный мальчик! Но не переживай, бассейн мы не испачкаем. Я чувствую, ты уже совсем близко... Давай...[nointeract]"
-    Kira_02 "Quel garçon gâté tu es! Mais ne t'inquiètes pas, nous ne salirons pas la piscine. Je peux sentir que tu es très proche... Aller...[nointeract]"
+    # [Kira_02 "Какой же ты испорченный мальчик! Но не переживай, бассейн мы не испачкаем. Я чувствую, ты уже совсем близко... Давай..." nointeract
+    Kira_02 "Quel garçon gâté tu es! Mais ne t'inquiètes pas, nous ne salirons pas la piscine. Je peux sentir que tu es très proche... Aller..." nointeract
 
 # game/events/kira.rpy:760
 translate frenh kira_night_swim_296f109d:
@@ -1251,8 +1251,8 @@ translate frenh kira_night_swim_171022d2:
 # game/events/kira.rpy:783
 translate frenh kira_night_swim_06dbdfc5:
 
-    # [Kira_06 "Ухх, впечатлил! Спускайся, тебе нужно немного охладиться. И как знать, может даже ты встретишь приключение на свой член![nointeract]"
-    Kira_06 "Ugh, impressionné ! Descends, tu as besoin de te rafraîchir un peu. Et qui sait, tu pourrais même avoir une aventure avec ta queue ![nointeract]"
+    # [Kira_06 "Ухх, впечатлил! Спускайся, тебе нужно немного охладиться. И как знать, может даже ты встретишь приключение на свой член!" nointeract
+    Kira_06 "Ugh, impressionné ! Descends, tu as besoin de te rafraîchir un peu. Et qui sait, tu pourrais même avoir une aventure avec ta queue !" nointeract
 
 # game/events/kira.rpy:787
 translate frenh kira_night_swim_62d66d9a:
@@ -1317,8 +1317,8 @@ translate frenh kira_night_swim_a2bb097a:
 # game/events/kira.rpy:818
 translate frenh kira_night_swim_5a6dc4f5:
 
-    # [Kira_02 "Какой же ты испорченный мальчик! Всё время называешь меня тётей... Это так пикантно! Давай, кончи мне в рот, я этого очень хочу...[nointeract]"
-    Kira_02 "Quel garçon gâté tu es ! Tu continues à m'appeler tatie... C'est si mignon! Aller, jouis dans ma bouche, je le veux vraiment....[nointeract]"
+    # [Kira_02 "Какой же ты испорченный мальчик! Всё время называешь меня тётей... Это так пикантно! Давай, кончи мне в рот, я этого очень хочу..." nointeract
+    Kira_02 "Quel garçon gâté tu es ! Tu continues à m'appeler tatie... C'est si mignon! Aller, jouis dans ma bouche, je le veux vraiment...." nointeract
 
 # game/events/kira.rpy:823
 translate frenh kira_night_swim_296f109d_1:
@@ -1359,8 +1359,8 @@ translate frenh kira_night_swim_fd5223cc:
 # game/events/kira.rpy:837
 translate frenh kira_night_swim_9c2b6ab8:
 
-    # [Max_19 "Охх... тётя Кира... Обожаю, когда ты так делаешь...[nointeract]"
-    Max_19 "Ohhh... Tante Kira... J'adore quand tu fais ça...[nointeract]"
+    # [Max_19 "Охх... тётя Кира... Обожаю, когда ты так делаешь..." nointeract
+    Max_19 "Ohhh... Tante Kira... J'adore quand tu fais ça..." nointeract
 
 # game/events/kira.rpy:844
 translate frenh kira_night_swim_793ef665:
@@ -1449,8 +1449,8 @@ translate frenh kira_night_swim_end_cum_171022d2:
 # game/events/kira.rpy:904
 translate frenh kira_sleep_night_96d0aaaf:
 
-    # [Max_04 "Ага! Тётя Кира спит. Хорошо, что её ночнушка слегка просвечивает... Ухх, как она хороша...[nointeract]"
-    Max_04 "Ah! Tante Kira est endormie. C'est une bonne chose que sa nuisette soit légèrement transparente... Ugh, elle est si bonne...[nointeract]"
+    # [Max_04 "Ага! Тётя Кира спит. Хорошо, что её ночнушка слегка просвечивает... Ухх, как она хороша..." nointeract
+    Max_04 "Ah! Tante Kira est endormie. C'est une bonne chose que sa nuisette soit légèrement transparente... Ugh, elle est si bonne..." nointeract
 
 # game/events/kira.rpy:909
 translate frenh kira_sleep_night_37f4a3ba:
@@ -1473,14 +1473,14 @@ translate frenh kira_sleep_night_e88b00c2:
 # game/events/kira.rpy:930
 translate frenh kira_sleep_morning_5dc1d3f5:
 
-    # [Max_04 "Тёте Кире очень идёт быть голой! Может быть, это потому что я привык видеть её голой? В такие округлости просто нельзя не влюбиться...[nointeract]"
-    Max_04 "Tante Kira est belle nue ! Peut-être que c'est parce que j'ai l'habitude de la voir nue ? On ne peut s'empêcher de tomber amoureux d'une telle beauté...[nointeract]"
+    # [Max_04 "Тёте Кире очень идёт быть голой! Может быть, это потому что я привык видеть её голой? В такие округлости просто нельзя не влюбиться..." nointeract
+    Max_04 "Tante Kira est belle nue ! Peut-être que c'est parce que j'ai l'habitude de la voir nue ? On ne peut s'empêcher de tomber amoureux d'une telle beauté..." nointeract
 
 # game/events/kira.rpy:932
 translate frenh kira_sleep_morning_18e1a5d4:
 
-    # [Max_04 "Ага! Тётя Кира ещё спит. Хорошо, что её ночнушка слегка просвечивает... Ухх, как она хороша...[nointeract]"
-    Max_04 "Aha ! Tante Kira dort encore. C'est une bonne chose que sa nuisette soit légèrement transparente... Ugh, elle est si bonne...[nointeract]"
+    # [Max_04 "Ага! Тётя Кира ещё спит. Хорошо, что её ночнушка слегка просвечивает... Ухх, как она хороша..." nointeract
+    Max_04 "Aha ! Tante Kira dort encore. C'est une bonne chose que sa nuisette soit légèrement transparente... Ugh, elle est si bonne..." nointeract
 
 # game/events/kira.rpy:938
 translate frenh kira_sleep_morning_37f4a3ba:
@@ -1503,26 +1503,26 @@ translate frenh kira_sleep_morning_e88b00c2:
 # game/events/kira.rpy:971
 translate frenh kira_night_tv_234d0568:
 
-    # [Max_01 "Тётя Кира ещё не легла спать... смотрит сериалы. Может, стоит задержаться?[nointeract]"
-    Max_01 "Tante Kira n'est pas encore couchée... elle regarde des feuilletons. Je devrais peut-être rester dans le coin.[nointeract]"
+    # [Max_01 "Тётя Кира ещё не легла спать... смотрит сериалы. Может, стоит задержаться?" nointeract
+    Max_01 "Tante Kira n'est pas encore couchée... elle regarde des feuilletons. Je devrais peut-être rester dans le coin." nointeract
 
 # game/events/kira.rpy:977
 translate frenh kira_night_tv_e247cac6:
 
-    # [Max_04 "Да-а-а, кто-то залипает на сериалы, а я вот залипаю на свою тётю...[nointeract]"
-    Max_04 "Oui, certaines personnes sont accros aux feuilletons, mais moi, je suis accro à ma tante...[nointeract]"
+    # [Max_04 "Да-а-а, кто-то залипает на сериалы, а я вот залипаю на свою тётю..." nointeract
+    Max_04 "Oui, certaines personnes sont accros aux feuilletons, mais moi, je suis accro à ma tante..." nointeract
 
 # game/events/kira.rpy:984
 translate frenh kira_night_tv_a95566ce:
 
-    # [Kira_01 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А меня тут один сериальчик зацепил, решила досмотреть...[nointeract]"
-    Kira_01 "Аh ? Max ? Tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... J'ai été accroché à cet épisode et j'ai décidé de le regarder jusqu'au bout...[nointeract]"
+    # [Kira_01 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А меня тут один сериальчик зацепил, решила досмотреть..." nointeract
+    Kira_01 "Аh ? Max ? Tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... J'ai été accroché à cet épisode et j'ai décidé de le regarder jusqu'au bout..." nointeract
 
 # game/events/kira.rpy:987
 translate frenh kira_night_tv_31c05ed9:
 
-    # [Kira_04 "Да без проблем, садись рядом. Будем досматривать сериал или найдём какой-нибудь боевик, фантастику?[nointeract]"
-    Kira_04 "Pas de problème, assieds-toi à côté de moi. On finit la série ou on trouve de l'action, de la science-fiction ?[nointeract]"
+    # [Kira_04 "Да без проблем, садись рядом. Будем досматривать сериал или найдём какой-нибудь боевик, фантастику?" nointeract
+    Kira_04 "Pas de problème, assieds-toi à côté de moi. On finit la série ou on trouve de l'action, de la science-fiction ?" nointeract
 
 # game/events/kira.rpy:989
 translate frenh kira_night_tv_5c9ee096:
@@ -1563,14 +1563,14 @@ translate frenh kira_night_tv_e72c8e0b:
 # game/events/kira.rpy:1006
 translate frenh kira_night_tv_ab0640d8:
 
-    # [Max_05 "Ухх... Она начала ласкать свою киску... Вот это уже горячо![nointeract]"
-    Max_05 "Ugh... Elle a commencé à caresser sa chatte... Maintenant c'est chaud![nointeract]"
+    # [Max_05 "Ухх... Она начала ласкать свою киску... Вот это уже горячо!" nointeract
+    Max_05 "Ugh... Elle a commencé à caresser sa chatte... Maintenant c'est chaud!" nointeract
 
 # game/events/kira.rpy:1013
 translate frenh kira_night_tv_a0ee876d:
 
-    # [Kira_07 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А я тут... отдыхаю, как видишь. Я тебя не смущаю таким своим видом?[nointeract]"
-    Kira_07 "Max ? Comment tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... Et me voilà... me reposant, comme tu peux le voir. Est-ce que je te fais honte en ressemblant à ça ?[nointeract]"
+    # [Kira_07 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А я тут... отдыхаю, как видишь. Я тебя не смущаю таким своим видом?" nointeract
+    Kira_07 "Max ? Comment tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... Et me voilà... me reposant, comme tu peux le voir. Est-ce que je te fais honte en ressemblant à ça ?" nointeract
 
 # game/events/kira.rpy:1016
 translate frenh kira_night_tv_9353de64:
@@ -1599,26 +1599,26 @@ translate frenh kira_night_tv_e03b5ea1_1:
 # game/events/kira.rpy:1042
 translate frenh kira_night_tv_10418689:
 
-    # [Max_01 "Тётя Кира ещё не легла спать... смотрит порнушку. Может, стоит задержаться?[nointeract]"
-    Max_01 "Tante Kira n'est pas encore couchée... elle regarde porno. Je devrais peut-être rester dans le coin.[nointeract]"
+    # [Max_01 "Тётя Кира ещё не легла спать... смотрит порнушку. Может, стоит задержаться?" nointeract
+    Max_01 "Tante Kira n'est pas encore couchée... elle regarde porno. Je devrais peut-être rester dans le coin." nointeract
 
 # game/events/kira.rpy:1048
 translate frenh kira_night_tv_48edd355:
 
-    # [Max_05 "Ухх... Она начала ласкать свою киску... Вот это уже горячо! От такой компании я не откажусь...[nointeract]"
-    Max_05 "Ugh... Elle a commencé à caresser sa chatte... Maintenant, c'est chaud ! C'est le genre de chose que je ne refuserais pas....[nointeract]"
+    # [Max_05 "Ухх... Она начала ласкать свою киску... Вот это уже горячо! От такой компании я не откажусь..." nointeract
+    Max_05 "Ugh... Elle a commencé à caresser sa chatte... Maintenant, c'est chaud ! C'est le genre de chose que je ne refuserais pas...." nointeract
 
 # game/events/kira.rpy:1056
 translate frenh kira_night_tv_8a132a75:
 
-    # [Kira_07 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А я тут... отдыхаю, как видишь. Присоединишься?[nointeract]"
-    Kira_07 "Max ? Comment tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... Et me voilà... me reposant, comme tu peux le voir. Veux-tu te joindre à moi?[nointeract]"
+    # [Kira_07 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А я тут... отдыхаю, как видишь. Присоединишься?" nointeract
+    Kira_07 "Max ? Comment tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... Et me voilà... me reposant, comme tu peux le voir. Veux-tu te joindre à moi?" nointeract
 
 # game/events/kira.rpy:1065
 translate frenh kira_night_tv_a0ee876d_1:
 
-    # [Kira_07 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А я тут... отдыхаю, как видишь. Я тебя не смущаю таким своим видом?[nointeract]"
-    Kira_07 "Max ? Comment tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... Et me voilà... me reposant, comme tu peux le voir. Est-ce que je te fais honte en ressemblant à ça ?[nointeract]"
+    # [Kira_07 "А? Макс? Как ты подкрался незаметно... Я думала, уже все спят давно... А я тут... отдыхаю, как видишь. Я тебя не смущаю таким своим видом?" nointeract
+    Kira_07 "Max ? Comment tu te faufiles derrière moi... Je pensais que tout le monde dormait maintenant... Et me voilà... me reposant, comme tu peux le voir. Est-ce que je te fais honte en ressemblant à ça ?" nointeract
 
 # game/events/kira.rpy:1068
 translate frenh kira_night_tv_9353de64_1:
@@ -1659,8 +1659,8 @@ translate frenh kira_night_tv_porn_89c35f72:
 # game/events/kira.rpy:1091
 translate frenh kira_night_tv_porn_437212c5:
 
-    # [Kira_07 "Ага. И ты не придумал ничего лучше, чем попробовать посмотреть со своей тётей порно среди ночи?[nointeract]"
-    Kira_07 "Ouaip. Et tu n'as rien trouvé de mieux à faire que d'essayer de regarder du porno avec ta tante au milieu de la nuit?[nointeract]"
+    # [Kira_07 "Ага. И ты не придумал ничего лучше, чем попробовать посмотреть со своей тётей порно среди ночи?" nointeract
+    Kira_07 "Ouaip. Et tu n'as rien trouvé de mieux à faire que d'essayer de regarder du porno avec ta tante au milieu de la nuit?" nointeract
 
 # game/events/kira.rpy:1096
 translate frenh kira_night_tv_porn_97f63c86:
@@ -1737,8 +1737,8 @@ translate frenh kira_night_tv_porn_view_9c22a090:
 # game/events/kira.rpy:1139
 translate frenh kira_night_tv_porn_view_37bfea4c:
 
-    # [Kira_02 "Спасибо, Макс... Это приятно слышать... Но ты так всё пропустишь самое интересное на экране...[nointeract]"
-    Kira_02 "Merci, Max... C'est bon à entendre... Mais tu manqueras la meilleure partie de l'écran de cette façon...[nointeract]"
+    # [Kira_02 "Спасибо, Макс... Это приятно слышать... Но ты так всё пропустишь самое интересное на экране..." nointeract
+    Kira_02 "Merci, Max... C'est bon à entendre... Mais tu manqueras la meilleure partie de l'écran de cette façon..." nointeract
 
 # game/events/kira.rpy:1146
 translate frenh kira_night_tv_porn_view_d0733d64:
@@ -1755,8 +1755,8 @@ translate frenh kira_night_tv_porn_view_331b9e6e:
 # game/events/kira.rpy:1149
 translate frenh kira_night_tv_porn_view_9c499ca8:
 
-    # [Max_20 "{m}Да, Кира... Твоя помощь бы мне не помешала... Хотя... похоже, я сейчас кончу!{/m}[nointeract]"
-    Max_20 "{m}Oui, Kira... J'aurais besoin de ton aide... Bien que... On dirait que je suis sur le point de jouir!{/m}[nointeract]"
+    # [Max_20 "{m}Да, Кира... Твоя помощь бы мне не помешала... Хотя... похоже, я сейчас кончу!{/m}" nointeract
+    Max_20 "{m}Oui, Kira... J'aurais besoin de ton aide... Bien que... On dirait que je suis sur le point de jouir!{/m}" nointeract
 
 # game/events/kira.rpy:1155
 translate frenh kira_night_tv_porn_view_f87d5fbf:
@@ -1809,8 +1809,8 @@ translate frenh kira_night_tv_porn_view_fa813222:
 # game/events/kira.rpy:1183
 translate frenh kira_night_tv_porn_view_7ed5b3d1:
 
-    # [Kira_02 "Как же без этого, Макс. Но только немножко... чтобы ты не кончил уж очень быстро...[nointeract]"
-    Kira_02 "Tu ne peux pas t'en passer, Max. Mais juste un peu... pour que tu ne jouisses pas trop vite...[nointeract]"
+    # [Kira_02 "Как же без этого, Макс. Но только немножко... чтобы ты не кончил уж очень быстро..." nointeract
+    Kira_02 "Tu ne peux pas t'en passer, Max. Mais juste un peu... pour que tu ne jouisses pas trop vite..." nointeract
 
 # game/events/kira.rpy:1191
 translate frenh kira_night_tv_porn_view_1165d2ce:
@@ -1845,8 +1845,8 @@ translate frenh kira_night_tv_porn_view_176e65f5:
 # game/events/kira.rpy:1197
 translate frenh kira_night_tv_porn_view_1413c02b:
 
-    # [Max_20 "{m}Да, Кира... Твоя помощь бы мне не помешала... Хотя... похоже, я сейчас кончу и без этого!{/m}[nointeract]"
-    Max_20 "{m}Oui, Kira... J'aurais besoin de ton aide... Bien que... On dirait que je suis sur le point de jouir sans elle!{/m}[nointeract]"
+    # [Max_20 "{m}Да, Кира... Твоя помощь бы мне не помешала... Хотя... похоже, я сейчас кончу и без этого!{/m}" nointeract
+    Max_20 "{m}Oui, Kira... J'aurais besoin de ton aide... Bien que... On dirait que je suis sur le point de jouir sans elle!{/m}" nointeract
 
 # game/events/kira.rpy:1202
 translate frenh kira_night_tv_porn_view_24d4d0dd:
@@ -1869,26 +1869,26 @@ translate frenh kira_night_tv_promise_cuni_0ee59050:
 # game/events/kira.rpy:1214
 translate frenh kira_night_tv_promise_cuni_48f0e333:
 
-    # [Max_03 "Конечно помню! Сейчас развлечёмся...[nointeract]"
-    Max_03 "Bien sûr que je m'en souviens ! Amusons-nous un peu....[nointeract]"
+    # [Max_03 "Конечно помню! Сейчас развлечёмся..." nointeract
+    Max_03 "Bien sûr que je m'en souviens ! Amusons-nous un peu...." nointeract
 
 # game/events/kira.rpy:1219
 translate frenh kira_night_tv_promise_cuni_328ceb80:
 
-    # [Kira_02 "Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам.[nointeract]"
-    Kira_02 "Max... Si ma culotte te gêne, je vais l'enlever... Ou enlèves-la toi-même.[nointeract]"
+    # [Kira_02 "Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам." nointeract
+    Kira_02 "Max... Si ma culotte te gêne, je vais l'enlever... Ou enlèves-la toi-même." nointeract
 
 # game/events/kira.rpy:1230
 translate frenh kira_night_tv_promise_cuni_0b64a46b:
 
-    # [Kira_07 "Оу... Решил поиграть со мной так, Макс... Моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник...[nointeract]"
-    Kira_07 "Oh... Tu as décidé de jouer avec moi comme ça, Max... Tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu....[nointeract]"
+    # [Kira_07 "Оу... Решил поиграть со мной так, Макс... Моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник..." nointeract
+    Kira_07 "Oh... Tu as décidé de jouer avec moi comme ça, Max... Tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu...." nointeract
 
 # game/events/kira.rpy:1239
 translate frenh kira_night_tv_promise_cuni_b6af5762:
 
-    # [Kira_10 "Ухх... Чёрт! Как хорошо... Ещё... глубже и быстрее... Да, вот так... Ммм...[nointeract]"
-    Kira_10 "Ugh... Merde ! Comme c'est bon... Aussi... plus profond et plus rapide... Oui, c'est ça... Mmm....[nointeract]"
+    # [Kira_10 "Ухх... Чёрт! Как хорошо... Ещё... глубже и быстрее... Да, вот так... Ммм..." nointeract
+    Kira_10 "Ugh... Merde ! Comme c'est bon... Aussi... plus profond et plus rapide... Oui, c'est ça... Mmm...." nointeract
 
 # game/events/kira.rpy:1252
 translate frenh kira_night_tv_promise_cuni_ee5fc1a0:
@@ -1917,8 +1917,8 @@ translate frenh kira_night_tv_promise_cuni_174945ac:
 # game/events/kira.rpy:1265
 translate frenh kira_night_tv_teachkiss_7f3d8d36:
 
-    # [Kira_00 "Да, да... Момент вполне подходящий... Ну что же, давай приступим.[nointeract]"
-    Kira_00 "Oui, oui... Le moment est bien choisi... Eh bien, allons-y.[nointeract]"
+    # [Kira_00 "Да, да... Момент вполне подходящий... Ну что же, давай приступим." nointeract
+    Kira_00 "Oui, oui... Le moment est bien choisi... Eh bien, allons-y." nointeract
 
 # game/events/kira.rpy:1281
 translate frenh kira_night_tv_first_lesson_dac19e17:
@@ -1959,14 +1959,14 @@ translate frenh kira_night_tv_first_lesson_863e12cb:
 # game/events/kira.rpy:1290
 translate frenh kira_night_tv_first_lesson_4ac5ca0b:
 
-    # [Kira_05 "Ну хорошо. Давай приступим...[nointeract]"
-    Kira_05 "Très bien. Commençons...[nointeract]"
+    # [Kira_05 "Ну хорошо. Давай приступим..." nointeract
+    Kira_05 "Très bien. Commençons..." nointeract
 
 # game/events/kira.rpy:1296
 translate frenh kira_night_tv_first_lesson_ec5a1de2:
 
-    # [Max_03 "{m}Ого... Какой горячий ротик... И она так ловко орудует язычком... Так... И что мне, как... Эх, учиться мне ещё и учиться... А что, я очень даже не против такому учиться!{/m}[nointeract]"
-    Max_03 "{m}Wow... Quelle bouche chaude... Et elle est si habile avec sa langue... Alors... Et qu'est-ce que je fais, en tant que... Oh, j'ai encore beaucoup à apprendre... Pourquoi, ça ne me dérange pas d'apprendre quelque chose comme ça !{/m}[nointeract]"
+    # [Max_03 "{m}Ого... Какой горячий ротик... И она так ловко орудует язычком... Так... И что мне, как... Эх, учиться мне ещё и учиться... А что, я очень даже не против такому учиться!{/m}" nointeract
+    Max_03 "{m}Wow... Quelle bouche chaude... Et elle est si habile avec sa langue... Alors... Et qu'est-ce que je fais, en tant que... Oh, j'ai encore beaucoup à apprendre... Pourquoi, ça ne me dérange pas d'apprendre quelque chose comme ça !{/m}" nointeract
 
 # game/events/kira.rpy:1301
 translate frenh kira_night_tv_first_lesson_659d8563:
@@ -2025,8 +2025,8 @@ translate frenh kira_night_tv_second_lesson_27509f98:
 # game/events/kira.rpy:1337
 translate frenh kira_night_tv_second_lesson_c056e0e2:
 
-    # [Max_02 "Да я только за![nointeract]"
-    Max_02 "Je suis tout à fait pour![nointeract]"
+    # [Max_02 "Да я только за!" nointeract
+    Max_02 "Je suis tout à fait pour!" nointeract
 
 # game/events/kira.rpy:1343
 translate frenh kira_night_tv_second_lesson_b6c08242:
@@ -2061,14 +2061,14 @@ translate frenh kira_night_tv_second_lesson_7ddd1f8d:
 # game/events/kira.rpy:1350
 translate frenh kira_night_tv_second_lesson_20a886ee:
 
-    # [Kira_05 "Ты прав. Когда вы оба уже во всю будете увлечены поцелуем, начни с лёгких прикосновений к талии, ножкам... Поверь мне, ты почувствуешь, нравится ли ей это... Ну что, попробуем?[nointeract]"
-    Kira_05 "Tu as raison. Lorsque tu es tous deux complètement absorbés par le baiser, commences par toucher doucement sa taille, ses jambes... Fais-moi confiance, tu sauras si elle aime ça... On essaie ?[nointeract]"
+    # [Kira_05 "Ты прав. Когда вы оба уже во всю будете увлечены поцелуем, начни с лёгких прикосновений к талии, ножкам... Поверь мне, ты почувствуешь, нравится ли ей это... Ну что, попробуем?" nointeract
+    Kira_05 "Tu as raison. Lorsque tu es tous deux complètement absorbés par le baiser, commences par toucher doucement sa taille, ses jambes... Fais-moi confiance, tu sauras si elle aime ça... On essaie ?" nointeract
 
 # game/events/kira.rpy:1358
 translate frenh kira_night_tv_second_lesson_58738ee4:
 
-    # [Max_03 "{m}О да! Кажется, мне никогда не надоест такая практика... Она так увлечённо целуется... Что она там говорила, про нужный момент? Может быть, это как раз он?{/m}[nointeract]"
-    Max_03 "{m}Oh, oui ! Je ne semble jamais me lasser de cette pratique... Elle embrasse si bien... Que disait-elle là, à propos du bon moment ? Est-ce que ça pourrait être le bon moment?{/m}[nointeract]"
+    # [Max_03 "{m}О да! Кажется, мне никогда не надоест такая практика... Она так увлечённо целуется... Что она там говорила, про нужный момент? Может быть, это как раз он?{/m}" nointeract
+    Max_03 "{m}Oh, oui ! Je ne semble jamais me lasser de cette pratique... Elle embrasse si bien... Que disait-elle là, à propos du bon moment ? Est-ce que ça pourrait être le bon moment?{/m}" nointeract
 
 # game/events/kira.rpy:1362
 translate frenh kira_night_tv_second_lesson_a1f7e689:
@@ -2145,8 +2145,8 @@ translate frenh kira_night_tv_second_lesson_62f4a650_1:
 # game/events/kira.rpy:1390
 translate frenh kira_night_tv_second_lesson_2a8fdf78:
 
-    # [Max_02 "{m}Ничего себе! Кира меня не оттолкнула! Похоже, я всё делаю верно... и, наверно, можно двигаться дальше? Боже мой, какая же у неё гладкая кожа, просто шёлк!{/m}[nointeract]"
-    Max_02 "{m}Wow ! Kira ne m'a pas repoussé! Il me semble que je fais tout bien... et je suppose qu'on peut passer à autre chose? Mon Dieu, sa peau est si lisse, c'est comme de la soie!{/m}[nointeract]"
+    # [Max_02 "{m}Ничего себе! Кира меня не оттолкнула! Похоже, я всё делаю верно... и, наверно, можно двигаться дальше? Боже мой, какая же у неё гладкая кожа, просто шёлк!{/m}" nointeract
+    Max_02 "{m}Wow ! Kira ne m'a pas repoussé! Il me semble que je fais tout bien... et je suppose qu'on peut passer à autre chose? Mon Dieu, sa peau est si lisse, c'est comme de la soie!{/m}" nointeract
 
 # game/events/kira.rpy:1395
 translate frenh kira_night_tv_second_lesson_ce19a55f_1:
@@ -2187,8 +2187,8 @@ translate frenh kira_night_tv_second_lesson_62f4a650_2:
 # game/events/kira.rpy:1411
 translate frenh kira_night_tv_second_lesson_4cd46d4a:
 
-    # [Max_03 "{m}Обалденно! Неужели это не сон и я действительно трогаю её суперскую попку?! Ну и что, что это попка моей тёти... На ощупь она просто восхитительна - нежная и упругая! Но пора двигаться выше. Охх... Кажется, я начинаю возбуждаться...{/m}[nointeract]"
-    Max_03 "{m}Génial ! Ce n'est pas un rêve et je suis vraiment en train de toucher son super cul ?! Et si c'était le derrière de ma tante... Il est merveilleux au toucher - il est douce et souple ! Mais il est temps de passer à la vitesse supérieure. Ohhh... Je pense que je commence à être excité....{/m}[nointeract]"
+    # [Max_03 "{m}Обалденно! Неужели это не сон и я действительно трогаю её суперскую попку?! Ну и что, что это попка моей тёти... На ощупь она просто восхитительна - нежная и упругая! Но пора двигаться выше. Охх... Кажется, я начинаю возбуждаться...{/m}" nointeract
+    Max_03 "{m}Génial ! Ce n'est pas un rêve et je suis vraiment en train de toucher son super cul ?! Et si c'était le derrière de ma tante... Il est merveilleux au toucher - il est douce et souple ! Mais il est temps de passer à la vitesse supérieure. Ohhh... Je pense que je commence à être excité....{/m}" nointeract
 
 # game/events/kira.rpy:1417
 translate frenh kira_night_tv_second_lesson_d088b9d5:
@@ -2217,8 +2217,8 @@ translate frenh kira_night_tv_second_lesson_50f2907c:
 # game/events/kira.rpy:1434
 translate frenh kira_night_tv_second_lesson_cb14d79c:
 
-    # [Kira_07 "Ммм... Макс... думаю... нам надо заканчивать. Уже ведь так поздно.[nointeract]"
-    Kira_07 "Mmm... Max... Je pense... nous devons terminer. Il est déjà si tard.[nointeract]"
+    # [Kira_07 "Ммм... Макс... думаю... нам надо заканчивать. Уже ведь так поздно." nointeract
+    Kira_07 "Mmm... Max... Je pense... nous devons terminer. Il est déjà si tard." nointeract
 
 # game/events/kira.rpy:1439
 translate frenh kira_night_tv_second_lesson_d78e1c5c:
@@ -2229,8 +2229,8 @@ translate frenh kira_night_tv_second_lesson_d78e1c5c:
 # game/events/kira.rpy:1443
 translate frenh kira_night_tv_second_lesson_4466434c:
 
-    # [Kira_09 "[succes!t]О да... уже значительно лучше... Ты быстро схватываешь... Ммм...[nointeract]"
-    Kira_09 "[succes!t]Ah oui... est déjà bien meilleure... Tu comprends vite... Mmm...[nointeract]"
+    # [Kira_09 "[succes!t]О да... уже значительно лучше... Ты быстро схватываешь... Ммм..." nointeract
+    Kira_09 "[succes!t]Ah oui... est déjà bien meilleure... Tu comprends vite... Mmm..." nointeract
 
 # game/events/kira.rpy:1448
 translate frenh kira_night_tv_second_lesson_dc5ca5df:
@@ -2271,14 +2271,14 @@ translate frenh kira_night_tv_repeat_lesson_aa588da8:
 # game/events/kira.rpy:1472
 translate frenh kira_night_tv_repeat_lesson_3412b7f7:
 
-    # [Max_02 "Не отвлекайся![nointeract]"
-    Max_02 "Ne te laisses pas distraire![nointeract]"
+    # [Max_02 "Не отвлекайся!" nointeract
+    Max_02 "Ne te laisses pas distraire!" nointeract
 
 # game/events/kira.rpy:1476
 translate frenh kira_night_tv_repeat_lesson_4d9fd55a:
 
-    # [Max_04 "{m}Кажется, мне никогда не надоест это делать с такой женщиной... Ну и что, что она моя тётя... Но она так классно целуется!{/m}[nointeract]"
-    Max_04 "{m}Je ne pense pas que je me lasserais un jour de le faire avec une femme comme ça... Et alors, si c'est ma tante... Et qu'elle embrasse si bien!{/m}[nointeract]"
+    # [Max_04 "{m}Кажется, мне никогда не надоест это делать с такой женщиной... Ну и что, что она моя тётя... Но она так классно целуется!{/m}" nointeract
+    Max_04 "{m}Je ne pense pas que je me lasserais un jour de le faire avec une femme comme ça... Et alors, si c'est ma tante... Et qu'elle embrasse si bien!{/m}" nointeract
 
 # game/events/kira.rpy:1480
 translate frenh kira_night_tv_repeat_lesson_eda0797b:
@@ -2295,8 +2295,8 @@ translate frenh kira_night_tv_repeat_lesson_e763b08c:
 # game/events/kira.rpy:1487
 translate frenh kira_night_tv_repeat_lesson_8b5ea5ae:
 
-    # [Max_02 "{m}О да! Как же это приятно, ощущать в руке упругость груди тёти Киры и наслаждаться её жаркими поцелуями... О таких уроках я и мечтать раньше не мог!{/m}[nointeract]"
-    Max_02 "{m}Oh, oui ! Quel plaisir de sentir la fermeté des seins de Tante Kira dans ma main et de profiter de ses baisers chauds... Ce sont des leçons dont je n'avais jamais rêvé auparavant!{/m}[nointeract]"
+    # [Max_02 "{m}О да! Как же это приятно, ощущать в руке упругость груди тёти Киры и наслаждаться её жаркими поцелуями... О таких уроках я и мечтать раньше не мог!{/m}" nointeract
+    Max_02 "{m}Oh, oui ! Quel plaisir de sentir la fermeté des seins de Tante Kira dans ma main et de profiter de ses baisers chauds... Ce sont des leçons dont je n'avais jamais rêvé auparavant!{/m}" nointeract
 
 # game/events/kira.rpy:1490
 translate frenh kira_night_tv_repeat_lesson_c479e48c:
@@ -2331,14 +2331,14 @@ translate frenh kira_night_tv_repeat_lesson_40cf2e56:
 # game/events/kira.rpy:1509
 translate frenh kira_night_tv_repeat_lesson_4104bc53:
 
-    # [Kira_05 "Ох... Макс, мои сосочки уже изнывают от желания, чтобы ты прикоснулся к ним своими губами и языком... Давай, не стесняйся![nointeract]"
-    Kira_05 "Oh... Max, mes papilles sont déjà émoustillées de vouloir que tu les touches avec tes lèvres et ta langue. Aller, ne sois pas timide...[nointeract]"
+    # [Kira_05 "Ох... Макс, мои сосочки уже изнывают от желания, чтобы ты прикоснулся к ним своими губами и языком... Давай, не стесняйся!" nointeract
+    Kira_05 "Oh... Max, mes papilles sont déjà émoustillées de vouloir que tu les touches avec tes lèvres et ta langue. Aller, ne sois pas timide..." nointeract
 
 # game/events/kira.rpy:1518
 translate frenh kira_night_tv_repeat_lesson_2df27d30:
 
-    # [Kira_06 "Д-а-а... Вот так, Макс... Поиграй со мной! Как же я уже хочу, чтобы ты опускался своим шустрым язычком всё ниже и ниже... прямо туда... Оххх...[nointeract]"
-    Kira_06 "Oui... C'est ça, Max... Joue avec moi! Comme je veux déjà que tu enfonces ta langue agile de plus en plus profond... juste là... Ohhh.[nointeract]"
+    # [Kira_06 "Д-а-а... Вот так, Макс... Поиграй со мной! Как же я уже хочу, чтобы ты опускался своим шустрым язычком всё ниже и ниже... прямо туда... Оххх..." nointeract
+    Kira_06 "Oui... C'est ça, Max... Joue avec moi! Comme je veux déjà que tu enfonces ta langue agile de plus en plus profond... juste là... Ohhh." nointeract
 
 # game/events/kira.rpy:1522
 translate frenh kira_night_tv_repeat_lesson_c494b70e:
@@ -2355,14 +2355,14 @@ translate frenh kira_night_tv_repeat_lesson_7d5bc607:
 # game/events/kira.rpy:1527
 translate frenh kira_night_tv_repeat_lesson_e594df12:
 
-    # [Kira_07 "Оу... Макс, ты где такому научился? В порнушке подсмотрел? Не останавливайся, я это обожаю! А ты способный... племянник...[nointeract]"
-    Kira_07 "Oh... Max, où as-tu appris ça? Tu l'as vu dans un porno? N'arrêtes pas, j'adore ça ! Et tu es très bon à ça... mon neveu...[nointeract]"
+    # [Kira_07 "Оу... Макс, ты где такому научился? В порнушке подсмотрел? Не останавливайся, я это обожаю! А ты способный... племянник..." nointeract
+    Kira_07 "Oh... Max, où as-tu appris ça? Tu l'as vu dans un porno? N'arrêtes pas, j'adore ça ! Et tu es très bon à ça... mon neveu..." nointeract
 
 # game/events/kira.rpy:1531
 translate frenh kira_night_tv_repeat_lesson_aaa0a3e1:
 
-    # [Kira_09 "Да... Ещё чуть-чуть и я кончу... Проникни в мою киску своими ловкими пальчиками... Она уже такая мокренькая...[nointeract]"
-    Kira_09 "Oui... Encore un peu et je vais jouir... Pénètre ma chatte avec tes doigts agiles... Elle est déjà si mouillée....[nointeract]"
+    # [Kira_09 "Да... Ещё чуть-чуть и я кончу... Проникни в мою киску своими ловкими пальчиками... Она уже такая мокренькая..." nointeract
+    Kira_09 "Oui... Encore un peu et je vais jouir... Pénètre ma chatte avec tes doigts agiles... Elle est déjà si mouillée...." nointeract
 
 # game/events/kira.rpy:1535
 translate frenh kira_night_tv_repeat_lesson_ecb67c1f:
@@ -2391,8 +2391,8 @@ translate frenh kira_night_tv_repeat_lesson_2aa73922:
 # game/events/kira.rpy:1542
 translate frenh kira_night_tv_repeat_lesson_a7a084af:
 
-    # [Kira_07 "А ты, Макс, намного способнее, чем мне казалось... и заслужил кое-что особенное... Давай снимай шорты![nointeract]"
-    Kira_07 "Et toi, Max, tu es bien plus capable que je ne le pensais... et tu mérites quelque chose de spécial... Aller, enlève ton short![nointeract]"
+    # [Kira_07 "А ты, Макс, намного способнее, чем мне казалось... и заслужил кое-что особенное... Давай снимай шорты!" nointeract
+    Kira_07 "Et toi, Max, tu es bien plus capable que je ne le pensais... et tu mérites quelque chose de spécial... Aller, enlève ton short!" nointeract
 
 # game/events/kira.rpy:1546
 translate frenh kira_night_tv_repeat_lesson_9b0315d0:
@@ -2415,20 +2415,20 @@ translate frenh kira_night_tv_repeat_lesson_b3200739:
 # game/events/kira.rpy:1555
 translate frenh kira_night_tv_repeat_lesson_0b605960:
 
-    # [Kira_09 "Просто наслаждайся...[nointeract]"
-    Kira_09 "Profites-en...[nointeract]"
+    # [Kira_09 "Просто наслаждайся..." nointeract
+    Kira_09 "Profites-en..." nointeract
 
 # game/events/kira.rpy:1574
 translate frenh kira_night_tv_repeat_lesson_11330b66:
 
-    # [Max_20 "[restrain!t]{i}Ухх, она так нежно посасывает головку моего члена... Видно, что это не так-то просто... ей еле хватает рта, чтобы это сделать.{/i}[nointeract]"
-    Max_20 "[restrain!t]{i}Ugh, elle suce la tête de ma bite si doucement... Je peux voir que ce n'est pas si facile... elle a à peine assez de bouche pour le faire.{/i}[nointeract]"
+    # [Max_20 "[restrain!t]{i}Ухх, она так нежно посасывает головку моего члена... Видно, что это не так-то просто... ей еле хватает рта, чтобы это сделать.{/i}" nointeract
+    Max_20 "[restrain!t]{i}Ugh, elle suce la tête de ma bite si doucement... Je peux voir que ce n'est pas si facile... elle a à peine assez de bouche pour le faire.{/i}" nointeract
 
 # game/events/kira.rpy:1588
 translate frenh kira_night_tv_repeat_lesson_011a1437:
 
-    # [Max_21 "[restrain!t]{i}Обалдеть! Как глубоко она берёт его в рот! Блин, я уже на грани... Вот-вот и кончу... А она ускоряет темп!{/i}[nointeract]"
-    Max_21 "[restrain!t]{i}Wow ! Comme elle le prend profond dans sa bouche ! Mec, je suis sur le point de... Je suis sur le point de jouir... Et elle accélère le rythme !{/i}[nointeract]"
+    # [Max_21 "[restrain!t]{i}Обалдеть! Как глубоко она берёт его в рот! Блин, я уже на грани... Вот-вот и кончу... А она ускоряет темп!{/i}" nointeract
+    Max_21 "[restrain!t]{i}Wow ! Comme elle le prend profond dans sa bouche ! Mec, je suis sur le point de... Je suis sur le point de jouir... Et elle accélère le rythme !{/i}" nointeract
 
 # game/events/kira.rpy:1590
 translate frenh kira_night_tv_repeat_lesson_609a6e0c:
@@ -2535,32 +2535,32 @@ translate frenh kira_night_tv_not_restrain2_f7abf3aa:
 # game/events/kira.rpy:1643
 translate frenh kira_night_tv_teach_cuni_ef1ea769:
 
-    # [Kira_05 "Ох... Макс, мои сосочки уже изнывают от желания, чтобы ты прикоснулся к ним своими губами и языком...[nointeract]"
-    Kira_05 "Oh... Max, mes papilles sont déjà émoustillées de vouloir que tu les touches avec tes lèvres et ta langue.[nointeract]"
+    # [Kira_05 "Ох... Макс, мои сосочки уже изнывают от желания, чтобы ты прикоснулся к ним своими губами и языком..." nointeract
+    Kira_05 "Oh... Max, mes papilles sont déjà émoustillées de vouloir que tu les touches avec tes lèvres et ta langue." nointeract
 
 # game/events/kira.rpy:1652
 translate frenh kira_night_tv_teach_cuni_2df27d30:
 
-    # [Kira_06 "Д-а-а... Вот так, Макс... Поиграй со мной! Как же я уже хочу, чтобы ты опускался своим шустрым язычком всё ниже и ниже... прямо туда... Оххх...[nointeract]"
-    Kira_06 "Oui... C'est ça, Max... Joue avec moi! Comme je veux déjà que tu enfonces ta langue agile de plus en plus profond... juste là... Ohhh.[nointeract]"
+    # [Kira_06 "Д-а-а... Вот так, Макс... Поиграй со мной! Как же я уже хочу, чтобы ты опускался своим шустрым язычком всё ниже и ниже... прямо туда... Оххх..." nointeract
+    Kira_06 "Oui... C'est ça, Max... Joue avec moi! Comme je veux déjà que tu enfonces ta langue agile de plus en plus profond... juste là... Ohhh." nointeract
 
 # game/events/kira.rpy:1657
 translate frenh kira_night_tv_teach_cuni_328ceb80:
 
-    # [Kira_02 "Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам.[nointeract]"
-    Kira_02 "Max... Si ma culotte te gêne, je vais l'enlever... Ou enlèves-la toi-même.[nointeract]"
+    # [Kira_02 "Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам." nointeract
+    Kira_02 "Max... Si ma culotte te gêne, je vais l'enlever... Ou enlèves-la toi-même." nointeract
 
 # game/events/kira.rpy:1662
 translate frenh kira_night_tv_teach_cuni_fe50801f:
 
-    # [Kira_07 "Оу... Макс, моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник...[nointeract]"
-    Kira_07 "Oh... Max, tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu....[nointeract]"
+    # [Kira_07 "Оу... Макс, моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник..." nointeract
+    Kira_07 "Oh... Max, tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu...." nointeract
 
 # game/events/kira.rpy:1666
 translate frenh kira_night_tv_teach_cuni_aaa0a3e1:
 
-    # [Kira_09 "Да... Ещё чуть-чуть и я кончу... Проникни в мою киску своими ловкими пальчиками... Она уже такая мокренькая...[nointeract]"
-    Kira_09 "Oui... Encore un peu et je vais jouir... Pénètre ma chatte avec tes doigts agiles... Elle est déjà si mouillée....[nointeract]"
+    # [Kira_09 "Да... Ещё чуть-чуть и я кончу... Проникни в мою киску своими ловкими пальчиками... Она уже такая мокренькая..." nointeract
+    Kira_09 "Oui... Encore un peu et je vais jouir... Pénètre ma chatte avec tes doigts agiles... Elle est déjà si mouillée...." nointeract
 
 # game/events/kira.rpy:1676
 translate frenh kira_night_tv_teach_cuni_ecb67c1f:
@@ -2577,20 +2577,20 @@ translate frenh kira_night_tv_teach_cuni_f090a75a:
 # game/events/kira.rpy:1681
 translate frenh kira_night_tv_teach_cuni_b22c5b23:
 
-    # [Kira_07 "Да, я очень испорченная... а ты, Макс, заслужил кое-что особенное... Давай снимай шорты! Твой член так и напрашивается на то, чтобы его хорошенько приласкали...[nointeract]"
-    Kira_07 "Oui, je suis très gâtée... et toi, Max, tu mérites quelque chose de spécial... Aller, enlèves ton short ! Ta bite ne demande qu'à être caressée....[nointeract]"
+    # [Kira_07 "Да, я очень испорченная... а ты, Макс, заслужил кое-что особенное... Давай снимай шорты! Твой член так и напрашивается на то, чтобы его хорошенько приласкали..." nointeract
+    Kira_07 "Oui, je suis très gâtée... et toi, Max, tu mérites quelque chose de spécial... Aller, enlèves ton short ! Ta bite ne demande qu'à être caressée...." nointeract
 
 # game/events/kira.rpy:1702
 translate frenh kira_night_tv_cuni_var2_0b64a46b:
 
-    # [Kira_07 "Оу... Решил поиграть со мной так, Макс... Моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник...[nointeract]"
-    Kira_07 "Oh... Tu as décidé de jouer avec moi comme ça, Max... Tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu....[nointeract]"
+    # [Kira_07 "Оу... Решил поиграть со мной так, Макс... Моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник..." nointeract
+    Kira_07 "Oh... Tu as décidé de jouer avec moi comme ça, Max... Tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu...." nointeract
 
 # game/events/kira.rpy:1711
 translate frenh kira_night_tv_cuni_var2_b6af5762:
 
-    # [Kira_10 "Ухх... Чёрт! Как хорошо... Ещё... глубже и быстрее... Да, вот так... Ммм...[nointeract]"
-    Kira_10 "Ugh... Merde ! Comme c'est bon... Aussi... plus profond et plus rapide... Oui, c'est ça... Mmm....[nointeract]"
+    # [Kira_10 "Ухх... Чёрт! Как хорошо... Ещё... глубже и быстрее... Да, вот так... Ммм..." nointeract
+    Kira_10 "Ugh... Merde ! Comme c'est bon... Aussi... plus profond et plus rapide... Oui, c'est ça... Mmm...." nointeract
 
 # game/events/kira.rpy:1726
 translate frenh kira_night_tv_cuni_var2_ea18dd2c:
@@ -2625,8 +2625,8 @@ translate frenh kira_night_tv_cuni_var2_f7a0a397:
 # game/events/kira.rpy:1744
 translate frenh kira_night_tv_bj_f38ad1c4:
 
-    # [Kira_02 "Тебя ожидают незабываемые ощущения, Макс! Посмотрим, как долго ты сможешь продержаться на этот раз...[nointeract]"
-    Kira_02 "Tu vas vivre une expérience inoubliable, Max ! Voyons combien de temps tu pourras tenir cette fois-ci...[nointeract]"
+    # [Kira_02 "Тебя ожидают незабываемые ощущения, Макс! Посмотрим, как долго ты сможешь продержаться на этот раз..." nointeract
+    Kira_02 "Tu vas vivre une expérience inoubliable, Max ! Voyons combien de temps tu pourras tenir cette fois-ci..." nointeract
 
 # game/events/kira.rpy:1751
 translate frenh kira_night_tv_bj_87575487:
@@ -2637,20 +2637,20 @@ translate frenh kira_night_tv_bj_87575487:
 # game/events/kira.rpy:1753
 translate frenh kira_night_tv_bj_0b605960:
 
-    # [Kira_09 "Просто наслаждайся...[nointeract]"
-    Kira_09 "Profites-en...[nointeract]"
+    # [Kira_09 "Просто наслаждайся..." nointeract
+    Kira_09 "Profites-en..." nointeract
 
 # game/events/kira.rpy:1773
 translate frenh kira_night_tv_bj_4e70d008:
 
-    # [Max_20 "[restrain!t]{i}Ухх, она так нежно посасывает головку моего члена... Не представляю, как ей удаётся поместить её в рот!{/i}[nointeract]"
-    Max_20 "[restrain!t]{i}Ugh, elle suce la tête de ma bite si doucement... Je ne peux pas imaginer comment elle arrive à la mettre dans sa bouche!{/i}[nointeract]"
+    # [Max_20 "[restrain!t]{i}Ухх, она так нежно посасывает головку моего члена... Не представляю, как ей удаётся поместить её в рот!{/i}" nointeract
+    Max_20 "[restrain!t]{i}Ugh, elle suce la tête de ma bite si doucement... Je ne peux pas imaginer comment elle arrive à la mettre dans sa bouche!{/i}" nointeract
 
 # game/events/kira.rpy:1793
 translate frenh kira_night_tv_bj_011a1437:
 
-    # [Max_21 "[restrain!t]{i}Обалдеть! Как глубоко она берёт его в рот! Блин, я уже на грани... Вот-вот и кончу... А она ускоряет темп!{/i}[nointeract]"
-    Max_21 "[restrain!t]{i}Wow ! Comme elle le prend profond dans sa bouche ! Mec, je suis sur le point de... Je suis sur le point de jouir... Et elle accélère le rythme !{/i}[nointeract]"
+    # [Max_21 "[restrain!t]{i}Обалдеть! Как глубоко она берёт его в рот! Блин, я уже на грани... Вот-вот и кончу... А она ускоряет темп!{/i}" nointeract
+    Max_21 "[restrain!t]{i}Wow ! Comme elle le prend profond dans sa bouche ! Mec, je suis sur le point de... Je suis sur le point de jouir... Et elle accélère le rythme !{/i}" nointeract
 
 # game/events/kira.rpy:1795
 translate frenh kira_night_tv_bj_2d0d8f41:
@@ -2679,26 +2679,26 @@ translate frenh kira_night_tv_tv_cuni_6764d776:
 # game/events/kira.rpy:1815
 translate frenh kira_night_tv_tv_cuni_2c995eaa:
 
-    # [Max_01 "Мне нравится, к чему ты клонишь, тётя Кира...[nointeract]"
-    Max_01 "J'aime bien, où tu veux en venir, tante Kira...[nointeract]"
+    # [Max_01 "Мне нравится, к чему ты клонишь, тётя Кира..." nointeract
+    Max_01 "J'aime bien, où tu veux en venir, tante Kira..." nointeract
 
 # game/events/kira.rpy:1820
 translate frenh kira_night_tv_tv_cuni_328ceb80:
 
-    # [Kira_02 "Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам.[nointeract]"
-    Kira_02 "Max... Si ma culotte te gêne, je vais l'enlever... Ou enlèves-la toi-même.[nointeract]"
+    # [Kira_02 "Макс... Если тебе мешают мои трусики, я их сниму... Или сними их сам." nointeract
+    Kira_02 "Max... Si ma culotte te gêne, je vais l'enlever... Ou enlèves-la toi-même." nointeract
 
 # game/events/kira.rpy:1825
 translate frenh kira_night_tv_tv_cuni_fe50801f:
 
-    # [Kira_07 "Оу... Макс, моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник...[nointeract]"
-    Kira_07 "Oh... Max, tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu....[nointeract]"
+    # [Kira_07 "Оу... Макс, моя киска так скучала по твоим ласкам... Не останавливайся, я это обожаю! А ты способный... племянник..." nointeract
+    Kira_07 "Oh... Max, tes caresses ont tellement manqué à ma chatte... N'arrêtes pas, j'adore ça ! Et tu es capable... mon neveu...." nointeract
 
 # game/events/kira.rpy:1829
 translate frenh kira_night_tv_tv_cuni_aaa0a3e1:
 
-    # [Kira_09 "Да... Ещё чуть-чуть и я кончу... Проникни в мою киску своими ловкими пальчиками... Она уже такая мокренькая...[nointeract]"
-    Kira_09 "Oui... Encore un peu et je vais jouir... Pénètre ma chatte avec tes doigts agiles... Elle est déjà si mouillée....[nointeract]"
+    # [Kira_09 "Да... Ещё чуть-чуть и я кончу... Проникни в мою киску своими ловкими пальчиками... Она уже такая мокренькая..." nointeract
+    Kira_09 "Oui... Encore un peu et je vais jouir... Pénètre ma chatte avec tes doigts agiles... Elle est déjà si mouillée...." nointeract
 
 # game/events/kira.rpy:1839
 translate frenh kira_night_tv_tv_cuni_ecb67c1f:
@@ -2727,20 +2727,20 @@ translate frenh kira_night_tv_tv_cuni_f7a0a397:
 # game/events/kira.rpy:1863
 translate frenh kira_night_tv_tv_sex1_6a99226d:
 
-    # [Kira_10 "Ухх... Чёрт! Как хорошо... Ещё... глубже и быстрее... Ещё чуть-чуть и я кончу... Может быть, ты воспользуешься чем-то потолще пальчиков и язычка?[nointeract]"
-    Kira_10 "Ugh... Merde ! Comme c'est gentil... Aussi... plus profond et plus rapide... Encore un peu et je viendrai... Peut-être que tu pourrais utiliser quelque chose de plus épais que tes doigts et ta langue?[nointeract]"
+    # [Kira_10 "Ухх... Чёрт! Как хорошо... Ещё... глубже и быстрее... Ещё чуть-чуть и я кончу... Может быть, ты воспользуешься чем-то потолще пальчиков и язычка?" nointeract
+    Kira_10 "Ugh... Merde ! Comme c'est gentil... Aussi... plus profond et plus rapide... Encore un peu et je viendrai... Peut-être que tu pourrais utiliser quelque chose de plus épais que tes doigts et ta langue?" nointeract
 
 # game/events/kira.rpy:1875
 translate frenh kira_night_tv_tv_sex2_dfb388ae:
 
-    # [Kira_12 "Ох, Макс, не останавливайся! Сожми мою попку покрепче! Я уже так близко... Моя киска так хочет кое-чего большого и твёрдого![nointeract]"
-    Kira_12 "Oh, Max, ne t'arrêtes pas ! Serres mon cul plus fort ! Je suis déjà si proche de... Ma chatte veut tellement quelque chose de gros et de dur![nointeract]"
+    # [Kira_12 "Ох, Макс, не останавливайся! Сожми мою попку покрепче! Я уже так близко... Моя киска так хочет кое-чего большого и твёрдого!" nointeract
+    Kira_12 "Oh, Max, ne t'arrêtes pas ! Serres mon cul plus fort ! Je suis déjà si proche de... Ma chatte veut tellement quelque chose de gros et de dur!" nointeract
 
 # game/events/kira.rpy:1882
 translate frenh kira_night_tv_tv_sex2_69d27069:
 
-    # [Kira_09 "Ох, Макс... Я обожаю этот момент! Д-а-а... Вот так... Вводи его не спеша... хочу немного привыкнуть к его размерам... Ммм...[nointeract]"
-    Kira_09 "Oh, Max... J'adore ce moment ! A-a-a... Et voilà... Introduis-le lentement... je veux m'habituer un peu à sa taille... Mmm...[nointeract]"
+    # [Kira_09 "Ох, Макс... Я обожаю этот момент! Д-а-а... Вот так... Вводи его не спеша... хочу немного привыкнуть к его размерам... Ммм..." nointeract
+    Kira_09 "Oh, Max... J'adore ce moment ! A-a-a... Et voilà... Introduis-le lentement... je veux m'habituer un peu à sa taille... Mmm..." nointeract
 
 # game/events/kira.rpy:1901
 translate frenh kira_night_tv_tv_sex2_371a8e90:
@@ -2757,8 +2757,8 @@ translate frenh kira_night_tv_tv_sex2_118f7848:
 # game/events/kira.rpy:1905
 translate frenh kira_night_tv_tv_sex2_c67f39e0:
 
-    # [Kira_12 "О да! Ещё... ещё, Макс... Да, вот так... Ммм... Трахай меня ещё быстрее! Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, я кончаю... Ахх...[nointeract]"
-    Kira_12 "Oh, oui ! Aussi... aussi, Max... Oui, c'est ça... Mmm... Baises-moi encore plus vite! Je peux à peine me contenir... Oh, ça fait du bien! Plus! Oui, je viens... Ahh...[nointeract]"
+    # [Kira_12 "О да! Ещё... ещё, Макс... Да, вот так... Ммм... Трахай меня ещё быстрее! Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, я кончаю... Ахх..." nointeract
+    Kira_12 "Oh, oui ! Aussi... aussi, Max... Oui, c'est ça... Mmm... Baises-moi encore plus vite! Je peux à peine me contenir... Oh, ça fait du bien! Plus! Oui, je viens... Ahh..." nointeract
 
 # game/events/kira.rpy:1911
 translate frenh kira_night_tv_tv_sex2_fa08c779:
@@ -2823,8 +2823,8 @@ translate frenh kira_night_tv_tv_sex2_7c90ec0a:
 # game/events/kira.rpy:1965
 translate frenh kira_night_tv_tv_sex2_9385ec1b:
 
-    # [Kira_12 "О да! Макс, не сдерживай себя. Можешь кончать прямо в меня! Ох, как хорошо! Ахх...[nointeract]"
-    Kira_12 "Oh, oui ! Max, ne te retiens pas. Tu peux jouir en moi ! Oh, ça fait du bien ! Ahh...[nointeract]"
+    # [Kira_12 "О да! Макс, не сдерживай себя. Можешь кончать прямо в меня! Ох, как хорошо! Ахх..." nointeract
+    Kira_12 "Oh, oui ! Max, ne te retiens pas. Tu peux jouir en moi ! Oh, ça fait du bien ! Ahh..." nointeract
 
 # game/events/kira.rpy:1972
 translate frenh kira_night_tv_tv_sex2_88fc2651:
@@ -2865,8 +2865,8 @@ translate frenh kira_night_tv_tv_sex2_38f54446:
 # game/events/kira.rpy:1999
 translate frenh kira_night_tv_missionary_87407bd3:
 
-    # [Kira_09 "Ох, Макс... Какой же это классный момент! Д-а-а... Вот так... Вводи его не спеша... чтобы я привыкла... Ммм...[nointeract]"
-    Kira_09 "Oh, Max... Quel grand moment! A-a-a... Et voilà... Introduis-le lentement... pour m'habituer à... Mmm...[nointeract]"
+    # [Kira_09 "Ох, Макс... Какой же это классный момент! Д-а-а... Вот так... Вводи его не спеша... чтобы я привыкла... Ммм..." nointeract
+    Kira_09 "Oh, Max... Quel grand moment! A-a-a... Et voilà... Introduis-le lentement... pour m'habituer à... Mmm..." nointeract
 
 # game/events/kira.rpy:2012
 translate frenh kira_night_tv_missionary_20627b65:
@@ -2883,8 +2883,8 @@ translate frenh kira_night_tv_missionary_ccabbb5f:
 # game/events/kira.rpy:2016
 translate frenh kira_night_tv_missionary_a5c44566:
 
-    # [Kira_12 "О да! Ещё... ещё, Макс... Да, вот так... Ммм... Трахай меня ещё сильнее! Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, я кончаю... Ахх...[nointeract]"
-    Kira_12 "Oh, oui ! Aussi... aussi, Max... Oui, c'est ça... Mmm...Baise-moi encore plus fort! Je peux à peine me contenir... Oh, ça fait du bien! Plus! Oui, je viens... Ahh...[nointeract]"
+    # [Kira_12 "О да! Ещё... ещё, Макс... Да, вот так... Ммм... Трахай меня ещё сильнее! Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, я кончаю... Ахх..." nointeract
+    Kira_12 "Oh, oui ! Aussi... aussi, Max... Oui, c'est ça... Mmm...Baise-moi encore plus fort! Je peux à peine me contenir... Oh, ça fait du bien! Plus! Oui, je viens... Ahh..." nointeract
 
 # game/events/kira.rpy:2022
 translate frenh kira_night_tv_missionary_fa08c779:
@@ -2949,8 +2949,8 @@ translate frenh kira_night_tv_missionary_e712cf57:
 # game/events/kira.rpy:2075
 translate frenh kira_night_tv_missionary_9385ec1b:
 
-    # [Kira_12 "О да! Макс, не сдерживай себя. Можешь кончать прямо в меня! Ох, как хорошо! Ахх...[nointeract]"
-    Kira_12 "Oh, oui ! Max, ne te retiens pas. Tu peux jouir en moi ! Oh, ça fait du bien ! Ahh...[nointeract]"
+    # [Kira_12 "О да! Макс, не сдерживай себя. Можешь кончать прямо в меня! Ох, как хорошо! Ахх..." nointeract
+    Kira_12 "Oh, oui ! Max, ne te retiens pas. Tu peux jouir en moi ! Oh, ça fait du bien ! Ahh..." nointeract
 
 # game/events/kira.rpy:2082
 translate frenh kira_night_tv_missionary_88fc2651:
@@ -3045,8 +3045,8 @@ translate frenh kira_night_tv_minet_after_sex_87575487:
 # game/events/kira.rpy:2154
 translate frenh kira_night_tv_minet_after_sex_0b605960:
 
-    # [Kira_09 "Просто наслаждайся...[nointeract]"
-    Kira_09 "Profites-en...[nointeract]"
+    # [Kira_09 "Просто наслаждайся..." nointeract
+    Kira_09 "Profites-en..." nointeract
 
 # game/events/kira.rpy:2167
 translate frenh kira_night_tv_minet_after_sex_ac8a5ca0:
@@ -3057,8 +3057,8 @@ translate frenh kira_night_tv_minet_after_sex_ac8a5ca0:
 # game/events/kira.rpy:2169
 translate frenh kira_night_tv_minet_after_sex_2cc14887:
 
-    # [Max_19 "Да, вот так тётя Кира, твои губки творят чудеса! Охх...[nointeract]"
-    Max_19 "Oui, c'est ça tante Kira, tes lèvres font des merveilles! Ohhh....[nointeract]"
+    # [Max_19 "Да, вот так тётя Кира, твои губки творят чудеса! Охх..." nointeract
+    Max_19 "Oui, c'est ça tante Kira, tes lèvres font des merveilles! Ohhh...." nointeract
 
 # game/events/kira.rpy:2181
 translate frenh kira_night_tv_minet_after_sex_b9d9402f:
@@ -3111,8 +3111,8 @@ translate frenh kira_night_tv_end_sex_3bfad864:
 # game/events/kira.rpy:2212
 translate frenh kira_night_tv_end_sex_469c1d2c:
 
-    # [Max_01 "Конечно, тётя Кира. Ты лучшая! Спокойной ночи![nointeract]"
-    Max_01 "Bien sûr, tante Kira. Tu es la meilleure ! Bonne nuit![nointeract]"
+    # [Max_01 "Конечно, тётя Кира. Ты лучшая! Спокойной ночи!" nointeract
+    Max_01 "Bien sûr, tante Kira. Tu es la meilleure ! Bonne nuit!" nointeract
 
 # game/events/kira.rpy:2217
 translate frenh kira_night_tv_good_night_13e6e29b:
@@ -3147,14 +3147,14 @@ translate frenh kira_night_tv_failed_120d2a41:
 # game/events/kira.rpy:2241
 translate frenh kira_shower_90e1e372:
 
-    # [Max_00 "Кира сейчас принимает душ, не стоит ей мешать...[nointeract]"
-    Max_00 "Kira est en train de prendre une douche, je ne vais pas la déranger....[nointeract]"
+    # [Max_00 "Кира сейчас принимает душ, не стоит ей мешать..." nointeract
+    Max_00 "Kira est en train de prendre une douche, je ne vais pas la déranger...." nointeract
 
 # game/events/kira.rpy:2246
 translate frenh kira_shower_c78a15a2:
 
-    # [Max_01 "Интересно, кто сейчас в душе?[nointeract]"
-    Max_01 "je me demande qui est sous la douche en ce moment?[nointeract]"
+    # [Max_01 "Интересно, кто сейчас в душе?" nointeract
+    Max_01 "je me demande qui est sous la douche en ce moment?" nointeract
 
 # game/events/kira.rpy:2258
 translate frenh kira_shower_ladder_2b325faf:
@@ -3195,26 +3195,26 @@ translate frenh kira_shower_ladder_90ff417e:
 # game/events/kira.rpy:2290
 translate frenh kira_shower_start_peeping_ceaa567f:
 
-    # [Max_05 "Ага! Тётя Кира сегодня одна... и похоже, решила немножко себя развлечь принимая водные процедуры... Это я удачно зашёл![nointeract]"
-    Max_05 "Ah! Tante Kira est seule aujourd'hui... et on dirait qu'elle a décidé de s'amuser un peu en prenant une douche... C'est ma chance![nointeract]"
+    # [Max_05 "Ага! Тётя Кира сегодня одна... и похоже, решила немножко себя развлечь принимая водные процедуры... Это я удачно зашёл!" nointeract
+    Max_05 "Ah! Tante Kira est seule aujourd'hui... et on dirait qu'elle a décidé de s'amuser un peu en prenant une douche... C'est ma chance!" nointeract
 
 # game/events/kira.rpy:2303
 translate frenh kira_shower_start_peeping_adae6fbb:
 
-    # [Max_07 "Супер! Тётя Кира в душе... и совсем одна... такая голая и мокренькая... Вот это зрелище![nointeract]"
-    Max_07 "Super ! Tante Kira sous la douche... et tout seul... si nue et humide... Quel spectacle ![nointeract]"
+    # [Max_07 "Супер! Тётя Кира в душе... и совсем одна... такая голая и мокренькая... Вот это зрелище!" nointeract
+    Max_07 "Super ! Tante Kira sous la douche... et tout seul... si nue et humide... Quel spectacle !" nointeract
 
 # game/events/kira.rpy:2321
 translate frenh kira_shower_start_peeping_1a39c5f6:
 
-    # [Max_03 "Ухх... Наблюдать за моей тётей просто загляденье! Её округлости и изящность движений очень возбуждают...[nointeract]"
-    Max_03 "Ugh... Regarder ma tante est un spectacle à voir ! Sa rondeur et ses mouvements gracieux sont très excitants...[nointeract]"
+    # [Max_03 "Ухх... Наблюдать за моей тётей просто загляденье! Её округлости и изящность движений очень возбуждают..." nointeract
+    Max_03 "Ugh... Regarder ma tante est un spectacle à voir ! Sa rondeur et ses mouvements gracieux sont très excitants..." nointeract
 
 # game/events/kira.rpy:2323
 translate frenh kira_shower_start_peeping_a32344ac:
 
-    # [Max_05 "За этим можно долго смотреть, а лучше присоединиться... Не зря же меня тётя Кира пригласила![nointeract]"
-    Max_05 "C'est quelque chose à regarder pendant longtemps, et c'est mieux d'y participer... Tante Kira ne m'a pas invité pour rien![nointeract]"
+    # [Max_05 "За этим можно долго смотреть, а лучше присоединиться... Не зря же меня тётя Кира пригласила!" nointeract
+    Max_05 "C'est quelque chose à regarder pendant longtemps, et c'est mieux d'y participer... Tante Kira ne m'a pas invité pour rien!" nointeract
 
 # game/events/kira.rpy:2332
 translate frenh kira_shower_start_peeping_f934835c:
@@ -3231,14 +3231,14 @@ translate frenh kira_shower_start_peeping_eab86a2d:
 # game/events/kira.rpy:2346
 translate frenh kira_shower_alt_peepeng_1a39c5f6:
 
-    # [Max_03 "Ухх... Наблюдать за моей тётей просто загляденье! Её округлости и изящность движений очень возбуждают...[nointeract]"
-    Max_03 "Ugh... Regarder ma tante est un spectacle à voir ! Sa rondeur et ses mouvements gracieux sont très excitants...[nointeract]"
+    # [Max_03 "Ухх... Наблюдать за моей тётей просто загляденье! Её округлости и изящность движений очень возбуждают..." nointeract
+    Max_03 "Ugh... Regarder ma tante est un spectacle à voir ! Sa rondeur et ses mouvements gracieux sont très excitants..." nointeract
 
 # game/events/kira.rpy:2348
 translate frenh kira_shower_alt_peepeng_a32344ac:
 
-    # [Max_05 "За этим можно долго смотреть, а лучше присоединиться... Не зря же меня тётя Кира пригласила![nointeract]"
-    Max_05 "C'est quelque chose à regarder pendant longtemps, et c'est mieux d'y participer... Tante Kira ne m'a pas invité pour rien![nointeract]"
+    # [Max_05 "За этим можно долго смотреть, а лучше присоединиться... Не зря же меня тётя Кира пригласила!" nointeract
+    Max_05 "C'est quelque chose à regarder pendant longtemps, et c'est mieux d'y participer... Tante Kira ne m'a pas invité pour rien!" nointeract
 
 # game/events/kira.rpy:2357
 translate frenh kira_shower_alt_peepeng_f934835c:
@@ -3255,8 +3255,8 @@ translate frenh kira_shower_alt_peepeng_eab86a2d:
 # game/events/kira.rpy:2373
 translate frenh kira_shower_promise_cuni_c2262ba3:
 
-    # [Kira_02 "А, Макс, конечно можно! Тебя и дожидаюсь. Присоединяйся...[nointeract]"
-    Kira_02 "Ah, Max, bien sûr que tu peux ! C'est toi que j'attends. Rejoins-moi...[nointeract]"
+    # [Kira_02 "А, Макс, конечно можно! Тебя и дожидаюсь. Присоединяйся..." nointeract
+    Kira_02 "Ah, Max, bien sûr que tu peux ! C'est toi que j'attends. Rejoins-moi..." nointeract
 
 # game/events/kira.rpy:2377
 translate frenh kira_shower_promise_cuni_6662fc98:
@@ -3267,26 +3267,26 @@ translate frenh kira_shower_promise_cuni_6662fc98:
 # game/events/kira.rpy:2379
 translate frenh kira_shower_promise_cuni_7e9dc3d1:
 
-    # [Max_03 "Как о тебе можно забыть, тётя Кира? Тебя нужно как следует порадовать за вчерашнее...[nointeract]"
-    Max_03 "Comment pourrait-on t'oublier, tante Kira ? Tu as besoin d'être correctement récompensée pour hier...[nointeract]"
+    # [Max_03 "Как о тебе можно забыть, тётя Кира? Тебя нужно как следует порадовать за вчерашнее..." nointeract
+    Max_03 "Comment pourrait-on t'oublier, tante Kira ? Tu as besoin d'être correctement récompensée pour hier..." nointeract
 
 # game/events/kira.rpy:2386
 translate frenh kira_shower_promise_cuni_d3c0b1c3:
 
-    # [Kira_04 "Ох... Ты тот ещё шалунишка! Я обожаю, когда ласкают мою грудь и особенно мои сосочки... Ммм...[nointeract]"
-    Kira_04 "Oh... Tu es un vilain garçon! J'aime que l'on caresse mes seins et surtout mes tétons... Mmm...[nointeract]"
+    # [Kira_04 "Ох... Ты тот ещё шалунишка! Я обожаю, когда ласкают мою грудь и особенно мои сосочки... Ммм..." nointeract
+    Kira_04 "Oh... Tu es un vilain garçon! J'aime que l'on caresse mes seins et surtout mes tétons... Mmm..." nointeract
 
 # game/events/kira.rpy:2390
 translate frenh kira_shower_promise_cuni_56e27392:
 
-    # [Kira_10 "Да, Макс... Продолжай вот так и я уже не смогу сдержаться... У тебя такие ловкие пальчики... Да...[nointeract]"
-    Kira_10 "Oui, Max... Continues comme ça et je ne pourrais plus me retenir... Tu as des doigts si agiles... Oui...[nointeract]"
+    # [Kira_10 "Да, Макс... Продолжай вот так и я уже не смогу сдержаться... У тебя такие ловкие пальчики... Да..." nointeract
+    Kira_10 "Oui, Max... Continues comme ça et je ne pourrais plus me retenir... Tu as des doigts si agiles... Oui..." nointeract
 
 # game/events/kira.rpy:2394
 translate frenh kira_shower_promise_cuni_7ca5775c:
 
-    # [Kira_11 "О да... Ещё, Макс... Я уже близко... Так приятно...[nointeract]"
-    Kira_11 "Ah oui... Plus, Max... Je me rapproche... C'est si bon...[nointeract]"
+    # [Kira_11 "О да... Ещё, Макс... Я уже близко... Так приятно..." nointeract
+    Kira_11 "Ah oui... Plus, Max... Je me rapproche... C'est si bon..." nointeract
 
 # game/events/kira.rpy:2399
 translate frenh kira_shower_promise_cuni_37a341b6:
@@ -3321,14 +3321,14 @@ translate frenh kira_shower_promise_cuni_6a25c28c:
 # game/events/kira.rpy:2425
 translate frenh kira_lisa_shower_e1e82272:
 
-    # [Max_00 "Лиза и Кира принимают душ, не стоит им мешать...[nointeract]"
-    Max_00 "Lisa et Kira prennent une douche, je ne vais pas les déranger...[nointeract]"
+    # [Max_00 "Лиза и Кира принимают душ, не стоит им мешать..." nointeract
+    Max_00 "Lisa et Kira prennent une douche, je ne vais pas les déranger..." nointeract
 
 # game/events/kira.rpy:2430
 translate frenh kira_lisa_shower_c78a15a2:
 
-    # [Max_01 "Интересно, кто сейчас в душе?[nointeract]"
-    Max_01 "je me demande qui est sous la douche en ce moment?[nointeract]"
+    # [Max_01 "Интересно, кто сейчас в душе?" nointeract
+    Max_01 "je me demande qui est sous la douche en ce moment?" nointeract
 
 # game/events/kira.rpy:2442
 translate frenh kira_lisa_shower_ladder_2b325faf:
@@ -3399,8 +3399,8 @@ translate frenh kira_lisa_shower_ladder_87af87e8:
 # game/events/kira.rpy:2532
 translate frenh kira_lisa_shower_start_peeping_c64a3986:
 
-    # [Max_07 "Отлично! Лиза вместе с тётей Кирой сегодня оказались в одно и то же время в душе... Очень соблазнительно![nointeract]"
-    Max_07 "Super ! Lisa et tante Kira se sont retrouvées sous la douche au même moment aujourd'hui... C'est très tentant ![nointeract]"
+    # [Max_07 "Отлично! Лиза вместе с тётей Кирой сегодня оказались в одно и то же время в душе... Очень соблазнительно!" nointeract
+    Max_07 "Super ! Lisa et tante Kira se sont retrouvées sous la douche au même moment aujourd'hui... C'est très tentant !" nointeract
 
 # game/events/kira.rpy:2548
 translate frenh kira_lisa_shower_start_peeping_ddbc59ae:
@@ -3417,14 +3417,14 @@ translate frenh kira_lisa_shower_alt_peepeng_ddbc59ae:
 # game/events/kira.rpy:2578
 translate frenh kira_alice_shower_d719e4e2:
 
-    # [Max_00 "Кира и Алиса принимают душ, не стоит им мешать...[nointeract]"
-    Max_00 "Kira et Alice prennent une douche, je ne vais pas les déranger...[nointeract]"
+    # [Max_00 "Кира и Алиса принимают душ, не стоит им мешать..." nointeract
+    Max_00 "Kira et Alice prennent une douche, je ne vais pas les déranger..." nointeract
 
 # game/events/kira.rpy:2583
 translate frenh kira_alice_shower_c78a15a2:
 
-    # [Max_01 "Интересно, кто сейчас в душе?[nointeract]"
-    Max_01 "je me demande qui est sous la douche en ce moment?[nointeract]"
+    # [Max_01 "Интересно, кто сейчас в душе?" nointeract
+    Max_01 "je me demande qui est sous la douche en ce moment?" nointeract
 
 # game/events/kira.rpy:2595
 translate frenh kira_alice_shower_ladder_2b325faf:
@@ -3495,8 +3495,8 @@ translate frenh kira_alice_shower_ladder_87af87e8:
 # game/events/kira.rpy:2683
 translate frenh kira_alice_shower_start_peeping_15451dbe:
 
-    # [Max_07 "Ого... Две очень плохие девочки сегодня моются вместе... тётя Кира и Алиса! Как же они хороши...[nointeract]"
-    Max_07 "Wow... Deux très mauvaises filles se lavant ensemble aujourd'hui... Tante Kira et Alice ! A quel point elles sont bonnes...[nointeract]"
+    # [Max_07 "Ого... Две очень плохие девочки сегодня моются вместе... тётя Кира и Алиса! Как же они хороши..." nointeract
+    Max_07 "Wow... Deux très mauvaises filles se lavant ensemble aujourd'hui... Tante Kira et Alice ! A quel point elles sont bonnes..." nointeract
 
 # game/events/kira.rpy:2698
 translate frenh kira_alice_shower_start_peeping_2ddf2244:
@@ -3597,8 +3597,8 @@ translate frenh return_from_club_9e8526f9:
 # game/events/kira.rpy:2748
 translate frenh return_from_club_c0085d94:
 
-    # [Alice_03 "Не сомневаюсь, Макс. Но всё, хватит разговоров. Я пойду переодену и уложу тётю Киру в гостиной, а ты иди в свою комнату и ложись спать. Пока![nointeract]"
-    Alice_03 "Je n'en doute pas, Max. Mais c'est assez de paroles. Je vais me changer et mettre tante Kira au lit dans le salon et toi, tu vas dans ta chambre et tu te couches. Au revoir![nointeract]"
+    # [Alice_03 "Не сомневаюсь, Макс. Но всё, хватит разговоров. Я пойду переодену и уложу тётю Киру в гостиной, а ты иди в свою комнату и ложись спать. Пока!" nointeract
+    Alice_03 "Je n'en doute pas, Max. Mais c'est assez de paroles. Je vais me changer et mettre tante Kira au lit dans le salon et toi, tu vas dans ta chambre et tu te couches. Au revoir!" nointeract
 
 # game/events/kira.rpy:2750
 translate frenh return_from_club_fb094ae4:
@@ -3627,8 +3627,8 @@ translate frenh return_from_club_051ee7df:
 # game/events/kira.rpy:2755
 translate frenh return_from_club_7b99fe1e:
 
-    # [Max_01 "Ага, доброй. Пойдём, тётя Кира, я тебя провожу...[nointeract]"
-    Max_01 "Oui, c'est ça. Viens, tante Kira, je te raccompagne...[nointeract]"
+    # [Max_01 "Ага, доброй. Пойдём, тётя Кира, я тебя провожу..." nointeract
+    Max_01 "Oui, c'est ça. Viens, tante Kira, je te raccompagne..." nointeract
 
 # game/events/kira.rpy:2764
 translate frenh return_from_club_ece3a784:
@@ -3717,8 +3717,8 @@ translate frenh return_from_club_ba66703f:
 # game/events/kira.rpy:2795
 translate frenh return_from_club_fde1b591:
 
-    # [Alice_12 "Только давай быстрее![nointeract]"
-    Alice_12 "Fais vite![nointeract]"
+    # [Alice_12 "Только давай быстрее!" nointeract
+    Alice_12 "Fais vite!" nointeract
 
 # game/events/kira.rpy:2799
 translate frenh return_from_club_f9df4462:
@@ -3759,8 +3759,8 @@ translate frenh return_from_club_d85c0008_1:
 # game/events/kira.rpy:2817
 translate frenh return_from_club_72f9af45:
 
-    # [Kira_07 "Зачем рассказывать, Макс, когда можно показать?! Присаживайся, если хочешь посмотреть это шоу...[nointeract]"
-    Kira_07 "Pourquoi, Max, tu veux que je te montre?! Prends un siège si tu veux regarder ce spectacle...[nointeract]"
+    # [Kira_07 "Зачем рассказывать, Макс, когда можно показать?! Присаживайся, если хочешь посмотреть это шоу..." nointeract
+    Kira_07 "Pourquoi, Max, tu veux que je te montre?! Prends un siège si tu veux regarder ce spectacle..." nointeract
 
 # game/events/kira.rpy:2830
 translate frenh return_from_club_ece3a784_2:
@@ -3789,8 +3789,8 @@ translate frenh return_from_club_d85c0008_2:
 # game/events/kira.rpy:2840
 translate frenh return_from_club_72f9af45_1:
 
-    # [Kira_07 "Зачем рассказывать, Макс, когда можно показать?! Присаживайся, если хочешь посмотреть это шоу...[nointeract]"
-    Kira_07 "Pourquoi, Max, tu veux que je te montre?! Prends un siège si tu veux regarder ce spectacle...[nointeract]"
+    # [Kira_07 "Зачем рассказывать, Макс, когда можно показать?! Присаживайся, если хочешь посмотреть это шоу..." nointeract
+    Kira_07 "Pourquoi, Max, tu veux que je te montre?! Prends un siège si tu veux regarder ce spectacle..." nointeract
 
 # game/events/kira.rpy:2854
 translate frenh return_from_club_striptease_f36bfafe:
@@ -3855,8 +3855,8 @@ translate frenh return_from_club_striptease_8e9ce92e:
 # game/events/kira.rpy:2888
 translate frenh return_from_club_striptease_b45fd168:
 
-    # [Kira_02 "Я постараюсь. Приятных снов, Макс.[nointeract]"
-    Kira_02 "Je ferais de mon mieux. Dors bien, Max.[nointeract]"
+    # [Kira_02 "Я постараюсь. Приятных снов, Макс." nointeract
+    Kira_02 "Je ferais de mon mieux. Dors bien, Max." nointeract
 
 # game/events/kira.rpy:2906
 translate frenh return_from_club_striptease_513073a9:
@@ -3873,8 +3873,8 @@ translate frenh return_from_club_striptease_ab1dbcf5:
 # game/events/kira.rpy:2914
 translate frenh return_from_club_striptease_01774195:
 
-    # [Kira_07 "Выбирай с умом, Макс, потому что ты получишь лишь что-то одно! Я могу обласкать твой член либо грудью, либо попкой. Как ты хочешь, чтобы я это сделала?[nointeract]"
-    Kira_07 "Choisis sagement, Max, parce que tu n'as qu'un seul choix! Je peux caresser ta bite avec mes seins ou mes fesses. Comment veux-tu que je le fasse ?[nointeract]"
+    # [Kira_07 "Выбирай с умом, Макс, потому что ты получишь лишь что-то одно! Я могу обласкать твой член либо грудью, либо попкой. Как ты хочешь, чтобы я это сделала?" nointeract
+    Kira_07 "Choisis sagement, Max, parce que tu n'as qu'un seul choix! Je peux caresser ta bite avec mes seins ou mes fesses. Comment veux-tu que je le fasse ?" nointeract
 
 # game/events/kira.rpy:2921
 translate frenh return_from_club_striptease_5da9e65f:
@@ -3885,8 +3885,8 @@ translate frenh return_from_club_striptease_5da9e65f:
 # game/events/kira.rpy:2923
 translate frenh return_from_club_striptease_6057aa1a:
 
-    # [Max_07 "Ухх, чёрт! Тётя Кира, когда ты так красиво это делаешь, выбор и правда становится очень сложным![nointeract]"
-    Max_07 "Ugh, merde ! Tante Kira, quand tu le fais si bien, le choix devient très difficile![nointeract]"
+    # [Max_07 "Ухх, чёрт! Тётя Кира, когда ты так красиво это делаешь, выбор и правда становится очень сложным!" nointeract
+    Max_07 "Ugh, merde ! Tante Kira, quand tu le fais si bien, le choix devient très difficile!" nointeract
 
 # game/events/kira.rpy:2929
 translate frenh return_from_club_striptease_a466dbaf:
@@ -3921,8 +3921,8 @@ translate frenh return_from_club_striptease_e77d55be:
 # game/events/kira.rpy:2954
 translate frenh return_from_club_striptease_6057aa1a_1:
 
-    # [Max_07 "Ухх, чёрт! Тётя Кира, когда ты так красиво это делаешь, выбор и правда становится очень сложным![nointeract]"
-    Max_07 "Ugh, merde ! Tante Kira, quand tu le fais si bien, le choix devient très difficile![nointeract]"
+    # [Max_07 "Ухх, чёрт! Тётя Кира, когда ты так красиво это делаешь, выбор и правда становится очень сложным!" nointeract
+    Max_07 "Ugh, merde ! Tante Kira, quand tu le fais si bien, le choix devient très difficile!" nointeract
 
 # game/events/kira.rpy:2961
 translate frenh return_from_club_striptease_4320cff4_1:
@@ -3987,8 +3987,8 @@ translate frenh return_from_club_boobs_a38e6fb8:
 # game/events/kira.rpy:3002
 translate frenh return_from_club_boobs_20ab4298:
 
-    # [Max_01 "{i}Надеюсь, мама не будет сильно её осуждать за то, что она легла спать голая... С кем не бывает! А хороша тётя, так и гипнотизирует своей красотой. Но пора и мне спать...{/i}[nointeract]"
-    Max_01 "{i}J'espère que ma mère ne la jugera pas trop pour s'être couchée nue... Qui ne le fait pas? Et ma tante est bonne, elle est si hypnotique avec sa beauté. Mais il est temps pour moi d'aller au lit aussi....{/i}[nointeract]"
+    # [Max_01 "{i}Надеюсь, мама не будет сильно её осуждать за то, что она легла спать голая... С кем не бывает! А хороша тётя, так и гипнотизирует своей красотой. Но пора и мне спать...{/i}" nointeract
+    Max_01 "{i}J'espère que ma mère ne la jugera pas trop pour s'être couchée nue... Qui ne le fait pas? Et ma tante est bonne, elle est si hypnotique avec sa beauté. Mais il est temps pour moi d'aller au lit aussi....{/i}" nointeract
 
 # game/events/kira.rpy:3012
 translate frenh return_from_club_ass_5e3c81e6:
@@ -4029,14 +4029,14 @@ translate frenh return_from_club_ass_a38e6fb8:
 # game/events/kira.rpy:3035
 translate frenh return_from_club_ass_ee61265b:
 
-    # [Max_01 "Надеюсь, мама не будет сильно её ругать за то, что она легла спать голая... Со всеми может случиться! А хороша тётя, так и гипнотизирует своей красотой. Но пора и мне спать...[nointeract]"
-    Max_01 "J'espère que ma mère ne la grondera pas trop pour s'être couchée nue... Cela peut arriver à tout le monde! Et ma tante est bonne, elle est si hypnotique avec sa beauté. Mais il est temps pour moi d'aller au lit aussi....[nointeract]"
+    # [Max_01 "Надеюсь, мама не будет сильно её ругать за то, что она легла спать голая... Со всеми может случиться! А хороша тётя, так и гипнотизирует своей красотой. Но пора и мне спать..." nointeract
+    Max_01 "J'espère que ma mère ne la grondera pas trop pour s'être couchée nue... Cela peut arriver à tout le monde! Et ma tante est bonne, elle est si hypnotique avec sa beauté. Mais il est temps pour moi d'aller au lit aussi...." nointeract
 
 # game/events/kira.rpy:3052
 translate frenh kira_bath_with_eric_e51d277a:
 
-    # [Max_01 "Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
-    Max_01 "Une seule personne ne peut pas dormir en ce moment et prendre un bain. Et cette personne, c’est Kira ![nointeract]"
+    # [Max_01 "Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!" nointeract
+    Max_01 "Une seule personne ne peut pas dormir en ce moment et prendre un bain. Et cette personne, c’est Kira !" nointeract
 
 # game/events/kira.rpy:3063
 translate frenh kira_bath_with_eric_1593e4c0:
@@ -4065,14 +4065,14 @@ translate frenh kira_bath_with_eric_bff48399:
 # game/events/kira.rpy:3087
 translate frenh kira_bath_with_eric_b8b602d6:
 
-    # [Max_09 "Вот же сволочь! Спустил всё до последней капли Кире прямо в рот! Ну Эрик, ты у меня сполна получишь рано или поздно...[nointeract]"
-    Max_09 "Quel salaud! Il a versé jusqu'à la dernière goutte dans la bouche de Kira ! Eh bien, Eric, je t'aurai tôt ou tard....[nointeract]"
+    # [Max_09 "Вот же сволочь! Спустил всё до последней капли Кире прямо в рот! Ну Эрик, ты у меня сполна получишь рано или поздно..." nointeract
+    Max_09 "Quel salaud! Il a versé jusqu'à la dernière goutte dans la bouche de Kira ! Eh bien, Eric, je t'aurai tôt ou tard...." nointeract
 
 # game/events/kira.rpy:3092
 translate frenh kira_bath_with_eric_6bca3a88:
 
-    # [Max_02 "Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа![nointeract]"
-    Max_02 "Kira n'a pas laissé passer une seule goutte ! Et comme si personne ne venait de sucer la bite de quelqu'un... Un travail propre![nointeract]"
+    # [Max_02 "Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!" nointeract
+    Max_02 "Kira n'a pas laissé passer une seule goutte ! Et comme si personne ne venait de sucer la bite de quelqu'un... Un travail propre!" nointeract
 
     old "{i}войти{/i}"
     new "{i}se connecter{/i}"

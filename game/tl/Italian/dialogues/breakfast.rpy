@@ -15,8 +15,8 @@
 # game/dialogues/breakfast.rpy:14
 translate italian typical_breakfast_32286f7d:
 
-    # [Ann_00 "Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
-    Ann_00 "Buongiorno a tutti ancora una volta, buon appetito a tutti! Facciamo uno spuntino in silenzio oggi, se non ti dispiace...[nointeract]"
+    # [Ann_00 "Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете..." nointeract
+    Ann_00 "Buongiorno a tutti ancora una volta, buon appetito a tutti! Facciamo uno spuntino in silenzio oggi, se non ti dispiace..." nointeract
 
 # game/dialogues/breakfast.rpy:16
 translate italian typical_breakfast_1211a2f4:
@@ -51,92 +51,92 @@ translate italian breakfast_first_4fdf0844:
 # game/dialogues/breakfast.rpy:28
 translate italian breakfast_first_6ac209bf:
 
-    # [Alice_07 "Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная...[nointeract]"
-    Alice_07 "Semplicemente mi ha lasciato senza parole! Dopo il nostro vecchio appartamento in affitto, qui è come stare il paradiso! E che letto comodo...[nointeract]"
+    # [Alice_07 "Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная..." nointeract
+    Alice_07 "Semplicemente mi ha lasciato senza parole! Dopo il nostro vecchio appartamento in affitto, qui è come stare il paradiso! E che letto comodo..." nointeract
 
 # game/dialogues/breakfast.rpy:31
 translate italian breakfast_first_494e7581:
 
-    # [Ann_12 "Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно...[nointeract]"
-    Ann_12 "Già, anch'io sono preoccupato per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non devi pagare la bolletta dell'elettricità...[nointeract]"
+    # [Ann_12 "Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно..." nointeract
+    Ann_12 "Già, anch'io sono preoccupato per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non devi pagare la bolletta dell'elettricità..." nointeract
 
 # game/dialogues/breakfast.rpy:38
 translate italian breakfast_first_02490cba:
 
-    # [Lisa_01 "А вдруг, нигде не кидают? Хотя я папу и не помню, но мне кажется, что никто не стал бы дарить целый дом только чтобы как-то кинуть...[nointeract]"
-    Lisa_01 "E se non c'è nessun lancio da nessuna parte? Anche se non ricordo papà, non credo che qualcuno darebbe una casa intera solo per buttarla via in qualche modo...[nointeract]"
+    # [Lisa_01 "А вдруг, нигде не кидают? Хотя я папу и не помню, но мне кажется, что никто не стал бы дарить целый дом только чтобы как-то кинуть..." nointeract
+    Lisa_01 "E se non c'è nessun lancio da nessuna parte? Anche se non ricordo papà, non credo che qualcuno darebbe una casa intera solo per buttarla via in qualche modo..." nointeract
 
 # game/dialogues/breakfast.rpy:47
 translate italian breakfast_first_3acfb325:
 
-    # [Lisa_03 "Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую...[nointeract]"
-    Lisa_03 "È perché io e te abbiamo i nostri vecchi letti. L'hai dimenticato? A proposito, mi piace il mio. Non voglio nemmeno scambiarlo con uno nuovo...[nointeract]"
+    # [Lisa_03 "Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую..." nointeract
+    Lisa_03 "È perché io e te abbiamo i nostri vecchi letti. L'hai dimenticato? A proposito, mi piace il mio. Non voglio nemmeno scambiarlo con uno nuovo..." nointeract
 
 # game/dialogues/breakfast.rpy:50
 translate italian breakfast_first_54853909:
 
-    # [Ann_00 "Если что, мебель всегда можно будет купить...[nointeract]"
-    Ann_00 "Al massimo, i mobili si possono sempre comprare...[nointeract]"
+    # [Ann_00 "Если что, мебель всегда можно будет купить..." nointeract
+    Ann_00 "Al massimo, i mobili si possono sempre comprare..." nointeract
 
 # game/dialogues/breakfast.rpy:58
 translate italian breakfast_first_bf_change_a3dfedbb:
 
-    # [Ann_00 "Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу.[nointeract]"
-    Ann_00 "Basta così. Cambiamo argomento. Ad esempio, oggi è il primo giorno nella nuova scuola per Lisa.[nointeract]"
+    # [Ann_00 "Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу." nointeract
+    Ann_00 "Basta così. Cambiamo argomento. Ad esempio, oggi è il primo giorno nella nuova scuola per Lisa." nointeract
 
 # game/dialogues/breakfast.rpy:61
 translate italian breakfast_first_bf_change_44297202:
 
-    # [Lisa_02 "Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив...[nointeract]"
-    Lisa_02 "Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Nuovo posto, nuova scuola, nuove persone...[nointeract]"
+    # [Lisa_02 "Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..." nointeract
+    Lisa_02 "Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Nuovo posto, nuova scuola, nuove persone..." nointeract
 
 # game/dialogues/breakfast.rpy:64
 translate italian breakfast_first_bf_change_76249fd8:
 
-    # [Alice_13 "Ага, помощник. Самого выгнали, а он учить собрался...[nointeract]"
-    Alice_13 "Sì, aiutante. È stato cacciato e ora vuole insegnare...[nointeract]"
+    # [Alice_13 "Ага, помощник. Самого выгнали, а он учить собрался..." nointeract
+    Alice_13 "Sì, aiutante. È stato cacciato e ora vuole insegnare..." nointeract
 
 # game/dialogues/breakfast.rpy:67
 translate italian breakfast_first_bf_change_e252eb97:
 
-    # [Alice_06 "Да все мы знаем за что тебя выгнали. Но это не значит, что и учился ты хорошо...[nointeract]"
-    Alice_06 "Sì, sappiamo tutti perché sei stato cacciato. Ma questo non significa che tu abbia una buona conoscenza...[nointeract]"
+    # [Alice_06 "Да все мы знаем за что тебя выгнали. Но это не значит, что и учился ты хорошо..." nointeract
+    Alice_06 "Sì, sappiamo tutti perché sei stato cacciato. Ma questo non significa che tu abbia una buona conoscenza..." nointeract
 
 # game/dialogues/breakfast.rpy:76
 translate italian breakfast_first_bf_change_f6a0ca75:
 
-    # [Alice_06 "Ага, знаешь как к учителям приставать. Этому планируешь научить Лизу?[nointeract]"
-    Alice_06 "Sì, tu sai come molestare gli insegnanti. È questo che hai intenzione di insegnare a Lisa?[nointeract]"
+    # [Alice_06 "Ага, знаешь как к учителям приставать. Этому планируешь научить Лизу?" nointeract
+    Alice_06 "Sì, tu sai come molestare gli insegnanti. È questo che hai intenzione di insegnare a Lisa?" nointeract
 
 # game/dialogues/breakfast.rpy:83
 translate italian breakfast_first_bf_change_50f154cf:
 
-    # [Lisa_01 "Ага, деваться то некуда. Кстати, после завтрака я буду уже собираться, в 11 выхожу. А часам к 4 уже вернусь[nointeract]"
-    Lisa_01 "Sì, non c'è nessun posto dove andare. A proposito, mi preparo dopo la colazione, parto alle 11. Sarò di ritorno per le 16[nointeract]"
+    # [Lisa_01 "Ага, деваться то некуда. Кстати, после завтрака я буду уже собираться, в 11 выхожу. А часам к 4 уже вернусь" nointeract
+    Lisa_01 "Sì, non c'è nessun posto dove andare. A proposito, mi preparo dopo la colazione, parto alle 11. Sarò di ritorno per le 16" nointeract
 
 # game/dialogues/breakfast.rpy:86
 translate italian breakfast_first_bf_change_c23566a9:
 
-    # [Lisa_02 "Нет, не только сегодня. Вообще, уроки короткие в этой школе. Так что, соскучиться не успеете![nointeract]"
-    Lisa_02 "No, non solo oggi. In generale, le lezioni sono brevi in questa scuola. Quindi, non avrai il tempo di annoiarti![nointeract]"
+    # [Lisa_02 "Нет, не только сегодня. Вообще, уроки короткие в этой школе. Так что, соскучиться не успеете!" nointeract
+    Lisa_02 "No, non solo oggi. In generale, le lezioni sono brevi in questa scuola. Quindi, non avrai il tempo di annoiarti!" nointeract
 
 # game/dialogues/breakfast.rpy:95
 translate italian breakfast_first_bf_change_73ce3762:
 
-    # [Lisa_00 "Видимо, после завтрака буду уходить и возвращаться часам к 4-м.[nointeract]"
-    Lisa_00 "A quanto pare, partirò dopo la colazione e sarò di ritorno per le 16 circa.[nointeract]"
+    # [Lisa_00 "Видимо, после завтрака буду уходить и возвращаться часам к 4-м." nointeract
+    Lisa_00 "A quanto pare, partirò dopo la colazione e sarò di ritorno per le 16 circa." nointeract
 
 # game/dialogues/breakfast.rpy:102
 translate italian breakfast_first_bf_change_3b6c15c9:
 
-    # [Lisa_03 "Нет, представляешь! Говорят, ещё и район хороший. А учимся мы, вообще, всего 4 или 5 часов![nointeract]"
-    Lisa_03 "No, figurati! Dicono che è anche un buon quartiere. E studiamo solo per quattro o cinque ore![nointeract]"
+    # [Lisa_03 "Нет, представляешь! Говорят, ещё и район хороший. А учимся мы, вообще, всего 4 или 5 часов!" nointeract
+    Lisa_03 "No, figurati! Dicono che è anche un buon quartiere. E studiamo solo per quattro o cinque ore!" nointeract
 
 # game/dialogues/breakfast.rpy:110
 translate italian breakfast_first_bf_time2_c49cfb24:
 
-    # [Lisa_02 "Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Правда, про каникулы ничего не знаю...[nointeract]"
-    Lisa_02 "Beh, è così che funziona in questa scuola. Per me va bene. Studiamo solo cinque giorni alla settimana! Tuttavia, non so nulla delle vacanze...[nointeract]"
+    # [Lisa_02 "Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Правда, про каникулы ничего не знаю..." nointeract
+    Lisa_02 "Beh, è così che funziona in questa scuola. Per me va bene. Studiamo solo cinque giorni alla settimana! Tuttavia, non so nulla delle vacanze..." nointeract
 
 # game/dialogues/breakfast.rpy:115
 translate italian breakfast_first_bf_time3_dd21def3:
@@ -147,62 +147,62 @@ translate italian breakfast_first_bf_time3_dd21def3:
 # game/dialogues/breakfast.rpy:120
 translate italian breakfast_first_bf_earn_9ddc6400:
 
-    # [Alice_06 "Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноуте...[nointeract]"
-    Alice_06 "Sì, e come farai a fare soldi? Non hai un'istruzione, non sai fare niente. Te ne stai seduto a casa davanti al tuo portatile tutto il tempo...[nointeract]"
+    # [Alice_06 "Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноуте..." nointeract
+    Alice_06 "Sì, e come farai a fare soldi? Non hai un'istruzione, non sai fare niente. Te ne stai seduto a casa davanti al tuo portatile tutto il tempo..." nointeract
 
 # game/dialogues/breakfast.rpy:124
 translate italian breakfast_first_bf_earn_0aead3d0:
 
-    # [Alice_14 "Может быть, себя? У меня то хоть свой блог есть, а вот у тебя ни-че-го![nointeract]"
-    Alice_14 "E tu? Almeno io ho il mio blog, mentre tu non hai nulla![nointeract]"
+    # [Alice_14 "Может быть, себя? У меня то хоть свой блог есть, а вот у тебя ни-че-го!" nointeract
+    Alice_14 "E tu? Almeno io ho il mio blog, mentre tu non hai nulla!" nointeract
 
 # game/dialogues/breakfast.rpy:127
 translate italian breakfast_first_bf_earn_9894dee3:
 
-    # [Alice_13 "Он даёт подписчиков, аудиторию. Когда начну рекламу крутить, то деньги польются рекой![nointeract]"
-    Alice_13 "Ti dà degli abbonati, un pubblico. Quando inizierò a fare pubblicità, il denaro comincerà a scorrere![nointeract]"
+    # [Alice_13 "Он даёт подписчиков, аудиторию. Когда начну рекламу крутить, то деньги польются рекой!" nointeract
+    Alice_13 "Ti dà degli abbonati, un pubblico. Quando inizierò a fare pubblicità, il denaro comincerà a scorrere!" nointeract
 
 # game/dialogues/breakfast.rpy:134
 translate italian breakfast_first_bf_earn_a431c924:
 
-    # [Alice_13 "Ещё нет, но я только набираю аудиторию. А когда придёт время, запущу рекламу и стану богатой![nointeract]"
-    Alice_13 "Non ancora, ma sto guadagnando un pubblico. E quando sarà il momento, farò degli annunci e diventerò ricca![nointeract]"
+    # [Alice_13 "Ещё нет, но я только набираю аудиторию. А когда придёт время, запущу рекламу и стану богатой!" nointeract
+    Alice_13 "Non ancora, ma sto guadagnando un pubblico. E quando sarà il momento, farò degli annunci e diventerò ricca!" nointeract
 
 # game/dialogues/breakfast.rpy:141
 translate italian breakfast_first_bf_earn_3e84d9e6:
 
-    # [Alice_07 "Мозги? У тебя?! А кого же из школы тогда выперли? Слишком умный для них был, да?[nointeract]"
-    Alice_07 "Cervello? Tu?! Chi è stato cacciato dalla scuola, allora? Troppo intelligente per loro, eh?[nointeract]"
+    # [Alice_07 "Мозги? У тебя?! А кого же из школы тогда выперли? Слишком умный для них был, да?" nointeract
+    Alice_07 "Cervello? Tu?! Chi è stato cacciato dalla scuola, allora? Troppo intelligente per loro, eh?" nointeract
 
 # game/dialogues/breakfast.rpy:150
 translate italian breakfast_first_bf_earn_f0d53b97:
 
-    # [Alice_02 "Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу.[nointeract]"
-    Alice_02 "Sì, imparerai a sederti con i tuoi pantaloni. Ci sono molte offerte di lavoro. Potresti fare una scelta.[nointeract]"
+    # [Alice_02 "Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу." nointeract
+    Alice_02 "Sì, imparerai a sederti con i tuoi pantaloni. Ci sono molte offerte di lavoro. Potresti fare una scelta." nointeract
 
 # game/dialogues/breakfast.rpy:163
 translate italian breakfast_first_bf_earn3_c2b148d6:
 
-    # [Alice_13 "Я делом занимаюсь. Раскручиваю свой блог, набираю аудиторию. А потом, когда придёт время, начну крутить рекламу и всё![nointeract]"
-    Alice_13 "Sto facendo affari. Promuovo il mio blog, guadagno un pubblico. E poi, quando sarà il momento, inizierò a fare annunci e il gioco è fatto![nointeract]"
+    # [Alice_13 "Я делом занимаюсь. Раскручиваю свой блог, набираю аудиторию. А потом, когда придёт время, начну крутить рекламу и всё!" nointeract
+    Alice_13 "Sto facendo affari. Promuovo il mio blog, guadagno un pubblico. E poi, quando sarà il momento, inizierò a fare annunci e il gioco è fatto!" nointeract
 
 # game/dialogues/breakfast.rpy:166
 translate italian breakfast_first_bf_earn3_c9ee5343:
 
-    # [Alice_00 "А я и не говорю, что это просто. В любом случае, я хоть чем-то занимаюсь, в отличие, от некоторых...[nointeract]"
-    Alice_00 "Non sto dicendo che sia facile. Comunque, almeno sto facendo qualcosa, a differenza di qualcuno...[nointeract]"
+    # [Alice_00 "А я и не говорю, что это просто. В любом случае, я хоть чем-то занимаюсь, в отличие, от некоторых..." nointeract
+    Alice_00 "Non sto dicendo che sia facile. Comunque, almeno sto facendo qualcosa, a differenza di qualcuno..." nointeract
 
 # game/dialogues/breakfast.rpy:175
 translate italian breakfast_first_bf_earn3_dfce9c3d:
 
-    # [Alice_00 "А это не важно. Что нужно будет, то и буду рекламировать. А вообще, у меня бьюти-блог![nointeract]"
-    Alice_00 "Non importa. Ciò che potrebbe essere utile, lo pubblicizzo. Comunque, ho un blog di bellezza![nointeract]"
+    # [Alice_00 "А это не важно. Что нужно будет, то и буду рекламировать. А вообще, у меня бьюти-блог!" nointeract
+    Alice_00 "Non importa. Ciò che potrebbe essere utile, lo pubblicizzo. Comunque, ho un blog di bellezza!" nointeract
 
 # game/dialogues/breakfast.rpy:184
 translate italian breakfast_first_bf_earn3_57ece003:
 
-    # [Alice_00 "Я не говорила, что у меня миллион подписчиков, но будет. И не один. А вот у тебя вообще ничего нет![nointeract]"
-    Alice_00 "Non ho detto che ho un milione di abbonati, ma li farò. E non solo uno. Tu, invece, non hai nulla![nointeract]"
+    # [Alice_00 "Я не говорила, что у меня миллион подписчиков, но будет. И не один. А вот у тебя вообще ничего нет!" nointeract
+    Alice_00 "Non ho detto che ho un milione di abbonati, ma li farò. E non solo uno. Tu, invece, non hai nulla!" nointeract
 
 # game/dialogues/breakfast.rpy:193
 translate italian breakfast_first_bf_roof_75336744:
@@ -213,116 +213,116 @@ translate italian breakfast_first_bf_roof_75336744:
 # game/dialogues/breakfast.rpy:195
 translate italian breakfast_first_bf_roof_306fdb3a:
 
-    # [Lisa_09 "Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда.[nointeract]"
-    Lisa_09 "sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco.[nointeract]"
+    # [Lisa_09 "Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда." nointeract
+    Lisa_09 "sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco." nointeract
 
 # game/dialogues/breakfast.rpy:198
 translate italian breakfast_first_bf_roof_6de5b34a:
 
-    # [Ann_00 "Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно...[nointeract]"
-    Ann_00 "chiamato. Dicono di aver mandato in un'altra città per errore, e poi completamente perso. Promettono di compensare, ma quando - è ancora sconosciuto...[nointeract]"
+    # [Ann_00 "Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно..." nointeract
+    Ann_00 "chiamato. Dicono di aver mandato in un'altra città per errore, e poi completamente perso. Promettono di compensare, ma quando - è ancora sconosciuto..." nointeract
 
 # game/dialogues/breakfast.rpy:202
 translate italian breakfast_first_bf_roof_640b53f3:
 
-    # [Alice_00 "Ты и рад, наверное, голым ходить, а у меня там были хорошие вещички, в которых я блог веду обычно...[nointeract]"
-    Alice_00 "Probabilmente sei felice di camminare nudo, e avevo cose buone di cui di solito scrivo sul blog...[nointeract]"
+    # [Alice_00 "Ты и рад, наверное, голым ходить, а у меня там были хорошие вещички, в которых я блог веду обычно..." nointeract
+    Alice_00 "Probabilmente sei felice di camminare nudo, e avevo cose buone di cui di solito scrivo sul blog..." nointeract
 
 # game/dialogues/breakfast.rpy:205
 translate italian breakfast_first_bf_roof_1bd47619:
 
-    # [Alice_06 "Ну да, на словах все такие храбрые. А на деле...[nointeract]"
-    Alice_06 "Beh, sì, a parole tutti sono così coraggiosi. E infatti...[nointeract]"
+    # [Alice_06 "Ну да, на словах все такие храбрые. А на деле..." nointeract
+    Alice_06 "Beh, sì, a parole tutti sono così coraggiosi. E infatti..." nointeract
 
 # game/dialogues/breakfast.rpy:214
 translate italian breakfast_first_bf_roof_74b6810e:
 
-    # [Alice_06 "Это тебе плевать! А бьюти-блогер должна каждый раз выглядеть по-новому![nointeract]"
-    Alice_06 "Non ti interessa! Un blogger di bellezza dovrebbe apparire nuovo ogni volta![nointeract]"
+    # [Alice_06 "Это тебе плевать! А бьюти-блогер должна каждый раз выглядеть по-новому!" nointeract
+    Alice_06 "Non ti interessa! Un blogger di bellezza dovrebbe apparire nuovo ogni volta!" nointeract
 
 # game/dialogues/breakfast.rpy:221
 translate italian breakfast_first_bf_roof_089f3e28:
 
-    # [Alice_00 "Ну, когда-нибудь, когда раскручусь. А вот ты чем будешь заниматься? Штаны просиживать?[nointeract]"
-    Alice_00 "Beh, un giorno, quando girerò. Ma cosa hai intenzione di fare? Pantaloni per sedersi?[nointeract]"
+    # [Alice_00 "Ну, когда-нибудь, когда раскручусь. А вот ты чем будешь заниматься? Штаны просиживать?" nointeract
+    Alice_00 "Beh, un giorno, quando girerò. Ma cosa hai intenzione di fare? Pantaloni per sedersi?" nointeract
 
 # game/dialogues/breakfast.rpy:232
 translate italian breakfast_first_bf_roof_a71d40d7:
 
-    # [Ann_00 "Про кондиционеры я всё узнала. Дом не успели достроить и не вся техника и мебель была закуплена. А теперь уже и не знаю. Видимо, самим придётся всё остальное докупать.[nointeract]"
-    Ann_00 "ho imparato tutto sui condizionatori d'aria. La casa non ha avuto il tempo di finire e non tutti gli elettrodomestici e i mobili sono stati acquistati. E ora non lo so. Apparentemente, dovrai comprare tutto il resto da solo.[nointeract]"
+    # [Ann_00 "Про кондиционеры я всё узнала. Дом не успели достроить и не вся техника и мебель была закуплена. А теперь уже и не знаю. Видимо, самим придётся всё остальное докупать." nointeract
+    Ann_00 "ho imparato tutto sui condizionatori d'aria. La casa non ha avuto il tempo di finire e non tutti gli elettrodomestici e i mobili sono stati acquistati. E ora non lo so. Apparentemente, dovrai comprare tutto il resto da solo." nointeract
 
 # game/dialogues/breakfast.rpy:239
 translate italian breakfast_first_bf_roof_2ce97c4c:
 
-    # [Ann_15 "Да и без кондиционеров проживём. Как-то же справлялись. Да, здесь климат совсем другой, но человек ко всему привыкает. Да и не до того пока.[nointeract]"
-    Ann_15 "Sì, vivremo senza aria condizionata. In qualche modo ce l'hanno cavata. Sì, qui il clima è completamente diverso, ma una persona si abitua a tutto. E non ancora.[nointeract]"
+    # [Ann_15 "Да и без кондиционеров проживём. Как-то же справлялись. Да, здесь климат совсем другой, но человек ко всему привыкает. Да и не до того пока." nointeract
+    Ann_15 "Sì, vivremo senza aria condizionata. In qualche modo ce l'hanno cavata. Sì, qui il clima è completamente diverso, ma una persona si abitua a tutto. E non ancora." nointeract
 
 # game/dialogues/breakfast.rpy:242
 translate italian breakfast_first_bf_roof_2486ec98:
 
-    # [Alice_09 "Ага, специально для тебя все сейчас разденемся до гола![nointeract]"
-    Alice_09 "sì, soprattutto per tutti voi ora disfatti verso l'obiettivo![nointeract]"
+    # [Alice_09 "Ага, специально для тебя все сейчас разденемся до гола!" nointeract
+    Alice_09 "sì, soprattutto per tutti voi ora disfatti verso l'obiettivo!" nointeract
 
 # game/dialogues/breakfast.rpy:245
 translate italian breakfast_first_bf_roof_c18fd8f1:
 
-    # [Alice_07 "Никто и не сомневается. Может быть, сам и покажешь пример?[nointeract]"
-    Alice_07 "Nessuno dubita. Forse puoi dare l'esempio tu stesso?[nointeract]"
+    # [Alice_07 "Никто и не сомневается. Может быть, сам и покажешь пример?" nointeract
+    Alice_07 "Nessuno dubita. Forse puoi dare l'esempio tu stesso?" nointeract
 
 # game/dialogues/breakfast.rpy:254
 translate italian breakfast_first_bf_roof_c18fd8f1_1:
 
-    # [Alice_07 "Никто и не сомневается. Может быть, сам и покажешь пример?[nointeract]"
-    Alice_07 "Nessuno dubita. Forse puoi dare l'esempio tu stesso?[nointeract]"
+    # [Alice_07 "Никто и не сомневается. Может быть, сам и покажешь пример?" nointeract
+    Alice_07 "Nessuno dubita. Forse puoi dare l'esempio tu stesso?" nointeract
 
 # game/dialogues/breakfast.rpy:263
 translate italian breakfast_first_bf_roof_3ec80d37:
 
-    # [Alice_13 "А больше ничего и не остаётся. Вещей то нет. Может быть, на шоппинг сходим, если деньги будут...[nointeract]"
-    Alice_13 "E non c'è più nulla. Le cose no. Magari andiamo a fare shopping se i soldi sono...[nointeract]"
+    # [Alice_13 "А больше ничего и не остаётся. Вещей то нет. Может быть, на шоппинг сходим, если деньги будут..." nointeract
+    Alice_13 "E non c'è più nulla. Le cose no. Magari andiamo a fare shopping se i soldi sono..." nointeract
 
 # game/dialogues/breakfast.rpy:270
 translate italian breakfast_first_bf_roof_de4768e0:
 
-    # [Alice_07 "Дикарь! Ты в одной комнате с младшей сестрёнкой живёшь, забыл?[nointeract]"
-    Alice_07 "selvaggio! Vivi nella stessa stanza con tua sorella minore, dimentica?[nointeract]"
+    # [Alice_07 "Дикарь! Ты в одной комнате с младшей сестрёнкой живёшь, забыл?" nointeract
+    Alice_07 "selvaggio! Vivi nella stessa stanza con tua sorella minore, dimentica?" nointeract
 
 # game/dialogues/breakfast.rpy:280
 translate italian breakfast_first_bf_buy_new_837aef32:
 
-    # [Alice_06 "Ага, вот только купилка у некоторых не выросла ещё![nointeract]"
-    Alice_06 "sì, questo è solo l'acquisto da alcuni non è ancora cresciuto![nointeract]"
+    # [Alice_06 "Ага, вот только купилка у некоторых не выросла ещё!" nointeract
+    Alice_06 "sì, questo è solo l'acquisto da alcuni non è ancora cresciuto!" nointeract
 
 # game/dialogues/breakfast.rpy:283
 translate italian breakfast_first_bf_buy_new_f7b11ae0:
 
-    # [Alice_15 "Так ты ею будешь зарабатывать? Любопытно...[nointeract]"
-    Alice_15 "Quindi farai soldi con esso? Curioso...[nointeract]"
+    # [Alice_15 "Так ты ею будешь зарабатывать? Любопытно..." nointeract
+    Alice_15 "Quindi farai soldi con esso? Curioso..." nointeract
 
 # game/dialogues/breakfast.rpy:290
 translate italian breakfast_first_bf_buy_new_00b44dcb:
 
-    # [Alice_14 "Я ещё не раскрутилась. Но со временем всё будет в шоколаде![nointeract]"
-    Alice_14 "non ho ancora girato. Ma nel tempo, tutto sarà in cioccolato![nointeract]"
+    # [Alice_14 "Я ещё не раскрутилась. Но со временем всё будет в шоколаде!" nointeract
+    Alice_14 "non ho ancora girato. Ma nel tempo, tutto sarà in cioccolato!" nointeract
 
 # game/dialogues/breakfast.rpy:300
 translate italian breakfast_first_bf_change2_d76935c0:
 
-    # [Ann_00 "Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады.[nointeract]"
-    Ann_00 "Bene, grazie a tutti per la colazione. Ora devo correre al lavoro. Alice lava i piatti della colazione, come al solito, e Lisa quelli della cena. Max, se vuoi aiutare le tue sorelle, ne saranno felici.[nointeract]"
+    # [Ann_00 "Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады." nointeract
+    Ann_00 "Bene, grazie a tutti per la colazione. Ora devo correre al lavoro. Alice lava i piatti della colazione, come al solito, e Lisa quelli della cena. Max, se vuoi aiutare le tue sorelle, ne saranno felici." nointeract
 
 # game/dialogues/breakfast.rpy:308
 translate italian breakfast_first_bf_change2_c2fa27a6:
 
-    # [Ann_00 "Да, Макс. Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате.[nointeract]"
-    Ann_00 "Già, Max. Ho trovato alcune scatole mentre stavo pulendo. Devono essere rimaste dalla ristrutturazione. Guarda, se per caso c'è qualcosa di valore, li butteremo via dopo. Sono nella tua stanza.[nointeract]"
+    # [Ann_00 "Да, Макс. Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате." nointeract
+    Ann_00 "Già, Max. Ho trovato alcune scatole mentre stavo pulendo. Devono essere rimaste dalla ristrutturazione. Guarda, se per caso c'è qualcosa di valore, li butteremo via dopo. Sono nella tua stanza." nointeract
 
 # game/dialogues/breakfast.rpy:313
 translate italian breakfast_first_bf_change2_decd1aa4:
 
-    # [Ann_00 "Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам.[nointeract]"
-    Ann_00 "Se lo sapessi, non te lo chiederei. Non so nulla di elettronica. Controllale.[nointeract]"
+    # [Ann_00 "Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам." nointeract
+    Ann_00 "Se lo sapessi, non te lo chiederei. Non so nulla di elettronica. Controllale." nointeract
 
 # game/dialogues/breakfast.rpy:331
 translate italian breakfast_2_7396b2f9:
@@ -351,8 +351,8 @@ translate italian breakfast_2_276a25cf:
 # game/dialogues/breakfast.rpy:338
 translate italian breakfast_2_816ba32e:
 
-    # [Ann_01 "Что значит конечно не смогла? Хочешь, чтобы и тебя выперли из школы, как этого балбеса?[nointeract]"
-    Ann_01 "Cosa significa ovviamente non potrebbe? Vuoi essere cacciato da scuola come questa balbe?[nointeract]"
+    # [Ann_01 "Что значит конечно не смогла? Хочешь, чтобы и тебя выперли из школы, как этого балбеса?" nointeract
+    Ann_01 "Cosa significa ovviamente non potrebbe? Vuoi essere cacciato da scuola come questa balbe?" nointeract
 
 # game/dialogues/breakfast.rpy:343
 translate italian breakfast_2_cc5a72e4:
@@ -363,8 +363,8 @@ translate italian breakfast_2_cc5a72e4:
 # game/dialogues/breakfast.rpy:349
 translate italian breakfast_2_17622a4d:
 
-    # [Lisa_09 "Ну мам... Я же не специально. Я обещаю, что всё выучу![nointeract]"
-    Lisa_09 "Beh mamma... Non sono di proposito. Prometto che imparerò tutto![nointeract]"
+    # [Lisa_09 "Ну мам... Я же не специально. Я обещаю, что всё выучу!" nointeract
+    Lisa_09 "Beh mamma... Non sono di proposito. Prometto che imparerò tutto!" nointeract
 
 # game/dialogues/breakfast.rpy:351
 translate italian breakfast_2_591293ef:
@@ -399,8 +399,8 @@ translate italian breakfast_2_933c373f:
 # game/dialogues/breakfast.rpy:370
 translate italian breakfast_2_1d9581e2:
 
-    # [Ann_00 "И да, если узнаю, что кто-то мне врёт, тот получит гораздо сильнее. Больше всего ненавижу ложь. Всё ясно?[nointeract]"
-    Ann_00 "E sì, se scopro che qualcuno mi sta mentendo, diventerà molto più forte. Odio di più le bugie. E' chiaro?[nointeract]"
+    # [Ann_00 "И да, если узнаю, что кто-то мне врёт, тот получит гораздо сильнее. Больше всего ненавижу ложь. Всё ясно?" nointeract
+    Ann_00 "E sì, se scopro che qualcuno mi sta mentendo, diventerà molto più forte. Odio di più le bugie. E' chiaro?" nointeract
 
 # game/dialogues/breakfast.rpy:379
 translate italian breakfast_2_696eb569:
@@ -429,8 +429,8 @@ translate italian breakfast_2_baa92b8a:
 # game/dialogues/breakfast.rpy:388
 translate italian breakfast_2_9096c069:
 
-    # [Lisa_02 "Спасибо, Макс! Ты же мне поможешь с уроками?[nointeract]"
-    Lisa_02 "Grazie, Max! Potete aiutarmi con le lezioni?[nointeract]"
+    # [Lisa_02 "Спасибо, Макс! Ты же мне поможешь с уроками?" nointeract
+    Lisa_02 "Grazie, Max! Potete aiutarmi con le lezioni?" nointeract
 
 # game/dialogues/breakfast.rpy:393
 translate italian breakfast_2_57992ee0:
@@ -447,14 +447,14 @@ translate italian breakfast_2_c34f0d6f_1:
 # game/dialogues/breakfast.rpy:396
 translate italian breakfast_2_2501d22e:
 
-    # [Ann_00 "Давайте сменим тему. Скажите, только меня смущают картины, которые висят в наших комнатах?[nointeract]"
-    Ann_00 "Cambiamo argomento. Dimmi, solo io sono confuso dalle foto che pendono nelle nostre stanze?[nointeract]"
+    # [Ann_00 "Давайте сменим тему. Скажите, только меня смущают картины, которые висят в наших комнатах?" nointeract
+    Ann_00 "Cambiamo argomento. Dimmi, solo io sono confuso dalle foto che pendono nelle nostre stanze?" nointeract
 
 # game/dialogues/breakfast.rpy:399
 translate italian breakfast_2_f64d9ad1:
 
-    # [Alice_01 "Макс, не притворяйся, что не видел. В наших спальнях с мамой уже была вся мебель и картины, в том числе. Наверняка, пялился на них, когда увидел...[nointeract]"
-    Alice_01 "Max, non fingere di non averlo visto. Nelle nostre camere da letto con mia madre c'erano già tutti i mobili e i dipinti, compresi. Devo averli guardati quando ho visto...[nointeract]"
+    # [Alice_01 "Макс, не притворяйся, что не видел. В наших спальнях с мамой уже была вся мебель и картины, в том числе. Наверняка, пялился на них, когда увидел..." nointeract
+    Alice_01 "Max, non fingere di non averlo visto. Nelle nostre camere da letto con mia madre c'erano già tutti i mobili e i dipinti, compresi. Devo averli guardati quando ho visto..." nointeract
 
 # game/dialogues/breakfast.rpy:401
 translate italian breakfast_2_9beefc93:
@@ -501,20 +501,20 @@ translate italian breakfast_2_80ba4f7f:
 # game/dialogues/breakfast.rpy:411
 translate italian breakfast_2_ea287806:
 
-    # [Ann_00 "Так, всем спасибо за завтрак, мне пора на работу. Сегодня мне позвонили и сказали, что приедет машина, довезёт до работы. Нельзя опаздывать...[nointeract]"
-    Ann_00 "Quindi, grazie a tutti per la colazione, è ora per me di andare al lavoro. Oggi ho ricevuto una chiamata che diceva che una macchina sarebbe venuta a portarmi al lavoro. Non si può essere in ritardo...[nointeract]"
+    # [Ann_00 "Так, всем спасибо за завтрак, мне пора на работу. Сегодня мне позвонили и сказали, что приедет машина, довезёт до работы. Нельзя опаздывать..." nointeract
+    Ann_00 "Quindi, grazie a tutti per la colazione, è ora per me di andare al lavoro. Oggi ho ricevuto una chiamata che diceva che una macchina sarebbe venuta a portarmi al lavoro. Non si può essere in ritardo..." nointeract
 
 # game/dialogues/breakfast.rpy:414
 translate italian breakfast_2_42d6f90e:
 
-    # [Ann_12 "Да... Видимо, так компания старается поддерживать новичков...[nointeract]"
-    Ann_12 "sì... Apparentemente, questo è il modo in cui l'azienda cerca di supportare i nuovi arrivati...[nointeract]"
+    # [Ann_12 "Да... Видимо, так компания старается поддерживать новичков..." nointeract
+    Ann_12 "sì... Apparentemente, questo è il modo in cui l'azienda cerca di supportare i nuovi arrivati..." nointeract
 
 # game/dialogues/breakfast.rpy:421
 translate italian breakfast_2_cc48757f:
 
-    # [Ann_05 "Нет, Макс, что ты. Он большой начальник. Босс моего босса. Его тоже возит свой водитель. Просто... Я думаю, что так компания поддерживает новичков...[nointeract]"
-    Ann_05 "No, Max, cosa sei. È un grande capo. Il capo del mio capo. È anche preso dal suo autista. Semplicemente... Penso che sia così che l'azienda supporta i nuovi arrivati...[nointeract]"
+    # [Ann_05 "Нет, Макс, что ты. Он большой начальник. Босс моего босса. Его тоже возит свой водитель. Просто... Я думаю, что так компания поддерживает новичков..." nointeract
+    Ann_05 "No, Max, cosa sei. È un grande capo. Il capo del mio capo. È anche preso dal suo autista. Semplicemente... Penso che sia così che l'azienda supporta i nuovi arrivati..." nointeract
 
 # game/dialogues/breakfast.rpy:429
 translate italian breakfast_2_c5e2637b:
@@ -567,8 +567,8 @@ translate italian breakfast_3_b60d309c:
 # game/dialogues/breakfast.rpy:450
 translate italian breakfast_3_b2276362:
 
-    # [Ann_01 "Алиса, мы не в том положении, чтобы покупать тебе платья для клубов. Да и о чём ты говоришь? Ты бы делом занялась, а не о клубах думала![nointeract]"
-    Ann_01 "Alice, non siamo in grado di comprarti abiti da club. E di cosa stai parlando? Faresti affari, non club![nointeract]"
+    # [Ann_01 "Алиса, мы не в том положении, чтобы покупать тебе платья для клубов. Да и о чём ты говоришь? Ты бы делом занялась, а не о клубах думала!" nointeract
+    Ann_01 "Alice, non siamo in grado di comprarti abiti da club. E di cosa stai parlando? Faresti affari, non club!" nointeract
 
 # game/dialogues/breakfast.rpy:455
 translate italian breakfast_3_29d5cb7f:
@@ -579,8 +579,8 @@ translate italian breakfast_3_29d5cb7f:
 # game/dialogues/breakfast.rpy:457
 translate italian breakfast_3_469954dc:
 
-    # [Ann_14 "Ну, Алиса... Я тебя понимаю, конечно. Но ты же хочешь какое-то дорогое платье, наверняка? Сейчас у нас не очень много денег, ты сама знаешь...[nointeract]"
-    Ann_14 "Beh, Alice... Ti capisco, ovviamente. Ma vuoi un vestito costoso, giusto? Non abbiamo molti soldi in questo momento, sai...[nointeract]"
+    # [Ann_14 "Ну, Алиса... Я тебя понимаю, конечно. Но ты же хочешь какое-то дорогое платье, наверняка? Сейчас у нас не очень много денег, ты сама знаешь..." nointeract
+    Ann_14 "Beh, Alice... Ti capisco, ovviamente. Ma vuoi un vestito costoso, giusto? Non abbiamo molti soldi in questo momento, sai..." nointeract
 
 # game/dialogues/breakfast.rpy:459
 translate italian breakfast_3_7411d85a:
@@ -615,20 +615,20 @@ translate italian breakfast_3_b7ff85a4:
 # game/dialogues/breakfast.rpy:467
 translate italian breakfast_3_713275ed:
 
-    # [Ann_01 "Ну не знаю, Алиса. Посмотрим. Кстати, завтра после завтрака вы все едем на шоппинг. Ну, кроме Макса, наверное...[nointeract]"
-    Ann_01 "Beh, non lo so, Alice. Vedere. A proposito, domani dopo colazione andate tutti a fare shopping. Beh, ad eccezione di Max, probabilmente...[nointeract]"
+    # [Ann_01 "Ну не знаю, Алиса. Посмотрим. Кстати, завтра после завтрака вы все едем на шоппинг. Ну, кроме Макса, наверное..." nointeract
+    Ann_01 "Beh, non lo so, Alice. Vedere. A proposito, domani dopo colazione andate tutti a fare shopping. Beh, ad eccezione di Max, probabilmente..." nointeract
 
 # game/dialogues/breakfast.rpy:470
 translate italian breakfast_3_6637c044:
 
-    # [Ann_05 "Ты знаешь, мне кажется, что тебе будут мало интересны магазины со шмотками. У тебя всё есть, а нам, девочкам, нужно кое-что прикупить...[nointeract]"
-    Ann_05 "Sai, mi sembra che non sarai interessato ai negozi con vestiti. Tu hai tutto, e noi ragazze abbiamo bisogno di comprare qualcosa...[nointeract]"
+    # [Ann_05 "Ты знаешь, мне кажется, что тебе будут мало интересны магазины со шмотками. У тебя всё есть, а нам, девочкам, нужно кое-что прикупить..." nointeract
+    Ann_05 "Sai, mi sembra che non sarai interessato ai negozi con vestiti. Tu hai tutto, e noi ragazze abbiamo bisogno di comprare qualcosa..." nointeract
 
 # game/dialogues/breakfast.rpy:477
 translate italian breakfast_3_e50e70cf:
 
-    # [Ann_05 "Вот и я так подумала. Разве тебе будут интересны наши девчачьи магазины? А вот нам очень. Как раз всем нам нужно кое-что прикупить...[nointeract]"
-    Ann_05 "Così ho pensato. Sarai interessato ai nostri negozi girly? Ma noi davvero. Abbiamo tutti bisogno di comprare qualcosa...[nointeract]"
+    # [Ann_05 "Вот и я так подумала. Разве тебе будут интересны наши девчачьи магазины? А вот нам очень. Как раз всем нам нужно кое-что прикупить..." nointeract
+    Ann_05 "Così ho pensato. Sarai interessato ai nostri negozi girly? Ma noi davvero. Abbiamo tutti bisogno di comprare qualcosa..." nointeract
 
 # game/dialogues/breakfast.rpy:483
 translate italian breakfast_3_nomany_eff4ca88:
@@ -645,8 +645,8 @@ translate italian breakfast_3_nomany_5bb7a231:
 # game/dialogues/breakfast.rpy:487
 translate italian breakfast_3_driver_636e2df7:
 
-    # [Ann_01 "Макс, ну я же уже говорила про Эрика, вот он за нами отправит машину, а с ним мы встретимся уже в магазине...[nointeract]"
-    Ann_01 "Max, beh, ho già parlato di Eric, qui manderà una macchina per noi, e lo incontreremo già nel negozio...[nointeract]"
+    # [Ann_01 "Макс, ну я же уже говорила про Эрика, вот он за нами отправит машину, а с ним мы встретимся уже в магазине..." nointeract
+    Ann_01 "Max, beh, ho già parlato di Eric, qui manderà una macchina per noi, e lo incontreremo già nel negozio..." nointeract
 
 # game/dialogues/breakfast.rpy:489
 translate italian breakfast_3_driver_fb54e463:
@@ -675,8 +675,8 @@ translate italian breakfast_3_driver_38f74335:
 # game/dialogues/breakfast.rpy:496
 translate italian breakfast_3_driver_c321de54:
 
-    # [Ann_04 "Лиза! Какие вопросы... Нельзя же так спрашивать в лоб! Возможно, у нас всё серьёзно, да. Я давно не встречала такого мужчину. Честно говоря, вообще никогда таких не встречала. Он почти идеален![nointeract]"
-    Ann_04 "Lisa! Quali domande... Non puoi chiedere così in fronte! Forse siamo seri, sì. Non ho incontrato un uomo del genere da molto tempo. Ad essere onesti, non ne ho mai incontrato uno. È quasi perfetto![nointeract]"
+    # [Ann_04 "Лиза! Какие вопросы... Нельзя же так спрашивать в лоб! Возможно, у нас всё серьёзно, да. Я давно не встречала такого мужчину. Честно говоря, вообще никогда таких не встречала. Он почти идеален!" nointeract
+    Ann_04 "Lisa! Quali domande... Non puoi chiedere così in fronte! Forse siamo seri, sì. Non ho incontrato un uomo del genere da molto tempo. Ad essere onesti, non ne ho mai incontrato uno. È quasi perfetto!" nointeract
 
 # game/dialogues/breakfast.rpy:498
 translate italian breakfast_3_driver_42f8bb2c:
@@ -693,26 +693,26 @@ translate italian breakfast_3_driver_83e6707d:
 # game/dialogues/breakfast.rpy:501
 translate italian breakfast_3_driver_12442c75:
 
-    # [Ann_05 "Думаю, что нет. Но... посмотрим. Кажется, вы нас женили ещё до того, как мы признались друг другу в симпатии...[nointeract]"
-    Ann_05 "non credo. Ma... Vedere. Sembra che tu ci abbia sposato ancor prima che ci confessassimo l'un l'altro di simpatia...[nointeract]"
+    # [Ann_05 "Думаю, что нет. Но... посмотрим. Кажется, вы нас женили ещё до того, как мы признались друг другу в симпатии..." nointeract
+    Ann_05 "non credo. Ma... Vedere. Sembra che tu ci abbia sposato ancor prima che ci confessassimo l'un l'altro di simpatia..." nointeract
 
 # game/dialogues/breakfast.rpy:511
 translate italian breakfast_3_driver_35fbc5f1:
 
-    # [Alice_04 "Макс, тебе не всё ли равно? Очевидно же, что маме нравится этот Эрик. Лучше порадуйся за неё![nointeract]"
-    Alice_04 "Max, non ti interessa? Ovviamente, alla mamma piace questo Eric. Meglio essere felici per lei![nointeract]"
+    # [Alice_04 "Макс, тебе не всё ли равно? Очевидно же, что маме нравится этот Эрик. Лучше порадуйся за неё!" nointeract
+    Alice_04 "Max, non ti interessa? Ovviamente, alla mamma piace questo Eric. Meglio essere felici per lei!" nointeract
 
 # game/dialogues/breakfast.rpy:514
 translate italian breakfast_3_driver_f12412d8:
 
-    # [Ann_05 "Спасибо, Макс. Для меня очень важна поддержка семьи. Хотя, меня немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии...[nointeract]"
-    Ann_05 "Grazie, Max. Il sostegno della famiglia è molto importante per me. Anche se, sono un po 'confuso che sembra che tu ci abbia già sposato mentalmente prima che ci confessassimo l'un l'altro in simpatia...[nointeract]"
+    # [Ann_05 "Спасибо, Макс. Для меня очень важна поддержка семьи. Хотя, меня немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии..." nointeract
+    Ann_05 "Grazie, Max. Il sostegno della famiglia è molto importante per me. Anche se, sono un po 'confuso che sembra che tu ci abbia già sposato mentalmente prima che ci confessassimo l'un l'altro in simpatia..." nointeract
 
 # game/dialogues/breakfast.rpy:523
 translate italian breakfast_3_driver_29b87c33:
 
-    # [Ann_05 "Не сомневаюсь, что любопытно. Не стоит забегать вперёд. Меня даже немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии...[nointeract]"
-    Ann_05 "non ho dubbi che sia curioso. Non anticipare te stesso. Mi dà anche un po' fastidio che sia come se ci avessi già sposati mentalmente prima ancora che ci confessassimo la reciproca simpatia...[nointeract]"
+    # [Ann_05 "Не сомневаюсь, что любопытно. Не стоит забегать вперёд. Меня даже немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии..." nointeract
+    Ann_05 "non ho dubbi che sia curioso. Non anticipare te stesso. Mi dà anche un po' fastidio che sia come se ci avessi già sposati mentalmente prima ancora che ci confessassimo la reciproca simpatia..." nointeract
 
 # game/dialogues/breakfast.rpy:531
 translate italian breakfast_3_conf_57f2673b:
@@ -753,8 +753,8 @@ translate italian breakfast_3_hurry_9a1f1014:
 # game/dialogues/breakfast.rpy:545
 translate italian breakfast_3_end_280db0e0:
 
-    # [Ann_00 "Так, ладно. Кажется, завтрак закончен, все уже наелись. Мне пора на работу, а Лизе в школу. Алиса, не забудь вымыть посуду![nointeract]"
-    Ann_00 "Va bene. Sembra che la colazione sia finita, tutti hanno già servito. È tempo per me di andare al lavoro e Lisa a scuola. Alice, non dimenticare di lavare i piatti![nointeract]"
+    # [Ann_00 "Так, ладно. Кажется, завтрак закончен, все уже наелись. Мне пора на работу, а Лизе в школу. Алиса, не забудь вымыть посуду!" nointeract
+    Ann_00 "Va bene. Sembra che la colazione sia finita, tutti hanno già servito. È tempo per me di andare al lavoro e Lisa a scuola. Alice, non dimenticare di lavare i piatti!" nointeract
 
 # game/dialogues/breakfast.rpy:556
 translate italian breakfast_4_a0ebdb73:
@@ -783,8 +783,8 @@ translate italian breakfast_4_80f63239:
 # game/dialogues/breakfast.rpy:561
 translate italian breakfast_4_c34f4557:
 
-    # [Alice_01 "Макс, мне показалось или ты как-то предвзято относишься к Эрику? Как будто уже его ненавидишь...[nointeract]"
-    Alice_01 "Max, ho pensato o sei in qualche modo prevenuto contro Eric? È come se lo odissi...[nointeract]"
+    # [Alice_01 "Макс, мне показалось или ты как-то предвзято относишься к Эрику? Как будто уже его ненавидишь..." nointeract
+    Alice_01 "Max, ho pensato o sei in qualche modo prevenuto contro Eric? È come se lo odissi..." nointeract
 
 # game/dialogues/breakfast.rpy:563
 translate italian breakfast_4_111a77d9:
@@ -801,8 +801,8 @@ translate italian breakfast_4_d65d04da:
 # game/dialogues/breakfast.rpy:568
 translate italian breakfast_4_3320b1d4:
 
-    # [Lisa_03 "И за кого он себя выдаёт? За человека, которому нравится мама, а на само деле он... кто?[nointeract]"
-    Lisa_03 "E chi finge di essere? Per un uomo a cui piace sua madre, ma in realtà lui... Chi?[nointeract]"
+    # [Lisa_03 "И за кого он себя выдаёт? За человека, которому нравится мама, а на само деле он... кто?" nointeract
+    Lisa_03 "E chi finge di essere? Per un uomo a cui piace sua madre, ma in realtà lui... Chi?" nointeract
 
 # game/dialogues/breakfast.rpy:570
 translate italian breakfast_4_a7ed0c3d:
@@ -843,8 +843,8 @@ translate italian breakfast_4_38b7f8b4:
 # game/dialogues/breakfast.rpy:580
 translate italian breakfast_4_05cc408b:
 
-    # [Alice_02 "Да ты не переживать должен, а радоваться, что у мамы налаживается её личная жизнь! К тому же, ещё и с работой так повезло и даже повышение в первую неделю светит...[nointeract]"
-    Alice_02 "Sì, non dovresti preoccuparti, ma gioire che tua madre stia migliorando la sua vita personale! Inoltre, anche con il lavoro così fortunato e anche un rialzo nella prima settimana brilla...[nointeract]"
+    # [Alice_02 "Да ты не переживать должен, а радоваться, что у мамы налаживается её личная жизнь! К тому же, ещё и с работой так повезло и даже повышение в первую неделю светит..." nointeract
+    Alice_02 "Sì, non dovresti preoccuparti, ma gioire che tua madre stia migliorando la sua vita personale! Inoltre, anche con il lavoro così fortunato e anche un rialzo nella prima settimana brilla..." nointeract
 
 # game/dialogues/breakfast.rpy:585
 translate italian breakfast_4_71328ac0:
@@ -945,8 +945,8 @@ translate italian breakfast_5_8cd1cf54:
 # game/dialogues/breakfast.rpy:611
 translate italian breakfast_5_717457d5:
 
-    # [Ann_14 "Ты о чём, Макс? Я не понимаю...[nointeract]"
-    Ann_14 "Stai parlando, Max? Non capisco...[nointeract]"
+    # [Ann_14 "Ты о чём, Макс? Я не понимаю..." nointeract
+    Ann_14 "Stai parlando, Max? Non capisco..." nointeract
 
 # game/dialogues/breakfast.rpy:616
 translate italian breakfast_5_c980ce82:
@@ -981,8 +981,8 @@ translate italian breakfast_5_def57d9e:
 # game/dialogues/breakfast.rpy:622
 translate italian breakfast_5_97033bef:
 
-    # [Alice_04 "Да всё мы понимаем, мам. Не переживай. Просто, ты так долго была одна и тут такой... Эрик... Мы очень рады, что у тебя налаживается твоя личная жизнь. И мы не будем тебе мешать, да, Макс?[nointeract]"
-    Alice_04 "Sì, capiamo tutto, mamma. Non preoccuparti. È solo che sei stato solo per così tanto tempo e c'è questo... Eric... Siamo molto contenti che la tua vita personale stia migliorando. E non ti daremo fastidio, giusto, Max?[nointeract]"
+    # [Alice_04 "Да всё мы понимаем, мам. Не переживай. Просто, ты так долго была одна и тут такой... Эрик... Мы очень рады, что у тебя налаживается твоя личная жизнь. И мы не будем тебе мешать, да, Макс?" nointeract
+    Alice_04 "Sì, capiamo tutto, mamma. Non preoccuparti. È solo che sei stato solo per così tanto tempo e c'è questo... Eric... Siamo molto contenti che la tua vita personale stia migliorando. E non ti daremo fastidio, giusto, Max?" nointeract
 
 # game/dialogues/breakfast.rpy:627
 translate italian breakfast_5_fb058679:
@@ -1011,14 +1011,14 @@ translate italian breakfast_5_2db47011:
 # game/dialogues/breakfast.rpy:632
 translate italian breakfast_5_2e9a76d0:
 
-    # [Ann_01 "Да всё в порядке, Алиса. Я понимаю, Максу любопытно. Это же и нарушение вашего личного пространства, когда кто-то посторонний начинает посещать наш общий дом.[nointeract]"
-    Ann_01 "sì, va bene, Alice. Capisco che Max sia curioso. È anche una violazione del tuo spazio personale quando qualcun altro inizia a visitare la nostra casa comune.[nointeract]"
+    # [Ann_01 "Да всё в порядке, Алиса. Я понимаю, Максу любопытно. Это же и нарушение вашего личного пространства, когда кто-то посторонний начинает посещать наш общий дом." nointeract
+    Ann_01 "sì, va bene, Alice. Capisco che Max sia curioso. È anche una violazione del tuo spazio personale quando qualcun altro inizia a visitare la nostra casa comune." nointeract
 
 # game/dialogues/breakfast.rpy:638
 translate italian breakfast_5_d75ec0ba:
 
-    # [Ann_12 "Ещё рано об этом говорить, но... может быть... будем с ним встречаться через день-два, то у него, то у нас... Может быть...[nointeract]"
-    Ann_12 "È troppo presto per dirlo, ma... Potrebbe essere... ci incontreremo con lui tra un giorno o due, poi a casa sua, poi al nostro... Forse...[nointeract]"
+    # [Ann_12 "Ещё рано об этом говорить, но... может быть... будем с ним встречаться через день-два, то у него, то у нас... Может быть..." nointeract
+    Ann_12 "È troppo presto per dirlo, ma... Potrebbe essere... ci incontreremo con lui tra un giorno o due, poi a casa sua, poi al nostro... Forse..." nointeract
 
 # game/dialogues/breakfast.rpy:640
 translate italian breakfast_5_6aaaaa8a:
@@ -1077,8 +1077,8 @@ translate italian breakfast_5_2c426155:
 # game/dialogues/breakfast.rpy:655
 translate italian breakfast_5_b0c67912:
 
-    # [Ann_05 "В любом случае, для вас ничего не изменится. А если вы подружитесь с Эриком, я буду очень рада![nointeract]"
-    Ann_05 "In ogni caso, nulla cambierà per te. E se fai amicizia con Eric, sarei molto felice![nointeract]"
+    # [Ann_05 "В любом случае, для вас ничего не изменится. А если вы подружитесь с Эриком, я буду очень рада!" nointeract
+    Ann_05 "In ogni caso, nulla cambierà per te. E se fai amicizia con Eric, sarei molto felice!" nointeract
 
 # game/dialogues/breakfast.rpy:659
 translate italian breakfast_5_3ebe962a:
@@ -1257,14 +1257,14 @@ translate italian breakfast_12_2aeac290:
 # game/dialogues/breakfast.rpy:706
 translate italian breakfast_12_e27f5c8d:
 
-    # [Ann_07 "Ты прав, Макс. Здесь же все свои. В общем, мы с Эриком решили пожениться![nointeract]"
-    Ann_07 "Hai ragione, Max. È tutto loro. Ad ogni modo, Eric e io abbiamo deciso di sposarci![nointeract]"
+    # [Ann_07 "Ты прав, Макс. Здесь же все свои. В общем, мы с Эриком решили пожениться!" nointeract
+    Ann_07 "Hai ragione, Max. È tutto loro. Ad ogni modo, Eric e io abbiamo deciso di sposarci!" nointeract
 
 # game/dialogues/breakfast.rpy:709
 translate italian breakfast_12_f740488d:
 
-    # [Ann_13 "Макс! Сейчас выпорю перед всеми за такие слова. Я думала, ты порадуешься за свою маму, но такой реакции точно не ожидала...[nointeract]"
-    Ann_13 "Max! Ora ti darò una posizione di fronte a tutti per queste parole. Pensavo che saresti stato felice per tua madre, ma sicuramente non mi aspettavo una reazione del genere...[nointeract]"
+    # [Ann_13 "Макс! Сейчас выпорю перед всеми за такие слова. Я думала, ты порадуешься за свою маму, но такой реакции точно не ожидала..." nointeract
+    Ann_13 "Max! Ora ti darò una posizione di fronte a tutti per queste parole. Pensavo che saresti stato felice per tua madre, ma sicuramente non mi aspettavo una reazione del genere..." nointeract
 
 # game/dialogues/breakfast.rpy:711
 translate italian breakfast_12_88a4a734:
@@ -1455,26 +1455,26 @@ translate italian breakfast_18_81016e2b:
 # game/dialogues/breakfast.rpy:755
 translate italian breakfast_18_c316b223:
 
-    # [Kira_03 "Ну... Да. Просто подумала, что это не то, чем стоит гордиться. Ты вот работаешь в такой компании крупной, да ещё... Кстати, кем ты работаешь сейчас?[nointeract]"
-    Kira_03 "Beh... Sì. Ho solo pensato che non fosse qualcosa di cui essere orgogliosi. Lavori in un'azienda così grande e persino... A proposito, per chi stai lavorando ora?[nointeract]"
+    # [Kira_03 "Ну... Да. Просто подумала, что это не то, чем стоит гордиться. Ты вот работаешь в такой компании крупной, да ещё... Кстати, кем ты работаешь сейчас?" nointeract
+    Kira_03 "Beh... Sì. Ho solo pensato che non fosse qualcosa di cui essere orgogliosi. Lavori in un'azienda così grande e persino... A proposito, per chi stai lavorando ora?" nointeract
 
 # game/dialogues/breakfast.rpy:758
 translate italian breakfast_18_4898e38f:
 
-    # [Ann_04 "Макс! Как тебе не стыдно. Я личный ассистент руководителя регионального отделения компании...[nointeract]"
-    Ann_04 "Max! Come non ti vergogni. Sono assistente personale del responsabile della filiale regionale dell'azienda...[nointeract]"
+    # [Ann_04 "Макс! Как тебе не стыдно. Я личный ассистент руководителя регионального отделения компании..." nointeract
+    Ann_04 "Max! Come non ti vergogni. Sono assistente personale del responsabile della filiale regionale dell'azienda..." nointeract
 
 # game/dialogues/breakfast.rpy:765
 translate italian breakfast_18_e1fcda17:
 
-    # [Ann_02 "Макс! Я не секретарша, а личный ассистент руководителя регионального отделения компании...[nointeract]"
-    Ann_02 "Max! Non sono una segretaria, ma un'assistente personale del capo della filiale regionale dell'azienda...[nointeract]"
+    # [Ann_02 "Макс! Я не секретарша, а личный ассистент руководителя регионального отделения компании..." nointeract
+    Ann_02 "Max! Non sono una segretaria, ma un'assistente personale del capo della filiale regionale dell'azienda..." nointeract
 
 # game/dialogues/breakfast.rpy:772
 translate italian breakfast_18_2ffeff05:
 
-    # [Ann_06 "Я же тебе рассказывала, что я сейчас личный ассистент руководителя регионального отделения компании...[nointeract]"
-    Ann_06 "ti ho detto che ora sono un assistente personale del capo della filiale regionale dell'azienda...[nointeract]"
+    # [Ann_06 "Я же тебе рассказывала, что я сейчас личный ассистент руководителя регионального отделения компании..." nointeract
+    Ann_06 "ti ho detto che ora sono un assistente personale del capo della filiale regionale dell'azienda..." nointeract
 
 # game/dialogues/breakfast.rpy:777
 translate italian breakfast_18_7701c024:
@@ -1491,14 +1491,14 @@ translate italian breakfast_18_84309eb3:
 # game/dialogues/breakfast.rpy:780
 translate italian breakfast_18_next_f5423a85:
 
-    # [Kira_05 "Ну, то есть, сфера обслуги, верно? Да шучу я, Ань, шучу. Ладно, а что там с этим вашим Эриком? Какой он?[nointeract]"
-    Kira_05 "Beh, voglio dire, il settore dei servizi, giusto? Lasciatemi scherzare, An, sto solo scherzando. Ok, cosa succede con quel tuo Eric? Cos'è?[nointeract]"
+    # [Kira_05 "Ну, то есть, сфера обслуги, верно? Да шучу я, Ань, шучу. Ладно, а что там с этим вашим Эриком? Какой он?" nointeract
+    Kira_05 "Beh, voglio dire, il settore dei servizi, giusto? Lasciatemi scherzare, An, sto solo scherzando. Ok, cosa succede con quel tuo Eric? Cos'è?" nointeract
 
 # game/dialogues/breakfast.rpy:783
 translate italian breakfast_18_next_9ffa848f:
 
-    # [Ann_16 "Макс! Да как ты разговариваешь! Снимай штаны![nointeract]"
-    Ann_16 "Max! Come parli! Togliti i pantaloni![nointeract]"
+    # [Ann_16 "Макс! Да как ты разговариваешь! Снимай штаны!" nointeract
+    Ann_16 "Max! Come parli! Togliti i pantaloni!" nointeract
 
 # game/dialogues/breakfast.rpy:785
 translate italian breakfast_18_next_b4169c04:
@@ -1521,8 +1521,8 @@ translate italian breakfast_18_next_6e7aee99:
 # game/dialogues/breakfast.rpy:790
 translate italian breakfast_18_next_38a95e47:
 
-    # [Kira_13 "Ого! У вас снова в моде физические наказания? Прямо как у нас в детстве, да Ань? Неужели, дети перестали слушаться обычных голосовых команд?[nointeract]"
-    Kira_13 "'s ow! Le punizioni fisiche sono tornate in voga? Proprio come eravamo nell'infanzia, sì Anh? I bambini hanno smesso di ascoltare i soliti comandi vocali?[nointeract]"
+    # [Kira_13 "Ого! У вас снова в моде физические наказания? Прямо как у нас в детстве, да Ань? Неужели, дети перестали слушаться обычных голосовых команд?" nointeract
+    Kira_13 "'s ow! Le punizioni fisiche sono tornate in voga? Proprio come eravamo nell'infanzia, sì Anh? I bambini hanno smesso di ascoltare i soliti comandi vocali?" nointeract
 
 # game/dialogues/breakfast.rpy:792
 translate italian breakfast_18_next_7b275243:
@@ -1551,8 +1551,8 @@ translate italian breakfast_18_next_57c98dc0:
 # game/dialogues/breakfast.rpy:799
 translate italian breakfast_18_next_df2f93f7:
 
-    # [Kira_07 "А ты, Макс, я вижу, нашёл с ним общий язык? Значит, Эрик и правда хороший парень. Нужно будет с ним познакомиться...[nointeract]"
-    Kira_07 "E tu, Max, vedo, hai trovato un linguaggio comune con lui? Quindi Eric è davvero un bravo ragazzo. Dovrai conoscerlo...[nointeract]"
+    # [Kira_07 "А ты, Макс, я вижу, нашёл с ним общий язык? Значит, Эрик и правда хороший парень. Нужно будет с ним познакомиться..." nointeract
+    Kira_07 "E tu, Max, vedo, hai trovato un linguaggio comune con lui? Quindi Eric è davvero un bravo ragazzo. Dovrai conoscerlo..." nointeract
 
 # game/dialogues/breakfast.rpy:801
 translate italian breakfast_18_next_cc699149:

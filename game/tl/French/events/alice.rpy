@@ -15,14 +15,14 @@
 # game/events/alice.rpy:13
 translate frenh alice_bath_086088b7:
 
-    # [Max_00 "Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
-    Max_00 "Si c'est minuit, Alice prend un bain... Entrer sans frapper est dangereux pour ma vie.[nointeract]"
+    # [Max_00 "Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни." nointeract
+    Max_00 "Si c'est minuit, Alice prend un bain... Entrer sans frapper est dangereux pour ma vie." nointeract
 
 # game/events/alice.rpy:16
 translate frenh alice_bath_ab9e6db9:
 
-    # [Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю...[nointeract]"
-    Alice]{b}Alice: {/b}Qui ne dort pas? Je prends un bain...[nointeract]"
+    # [Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю..." nointeract
+    Alice]{b}Alice: {/b}Qui ne dort pas? Je prends un bain..." nointeract
 
 # game/events/alice.rpy:18
 translate frenh alice_bath_74fd8c7a:
@@ -45,8 +45,8 @@ translate frenh alice_bath_12dd9242:
 # game/events/alice.rpy:28
 translate frenh alice_bath_617c9a2e:
 
-    # [Max_09 "Нужно что-нибудь придумать...[nointeract]"
-    Max_09 "Besoin de trouver quelque chose...[nointeract]"
+    # [Max_09 "Нужно что-нибудь придумать..." nointeract
+    Max_09 "Besoin de trouver quelque chose..." nointeract
 
 # game/events/alice.rpy:35
 translate frenh alice_bath_6a58c36d:
@@ -63,70 +63,70 @@ translate frenh alice_bath_ladder_2b325faf:
 # game/events/alice.rpy:60
 translate frenh alice_bath_ladder_40583688:
 
-    # [Max_03 "Вот это повезло! Алиса как раз собирается принять ванну... Её шикарная попка меня просто завораживает! Так бы любовался и любовался...[nointeract]"
-    Max_03 "J'ai de la chance! Alice est sur le point de prendre un bain... Son cul magnifique me fascine! Donc, elle sera aimé et admiré...[nointeract]"
+    # [Max_03 "Вот это повезло! Алиса как раз собирается принять ванну... Её шикарная попка меня просто завораживает! Так бы любовался и любовался..." nointeract
+    Max_03 "J'ai de la chance! Alice est sur le point de prendre un bain... Son cul magnifique me fascine! Donc, elle sera aimé et admiré..." nointeract
 
 # game/events/alice.rpy:66
 translate frenh alice_bath_ladder_ef1f5ff4:
 
-    # [Max_05 "Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна...[nointeract]"
-    Max_05 "Merde, elle me taquine avec ses seins mouillés...Peut-être que ma grande sœur est une salope, mais elle est chaude! Très sexy.[nointeract]"
+    # [Max_05 "Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна..." nointeract
+    Max_05 "Merde, elle me taquine avec ses seins mouillés...Peut-être que ma grande sœur est une salope, mais elle est chaude! Très sexy." nointeract
 
 # game/events/alice.rpy:75
 translate frenh alice_bath_ladder_ef1f5ff4_1:
 
-    # [Max_05 "Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна...[nointeract]"
-    Max_05 "Merde, elle me taquine avec ses seins mouillés... Peut-être que ma grande sœur est une salope, mais elle est chaude! Très sexy.[nointeract]"
+    # [Max_05 "Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна..." nointeract
+    Max_05 "Merde, elle me taquine avec ses seins mouillés... Peut-être que ma grande sœur est une salope, mais elle est chaude! Très sexy." nointeract
 
 # game/events/alice.rpy:81
 translate frenh alice_bath_ladder_98712b50:
 
-    # [Max_07 "Эх! Самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладится её бесподобной попкой![nointeract]"
-    Max_07 "Oh! Le plus intéressant n'a pas duré longtemps... La seule chose qu’il reste à faire est de profiter de son cul incomparable![nointeract]"
+    # [Max_07 "Эх! Самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладится её бесподобной попкой!" nointeract
+    Max_07 "Oh! Le plus intéressant n'a pas duré longtemps... La seule chose qu’il reste à faire est de profiter de son cul incomparable!" nointeract
 
 # game/events/alice.rpy:100
 translate frenh alice_sleep_night_7ff48024:
 
     # [Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья...[nointeract]"
+"Да и входить опасно для здоровья..." nointeract
     Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\n"
-"Et entrer est dangereux pour la santé...[nointeract]"
+"Et entrer est dangereux pour la santé..." nointeract
 
 # game/events/alice.rpy:114
 translate frenh alice_sleep_night_395216d9:
 
-    # [Max_07 "О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела, в одних лишь трусиках, хочется смотреть вечно![nointeract]"
-    Max_07 "Oh oui ! Ma sœur aînée a l’air incroyable... Les courbes de son corps, dans la seule culotte, je veux la regarder tout le temps![nointeract]"
+    # [Max_07 "О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела, в одних лишь трусиках, хочется смотреть вечно!" nointeract
+    Max_07 "Oh oui ! Ma sœur aînée a l’air incroyable... Les courbes de son corps, dans la seule culotte, je veux la regarder tout le temps!" nointeract
 
 # game/events/alice.rpy:116
 translate frenh alice_sleep_night_5d061581:
 
-    # [Max_04 "Эх! Не повезло, что Алиса спит спиной к окну и её грудь не видно... Правда, в таком случае, всегда можно насладиться красотой Алисиной попки.[nointeract]"
-    Max_04 "Eh! Pas de chance qu’Alice dorme dos à la fenêtre et que sa poitrine ne soit pas visible... Cependant, dans ce cas, je peux toujours profiter de la beauté de son cul.[nointeract]"
+    # [Max_04 "Эх! Не повезло, что Алиса спит спиной к окну и её грудь не видно... Правда, в таком случае, всегда можно насладиться красотой Алисиной попки." nointeract
+    Max_04 "Eh! Pas de chance qu’Alice dorme dos à la fenêtre et que sa poitrine ne soit pas visible... Cependant, dans ce cas, je peux toujours profiter de la beauté de son cul." nointeract
 
 # game/events/alice.rpy:118
 translate frenh alice_sleep_night_9133399c:
 
-    # [Max_01 "Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...[nointeract]"
-    Max_01 "Génial! Ma sœur dort le dos vers la porte, ce qui fait ressortir ses seins nus comme deux monticules... Un spectacle séduisant...[nointeract]"
+    # [Max_01 "Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище..." nointeract
+    Max_01 "Génial! Ma sœur dort le dos vers la porte, ce qui fait ressortir ses seins nus comme deux monticules... Un spectacle séduisant..." nointeract
 
 # game/events/alice.rpy:122
 translate frenh alice_sleep_night_8dcd010e:
 
-    # [Max_07 "О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно![nointeract]"
-    Max_07 "Oh oui! Ma sœur aînée a l’air incroyable... Les courbes de son corps complètement nu, je veux les regarder tout le temps![nointeract]"
+    # [Max_07 "О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!" nointeract
+    Max_07 "Oh oui! Ma sœur aînée a l’air incroyable... Les courbes de son corps complètement nu, je veux les regarder tout le temps!" nointeract
 
 # game/events/alice.rpy:124
 translate frenh alice_sleep_night_ba29de31:
 
-    # [Max_04 "Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.[nointeract]"
-    Max_04 "Wow! J'ai de la chance qu'Alice dort le dos à la fenêtre... Et il ne se doutait pas qu'il montrait son cul nu pour moi dans toute sa splendeur.[nointeract]"
+    # [Max_04 "Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе." nointeract
+    Max_04 "Wow! J'ai de la chance qu'Alice dort le dos à la fenêtre... Et il ne se doutait pas qu'il montrait son cul nu pour moi dans toute sa splendeur." nointeract
 
 # game/events/alice.rpy:126
 translate frenh alice_sleep_night_9133399c_1:
 
-    # [Max_01 "Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...[nointeract]"
-    Max_01 "Génial! Ma sœur dort le dos vers la porte, ce qui fait ressortir ses seins nus comme deux monticules... Un spectacle séduisant...[nointeract]"
+    # [Max_01 "Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище..." nointeract
+    Max_01 "Génial! Ma sœur dort le dos vers la porte, ce qui fait ressortir ses seins nus comme deux monticules... Un spectacle séduisant..." nointeract
 
 # game/events/alice.rpy:133
 translate frenh alice_sleep_night_013f61a2:
@@ -149,8 +149,8 @@ translate frenh alice_sleep_night_aa8e7463:
 # game/events/alice.rpy:138
 translate frenh alice_sleep_night_a66d1095:
 
-    # [Max_09 "Так что надо выводить тебя на чистую воду... Возможно, мне стоит воспользоваться тем, чего Алиса боится больше всего?![nointeract]"
-    Max_09 "Donc, il faut me mettre à l'eau... Peut-être devrais-je profiter de ce dont Alice a le plus peur?![nointeract]"
+    # [Max_09 "Так что надо выводить тебя на чистую воду... Возможно, мне стоит воспользоваться тем, чего Алиса боится больше всего?!" nointeract
+    Max_09 "Donc, il faut me mettre à l'eau... Peut-être devrais-je profiter de ce dont Alice a le plus peur?!" nointeract
 
 # game/events/alice.rpy:144
 translate frenh alice_sleep_night_a30b80cf:
@@ -173,124 +173,124 @@ translate frenh alice_sleep_night_3b644149:
 # game/events/alice.rpy:149
 translate frenh alice_sleep_night_a66d1095_1:
 
-    # [Max_09 "Так что надо выводить тебя на чистую воду... Возможно, мне стоит воспользоваться тем, чего Алиса боится больше всего?![nointeract]"
-    Max_09 "Donc, il faut me mettre à l'eau... Peut-être devrais-je profiter de ce dont Alice a le plus peur?![nointeract]"
+    # [Max_09 "Так что надо выводить тебя на чистую воду... Возможно, мне стоит воспользоваться тем, чего Алиса боится больше всего?!" nointeract
+    Max_09 "Donc, il faut me mettre à l'eau... Peut-être devrais-je profiter de ce dont Alice a le plus peur?!" nointeract
 
 # game/events/alice.rpy:152
 translate frenh alice_sleep_night_dc2760cf:
 
-    # [Max_07 "О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела в этом полупрозрачном белье хочется смотреть вечно![nointeract]"
-    Max_07 "Oh, oui! Ma grande sœur a l'air incroyable... Les courbes de son corps dans cette lingerie translucide je veux les regarder tout le temps![nointeract]"
+    # [Max_07 "О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела в этом полупрозрачном белье хочется смотреть вечно!" nointeract
+    Max_07 "Oh, oui! Ma grande sœur a l'air incroyable... Les courbes de son corps dans cette lingerie translucide je veux les regarder tout le temps!" nointeract
 
 # game/events/alice.rpy:154
 translate frenh alice_sleep_night_a31094ba:
 
-    # [Max_04 "Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою попку для меня во всей красе.[nointeract]"
-    Max_04 "Wow! J'ai de la chance qu'Alice dort le dos à la fenêtre... Elle ne se doute pas qu'elle montre son cul pour moi dans toute sa splendeur.[nointeract]"
+    # [Max_04 "Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою попку для меня во всей красе." nointeract
+    Max_04 "Wow! J'ai de la chance qu'Alice dort le dos à la fenêtre... Elle ne se doute pas qu'elle montre son cul pour moi dans toute sa splendeur." nointeract
 
 # game/events/alice.rpy:156
 translate frenh alice_sleep_night_0e56ded8:
 
-    # [Max_01 "Обалденно! Сестрёнка спит выгнув спину, отчего её грудь торчит, как два холмика... Соблазнительно...[nointeract]"
-    Max_01 "Le truc le plus sympa! Ma sœur dort en cambrant le dos, ce qui fait que sa poitrine dépasse comme deux monticules... Séduisant...[nointeract]"
+    # [Max_01 "Обалденно! Сестрёнка спит выгнув спину, отчего её грудь торчит, как два холмика... Соблазнительно..." nointeract
+    Max_01 "Le truc le plus sympa! Ma sœur dort en cambrant le dos, ce qui fait que sa poitrine dépasse comme deux monticules... Séduisant..." nointeract
 
 # game/events/alice.rpy:169
 translate frenh alice_sleep_night_43e235c5:
 
-    # [Max_03 "Да уж... Жаль только, что грудь не видно так, как хотелось бы, но её обворожительной попкой можно любоваться бесконечно... Так и хочется по ней шлёпнуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить...[nointeract]"
-    Max_03 "oui... Il est dommage que la poitrine ne soit pas visible comme je le voudrais, mais son beau cul peut être admiré indéfiniment... Alors j’ai envie de le gifler... Cependant, alors ce sera la dernière chose que je ferai dans la vie. Il vaut donc mieux agir prudemment...[nointeract]"
+    # [Max_03 "Да уж... Жаль только, что грудь не видно так, как хотелось бы, но её обворожительной попкой можно любоваться бесконечно... Так и хочется по ней шлёпнуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить..." nointeract
+    Max_03 "oui... Il est dommage que la poitrine ne soit pas visible comme je le voudrais, mais son beau cul peut être admiré indéfiniment... Alors j’ai envie de le gifler... Cependant, alors ce sera la dernière chose que je ferai dans la vie. Il vaut donc mieux agir prudemment..." nointeract
 
 # game/events/alice.rpy:171
 translate frenh alice_sleep_night_eab46551:
 
-    # [Max_02 "Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы пристроился с огромным удовольствием... Можно было бы пройти ещё дальше и хоть одним глазком увидеть сиськи, но лучше уйти, а то ещё проснётся...[nointeract]"
-    Max_02 "La classe! Peut-être Alice est ma sœur, mais à côté de ce cul élastique, je ne peux pas résister à ce grand plaisir... Je pourrais aller encore plus loin et voir ses seins d'un œil, mais il vaut mieux partir, sinon elle va se réveiller...[nointeract]"
+    # [Max_02 "Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы пристроился с огромным удовольствием... Можно было бы пройти ещё дальше и хоть одним глазком увидеть сиськи, но лучше уйти, а то ещё проснётся..." nointeract
+    Max_02 "La classe! Peut-être Alice est ma sœur, mais à côté de ce cul élastique, je ne peux pas résister à ce grand plaisir... Je pourrais aller encore plus loin et voir ses seins d'un œil, mais il vaut mieux partir, sinon elle va se réveiller..." nointeract
 
 # game/events/alice.rpy:173
 translate frenh alice_sleep_night_e0bac404:
 
-    # [Max_05 "Чёрт, какая же она притягательная, когда лежит вот так, с совершенно голой грудью... Так и хочется занырнуть между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась...[nointeract]"
-    Max_05 "Putain, elle est belle quand elle est couchée comme ça, avec ses seins complètement nus... Et je veux me faufiler entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant...[nointeract]"
+    # [Max_05 "Чёрт, какая же она притягательная, когда лежит вот так, с совершенно голой грудью... Так и хочется занырнуть между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась..." nointeract
+    Max_05 "Putain, elle est belle quand elle est couchée comme ça, avec ses seins complètement nus... Et je veux me faufiler entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant..." nointeract
 
 # game/events/alice.rpy:176
 translate frenh alice_sleep_night_5050f40d:
 
-    # [Max_03 "Да уж... Её обворожительной попкой можно любоваться бесконечно... Так и хочется кое-что в неё присунуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить...[nointeract]"
-    Max_03 "Oui... Son cul charmant peut être admiré à l’infini... J'ai envie d'y mettre quelque chose... C'est vrai, alors ce sera la dernière chose que je ferai dans ma vie. Il est donc préférable de partir lentement...[nointeract]"
+    # [Max_03 "Да уж... Её обворожительной попкой можно любоваться бесконечно... Так и хочется кое-что в неё присунуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить..." nointeract
+    Max_03 "Oui... Son cul charmant peut être admiré à l’infini... J'ai envie d'y mettre quelque chose... C'est vrai, alors ce sera la dernière chose que je ferai dans ma vie. Il est donc préférable de partir lentement..." nointeract
 
 # game/events/alice.rpy:178
 translate frenh alice_sleep_night_5bde02e1:
 
-    # [Max_02 "Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы не лежал без дела, а как следует её... Но пора уходить, а то ещё проснётся...[nointeract]"
-    Max_02 "La classe! Peut-être Alice est ma sœur, mais à côté de ce cul élastique, je ne serais pas resté inactif, mais comme il se doit... Mais il est temps de partir, sinon elle se réveillera...[nointeract]"
+    # [Max_02 "Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы не лежал без дела, а как следует её... Но пора уходить, а то ещё проснётся..." nointeract
+    Max_02 "La classe! Peut-être Alice est ma sœur, mais à côté de ce cul élastique, je ne serais pas resté inactif, mais comme il se doit... Mais il est temps de partir, sinon elle se réveillera..." nointeract
 
 # game/events/alice.rpy:180
 translate frenh alice_sleep_night_6bde2145:
 
-    # [Max_05 "Чёрт, какая же она притягательная, когда лежит вот так, полностью голая... И как будто только и ждёт, когда я занырну между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась...[nointeract]"
-    Max_05 "Putain, elle est belle quand elle est couchée comme ça, complètement nue... Comme si j'attendais juste que je tombe entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant...[nointeract]"
+    # [Max_05 "Чёрт, какая же она притягательная, когда лежит вот так, полностью голая... И как будто только и ждёт, когда я занырну между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась..." nointeract
+    Max_05 "Putain, elle est belle quand elle est couchée comme ça, complètement nue... Comme si j'attendais juste que je tombe entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant..." nointeract
 
 # game/events/alice.rpy:183
 translate frenh alice_sleep_night_9ed99f0c:
 
-    # [Max_03 "Да уж... Её обворожительной попкой можно любоваться бесконечно... Так и хочется по ней шлёпнуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить...[nointeract]"
-    Max_03 "Oui... Son cul charmant peut être admiré à l’infini... Et je veux le gifler... C'est vrai, alors ce sera la dernière chose que je ferai dans ma vie. Il est donc préférable de partir lentement...[nointeract]"
+    # [Max_03 "Да уж... Её обворожительной попкой можно любоваться бесконечно... Так и хочется по ней шлёпнуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить..." nointeract
+    Max_03 "Oui... Son cul charmant peut être admiré à l’infini... Et je veux le gifler... C'est vrai, alors ce sera la dernière chose que je ferai dans ma vie. Il est donc préférable de partir lentement..." nointeract
 
 # game/events/alice.rpy:185
 translate frenh alice_sleep_night_1374d4d4:
 
-    # [Max_02 "Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы пристроился с огромным удовольствием... Но пора уходить, а то ещё проснётся...[nointeract]"
-    Max_02 "La classe! Peut-être Alice est ma sœur, mais à côté de ce cul élastique, je l'aurais pris avec un grand plaisir... Mais il est temps de partir, sinon elle se réveillera...[nointeract]"
+    # [Max_02 "Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы пристроился с огромным удовольствием... Но пора уходить, а то ещё проснётся..." nointeract
+    Max_02 "La classe! Peut-être Alice est ma sœur, mais à côté de ce cul élastique, je l'aurais pris avec un grand plaisir... Mais il est temps de partir, sinon elle se réveillera..." nointeract
 
 # game/events/alice.rpy:187
 translate frenh alice_sleep_night_ef329553:
 
-    # [Max_01 "Чёрт, какая же она притягательная, когда лежит вот так... Так и хочется занырнуть между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась...[nointeract]"
-    Max_01 "Putain, elle est belle quand elle est couchée comme ça... Et je veux me faufiler entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant...[nointeract]"
+    # [Max_01 "Чёрт, какая же она притягательная, когда лежит вот так... Так и хочется занырнуть между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась..." nointeract
+    Max_01 "Putain, elle est belle quand elle est couchée comme ça... Et je veux me faufiler entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant..." nointeract
 
 # game/events/alice.rpy:204
 translate frenh alice_sleep_morning_7ff48024:
 
     # [Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья...[nointeract]"
+"Да и входить опасно для здоровья..." nointeract
     Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\n"
-"Et entrer est dangereux pour la santé...[nointeract]"
+"Et entrer est dangereux pour la santé..." nointeract
 
 # game/events/alice.rpy:215
 translate frenh alice_sleep_morning_7c1f0327:
 
-    # [Max_07 "Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную фигурку, на которой лишь одни трусики...[nointeract]"
-    Max_07 "Euhhh Alice est encore endormie, ce qui me rend certainement heureux... Après tout, cela signifie que je peux voir sa silhouette cool, qui n’a que des culottes...[nointeract]"
+    # [Max_07 "Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную фигурку, на которой лишь одни трусики..." nointeract
+    Max_07 "Euhhh Alice est encore endormie, ce qui me rend certainement heureux... Après tout, cela signifie que je peux voir sa silhouette cool, qui n’a que des culottes..." nointeract
 
 # game/events/alice.rpy:217
 translate frenh alice_sleep_morning_c26f2753:
 
-    # [Max_01 "Чёрт! Как же хорошо, что теперь она спит без лифчика и я могу насладится почти всей красотой её тела, и ещё как... Обалденные у неё сиськи![nointeract]"
-    Max_01 "Merde ! C'est bien qu'elle dort sans soutien-gorge et que je puisse profiter de presque toute la beauté de son corps, et plus encore... Elle a de beaux seins![nointeract]"
+    # [Max_01 "Чёрт! Как же хорошо, что теперь она спит без лифчика и я могу насладится почти всей красотой её тела, и ещё как... Обалденные у неё сиськи!" nointeract
+    Max_01 "Merde ! C'est bien qu'elle dort sans soutien-gorge et que je puisse profiter de presque toute la beauté de son corps, et plus encore... Elle a de beaux seins!" nointeract
 
 # game/events/alice.rpy:219
 translate frenh alice_sleep_morning_478c8465:
 
-    # [Max_04 "Вот это да! От таких соблазнительных изгибов и сисечек можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка![nointeract]"
-    Max_04 "Oui! Ces courbes séduisantes et ces seins, je peux en profiter le matin tôt... J'ai une belle sœur![nointeract]"
+    # [Max_04 "Вот это да! От таких соблазнительных изгибов и сисечек можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка!" nointeract
+    Max_04 "Oui! Ces courbes séduisantes et ces seins, je peux en profiter le matin tôt... J'ai une belle sœur!" nointeract
 
 # game/events/alice.rpy:223
 translate frenh alice_sleep_morning_e17fb6e5:
 
-    # [Max_07 "Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, совершенно голую фигурку как следует...[nointeract]"
-    Max_07 "Euhhh Alice est encore endormie, ce qui me rend certainement heureux... Après tout, cela signifie que je peux voir sa silhouette cool, totalement nu comme ça...[nointeract]"
+    # [Max_07 "Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, совершенно голую фигурку как следует..." nointeract
+    Max_07 "Euhhh Alice est encore endormie, ce qui me rend certainement heureux... Après tout, cela signifie que je peux voir sa silhouette cool, totalement nu comme ça..." nointeract
 
 # game/events/alice.rpy:225
 translate frenh alice_sleep_morning_a794e7b7:
 
-    # [Max_01 "Чёрт! Как же хорошо, что теперь она спит голая и я могу насладится всей красотой её тела, и ещё как... Обалденные у неё сиськи![nointeract]"
-    Max_01 "Merde ! C'est bien qu'elle dort nue et que je peux profiter de toute la beauté de son corps, et plus encore... Elle a de beaux seins![nointeract]"
+    # [Max_01 "Чёрт! Как же хорошо, что теперь она спит голая и я могу насладится всей красотой её тела, и ещё как... Обалденные у неё сиськи!" nointeract
+    Max_01 "Merde ! C'est bien qu'elle dort nue et que je peux profiter de toute la beauté de son corps, et plus encore... Elle a de beaux seins!" nointeract
 
 # game/events/alice.rpy:227
 translate frenh alice_sleep_morning_341e820c:
 
-    # [Max_04 "Вот это да! От таких соблазнительных изгибов её полностью голого тела можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка![nointeract]"
-    Max_04 "Oui! Ces courbes séduisantes de son corps complètement nu, je peux en profiter le matin tôt... J'ai une belle sœur![nointeract]"
+    # [Max_04 "Вот это да! От таких соблазнительных изгибов её полностью голого тела можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка!" nointeract
+    Max_04 "Oui! Ces courbes séduisantes de son corps complètement nu, je peux en profiter le matin tôt... J'ai une belle sœur!" nointeract
 
 # game/events/alice.rpy:233
 translate frenh alice_sleep_morning_3ed48829:
@@ -313,8 +313,8 @@ translate frenh alice_sleep_morning_f62eae9b:
 # game/events/alice.rpy:239
 translate frenh alice_sleep_morning_333a5d36:
 
-    # [Max_09 "Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?![nointeract]"
-    Max_09 "Je dois me jeter à l'eau... Peut-être devrais-je profiter de ce qui fait le plus peur à Alice?![nointeract]"
+    # [Max_09 "Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?!" nointeract
+    Max_09 "Je dois me jeter à l'eau... Peut-être devrais-je profiter de ce qui fait le plus peur à Alice?!" nointeract
 
 # game/events/alice.rpy:245
 translate frenh alice_sleep_morning_b1433f58:
@@ -337,80 +337,80 @@ translate frenh alice_sleep_morning_345503a1:
 # game/events/alice.rpy:251
 translate frenh alice_sleep_morning_333a5d36_1:
 
-    # [Max_09 "Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?![nointeract]"
-    Max_09 "Je dois me jeter à l'eau... Peut-être devrais-je profiter de ce qui fait le plus peur à Alice?![nointeract]"
+    # [Max_09 "Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?!" nointeract
+    Max_09 "Je dois me jeter à l'eau... Peut-être devrais-je profiter de ce qui fait le plus peur à Alice?!" nointeract
 
 # game/events/alice.rpy:255
 translate frenh alice_sleep_morning_5a7b04f5:
 
-    # [Max_07 "Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, почти голую фигурку как следует... [nointeract]"
-    Max_07 "Euhhh Alice est encore endormie, ce qui me rend certainement heureux... Après tout, cela signifie que je peux voir sa silhouette cool, une silhouette presque nue comme il se doit...[nointeract]"
+    # [Max_07 "Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, почти голую фигурку как следует... " nointeract
+    Max_07 "Euhhh Alice est encore endormie, ce qui me rend certainement heureux... Après tout, cela signifie que je peux voir sa silhouette cool, une silhouette presque nue comme il se doit..." nointeract
 
 # game/events/alice.rpy:257
 translate frenh alice_sleep_morning_f2de281e:
 
-    # [Max_01 "Чёрт! Хоть она и спит, но прямо лицом ко мне... И тем не менее, насладится красотой её тела я могу, и ещё как...[nointeract]"
-    Max_01 "Merde ! Même si elle dort, elle est face à moi... Et pourtant, je peux profiter de la beauté de son corps, et plus encore...[nointeract]"
+    # [Max_01 "Чёрт! Хоть она и спит, но прямо лицом ко мне... И тем не менее, насладится красотой её тела я могу, и ещё как..." nointeract
+    Max_01 "Merde ! Même si elle dort, elle est face à moi... Et pourtant, je peux profiter de la beauté de son corps, et plus encore..." nointeract
 
 # game/events/alice.rpy:259
 translate frenh alice_sleep_morning_159c77a0:
 
-    # [Max_02 "Вот это да! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка![nointeract]"
-    Max_02 "Oui! Ces courbes séduisantes, je peux en profiter le matin tôt... J'ai une belle sœur![nointeract]"
+    # [Max_02 "Вот это да! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка!" nointeract
+    Max_02 "Oui! Ces courbes séduisantes, je peux en profiter le matin tôt... J'ai une belle sœur!" nointeract
 
 # game/events/alice.rpy:272
 translate frenh alice_sleep_morning_bbfe755e:
 
-    # [Max_05 "Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эти сиськи! И стянуть эти трусики... и ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти.[nointeract]"
-    Max_05 "Oh, de cette vue, il ne reste que les pensées les plus vulgaires dans ma tête... Comme je veux malaxer ces seins! Et enlever ces culottes... et encore plus... peut-être que jusqu'à ce qu'elle se réveille, partir doucement d'ici.[nointeract]"
+    # [Max_05 "Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эти сиськи! И стянуть эти трусики... и ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти." nointeract
+    Max_05 "Oh, de cette vue, il ne reste que les pensées les plus vulgaires dans ma tête... Comme je veux malaxer ces seins! Et enlever ces culottes... et encore plus... peut-être que jusqu'à ce qu'elle se réveille, partir doucement d'ici." nointeract
 
 # game/events/alice.rpy:274
 translate frenh alice_sleep_morning_dc8fde31:
 
-    # [Max_03 "О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Как и поласкать эти аппетитные сосочки! Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить...[nointeract]"
-    Max_03 "Oui! Ne pas se coucher et ne pas acquérir ce doux cul est un vrai crime... Comme caresser ces joues appétissantes! Sauf qu'Alice pense le contraire et va m'arracher la tête. Il est donc préférable de partir lentement...[nointeract]"
+    # [Max_03 "О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Как и поласкать эти аппетитные сосочки! Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить..." nointeract
+    Max_03 "Oui! Ne pas se coucher et ne pas acquérir ce doux cul est un vrai crime... Comme caresser ces joues appétissantes! Sauf qu'Alice pense le contraire et va m'arracher la tête. Il est donc préférable de partir lentement..." nointeract
 
 # game/events/alice.rpy:276
 translate frenh alice_sleep_morning_abc53cfb:
 
-    # [Max_02 "Вот чёрт! С каким же огромным удовольствием я бы сел рядом с ней, запустил свои руки в её трусики и мял эти упругие сисечки всё утро... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится.[nointeract]"
-    Max_02 "Merci! Avec quel grand plaisir je m'asseyais à côté d'elle, j'ai mis mes mains dans sa culotte et j'ai malaxé ses seins élastiques toute la matinée... C'est une belle sœur, mais il est temps de partir... Si elle se réveille, je ne vais pas voir le jour.[nointeract]"
+    # [Max_02 "Вот чёрт! С каким же огромным удовольствием я бы сел рядом с ней, запустил свои руки в её трусики и мял эти упругие сисечки всё утро... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится." nointeract
+    Max_02 "Merci! Avec quel grand plaisir je m'asseyais à côté d'elle, j'ai mis mes mains dans sa culotte et j'ai malaxé ses seins élastiques toute la matinée... C'est une belle sœur, mais il est temps de partir... Si elle se réveille, je ne vais pas voir le jour." nointeract
 
 # game/events/alice.rpy:280
 translate frenh alice_sleep_morning_4a356b2c:
 
-    # [Max_05 "Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эту попку! А после натянуть её на свой... И ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти.[nointeract]"
-    Max_05 "Oh, de cette vue, il ne reste que les pensées les plus vulgaires dans ma tête... Comme je veux malaxer ce cul! Et puis l'approcher de moi... Et encore autre chose... peut-être jusqu'à ce qu'elle se réveille, partir doucement d'ici.[nointeract]"
+    # [Max_05 "Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эту попку! А после натянуть её на свой... И ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти." nointeract
+    Max_05 "Oh, de cette vue, il ne reste que les pensées les plus vulgaires dans ma tête... Comme je veux malaxer ce cul! Et puis l'approcher de moi... Et encore autre chose... peut-être jusqu'à ce qu'elle se réveille, partir doucement d'ici." nointeract
 
 # game/events/alice.rpy:282
 translate frenh alice_sleep_morning_dc8fde31_1:
 
-    # [Max_03 "О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Как и поласкать эти аппетитные сосочки! Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить...[nointeract]"
-    Max_03 "Oui! Ne pas se coucher et ne pas acquérir ce doux cul est un vrai crime... Comme caresser ces joues appétissantes! Sauf qu'Alice pense le contraire et va m'arracher la tête. Il est donc préférable de partir lentement...[nointeract]"
+    # [Max_03 "О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Как и поласкать эти аппетитные сосочки! Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить..." nointeract
+    Max_03 "Oui! Ne pas se coucher et ne pas acquérir ce doux cul est un vrai crime... Comme caresser ces joues appétissantes! Sauf qu'Alice pense le contraire et va m'arracher la tête. Il est donc préférable de partir lentement..." nointeract
 
 # game/events/alice.rpy:284
 translate frenh alice_sleep_morning_bf1517f6:
 
-    # [Max_02 "Вот чёрт! С каким же огромным удовольствием я бы запустил свои руки во все самые интересные места на ёё теле... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится.[nointeract]"
-    Max_02 "Merci! Avec quel grand plaisir je passerais mes mains dans tous les endroits les plus intéressants de son corps C'est une belle sœur, mais il est temps de partir... Si elle se réveille, je ne vais pas voir le jour.[nointeract]"
+    # [Max_02 "Вот чёрт! С каким же огромным удовольствием я бы запустил свои руки во все самые интересные места на ёё теле... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится." nointeract
+    Max_02 "Merci! Avec quel grand plaisir je passerais mes mains dans tous les endroits les plus intéressants de son corps C'est une belle sœur, mais il est temps de partir... Si elle se réveille, je ne vais pas voir le jour." nointeract
 
 # game/events/alice.rpy:288
 translate frenh alice_sleep_morning_807b976b:
 
-    # [Max_05 "Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эту попку! И стянуть эти трусики... и ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти.[nointeract]"
-    Max_05 "Oh, de cette vue, il ne reste que les pensées les plus vulgaires dans ma tête... Comme je veux malaxer ce cul! Et enlever ces culottes... et encore plus... peut-être que jusqu'à ce qu'elle se réveille, partir doucement d'ici.[nointeract]"
+    # [Max_05 "Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эту попку! И стянуть эти трусики... и ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти." nointeract
+    Max_05 "Oh, de cette vue, il ne reste que les pensées les plus vulgaires dans ma tête... Comme je veux malaxer ce cul! Et enlever ces culottes... et encore plus... peut-être que jusqu'à ce qu'elle se réveille, partir doucement d'ici." nointeract
 
 # game/events/alice.rpy:290
 translate frenh alice_sleep_morning_fc111bed:
 
-    # [Max_03 "О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить...[nointeract]"
-    Max_03 "Oui! Ne pas se coucher et ne pas acquérir ce doux cul est un vrai crime... Sauf qu'Alice pense le contraire et va m'arracher la tête. Il est donc préférable de partir lentement...[nointeract]"
+    # [Max_03 "О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить..." nointeract
+    Max_03 "Oui! Ne pas se coucher et ne pas acquérir ce doux cul est un vrai crime... Sauf qu'Alice pense le contraire et va m'arracher la tête. Il est donc préférable de partir lentement..." nointeract
 
 # game/events/alice.rpy:292
 translate frenh alice_sleep_morning_21f31196:
 
-    # [Max_02 "Вот чёрт! С каким же огромным удовольствием я бы сел рядом с ней, запустил свои руки под её белье и ласкал эти упругие сисечки всё утро... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится.[nointeract]"
-    Max_02 "Merci! Avec quel grand plaisir je m'asseyais à côté d'elle, j'ai mis mes mains sous sa culotte et j'ai caressé ses seins élastiques toute la matinée... C'est une belle sœur, mais il est temps de partir... Si elle se réveille, je ne vais pas voir le jour.[nointeract]"
+    # [Max_02 "Вот чёрт! С каким же огромным удовольствием я бы сел рядом с ней, запустил свои руки под её белье и ласкал эти упругие сисечки всё утро... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится." nointeract
+    Max_02 "Merci! Avec quel grand plaisir je m'asseyais à côté d'elle, j'ai mis mes mains sous sa culotte et j'ai caressé ses seins élastiques toute la matinée... C'est une belle sœur, mais il est temps de partir... Si elle se réveille, je ne vais pas voir le jour." nointeract
 
 # game/events/alice.rpy:304
 translate frenh alice_shower_e2dd6210:
@@ -433,14 +433,14 @@ translate frenh alice_shower_9d7448c3:
 # game/events/alice.rpy:314
 translate frenh alice_shower_97098a13:
 
-    # [Max_00 "Алиса сейчас принимает душ...[nointeract]"
-    Max_00 "Alice prend maintenant une douche...[nointeract]"
+    # [Max_00 "Алиса сейчас принимает душ..." nointeract
+    Max_00 "Alice prend maintenant une douche..." nointeract
 
 # game/events/alice.rpy:320
 translate frenh alice_shower_4e3fa88d:
 
-    # [Max_00 "Похоже, Алиса принимает душ...[nointeract]"
-    Max_00 "On dirait qu’Alice prend une douche...[nointeract]"
+    # [Max_00 "Похоже, Алиса принимает душ..." nointeract
+    Max_00 "On dirait qu’Alice prend une douche..." nointeract
 
 # game/events/alice.rpy:323
 translate frenh alice_shower_edba9d24:
@@ -451,26 +451,26 @@ translate frenh alice_shower_edba9d24:
 # game/events/alice.rpy:342
 translate frenh alice_shower_start_peeping_24696a80:
 
-    # [Max_07 "Ого... Голая Алиса всего в паре метров от меня! Как же она хороша... Главное, чтобы она меня не заметила, а то ведь убьёт на месте.[nointeract]"
-    Max_07 "Oh là là... Alice nue à quelques mètres de moi! Comme elle est bonne... L'essentiel est qu'elle ne me remarque pas, sinon elle va me tuer sur place.[nointeract]"
+    # [Max_07 "Ого... Голая Алиса всего в паре метров от меня! Как же она хороша... Главное, чтобы она меня не заметила, а то ведь убьёт на месте." nointeract
+    Max_07 "Oh là là... Alice nue à quelques mètres de moi! Comme elle est bonne... L'essentiel est qu'elle ne me remarque pas, sinon elle va me tuer sur place." nointeract
 
 # game/events/alice.rpy:344
 translate frenh alice_shower_start_peeping_0ff40eee:
 
-    # [Max_07 "Ого... Голая Алиса всего в паре метров от меня! Но мне стоит подглядывать очень осторожно... Помогая Алисе с блогом у меня могут возникнуть незапланированные траты, а если она меня сейчас заметит - траты только увеличатся.[nointeract]"
-    Max_07 "Oh là là... Alice nue à quelques mètres de moi! Mais je devrais faire attention... En aidant Alice avec le blog, je peux avoir des dépenses imprévues, et si elle me remarque maintenant, les dépenses ne feront qu'augmenter.[nointeract]"
+    # [Max_07 "Ого... Голая Алиса всего в паре метров от меня! Но мне стоит подглядывать очень осторожно... Помогая Алисе с блогом у меня могут возникнуть незапланированные траты, а если она меня сейчас заметит - траты только увеличатся." nointeract
+    Max_07 "Oh là là... Alice nue à quelques mètres de moi! Mais je devrais faire attention... En aidant Alice avec le blog, je peux avoir des dépenses imprévues, et si elle me remarque maintenant, les dépenses ne feront qu'augmenter." nointeract
 
 # game/events/alice.rpy:346
 translate frenh alice_shower_start_peeping_fa1611e6:
 
-    # [Max_07 "Ого... Голая Алиса всего в паре метров от меня! Как же она хороша... И даже если она меня заметит - не страшно! Выкручусь как-нибудь.[nointeract]"
-    Max_07 "Oh là là... Alice nue à quelques mètres de moi! Comme elle est bonne... Et si elle me remarque - pas terrible! Je dois sortir d'une manière ou d'une autre.[nointeract]"
+    # [Max_07 "Ого... Голая Алиса всего в паре метров от меня! Как же она хороша... И даже если она меня заметит - не страшно! Выкручусь как-нибудь." nointeract
+    Max_07 "Oh là là... Alice nue à quelques mètres de moi! Comme elle est bonne... Et si elle me remarque - pas terrible! Je dois sortir d'une manière ou d'une autre." nointeract
 
 # game/events/alice.rpy:371
 translate frenh alice_shower_spider_09c9d753:
 
-    # [Max_03 "Давай, паучок, вперёд! Я хочу, чтобы ты познакомился с моей очаровательной сестрёнкой. Характер у неё правда так себе, но думаю, вы оба поладите...[nointeract]"
-    Max_03 "Aller, araignée! Je veux que tu rencontres ma charmante petite sœur. Elle a vraiment du caractère, mais je pense que vous allez vous entendre...[nointeract]"
+    # [Max_03 "Давай, паучок, вперёд! Я хочу, чтобы ты познакомился с моей очаровательной сестрёнкой. Характер у неё правда так себе, но думаю, вы оба поладите..." nointeract
+    Max_03 "Aller, araignée! Je veux que tu rencontres ma charmante petite sœur. Elle a vraiment du caractère, mais je pense que vous allez vous entendre..." nointeract
 
 # game/events/alice.rpy:376
 translate frenh alice_shower_spider_7e56af7c:
@@ -571,8 +571,8 @@ translate frenh alice_shower_spider_b9997f6d:
 # game/events/alice.rpy:404
 translate frenh alice_shower_spider_83415578:
 
-    # [Max_01 "Хорошо, сейчас принесу. Никуда не уходи...[nointeract]"
-    Max_01 "D'accord, je vais le faire pour toi. Ne pars pas...[nointeract]"
+    # [Max_01 "Хорошо, сейчас принесу. Никуда не уходи..." nointeract
+    Max_01 "D'accord, je vais le faire pour toi. Ne pars pas..." nointeract
 
 # game/events/alice.rpy:409
 translate frenh alice_shower_spider_5ced9acf:
@@ -583,14 +583,14 @@ translate frenh alice_shower_spider_5ced9acf:
 # game/events/alice.rpy:414
 translate frenh alice_shower_spider_21174459:
 
-    # [Max_03 "Вот я и вернулся! С полотенцем всё в порядке, вот, держи.[nointeract]"
-    Max_03 "Me voici de retour! Il n'y a rien de mal avec la serviette, voilà.[nointeract]"
+    # [Max_03 "Вот я и вернулся! С полотенцем всё в порядке, вот, держи." nointeract
+    Max_03 "Me voici de retour! Il n'y a rien de mal avec la serviette, voilà." nointeract
 
 # game/events/alice.rpy:421
 translate frenh alice_shower_spider_22e4abcd:
 
-    # [Alice_07 "Ох, Макс, спасибо тебе огромное! Думала, ты будешь прикалываться, но ты можешь временами вести себя, не как озабоченный... Это приятно.[nointeract]"
-    Alice_07 "Oh Max, merci beaucoup ! Je pensais que tu allais te moquer de moi, mais tu peux te comporter parfois, pas comme un pervers... Ça fait du bien.[nointeract]"
+    # [Alice_07 "Ох, Макс, спасибо тебе огромное! Думала, ты будешь прикалываться, но ты можешь временами вести себя, не как озабоченный... Это приятно." nointeract
+    Alice_07 "Oh Max, merci beaucoup ! Je pensais que tu allais te moquer de moi, mais tu peux te comporter parfois, pas comme un pervers... Ça fait du bien." nointeract
 
 # game/events/alice.rpy:427
 translate frenh alice_shower_spider_eea51717:
@@ -631,8 +631,8 @@ translate frenh alice_shower_spider_35513e76:
 # game/events/alice.rpy:443
 translate frenh alice_shower_spider_1136dd42:
 
-    # [Alice_17 "Какого чёрта, Макс?! Что за шуточки! Или ты безрукий? Живо признавайся, ты специально это сделал?![nointeract]"
-    Alice_17 "C'est quoi ce bordel, Max ? ! Quelle blague ! Tu veux rester vivant? Dis-moi maintenant, tu l'as fait exprès ? ![nointeract]"
+    # [Alice_17 "Какого чёрта, Макс?! Что за шуточки! Или ты безрукий? Живо признавайся, ты специально это сделал?!" nointeract
+    Alice_17 "C'est quoi ce bordel, Max ? ! Quelle blague ! Tu veux rester vivant? Dis-moi maintenant, tu l'as fait exprès ? !" nointeract
 
 # game/events/alice.rpy:447
 translate frenh alice_shower_spider_f8205929:
@@ -685,14 +685,14 @@ translate frenh alice_shower_hug_ad2935a8:
 # game/events/alice.rpy:469
 translate frenh alice_shower_hug_daa9ed05:
 
-    # [Alice_03 "Таких объятий тебе достаточно? Уж извини, что не обнимаю обеими руками... сам знаешь почему...[nointeract]"
-    Alice_03 "Ce câlin n'est pas suffisant pour toi? Je m'excuse de ne pas t'avoir enlacé à deux bras... tu sais pourquoi...[nointeract]"
+    # [Alice_03 "Таких объятий тебе достаточно? Уж извини, что не обнимаю обеими руками... сам знаешь почему..." nointeract
+    Alice_03 "Ce câlin n'est pas suffisant pour toi? Je m'excuse de ne pas t'avoir enlacé à deux bras... tu sais pourquoi..." nointeract
 
 # game/events/alice.rpy:475
 translate frenh alice_shower_hug_81f9b380:
 
-    # [Alice_04 "Эм... Макс... Это уже как-то слишком, тебе не кажется?![nointeract]"
-    Alice_04 "Hum... Max... C'est un peu trop, ne penses tu pas?![nointeract]"
+    # [Alice_04 "Эм... Макс... Это уже как-то слишком, тебе не кажется?!" nointeract
+    Alice_04 "Hum... Max... C'est un peu trop, ne penses tu pas?!" nointeract
 
 # game/events/alice.rpy:483
 translate frenh alice_shower_hug_23328126:
@@ -727,8 +727,8 @@ translate frenh alice_shower_dangerous_hugs_e3f63f1b:
 # game/events/alice.rpy:504
 translate frenh alice_shower_dangerous_hugs_11fdb519:
 
-    # [extend][nointeract]"
-    extend][nointeract]"
+    # [extend]" nointeract
+    extend]" nointeract
 
 # game/events/alice.rpy:520
 translate frenh alice_shower_dangerous_hugs_8f49945b:
@@ -897,8 +897,8 @@ translate frenh alice_shower_pinded_2df0e482_2:
 # game/events/alice.rpy:628
 translate frenh alice_shower_pinded_e19147dd:
 
-    # [Alice_12 "[spotted!t]Макс!!! Ты за мной подглядываешь?! Ты труп! Твоё счастье, что я сейчас голая... Но ничего, я маме всё расскажу, она тебя накажет![nointeract]"
-    Alice_12 "[spotted!t]Max!!! Es-tu en train de m’espionner?! Tu es mort ! Tu as de la chance que je sois nue maintenant... Mais, je dirais tout à notre mère, elle te punira![nointeract]"
+    # [Alice_12 "[spotted!t]Макс!!! Ты за мной подглядываешь?! Ты труп! Твоё счастье, что я сейчас голая... Но ничего, я маме всё расскажу, она тебя накажет!" nointeract
+    Alice_12 "[spotted!t]Max!!! Es-tu en train de m’espionner?! Tu es mort ! Tu as de la chance que je sois nue maintenant... Mais, je dirais tout à notre mère, elle te punira!" nointeract
 
 # game/events/alice.rpy:636
 translate frenh alice_shower_ladder_2b325faf:
@@ -957,14 +957,14 @@ translate frenh alice_shower_ladder_87af87e8:
 # game/events/alice.rpy:700
 translate frenh alice_dressed_shop_61771170:
 
-    # [Max_09 "Кажется, все собираются на шоппинг и Алиса сейчас переодевается...[nointeract]"
-    Max_09 "Il semble que tout le monde aille faire du shopping et qu’Alice change maintenant de vêtements...[nointeract]"
+    # [Max_09 "Кажется, все собираются на шоппинг и Алиса сейчас переодевается..." nointeract
+    Max_09 "Il semble que tout le monde aille faire du shopping et qu’Alice change maintenant de vêtements..." nointeract
 
 # game/events/alice.rpy:703
 translate frenh alice_dressed_shop_f5380b66:
 
-    # [Alice]{b}Алиса:{/b} Кто там? Я переодеваюсь![nointeract]"
-    Alice]{b}Alice:{/b} Qui est là? Je me change![nointeract]"
+    # [Alice]{b}Алиса:{/b} Кто там? Я переодеваюсь!" nointeract
+    Alice]{b}Alice:{/b} Qui est là? Je me change!" nointeract
 
 # game/events/alice.rpy:705
 translate frenh alice_dressed_shop_d12c2b56:
@@ -1005,14 +1005,14 @@ translate frenh alice_dressed_shop_3b812933:
 # game/events/alice.rpy:792
 translate frenh alice_dressed_friend_fffa81b2:
 
-    # [Max_09 "Кажется, Алиса куда-то собирается...[nointeract]"
-    Max_09 "Il semble qu’Alice aille quelque part...[nointeract]"
+    # [Max_09 "Кажется, Алиса куда-то собирается..." nointeract
+    Max_09 "Il semble qu’Alice aille quelque part..." nointeract
 
 # game/events/alice.rpy:795
 translate frenh alice_dressed_friend_f5380b66:
 
-    # [Alice]{b}Алиса:{/b} Кто там? Я переодеваюсь![nointeract]"
-    Alice]{b}Alice:{/b} Qui est là? Je me change![nointeract]"
+    # [Alice]{b}Алиса:{/b} Кто там? Я переодеваюсь!" nointeract
+    Alice]{b}Alice:{/b} Qui est là? Je me change!" nointeract
 
 # game/events/alice.rpy:797
 translate frenh alice_dressed_friend_d12c2b56:
@@ -1053,8 +1053,8 @@ translate frenh alice_dressed_friend_3b812933:
 # game/events/alice.rpy:862
 translate frenh alice_dressed_club_272de662:
 
-    # [Max_00 "{m}Кажется, Алиса собирается в ночной клуб...{/m}[nointeract]"
-    Max_00 "{m}Il semble qu’Alice aille dans une boîte de nuit... {/m}[nointeract]"
+    # [Max_00 "{m}Кажется, Алиса собирается в ночной клуб...{/m}" nointeract
+    Max_00 "{m}Il semble qu’Alice aille dans une boîte de nuit... {/m}" nointeract
 
 # game/events/alice.rpy:890
 translate frenh alice_dressed_club_caea4adc:
@@ -1089,14 +1089,14 @@ translate frenh alice_dressed_club_knock_a5d16085:
 # game/events/alice.rpy:912
 translate frenh alice_dressed_club_knock_7d4cb094:
 
-    # [Alice_13 "Ну, Макс, чего хотел? Что за дело такое срочное?[nointeract]"
-    Alice_13 "Eh bien, Max, que veux-tu? Qui a t'il de si urgent?[nointeract]"
+    # [Alice_13 "Ну, Макс, чего хотел? Что за дело такое срочное?" nointeract
+    Alice_13 "Eh bien, Max, que veux-tu? Qui a t'il de si urgent?" nointeract
 
 # game/events/alice.rpy:917
 translate frenh alice_dressed_club_knock_a112c41e:
 
-    # [Alice_03 "Спасибо... Так чего хотел, рассказывай![nointeract]"
-    Alice_03 "Merci... Donc, je voulais te parler![nointeract]"
+    # [Alice_03 "Спасибо... Так чего хотел, рассказывай!" nointeract
+    Alice_03 "Merci... Donc, je voulais te parler!" nointeract
 
 # game/events/alice.rpy:919
 translate frenh alice_dressed_club_knock_b8d43251:
@@ -1113,14 +1113,14 @@ translate frenh alice_dressed_club_choco_34ae4580:
 # game/events/alice.rpy:928
 translate frenh alice_dressed_club_choco_2bbe497c:
 
-    # [Max_01 "Не угадала. Ты же любишь конфеты?[nointeract]"
-    Max_01 "Tu n'as pas deviné. Tu aimes les friandises, non?[nointeract]"
+    # [Max_01 "Не угадала. Ты же любишь конфеты?" nointeract
+    Max_01 "Tu n'as pas deviné. Tu aimes les friandises, non?" nointeract
 
 # game/events/alice.rpy:932
 translate frenh alice_dressed_club_choco_8e118316:
 
-    # [Alice_05 "Люблю... И что, никакого подвоха? Просто взял и подарил конфетку на дорожку?[nointeract]"
-    Alice_05 "Chouchou... Pas de piège? Tu as juste acheté un chocolat sur le web?[nointeract]"
+    # [Alice_05 "Люблю... И что, никакого подвоха? Просто взял и подарил конфетку на дорожку?" nointeract
+    Alice_05 "Chouchou... Pas de piège? Tu as juste acheté un chocolat sur le web?" nointeract
 
 # game/events/alice.rpy:934
 translate frenh alice_dressed_club_choco_0852a688:
@@ -1149,32 +1149,32 @@ translate frenh spider_in_bed_a3f16ae5:
 # game/events/alice.rpy:1034
 translate frenh spider_in_bed_12221b33:
 
-    # [Alice_12 "Макс! Макс! Вставай быстрее! Мне нужна помощь![nointeract]"
-    Alice_12 "Max! Max! Lèves-toi vite! J'ai besoin d'aide![nointeract]"
+    # [Alice_12 "Макс! Макс! Вставай быстрее! Мне нужна помощь!" nointeract
+    Alice_12 "Max! Max! Lèves-toi vite! J'ai besoin d'aide!" nointeract
 
 # game/events/alice.rpy:1042
 translate frenh spider_in_bed_4e92be20:
 
-    # [Alice_06 "Макс, помоги. В моей комнате огромный такой, просто гигантский паук! Убей его, пожалуйста![nointeract]"
-    Alice_06 "Max, aides-moi. Dans ma chambre, il y a une énorme araignée géante! Tues-la, s'il te plaît![nointeract]"
+    # [Alice_06 "Макс, помоги. В моей комнате огромный такой, просто гигантский паук! Убей его, пожалуйста!" nointeract
+    Alice_06 "Max, aides-moi. Dans ma chambre, il y a une énorme araignée géante! Tues-la, s'il te plaît!" nointeract
 
 # game/events/alice.rpy:1053
 translate frenh spider_in_bed_goaway_9bf961dd:
 
-    # [Max_09 "Бегает ещё, кричит что-то... Совсем сдурела...[nointeract]"
-    Max_09 "Toujours en train de courir, de crier quelque chose... Tu as perdu la tête....[nointeract]"
+    # [Max_09 "Бегает ещё, кричит что-то... Совсем сдурела..." nointeract
+    Max_09 "Toujours en train de courir, de crier quelque chose... Tu as perdu la tête...." nointeract
 
 # game/events/alice.rpy:1069
 translate frenh spider_in_bed_help_979e99f5:
 
-    # [Alice_13 "Макс, Макс! Вот он! Убей его, скорее!!![nointeract]"
-    Alice_13 "Max, Max ! Elle est là ! Tues-la, vite!!![nointeract]"
+    # [Alice_13 "Макс, Макс! Вот он! Убей его, скорее!!!" nointeract
+    Alice_13 "Max, Max ! Elle est là ! Tues-la, vite!!!" nointeract
 
 # game/events/alice.rpy:1074
 translate frenh spider_in_bed_help_934b274d:
 
-    # [Alice_12 "Что ты хочешь за смерть этого паука?[nointeract]"
-    Alice_12 "Que veux-tu pour la mort de cette araignée?[nointeract]"
+    # [Alice_12 "Что ты хочешь за смерть этого паука?" nointeract
+    Alice_12 "Que veux-tu pour la mort de cette araignée?" nointeract
 
 # game/events/alice.rpy:1098
 translate frenh spider_in_bed_help_6e299c17:
@@ -1203,14 +1203,14 @@ translate frenh spider_in_bed_help_1550b509:
 # game/events/alice.rpy:1103
 translate frenh spider_in_bed_help_d7fe9c1f:
 
-    # [Alice_15 "Ах, так! Значит то, что договорённость я соблюдаю, ты видишь, а вот здоровенного паука на моей кровати нет?![nointeract]"
-    Alice_15 "Ah, alors ! Tu peux donc voir que je respecte l'arrangement, mais la grande araignée sur mon lit tu ne la vois pas ?![nointeract]"
+    # [Alice_15 "Ах, так! Значит то, что договорённость я соблюдаю, ты видишь, а вот здоровенного паука на моей кровати нет?!" nointeract
+    Alice_15 "Ah, alors ! Tu peux donc voir que je respecte l'arrangement, mais la grande araignée sur mon lit tu ne la vois pas ?!" nointeract
 
 # game/events/alice.rpy:1117
 translate frenh spider_in_bed_help_934b274d_1:
 
-    # [Alice_12 "Что ты хочешь за смерть этого паука?[nointeract]"
-    Alice_12 "Que veux-tu pour la mort de cette araignée?[nointeract]"
+    # [Alice_12 "Что ты хочешь за смерть этого паука?" nointeract
+    Alice_12 "Que veux-tu pour la mort de cette araignée?" nointeract
 
 # game/events/alice.rpy:1124
 translate frenh spider_in_bed_help_fb30def5:
@@ -1305,8 +1305,8 @@ translate frenh spider_in_bed_help_c57400a7_1:
 # game/events/alice.rpy:1157
 translate frenh spider_in_bed_help_363f3548:
 
-    # [Alice_06 "Ну не надо так, Макс! Я не буду больше нарушать наш уговор, только избавься от паука... Пожалуйста![nointeract]"
-    Alice_06 "Ne sois pas comme ça, Max ! Je ne romprais plus notre accord, débarrasses-moi juste de l'araignée... tu seras le meilleur![nointeract]"
+    # [Alice_06 "Ну не надо так, Макс! Я не буду больше нарушать наш уговор, только избавься от паука... Пожалуйста!" nointeract
+    Alice_06 "Ne sois pas comme ça, Max ! Je ne romprais plus notre accord, débarrasses-moi juste de l'araignée... tu seras le meilleur!" nointeract
 
 # game/events/alice.rpy:1159
 translate frenh spider_in_bed_help_165abb28:
@@ -1323,8 +1323,8 @@ translate frenh spider_in_bed_help_adbdf35e:
 # game/events/alice.rpy:1165
 translate frenh spider_in_bed_help_4a5e6693:
 
-    # [Alice_06 "Ну вот... разделась... И не говори, что этого мало... Я и так перед тобой тут голая стою, рук всё прикрыть не хватает... Доволен?[nointeract]"
-    Alice_06 "C'est parti... déshabillé... Et ne dis pas que ce n'est pas assez... Je suis déjà à poil devant toi, je n'ai pas assez de mains pour me couvrir... Satisfait ?[nointeract]"
+    # [Alice_06 "Ну вот... разделась... И не говори, что этого мало... Я и так перед тобой тут голая стою, рук всё прикрыть не хватает... Доволен?" nointeract
+    Alice_06 "C'est parti... déshabillé... Et ne dis pas que ce n'est pas assez... Je suis déjà à poil devant toi, je n'ai pas assez de mains pour me couvrir... Satisfait ?" nointeract
 
 # game/events/alice.rpy:1169
 translate frenh spider_in_bed_help_bb493632:
@@ -1503,20 +1503,20 @@ translate frenh spider_in_bed_toples_19d75d09:
 # game/events/alice.rpy:1263
 translate frenh spider_in_bed_spider_952bda97:
 
-    # [Max_07 "Ага, попался! Пожалуй, вот что я сделаю...[nointeract]"
-    Max_07 "Oui, je t'ai eu ! Voici ce que je pense faire...[nointeract]"
+    # [Max_07 "Ага, попался! Пожалуй, вот что я сделаю..." nointeract
+    Max_07 "Oui, je t'ai eu ! Voici ce que je pense faire..." nointeract
 
 # game/events/alice.rpy:1266
 translate frenh spider_in_bed_spider_a3432394:
 
-    # [Alice_16 "Макс! Ты должен его убить! А не то я подумаю, что это твоих рук дело... Докажи, что это был не ты![nointeract]"
-    Alice_16 "Max ! Tu dois la tuer! Sinon je vais penser que c'est toi qui l'a fait exprès... Prouves-moi que ce n'était pas toi ![nointeract]"
+    # [Alice_16 "Макс! Ты должен его убить! А не то я подумаю, что это твоих рук дело... Докажи, что это был не ты!" nointeract
+    Alice_16 "Max ! Tu dois la tuer! Sinon je vais penser que c'est toi qui l'a fait exprès... Prouves-moi que ce n'était pas toi !" nointeract
 
 # game/events/alice.rpy:1269
 translate frenh spider_in_bed_spider_be1cbc22:
 
-    # [Alice_17 "Ах так... Ну, тогда я обижусь на тебя! Всё, вали отсюда![nointeract]"
-    Alice_17 "Ah, alors... Eh bien, alors je vais m'énerver! C'est ça, sors d'ici ![nointeract]"
+    # [Alice_17 "Ах так... Ну, тогда я обижусь на тебя! Всё, вали отсюда!" nointeract
+    Alice_17 "Ah, alors... Eh bien, alors je vais m'énerver! C'est ça, sors d'ici !" nointeract
 
 # game/events/alice.rpy:1282
 translate frenh spider_in_bed_spider_d47987f1:
@@ -1527,8 +1527,8 @@ translate frenh spider_in_bed_spider_d47987f1:
 # game/events/alice.rpy:1284
 translate frenh spider_in_bed_spider_9db27ecc:
 
-    # [Alice_13 "Всё, хватит уже сидеть на моей кровати, иди отсюда. Я хочу спать![nointeract]"
-    Alice_13 "C'est ça, arrêtes de t'asseoir sur mon lit et sorts d'ici. J'ai sommeil ![nointeract]"
+    # [Alice_13 "Всё, хватит уже сидеть на моей кровати, иди отсюда. Я хочу спать!" nointeract
+    Alice_13 "C'est ça, arrêtes de t'asseoir sur mon lit et sorts d'ici. J'ai sommeil !" nointeract
 
 # game/events/alice.rpy:1296
 translate frenh spider_in_bed_spider_3533aec8:
@@ -1545,32 +1545,32 @@ translate frenh spider_in_bed_spider_d5b490ac:
 # game/events/alice.rpy:1310
 translate frenh spider_in_bed_let_go_e79006af:
 
-    # [Alice_13 "Макс! Я тебя просила убить его, а не отпускать! Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся?.. Всё, иди отсюда. Я хочу спать![nointeract]"
-    Alice_13 "Max ! Je t'ai demandé de la tuer, pas de la laisser partir! Merci de l'avoir fait sortir de la chambre, mais si elle revient? C'est ça, sors d'ici. J'ai sommeil ![nointeract]"
+    # [Alice_13 "Макс! Я тебя просила убить его, а не отпускать! Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся?.. Всё, иди отсюда. Я хочу спать!" nointeract
+    Alice_13 "Max ! Je t'ai demandé de la tuer, pas de la laisser partir! Merci de l'avoir fait sortir de la chambre, mais si elle revient? C'est ça, sors d'ici. J'ai sommeil !" nointeract
 
 # game/events/alice.rpy:1323
 translate frenh spider_in_bed_kill_7019a935:
 
-    # [Alice_01 "Так ему! Спасибо, Макс! Ты мой спаситель. А теперь иди отсюда, я спать хочу![nointeract]"
-    Alice_01 "Alors toi! Merci, Max! Tu es mon sauveur. Maintenant, sors d'ici, j'ai sommeil ![nointeract]"
+    # [Alice_01 "Так ему! Спасибо, Макс! Ты мой спаситель. А теперь иди отсюда, я спать хочу!" nointeract
+    Alice_01 "Alors toi! Merci, Max! Tu es mon sauveur. Maintenant, sors d'ici, j'ai sommeil !" nointeract
 
 # game/events/alice.rpy:1400
 translate frenh alice_after_club_5ec498e0:
 
-    # [Max_07 "После клуба Алиса сразу пошла в ванную. Интересно, в каком она состоянии?[nointeract]"
-    Max_07 "Après le Club, Alice est immédiatement allée à la salle de bain. Je me demande dans quel état elle était?[nointeract]"
+    # [Max_07 "После клуба Алиса сразу пошла в ванную. Интересно, в каком она состоянии?" nointeract
+    Max_07 "Après le Club, Alice est immédiatement allée à la salle de bain. Je me demande dans quel état elle était?" nointeract
 
 # game/events/alice.rpy:1402
 translate frenh alice_after_club_57eac526:
 
-    # [Max_07 "Алиса только что вернулась из клуба и сразу забежала в ванную. Интересно, в каком она состоянии?[nointeract]"
-    Max_07 "Alice venait de rentrer du club et a couru directement dans la salle de bain. Je me demande dans quel état elle est?[nointeract]"
+    # [Max_07 "Алиса только что вернулась из клуба и сразу забежала в ванную. Интересно, в каком она состоянии?" nointeract
+    Max_07 "Alice venait de rentrer du club et a couru directement dans la salle de bain. Je me demande dans quel état elle est?" nointeract
 
 # game/events/alice.rpy:1410
 translate frenh alice_after_club_ab9e6db9:
 
-    # [Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю...[nointeract]"
-    Alice]{b}Alice: {/b}Qui ne dort pas? Je prends un bain...[nointeract]"
+    # [Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю..." nointeract
+    Alice]{b}Alice: {/b}Qui ne dort pas? Je prends un bain..." nointeract
 
 # game/events/alice.rpy:1412
 translate frenh alice_after_club_74fd8c7a:
@@ -1659,8 +1659,8 @@ translate frenh alice_after_club_knock_5fc8c8ba:
 # game/events/alice.rpy:1458
 translate frenh alice_after_club_knock_f3c34ec5:
 
-    # [Alice_07 "Ага. И ты, я вижу, тоже... Какой же он у тебя большой...[nointeract]"
-    Alice_07 "Ouaip. Et toi aussi, je vois... Tu en as une grosse...[nointeract]"
+    # [Alice_07 "Ага. И ты, я вижу, тоже... Какой же он у тебя большой..." nointeract
+    Alice_07 "Ouaip. Et toi aussi, je vois... Tu en as une grosse..." nointeract
 
 # game/events/alice.rpy:1466
 translate frenh alice_after_club_knock_c3cd096e:
@@ -1719,8 +1719,8 @@ translate frenh alice_after_club_knock_45d91082:
 # game/events/alice.rpy:1493
 translate frenh alice_after_club_knock_7c101327:
 
-    # [Alice_05 "Ты знаешь... Я ещё не настолько пьяна и, кажется, меня уже отпускает. Так что... Придётся тебе самому разбираться с твоей проблемой... А у меня набралась ванна. Так что...[nointeract]"
-    Alice_05 "Tu sais... Je ne suis pas encore si ivre et je pense que je commence à me laisser aller. Alors... Tu devrais t'occuper toi-même de ton problème... Et j'ai une baignoire pleine qui m'attend. Alors...[nointeract]"
+    # [Alice_05 "Ты знаешь... Я ещё не настолько пьяна и, кажется, меня уже отпускает. Так что... Придётся тебе самому разбираться с твоей проблемой... А у меня набралась ванна. Так что..." nointeract
+    Alice_05 "Tu sais... Je ne suis pas encore si ivre et je pense que je commence à me laisser aller. Alors... Tu devrais t'occuper toi-même de ton problème... Et j'ai une baignoire pleine qui m'attend. Alors..." nointeract
 
 # game/events/alice.rpy:1495
 translate frenh alice_after_club_knock_bb48092d:
@@ -1749,8 +1749,8 @@ translate frenh alice_after_club_next1_94ee6ac1:
 # game/events/alice.rpy:1515
 translate frenh alice_after_club_next1_4614c192:
 
-    # [Alice_08 "Сейчас их может стать на один больше! Что ты хочешь, чтобы я сделала?[nointeract]"
-    Alice_08 "Maintenant, il peut y avoir un de plus! Que veux-tu que je fasse?[nointeract]"
+    # [Alice_08 "Сейчас их может стать на один больше! Что ты хочешь, чтобы я сделала?" nointeract
+    Alice_08 "Maintenant, il peut y avoir un de plus! Que veux-tu que je fasse?" nointeract
 
 # game/events/alice.rpy:1521
 translate frenh alice_after_club_next1_b4e4420b:
@@ -1767,8 +1767,8 @@ translate frenh alice_after_club_next1_0a2e7bf2:
 # game/events/alice.rpy:1524
 translate frenh alice_after_club_next1_db314a2a:
 
-    # [Alice_04 "Неужели это всё, чего ты хотел?[nointeract]"
-    Alice_04 "C'est vraiment tout ce que tu voulais?[nointeract]"
+    # [Alice_04 "Неужели это всё, чего ты хотел?" nointeract
+    Alice_04 "C'est vraiment tout ce que tu voulais?" nointeract
 
 # game/events/alice.rpy:1543
 translate frenh alice_after_club_caress_3ee5ce72:
@@ -1797,8 +1797,8 @@ translate frenh alice_after_club_caress_26f96547:
 # game/events/alice.rpy:1548
 translate frenh alice_after_club_caress_72bb6cc5:
 
-    # [Alice_05 "Не сомневаюсь. Ванна почти наполнилась водой, так что мы можем быстренько успеть что-то ещё! Но осторожнее с желаниями...[nointeract]"
-    Alice_05 "Je n'en doute pas. La baignoire n'est pas encore pleine d'eau, donc nous pouvons faire autre chose en vitesse! Mais attention à ce que tu souhaites...[nointeract]"
+    # [Alice_05 "Не сомневаюсь. Ванна почти наполнилась водой, так что мы можем быстренько успеть что-то ещё! Но осторожнее с желаниями..." nointeract
+    Alice_05 "Je n'en doute pas. La baignoire n'est pas encore pleine d'eau, donc nous pouvons faire autre chose en vitesse! Mais attention à ce que tu souhaites..." nointeract
 
 # game/events/alice.rpy:1554
 translate frenh alice_after_club_caress_ea00c690:
@@ -1809,14 +1809,14 @@ translate frenh alice_after_club_caress_ea00c690:
 # game/events/alice.rpy:1556
 translate frenh alice_after_club_caress_92cfee2f:
 
-    # [Max_03 "А ты попробуй![nointeract]"
-    Max_03 "Essaies ça![nointeract]"
+    # [Max_03 "А ты попробуй!" nointeract
+    Max_03 "Essaies ça!" nointeract
 
 # game/events/alice.rpy:1564
 translate frenh alice_after_club_caress_7d2245ef:
 
-    # [Max_02 "{m}А Алиса хорошо целуется! Да со страстью, увлечённо... Ммм... Губки у неё сочные... А уж как в член мой вцепилась!{/m}[nointeract]"
-    Max_02 "{m}Alice embrasse bien! Oui avec passion, ferveur... Mmm... Ses lèvres sont juteuses... Et la façon dont elle s'est accrochée à ma bite!{/m}[nointeract]"
+    # [Max_02 "{m}А Алиса хорошо целуется! Да со страстью, увлечённо... Ммм... Губки у неё сочные... А уж как в член мой вцепилась!{/m}" nointeract
+    Max_02 "{m}Alice embrasse bien! Oui avec passion, ferveur... Mmm... Ses lèvres sont juteuses... Et la façon dont elle s'est accrochée à ma bite!{/m}" nointeract
 
 # game/events/alice.rpy:1574
 translate frenh alice_after_club_caress_6bfa4c34:
@@ -1953,8 +1953,8 @@ translate frenh alice_after_club_next2_5c41807d:
 # game/events/alice.rpy:1638
 translate frenh alice_after_club_next2_fdd269cf:
 
-    # [Alice_07 "Ты должно быть не в курсе, но я предпочитаю девушек... Но для парня, у которого есть кое-что особенное, я не прочь сделать исключение, ради любопытства...[nointeract]"
-    Alice_07 "Tu ne le sais peut-être pas, mais je préfère les filles... Mais pour un type qui a quelque chose de spécial, je ne verrais pas d'inconvénient à faire une exception, par curiosité....[nointeract]"
+    # [Alice_07 "Ты должно быть не в курсе, но я предпочитаю девушек... Но для парня, у которого есть кое-что особенное, я не прочь сделать исключение, ради любопытства..." nointeract
+    Alice_07 "Tu ne le sais peut-être pas, mais je préfère les filles... Mais pour un type qui a quelque chose de spécial, je ne verrais pas d'inconvénient à faire une exception, par curiosité...." nointeract
 
 # game/events/alice.rpy:1647
 translate frenh alice_after_club_next2_050241c8:
@@ -1971,8 +1971,8 @@ translate frenh alice_after_club_next2_df676746:
 # game/events/alice.rpy:1650
 translate frenh alice_after_club_next2_3b10b531:
 
-    # [Alice_06 "Д-а-а... То есть, я хотела сказать... неправильно! Но к чёрту, продолжай... Мне нравится, как ты это делаешь, ммм...[nointeract]"
-    Alice_06 "Ah-ah-ah... Je veux dire, je voulais dire... mal ! Mais merde, vas-y... J'aime la façon dont tu le fais, mmm.[nointeract]"
+    # [Alice_06 "Д-а-а... То есть, я хотела сказать... неправильно! Но к чёрту, продолжай... Мне нравится, как ты это делаешь, ммм..." nointeract
+    Alice_06 "Ah-ah-ah... Je veux dire, je voulais dire... mal ! Mais merde, vas-y... J'aime la façon dont tu le fais, mmm." nointeract
 
 # game/events/alice.rpy:1657
 translate frenh alice_after_club_next2_a9d15c00:
@@ -1983,8 +1983,8 @@ translate frenh alice_after_club_next2_a9d15c00:
 # game/events/alice.rpy:1659
 translate frenh alice_after_club_next2_09f682d1:
 
-    # [Max_04 "{i}Алиса так приятно постанывает... А уж мне не менее приятно трахать эту нежную киску пальцами. Может быть, она даже кончит, если я ускорюсь...{/i}[nointeract]"
-    Max_04 "{i}Alice gémit si gentiment... Et je ne suis pas moins heureux de baiser cette tendre chatte avec mes doigts. Peut-être qu'elle va même jouir si j'accélère....{/i}[nointeract]"
+    # [Max_04 "{i}Алиса так приятно постанывает... А уж мне не менее приятно трахать эту нежную киску пальцами. Может быть, она даже кончит, если я ускорюсь...{/i}" nointeract
+    Max_04 "{i}Alice gémit si gentiment... Et je ne suis pas moins heureux de baiser cette tendre chatte avec mes doigts. Peut-être qu'elle va même jouir si j'accélère....{/i}" nointeract
 
 # game/events/alice.rpy:1675
 translate frenh alice_after_club_fast_fingers_4c3bcf59:
@@ -2013,14 +2013,14 @@ translate frenh alice_after_club_fast_fingers_0dce812e:
 # game/events/alice.rpy:1692
 translate frenh alice_after_club_fast_fingers_633a64f3:
 
-    # [Alice_07 "Ммм... Никогда бы не подумала, что буду вытворять такое с тобой! Ну и вымахал же у тебя такой член, Макс! Ты уже скоро?[nointeract]"
-    Alice_07 "Mmm... Je n'ai jamais pensé que je te ferais ça ! Quelle grosse bite tu as, Max ! Tu vas bientôt arriver?[nointeract]"
+    # [Alice_07 "Ммм... Никогда бы не подумала, что буду вытворять такое с тобой! Ну и вымахал же у тебя такой член, Макс! Ты уже скоро?" nointeract
+    Alice_07 "Mmm... Je n'ai jamais pensé que je te ferais ça ! Quelle grosse bite tu as, Max ! Tu vas bientôt arriver?" nointeract
 
 # game/events/alice.rpy:1721
 translate frenh alice_after_club_cunnilingus_22cc9964:
 
-    # [Alice_09 "[like!t]Да, Макс, да! Я уже так близко... Не останавливайся... У тебя такой быстрый и ловкий язычок, Макс... Ммм...[nointeract]"
-    Alice_09 "[like!t]Oui, Max, oui ! Je suis déjà si proche de... Ne t'arrêtes pas... Tu as une langue si rapide et agile, Max... Mmm...[nointeract]"
+    # [Alice_09 "[like!t]Да, Макс, да! Я уже так близко... Не останавливайся... У тебя такой быстрый и ловкий язычок, Макс... Ммм..." nointeract
+    Alice_09 "[like!t]Oui, Max, oui ! Je suis déjà si proche de... Ne t'arrêtes pas... Tu as une langue si rapide et agile, Max... Mmm..." nointeract
 
 # game/events/alice.rpy:1730
 translate frenh alice_after_club_cunnilingus_7b561508:
@@ -2049,8 +2049,8 @@ translate frenh alice_after_club_cunnilingus_0dce812e:
 # game/events/alice.rpy:1747
 translate frenh alice_after_club_cunnilingus_633a64f3:
 
-    # [Alice_07 "Ммм... Никогда бы не подумала, что буду вытворять такое с тобой! Ну и вымахал же у тебя такой член, Макс! Ты уже скоро?[nointeract]"
-    Alice_07 "Mmm... Je n'ai jamais pensé que je te ferais ça ! Quelle grosse bite tu as, Max ! Tu vas bientôt arriver?[nointeract]"
+    # [Alice_07 "Ммм... Никогда бы не подумала, что буду вытворять такое с тобой! Ну и вымахал же у тебя такой член, Макс! Ты уже скоро?" nointeract
+    Alice_07 "Mmm... Je n'ai jamais pensé que je te ferais ça ! Quelle grosse bite tu as, Max ! Tu vas bientôt arriver?" nointeract
 
 # game/events/alice.rpy:1769
 translate frenh alice_after_club_need_hurry_05ef44a9:
@@ -2061,14 +2061,14 @@ translate frenh alice_after_club_need_hurry_05ef44a9:
 # game/events/alice.rpy:1776
 translate frenh alice_after_club_need_hurry_93923f62:
 
-    # [Max_21 "Ох, Алиса, это мне очень нравится! Так приятно... Д-а-а... Давай ещё... Как же сладко твои сочные губки это делают, д-а-а...[nointeract]"
-    Max_21 "Oh, Alice, j'aime vraiment ça! C'est tellement gentil ... Ah-ah-ah ... Viens... Comme tes lèvres juteuses sont douces, A-Ah ...[nointeract]"
+    # [Max_21 "Ох, Алиса, это мне очень нравится! Так приятно... Д-а-а... Давай ещё... Как же сладко твои сочные губки это делают, д-а-а..." nointeract
+    Max_21 "Oh, Alice, j'aime vraiment ça! C'est tellement gentil ... Ah-ah-ah ... Viens... Comme tes lèvres juteuses sont douces, A-Ah ..." nointeract
 
 # game/events/alice.rpy:1784
 translate frenh alice_after_club_need_hurry_bfd3e0e2:
 
-    # [Max_22 "[restrain!t]Да, продолжай вот так! Давай быстрее, сестрёнка... Вижу, что с ним не просто справиться, но у тебя классно получается! Ещё немного... Я сейчас кончу...[nointeract]"
-    Max_22 "[restrain!t]Oui, restes comme ça! Vas plus vite, ma sœur ... Je vois que ce n'est pas facile à gérer, mais tu es génial! Un peu plus ... Je vais jouir maintenant...[nointeract]"
+    # [Max_22 "[restrain!t]Да, продолжай вот так! Давай быстрее, сестрёнка... Вижу, что с ним не просто справиться, но у тебя классно получается! Ещё немного... Я сейчас кончу..." nointeract
+    Max_22 "[restrain!t]Oui, restes comme ça! Vas plus vite, ma sœur ... Je vois que ce n'est pas facile à gérer, mais tu es génial! Un peu plus ... Je vais jouir maintenant..." nointeract
 
 # game/events/alice.rpy:1800
 translate frenh alice_after_club_cum_breast_2547c7ed:
@@ -2097,8 +2097,8 @@ translate frenh alice_after_club_cum_breast_7894f632:
 # game/events/alice.rpy:1805
 translate frenh alice_after_club_cum_breast_fa3f7bbe:
 
-    # [Alice_05 "Вот именно, что ничего![nointeract]"
-    Alice_05 "Exactement, rien![nointeract]"
+    # [Alice_05 "Вот именно, что ничего!" nointeract
+    Alice_05 "Exactement, rien!" nointeract
 
 # game/events/alice.rpy:1815
 translate frenh alice_after_club_cum_face_9601d551:
@@ -2139,8 +2139,8 @@ translate frenh alice_after_club_cum_face_7894f632:
 # game/events/alice.rpy:1822
 translate frenh alice_after_club_cum_face_fa3f7bbe:
 
-    # [Alice_05 "Вот именно, что ничего![nointeract]"
-    Alice_05 "Exactement, rien![nointeract]"
+    # [Alice_05 "Вот именно, что ничего!" nointeract
+    Alice_05 "Exactement, rien!" nointeract
 
 # game/events/alice.rpy:1832
 translate frenh alice_after_club_no_restrain_2de4d2ed:
@@ -2181,14 +2181,14 @@ translate frenh alice_after_club_no_restrain_7894f632:
 # game/events/alice.rpy:1839
 translate frenh alice_after_club_no_restrain_fa3f7bbe:
 
-    # [Alice_05 "Вот именно, что ничего![nointeract]"
-    Alice_05 "Exactement, rien![nointeract]"
+    # [Alice_05 "Вот именно, что ничего!" nointeract
+    Alice_05 "Exactement, rien!" nointeract
 
 # game/events/alice.rpy:1846
 translate frenh alice_after_club_dont_like_bce6e4cd:
 
-    # [Alice_13 "[dont_like!t]Ай, Макс! Ты слишком грубо это делаешь! Я люблю грубость, но не до такой же степени... Испортил ты всё! И вообще, у меня ванна набралась, так что спокойной ночи.[nointeract]"
-    Alice_13 "[dont_like!t]Aïe, Max ! Tu es trop brutal! J'aime la grossièreté, mais pas à ce point... Tu as tout gâché! Et de toute façon, mon bain est rempli, alors bonne nuit.[nointeract]"
+    # [Alice_13 "[dont_like!t]Ай, Макс! Ты слишком грубо это делаешь! Я люблю грубость, но не до такой же степени... Испортил ты всё! И вообще, у меня ванна набралась, так что спокойной ночи." nointeract
+    Alice_13 "[dont_like!t]Aïe, Max ! Tu es trop brutal! J'aime la grossièreté, mais pas à ce point... Tu as tout gâché! Et de toute façon, mon bain est rempli, alors bonne nuit." nointeract
 
 # game/events/alice.rpy:1848
 translate frenh alice_after_club_dont_like_bb48092d:
@@ -2205,8 +2205,8 @@ translate frenh alice_after_club_dont_like_cfe6cd28:
 # game/events/alice.rpy:1856
 translate frenh alice_after_club_suck_39a258b3:
 
-    # [Alice_13 "Какой ты грубый, Макс! Я люблю грубость, но не так сразу... Испортил ты всё! И вообще, у меня ванна набралась, так что спокойной ночи.[nointeract]"
-    Alice_13 "Comme tu es grossier, Max ! J'aime la grossièreté, mais pas si rapidement... Tu as tout gâché ! Et de toute façon, mon bain est rempli, alors bonne nuit.[nointeract]"
+    # [Alice_13 "Какой ты грубый, Макс! Я люблю грубость, но не так сразу... Испортил ты всё! И вообще, у меня ванна набралась, так что спокойной ночи." nointeract
+    Alice_13 "Comme tu es grossier, Max ! J'aime la grossièreté, mais pas si rapidement... Tu as tout gâché ! Et de toute façon, mon bain est rempli, alors bonne nuit." nointeract
 
 # game/events/alice.rpy:1858
 translate frenh alice_after_club_suck_bb48092d:
@@ -2223,14 +2223,14 @@ translate frenh alice_after_club_suck_cfe6cd28:
 # game/events/alice.rpy:1878
 translate frenh alice_lisa_shower_d2af575b:
 
-    # [Max_00 "Сестрёнки принимают душ, не стоит им мешать...[nointeract]"
-    Max_00 "Les sœurs prennent une douche, je ne vais pas les déranger...[nointeract]"
+    # [Max_00 "Сестрёнки принимают душ, не стоит им мешать..." nointeract
+    Max_00 "Les sœurs prennent une douche, je ne vais pas les déranger..." nointeract
 
 # game/events/alice.rpy:1883
 translate frenh alice_lisa_shower_c78a15a2:
 
-    # [Max_01 "Интересно, кто сейчас в душе?[nointeract]"
-    Max_01 "je me demande qui est sous la douche en ce moment?[nointeract]"
+    # [Max_01 "Интересно, кто сейчас в душе?" nointeract
+    Max_01 "je me demande qui est sous la douche en ce moment?" nointeract
 
 # game/events/alice.rpy:1896
 translate frenh alice_lisa_shower_ladder_2b325faf:
@@ -2295,8 +2295,8 @@ translate frenh alice_lisa_shower_ladder_87af87e8:
 # game/events/alice.rpy:1978
 translate frenh alice_lisa_shower_start_peeping_d9358d57:
 
-    # [Max_07 "Класс! Сегодня мои прекрасные сестрёнки принимают душ вместе... Красота![nointeract]"
-    Max_07 "Joli ! Aujourd'hui, mes belles sœurs se douchent ensemble... Magnifique ![nointeract]"
+    # [Max_07 "Класс! Сегодня мои прекрасные сестрёнки принимают душ вместе... Красота!" nointeract
+    Max_07 "Joli ! Aujourd'hui, mes belles sœurs se douchent ensemble... Magnifique !" nointeract
 
 # game/events/alice.rpy:1993
 translate frenh alice_lisa_shower_start_peeping_72bf06b5:
@@ -2313,14 +2313,14 @@ translate frenh alice_lisa_shower_alt_peepeng_72bf06b5:
 # game/events/alice.rpy:2029
 translate frenh alice_blog_lingerie_877d3b2a:
 
-    # [Max_00 "Обычно в это время Алиса занимается своим блогом, но сейчас её дверь закрыта...[nointeract]"
-    Max_00 "Habituellement, à cette heure-ci, Alice est occupée par son blog, mais sa porte est désormais fermée...[nointeract]"
+    # [Max_00 "Обычно в это время Алиса занимается своим блогом, но сейчас её дверь закрыта..." nointeract
+    Max_00 "Habituellement, à cette heure-ci, Alice est occupée par son blog, mais sa porte est désormais fermée..." nointeract
 
 # game/events/alice.rpy:2042
 translate frenh alice_blog_lingerie_44e4a54e:
 
-    # [Alice_02 "О, Макс! Что-то хотел или просто проведать меня решил?[nointeract]"
-    Alice_02 "Oh, Max ! Tu veux quelque chose, ou tu veux juste vérifier que je vais bien ?[nointeract]"
+    # [Alice_02 "О, Макс! Что-то хотел или просто проведать меня решил?" nointeract
+    Alice_02 "Oh, Max ! Tu veux quelque chose, ou tu veux juste vérifier que je vais bien ?" nointeract
 
 # game/events/alice.rpy:2050
 translate frenh alice_blog_lingerie_43c0d69d:
@@ -2373,8 +2373,8 @@ translate frenh alice_blog_lingerie_68d07da4:
 # game/events/alice.rpy:2061
 translate frenh alice_blog_lingerie_bf451d86:
 
-    # [Alice_01 "Ага, хорошо бы.[nointeract]"
-    Alice_01 "oui, ce serait bien.[nointeract]"
+    # [Alice_01 "Ага, хорошо бы." nointeract
+    Alice_01 "oui, ce serait bien." nointeract
 
 # game/events/alice.rpy:2070
 translate frenh alice_blog_lingerie_f8868d99:
@@ -2391,8 +2391,8 @@ translate frenh alice_blog_lingerie_f2cccbc6:
 # game/events/alice.rpy:2073
 translate frenh alice_blog_lingerie_54c261bf:
 
-    # [Alice_01 "Хорошо, Макс. Спасибо.[nointeract]"
-    Alice_01 "D’accord, Max. Merci.[nointeract]"
+    # [Alice_01 "Хорошо, Макс. Спасибо." nointeract
+    Alice_01 "D’accord, Max. Merci." nointeract
 
 # game/events/alice.rpy:2077
 translate frenh alice_blog_lingerie_9468119f:
@@ -2409,8 +2409,8 @@ translate frenh alice_blog_lingerie_9fa89f77:
 # game/events/alice.rpy:2080
 translate frenh alice_blog_lingerie_d82f6aba:
 
-    # [Alice_01 "Спасибо, Макс![nointeract]"
-    Alice_01 "Merci, Max![nointeract]"
+    # [Alice_01 "Спасибо, Макс!" nointeract
+    Alice_01 "Merci, Max!" nointeract
 
 # game/events/alice.rpy:2088
 translate frenh alice_blog_lingerie_c89f235f:
@@ -2607,8 +2607,8 @@ translate frenh alice_blog_lingerie_16484159_3:
 # game/events/alice.rpy:2145
 translate frenh alice_blog_lingerie_b79543fc:
 
-    # [Alice_15 "Что?! Макс! Ну-ка иди отсюда, пока в ухо не получил![nointeract]"
-    Alice_15 "Quoi ? ! Max ! Sors d'ici avant de recevoir un coup de poing dans la figure![nointeract]"
+    # [Alice_15 "Что?! Макс! Ну-ка иди отсюда, пока в ухо не получил!" nointeract
+    Alice_15 "Quoi ? ! Max ! Sors d'ici avant de recevoir un coup de poing dans la figure!" nointeract
 
 # game/events/alice.rpy:2149
 translate frenh alice_blog_lingerie_e1665972:
@@ -2625,8 +2625,8 @@ translate frenh alice_blog_lingerie_c5313c11:
 # game/events/alice.rpy:2154
 translate frenh alice_blog_lingerie_a3a7e95b:
 
-    # [Alice_13 "Ну...[nointeract]"
-    Alice_13 "Bien...[nointeract]"
+    # [Alice_13 "Ну..." nointeract
+    Alice_13 "Bien..." nointeract
 
 # game/events/alice.rpy:2156
 translate frenh alice_blog_lingerie_0f9fbb40:
@@ -2643,14 +2643,14 @@ translate frenh alice_blog_lingerie_d782723f:
 # game/events/alice.rpy:2159
 translate frenh alice_blog_lingerie_147f3ff5:
 
-    # [Alice_03 "Да, получается! И не мешай, иди уже...[nointeract]"
-    Alice_03 "Oui, ça marche ! Et ne te mets pas en travers du chemin, vas-y....[nointeract]"
+    # [Alice_03 "Да, получается! И не мешай, иди уже..." nointeract
+    Alice_03 "Oui, ça marche ! Et ne te mets pas en travers du chemin, vas-y...." nointeract
 
 # game/events/alice.rpy:2164
 translate frenh alice_blog_lingerie_375acb3f:
 
-    # [Alice_18 "Макс!!! Я тебе сейчас...[nointeract]"
-    Alice_18 "Max !!! Je suis à côté...[nointeract]"
+    # [Alice_18 "Макс!!! Я тебе сейчас..." nointeract
+    Alice_18 "Max !!! Je suis à côté..." nointeract
 
 # game/events/alice.rpy:2168
 translate frenh alice_blog_lingerie_4cf96db0:
@@ -2667,14 +2667,14 @@ translate frenh alice_blog_lingerie_4b0dd3c8:
 # game/events/alice.rpy:2171
 translate frenh alice_blog_lingerie_02dd6c6b:
 
-    # [Alice_03 "Ой, Макс, свали уже... Не мешай![nointeract]"
-    Alice_03 "Oh, Max, pousses toi... Dégages le passage ![nointeract]"
+    # [Alice_03 "Ой, Макс, свали уже... Не мешай!" nointeract
+    Alice_03 "Oh, Max, pousses toi... Dégages le passage !" nointeract
 
 # game/events/alice.rpy:2176
 translate frenh alice_blog_lingerie_cc7303dd:
 
-    # [Alice_18 "Да ты бессмертный что ли!!! Сейчас я тебе напинаю...[nointeract]"
-    Alice_18 "Tu es immortel ou quelque chose comme ça !!! Je vais te botter le cul...[nointeract]"
+    # [Alice_18 "Да ты бессмертный что ли!!! Сейчас я тебе напинаю..." nointeract
+    Alice_18 "Tu es immortel ou quelque chose comme ça !!! Je vais te botter le cul..." nointeract
 
 # game/events/alice.rpy:2182
 translate frenh alice_blog_lingerie_8ab28e18:
@@ -2739,8 +2739,8 @@ translate frenh alice_blog_lingerie_98218f88:
 # game/events/alice.rpy:2198
 translate frenh alice_blog_lingerie_b9b48fda:
 
-    # [Alice_13 "Вот ещё! Не буду я переодеваться, когда у тебя в руках эта штука. За дверью подожди...[nointeract]"
-    Alice_13 "Et voilà ! Je ne vais pas changer quand tu tiens ce truc. Attends devant la porte...[nointeract]"
+    # [Alice_13 "Вот ещё! Не буду я переодеваться, когда у тебя в руках эта штука. За дверью подожди..." nointeract
+    Alice_13 "Et voilà ! Je ne vais pas changer quand tu tiens ce truc. Attends devant la porte..." nointeract
 
 # game/events/alice.rpy:2203
 translate frenh alice_blog_lingerie_65b46c5d:
@@ -2769,26 +2769,26 @@ translate frenh alice_blog_lingerie_4b2720e7:
 # game/events/alice.rpy:2214
 translate frenh alice_blog_lingerie_85e795c3:
 
-    # [Alice]{b}Алиса:{/b} Заходи давай, пока я не передумала![nointeract]"
-    Alice]{b}Alice{/b} Entres avant que je ne change d'avis![nointeract]"
+    # [Alice]{b}Алиса:{/b} Заходи давай, пока я не передумала!" nointeract
+    Alice]{b}Alice{/b} Entres avant que je ne change d'avis!" nointeract
 
 # game/events/alice.rpy:2224
 translate frenh alice_blog_lingerie_a937857e:
 
-    # [Alice_05 "Макс, совсем стыд потерял! Уже не подглядываешь, а просто открыто приходишь и глазеешь?[nointeract]"
-    Alice_05 "Max, tu as perdu ta honte ! Il ne s'agit plus d'épier, mais d'entrer ouvertement et de regarder?[nointeract]"
+    # [Alice_05 "Макс, совсем стыд потерял! Уже не подглядываешь, а просто открыто приходишь и глазеешь?" nointeract
+    Alice_05 "Max, tu as perdu ta honte ! Il ne s'agit plus d'épier, mais d'entrer ouvertement et de regarder?" nointeract
 
 # game/events/alice.rpy:2232
 translate frenh alice_blog_lingerie_a937857e_1:
 
-    # [Alice_05 "Макс, совсем стыд потерял! Уже не подглядываешь, а просто открыто приходишь и глазеешь?[nointeract]"
-    Alice_05 "Max, tu as perdu ta honte ! Il ne s'agit plus d'épier, mais d'entrer ouvertement et de regarder?[nointeract]"
+    # [Alice_05 "Макс, совсем стыд потерял! Уже не подглядываешь, а просто открыто приходишь и глазеешь?" nointeract
+    Alice_05 "Max, tu as perdu ta honte ! Il ne s'agit plus d'épier, mais d'entrer ouvertement et de regarder?" nointeract
 
 # game/events/alice.rpy:2241
 translate frenh alice_blog_lingerie_2b108a1a:
 
-    # [Max_05 "{m}Отлично! Алиса крутит задом перед камерой в одном нижнем белье! Надеюсь, не заметит... Отсюда вид точно лучше, чем через камеру...{/m}[nointeract]"
-    Max_05 "{m}Super ! Alice fait tourner son cul devant la caméra en sous-vêtements ! J'espère qu'elle ne me remarque pas... La vue d'ici est définitivement meilleure qu'à travers la caméra....{/m}[nointeract]"
+    # [Max_05 "{m}Отлично! Алиса крутит задом перед камерой в одном нижнем белье! Надеюсь, не заметит... Отсюда вид точно лучше, чем через камеру...{/m}" nointeract
+    Max_05 "{m}Super ! Alice fait tourner son cul devant la caméra en sous-vêtements ! J'espère qu'elle ne me remarque pas... La vue d'ici est définitivement meilleure qu'à travers la caméra....{/m}" nointeract
 
 # game/events/alice.rpy:2257
 translate frenh alice_body_photoset1_4b9409e0:
@@ -3081,8 +3081,8 @@ translate frenh alice_body_photoset1_cec47c00:
 # game/events/alice.rpy:2398
 translate frenh alice_towel_after_club_3479dfb8:
 
-    # [Max][nointeract]"
-    Max][nointeract]"
+    # [Max]" nointeract
+    Max]" nointeract
 
 # game/events/alice.rpy:2400
 translate frenh alice_towel_after_club_164b6a94:
@@ -3105,8 +3105,8 @@ translate frenh alice_towel_after_club_86a91f2d:
 # game/events/alice.rpy:2404
 translate frenh alice_towel_after_club_71b9cc8b:
 
-    # [Max_10 "Вот чёрт! И здесь облом.[nointeract]"
-    Max_10 "Oh, merde ! Et c'est une déception.[nointeract]"
+    # [Max_10 "Вот чёрт! И здесь облом." nointeract
+    Max_10 "Oh, merde ! Et c'est une déception." nointeract
 
 # game/events/alice.rpy:2417
 translate frenh alice_towel_after_club_63271e00:
@@ -3165,8 +3165,8 @@ translate frenh alice_towel_after_club_e959616a:
 # game/events/alice.rpy:2440
 translate frenh alice_towel_after_club_70a2c6da:
 
-    # [Max_10 "Ну вот, опять угрозы пошли...[nointeract]"
-    Max_10 "C'est reparti pour les menaces....[nointeract]"
+    # [Max_10 "Ну вот, опять угрозы пошли..." nointeract
+    Max_10 "C'est reparti pour les menaces...." nointeract
 
 # game/events/alice.rpy:2447
 translate frenh alice_towel_after_club_42b6166d:
@@ -3213,8 +3213,8 @@ translate frenh alice_towel_after_club_359b944d:
 # game/events/alice.rpy:2465
 translate frenh alice_towel_after_club_77241988:
 
-    # [Alice_06 "Не надо меня наказывать, Макс! Может, я могу как-то это исправить? Каким-нибудь приятным образом?[nointeract]"
-    Alice_06 "Ne me punis pas, Max ! Y a-t-il un moyen de réparer cela ? D'une manière agréable ?[nointeract]"
+    # [Alice_06 "Не надо меня наказывать, Макс! Может, я могу как-то это исправить? Каким-нибудь приятным образом?" nointeract
+    Alice_06 "Ne me punis pas, Max ! Y a-t-il un moyen de réparer cela ? D'une manière agréable ?" nointeract
 
 # game/events/alice.rpy:2472
 translate frenh alice_towel_after_club_e8547449:
@@ -3255,8 +3255,8 @@ translate frenh alice_towel_after_club_c6245e2a:
 # game/events/alice.rpy:2484
 translate frenh alice_towel_after_club_a7d02419:
 
-    # [Alice_07 "Такое ощущение, что практика у тебя уже была... Да... я хочу чуть быстрее, Макс... Ммм...[nointeract]"
-    Alice_07 "On dirait que tu as déjà eu l'occasion de t'entraîner... Oui... Je veux que tu aies un peu plus vite, Max... Mmm...[nointeract]"
+    # [Alice_07 "Такое ощущение, что практика у тебя уже была... Да... я хочу чуть быстрее, Макс... Ммм..." nointeract
+    Alice_07 "On dirait que tu as déjà eu l'occasion de t'entraîner... Oui... Je veux que tu aies un peu plus vite, Max... Mmm..." nointeract
 
 # game/events/alice.rpy:2492
 translate frenh alice_towel_after_club_36c30622:
@@ -3303,8 +3303,8 @@ translate frenh alice_towel_after_club_6bbc3c8f:
 # game/events/alice.rpy:2514
 translate frenh alice_towel_after_club_7589c91e:
 
-    # [Alice_09 "Ох... Ты же знаешь, я никогда не смогу от этого отказаться. Уже можно было давно заметить, что они у меня целиком - эрогенная зона...[nointeract]"
-    Alice_09 "Oh... Tu sais que je ne pourrais jamais abandonner ça. Tu aurais pu remarquer il y a longtemps qu'ils font parties de ma zone érogène....[nointeract]"
+    # [Alice_09 "Ох... Ты же знаешь, я никогда не смогу от этого отказаться. Уже можно было давно заметить, что они у меня целиком - эрогенная зона..." nointeract
+    Alice_09 "Oh... Tu sais que je ne pourrais jamais abandonner ça. Tu aurais pu remarquer il y a longtemps qu'ils font parties de ma zone érogène...." nointeract
 
 # game/events/alice.rpy:2522
 translate frenh alice_towel_after_club_3d921297:
@@ -3321,8 +3321,8 @@ translate frenh alice_towel_after_club_49efbb69:
 # game/events/alice.rpy:2525
 translate frenh alice_towel_after_club_549a22d2:
 
-    # [Alice_08 "Ухх, как интригующе звучит! Я вся в предвкушении узнать, что же они у меня такое любят?[nointeract]"
-    Alice_08 "Oooh, comme cela semble intriguant ! J'ai hâte de découvrir ce qu'elles aiment?[nointeract]"
+    # [Alice_08 "Ухх, как интригующе звучит! Я вся в предвкушении узнать, что же они у меня такое любят?" nointeract
+    Alice_08 "Oooh, comme cela semble intriguant ! J'ai hâte de découvrir ce qu'elles aiment?" nointeract
 
 # game/events/alice.rpy:2533
 translate frenh alice_towel_after_club_ffb6b354:
@@ -3363,14 +3363,14 @@ translate frenh alice_towel_after_club_max_turn_1852e864:
 # game/events/alice.rpy:2555
 translate frenh alice_towel_after_club_max_turn_c02780d8:
 
-    # [Alice_05 "Мне понравилось, как ты меня \"наказал\", Макс! И я хочу, чтобы ты тоже кончил...[nointeract]"
-    Alice_05 "J'ai aimé la façon dont tu m'as 'puni', Max ! Et je veux que tu jouisses aussi...[nointeract]"
+    # [Alice_05 "Мне понравилось, как ты меня \"наказал\", Макс! И я хочу, чтобы ты тоже кончил..." nointeract
+    Alice_05 "J'ai aimé la façon dont tu m'as 'puni', Max ! Et je veux que tu jouisses aussi..." nointeract
 
 # game/events/alice.rpy:2563
 translate frenh alice_towel_after_club_max_turn_552bf71c:
 
-    # [Alice_04 "Так достаточно быстро? Ну и вымахал же у тебя такой член, Макс! Нравится? Не сдерживайся, а то у меня начинает уставать рука...[nointeract]"
-    Alice_04 "C'est assez rapide ? Quelle grosse bite tu as, Max ! Tu aimes? Ne te retiens pas, mon bras commence à être fatigué....[nointeract]"
+    # [Alice_04 "Так достаточно быстро? Ну и вымахал же у тебя такой член, Макс! Нравится? Не сдерживайся, а то у меня начинает уставать рука..." nointeract
+    Alice_04 "C'est assez rapide ? Quelle grosse bite tu as, Max ! Tu aimes? Ne te retiens pas, mon bras commence à être fatigué...." nointeract
 
 # game/events/alice.rpy:2569
 translate frenh alice_towel_after_club_max_turn_e856da6c:
@@ -3387,8 +3387,8 @@ translate frenh alice_towel_after_club_max_turn_572c8e73:
 # game/events/alice.rpy:2583
 translate frenh alice_towel_after_club_max_turn_ebb0f71e:
 
-    # [Alice_04 "Ммм... Только никому ни слова, что я тут вытворяла с твоим членом! Ты уже скоро?[nointeract]"
-    Alice_04 "Mmm... Ne dis à personne ce que j'ai fait avec ta bite ! Tu arrives bientôt?[nointeract]"
+    # [Alice_04 "Ммм... Только никому ни слова, что я тут вытворяла с твоим членом! Ты уже скоро?" nointeract
+    Alice_04 "Mmm... Ne dis à personne ce que j'ai fait avec ta bite ! Tu arrives bientôt?" nointeract
 
 # game/events/alice.rpy:2604
 translate frenh alice_towel_after_club_cum_breast_f47ad262:
@@ -3417,8 +3417,8 @@ translate frenh alice_towel_after_club_cum_breast_d7dd7483:
 # game/events/alice.rpy:2609
 translate frenh alice_towel_after_club_cum_breast_50e121f5:
 
-    # [Alice_05 "Ага. Именно так всё и было![nointeract]"
-    Alice_05 "Ouaip. C'est exactement ce qui s'est passé.![nointeract]"
+    # [Alice_05 "Ага. Именно так всё и было!" nointeract
+    Alice_05 "Ouaip. C'est exactement ce qui s'est passé.!" nointeract
 
 # game/events/alice.rpy:2622
 translate frenh alice_towel_after_club_cum_face_9601d551:
@@ -3459,8 +3459,8 @@ translate frenh alice_towel_after_club_cum_face_d7dd7483:
 # game/events/alice.rpy:2629
 translate frenh alice_towel_after_club_cum_face_50e121f5:
 
-    # [Alice_05 "Ага. Именно так всё и было![nointeract]"
-    Alice_05 "Ouaip. C'est exactement ce qui s'est passé.![nointeract]"
+    # [Alice_05 "Ага. Именно так всё и было!" nointeract
+    Alice_05 "Ouaip. C'est exactement ce qui s'est passé.!" nointeract
 
 # game/events/alice.rpy:2640
 translate frenh alice_towel_after_club_not_even_close_6117492e:
@@ -3471,14 +3471,14 @@ translate frenh alice_towel_after_club_not_even_close_6117492e:
 # game/events/alice.rpy:2645
 translate frenh alice_towel_after_club_not_even_close_05fe5279:
 
-    # [Max_21 "Ох, Алиса! Упасть здесь действительно есть от чего! Какие у тебя нежные губы... Д-а-а... У тебя хорошо получается, сестрёнка... Давай поактивнее... Как же приятно, д-а-а...[nointeract]"
-    Max_21 "Oh, Alice ! Il y a vraiment de quoi se faire avoir ! Quelles lèvres délicates tu as... A-a-a... Tu te débrouilles bien, ma sœur... Soyons plus actifs... C'est tellement bon, Aa-a-a...[nointeract]"
+    # [Max_21 "Ох, Алиса! Упасть здесь действительно есть от чего! Какие у тебя нежные губы... Д-а-а... У тебя хорошо получается, сестрёнка... Давай поактивнее... Как же приятно, д-а-а..." nointeract
+    Max_21 "Oh, Alice ! Il y a vraiment de quoi se faire avoir ! Quelles lèvres délicates tu as... A-a-a... Tu te débrouilles bien, ma sœur... Soyons plus actifs... C'est tellement bon, Aa-a-a..." nointeract
 
 # game/events/alice.rpy:2652
 translate frenh alice_towel_after_club_not_even_close_73619acf:
 
-    # [Max_22 "[restrain!t]Вот чёрт, Алиса! Ты делаешь это просто потрясающе! Да, продолжай вот так... Ещё быстрее... Вот умница! Я держусь из последних сил... Вот-вот кончу...[nointeract]"
-    Max_22 "[restrain!t]Oh, merde, Alice ! Tu le fais étonnamment bien ! Oui, continues comme ça... Encore plus vite... Quelle fille intelligente ! Je ne tiens qu'à un fil... Sur le point de jouir...[nointeract]"
+    # [Max_22 "[restrain!t]Вот чёрт, Алиса! Ты делаешь это просто потрясающе! Да, продолжай вот так... Ещё быстрее... Вот умница! Я держусь из последних сил... Вот-вот кончу..." nointeract
+    Max_22 "[restrain!t]Oh, merde, Alice ! Tu le fais étonnamment bien ! Oui, continues comme ça... Encore plus vite... Quelle fille intelligente ! Je ne tiens qu'à un fil... Sur le point de jouir..." nointeract
 
 # game/events/alice.rpy:2669
 translate frenh alice_towel_after_club_no_restrain_2de4d2ed:
@@ -3519,8 +3519,8 @@ translate frenh alice_towel_after_club_no_restrain_d7dd7483:
 # game/events/alice.rpy:2676
 translate frenh alice_towel_after_club_no_restrain_50e121f5:
 
-    # [Alice_05 "Ага. Именно так всё и было![nointeract]"
-    Alice_05 "Ouaip. C'est exactement ce qui s'est passé.![nointeract]"
+    # [Alice_05 "Ага. Именно так всё и было!" nointeract
+    Alice_05 "Ouaip. C'est exactement ce qui s'est passé.!" nointeract
 
 # game/events/alice.rpy:2683
 translate frenh give_photos1_534f08f4:
@@ -3603,8 +3603,8 @@ translate frenh give_photos1_8c1ad17f:
 # game/events/alice.rpy:2718
 translate frenh blog_with_Eric_e2fed13b:
 
-    # [Max_09 "{m}Кажется, в комнате Алиса с Эриком... Хорошо бы узнать, что они там делают. А то мало ли...{/m}[nointeract]"
-    Max_09 "{m}Alice semble être dans la pièce avec Eric... Il serait bon de savoir ce qu'ils font là-bas. On ne sait jamais....{/m}[nointeract]"
+    # [Max_09 "{m}Кажется, в комнате Алиса с Эриком... Хорошо бы узнать, что они там делают. А то мало ли...{/m}" nointeract
+    Max_09 "{m}Alice semble être dans la pièce avec Eric... Il serait bon de savoir ce qu'ils font là-bas. On ne sait jamais....{/m}" nointeract
 
 # game/events/alice.rpy:2728
 translate frenh blog_with_Eric_1edfd99d:
@@ -3675,8 +3675,8 @@ translate frenh blog_with_Eric_55fa4c7f:
 # game/events/alice.rpy:2755
 translate frenh blog_with_Eric_deb81d2b:
 
-    # [Max_09 "{m}Понятно всё с вами, Алиса села на шею Эрику, а он и рад. А мне лучше сматываться отсюда, не хватало ещё чтобы меня сейчас заметили...{/m}[nointeract]"
-    Max_09 "{m}Je vois ce qui se passe, Alice est au cou d'Eric et il en est heureux. Et je ferais mieux de partir d'ici, je ne veux pas être repéré maintenant....{/m}[nointeract]"
+    # [Max_09 "{m}Понятно всё с вами, Алиса села на шею Эрику, а он и рад. А мне лучше сматываться отсюда, не хватало ещё чтобы меня сейчас заметили...{/m}" nointeract
+    Max_09 "{m}Je vois ce qui se passe, Alice est au cou d'Eric et il en est heureux. Et je ferais mieux de partir d'ici, je ne veux pas être repéré maintenant....{/m}" nointeract
 
 # game/events/alice.rpy:2779
 translate frenh blog_with_Eric_96da1d99:
@@ -3687,14 +3687,14 @@ translate frenh blog_with_Eric_96da1d99:
 # game/events/alice.rpy:2781
 translate frenh blog_with_Eric_7d7ffc41:
 
-    # [Max_09 "{m}Подождите-ка, они о покупке белья разговаривают... И без меня! Нужно будет поскорее узнать у Алисы, что это ей там Эрик собрался покупать...{/m}[nointeract]"
-    Max_09 "{m}Attends une minute, ils parlent d'acheter de la lingerie... Et sans moi ! Je dois demander à Alice de nous dire ce qu'Eric va lui acheter....{/m}[nointeract]"
+    # [Max_09 "{m}Подождите-ка, они о покупке белья разговаривают... И без меня! Нужно будет поскорее узнать у Алисы, что это ей там Эрик собрался покупать...{/m}" nointeract
+    Max_09 "{m}Attends une minute, ils parlent d'acheter de la lingerie... Et sans moi ! Je dois demander à Alice de nous dire ce qu'Eric va lui acheter....{/m}" nointeract
 
 # game/events/alice.rpy:2788
 translate frenh blog_with_Eric_9660eef6:
 
-    # [Max_07 "{m}Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего...{/m}[nointeract]"
-    Max_07 "{m}Eric a décidé de se moquer des connaissances d'Alice en matière de consommation et de publicité... Oui, et pendant ce temps, il regarde ses charmes, à peine couverts par ses sous-vêtements. Il n'y a rien à faire pour moi ici pour le moment...{/m}[nointeract]"
+    # [Max_07 "{m}Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего...{/m}" nointeract
+    Max_07 "{m}Eric a décidé de se moquer des connaissances d'Alice en matière de consommation et de publicité... Oui, et pendant ce temps, il regarde ses charmes, à peine couverts par ses sous-vêtements. Il n'y a rien à faire pour moi ici pour le moment...{/m}" nointeract
 
     old "{i}постучаться{/i}"
     new "{i}frapper{/i}"

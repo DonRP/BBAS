@@ -21,14 +21,14 @@ translate italian StartDialog_069fda26:
 # game/events/max.rpy:32
 translate italian Sleep_52abcf74:
 
-    # [Max_00 "{m}Пожалуй, пора ложиться спать...{/m}[nointeract]"
-    Max_00 "{m}Forse è ora di andare a letto...{/i}[nointeract]"
+    # [Max_00 "{m}Пожалуй, пора ложиться спать...{/m}" nointeract
+    Max_00 "{m}Forse è ora di andare a letto...{/i}" nointeract
 
 # game/events/max.rpy:35
 translate italian Sleep_9878a7fd:
 
-    # [Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
-    Max_00 "{m}A che ora sarebbe meglio svegliarmi? {/m}[nointeract]"
+    # [Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}" nointeract
+    Max_00 "{m}A che ora sarebbe meglio svegliarmi? {/m}" nointeract
 
 # game/events/max.rpy:48
 translate italian Sleep_dca71115:
@@ -39,8 +39,8 @@ translate italian Sleep_dca71115:
 # game/events/max.rpy:65
 translate italian Wearied_d8557c8f:
 
-    # [Max_10 "{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}[nointeract]"
-    Max_10 "{m}La mia testa non pensa affatto, ho bisogno di andare a letto... {/m}[nointeract]"
+    # [Max_10 "{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}" nointeract
+    Max_10 "{m}La mia testa non pensa affatto, ho bisogno di andare a letto... {/m}" nointeract
 
 # game/events/max.rpy:67
 translate italian Wearied_dca71115:
@@ -51,8 +51,8 @@ translate italian Wearied_dca71115:
 # game/events/max.rpy:85
 translate italian LittleEnergy_d97dcb62:
 
-    # [Max_10 "{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}[nointeract]"
-    Max_10 "{m}sono troppo esausto, ho bisogno di fare un pisolino... {/m}[nointeract]"
+    # [Max_10 "{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}" nointeract
+    Max_10 "{m}sono troppo esausto, ho bisogno di fare un pisolino... {/m}" nointeract
 
 # game/events/max.rpy:94
 translate italian LittleEnergy_dca71115:
@@ -63,14 +63,14 @@ translate italian LittleEnergy_dca71115:
 # game/events/max.rpy:114
 translate italian Nap_89e3b066:
 
-    # [Max_00 "{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}[nointeract]"
-    Max_00 "{i}Non ho molto sonno al momento, ma un sonnellino non mi farebbe male...{/i}[nointeract]"
+    # [Max_00 "{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}" nointeract
+    Max_00 "{i}Non ho molto sonno al momento, ma un sonnellino non mi farebbe male...{/i}" nointeract
 
 # game/events/max.rpy:116
 translate italian Nap_286b3b95:
 
-    # [Max_00 "{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}[nointeract]"
-    Max_00 "{i}Oh, sono esausto oggi, ho bisogno di fare un pisolino...{/i}[nointeract]"
+    # [Max_00 "{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}" nointeract
+    Max_00 "{i}Oh, sono esausto oggi, ho bisogno di fare un pisolino...{/i}" nointeract
 
 # game/events/max.rpy:131
 translate italian Nap_dca71115:
@@ -81,8 +81,8 @@ translate italian Nap_dca71115:
 # game/events/max.rpy:140
 translate italian Alarm_9878a7fd:
 
-    # [Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
-    Max_00 "{m}A che ora sarebbe meglio svegliarmi? {/m}[nointeract]"
+    # [Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}" nointeract
+    Max_00 "{m}A che ora sarebbe meglio svegliarmi? {/m}" nointeract
 
 # game/events/max.rpy:152
 translate italian Alarm_dca71115:
@@ -93,8 +93,8 @@ translate italian Alarm_dca71115:
 # game/events/max.rpy:167
 translate italian Shower_2c708671:
 
-    # [Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется...[nointeract]"
-    Max_19 "Tuttavia, essere puliti è molto meglio. Anche se non sempre vuoi...[nointeract]"
+    # [Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется..." nointeract
+    Max_19 "Tuttavia, essere puliti è molto meglio. Anche se non sempre vuoi..." nointeract
 
 # game/events/max.rpy:173
 translate italian Shower_58b0fd27:
@@ -117,8 +117,8 @@ translate italian Shower_b3c37b42:
 # game/events/max.rpy:190
 translate italian Bath_2c708671:
 
-    # [Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется...[nointeract]"
-    Max_19 "Tuttavia, essere puliti è molto meglio. Anche se non sempre vuoi...[nointeract]"
+    # [Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется..." nointeract
+    Max_19 "Tuttavia, essere puliti è molto meglio. Anche se non sempre vuoi..." nointeract
 
 # game/events/max.rpy:196
 translate italian Bath_58b0fd27:
@@ -159,8 +159,8 @@ translate italian Box_05229898:
 # game/events/max.rpy:219
 translate italian Box_b28a0ea4:
 
-    # [Max_10 "Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом...[nointeract]"
-    Max_10 "Forse è installato da qualche parte in casa e qualcuno ci sta guardando?! Dovrai ispezionare la casa...[nointeract]"
+    # [Max_10 "Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом..." nointeract
+    Max_10 "Forse è installato da qualche parte in casa e qualcuno ci sta guardando?! Dovrai ispezionare la casa..." nointeract
 
 # game/events/max.rpy:245
 translate italian Notebook_2dd57a79:
@@ -195,14 +195,14 @@ translate italian buyfood_96f7e58d:
 # game/events/max.rpy:353
 translate italian create_site_3744c5ee:
 
-    # [Max_00 "Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100[nointeract]"
-    Max_00 "Quindi, è tempo di fare il tuo sito web. Per prima cosa devi acquistare un dominio, un hosting, un modello di design e pagare per i servizi di un servizio di streaming. Tutto in totale hai bisogno di $ 100[nointeract]"
+    # [Max_00 "Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100" nointeract
+    Max_00 "Quindi, è tempo di fare il tuo sito web. Per prima cosa devi acquistare un dominio, un hosting, un modello di design e pagare per i servizi di un servizio di streaming. Tutto in totale hai bisogno di $ 100" nointeract
 
 # game/events/max.rpy:360
 translate italian create_site_e36c401d:
 
-    # [Max_04 "Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом...[nointeract]"
-    Max_04 "Eccellente! Ora ho il mio sito web e dominio! Resta solo da collegare il flusso di dati dalla telecamera con il servizio di streaming...[nointeract]"
+    # [Max_04 "Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом..." nointeract
+    Max_04 "Eccellente! Ora ho il mio sito web e dominio! Resta solo da collegare il flusso di dati dalla telecamera con il servizio di streaming..." nointeract
 
 # game/events/max.rpy:364
 translate italian create_site_4e1c08b2:
@@ -231,32 +231,32 @@ translate italian about_cam_3fd48063:
 # game/events/max.rpy:414
 translate italian about_blog_d88e779b:
 
-    # [Max_00 "Итак, попробуем что-то найти о блогах. С чего начать?[nointeract]"
-    Max_00 "Quindi, proviamo a trovare qualcosa sui blog. Da dove cominciare?[nointeract]"
+    # [Max_00 "Итак, попробуем что-то найти о блогах. С чего начать?" nointeract
+    Max_00 "Quindi, proviamo a trovare qualcosa sui blog. Da dove cominciare?" nointeract
 
 # game/events/max.rpy:417
 translate italian about_blog_3a839884:
 
-    # [Max_10 "Ох... Сколько цифр. Неужели, во всём этом можно разобраться?[nointeract]"
-    Max_10 "Oh... Quante cifre. È davvero possibile capire tutto questo?[nointeract]"
+    # [Max_10 "Ох... Сколько цифр. Неужели, во всём этом можно разобраться?" nointeract
+    Max_10 "Oh... Quante cifre. È davvero possibile capire tutto questo?" nointeract
 
 # game/events/max.rpy:426
 translate italian about_blog_814aee55:
 
-    # [Max_04 "Прикольно... Ага. Котики. Не, устарели. Киски. Ну, смотря какие...[nointeract]"
-    Max_04 "fantastico... Aha. Gatti. No, obsoleto.. Beh, a seconda di cosa...[nointeract]"
+    # [Max_04 "Прикольно... Ага. Котики. Не, устарели. Киски. Ну, смотря какие..." nointeract
+    Max_04 "fantastico... Aha. Gatti. No, obsoleto.. Beh, a seconda di cosa..." nointeract
 
 # game/events/max.rpy:435
 translate italian about_blog_bb8942c7:
 
-    # [Max_14 "Ух. Сколько гадости в комментах... Ладно, попробуем найти в этом крупицу смысла...[nointeract]"
-    Max_14 "Wh. Quanto c'è nei commenti... Ok, proviamo a trovare un pizzico di significato in questo...[nointeract]"
+    # [Max_14 "Ух. Сколько гадости в комментах... Ладно, попробуем найти в этом крупицу смысла..." nointeract
+    Max_14 "Wh. Quanto c'è nei commenti... Ok, proviamo a trovare un pizzico di significato in questo..." nointeract
 
 # game/events/max.rpy:444
 translate italian about_blog_5af97f32:
 
-    # [Max_09 "[_text!t][nointeract]"
-    Max_09 "[_text!t][nointeract]"
+    # [Max_09 "[_text!t]" nointeract
+    Max_09 "[_text!t]" nointeract
 
 # game/events/max.rpy:446
 translate italian about_blog_c1ce2606:
@@ -273,8 +273,8 @@ translate italian about_blog_4571eb7f:
 # game/events/max.rpy:460
 translate italian about_secretbook_605b0407:
 
-    # [Max_00 "Так... Сейчас погуглим. Как там она называлась? \"Sugar Daddies\"?... Любовный роман? И что в нём такого может быть?[nointeract]"
-    Max_00 "Allora... Cerchiamo di cercarlo su Google ora. Come si chiamava lì? \"Sugar Daddies\"?... Un romanzo rosa? E cosa ci può essere al riguardo?[nointeract]"
+    # [Max_00 "Так... Сейчас погуглим. Как там она называлась? \"Sugar Daddies\"?... Любовный роман? И что в нём такого может быть?" nointeract
+    Max_00 "Allora... Cerchiamo di cercarlo su Google ora. Come si chiamava lì? \"Sugar Daddies\"?... Un romanzo rosa? E cosa ci può essere al riguardo?" nointeract
 
 # game/events/max.rpy:462
 translate italian about_secretbook_279d4103:
@@ -285,8 +285,8 @@ translate italian about_secretbook_279d4103:
 # game/events/max.rpy:476
 translate italian about_spider_45c2646e:
 
-    # [Max_00 "Так... Пауки. Ох, сколько видов... Какие же тут водятся...[nointeract]"
-    Max_00 "Allora... Ragni. Oh, quante specie... Cosa ci sono...[nointeract]"
+    # [Max_00 "Так... Пауки. Ох, сколько видов... Какие же тут водятся..." nointeract
+    Max_00 "Allora... Ragni. Oh, quante specie... Cosa ci sono..." nointeract
 
 # game/events/max.rpy:478
 translate italian about_spider_624fb07e:
@@ -309,14 +309,14 @@ translate italian about_spider_e3aa40bf:
 # game/events/max.rpy:483
 translate italian about_spider_49e33bd9:
 
-    # [Max_01 "Ну вот, подходит. Самый популярный паук в наших краях. Ага! Теперь узнаем как его поймать...[nointeract]"
-    Max_01 "Beh, si adatta. Il ragno più popolare nella nostra zona. Aha! Ora impareremo a prenderlo...[nointeract]"
+    # [Max_01 "Ну вот, подходит. Самый популярный паук в наших краях. Ага! Теперь узнаем как его поймать..." nointeract
+    Max_01 "Beh, si adatta. Il ragno più popolare nella nostra zona. Aha! Ora impareremo a prenderlo..." nointeract
 
 # game/events/max.rpy:486
 translate italian about_spider_5170efbe:
 
-    # [Max_09 "Так, питается комарами и мошками. Как это обычно... нет, это ничего не даёт...[nointeract]"
-    Max_09 "Quindi, si nutre di zanzare e moscerini. Come al solito... no, non fa nulla...[nointeract]"
+    # [Max_09 "Так, питается комарами и мошками. Как это обычно... нет, это ничего не даёт..." nointeract
+    Max_09 "Quindi, si nutre di zanzare e moscerini. Come al solito... no, non fa nulla..." nointeract
 
 # game/events/max.rpy:491
 translate italian about_spider_883f72be:
@@ -375,8 +375,8 @@ translate italian ClearPool_62cb38c0:
 # game/events/max.rpy:555
 translate italian DishesWashed_cedc9161:
 
-    # [Max_00 "Эх... столько посуды. И почему в этом огромном доме нет маленькой посудомоечной машины?[nointeract]"
-    Max_00 "Uh... tanti piatti. E perché non c'è una piccola lavastoviglie in questa enorme casa?[nointeract]"
+    # [Max_00 "Эх... столько посуды. И почему в этом огромном доме нет маленькой посудомоечной машины?" nointeract
+    Max_00 "Uh... tanti piatti. E perché non c'è una piccola lavastoviglie in questa enorme casa?" nointeract
 
 # game/events/max.rpy:581
 translate italian delivery1_919500cd:
@@ -441,8 +441,8 @@ translate italian delivery2_1f5e97ce:
 # game/events/max.rpy:644
 translate italian BookRead_9562ffab:
 
-    # [Max_00 "Пришло время почитать что-то...[nointeract]"
-    Max_00 "È tempo di leggere qualcosa...[nointeract]"
+    # [Max_00 "Пришло время почитать что-то..." nointeract
+    Max_00 "È tempo di leggere qualcosa..." nointeract
 
 # game/events/max.rpy:653
 translate italian BookRead_manual_41be558e:
@@ -515,26 +515,26 @@ translate italian BookRead_sex_ed_58528ae0:
 # game/events/max.rpy:693
 translate italian SearchSecretBook_390d326c:
 
-    # [Max_10 "Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается...[nointeract]"
-    Max_10 "Allora... E da dove iniziare la ricerca? E devo sbrigarmi: se Alice mi incensa, mi ucciderà prima, e solo allora mi saluterà...[nointeract]"
+    # [Max_10 "Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается..." nointeract
+    Max_10 "Allora... E da dove iniziare la ricerca? E devo sbrigarmi: se Alice mi incensa, mi ucciderà prima, e solo allora mi saluterà..." nointeract
 
 # game/events/max.rpy:708
 translate italian SearchSecretBook_pillow_fdc18f7e:
 
-    # [Max_14 "Нет, здесь её нет... Ну где же эта чёртова книга? Шаги? Нет, показалось...[nointeract]"
-    Max_14 "No, non è qui... Bene, dov'è questo libro del diavolo? Passi? No, sembrava...[nointeract]"
+    # [Max_14 "Нет, здесь её нет... Ну где же эта чёртова книга? Шаги? Нет, показалось..." nointeract
+    Max_14 "No, non è qui... Bene, dov'è questo libro del diavolo? Passi? No, sembrava..." nointeract
 
 # game/events/max.rpy:721
 translate italian SearchSecretBook_bed_893f346c:
 
-    # [Max_14 "Нет, тут её точно нет. Ну где же она? Кажется, я слышу шум...[nointeract]"
-    Max_14 "No, sicuramente non c'è. Bene, dov'è lei? Penso di sentire un rumore...[nointeract]"
+    # [Max_14 "Нет, тут её точно нет. Ну где же она? Кажется, я слышу шум..." nointeract
+    Max_14 "No, sicuramente non c'è. Bene, dov'è lei? Penso di sentire un rumore..." nointeract
 
 # game/events/max.rpy:735
 translate italian SearchSecretBook_table_f75e7ca0:
 
-    # [Max_14 "Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск?[nointeract]"
-    Max_14 "Forse non è qui? O provare a cercare di più, a proprio rischio?[nointeract]"
+    # [Max_14 "Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск?" nointeract
+    Max_14 "Forse non è qui? O provare a cercare di più, a proprio rischio?" nointeract
 
 # game/events/max.rpy:751
 translate italian SearchSecretBook_wardrobe_ef3ccc0f:
@@ -551,50 +551,50 @@ translate italian InstallCam_b5c9650c:
 # game/events/max.rpy:770
 translate italian InstallCam_44699dcc:
 
-    # [Max_04 "{m}В этой комнате столько всего может происходить... Думаю, зрителям понравится! Главное - спрятать все провода, чтобы Лиза не заметила новую микро-камеру...{/m}[nointeract]"
-    Max_04 "{m}C'è così tanto da fare in questa stanza... Penso che il pubblico lo adorerà! La cosa principale è nascondere tutti i fili in modo che Lisa non si accorga della nuova microcamera... {/m}[nointeract]"
+    # [Max_04 "{m}В этой комнате столько всего может происходить... Думаю, зрителям понравится! Главное - спрятать все провода, чтобы Лиза не заметила новую микро-камеру...{/m}" nointeract
+    Max_04 "{m}C'è così tanto da fare in questa stanza... Penso che il pubblico lo adorerà! La cosa principale è nascondere tutti i fili in modo che Lisa non si accorga della nuova microcamera... {/m}" nointeract
 
 # game/events/max.rpy:776
 translate italian InstallCam_b9324e31:
 
-    # [Max_04 "{m}Пусть зрители посмотрят, чем Алиса занимается в своей комнате, когда её не видят... Я бы и сам был бы рад посмотреть, но пока такой функции у меня нет...{/m}[nointeract]"
-    Max_04 "{m}Lascia che il pubblico veda cosa sta facendo Alice nella sua stanza quando non viene vista... Sarei felice di vederlo da solo, ma non ho ancora quella funzione ... {/m}[nointeract]"
+    # [Max_04 "{m}Пусть зрители посмотрят, чем Алиса занимается в своей комнате, когда её не видят... Я бы и сам был бы рад посмотреть, но пока такой функции у меня нет...{/m}" nointeract
+    Max_04 "{m}Lascia che il pubblico veda cosa sta facendo Alice nella sua stanza quando non viene vista... Sarei felice di vederlo da solo, ma non ho ancora quella funzione ... {/m}" nointeract
 
 # game/events/max.rpy:782
 translate italian InstallCam_9d11ed16:
 
-    # [Max_04 "{m}Конечно, здесь редко происходят события. Зато, когда они происходят, то здесь такое... Думаю, зрители будут рады таким моментам...{/m}[nointeract]"
-    Max_04 "{m}Naturalmente, gli eventi accadono raramente qui. Ma quando accadono, c'è questo... Penso che il pubblico sarà felice di questi momenti... {/m}[nointeract]"
+    # [Max_04 "{m}Конечно, здесь редко происходят события. Зато, когда они происходят, то здесь такое... Думаю, зрители будут рады таким моментам...{/m}" nointeract
+    Max_04 "{m}Naturalmente, gli eventi accadono raramente qui. Ma quando accadono, c'è questo... Penso che il pubblico sarà felice di questi momenti... {/m}" nointeract
 
 # game/events/max.rpy:789
 translate italian InstallCam_bc72cb94:
 
-    # [Max_03 "{m}Теперь через обе камеры можно увидеть всё самое интересное! Девочки любят покрасоваться у зеркала, а моя мама и Эрик, как я заметил, стараются не упустить возможность потрахаться перед этим же зеркалом... Моим зрителям это явно понравится!{/m}[nointeract]"
-    Max_03 "{m}Ora attraverso entrambe le fotocamere puoi vedere tutte le più interessanti! Le ragazze amano mostrarsi allo specchio, e mia madre ed Eric, come ho notato, cercano di non perdere l'occasione di scopare davanti allo stesso specchio ... I miei spettatori lo adoreranno! {/m}[nointeract]"
+    # [Max_03 "{m}Теперь через обе камеры можно увидеть всё самое интересное! Девочки любят покрасоваться у зеркала, а моя мама и Эрик, как я заметил, стараются не упустить возможность потрахаться перед этим же зеркалом... Моим зрителям это явно понравится!{/m}" nointeract
+    Max_03 "{m}Ora attraverso entrambe le fotocamere puoi vedere tutte le più interessanti! Le ragazze amano mostrarsi allo specchio, e mia madre ed Eric, come ho notato, cercano di non perdere l'occasione di scopare davanti allo stesso specchio ... I miei spettatori lo adoreranno! {/m}" nointeract
 
 # game/events/max.rpy:795
 translate italian InstallCam_3a6027ee:
 
-    # [Max_04 "{m}Конечно, с точки зрения морали ставить камеру в ванной сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно...{/m}[nointeract]"
-    Max_04 "{m}Naturalmente, dal punto di vista della moralità, è dubbio mettere una macchina fotografica in bagno. Tuttavia, qui e così la finestra in tutto il muro. Quindi, formalmente, ho appena aperto quella finestra... {/m}[nointeract]"
+    # [Max_04 "{m}Конечно, с точки зрения морали ставить камеру в ванной сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно...{/m}" nointeract
+    Max_04 "{m}Naturalmente, dal punto di vista della moralità, è dubbio mettere una macchina fotografica in bagno. Tuttavia, qui e così la finestra in tutto il muro. Quindi, formalmente, ho appena aperto quella finestra... {/m}" nointeract
 
 # game/events/max.rpy:801
 translate italian InstallCam_918d8b5b:
 
-    # [Max_04 "{m}Уж не знаю, будет ли какой-то толк от этой камеры... Тут так редко что-то происходит... Ну пусть будет. Раз уж взялся всё подключать...{/m}[nointeract]"
-    Max_04 "{m}non so se ci sarà qualche utilità da parte di questa fotocamera... È così raro che qui succeda qualcosa... Bene, lascia che sia. Da quando mi sono impegnato a collegare tutto... {/m}[nointeract]"
+    # [Max_04 "{m}Уж не знаю, будет ли какой-то толк от этой камеры... Тут так редко что-то происходит... Ну пусть будет. Раз уж взялся всё подключать...{/m}" nointeract
+    Max_04 "{m}non so se ci sarà qualche utilità da parte di questa fotocamera... È così raro che qui succeda qualcosa... Bene, lascia che sia. Da quando mi sono impegnato a collegare tutto... {/m}" nointeract
 
 # game/events/max.rpy:808
 translate italian InstallCam_3a93939c:
 
-    # [Max_04 "{m}Вот теперь зрители смогут насладится всеми мокрыми и блестящими красотами, происходящими во дворе...{/m}[nointeract]"
-    Max_04 "{m}Ora il pubblico potrà godere di tutte le bellezze bagnate e lucenti che si svolgono nel cortile ... {/m}[nointeract]"
+    # [Max_04 "{m}Вот теперь зрители смогут насладится всеми мокрыми и блестящими красотами, происходящими во дворе...{/m}" nointeract
+    Max_04 "{m}Ora il pubblico potrà godere di tutte le bellezze bagnate e lucenti che si svolgono nel cortile ... {/m}" nointeract
 
 # game/events/max.rpy:814
 translate italian InstallCam_3426c2fd:
 
-    # [Max_04 "{m}Двор... Тут почти всё время кто-то есть и что-то делает, пока светит солнце. Думаю, тут зрители будут зависать постоянно в надежде увидеть кого-то с голыми сиськами...{/m}[nointeract]"
-    Max_04 "{m}Yard... C'è quasi tutto il tempo qualcuno lì e fa qualcosa mentre il sole splende. Penso che qui il pubblico uscirà costantemente nella speranza di vedere qualcuno con le tette nude ... {/m}[nointeract]"
+    # [Max_04 "{m}Двор... Тут почти всё время кто-то есть и что-то делает, пока светит солнце. Думаю, тут зрители будут зависать постоянно в надежде увидеть кого-то с голыми сиськами...{/m}" nointeract
+    Max_04 "{m}Yard... C'è quasi tutto il tempo qualcuno lì e fa qualcosa mentre il sole splende. Penso che qui il pubblico uscirà costantemente nella speranza di vedere qualcuno con le tette nude ... {/m}" nointeract
 
 # game/events/max.rpy:816
 translate italian InstallCam_7711d18e:
@@ -605,8 +605,8 @@ translate italian InstallCam_7711d18e:
 # game/events/max.rpy:850
 translate italian SearchSpider_19279e48:
 
-    # [Max_00 "Так, нужно хорошенько рассмотреть траву...[nointeract]"
-    Max_00 "Quindi, devi dare un'occhiata all'erba...[nointeract]"
+    # [Max_00 "Так, нужно хорошенько рассмотреть траву..." nointeract
+    Max_00 "Quindi, devi dare un'occhiata all'erba..." nointeract
 
 # game/events/max.rpy:855
 translate italian SearchSpider_1b27d19f:
@@ -629,8 +629,8 @@ translate italian HideSpider_59b81ead:
 # game/events/max.rpy:877
 translate italian HideSpider_14a01e28:
 
-    # [Max_00 "Интересно, что будет, если Алиса заметит паука ночью? Она прибежит за помощью? Вот только этот монстр может сбежать... Так что, чем позже я его спрячу, тем больше шансов на успех...[nointeract]"
-    Max_00 "chiedo cosa succede se Alice nota un ragno di notte? Correrà a chiedere aiuto? Questo è solo che questo mostro può sfuggire... Quindi, più tardi lo nascondo, maggiori sono le possibilità di successo...[nointeract]"
+    # [Max_00 "Интересно, что будет, если Алиса заметит паука ночью? Она прибежит за помощью? Вот только этот монстр может сбежать... Так что, чем позже я его спрячу, тем больше шансов на успех..." nointeract
+    Max_00 "chiedo cosa succede se Alice nota un ragno di notte? Correrà a chiedere aiuto? Questo è solo che questo mostro può sfuggire... Quindi, più tardi lo nascondo, maggiori sono le possibilità di successo..." nointeract
 
 # game/events/max.rpy:880
 translate italian HideSpider_dbcd96db:
@@ -653,14 +653,14 @@ translate italian SearchCigarettes_b89e2d47:
 # game/events/max.rpy:949
 translate italian SearchCigarettes_no_34602f75:
 
-    # [Max_10 "Кажется, здесь их нет... Пора уходить, а то если кто-то заметит меня...[nointeract]"
-    Max_10 "Sembra che non siano qui... È ora di andarsene, o se qualcuno mi nota...[nointeract]"
+    # [Max_10 "Кажется, здесь их нет... Пора уходить, а то если кто-то заметит меня..." nointeract
+    Max_10 "Sembra che non siano qui... È ora di andarsene, o se qualcuno mi nota..." nointeract
 
 # game/events/max.rpy:957
 translate italian SearchCigarettes_yes_b172b515:
 
-    # [Max_04 "Ага, нашёл! Так... Теперь их нужно положить таким образом, чтобы мама их заметила, если заглянет в комнату...[nointeract]"
-    Max_04 "sì, l'ho trovato! Così... Ora devono essere messi in modo tale che mia madre li noti se guarda nella stanza...[nointeract]"
+    # [Max_04 "Ага, нашёл! Так... Теперь их нужно положить таким образом, чтобы мама их заметила, если заглянет в комнату..." nointeract
+    Max_04 "sì, l'ho trovato! Così... Ora devono essere messi in modo tale che mia madre li noti se guarda nella stanza..." nointeract
 
 # game/events/max.rpy:975
 translate italian need_money_abb42405:
@@ -779,14 +779,14 @@ translate italian about_credit_a7187d9d:
 # game/events/max.rpy:1052
 translate italian getting_load_f9d89f7f:
 
-    # [Max_00 "Сколько мне сейчас нужно занять?[nointeract]"
-    Max_00 "Quanto devo prendere in prestito ora?[nointeract]"
+    # [Max_00 "Сколько мне сейчас нужно занять?" nointeract
+    Max_00 "Quanto devo prendere in prestito ora?" nointeract
 
 # game/events/max.rpy:1069
 translate italian return_part_loan_4564f05f:
 
-    # [Max_00 "Сколько я верну сейчас?[nointeract]"
-    Max_00 "Quanto restituirò ora?[nointeract]"
+    # [Max_00 "Сколько я верну сейчас?" nointeract
+    Max_00 "Quanto restituirò ora?" nointeract
 
 # game/events/max.rpy:1092
 translate italian bedtime_thoughts_a9917f30:

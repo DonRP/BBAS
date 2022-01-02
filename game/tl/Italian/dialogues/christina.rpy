@@ -99,8 +99,8 @@ translate italian christina_first_talk_c2d8dc26:
 # game/dialogues/christina.rpy:26
 translate italian christina_first_talk_0f071789:
 
-    # [Christine_03 "А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить...[nointeract]"
-    Christine_03 "Forse tutte e tre le volte dieci? Ok, sto uscendo con te, ho ancora qualcosa da consegnare...[nointeract]"
+    # [Christine_03 "А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить..." nointeract
+    Christine_03 "Forse tutte e tre le volte dieci? Ok, sto uscendo con te, ho ancora qualcosa da consegnare..." nointeract
 
 # game/dialogues/christina.rpy:28
 translate italian christina_first_talk_13d9bbd2:

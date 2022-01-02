@@ -15,8 +15,8 @@
 # game/events/other.rpy:11
 translate frenh shoping_034007bc:
 
-    # [Ann_05 "Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
-    Ann_05 "Max ! On va faire du shopping. Ne t'ennuie pas ici sans nous, ok ? Nous sommes de retour dans trois heures...[nointeract]"
+    # [Ann_05 "Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3..." nointeract
+    Ann_05 "Max ! On va faire du shopping. Ne t'ennuie pas ici sans nous, ok ? Nous sommes de retour dans trois heures..." nointeract
 
 # game/events/other.rpy:34
 translate frenh back_shoping_bd2b389d:
@@ -57,8 +57,8 @@ translate frenh back_shoping_838f5698:
 # game/events/other.rpy:41
 translate frenh back_shoping_ff699a77:
 
-    # [Ann_01 "Алиса, мы это уже обсуждали. Я против платьев, где у тебя всё видно. То, что оно длинное, не значит, что твою задницу не видно через разрез до ушей...[nointeract]"
-    Ann_01 "Alice, on en a déjà parlé. Je suis contre les robes où l'on peut tout voir. Ce n'est pas parce que c'est long que l'on ne voit pas son cul à travers la fente jusqu'aux oreilles....[nointeract]"
+    # [Ann_01 "Алиса, мы это уже обсуждали. Я против платьев, где у тебя всё видно. То, что оно длинное, не значит, что твою задницу не видно через разрез до ушей..." nointeract
+    Ann_01 "Alice, on en a déjà parlé. Je suis contre les robes où l'on peut tout voir. Ce n'est pas parce que c'est long que l'on ne voit pas son cul à travers la fente jusqu'aux oreilles...." nointeract
 
 # game/events/other.rpy:46
 translate frenh back_shoping_ec104f51:
@@ -75,8 +75,8 @@ translate frenh back_shoping_e23a2e06:
 # game/events/other.rpy:49
 translate frenh back_shoping_dbb7dd3e:
 
-    # [Lisa_09 "Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые...[nointeract]"
-    Lisa_09 "Non. Maman a dit que celui que je voulais était trop cher et que les autres étaient trop ouverts...[nointeract]"
+    # [Lisa_09 "Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые..." nointeract
+    Lisa_09 "Non. Maman a dit que celui que je voulais était trop cher et que les autres étaient trop ouverts..." nointeract
 
 # game/events/other.rpy:51
 translate frenh back_shoping_4ac118f9:
@@ -117,8 +117,8 @@ translate frenh back_shoping_3081eefb:
 # game/events/other.rpy:60
 translate frenh back_shoping_87e46818:
 
-    # [Ann_01 "Алиса, хватит мечтать. Это всё выглядит так, как будто вы хотите из него выкачать как можно больше денег. Успокойтесь и будьте скромнее...[nointeract]"
-    Ann_01 "Alice, arrête de rêver. On dirait que vous voulez lui soutirer le plus d'argent possible. Calmez-vous et soyez humble...[nointeract]"
+    # [Ann_01 "Алиса, хватит мечтать. Это всё выглядит так, как будто вы хотите из него выкачать как можно больше денег. Успокойтесь и будьте скромнее..." nointeract
+    Ann_01 "Alice, arrête de rêver. On dirait que vous voulez lui soutirer le plus d'argent possible. Calmez-vous et soyez humble..." nointeract
 
 # game/events/other.rpy:62
 translate frenh back_shoping_b5a1abfc:
@@ -261,14 +261,14 @@ translate frenh MeetingEric_ff8aa8d1:
 # game/events/other.rpy:124
 translate frenh MeetingEric_56e6606a:
 
-    # [Ann_05 "Знакомься, это - Эрик. Эрик, это Макс, мой сын...[nointeract]"
-    Ann_05 "Je vous présente Eric. Eric, voici Max, mon fils....[nointeract]"
+    # [Ann_05 "Знакомься, это - Эрик. Эрик, это Макс, мой сын..." nointeract
+    Ann_05 "Je vous présente Eric. Eric, voici Max, mon fils...." nointeract
 
 # game/events/other.rpy:129
 translate frenh MeetingEric_deda115c:
 
-    # [Eric_01 "Мне тоже. Как жизнь, Макс, чем занимаешься?[nointeract]"
-    Eric_01 "Moi aussi. Quoi de neuf, Max, qu'est-ce que tu fais ?[nointeract]"
+    # [Eric_01 "Мне тоже. Как жизнь, Макс, чем занимаешься?" nointeract
+    Eric_01 "Moi aussi. Quoi de neuf, Max, qu'est-ce que tu fais ?" nointeract
 
 # game/events/other.rpy:131
 translate frenh MeetingEric_fae75ac4:
@@ -309,8 +309,8 @@ translate frenh MeetingEric_2db9f65a:
 # game/events/other.rpy:150
 translate frenh MeetingEric_cf7f1be0:
 
-    # [Eric_09 "Очень приятно, Макс. А ты у нас не очень разговорчивый, да?[nointeract]"
-    Eric_09 "C'est un plaisir, Max. Tu n'es pas un grand bavard, n'est-ce pas ?[nointeract]"
+    # [Eric_09 "Очень приятно, Макс. А ты у нас не очень разговорчивый, да?" nointeract
+    Eric_09 "C'est un plaisir, Max. Tu n'es pas un grand bavard, n'est-ce pas ?" nointeract
 
 # game/events/other.rpy:152
 translate frenh MeetingEric_fda4595b:
@@ -351,8 +351,8 @@ translate frenh MeetingEric_58916f16:
 # game/events/other.rpy:171
 translate frenh MeetingEric_e662491e:
 
-    # [Eric_02 "Извини, Макс, что не оправдал твои ожидания. В любом случае, приятно с тобой познакомиться...[nointeract]"
-    Eric_02 "Désolé, Max, cela n'a pas répondu à tes attentes. En tout cas, c'est un plaisir de te rencontrer...[nointeract]"
+    # [Eric_02 "Извини, Макс, что не оправдал твои ожидания. В любом случае, приятно с тобой познакомиться..." nointeract
+    Eric_02 "Désolé, Max, cela n'a pas répondu à tes attentes. En tout cas, c'est un plaisir de te rencontrer..." nointeract
 
 # game/events/other.rpy:176
 translate frenh MeetingEric_5febc517:
@@ -381,26 +381,26 @@ translate frenh MeetingEric_c0dc2202:
 # game/events/other.rpy:188
 translate frenh MeetingEric_68dfdf17:
 
-    # [Eric_09 "И что со мной не так? Вот так с первого взгляда делаешь выводы о человеке? Не очень умно... Но для твоего возраста это нормально...[nointeract]"
-    Eric_09 "Et qu'est-ce qui ne va pas avec moi? Donc, à première rencontre, tu fais des conclusions sur une personne? Pas très intelligent ... mais pour ton âge, c'est normal...[nointeract]"
+    # [Eric_09 "И что со мной не так? Вот так с первого взгляда делаешь выводы о человеке? Не очень умно... Но для твоего возраста это нормально..." nointeract
+    Eric_09 "Et qu'est-ce qui ne va pas avec moi? Donc, à première rencontre, tu fais des conclusions sur une personne? Pas très intelligent ... mais pour ton âge, c'est normal..." nointeract
 
 # game/events/other.rpy:199
 translate frenh MeetingEric_good_53d048fe:
 
-    # [Ann_07 "Ну, я рада, что вы познакомились и, вроде бы, нашли общий язык. Прошу, Эрик, к столу. Мы завтракаем и ужинаем на свежем воздухе, на веранде, пойдём покажу.[nointeract]"
-    Ann_07 "Eh bien, je suis content que tu aies appris et, il semble que nous avons trouvé un langage commun. S'il te plaît, Eric, à la table. Nous avons le petit déjeuner et le dîner à l'air frais, sur la véranda, allons-y.[nointeract]"
+    # [Ann_07 "Ну, я рада, что вы познакомились и, вроде бы, нашли общий язык. Прошу, Эрик, к столу. Мы завтракаем и ужинаем на свежем воздухе, на веранде, пойдём покажу." nointeract
+    Ann_07 "Eh bien, je suis content que tu aies appris et, il semble que nous avons trouvé un langage commun. S'il te plaît, Eric, à la table. Nous avons le petit déjeuner et le dîner à l'air frais, sur la véranda, allons-y." nointeract
 
 # game/events/other.rpy:209
 translate frenh MeetingEric_middle_6e04cd04:
 
-    # [Ann_17 "Макс, мы с тобой потом поговорим. Ну, Эрик, проходи к столу. Мы обычно ужинаем, да и завтракаем на открытом воздухе, тут у нас веранда...[nointeract]"
-    Ann_17 "Max, je vais te parler plus tard. Eh bien, Eric, vas à la table. Nous dînons habituellement et le petit-déjeuner à l'extérieur, nous avons une véranda...[nointeract]"
+    # [Ann_17 "Макс, мы с тобой потом поговорим. Ну, Эрик, проходи к столу. Мы обычно ужинаем, да и завтракаем на открытом воздухе, тут у нас веранда..." nointeract
+    Ann_17 "Max, je vais te parler plus tard. Eh bien, Eric, vas à la table. Nous dînons habituellement et le petit-déjeuner à l'extérieur, nous avons une véranda..." nointeract
 
 # game/events/other.rpy:219
 translate frenh MeetingEric_bad_2c10cf49:
 
-    # [Ann_20 "Макс! Ты почему себя так ведёшь? Это не только тебя не красит, но и меня позорит, что я тебя так воспитала![nointeract]"
-    Ann_20 "Max! Pourquoi te comportes-tu de cette façon? Cela ne te désert pas seulement, mais ça te diminue à mes yeux de toute l'aide que je t'ai apporté![nointeract]"
+    # [Ann_20 "Макс! Ты почему себя так ведёшь? Это не только тебя не красит, но и меня позорит, что я тебя так воспитала!" nointeract
+    Ann_20 "Max! Pourquoi te comportes-tu de cette façon? Cela ne te désert pas seulement, mais ça te diminue à mes yeux de toute l'aide que je t'ai apporté!" nointeract
 
 # game/events/other.rpy:224
 translate frenh MeetingEric_bad_341bbd07:
@@ -435,8 +435,8 @@ translate frenh Kira_arrival_9816e105:
 # game/events/other.rpy:246
 translate frenh Kira_arrival_437eebba:
 
-    # [Kira_01 "Это кто тут у нас? Макс? Я тебя не узнала! Почти настоящий мужчина![nointeract]"
-    Kira_01 "Qui est là? Max ? Je ne t'avais pas reconnu ! Un demi homme, presque un vrai homme![nointeract]"
+    # [Kira_01 "Это кто тут у нас? Макс? Я тебя не узнала! Почти настоящий мужчина!" nointeract
+    Kira_01 "Qui est là? Max ? Je ne t'avais pas reconnu ! Un demi homme, presque un vrai homme!" nointeract
 
 # game/events/other.rpy:250
 translate frenh Kira_arrival_761ba430:
@@ -483,8 +483,8 @@ translate frenh Kira_arrival_94209dce:
 # game/events/other.rpy:261
 translate frenh Kira_arrival_9a868553:
 
-    # [Ann_04 "Что ты, Кира, оставайся хоть навсегда! Я тоже очень рада тебя видеть, сестрёнка![nointeract]"
-    Ann_04 "Aller, Kira, reste pour toujours ! C'est bon de te voir aussi, sœurette![nointeract]"
+    # [Ann_04 "Что ты, Кира, оставайся хоть навсегда! Я тоже очень рада тебя видеть, сестрёнка!" nointeract
+    Ann_04 "Aller, Kira, reste pour toujours ! C'est bon de te voir aussi, sœurette!" nointeract
 
 # game/events/other.rpy:263
 translate frenh Kira_arrival_837dc5ce:
@@ -513,8 +513,8 @@ translate frenh Kira_arrival_239a2d0b:
 # game/events/other.rpy:270
 translate frenh Kira_arrival_4bf7c736:
 
-    # [Kira_05 "Нет, что ты. Я прилетела пару дней назад и остановилась в гостинице. Просто... нужно было разобраться кое с чем. Но с делами покончено и специально ради вас я наряжалась всё утро![nointeract]"
-    Kira_05 "Non, tu ne le fais pas. J'ai pris l'avion il y a quelques jours et je suis resté à l'hôtel. C'est juste que... il y avait des choses à régler. Mais j'en ai fini avec les affaires et je me suis habillée toute la matinée juste pour toi![nointeract]"
+    # [Kira_05 "Нет, что ты. Я прилетела пару дней назад и остановилась в гостинице. Просто... нужно было разобраться кое с чем. Но с делами покончено и специально ради вас я наряжалась всё утро!" nointeract
+    Kira_05 "Non, tu ne le fais pas. J'ai pris l'avion il y a quelques jours et je suis resté à l'hôtel. C'est juste que... il y avait des choses à régler. Mais j'en ai fini avec les affaires et je me suis habillée toute la matinée juste pour toi!" nointeract
 
 # game/events/other.rpy:274
 translate frenh Kira_arrival_2171ddd4:
@@ -579,8 +579,8 @@ translate frenh Kira_arrival_end_yard_e217d4e7:
 # game/events/other.rpy:300
 translate frenh Kira_arrival_end_yard_d90987d8:
 
-    # [Kira_05 "Так, вы все давайте держите новую одежду, переодевайтесь и встречаемся за столом, где вы завтракаете. Посмотрим, всем ли всё подошло. А тебе, Макс, я ничего не купила. Подумала, что ты можешь и в шортах ходить. Но подарок тебе сделаю, позже решим какой...[nointeract]"
-    Kira_05 "Ok, aller tous chercher vos nouveaux vêtements, changez-vous et rendez-vous à la table du petit-déjeuner. Voyons si tout vous va. Et pour toi, Max, je n'ai rien acheté. J'ai pensé que tu pourrais aussi bien porter des shorts. Mais je vais te faire un cadeau, on décidera plus tard quoi...[nointeract]"
+    # [Kira_05 "Так, вы все давайте держите новую одежду, переодевайтесь и встречаемся за столом, где вы завтракаете. Посмотрим, всем ли всё подошло. А тебе, Макс, я ничего не купила. Подумала, что ты можешь и в шортах ходить. Но подарок тебе сделаю, позже решим какой..." nointeract
+    Kira_05 "Ok, aller tous chercher vos nouveaux vêtements, changez-vous et rendez-vous à la table du petit-déjeuner. Voyons si tout vous va. Et pour toi, Max, je n'ai rien acheté. J'ai pensé que tu pourrais aussi bien porter des shorts. Mais je vais te faire un cadeau, on décidera plus tard quoi..." nointeract
 
 # game/events/other.rpy:309
 translate frenh Kira_arrival_end_yard_370fc726:
@@ -591,8 +591,8 @@ translate frenh Kira_arrival_end_yard_370fc726:
 # game/events/other.rpy:314
 translate frenh Kira_arrival_end_yard_e9e6d4fa:
 
-    # [Lisa_02 "Ну как вам? Такой классный топ и юбочка и мой любимый цвет, представляете![nointeract]"
-    Lisa_02 "Qu'en pensez-vous ? Un haut et une jupe si cool et ma couleur préférée, imaginez![nointeract]"
+    # [Lisa_02 "Ну как вам? Такой классный топ и юбочка и мой любимый цвет, представляете!" nointeract
+    Lisa_02 "Qu'en pensez-vous ? Un haut et une jupe si cool et ma couleur préférée, imaginez!" nointeract
 
 # game/events/other.rpy:316
 translate frenh Kira_arrival_end_yard_f609e252:
@@ -627,8 +627,8 @@ translate frenh Kira_arrival_end_yard_f057f5be:
 # game/events/other.rpy:327
 translate frenh Kira_arrival_end_yard_d2a8a875:
 
-    # [Ann_02 "Я не поняла. А трусы то на тебе хоть есть? Ты же не планируешь в таком виде ходить дома, Алиса?[nointeract]"
-    Ann_02 "Je n'ai pas compris. Est-ce que tu portes au moins des sous-vêtements ? Tu n'as pas l'intention de te promener dans la maison en ressemblant à ça, Alice?[nointeract]"
+    # [Ann_02 "Я не поняла. А трусы то на тебе хоть есть? Ты же не планируешь в таком виде ходить дома, Алиса?" nointeract
+    Ann_02 "Je n'ai pas compris. Est-ce que tu portes au moins des sous-vêtements ? Tu n'as pas l'intention de te promener dans la maison en ressemblant à ça, Alice?" nointeract
 
 # game/events/other.rpy:329
 translate frenh Kira_arrival_end_yard_c8223c08:
@@ -675,14 +675,14 @@ translate frenh Kira_arrival_end_yard_82a7c555:
 # game/events/other.rpy:341
 translate frenh Kira_arrival_end_yard_11f0d126:
 
-    # [Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?[nointeract]"
-    Ann_04 "Eh bien, maintenant c'est mon tour. Qu'en penses-tu? Pas trop flagrant?[nointeract]"
+    # [Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?" nointeract
+    Ann_04 "Eh bien, maintenant c'est mon tour. Qu'en penses-tu? Pas trop flagrant?" nointeract
 
 # game/events/other.rpy:348
 translate frenh Kira_arrival_end_yard_27e62e75:
 
-    # [Ann_07 "Мне кажется, шортики слишком короткие... Я в них еле влезла, если честно. Надо худеть...[nointeract]"
-    Ann_07 "Je pense que les shorts sont trop courts... Je pouvais à peine rentrer dedans, pour être honnête. Tu devrais perdre du poids...[nointeract]"
+    # [Ann_07 "Мне кажется, шортики слишком короткие... Я в них еле влезла, если честно. Надо худеть..." nointeract
+    Ann_07 "Je pense que les shorts sont trop courts... Je pouvais à peine rentrer dedans, pour être honnête. Tu devrais perdre du poids..." nointeract
 
 # game/events/other.rpy:354
 translate frenh Kira_arrival_end_yard_a4137f9f:
@@ -699,8 +699,8 @@ translate frenh Kira_arrival_end_yard_bfefabb8:
 # game/events/other.rpy:359
 translate frenh Kira_arrival_end_yard_95b07e68:
 
-    # [Kira_05 "Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное.[nointeract]"
-    Kira_05 "Comment tu me trouves ? C'est bon ? Et Anna, pas un mot de plus. Tout te semble trop ouvert ou révélateur.[nointeract]"
+    # [Kira_05 "Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное." nointeract
+    Kira_05 "Comment tu me trouves ? C'est bon ? Et Anna, pas un mot de plus. Tout te semble trop ouvert ou révélateur." nointeract
 
 # game/events/other.rpy:366
 translate frenh Kira_arrival_end_yard_2417a0cf:

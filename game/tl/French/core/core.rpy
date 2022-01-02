@@ -27,8 +27,8 @@ translate frenh night_of_fun_cae91685:
 # game/core/core.rpy:678
 translate frenh cam_after_waiting_6058d5d4:
 
-    # [Max_09 "Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
-    Max_09 "Je ne pense pas que ce soit une bonne idée de visionner les caméras maintenant. Je ne veux pas que Lisa remarque quoi que ce soit... Je devrais peut-être aller dans la véranda. Il ne devrait plus y avoir personne maintenant....[nointeract]"
+    # [Max_09 "Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+    Max_09 "Je ne pense pas que ce soit une bonne idée de visionner les caméras maintenant. Je ne veux pas que Lisa remarque quoi que ce soit... Je devrais peut-être aller dans la véranda. Il ne devrait plus y avoir personne maintenant...." nointeract
 
 # game/core/core.rpy:685
 translate frenh cam_after_waiting_c283f316:
@@ -39,14 +39,14 @@ translate frenh cam_after_waiting_c283f316:
 # game/core/core.rpy:690
 translate frenh cam_after_waiting_38f46f18:
 
-    # [Max_09 "Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...[nointeract]"
-    Max_09 "Mieux vaut visionner les caméras ailleurs! Il ne faudrait pas que Lisa se doute de quelque chose...[nointeract]"
+    # [Max_09 "Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила..." nointeract
+    Max_09 "Mieux vaut visionner les caméras ailleurs! Il ne faudrait pas que Lisa se doute de quelque chose..." nointeract
 
 # game/core/core.rpy:702
 translate frenh cam_after_waiting_d4f49617:
 
-    # [Max_09 "Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
-    Max_09 "Peut-être ne devrais-je pas visionner les caméras maintenant. Lisa pourrait se réveiller et remarquer ce que je fais... Peut-être devrais-je aller à la véranda? Il ne devrait y avoir personne là-bas maintenant...[nointeract]"
+    # [Max_09 "Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+    Max_09 "Peut-être ne devrais-je pas visionner les caméras maintenant. Lisa pourrait se réveiller et remarquer ce que je fais... Peut-être devrais-je aller à la véranda? Il ne devrait y avoir personne là-bas maintenant..." nointeract
 
 # game/core/core.rpy:709
 translate frenh cam_after_waiting_c283f316_1:
@@ -57,8 +57,8 @@ translate frenh cam_after_waiting_c283f316_1:
 # game/core/core.rpy:714
 translate frenh cam_after_waiting_eea92f18:
 
-    # [Max_09 "Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...[nointeract]"
-    Max_09 "Mieux vaut visionner les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais...[nointeract]"
+    # [Max_09 "Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю..." nointeract
+    Max_09 "Mieux vaut visionner les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais..." nointeract
 
 # game/core/core.rpy:766
 translate frenh cam_after_waiting_27f05bf1:

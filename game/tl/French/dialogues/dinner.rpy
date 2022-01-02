@@ -15,26 +15,26 @@
 # game/dialogues/dinner.rpy:61
 translate frenh typical_dinner_abe1c298:
 
-    # [Ann_01 "Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
-    Ann_01 "Bon appétit, tout le monde. Je suis contente que tu aies acheté les provisions sur ton propre compte, Max. Et je peux voir que la piscine est propre. Bravo d'avoir pris cette responsabilité, nous l'apprécions tous. Maintenant, allons, dîner....[nointeract]"
+    # [Ann_01 "Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать..." nointeract
+    Ann_01 "Bon appétit, tout le monde. Je suis contente que tu aies acheté les provisions sur ton propre compte, Max. Et je peux voir que la piscine est propre. Bravo d'avoir pris cette responsabilité, nous l'apprécions tous. Maintenant, allons, dîner...." nointeract
 
 # game/dialogues/dinner.rpy:66
 translate frenh typical_dinner_e043c878:
 
-    # [Ann_01 "Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. Хоть ответственности и немного, но она важна. А теперь давайте ужинать...[nointeract]"
-    Ann_01 "Bon appétit, tout le monde. Je suis content que tu aies acheté les provisions sur ton propre compte, Max. Même si la responsabilité est faible, elle est importante. Maintenant, allons, dîner....[nointeract]"
+    # [Ann_01 "Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. Хоть ответственности и немного, но она важна. А теперь давайте ужинать..." nointeract
+    Ann_01 "Bon appétit, tout le monde. Je suis content que tu aies acheté les provisions sur ton propre compte, Max. Même si la responsabilité est faible, elle est importante. Maintenant, allons, dîner...." nointeract
 
 # game/dialogues/dinner.rpy:71
 translate frenh typical_dinner_6b0248d1:
 
-    # [Ann_01 "Всем приятного аппетита. Я заметила с балкона, что бассейн почищен. Спасибо тебе, Макс, что заботишься о порядке, это меня радует. А теперь давайте ужинать...[nointeract]"
-    Ann_01 "Bon appétit, tout le monde. J'ai remarqué depuis le balcon que la piscine avait été nettoyée. Merci, Max, de te soucier de l'ordre, ça me rend heureuse. Maintenant, allons, dîner....[nointeract]"
+    # [Ann_01 "Всем приятного аппетита. Я заметила с балкона, что бассейн почищен. Спасибо тебе, Макс, что заботишься о порядке, это меня радует. А теперь давайте ужинать..." nointeract
+    Ann_01 "Bon appétit, tout le monde. J'ai remarqué depuis le balcon que la piscine avait été nettoyée. Merci, Max, de te soucier de l'ordre, ça me rend heureuse. Maintenant, allons, dîner...." nointeract
 
 # game/dialogues/dinner.rpy:73
 translate frenh typical_dinner_ba465243:
 
-    # [Ann_00 "Всем приятного аппетита. Сегодня что-то устала. Так что, давайте поужинаем в тишине...[nointeract]"
-    Ann_00 "Bon appétit, tout le monde. Je suis un peu fatiguée aujourd'hui. Alors, faisons un dîner tranquille...[nointeract]"
+    # [Ann_00 "Всем приятного аппетита. Сегодня что-то устала. Так что, давайте поужинаем в тишине..." nointeract
+    Ann_00 "Bon appétit, tout le monde. Je suis un peu fatiguée aujourd'hui. Alors, faisons un dîner tranquille..." nointeract
 
 # game/dialogues/dinner.rpy:76
 translate frenh typical_dinner_1211a2f4:
@@ -75,20 +75,20 @@ translate frenh dinner_first_ed236883:
 # game/dialogues/dinner.rpy:89
 translate frenh dinner_first_54cbe6e6:
 
-    # [Ann_00 "Вы знаете, довольно неплохо. Такой офис! Такие все важные. Но я смогу там работать и даже планирую подняться по карьерной лестнице...[nointeract]"
-    Ann_00 "Tu sais, plutôt bien. Quel bureau ! Tout le monde est si important. Mais je peux y travailler et j'envisage même de gravir les échelons de la hiérarchie....[nointeract]"
+    # [Ann_00 "Вы знаете, довольно неплохо. Такой офис! Такие все важные. Но я смогу там работать и даже планирую подняться по карьерной лестнице..." nointeract
+    Ann_00 "Tu sais, plutôt bien. Quel bureau ! Tout le monde est si important. Mais je peux y travailler et j'envisage même de gravir les échelons de la hiérarchie...." nointeract
 
 # game/dialogues/dinner.rpy:92
 translate frenh dinner_first_7344f574:
 
-    # [Ann_01 "Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом.[nointeract]"
-    Ann_01 "Y a-t-il un problème avec ta mémoire, Max? Peut-être demander à ton médecin de te prescrire des vitamines? Je travaille dans le département du développement, je fais du marketing.[nointeract]"
+    # [Ann_01 "Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом." nointeract
+    Ann_01 "Y a-t-il un problème avec ta mémoire, Max? Peut-être demander à ton médecin de te prescrire des vitamines? Je travaille dans le département du développement, je fais du marketing." nointeract
 
 # game/dialogues/dinner.rpy:99
 translate frenh dinner_first_ccf193ad:
 
-    # [Ann_14 "Вот с этим беда. На общественном транспорте добираться долго. Но думаю, что эта проблема решится...[nointeract]"
-    Ann_14 "C'est là le problème. C'est un long voyage en transport public. Mais je pense que ce problème sera résolu...[nointeract]"
+    # [Ann_14 "Вот с этим беда. На общественном транспорте добираться долго. Но думаю, что эта проблема решится..." nointeract
+    Ann_14 "C'est là le problème. C'est un long voyage en transport public. Mais je pense que ce problème sera résolu..." nointeract
 
 # game/dialogues/dinner.rpy:106
 translate frenh dinner_first_great_f75fe005:
@@ -105,26 +105,26 @@ translate frenh dinner_first_great_0ed07e47:
 # game/dialogues/dinner.rpy:111
 translate frenh dinner_first_boss_9e062c0f:
 
-    # [Ann_14 "Ну мой непосредственный начальник - лысый толстый мужик, которого все ненавидят. Думаю, его скоро сменят. А вот босс моего начальника...[nointeract]"
-    Ann_14 "Mon supérieur immédiat est un gros homme chauve que tout le monde déteste. Je pense qu'il sera bientôt remplacé. Mais le patron de mon patron...[nointeract]"
+    # [Ann_14 "Ну мой непосредственный начальник - лысый толстый мужик, которого все ненавидят. Думаю, его скоро сменят. А вот босс моего начальника..." nointeract
+    Ann_14 "Mon supérieur immédiat est un gros homme chauve que tout le monde déteste. Je pense qu'il sera bientôt remplacé. Mais le patron de mon patron..." nointeract
 
 # game/dialogues/dinner.rpy:117
 translate frenh dinner_first_boss_50630656:
 
-    # [Ann_01 "Вот он - мужчина что надо! Сразу меня заметил, помог разобраться в делах. И даже до дома подвёз! Может быть, он мне даже личного водителя выделит![nointeract]"
-    Ann_01 "C'est l'homme! Il m'a tout de suite remarqué et m'a aidé à régler les choses. Il m'a même ramené chez moi! Peut-être même qu'il me donnera un chauffeur personnel![nointeract]"
+    # [Ann_01 "Вот он - мужчина что надо! Сразу меня заметил, помог разобраться в делах. И даже до дома подвёз! Может быть, он мне даже личного водителя выделит!" nointeract
+    Ann_01 "C'est l'homme! Il m'a tout de suite remarqué et m'a aidé à régler les choses. Il m'a même ramené chez moi! Peut-être même qu'il me donnera un chauffeur personnel!" nointeract
 
 # game/dialogues/dinner.rpy:120
 translate frenh dinner_first_boss_2c2bc8d5:
 
-    # [Ann_00 "Почему сразу влюбился? Может быть, он джентльмен, который помогает новенькой на новом месте работы...[nointeract]"
-    Ann_00 "Pourquoi parler d'amour tout de suite? Peut-être que c'est un gentleman qui aide la nouvelle fille de son nouveau travail...[nointeract]"
+    # [Ann_00 "Почему сразу влюбился? Может быть, он джентльмен, который помогает новенькой на новом месте работы..." nointeract
+    Ann_00 "Pourquoi parler d'amour tout de suite? Peut-être que c'est un gentleman qui aide la nouvelle fille de son nouveau travail..." nointeract
 
 # game/dialogues/dinner.rpy:129
 translate frenh dinner_first_boss_4a925465:
 
-    # [Lisa_02 "Макс! Мама давно ни с кем не общалась и если нашла себе босса начальника, то какой от этого может быть вред?[nointeract]"
-    Lisa_02 "Max! Maman n'a été en contact avec personne depuis longtemps et si elle s'est trouvé un patron, quel mal cela peut-il faire ?[nointeract]"
+    # [Lisa_02 "Макс! Мама давно ни с кем не общалась и если нашла себе босса начальника, то какой от этого может быть вред?" nointeract
+    Lisa_02 "Max! Maman n'a été en contact avec personne depuis longtemps et si elle s'est trouvé un patron, quel mal cela peut-il faire ?" nointeract
 
 # game/dialogues/dinner.rpy:131
 translate frenh dinner_first_boss_8583dda0:
@@ -183,14 +183,14 @@ translate frenh dinner_first_yeah_09a444ef:
 # game/dialogues/dinner.rpy:148
 translate frenh dinner_first_yeah_21c00c7f:
 
-    # [Lisa_02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам![nointeract]"
-    Lisa_02 "Oui, je l'ai fait... avec un seul petit ami. Cool super, c'est tout bon, maman ![nointeract]"
+    # [Lisa_02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!" nointeract
+    Lisa_02 "Oui, je l'ai fait... avec un seul petit ami. Cool super, c'est tout bon, maman !" nointeract
 
 # game/dialogues/dinner.rpy:152
 translate frenh dinner_first_yeah_4eb66e9d:
 
-    # [Lisa_12 "Макс! Я же тебе по секрету рассказала...[nointeract]"
-    Lisa_12 "Max ! Je te l'ai dit en toute confiance...[nointeract]"
+    # [Lisa_12 "Макс! Я же тебе по секрету рассказала..." nointeract
+    Lisa_12 "Max ! Je te l'ai dit en toute confiance..." nointeract
 
 # game/dialogues/dinner.rpy:157
 translate frenh dinner_first_yeah_6649cfb2:
@@ -267,8 +267,8 @@ translate frenh dinner_first_secret_05ec93c4:
 # game/dialogues/dinner.rpy:178
 translate frenh dinner_first_secret_6d6390f1:
 
-    # [Ann_04 "Ладно, разбирайтесь сами. А я собираюсь принять ванну. Так что, не беспокоить![nointeract]"
-    Ann_04 "Très bien, débrouillez-vous tout seuls. Et je vais prendre un bain. Alors, ne vous donnez pas la peine ![nointeract]"
+    # [Ann_04 "Ладно, разбирайтесь сами. А я собираюсь принять ванну. Так что, не беспокоить!" nointeract
+    Ann_04 "Très bien, débrouillez-vous tout seuls. Et je vais prendre un bain. Alors, ne vous donnez pas la peine !" nointeract
 
 # game/dialogues/dinner.rpy:187
 translate frenh dinner_2_289e7bc7:
@@ -285,8 +285,8 @@ translate frenh dinner_2_4fe6c45d:
 # game/dialogues/dinner.rpy:190
 translate frenh dinner_2_a1846146:
 
-    # [Alice_04 "Ещё бы. Ты же дома всё время сидишь...[nointeract]"
-    Alice_04 "Tu parles. Tu es tout le temps à la maison...[nointeract]"
+    # [Alice_04 "Ещё бы. Ты же дома всё время сидишь..." nointeract
+    Alice_04 "Tu parles. Tu es tout le temps à la maison..." nointeract
 
 # game/dialogues/dinner.rpy:195
 translate frenh dinner_2_bcecad73:
@@ -321,14 +321,14 @@ translate frenh dinner_2_dfe71170:
 # game/dialogues/dinner.rpy:201
 translate frenh dinner_2_925d99c6:
 
-    # [Ann_01 "Бьюти-блог... Эх, Алиса, лучше бы делом занялась! Тебе поступать пора, а ты воздух пинаешь. Сидела бы и готовилась![nointeract]"
-    Ann_01 "Blog beauté... Oh, Alice, tu ferais mieux de t'y mettre ! Il est temps pour toi de t'inscrire et tu donnes des coups de pied dans le vide. Tu t'asseyais et tu te préparais ![nointeract]"
+    # [Ann_01 "Бьюти-блог... Эх, Алиса, лучше бы делом занялась! Тебе поступать пора, а ты воздух пинаешь. Сидела бы и готовилась!" nointeract
+    Ann_01 "Blog beauté... Oh, Alice, tu ferais mieux de t'y mettre ! Il est temps pour toi de t'inscrire et tu donnes des coups de pied dans le vide. Tu t'asseyais et tu te préparais !" nointeract
 
 # game/dialogues/dinner.rpy:204
 translate frenh dinner_2_da5e0a4f:
 
-    # [Ann_14 "Ну, я не знаю. Денег лишних у нас нет, но одарённые дети точно могут учиться бесплатно. Им ещё и стипендию доплачивают...[nointeract]"
-    Ann_14 "Eh bien, je ne sais pas. Nous n'avons pas d'argent supplémentaire, mais les enfants doués peuvent certainement étudier gratuitement. Ils reçoivent également une bourse...[nointeract]"
+    # [Ann_14 "Ну, я не знаю. Денег лишних у нас нет, но одарённые дети точно могут учиться бесплатно. Им ещё и стипендию доплачивают..." nointeract
+    Ann_14 "Eh bien, je ne sais pas. Nous n'avons pas d'argent supplémentaire, mais les enfants doués peuvent certainement étudier gratuitement. Ils reçoivent également une bourse..." nointeract
 
 # game/dialogues/dinner.rpy:212
 translate frenh dinner_2_0720556d:
@@ -339,38 +339,38 @@ translate frenh dinner_2_0720556d:
 # game/dialogues/dinner.rpy:214
 translate frenh dinner_2_7c524f0c:
 
-    # [Ann_00 "Ну ты знаешь, иногда можно поступить и без денег, было бы желание. Одарённым детям ещё и стипендию доплачивают...[nointeract]"
-    Ann_00 "Tu sais, parfois tu peux entrer sans argent, si tu le veux. Les enfants doués reçoivent également une bourse...[nointeract]"
+    # [Ann_00 "Ну ты знаешь, иногда можно поступить и без денег, было бы желание. Одарённым детям ещё и стипендию доплачивают..." nointeract
+    Ann_00 "Tu sais, parfois tu peux entrer sans argent, si tu le veux. Les enfants doués reçoivent également une bourse..." nointeract
 
 # game/dialogues/dinner.rpy:223
 translate frenh dinner_2_who_89ba014f:
 
-    # [Alice_01 "Да уж одарённее некоторых... У меня хотя бы блог есть. Кстати, на блогах можно заработать больше, чем на работе после нескольких лет учёбы![nointeract]"
-    Alice_01 "Plus doué que certains... Au moins, j'ai un blog. D'ailleurs, tu peux gagner plus d'argent avec les blogs qu'avec ton travail après quelques années d'études ![nointeract]"
+    # [Alice_01 "Да уж одарённее некоторых... У меня хотя бы блог есть. Кстати, на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
+    Alice_01 "Plus doué que certains... Au moins, j'ai un blog. D'ailleurs, tu peux gagner plus d'argent avec les blogs qu'avec ton travail après quelques années d'études !" nointeract
 
 # game/dialogues/dinner.rpy:229
 translate frenh dinner_2_star_4fa372d6:
 
-    # [Alice_04 "Да, звезда. И я бы не отказалась от лишних денег. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы![nointeract]"
-    Alice_04 "Oui, l'étoile. Et l'argent supplémentaire ne me dérangerait pas. Mais sérieusement, tu peux gagner plus d'argent en blogguant que dans un emploi après quelques années d'études ![nointeract]"
+    # [Alice_04 "Да, звезда. И я бы не отказалась от лишних денег. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
+    Alice_04 "Oui, l'étoile. Et l'argent supplémentaire ne me dérangerait pas. Mais sérieusement, tu peux gagner plus d'argent en blogguant que dans un emploi après quelques années d'études !" nointeract
 
 # game/dialogues/dinner.rpy:235
 translate frenh dinner_2_wtf_5ae1e087:
 
-    # [Alice_01 "Очень смешно, Макс. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы![nointeract]"
-    Alice_01 "Très drôle, Max. Mais sérieusement, tu peux gagner plus d'argent en blogguant que dans un emploi après quelques années d'études ![nointeract]"
+    # [Alice_01 "Очень смешно, Макс. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
+    Alice_01 "Très drôle, Max. Mais sérieusement, tu peux gagner plus d'argent en blogguant que dans un emploi après quelques années d'études !" nointeract
 
 # game/dialogues/dinner.rpy:242
 translate frenh dinner_2_poor_afe4f7a3:
 
-    # [Alice_13 "Для тупых повторяю - у меня всё украли! Так что меня не трогать, я думаю и строю план![nointeract]"
-    Alice_13 "Pour les idiots, je répète - tout m'a été volé ! Alors ne me touches pas, j'y pense et je fais un plan ![nointeract]"
+    # [Alice_13 "Для тупых повторяю - у меня всё украли! Так что меня не трогать, я думаю и строю план!" nointeract
+    Alice_13 "Pour les idiots, je répète - tout m'a été volé ! Alors ne me touches pas, j'y pense et je fais un plan !" nointeract
 
 # game/dialogues/dinner.rpy:253
 translate frenh dinner_2_plan_2c02a509:
 
-    # [Alice_13 "Когда придумаю, тогда и поделюсь. Пока я только строю план.[nointeract]"
-    Alice_13 "Quand j'aurais trouvé, je le ferais savoir. Pour l'instant, je fais juste un plan.[nointeract]"
+    # [Alice_13 "Когда придумаю, тогда и поделюсь. Пока я только строю план." nointeract
+    Alice_13 "Quand j'aurais trouvé, je le ferais savoir. Pour l'instant, je fais juste un plan." nointeract
 
 # game/dialogues/dinner.rpy:262
 translate frenh dinner_2_blog2_3f0ae547:
@@ -399,14 +399,14 @@ translate frenh dinner_2_blog2_4a32ec09:
 # game/dialogues/dinner.rpy:269
 translate frenh dinner_2_blog2_f3ceaf63:
 
-    # [Alice_07 "Зачем? Чтобы ты в очередной раз посмеялся? И, вообще, если ты такой умный, то вот ты и придумай что-нибудь. Я даже спасибо скажу. Честно говоря, я в депрессии...[nointeract]"
-    Alice_07 "Pourquoi ? Pour te moquer de moi à nouveau ? Et de toute façon, si tu es si intelligent, tu penses à quelque chose. Je vais même dire merci. Honnêtement, je suis déprimée...[nointeract]"
+    # [Alice_07 "Зачем? Чтобы ты в очередной раз посмеялся? И, вообще, если ты такой умный, то вот ты и придумай что-нибудь. Я даже спасибо скажу. Честно говоря, я в депрессии..." nointeract
+    Alice_07 "Pourquoi ? Pour te moquer de moi à nouveau ? Et de toute façon, si tu es si intelligent, tu penses à quelque chose. Je vais même dire merci. Honnêtement, je suis déprimée..." nointeract
 
 # game/dialogues/dinner.rpy:276
 translate frenh dinner_2_help_b7725454:
 
-    # [Alice_07 "Ну если честно, то да. Я думаю, что у меня даже депрессия развивается. Если появятся какие-то мысли, буду рада их услышать. Даже от тебя. А если что-то дельное предложишь, то и спасибо скажу...[nointeract]"
-    Alice_07 "Eh bien, pour être juste, oui. Je pense que je suis même en train de faire une dépression. Si tu as des idées, j'aimerais les entendre. Même de ta part. Et si tu suggères quelque chose d'utile, je t'en remercierais...[nointeract]"
+    # [Alice_07 "Ну если честно, то да. Я думаю, что у меня даже депрессия развивается. Если появятся какие-то мысли, буду рада их услышать. Даже от тебя. А если что-то дельное предложишь, то и спасибо скажу..." nointeract
+    Alice_07 "Eh bien, pour être juste, oui. Je pense que je suis même en train de faire une dépression. Si tu as des idées, j'aimerais les entendre. Même de ta part. Et si tu suggères quelque chose d'utile, je t'en remercierais..." nointeract
 
 # game/dialogues/dinner.rpy:284
 translate frenh dinner_2_next_c6a3dc98:
@@ -429,8 +429,8 @@ translate frenh dinner_2_next_2dcffe8e:
 # game/dialogues/dinner.rpy:288
 translate frenh dinner_2_next_fea6ae5e:
 
-    # [Alice_14 "Что?! Здесь есть пауки?! Мама... я поехала обратно...[nointeract]"
-    Alice_14 "Quoi?! Il y a des araignées ici?! Mère... je suis de retour...[nointeract]"
+    # [Alice_14 "Что?! Здесь есть пауки?! Мама... я поехала обратно..." nointeract
+    Alice_14 "Quoi?! Il y a des araignées ici?! Mère... je suis de retour..." nointeract
 
 # game/dialogues/dinner.rpy:293
 translate frenh dinner_2_next_a3736476:
@@ -495,8 +495,8 @@ translate frenh dinner_3_889c8278:
 # game/dialogues/dinner.rpy:313
 translate frenh dinner_3_1f4a6464:
 
-    # [Ann_05 "Ой, у меня всё замечательно. Сегодня Эрик намекнул, что хочет меня перевести из моего отдела в свои личные ассистенты, представляете?[nointeract]"
-    Ann_05 "Oh, je vais très bien. Aujourd'hui, Eric a laissé entendre qu'il voulait me transférer de mon département et être son assistant personnel, vous imaginez ?[nointeract]"
+    # [Ann_05 "Ой, у меня всё замечательно. Сегодня Эрик намекнул, что хочет меня перевести из моего отдела в свои личные ассистенты, представляете?" nointeract
+    Ann_05 "Oh, je vais très bien. Aujourd'hui, Eric a laissé entendre qu'il voulait me transférer de mon département et être son assistant personnel, vous imaginez ?" nointeract
 
 # game/dialogues/dinner.rpy:315
 translate frenh dinner_3_42737a5d:
@@ -525,8 +525,8 @@ translate frenh dinner_3_e0f5fba8:
 # game/dialogues/dinner.rpy:322
 translate frenh dinner_3_e6123907:
 
-    # [Ann_14 "Ну, я пока точно не знаю. Видимо, помогать с бумагами, может быть что-то ещё. Как дело дойдёт до повышения, я ознакомлюсь с должностными обязанностями, конечно...[nointeract]"
-    Ann_14 "Eh bien, je n'en suis pas encore sûr. Apparemment pour aider avec la paperasse, peut-être autre chose. Pour ce qui est de la promotion, je me familiariserais avec la description du poste, bien sûr [nointeract]"
+    # [Ann_14 "Ну, я пока точно не знаю. Видимо, помогать с бумагами, может быть что-то ещё. Как дело дойдёт до повышения, я ознакомлюсь с должностными обязанностями, конечно..." nointeract
+    Ann_14 "Eh bien, je n'en suis pas encore sûr. Apparemment pour aider avec la paperasse, peut-être autre chose. Pour ce qui est de la promotion, je me familiariserais avec la description du poste, bien sûr " nointeract
 
 # game/dialogues/dinner.rpy:327
 translate frenh dinner_3_f1444a70:
@@ -549,8 +549,8 @@ translate frenh dinner_3_20792312:
 # game/dialogues/dinner.rpy:331
 translate frenh dinner_3_f3630b15:
 
-    # [Lisa_00 "Он не мой. А вообще, всё хорошо. Спасибо, что спросили, но рассказывать нечего...[nointeract]"
-    Lisa_00 "Ce n'est pas le mien. C'est tout bon. Merci de demander, mais il n'y a rien à dire...[nointeract]"
+    # [Lisa_00 "Он не мой. А вообще, всё хорошо. Спасибо, что спросили, но рассказывать нечего..." nointeract
+    Lisa_00 "Ce n'est pas le mien. C'est tout bon. Merci de demander, mais il n'y a rien à dire..." nointeract
 
 # game/dialogues/dinner.rpy:334
 translate frenh dinner_3_099d7225:
@@ -585,8 +585,8 @@ translate frenh dinner_3_80ab1f2a:
 # game/dialogues/dinner.rpy:342
 translate frenh dinner_3_04366ce1:
 
-    # [Alice_00 "Хорошо, мам. Но я на тебя надеюсь. Я просто сойду с ума, если никуда не буду выбираться, даже из такого... дома. Мне нужны друзья и подруги, а они любят клубы...[nointeract]"
-    Alice_00 "Ok, maman. Mais je compte sur toi. Je vais devenir folle si je n'arrive à rien, même pas à sortir de quelque chose comme ça... à la maison. J'ai besoin d'amies et de petits amis et ils aiment les clubs...[nointeract]"
+    # [Alice_00 "Хорошо, мам. Но я на тебя надеюсь. Я просто сойду с ума, если никуда не буду выбираться, даже из такого... дома. Мне нужны друзья и подруги, а они любят клубы..." nointeract
+    Alice_00 "Ok, maman. Mais je compte sur toi. Je vais devenir folle si je n'arrive à rien, même pas à sortir de quelque chose comme ça... à la maison. J'ai besoin d'amies et de petits amis et ils aiment les clubs..." nointeract
 
 # game/dialogues/dinner.rpy:347
 translate frenh dinner_3_0088d1fd:
@@ -645,8 +645,8 @@ translate frenh dinner_4_f7058ec9:
 # game/dialogues/dinner.rpy:366
 translate frenh dinner_4_f390e9d0:
 
-    # [Ann_05 "Спасибо, Эрик. Ты такой заботливый и внимательный...[nointeract]"
-    Ann_05 "Merci, Eric. Tu es si attentionné et prévenant...[nointeract]"
+    # [Ann_05 "Спасибо, Эрик. Ты такой заботливый и внимательный..." nointeract
+    Ann_05 "Merci, Eric. Tu es si attentionné et prévenant..." nointeract
 
 # game/dialogues/dinner.rpy:370
 translate frenh dinner_4_ba2cf0bd:
@@ -663,8 +663,8 @@ translate frenh dinner_4_af37ddf8:
 # game/dialogues/dinner.rpy:373
 translate frenh dinner_4_2572e6bf:
 
-    # [Lisa_09 "Тем не менее, купальник мне всё ещё нужен. В закрытом я не могу загорать, а очень хочется...[nointeract]"
-    Lisa_09 "Néanmoins, j'ai toujours besoin d'un maillot de bain. Je ne peux pas prendre le soleil à l'intérieur, et j'en ai vraiment envie...[nointeract]"
+    # [Lisa_09 "Тем не менее, купальник мне всё ещё нужен. В закрытом я не могу загорать, а очень хочется..." nointeract
+    Lisa_09 "Néanmoins, j'ai toujours besoin d'un maillot de bain. Je ne peux pas prendre le soleil à l'intérieur, et j'en ai vraiment envie..." nointeract
 
 # game/dialogues/dinner.rpy:377
 translate frenh dinner_4_d0a6b048:
@@ -681,8 +681,8 @@ translate frenh dinner_4_ff02b2d1:
 # game/dialogues/dinner.rpy:380
 translate frenh dinner_4_f6e8b059:
 
-    # [Eric_05 "Лиза, я тебе обещаю, что если вместе поедем на шоппинг через неделю, я тебе куплю отличный купальник. Конечно, не дизайнерский, но красивый и такой, в котором сможешь загорать! Это будет мой подарок тебе.[nointeract]"
-    Eric_05 "Lisa, je te promets que si on va faire du shopping ensemble dans une semaine, je t'achèterais un super maillot de bain. Certainement pas design, mais beau et dans lequel on peut prendre le soleil ! Ce sera mon cadeau pour toi.[nointeract]"
+    # [Eric_05 "Лиза, я тебе обещаю, что если вместе поедем на шоппинг через неделю, я тебе куплю отличный купальник. Конечно, не дизайнерский, но красивый и такой, в котором сможешь загорать! Это будет мой подарок тебе." nointeract
+    Eric_05 "Lisa, je te promets que si on va faire du shopping ensemble dans une semaine, je t'achèterais un super maillot de bain. Certainement pas design, mais beau et dans lequel on peut prendre le soleil ! Ce sera mon cadeau pour toi." nointeract
 
 # game/dialogues/dinner.rpy:384
 translate frenh dinner_4_74949cf6:
@@ -693,8 +693,8 @@ translate frenh dinner_4_74949cf6:
 # game/dialogues/dinner.rpy:386
 translate frenh dinner_4_c6597fba:
 
-    # [Alice_02 "Если что, то мне тоже ничего не купили...[nointeract]"
-    Alice_02 "Si quoi que ce soit, je n'ai rien obtenu non plus...[nointeract]"
+    # [Alice_02 "Если что, то мне тоже ничего не купили..." nointeract
+    Alice_02 "Si quoi que ce soit, je n'ai rien obtenu non plus..." nointeract
 
 # game/dialogues/dinner.rpy:391
 translate frenh dinner_4_dab367c7:
@@ -705,8 +705,8 @@ translate frenh dinner_4_dab367c7:
 # game/dialogues/dinner.rpy:393
 translate frenh dinner_4_4ac6b15c:
 
-    # [Ann_01 "По заднице она хотела! Платье ей нужно, чтобы по ночным клубам шастать, задом вилять. Я её хорошо знаю. Поэтому, я и была против...[nointeract]"
-    Ann_01 "Elle voulait un coup de pied au cul ! Elle a besoin d'une robe pour aller dans les boîtes de nuit et remuer son cul. Je la connais bien. C'est pourquoi j'étais contre...[nointeract]"
+    # [Ann_01 "По заднице она хотела! Платье ей нужно, чтобы по ночным клубам шастать, задом вилять. Я её хорошо знаю. Поэтому, я и была против..." nointeract
+    Ann_01 "Elle voulait un coup de pied au cul ! Elle a besoin d'une robe pour aller dans les boîtes de nuit et remuer son cul. Je la connais bien. C'est pourquoi j'étais contre..." nointeract
 
 # game/dialogues/dinner.rpy:399
 translate frenh dinner_4_129d1f43:
@@ -717,8 +717,8 @@ translate frenh dinner_4_129d1f43:
 # game/dialogues/dinner.rpy:401
 translate frenh dinner_4_ceb18512:
 
-    # [Ann_12 "Ну, Эрик, раз ты так считаешь, то конечно. Я и сама в её возрасте немного шалила...[nointeract]"
-    Ann_12 "Eh bien, Eric, si tu le pense comme ça, alors ok. J'étais moi-même un peu coquine quand j'avais son âge...[nointeract]"
+    # [Ann_12 "Ну, Эрик, раз ты так считаешь, то конечно. Я и сама в её возрасте немного шалила..." nointeract
+    Ann_12 "Eh bien, Eric, si tu le pense comme ça, alors ok. J'étais moi-même un peu coquine quand j'avais son âge..." nointeract
 
 # game/dialogues/dinner.rpy:406
 translate frenh dinner_4_259ec354:
@@ -729,14 +729,14 @@ translate frenh dinner_4_259ec354:
 # game/dialogues/dinner.rpy:408
 translate frenh dinner_4_805d016f:
 
-    # [Eric_05 "Да не стоит, пустяки. А чтобы ваш семейный бюджет не просел, я сам подарю тебе платье для клуба, какое скажешь. Через неделю.[nointeract]"
-    Eric_05 "Ça n'en vaut pas la peine, ce n'est rien. Et pour que votre budget familial ne s'effondre pas, je t'achèterais moi-même une robe pour le club, quel que soit ton choix. Dans une semaine au plus tard.[nointeract]"
+    # [Eric_05 "Да не стоит, пустяки. А чтобы ваш семейный бюджет не просел, я сам подарю тебе платье для клуба, какое скажешь. Через неделю." nointeract
+    Eric_05 "Ça n'en vaut pas la peine, ce n'est rien. Et pour que votre budget familial ne s'effondre pas, je t'achèterais moi-même une robe pour le club, quel que soit ton choix. Dans une semaine au plus tard." nointeract
 
 # game/dialogues/dinner.rpy:412
 translate frenh dinner_4_10f0359a:
 
-    # [Ann_05 "Эрик, ну не стоит, я и сама могу купить ей платье. Просто, переживаю...[nointeract]"
-    Ann_05 "Eric, allez, je peux lui acheter une robe moi-même. Je suis juste inquiète...[nointeract]"
+    # [Ann_05 "Эрик, ну не стоит, я и сама могу купить ей платье. Просто, переживаю..." nointeract
+    Ann_05 "Eric, allez, je peux lui acheter une robe moi-même. Je suis juste inquiète..." nointeract
 
 # game/dialogues/dinner.rpy:420
 translate frenh dinner_4_dfd14d5b:
@@ -747,8 +747,8 @@ translate frenh dinner_4_dfd14d5b:
 # game/dialogues/dinner.rpy:422
 translate frenh dinner_4_440f8c26:
 
-    # [Ann_00 "Так, ладно. Спасибо всем за ужин. Мы сейчас с Эриком уедем и вернусь завтра утром. Надеюсь, вопросов не возникнет, да? Алиса за старшую, а остальным - не шалите, хорошо?[nointeract]"
-    Ann_00 "Bon, d'accord. Merci à tous pour le dîner. Eric et moi allons partir maintenant et être de retour demain matin. Pas de questions à poser, j'espère, hein? Alice tu es l'aînée et tu es référente pour moi, et vous autres, ne faites pas de bêtises, ok?[nointeract]"
+    # [Ann_00 "Так, ладно. Спасибо всем за ужин. Мы сейчас с Эриком уедем и вернусь завтра утром. Надеюсь, вопросов не возникнет, да? Алиса за старшую, а остальным - не шалите, хорошо?" nointeract
+    Ann_00 "Bon, d'accord. Merci à tous pour le dîner. Eric et moi allons partir maintenant et être de retour demain matin. Pas de questions à poser, j'espère, hein? Alice tu es l'aînée et tu es référente pour moi, et vous autres, ne faites pas de bêtises, ok?" nointeract
 
 # game/dialogues/dinner.rpy:424
 translate frenh dinner_4_8efb9883:
@@ -813,8 +813,8 @@ translate frenh dinner_5_7608d1b0:
 # game/dialogues/dinner.rpy:446
 translate frenh dinner_5_a372e80e:
 
-    # [Ann_00 "Нет, Лиза, хорошего помаленьку... Эрик приедет завтра вечером на ужин и останется у нас с ночевой...[nointeract]"
-    Ann_00 "Non, Lisa, un peu seulement des bonnes choses... Eric vient dîner demain soir et passe la nuit ici...[nointeract]"
+    # [Ann_00 "Нет, Лиза, хорошего помаленьку... Эрик приедет завтра вечером на ужин и останется у нас с ночевой..." nointeract
+    Ann_00 "Non, Lisa, un peu seulement des bonnes choses... Eric vient dîner demain soir et passe la nuit ici..." nointeract
 
 # game/dialogues/dinner.rpy:448
 translate frenh dinner_5_e8efdc4f:
@@ -837,8 +837,8 @@ translate frenh dinner_5_1c2236fd:
 # game/dialogues/dinner.rpy:453
 translate frenh dinner_5_f4084d8b:
 
-    # [Ann_06 "Ого. Значит, тебе понравился Эрик? Я рада...[nointeract]"
-    Ann_06 "Wow. Alors tu as aimé Eric? J'en suis heureuse...[nointeract]"
+    # [Ann_06 "Ого. Значит, тебе понравился Эрик? Я рада..." nointeract
+    Ann_06 "Wow. Alors tu as aimé Eric? J'en suis heureuse..." nointeract
 
 # game/dialogues/dinner.rpy:456
 translate frenh dinner_5_3f0f329e:
@@ -855,8 +855,8 @@ translate frenh dinner_5_44e3063b:
 # game/dialogues/dinner.rpy:461
 translate frenh dinner_5_ab07bd04:
 
-    # [Ann_01 "Ясно. Ты его всё ещё недолюбливаешь, да?[nointeract]"
-    Ann_01 "Je vois. Tu ne l'aimes toujours pas, hein?[nointeract]"
+    # [Ann_01 "Ясно. Ты его всё ещё недолюбливаешь, да?" nointeract
+    Ann_01 "Je vois. Tu ne l'aimes toujours pas, hein?" nointeract
 
 # game/dialogues/dinner.rpy:463
 translate frenh dinner_5_a64dcce6:
@@ -915,14 +915,14 @@ translate frenh dinner_5_e9d81834:
 # game/dialogues/dinner.rpy:482
 translate frenh dinner_6_36943836:
 
-    # [Ann_04 "Всем добрый вечер и приятного аппетита! Эрик, мы очень рады, что ты смог сегодня к нам присоединиться![nointeract]"
-    Ann_04 "Bonsoir à tous et bon appétit ! Eric, nous sommes ravis que tu aies pu te joindre à nous aujourd'hui ![nointeract]"
+    # [Ann_04 "Всем добрый вечер и приятного аппетита! Эрик, мы очень рады, что ты смог сегодня к нам присоединиться!" nointeract
+    Ann_04 "Bonsoir à tous et bon appétit ! Eric, nous sommes ravis que tu aies pu te joindre à nous aujourd'hui !" nointeract
 
 # game/dialogues/dinner.rpy:486
 translate frenh dinner_6_7d67fcca:
 
-    # [Eric_02 "Макс, у нас с тобой какие-то проблемы? Может быть, расскажешь, чем я тебе не нравлюсь?[nointeract]"
-    Eric_02 "Max, avons-nous un problème ici? Pourquoi ne me dis-tu pas ce que tu n'aimes pas chez moi ?[nointeract]"
+    # [Eric_02 "Макс, у нас с тобой какие-то проблемы? Может быть, расскажешь, чем я тебе не нравлюсь?" nointeract
+    Eric_02 "Max, avons-nous un problème ici? Pourquoi ne me dis-tu pas ce que tu n'aimes pas chez moi ?" nointeract
 
 # game/dialogues/dinner.rpy:488
 translate frenh dinner_6_438a5f93:
@@ -963,8 +963,8 @@ translate frenh dinner_6_80f63239:
 # game/dialogues/dinner.rpy:498
 translate frenh dinner_6_99a07aeb:
 
-    # [Eric_02 "Макс, мне показалось, или я тебе не очень нравлюсь?[nointeract]"
-    Eric_02 "Max, c'est moi, ou tu ne m'aimes pas beaucoup ?[nointeract]"
+    # [Eric_02 "Макс, мне показалось, или я тебе не очень нравлюсь?" nointeract
+    Eric_02 "Max, c'est moi, ou tu ne m'aimes pas beaucoup ?" nointeract
 
 # game/dialogues/dinner.rpy:500
 translate frenh dinner_6_aa905118:
@@ -1113,8 +1113,8 @@ translate frenh dinner_6_1259f657:
 # game/dialogues/dinner.rpy:527
 translate frenh dinner_6_be309633:
 
-    # [Ann_04 "Вот и молодец, Макс. А тебе, Эрик, спасибо за этот совет. Теперь хотя бы будет какой-то способ воздействовать. А то порка не даёт того эффекта, на который я привыкла рассчитывать...[nointeract]"
-    Ann_04 "Bien joué, Max. Et à toi, Eric, merci pour ce conseil. Maintenant, il y aura au moins un moyen d'avoir un impact. Parce que les fessées n'ont pas l'effet que j'attendais...[nointeract]"
+    # [Ann_04 "Вот и молодец, Макс. А тебе, Эрик, спасибо за этот совет. Теперь хотя бы будет какой-то способ воздействовать. А то порка не даёт того эффекта, на который я привыкла рассчитывать..." nointeract
+    Ann_04 "Bien joué, Max. Et à toi, Eric, merci pour ce conseil. Maintenant, il y aura au moins un moyen d'avoir un impact. Parce que les fessées n'ont pas l'effet que j'attendais..." nointeract
 
 # game/dialogues/dinner.rpy:530
 translate frenh dinner_6_d8863d05:
@@ -1251,14 +1251,14 @@ translate frenh dinner_11_8943ad56:
 # game/dialogues/dinner.rpy:559
 translate frenh dinner_11_e2de9231:
 
-    # [Eric_05 "Лиза, что за глупый вопрос. Конечно! В нашем мире без этого ни за что не удалось бы занять такую высокую должность в компании. Да и в жизни без образования пробиваются только единицы...[nointeract]"
-    Eric_05 "Lisa, quelle question stupide. Bien sûr ! Dans notre monde sans ça, il n'y a aucun moyen d'obtenir un poste aussi élevé dans une entreprise. Et dans la vie, sans éducation, seuls quelques-uns réussissent...[nointeract]"
+    # [Eric_05 "Лиза, что за глупый вопрос. Конечно! В нашем мире без этого ни за что не удалось бы занять такую высокую должность в компании. Да и в жизни без образования пробиваются только единицы..." nointeract
+    Eric_05 "Lisa, quelle question stupide. Bien sûr ! Dans notre monde sans ça, il n'y a aucun moyen d'obtenir un poste aussi élevé dans une entreprise. Et dans la vie, sans éducation, seuls quelques-uns réussissent..." nointeract
 
 # game/dialogues/dinner.rpy:565
 translate frenh dinner_11_d501685a:
 
-    # [Ann_01 "Да, Эрик полностью прав. А ты, Макс, даже школу бросил. Прежде, чем думать о высшем образовании, неплохо было бы закончить среднее. Как считаешь?[nointeract]"
-    Ann_01 "Oui, Eric a tout à fait raison. Et toi, Max, tu as même abandonné l'école. Avant de penser à l'enseignement supérieur, il est bon de terminer l'école obligatoire. Qu'en penses-tu?[nointeract]"
+    # [Ann_01 "Да, Эрик полностью прав. А ты, Макс, даже школу бросил. Прежде, чем думать о высшем образовании, неплохо было бы закончить среднее. Как считаешь?" nointeract
+    Ann_01 "Oui, Eric a tout à fait raison. Et toi, Max, tu as même abandonné l'école. Avant de penser à l'enseignement supérieur, il est bon de terminer l'école obligatoire. Qu'en penses-tu?" nointeract
 
 # game/dialogues/dinner.rpy:567
 translate frenh dinner_11_559e8fa1:
@@ -1329,8 +1329,8 @@ translate frenh dinner_12_b6e4f095:
 # game/dialogues/dinner.rpy:591
 translate frenh dinner_12_fabf0476:
 
-    # [Ann_07 "У меня для вас отличная новость! Это связано с кем-то, кого вы очень любите...[nointeract]"
-    Ann_07 "J'ai de grandes nouvelles pour vous! C'est lié à quelqu'un que vous aimez beaucoup....[nointeract]"
+    # [Ann_07 "У меня для вас отличная новость! Это связано с кем-то, кого вы очень любите..." nointeract
+    Ann_07 "J'ai de grandes nouvelles pour vous! C'est lié à quelqu'un que vous aimez beaucoup...." nointeract
 
 # game/dialogues/dinner.rpy:593
 translate frenh dinner_12_bcfc550e:
@@ -1371,8 +1371,8 @@ translate frenh dinner_12_74e231fd_1:
 # game/dialogues/dinner.rpy:602
 translate frenh dinner_12_3ce393a3:
 
-    # [Ann_04 "Ну что же вы. К нам едет ваша тётя в гости![nointeract]"
-    Ann_04 "Allons-y, alors. Ta tante vient nous rendre visite![nointeract]"
+    # [Ann_04 "Ну что же вы. К нам едет ваша тётя в гости!" nointeract
+    Ann_04 "Allons-y, alors. Ta tante vient nous rendre visite!" nointeract
 
 # game/dialogues/dinner.rpy:607
 translate frenh dinner_12_dba3788a:
@@ -1389,8 +1389,8 @@ translate frenh dinner_12_588b4955:
 # game/dialogues/dinner.rpy:610
 translate frenh dinner_12_314c5e7a:
 
-    # [Ann_05 "Лиза, я знаю, что ты очень её любишь, как и все мы, но успокойся. Она не завтра приедет, но скоро. На сколько - тоже не знаю, но думаю, что погостит какое-то время... А по делам или нет - сама спросишь.[nointeract]"
-    Ann_05 "Lisa, je sais que tu l'aimes beaucoup, comme nous tous, mais calme-toi. Elle ne vient pas demain, mais bientôt. Je ne sais pas non plus pour combien de temps, mais je pense que ce sera pour un moment... Qu'il s'agisse d'affaires ou non, vous devrez lui demander.[nointeract]"
+    # [Ann_05 "Лиза, я знаю, что ты очень её любишь, как и все мы, но успокойся. Она не завтра приедет, но скоро. На сколько - тоже не знаю, но думаю, что погостит какое-то время... А по делам или нет - сама спросишь." nointeract
+    Ann_05 "Lisa, je sais que tu l'aimes beaucoup, comme nous tous, mais calme-toi. Elle ne vient pas demain, mais bientôt. Je ne sais pas non plus pour combien de temps, mais je pense que ce sera pour un moment... Qu'il s'agisse d'affaires ou non, vous devrez lui demander." nointeract
 
 # game/dialogues/dinner.rpy:615
 translate frenh dinner_12_6d5f9b82:
@@ -1401,14 +1401,14 @@ translate frenh dinner_12_6d5f9b82:
 # game/dialogues/dinner.rpy:617
 translate frenh dinner_12_8af8c3ae:
 
-    # [Ann_12 "Нет, мне она тоже ничего не сказала. Но ты же знаешь, что у неё шило в заднице. Кажется, она ни на одной работе не продержалась дольше полугода. Наверняка, опять связалась с чем-то незаконным...[nointeract]"
-    Ann_12 "Non, elle ne m'a rien dit non plus. Mais tu sais que c'est une casse-pieds. Elle ne semble pas avoir tenu plus de six mois dans un emploi. Probablement impliqué dans quelque chose d'illégal à nouveau...[nointeract]"
+    # [Ann_12 "Нет, мне она тоже ничего не сказала. Но ты же знаешь, что у неё шило в заднице. Кажется, она ни на одной работе не продержалась дольше полугода. Наверняка, опять связалась с чем-то незаконным..." nointeract
+    Ann_12 "Non, elle ne m'a rien dit non plus. Mais tu sais que c'est une casse-pieds. Elle ne semble pas avoir tenu plus de six mois dans un emploi. Probablement impliqué dans quelque chose d'illégal à nouveau..." nointeract
 
 # game/dialogues/dinner.rpy:620
 translate frenh dinner_12_2ab6504b:
 
-    # [Ann_01 "Ты что, забыл ту историю, когда мы её забирали из полиции? Или когда она в новости попала в... хм... таком виде. Хотя, вам это знать не обязательно...[nointeract]"
-    Ann_01 "As-tu oublié l'histoire quand on l'a récupérée à la police ? Ou quand elle était dans les nouvelles en... hmmm... comme ça. Tu n'as pas besoin de le savoir, cependant....[nointeract]"
+    # [Ann_01 "Ты что, забыл ту историю, когда мы её забирали из полиции? Или когда она в новости попала в... хм... таком виде. Хотя, вам это знать не обязательно..." nointeract
+    Ann_01 "As-tu oublié l'histoire quand on l'a récupérée à la police ? Ou quand elle était dans les nouvelles en... hmmm... comme ça. Tu n'as pas besoin de le savoir, cependant...." nointeract
 
 # game/dialogues/dinner.rpy:622
 translate frenh dinner_12_d8703e43:
@@ -1449,8 +1449,8 @@ translate frenh dinner_12_9c03c99d:
 # game/dialogues/dinner.rpy:631
 translate frenh dinner_12_21c6cd97:
 
-    # [Ann_01 "На искательницу приключений на свою задницу. Она училась на юриста, но бросила первый курс и решила, что хочет стать журналистом. Поступила снова, но и там ей быстро всё наскучило...[nointeract]"
-    Ann_01 "Sur le cul de l'aventurier. Elle étudiait pour devenir avocate mais a abandonné en première année et a décidé de devenir journaliste. Elle est rentrée, mais s'est vite ennuyée là aussi....[nointeract]"
+    # [Ann_01 "На искательницу приключений на свою задницу. Она училась на юриста, но бросила первый курс и решила, что хочет стать журналистом. Поступила снова, но и там ей быстро всё наскучило..." nointeract
+    Ann_01 "Sur le cul de l'aventurier. Elle étudiait pour devenir avocate mais a abandonné en première année et a décidé de devenir journaliste. Elle est rentrée, mais s'est vite ennuyée là aussi...." nointeract
 
 # game/dialogues/dinner.rpy:633
 translate frenh dinner_12_0e0113dd:
@@ -1503,8 +1503,8 @@ translate frenh dinner_17_367064d7:
 # game/dialogues/dinner.rpy:650
 translate frenh dinner_17_8cbd4bb3:
 
-    # [Ann_07 "Ну что, все помнят какой завтра день?[nointeract]"
-    Ann_07 "Alors, est-ce que tout le monde se rappelle quel jour on est demain ?[nointeract]"
+    # [Ann_07 "Ну что, все помнят какой завтра день?" nointeract
+    Ann_07 "Alors, est-ce que tout le monde se rappelle quel jour on est demain ?" nointeract
 
 # game/dialogues/dinner.rpy:652
 translate frenh dinner_17_e1dae74b:
@@ -1521,8 +1521,8 @@ translate frenh dinner_17_f0337bdd:
 # game/dialogues/dinner.rpy:657
 translate frenh dinner_17_b7e0b476:
 
-    # [Ann_05 "Именно! Она звонила и сказала, что приедет рано утром. Так что, ложитесь пораньше сегодня. Я сейчас к Эрику, но до приезда Киры вернусь.[nointeract]"
-    Ann_05 "Exactement! Elle a appelé et a dit qu'elle serait là tôt le matin. Alors, va te coucher tôt ce soir. Je suis chez Eric maintenant, mais je serais de retour avant que Kira n'arrive.[nointeract]"
+    # [Ann_05 "Именно! Она звонила и сказала, что приедет рано утром. Так что, ложитесь пораньше сегодня. Я сейчас к Эрику, но до приезда Киры вернусь." nointeract
+    Ann_05 "Exactement! Elle a appelé et a dit qu'elle serait là tôt le matin. Alors, va te coucher tôt ce soir. Je suis chez Eric maintenant, mais je serais de retour avant que Kira n'arrive." nointeract
 
 # game/dialogues/dinner.rpy:659
 translate frenh dinner_17_7874218b:
@@ -1563,8 +1563,8 @@ translate frenh dinner_17_shop_f3d653c6:
 # game/dialogues/dinner.rpy:672
 translate frenh dinner_17_sleep_24dcc3e9:
 
-    # [Ann_00 "Ой. Хороший вопрос, Макс. Я как-то об этом не подумала. Может быть, она поспит на твоей кровати с Лизой в комнате, а ты в гостиной как-нибудь?[nointeract]"
-    Ann_00 "Oh. Bonne question, Max. D’une manière ou d’une autre, je n’y ai pas pensé. Peut-être qu’elle dormira sur ton lit avec Lisa dans la chambre et toi dans le salon d’une manière ou d’une autre?[nointeract]"
+    # [Ann_00 "Ой. Хороший вопрос, Макс. Я как-то об этом не подумала. Может быть, она поспит на твоей кровати с Лизой в комнате, а ты в гостиной как-нибудь?" nointeract
+    Ann_00 "Oh. Bonne question, Max. D’une manière ou d’une autre, je n’y ai pas pensé. Peut-être qu’elle dormira sur ton lit avec Lisa dans la chambre et toi dans le salon d’une manière ou d’une autre?" nointeract
 
 # game/dialogues/dinner.rpy:674
 translate frenh dinner_17_sleep_b6f8eac5:

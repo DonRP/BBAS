@@ -15,32 +15,32 @@
 # game/dialogues/lisatalk.rpy:15
 translate frenh LisaTalkStart_9200635d:
 
-    # [Lisa_00 "Макс, решил поболтать?[nointeract]"
-    Lisa_00 "Max, tu veux parler?[nointeract]"
+    # [Lisa_00 "Макс, решил поболтать?" nointeract
+    Lisa_00 "Max, tu veux parler?" nointeract
 
 # game/dialogues/lisatalk.rpy:45
 translate frenh Lisa_badbadmood_da371c18:
 
-    # [Lisa_09 "Макс, уйди. Не хочу тебя видеть![nointeract]"
-    Lisa_09 "Max, va-t'en. Je ne veux pas te voir ![nointeract]"
+    # [Lisa_09 "Макс, уйди. Не хочу тебя видеть!" nointeract
+    Lisa_09 "Max, va-t'en. Je ne veux pas te voir !" nointeract
 
 # game/dialogues/lisatalk.rpy:54
 translate frenh Lisa_badmood_94440bf9:
 
-    # [Lisa_09 "Макс, уйди пожалуйста. Не хочу сейчас общаться.[nointeract]"
-    Lisa_09 "Max, s'il te plaît, va-t'en. Je ne veux pas parler en ce moment.[nointeract]"
+    # [Lisa_09 "Макс, уйди пожалуйста. Не хочу сейчас общаться." nointeract
+    Lisa_09 "Max, s'il te plaît, va-t'en. Je ne veux pas parler en ce moment." nointeract
 
 # game/dialogues/lisatalk.rpy:63
 translate frenh Lisa_asksorry_43688099:
 
-    # [Lisa_09 "Извиниться? Как?[nointeract]"
-    Lisa_09 "S'excuser ? Comment ?[nointeract]"
+    # [Lisa_09 "Извиниться? Как?" nointeract
+    Lisa_09 "S'excuser ? Comment ?" nointeract
 
 # game/dialogues/lisatalk.rpy:70
 translate frenh Lisa_normalmood_be3ffbfe:
 
-    # [Lisa_09 "Не сейчас, Макс...[nointeract]"
-    Lisa_09 "Pas maintenant, Max...[nointeract]"
+    # [Lisa_09 "Не сейчас, Макс..." nointeract
+    Lisa_09 "Pas maintenant, Max..." nointeract
 
 # game/dialogues/lisatalk.rpy:76
 translate frenh Lisa_cooldown_f6aab63f:
@@ -57,8 +57,8 @@ translate frenh Lisa_cooldown_7e3e09b0:
 # game/dialogues/lisatalk.rpy:87
 translate frenh MorningWood_7249d4b4:
 
-    # [Lisa_11 "Макс! Это что такое?! Я сейчас маму позову![nointeract]"
-    Lisa_11 "Max ! Qu'est-ce que c'est ? Je vais chercher maman![nointeract]"
+    # [Lisa_11 "Макс! Это что такое?! Я сейчас маму позову!" nointeract
+    Lisa_11 "Max ! Qu'est-ce que c'est ? Je vais chercher maman!" nointeract
 
 # game/dialogues/lisatalk.rpy:93
 translate frenh MorningWood_ba2e7763:
@@ -75,20 +75,20 @@ translate frenh MorningWood_c0152bb5:
 # game/dialogues/lisatalk.rpy:98
 translate frenh MorningWood_328a9a51:
 
-    # [Lisa_13 "Ма-ам! Иди сюда, скорее![nointeract]"
-    Lisa_13 "Ma-man! Viens ici, vite ![nointeract]"
+    # [Lisa_13 "Ма-ам! Иди сюда, скорее!" nointeract
+    Lisa_13 "Ma-man! Viens ici, vite !" nointeract
 
 # game/dialogues/lisatalk.rpy:101
 translate frenh MorningWood_42595202:
 
-    # [Lisa_12 "Не то, о чём думаю? Это явно то, о чём я думаю! Ма-ам![nointeract]"
-    Lisa_12 "Pas ce que je pense ? C'est clairement c'est ce que je pense ! Ma-man ![nointeract]"
+    # [Lisa_12 "Не то, о чём думаю? Это явно то, о чём я думаю! Ма-ам!" nointeract
+    Lisa_12 "Pas ce que je pense ? C'est clairement c'est ce que je pense ! Ma-man !" nointeract
 
 # game/dialogues/lisatalk.rpy:108
 translate frenh MorningWood_981dc250:
 
-    # [Lisa_12 "Так я тебе и поверила! Ма-ам![nointeract]"
-    Lisa_12 "Alors je t’ai cru ! Ma-man![nointeract]"
+    # [Lisa_12 "Так я тебе и поверила! Ма-ам!" nointeract
+    Lisa_12 "Alors je t’ai cru ! Ma-man!" nointeract
 
 # game/dialogues/lisatalk.rpy:115
 translate frenh MorningWood_9d87c0fa:
@@ -105,8 +105,8 @@ translate frenh MorningWood_a656cae5:
 # game/dialogues/lisatalk.rpy:120
 translate frenh MorningWood_a4f80a17:
 
-    # [Ann_19 "Макс! Объяснишь, чем ты занимался при сестре?![nointeract]"
-    Ann_19 "Max ! Peux-tu expliquer ce que tu faisais devant ta sœur ? ![nointeract]"
+    # [Ann_19 "Макс! Объяснишь, чем ты занимался при сестре?!" nointeract
+    Ann_19 "Max ! Peux-tu expliquer ce que tu faisais devant ta sœur ? !" nointeract
 
 # game/dialogues/lisatalk.rpy:122
 translate frenh MorningWood_2d999f3b:
@@ -165,8 +165,8 @@ translate frenh MorningWood_a468566c:
 # game/dialogues/lisatalk.rpy:138
 translate frenh MorningWood_21fcc87f:
 
-    # [Ann_09 "Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?[nointeract]"
-    Ann_09 "Non, Lisa, il est trop tôt pour que tu t'intéresses à ce genre de choses. Quand tu seras plus âgée, nous parlerons. C'est la fin de l'histoire. Faisons comme si ça n'était jamais arrivé. D'accord ?[nointeract]"
+    # [Ann_09 "Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?" nointeract
+    Ann_09 "Non, Lisa, il est trop tôt pour que tu t'intéresses à ce genre de choses. Quand tu seras plus âgée, nous parlerons. C'est la fin de l'histoire. Faisons comme si ça n'était jamais arrivé. D'accord ?" nointeract
 
 # game/dialogues/lisatalk.rpy:156
 translate frenh MorningWoodCont_2a9ba99c:
@@ -249,8 +249,8 @@ translate frenh MorningWoodCont_e3c0bf2a:
 # game/dialogues/lisatalk.rpy:183
 translate frenh MorningWoodCont_4fbd8958:
 
-    # [Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?[nointeract]"
-    Max]Qu'est-ce que c'est ? Lisa veut toucher ma bite ? ! Non, je dois encore rêver... Ou est-ce le cas ?[nointeract]"
+    # [Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+    Max]Qu'est-ce que c'est ? Lisa veut toucher ma bite ? ! Non, je dois encore rêver... Ou est-ce le cas ?" nointeract
 
 # game/dialogues/lisatalk.rpy:189
 translate frenh MorningWoodCont_b3cadc1a:
@@ -435,38 +435,38 @@ translate frenh AfterSchoolFD_f1bd3c85:
 # game/dialogues/lisatalk.rpy:252
 translate frenh about_school_8ba1524a:
 
-    # [Lisa_00 "Неужели, я дома! До сих пор не могу поверить, что ЭТО наш дом![nointeract]"
-    Lisa_00 "Je n'arrive pas à croire que je suis à la maison! Je n'arrive toujours pas à croire que c'est notre maison![nointeract]"
+    # [Lisa_00 "Неужели, я дома! До сих пор не могу поверить, что ЭТО наш дом!" nointeract
+    Lisa_00 "Je n'arrive pas à croire que je suis à la maison! Je n'arrive toujours pas à croire que c'est notre maison!" nointeract
 
 # game/dialogues/lisatalk.rpy:255
 translate frenh about_school_e7d0d575:
 
-    # [Lisa_03 "Вот-вот! Целый день думала о нашем бассейне. Неужели, здесь всегда такая погода?[nointeract]"
-    Lisa_03 "Exactement! Toute la journée, j'ai pensé à notre piscine. Est-ce qu'il fait toujours ce genre de temps ici?[nointeract]"
+    # [Lisa_03 "Вот-вот! Целый день думала о нашем бассейне. Неужели, здесь всегда такая погода?" nointeract
+    Lisa_03 "Exactement! Toute la journée, j'ai pensé à notre piscine. Est-ce qu'il fait toujours ce genre de temps ici?" nointeract
 
 # game/dialogues/lisatalk.rpy:258
 translate frenh about_school_76e3a70c:
 
-    # [Lisa_02 "Хотелось бы так думать...[nointeract]"
-    Lisa_02 "J'aimerais le croire...[nointeract]"
+    # [Lisa_02 "Хотелось бы так думать..." nointeract
+    Lisa_02 "J'aimerais le croire..." nointeract
 
 # game/dialogues/lisatalk.rpy:265
 translate frenh about_school_cc4723a0:
 
-    # [Lisa_02 "Ага! И сезон дождей 11 месяцев в году![nointeract]"
-    Lisa_02 "Ah! Et la saison des pluies dure 11 mois par an![nointeract]"
+    # [Lisa_02 "Ага! И сезон дождей 11 месяцев в году!" nointeract
+    Lisa_02 "Ah! Et la saison des pluies dure 11 mois par an!" nointeract
 
 # game/dialogues/lisatalk.rpy:276
 translate frenh about_school_way_3a1e2dd6:
 
-    # [Lisa_02 "Ты знаешь, тут школа совсем рядом! Пять минут и я на месте. К тому же, топографическим кретинизмом не страдаю... Ты же поэтому из дома не выходишь, да?[nointeract]"
-    Lisa_02 "Tu sais, l'école est juste au coin de la rue! Cinq minutes et j'y suis. De plus, je ne souffre pas de crétinisme topographique... C'est pour ça que tu ne quittes pas la maison, n'est-ce pas?[nointeract]"
+    # [Lisa_02 "Ты знаешь, тут школа совсем рядом! Пять минут и я на месте. К тому же, топографическим кретинизмом не страдаю... Ты же поэтому из дома не выходишь, да?" nointeract
+    Lisa_02 "Tu sais, l'école est juste au coin de la rue! Cinq minutes et j'y suis. De plus, je ne souffre pas de crétinisme topographique... C'est pour ça que tu ne quittes pas la maison, n'est-ce pas?" nointeract
 
 # game/dialogues/lisatalk.rpy:279
 translate frenh about_school_way_99e9aaa4:
 
-    # [Lisa_01 "Ну а почему же ты тогда всё время дома сидишь? Что в старой квартире, что тут. Ты же сегодня даже из дома не выходил?[nointeract]"
-    Lisa_01 "Alors pourquoi restes-tu tout le temps à la maison? Comme dans l'ancien appartement, comme ici. Tu n'as même pas quitté la maison aujourd'hui, n'est-ce pas ?[nointeract]"
+    # [Lisa_01 "Ну а почему же ты тогда всё время дома сидишь? Что в старой квартире, что тут. Ты же сегодня даже из дома не выходил?" nointeract
+    Lisa_01 "Alors pourquoi restes-tu tout le temps à la maison? Comme dans l'ancien appartement, comme ici. Tu n'as même pas quitté la maison aujourd'hui, n'est-ce pas ?" nointeract
 
 # game/dialogues/lisatalk.rpy:281
 translate frenh about_school_way_35c68a05:
@@ -483,20 +483,20 @@ translate frenh about_school_way_5a062af3:
 # game/dialogues/lisatalk.rpy:286
 translate frenh about_school_way_3e556de2:
 
-    # [Lisa_09 "Понимаю. Я тоже никого не знаю... почти.[nointeract]"
-    Lisa_09 "Je comprends. Je ne connais personne non plus... presque.[nointeract]"
+    # [Lisa_09 "Понимаю. Я тоже никого не знаю... почти." nointeract
+    Lisa_09 "Je comprends. Je ne connais personne non plus... presque." nointeract
 
 # game/dialogues/lisatalk.rpy:289
 translate frenh about_school_way_af6ba318:
 
-    # [Lisa_02 "Может быть... А что, любопытно? Или ревнуешь?[nointeract]"
-    Lisa_02 "Peut-être... Pourquoi, tu es curieux? Ou tu es jaloux?[nointeract]"
+    # [Lisa_02 "Может быть... А что, любопытно? Или ревнуешь?" nointeract
+    Lisa_02 "Peut-être... Pourquoi, tu es curieux? Ou tu es jaloux?" nointeract
 
 # game/dialogues/lisatalk.rpy:294
 translate frenh about_school_way_afbf9612:
 
-    # [Lisa_03 "Ну и правильно! Ты же мой брат и останешься самым любимым мужчиной в моей жизни![nointeract]"
-    Lisa_03 "Et à juste titre! Tu es mon frère et tu resteras l'homme le plus aimé de ma vie![nointeract]"
+    # [Lisa_03 "Ну и правильно! Ты же мой брат и останешься самым любимым мужчиной в моей жизни!" nointeract
+    Lisa_03 "Et à juste titre! Tu es mon frère et tu resteras l'homme le plus aimé de ma vie!" nointeract
 
 # game/dialogues/lisatalk.rpy:299
 translate frenh about_school_way_921695c7:
@@ -513,8 +513,8 @@ translate frenh about_school_way_c1cbada6:
 # game/dialogues/lisatalk.rpy:308
 translate frenh about_school_way_3148ed3a:
 
-    # [Lisa_03 "Вот это признание! А нас ты просто терпишь, да?[nointeract]"
-    Lisa_03 "Quelle confession! Et tu nous supportes, n'est-ce pas?[nointeract]"
+    # [Lisa_03 "Вот это признание! А нас ты просто терпишь, да?" nointeract
+    Lisa_03 "Quelle confession! Et tu nous supportes, n'est-ce pas?" nointeract
 
 # game/dialogues/lisatalk.rpy:310
 translate frenh about_school_way_35c68a05_1:
@@ -579,20 +579,20 @@ translate frenh about_school_school_a172fbdb:
 # game/dialogues/lisatalk.rpy:332
 translate frenh about_school_who_feca723a:
 
-    # [Lisa_03 "А почему сразу он? Может быть, я завела подругу?[nointeract]"
-    Lisa_03 "Pourquoi lui ? Peut-être que je me suis fait une amie ?[nointeract]"
+    # [Lisa_03 "А почему сразу он? Может быть, я завела подругу?" nointeract
+    Lisa_03 "Pourquoi lui ? Peut-être que je me suis fait une amie ?" nointeract
 
 # game/dialogues/lisatalk.rpy:337
 translate frenh about_school_who_726592a3:
 
-    # [Lisa_02 "Обычная такая подружка... Какие подружки бывают обычно, вот у меня такая![nointeract]"
-    Lisa_02 "Le genre de petite amie habituelle... Ce que les amies ont tendance à être, c'est celle que j'ai ![nointeract]"
+    # [Lisa_02 "Обычная такая подружка... Какие подружки бывают обычно, вот у меня такая!" nointeract
+    Lisa_02 "Le genre de petite amie habituelle... Ce que les amies ont tendance à être, c'est celle que j'ai !" nointeract
 
 # game/dialogues/lisatalk.rpy:340
 translate frenh about_school_who_9b0161df:
 
-    # [Lisa_03 "А что здесь такого? Это же весело![nointeract]"
-    Lisa_03 "Quel est le problème ? C'est amusant ![nointeract]"
+    # [Lisa_03 "А что здесь такого? Это же весело!" nointeract
+    Lisa_03 "Quel est le problème ? C'est amusant !" nointeract
 
 # game/dialogues/lisatalk.rpy:346
 translate frenh about_school_who_5891f240:
@@ -609,20 +609,20 @@ translate frenh about_school_who_0e0cd78f:
 # game/dialogues/lisatalk.rpy:351
 translate frenh about_school_ok_ed18e90a:
 
-    # [Lisa_00 "Как у тебя день прошёл?[nointeract]"
-    Lisa_00 "Comment s'est passée ta journée ?[nointeract]"
+    # [Lisa_00 "Как у тебя день прошёл?" nointeract
+    Lisa_00 "Comment s'est passée ta journée ?" nointeract
 
 # game/dialogues/lisatalk.rpy:354
 translate frenh about_school_ok_8dd8bef3:
 
-    # [Lisa_03 "Обычно? Это ты свой первый день в таком месте и таком доме называешь обычным?![nointeract]"
-    Lisa_03 "Habituel? Est-ce que c'est ton premier jour dans un endroit et une maison comme celle-ci que tu appelles ordinaire ?![nointeract]"
+    # [Lisa_03 "Обычно? Это ты свой первый день в таком месте и таком доме называешь обычным?!" nointeract
+    Lisa_03 "Habituel? Est-ce que c'est ton premier jour dans un endroit et une maison comme celle-ci que tu appelles ordinaire ?!" nointeract
 
 # game/dialogues/lisatalk.rpy:357
 translate frenh about_school_ok_4a5b1960:
 
-    # [Lisa_02 "Это если нам повезёт и нас отсюда не выгонят. За неуплату чего-то...[nointeract]"
-    Lisa_02 "Si on a la chance de ne pas être mis à la porte. Pour ne pas avoir payé quelque chose...[nointeract]"
+    # [Lisa_02 "Это если нам повезёт и нас отсюда не выгонят. За неуплату чего-то..." nointeract
+    Lisa_02 "Si on a la chance de ne pas être mis à la porte. Pour ne pas avoir payé quelque chose..." nointeract
 
 # game/dialogues/lisatalk.rpy:359
 translate frenh about_school_ok_9b52ff89:
@@ -651,14 +651,14 @@ translate frenh about_school_ok_85ed3da3:
 # game/dialogues/lisatalk.rpy:370
 translate frenh about_school_ok_c9f8ad64:
 
-    # [Lisa_03 "Да уж, задача сложная. Невыносимые условия жизни и всё такое, да?[nointeract]"
-    Lisa_03 "Oui, c'est une tâche difficile. Des conditions de vie insupportables et tout ça, hein ?[nointeract]"
+    # [Lisa_03 "Да уж, задача сложная. Невыносимые условия жизни и всё такое, да?" nointeract
+    Lisa_03 "Oui, c'est une tâche difficile. Des conditions de vie insupportables et tout ça, hein ?" nointeract
 
 # game/dialogues/lisatalk.rpy:377
 translate frenh about_school_sad_cc78098b:
 
-    # [Lisa_02 "Так что планируешь делать, чем займёшься?[nointeract]"
-    Lisa_02 "Alors, que comptes-tu faire, que feras-tu?[nointeract]"
+    # [Lisa_02 "Так что планируешь делать, чем займёшься?" nointeract
+    Lisa_02 "Alors, que comptes-tu faire, que feras-tu?" nointeract
 
 # game/dialogues/lisatalk.rpy:379
 translate frenh about_school_sad_3cc509d1:
@@ -699,20 +699,20 @@ translate frenh about_school_sad_b53a40c7:
 # game/dialogues/lisatalk.rpy:392
 translate frenh about_school_want_23392a66:
 
-    # [Lisa_00 "Может быть, в другой раз...[nointeract]"
-    Lisa_00 "Peut-être une autre fois...[nointeract]"
+    # [Lisa_00 "Может быть, в другой раз..." nointeract
+    Lisa_00 "Peut-être une autre fois..." nointeract
 
 # game/dialogues/lisatalk.rpy:395
 translate frenh about_school_want_95d73f52:
 
-    # [Lisa_02 "Что, ты правда такой любопытный? Не знала![nointeract]"
-    Lisa_02 "Tu es vraiment curieux ? Je ne le savais pas ![nointeract]"
+    # [Lisa_02 "Что, ты правда такой любопытный? Не знала!" nointeract
+    Lisa_02 "Tu es vraiment curieux ? Je ne le savais pas !" nointeract
 
 # game/dialogues/lisatalk.rpy:407
 translate frenh about_school_boy_7997f692:
 
-    # [Lisa_10 "Ну... его зовут Алекс. Мы учимся в одном классе. Даже сидим рядом...[nointeract]"
-    Lisa_10 "Eh bien... son nom est Alex. Nous sommes dans la même classe. Même assis l'un à côté de l'autre...[nointeract]"
+    # [Lisa_10 "Ну... его зовут Алекс. Мы учимся в одном классе. Даже сидим рядом..." nointeract
+    Lisa_10 "Eh bien... son nom est Alex. Nous sommes dans la même classe. Même assis l'un à côté de l'autre..." nointeract
 
 # game/dialogues/lisatalk.rpy:409
 translate frenh about_school_boy_eac690ad:
@@ -741,8 +741,8 @@ translate frenh about_school_boy_cbae7740_1:
 # game/dialogues/lisatalk.rpy:418
 translate frenh about_school_boy_08a91089:
 
-    # [Lisa_02 "Ну, парень как парень. Вот как ты, только не такой зануда и красивый.[nointeract]"
-    Lisa_02 "Eh bien, un gars est un gars. Tout comme toi, mais pas aussi ringard et il est beau.[nointeract]"
+    # [Lisa_02 "Ну, парень как парень. Вот как ты, только не такой зануда и красивый." nointeract
+    Lisa_02 "Eh bien, un gars est un gars. Tout comme toi, mais pas aussi ringard et il est beau." nointeract
 
 # game/dialogues/lisatalk.rpy:420
 translate frenh about_school_boy_770fda5d:
@@ -759,50 +759,50 @@ translate frenh about_school_boy_d83a4ec4:
 # game/dialogues/lisatalk.rpy:423
 translate frenh about_school_boy_70f49692:
 
-    # [Lisa_10 "Нет, ну... я не так выразилась. Мы только познакомились и, конечно, он не мой парень![nointeract]"
-    Lisa_10 "Non, eh bien... Je ne l'ai pas dit comme ça. On vient de se rencontrer et, bien sûr, ce n'est pas mon petit ami ![nointeract]"
+    # [Lisa_10 "Нет, ну... я не так выразилась. Мы только познакомились и, конечно, он не мой парень!" nointeract
+    Lisa_10 "Non, eh bien... Je ne l'ai pas dit comme ça. On vient de se rencontrer et, bien sûr, ce n'est pas mon petit ami !" nointeract
 
 # game/dialogues/lisatalk.rpy:426
 translate frenh about_school_boy_9d85db70:
 
-    # [Lisa_01 "Думаю, что да. У меня ещё никогда не было парня. А этот...[nointeract]"
-    Lisa_01 "Je pense que oui. Je n'ai jamais eu de petit ami avant. Et celui-là...[nointeract]"
+    # [Lisa_01 "Думаю, что да. У меня ещё никогда не было парня. А этот..." nointeract
+    Lisa_01 "Je pense que oui. Je n'ai jamais eu de petit ami avant. Et celui-là..." nointeract
 
 # game/dialogues/lisatalk.rpy:433
 translate frenh about_school_boy_3ed631d7:
 
-    # [Lisa_03 "Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате![nointeract]"
-    Lisa_03 "Tu es mon petit frère ! Ne dis pas n'importe quoi. Toi et moi dormons déjà ensemble. Eh bien, dans la même pièce ![nointeract]"
+    # [Lisa_03 "Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате!" nointeract
+    Lisa_03 "Tu es mon petit frère ! Ne dis pas n'importe quoi. Toi et moi dormons déjà ensemble. Eh bien, dans la même pièce !" nointeract
 
 # game/dialogues/lisatalk.rpy:439
 translate frenh about_school_boy_8cf6e30f:
 
-    # [Lisa_00 "Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать![nointeract]"
-    Lisa_00 "Imbécile ! Je l'ai dit en plaisantant. Et de toute façon, arrêtes de m'embêter ![nointeract]"
+    # [Lisa_00 "Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать!" nointeract
+    Lisa_00 "Imbécile ! Je l'ai dit en plaisantant. Et de toute façon, arrêtes de m'embêter !" nointeract
 
 # game/dialogues/lisatalk.rpy:446
 translate frenh about_school_boy_d7b4c3ad:
 
-    # [Lisa_03 "А какой у тебя типаж? Неудачника, который достаёт младшую сестрёнку?[nointeract]"
-    Lisa_03 "Quel est ton type ? Le loser qui harcèle sa petite sœur ?[nointeract]"
+    # [Lisa_03 "А какой у тебя типаж? Неудачника, который достаёт младшую сестрёнку?" nointeract
+    Lisa_03 "Quel est ton type ? Le loser qui harcèle sa petite sœur ?" nointeract
 
 # game/dialogues/lisatalk.rpy:453
 translate frenh about_school_boy_784ede1f:
 
-    # [Lisa_03 "Ну, когда не зануда, вполне![nointeract]"
-    Lisa_03 "Eh bien, quand ce n’est pas ennuyeux, tout à fait![nointeract]"
+    # [Lisa_03 "Ну, когда не зануда, вполне!" nointeract
+    Lisa_03 "Eh bien, quand ce n’est pas ennuyeux, tout à fait!" nointeract
 
 # game/dialogues/lisatalk.rpy:456
 translate frenh about_school_boy_2665fa38:
 
-    # [Lisa_12 "Вот теперь ты зануда и нравишься мне с каждой секундой всё меньше и меньше...[nointeract]"
-    Lisa_12 "Maintenant tu es un nerd et je t'aime de moins en moins à chaque seconde...[nointeract]"
+    # [Lisa_12 "Вот теперь ты зануда и нравишься мне с каждой секундой всё меньше и меньше..." nointeract
+    Lisa_12 "Maintenant tu es un nerd et je t'aime de moins en moins à chaque seconde..." nointeract
 
 # game/dialogues/lisatalk.rpy:459
 translate frenh about_school_boy_6829da3a:
 
-    # [Lisa_03 "То-то же! А то ведёшь себя как придурок...[nointeract]"
-    Lisa_03 "C'est vrai! Sinon, tu te comportes comme un con...[nointeract]"
+    # [Lisa_03 "То-то же! А то ведёшь себя как придурок..." nointeract
+    Lisa_03 "C'est vrai! Sinon, tu te comportes comme un con..." nointeract
 
 # game/dialogues/lisatalk.rpy:467
 translate frenh about_school_boy_75e223c5:
@@ -819,56 +819,56 @@ translate frenh about_school_boy_90866782:
 # game/dialogues/lisatalk.rpy:476
 translate frenh about_school_hey_59a885fe:
 
-    # [Lisa_00 "Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились...[nointeract]"
-    Lisa_00 "Désolé. Je n'y ai pas pensé. Au fait, merci d'avoir discuté avec moi. J'avais l'habitude de parler de ces choses à Alice, mais elle est devenue trop vieille et nous nous sommes éloignés...[nointeract]"
+    # [Lisa_00 "Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились..." nointeract
+    Lisa_00 "Désolé. Je n'y ai pas pensé. Au fait, merci d'avoir discuté avec moi. J'avais l'habitude de parler de ces choses à Alice, mais elle est devenue trop vieille et nous nous sommes éloignés..." nointeract
 
 # game/dialogues/lisatalk.rpy:483
 translate frenh about_school_hey_e2bcf6f1:
 
-    # [Lisa_09 "Ну вот, только я хотела тебе поплакаться о разбитой любви, а ты...[nointeract]"
-    Lisa_09 "Je voulais juste te parler de mon amour brisé, et tu...[nointeract]"
+    # [Lisa_09 "Ну вот, только я хотела тебе поплакаться о разбитой любви, а ты..." nointeract
+    Lisa_09 "Je voulais juste te parler de mon amour brisé, et tu..." nointeract
 
 # game/dialogues/lisatalk.rpy:486
 translate frenh about_school_hey_06d45dde:
 
-    # [Lisa_03 "Ага, два раза! Он ещё даже не знает, что мне нравится...[nointeract]"
-    Lisa_03 "Oui, deux fois ! Il ne sait même pas encore ce que j'aime...[nointeract]"
+    # [Lisa_03 "Ага, два раза! Он ещё даже не знает, что мне нравится..." nointeract
+    Lisa_03 "Oui, deux fois ! Il ne sait même pas encore ce que j'aime..." nointeract
 
 # game/dialogues/lisatalk.rpy:493
 translate frenh about_school_hey_b0bf4202:
 
-    # [Lisa_03 "Ну, тогда терпи меня![nointeract]"
-    Lisa_03 "Alors, sois indulgent avec moi ![nointeract]"
+    # [Lisa_03 "Ну, тогда терпи меня!" nointeract
+    Lisa_03 "Alors, sois indulgent avec moi !" nointeract
 
 # game/dialogues/lisatalk.rpy:499
 translate frenh about_school_hey_cae1772b:
 
-    # [Lisa_02 "Ладно, буду иметь в виду![nointeract]"
-    Lisa_02 "Ok, je vais garder ça en tête ![nointeract]"
+    # [Lisa_02 "Ладно, буду иметь в виду!" nointeract
+    Lisa_02 "Ok, je vais garder ça en tête !" nointeract
 
 # game/dialogues/lisatalk.rpy:506
 translate frenh about_school_say_add69335:
 
-    # [Lisa_03 "А вот это уже тебя не касается. Что сказал, то сказал. Мне понравилось. Так и познакомились...[nointeract]"
-    Lisa_03 "Maintenant, ce n'est pas ton affaire. Ce qu'il a dit, il l'a dit. J'ai aimé. C'est ainsi que nous nous sommes rencontrés...[nointeract]"
+    # [Lisa_03 "А вот это уже тебя не касается. Что сказал, то сказал. Мне понравилось. Так и познакомились..." nointeract
+    Lisa_03 "Maintenant, ce n'est pas ton affaire. Ce qu'il a dit, il l'a dit. J'ai aimé. C'est ainsi que nous nous sommes rencontrés..." nointeract
 
 # game/dialogues/lisatalk.rpy:515
 translate frenh about_school_whatnow_e3abd53f:
 
-    # [Lisa_00 "Я не знаю. Это же только первый день. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая...[nointeract]"
-    Lisa_00 "Je ne sais pas. Ce n'est que le premier jour. On va voir comment ça se passe. Peut-être qu'il voit déjà quelqu'un d'autre, et je suis là, si jolie...[nointeract]"
+    # [Lisa_00 "Я не знаю. Это же только первый день. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая..." nointeract
+    Lisa_00 "Je ne sais pas. Ce n'est que le premier jour. On va voir comment ça se passe. Peut-être qu'il voit déjà quelqu'un d'autre, et je suis là, si jolie..." nointeract
 
 # game/dialogues/lisatalk.rpy:522
 translate frenh about_school_whatnow_32ffb166:
 
-    # [Lisa_12 "Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила...[nointeract]"
-    Lisa_12 "Quand tu avais mon âge, tu traînais déjà avec machin-chose... Vraiment, elle t'a quitté...[nointeract]"
+    # [Lisa_12 "Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила..." nointeract
+    Lisa_12 "Quand tu avais mon âge, tu traînais déjà avec machin-chose... Vraiment, elle t'a quitté..." nointeract
 
 # game/dialogues/lisatalk.rpy:525
 translate frenh about_school_whatnow_3ded53e0:
 
-    # [Lisa_02 "Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь...[nointeract]"
-    Lisa_02 "Ouais, et ensuite tu montais la garde devant sa fenêtre pour lui dire à quel point tu ne l'aimais pas...[nointeract]"
+    # [Lisa_02 "Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь..." nointeract
+    Lisa_02 "Ouais, et ensuite tu montais la garde devant sa fenêtre pour lui dire à quel point tu ne l'aimais pas..." nointeract
 
 # game/dialogues/lisatalk.rpy:536
 translate frenh about_school_no_d48a9ada:
@@ -885,14 +885,14 @@ translate frenh about_school_no_7df8cb39:
 # game/dialogues/lisatalk.rpy:541
 translate frenh about_school_xp_6bf918d9:
 
-    # [Lisa_03 "Да уж, ты у нас опытный любовник![nointeract]"
-    Lisa_03 "Oui, tu es un amant si expérimenté ![nointeract]"
+    # [Lisa_03 "Да уж, ты у нас опытный любовник!" nointeract
+    Lisa_03 "Oui, tu es un amant si expérimenté !" nointeract
 
 # game/dialogues/lisatalk.rpy:549
 translate frenh about_school_yes_274715fe:
 
-    # [Lisa_02 "Любопытно... И о чём же ты умолчал?[nointeract]"
-    Lisa_02 "Curieux... Et sur quoi as-tu garder le silence ?[nointeract]"
+    # [Lisa_02 "Любопытно... И о чём же ты умолчал?" nointeract
+    Lisa_02 "Curieux... Et sur quoi as-tu garder le silence ?" nointeract
 
 # game/dialogues/lisatalk.rpy:551
 translate frenh about_school_yes_20801c09:
@@ -909,14 +909,14 @@ translate frenh about_school_yes_0aed0f34:
 # game/dialogues/lisatalk.rpy:558
 translate frenh about_school_yes_e685e146:
 
-    # [Lisa_12 "Так я тебе и поверила...[nointeract]"
-    Lisa_12 "Alors je t’ai cru...[nointeract]"
+    # [Lisa_12 "Так я тебе и поверила..." nointeract
+    Lisa_12 "Alors je t’ai cru..." nointeract
 
 # game/dialogues/lisatalk.rpy:561
 translate frenh about_school_yes_6acb2820:
 
-    # [Lisa_02 "Ладно, ладно. Если ты так говоришь, пусть так.[nointeract]"
-    Lisa_02 "Très bien, très bien. Si tu le dis, qu'il en soit ainsi.[nointeract]"
+    # [Lisa_02 "Ладно, ладно. Если ты так говоришь, пусть так." nointeract
+    Lisa_02 "Très bien, très bien. Si tu le dis, qu'il en soit ainsi." nointeract
 
 # game/dialogues/lisatalk.rpy:570
 translate frenh about_school_so_9e22a0c9:
@@ -933,8 +933,8 @@ translate frenh about_school_so_6e7aee99:
 # game/dialogues/lisatalk.rpy:575
 translate frenh about_school_like_2d12d67a:
 
-    # [Lisa_03 "Ну конечно! Что за глупые вопросы. Вот только я не знаю как правильно себя вести, что говорить...[nointeract]"
-    Lisa_03 "Bien sûr ! Quelle question stupide. Je ne sais pas comment me comporter correctement, et quoi dire...[nointeract]"
+    # [Lisa_03 "Ну конечно! Что за глупые вопросы. Вот только я не знаю как правильно себя вести, что говорить..." nointeract
+    Lisa_03 "Bien sûr ! Quelle question stupide. Je ne sais pas comment me comporter correctement, et quoi dire..." nointeract
 
 # game/dialogues/lisatalk.rpy:582
 translate frenh about_school_help_bbbc9140:
@@ -975,26 +975,26 @@ translate frenh about_school_goodplan_6e7aee99:
 # game/dialogues/lisatalk.rpy:605
 translate frenh talk_swim_f9fb2825:
 
-    # [Lisa_10 "Как... так?[nointeract]"
-    Lisa_10 "Comment... ainsi?[nointeract]"
+    # [Lisa_10 "Как... так?" nointeract
+    Lisa_10 "Comment... ainsi?" nointeract
 
 # game/dialogues/lisatalk.rpy:611
 translate frenh talk_swim_aabb926c:
 
-    # [Lisa_09 "Ну, у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были...[nointeract]"
-    Lisa_09 "Eh bien, je n'en ai pas d'autre. Tu sais que nos affaires ont disparu. C'est là que se trouvaient tous mes maillots de bain...[nointeract]"
+    # [Lisa_09 "Ну, у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..." nointeract
+    Lisa_09 "Eh bien, je n'en ai pas d'autre. Tu sais que nos affaires ont disparu. C'est là que se trouvaient tous mes maillots de bain..." nointeract
 
 # game/dialogues/lisatalk.rpy:614
 translate frenh talk_swim_9fb489a2:
 
-    # [Lisa_02 "Спасибо. Да, а чем ты можешь помочь, Макс?[nointeract]"
-    Lisa_02 "Merci. Oui, comment peux-tu aider, Max ?[nointeract]"
+    # [Lisa_02 "Спасибо. Да, а чем ты можешь помочь, Макс?" nointeract
+    Lisa_02 "Merci. Oui, comment peux-tu aider, Max ?" nointeract
 
 # game/dialogues/lisatalk.rpy:622
 translate frenh talk_swim_c6377e6c:
 
-    # [Lisa_01 "Очень смешно, Макс. Что же ты сам так не загораешь?[nointeract]"
-    Lisa_01 "Très drôle, Max. Pourquoi tu ne prends pas le soleil comme ça toi-même ?[nointeract]"
+    # [Lisa_01 "Очень смешно, Макс. Что же ты сам так не загораешь?" nointeract
+    Lisa_01 "Très drôle, Max. Pourquoi tu ne prends pas le soleil comme ça toi-même ?" nointeract
 
 # game/dialogues/lisatalk.rpy:628
 translate frenh talk_swim_e81c6c01:
@@ -1011,14 +1011,14 @@ translate frenh talk_swim_c9e206a7:
 # game/dialogues/lisatalk.rpy:633
 translate frenh talk_swim_ce7f44c6:
 
-    # [Lisa_12 "Фу, Макс! Опять твои шуточки... Не надо мне такого счастья. Держи свою штуку там, в штанах...[nointeract]"
-    Lisa_12 "Ugh, Max ! C'est reparti avec tes blagues... Je ne veux pas de ce genre de gags. Gardes ton truc là dans ton pantalon...[nointeract]"
+    # [Lisa_12 "Фу, Макс! Опять твои шуточки... Не надо мне такого счастья. Держи свою штуку там, в штанах..." nointeract
+    Lisa_12 "Ugh, Max ! C'est reparti avec tes blagues... Je ne veux pas de ce genre de gags. Gardes ton truc là dans ton pantalon..." nointeract
 
 # game/dialogues/lisatalk.rpy:636
 translate frenh talk_swim_56ee758f:
 
-    # [Lisa_02 "Извини, не подумала... В общем, другого купальника у меня нет.[nointeract]"
-    Lisa_02 "Désolé, je ne pensais pas... De toute façon, je n'ai pas d'autre maillot de bain.[nointeract]"
+    # [Lisa_02 "Извини, не подумала... В общем, другого купальника у меня нет." nointeract
+    Lisa_02 "Désolé, je ne pensais pas... De toute façon, je n'ai pas d'autre maillot de bain." nointeract
 
 # game/dialogues/lisatalk.rpy:643
 translate frenh talk_swim_0161d36c:
@@ -1035,14 +1035,14 @@ translate frenh talk_swim_53ada296:
 # game/dialogues/lisatalk.rpy:648
 translate frenh talk_swim_404a369e:
 
-    # [Lisa_02 "Очень смешно, Макс![nointeract]"
-    Lisa_02 "Très drôle, Max ![nointeract]"
+    # [Lisa_02 "Очень смешно, Макс!" nointeract
+    Lisa_02 "Très drôle, Max !" nointeract
 
 # game/dialogues/lisatalk.rpy:651
 translate frenh talk_swim_358813fa:
 
-    # [Lisa_00 "И это тоже не смешно. В общем, я тут поваляюсь, если ты не против...[nointeract]"
-    Lisa_00 "Ce n'est pas drôle non plus. Bref, je vais m'allonger ici, si ça ne te dérange pas...[nointeract]"
+    # [Lisa_00 "И это тоже не смешно. В общем, я тут поваляюсь, если ты не против..." nointeract
+    Lisa_00 "Ce n'est pas drôle non plus. Bref, je vais m'allonger ici, si ça ne te dérange pas..." nointeract
 
 # game/dialogues/lisatalk.rpy:661
 translate frenh talk_swim_want_bc2ecf01:
@@ -1083,8 +1083,8 @@ translate frenh talk_swim_findout_959de729:
 # game/dialogues/lisatalk.rpy:672
 translate frenh talk_swim_findout_a9727e81:
 
-    # [Lisa_02 "Ну, ладно. Посмотрим... Если у меня будет новый купальник, я тебя даже... в щёчку поцелую![nointeract]"
-    Lisa_02 "Bon, d'accord. Voyons voir... Si tu m'achètes un nouveau maillot de bain, je vais même... te faire un bisous sur la joue ![nointeract]"
+    # [Lisa_02 "Ну, ладно. Посмотрим... Если у меня будет новый купальник, я тебя даже... в щёчку поцелую!" nointeract
+    Lisa_02 "Bon, d'accord. Voyons voir... Si tu m'achètes un nouveau maillot de bain, je vais même... te faire un bisous sur la joue !" nointeract
 
 # game/dialogues/lisatalk.rpy:674
 translate frenh talk_swim_findout_1dc46cec:
@@ -1101,26 +1101,26 @@ translate frenh talk_swim_findout_71c075f0:
 # game/dialogues/lisatalk.rpy:688
 translate frenh about_boy_76261eae:
 
-    # [Lisa_00 "Моего парня? Какого? У меня нет никого...[nointeract]"
-    Lisa_00 "Mon petit ami? Lequel? Je n'ai personne...[nointeract]"
+    # [Lisa_00 "Моего парня? Какого? У меня нет никого..." nointeract
+    Lisa_00 "Mon petit ami? Lequel? Je n'ai personne..." nointeract
 
 # game/dialogues/lisatalk.rpy:695
 translate frenh about_boy_0ce10f5c:
 
-    # [Lisa_12 "А ты кто, моя мамочка, чтобы такие советы давать?[nointeract]"
-    Lisa_12 "Et qui es-tu pour donner de tels conseils? Ma maman? [nointeract]"
+    # [Lisa_12 "А ты кто, моя мамочка, чтобы такие советы давать?" nointeract
+    Lisa_12 "Et qui es-tu pour donner de tels conseils? Ma maman? " nointeract
 
 # game/dialogues/lisatalk.rpy:703
 translate frenh about_boy_12d9a7cb:
 
-    # [Lisa_02 "Думаешь, ты такой пришёл, высказал своё мнение и я побежала его бросила?[nointeract]"
-    Lisa_02 "Tu penses que tu es comme ça, tu viens, tu donnes ton avis et je cours le larguer ?[nointeract]"
+    # [Lisa_02 "Думаешь, ты такой пришёл, высказал своё мнение и я побежала его бросила?" nointeract
+    Lisa_02 "Tu penses que tu es comme ça, tu viens, tu donnes ton avis et je cours le larguer ?" nointeract
 
 # game/dialogues/lisatalk.rpy:711
 translate frenh about_boy_ac3f7c4e:
 
-    # [Lisa_03 "Ага, щаз. Даже если бы он и был моим парнем, только потому, что вы все попросите одновременно, я никого не брошу![nointeract]"
-    Lisa_03 "Oui, c'est ça. Même s’il était mon petit ami, juste parce que tu le demandes, je ne quitterais personne![nointeract]"
+    # [Lisa_03 "Ага, щаз. Даже если бы он и был моим парнем, только потому, что вы все попросите одновременно, я никого не брошу!" nointeract
+    Lisa_03 "Oui, c'est ça. Même s’il était mon petit ami, juste parce que tu le demandes, je ne quitterais personne!" nointeract
 
 # game/dialogues/lisatalk.rpy:717
 translate frenh about_boy_2b6728df:
@@ -1137,38 +1137,38 @@ translate frenh about_boy_2df2b69d:
 # game/dialogues/lisatalk.rpy:721
 translate frenh about_boy_so_ad4dede4:
 
-    # [Lisa_02 "Да никакой он мне не парень. Я же говорю, только познакомилась. Просто... он мне понравился.[nointeract]"
-    Lisa_02 "Ce n'est pas mon petit ami. Je te l'ai dit, je viens de le rencontrer. C'est juste que... Je l'aime bien.[nointeract]"
+    # [Lisa_02 "Да никакой он мне не парень. Я же говорю, только познакомилась. Просто... он мне понравился." nointeract
+    Lisa_02 "Ce n'est pas mon petit ami. Je te l'ai dit, je viens de le rencontrer. C'est juste que... Je l'aime bien." nointeract
 
 # game/dialogues/lisatalk.rpy:728
 translate frenh about_boy_reason_aa599a4f:
 
-    # [Lisa_02 "Так ты что-то сказать хотел или зачем эту тему поднял?[nointeract]"
-    Lisa_02 "Tu avais quelque chose à dire ou pourquoi tu en as parlé ?[nointeract]"
+    # [Lisa_02 "Так ты что-то сказать хотел или зачем эту тему поднял?" nointeract
+    Lisa_02 "Tu avais quelque chose à dire ou pourquoi tu en as parlé ?" nointeract
 
 # game/dialogues/lisatalk.rpy:731
 translate frenh about_boy_reason_19e122d0:
 
-    # [Lisa_00 "Помощь? Мне? В чём? Если мне будет нужна помощь, я попрошу. Нет проблемы, нечего и решать...[nointeract]"
-    Lisa_00 "Aide ? Moi ? Dans quoi ? Si j'ai besoin d'aide, je la demanderais. Pas de problème, rien à résoudre...[nointeract]"
+    # [Lisa_00 "Помощь? Мне? В чём? Если мне будет нужна помощь, я попрошу. Нет проблемы, нечего и решать..." nointeract
+    Lisa_00 "Aide ? Moi ? Dans quoi ? Si j'ai besoin d'aide, je la demanderais. Pas de problème, rien à résoudre..." nointeract
 
 # game/dialogues/lisatalk.rpy:738
 translate frenh about_boy_reason_4afab932:
 
-    # [Lisa_00 "Знаешь что, Макс. Оставь свои советы при себе. Я что-то не в духе. Да и не о чем сейчас разговаривать. Он мне не парень и у меня нет проблем, чтобы их решать![nointeract]"
-    Lisa_00 "Tu sais quoi, Max. Gardes tes conseils pour toi. Je ne suis pas d'humeur pour quoi que ce soit. Et il n'y a rien à dire maintenant. Ce n'est pas mon petit ami et je n'ai pas de problèmes à résoudre ![nointeract]"
+    # [Lisa_00 "Знаешь что, Макс. Оставь свои советы при себе. Я что-то не в духе. Да и не о чем сейчас разговаривать. Он мне не парень и у меня нет проблем, чтобы их решать!" nointeract
+    Lisa_00 "Tu sais quoi, Max. Gardes tes conseils pour toi. Je ne suis pas d'humeur pour quoi que ce soit. Et il n'y a rien à dire maintenant. Ce n'est pas mon petit ami et je n'ai pas de problèmes à résoudre !" nointeract
 
 # game/dialogues/lisatalk.rpy:755
 translate frenh wash_dishes_lisa_825dd03a:
 
-    # [Lisa_09 "А что насчёт посуды?[nointeract]"
-    Lisa_09 "Et la vaisselle ?[nointeract]"
+    # [Lisa_09 "А что насчёт посуды?" nointeract
+    Lisa_09 "Et la vaisselle ?" nointeract
 
 # game/dialogues/lisatalk.rpy:758
 translate frenh wash_dishes_lisa_9a2b70d3:
 
-    # [Lisa_01 "А вот знаешь... хочу! Да, спасибо, Макс![nointeract]"
-    Lisa_01 "Tu sais... Je le fais ! Oui, merci, Max ![nointeract]"
+    # [Lisa_01 "А вот знаешь... хочу! Да, спасибо, Макс!" nointeract
+    Lisa_01 "Tu sais... Je le fais ! Oui, merci, Max !" nointeract
 
 # game/dialogues/lisatalk.rpy:768
 translate frenh wash_dishes_lisa_acbb7452:
@@ -1179,14 +1179,14 @@ translate frenh wash_dishes_lisa_acbb7452:
 # game/dialogues/lisatalk.rpy:770
 translate frenh wash_dishes_lisa_5c3452e3:
 
-    # [Max_00 "А с другой строны - неплохой способ улучшить отношения с Лизой...[nointeract]"
-    Max_00 "D'un autre côté, ce n'est pas un mauvais moyen d'améliorer ma relation avec Lisa...[nointeract]"
+    # [Max_00 "А с другой строны - неплохой способ улучшить отношения с Лизой..." nointeract
+    Max_00 "D'un autre côté, ce n'est pas un mauvais moyen d'améliorer ma relation avec Lisa..." nointeract
 
 # game/dialogues/lisatalk.rpy:775
 translate frenh wash_dishes_lisa_1bfb44d5:
 
-    # [Lisa_12 "Ну раз ничего, то нечего меня отвлекать. Иди делом займись![nointeract]"
-    Lisa_12 "Eh bien, si tout va bien, il n'y a rien pour me distraire. Continues ton travail ![nointeract]"
+    # [Lisa_12 "Ну раз ничего, то нечего меня отвлекать. Иди делом займись!" nointeract
+    Lisa_12 "Eh bien, si tout va bien, il n'y a rien pour me distraire. Continues ton travail !" nointeract
 
 # game/dialogues/lisatalk.rpy:784
 translate frenh about_boy2_f45a04f4:
@@ -1203,8 +1203,8 @@ translate frenh about_boy2_87bbb264:
 # game/dialogues/lisatalk.rpy:788
 translate frenh about_boy2_8248d2d7:
 
-    # [Lisa_09 "Макс, я тебе рассказала по секрету, а ты меня спалил маме. Не хочу ничего рассказывать больше...[nointeract]"
-    Lisa_09 "Max, je te l'ai dit en toute confiance et tu m'as grillé auprès de maman. Je ne veux pas t'en dire plus...[nointeract]"
+    # [Lisa_09 "Макс, я тебе рассказала по секрету, а ты меня спалил маме. Не хочу ничего рассказывать больше..." nointeract
+    Lisa_09 "Max, je te l'ai dit en toute confiance et tu m'as grillé auprès de maman. Je ne veux pas t'en dire plus..." nointeract
 
 # game/dialogues/lisatalk.rpy:790
 translate frenh about_boy2_09ecf6e1:
@@ -1245,8 +1245,8 @@ translate frenh about_boy2_269e92ba:
 # game/dialogues/lisatalk.rpy:801
 translate frenh about_boy2_524829a1:
 
-    # [Lisa_01 "Макс, ты чего такой любопытный? Я же не выпытываю с кем ты встречаешься...[nointeract]"
-    Lisa_01 "Max, pourquoi es-tu si curieux? Ce n'est pas comme si je me mêlais de savoir avec qui tu sors...[nointeract]"
+    # [Lisa_01 "Макс, ты чего такой любопытный? Я же не выпытываю с кем ты встречаешься..." nointeract
+    Lisa_01 "Max, pourquoi es-tu si curieux? Ce n'est pas comme si je me mêlais de savoir avec qui tu sors..." nointeract
 
 # game/dialogues/lisatalk.rpy:803
 translate frenh about_boy2_f920e3b6:
@@ -1287,8 +1287,8 @@ translate frenh about_boy2_97a3b79e:
 # game/dialogues/lisatalk.rpy:812
 translate frenh about_boy2_a42d3e89:
 
-    # [Lisa_00 "Об Алексе? Ну, у него есть подружка, оказывается. Самая красивая девочка в школе, говорят...[nointeract]"
-    Lisa_00 "A propos d'Alex ? Eh bien, il s'avère qu'il a une petite amie. La plus jolie fille de l'école, dit-on...[nointeract]"
+    # [Lisa_00 "Об Алексе? Ну, у него есть подружка, оказывается. Самая красивая девочка в школе, говорят..." nointeract
+    Lisa_00 "A propos d'Alex ? Eh bien, il s'avère qu'il a une petite amie. La plus jolie fille de l'école, dit-on..." nointeract
 
 # game/dialogues/lisatalk.rpy:814
 translate frenh about_boy2_42191ec0:
@@ -1311,14 +1311,14 @@ translate frenh about_boy2_b5806702:
 # game/dialogues/lisatalk.rpy:819
 translate frenh about_boy2_aab572e6:
 
-    # [Lisa_02 "Конечно! Мы же в одном классе учимся. Зовут Оливия.[nointeract]"
-    Lisa_02 "Bien sûr ! Nous sommes dans la même classe. Son nom est Olivia.[nointeract]"
+    # [Lisa_02 "Конечно! Мы же в одном классе учимся. Зовут Оливия." nointeract
+    Lisa_02 "Bien sûr ! Nous sommes dans la même classe. Son nom est Olivia." nointeract
 
 # game/dialogues/lisatalk.rpy:822
 translate frenh about_boy2_70433f6e:
 
-    # [Lisa_00 "Нет, Макс. Наоборот, она такая хорошая, тихая, скромная, но почему-то всем нравится... Хотя, и правда симпатичная очень...[nointeract]"
-    Lisa_00 "Non, Max. Au contraire, elle est si gentille, calme, modeste, mais pour une raison quelconque, tout le monde l'aime... Elle est vraiment jolie, cependant...[nointeract]"
+    # [Lisa_00 "Нет, Макс. Наоборот, она такая хорошая, тихая, скромная, но почему-то всем нравится... Хотя, и правда симпатичная очень..." nointeract
+    Lisa_00 "Non, Max. Au contraire, elle est si gentille, calme, modeste, mais pour une raison quelconque, tout le monde l'aime... Elle est vraiment jolie, cependant..." nointeract
 
 # game/dialogues/lisatalk.rpy:824
 translate frenh about_boy2_4b907f20:
@@ -1335,8 +1335,8 @@ translate frenh about_boy2_e6fd774e:
 # game/dialogues/lisatalk.rpy:829
 translate frenh about_boy2_3b1edd54:
 
-    # [Lisa_00 "Ну, она такая хорошая, тихая, скромная. И очень симпатичная...[nointeract]"
-    Lisa_00 "Eh bien, elle est si gentille, calme, modeste. Et très jolie...[nointeract]"
+    # [Lisa_00 "Ну, она такая хорошая, тихая, скромная. И очень симпатичная..." nointeract
+    Lisa_00 "Eh bien, elle est si gentille, calme, modeste. Et très jolie..." nointeract
 
 # game/dialogues/lisatalk.rpy:831
 translate frenh about_boy2_4b907f20_1:
@@ -1371,8 +1371,8 @@ translate frenh about_boy2_ab642acd:
 # game/dialogues/lisatalk.rpy:838
 translate frenh about_boy2_db09ffe0:
 
-    # [Lisa_02 "Ну мы не очень много общались, но она ему нравится, это точно. Хотя, я ему тоже нравлюсь, похоже... Чуть-чуть...[nointeract]"
-    Lisa_02 "On n'a pas beaucoup parlé, mais il l'aime bien, c'est sûr. Il a l'air de m'aimer aussi, pourtant... Juste un peu...[nointeract]"
+    # [Lisa_02 "Ну мы не очень много общались, но она ему нравится, это точно. Хотя, я ему тоже нравлюсь, похоже... Чуть-чуть..." nointeract
+    Lisa_02 "On n'a pas beaucoup parlé, mais il l'aime bien, c'est sûr. Il a l'air de m'aimer aussi, pourtant... Juste un peu..." nointeract
 
 # game/dialogues/lisatalk.rpy:840
 translate frenh about_boy2_f0995d1c:
@@ -1407,8 +1407,8 @@ translate frenh about_boy2_269e92ba_1:
 # game/dialogues/lisatalk.rpy:857
 translate frenh Lisa_MorningWood_d0dd5342:
 
-    # [Lisa_00 "Макс, я не хочу об этом говорить![nointeract]"
-    Lisa_00 "Max, je ne veux pas en parler ![nointeract]"
+    # [Lisa_00 "Макс, я не хочу об этом говорить!" nointeract
+    Lisa_00 "Max, je ne veux pas en parler !" nointeract
 
 # game/dialogues/lisatalk.rpy:859
 translate frenh Lisa_MorningWood_481f4ffa:
@@ -1731,32 +1731,32 @@ translate frenh Lisa_MorningWoodCont_a1cf24b5:
 # game/dialogues/lisatalk.rpy:935
 translate frenh Lisa_sg1_eb6c0fa7:
 
-    # [Lisa_00 "Да, что насчёт успеваемости? Позлорадствовать пришёл или помочь хочешь?[nointeract]"
-    Lisa_00 "Oui, et les notes ? Es-tu ici pour jubiler ou pour m'aider ?[nointeract]"
+    # [Lisa_00 "Да, что насчёт успеваемости? Позлорадствовать пришёл или помочь хочешь?" nointeract
+    Lisa_00 "Oui, et les notes ? Es-tu ici pour jubiler ou pour m'aider ?" nointeract
 
 # game/dialogues/lisatalk.rpy:938
 translate frenh Lisa_sg1_29fca26f:
 
-    # [Lisa_02 "Ну, я рада, если так. У меня не очень хороши дела с математикой и анатомией. У нас её просто не было. Должна была быть, но учитель всё время болел и я так толком и не разобралась в теме...[nointeract]"
-    Lisa_02 "Eh bien, je suis content si tu l'es. Je ne suis pas très bonne en maths et en anatomie. Nous ne l'avions pas. Il devait y en avoir un cours, mais le professeur était tout le temps malade et je n'ai jamais pu m'y intéresser...[nointeract]"
+    # [Lisa_02 "Ну, я рада, если так. У меня не очень хороши дела с математикой и анатомией. У нас её просто не было. Должна была быть, но учитель всё время болел и я так толком и не разобралась в теме..." nointeract
+    Lisa_02 "Eh bien, je suis content si tu l'es. Je ne suis pas très bonne en maths et en anatomie. Nous ne l'avions pas. Il devait y en avoir un cours, mais le professeur était tout le temps malade et je n'ai jamais pu m'y intéresser..." nointeract
 
 # game/dialogues/lisatalk.rpy:945
 translate frenh Lisa_sg1_a685c7da:
 
-    # [Lisa_02 "Дела у меня отлично. Если ты об уроках, то всё хорошо кроме математики и анатомии. В прошлой школе не очень повезло с учителем, он всё время болел и я мало чего поняла...[nointeract]"
-    Lisa_02 "Je vais très bien. Si tu veux parler des cours, tout est bon sauf les maths et l'anatomie. La dernière école n'a pas eu beaucoup de chance avec le professeur, il était tout le temps malade et je n'y comprenais pas grand chose...[nointeract]"
+    # [Lisa_02 "Дела у меня отлично. Если ты об уроках, то всё хорошо кроме математики и анатомии. В прошлой школе не очень повезло с учителем, он всё время болел и я мало чего поняла..." nointeract
+    Lisa_02 "Je vais très bien. Si tu veux parler des cours, tout est bon sauf les maths et l'anatomie. La dernière école n'a pas eu beaucoup de chance avec le professeur, il était tout le temps malade et je n'y comprenais pas grand chose..." nointeract
 
 # game/dialogues/lisatalk.rpy:952
 translate frenh Lisa_sg1_help_44f0ef71:
 
-    # [Lisa_02 "Это же здорово! Точно... Ты уже неоднократно говорил, что тебя выгнали не за знания. Значит, ты мне поможешь, правда?[nointeract]"
-    Lisa_02 "C'est génial ! Exactement... Tu as dit à plusieurs reprises que tu n'as pas été mis à la porte pour tes connaissances. Alors tu vas m'aider, n'est-ce pas ?[nointeract]"
+    # [Lisa_02 "Это же здорово! Точно... Ты уже неоднократно говорил, что тебя выгнали не за знания. Значит, ты мне поможешь, правда?" nointeract
+    Lisa_02 "C'est génial ! Exactement... Tu as dit à plusieurs reprises que tu n'as pas été mis à la porte pour tes connaissances. Alors tu vas m'aider, n'est-ce pas ?" nointeract
 
 # game/dialogues/lisatalk.rpy:955
 translate frenh Lisa_sg1_help_e816701b:
 
-    # [Lisa_01 "Что? Вот просто так решил помогать и ничего не просить взамен? Правда?[nointeract]"
-    Lisa_01 "Quoi ? Tu décides juste d'aider sans rien demander en retour ? Vraiment ?[nointeract]"
+    # [Lisa_01 "Что? Вот просто так решил помогать и ничего не просить взамен? Правда?" nointeract
+    Lisa_01 "Quoi ? Tu décides juste d'aider sans rien demander en retour ? Vraiment ?" nointeract
 
 # game/dialogues/lisatalk.rpy:964
 translate frenh Lisa_sg1_nothing_4abf0225:
@@ -1773,14 +1773,14 @@ translate frenh Lisa_sg1_nothing_bf34badd:
 # game/dialogues/lisatalk.rpy:974
 translate frenh Lisa_sg1_maybe_2a33fdf4:
 
-    # [Lisa_09 "Может быть? В смысле? Ты что-то хочешь за помощь?[nointeract]"
-    Lisa_09 "C'est possible ? Qu'est-ce que tu veux dire ? Tu veux quelque chose pour ton aide ?[nointeract]"
+    # [Lisa_09 "Может быть? В смысле? Ты что-то хочешь за помощь?" nointeract
+    Lisa_09 "C'est possible ? Qu'est-ce que tu veux dire ? Tu veux quelque chose pour ton aide ?" nointeract
 
 # game/dialogues/lisatalk.rpy:982
 translate frenh Lisa_sg1_maybe_1cc7fa1a:
 
-    # [Lisa_09 "А я думала, что поможешь своей младшей сестрёнке избежать сурового наказания строгой мамы... А ты...[nointeract]"
-    Lisa_09 "Et moi qui pensais que tu allais aider ta petite sœur à échapper à la punition sévère de sa mère stricte... Et toi...[nointeract]"
+    # [Lisa_09 "А я думала, что поможешь своей младшей сестрёнке избежать сурового наказания строгой мамы... А ты..." nointeract
+    Lisa_09 "Et moi qui pensais que tu allais aider ta petite sœur à échapper à la punition sévère de sa mère stricte... Et toi..." nointeract
 
 # game/dialogues/lisatalk.rpy:988
 translate frenh Lisa_sg1_maybe_fa7c0c4b:
@@ -1887,8 +1887,8 @@ translate frenh Lisa_HomeWork_44b8f3ca:
 # game/dialogues/lisatalk.rpy:1038
 translate frenh Lisa_HomeWork_7a1b1aa9:
 
-    # [Lisa_01 "Нет, Макс, спасибо. Я теперь посещаю дополнительные курсы в школе, так что справлюсь сама.[nointeract]"
-    Lisa_01 "Non, Max, merci. Je suis maintenant des cours supplémentaires à l'école, afin de pouvoir me débrouiller seul.[nointeract]"
+    # [Lisa_01 "Нет, Макс, спасибо. Я теперь посещаю дополнительные курсы в школе, так что справлюсь сама." nointeract
+    Lisa_01 "Non, Max, merci. Je suis maintenant des cours supplémentaires à l'école, afin de pouvoir me débrouiller seul." nointeract
 
 # game/dialogues/lisatalk.rpy:1042
 translate frenh Lisa_HomeWork_9c68abf9:
@@ -1917,14 +1917,14 @@ translate frenh Lisa_HomeWork_7fc42348:
 # game/dialogues/lisatalk.rpy:1058
 translate frenh Lisa_HomeWork_6342fdfe:
 
-    # [Lisa_00 "Ну, если ты не занят и правда знаешь что-то по этой теме...[nointeract]"
-    Lisa_00 "Eh bien, si tu n'es pas occupé et que tu connais vraiment le sujet...[nointeract]"
+    # [Lisa_00 "Ну, если ты не занят и правда знаешь что-то по этой теме..." nointeract
+    Lisa_00 "Eh bien, si tu n'es pas occupé et que tu connais vraiment le sujet..." nointeract
 
 # game/dialogues/lisatalk.rpy:1072
 translate frenh Lisa_HomeWork_2e4b11ca:
 
-    # [Lisa_02 "Отлично. В общем, мне нужно сделать вот это, это и вот то. Поможешь?[nointeract]"
-    Lisa_02 "Super. Bref, je dois faire ça, ça et ça. Peux-tu m'aider ?[nointeract]"
+    # [Lisa_02 "Отлично. В общем, мне нужно сделать вот это, это и вот то. Поможешь?" nointeract
+    Lisa_02 "Super. Bref, je dois faire ça, ça et ça. Peux-tu m'aider ?" nointeract
 
 # game/dialogues/lisatalk.rpy:1074
 translate frenh Lisa_HomeWork_641cf30e:
@@ -1953,8 +1953,8 @@ translate frenh Lisa_HomeWork_3dd007fd:
 # game/dialogues/lisatalk.rpy:1090
 translate frenh Lisa_HomeWork_ecb8da1b:
 
-    # [Lisa_09 "Чего ты хочешь, Макс?[nointeract]"
-    Lisa_09 "Qu'est-ce que tu veux, Max ?[nointeract]"
+    # [Lisa_09 "Чего ты хочешь, Макс?" nointeract
+    Lisa_09 "Qu'est-ce que tu veux, Max ?" nointeract
 
 # game/dialogues/lisatalk.rpy:1100
 translate frenh Lisa_HomeWork_1d62a6d4:
@@ -1995,8 +1995,8 @@ translate frenh Lisa_HomeWork_88dd5285:
 # game/dialogues/lisatalk.rpy:1127
 translate frenh Lisa_HomeWork_show_breast_9405b190:
 
-    # [Lisa_10 "Ну Макс. Ты же мой брат...[nointeract]"
-    Lisa_10 "Eh bien Max. Tu es mon frère...[nointeract]"
+    # [Lisa_10 "Ну Макс. Ты же мой брат..." nointeract
+    Lisa_10 "Eh bien Max. Tu es mon frère..." nointeract
 
 # game/dialogues/lisatalk.rpy:1137
 translate frenh Lisa_HomeWork_show_breast_ad2bf7be:
@@ -2067,8 +2067,8 @@ translate frenh Lisa_HomeWork_show_breast_2443b693:
 # game/dialogues/lisatalk.rpy:1170
 translate frenh Lisa_HomeWork_make_bag_16d92097:
 
-    # [Lisa_13 "Макс, мне кажется, что здесь должен быть другой ответ. Это же не так решается...[nointeract]"
-    Lisa_13 "Max, je pense qu'il devrait y avoir une réponse différente ici. Ce n'est pas comme ça que ça se résout...[nointeract]"
+    # [Lisa_13 "Макс, мне кажется, что здесь должен быть другой ответ. Это же не так решается..." nointeract
+    Lisa_13 "Max, je pense qu'il devrait y avoir une réponse différente ici. Ce n'est pas comme ça que ça se résout..." nointeract
 
 # game/dialogues/lisatalk.rpy:1172
 translate frenh Lisa_HomeWork_make_bag_841fcf53:
@@ -2169,26 +2169,26 @@ translate frenh Lisa_HomeWork_first_foot_mass_611214bb:
 # game/dialogues/lisatalk.rpy:1234
 translate frenh Lisa_HomeWork_first_foot_mass_88404510:
 
-    # [Lisa_01 "Тогда делай то, от чего у Алисы был такой блаженный вид! А я пока уроками займусь...[nointeract]"
-    Lisa_01 "Alors fais la chose qui rendait Alice si heureuse ! En attendant, je vais faire mes devoirs...[nointeract]"
+    # [Lisa_01 "Тогда делай то, от чего у Алисы был такой блаженный вид! А я пока уроками займусь..." nointeract
+    Lisa_01 "Alors fais la chose qui rendait Alice si heureuse ! En attendant, je vais faire mes devoirs..." nointeract
 
 # game/dialogues/lisatalk.rpy:1242
 translate frenh Lisa_HomeWork_first_foot_mass_4dd4de13:
 
-    # [Max_04 "{m}Какие у Лизы красивые ножки. А как классно к ним прикасаться...{/m}[nointeract]"
-    Max_04 "{m}Quelles belles jambes a Lisa. Et comme c'est cool de les toucher...{/m}[nointeract]"
+    # [Max_04 "{m}Какие у Лизы красивые ножки. А как классно к ним прикасаться...{/m}" nointeract
+    Max_04 "{m}Quelles belles jambes a Lisa. Et comme c'est cool de les toucher...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1248
 translate frenh Lisa_HomeWork_first_foot_mass_def08673:
 
-    # [Lisa_02 "[lisa_good_mass!t]У тебя хорошо получается. Мне приятно...[nointeract]"
-    Lisa_02 "[lisa_good_mass!t]Tu es doué pour ça. Tout le plaisir est pour moi...[nointeract]"
+    # [Lisa_02 "[lisa_good_mass!t]У тебя хорошо получается. Мне приятно..." nointeract
+    Lisa_02 "[lisa_good_mass!t]Tu es doué pour ça. Tout le plaisir est pour moi..." nointeract
 
 # game/dialogues/lisatalk.rpy:1254
 translate frenh Lisa_HomeWork_first_foot_mass_3f00b33e:
 
-    # [Lisa_01 "[lisa_bad_mass!t]Макс! Мне щекотно! Давай без этого, я же всё-таки ошибку могу допустить...[nointeract]"
-    Lisa_01 "[lisa_bad_mass!t]Max ! Je suis chatouilleuse! Ne faisons pas ça, tu pourrais faire une erreur après tout...[nointeract]"
+    # [Lisa_01 "[lisa_bad_mass!t]Макс! Мне щекотно! Давай без этого, я же всё-таки ошибку могу допустить..." nointeract
+    Lisa_01 "[lisa_bad_mass!t]Max ! Je suis chatouilleuse! Ne faisons pas ça, tu pourrais faire une erreur après tout..." nointeract
 
 # game/dialogues/lisatalk.rpy:1264
 translate frenh Lisa_HomeWork_first_foot_mass_31c88882:
@@ -2211,8 +2211,8 @@ translate frenh Lisa_HomeWork_first_foot_mass_ac62f47c:
 # game/dialogues/lisatalk.rpy:1268
 translate frenh Lisa_HomeWork_first_foot_mass_c026f42e:
 
-    # [Max_02 "А, ты про свои трусики! Нет, совсем ничего не видно.[nointeract]"
-    Max_02 "Oh, tu veux dire ta culotte ! Non, on ne voit rien du tout.[nointeract]"
+    # [Max_02 "А, ты про свои трусики! Нет, совсем ничего не видно." nointeract
+    Max_02 "Oh, tu veux dire ta culotte ! Non, on ne voit rien du tout." nointeract
 
 # game/dialogues/lisatalk.rpy:1271
 translate frenh Lisa_HomeWork_first_foot_mass_f0ba5c19:
@@ -2283,26 +2283,26 @@ translate frenh Lisa_HomeWork_next_foot_mass_dad7d252:
 # game/dialogues/lisatalk.rpy:1306
 translate frenh Lisa_HomeWork_next_foot_mass_a46698a5:
 
-    # [Lisa_02 "Дай-ка подумать... Конечно, да! Ещё бы я от этого отказалась.[nointeract]"
-    Lisa_02 "Laisse-moi réfléchir... Bien sûr que oui! Et encore, j'aurais envisagé de refuser.[nointeract]"
+    # [Lisa_02 "Дай-ка подумать... Конечно, да! Ещё бы я от этого отказалась." nointeract
+    Lisa_02 "Laisse-moi réfléchir... Bien sûr que oui! Et encore, j'aurais envisagé de refuser." nointeract
 
 # game/dialogues/lisatalk.rpy:1314
 translate frenh Lisa_HomeWork_next_foot_mass_186c48f7:
 
-    # [Max_04 "{m}А Лизе нравится то, что я делаю. Она не особо признаётся в этом, но по ней видно. Мне нравятся эти стройные ножки...{/m}[nointeract]"
-    Max_04 "{m}Et Lisa aime ce que je fais. Elle ne l'admet pas vraiment, mais ça se voit. J'aime ces jambes fines...{/m}[nointeract]"
+    # [Max_04 "{m}А Лизе нравится то, что я делаю. Она не особо признаётся в этом, но по ней видно. Мне нравятся эти стройные ножки...{/m}" nointeract
+    Max_04 "{m}Et Lisa aime ce que je fais. Elle ne l'admet pas vraiment, mais ça se voit. J'aime ces jambes fines...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1320
 translate frenh Lisa_HomeWork_next_foot_mass_9ba963d4:
 
-    # [Lisa_05 "[lisa_good_mass!t]Твой массаж так хорошо расслабляет, даже уроки нескучно делать. Очень приятно...[nointeract]"
-    Lisa_05 "[lisa_good_mass!t]Ton massage est si relaxant qu'il n'est même pas ennuyeux de faire ses devoirs. C'est un plaisir...[nointeract]"
+    # [Lisa_05 "[lisa_good_mass!t]Твой массаж так хорошо расслабляет, даже уроки нескучно делать. Очень приятно..." nointeract
+    Lisa_05 "[lisa_good_mass!t]Ton massage est si relaxant qu'il n'est même pas ennuyeux de faire ses devoirs. C'est un plaisir..." nointeract
 
 # game/dialogues/lisatalk.rpy:1326
 translate frenh Lisa_HomeWork_next_foot_mass_3f00b33e:
 
-    # [Lisa_01 "[lisa_bad_mass!t]Макс! Мне щекотно! Давай без этого, я же всё-таки ошибку могу допустить...[nointeract]"
-    Lisa_01 "[lisa_bad_mass!t]Max ! Je suis chatouilleuse! Ne faisons pas ça, tu pourrais faire une erreur après tout...[nointeract]"
+    # [Lisa_01 "[lisa_bad_mass!t]Макс! Мне щекотно! Давай без этого, я же всё-таки ошибку могу допустить..." nointeract
+    Lisa_01 "[lisa_bad_mass!t]Max ! Je suis chatouilleuse! Ne faisons pas ça, tu pourrais faire une erreur après tout..." nointeract
 
 # game/dialogues/lisatalk.rpy:1336
 translate frenh Lisa_HomeWork_next_foot_mass_ecec7f41:
@@ -2325,8 +2325,8 @@ translate frenh Lisa_HomeWork_next_foot_mass_4737c07b:
 # game/dialogues/lisatalk.rpy:1341
 translate frenh Lisa_HomeWork_next_foot_mass_cfc28aca:
 
-    # [Max_02 "Так я же многозадачный![nointeract]"
-    Max_02 "Donc je suis multitâche ![nointeract]"
+    # [Max_02 "Так я же многозадачный!" nointeract
+    Max_02 "Donc je suis multitâche !" nointeract
 
 # game/dialogues/lisatalk.rpy:1349
 translate frenh Lisa_HomeWork_next_foot_mass_9f553937:
@@ -2379,8 +2379,8 @@ translate frenh Lisa_HomeWork_shoulders_6d2ca900:
 # game/dialogues/lisatalk.rpy:1388
 translate frenh Lisa_HomeWork_shoulders_a640ac19:
 
-    # [Lisa_02 "[succes!t]Ну, можно. Мне бы это тоже не помешало.[nointeract]"
-    Lisa_02 "[succes!t]Eh bien, tu peux. Je pourrais faire avec ça aussi.[nointeract]"
+    # [Lisa_02 "[succes!t]Ну, можно. Мне бы это тоже не помешало." nointeract
+    Lisa_02 "[succes!t]Eh bien, tu peux. Je pourrais faire avec ça aussi." nointeract
 
 # game/dialogues/lisatalk.rpy:1397
 translate frenh Lisa_HomeWork_shoulders_9678442f:
@@ -2409,8 +2409,8 @@ translate frenh Lisa_HomeWork_shoulders_a8dbd30a:
 # game/dialogues/lisatalk.rpy:1406
 translate frenh Lisa_HomeWork_shoulders_66637f7f:
 
-    # [Lisa_06 "Ага... У меня даже глаза начинают закрываться от удовольствия.[nointeract]"
-    Lisa_06 "Ouais... Mes yeux commencent même à se fermer de plaisir.[nointeract]"
+    # [Lisa_06 "Ага... У меня даже глаза начинают закрываться от удовольствия." nointeract
+    Lisa_06 "Ouais... Mes yeux commencent même à se fermer de plaisir." nointeract
 
 # game/dialogues/lisatalk.rpy:1408
 translate frenh Lisa_HomeWork_shoulders_4cf300fe:
@@ -2583,8 +2583,8 @@ translate frenh Lisa_HomeWork_new_self_62781807:
 # game/dialogues/lisatalk.rpy:1501
 translate frenh Lisa_HomeWork_new_massage_71299d13:
 
-    # [Lisa_02 "Дай-ка подумать... Да, давай! Я люблю, когда ты это делаешь![nointeract]"
-    Lisa_02 "Laissez-moi voir... Oui, aller ! J'adore quand tu fais ça ![nointeract]"
+    # [Lisa_02 "Дай-ка подумать... Да, давай! Я люблю, когда ты это делаешь!" nointeract
+    Lisa_02 "Laissez-moi voir... Oui, aller ! J'adore quand tu fais ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:1509
 translate frenh Lisa_HomeWork_new_massage_4549fd0d:
@@ -2595,8 +2595,8 @@ translate frenh Lisa_HomeWork_new_massage_4549fd0d:
 # game/dialogues/lisatalk.rpy:1511
 translate frenh Lisa_HomeWork_new_massage_65c8d363:
 
-    # [Lisa_05 "Твой массаж так хорошо расслабляет, даже уроки нескучно проверять. Очень приятно...[nointeract]"
-    Lisa_05 "Ton massage est si relaxant qu'il n'est même pas ennuyeux de vérifier mes devoirs. C'est un plaisir...[nointeract]"
+    # [Lisa_05 "Твой массаж так хорошо расслабляет, даже уроки нескучно проверять. Очень приятно..." nointeract
+    Lisa_05 "Ton massage est si relaxant qu'il n'est même pas ennuyeux de vérifier mes devoirs. C'est un plaisir..." nointeract
 
 # game/dialogues/lisatalk.rpy:1518
 translate frenh Lisa_HomeWork_new_massage_751c15f5:
@@ -2619,8 +2619,8 @@ translate frenh Lisa_HomeWork_new_massage_93373081:
 # game/dialogues/lisatalk.rpy:1525
 translate frenh Lisa_HomeWork_new_massage_98679327:
 
-    # [Lisa_10 "Ой, нет, я в смысле... Ну... это...[nointeract]"
-    Lisa_10 "Oh, non, je veux dire... Eh bien... c'est...[nointeract]"
+    # [Lisa_10 "Ой, нет, я в смысле... Ну... это..." nointeract
+    Lisa_10 "Oh, non, je veux dire... Eh bien... c'est..." nointeract
 
 # game/dialogues/lisatalk.rpy:1527
 translate frenh Lisa_HomeWork_new_massage_8eabf02d:
@@ -2655,8 +2655,8 @@ translate frenh Lisa_HomeWork_new_massage_02025e2e_1:
 # game/dialogues/lisatalk.rpy:1545
 translate frenh Lisa_HomeWork_new_shoulders_a640ac19:
 
-    # [Lisa_02 "[succes!t]Ну, можно. Мне бы это тоже не помешало.[nointeract]"
-    Lisa_02 "[succes!t]Eh bien, tu peux. Je pourrais faire avec ça aussi.[nointeract]"
+    # [Lisa_02 "[succes!t]Ну, можно. Мне бы это тоже не помешало." nointeract
+    Lisa_02 "[succes!t]Eh bien, tu peux. Je pourrais faire avec ça aussi." nointeract
 
 # game/dialogues/lisatalk.rpy:1553
 translate frenh Lisa_HomeWork_new_shoulders_414bb52e:
@@ -2673,8 +2673,8 @@ translate frenh Lisa_HomeWork_new_shoulders_a8dbd30a:
 # game/dialogues/lisatalk.rpy:1556
 translate frenh Lisa_HomeWork_new_shoulders_66637f7f:
 
-    # [Lisa_06 "Ага... У меня даже глаза начинают закрываться от удовольствия.[nointeract]"
-    Lisa_06 "Ouais... Mes yeux commencent même à se fermer de plaisir.[nointeract]"
+    # [Lisa_06 "Ага... У меня даже глаза начинают закрываться от удовольствия." nointeract
+    Lisa_06 "Ouais... Mes yeux commencent même à se fermer de plaisir." nointeract
 
 # game/dialogues/lisatalk.rpy:1562
 translate frenh Lisa_HomeWork_new_shoulders_ac499777:
@@ -2745,8 +2745,8 @@ translate frenh Lisa_HomeWork_new_shoulders_3593d09b_1:
 # game/dialogues/lisatalk.rpy:1589
 translate frenh Lisa_HomeWork_new_shoulders_eac8a037:
 
-    # [Lisa_05 "Мне надо сказать \"нет\", но я не хочу, чтобы ты останавливался...[nointeract]"
-    Lisa_05 "je dois dire non, mais je ne veux pas que tu t'arrêtes...[nointeract]"
+    # [Lisa_05 "Мне надо сказать \"нет\", но я не хочу, чтобы ты останавливался..." nointeract
+    Lisa_05 "je dois dire non, mais je ne veux pas que tu t'arrêtes..." nointeract
 
 # game/dialogues/lisatalk.rpy:1596
 translate frenh Lisa_HomeWork_new_shoulders_45a8919b:
@@ -2775,8 +2775,8 @@ translate frenh Lisa_HomeWork_new_shoulders_52b18094:
 # game/dialogues/lisatalk.rpy:1610
 translate frenh Lisa_HomeWork_new_shoulders_90b36f7e:
 
-    # [Max_07 "{m}Да, Лиза... Я чувствую, как сильно ты хочешь, чтобы я не прекращал ласкать твои сисечки. А твои сочные губки... Не могу удержаться, чтобы они не встретились с моими!{/m}[nointeract]"
-    Max_07 "{m}Oui, Lisa... Je peux sentir à quel point tu veux que je continue à caresser tes seins. Et tes lèvres juteuses... Je ne peux pas résister au fait qu'elles rencontrent les miennes !{/m}[nointeract]"
+    # [Max_07 "{m}Да, Лиза... Я чувствую, как сильно ты хочешь, чтобы я не прекращал ласкать твои сисечки. А твои сочные губки... Не могу удержаться, чтобы они не встретились с моими!{/m}" nointeract
+    Max_07 "{m}Oui, Lisa... Je peux sentir à quel point tu veux que je continue à caresser tes seins. Et tes lèvres juteuses... Je ne peux pas résister au fait qu'elles rencontrent les miennes !{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1617
 translate frenh Lisa_HomeWork_new_shoulders_af730dde:
@@ -2829,8 +2829,8 @@ translate frenh liza_hand_mass_43b5681d:
 # game/dialogues/lisatalk.rpy:1649
 translate frenh liza_hand_mass_1ea6a07c:
 
-    # [Max_01 "Тогда давай устраиваемся поудобнее и начинаем.[nointeract]"
-    Max_01 "Alors, mettons-nous à l'aise et commençons.[nointeract]"
+    # [Max_01 "Тогда давай устраиваемся поудобнее и начинаем." nointeract
+    Max_01 "Alors, mettons-nous à l'aise et commençons." nointeract
 
 # game/dialogues/lisatalk.rpy:1658
 translate frenh liza_hand_mass_f1414293:
@@ -2853,8 +2853,8 @@ translate frenh liza_hand_mass_d46dc1a6:
 # game/dialogues/lisatalk.rpy:1668
 translate frenh liza_hand_mass_5ab41588:
 
-    # [Max_04 "Сейчас разомнём все пальчики и тебе будет легче писать.[nointeract]"
-    Max_04 "Maintenant, nous allons étirer tous tes doigts et tu trouveras plus facile d'écrire.[nointeract]"
+    # [Max_04 "Сейчас разомнём все пальчики и тебе будет легче писать." nointeract
+    Max_04 "Maintenant, nous allons étirer tous tes doigts et tu trouveras plus facile d'écrire." nointeract
 
 # game/dialogues/lisatalk.rpy:1677
 translate frenh liza_hand_mass_22036a1c:
@@ -2919,8 +2919,8 @@ translate frenh liza_hand_mass_f293ac8d:
 # game/dialogues/lisatalk.rpy:1698
 translate frenh liza_hand_mass_3d7bbcfb:
 
-    # [Max_03 "Хорошего понемногу, Лиза. Вот почти и всё.[nointeract]"
-    Max_03 "C'est un peu une bonne chose, Lisa. C'est à peu près tout.[nointeract]"
+    # [Max_03 "Хорошего понемногу, Лиза. Вот почти и всё." nointeract
+    Max_03 "C'est un peu une bonne chose, Lisa. C'est à peu près tout." nointeract
 
 # game/dialogues/lisatalk.rpy:1709
 translate frenh liza_hand_mass_3320f06d:
@@ -2973,14 +2973,14 @@ translate frenh liza_hand_mass_57d66784:
 # game/dialogues/lisatalk.rpy:1720
 translate frenh liza_hand_mass_7d650e99:
 
-    # [Max_04 "{m}Это очень приятное окончание массажа... Такие сочные губки у моей сестрёнки! А язычок какой игривый...{/m}[nointeract]"
-    Max_04 "{m}C'est une fin très satisfaisante pour un massage... Des lèvres si juteuses sur ma sœur ! Et quelle langue enjouée...{/m}[nointeract]"
+    # [Max_04 "{m}Это очень приятное окончание массажа... Такие сочные губки у моей сестрёнки! А язычок какой игривый...{/m}" nointeract
+    Max_04 "{m}C'est une fin très satisfaisante pour un massage... Des lèvres si juteuses sur ma sœur ! Et quelle langue enjouée...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1727
 translate frenh liza_hand_mass_660f8ebb:
 
-    # [Max_05 "[lisa_good_kiss!t]{m}Это так здорово... Как же не хочется отрываться от этой классной девочки! Особенно, когда и она не торопиться закончить эти поцелуи...{/m}[nointeract]"
-    Max_05 "[lisa_good_kiss!t]{m}C'est tellement génial... Comme je déteste m'arracher à cette fille cool ! Surtout quand elle prend le temps de finir ces baisers aussi...{/m}[nointeract]"
+    # [Max_05 "[lisa_good_kiss!t]{m}Это так здорово... Как же не хочется отрываться от этой классной девочки! Особенно, когда и она не торопиться закончить эти поцелуи...{/m}" nointeract
+    Max_05 "[lisa_good_kiss!t]{m}C'est tellement génial... Comme je déteste m'arracher à cette fille cool ! Surtout quand elle prend le temps de finir ces baisers aussi...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1731
 translate frenh liza_hand_mass_f032d09a:
@@ -3039,14 +3039,14 @@ translate frenh liza_hand_mass_57d66784_1:
 # game/dialogues/lisatalk.rpy:1769
 translate frenh liza_hand_mass_eb1e0e65:
 
-    # [Max_04 "{m}Целовать такие сочные губки моей младшей сестрёнки - это очень приятное окончание массажа! Её игривый язычок может свести с ума...{/m}[nointeract]"
-    Max_04 "{m}Embrasser les lèvres juteuses de ma petite sœur comme ça est une fin très satisfaisante pour un massage ! Sa langue enjouée peut vous rendre fou...{/m}[nointeract]"
+    # [Max_04 "{m}Целовать такие сочные губки моей младшей сестрёнки - это очень приятное окончание массажа! Её игривый язычок может свести с ума...{/m}" nointeract
+    Max_04 "{m}Embrasser les lèvres juteuses de ma petite sœur comme ça est une fin très satisfaisante pour un massage ! Sa langue enjouée peut vous rendre fou...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1776
 translate frenh liza_hand_mass_a4cf45ee:
 
-    # [Max_05 "[lisa_good_kiss!t]{m}Как же не хочется отрываться от этой классной девочки! Особенно, когда и она не торопиться закончить эти поцелуи...{/m}[nointeract]"
-    Max_05 "[lisa_good_kiss!t]{m}Comme je ne veux pas me séparer de cette fille cool! Surtout quand elle n’est pas pressée de finir ces baisers... {/m}[nointeract]"
+    # [Max_05 "[lisa_good_kiss!t]{m}Как же не хочется отрываться от этой классной девочки! Особенно, когда и она не торопиться закончить эти поцелуи...{/m}" nointeract
+    Max_05 "[lisa_good_kiss!t]{m}Comme je ne veux pas me séparer de cette fille cool! Surtout quand elle n’est pas pressée de finir ces baisers... {/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:1783
 translate frenh liza_hand_mass_f032d09a_1:
@@ -3453,14 +3453,14 @@ translate frenh gift_swimsuit_d7873ead:
 # game/dialogues/lisatalk.rpy:1916
 translate frenh gift_swimsuit_af29f12a:
 
-    # [Lisa_02 "И ты мне его просто так подаришь?[nointeract]"
-    Lisa_02 "Et tu vas juste me le donner ?[nointeract]"
+    # [Lisa_02 "И ты мне его просто так подаришь?" nointeract
+    Lisa_02 "Et tu vas juste me le donner ?" nointeract
 
 # game/dialogues/lisatalk.rpy:1921
 translate frenh gift_swimsuit_97d8b274:
 
-    # [Lisa_00 "И чего ты хочешь? Говори![nointeract]"
-    Lisa_00 "Et qu'est-ce que tu veux ? Parles ![nointeract]"
+    # [Lisa_00 "И чего ты хочешь? Говори!" nointeract
+    Lisa_00 "Et qu'est-ce que tu veux ? Parles !" nointeract
 
 # game/dialogues/lisatalk.rpy:1923
 translate frenh gift_swimsuit_e1403baa:
@@ -3513,8 +3513,8 @@ translate frenh gift_swimsuit_swimsuit_show_17d12966:
 # game/dialogues/lisatalk.rpy:1954
 translate frenh gift_swimsuit_swimsuit_show_c6805f5f:
 
-    # [Lisa_02 "Макс! Ты подглядываешь. Ты же обещал... Отвернись, быстро![nointeract]"
-    Lisa_02 "Max ! Tu es en train d'épier. Tu as promis... Tournes-toi, vite ![nointeract]"
+    # [Lisa_02 "Макс! Ты подглядываешь. Ты же обещал... Отвернись, быстро!" nointeract
+    Lisa_02 "Max ! Tu es en train d'épier. Tu as promis... Tournes-toi, vite !" nointeract
 
 # game/dialogues/lisatalk.rpy:1958
 translate frenh gift_swimsuit_swimsuit_show_7374967a:
@@ -3803,8 +3803,8 @@ translate frenh conversation_after_dinner_0385244c:
 # game/dialogues/lisatalk.rpy:2158
 translate frenh conversation_after_dinner_97ef0497:
 
-    # [Lisa_09 "Помнишь, ты говорил, что можешь помогать мне делать уроки?[nointeract]"
-    Lisa_09 "Tu te souviens quand tu as dit que tu pouvais m'aider à faire mes devoirs ?[nointeract]"
+    # [Lisa_09 "Помнишь, ты говорил, что можешь помогать мне делать уроки?" nointeract
+    Lisa_09 "Tu te souviens quand tu as dit que tu pouvais m'aider à faire mes devoirs ?" nointeract
 
 # game/dialogues/lisatalk.rpy:2163
 translate frenh conversation_after_dinner_e31da10c:
@@ -3869,8 +3869,8 @@ translate frenh conversation_after_dinner_7ab6791f:
 # game/dialogues/lisatalk.rpy:2183
 translate frenh conversation_after_dinner_3bb41a82:
 
-    # [Lisa_09 "Макс, я говорила, что ты извращенец?[nointeract]"
-    Lisa_09 "Max, ai-je dit que tu étais un pervers ?[nointeract]"
+    # [Lisa_09 "Макс, я говорила, что ты извращенец?" nointeract
+    Lisa_09 "Max, ai-je dit que tu étais un pervers ?" nointeract
 
 # game/dialogues/lisatalk.rpy:2187
 translate frenh conversation_after_dinner_9b6d30b2:
@@ -4085,20 +4085,20 @@ translate frenh lisa_sorry_gifts_21b81128:
 # game/dialogues/lisatalk.rpy:2316
 translate frenh lisa_sorry_gifts_5dc942a0:
 
-    # [Lisa_02 "Правда? Ты всё-таки достал её для меня?! А какую?[nointeract]"
-    Lisa_02 "Vraiment ? Tu l'as eu pour moi après tout?! Laquelle ?[nointeract]"
+    # [Lisa_02 "Правда? Ты всё-таки достал её для меня?! А какую?" nointeract
+    Lisa_02 "Vraiment ? Tu l'as eu pour moi après tout?! Laquelle ?" nointeract
 
 # game/dialogues/lisatalk.rpy:2318
 translate frenh lisa_sorry_gifts_18215912:
 
-    # [Lisa_02 "Правда? Ну ты даёшь! А какую на этот раз?![nointeract]"
-    Lisa_02 "Vraiment ? Oh, tu es un tel abruti ! Laquelle c'est cette fois ? ![nointeract]"
+    # [Lisa_02 "Правда? Ну ты даёшь! А какую на этот раз?!" nointeract
+    Lisa_02 "Vraiment ? Oh, tu es un tel abruti ! Laquelle c'est cette fois ? !" nointeract
 
 # game/dialogues/lisatalk.rpy:2320
 translate frenh lisa_sorry_gifts_18a348cf:
 
-    # [Lisa_02 "Правда? Ну давай, показывай, что у тебя на этот раз?![nointeract]"
-    Lisa_02 "Vraiment ? Aller, montre-moi ce que tu as cette fois ![nointeract]"
+    # [Lisa_02 "Правда? Ну давай, показывай, что у тебя на этот раз?!" nointeract
+    Lisa_02 "Vraiment ? Aller, montre-moi ce que tu as cette fois !" nointeract
 
 # game/dialogues/lisatalk.rpy:2342
 translate frenh lisa_sorry_gifts_bad_st_6f8a0f02:
@@ -4391,8 +4391,8 @@ translate frenh lisa_sorry_gifts_middle_362f2538:
 # game/dialogues/lisatalk.rpy:2490
 translate frenh lisa_sorry_gifts_middle_38ed7eaf:
 
-    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin.[nointeract]"
+    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?" nointeract
+    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin." nointeract
 
 # game/dialogues/lisatalk.rpy:2494
 translate frenh lisa_sorry_gifts_middle_ef6e48ab:
@@ -4577,8 +4577,8 @@ translate frenh lisa_sorry_gifts_middle_362f2538_2:
 # game/dialogues/lisatalk.rpy:2535
 translate frenh lisa_sorry_gifts_middle_38ed7eaf_1:
 
-    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin.[nointeract]"
+    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?" nointeract
+    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin." nointeract
 
 # game/dialogues/lisatalk.rpy:2539
 translate frenh lisa_sorry_gifts_middle_ef6e48ab_1:
@@ -4643,8 +4643,8 @@ translate frenh lisa_sorry_gifts_middle_a663e899_3:
 # game/dialogues/lisatalk.rpy:2556
 translate frenh lisa_sorry_gifts_middle_8e15cf11:
 
-    # [Lisa_09 "Даже не знаю, Макс... Не очень-то ты и пытался порадовать меня. Подглядывал ещё за мной...[nointeract]"
-    Lisa_09 "Je ne sais pas, Max... Tu n'essayais pas vraiment de me faire plaisir. Tu me regardes toujours...[nointeract]"
+    # [Lisa_09 "Даже не знаю, Макс... Не очень-то ты и пытался порадовать меня. Подглядывал ещё за мной..." nointeract
+    Lisa_09 "Je ne sais pas, Max... Tu n'essayais pas vraiment de me faire plaisir. Tu me regardes toujours..." nointeract
 
 # game/dialogues/lisatalk.rpy:2559
 translate frenh lisa_sorry_gifts_middle_7c9165e7:
@@ -4721,8 +4721,8 @@ translate frenh lisa_sorry_gifts_middle_362f2538_3:
 # game/dialogues/lisatalk.rpy:2582
 translate frenh lisa_sorry_gifts_middle_38ed7eaf_2:
 
-    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin.[nointeract]"
+    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?" nointeract
+    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin." nointeract
 
 # game/dialogues/lisatalk.rpy:2586
 translate frenh lisa_sorry_gifts_middle_ef6e48ab_2:
@@ -4787,8 +4787,8 @@ translate frenh lisa_sorry_gifts_middle_d8a1eb18_1:
 # game/dialogues/lisatalk.rpy:2610
 translate frenh lisa_sorry_gifts_middle_f7c7ac85:
 
-    # [Lisa_01 "А вот и нет! Не разобрались! Я вот думаю, может мне стоит тебя даже обнять? Но не уверена...[nointeract]"
-    Lisa_01 "Non, ce n'est pas le cas ! Ça n'a pas marché ! Je pense que je devrais peut-être même te faire un câlin. Mais je ne suis pas sûr...[nointeract]"
+    # [Lisa_01 "А вот и нет! Не разобрались! Я вот думаю, может мне стоит тебя даже обнять? Но не уверена..." nointeract
+    Lisa_01 "Non, ce n'est pas le cas ! Ça n'a pas marché ! Je pense que je devrais peut-être même te faire un câlin. Mais je ne suis pas sûr..." nointeract
 
 # game/dialogues/lisatalk.rpy:2614
 translate frenh lisa_sorry_gifts_middle_38f4c1c1:
@@ -4853,8 +4853,8 @@ translate frenh lisa_sorry_gifts_middle_362f2538_4:
 # game/dialogues/lisatalk.rpy:2633
 translate frenh lisa_sorry_gifts_middle_38ed7eaf_3:
 
-    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin.[nointeract]"
+    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?" nointeract
+    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin." nointeract
 
 # game/dialogues/lisatalk.rpy:2637
 translate frenh lisa_sorry_gifts_middle_ef6e48ab_3:
@@ -4919,8 +4919,8 @@ translate frenh lisa_sorry_gifts_middle_362f2538_5:
 # game/dialogues/lisatalk.rpy:2657
 translate frenh lisa_sorry_gifts_middle_38ed7eaf_4:
 
-    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin.[nointeract]"
+    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?" nointeract
+    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin." nointeract
 
 # game/dialogues/lisatalk.rpy:2661
 translate frenh lisa_sorry_gifts_middle_ef6e48ab_4:
@@ -4985,8 +4985,8 @@ translate frenh lisa_sorry_gifts_middle_362f2538_6:
 # game/dialogues/lisatalk.rpy:2681
 translate frenh lisa_sorry_gifts_middle_38ed7eaf_5:
 
-    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?[nointeract]"
-    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin.[nointeract]"
+    # [Lisa_01 "Я вот думаю, если это так однозначно, то может мне стоит тебя даже обнять?" nointeract
+    Lisa_01 "Je me dis que si c'est si clair, je devrais peut-être même te faire un câlin." nointeract
 
 # game/dialogues/lisatalk.rpy:2685
 translate frenh lisa_sorry_gifts_middle_ef6e48ab_5:
@@ -5171,8 +5171,8 @@ translate frenh lisa_sorry_gifts_good_93f7fb47_1:
 # game/dialogues/lisatalk.rpy:2746
 translate frenh lisa_sorry_gifts_good_f39a352c:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2750
 translate frenh lisa_sorry_gifts_good_aae92047:
@@ -5249,8 +5249,8 @@ translate frenh lisa_sorry_gifts_good_93f7fb47_2:
 # game/dialogues/lisatalk.rpy:2771
 translate frenh lisa_sorry_gifts_good_f39a352c_1:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2775
 translate frenh lisa_sorry_gifts_good_aae92047_1:
@@ -5345,8 +5345,8 @@ translate frenh lisa_sorry_gifts_good_ee537937:
 # game/dialogues/lisatalk.rpy:2802
 translate frenh lisa_sorry_gifts_good_f39a352c_2:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2806
 translate frenh lisa_sorry_gifts_good_aae92047_2:
@@ -5471,8 +5471,8 @@ translate frenh lisa_sorry_gifts_good_d8a1eb18_1:
 # game/dialogues/lisatalk.rpy:2840
 translate frenh lisa_sorry_gifts_good_f7c7ac85:
 
-    # [Lisa_01 "А вот и нет! Не разобрались! Я вот думаю, может мне стоит тебя даже обнять? Но не уверена...[nointeract]"
-    Lisa_01 "Non, ce n'est pas le cas ! Ça n'a pas marché ! Je pense que je devrais peut-être même te faire un câlin. Mais je ne suis pas sûr...[nointeract]"
+    # [Lisa_01 "А вот и нет! Не разобрались! Я вот думаю, может мне стоит тебя даже обнять? Но не уверена..." nointeract
+    Lisa_01 "Non, ce n'est pas le cas ! Ça n'a pas marché ! Je pense que je devrais peut-être même te faire un câlin. Mais je ne suis pas sûr..." nointeract
 
 # game/dialogues/lisatalk.rpy:2844
 translate frenh lisa_sorry_gifts_good_38f4c1c1:
@@ -5609,8 +5609,8 @@ translate frenh lisa_sorry_gifts_good_ee537937_2:
 # game/dialogues/lisatalk.rpy:2884
 translate frenh lisa_sorry_gifts_good_f39a352c_3:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2888
 translate frenh lisa_sorry_gifts_good_aae92047_3:
@@ -5747,8 +5747,8 @@ translate frenh lisa_sorry_gifts_good_ee537937_4:
 # game/dialogues/lisatalk.rpy:2928
 translate frenh lisa_sorry_gifts_good_f39a352c_4:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2932
 translate frenh lisa_sorry_gifts_good_aae92047_4:
@@ -5825,8 +5825,8 @@ translate frenh lisa_sorry_gifts_good_ee537937_5:
 # game/dialogues/lisatalk.rpy:2956
 translate frenh lisa_sorry_gifts_good_f39a352c_5:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2960
 translate frenh lisa_sorry_gifts_good_aae92047_5:
@@ -5903,8 +5903,8 @@ translate frenh lisa_sorry_gifts_good_ee537937_6:
 # game/dialogues/lisatalk.rpy:2984
 translate frenh lisa_sorry_gifts_good_f39a352c_6:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:2988
 translate frenh lisa_sorry_gifts_good_aae92047_6:
@@ -5981,8 +5981,8 @@ translate frenh lisa_sorry_gifts_good_ee537937_7:
 # game/dialogues/lisatalk.rpy:3012
 translate frenh lisa_sorry_gifts_good_f39a352c_7:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:3016
 translate frenh lisa_sorry_gifts_good_aae92047_7:
@@ -6065,8 +6065,8 @@ translate frenh lisa_sorry_gifts_good_ee537937_8:
 # game/dialogues/lisatalk.rpy:3044
 translate frenh lisa_sorry_gifts_good_f39a352c_8:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:3048
 translate frenh lisa_sorry_gifts_good_aae92047_8:
@@ -6167,8 +6167,8 @@ translate frenh liza_secret_alisa_b85e6c78:
 # game/dialogues/lisatalk.rpy:3092
 translate frenh liza_secret_alisa_b629dab1:
 
-    # [Lisa_10 "Алиса просила меня об этом не рассказывать... Так что...[nointeract]"
-    Lisa_10 "Alice m'a demandé de ne pas en parler... Alors...[nointeract]"
+    # [Lisa_10 "Алиса просила меня об этом не рассказывать... Так что..." nointeract
+    Lisa_10 "Alice m'a demandé de ne pas en parler... Alors..." nointeract
 
 # game/dialogues/lisatalk.rpy:3100
 translate frenh liza_secret_alisa_56fa1346:
@@ -6239,8 +6239,8 @@ translate frenh lisa_gift_sweets_094878f0:
 # game/dialogues/lisatalk.rpy:3131
 translate frenh lisa_gift_sweets_18a348cf:
 
-    # [Lisa_02 "Правда? Ну давай, показывай, что у тебя на этот раз?![nointeract]"
-    Lisa_02 "Vraiment ? Aller, montre-moi ce que tu as cette fois ![nointeract]"
+    # [Lisa_02 "Правда? Ну давай, показывай, что у тебя на этот раз?!" nointeract
+    Lisa_02 "Vraiment ? Aller, montre-moi ce que tu as cette fois !" nointeract
 
 # game/dialogues/lisatalk.rpy:3138
 translate frenh lisa_gift_sweets_ac3f0acd:
@@ -6269,8 +6269,8 @@ translate frenh lisa_gift_sweets_fb7d300d:
 # game/dialogues/lisatalk.rpy:3163
 translate frenh lisa_gift_sweets_f39a352c:
 
-    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?![nointeract]"
-    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça ![nointeract]"
+    # [Lisa_02 "Мне нравится, что ты так мило балуешь меня сладостями... Может даже тебя стоит чмокнуть за это в щёчку?!" nointeract
+    Lisa_02 "J'aime que tu me gâtes avec des friandies si gentiment... Peut-être que je devrais même te donner une bise sur la joue pour ça !" nointeract
 
 # game/dialogues/lisatalk.rpy:3166
 translate frenh lisa_gift_sweets_aae92047:
@@ -6407,8 +6407,8 @@ translate frenh lisa_ment_kiss1_c0ab722a:
 # game/dialogues/lisatalk.rpy:3273
 translate frenh lisa_ment_kiss1_62186e1c:
 
-    # [Lisa_00 "Ну посмотрим, чему ты там научился... Но прежде, чем я тебе подыграю и мы начнём этот спектакль, у меня есть ряд условий.[nointeract]"
-    Lisa_00 "Eh bien, voyons ce que tu as appris là... Mais avant que je joue le jeu et que nous commencions cette pièce, j'ai un certain nombre de conditions.[nointeract]"
+    # [Lisa_00 "Ну посмотрим, чему ты там научился... Но прежде, чем я тебе подыграю и мы начнём этот спектакль, у меня есть ряд условий." nointeract
+    Lisa_00 "Eh bien, voyons ce que tu as appris là... Mais avant que je joue le jeu et que nous commencions cette pièce, j'ai un certain nombre de conditions." nointeract
 
 # game/dialogues/lisatalk.rpy:3278
 translate frenh lisa_ment_kiss1_65e16929:
@@ -6437,8 +6437,8 @@ translate frenh lisa_ment_kiss1_501967b3:
 # game/dialogues/lisatalk.rpy:3283
 translate frenh lisa_ment_kiss1_0915d39b:
 
-    # [Lisa_02 "Верится с трудом, ну да ладно. Важно, чтобы ты не переносил наши отношения во время этих твоих уроков на остальное наше общение. Что происходит в комнате - остаётся в комнате. Понял?[nointeract]"
-    Lisa_02 "C'est difficile à croire, mais allons-y. Il est important que tu ne transfères pas notre relation pendant ces leçons au reste de notre relation. Ce qui se passe dans la pièce reste dans la pièce. C'est compris ?[nointeract]"
+    # [Lisa_02 "Верится с трудом, ну да ладно. Важно, чтобы ты не переносил наши отношения во время этих твоих уроков на остальное наше общение. Что происходит в комнате - остаётся в комнате. Понял?" nointeract
+    Lisa_02 "C'est difficile à croire, mais allons-y. Il est important que tu ne transfères pas notre relation pendant ces leçons au reste de notre relation. Ce qui se passe dans la pièce reste dans la pièce. C'est compris ?" nointeract
 
 # game/dialogues/lisatalk.rpy:3287
 translate frenh lisa_ment_kiss1_b24fc409:
@@ -6515,8 +6515,8 @@ translate frenh lisa_ment_kiss1_a5205752:
 # game/dialogues/lisatalk.rpy:3308
 translate frenh lisa_ment_kiss1_150794dc:
 
-    # [Lisa_09 "Может, в другой раз? Что-то я не в настроении сейчас...[nointeract]"
-    Lisa_09 "Peut-être une autre fois ? Je ne suis pas vraiment d'humeur en ce moment...[nointeract]"
+    # [Lisa_09 "Может, в другой раз? Что-то я не в настроении сейчас..." nointeract
+    Lisa_09 "Peut-être une autre fois ? Je ne suis pas vraiment d'humeur en ce moment..." nointeract
 
 # game/dialogues/lisatalk.rpy:3311
 translate frenh lisa_ment_kiss1_8088f082:
@@ -6533,8 +6533,8 @@ translate frenh lisa_ment_kiss1_25aa812b:
 # game/dialogues/lisatalk.rpy:3316
 translate frenh lisa_ment_kiss1_a3ff497f:
 
-    # [Max_05 "{m}Это же надо, я целуюсь со своей младшей сестрёнкой! Кажется, мне бы любой сейчас позавидовал... К тому же, такая девочка!{/m}[nointeract]"
-    Max_05 "{m}J'embrasse ma petite sœur ! Je pense que n'importe qui serait jaloux de moi en ce moment... En plus, une telle fille !{/m}[nointeract]"
+    # [Max_05 "{m}Это же надо, я целуюсь со своей младшей сестрёнкой! Кажется, мне бы любой сейчас позавидовал... К тому же, такая девочка!{/m}" nointeract
+    Max_05 "{m}J'embrasse ma petite sœur ! Je pense que n'importe qui serait jaloux de moi en ce moment... En plus, une telle fille !{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3322
 translate frenh lisa_ment_kiss1_bede15bc:
@@ -6599,8 +6599,8 @@ translate frenh lisa_ment_kiss_a5205752:
 # game/dialogues/lisatalk.rpy:3354
 translate frenh lisa_ment_kiss_54caa25c:
 
-    # [Lisa_09 "Опять ты со своими дурацкими идеями... Тебе заняться нечем?[nointeract]"
-    Lisa_09 "Et voilà que tu recommences avec tes idées stupides... Tu n'as rien de mieux à faire ?[nointeract]"
+    # [Lisa_09 "Опять ты со своими дурацкими идеями... Тебе заняться нечем?" nointeract
+    Lisa_09 "Et voilà que tu recommences avec tes idées stupides... Tu n'as rien de mieux à faire ?" nointeract
 
 # game/dialogues/lisatalk.rpy:3357
 translate frenh lisa_ment_kiss_8088f082:
@@ -6653,14 +6653,14 @@ translate frenh lisa_ment_kiss_9354c6b9:
 # game/dialogues/lisatalk.rpy:3381
 translate frenh lisa_ment_kiss_bebd495a:
 
-    # [Max_04 "{m}Эти нежные губки такие сладкие... А её горячий язычок начинает всё активнее играть с моим!{/m}[nointeract]"
-    Max_04 "{m}Ces lèvres délicates sont si douces... Et sa langue chaude commence à jouer de plus en plus activement avec la mienne ! {/m}[nointeract]"
+    # [Max_04 "{m}Эти нежные губки такие сладкие... А её горячий язычок начинает всё активнее играть с моим!{/m}" nointeract
+    Max_04 "{m}Ces lèvres délicates sont si douces... Et sa langue chaude commence à jouer de plus en plus activement avec la mienne ! {/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3391
 translate frenh lisa_ment_kiss_3e75c8e2:
 
-    # [Max_05 "[lisa_good_kiss!t]{i}Ухх... Какие гладкие у неё ножки и упругая попка! И она, похоже, не против того, как и где я к ней прикасаюсь...{/i}[nointeract]"
-    Max_05 "[lisa_good_kiss!t]{i}Ugh... Quelles jambes lisses elle a et un derrière ferme ! Et elle ne semble pas se soucier de comment et où je la touche...{/i}[nointeract]"
+    # [Max_05 "[lisa_good_kiss!t]{i}Ухх... Какие гладкие у неё ножки и упругая попка! И она, похоже, не против того, как и где я к ней прикасаюсь...{/i}" nointeract
+    Max_05 "[lisa_good_kiss!t]{i}Ugh... Quelles jambes lisses elle a et un derrière ferme ! Et elle ne semble pas se soucier de comment et où je la touche...{/i}" nointeract
 
 # game/dialogues/lisatalk.rpy:3398
 translate frenh lisa_ment_kiss_58e6b8e0:
@@ -6737,8 +6737,8 @@ translate frenh lisa_ment_kiss_57d66784_1:
 # game/dialogues/lisatalk.rpy:3448
 translate frenh lisa_kiss_lesson_0d053db8:
 
-    # [Max_05 "{m}Эти нежные губки такие сладкие... С огромным удовольствием целовал бы Лизу весь день!{/m}[nointeract]"
-    Max_05 "{m}Ces douces lèvres sont si douces... Ce serait un grand plaisir d'embrasser Lisa toute la journée !{/m}[nointeract]"
+    # [Max_05 "{m}Эти нежные губки такие сладкие... С огромным удовольствием целовал бы Лизу весь день!{/m}" nointeract
+    Max_05 "{m}Ces douces lèvres sont si douces... Ce serait un grand plaisir d'embrasser Lisa toute la journée !{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3455
 translate frenh lisa_kiss_lesson_bede15bc:
@@ -6767,20 +6767,20 @@ translate frenh lisa_kiss_lesson_454f515b:
 # game/dialogues/lisatalk.rpy:3480
 translate frenh lisa_advanced_kiss_lesson_bebd495a:
 
-    # [Max_04 "{m}Эти нежные губки такие сладкие... А её горячий язычок начинает всё активнее играть с моим!{/m}[nointeract]"
-    Max_04 "{m}Ces lèvres délicates sont si douces... Et sa langue chaude commence à jouer de plus en plus activement avec la mienne ! {/m}[nointeract]"
+    # [Max_04 "{m}Эти нежные губки такие сладкие... А её горячий язычок начинает всё активнее играть с моим!{/m}" nointeract
+    Max_04 "{m}Ces lèvres délicates sont si douces... Et sa langue chaude commence à jouer de plus en plus activement avec la mienne ! {/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3491
 translate frenh lisa_advanced_kiss_lesson_1a1606a6:
 
-    # [Max_05 "[lisa_good_kiss!t]{m}Классно... Её ножки такие гладкие, а попка очень упругая! И она явно не против того, чтобы я к ней так прикасался...{/m}[nointeract]"
-    Max_05 "[lisa_good_kiss!t]{m}Cool... Ses jambes sont si lisses et ses fesses sont très fermes ! Et il est clair que ça ne la dérange pas que je la touche comme ça...{/m}[nointeract]"
+    # [Max_05 "[lisa_good_kiss!t]{m}Классно... Её ножки такие гладкие, а попка очень упругая! И она явно не против того, чтобы я к ней так прикасался...{/m}" nointeract
+    Max_05 "[lisa_good_kiss!t]{m}Cool... Ses jambes sont si lisses et ses fesses sont très fermes ! Et il est clair que ça ne la dérange pas que je la touche comme ça...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3499
 translate frenh lisa_advanced_kiss_lesson_07bdd591:
 
-    # [Max_06 "[lisa_good_kiss!t]{m}О да! Нащупал что-то мягкое и округлое, да ещё и с торчащими сосочками, которые чувствуются даже через её одежду...{/m}[nointeract]"
-    Max_06 "[lisa_good_kiss!t]{m}Oh oui! J’ai trouvé quelque chose de doux et d’arrondi, et même avec des mamelons saillants qui peuvent être ressentis même à travers ses vêtements... {/m}[nointeract]"
+    # [Max_06 "[lisa_good_kiss!t]{m}О да! Нащупал что-то мягкое и округлое, да ещё и с торчащими сосочками, которые чувствуются даже через её одежду...{/m}" nointeract
+    Max_06 "[lisa_good_kiss!t]{m}Oh oui! J’ai trouvé quelque chose de doux et d’arrondi, et même avec des mamelons saillants qui peuvent être ressentis même à travers ses vêtements... {/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3506
 translate frenh lisa_advanced_kiss_lesson_2c214aa3:
@@ -6869,8 +6869,8 @@ translate frenh lisa_sexbook1_2e854bc0:
 # game/dialogues/lisatalk.rpy:3564
 translate frenh lisa_sexbook1_1b10f52f:
 
-    # [Max_09 "{m}А мне и самому было бы полезно прочитать эту книгу. Как знать, вдруг я что-то интересное для себя открою?!{/m}[nointeract]"
-    Max_09 "{m}Et moi-même, je bénéficierais de la lecture de ce livre. Qui sait, je vais peut-être découvrir quelque chose d'intéressant?!{/m}[nointeract]"
+    # [Max_09 "{m}А мне и самому было бы полезно прочитать эту книгу. Как знать, вдруг я что-то интересное для себя открою?!{/m}" nointeract
+    Max_09 "{m}Et moi-même, je bénéficierais de la lecture de ce livre. Qui sait, je vais peut-être découvrir quelque chose d'intéressant?!{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:3567
 translate frenh lisa_sexbook1_aef61c15:
@@ -6917,8 +6917,8 @@ translate frenh gift_sexbook_42f8dd64:
 # game/dialogues/lisatalk.rpy:3588
 translate frenh gift_sexbook_306955ca:
 
-    # [Lisa_02 "Заинтриговал. И какое должно быть настроение для этой книги?[nointeract]"
-    Lisa_02 "Intrigué. Et quelle devrait être le style de ce livre de ce livre ?[nointeract]"
+    # [Lisa_02 "Заинтриговал. И какое должно быть настроение для этой книги?" nointeract
+    Lisa_02 "Intrigué. Et quelle devrait être le style de ce livre de ce livre ?" nointeract
 
 # game/dialogues/lisatalk.rpy:3593
 translate frenh gift_sexbook_a1b0018d:
@@ -6947,8 +6947,8 @@ translate frenh gift_sexbook_0332c03b:
 # game/dialogues/lisatalk.rpy:3598
 translate frenh gift_sexbook_ab7984d5:
 
-    # [Lisa_03 "Конечно! Почему бы и нет. Вдруг, окажется интересной. Кто-то же писал, старался. А ты вот пыхтел, деньги на неё зарабатывал, заказывал и речь готовил, скорее всего...[nointeract]"
-    Lisa_03 "Bien sûr ! Pourquoi pas. Au cas où ça s'avère être intéressant. Quelqu'un écrivait, essayait. Toi, par contre, tu y as pensé, économisé de l'argent, commandé et préparé le discours, probablement...[nointeract]"
+    # [Lisa_03 "Конечно! Почему бы и нет. Вдруг, окажется интересной. Кто-то же писал, старался. А ты вот пыхтел, деньги на неё зарабатывал, заказывал и речь готовил, скорее всего..." nointeract
+    Lisa_03 "Bien sûr ! Pourquoi pas. Au cas où ça s'avère être intéressant. Quelqu'un écrivait, essayait. Toi, par contre, tu y as pensé, économisé de l'argent, commandé et préparé le discours, probablement..." nointeract
 
 # game/dialogues/lisatalk.rpy:3603
 translate frenh gift_sexbook_904b73a8:
@@ -7619,8 +7619,8 @@ translate frenh lisa_about_ae_sexed2_56f588b2:
 # game/dialogues/lisatalk.rpy:3804
 translate frenh lisa_about_ae_sexed2_3c085d5c:
 
-    # [Lisa_03 "А ты мне свою штуку покажешь сперва?[nointeract]"
-    Lisa_03 "Tu me montres ton truc d'abord ?[nointeract]"
+    # [Lisa_03 "А ты мне свою штуку покажешь сперва?" nointeract
+    Lisa_03 "Tu me montres ton truc d'abord ?" nointeract
 
 # game/dialogues/lisatalk.rpy:3806
 translate frenh lisa_about_ae_sexed2_b747c083:
@@ -8957,8 +8957,8 @@ translate frenh lisa_about_ae_sexed5_8de6d12c:
 # game/dialogues/lisatalk.rpy:4257
 translate frenh lisa_about_ae_sexed5_1f1a6b2e:
 
-    # [Lisa_13 "Ну, Макс... Эрик ведь старше и знает, как и что во взрослом мире происходит...[nointeract]"
-    Lisa_13 "Eh bien, Max... Eric est plus âgé et sait comment et ce qui se passe dans le monde des adultes...[nointeract]"
+    # [Lisa_13 "Ну, Макс... Эрик ведь старше и знает, как и что во взрослом мире происходит..." nointeract
+    Lisa_13 "Eh bien, Max... Eric est plus âgé et sait comment et ce qui se passe dans le monde des adultes..." nointeract
 
 # game/dialogues/lisatalk.rpy:4259
 translate frenh lisa_about_ae_sexed5_8d68420c:
@@ -9113,8 +9113,8 @@ translate frenh lisa_about_ae_sexed5_b1cec096:
 # game/dialogues/lisatalk.rpy:4318
 translate frenh lisa_about_ae_sexed5_80061a82:
 
-    # [Lisa_13 "Потому что мама не хочет учить меня большему, а Эрик предложил это делать без неё. И сказал, что будет лучше, если нам никто не будет мешать при этом.[nointeract]"
-    Lisa_13 "Parce que ma mère ne veut plus me donner de cours, et Eric a proposé de le faire sans elle. Et il a dit qu'il serait préférable que personne n'interfère avec nous dans ce domaine.[nointeract]"
+    # [Lisa_13 "Потому что мама не хочет учить меня большему, а Эрик предложил это делать без неё. И сказал, что будет лучше, если нам никто не будет мешать при этом." nointeract
+    Lisa_13 "Parce que ma mère ne veut plus me donner de cours, et Eric a proposé de le faire sans elle. Et il a dit qu'il serait préférable que personne n'interfère avec nous dans ce domaine." nointeract
 
 # game/dialogues/lisatalk.rpy:4323
 translate frenh lisa_about_ae_sexed5_9b07ee18:
@@ -9395,8 +9395,8 @@ translate frenh take_to_school_46de9a7a:
 # game/dialogues/lisatalk.rpy:4455
 translate frenh take_to_school_66f9eb7c:
 
-    # [Lisa_02 "Ну всё, мне уже пора идти... Я же могу и дальше рассчитывать на твою помощь с учёбой?[nointeract]"
-    Lisa_02 "C'est ça, je dois y aller maintenant... Je peux toujours compter sur toi pour m'aider dans mes études, n'est-ce pas?[nointeract]"
+    # [Lisa_02 "Ну всё, мне уже пора идти... Я же могу и дальше рассчитывать на твою помощь с учёбой?" nointeract
+    Lisa_02 "C'est ça, je dois y aller maintenant... Je peux toujours compter sur toi pour m'aider dans mes études, n'est-ce pas?" nointeract
 
 # game/dialogues/lisatalk.rpy:4459
 translate frenh take_to_school_63df00be:
@@ -9407,8 +9407,8 @@ translate frenh take_to_school_63df00be:
 # game/dialogues/lisatalk.rpy:4463
 translate frenh take_to_school_79292d02:
 
-    # [Max_05 "{m}О да! Этот нежный поцелуй от сестрёнки я и надеялся получить! Блаженно...{/m}[nointeract]"
-    Max_05 "{m}Oh, oui ! Ce tendre baiser de ma sœur que j'espérais avoir ! Bienheureux que je suis...{/m}[nointeract]"
+    # [Max_05 "{m}О да! Этот нежный поцелуй от сестрёнки я и надеялся получить! Блаженно...{/m}" nointeract
+    Max_05 "{m}Oh, oui ! Ce tendre baiser de ma sœur que j'espérais avoir ! Bienheureux que je suis...{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:4468
 translate frenh take_to_school_954367ef:
@@ -9461,8 +9461,8 @@ translate frenh take_to_school_2946fe9e:
 # game/dialogues/lisatalk.rpy:4495
 translate frenh take_to_school_50a3f276:
 
-    # [Max_07 "{m}Это пока что в щёчку... Но твои сладенькие губки рано или поздно не устоят и захотят встретиться с моими!{/m}[nointeract]"
-    Max_07 "{m}C'est sur la joue pour l'instant... Mais tes douces petites lèvres ne résisteront pas, tôt ou tard, et elles voudront rencontrer les miennes !{/m}[nointeract]"
+    # [Max_07 "{m}Это пока что в щёчку... Но твои сладенькие губки рано или поздно не устоят и захотят встретиться с моими!{/m}" nointeract
+    Max_07 "{m}C'est sur la joue pour l'instant... Mais tes douces petites lèvres ne résisteront pas, tôt ou tard, et elles voudront rencontrer les miennes !{/m}" nointeract
 
 # game/dialogues/lisatalk.rpy:4499
 translate frenh take_to_school_c2d552ae_1:

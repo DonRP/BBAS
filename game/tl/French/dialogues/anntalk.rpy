@@ -15,32 +15,32 @@
 # game/dialogues/anntalk.rpy:17
 translate frenh AnnTalkStart_452e8666:
 
-    # [Ann_00 "Что-то случилось, дорогой?[nointeract]"
-    Ann_00 "Quelque chose ne va pas, chéri ?[nointeract]"
+    # [Ann_00 "Что-то случилось, дорогой?" nointeract
+    Ann_00 "Quelque chose ne va pas, chéri ?" nointeract
 
 # game/dialogues/anntalk.rpy:44
 translate frenh Ann_badbadmood_321edff9:
 
-    # [Ann_18 "Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать![nointeract]"
-    Ann_18 "Max, je suis de très mauvaise humeur en ce moment et je ne veux pas te parler ![nointeract]"
+    # [Ann_18 "Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать!" nointeract
+    Ann_18 "Max, je suis de très mauvaise humeur en ce moment et je ne veux pas te parler !" nointeract
 
 # game/dialogues/anntalk.rpy:53
 translate frenh Ann_badmood_46817e38:
 
-    # [Ann_18 "Макс, я сейчас не в настроении и не хочу разговаривать.[nointeract]"
-    Ann_18 "Max, je ne suis pas d'humeur à parler en ce moment.[nointeract]"
+    # [Ann_18 "Макс, я сейчас не в настроении и не хочу разговаривать." nointeract
+    Ann_18 "Max, je ne suis pas d'humeur à parler en ce moment." nointeract
 
 # game/dialogues/anntalk.rpy:62
 translate frenh Ann_asksorry_634d3dbe:
 
-    # [Ann_01 "Да? Я тебя слушаю?[nointeract]"
-    Ann_01 "Oui ? Est-ce que je t'écoute ?[nointeract]"
+    # [Ann_01 "Да? Я тебя слушаю?" nointeract
+    Ann_01 "Oui ? Est-ce que je t'écoute ?" nointeract
 
 # game/dialogues/anntalk.rpy:69
 translate frenh Ann_normalmood_085fa1a6:
 
-    # [Ann_18 "Макс, не сейчас, хорошо?[nointeract]"
-    Ann_18 "Max, pas maintenant, d'accord ?[nointeract]"
+    # [Ann_18 "Макс, не сейчас, хорошо?" nointeract
+    Ann_18 "Max, pas maintenant, d'accord ?" nointeract
 
 # game/dialogues/anntalk.rpy:75
 translate frenh Ann_cooldown_caafbb44:
@@ -63,62 +63,62 @@ translate frenh ann_ask_money_cf2d6379:
 # game/dialogues/anntalk.rpy:87
 translate frenh ann_ask_money_59ac536a:
 
-    # [Ann_05 "Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста...[nointeract]"
-    Ann_05 "Max, tu peux voir que je suis occupé en ce moment... Choisis un meilleur moment, s'il te plaît...[nointeract]"
+    # [Ann_05 "Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста..." nointeract
+    Ann_05 "Max, tu peux voir que je suis occupé en ce moment... Choisis un meilleur moment, s'il te plaît..." nointeract
 
 # game/dialogues/anntalk.rpy:92
 translate frenh ann_ask_money_2dec4e10:
 
-    # [Ann_05 "Очень смешно, Макс. Ты видишь у меня карманы? Нет? Выбери более подходящий момент, пожалуйста...[nointeract]"
-    Ann_05 "Très drôle, Max. Tu vois mes poches ? Non ? Choisis un meilleur moment, s'il te plaît...[nointeract]"
+    # [Ann_05 "Очень смешно, Макс. Ты видишь у меня карманы? Нет? Выбери более подходящий момент, пожалуйста..." nointeract
+    Ann_05 "Très drôle, Max. Tu vois mes poches ? Non ? Choisis un meilleur moment, s'il te plaît..." nointeract
 
 # game/dialogues/anntalk.rpy:99
 translate frenh ann_ask_money_81819136:
 
-    # [Ann_00 "Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?[nointeract]"
-    Ann_00 "Max, tu n'as pas honte de demander de l'argent à ta mère alors que tu es assis à la maison toute la journée à ne rien faire ?[nointeract]"
+    # [Ann_00 "Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?" nointeract
+    Ann_00 "Max, tu n'as pas honte de demander de l'argent à ta mère alors que tu es assis à la maison toute la journée à ne rien faire ?" nointeract
 
 # game/dialogues/anntalk.rpy:103
 translate frenh ann_ask_money_cc7b3480:
 
-    # [Ann_04 "Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают...[nointeract]"
-    Ann_04 "Très bien, voilà. Et trouves-toi déjà un travail, au moins en ligne. Nous aurons au moins plus d'argent...[nointeract]"
+    # [Ann_04 "Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают..." nointeract
+    Ann_04 "Très bien, voilà. Et trouves-toi déjà un travail, au moins en ligne. Nous aurons au moins plus d'argent..." nointeract
 
 # game/dialogues/anntalk.rpy:114
 translate frenh ann_ask_money_work_b06de883:
 
-    # [Ann_01 "И что же, например?[nointeract]"
-    Ann_01 "Et quoi, par exemple ?[nointeract]"
+    # [Ann_01 "И что же, например?" nointeract
+    Ann_01 "Et quoi, par exemple ?" nointeract
 
 # game/dialogues/anntalk.rpy:119
 translate frenh ann_ask_money_work_0e83a6b3:
 
-    # [Ann_04 "Отличная идея, Макс! Лучше уж я заплачу тебе $40, чем нанимать какого-то человека. Держи. Да, лучше это делать пока светло и никого нет.[nointeract]"
-    Ann_04 "Bonne idée, Max ! Je préfère te payer 40$ que d'engager un homme. Voilà. Oui, c'est mieux de le faire quand il fait jour et qu'il n'y a personne autour...[nointeract]"
+    # [Ann_04 "Отличная идея, Макс! Лучше уж я заплачу тебе $40, чем нанимать какого-то человека. Держи. Да, лучше это делать пока светло и никого нет." nointeract
+    Ann_04 "Bonne idée, Max ! Je préfère te payer 40$ que d'engager un homme. Voilà. Oui, c'est mieux de le faire quand il fait jour et qu'il n'y a personne autour..." nointeract
 
 # game/dialogues/anntalk.rpy:128
 translate frenh ann_ask_money_work_db69fd50:
 
-    # [Ann_04 "Хорошая мысль, Макс. Я дам тебе $50 на продукты и авансом $10 за твои услуги, так сказать. Устроит?[nointeract]"
-    Ann_04 "Bon point, Max. Je te donne 50$ pour l'épicerie et une avance de 10$ pour tes services, pour ainsi dire. Est-ce que ça va ?[nointeract]"
+    # [Ann_04 "Хорошая мысль, Макс. Я дам тебе $50 на продукты и авансом $10 за твои услуги, так сказать. Устроит?" nointeract
+    Ann_04 "Bon point, Max. Je te donne 50$ pour l'épicerie et une avance de 10$ pour tes services, pour ainsi dire. Est-ce que ça va ?" nointeract
 
 # game/dialogues/anntalk.rpy:139
 translate frenh ann_aboutfood_6a389713:
 
-    # [Ann_05 "Спасибо, Макс. Продукты я или Алиса заберём, когда привезут. Об этом не беспокойся.[nointeract]"
-    Ann_05 "Merci, Max. Moi ou Alice irons chercher les courses quand elle arriveras. Ne t'inquiètes pas pour ça.[nointeract]"
+    # [Ann_05 "Спасибо, Макс. Продукты я или Алиса заберём, когда привезут. Об этом не беспокойся." nointeract
+    Ann_05 "Merci, Max. Moi ou Alice irons chercher les courses quand elle arriveras. Ne t'inquiètes pas pour ça." nointeract
 
 # game/dialogues/anntalk.rpy:152
 translate frenh ann_aboutpool_ddbab3e4:
 
-    # [Ann_05 "Спасибо, Макс, на недельку этого должно хватить.[nointeract]"
-    Ann_05 "Merci, Max, ça devrait suffire pour une semaine.[nointeract]"
+    # [Ann_05 "Спасибо, Макс, на недельку этого должно хватить." nointeract
+    Ann_05 "Merci, Max, ça devrait suffire pour une semaine." nointeract
 
 # game/dialogues/anntalk.rpy:169
 translate frenh ann_talk_tv_3f2cda46:
 
-    # [Ann_00 "Да так, всё подряд. Садись рядом, если хочешь...[nointeract]"
-    Ann_00 "Oui, c'est tout. Assieds-toi à côté de moi si tu veux....[nointeract]"
+    # [Ann_00 "Да так, всё подряд. Садись рядом, если хочешь..." nointeract
+    Ann_00 "Oui, c'est tout. Assieds-toi à côté de moi si tu veux...." nointeract
 
 # game/dialogues/anntalk.rpy:176
 translate frenh ann_talk_tv_39730cd3:
@@ -129,14 +129,14 @@ translate frenh ann_talk_tv_39730cd3:
 # game/dialogues/anntalk.rpy:193
 translate frenh ann_talk_tv_f84710e8:
 
-    # [Ann_05 "Как хочешь, дорогой. А я что-нибудь посмотрю...[nointeract]"
-    Ann_05 "Comme tu veux, chéri. Et je vais regarder quelque chose...[nointeract]"
+    # [Ann_05 "Как хочешь, дорогой. А я что-нибудь посмотрю..." nointeract
+    Ann_05 "Comme tu veux, chéri. Et je vais regarder quelque chose..." nointeract
 
 # game/dialogues/anntalk.rpy:203
 translate frenh ann_talk_tv_first_movie_f195305d:
 
-    # [Ann_01 "Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего...[nointeract]"
-    Ann_01 "C'est juste des trucs. Je voulais voir un film quelconque. Assieds-toi à côté de moi s'il n'y a rien d'autre à faire...[nointeract]"
+    # [Ann_01 "Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего..." nointeract
+    Ann_01 "C'est juste des trucs. Je voulais voir un film quelconque. Assieds-toi à côté de moi s'il n'y a rien d'autre à faire..." nointeract
 
 # game/dialogues/anntalk.rpy:208
 translate frenh ann_talk_tv_first_movie_45629b2c:
@@ -153,26 +153,26 @@ translate frenh ann_talk_tv_first_movie_4fe2a7ed:
 # game/dialogues/anntalk.rpy:212
 translate frenh ann_talk_tv_first_movie_3a5a46d3:
 
-    # [Ann_04 "Я не знаю. Мне вот подруга посоветовала фильм с Томом Крузом и Николь Кидман, называется \"С широко закрытыми глазами\". Смотрел?[nointeract]"
-    Ann_04 "Je ne sais pas. Un ami m'a recommandé un film avec Tom Cruise et Nicole Kidman intitulé Eyes Wide Shut. L'as-tu vu ?[nointeract]"
+    # [Ann_04 "Я не знаю. Мне вот подруга посоветовала фильм с Томом Крузом и Николь Кидман, называется \"С широко закрытыми глазами\". Смотрел?" nointeract
+    Ann_04 "Je ne sais pas. Un ami m'a recommandé un film avec Tom Cruise et Nicole Kidman intitulé Eyes Wide Shut. L'as-tu vu ?" nointeract
 
 # game/dialogues/anntalk.rpy:215
 translate frenh ann_talk_tv_first_movie_01e23211:
 
-    # [Ann_05 "Отлично! Вот сейчас и посмотрим, что там подруга насоветовала...[nointeract]"
-    Ann_05 "Excellent! Voyons maintenant ce que mon ami m'a conseillé...[nointeract]"
+    # [Ann_05 "Отлично! Вот сейчас и посмотрим, что там подруга насоветовала..." nointeract
+    Ann_05 "Excellent! Voyons maintenant ce que mon ami m'a conseillé..." nointeract
 
 # game/dialogues/anntalk.rpy:220
 translate frenh ann_talk_tv_first_movie_f174135b:
 
-    # [Ann_02 "Да? И что ты о нём слышал? Хороший фильм? Стоит смотреть?[nointeract]"
-    Ann_02 "Oui ? Et qu'as-tu entendu à son sujet ? Est-ce un bon film ? Ça vaut le coup de le regarder ?[nointeract]"
+    # [Ann_02 "Да? И что ты о нём слышал? Хороший фильм? Стоит смотреть?" nointeract
+    Ann_02 "Oui ? Et qu'as-tu entendu à son sujet ? Est-ce un bon film ? Ça vaut le coup de le regarder ?" nointeract
 
 # game/dialogues/anntalk.rpy:223
 translate frenh ann_talk_tv_first_movie_12158efe:
 
-    # [Ann_05 "Ну, раз отзывы хорошие, тогда, давай смотреть![nointeract]"
-    Ann_05 "Eh bien, puisque les critiques sont bonnes, alors, jetons un coup d'œil ![nointeract]"
+    # [Ann_05 "Ну, раз отзывы хорошие, тогда, давай смотреть!" nointeract
+    Ann_05 "Eh bien, puisque les critiques sont bonnes, alors, jetons un coup d'œil !" nointeract
 
 # game/dialogues/anntalk.rpy:232
 translate frenh ann_talk_tv_start_e787d68c:
@@ -231,8 +231,8 @@ translate frenh ann_talk_tv_start_6bcfcf09:
 # game/dialogues/anntalk.rpy:247
 translate frenh ann_talk_tv_start_6382bd94:
 
-    # [Ann_15 "Надеюсь, ты закрыл глаза, потому-что это уже слишком![nointeract]"
-    Ann_15 "J'espère que tu as fermé les yeux, parce que c'est trop ![nointeract]"
+    # [Ann_15 "Надеюсь, ты закрыл глаза, потому-что это уже слишком!" nointeract
+    Ann_15 "J'espère que tu as fermé les yeux, parce que c'est trop !" nointeract
 
 # game/dialogues/anntalk.rpy:253
 translate frenh ann_talk_tv_start_166013e6:
@@ -285,8 +285,8 @@ translate frenh ann_tv_casual_0_cc5c55e4:
 # game/dialogues/anntalk.rpy:299
 translate frenh ann_tv_casual_0_a12834eb:
 
-    # [Max_08 "{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт.{/m}[nointeract]"
-    Max_08 "{m}Oh, merde ! Je me demandais en vain ce qu'il y avait sous la serviette de ma mère... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Bien que, je porte un T-shirt... Elle pourrait ne pas le remarquer, mais ce n'est pas certain.{/m}[nointeract]"
+    # [Max_08 "{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт.{/m}" nointeract
+    Max_08 "{m}Oh, merde ! Je me demandais en vain ce qu'il y avait sous la serviette de ma mère... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Bien que, je porte un T-shirt... Elle pourrait ne pas le remarquer, mais ce n'est pas certain.{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:311
 translate frenh ann_tv_casual_0_058e265f:
@@ -309,14 +309,14 @@ translate frenh ann_tv_casual_0_d75f04c7:
 # game/dialogues/anntalk.rpy:315
 translate frenh ann_tv_casual_0_56c17c37:
 
-    # [Max_14 "Хорощо, мам. Извини за это.[nointeract]"
-    Max_14 "Ok, maman. Désolé pour ça.[nointeract]"
+    # [Max_14 "Хорощо, мам. Извини за это." nointeract
+    Max_14 "Ok, maman. Désolé pour ça." nointeract
 
 # game/dialogues/anntalk.rpy:335
 translate frenh ann_tv_casual_0_db7f2794:
 
-    # [Max_08 "{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли.{/m}[nointeract]"
-    Max_08 "{m}Oh, merde ! Je me demandais en vain ce qu'il y avait sous la serviette de ma mère... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Je ne vais certainement pas cacher ma bite dans ce short en ce moment ! Elle pourrait ne pas le remarquer, bien sûr, mais c'est peu probable.{/m}[nointeract]"
+    # [Max_08 "{m}Вот чёрт! Зря я представлял, что там у мамы под полотенцем... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли.{/m}" nointeract
+    Max_08 "{m}Oh, merde ! Je me demandais en vain ce qu'il y avait sous la serviette de ma mère... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Je ne vais certainement pas cacher ma bite dans ce short en ce moment ! Elle pourrait ne pas le remarquer, bien sûr, mais c'est peu probable.{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:353
 translate frenh ann_tv_casual_0_1e50258d:
@@ -339,20 +339,20 @@ translate frenh ann_tv_casual_0_d75f04c7_1:
 # game/dialogues/anntalk.rpy:357
 translate frenh ann_tv_casual_0_56c17c37_1:
 
-    # [Max_14 "Хорощо, мам. Извини за это.[nointeract]"
-    Max_14 "Ok, maman. Désolé pour ça.[nointeract]"
+    # [Max_14 "Хорощо, мам. Извини за это." nointeract
+    Max_14 "Ok, maman. Désolé pour ça." nointeract
 
 # game/dialogues/anntalk.rpy:366
 translate frenh ann_tv_casual_0_9417a581:
 
-    # [Ann_05 "Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?[nointeract]"
-    Ann_05 "Une grande série je pense ! Ça t'a plu, Max ?[nointeract]"
+    # [Ann_05 "Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?" nointeract
+    Ann_05 "Une grande série je pense ! Ça t'a plu, Max ?" nointeract
 
 # game/dialogues/anntalk.rpy:368
 translate frenh ann_tv_casual_0_11e91c71:
 
-    # [Ann_05 "[lucky!t]Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?[nointeract]"
-    Ann_05 "[lucky!t]Donc, une grande série je pense ! Ça t'a plu, Max ?[nointeract]"
+    # [Ann_05 "[lucky!t]Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?" nointeract
+    Ann_05 "[lucky!t]Donc, une grande série je pense ! Ça t'a plu, Max ?" nointeract
 
 # game/dialogues/anntalk.rpy:373
 translate frenh ann_tv_casual_0_88212c06:
@@ -399,14 +399,14 @@ translate frenh ann_tv_casual_1_dfadd689:
 # game/dialogues/anntalk.rpy:405
 translate frenh ann_tv_casual_1_da7fec66:
 
-    # [Max_08 "{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт.{/m}[nointeract]"
-    Max_08 "{m}Je n'aurais pas dû l'imaginer... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Bien que, je porte un T-shirt... Elle pourrait ne pas le remarquer, mais ce n'est pas certain.{/m}[nointeract]"
+    # [Max_08 "{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт.{/m}" nointeract
+    Max_08 "{m}Je n'aurais pas dû l'imaginer... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Bien que, je porte un T-shirt... Elle pourrait ne pas le remarquer, mais ce n'est pas certain.{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:408
 translate frenh ann_tv_casual_1_9e2c4436:
 
-    # [Max_08 "{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли.{/m}[nointeract]"
-    Max_08 "{m}J'aurais dû l'imaginer... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Je ne vais certainement pas cacher ma bite dans ce short en ce moment ! Elle pourrait ne pas le remarquer, bien sûr, mais c'est peu probable.{/m}[nointeract]"
+    # [Max_08 "{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли.{/m}" nointeract
+    Max_08 "{m}J'aurais dû l'imaginer... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. Je ne vais certainement pas cacher ma bite dans ce short en ce moment ! Elle pourrait ne pas le remarquer, bien sûr, mais c'est peu probable.{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:412
 translate frenh ann_tv_casual_1_458824c0:
@@ -483,8 +483,8 @@ translate frenh ann_tv_casual_r_dfadd689:
 # game/dialogues/anntalk.rpy:476
 translate frenh ann_tv_casual_r_2828cae2:
 
-    # [Max_08 "{m}Зря я это представил... Надеюсь, она не заметит, что у меня стоит... Но не факт, может стоит подстраховаться и предложить ей массаж?{/m}[nointeract]"
-    Max_08 "{m}Je n'aurais pas dû l'imaginer... J'espère qu'elle ne remarque pas que je bande... Mais ce n'est pas sûr, peut-être que je devrais le couvrir et lui offrir un massage ?{/m}[nointeract]"
+    # [Max_08 "{m}Зря я это представил... Надеюсь, она не заметит, что у меня стоит... Но не факт, может стоит подстраховаться и предложить ей массаж?{/m}" nointeract
+    Max_08 "{m}Je n'aurais pas dû l'imaginer... J'espère qu'elle ne remarque pas que je bande... Mais ce n'est pas sûr, peut-être que je devrais le couvrir et lui offrir un massage ?{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:484
 translate frenh ann_tv_casual_r_a4da47d1:
@@ -531,8 +531,8 @@ translate frenh ann_tv_casual_r_eefcf53a:
 # game/dialogues/anntalk.rpy:507
 translate frenh ann_tv_casual_r_34583ab7:
 
-    # [Max_02 "Очень надеюсь, что так и будет.[nointeract]"
-    Max_02 "Je l'espère vraiment.[nointeract]"
+    # [Max_02 "Очень надеюсь, что так и будет." nointeract
+    Max_02 "Je l'espère vraiment." nointeract
 
 # game/dialogues/anntalk.rpy:515
 translate frenh ann_tv_casual_r_9db23388:
@@ -579,20 +579,20 @@ translate frenh Ann_MorningWood_ab75b971:
 # game/dialogues/anntalk.rpy:545
 translate frenh Ann_MorningWood_75ea92a8:
 
-    # [Ann_14 "Но Макс. Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?[nointeract]"
-    Ann_14 "Mais Max. Lisa est encore petite et essaies de ne pas la laisser voir ton... toi. Quoi qu'il en soit, tu comprends ce que je veux dire, n'est-ce pas ?[nointeract]"
+    # [Ann_14 "Но Макс. Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?" nointeract
+    Ann_14 "Mais Max. Lisa est encore petite et essaies de ne pas la laisser voir ton... toi. Quoi qu'il en soit, tu comprends ce que je veux dire, n'est-ce pas ?" nointeract
 
 # game/dialogues/anntalk.rpy:548
 translate frenh Ann_MorningWood_4d3a269f:
 
-    # [Ann_04 "Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром![nointeract]"
-    Ann_04 "Quel est le problème ? Juste parce qu'une fille ne devrait pas voir la grosse bite de son frère quand elle se réveille le matin ![nointeract]"
+    # [Ann_04 "Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром!" nointeract
+    Ann_04 "Quel est le problème ? Juste parce qu'une fille ne devrait pas voir la grosse bite de son frère quand elle se réveille le matin !" nointeract
 
 # game/dialogues/anntalk.rpy:551
 translate frenh Ann_MorningWood_31985b42:
 
-    # [Ann_07 "Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу...[nointeract]"
-    Ann_07 "Désolé, je me suis emporté. C'est juste que même moi j'ai été choqué quand je l'ai vue, sans parler de Lisa...[nointeract]"
+    # [Ann_07 "Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу..." nointeract
+    Ann_07 "Désolé, je me suis emporté. C'est juste que même moi j'ai été choqué quand je l'ai vue, sans parler de Lisa..." nointeract
 
 # game/dialogues/anntalk.rpy:553
 translate frenh Ann_MorningWood_20707248:
@@ -609,8 +609,8 @@ translate frenh Ann_MorningWood_f3fba9dc:
 # game/dialogues/anntalk.rpy:559
 translate frenh Ann_MorningWood_0bac3ba4:
 
-    # [Ann_12 "Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?[nointeract]"
-    Ann_12 "Une femme adulte peut même être attirée par ça, mais une fille est clairement trop jeune pour la voir, tu vois ce que je veux dire ?[nointeract]"
+    # [Ann_12 "Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?" nointeract
+    Ann_12 "Une femme adulte peut même être attirée par ça, mais une fille est clairement trop jeune pour la voir, tu vois ce que je veux dire ?" nointeract
 
 # game/dialogues/anntalk.rpy:561
 translate frenh Ann_MorningWood_845bcbb0:
@@ -651,14 +651,14 @@ translate frenh Ann_MorningWood_d66e2468:
 # game/dialogues/anntalk.rpy:583
 translate frenh talk_about_smoking_becba3c8:
 
-    # [Ann_12 "Макс. Я не уверена, но мне кажется, что чувствую запах сигаретного дыма. К нам кто-то приходил?[nointeract]"
-    Ann_12 "Max. Je ne suis pas sûr, mais je pense que je peux sentir la fumée de cigarette. Quelqu'un est venu nous voir ?[nointeract]"
+    # [Ann_12 "Макс. Я не уверена, но мне кажется, что чувствую запах сигаретного дыма. К нам кто-то приходил?" nointeract
+    Ann_12 "Max. Je ne suis pas sûr, mais je pense que je peux sentir la fumée de cigarette. Quelqu'un est venu nous voir ?" nointeract
 
 # game/dialogues/anntalk.rpy:589
 translate frenh talk_about_smoking_812b7a4b:
 
-    # [Ann_00 "Точно? Макс, ты ничего не хочешь рассказать?[nointeract]"
-    Ann_00 "Tu es sûr ? Max, y a-t-il quelque chose que tu veux me dire ?[nointeract]"
+    # [Ann_00 "Точно? Макс, ты ничего не хочешь рассказать?" nointeract
+    Ann_00 "Tu es sûr ? Max, y a-t-il quelque chose que tu veux me dire ?" nointeract
 
 # game/dialogues/anntalk.rpy:591
 translate frenh talk_about_smoking_b75bee26:
@@ -669,8 +669,8 @@ translate frenh talk_about_smoking_b75bee26:
 # game/dialogues/anntalk.rpy:596
 translate frenh talk_about_smoking_bc384657:
 
-    # [Alice_03 "Спасибо, Макс, что не сдал меня... Я это ценю.[nointeract]"
-    Alice_03 "Merci, Max, de ne pas m'avoir balancé... J'apprécie cela.[nointeract]"
+    # [Alice_03 "Спасибо, Макс, что не сдал меня... Я это ценю." nointeract
+    Alice_03 "Merci, Max, de ne pas m'avoir balancé... J'apprécie cela." nointeract
 
 # game/dialogues/anntalk.rpy:599
 translate frenh talk_about_smoking_582d9cb8:
@@ -687,14 +687,14 @@ translate frenh talk_about_smoking_d217c75e:
 # game/dialogues/anntalk.rpy:607
 translate frenh talk_about_smoking_ae9788a4:
 
-    # [Alice_16 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты...[nointeract]"
-    Alice_16 "Max ! Tu es insupportable. Je pensais déjà que tu étais un frère normal, et tu...[nointeract]"
+    # [Alice_16 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты..." nointeract
+    Alice_16 "Max ! Tu es insupportable. Je pensais déjà que tu étais un frère normal, et tu..." nointeract
 
 # game/dialogues/anntalk.rpy:618
 translate frenh talk_about_smoking_82373ff8:
 
-    # [Alice_13 "Макс! Опять ты за своё? Не будь придурком![nointeract]"
-    Alice_13 "Max ! Tu le fais encore, n'est-ce pas ? Ne fais pas le con ![nointeract]"
+    # [Alice_13 "Макс! Опять ты за своё? Не будь придурком!" nointeract
+    Alice_13 "Max ! Tu le fais encore, n'est-ce pas ? Ne fais pas le con !" nointeract
 
 # game/dialogues/anntalk.rpy:629
 translate frenh talk_about_smoking_joke_eaa2da91:
@@ -735,8 +735,8 @@ translate frenh ann_about_kiss_f870de5f:
 # game/dialogues/anntalk.rpy:646
 translate frenh ann_about_kiss_060b6710:
 
-    # [Ann_04 "Ого! Поздравляю, Макс. Наконец-то ты нашёл кого-то. Расскажи, какая она?[nointeract]"
-    Ann_04 "Wow ! Félicitations, Max. Tu as enfin trouvé quelqu'un. Dis-moi, comment est-elle ?[nointeract]"
+    # [Ann_04 "Ого! Поздравляю, Макс. Наконец-то ты нашёл кого-то. Расскажи, какая она?" nointeract
+    Ann_04 "Wow ! Félicitations, Max. Tu as enfin trouvé quelqu'un. Dis-moi, comment est-elle ?" nointeract
 
 # game/dialogues/anntalk.rpy:648
 translate frenh ann_about_kiss_b3dba2cb:
@@ -1005,8 +1005,8 @@ translate frenh ann_yoga_with_max0_ff65f9c4:
 # game/dialogues/anntalk.rpy:749
 translate frenh ann_yoga_with_max0_fb97042e:
 
-    # [Max_01 "Хорошо, мам. Это я с радостью![nointeract]"
-    Max_01 "Ok, maman. C'est moi qui suis heureux![nointeract]"
+    # [Max_01 "Хорошо, мам. Это я с радостью!" nointeract
+    Max_01 "Ok, maman. C'est moi qui suis heureux!" nointeract
 
 # game/dialogues/anntalk.rpy:758
 translate frenh yoga_after_peeping_81dfb3e8:
@@ -1041,8 +1041,8 @@ translate frenh yoga_after_peeping_7d9027ce:
 # game/dialogues/anntalk.rpy:777
 translate frenh ann_yoga_with_maxr_6cc59cc4:
 
-    # [Ann_05 "Конечно, Макс, зачем спрашиваешь... Если ты ещё не созрел проверить свою гибкость, то просто смотри и помогай, если я попрошу. Ну и запоминай, что я делаю...[nointeract]"
-    Ann_05 "Bien sûr, Max, pourquoi tu demandes... Si tu es pas encore mûr pour tester ta flexibilité, regardes simplement et aides si je te le demande. Eh bien, souviens-toi de ce que je fais...[nointeract]"
+    # [Ann_05 "Конечно, Макс, зачем спрашиваешь... Если ты ещё не созрел проверить свою гибкость, то просто смотри и помогай, если я попрошу. Ну и запоминай, что я делаю..." nointeract
+    Ann_05 "Bien sûr, Max, pourquoi tu demandes... Si tu es pas encore mûr pour tester ta flexibilité, regardes simplement et aides si je te le demande. Eh bien, souviens-toi de ce que je fais..." nointeract
 
 # game/dialogues/anntalk.rpy:779
 translate frenh ann_yoga_with_maxr_77a6f27b:
@@ -1227,8 +1227,8 @@ translate frenh ann_yoga_with_maxr_df4f32db:
 # game/dialogues/anntalk.rpy:847
 translate frenh ann_yoga_with_maxr_4e133757:
 
-    # [Max_01 "С радостью, мам! Обязательно...[nointeract]"
-    Max_01 "Avec plaisir, maman ! Absolument...[nointeract]"
+    # [Max_01 "С радостью, мам! Обязательно..." nointeract
+    Max_01 "Avec plaisir, maman ! Absolument..." nointeract
 
 # game/dialogues/anntalk.rpy:858
 translate frenh ann_gift_fit1_d73a8076:
@@ -1317,8 +1317,8 @@ translate frenh ann_gift_fit1_c3fe6e1e:
 # game/dialogues/anntalk.rpy:892
 translate frenh ann_gift_fit1_0056777b:
 
-    # [Ann_04 "Ну всё, мой дорогой, не будем же мы так часами стоять обниматься, пора делами заняться...[nointeract]"
-    Ann_04 "C'est ça, mon chère, nous n'allons pas rester enlacés pendant des heures, il est temps de passer aux choses sérieuses...[nointeract]"
+    # [Ann_04 "Ну всё, мой дорогой, не будем же мы так часами стоять обниматься, пора делами заняться..." nointeract
+    Ann_04 "C'est ça, mon chère, nous n'allons pas rester enlacés pendant des heures, il est temps de passer aux choses sérieuses..." nointeract
 
 # game/dialogues/anntalk.rpy:894
 translate frenh ann_gift_fit1_bad26272:
@@ -1335,8 +1335,8 @@ translate frenh ann_gift_fit1_b8456594:
 # game/dialogues/anntalk.rpy:899
 translate frenh ann_gift_fit1_c5ca0730:
 
-    # [Ann_04 "Ну вот, дорогой. Теперь, давай заниматься своими делами...[nointeract]"
-    Ann_04 "Voilà, chérie. Maintenant, occupons-nous de nos propres affaires...[nointeract]"
+    # [Ann_04 "Ну вот, дорогой. Теперь, давай заниматься своими делами..." nointeract
+    Ann_04 "Voilà, chérie. Maintenant, occupons-nous de nos propres affaires..." nointeract
 
 # game/dialogues/anntalk.rpy:901
 translate frenh ann_gift_fit1_e41c68c6:
@@ -1425,8 +1425,8 @@ translate frenh erofilm2_1_9e87de42:
 # game/dialogues/anntalk.rpy:958
 translate frenh erofilm2_1_fd88d64b:
 
-    # [Max_08 "{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хорошо, что есть проверенный и приятный способ его скрыть...{/m}[nointeract]"
-    Max_08 "{m}Je n'aurais pas dû l'imaginer... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. C'est une bonne chose qu'il y ait un moyen éprouvé et agréable de le cacher...{/m}[nointeract]"
+    # [Max_08 "{m}Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хорошо, что есть проверенный и приятный способ его скрыть...{/m}" nointeract
+    Max_08 "{m}Je n'aurais pas dû l'imaginer... Si ma mère voit ma trique, le visionnage est définitivement terminé pour moi. C'est une bonne chose qu'il y ait un moyen éprouvé et agréable de le cacher...{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:966
 translate frenh erofilm2_1_a4da47d1:
@@ -1479,8 +1479,8 @@ translate frenh erofilm2_1_0aa128fe:
 # game/dialogues/anntalk.rpy:995
 translate frenh erofilm2_1_016dc119:
 
-    # [Max_05 "{m}Уххх... А у мамы ведь полотенце сползло... И она это ещё не заметила! Должно быть, мой массаж действительно её хорошо расслабил! Надо продолжать... Может оно тогда ещё больше спадёт...{/m}[nointeract]"
-    Max_05 "{m}Uhhhh... Et la serviette de maman a glissé... Et elle ne l'a même pas encore remarqué! Mon massage a dû bien la détendre! Je dois continuer... Peut-être qu'elle se baissera encore plus...{/m}[nointeract]"
+    # [Max_05 "{m}Уххх... А у мамы ведь полотенце сползло... И она это ещё не заметила! Должно быть, мой массаж действительно её хорошо расслабил! Надо продолжать... Может оно тогда ещё больше спадёт...{/m}" nointeract
+    Max_05 "{m}Uhhhh... Et la serviette de maman a glissé... Et elle ne l'a même pas encore remarqué! Mon massage a dû bien la détendre! Je dois continuer... Peut-être qu'elle se baissera encore plus...{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:1003
 translate frenh erofilm2_1_c74f79bd:
@@ -1527,8 +1527,8 @@ translate frenh erofilm2_1_db9e8a82:
 # game/dialogues/anntalk.rpy:1037
 translate frenh erofilm2_1_7cd6006b:
 
-    # [Ann_15 "[ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься.[nointeract]"
-    Ann_15 "[ann_bad_mass!t]Aïe ! Wow ! Max, pourquoi tu ne m'as pas dit que ma serviette glissait ?! Je suis presque nue ! Faisons une pause dans le massage... et finissons le film. Tu es trop distrait.[nointeract]"
+    # [Ann_15 "[ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься." nointeract
+    Ann_15 "[ann_bad_mass!t]Aïe ! Wow ! Max, pourquoi tu ne m'as pas dit que ma serviette glissait ?! Je suis presque nue ! Faisons une pause dans le massage... et finissons le film. Tu es trop distrait." nointeract
 
 # game/dialogues/anntalk.rpy:1049
 translate frenh erofilm2_1_0cbf3006:
@@ -1713,8 +1713,8 @@ translate frenh erofilm2_2_f1542d5c:
 # game/dialogues/anntalk.rpy:1189
 translate frenh erofilm2_2_6b9eb318:
 
-    # [Max_08 "{m}Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит...{/m}[nointeract]"
-    Max_08 "{m}Eh, maman... Il se fait tard. Et c'est un spectacle que je ne suis pas prêt d'oublier! J'espère qu'elle ne remarque pas que je bande...{/m}[nointeract]"
+    # [Max_08 "{m}Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит...{/m}" nointeract
+    Max_08 "{m}Eh, maman... Il se fait tard. Et c'est un spectacle que je ne suis pas prêt d'oublier! J'espère qu'elle ne remarque pas que je bande...{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:1197
 translate frenh erofilm2_2_a4da47d1:
@@ -1791,8 +1791,8 @@ translate frenh erofilm2_2_b40e2da0:
 # game/dialogues/anntalk.rpy:1234
 translate frenh erofilm2_2_5b33305d:
 
-    # [Max_05 "{m}У мамы снова полотенце сползает, а она не чувствует... Надо продолжать, раз ей так нравится массаж... Или лучше сказать?{/m}[nointeract]"
-    Max_05 "{m}La serviette de maman glisse à nouveau et elle ne la sent pas... Je dois continuer, puisqu'elle aime tellement le massage... Ou devrais-je le dire ?{/m}[nointeract]"
+    # [Max_05 "{m}У мамы снова полотенце сползает, а она не чувствует... Надо продолжать, раз ей так нравится массаж... Или лучше сказать?{/m}" nointeract
+    Max_05 "{m}La serviette de maman glisse à nouveau et elle ne la sent pas... Je dois continuer, puisqu'elle aime tellement le massage... Ou devrais-je le dire ?{/m}" nointeract
 
 # game/dialogues/anntalk.rpy:1240
 translate frenh erofilm2_2_faffd6fd:
@@ -1809,8 +1809,8 @@ translate frenh erofilm2_2_c0dbd91d:
 # game/dialogues/anntalk.rpy:1243
 translate frenh erofilm2_2_300645c2:
 
-    # [Ann_04 "Давай-ка на сегодня прервёмся с массажем... и досмотрим фильм. Это не значит, что мне не понравилось! Ты молодец![nointeract]"
-    Ann_04 "Faisons une pause dans le massage pour aujourd'hui... et finissons le film. Cela ne veut pas dire que je n'ai pas aimé! Tu as bien fait ![nointeract]"
+    # [Ann_04 "Давай-ка на сегодня прервёмся с массажем... и досмотрим фильм. Это не значит, что мне не понравилось! Ты молодец!" nointeract
+    Ann_04 "Faisons une pause dans le massage pour aujourd'hui... et finissons le film. Cela ne veut pas dire que je n'ai pas aimé! Tu as bien fait !" nointeract
 
 # game/dialogues/anntalk.rpy:1256
 translate frenh erofilm2_2_3ff92d9e:
@@ -1875,8 +1875,8 @@ translate frenh erofilm2_2_2d7bb75d:
 # game/dialogues/anntalk.rpy:1295
 translate frenh erofilm2_2_e0c6e9b1:
 
-    # [Max_03 "А где ты тут детей видишь?[nointeract]"
-    Max_03 "Où vois-tu des enfants ici?[nointeract]"
+    # [Max_03 "А где ты тут детей видишь?" nointeract
+    Max_03 "Où vois-tu des enfants ici?" nointeract
 
 # game/dialogues/anntalk.rpy:1308
 translate frenh erofilm2_2_e77ee6ca:
@@ -1929,8 +1929,8 @@ translate frenh erofilm2_2_684e55df:
 # game/dialogues/anntalk.rpy:1337
 translate frenh erofilm2_2_7cd6006b:
 
-    # [Ann_15 "[ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься.[nointeract]"
-    Ann_15 "[ann_bad_mass!t]Aïe ! Wow ! Max, pourquoi tu ne m'as pas dit que ma serviette glissait ?! Je suis presque nue ! Faisons une pause dans le massage... et finissons le film. Tu es trop distrait.[nointeract]"
+    # [Ann_15 "[ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься." nointeract
+    Ann_15 "[ann_bad_mass!t]Aïe ! Wow ! Max, pourquoi tu ne m'as pas dit que ma serviette glissait ?! Je suis presque nue ! Faisons une pause dans le massage... et finissons le film. Tu es trop distrait." nointeract
 
 # game/dialogues/anntalk.rpy:1353
 translate frenh erofilm2_2_lucky_aaa808d8:

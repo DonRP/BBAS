@@ -15,8 +15,8 @@
 # game/script.rpy:58
 translate frenh intro_8dea4dcf:
 
-    # [Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
-    Max_00 "Je m’appelle Max. Je suis un gars ordinaire d’une famille normale. Eh bien...banal quoi. Bien que je suis en train de plaisanter. Normal dans ma famille n'ai pas vraiment une réalité. Mais d’abord, les choses principales.[nointeract]"
+    # [Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
+    Max_00 "Je m’appelle Max. Je suis un gars ordinaire d’une famille normale. Eh bien...banal quoi. Bien que je suis en train de plaisanter. Normal dans ma famille n'ai pas vraiment une réalité. Mais d’abord, les choses principales." nointeract
 
 # game/script.rpy:60
 translate frenh intro_0f762891:
@@ -135,8 +135,8 @@ translate frenh intro_8db9c9f1:
 # game/script.rpy:86
 translate frenh intro_8e21e5ab:
 
-    # [Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания.[nointeract]"
-    Maya_03 "Bien sûr, Anna. Voici ma carte. Appelez lorsque vous êtes prêt à prendre une décision. Je vous laisse également des copies de tous les documents. Au revoir.[nointeract]"
+    # [Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
+    Maya_03 "Bien sûr, Anna. Voici ma carte. Appelez lorsque vous êtes prêt à prendre une décision. Je vous laisse également des copies de tous les documents. Au revoir." nointeract
 
 # game/script.rpy:90
 translate frenh intro_eaf717b9:
@@ -177,8 +177,8 @@ translate frenh intro_fbedb073:
 # game/script.rpy:99
 translate frenh intro_07cd4260:
 
-    # [Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем![nointeract]"
-    Ann_07 "Très bien. La compagnie de déménagement m'a informés que nos affaires avaient été retardées. Je regrette déjà de m'être engagée avec eux... Bref, on déménage dans une semaine ![nointeract]"
+    # [Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем!" nointeract
+    Ann_07 "Très bien. La compagnie de déménagement m'a informés que nos affaires avaient été retardées. Je regrette déjà de m'être engagée avec eux... Bref, on déménage dans une semaine !" nointeract
 
 # game/script.rpy:103
 translate frenh intro_dbd412b7:
@@ -189,8 +189,8 @@ translate frenh intro_dbd412b7:
 # game/script.rpy:105
 translate frenh intro_356cd733:
 
-    # [Max_04 "Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное![nointeract]"
-    Max_04 "Maman a trouvé un nouveau travail. Lisa est allée à l'école du quartier. Alice est toujours assise sur son ordinateur portable et moi... C'est ici que mon ancienne vie se termine et que quelque chose de nouveau et d'intéressant commence.![nointeract]"
+    # [Max_04 "Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное!" nointeract
+    Max_04 "Maman a trouvé un nouveau travail. Lisa est allée à l'école du quartier. Alice est toujours assise sur son ordinateur portable et moi... C'est ici que mon ancienne vie se termine et que quelque chose de nouveau et d'intéressant commence.!" nointeract
 
 # game/script.rpy:118
 translate frenh about_poss_0cd5a085:
@@ -213,8 +213,8 @@ translate frenh about_poss_09cf07b7:
 # game/script.rpy:122
 translate frenh about_poss_95f72849:
 
-    # [Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
-    Max_04 "Mais vous ne devez pas non plus en avoir peur. C'est grâce à des 'opportunités' que vous pouvez réaliser des choses dont certaines personnes ne rêvent même pas ![nointeract]"
+    # [Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
+    Max_04 "Mais vous ne devez pas non plus en avoir peur. C'est grâce à des 'opportunités' que vous pouvez réaliser des choses dont certaines personnes ne rêvent même pas !" nointeract
 
     old "{i}далее{/i}"
     new "{i}suivant{/i}"

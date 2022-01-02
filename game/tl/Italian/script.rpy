@@ -15,8 +15,8 @@
 # game/script.rpy:58
 translate italian intro_8dea4dcf:
 
-    # [Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
-    Max_00 "Mi chiamo Max. Sono un ragazzo normale di una famiglia normale. Beh, come al solito... Normale. Anche se, chi voglio prendere in giro. Normale nella mia famiglia non è abbastanza. Ma prima le cose primarie.[nointeract]"
+    # [Max_00 "Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
+    Max_00 "Mi chiamo Max. Sono un ragazzo normale di una famiglia normale. Beh, come al solito... Normale. Anche se, chi voglio prendere in giro. Normale nella mia famiglia non è abbastanza. Ma prima le cose primarie." nointeract
 
 # game/script.rpy:60
 translate italian intro_0f762891:
@@ -135,8 +135,8 @@ translate italian intro_8db9c9f1:
 # game/script.rpy:86
 translate italian intro_8e21e5ab:
 
-    # [Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания.[nointeract]"
-    Maya_03 "Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronta a prendere una decisione. Lascerò anche delle copie di tutti i documenti. Arrivederci.[nointeract]"
+    # [Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
+    Maya_03 "Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronta a prendere una decisione. Lascerò anche delle copie di tutti i documenti. Arrivederci." nointeract
 
 # game/script.rpy:90
 translate italian intro_eaf717b9:
@@ -177,8 +177,8 @@ translate italian intro_fbedb073:
 # game/script.rpy:99
 translate italian intro_07cd4260:
 
-    # [Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем![nointeract]"
-    Ann_07 "Va bene, allora. La compagnia di trasporti ha detto che i nostri bagagli avranno un ritardo. Mi sto già pentendo di averli contattati... Comunque, ci trasferiremo la prossima settimana![nointeract]"
+    # [Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем!" nointeract
+    Ann_07 "Va bene, allora. La compagnia di trasporti ha detto che i nostri bagagli avranno un ritardo. Mi sto già pentendo di averli contattati... Comunque, ci trasferiremo la prossima settimana!" nointeract
 
 # game/script.rpy:103
 translate italian intro_dbd412b7:
@@ -189,8 +189,8 @@ translate italian intro_dbd412b7:
 # game/script.rpy:105
 translate italian intro_356cd733:
 
-    # [Max_04 "Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное![nointeract]"
-    Max_04 "La mamma ha trovato un nuovo lavoro. Lisa ha frequentato la scuola locale. Alice continua a rimanere seduta davanti al suo portatile e io... Qui finisce la mia storia e comincia qualcosa di nuovo e interessante![nointeract]"
+    # [Max_04 "Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное!" nointeract
+    Max_04 "La mamma ha trovato un nuovo lavoro. Lisa ha frequentato la scuola locale. Alice continua a rimanere seduta davanti al suo portatile e io... Qui finisce la mia storia e comincia qualcosa di nuovo e interessante!" nointeract
 
 # game/script.rpy:118
 translate italian about_poss_0cd5a085:
@@ -213,8 +213,8 @@ translate italian about_poss_09cf07b7:
 # game/script.rpy:122
 translate italian about_poss_95f72849:
 
-    # [Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
-    Max_04 "Ma non dovreste nemmeno averne paura. È attraverso le \"opportunità\" che si possono raggiungere risultati che altri nemmeno sognano![nointeract]"
+    # [Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
+    Max_04 "Ma non dovreste nemmeno averne paura. È attraverso le \"opportunità\" che si possono raggiungere risultati che altri nemmeno sognano!" nointeract
 
     old "{i}далее{/i}"
     new "{i}prosegui{/i}"

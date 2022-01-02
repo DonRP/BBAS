@@ -16,81 +16,81 @@
 translate italian ann_sleep_240f8eab:
 
     # [Max_00 "В это время мама обычно спит.\n"
-"Мне кажется, не стоит её будить...[nointeract]"
+"Мне кажется, не стоит её будить..." nointeract
     Max_00 "In questo momento, la mamma di solito dorme.\n"
-"Non credo che dovresti svegliarla...[nointeract]"
+"Non credo che dovresti svegliarla..." nointeract
 
 # game/events/ann.rpy:18
 translate italian ann_sleep_261d0248:
 
-    # [Max_01 "Класс! Мама спит... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
-    Max_01 "classe! La mamma dorme... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita![nointeract]"
+    # [Max_01 "Класс! Мама спит... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!" nointeract
+    Max_01 "classe! La mamma dorme... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita!" nointeract
 
 # game/events/ann.rpy:20
 translate italian ann_sleep_3060fb81:
 
-    # [Max_04 "О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер![nointeract]"
-    Max_04 "Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Semplicemente fantastico![nointeract]"
+    # [Max_04 "О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер!" nointeract
+    Max_04 "Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Semplicemente fantastico!" nointeract
 
 # game/events/ann.rpy:22
 translate italian ann_sleep_dfc27cd6:
 
-    # [Max_07 "Обалденно! Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
-    Max_07 "fantastico! Quanto sono fortunata ad avere una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi![nointeract]"
+    # [Max_07 "Обалденно! Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!" nointeract
+    Max_07 "fantastico! Quanto sono fortunata ad avere una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi!" nointeract
 
 # game/events/ann.rpy:25
 translate italian ann_sleep_697ba3b2:
 
-    # [Max_01 "Класс! Мама спит в ночнушке... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
-    Max_01 "classe! La mamma dorme in camicia da notte... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita![nointeract]"
+    # [Max_01 "Класс! Мама спит в ночнушке... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!" nointeract
+    Max_01 "classe! La mamma dorme in camicia da notte... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita!" nointeract
 
 # game/events/ann.rpy:27
 translate italian ann_sleep_21484aea:
 
-    # [Max_04 "О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Её попку даже немного видно через ночнушку![nointeract]"
-    Max_04 "Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Il suo è anche leggermente visibile attraverso la camicia da notte![nointeract]"
+    # [Max_04 "О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Её попку даже немного видно через ночнушку!" nointeract
+    Max_04 "Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Il suo è anche leggermente visibile attraverso la camicia da notte!" nointeract
 
 # game/events/ann.rpy:29
 translate italian ann_sleep_8a07d51f:
 
-    # [Max_07 "Обалденно! Как же повезло, что у меня такая горячая мама... В этой ночнушке она выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
-    Max_07 "fantastico! Quanto sono fortunata ad avere una mamma così calda... In questa camicia da notte sembra incredibile, già gli occhi non vogliono strapparsi![nointeract]"
+    # [Max_07 "Обалденно! Как же повезло, что у меня такая горячая мама... В этой ночнушке она выглядит потрясающе, аж глаза отрывать не хочется!" nointeract
+    Max_07 "fantastico! Quanto sono fortunata ad avere una mamma così calda... In questa camicia da notte sembra incredibile, già gli occhi non vogliono strapparsi!" nointeract
 
 # game/events/ann.rpy:38
 translate italian ann_sleep_d5c35f70:
 
-    # [Max_03 "Чёрт, у меня самая аппетитная мама на свете! Вот бы снять с неё всё белье и пристроиться сзади... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
-    Max_03 "accidenti, ho la mamma più appetitosa del mondo! Vorrei potermi togliere tutta la biancheria intima e attaccarmi alla schiena... Ma è meglio andarsene lentamente prima che si svegli.[nointeract]"
+    # [Max_03 "Чёрт, у меня самая аппетитная мама на свете! Вот бы снять с неё всё белье и пристроиться сзади... Но лучше потихоньку уходить, пока она не проснулась." nointeract
+    Max_03 "accidenti, ho la mamma più appetitosa del mondo! Vorrei potermi togliere tutta la biancheria intima e attaccarmi alla schiena... Ma è meglio andarsene lentamente prima che si svegli." nointeract
 
 # game/events/ann.rpy:40
 translate italian ann_sleep_c99b810c:
 
-    # [Max_02 "Ухх! Так и хочется прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
-    Max_02 "Uhhh Quindi voglio accoccolarmi in questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi.[nointeract]"
+    # [Max_02 "Ухх! Так и хочется прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться." nointeract
+    Max_02 "Uhhh Quindi voglio accoccolarmi in questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi." nointeract
 
 # game/events/ann.rpy:42
 translate italian ann_sleep_acd8f5fc:
 
-    # [Max_05 "Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительно! Только бы она сейчас не проснулась...[nointeract]"
-    Max_05 "Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo allettante! Se solo non si svegliasse ora...[nointeract]"
+    # [Max_05 "Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительно! Только бы она сейчас не проснулась..." nointeract
+    Max_05 "Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo allettante! Se solo non si svegliasse ora..." nointeract
 
 # game/events/ann.rpy:45
 translate italian ann_sleep_72364154:
 
-    # [Max_03 "Чёрт, у меня самая аппетитная мама на свете! Вот бы пристроиться сзади и запустить руки под эту сорочку... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
-    Max_03 "accidenti, ho la mamma più appetitosa del mondo! Vorrei dover sedermi e passare le mani sotto questa camicia... Ma è meglio andarsene lentamente prima che si svegli.[nointeract]"
+    # [Max_03 "Чёрт, у меня самая аппетитная мама на свете! Вот бы пристроиться сзади и запустить руки под эту сорочку... Но лучше потихоньку уходить, пока она не проснулась." nointeract
+    Max_03 "accidenti, ho la mamma più appetitosa del mondo! Vorrei dover sedermi e passare le mani sotto questa camicia... Ma è meglio andarsene lentamente prima che si svegli." nointeract
 
 # game/events/ann.rpy:47
 translate italian ann_sleep_fd1a61fb:
 
-    # [Max_02 "Ухх! Так и хочется задрать её сорочку, прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
-    Max_02 "Uhhh Quindi voglio tirarle su la camicia, accoccolarmi fino a questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi.[nointeract]"
+    # [Max_02 "Ухх! Так и хочется задрать её сорочку, прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться." nointeract
+    Max_02 "Uhhh Quindi voglio tirarle su la camicia, accoccolarmi fino a questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi." nointeract
 
 # game/events/ann.rpy:49
 translate italian ann_sleep_0107c89f:
 
-    # [Max_05 "Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком уж соблазнительно она выглядит в этой сорочке! Только бы она сейчас не проснулась...[nointeract]"
-    Max_05 "Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo seducente lei guarda in questa camicia! Se solo non si svegliasse ora...[nointeract]"
+    # [Max_05 "Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком уж соблазнительно она выглядит в этой сорочке! Только бы она сейчас не проснулась..." nointeract
+    Max_05 "Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo seducente lei guarda in questa camicia! Se solo non si svegliasse ora..." nointeract
 
 # game/events/ann.rpy:64
 translate italian ann_shower_05e06b33:
@@ -113,14 +113,14 @@ translate italian ann_shower_71ff657f:
 # game/events/ann.rpy:74
 translate italian ann_shower_9c2211b3:
 
-    # [Max_00 "Мама сейчас принимает душ...[nointeract]"
-    Max_00 "mamma si sta facendo la doccia ora...[nointeract]"
+    # [Max_00 "Мама сейчас принимает душ..." nointeract
+    Max_00 "mamma si sta facendo la doccia ora..." nointeract
 
 # game/events/ann.rpy:80
 translate italian ann_shower_39468bae:
 
-    # [Max_00 "Похоже, мама принимает душ...[nointeract]"
-    Max_00 "Sembra che la mamma si stia facendo la doccia...[nointeract]"
+    # [Max_00 "Похоже, мама принимает душ..." nointeract
+    Max_00 "Sembra che la mamma si stia facendo la doccia..." nointeract
 
 # game/events/ann.rpy:91
 translate italian ann_shower_ladder_2b325faf:
@@ -167,8 +167,8 @@ translate italian ann_shower_ladder_8e5f0b17:
 # game/events/ann.rpy:127
 translate italian ann_shower_start_peeping_f0132630:
 
-    # [Max_07 "Ух, аж завораживает! Повезло же, что у меня такая сексуальная мама... Надеюсь, она меня не заметит...[nointeract]"
-    Max_07 "Ukh, è affascinante! Fortunato ad avere una mamma così sexy... Spero che non si accorga di me...[nointeract]"
+    # [Max_07 "Ух, аж завораживает! Повезло же, что у меня такая сексуальная мама... Надеюсь, она меня не заметит..." nointeract
+    Max_07 "Ukh, è affascinante! Fortunato ad avere una mamma così sexy... Spero che non si accorga di me..." nointeract
 
 # game/events/ann.rpy:147
 translate italian ann_shower_alt_peepeng_e486fb14:
@@ -205,14 +205,14 @@ translate italian ann_shower_not_luck_4a76a42b:
 # game/events/ann.rpy:186
 translate italian ann_shower_not_luck_9b36810d:
 
-    # [Ann_15 "[spotted!t]Макс!!! Что ты здесь делаешь? А ну быстро отвернись!!![nointeract]"
-    Ann_15 "[spotted!t]Max!!! Che ci fai qui? E allontanati rapidamente!!![nointeract]"
+    # [Ann_15 "[spotted!t]Макс!!! Что ты здесь делаешь? А ну быстро отвернись!!!" nointeract
+    Ann_15 "[spotted!t]Max!!! Che ci fai qui? E allontanati rapidamente!!!" nointeract
 
 # game/events/ann.rpy:197
 translate italian ann_shower_serious_talk_9d79db42:
 
-    # [Ann_19 "Ты что, подглядываешь за мной? Тебе должно быть стыдно! Нас ждёт серьёзный разговор...[nointeract]"
-    Ann_19 "Mi stai spiando? Dovresti vergognarti! Avremo una conversazione seria...[nointeract]"
+    # [Ann_19 "Ты что, подглядываешь за мной? Тебе должно быть стыдно! Нас ждёт серьёзный разговор..." nointeract
+    Ann_19 "Mi stai spiando? Dovresti vergognarti! Avremo una conversazione seria..." nointeract
 
 # game/events/ann.rpy:200
 translate italian ann_shower_serious_talk_5cc0688c:
@@ -265,14 +265,14 @@ translate italian ann_shower_serious_talk_471df3d0:
 # game/events/ann.rpy:254
 translate italian ann_dressed_work_7b31f3ed:
 
-    # [Max_09 "Сейчас 10 часов, а значит, мама собирается на работу...[nointeract]"
-    Max_09 "Sono le 10, il che significa che mia mamma si sta preparando per il lavoro...[nointeract]"
+    # [Max_09 "Сейчас 10 часов, а значит, мама собирается на работу..." nointeract
+    Max_09 "Sono le 10, il che significa che mia mamma si sta preparando per il lavoro..." nointeract
 
 # game/events/ann.rpy:257
 translate italian ann_dressed_work_b21abe2e:
 
-    # [Ann]{b}Анна:{/b} Кто там?[nointeract]"
-    Ann]{b}Anna:{/b} Chi c'è?[nointeract]"
+    # [Ann]{b}Анна:{/b} Кто там?" nointeract
+    Ann]{b}Anna:{/b} Chi c'è?" nointeract
 
 # game/events/ann.rpy:259
 translate italian ann_dressed_work_2e55a9e3:
@@ -301,8 +301,8 @@ translate italian ann_dressed_work_f3117b6b_1:
 # game/events/ann.rpy:279
 translate italian ann_dressed_work_79ab0f47:
 
-    # [Ann_13 "Макс! Я же учила тебя стучаться![nointeract]"
-    Ann_13 "Max! Ti ho insegnato a bussare![nointeract]"
+    # [Ann_13 "Макс! Я же учила тебя стучаться!" nointeract
+    Ann_13 "Max! Ti ho insegnato a bussare!" nointeract
 
 # game/events/ann.rpy:282
 translate italian ann_dressed_work_66960e11:
@@ -463,8 +463,8 @@ translate italian ann_dressed_work_gift_26390c24:
 # game/events/ann.rpy:349
 translate italian ann_dressed_work_gift_b6991faf:
 
-    # [Ann_04 "Ну всё, мой дорогой, мне уже скоро на работу и нужно успеть сделать ещё кое-какие дела...[nointeract]"
-    Ann_04 "Beh, mia cara, lavorerò presto e ho bisogno di avere tempo per fare altre cose...[nointeract]"
+    # [Ann_04 "Ну всё, мой дорогой, мне уже скоро на работу и нужно успеть сделать ещё кое-какие дела..." nointeract
+    Ann_04 "Beh, mia cara, lavorerò presto e ho bisogno di avere tempo per fare altre cose..." nointeract
 
 # game/events/ann.rpy:353
 translate italian ann_dressed_work_gift_e66adddb:
@@ -481,14 +481,14 @@ translate italian ann_dressed_work_gift_05855820:
 # game/events/ann.rpy:360
 translate italian ann_dressed_work_gift_c0df5b86:
 
-    # [Ann_04 "А теперь иди, сынок... Пора заниматься делами.[nointeract]"
-    Ann_04 "Ora vai, figliolo... È tempo di fare le cose.[nointeract]"
+    # [Ann_04 "А теперь иди, сынок... Пора заниматься делами." nointeract
+    Ann_04 "Ora vai, figliolo... È tempo di fare le cose." nointeract
 
 # game/events/ann.rpy:379
 translate italian ann_dressed_work_fail_a9cf1e2d:
 
-    # [Ann_01 "[_text!t]Макс, я так на работу не успею собраться... Давай, сынок, иди... Пора заниматься делами.[nointeract]"
-    Ann_01 "[_text!t] Max, non avrò il tempo di prepararmi per il lavoro... Dai, figliolo, vai... È tempo di fare le cose.[nointeract]"
+    # [Ann_01 "[_text!t]Макс, я так на работу не успею собраться... Давай, сынок, иди... Пора заниматься делами." nointeract
+    Ann_01 "[_text!t] Max, non avrò il tempo di prepararmi per il lavoro... Dai, figliolo, vai... È tempo di fare le cose." nointeract
 
 # game/events/ann.rpy:386
 translate italian ann_dressed_work_loveyou_e41c68c6:
@@ -505,14 +505,14 @@ translate italian ann_dressed_work_goodday_1a01074c:
 # game/events/ann.rpy:413
 translate italian ann_dressed_shop_d4cf236b:
 
-    # [Max_09 "Сегодня суббота, день шоппинга. Видимо, мама собирается...[nointeract]"
-    Max_09 "Oggi è sabato, una giornata di shopping. Apparentemente, la mamma sta per...[nointeract]"
+    # [Max_09 "Сегодня суббота, день шоппинга. Видимо, мама собирается..." nointeract
+    Max_09 "Oggi è sabato, una giornata di shopping. Apparentemente, la mamma sta per..." nointeract
 
 # game/events/ann.rpy:416
 translate italian ann_dressed_shop_b21abe2e:
 
-    # [Ann]{b}Анна:{/b} Кто там?[nointeract]"
-    Ann]{b}Anna:{/b} Chi c'è?[nointeract]"
+    # [Ann]{b}Анна:{/b} Кто там?" nointeract
+    Ann]{b}Anna:{/b} Chi c'è?" nointeract
 
 # game/events/ann.rpy:418
 translate italian ann_dressed_shop_bf2abaef:
@@ -541,8 +541,8 @@ translate italian ann_dressed_shop_f3117b6b_1:
 # game/events/ann.rpy:438
 translate italian ann_dressed_shop_79ab0f47:
 
-    # [Ann_13 "Макс! Я же учила тебя стучаться![nointeract]"
-    Ann_13 "Max! Ti ho insegnato a bussare![nointeract]"
+    # [Ann_13 "Макс! Я же учила тебя стучаться!" nointeract
+    Ann_13 "Max! Ti ho insegnato a bussare!" nointeract
 
 # game/events/ann.rpy:441
 translate italian ann_dressed_shop_66960e11:
@@ -691,8 +691,8 @@ translate italian ann_dressed_shop_gift_26390c24:
 # game/events/ann.rpy:503
 translate italian ann_dressed_shop_gift_cda3b4f9:
 
-    # [Ann_04 "Ну всё, мой дорогой, нам с девочками ещё нужно успеть пробежаться по магазинам сегодня...[nointeract]"
-    Ann_04 "Beh, mia cara, io e le ragazze abbiamo ancora bisogno di avere tempo per correre tra i negozi oggi...[nointeract]"
+    # [Ann_04 "Ну всё, мой дорогой, нам с девочками ещё нужно успеть пробежаться по магазинам сегодня..." nointeract
+    Ann_04 "Beh, mia cara, io e le ragazze abbiamo ancora bisogno di avere tempo per correre tra i negozi oggi..." nointeract
 
 # game/events/ann.rpy:507
 translate italian ann_dressed_shop_gift_e66adddb:
@@ -709,14 +709,14 @@ translate italian ann_dressed_shop_gift_05855820:
 # game/events/ann.rpy:514
 translate italian ann_dressed_shop_gift_c0df5b86:
 
-    # [Ann_04 "А теперь иди, сынок... Пора заниматься делами.[nointeract]"
-    Ann_04 "Ora vai, figliolo... È tempo di fare le cose.[nointeract]"
+    # [Ann_04 "А теперь иди, сынок... Пора заниматься делами." nointeract
+    Ann_04 "Ora vai, figliolo... È tempo di fare le cose." nointeract
 
 # game/events/ann.rpy:533
 translate italian ann_dressed_shop_fail_f49b0b30:
 
-    # [Ann_01 "[_text!t]Макс, мне нужно ещё успеть сделать кое-какие дела... Давай, сынок, иди... Займись чем-нибудь.[nointeract]"
-    Ann_01 "[_text!t] Max, ho ancora un po' di tempo per fare alcune cose... Dai, figliolo, vai... Fate qualcosa.[nointeract]"
+    # [Ann_01 "[_text!t]Макс, мне нужно ещё успеть сделать кое-какие дела... Давай, сынок, иди... Займись чем-нибудь." nointeract
+    Ann_01 "[_text!t] Max, ho ancora un po' di tempo per fare alcune cose... Dai, figliolo, vai... Fate qualcosa." nointeract
 
 # game/events/ann.rpy:540
 translate italian ann_dressed_shop_loveyou_e41c68c6:
@@ -733,26 +733,26 @@ translate italian ann_dressed_shop_goodday_1a01074c:
 # game/events/ann.rpy:624
 translate italian ann_bath_9132bdea:
 
-    # [Max_00 "Видимо, мама принимает ванну...[nointeract]"
-    Max_00 "A quanto pare, mia madre fa il bagno...[nointeract]"
+    # [Max_00 "Видимо, мама принимает ванну..." nointeract
+    Max_00 "A quanto pare, mia madre fa il bagno..." nointeract
 
 # game/events/ann.rpy:627
 translate italian ann_bath_cddc6bee:
 
-    # [Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
-    Ann]{b}Anna:{/b} Chi c'è? Faccio il bagno![nointeract]"
+    # [Ann]{b}Анна:{/b} Кто там? Я принимаю ванну!" nointeract
+    Ann]{b}Anna:{/b} Chi c'è? Faccio il bagno!" nointeract
 
 # game/events/ann.rpy:630
 translate italian ann_bath_29fc0d16:
 
-    # [Ann]{b}Анна:{/b} Дорогой, что ты хотел?[nointeract]"
-    Ann]{b}Anna:{/b} Tesoro, cosa volevi?[nointeract]"
+    # [Ann]{b}Анна:{/b} Дорогой, что ты хотел?" nointeract
+    Ann]{b}Anna:{/b} Tesoro, cosa volevi?" nointeract
 
 # game/events/ann.rpy:634
 translate italian ann_bath_13e7202f:
 
-    # [Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри![nointeract]"
-    Ann]{b}Anna:{/b} Beh... va bene, entra. Basta non guardare![nointeract]"
+    # [Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри!" nointeract
+    Ann]{b}Anna:{/b} Beh... va bene, entra. Basta non guardare!" nointeract
 
 # game/events/ann.rpy:657
 translate italian ann_bath_9b9b753a:
@@ -775,8 +775,8 @@ translate italian ann_bath_8d2fe639:
 # game/events/ann.rpy:667
 translate italian ann_bath_617c9a2e:
 
-    # [Max_09 "Нужно что-нибудь придумать...[nointeract]"
-    Max_09 "Bisogno di inventare qualcosa...[nointeract]"
+    # [Max_09 "Нужно что-нибудь придумать..." nointeract
+    Max_09 "Bisogno di inventare qualcosa..." nointeract
 
 # game/events/ann.rpy:674
 translate italian ann_bath_6a58c36d:
@@ -793,26 +793,26 @@ translate italian ann_bath_ladder_2b325faf:
 # game/events/ann.rpy:698
 translate italian ann_bath_ladder_55a4f81a:
 
-    # [Max_03 "Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...[nointeract]"
-    Max_03 "Oh, che caldo! Certo, non sto parlando dell'acqua, ma del suo aspetto. Uh... La mamma sembra incredibile...[nointeract]"
+    # [Max_03 "Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит..." nointeract
+    Max_03 "Oh, che caldo! Certo, non sto parlando dell'acqua, ma del suo aspetto. Uh... La mamma sembra incredibile..." nointeract
 
 # game/events/ann.rpy:704
 translate italian ann_bath_ladder_e2ffea21:
 
-    # [Max_05 "Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...[nointeract]"
-    Max_05 "Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque...[nointeract]"
+    # [Max_05 "Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно..." nointeract
+    Max_05 "Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque..." nointeract
 
 # game/events/ann.rpy:713
 translate italian ann_bath_ladder_e2ffea21_1:
 
-    # [Max_05 "Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...[nointeract]"
-    Max_05 "Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque...[nointeract]"
+    # [Max_05 "Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно..." nointeract
+    Max_05 "Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque..." nointeract
 
 # game/events/ann.rpy:719
 translate italian ann_bath_ladder_36138fd2:
 
-    # [Max_07 "Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
-    Max_07 "Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha...[nointeract]"
+    # [Max_07 "Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка..." nointeract
+    Max_07 "Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha..." nointeract
 
     old "{i}Отвернуться{/i}"
     new "{i}voltare le chiavi in giavolte{/i}"

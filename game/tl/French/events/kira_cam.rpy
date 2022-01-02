@@ -291,8 +291,8 @@ translate frenh cam0_return_from_club_1ecc7ee3:
 # game/events/kira_cam.rpy:426
 translate frenh cam1_return_from_club_53f60e0c:
 
-    # [Max_01 "{m}Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их...{/m}[nointeract]"
-    Max_01 "{m}Voilà les filles qui reviennent du club ! Si je veux chercher l'aventure avant d'aller me coucher, je dois rapidement y aller et les rencontrer....{/m}[nointeract]"
+    # [Max_01 "{m}Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их...{/m}" nointeract
+    Max_01 "{m}Voilà les filles qui reviennent du club ! Si je veux chercher l'aventure avant d'aller me coucher, je dois rapidement y aller et les rencontrer....{/m}" nointeract
 
 # game/events/kira_cam.rpy:432
 translate frenh cam1_return_from_club_984a3aa6:

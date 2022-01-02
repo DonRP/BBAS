@@ -15,8 +15,8 @@
 # game/dialogues/erictalk.rpy:17
 translate italian EricTalkStart_210d83ab:
 
-    # [Eric_01 "Чего хотел, Макс?[nointeract]"
-    Eric_01 "Cosa volevi, Max?[nointeract]"
+    # [Eric_01 "Чего хотел, Макс?" nointeract
+    Eric_01 "Cosa volevi, Max?" nointeract
 
 # game/dialogues/erictalk.rpy:19
 translate italian EricTalkStart_4e1c2d3f:
@@ -81,8 +81,8 @@ translate italian eric_voy_wtf_9e2a702c:
 # game/dialogues/erictalk.rpy:56
 translate italian eric_voy_wtf_03406ea1:
 
-    # [Eric_06 "Я такое обещал? Хм... Может быть. То есть, ты хочешь, чтобы я убедил твою маму, что это нормально, когда она трахается на твоих глазах и нужно молчать?[nointeract]"
-    Eric_06 "l'ho promesso? Hmm... Potrebbe essere. Quindi vuoi che convinca tua madre che va bene per lei scopare di fronte a te e tacere?[nointeract]"
+    # [Eric_06 "Я такое обещал? Хм... Может быть. То есть, ты хочешь, чтобы я убедил твою маму, что это нормально, когда она трахается на твоих глазах и нужно молчать?" nointeract
+    Eric_06 "l'ho promesso? Hmm... Potrebbe essere. Quindi vuoi che convinca tua madre che va bene per lei scopare di fronte a te e tacere?" nointeract
 
 # game/dialogues/erictalk.rpy:58
 translate italian eric_voy_wtf_23eef4f0:
@@ -105,8 +105,8 @@ translate italian eric_voy_wtf_1fa7083f:
 # game/dialogues/erictalk.rpy:66
 translate italian eric_voy_wtf_32c38a21:
 
-    # [Eric_01 "Да уж. Ну, раз мы с тобой теперь друзья, я что-нибудь придумаю. Только это будет не сразу, а постепенно, но думаю, что смогу настроить маму так, как нужно...[nointeract]"
-    Eric_01 "sì. Bene, dato che tu ed io siamo amici ora, mi verrà in mente qualcosa. Solo che non sarà immediatamente, ma gradualmente, ma penso che sarò in grado di impostare mia madre come necessario...[nointeract]"
+    # [Eric_01 "Да уж. Ну, раз мы с тобой теперь друзья, я что-нибудь придумаю. Только это будет не сразу, а постепенно, но думаю, что смогу настроить маму так, как нужно..." nointeract
+    Eric_01 "sì. Bene, dato che tu ed io siamo amici ora, mi verrà in mente qualcosa. Solo che non sarà immediatamente, ma gradualmente, ma penso che sarò in grado di impostare mia madre come necessario..." nointeract
 
 # game/dialogues/erictalk.rpy:68
 translate italian eric_voy_wtf_0365ec8f:
@@ -123,8 +123,8 @@ translate italian eric_voy_wtf_ca50ebd8:
 # game/dialogues/erictalk.rpy:72
 translate italian eric_voy_wtf_a30920d7:
 
-    # [Eric_03 "Так я тебе и выдал свой секрет! Не сейчас. Может быть, однажды расскажу. Но поверь, мой способ очень эффективен! Так что, слушайся меня и я не буду настраивать никого против тебя...[nointeract]"
-    Eric_03 "Così ti ho dato il mio segreto! Non ora. Forse te lo dirò un giorno. Ma credetemi, il mio metodo è molto efficace! Quindi, obbeditemi e non mi rivolgerò nessuno contro di voi...[nointeract]"
+    # [Eric_03 "Так я тебе и выдал свой секрет! Не сейчас. Может быть, однажды расскажу. Но поверь, мой способ очень эффективен! Так что, слушайся меня и я не буду настраивать никого против тебя..." nointeract
+    Eric_03 "Così ti ho dato il mio segreto! Non ora. Forse te lo dirò un giorno. Ma credetemi, il mio metodo è molto efficace! Quindi, obbeditemi e non mi rivolgerò nessuno contro di voi..." nointeract
 
 # game/dialogues/erictalk.rpy:74
 translate italian eric_voy_wtf_adbd392c:
@@ -165,8 +165,8 @@ translate italian eric_voy_wtf_6b7811d2_2:
 # game/dialogues/erictalk.rpy:85
 translate italian eric_voy_wtf_553b8dcf:
 
-    # [Eric_01 "Вообще, жизнь - штука несправедливая. А учитывая, что твоя ещё и в моих руках, то жаловаться никому не стоит, даже мне. Ну всё, иди займись чем-нибудь...[nointeract]"
-    Eric_01 "In generale, la vita è una cosa ingiusta. E dato che anche le tue sono nelle mie mani, allora nessuno dovrebbe lamentarsi, nemmeno io. Beh, vai a fare qualcosa...[nointeract]"
+    # [Eric_01 "Вообще, жизнь - штука несправедливая. А учитывая, что твоя ещё и в моих руках, то жаловаться никому не стоит, даже мне. Ну всё, иди займись чем-нибудь..." nointeract
+    Eric_01 "In generale, la vita è una cosa ingiusta. E dato che anche le tue sono nelle mie mani, allora nessuno dovrebbe lamentarsi, nemmeno io. Beh, vai a fare qualcosa..." nointeract
 
 # game/dialogues/erictalk.rpy:122
 translate italian lessons_from_Eric_first_bj_fa9a17f5:
@@ -243,8 +243,8 @@ translate italian lessons_from_Eric_first_bj_0aa141a6:
 # game/dialogues/erictalk.rpy:160
 translate italian lessons_from_Eric_first_bj_26abae8c:
 
-    # [Eric_03 "А ты Макс, подсаживайся, не стесняйся...[nointeract]"
-    Eric_03 "E tu sei Max, siediti, non essere timido...[nointeract]"
+    # [Eric_03 "А ты Макс, подсаживайся, не стесняйся..." nointeract
+    Eric_03 "E tu sei Max, siediti, non essere timido..." nointeract
 
 # game/dialogues/erictalk.rpy:171
 translate italian lessons_from_Eric_first_bj_385a2e04:
@@ -267,8 +267,8 @@ translate italian lessons_from_Eric_first_bj_73d5ddf0:
 # game/dialogues/erictalk.rpy:175
 translate italian lessons_from_Eric_first_bj_16441ec9:
 
-    # [Eric_04 "Ух, детка, да... Прервись ненадолго, я хочу лечь поудобнее...[nointeract]"
-    Eric_04 "Ukh, baby, sì... Prenditi una breve pausa, voglio sdraiarmi...[nointeract]"
+    # [Eric_04 "Ух, детка, да... Прервись ненадолго, я хочу лечь поудобнее..." nointeract
+    Eric_04 "Ukh, baby, sì... Prenditi una breve pausa, voglio sdraiarmi..." nointeract
 
 # game/dialogues/erictalk.rpy:186
 translate italian lessons_from_Eric_first_bj_dde61a7a:
@@ -285,8 +285,8 @@ translate italian lessons_from_Eric_first_bj_21122167:
 # game/dialogues/erictalk.rpy:189
 translate italian lessons_from_Eric_first_bj_5ab78a33:
 
-    # [Max_00 "Хорошо, я тогда пошёл... Продолжайте![nointeract]"
-    Max_00 "Ok, sono andato allora... Continua ad andare avanti![nointeract]"
+    # [Max_00 "Хорошо, я тогда пошёл... Продолжайте!" nointeract
+    Max_00 "Ok, sono andato allora... Continua ad andare avanti!" nointeract
 
 # game/dialogues/erictalk.rpy:202
 translate italian lessons_from_Eric_second_bj_fa9a17f5:
@@ -345,8 +345,8 @@ translate italian lessons_from_Eric_second_bj_d7ef656e:
 # game/dialogues/erictalk.rpy:221
 translate italian lessons_from_Eric_second_bj_866f0ec1:
 
-    # [Eric_01 "Вот и отлично! Присаживайся, Макс.[nointeract]"
-    Eric_01 "È fantastico! Siediti, Max.[nointeract]"
+    # [Eric_01 "Вот и отлично! Присаживайся, Макс." nointeract
+    Eric_01 "È fantastico! Siediti, Max." nointeract
 
 # game/dialogues/erictalk.rpy:232
 translate italian lessons_from_Eric_second_bj_f35dd963:
@@ -369,8 +369,8 @@ translate italian lessons_from_Eric_second_bj_f70c94a1:
 # game/dialogues/erictalk.rpy:236
 translate italian lessons_from_Eric_second_bj_aceea78b:
 
-    # [Eric_02 "А по-моему это смущение делает тебя только слаще! Только посмотри, как твоя мама меня любит, Макс...[nointeract]"
-    Eric_02 "E secondo me, questo imbarazzo ti rende solo più dolce! Guarda quanto tua madre mi ama, Max...[nointeract]"
+    # [Eric_02 "А по-моему это смущение делает тебя только слаще! Только посмотри, как твоя мама меня любит, Макс..." nointeract
+    Eric_02 "E secondo me, questo imbarazzo ti rende solo più dolce! Guarda quanto tua madre mi ama, Max..." nointeract
 
 # game/dialogues/erictalk.rpy:247
 translate italian lessons_from_Eric_second_bj_bf7b91d7:
@@ -387,8 +387,8 @@ translate italian lessons_from_Eric_second_bj_2745a5cb:
 # game/dialogues/erictalk.rpy:250
 translate italian lessons_from_Eric_second_bj_5ab78a33:
 
-    # [Max_00 "Хорошо, я тогда пошёл... Продолжайте![nointeract]"
-    Max_00 "Ok, sono andato allora... Continua ad andare avanti![nointeract]"
+    # [Max_00 "Хорошо, я тогда пошёл... Продолжайте!" nointeract
+    Max_00 "Ok, sono andato allora... Continua ad andare avanti!" nointeract
 
 # game/dialogues/erictalk.rpy:263
 translate italian lessons_from_Eric_third_bj_fa9a17f5:
@@ -423,8 +423,8 @@ translate italian lessons_from_Eric_third_bj_a2011752:
 # game/dialogues/erictalk.rpy:278
 translate italian lessons_from_Eric_third_bj_613e315e:
 
-    # [Eric_04 "О чувственном и глубоком минете, Макс! Там есть несколько... моментов, на которые я обращу внимание. Ты садись и смотри. И ты Ань начинай...[nointeract]"
-    Eric_04 "A proposito del sensuale e profondo, Max! Ci sono alcuni... punti che indicherò. Ti siedi e guardi. E tu Un inizio...[nointeract]"
+    # [Eric_04 "О чувственном и глубоком минете, Макс! Там есть несколько... моментов, на которые я обращу внимание. Ты садись и смотри. И ты Ань начинай..." nointeract
+    Eric_04 "A proposito del sensuale e profondo, Max! Ci sono alcuni... punti che indicherò. Ti siedi e guardi. E tu Un inizio..." nointeract
 
 # game/dialogues/erictalk.rpy:289
 translate italian lessons_from_Eric_third_bj_29077bc4:
@@ -459,8 +459,8 @@ translate italian lessons_from_Eric_third_bj_d528ea6b:
 # game/dialogues/erictalk.rpy:295
 translate italian lessons_from_Eric_third_bj_ae49b17f:
 
-    # [Eric_01 "Ань, давай ложись на спину. Покажем Максу ещё кое-что...[nointeract]"
-    Eric_01 "An, sdraiamoci sulla schiena. Mostriamo a Max qualcos'altro...[nointeract]"
+    # [Eric_01 "Ань, давай ложись на спину. Покажем Максу ещё кое-что..." nointeract
+    Eric_01 "An, sdraiamoci sulla schiena. Mostriamo a Max qualcos'altro..." nointeract
 
 # game/dialogues/erictalk.rpy:306
 translate italian lessons_from_Eric_third_bj_a45283af:
@@ -501,8 +501,8 @@ translate italian lessons_from_Eric_third_bj_92331caf:
 # game/dialogues/erictalk.rpy:313
 translate italian lessons_from_Eric_third_bj_adf24661:
 
-    # [Max_00 "Хорошо. Уже ушёл...[nointeract]"
-    Max_00 "Va bene. Già andato...[nointeract]"
+    # [Max_00 "Хорошо. Уже ушёл..." nointeract
+    Max_00 "Va bene. Già andato..." nointeract
 
 # game/dialogues/erictalk.rpy:335
 translate italian Eric_talk_about_Lisa_0_77426e44:
@@ -531,8 +531,8 @@ translate italian Eric_talk_about_Lisa_0_0cc9eda2:
 # game/dialogues/erictalk.rpy:340
 translate italian Eric_talk_about_Lisa_0_29ab7eaa:
 
-    # [Eric_04 "Думаю, пришло время мне взяться за её сексуальное образование. Возражения будут?[nointeract]"
-    Eric_04 "penso che sia giunto il momento per me di intraprendere la sua educazione sessuale. Ci saranno obiezioni?[nointeract]"
+    # [Eric_04 "Думаю, пришло время мне взяться за её сексуальное образование. Возражения будут?" nointeract
+    Eric_04 "penso che sia giunto il momento per me di intraprendere la sua educazione sessuale. Ci saranno obiezioni?" nointeract
 
 # game/dialogues/erictalk.rpy:346
 translate italian Eric_talk_about_Lisa_0_e2daf20d:
@@ -753,8 +753,8 @@ translate italian Eric_talk_about_Alice_0_3bbc12a6:
 # game/dialogues/erictalk.rpy:474
 translate italian Eric_talk_about_Alice_0_6f219dbb:
 
-    # [Eric_02 "Об Алисе. Вернее о том, чем она занимается за своим компьютером?[nointeract]"
-    Eric_02 "su Alice. O meglio, cosa fa al suo computer?[nointeract]"
+    # [Eric_02 "Об Алисе. Вернее о том, чем она занимается за своим компьютером?" nointeract
+    Eric_02 "su Alice. O meglio, cosa fa al suo computer?" nointeract
 
 # game/dialogues/erictalk.rpy:478
 translate italian Eric_talk_about_Alice_0_d798872a:
@@ -1245,8 +1245,8 @@ translate italian Eric_talk_about_Kira_1_a8d3d184:
 # game/dialogues/erictalk.rpy:677
 translate italian Eric_talk_about_Kira_1_8b72bd61:
 
-    # [Max_16 "Да пошёл ты![nointeract]"
-    Max_16 "Sì, vai![nointeract]"
+    # [Max_16 "Да пошёл ты!" nointeract
+    Max_16 "Sì, vai!" nointeract
 
 # game/dialogues/erictalk.rpy:683
 translate italian Eric_talk_about_Kira_1_2849715d:
@@ -1293,8 +1293,8 @@ translate italian Eric_talk_about_Kira_1_7985e9ed:
 # game/dialogues/erictalk.rpy:694
 translate italian Eric_talk_about_Kira_1_3fe25b04:
 
-    # [Max_11 "Ладно, я всё понял.[nointeract]"
-    Max_11 "Ok, ho capito.[nointeract]"
+    # [Max_11 "Ладно, я всё понял." nointeract
+    Max_11 "Ok, ho capito." nointeract
 
 # game/dialogues/erictalk.rpy:702
 translate italian Eric_talk_about_Kira_1_db0ebd21:
@@ -1329,8 +1329,8 @@ translate italian Eric_talk_about_Kira_1_36c8744c:
 # game/dialogues/erictalk.rpy:708
 translate italian Eric_talk_about_Kira_1_3fe25b04_1:
 
-    # [Max_11 "Ладно, я всё понял.[nointeract]"
-    Max_11 "Ok, ho capito.[nointeract]"
+    # [Max_11 "Ладно, я всё понял." nointeract
+    Max_11 "Ok, ho capito." nointeract
 
 # game/dialogues/erictalk.rpy:720
 translate italian Eric_talk_about_Kira_1_492bd5d7:
@@ -1365,8 +1365,8 @@ translate italian Eric_talk_about_Kira_1_895459f6:
 # game/dialogues/erictalk.rpy:729
 translate italian Eric_talk_about_Kira_1_90c46fa5:
 
-    # [Max_05 "Круто![nointeract]"
-    Max_05 "Fantastico![nointeract]"
+    # [Max_05 "Круто!" nointeract
+    Max_05 "Fantastico!" nointeract
 
 # game/dialogues/erictalk.rpy:735
 translate italian Eric_talk_about_Kira_1_36aae4a3:
@@ -1377,8 +1377,8 @@ translate italian Eric_talk_about_Kira_1_36aae4a3:
 # game/dialogues/erictalk.rpy:737
 translate italian Eric_talk_about_Kira_1_b1d48d26:
 
-    # [Max_01 "Хорошо, как надумаю, что хочу, так сразу к тебе...[nointeract]"
-    Max_01 "Va bene, come penso di volere, quindi subito a te...[nointeract]"
+    # [Max_01 "Хорошо, как надумаю, что хочу, так сразу к тебе..." nointeract
+    Max_01 "Va bene, come penso di volere, quindi subito a te..." nointeract
 
 # game/dialogues/erictalk.rpy:752
 translate italian Eric_tribute_936f5724:
@@ -1407,14 +1407,14 @@ translate italian Eric_tribute_c3a2a809:
 # game/dialogues/erictalk.rpy:760
 translate italian Eric_tribute_22a2c20e:
 
-    # [Eric_06 "Нет, Макс. Уверяю, это моё последнее требование, которое касается Лизы. Жду через неделю с моими денежками.[nointeract]"
-    Eric_06 "No, Max. Vi assicuro che questa è la mia ultima richiesta, che riguarda Lisa. Ci vediamo tra una settimana con i miei soldi..[nointeract]"
+    # [Eric_06 "Нет, Макс. Уверяю, это моё последнее требование, которое касается Лизы. Жду через неделю с моими денежками." nointeract
+    Eric_06 "No, Max. Vi assicuro che questa è la mia ultima richiesta, che riguarda Lisa. Ci vediamo tra una settimana con i miei soldi.." nointeract
 
 # game/dialogues/erictalk.rpy:766
 translate italian Eric_tribute_6795eebc:
 
-    # [Eric_04 "Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
-    Eric_04 "Finché paghi, Max, e non mi dai sui nervi, non mi importa di Lisa. Quindi non fatevi prendere dalla smania, o ve ne darò un paio di centinaia! Vattene da qui. Ci vediamo tra una settimana.[nointeract]"
+    # [Eric_04 "Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
+    Eric_04 "Finché paghi, Max, e non mi dai sui nervi, non mi importa di Lisa. Quindi non fatevi prendere dalla smania, o ve ne darò un paio di centinaia! Vattene da qui. Ci vediamo tra una settimana." nointeract
 
 # game/dialogues/erictalk.rpy:774
 translate italian Eric_tribute_no_money_2613eeb8:
@@ -1443,8 +1443,8 @@ translate italian Eric_tribute_no_money_16b03463:
 # game/dialogues/erictalk.rpy:779
 translate italian Eric_tribute_no_money_dd72ca96:
 
-    # [Eric_13 "Скоро узнаешь. А теперь проваливай![nointeract]"
-    Eric_13 "Lo scoprirai presto. Ora sparisci![nointeract]"
+    # [Eric_13 "Скоро узнаешь. А теперь проваливай!" nointeract
+    Eric_13 "Lo scoprirai presto. Ora sparisci!" nointeract
 
     old "{i}В другой раз...{/i}"
     new "{i}Un'altra volta... {/i}"

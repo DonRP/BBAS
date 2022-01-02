@@ -27,32 +27,32 @@ translate frenh AliceTalkStart_40123f86:
 # game/dialogues/alicetalk.rpy:30
 translate frenh AliceTalkStart_50ef2ada:
 
-    # [Alice_00 "Ну, Макс, чего надо?[nointeract]"
-    Alice_00 "Bien, Max, de quoi as-tu besoin?[nointeract]"
+    # [Alice_00 "Ну, Макс, чего надо?" nointeract
+    Alice_00 "Bien, Max, de quoi as-tu besoin?" nointeract
 
 # game/dialogues/alicetalk.rpy:57
 translate frenh Alice_badbadmood_86d8a37d:
 
-    # [Alice_09 "Да пошёл ты! Не хочу тебя видеть даже![nointeract]"
-    Alice_09 "Va te faire foutre! Je ne veux même pas te voir ![nointeract]"
+    # [Alice_09 "Да пошёл ты! Не хочу тебя видеть даже!" nointeract
+    Alice_09 "Va te faire foutre! Je ne veux même pas te voir !" nointeract
 
 # game/dialogues/alicetalk.rpy:66
 translate frenh Alice_badmood_de141364:
 
-    # [Alice_09 "Макс, отвали! Я не хочу с тобой разговаривать.[nointeract]"
-    Alice_09 "Max, barres-toi! Je ne veux pas te parler.[nointeract]"
+    # [Alice_09 "Макс, отвали! Я не хочу с тобой разговаривать." nointeract
+    Alice_09 "Max, barres-toi! Je ne veux pas te parler." nointeract
 
 # game/dialogues/alicetalk.rpy:75
 translate frenh Alice_asksorry_2395f0d1:
 
-    # [Alice_13 "Хотел извиниться? Каким образом?[nointeract]"
-    Alice_13 "Tu voulais t'excuser ? Comment ?[nointeract]"
+    # [Alice_13 "Хотел извиниться? Каким образом?" nointeract
+    Alice_13 "Tu voulais t'excuser ? Comment ?" nointeract
 
 # game/dialogues/alicetalk.rpy:82
 translate frenh Alice_normalmood_1faefb22:
 
-    # [Alice_09 "Макс, давай не сейчас...[nointeract]"
-    Alice_09 "Max, pas maintenant...[nointeract]"
+    # [Alice_09 "Макс, давай не сейчас..." nointeract
+    Alice_09 "Max, pas maintenant..." nointeract
 
 # game/dialogues/alicetalk.rpy:88
 translate frenh Alice_cooldown_9093ad70:
@@ -69,92 +69,92 @@ translate frenh Alice_cooldown_689c772b:
 # game/dialogues/alicetalk.rpy:96
 translate frenh wash_dishes_alice_6dd3a0ed:
 
-    # [Alice_13 "Хочешь о посуде поговорить или пришёл помочь?[nointeract]"
-    Alice_13 "Veux tu parler de la vaisselle ou es tu venu pour m'aider ?[nointeract]"
+    # [Alice_13 "Хочешь о посуде поговорить или пришёл помочь?" nointeract
+    Alice_13 "Veux tu parler de la vaisselle ou es tu venu pour m'aider ?" nointeract
 
 # game/dialogues/alicetalk.rpy:99
 translate frenh wash_dishes_alice_9cbbc5d1:
 
-    # [Alice_07 "Что это с тобой? Но я не откажусь. И... спасибо.[nointeract]"
-    Alice_07 "Qu'est-ce qui te prends? Mais je ne dirais pas non. Et... Merci.[nointeract]"
+    # [Alice_07 "Что это с тобой? Но я не откажусь. И... спасибо." nointeract
+    Alice_07 "Qu'est-ce qui te prends? Mais je ne dirais pas non. Et... Merci." nointeract
 
 # game/dialogues/alicetalk.rpy:107
 translate frenh wash_dishes_alice_07966f8d:
 
-    # [Max_11 "И почему здесь нет посудомоечной машины...[nointeract]"
-    Max_11 "Et pourquoi il n'y a pas de lave-vaisselle....[nointeract]"
+    # [Max_11 "И почему здесь нет посудомоечной машины..." nointeract
+    Max_11 "Et pourquoi il n'y a pas de lave-vaisselle...." nointeract
 
 # game/dialogues/alicetalk.rpy:113
 translate frenh wash_dishes_alice_e341ef54:
 
-    # [Alice_09 "Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил![nointeract]"
-    Alice_09 "Tu sais quoi, sors d'ici avant d'avoir un chiffon humide sur la tête![nointeract]"
+    # [Alice_09 "Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил!" nointeract
+    Alice_09 "Tu sais quoi, sors d'ici avant d'avoir un chiffon humide sur la tête!" nointeract
 
 # game/dialogues/alicetalk.rpy:127
 translate frenh talkblog1_3a17a0f5:
 
-    # [Alice_00 "А типа ты не знаешь? Позлорадствовать пришёл?[nointeract]"
-    Alice_00 "Comme si tu ne le savais pas? Tu es ici pour rire?[nointeract]"
+    # [Alice_00 "А типа ты не знаешь? Позлорадствовать пришёл?" nointeract
+    Alice_00 "Comme si tu ne le savais pas? Tu es ici pour rire?" nointeract
 
 # game/dialogues/alicetalk.rpy:130
 translate frenh talkblog1_7eb6bffd:
 
-    # [Alice_02 "Что, даже не начнёшь подкалывать? И что ты хотел узнать?[nointeract]"
-    Alice_02 "Quoi, tu ne vas même pas commencer à farfouiller ? Et que voulais-tu savoir ?[nointeract]"
+    # [Alice_02 "Что, даже не начнёшь подкалывать? И что ты хотел узнать?" nointeract
+    Alice_02 "Quoi, tu ne vas même pas commencer à farfouiller ? Et que voulais-tu savoir ?" nointeract
 
 # game/dialogues/alicetalk.rpy:133
 translate frenh talkblog1_972348e1:
 
-    # [Alice_13 "Ну, пока наши вещи не пропали во время переезда, я показывала как наносить лак, как применять различные средства и делилась разными хитростями...[nointeract]"
-    Alice_13 "Eh bien, avant que mes affaires ne disparaissent pendant le déménagement, je vous ai montré comment appliquer du vernis, comment appliquer différents produits et j'ai partagé diverses astuces...[nointeract]"
+    # [Alice_13 "Ну, пока наши вещи не пропали во время переезда, я показывала как наносить лак, как применять различные средства и делилась разными хитростями..." nointeract
+    Alice_13 "Eh bien, avant que mes affaires ne disparaissent pendant le déménagement, je vous ai montré comment appliquer du vernis, comment appliquer différents produits et j'ai partagé diverses astuces..." nointeract
 
 # game/dialogues/alicetalk.rpy:136
 translate frenh talkblog1_e315e67b:
 
-    # [Alice_01 "Да у других таких же блогеров подсмотрела, конечно. Все так делают! Ну и сама в интернете разное читаю, изучаю...[nointeract]"
-    Alice_01 "Oui, d'autres blogueurs comme moi, bien sûr. Tout le monde le fait ! Et je lis et étudie moi-même toutes sortes de choses sur Internet...[nointeract]"
+    # [Alice_01 "Да у других таких же блогеров подсмотрела, конечно. Все так делают! Ну и сама в интернете разное читаю, изучаю..." nointeract
+    Alice_01 "Oui, d'autres blogueurs comme moi, bien sûr. Tout le monde le fait ! Et je lis et étudie moi-même toutes sortes de choses sur Internet..." nointeract
 
 # game/dialogues/alicetalk.rpy:139
 translate frenh talkblog1_51f5104a:
 
-    # [Alice_00 "Нет, но мне это всё как-то по душе. Говорят, у человека лучше получается то, что нравится. А мне это нравится...[nointeract]"
-    Alice_00 "Non, mais j'apprécie un peu tout ça. On dit qu'une personne est meilleure dans ce qu'elle aime. J'aime bien ça...[nointeract]"
+    # [Alice_00 "Нет, но мне это всё как-то по душе. Говорят, у человека лучше получается то, что нравится. А мне это нравится..." nointeract
+    Alice_00 "Non, mais j'apprécie un peu tout ça. On dit qu'une personne est meilleure dans ce qu'elle aime. J'aime bien ça..." nointeract
 
 # game/dialogues/alicetalk.rpy:150
 translate frenh talkblog1_4c394248:
 
-    # [Alice_00 "Развиваться? Шутишь? Все мои вещи, лаки, материалы и прочее было в том контейнере, который пропал. Теперь у меня нет ничего...[nointeract]"
-    Alice_00 "Développer ? Tu plaisantes? Toutes mes affaires, peintures, matériaux et autres choses étaient dans ce conteneur qui a disparu. Maintenant, je n'ai plus rien...[nointeract]"
+    # [Alice_00 "Развиваться? Шутишь? Все мои вещи, лаки, материалы и прочее было в том контейнере, который пропал. Теперь у меня нет ничего..." nointeract
+    Alice_00 "Développer ? Tu plaisantes? Toutes mes affaires, peintures, matériaux et autres choses étaient dans ce conteneur qui a disparu. Maintenant, je n'ai plus rien..." nointeract
 
 # game/dialogues/alicetalk.rpy:153
 translate frenh talkblog1_b5c0083a:
 
-    # [Alice_13 "Совсем всё. У меня даже нет подходящей одежды, чтобы вести блог. Нельзя же постоянно быть в одной майке перед зрителями...[nointeract]"
-    Alice_13 "C'est tout ce qu'il y a à faire. Je n'ai même pas les bons vêtements pour blogguer. Je ne peux pas porter le même habit devant un public tout le temps...[nointeract]"
+    # [Alice_13 "Совсем всё. У меня даже нет подходящей одежды, чтобы вести блог. Нельзя же постоянно быть в одной майке перед зрителями..." nointeract
+    Alice_13 "C'est tout ce qu'il y a à faire. Je n'ai même pas les bons vêtements pour blogguer. Je ne peux pas porter le même habit devant un public tout le temps..." nointeract
 
 # game/dialogues/alicetalk.rpy:156
 translate frenh talkblog1_d69e84a6:
 
-    # [Alice_00 "Ага, потому что единственная, да? А ещё какая фишка? Нет материалов, нечего показывать?[nointeract]"
-    Alice_00 "Oui, parce que c'est le seul, non ? Quel est l'autre astuce? Pas de matériel, rien à montrer ?[nointeract]"
+    # [Alice_00 "Ага, потому что единственная, да? А ещё какая фишка? Нет материалов, нечего показывать?" nointeract
+    Alice_00 "Oui, parce que c'est le seul, non ? Quel est l'autre astuce? Pas de matériel, rien à montrer ?" nointeract
 
 # game/dialogues/alicetalk.rpy:163
 translate frenh talkblog1_7b2f88d3:
 
-    # [Alice_00 "Очень важно. Ну, ладно, чёрт с ней, с одеждой, а что мне в блоге показывать? Как себя правильно расчёсывать? У меня нет ничего...[nointeract]"
-    Alice_00 "Très important. Bon, d'accord, au diable les vêtements, mais qu'est-ce que je suis censée montrer sur le blog? Comment se brosser les dents correctement? Je n'ai rien...[nointeract]"
+    # [Alice_00 "Очень важно. Ну, ладно, чёрт с ней, с одеждой, а что мне в блоге показывать? Как себя правильно расчёсывать? У меня нет ничего..." nointeract
+    Alice_00 "Très important. Bon, d'accord, au diable les vêtements, mais qu'est-ce que je suis censée montrer sur le blog? Comment se brosser les dents correctement? Je n'ai rien..." nointeract
 
 # game/dialogues/alicetalk.rpy:172
 translate frenh talkblog1_bc534058:
 
-    # [Alice_13 "Да ты издеваешься, да?[nointeract]"
-    Alice_13 "Tu te moques de moi, n'est ce pas?[nointeract]"
+    # [Alice_13 "Да ты издеваешься, да?" nointeract
+    Alice_13 "Tu te moques de moi, n'est ce pas?" nointeract
 
 # game/dialogues/alicetalk.rpy:178
 translate frenh talkblog1_no_f28dfb56:
 
-    # [Alice_00 "Типа ты не в курсе, что у нас пропала большая часть вещей во время переезда?[nointeract]"
-    Alice_00 "Comme si tu ne savais pas qu'on a perdu la plupart de mes affaires pendant le déménagement ?[nointeract]"
+    # [Alice_00 "Типа ты не в курсе, что у нас пропала большая часть вещей во время переезда?" nointeract
+    Alice_00 "Comme si tu ne savais pas qu'on a perdu la plupart de mes affaires pendant le déménagement ?" nointeract
 
 # game/dialogues/alicetalk.rpy:181
 translate frenh talkblog1_no_e05a3f44:
@@ -171,86 +171,86 @@ translate frenh talkblog1_no_4a96e107:
 # game/dialogues/alicetalk.rpy:187
 translate frenh talkblog1_no_c2e53ff4:
 
-    # [Alice_13 "Ну, вот среди тех вещей было всё, что я использовала для ведения своего блога. Одежда, различные лаки, кремы... вообще всё![nointeract]"
-    Alice_13 "Eh bien, parmi ces choses, il y avait tout ce que j'utilisais pour gérer mon blog. Vêtements, vernis divers, crèmes... tout ![nointeract]"
+    # [Alice_13 "Ну, вот среди тех вещей было всё, что я использовала для ведения своего блога. Одежда, различные лаки, кремы... вообще всё!" nointeract
+    Alice_13 "Eh bien, parmi ces choses, il y avait tout ce que j'utilisais pour gérer mon blog. Vêtements, vernis divers, crèmes... tout !" nointeract
 
 # game/dialogues/alicetalk.rpy:194
 translate frenh talkblog1_no_a26f49f6:
 
-    # [Alice_13 "Макс, тебе заняться нечем, кроме как меня доставать? Ты же знаешь, что у меня всё пропало![nointeract]"
-    Alice_13 "Max, tu n'as rien de mieux à faire que de me harceler ? Tu sais que j'ai tout perdu ![nointeract]"
+    # [Alice_13 "Макс, тебе заняться нечем, кроме как меня доставать? Ты же знаешь, что у меня всё пропало!" nointeract
+    Alice_13 "Max, tu n'as rien de mieux à faire que de me harceler ? Tu sais que j'ai tout perdu !" nointeract
 
 # game/dialogues/alicetalk.rpy:199
 translate frenh talkblog1_no_3c44b91d:
 
-    # [Alice_00 "Конечно! Там же было вообще всё, что мне нужно для ведения блога. Шмотки, мои любимые лаки, косметика... вообще всё![nointeract]"
-    Alice_00 "Bien sûr ! Il y avait tout ce dont j'avais besoin pour le blogging en général. Des vêtements, mon vernis à ongles préféré, des cosmétiques... tout ![nointeract]"
+    # [Alice_00 "Конечно! Там же было вообще всё, что мне нужно для ведения блога. Шмотки, мои любимые лаки, косметика... вообще всё!" nointeract
+    Alice_00 "Bien sûr ! Il y avait tout ce dont j'avais besoin pour le blogging en général. Des vêtements, mon vernis à ongles préféré, des cosmétiques... tout !" nointeract
 
 # game/dialogues/alicetalk.rpy:205
 translate frenh talkblog1_sad_4c5abd35:
 
-    # [Alice_13 "Вот-вот... Надо было всё с собой брать, а не складывать в тот контейнер..[nointeract]"
-    Alice_13 "C'est vrai... Tu aurais dû tout prendre avec toi au lieu de le mettre dans ce conteneur...[nointeract]"
+    # [Alice_13 "Вот-вот... Надо было всё с собой брать, а не складывать в тот контейнер.." nointeract
+    Alice_13 "C'est vrai... Tu aurais dû tout prendre avec toi au lieu de le mettre dans ce conteneur..." nointeract
 
 # game/dialogues/alicetalk.rpy:212
 translate frenh talkblog1_help_9598919f:
 
-    # [Alice_01 "Ты у нас внезапно стал миллионером? Или просто деньги появились? Самый простой способ - это купить недостающее. Ну, или найти то, что пропало[nointeract]"
-    Alice_01 "Es tu devenu soudainement millionnaire? Ou l'argent est juste apparu? Le plus simple est d'acheter ce qui me manque. Ou bien, trouver ce qui me manque[nointeract]"
+    # [Alice_01 "Ты у нас внезапно стал миллионером? Или просто деньги появились? Самый простой способ - это купить недостающее. Ну, или найти то, что пропало" nointeract
+    Alice_01 "Es tu devenu soudainement millionnaire? Ou l'argent est juste apparu? Le plus simple est d'acheter ce qui me manque. Ou bien, trouver ce qui me manque" nointeract
 
 # game/dialogues/alicetalk.rpy:215
 translate frenh talkblog1_help_39dfe6d6:
 
-    # [Alice_13 "А без денег тут ничем не поможешь. Вообще, я в депрессии из-за всей этой истории. Вся жизнь перевернулась...[nointeract]"
-    Alice_13 "Et sans argent, il n'y a rien que tu puisses faire. En fait, je suis déprimé par tout ça. Ma vie entière a été chamboulée...[nointeract]"
+    # [Alice_13 "А без денег тут ничем не поможешь. Вообще, я в депрессии из-за всей этой истории. Вся жизнь перевернулась..." nointeract
+    Alice_13 "Et sans argent, il n'y a rien que tu puisses faire. En fait, je suis déprimé par tout ça. Ma vie entière a été chamboulée..." nointeract
 
 # game/dialogues/alicetalk.rpy:218
 translate frenh talkblog1_help_a1831006:
 
-    # [Alice_00 "Да, в этом плане ты прав, Макс. Но я хотела чего-то добиться. Стать известным блогером и заработать кучу денег. А теперь...[nointeract]"
-    Alice_00 "Oui, tu as raison sur ce point, Max. Mais je voulais réaliser quelque chose. Devenir une blogueuse célèbre et gagner beaucoup d'argent. Et maintenant...[nointeract]"
+    # [Alice_00 "Да, в этом плане ты прав, Макс. Но я хотела чего-то добиться. Стать известным блогером и заработать кучу денег. А теперь..." nointeract
+    Alice_00 "Oui, tu as raison sur ce point, Max. Mais je voulais réaliser quelque chose. Devenir une blogueuse célèbre et gagner beaucoup d'argent. Et maintenant..." nointeract
 
 # game/dialogues/alicetalk.rpy:225
 translate frenh talkblog1_help_675f913d:
 
-    # [Alice_00 "Верно. Но всё равно, это всё очень грустно. Я даже не представляю, как теперь быть...[nointeract]"
-    Alice_00 "Bien. Mais tout de même, c'est très triste. Je n'ai aucune idée de ce qu'il faut faire maintenant...[nointeract]"
+    # [Alice_00 "Верно. Но всё равно, это всё очень грустно. Я даже не представляю, как теперь быть..." nointeract
+    Alice_00 "Bien. Mais tout de même, c'est très triste. Je n'ai aucune idée de ce qu'il faut faire maintenant..." nointeract
 
 # game/dialogues/alicetalk.rpy:234
 translate frenh talkblog1_help_c3653c20:
 
-    # [Alice_00 "А кто ты тогда? Чем же именно можешь помочь?[nointeract]"
-    Alice_00 "Qui es-tu donc? Que poux-tu faire exactement pour m'aider ?[nointeract]"
+    # [Alice_00 "А кто ты тогда? Чем же именно можешь помочь?" nointeract
+    Alice_00 "Qui es-tu donc? Que poux-tu faire exactement pour m'aider ?" nointeract
 
 # game/dialogues/alicetalk.rpy:237
 translate frenh talkblog1_help_d354a72a:
 
-    # [Alice_07 "Много разных идей? Например?[nointeract]"
-    Alice_07 "Beaucoup d'idées différentes ? Comme quoi ?[nointeract]"
+    # [Alice_07 "Много разных идей? Например?" nointeract
+    Alice_07 "Beaucoup d'idées différentes ? Comme quoi ?" nointeract
 
 # game/dialogues/alicetalk.rpy:244
 translate frenh talkblog1_help_b9c2b277:
 
-    # [Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Лучше бы что-то конкретное предложил...[nointeract]"
-    Alice_06 "Et qui tes conseils ont-ils aidé jusqu'à présent ? Tu sais, il y a beaucoup de gens conseillers. Tu ferais mieux de proposer quelque chose de concret...[nointeract]"
+    # [Alice_06 "И кому уже помогли твои советы? Знаешь, советчиков много. Лучше бы что-то конкретное предложил..." nointeract
+    Alice_06 "Et qui tes conseils ont-ils aidé jusqu'à présent ? Tu sais, il y a beaucoup de gens conseillers. Tu ferais mieux de proposer quelque chose de concret..." nointeract
 
 # game/dialogues/alicetalk.rpy:251
 translate frenh talkblog1_whatnow_84b3cf98:
 
-    # [Alice_00 "Не знаю, если честно. Мне даже показаться перед зрителями не в чем. Какой же я бьюти-блогер, если на мне всегда одна и та же одежда...[nointeract]"
-    Alice_00 "Je ne sais pas, pour être honnête. Je n'ai même pas quelque chose à montrer devant le public. Quel genre de blogueuse beauté suis-je si je porte toujours les mêmes vêtements...[nointeract]"
+    # [Alice_00 "Не знаю, если честно. Мне даже показаться перед зрителями не в чем. Какой же я бьюти-блогер, если на мне всегда одна и та же одежда..." nointeract
+    Alice_00 "Je ne sais pas, pour être honnête. Je n'ai même pas quelque chose à montrer devant le public. Quel genre de blogueuse beauté suis-je si je porte toujours les mêmes vêtements..." nointeract
 
 # game/dialogues/alicetalk.rpy:260
 translate frenh talkblog1_otherway_f854dfd1:
 
-    # [Alice_00 "Ты о чём? Есть какие-то мысли?[nointeract]"
-    Alice_00 "Qu'est-ce que tu veux dire ? Des idées ?[nointeract]"
+    # [Alice_00 "Ты о чём? Есть какие-то мысли?" nointeract
+    Alice_00 "Qu'est-ce que tu veux dire ? Des idées ?" nointeract
 
 # game/dialogues/alicetalk.rpy:271
 translate frenh talkblog1_together_78d4a1fa:
 
-    # [Alice_14 "Вместе? Ещё ничего нет, а уже в партнёры набиваешься?[nointeract]"
-    Alice_14 "Ensemble? Il n’y a encore rien, mais tu es déjà en train de te présenter comme un partenaire?[nointeract]"
+    # [Alice_14 "Вместе? Ещё ничего нет, а уже в партнёры набиваешься?" nointeract
+    Alice_14 "Ensemble? Il n’y a encore rien, mais tu es déjà en train de te présenter comme un partenaire?" nointeract
 
 # game/dialogues/alicetalk.rpy:273
 translate frenh talkblog1_together_770663dd:
@@ -267,8 +267,8 @@ translate frenh talkblog1_together_22a16723:
 # game/dialogues/alicetalk.rpy:277
 translate frenh talkblog1_together_486c60cb:
 
-    # [Alice_07 "Семейный бизнес? На моём блоге? Может ещё и сам вести будешь?[nointeract]"
-    Alice_07 "Entreprise familiale? Sur mon blog ? Peut-être que tu vas aussi diriger tout toi-même?[nointeract]"
+    # [Alice_07 "Семейный бизнес? На моём блоге? Может ещё и сам вести будешь?" nointeract
+    Alice_07 "Entreprise familiale? Sur mon blog ? Peut-être que tu vas aussi diriger tout toi-même?" nointeract
 
 # game/dialogues/alicetalk.rpy:284
 translate frenh talkblog1_together_becb28cf:
@@ -297,8 +297,8 @@ translate frenh talkblog1_together_0c9332b5:
 # game/dialogues/alicetalk.rpy:294
 translate frenh talkblog1_findout_e3b65ac0:
 
-    # [Alice_07 "Ну, давай. Сомневаюсь, конечно, что это не пустая болтовня, но вдруг... Удиви меня![nointeract]"
-    Alice_07 "Eh bien, aller. Je doute, bien sûr, que ce ne soit pas que des paroles en l'air, mais... Surprends-moi ![nointeract]"
+    # [Alice_07 "Ну, давай. Сомневаюсь, конечно, что это не пустая болтовня, но вдруг... Удиви меня!" nointeract
+    Alice_07 "Eh bien, aller. Je doute, bien sûr, que ce ne soit pas que des paroles en l'air, mais... Surprends-moi !" nointeract
 
 # game/dialogues/alicetalk.rpy:296
 translate frenh talkblog1_findout_68795405:
@@ -363,8 +363,8 @@ translate frenh alice_talk_tv_31159ca0:
 # game/dialogues/alicetalk.rpy:329
 translate frenh alice_talk_tv_a38da904:
 
-    # [Alice_13 "Да так, всякую ерунду. Я просто отдыхаю, и мне без разницы, что смотреть. Поэтому смотрю всё подряд...[nointeract]"
-    Alice_13 "C'est juste des trucs. Je me repose, et je me fiche de ce que c'est. C'est pourquoi je regarde de tout...[nointeract]"
+    # [Alice_13 "Да так, всякую ерунду. Я просто отдыхаю, и мне без разницы, что смотреть. Поэтому смотрю всё подряд..." nointeract
+    Alice_13 "C'est juste des trucs. Je me repose, et je me fiche de ce que c'est. C'est pourquoi je regarde de tout..." nointeract
 
 # game/dialogues/alicetalk.rpy:331
 translate frenh alice_talk_tv_02b97e42:
@@ -381,8 +381,8 @@ translate frenh alice_talk_tv_55b37ec4:
 # game/dialogues/alicetalk.rpy:356
 translate frenh alice_tv_massage_starter_4cd36d8c:
 
-    # [Alice_07 "Дай-ка подумаю... Да! Я готова...[nointeract]"
-    Alice_07 "Laisses-moi réfléchir... Oui ! Je suis prête...[nointeract]"
+    # [Alice_07 "Дай-ка подумаю... Да! Я готова..." nointeract
+    Alice_07 "Laisses-moi réfléchir... Oui ! Je suis prête..." nointeract
 
 # game/dialogues/alicetalk.rpy:365
 translate frenh alice_tv_massage_starter_8b5ba6bc:
@@ -411,26 +411,26 @@ translate frenh alice_tv_massage_starter_b7d6b725:
 # game/dialogues/alicetalk.rpy:370
 translate frenh alice_tv_massage_starter_eefdc983:
 
-    # [Alice_02 "Очень смешно, Макс. Разве можно научиться массажу через ютуб?[nointeract]"
-    Alice_02 "Très drôle, Max. Est-il possible d'apprendre le massage grâce à YouTube ?[nointeract]"
+    # [Alice_02 "Очень смешно, Макс. Разве можно научиться массажу через ютуб?" nointeract
+    Alice_02 "Très drôle, Max. Est-il possible d'apprendre le massage grâce à YouTube ?" nointeract
 
 # game/dialogues/alicetalk.rpy:372
 translate frenh alice_tv_massage_starter_35e3c14c:
 
-    # [Alice_01 "А, ну если ты им ещё и заплатил, то это всё меняет![nointeract]"
-    Alice_01 "Oh, eh bien, si tu peux payer, ça change tout![nointeract]"
+    # [Alice_01 "А, ну если ты им ещё и заплатил, то это всё меняет!" nointeract
+    Alice_01 "Oh, eh bien, si tu peux payer, ça change tout!" nointeract
 
 # game/dialogues/alicetalk.rpy:375
 translate frenh alice_tv_massage_starter_fa2a2aee:
 
-    # [Alice_01 "Что-то я очень сомневаюсь, Макс...[nointeract]"
-    Alice_01 "J'en doute sérieusement, Max...[nointeract]"
+    # [Alice_01 "Что-то я очень сомневаюсь, Макс..." nointeract
+    Alice_01 "J'en doute sérieusement, Max..." nointeract
 
 # game/dialogues/alicetalk.rpy:383
 translate frenh alice_tv_massage_starter_3fb71a40:
 
-    # [Alice_02 "Ну, не знаю, не знаю...[nointeract]"
-    Alice_02 "Eh bien, je ne sais pas, je ne sais pas...[nointeract]"
+    # [Alice_02 "Ну, не знаю, не знаю..." nointeract
+    Alice_02 "Eh bien, je ne sais pas, je ne sais pas..." nointeract
 
 # game/dialogues/alicetalk.rpy:388
 translate frenh alice_tv_massage_starter_f3e20bd8:
@@ -447,26 +447,26 @@ translate frenh alice_tv_massage_starter_ea0eef90:
 # game/dialogues/alicetalk.rpy:396
 translate frenh alice_tv_massage_starter_2905e621:
 
-    # [Alice_03 "[succes!t]Ну, давай. Только я очень привередлива в вопросах массажа. Если сделаешь что-то не так, сразу закончим.[nointeract]"
-    Alice_03 "[succes!t]Eh bien, aller. Seulement, je suis très pointilleuse sur les massages. Si tu fais quelque chose de mal, c'est fini tout de suite.[nointeract]"
+    # [Alice_03 "[succes!t]Ну, давай. Только я очень привередлива в вопросах массажа. Если сделаешь что-то не так, сразу закончим." nointeract
+    Alice_03 "[succes!t]Eh bien, aller. Seulement, je suis très pointilleuse sur les massages. Si tu fais quelque chose de mal, c'est fini tout de suite." nointeract
 
 # game/dialogues/alicetalk.rpy:410
 translate frenh alice_talk_tv_choco_b23dcf5f:
 
-    # [Alice_02 "Как же без неё. Но только одну... Вкусно... Теперь я готова, начинай массаж![nointeract]"
-    Alice_02 "Je ne peux pas m'en passer. Mais un seul... Délicieux... Maintenant que je suis prête, commences le massage ![nointeract]"
+    # [Alice_02 "Как же без неё. Но только одну... Вкусно... Теперь я готова, начинай массаж!" nointeract
+    Alice_02 "Je ne peux pas m'en passer. Mais un seul... Délicieux... Maintenant que je suis prête, commences le massage !" nointeract
 
 # game/dialogues/alicetalk.rpy:418
 translate frenh alice_talk_tv_choco_52e75f8d:
 
-    # [Alice_02 "У меня такое чувство, что ты чего-то от меня хочешь... Но не сознаешься ведь?[nointeract]"
-    Alice_02 "J'ai l'impression que tu veux quelque chose de moi... Mais tu ne vas pas l'avouer, n'est-ce pas ?[nointeract]"
+    # [Alice_02 "У меня такое чувство, что ты чего-то от меня хочешь... Но не сознаешься ведь?" nointeract
+    Alice_02 "J'ai l'impression que tu veux quelque chose de moi... Mais tu ne vas pas l'avouer, n'est-ce pas ?" nointeract
 
 # game/dialogues/alicetalk.rpy:421
 translate frenh alice_talk_tv_choco_5535c64e:
 
-    # [Alice_15 "Макс! Вали нахрен отсюда со своими шуточками. Дай спокойно телевизор посмотреть![nointeract]"
-    Alice_15 "Max ! Dégages d'ici avec tes blagues. Laisses-moi regarder la télé en paix ![nointeract]"
+    # [Alice_15 "Макс! Вали нахрен отсюда со своими шуточками. Дай спокойно телевизор посмотреть!" nointeract
+    Alice_15 "Max ! Dégages d'ici avec tes blagues. Laisses-moi regarder la télé en paix !" nointeract
 
 # game/dialogues/alicetalk.rpy:426
 translate frenh alice_talk_tv_choco_0eeba23a:
@@ -495,38 +495,38 @@ translate frenh alice_talk_tv_choco_f5db5d17:
 # game/dialogues/alicetalk.rpy:434
 translate frenh alice_talk_tv_choco_dd214a08:
 
-    # [Alice_13 "Честно говоря, не знаю. Конфеты я люблю, но не хочу портить фигуру...[nointeract]"
-    Alice_13 "Honnêtement, je ne sais pas. J’adore les chocolats, mais je ne veux pas gâcher ma silhouette...[nointeract]"
+    # [Alice_13 "Честно говоря, не знаю. Конфеты я люблю, но не хочу портить фигуру..." nointeract
+    Alice_13 "Honnêtement, je ne sais pas. J’adore les chocolats, mais je ne veux pas gâcher ma silhouette..." nointeract
 
 # game/dialogues/alicetalk.rpy:444
 translate frenh alice_talk_tv_choco_df78af2c:
 
-    # [Alice_07 "[succes!t]Эх.. Уболтал, чертяка языкастый! Давай сюда конфетку. Но только одну... Вкусно... Теперь я готова, начинай массаж![nointeract]"
-    Alice_07 "[succes!t]Eh... Tu m'as eu, espèce de diable à la langue bien pendue ! Donnes-moi les chocolats. Mais un seul... Délicieux... Maintenant je suis prête, commences le massage ![nointeract]"
+    # [Alice_07 "[succes!t]Эх.. Уболтал, чертяка языкастый! Давай сюда конфетку. Но только одну... Вкусно... Теперь я готова, начинай массаж!" nointeract
+    Alice_07 "[succes!t]Eh... Tu m'as eu, espèce de diable à la langue bien pendue ! Donnes-moi les chocolats. Mais un seul... Délicieux... Maintenant je suis prête, commences le massage !" nointeract
 
 # game/dialogues/alicetalk.rpy:451
 translate frenh alice_talk_tv_choco_0383591b:
 
-    # [Alice_01 "[failed!t]Нет, Макс. Спасибо, конечно, но рисковать я не буду. Ну так что, массаж делать будешь или забыл, что собирался?[nointeract]"
-    Alice_01 "[failed!t]Non, Max. Merci, bien sûr, mais je ne veux pas prendre de risques. Alors, tu vas me faire un massage ou tu as oublié ce que tu devais faire ?[nointeract]"
+    # [Alice_01 "[failed!t]Нет, Макс. Спасибо, конечно, но рисковать я не буду. Ну так что, массаж делать будешь или забыл, что собирался?" nointeract
+    Alice_01 "[failed!t]Non, Max. Merci, bien sûr, mais je ne veux pas prendre de risques. Alors, tu vas me faire un massage ou tu as oublié ce que tu devais faire ?" nointeract
 
 # game/dialogues/alicetalk.rpy:462
 translate frenh alice_talk_tv_massage_d849cd29:
 
-    # [Max_03 "{m}Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает?{/m}[nointeract]"
-    Max_03 "{m}Quelle peau délicate a Alice... Je me demande à quoi elle pense maintenant ?{/m}[nointeract]"
+    # [Max_03 "{m}Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает?{/m}" nointeract
+    Max_03 "{m}Quelle peau délicate a Alice... Je me demande à quoi elle pense maintenant ?{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:471
 translate frenh alice_talk_tv_massage_953afbb3:
 
-    # [Alice_04 "[alice_good_mass!t]А ты неплох сегодня в этом деле... Хорошо, что ты никакой не работяга. Руки у тебя нежные. Приятно очень...[nointeract]"
-    Alice_04 "[alice_good_mass!t]Tu es plutôt bon aujourd'hui... C'est une bonne chose que tu ne sois pas un bucheron. Tes mains sont si délicates. Ça fait vraiment du bien...[nointeract]"
+    # [Alice_04 "[alice_good_mass!t]А ты неплох сегодня в этом деле... Хорошо, что ты никакой не работяга. Руки у тебя нежные. Приятно очень..." nointeract
+    Alice_04 "[alice_good_mass!t]Tu es plutôt bon aujourd'hui... C'est une bonne chose que tu ne sois pas un bucheron. Tes mains sont si délicates. Ça fait vraiment du bien..." nointeract
 
 # game/dialogues/alicetalk.rpy:476
 translate frenh alice_talk_tv_massage_67ad610f:
 
-    # [Alice_12 "[alice_bad_mass!t]Ой, Макс, больно! Не надо так. Ты чуть лодыжку не вывихнул мне... Иди ещё потренируйся там на кошках или в ютубе поучись![nointeract]"
-    Alice_12 "[alice_bad_mass!t]Oh, Max, ça fait mal ! Ne sois pas comme ça. Tu as failli me tordre la cheville... Vas t'entraîner sur des tchats ou sur YouTube ![nointeract]"
+    # [Alice_12 "[alice_bad_mass!t]Ой, Макс, больно! Не надо так. Ты чуть лодыжку не вывихнул мне... Иди ещё потренируйся там на кошках или в ютубе поучись!" nointeract
+    Alice_12 "[alice_bad_mass!t]Oh, Max, ça fait mal ! Ne sois pas comme ça. Tu as failli me tordre la cheville... Vas t'entraîner sur des tchats ou sur YouTube !" nointeract
 
 # game/dialogues/alicetalk.rpy:554
 translate frenh alice_talk_tv_choice_mass_create_menu_264b44e4:
@@ -543,14 +543,14 @@ translate frenh alice_talk_tv_choice_mass_create_menu_6b3e8ab2:
 # game/dialogues/alicetalk.rpy:564
 translate frenh alice_talk_tv_choice_mass_create_menu_c7c13cf5:
 
-    # [Alice_03 "[failed!t]Нет, мне хватит одной... А то я мигом фигуру испорчу. Лучше продолжай массировать мои ножки...[nointeract]"
-    Alice_03 "[failed!t]Non, un seul me suffit... Je vais ruiner ma silhouette en un rien de temps. Tu ferais mieux de continuer à me masser les pieds...[nointeract]"
+    # [Alice_03 "[failed!t]Нет, мне хватит одной... А то я мигом фигуру испорчу. Лучше продолжай массировать мои ножки..." nointeract
+    Alice_03 "[failed!t]Non, un seul me suffit... Je vais ruiner ma silhouette en un rien de temps. Tu ferais mieux de continuer à me masser les pieds..." nointeract
 
 # game/dialogues/alicetalk.rpy:574
 translate frenh alice_talk_tv_choice_mass_create_menu_06eaca6d:
 
-    # [Alice_05 "[failed!t]Это так ты к девушкам подкатываешь, сразу предлагаешь снять штаны?[nointeract]"
-    Alice_05 "[failed!t]C'est comme ça que tu abordes les filles, en leur proposant d'enlever leur pantalon tout de suite ?[nointeract]"
+    # [Alice_05 "[failed!t]Это так ты к девушкам подкатываешь, сразу предлагаешь снять штаны?" nointeract
+    Alice_05 "[failed!t]C'est comme ça que tu abordes les filles, en leur proposant d'enlever leur pantalon tout de suite ?" nointeract
 
 # game/dialogues/alicetalk.rpy:579
 translate frenh alice_talk_tv_choice_mass_create_menu_cd8988f9:
@@ -591,8 +591,8 @@ translate frenh alice_talk_tv_choice_mass_create_menu_29f8b378:
 # game/dialogues/alicetalk.rpy:595
 translate frenh alice_talk_tv_jeans_66b75c74:
 
-    # [Alice_02 "Да, что-то тесновато в них и так жарко... Хотя... Не-е-ет, нет, нет! Не буду снимать я сейчас джинсы. Не дождёшься![nointeract]"
-    Alice_02 "Oui, c'est un peu étroit et il fait si chaud... Bien que... Non, non, non, non ! Je ne vais pas enlever mon jean maintenant. Tu ne peux pas espérer ça![nointeract]"
+    # [Alice_02 "Да, что-то тесновато в них и так жарко... Хотя... Не-е-ет, нет, нет! Не буду снимать я сейчас джинсы. Не дождёшься!" nointeract
+    Alice_02 "Oui, c'est un peu étroit et il fait si chaud... Bien que... Non, non, non, non ! Je ne vais pas enlever mon jean maintenant. Tu ne peux pas espérer ça!" nointeract
 
 # game/dialogues/alicetalk.rpy:597
 translate frenh alice_talk_tv_jeans_6db9afd9:
@@ -603,8 +603,8 @@ translate frenh alice_talk_tv_jeans_6db9afd9:
 # game/dialogues/alicetalk.rpy:600
 translate frenh alice_talk_tv_jeans_077f86cb:
 
-    # [Alice_02 "[succes!t]Да, что-то тесновато в них и так жарко... Хотя... Не-е-ет, нет, нет! Не буду снимать я сейчас джинсы. Не дождёшься![nointeract]"
-    Alice_02 "[succes!t]Oui, c'est un peu étroit et il fait si chaud... Bien que... Non, non, non, non ! Je ne vais pas enlever mon jean maintenant. Tu ne peux pas espérer ça![nointeract]"
+    # [Alice_02 "[succes!t]Да, что-то тесновато в них и так жарко... Хотя... Не-е-ет, нет, нет! Не буду снимать я сейчас джинсы. Не дождёшься!" nointeract
+    Alice_02 "[succes!t]Oui, c'est un peu étroit et il fait si chaud... Bien que... Non, non, non, non ! Je ne vais pas enlever mon jean maintenant. Tu ne peux pas espérer ça!" nointeract
 
 # game/dialogues/alicetalk.rpy:602
 translate frenh alice_talk_tv_jeans_9563ece2:
@@ -687,8 +687,8 @@ translate frenh alice_talk_tv_jeans_off_a6d60220:
 # game/dialogues/alicetalk.rpy:654
 translate frenh alice_talk_tv_jeans_off_78a36e19:
 
-    # [Alice_03 "Ты чего там так тормозишь? Как будто в трусиках меня никогда не видел...[nointeract]"
-    Alice_03 "Pourquoi ralentis-tu autant? Ce n’est pas comme si tu ne m’avais jamais vue dans ma culotte...[nointeract]"
+    # [Alice_03 "Ты чего там так тормозишь? Как будто в трусиках меня никогда не видел..." nointeract
+    Alice_03 "Pourquoi ralentis-tu autant? Ce n’est pas comme si tu ne m’avais jamais vue dans ma culotte..." nointeract
 
 # game/dialogues/alicetalk.rpy:660
 translate frenh alice_talk_tv_jeans_off_6b6d69b9:
@@ -723,8 +723,8 @@ translate frenh alice_talk_tv_jeans_off_f74debfa:
 # game/dialogues/alicetalk.rpy:680
 translate frenh alice_nopants_massage_66d83013:
 
-    # [Alice_05 "Ты только там сильно не заглядывайся, куда не нужно! Я только сейчас поняла, что ты меня подловил со своим уговором не носить трусики. Лучше скорее продолжай массаж, пока я не расхотела...[nointeract]"
-    Alice_05 "Il suffit de ne pas regarder de trop près là où il ne faut pas! Je viens de réaliser que tu m'as eu avec ton excuse pour ne pas porter de culotte. Je ferais mieux de continuer le massage avant de ne plus avoir envie de......[nointeract]"
+    # [Alice_05 "Ты только там сильно не заглядывайся, куда не нужно! Я только сейчас поняла, что ты меня подловил со своим уговором не носить трусики. Лучше скорее продолжай массаж, пока я не расхотела..." nointeract
+    Alice_05 "Il suffit de ne pas regarder de trop près là où il ne faut pas! Je viens de réaliser que tu m'as eu avec ton excuse pour ne pas porter de culotte. Je ferais mieux de continuer le massage avant de ne plus avoir envie de......" nointeract
 
 # game/dialogues/alicetalk.rpy:695
 translate frenh alice_nopants_massage_not_nopants_9a2648a0:
@@ -741,8 +741,8 @@ translate frenh alice_nopants_massage_not_nopants_1aaeec10:
 # game/dialogues/alicetalk.rpy:707
 translate frenh alice_nopants_massage_not_nopants_43ffc4e7:
 
-    # [Alice_08 "Ты так в себе уверен, Макс... Ну посмотрим... Просто продолжай массировать мои ножки. Они у меня любят твой твёрдый... настрой.[nointeract]"
-    Alice_08 "Tu es si confiant, Max... Eh bien, nous verrons... Continues simplement à masser mes jambes. Elles aiment ta durc... ton humeur.[nointeract]"
+    # [Alice_08 "Ты так в себе уверен, Макс... Ну посмотрим... Просто продолжай массировать мои ножки. Они у меня любят твой твёрдый... настрой." nointeract
+    Alice_08 "Tu es si confiant, Max... Eh bien, nous verrons... Continues simplement à masser mes jambes. Elles aiment ta durc... ton humeur." nointeract
 
 # game/dialogues/alicetalk.rpy:719
 translate frenh alice_nopants_massage_not_nopants_e8f2dc82:
@@ -759,14 +759,14 @@ translate frenh alice_nopants_massage_not_nopants_b6f56f02:
 # game/dialogues/alicetalk.rpy:722
 translate frenh alice_nopants_massage_not_nopants_73f29683:
 
-    # [Alice_04 "Они у меня такие... Любят помассировать кое-что большое и твёрдое...[nointeract]"
-    Alice_04 "Elles sont comme ça... Elles aiment masser quelque chose de grand et de dur...[nointeract]"
+    # [Alice_04 "Они у меня такие... Любят помассировать кое-что большое и твёрдое..." nointeract
+    Alice_04 "Elles sont comme ça... Elles aiment masser quelque chose de grand et de dur..." nointeract
 
 # game/dialogues/alicetalk.rpy:734
 translate frenh alice_nopants_massage_not_nopants_6a2a08bc:
 
-    # [Max_04 "{m}Похоже, Алиса не на шутку завелась! Она всё активнее дрочит мне своими ножками... Почему бы и мне не поласкать её киску, она ведь так близко и ничем на этот раз не прикрыта...{/m}[nointeract]"
-    Max_04 "{m}On dirait qu’Alice est sérieuse! Elle secoue de plus en plus ses jambes... Pourquoi elle ne le caresse pas aussi, elle est si proche et n'est pas couverte cette fois...{/m}[nointeract]"
+    # [Max_04 "{m}Похоже, Алиса не на шутку завелась! Она всё активнее дрочит мне своими ножками... Почему бы и мне не поласкать её киску, она ведь так близко и ничем на этот раз не прикрыта...{/m}" nointeract
+    Max_04 "{m}On dirait qu’Alice est sérieuse! Elle secoue de plus en plus ses jambes... Pourquoi elle ne le caresse pas aussi, elle est si proche et n'est pas couverte cette fois...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:746
 translate frenh alice_nopants_massage_not_nopants_f09cc31b:
@@ -783,8 +783,8 @@ translate frenh alice_nopants_massage_not_nopants_e7556b2b:
 # game/dialogues/alicetalk.rpy:749
 translate frenh alice_nopants_massage_not_nopants_9ecfa650:
 
-    # [Alice_11 "Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... Да...[nointeract]"
-    Alice_11 "Je suis si chaude... En bas... Je pense que je suis proche de... Comme c’est bon... Ouais...[nointeract]"
+    # [Alice_11 "Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... Да..." nointeract
+    Alice_11 "Je suis si chaude... En bas... Je pense que je suis proche de... Comme c’est bon... Ouais..." nointeract
 
 # game/dialogues/alicetalk.rpy:758
 translate frenh alice_nopants_massage_not_nopants_21863491:
@@ -855,8 +855,8 @@ translate frenh alice_nopants_massage_not_nopants_ed79bd1c:
 # game/dialogues/alicetalk.rpy:818
 translate frenh alice_talk_tv_jeans_not_jeans_769ebcfd:
 
-    # [Alice_05 "Да, так гораздо лучше. Только ты не пялься, куда не надо. Вижу, краем глаза пытаешься что-то разглядеть. Вот не надо. Лучше, продолжай массаж...[nointeract]"
-    Alice_05 "Oui, c'est beaucoup mieux. Ne regardes pas là où tu n'es pas censé le faire. Je vois que tu essaies de voir quelque chose du coin de l'œil. Ne fais pas ça. Mieux, continues à masser...[nointeract]"
+    # [Alice_05 "Да, так гораздо лучше. Только ты не пялься, куда не надо. Вижу, краем глаза пытаешься что-то разглядеть. Вот не надо. Лучше, продолжай массаж..." nointeract
+    Alice_05 "Oui, c'est beaucoup mieux. Ne regardes pas là où tu n'es pas censé le faire. Je vois que tu essaies de voir quelque chose du coin de l'œil. Ne fais pas ça. Mieux, continues à masser..." nointeract
 
 # game/dialogues/alicetalk.rpy:820
 translate frenh alice_talk_tv_jeans_not_jeans_6d488f64:
@@ -903,8 +903,8 @@ translate frenh alice_talk_tv_jeans_not_jeans_8d0aac73:
 # game/dialogues/alicetalk.rpy:835
 translate frenh alice_talk_tv_jeans_not_jeans_9d77976c:
 
-    # [Max_03 "Да, да, конечно.[nointeract]"
-    Max_03 "Oui, oui, absolument.[nointeract]"
+    # [Max_03 "Да, да, конечно." nointeract
+    Max_03 "Oui, oui, absolument." nointeract
 
 # game/dialogues/alicetalk.rpy:841
 translate frenh alice_talk_tv_jeans_not_jeans_adb6b9f6:
@@ -957,26 +957,26 @@ translate frenh alice_talk_tv_massage_next_e263d7d3:
 # game/dialogues/alicetalk.rpy:909
 translate frenh alice_talk_tv_massage_next_db75bb50:
 
-    # [Alice_07 "[alice_good_mass!t]Макс... Сегодня твои ручки творят чудеса... А во что это моя нога упёрлась? Это часть программы или как?[nointeract]"
-    Alice_07 "[alice_good_mass!t]Max... Tes mains font des merveilles aujourd'hui... Quel est mon avis sur la question ? Cela fait partie du programme ou quoi ?[nointeract]"
+    # [Alice_07 "[alice_good_mass!t]Макс... Сегодня твои ручки творят чудеса... А во что это моя нога упёрлась? Это часть программы или как?" nointeract
+    Alice_07 "[alice_good_mass!t]Max... Tes mains font des merveilles aujourd'hui... Quel est mon avis sur la question ? Cela fait partie du programme ou quoi ?" nointeract
 
 # game/dialogues/alicetalk.rpy:912
 translate frenh alice_talk_tv_massage_next_3837de84:
 
-    # [Alice_08 "Ты так в себе уверен, Макс... Забыл, что я твоя сестра? Не говори глупости... Просто продолжай массировать мои ножки. Если ты ещё не в курсе, они у меня целиком - эрогенная зона...[nointeract]"
-    Alice_08 "Tu es tellement sûr de toi, Max... As-tu oublié que je suis ta sœur ? Ne sois pas si bête... Continues de masser mes jambes. Au cas où tu ne le saurais pas, ils sont toute ma zone érogène...[nointeract]"
+    # [Alice_08 "Ты так в себе уверен, Макс... Забыл, что я твоя сестра? Не говори глупости... Просто продолжай массировать мои ножки. Если ты ещё не в курсе, они у меня целиком - эрогенная зона..." nointeract
+    Alice_08 "Tu es tellement sûr de toi, Max... As-tu oublié que je suis ta sœur ? Ne sois pas si bête... Continues de masser mes jambes. Au cas où tu ne le saurais pas, ils sont toute ma zone érogène..." nointeract
 
 # game/dialogues/alicetalk.rpy:930
 translate frenh alice_talk_tv_massage_next_6a3e6bc9:
 
-    # [Alice_04 "Эх, Макс... А я бы захотела продолжения, если бы ты был моим парнем... Жаль, что ты только мой брат...[nointeract]"
-    Alice_04 "Oh, Max... Je voudrais une suite si tu étais mon petit ami... Dommage que tu ne sois que mon frère...[nointeract]"
+    # [Alice_04 "Эх, Макс... А я бы захотела продолжения, если бы ты был моим парнем... Жаль, что ты только мой брат..." nointeract
+    Alice_04 "Oh, Max... Je voudrais une suite si tu étais mon petit ami... Dommage que tu ne sois que mon frère..." nointeract
 
 # game/dialogues/alicetalk.rpy:933
 translate frenh alice_talk_tv_massage_next_116b5205:
 
-    # [Alice_05 "На сколько захочу? На секунду! Ой. Она прошла... Всё, Макс, твоё время вышло... Ладно, засовывай свою штуку обратно. Что-то голова кружится... Макс, уйди по хорошему, а...[nointeract]"
-    Alice_05 "Combien de temps je le veux ? Pour une seconde ! Aïe. Elle est passée... C'est ça, Max, ton temps est écoulé... Très bien, remets ton truc en place. Je me sens étourdie... Max, va-t'en pour de bon, hein...[nointeract]"
+    # [Alice_05 "На сколько захочу? На секунду! Ой. Она прошла... Всё, Макс, твоё время вышло... Ладно, засовывай свою штуку обратно. Что-то голова кружится... Макс, уйди по хорошему, а..." nointeract
+    Alice_05 "Combien de temps je le veux ? Pour une seconde ! Aïe. Elle est passée... C'est ça, Max, ton temps est écoulé... Très bien, remets ton truc en place. Je me sens étourdie... Max, va-t'en pour de bon, hein..." nointeract
 
 # game/dialogues/alicetalk.rpy:958
 translate frenh alice_talk_tv_massage_next_a14e48fe:
@@ -1005,8 +1005,8 @@ translate frenh alice_talk_tv_massage_next_ef15cedf:
 # game/dialogues/alicetalk.rpy:972
 translate frenh alice_talk_tv_massage_next_fail_6daec4f2:
 
-    # [Alice_12 "Макс! Ещё одно лишнее движение, и я дам тебе по шарам вот это самой ногой. Ты меня понял? Всё, массаж окончен, вали отсюда![nointeract]"
-    Alice_12 "Max ! Un geste de plus et je te donne un coup de pied dans les couilles avec ce même pied. Tu comprends? C'est ça, le massage est terminé, sorts d'ici ![nointeract]"
+    # [Alice_12 "Макс! Ещё одно лишнее движение, и я дам тебе по шарам вот это самой ногой. Ты меня понял? Всё, массаж окончен, вали отсюда!" nointeract
+    Alice_12 "Max ! Un geste de plus et je te donne un coup de pied dans les couilles avec ce même pied. Tu comprends? C'est ça, le massage est terminé, sorts d'ici !" nointeract
 
 # game/dialogues/alicetalk.rpy:990
 translate frenh alice_talk_tv_sober_mass_b7f2b722:
@@ -1191,8 +1191,8 @@ translate frenh alice_talk_tv_sober_mass_1aaeec10:
 # game/dialogues/alicetalk.rpy:1049
 translate frenh alice_talk_tv_sober_mass_52eb6804:
 
-    # [Alice_08 "Ты так в себе уверен, Макс... Ну посмотрим... Просто продолжай массировать мои ножки. Если ты ещё не в курсе, они у меня целиком - эрогенная зона...[nointeract]"
-    Alice_08 "Tu es si confiant, Max... Eh bien, nous verrons... Continues simplement à masser mes jambes. Si tu ne le sais pas encore, je les ai entièrement - la zone érogène...[nointeract]"
+    # [Alice_08 "Ты так в себе уверен, Макс... Ну посмотрим... Просто продолжай массировать мои ножки. Если ты ещё не в курсе, они у меня целиком - эрогенная зона..." nointeract
+    Alice_08 "Tu es si confiant, Max... Eh bien, nous verrons... Continues simplement à masser mes jambes. Si tu ne le sais pas encore, je les ai entièrement - la zone érogène..." nointeract
 
 # game/dialogues/alicetalk.rpy:1051
 translate frenh alice_talk_tv_sober_mass_3333e83c:
@@ -1245,8 +1245,8 @@ translate frenh alice_talk_tv_sober_mass_r_1aaeec10:
 # game/dialogues/alicetalk.rpy:1089
 translate frenh alice_talk_tv_sober_mass_r_43ffc4e7:
 
-    # [Alice_08 "Ты так в себе уверен, Макс... Ну посмотрим... Просто продолжай массировать мои ножки. Они у меня любят твой твёрдый... настрой.[nointeract]"
-    Alice_08 "Tu es si confiant, Max... Eh bien, nous verrons... Continues simplement à masser mes jambes. Elles aiment ta durc... ton humeur.[nointeract]"
+    # [Alice_08 "Ты так в себе уверен, Макс... Ну посмотрим... Просто продолжай массировать мои ножки. Они у меня любят твой твёрдый... настрой." nointeract
+    Alice_08 "Tu es si confiant, Max... Eh bien, nous verrons... Continues simplement à masser mes jambes. Elles aiment ta durc... ton humeur." nointeract
 
 # game/dialogues/alicetalk.rpy:1095
 translate frenh alice_talk_tv_sober_mass_r_5dc239ef:
@@ -1269,8 +1269,8 @@ translate frenh alice_talk_tv_sober_mass_r_b6f56f02:
 # game/dialogues/alicetalk.rpy:1110
 translate frenh alice_talk_tv_sober_mass_r_8cc9ec97:
 
-    # [Alice_04 "Они у меня такие... Любят помассировать кое-что большое и твёрдое... Главное, не перестараться и чувствовать, когда нужно заканчивать...[nointeract]"
-    Alice_04 "C'est comme ça... Elles aiment masser quelque chose de grand et de dur... L’essentiel est de ne pas en faire trop et de sentir quand tu vas jouir...[nointeract]"
+    # [Alice_04 "Они у меня такие... Любят помассировать кое-что большое и твёрдое... Главное, не перестараться и чувствовать, когда нужно заканчивать..." nointeract
+    Alice_04 "C'est comme ça... Elles aiment masser quelque chose de grand et de dur... L’essentiel est de ne pas en faire trop et de sentir quand tu vas jouir..." nointeract
 
 # game/dialogues/alicetalk.rpy:1116
 translate frenh alice_talk_tv_sober_mass_r_abd8d76e:
@@ -1323,14 +1323,14 @@ translate frenh advanced_massage1_bb8e7c16:
 # game/dialogues/alicetalk.rpy:1166
 translate frenh advanced_massage1_73f29683:
 
-    # [Alice_04 "Они у меня такие... Любят помассировать кое-что большое и твёрдое...[nointeract]"
-    Alice_04 "Elles sont comme ça... Elles aiment masser quelque chose de grand et de dur...[nointeract]"
+    # [Alice_04 "Они у меня такие... Любят помассировать кое-что большое и твёрдое..." nointeract
+    Alice_04 "Elles sont comme ça... Elles aiment masser quelque chose de grand et de dur..." nointeract
 
 # game/dialogues/alicetalk.rpy:1177
 translate frenh advanced_massage1_c07bcd66:
 
-    # [Max_04 "{m}Похоже, Алиса не на шутку завелась! Она всё активнее дрочит мне своими ножками... Почему бы и мне не поласкать её киску, она ведь так близко...{/m}[nointeract]"
-    Max_04 "{m}On dirait qu’Alice est sérieuse! Elle secoue de plus en plus ses jambes... Pourquoi elle ne le caresse pas aussi, elle est si proche de le faire...{/m}[nointeract]"
+    # [Max_04 "{m}Похоже, Алиса не на шутку завелась! Она всё активнее дрочит мне своими ножками... Почему бы и мне не поласкать её киску, она ведь так близко...{/m}" nointeract
+    Max_04 "{m}On dirait qu’Alice est sérieuse! Elle secoue de plus en plus ses jambes... Pourquoi elle ne le caresse pas aussi, elle est si proche de le faire...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:1188
 translate frenh advanced_massage1_f09cc31b:
@@ -1347,8 +1347,8 @@ translate frenh advanced_massage1_255f3e33:
 # game/dialogues/alicetalk.rpy:1191
 translate frenh advanced_massage1_924dbedc:
 
-    # [Alice_11 "Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... да...[nointeract]"
-    Alice_11 "Je suis si chaude... En bas... Je pense que je suis proche de... Comme c’est bon... Ouais...[nointeract]"
+    # [Alice_11 "Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... да..." nointeract
+    Alice_11 "Je suis si chaude... En bas... Je pense que je suis proche de... Comme c’est bon... Ouais..." nointeract
 
 # game/dialogues/alicetalk.rpy:1217
 translate frenh advanced_massage1_faster_a9850eeb:
@@ -1407,8 +1407,8 @@ translate frenh advanced_massage1_no_rush_9141846d:
 # game/dialogues/alicetalk.rpy:1251
 translate frenh advanced_massage1_no_rush_070d587a:
 
-    # [Alice_08 "Ммм... Макс... Я же твоя сестра, а ты... ведёшь себя со мной... как будто я твоя девушка... Но я могу это представить, ненадолго... Так что успевай.[nointeract]"
-    Alice_08 "Mmm... Max... Je suis ta sœur et tu es... tu agis avec moi... comme si j'étais ta petite amie... Mais je peux l'imaginer, pas pour longtemps... Alors prends pas trop de temps.[nointeract]"
+    # [Alice_08 "Ммм... Макс... Я же твоя сестра, а ты... ведёшь себя со мной... как будто я твоя девушка... Но я могу это представить, ненадолго... Так что успевай." nointeract
+    Alice_08 "Mmm... Max... Je suis ta sœur et tu es... tu agis avec moi... comme si j'étais ta petite amie... Mais je peux l'imaginer, pas pour longtemps... Alors prends pas trop de temps." nointeract
 
 # game/dialogues/alicetalk.rpy:1271
 translate frenh advanced_massage1_cuni_c8afbf4c:
@@ -1425,8 +1425,8 @@ translate frenh advanced_massage1_cuni_1a590885:
 # game/dialogues/alicetalk.rpy:1275
 translate frenh advanced_massage1_cuni_a4a1d9f6:
 
-    # [Alice_05 "А ты болтай поменьше... Может и перестану.[nointeract]"
-    Alice_05 "Et tu en parles moins... Peut-être que je vais arrêter.[nointeract]"
+    # [Alice_05 "А ты болтай поменьше... Может и перестану." nointeract
+    Alice_05 "Et tu en parles moins... Peut-être que je vais arrêter." nointeract
 
 # game/dialogues/alicetalk.rpy:1290
 translate frenh advanced_massage1_cuni_32373cd7:
@@ -1437,8 +1437,8 @@ translate frenh advanced_massage1_cuni_32373cd7:
 # game/dialogues/alicetalk.rpy:1292
 translate frenh advanced_massage1_cuni_1faf42c9:
 
-    # [Max_04 "{m}Я сейчас устрою твоей сладкой киске такое, чего ты точно не забудешь! Хотя... нет, ты забудешь... Да и ладно.{/m}[nointeract]"
-    Max_04 "{m}Je suis sur le point de donner à ta douce chatte quelque chose que tu n'oublieras pas ! Bien que... Non, tu vas oublier... Peu importe. {/m}[nointeract]"
+    # [Max_04 "{m}Я сейчас устрою твоей сладкой киске такое, чего ты точно не забудешь! Хотя... нет, ты забудешь... Да и ладно.{/m}" nointeract
+    Max_04 "{m}Je suis sur le point de donner à ta douce chatte quelque chose que tu n'oublieras pas ! Bien que... Non, tu vas oublier... Peu importe. {/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:1306
 translate frenh advanced_massage1_cuni_b40ae767:
@@ -1533,8 +1533,8 @@ translate frenh advanced_massage1_reciprocity_768593ae:
 # game/dialogues/alicetalk.rpy:1381
 translate frenh advanced_massage1_reciprocity_f810aaf0:
 
-    # [Alice_08 "И ещё как! Я уже приласкала тебя своими ножками... А как тебе мой язычок? Вижу, тебе это нравится... Я буду исследовать им твой член столько, сколько ты сможешь сдержаться![nointeract]"
-    Alice_08 "Et comment ! Je t'ai déjà caressé avec mes pieds... Que penses-tu de ma langue ? Je vois que tu aimes ça... Je vais explorer ta bite avec elle aussi longtemps que tu pourras tenir le coup ![nointeract]"
+    # [Alice_08 "И ещё как! Я уже приласкала тебя своими ножками... А как тебе мой язычок? Вижу, тебе это нравится... Я буду исследовать им твой член столько, сколько ты сможешь сдержаться!" nointeract
+    Alice_08 "Et comment ! Je t'ai déjà caressé avec mes pieds... Que penses-tu de ma langue ? Je vois que tu aimes ça... Je vais explorer ta bite avec elle aussi longtemps que tu pourras tenir le coup !" nointeract
 
 # game/dialogues/alicetalk.rpy:1391
 translate frenh advanced_massage1_reciprocity_b368585e:
@@ -1545,8 +1545,8 @@ translate frenh advanced_massage1_reciprocity_b368585e:
 # game/dialogues/alicetalk.rpy:1399
 translate frenh advanced_massage1_reciprocity_9410eaf1:
 
-    # [Max_21 "{m}Ох, как это классно! Алиса с явным наслаждением посасывает мой член. Мой массаж её определённо очень возбуждает, раз она делает мне минет с таким смаком. Д-а-а, это кайф!{/m}[nointeract]"
-    Max_21 "{m}Oh, comme c'est cool! Alice suce ma bite avec un plaisir évident. Mon massage l'excite beaucoup, et elle me taille une pipe avec une telle délectation. Mmmh-ah, c'est trop booonnn!{/m}[nointeract]"
+    # [Max_21 "{m}Ох, как это классно! Алиса с явным наслаждением посасывает мой член. Мой массаж её определённо очень возбуждает, раз она делает мне минет с таким смаком. Д-а-а, это кайф!{/m}" nointeract
+    Max_21 "{m}Oh, comme c'est cool! Alice suce ma bite avec un plaisir évident. Mon massage l'excite beaucoup, et elle me taille une pipe avec une telle délectation. Mmmh-ah, c'est trop booonnn!{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:1408
 translate frenh advanced_massage1_reciprocity_1272725b:
@@ -1587,8 +1587,8 @@ translate frenh advanced_massage1_no_restrain_7fef34b9:
 # game/dialogues/alicetalk.rpy:1440
 translate frenh alice_aboutbooks_5cb6ebb3:
 
-    # [Alice_13 "Книжку, очевидно...[nointeract]"
-    Alice_13 "Un livre, pour sûr....[nointeract]"
+    # [Alice_13 "Книжку, очевидно..." nointeract
+    Alice_13 "Un livre, pour sûr...." nointeract
 
 # game/dialogues/alicetalk.rpy:1442
 translate frenh alice_aboutbooks_17c8adf3:
@@ -1629,22 +1629,22 @@ translate frenh alice_aboutbooks_de0f6bd9:
 # game/dialogues/alicetalk.rpy:1451
 translate frenh alice_aboutbooks_6405d1b7:
 
-    # [Alice_02 "Забавно. А тебе не всё равно? Или делать нечего?[nointeract]"
-    Alice_02 "C'est drôle. Tu t'en soucies? Ou bien n'y a-t-il rien de sérieux?[nointeract]"
+    # [Alice_02 "Забавно. А тебе не всё равно? Или делать нечего?" nointeract
+    Alice_02 "C'est drôle. Tu t'en soucies? Ou bien n'y a-t-il rien de sérieux?" nointeract
 
 # game/dialogues/alicetalk.rpy:1457
 translate frenh alice_aboutbooks_af00f0d1:
 
     # [Alice_00 "Не скажу. Сиди теперь и гадай! \n\n"
-"{i}Алиса прикрыла обложку рукой{/i}[nointeract]"
+"{i}Алиса прикрыла обложку рукой{/i}" nointeract
     Alice_00 "Je ne le dirai pas. Maintenant, assieds-toi et devines ! \n\n"
-"{i}Alice a couvert la couverture de sa main{/i}[nointeract]"
+"{i}Alice a couvert la couverture de sa main{/i}" nointeract
 
 # game/dialogues/alicetalk.rpy:1466
 translate frenh alice_aboutbooks_2eac1a27:
 
-    # [Alice_01 "Думай, что хочешь, а я всё равно не скажу.[nointeract]"
-    Alice_01 "Penses ce que tu veux et je ne te le dirai pas de toute façon.[nointeract]"
+    # [Alice_01 "Думай, что хочешь, а я всё равно не скажу." nointeract
+    Alice_01 "Penses ce que tu veux et je ne te le dirai pas de toute façon." nointeract
 
 # game/dialogues/alicetalk.rpy:1478
 translate frenh first_talk_smoke_449f9302:
@@ -1661,8 +1661,8 @@ translate frenh first_talk_smoke_ffbb93d4:
 # game/dialogues/alicetalk.rpy:1483
 translate frenh first_talk_smoke_7d89b8d0:
 
-    # [Alice_12 "Нет, блин, просто зажгла сигарету, посмотреть как горит... Давай так, ты уйдёшь и сделаешь вид, что ничего не было, хорошо?[nointeract]"
-    Alice_12 "Non, mec, j'ai juste allumé une cigarette pour voir comment elle brûle... Je vais te dire, pars et fais comme si rien ne s'était passé, d'accord ?[nointeract]"
+    # [Alice_12 "Нет, блин, просто зажгла сигарету, посмотреть как горит... Давай так, ты уйдёшь и сделаешь вид, что ничего не было, хорошо?" nointeract
+    Alice_12 "Non, mec, j'ai juste allumé une cigarette pour voir comment elle brûle... Je vais te dire, pars et fais comme si rien ne s'était passé, d'accord ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1485
 translate frenh first_talk_smoke_30d0bafe:
@@ -1679,106 +1679,106 @@ translate frenh first_talk_smoke_dd214c35:
 # game/dialogues/alicetalk.rpy:1490
 translate frenh first_talk_smoke_050967cd:
 
-    # [Alice_14 "Что это значит? Шантажировать меня вздумал?![nointeract]"
-    Alice_14 "Qu'est-ce que cela signifie? Tu me fais du chantage?![nointeract]"
+    # [Alice_14 "Что это значит? Шантажировать меня вздумал?!" nointeract
+    Alice_14 "Qu'est-ce que cela signifie? Tu me fais du chantage?!" nointeract
 
 # game/dialogues/alicetalk.rpy:1493
 translate frenh first_talk_smoke_987db23a:
 
-    # [Alice_13 "Макс, я тебя по-человечески прошу. Сделай вид, что ничего не было. Я не хочу расстраивать маму...[nointeract]"
-    Alice_13 "Max, je te le demande en tant gentiment. Fais comme si ça n'était jamais arrivé. Je ne veux pas contrarier ma mère....[nointeract]"
+    # [Alice_13 "Макс, я тебя по-человечески прошу. Сделай вид, что ничего не было. Я не хочу расстраивать маму..." nointeract
+    Alice_13 "Max, je te le demande en tant gentiment. Fais comme si ça n'était jamais arrivé. Je ne veux pas contrarier ma mère...." nointeract
 
 # game/dialogues/alicetalk.rpy:1496
 translate frenh first_talk_smoke_8dadcf74:
 
-    # [Alice_12 "Может быть, и то и другое. Ну так как, Макс?[nointeract]"
-    Alice_12 "Peut-être les deux. Alors quoi de neuf, Max ?[nointeract]"
+    # [Alice_12 "Может быть, и то и другое. Ну так как, Макс?" nointeract
+    Alice_12 "Peut-être les deux. Alors quoi de neuf, Max ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1520
 translate frenh first_talk_smoke_talk_ab49cd6e:
 
-    # [Alice_13 "Договориться? Ну ладно. Чего ты хочешь?[nointeract]"
-    Alice_13 "Un accord? Très bien. Que veux tu?[nointeract]"
+    # [Alice_13 "Договориться? Ну ладно. Чего ты хочешь?" nointeract
+    Alice_13 "Un accord? Très bien. Que veux tu?" nointeract
 
 # game/dialogues/alicetalk.rpy:1523
 translate frenh first_talk_smoke_talk_b5a5e27d:
 
-    # [Alice_12 "Макс, ты же знаешь, что я на мели. У меня нет денег. Ну, точнее есть, но баксов 10. Тебя устроит?[nointeract]"
-    Alice_12 "Max, tu sais que je suis fauchée. Je n'ai pas d'argent. Eh bien, il y en a un petit quelque chose, pour être exact, mais c'est dix dollars. Cela te conviendrait-il ?[nointeract]"
+    # [Alice_12 "Макс, ты же знаешь, что я на мели. У меня нет денег. Ну, точнее есть, но баксов 10. Тебя устроит?" nointeract
+    Alice_12 "Max, tu sais que je suis fauchée. Je n'ai pas d'argent. Eh bien, il y en a un petit quelque chose, pour être exact, mais c'est dix dollars. Cela te conviendrait-il ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1530
 translate frenh first_talk_smoke_talk_ee9ba89b:
 
     # [Alice_13 "Сейчас сбегаю за деньгами...\n"
-"Вот, держи $10, и теперь-то уж точно ты ничего не видел. Так?[nointeract]"
+"Вот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
     Alice_13 "Je vais juste donner l'argent...\n"
-"Voilà, 10 dollars, et maintenant tu n'as certainement rien vu. N'est-ce pas ?[nointeract]"
+"Voilà, 10 dollars, et maintenant tu n'as certainement rien vu. N'est-ce pas ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1535
 translate frenh first_talk_smoke_talk_86687067:
 
-    # [Alice_16 "И как это понимать, Макс? Мы же договорились! Ну ты и гад... Всё, вали отсюда![nointeract]"
-    Alice_16 "Qu'est-ce que ça veut dire, Max ? Nous avions un accord ! Espèce de salaud... Sors d'ici ![nointeract]"
+    # [Alice_16 "И как это понимать, Макс? Мы же договорились! Ну ты и гад... Всё, вали отсюда!" nointeract
+    Alice_16 "Qu'est-ce que ça veut dire, Max ? Nous avions un accord ! Espèce de salaud... Sors d'ici !" nointeract
 
 # game/dialogues/alicetalk.rpy:1542
 translate frenh first_talk_smoke_talk_18eb3a17:
 
-    # [Alice_12 "Ну... больше у меня нет. Может, просто забудем обо всём?[nointeract]"
-    Alice_12 "Eh bien... Je n'en ai plus. On ne peut pas juste tout oublier ?[nointeract]"
+    # [Alice_12 "Ну... больше у меня нет. Может, просто забудем обо всём?" nointeract
+    Alice_12 "Eh bien... Je n'en ai plus. On ne peut pas juste tout oublier ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1561
 translate frenh first_talk_smoke_bad_96a0f9a4:
 
-    # [Alice_15 "Что?! Ну ты хам! Всё, быстро свалил![nointeract]"
-    Alice_15 "Quoi?! tu es un mufle! C'est ça, casses-toi![nointeract]"
+    # [Alice_15 "Что?! Ну ты хам! Всё, быстро свалил!" nointeract
+    Alice_15 "Quoi?! tu es un mufle! C'est ça, casses-toi!" nointeract
 
 # game/dialogues/alicetalk.rpy:1567
 translate frenh first_talk_smoke_suck_d529d118:
 
-    # [Alice_14 "Что?! Отсоси себе сам! Пошёл вон отсюда![nointeract]"
-    Alice_14 "Quoi?! Sucer ta propre bite ! Sors d'ici ![nointeract]"
+    # [Alice_14 "Что?! Отсоси себе сам! Пошёл вон отсюда!" nointeract
+    Alice_14 "Quoi?! Sucer ta propre bite ! Sors d'ici !" nointeract
 
 # game/dialogues/alicetalk.rpy:1573
 translate frenh first_talk_smoke_owe_bbfe892c:
 
-    # [Alice_06 "И какую услугу я тебе буду должна? Например?[nointeract]"
-    Alice_06 "Et quelle faveur te devrais-je ? Comme quoi ?[nointeract]"
+    # [Alice_06 "И какую услугу я тебе буду должна? Например?" nointeract
+    Alice_06 "Et quelle faveur te devrais-je ? Comme quoi ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1582
 translate frenh first_talk_smoke_owe_911030ca:
 
-    # [Alice_03 "Ну, вот когда решишь, тогда и поговорим. А теперь иди отсюда, пока ещё можешь![nointeract]"
-    Alice_03 "Eh bien, quand tu auras pris ta décision, alors nous en reparlerons. Maintenant, sors d'ici pendant que tu le peux encore ![nointeract]"
+    # [Alice_03 "Ну, вот когда решишь, тогда и поговорим. А теперь иди отсюда, пока ещё можешь!" nointeract
+    Alice_03 "Eh bien, quand tu auras pris ta décision, alors nous en reparlerons. Maintenant, sors d'ici pendant que tu le peux encore !" nointeract
 
 # game/dialogues/alicetalk.rpy:1587
 translate frenh first_talk_smoke_owe_c066f246:
 
-    # [Alice_15 "Да ты что?! А не охренел ли ты, мальчик? Это всего лишь сигарета, а запросы у тебя... Всё, свалил отсюда![nointeract]"
-    Alice_15 "Oh, vraiment ? ! N'es-tu pas un putain d'idiot, mon garçon ? Ce n'est qu'une cigarette, et tes exigences sont... C'est ça, barres toi![nointeract]"
+    # [Alice_15 "Да ты что?! А не охренел ли ты, мальчик? Это всего лишь сигарета, а запросы у тебя... Всё, свалил отсюда!" nointeract
+    Alice_15 "Oh, vraiment ? ! N'es-tu pas un putain d'idiot, mon garçon ? Ce n'est qu'une cigarette, et tes exigences sont... C'est ça, barres toi!" nointeract
 
 # game/dialogues/alicetalk.rpy:1593
 translate frenh first_talk_smoke_maybe_6ae64208:
 
-    # [Alice_12 "Сам смотри... Воевать со мной - себе дороже. И, вообще, иди отсюда. Я уже взрослая и могу делать что хочу...[nointeract]"
-    Alice_12 "Vois par toi-même... Se battre avec moi coûte cher. Et de toute façon, sors d'ici. Je suis une adulte et je peux faire ce que je veux...[nointeract]"
+    # [Alice_12 "Сам смотри... Воевать со мной - себе дороже. И, вообще, иди отсюда. Я уже взрослая и могу делать что хочу..." nointeract
+    Alice_12 "Vois par toi-même... Se battre avec moi coûte cher. Et de toute façon, sors d'ici. Je suis une adulte et je peux faire ce que je veux..." nointeract
 
 # game/dialogues/alicetalk.rpy:1598
 translate frenh first_talk_smoke_goodend_b2ffd2e3:
 
-    # [Alice_05 "Вот это другое дело. Ладно, разговор окончен...[nointeract]"
-    Alice_05 "C'est une autre chose. Ok, cette conversation est terminée...[nointeract]"
+    # [Alice_05 "Вот это другое дело. Ладно, разговор окончен..." nointeract
+    Alice_05 "C'est une autre chose. Ok, cette conversation est terminée..." nointeract
 
 # game/dialogues/alicetalk.rpy:1611
 translate frenh second_talk_smoke_a3681e1c:
 
-    # [Alice_12 "А, Макс... Чего хотел?[nointeract]"
-    Alice_12 "Alors, Max... Que voulais-tu?[nointeract]"
+    # [Alice_12 "А, Макс... Чего хотел?" nointeract
+    Alice_12 "Alors, Max... Que voulais-tu?" nointeract
 
 # game/dialogues/alicetalk.rpy:1614
 translate frenh second_talk_smoke_141b46f2:
 
-    # [Alice_03 "Это так важно для тебя? Почему спрашиваешь?[nointeract]"
-    Alice_03 "Est-ce si important pour toi? Pourquoi demandes-tu ça?[nointeract]"
+    # [Alice_03 "Это так важно для тебя? Почему спрашиваешь?" nointeract
+    Alice_03 "Est-ce si important pour toi? Pourquoi demandes-tu ça?" nointeract
 
 # game/dialogues/alicetalk.rpy:1616
 translate frenh second_talk_smoke_abf337b5:
@@ -1819,8 +1819,8 @@ translate frenh second_talk_smoke_ced29bff:
 # game/dialogues/alicetalk.rpy:1627
 translate frenh second_talk_smoke_80e5e0fb:
 
-    # [Alice_13 "Ну да... Просто нравится именно эти. Их наш отец курил, сначала запах нравился. Когда выросла, попробовала и теперь вот втянулась...[nointeract]"
-    Alice_13 "Oui... J’aime juste ça. Notre père les fumait, au début j’aimais l’odeur. Quand j’ai grandi, j’ai essayé et maintenant je me suis habitué...[nointeract]"
+    # [Alice_13 "Ну да... Просто нравится именно эти. Их наш отец курил, сначала запах нравился. Когда выросла, попробовала и теперь вот втянулась..." nointeract
+    Alice_13 "Oui... J’aime juste ça. Notre père les fumait, au début j’aimais l’odeur. Quand j’ai grandi, j’ai essayé et maintenant je me suis habitué..." nointeract
 
 # game/dialogues/alicetalk.rpy:1629
 translate frenh second_talk_smoke_182af78a:
@@ -1837,14 +1837,14 @@ translate frenh second_talk_smoke_16c39f20:
 # game/dialogues/alicetalk.rpy:1634
 translate frenh second_talk_smoke_6f9e3ea7:
 
-    # [Alice_06 "Нет уж, самой мало. Знаешь, как сложно их достать? Особенно, чтобы мама не узнала...[nointeract]"
-    Alice_06 "Non, ce n’est pas suffisant. Tu sais à quel point il est difficile de les obtenir? Surtout pour que notre mère ne le découvre pas...[nointeract]"
+    # [Alice_06 "Нет уж, самой мало. Знаешь, как сложно их достать? Особенно, чтобы мама не узнала..." nointeract
+    Alice_06 "Non, ce n’est pas suffisant. Tu sais à quel point il est difficile de les obtenir? Surtout pour que notre mère ne le découvre pas..." nointeract
 
 # game/dialogues/alicetalk.rpy:1638
 translate frenh second_talk_smoke_4c9e50aa:
 
-    # [Alice_02 "С чем? Можешь доставать такие сигареты?[nointeract]"
-    Alice_02 "Pourquoi? Peux-tu obtenir ces cigarettes?[nointeract]"
+    # [Alice_02 "С чем? Можешь доставать такие сигареты?" nointeract
+    Alice_02 "Pourquoi? Peux-tu obtenir ces cigarettes?" nointeract
 
 # game/dialogues/alicetalk.rpy:1643
 translate frenh second_talk_smoke_7541a141:
@@ -1873,8 +1873,8 @@ translate frenh second_talk_smoke_25aa812b:
 # game/dialogues/alicetalk.rpy:1664
 translate frenh gift_cigarettes_274717c2:
 
-    # [Alice_03 "Это то, что я думаю? Давай сюда![nointeract]"
-    Alice_03 "Est-ce bien ce que je pense ? Aller![nointeract]"
+    # [Alice_03 "Это то, что я думаю? Давай сюда!" nointeract
+    Alice_03 "Est-ce bien ce que je pense ? Aller!" nointeract
 
 # game/dialogues/alicetalk.rpy:1666
 translate frenh gift_cigarettes_88c94b68:
@@ -1957,8 +1957,8 @@ translate frenh smoke_nofear_caee999b:
 # game/dialogues/alicetalk.rpy:1696
 translate frenh smoke_nofear_e44b17a7:
 
-    # [Alice_03 "И как она узнает? Ты расскажешь?[nointeract]"
-    Alice_03 "Et comment le saurait-elle? Peux-tu me le dire?[nointeract]"
+    # [Alice_03 "И как она узнает? Ты расскажешь?" nointeract
+    Alice_03 "Et comment le saurait-elle? Peux-tu me le dire?" nointeract
 
 # game/dialogues/alicetalk.rpy:1698
 translate frenh smoke_nofear_f223d1fa:
@@ -1975,8 +1975,8 @@ translate frenh smoke_nofear_042d05e4:
 # game/dialogues/alicetalk.rpy:1701
 translate frenh smoke_nofear_fdcf7e97:
 
-    # [Alice_13 "Сначала скажи, что у тебя на уме...[nointeract]"
-    Alice_13 "Dis-moi d’abord ce que tu as en tête...[nointeract]"
+    # [Alice_13 "Сначала скажи, что у тебя на уме..." nointeract
+    Alice_13 "Dis-moi d’abord ce que tu as en tête..." nointeract
 
 # game/dialogues/alicetalk.rpy:1712
 translate frenh smoke_nofear_68ee7cea:
@@ -1987,8 +1987,8 @@ translate frenh smoke_nofear_68ee7cea:
 # game/dialogues/alicetalk.rpy:1722
 translate frenh smoke_nofear_no_a95196c6:
 
-    # [Alice_03 "Ну вот и пугать не надо. Не узнает. А если ты проболтаешься, я тебя во сне придушу, понял? Теперь иди, не мешай мне...[nointeract]"
-    Alice_03 "Il n'y a pas lieu d'être inquiet. Il ne sait pas. Et si tu parles, je t'étrangle dans ton sommeil, compris? Maintenant vas-y, dégage de mon chemin....[nointeract]"
+    # [Alice_03 "Ну вот и пугать не надо. Не узнает. А если ты проболтаешься, я тебя во сне придушу, понял? Теперь иди, не мешай мне..." nointeract
+    Alice_03 "Il n'y a pas lieu d'être inquiet. Il ne sait pas. Et si tu parles, je t'étrangle dans ton sommeil, compris? Maintenant vas-y, dégage de mon chemin...." nointeract
 
 # game/dialogues/alicetalk.rpy:1730
 translate frenh smoke_fear_e2e452f2:
@@ -2017,8 +2017,8 @@ translate frenh smoke_fear_af2c2b24:
 # game/dialogues/alicetalk.rpy:1736
 translate frenh smoke_fear_3a15370b:
 
-    # [Alice_13 "Говори, что ты хочешь за молчание?[nointeract]"
-    Alice_13 "Dis-moi, que veux-tu pour ton silence?[nointeract]"
+    # [Alice_13 "Говори, что ты хочешь за молчание?" nointeract
+    Alice_13 "Dis-moi, que veux-tu pour ton silence?" nointeract
 
 # game/dialogues/alicetalk.rpy:1747
 translate frenh smoke_fear_eb6c33b9:
@@ -2059,26 +2059,26 @@ translate frenh smoke_fear_babd1ad3:
 # game/dialogues/alicetalk.rpy:1754
 translate frenh smoke_fear_30a05ab3:
 
-    # [Alice_06 "Лучше попроси что-то другое...[nointeract]"
-    Alice_06 "Mieux vaut demander autre chose...[nointeract]"
+    # [Alice_06 "Лучше попроси что-то другое..." nointeract
+    Alice_06 "Mieux vaut demander autre chose..." nointeract
 
 # game/dialogues/alicetalk.rpy:1759
 translate frenh smoke_fear_1d3c1778:
 
-    # [Alice_03 "[succes!t]Хорошо. Не буду я одевать джинсы, только дай уже покурить спокойно![nointeract]"
-    Alice_03 "[succes!t]Bien. Je ne porte pas de jeans, laisses-moi fumer en paix.![nointeract]"
+    # [Alice_03 "[succes!t]Хорошо. Не буду я одевать джинсы, только дай уже покурить спокойно!" nointeract
+    Alice_03 "[succes!t]Bien. Je ne porte pas de jeans, laisses-moi fumer en paix.!" nointeract
 
 # game/dialogues/alicetalk.rpy:1786
 translate frenh smoke_fear_37c7808b:
 
-    # [Alice_12 "Это ещё с чего, Макс?! Меня же не наказывали! А мы договаривались, если ты меня спас от мамы, то и отшлёпать можешь...[nointeract]"
-    Alice_12 "Comment ça, Max ? ! C'est pas comme si j'avais été puni ! On s'était mis d'accord que si tu me sauvais de ma mère, tu pourrais me donner une fessée...[nointeract]"
+    # [Alice_12 "Это ещё с чего, Макс?! Меня же не наказывали! А мы договаривались, если ты меня спас от мамы, то и отшлёпать можешь..." nointeract
+    Alice_12 "Comment ça, Max ? ! C'est pas comme si j'avais été puni ! On s'était mis d'accord que si tu me sauvais de ma mère, tu pourrais me donner une fessée..." nointeract
 
 # game/dialogues/alicetalk.rpy:1789
 translate frenh smoke_fear_b915b812:
 
-    # [Alice_12 "Это ещё с чего, Макс?! Ты же мою попку от мамы не спас! А мы договаривались, если ты меня выручаешь, то и отшлёпать можешь...[nointeract]"
-    Alice_12 "Comment ça, Max ? ! Tu n'as pas sauvé mon cul de ma mère! On avait convenu que si tu m'aidais, tu pouvais me gifler...[nointeract]"
+    # [Alice_12 "Это ещё с чего, Макс?! Ты же мою попку от мамы не спас! А мы договаривались, если ты меня выручаешь, то и отшлёпать можешь..." nointeract
+    Alice_12 "Comment ça, Max ? ! Tu n'as pas sauvé mon cul de ma mère! On avait convenu que si tu m'aidais, tu pouvais me gifler..." nointeract
 
 # game/dialogues/alicetalk.rpy:1795
 translate frenh smoke_fear_07fafa70:
@@ -2089,14 +2089,14 @@ translate frenh smoke_fear_07fafa70:
 # game/dialogues/alicetalk.rpy:1797
 translate frenh smoke_fear_5f4eb3c1:
 
-    # [Max_03 "Хорошо. Я подожду...[nointeract]"
-    Max_03 "Bien. Je vais attendre...[nointeract]"
+    # [Max_03 "Хорошо. Я подожду..." nointeract
+    Max_03 "Bien. Je vais attendre..." nointeract
 
 # game/dialogues/alicetalk.rpy:1802
 translate frenh smoke_fear_9229c45e:
 
-    # [Alice_16 "[failed!t]Нет уж! Что-то другое ещё можешь попробовать выпросить, но к своей попке я тебя сегодня не подпущу.[nointeract]"
-    Alice_16 "[failed!t]Pas question ! Tu peux essayer autre chose, mais je ne te laisserai pas approcher de mon cul ce soir.[nointeract]"
+    # [Alice_16 "[failed!t]Нет уж! Что-то другое ещё можешь попробовать выпросить, но к своей попке я тебя сегодня не подпущу." nointeract
+    Alice_16 "[failed!t]Pas question ! Tu peux essayer autre chose, mais je ne te laisserai pas approcher de mon cul ce soir." nointeract
 
 # game/dialogues/alicetalk.rpy:1816
 translate frenh smoke_fear_f8226515:
@@ -2143,14 +2143,14 @@ translate frenh smoke_fear_df64eeea:
 # game/dialogues/alicetalk.rpy:1834
 translate frenh smoke_fear_e8a1317a:
 
-    # [Alice_06 "Сегодня? Значит, попросишь в следующий раз?[nointeract]"
-    Alice_06 "Aujourd'hui? Alors tu demanderais quoi la prochaine fois ?[nointeract]"
+    # [Alice_06 "Сегодня? Значит, попросишь в следующий раз?" nointeract
+    Alice_06 "Aujourd'hui? Alors tu demanderais quoi la prochaine fois ?" nointeract
 
 # game/dialogues/alicetalk.rpy:1840
 translate frenh smoke_fear_b841f701:
 
-    # [Alice_13 "Ну вот тогда иди чем-нибудь займись, а меня не отвлекай...[nointeract]"
-    Alice_13 "Eh bien, alors va vaquer à tes occupations et ne me distrait pas....[nointeract]"
+    # [Alice_13 "Ну вот тогда иди чем-нибудь займись, а меня не отвлекай..." nointeract
+    Alice_13 "Eh bien, alors va vaquer à tes occupations et ne me distrait pas...." nointeract
 
 # game/dialogues/alicetalk.rpy:1848
 translate frenh smoke_fear_smoke_toples_92e34996:
@@ -2167,8 +2167,8 @@ translate frenh smoke_fear_smoke_toples_9d8a31b7:
 # game/dialogues/alicetalk.rpy:1853
 translate frenh smoke_fear_smoke_toples_a86ec81d:
 
-    # [Alice_01 "А теперь вали отсюда. Дай спокойно покурить![nointeract]"
-    Alice_01 "Maintenant, barres toi. Laisses-moi fumer en paix ![nointeract]"
+    # [Alice_01 "А теперь вали отсюда. Дай спокойно покурить!" nointeract
+    Alice_01 "Maintenant, barres toi. Laisses-moi fumer en paix !" nointeract
 
 # game/dialogues/alicetalk.rpy:1862
 translate frenh smoke_fear_sleep_toples_e57727b7:
@@ -2197,8 +2197,8 @@ translate frenh smoke_fear_sleep_toples_201d6989:
 # game/dialogues/alicetalk.rpy:1872
 translate frenh smoke_fear_sleep_toples_a86ec81d:
 
-    # [Alice_01 "А теперь вали отсюда. Дай спокойно покурить![nointeract]"
-    Alice_01 "Maintenant, barres toi. Laisses-moi fumer en paix ![nointeract]"
+    # [Alice_01 "А теперь вали отсюда. Дай спокойно покурить!" nointeract
+    Alice_01 "Maintenant, barres toi. Laisses-moi fumer en paix !" nointeract
 
 # game/dialogues/alicetalk.rpy:1881
 translate frenh smoke_fear_nopants_2d241144:
@@ -2215,14 +2215,14 @@ translate frenh smoke_fear_nopants_f8ab5d9a:
 # game/dialogues/alicetalk.rpy:1889
 translate frenh smoke_fear_nopants_a86ec81d:
 
-    # [Alice_01 "А теперь вали отсюда. Дай спокойно покурить![nointeract]"
-    Alice_01 "Maintenant, barres toi. Laisses-moi fumer en paix ![nointeract]"
+    # [Alice_01 "А теперь вали отсюда. Дай спокойно покурить!" nointeract
+    Alice_01 "Maintenant, barres toi. Laisses-moi fumer en paix !" nointeract
 
 # game/dialogues/alicetalk.rpy:1902
 translate frenh smoke_fear_money_d12c5d6b:
 
-    # [Alice_12 "[succes!t]Ладно, Макс, я дам тебе денег, но только $10, ок?[nointeract]"
-    Alice_12 "[succes!t]Ok, Max, je te donne l'argent, mais seulement 10$, ok?[nointeract]"
+    # [Alice_12 "[succes!t]Ладно, Макс, я дам тебе денег, но только $10, ок?" nointeract
+    Alice_12 "[succes!t]Ok, Max, je te donne l'argent, mais seulement 10$, ok?" nointeract
 
 # game/dialogues/alicetalk.rpy:1905
 translate frenh smoke_fear_money_b321ae83:
@@ -2251,32 +2251,32 @@ translate frenh smoke_fear_money_21c2303f:
 # game/dialogues/alicetalk.rpy:1918
 translate frenh smoke_fear_money_69538574:
 
-    # [Alice_12 "Держи свои деньги... И больше меня не шантажируй. Я очень это не люблю... А теперь вали отсюда![nointeract]"
-    Alice_12 "Gardes ton argent... Et ne me fais plus chanter. Je n'aime vraiment pas ça... Maintenant, sors d'ici ![nointeract]"
+    # [Alice_12 "Держи свои деньги... И больше меня не шантажируй. Я очень это не люблю... А теперь вали отсюда!" nointeract
+    Alice_12 "Gardes ton argent... Et ne me fais plus chanter. Je n'aime vraiment pas ça... Maintenant, sors d'ici !" nointeract
 
 # game/dialogues/alicetalk.rpy:1926
 translate frenh smoke_fear_fail_1bbfb6e5:
 
-    # [Alice_16 "[failed!t]Ага, сейчас! Ну ты и хам, Макс... Всё, отвали, дай покурить спокойно...[nointeract]"
-    Alice_16 "[failed!t]Oui, maintenant ! Tu es un rustre, Max... Pars, laisses-moi fumer en paix....[nointeract]"
+    # [Alice_16 "[failed!t]Ага, сейчас! Ну ты и хам, Макс... Всё, отвали, дай покурить спокойно..." nointeract
+    Alice_16 "[failed!t]Oui, maintenant ! Tu es un rustre, Max... Pars, laisses-moi fumer en paix...." nointeract
 
 # game/dialogues/alicetalk.rpy:1935
 translate frenh smoke_fear_fail2_77090a0c:
 
-    # [Alice_12 "[failed!t]Вот так значит? А я вот выбираю вариант, в котором ты, может быть, останешься сегодня цел, если очень быстро свалишь отсюда и не будешь мне надоедать... Пока я ещё более-менее добрая.[nointeract]"
-    Alice_12 "[failed!t]Alors c'est tout ? Moi, par contre, je choisis l'option où tu pourrais rester en un seul morceau ce soir si tu sors d'ici très rapidement et tu ne m'ennuies plus.... Profite de le faire pour autant que je suis toujours plus ou moins gentille.[nointeract]"
+    # [Alice_12 "[failed!t]Вот так значит? А я вот выбираю вариант, в котором ты, может быть, останешься сегодня цел, если очень быстро свалишь отсюда и не будешь мне надоедать... Пока я ещё более-менее добрая." nointeract
+    Alice_12 "[failed!t]Alors c'est tout ? Moi, par contre, je choisis l'option où tu pourrais rester en un seul morceau ce soir si tu sors d'ici très rapidement et tu ne m'ennuies plus.... Profite de le faire pour autant que je suis toujours plus ou moins gentille." nointeract
 
 # game/dialogues/alicetalk.rpy:1949
 translate frenh smoke_toples_6c5b6af2:
 
-    # [Alice_02 "Ну что, извращенец, доволен видом?[nointeract]"
-    Alice_02 "Alors, pervers, es tu heureux avec cette vue?[nointeract]"
+    # [Alice_02 "Ну что, извращенец, доволен видом?" nointeract
+    Alice_02 "Alors, pervers, es tu heureux avec cette vue?" nointeract
 
 # game/dialogues/alicetalk.rpy:1952
 translate frenh smoke_toples_feec497a:
 
-    # [Alice_05 "Надеюсь, маме ничего не расскажешь? А то это опасно для твоей жизни...[nointeract]"
-    Alice_05 "J'espère que tu ne diras rien à notre mère ? Sinon, c'est dangereux pour ta vie....[nointeract]"
+    # [Alice_05 "Надеюсь, маме ничего не расскажешь? А то это опасно для твоей жизни..." nointeract
+    Alice_05 "J'espère que tu ne diras rien à notre mère ? Sinon, c'est dangereux pour ta vie...." nointeract
 
 # game/dialogues/alicetalk.rpy:1954
 translate frenh smoke_toples_ea9774a5:
@@ -2317,32 +2317,32 @@ translate frenh smoke_toples_2db9f65a:
 # game/dialogues/alicetalk.rpy:1965
 translate frenh smoke_toples_2de5469e:
 
-    # [Alice_12 "Спасибо, ваше величество! А чего это ты так расщедрился? Я больше не в твоём вкусе?[nointeract]"
-    Alice_12 "Merci, Majesté ! Pourquoi es-tu si généreux? Je ne suis plus à ton goût?[nointeract]"
+    # [Alice_12 "Спасибо, ваше величество! А чего это ты так расщедрился? Я больше не в твоём вкусе?" nointeract
+    Alice_12 "Merci, Majesté ! Pourquoi es-tu si généreux? Je ne suis plus à ton goût?" nointeract
 
 # game/dialogues/alicetalk.rpy:1968
 translate frenh smoke_toples_2c09da11:
 
-    # [Alice_04 "Спасибо, Макс! Это мудрый поступок... Но ты можешь в последний раз поглазеть...[nointeract]"
-    Alice_04 "Merci, Max ! C'est une chose sage à faire... Mais tu peux jeter un dernier coup d'œil...[nointeract]"
+    # [Alice_04 "Спасибо, Макс! Это мудрый поступок... Но ты можешь в последний раз поглазеть..." nointeract
+    Alice_04 "Merci, Max ! C'est une chose sage à faire... Mais tu peux jeter un dernier coup d'œil..." nointeract
 
 # game/dialogues/alicetalk.rpy:1973
 translate frenh smoke_toples_1a839867:
 
-    # [Alice_03 "Даже так?! Ну, дружбу я не обещаю, но могу пытаться с тобой как-то уживаться. А если серьёзно, то спасибо, Макс. Я это оценила...[nointeract]"
-    Alice_03 "Quand même ? ! Je ne peux pas te promettre l'amitié, mais je peux essayer de m'entendre avec toi. Plus sérieusement, merci, Max. J'ai apprécié cela...[nointeract]"
+    # [Alice_03 "Даже так?! Ну, дружбу я не обещаю, но могу пытаться с тобой как-то уживаться. А если серьёзно, то спасибо, Макс. Я это оценила..." nointeract
+    Alice_03 "Quand même ? ! Je ne peux pas te promettre l'amitié, mais je peux essayer de m'entendre avec toi. Plus sérieusement, merci, Max. J'ai apprécié cela..." nointeract
 
 # game/dialogues/alicetalk.rpy:1978
 translate frenh smoke_toples_07c4559b:
 
-    # [Alice_15 "Что?! А ну-ка вали отсюда, пока цел! И оденусь теперь, будь уверен![nointeract]"
-    Alice_15 "Quoi ? ! Sors d'ici tant que tu es encore en un seul morceau! Et je vais m'habiller maintenant, sois en sûrs![nointeract]"
+    # [Alice_15 "Что?! А ну-ка вали отсюда, пока цел! И оденусь теперь, будь уверен!" nointeract
+    Alice_15 "Quoi ? ! Sors d'ici tant que tu es encore en un seul morceau! Et je vais m'habiller maintenant, sois en sûrs!" nointeract
 
 # game/dialogues/alicetalk.rpy:1983
 translate frenh smoke_toples_1bf07d5b:
 
-    # [Alice_12 "Ах вот как? Опять передумал? Всё, ты мне надоел, свали отсюда![nointeract]"
-    Alice_12 "Oh, c'est vrai ? Tu as encore changé d'avis ? C'est ça, j'en ai assez de toi, sors d'ici ![nointeract]"
+    # [Alice_12 "Ах вот как? Опять передумал? Всё, ты мне надоел, свали отсюда!" nointeract
+    Alice_12 "Oh, c'est vrai ? Tu as encore changé d'avis ? C'est ça, j'en ai assez de toi, sors d'ici !" nointeract
 
 # game/dialogues/alicetalk.rpy:1997
 translate frenh smoke_not_toples_8c8fad13:
@@ -2407,14 +2407,14 @@ translate frenh smoke_not_toples_e135b876:
 # game/dialogues/alicetalk.rpy:2011
 translate frenh smoke_not_toples_4ee2407f:
 
-    # [Alice_13 "Ну всё, полюбовался и хватит. Вали отсюда, дай спокойно покурить...[nointeract]"
-    Alice_13 "C'est tout, je l'ai admiré et c'est tout. Sorts d'ici, laisses-moi fumer en paix....[nointeract]"
+    # [Alice_13 "Ну всё, полюбовался и хватит. Вали отсюда, дай спокойно покурить..." nointeract
+    Alice_13 "C'est tout, je l'ai admiré et c'est tout. Sorts d'ici, laisses-moi fumer en paix...." nointeract
 
 # game/dialogues/alicetalk.rpy:2024
 translate frenh smoke_nopants_7be74dfc:
 
-    # [Alice_02 "Макс, чего хотел?[nointeract]"
-    Alice_02 "Max, que voulais-tu?[nointeract]"
+    # [Alice_02 "Макс, чего хотел?" nointeract
+    Alice_02 "Max, que voulais-tu?" nointeract
 
 # game/dialogues/alicetalk.rpy:2026
 translate frenh smoke_nopants_c40ddcc1:
@@ -2431,8 +2431,8 @@ translate frenh smoke_nopants_d8b756b2:
 # game/dialogues/alicetalk.rpy:2030
 translate frenh smoke_nopants_b38d8562:
 
-    # [Alice_12 "В каком смысле?![nointeract]"
-    Alice_12 "Qu'est-ce que tu veux dire?![nointeract]"
+    # [Alice_12 "В каком смысле?!" nointeract
+    Alice_12 "Qu'est-ce que tu veux dire?!" nointeract
 
 # game/dialogues/alicetalk.rpy:2032
 translate frenh smoke_nopants_d219c498:
@@ -2461,8 +2461,8 @@ translate frenh smoke_nopants_696b9e70:
 # game/dialogues/alicetalk.rpy:2039
 translate frenh smoke_nopants_48649dbe:
 
-    # [Alice_03 "А чего передумал? А, хотя не важно. Я рада, а то мне всё натирает в джинсах... Хотя, тебе такие подробности знать не нужно. Спасибо за разрешение, ваше величество. Теперь дай покурю...[nointeract]"
-    Alice_03 "Qu'est-ce qui t'a fait changer d'avis? Ah, ça ne fait rien. Je suis contente, parce que j'ai des irritations partout dans mon jean... Tu n'as pas besoin de connaître ces détails, cependant. Merci de ta permission, Ta Majesté. Maintenant, laisses-moi fumer...[nointeract]"
+    # [Alice_03 "А чего передумал? А, хотя не важно. Я рада, а то мне всё натирает в джинсах... Хотя, тебе такие подробности знать не нужно. Спасибо за разрешение, ваше величество. Теперь дай покурю..." nointeract
+    Alice_03 "Qu'est-ce qui t'a fait changer d'avis? Ah, ça ne fait rien. Je suis contente, parce que j'ai des irritations partout dans mon jean... Tu n'as pas besoin de connaître ces détails, cependant. Merci de ta permission, Ta Majesté. Maintenant, laisses-moi fumer..." nointeract
 
 # game/dialogues/alicetalk.rpy:2051
 translate frenh smoke_not_nopants_8c8fad13:
@@ -2551,8 +2551,8 @@ translate frenh smoke_not_nopants_91edba57:
 # game/dialogues/alicetalk.rpy:2080
 translate frenh smoke_sleep_7be74dfc:
 
-    # [Alice_02 "Макс, чего хотел?[nointeract]"
-    Alice_02 "Max, que voulais-tu?[nointeract]"
+    # [Alice_02 "Макс, чего хотел?" nointeract
+    Alice_02 "Max, que voulais-tu?" nointeract
 
 # game/dialogues/alicetalk.rpy:2082
 translate frenh smoke_sleep_c40ddcc1:
@@ -2569,14 +2569,14 @@ translate frenh smoke_sleep_d8b756b2:
 # game/dialogues/alicetalk.rpy:2092
 translate frenh smoke_sleep_ba2dfd7b:
 
-    # [Alice_04 "А чего это ты передумал? А, хотя не важно. Я рада, а то мне неудобно ночью, если выйти куда-то нужно, да и мама заметить может. Спасибо за разрешение, ваше величество. Теперь дай покурю...[nointeract]"
-    Alice_04 "Qu'est-ce qui t'a fait changer d'avis ? Ah, ça ne fait rien. Je suis contente, parce que je ne me sens pas à l'aise de sortir la nuit, et notre mère pourrait le remarquer. Merci de ta permission, Ta Majesté. Maintenant, laisses-moi fumer....[nointeract]"
+    # [Alice_04 "А чего это ты передумал? А, хотя не важно. Я рада, а то мне неудобно ночью, если выйти куда-то нужно, да и мама заметить может. Спасибо за разрешение, ваше величество. Теперь дай покурю..." nointeract
+    Alice_04 "Qu'est-ce qui t'a fait changer d'avis ? Ah, ça ne fait rien. Je suis contente, parce que je ne me sens pas à l'aise de sortir la nuit, et notre mère pourrait le remarquer. Merci de ta permission, Ta Majesté. Maintenant, laisses-moi fumer...." nointeract
 
 # game/dialogues/alicetalk.rpy:2106
 translate frenh smoke_nojeans_7be74dfc:
 
-    # [Alice_02 "Макс, чего хотел?[nointeract]"
-    Alice_02 "Max, que voulais-tu?[nointeract]"
+    # [Alice_02 "Макс, чего хотел?" nointeract
+    Alice_02 "Max, que voulais-tu?" nointeract
 
 # game/dialogues/alicetalk.rpy:2108
 translate frenh smoke_nojeans_82da8dd1:
@@ -2593,8 +2593,8 @@ translate frenh smoke_nojeans_8091279a:
 # game/dialogues/alicetalk.rpy:2112
 translate frenh smoke_nojeans_b7424028:
 
-    # [Alice_04 "Чего это ты вдруг передумал? Надоело глазеть на мою попку? А, не важно. Спасибо за разрешение, ваше величество. Теперь дай покурю...[nointeract]"
-    Alice_04 "Sur quoi as-tu soudainement changé d’avis ? Fatigué de regarder mon cul? Je, peu importe. Merci de ta permission, Votre Majesté. Maintenant, fumons...[nointeract]"
+    # [Alice_04 "Чего это ты вдруг передумал? Надоело глазеть на мою попку? А, не важно. Спасибо за разрешение, ваше величество. Теперь дай покурю..." nointeract
+    Alice_04 "Sur quoi as-tu soudainement changé d’avis ? Fatigué de regarder mon cul? Je, peu importe. Merci de ta permission, Votre Majesté. Maintenant, fumons..." nointeract
 
 # game/dialogues/alicetalk.rpy:2125
 translate frenh Alice_sorry_30bc32f9:
@@ -3217,14 +3217,14 @@ translate frenh gift_dress_6374794e:
 # game/dialogues/alicetalk.rpy:2274
 translate frenh gift_dress_a8e27231:
 
-    # [Alice_07 "Спасибо, Макс! Ты такой... Не знаю даже, я просто в шоке![nointeract]"
-    Alice_07 "Merci, Max ! Tu es tellement... Je ne sais pas, je suis juste choquée![nointeract]"
+    # [Alice_07 "Спасибо, Макс! Ты такой... Не знаю даже, я просто в шоке!" nointeract
+    Alice_07 "Merci, Max ! Tu es tellement... Je ne sais pas, je suis juste choquée!" nointeract
 
 # game/dialogues/alicetalk.rpy:2279
 translate frenh gift_dress_35ab4b16:
 
-    # [Alice_02 "Так и знала, что есть какой-то подвох... И что ты хочешь за него?[nointeract]"
-    Alice_02 "Je savais qu'il y avait un piège... Et que veux-tu en échange?[nointeract]"
+    # [Alice_02 "Так и знала, что есть какой-то подвох... И что ты хочешь за него?" nointeract
+    Alice_02 "Je savais qu'il y avait un piège... Et que veux-tu en échange?" nointeract
 
 # game/dialogues/alicetalk.rpy:2283
 translate frenh gift_dress_7b2bcf43:
@@ -3265,8 +3265,8 @@ translate frenh gift_dress_gift_b548e83c:
 # game/dialogues/alicetalk.rpy:2312
 translate frenh gift_dress_newdress_show_44aafd4e:
 
-    # [Alice_03 "Жди за дверью. Я сейчас надену платье и тебе покажу, так уж и быть...[nointeract]"
-    Alice_03 "Attends devant la porte. Je vais mettre la robe maintenant et te la montrer, d'accord....[nointeract]"
+    # [Alice_03 "Жди за дверью. Я сейчас надену платье и тебе покажу, так уж и быть..." nointeract
+    Alice_03 "Attends devant la porte. Je vais mettre la robe maintenant et te la montrer, d'accord...." nointeract
 
 # game/dialogues/alicetalk.rpy:2321
 translate frenh gift_dress_newdress_show_c73d3c3a:
@@ -3295,8 +3295,8 @@ translate frenh gift_dress_newdress_show_2179945a:
 # game/dialogues/alicetalk.rpy:2328
 translate frenh gift_dress_newdress_show_01ae3853:
 
-    # [Alice_05 "...И небольшой бонус. Я знаю, что ты ждал чего-то подобного...[nointeract]"
-    Alice_05 "...Et un petit bonus. Je sais que tu attendais quelque chose comme ça....[nointeract]"
+    # [Alice_05 "...И небольшой бонус. Я знаю, что ты ждал чего-то подобного..." nointeract
+    Alice_05 "...Et un petit bonus. Je sais que tu attendais quelque chose comme ça...." nointeract
 
 # game/dialogues/alicetalk.rpy:2334
 translate frenh gift_dress_newdress_show_9dc835d6:
@@ -3325,8 +3325,8 @@ translate frenh gift_book_9652c3b9:
 # game/dialogues/alicetalk.rpy:2356
 translate frenh gift_book_d836268a:
 
-    # [Alice_01 "Прикольно... Давно хотела её почитать. А ты как узнал, что мне такие нравятся?[nointeract]"
-    Alice_01 "Cool... Je voulais le lire depuis longtemps. Et comment as-tu su que j'aime ça?[nointeract]"
+    # [Alice_01 "Прикольно... Давно хотела её почитать. А ты как узнал, что мне такие нравятся?" nointeract
+    Alice_01 "Cool... Je voulais le lire depuis longtemps. Et comment as-tu su que j'aime ça?" nointeract
 
 # game/dialogues/alicetalk.rpy:2358
 translate frenh gift_book_979f3c17:
@@ -3541,8 +3541,8 @@ translate frenh gift_pajamas_41b77fdd:
 # game/dialogues/alicetalk.rpy:2460
 translate frenh gift_pajamas_6321062f:
 
-    # [Alice_05 "Макс, у тебя же есть инстинкт самосохранения, верно? Не вздумай подглядывать![nointeract]"
-    Alice_05 "Max, tu as un instinct d’auto-préservation, n’est-ce pas ? Ne jettes pas de coup d’œil![nointeract]"
+    # [Alice_05 "Макс, у тебя же есть инстинкт самосохранения, верно? Не вздумай подглядывать!" nointeract
+    Alice_05 "Max, tu as un instinct d’auto-préservation, n’est-ce pas ? Ne jettes pas de coup d’œil!" nointeract
 
 # game/dialogues/alicetalk.rpy:2464
 translate frenh gift_pajamas_35b4664a:
@@ -3769,8 +3769,8 @@ translate frenh gift_pajamas_1405c200:
 # game/dialogues/alicetalk.rpy:2552
 translate frenh gift_pajamas_bce01a7a:
 
-    # [Alice_04 "А жирно тебе не будет?! В душе не нагляделся на меня и теперь хочешь подсмотреть, как я переодеваюсь, да?[nointeract]"
-    Alice_04 "Et tu ne banderas pas?! Il ne me garde pas dans son cœur et maintenant tu veux voir comment je change de vêtements, non?[nointeract]"
+    # [Alice_04 "А жирно тебе не будет?! В душе не нагляделся на меня и теперь хочешь подсмотреть, как я переодеваюсь, да?" nointeract
+    Alice_04 "Et tu ne banderas pas?! Il ne me garde pas dans son cœur et maintenant tu veux voir comment je change de vêtements, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:2555
 translate frenh gift_pajamas_0e74bdaf:
@@ -3895,8 +3895,8 @@ translate frenh gift_pajamas_a174e7cf_2:
 # game/dialogues/alicetalk.rpy:2607
 translate frenh Alice_solar_877a92ab:
 
-    # [Alice_02 "Как ты догадался, Шерлок?[nointeract]"
-    Alice_02 "Tu l’as deviné, Sherlock ?[nointeract]"
+    # [Alice_02 "Как ты догадался, Шерлок?" nointeract
+    Alice_02 "Tu l’as deviné, Sherlock ?" nointeract
 
 # game/dialogues/alicetalk.rpy:2609
 translate frenh Alice_solar_8dc19101:
@@ -3955,8 +3955,8 @@ translate frenh Alice_solar_93baf4d9:
 # game/dialogues/alicetalk.rpy:2648
 translate frenh Alice_solar_type_choice_327b0489:
 
-    # [Alice_07 "Эти шезлонги всем хороши, но на животе загорать не получается. Приходится коврик для йоги использовать...[nointeract]"
-    Alice_07 "Ces chaises longues sont bonnes pour tout, mais je ne peux pas prendre le soleil sur le ventre. Je dois utiliser un tapis de yoga...[nointeract]"
+    # [Alice_07 "Эти шезлонги всем хороши, но на животе загорать не получается. Приходится коврик для йоги использовать..." nointeract
+    Alice_07 "Ces chaises longues sont bonnes pour tout, mais je ne peux pas prendre le soleil sur le ventre. Je dois utiliser un tapis de yoga..." nointeract
 
 # game/dialogues/alicetalk.rpy:2658
 translate frenh Alice_solar_type_choice_a17bff06:
@@ -3967,8 +3967,8 @@ translate frenh Alice_solar_type_choice_a17bff06:
 # game/dialogues/alicetalk.rpy:2662
 translate frenh Alice_solar_type_choice_c137fcb4:
 
-    # [Max_01 "{m}Теперь плечи и совсем немного шею...{/m}[nointeract]"
-    Max_01 "{m}Maintenant les épaules et une bonne partie du cou...{/m}[nointeract]"
+    # [Max_01 "{m}Теперь плечи и совсем немного шею...{/m}" nointeract
+    Max_01 "{m}Maintenant les épaules et une bonne partie du cou...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:2672
 translate frenh Alice_solar_type_choice_ddface62:
@@ -4111,8 +4111,8 @@ translate frenh massage_sunscreen_shin_35e52f27:
 # game/dialogues/alicetalk.rpy:2810
 translate frenh massage_sunscreen_shoulders_65819867:
 
-    # [Max_04 "{m}Хорошенько разомнём плечи и немного шею...{/m}[nointeract]"
-    Max_04 "{m}Étires bien les épaules et le cou...{/m}[nointeract]"
+    # [Max_04 "{m}Хорошенько разомнём плечи и немного шею...{/m}" nointeract
+    Max_04 "{m}Étires bien les épaules et le cou...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:2817
 translate frenh massage_sunscreen_shoulders_865217d9:
@@ -4129,14 +4129,14 @@ translate frenh massage_sunscreen_shoulders_5dd0a340:
 # game/dialogues/alicetalk.rpy:2835
 translate frenh massage_sunscreen_shoulders_ce187fe2:
 
-    # [Alice_07 "Это так классно расслабляет... У тебя очень хорошо получается, Макс![nointeract]"
-    Alice_07 "C’est tellement cool et relaxant... Tu es très bon sur ce coup, Max![nointeract]"
+    # [Alice_07 "Это так классно расслабляет... У тебя очень хорошо получается, Макс!" nointeract
+    Alice_07 "C’est tellement cool et relaxant... Tu es très bon sur ce coup, Max!" nointeract
 
 # game/dialogues/alicetalk.rpy:2852
 translate frenh massage_sunscreen_spine_62dc12f7:
 
-    # [Max_05 "{m}Вот так, нужно хорошенько растереть крем... А теперь тщательно помнём спинку... Нежно, но сильно.{/m}[nointeract]"
-    Max_05 "{m}C’est vrai, tu dois bien frotter la crème ... Et maintenant, me souvenir bien du dos... Doucement, mais fortement. {/m}[nointeract]"
+    # [Max_05 "{m}Вот так, нужно хорошенько растереть крем... А теперь тщательно помнём спинку... Нежно, но сильно.{/m}" nointeract
+    Max_05 "{m}C’est vrai, tu dois bien frotter la crème ... Et maintenant, me souvenir bien du dos... Doucement, mais fortement. {/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:2859
 translate frenh massage_sunscreen_spine_7e3da85a:
@@ -4153,8 +4153,8 @@ translate frenh massage_sunscreen_spine_f1e19ee1:
 # game/dialogues/alicetalk.rpy:2877
 translate frenh massage_sunscreen_spine_3c450833:
 
-    # [Alice_07 "Как приятно... Макс, ты делаешь успехи! Мне это нравится...[nointeract]"
-    Alice_07 "Comme c’est agréable... Max, tu fais des progrès ! J’aime ça...[nointeract]"
+    # [Alice_07 "Как приятно... Макс, ты делаешь успехи! Мне это нравится..." nointeract
+    Alice_07 "Comme c’est agréable... Max, tu fais des progrès ! J’aime ça..." nointeract
 
 # game/dialogues/alicetalk.rpy:2888
 translate frenh massage_sunscreen_ass_e47a4169:
@@ -4231,8 +4231,8 @@ translate frenh massage_sunscreen_fail_6a720995:
 # game/dialogues/alicetalk.rpy:2962
 translate frenh massage_sunscreen_talk_topless_55e545b8:
 
-    # [Alice_06 "Нет, конечно. Но тебя я так радовать не собираюсь![nointeract]"
-    Alice_06 "Bien sûr que non. Mais je ne vais pas te faire un tel plaisir ![nointeract]"
+    # [Alice_06 "Нет, конечно. Но тебя я так радовать не собираюсь!" nointeract
+    Alice_06 "Bien sûr que non. Mais je ne vais pas te faire un tel plaisir !" nointeract
 
 # game/dialogues/alicetalk.rpy:2965
 translate frenh massage_sunscreen_talk_topless_9ba641bd:
@@ -4387,8 +4387,8 @@ translate frenh massage_sunscreen_spider_de3d2863:
 # game/dialogues/alicetalk.rpy:3035
 translate frenh massage_sunscreen_spider_f5313802:
 
-    # [Alice_16 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было![nointeract]"
-    Alice_16 "Je me fiche de l’endroit où elle rampe ! Je veux qu’elle soit partie![nointeract]"
+    # [Alice_16 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!" nointeract
+    Alice_16 "Je me fiche de l’endroit où elle rampe ! Je veux qu’elle soit partie!" nointeract
 
 # game/dialogues/alicetalk.rpy:3037
 translate frenh massage_sunscreen_spider_293d0088:
@@ -4759,8 +4759,8 @@ translate frenh massage_sunscreen_squeeze_chest_1c5bed82:
 # game/dialogues/alicetalk.rpy:3164
 translate frenh massage_sunscreen_squeeze_chest_11fdb519:
 
-    # [extend][nointeract]"
-    extend][nointeract]"
+    # [extend]" nointeract
+    extend]" nointeract
 
 # game/dialogues/alicetalk.rpy:3180
 translate frenh massage_sunscreen_squeeze_chest_1160d297:
@@ -4855,20 +4855,20 @@ translate frenh alice_sorry_gifts_21b81128:
 # game/dialogues/alicetalk.rpy:3240
 translate frenh alice_sorry_gifts_fd790983:
 
-    # [Alice_02 "Да ладно! Это мне нравится... И что там у тебя?[nointeract]"
-    Alice_02 "Aller! J'aime bien ça... Et qu'est-ce que tu as là ?[nointeract]"
+    # [Alice_02 "Да ладно! Это мне нравится... И что там у тебя?" nointeract
+    Alice_02 "Aller! J'aime bien ça... Et qu'est-ce que tu as là ?" nointeract
 
 # game/dialogues/alicetalk.rpy:3242
 translate frenh alice_sorry_gifts_567ab5fa:
 
-    # [Alice_02 "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?[nointeract]"
-    Alice_02 "Wow ! Veux-tu vraiment prendre ce risque... Et qu'est-ce que tu as cette fois ?[nointeract]"
+    # [Alice_02 "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?" nointeract
+    Alice_02 "Wow ! Veux-tu vraiment prendre ce risque... Et qu'est-ce que tu as cette fois ?" nointeract
 
 # game/dialogues/alicetalk.rpy:3244
 translate frenh alice_sorry_gifts_e3d28a54:
 
-    # [Alice_02 "Наконец-то! Ну давай, показывай, что у тебя на этот раз?![nointeract]"
-    Alice_02 "Enfin ! Aller, montres-nous ce que tu as cette fois ?![nointeract]"
+    # [Alice_02 "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!" nointeract
+    Alice_02 "Enfin ! Aller, montres-nous ce que tu as cette fois ?!" nointeract
 
 # game/dialogues/alicetalk.rpy:3298
 translate frenh alice_sorry_gifts_middle_again_ebaef405:
@@ -4897,8 +4897,8 @@ translate frenh alice_sorry_gifts_middle_again_324b4e00:
 # game/dialogues/alicetalk.rpy:3304
 translate frenh alice_sorry_gifts_middle_again_ce051c95:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3307
 translate frenh alice_sorry_gifts_middle_again_55e0432c:
@@ -5227,8 +5227,8 @@ translate frenh alice_sorry_gifts_bad_c2c05b19:
 # game/dialogues/alicetalk.rpy:3403
 translate frenh alice_sorry_gifts_bad_da707812:
 
-    # [Alice_16 "Будешь ещё, извращенец лохматый, за мной подглядывать?[nointeract]"
-    Alice_16 "Veux tu encore m’espionner, petit pervers?[nointeract]"
+    # [Alice_16 "Будешь ещё, извращенец лохматый, за мной подглядывать?" nointeract
+    Alice_16 "Veux tu encore m’espionner, petit pervers?" nointeract
 
 # game/dialogues/alicetalk.rpy:3406
 translate frenh alice_sorry_gifts_bad_55e0432c:
@@ -5461,8 +5461,8 @@ translate frenh alice_sorry_gifts_bad_324b4e00_1:
 # game/dialogues/alicetalk.rpy:3459
 translate frenh alice_sorry_gifts_bad_ce051c95:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3462
 translate frenh alice_sorry_gifts_bad_55e0432c_1:
@@ -5617,8 +5617,8 @@ translate frenh alice_sorry_gifts_bad_324b4e00_3:
 # game/dialogues/alicetalk.rpy:3502
 translate frenh alice_sorry_gifts_bad_ce051c95_1:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3505
 translate frenh alice_sorry_gifts_bad_55e0432c_2:
@@ -5695,8 +5695,8 @@ translate frenh alice_sorry_gifts_bad_324b4e00_4:
 # game/dialogues/alicetalk.rpy:3528
 translate frenh alice_sorry_gifts_bad_ce051c95_2:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3531
 translate frenh alice_sorry_gifts_bad_55e0432c_3:
@@ -5791,8 +5791,8 @@ translate frenh alice_sorry_gifts_bad_324b4e00_5:
 # game/dialogues/alicetalk.rpy:3560
 translate frenh alice_sorry_gifts_bad_ce051c95_3:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3563
 translate frenh alice_sorry_gifts_bad_55e0432c_4:
@@ -5965,8 +5965,8 @@ translate frenh alice_sorry_gifts_middle_324b4e00:
 # game/dialogues/alicetalk.rpy:3612
 translate frenh alice_sorry_gifts_middle_ce051c95:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3615
 translate frenh alice_sorry_gifts_middle_55e0432c:
@@ -6079,8 +6079,8 @@ translate frenh alice_sorry_gifts_middle_324b4e00_1:
 # game/dialogues/alicetalk.rpy:3639
 translate frenh alice_sorry_gifts_middle_ce051c95_1:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3642
 translate frenh alice_sorry_gifts_middle_55e0432c_1:
@@ -6337,8 +6337,8 @@ translate frenh alice_sorry_gifts_middle_744dc556_2:
 # game/dialogues/alicetalk.rpy:3710
 translate frenh alice_sorry_gifts_middle_f82d8d6c:
 
-    # [Alice_04 "Видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?[nointeract]"
-    Alice_04 "Apparemment, je dois imaginer qu’il n’y avait rien ce matin, ce qui signifie que ma mère n’a rien à savoir, non?[nointeract]"
+    # [Alice_04 "Видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?" nointeract
+    Alice_04 "Apparemment, je dois imaginer qu’il n’y avait rien ce matin, ce qui signifie que ma mère n’a rien à savoir, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3713
 translate frenh alice_sorry_gifts_middle_ad0f4ebe:
@@ -6433,8 +6433,8 @@ translate frenh alice_sorry_gifts_middle_324b4e00_5:
 # game/dialogues/alicetalk.rpy:3736
 translate frenh alice_sorry_gifts_middle_ce051c95_2:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3739
 translate frenh alice_sorry_gifts_middle_55e0432c_2:
@@ -6511,8 +6511,8 @@ translate frenh alice_sorry_gifts_middle_535354bf_6:
 # game/dialogues/alicetalk.rpy:3761
 translate frenh alice_sorry_gifts_middle_f82d8d6c_1:
 
-    # [Alice_04 "Видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?[nointeract]"
-    Alice_04 "Apparemment, je dois imaginer qu’il n’y avait rien ce matin, ce qui signifie que ma mère n’a rien à savoir, non?[nointeract]"
+    # [Alice_04 "Видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?" nointeract
+    Alice_04 "Apparemment, je dois imaginer qu’il n’y avait rien ce matin, ce qui signifie que ma mère n’a rien à savoir, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3764
 translate frenh alice_sorry_gifts_middle_ad0f4ebe_1:
@@ -6607,8 +6607,8 @@ translate frenh alice_sorry_gifts_good_bd79a6d3:
 # game/dialogues/alicetalk.rpy:3794
 translate frenh alice_sorry_gifts_good_c18baf85:
 
-    # [Alice_04 "В таком случае, видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?[nointeract]"
-    Alice_04 "Dans ce cas, apparemment, je dois imaginer qu’il n’y avait rien de tel le matin, ce qui signifie que ma mère n’a rien à dire, non?[nointeract]"
+    # [Alice_04 "В таком случае, видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?" nointeract
+    Alice_04 "Dans ce cas, apparemment, je dois imaginer qu’il n’y avait rien de tel le matin, ce qui signifie que ma mère n’a rien à dire, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3797
 translate frenh alice_sorry_gifts_good_65bcc085:
@@ -6793,8 +6793,8 @@ translate frenh alice_sorry_gifts_good_bd79a6d3_2:
 # game/dialogues/alicetalk.rpy:3838
 translate frenh alice_sorry_gifts_good_c18baf85_1:
 
-    # [Alice_04 "В таком случае, видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?[nointeract]"
-    Alice_04 "Dans ce cas, apparemment, je dois imaginer qu’il n’y avait rien de tel le matin, ce qui signifie que ma mère n’a rien à dire, non?[nointeract]"
+    # [Alice_04 "В таком случае, видимо, я должна представить, что ничего такого утром не было, а значит и маме нечего рассказывать, так?" nointeract
+    Alice_04 "Dans ce cas, apparemment, je dois imaginer qu’il n’y avait rien de tel le matin, ce qui signifie que ma mère n’a rien à dire, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3841
 translate frenh alice_sorry_gifts_good_ad0f4ebe:
@@ -6877,8 +6877,8 @@ translate frenh alice_sorry_gifts_good_c4888519:
 # game/dialogues/alicetalk.rpy:3861
 translate frenh alice_sorry_gifts_good_ad5fc344:
 
-    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?[nointeract]"
-    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?[nointeract]"
+    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?" nointeract
+    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3864
 translate frenh alice_sorry_gifts_good_ad0f4ebe_1:
@@ -6937,8 +6937,8 @@ translate frenh alice_sorry_gifts_good_ddda64bf:
 # game/dialogues/alicetalk.rpy:3878
 translate frenh alice_sorry_gifts_good_0eff0121:
 
-    # [Alice_03 "Я даже подумываю, а не обнять ли тебя, Макс? Ну так... по семейному...[nointeract]"
-    Alice_03 "Je pense même à te faire un câlin, Max. Alors... dans la famille...[nointeract]"
+    # [Alice_03 "Я даже подумываю, а не обнять ли тебя, Макс? Ну так... по семейному..." nointeract
+    Alice_03 "Je pense même à te faire un câlin, Max. Alors... dans la famille..." nointeract
 
 # game/dialogues/alicetalk.rpy:3888
 translate frenh alice_sorry_gifts_good_d306806a_3:
@@ -6967,8 +6967,8 @@ translate frenh alice_sorry_gifts_good_324b4e00_2:
 # game/dialogues/alicetalk.rpy:3894
 translate frenh alice_sorry_gifts_good_ce051c95:
 
-    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?[nointeract]"
-    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?[nointeract]"
+    # [Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?" nointeract
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?" nointeract
 
 # game/dialogues/alicetalk.rpy:3897
 translate frenh alice_sorry_gifts_good_55e0432c:
@@ -7057,8 +7057,8 @@ translate frenh alice_sorry_gifts_good_053993a1:
 # game/dialogues/alicetalk.rpy:3922
 translate frenh alice_sorry_gifts_good_ad5fc344_1:
 
-    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?[nointeract]"
-    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?[nointeract]"
+    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?" nointeract
+    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3925
 translate frenh alice_sorry_gifts_good_ad0f4ebe_2:
@@ -7075,8 +7075,8 @@ translate frenh alice_sorry_gifts_good_3e4a4815_2:
 # game/dialogues/alicetalk.rpy:3928
 translate frenh alice_sorry_gifts_good_784e185e:
 
-    # [Alice_05 "Ну, ты обещал мне вкусняшку и сдержал слово. Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного...[nointeract]"
-    Alice_05 "Eh bien, tu m’as promis une délicieuse friandise et tu as tenu parole. Je pense même à te serrer dans mes bras, qu'en penses-tu Max? Ensuite... pas mal...[nointeract]"
+    # [Alice_05 "Ну, ты обещал мне вкусняшку и сдержал слово. Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного..." nointeract
+    Alice_05 "Eh bien, tu m’as promis une délicieuse friandise et tu as tenu parole. Je pense même à te serrer dans mes bras, qu'en penses-tu Max? Ensuite... pas mal..." nointeract
 
 # game/dialogues/alicetalk.rpy:3931
 translate frenh alice_sorry_gifts_good_835ab3bd:
@@ -7195,8 +7195,8 @@ translate frenh alice_sorry_gifts_good_4eabb1cd_5:
 # game/dialogues/alicetalk.rpy:3964
 translate frenh alice_sorry_gifts_good_ad5fc344_2:
 
-    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?[nointeract]"
-    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?[nointeract]"
+    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?" nointeract
+    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:3967
 translate frenh alice_sorry_gifts_good_ad0f4ebe_3:
@@ -7255,8 +7255,8 @@ translate frenh alice_sorry_gifts_good_07cfa66c_3:
 # game/dialogues/alicetalk.rpy:3983
 translate frenh alice_sorry_gifts_good_45eaf315:
 
-    # [Alice_03 "Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного...[nointeract]"
-    Alice_03 "Je pense même à te serrer dans mes bras, ok Max? Ensuite... pas mal...[nointeract]"
+    # [Alice_03 "Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного..." nointeract
+    Alice_03 "Je pense même à te serrer dans mes bras, ok Max? Ensuite... pas mal..." nointeract
 
 # game/dialogues/alicetalk.rpy:3992
 translate frenh alice_sorry_gifts_good_64f95d93_2:
@@ -7297,8 +7297,8 @@ translate frenh alice_sorry_gifts_good_053993a1_3:
 # game/dialogues/alicetalk.rpy:4003
 translate frenh alice_sorry_gifts_good_ad5fc344_3:
 
-    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?[nointeract]"
-    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?[nointeract]"
+    # [Alice_04 "Видимо, теперь я должна представить, что никто утром за мной в душе не подглядывал, да?" nointeract
+    Alice_04 "Apparemment, maintenant je dois imaginer que personne ne m’espionnait sous la douche le matin, non?" nointeract
 
 # game/dialogues/alicetalk.rpy:4006
 translate frenh alice_sorry_gifts_good_ad0f4ebe_4:
@@ -7357,8 +7357,8 @@ translate frenh alice_sorry_gifts_good_07cfa66c_5:
 # game/dialogues/alicetalk.rpy:4023
 translate frenh alice_sorry_gifts_good_45eaf315_1:
 
-    # [Alice_03 "Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного...[nointeract]"
-    Alice_03 "Je pense même à te serrer dans mes bras, ok Max? Ensuite... pas mal...[nointeract]"
+    # [Alice_03 "Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного..." nointeract
+    Alice_03 "Je pense même à te serrer dans mes bras, ok Max? Ensuite... pas mal..." nointeract
 
 # game/dialogues/alicetalk.rpy:4031
 translate frenh alice_sorry_gifts_good_f2a5ad6d:
@@ -7429,8 +7429,8 @@ translate frenh alice_about_bath_bd186826:
 # game/dialogues/alicetalk.rpy:4060
 translate frenh alice_about_bath_212462e6:
 
-    # [Alice_13 "Я не помню такого... Тебе приснилось![nointeract]"
-    Alice_13 "Je ne m’en souviens pas... Tu as rêvé![nointeract]"
+    # [Alice_13 "Я не помню такого... Тебе приснилось!" nointeract
+    Alice_13 "Je ne m’en souviens pas... Tu as rêvé!" nointeract
 
 # game/dialogues/alicetalk.rpy:4062
 translate frenh alice_about_bath_73bf3b53:
@@ -7687,8 +7687,8 @@ translate frenh talkblog3_0817ffd6:
 # game/dialogues/alicetalk.rpy:4143
 translate frenh talkblog3_1f84979c:
 
-    # [Alice_05 "Ты подаришь мне нижнее бельё? На какие деньги? И что я за это буду тебе должна?[nointeract]"
-    Alice_05 "Tu peux me trouver des sous-vêtements ? Avec quel argent ? Et qu'est-ce que je te dois pour ça ?[nointeract]"
+    # [Alice_05 "Ты подаришь мне нижнее бельё? На какие деньги? И что я за это буду тебе должна?" nointeract
+    Alice_05 "Tu peux me trouver des sous-vêtements ? Avec quel argent ? Et qu'est-ce que je te dois pour ça ?" nointeract
 
 # game/dialogues/alicetalk.rpy:4145
 translate frenh talkblog3_82299951:
@@ -7765,8 +7765,8 @@ translate frenh gift_black_lingerie_11fb39b9:
 # game/dialogues/alicetalk.rpy:4179
 translate frenh gift_black_lingerie_acf40ff4:
 
-    # [Alice_07 "Ой. Это супер! Симпатичное? Дай посмотреть...[nointeract]"
-    Alice_07 "Oh. C’est génial! Mignon? Voyons voir...[nointeract]"
+    # [Alice_07 "Ой. Это супер! Симпатичное? Дай посмотреть..." nointeract
+    Alice_07 "Oh. C’est génial! Mignon? Voyons voir..." nointeract
 
 # game/dialogues/alicetalk.rpy:4181
 translate frenh gift_black_lingerie_0f94a426:
@@ -8053,8 +8053,8 @@ translate frenh alice_gift_sweets_3bc9c952:
 # game/dialogues/alicetalk.rpy:4341
 translate frenh alice_gift_sweets_fd790983:
 
-    # [Alice_02 "Да ладно! Это мне нравится... И что там у тебя?[nointeract]"
-    Alice_02 "Aller! J'aime bien ça... Et qu'est-ce que tu as là ?[nointeract]"
+    # [Alice_02 "Да ладно! Это мне нравится... И что там у тебя?" nointeract
+    Alice_02 "Aller! J'aime bien ça... Et qu'est-ce que tu as là ?" nointeract
 
 # game/dialogues/alicetalk.rpy:4348
 translate frenh alice_gift_sweets_cd967215:
@@ -8071,8 +8071,8 @@ translate frenh alice_gift_sweets_053993a1:
 # game/dialogues/alicetalk.rpy:4353
 translate frenh alice_gift_sweets_eadaadaf:
 
-    # [Alice_03 "Я даже подумываю, а не обнять ли тебя за это, Макс? Ну так... совсем немного...[nointeract]"
-    Alice_03 "Je pense même pas à te faire un câlin pour ça, Max? Ensuite... pas mal...[nointeract]"
+    # [Alice_03 "Я даже подумываю, а не обнять ли тебя за это, Макс? Ну так... совсем немного..." nointeract
+    Alice_03 "Je pense même pas à te faire un câlin pour ça, Max? Ensuite... pas mal..." nointeract
 
 # game/dialogues/alicetalk.rpy:4357
 translate frenh alice_gift_sweets_0460935e:
@@ -8365,8 +8365,8 @@ translate frenh gift_lace_lingerie_88c80c12:
 # game/dialogues/alicetalk.rpy:4479
 translate frenh gift_lace_lingerie_b8b29617:
 
-    # [Max_19 "Естественно, не хочу.[nointeract]"
-    Max_19 "Bien sûr, je ne veux pas.[nointeract]"
+    # [Max_19 "Естественно, не хочу." nointeract
+    Max_19 "Bien sûr, je ne veux pas." nointeract
 
 # game/dialogues/alicetalk.rpy:4486
 translate frenh gift_lace_lingerie_8d5dabdd:
@@ -8389,8 +8389,8 @@ translate frenh gift_lace_lingerie_b0f28e71:
 # game/dialogues/alicetalk.rpy:4497
 translate frenh gift_lace_lingerie_9137b0d5:
 
-    # [Max_08 "Не бей! Я просто тебя проверял. На внимательность...[nointeract]"
-    Max_08 "Ne me bats pas! Je ne faisais que de vérifier. Sans mauvaises intentions...[nointeract]"
+    # [Max_08 "Не бей! Я просто тебя проверял. На внимательность..." nointeract
+    Max_08 "Ne me bats pas! Je ne faisais que de vérifier. Sans mauvaises intentions..." nointeract
 
 # game/dialogues/alicetalk.rpy:4508
 translate frenh gift_lace_lingerie_027a5864:
@@ -8557,14 +8557,14 @@ translate frenh alice_about_defend_punish1_7b76a9ae:
 # game/dialogues/alicetalk.rpy:4577
 translate frenh alice_about_defend_punish1_1428cf3b:
 
-    # [Alice_16 "Я и узнавать не хочу![nointeract]"
-    Alice_16 "Je ne veux pas savoir![nointeract]"
+    # [Alice_16 "Я и узнавать не хочу!" nointeract
+    Alice_16 "Je ne veux pas savoir!" nointeract
 
 # game/dialogues/alicetalk.rpy:4583
 translate frenh alice_about_defend_punish1_cont_1a13a2ef:
 
-    # [Alice_12 "Чтобы меня младший брат наказывал? Обойдёшься, Макс![nointeract]"
-    Alice_12 "Que mon jeune frère me punisse? Sors, Max![nointeract]"
+    # [Alice_12 "Чтобы меня младший брат наказывал? Обойдёшься, Макс!" nointeract
+    Alice_12 "Que mon jeune frère me punisse? Sors, Max!" nointeract
 
 # game/dialogues/alicetalk.rpy:4590
 translate frenh alice_about_defend_punish1_convince_7bec5e8c:
@@ -8641,8 +8641,8 @@ translate frenh alice_private_punish_0_d5f4ef08:
 # game/dialogues/alicetalk.rpy:4632
 translate frenh alice_private_punish_0_smoke_0e942505:
 
-    # [Alice_00 "Макс, поглазеть пришёл?[nointeract]"
-    Alice_00 "Max, es-tu venu pour regarder?[nointeract]"
+    # [Alice_00 "Макс, поглазеть пришёл?" nointeract
+    Alice_00 "Max, es-tu venu pour regarder?" nointeract
 
 # game/dialogues/alicetalk.rpy:4634
 translate frenh alice_private_punish_0_smoke_f9653964:
@@ -8653,8 +8653,8 @@ translate frenh alice_private_punish_0_smoke_f9653964:
 # game/dialogues/alicetalk.rpy:4636
 translate frenh alice_private_punish_0_smoke_5f4eb3c1:
 
-    # [Max_03 "Хорошо. Я подожду...[nointeract]"
-    Max_03 "Bien. Je vais attendre...[nointeract]"
+    # [Max_03 "Хорошо. Я подожду..." nointeract
+    Max_03 "Bien. Je vais attendre..." nointeract
 
 # game/dialogues/alicetalk.rpy:4643
 translate frenh alice_private_punish_0_smoke_45633ee6:
@@ -8695,8 +8695,8 @@ translate frenh alice_private_punish_0_pun_990d8736:
 # game/dialogues/alicetalk.rpy:4661
 translate frenh alice_private_punish_0_pun_ebd9385d:
 
-    # [Alice_13 "Если ты думаешь, что я стану тут перед тобой раздеваться...[nointeract]"
-    Alice_13 "Si tu crois que je vais me déshabiller devant toi......[nointeract]"
+    # [Alice_13 "Если ты думаешь, что я стану тут перед тобой раздеваться..." nointeract
+    Alice_13 "Si tu crois que je vais me déshabiller devant toi......" nointeract
 
 # game/dialogues/alicetalk.rpy:4666
 translate frenh alice_private_punish_0_pun_a00d3c07:
@@ -8707,8 +8707,8 @@ translate frenh alice_private_punish_0_pun_a00d3c07:
 # game/dialogues/alicetalk.rpy:4668
 translate frenh alice_private_punish_0_pun_d8b14cf0:
 
-    # [Max_09 "Сколько от тебя шума, Алиса! Да ещё и по такому пустяку. Надоели уже твои угрозы.[nointeract]"
-    Max_09 "Quel bruit tu fais, Alice ! Et pour une telle bagatelle. J'en ai marre de tes menaces...[nointeract]"
+    # [Max_09 "Сколько от тебя шума, Алиса! Да ещё и по такому пустяку. Надоели уже твои угрозы." nointeract
+    Max_09 "Quel bruit tu fais, Alice ! Et pour une telle bagatelle. J'en ai marre de tes menaces..." nointeract
 
 # game/dialogues/alicetalk.rpy:4673
 translate frenh alice_private_punish_0_pun_49ee5695:
@@ -8725,8 +8725,8 @@ translate frenh alice_private_punish_0_pun_29bdee42:
 # game/dialogues/alicetalk.rpy:4676
 translate frenh alice_private_punish_0_pun_fbb72d96:
 
-    # [Alice_12 "Только не вздумай глазеть на меня при этом![nointeract]"
-    Alice_12 "Ne penses pas à me regarder en même temps![nointeract]"
+    # [Alice_12 "Только не вздумай глазеть на меня при этом!" nointeract
+    Alice_12 "Ne penses pas à me regarder en même temps!" nointeract
 
 # game/dialogues/alicetalk.rpy:4724
 translate frenh alice_private_punish_0_pun_7082b350:
@@ -8767,8 +8767,8 @@ translate frenh alice_private_punish_0_pun_1e46a369:
 # game/dialogues/alicetalk.rpy:4735
 translate frenh alice_private_punish_0_pun_e5a94fd2:
 
-    # [Alice_13 "Ох, и зачем я на всё это согласилась...[nointeract]"
-    Alice_13 "Oh, et pourquoi ai-je accepté tout cela...[nointeract]"
+    # [Alice_13 "Ох, и зачем я на всё это согласилась..." nointeract
+    Alice_13 "Oh, et pourquoi ai-je accepté tout cela..." nointeract
 
 # game/dialogues/alicetalk.rpy:4751
 translate frenh alice_private_punish_r_8d5a5603:
@@ -8785,8 +8785,8 @@ translate frenh alice_private_punish_r_smoke_f9653964:
 # game/dialogues/alicetalk.rpy:4757
 translate frenh alice_private_punish_r_smoke_5f4eb3c1:
 
-    # [Max_03 "Хорошо. Я подожду...[nointeract]"
-    Max_03 "Bien. Je vais attendre...[nointeract]"
+    # [Max_03 "Хорошо. Я подожду..." nointeract
+    Max_03 "Bien. Je vais attendre..." nointeract
 
 # game/dialogues/alicetalk.rpy:4766
 translate frenh alice_private_punish_r_smoke_pun_9bb538a8:
@@ -8815,26 +8815,26 @@ translate frenh alice_private_punish_r_pun_714f308a:
 # game/dialogues/alicetalk.rpy:4781
 translate frenh alice_private_punish_r_pun_1c0c8b5a:
 
-    # [Alice_04 "Вот тебе надо, чтобы я была голая, так сам и раздевай! Не облегчать же тебе работу...[nointeract]"
-    Alice_04 "Si tu me veux nue, tu me déshabilles ! Pour ne pas te faciliter la tâche....[nointeract]"
+    # [Alice_04 "Вот тебе надо, чтобы я была голая, так сам и раздевай! Не облегчать же тебе работу..." nointeract
+    Alice_04 "Si tu me veux nue, tu me déshabilles ! Pour ne pas te faciliter la tâche...." nointeract
 
 # game/dialogues/alicetalk.rpy:4787
 translate frenh alice_private_punish_r_pun_d739f9b9:
 
-    # [Alice_15 "Ну не так же резко, Макс! Смотри, если порвёшь мой купальник, я тебе тоже мигом что-нибудь порву...[nointeract]"
-    Alice_15 "Pas si brusque, Max! Ecoutes, si tu déchires mon maillot de bain, je vais déchirer quelque chose chez toi aussi....[nointeract]"
+    # [Alice_15 "Ну не так же резко, Макс! Смотри, если порвёшь мой купальник, я тебе тоже мигом что-нибудь порву..." nointeract
+    Alice_15 "Pas si brusque, Max! Ecoutes, si tu déchires mon maillot de bain, je vais déchirer quelque chose chez toi aussi...." nointeract
 
 # game/dialogues/alicetalk.rpy:4793
 translate frenh alice_private_punish_r_pun_56f85399:
 
-    # [Alice_06 "И чего глазеем? Шлёпай давай! Руки только не распускай слишком сильно.[nointeract]"
-    Alice_06 "Qu'est-ce qu'on regarde? Donne-moi une fessée! Ne lâche pas trop les mains.[nointeract]"
+    # [Alice_06 "И чего глазеем? Шлёпай давай! Руки только не распускай слишком сильно." nointeract
+    Alice_06 "Qu'est-ce qu'on regarde? Donne-moi une fessée! Ne lâche pas trop les mains." nointeract
 
 # game/dialogues/alicetalk.rpy:4800
 translate frenh alice_private_punish_r_pun_daa1c1ea:
 
-    # [Alice_05 "Ты там уже начал? А то мне показалось, что это больше тянет на поглаживания, а не на шлепки...[nointeract]"
-    Alice_05 "Tu as déjà commencé? Parce que je pensais que ça ressemblait plus à une caresse qu'à une fessée...[nointeract]"
+    # [Alice_05 "Ты там уже начал? А то мне показалось, что это больше тянет на поглаживания, а не на шлепки..." nointeract
+    Alice_05 "Tu as déjà commencé? Parce que je pensais que ça ressemblait plus à une caresse qu'à une fessée..." nointeract
 
 # game/dialogues/alicetalk.rpy:4806
 translate frenh alice_private_punish_r_pun_57b399dd:
@@ -8899,8 +8899,8 @@ translate frenh alice_private_punish_r_pun_38fc3e82:
 # game/dialogues/alicetalk.rpy:4836
 translate frenh alice_private_punish_r_pun_8f47acee:
 
-    # [Max_02 "Хорошо, до следующего раза.[nointeract]"
-    Max_02 "Ok, à la prochaine fois.[nointeract]"
+    # [Max_02 "Хорошо, до следующего раза." nointeract
+    Max_02 "Ok, à la prochaine fois." nointeract
 
 # game/dialogues/alicetalk.rpy:4845
 translate frenh alice_private_punish_r_pun_7082b350:
@@ -8941,8 +8941,8 @@ translate frenh alice_private_punish_r_pun_1e46a369:
 # game/dialogues/alicetalk.rpy:4856
 translate frenh alice_private_punish_r_pun_e5a94fd2:
 
-    # [Alice_13 "Ох, и зачем я на всё это согласилась...[nointeract]"
-    Alice_13 "Oh, et pourquoi ai-je accepté tout cela...[nointeract]"
+    # [Alice_13 "Ох, и зачем я на всё это согласилась..." nointeract
+    Alice_13 "Oh, et pourquoi ai-je accepté tout cela..." nointeract
 
 # game/dialogues/alicetalk.rpy:4871
 translate frenh alice_gift_mistress1_cc0d1a6f:
@@ -9121,8 +9121,8 @@ translate frenh alice_mistress_0_75671c9d:
 # game/dialogues/alicetalk.rpy:4942
 translate frenh alice_mistress_0_bbce7676:
 
-    # [Alice_01 "Сейчас узнаешь... Пошли в мою комнату...[nointeract]"
-    Alice_01 "Tu le découvriras... Nous allons dans ma chambre...[nointeract]"
+    # [Alice_01 "Сейчас узнаешь... Пошли в мою комнату..." nointeract
+    Alice_01 "Tu le découvriras... Nous allons dans ma chambre..." nointeract
 
 # game/dialogues/alicetalk.rpy:4948
 translate frenh alice_mistress_0_f57bb277:
@@ -9157,8 +9157,8 @@ translate frenh alice_mistress_0_f9c4c600:
 # game/dialogues/alicetalk.rpy:4954
 translate frenh alice_mistress_0_be0cb566:
 
-    # [Alice]{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал...[nointeract]"
-    Alice]{b}Alice:{/b} Tu peux entrer si tu ne t'es pas encore enfuit...[nointeract]"
+    # [Alice]{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал..." nointeract
+    Alice]{b}Alice:{/b} Tu peux entrer si tu ne t'es pas encore enfuit..." nointeract
 
 # game/dialogues/alicetalk.rpy:4962
 translate frenh alice_mistress_0_15abff2f:
@@ -9379,8 +9379,8 @@ translate frenh alice_mistress_0_e994b0c0:
 # game/dialogues/alicetalk.rpy:5022
 translate frenh alice_mistress_0_ba9278ff:
 
-    # [Alice_01 "Вот и правильно![nointeract]"
-    Alice_01 "C'est vrai![nointeract]"
+    # [Alice_01 "Вот и правильно!" nointeract
+    Alice_01 "C'est vrai!" nointeract
 
 # game/dialogues/alicetalk.rpy:5028
 translate frenh alice_mistress_0_6d9d3f32:
@@ -9421,8 +9421,8 @@ translate frenh alice_mistress_1_88c2fc63:
 # game/dialogues/alicetalk.rpy:5050
 translate frenh alice_mistress_1_1a71d79c:
 
-    # [Alice_16 "Тебе сейчас не думать нужно, а просто делать то, что я хочу. Пошли ко мне в комнату...[nointeract]"
-    Alice_16 "Tu n’as pas à penser maintenant, tu as juste besoin de faire ce que je veux. Aller dans ma chambre...[nointeract]"
+    # [Alice_16 "Тебе сейчас не думать нужно, а просто делать то, что я хочу. Пошли ко мне в комнату..." nointeract
+    Alice_16 "Tu n’as pas à penser maintenant, tu as juste besoin de faire ce que je veux. Aller dans ma chambre..." nointeract
 
 # game/dialogues/alicetalk.rpy:5056
 translate frenh alice_mistress_1_d1fa99ac:
@@ -9433,8 +9433,8 @@ translate frenh alice_mistress_1_d1fa99ac:
 # game/dialogues/alicetalk.rpy:5058
 translate frenh alice_mistress_1_843d85a9:
 
-    # [Alice]{b}Алиса:{/b} Макс, заходи![nointeract]"
-    Alice]{b}Alice:{/b} Max, entre![nointeract]"
+    # [Alice]{b}Алиса:{/b} Макс, заходи!" nointeract
+    Alice]{b}Alice:{/b} Max, entre!" nointeract
 
 # game/dialogues/alicetalk.rpy:5066
 translate frenh alice_mistress_1_6c9fc7dd:
@@ -9451,14 +9451,14 @@ translate frenh alice_mistress_1_28ac6dd3:
 # game/dialogues/alicetalk.rpy:5070
 translate frenh alice_mistress_1_bb754d35:
 
-    # [Alice_05 "Спасибо! Но комплименты не спасут тебя от того, что я хочу сделать. Снимай майку и присаживайся на стул.[nointeract]"
-    Alice_05 "Merci ! Mais les compliments ne te sauveront pas de ce que je veux faire. Enlèves ta chemise et prends place dans la chaise.[nointeract]"
+    # [Alice_05 "Спасибо! Но комплименты не спасут тебя от того, что я хочу сделать. Снимай майку и присаживайся на стул." nointeract
+    Alice_05 "Merci ! Mais les compliments ne te sauveront pas de ce que je veux faire. Enlèves ta chemise et prends place dans la chaise." nointeract
 
 # game/dialogues/alicetalk.rpy:5072
 translate frenh alice_mistress_1_92e1d765:
 
-    # [Alice_05 "Спасибо! Но комплименты не спасут тебя от того, что я хочу сделать. Присаживайся на стул.[nointeract]"
-    Alice_05 "Merci ! Mais les compliments ne te sauveront pas de ce que je veux faire. Assieds-toi sur la chaise.[nointeract]"
+    # [Alice_05 "Спасибо! Но комплименты не спасут тебя от того, что я хочу сделать. Присаживайся на стул." nointeract
+    Alice_05 "Merci ! Mais les compliments ne te sauveront pas de ce que je veux faire. Assieds-toi sur la chaise." nointeract
 
 # game/dialogues/alicetalk.rpy:5076
 translate frenh alice_mistress_1_38316ab5:
@@ -9583,8 +9583,8 @@ translate frenh alice_mistress_1_b6efeed9:
 # game/dialogues/alicetalk.rpy:5125
 translate frenh alice_mistress_1_832d4481:
 
-    # [Alice_12 "Это не шутка, Макс - я тебя предупредила! Всё, вали отсюда.[nointeract]"
-    Alice_12 "Ce n’est pas une blague, Max - je t’ai prévenu! Sors d’ici.[nointeract]"
+    # [Alice_12 "Это не шутка, Макс - я тебя предупредила! Всё, вали отсюда." nointeract
+    Alice_12 "Ce n’est pas une blague, Max - je t’ai prévenu! Sors d’ici." nointeract
 
 # game/dialogues/alicetalk.rpy:5143
 translate frenh alice_mistress_2_2420c156:
@@ -9601,8 +9601,8 @@ translate frenh alice_mistress_2_79b6aa34:
 # game/dialogues/alicetalk.rpy:5146
 translate frenh alice_mistress_2_c7e32ed5:
 
-    # [Alice_05 "Ха-ха... Размечтался! Сперва глазел на меня голую, а теперь пришёл и ещё указываешь, как тебя наказать?! Совсем больной что ли? Идём быстро в мою комнату...[nointeract]"
-    Alice_05 "Ha ha... c'est un rêve! Au début, tu m’as regardée nu, et maintenant tu es venu et m’a encore fait remarquer comment je dois te punir doucement?! Tu es malade ou quoi? Nous allons dans ma chambre...[nointeract]"
+    # [Alice_05 "Ха-ха... Размечтался! Сперва глазел на меня голую, а теперь пришёл и ещё указываешь, как тебя наказать?! Совсем больной что ли? Идём быстро в мою комнату..." nointeract
+    Alice_05 "Ha ha... c'est un rêve! Au début, tu m’as regardée nu, et maintenant tu es venu et m’a encore fait remarquer comment je dois te punir doucement?! Tu es malade ou quoi? Nous allons dans ma chambre..." nointeract
 
 # game/dialogues/alicetalk.rpy:5152
 translate frenh alice_mistress_2_de2fccb5:
@@ -9619,8 +9619,8 @@ translate frenh alice_mistress_2_47ba9f6f:
 # game/dialogues/alicetalk.rpy:5155
 translate frenh alice_mistress_2_fc43cc0c:
 
-    # [Alice]{b}Алиса:{/b} Давай, заходи.[nointeract]"
-    Alice]{b}Alice:{/b} Aller, entre.[nointeract]"
+    # [Alice]{b}Алиса:{/b} Давай, заходи." nointeract
+    Alice]{b}Alice:{/b} Aller, entre." nointeract
 
 # game/dialogues/alicetalk.rpy:5163
 translate frenh alice_mistress_2_b898a43b:
@@ -9697,8 +9697,8 @@ translate frenh alice_mistress_2_50fbe9c8:
 # game/dialogues/alicetalk.rpy:5186
 translate frenh alice_mistress_2_e9b9dd05:
 
-    # [Alice_12 "Да, Макс, серьёзно! И если помнишь, я говорила в прошлый раз от чего будет зависеть сила, с которой я буду это делать... Так как? Есть желание меня злить или ты будешь послушным мальчиком?[nointeract]"
-    Alice_12 "Oui, Max, sérieusement! Et si tu te souviens, je t’ai dit la dernière fois que la force avec laquelle je le ferais dépendra de... De? Veux tu que je frappe plus fort ou serras-tu un garçon obéissant?[nointeract]"
+    # [Alice_12 "Да, Макс, серьёзно! И если помнишь, я говорила в прошлый раз от чего будет зависеть сила, с которой я буду это делать... Так как? Есть желание меня злить или ты будешь послушным мальчиком?" nointeract
+    Alice_12 "Oui, Max, sérieusement! Et si tu te souviens, je t’ai dit la dernière fois que la force avec laquelle je le ferais dépendra de... De? Veux tu que je frappe plus fort ou serras-tu un garçon obéissant?" nointeract
 
 # game/dialogues/alicetalk.rpy:5192
 translate frenh alice_mistress_2_4880142c:
@@ -9709,8 +9709,8 @@ translate frenh alice_mistress_2_4880142c:
 # game/dialogues/alicetalk.rpy:5194
 translate frenh alice_mistress_2_2615d068:
 
-    # [Alice_16 "Запомни, глупый мальчишка, мы здесь не для того, чтобы побыстрее со всем разобраться, а чтобы ты прочувствовал, что подглядывать не хорошо! Живо руки на стол![nointeract]"
-    Alice_16 "Rappelles-toi, garçon stupide, nous ne sommes pas là pour tout régler rapidement, mais pour que tu sentes que jeter un coup d’œil n’est pas bien! Les mains sur la table![nointeract]"
+    # [Alice_16 "Запомни, глупый мальчишка, мы здесь не для того, чтобы побыстрее со всем разобраться, а чтобы ты прочувствовал, что подглядывать не хорошо! Живо руки на стол!" nointeract
+    Alice_16 "Rappelles-toi, garçon stupide, nous ne sommes pas là pour tout régler rapidement, mais pour que tu sentes que jeter un coup d’œil n’est pas bien! Les mains sur la table!" nointeract
 
 # game/dialogues/alicetalk.rpy:5204
 translate frenh alice_mistress_2_4880142c_1:
@@ -9721,8 +9721,8 @@ translate frenh alice_mistress_2_4880142c_1:
 # game/dialogues/alicetalk.rpy:5206
 translate frenh alice_mistress_2_b2668f11:
 
-    # [Alice_16 "Ну как? Ты прочувствовал, что мне лучше не угрожать и не подглядывать за мной?! Живо руки на стол![nointeract]"
-    Alice_16 "Comment? Sens-tu que tu ferais mieux de ne pas me menacer ou de m’espionner?! Les mains sur la table![nointeract]"
+    # [Alice_16 "Ну как? Ты прочувствовал, что мне лучше не угрожать и не подглядывать за мной?! Живо руки на стол!" nointeract
+    Alice_16 "Comment? Sens-tu que tu ferais mieux de ne pas me menacer ou de m’espionner?! Les mains sur la table!" nointeract
 
 # game/dialogues/alicetalk.rpy:5217
 translate frenh alice_mistress_2_submit_18617f58:
@@ -9751,8 +9751,8 @@ translate frenh alice_mistress_2_submit_e6c91767:
 # game/dialogues/alicetalk.rpy:5226
 translate frenh alice_mistress_2_submit_91bec0a7:
 
-    # [Max_11 "Ага... Оценил...[nointeract]"
-    Max_11 "oui... Je l'ai apprécié...[nointeract]"
+    # [Max_11 "Ага... Оценил..." nointeract
+    Max_11 "oui... Je l'ai apprécié..." nointeract
 
 # game/dialogues/alicetalk.rpy:5235
 translate frenh alice_mistress_2_fuck_you_28518983:
@@ -9787,14 +9787,14 @@ translate frenh alice_mistress_2_fuck_you_8b2fa365:
 # game/dialogues/alicetalk.rpy:5248
 translate frenh alice_mistress_2_fuck_you_30a1fd57:
 
-    # [Max_11 "Ага... Очень...[nointeract]"
-    Max_11 "oui... Très...[nointeract]"
+    # [Max_11 "Ага... Очень..." nointeract
+    Max_11 "oui... Très..." nointeract
 
 # game/dialogues/alicetalk.rpy:5269
 translate frenh alice_mistress_3_78b6d46d:
 
-    # [Alice_02 "Я рада, что ты сделал такой выбор. Это справедливо, когда жертве вопиющего вуайеризма даётся возможность расквитаться с обидчиком![nointeract]"
-    Alice_02 "Je suis heureuse que tu aies fait ce choix. C'est vrai que lorsque la victime d’un voyeurisme flagrant à la possibilité de se mettre d’égalité avec l’agresseur![nointeract]"
+    # [Alice_02 "Я рада, что ты сделал такой выбор. Это справедливо, когда жертве вопиющего вуайеризма даётся возможность расквитаться с обидчиком!" nointeract
+    Alice_02 "Je suis heureuse que tu aies fait ce choix. C'est vrai que lorsque la victime d’un voyeurisme flagrant à la possibilité de se mettre d’égalité avec l’agresseur!" nointeract
 
 # game/dialogues/alicetalk.rpy:5272
 translate frenh alice_mistress_3_b3a8e3d6:
@@ -9811,8 +9811,8 @@ translate frenh alice_mistress_3_9a9eff04:
 # game/dialogues/alicetalk.rpy:5277
 translate frenh alice_mistress_3_f131083f:
 
-    # [Alice_08 "Ммм... Люблю эти конфетки! Пошли за мной![nointeract]"
-    Alice_08 "Mmm... J’adore ces friandises! Suis-moi![nointeract]"
+    # [Alice_08 "Ммм... Люблю эти конфетки! Пошли за мной!" nointeract
+    Alice_08 "Mmm... J’adore ces friandises! Suis-moi!" nointeract
 
 # game/dialogues/alicetalk.rpy:5281
 translate frenh alice_mistress_3_dc08410d:
@@ -9829,8 +9829,8 @@ translate frenh alice_mistress_3_3f92400e:
 # game/dialogues/alicetalk.rpy:5287
 translate frenh alice_mistress_3_0c4117fa:
 
-    # [Alice_05 "За каждым преступлением должно следовать наказание! Так что не будем медлить. Пойдём ко мне в комнату...[nointeract]"
-    Alice_05 "Tout crime doit être puni ! Alors ne tardons pas. Allons dans ma chambre...[nointeract]"
+    # [Alice_05 "За каждым преступлением должно следовать наказание! Так что не будем медлить. Пойдём ко мне в комнату..." nointeract
+    Alice_05 "Tout crime doit être puni ! Alors ne tardons pas. Allons dans ma chambre..." nointeract
 
 # game/dialogues/alicetalk.rpy:5289
 translate frenh alice_mistress_3_61898918:
@@ -9841,8 +9841,8 @@ translate frenh alice_mistress_3_61898918:
 # game/dialogues/alicetalk.rpy:5291
 translate frenh alice_mistress_3_e413dc04:
 
-    # [Max_09 "Да мне всё-равно...[nointeract]"
-    Max_09 "Je m'en fiche...[nointeract]"
+    # [Max_09 "Да мне всё-равно..." nointeract
+    Max_09 "Je m'en fiche..." nointeract
 
 # game/dialogues/alicetalk.rpy:5304
 translate frenh alice_mistress_3_follow_de2fccb5:
@@ -9859,32 +9859,32 @@ translate frenh alice_mistress_3_follow_47ba9f6f:
 # game/dialogues/alicetalk.rpy:5307
 translate frenh alice_mistress_3_follow_fc43cc0c:
 
-    # [Alice]{b}Алиса:{/b} Давай, заходи.[nointeract]"
-    Alice]{b}Alice:{/b} Aller, entre.[nointeract]"
+    # [Alice]{b}Алиса:{/b} Давай, заходи." nointeract
+    Alice]{b}Alice:{/b} Aller, entre." nointeract
 
 # game/dialogues/alicetalk.rpy:5321
 translate frenh alice_mistress_3_follow_1598145f:
 
-    # [Alice_02 "Ну же, Макс, не тормози. Хватит на меня так пялиться и проходи! Раздевайся давай...[nointeract]"
-    Alice_02 "Allez, Max, ne ralentis pas. Arrêtes de me regarder comme ça et passes à l'action ! Enlèves tes vêtements....[nointeract]"
+    # [Alice_02 "Ну же, Макс, не тормози. Хватит на меня так пялиться и проходи! Раздевайся давай..." nointeract
+    Alice_02 "Allez, Max, ne ralentis pas. Arrêtes de me regarder comme ça et passes à l'action ! Enlèves tes vêtements...." nointeract
 
 # game/dialogues/alicetalk.rpy:5332
 translate frenh alice_mistress_3_domine_no_drink_90d53df6:
 
-    # [Alice_05 "Ну и чего стоишь? Ты же знаешь, что делать! Не заставляй меня ждать... Хуже ведь будет тебе![nointeract]"
-    Alice_05 "Qu'est-ce que tu fais là ? Tu sais ce qu'il faut faire ! Ne me fais pas attendre... Ça va être pire pour toi ![nointeract]"
+    # [Alice_05 "Ну и чего стоишь? Ты же знаешь, что делать! Не заставляй меня ждать... Хуже ведь будет тебе!" nointeract
+    Alice_05 "Qu'est-ce que tu fais là ? Tu sais ce qu'il faut faire ! Ne me fais pas attendre... Ça va être pire pour toi !" nointeract
 
 # game/dialogues/alicetalk.rpy:5339
 translate frenh alice_mistress_3_domine_no_drink_21840dd9:
 
-    # [Alice_03 "Хороший мальчик. Что теперь нужно сказать?[nointeract]"
-    Alice_03 "Bon garçon. Que dois-je dire maintenant?[nointeract]"
+    # [Alice_03 "Хороший мальчик. Что теперь нужно сказать?" nointeract
+    Alice_03 "Bon garçon. Que dois-je dire maintenant?" nointeract
 
 # game/dialogues/alicetalk.rpy:5346
 translate frenh alice_mistress_3_domine_no_drink_e6a1536b:
 
-    # [Alice_04 "Ох, как же моим ушам приятно слышать такое... Это ведь искреннее твоё желание?[nointeract]"
-    Alice_04 "Oh, comment mes oreilles se sentent d'entendre une telle chose... C'est ton souhait sincère, n'est-ce pas ?[nointeract]"
+    # [Alice_04 "Ох, как же моим ушам приятно слышать такое... Это ведь искреннее твоё желание?" nointeract
+    Alice_04 "Oh, comment mes oreilles se sentent d'entendre une telle chose... C'est ton souhait sincère, n'est-ce pas ?" nointeract
 
 # game/dialogues/alicetalk.rpy:5352
 translate frenh alice_mistress_3_domine_no_drink_25fbab07:
@@ -9901,8 +9901,8 @@ translate frenh alice_mistress_3_domine_no_drink_71218d7c:
 # game/dialogues/alicetalk.rpy:5359
 translate frenh alice_mistress_3_domine_no_drink_a33029f8:
 
-    # [Alice_07 "Ну, раз так, можешь идти. Я на самом деле сильно сомневаюсь, что до тебя дошло. Но всё же понадеюсь...[nointeract]"
-    Alice_07 "Eh bien, si c'est le cas, tu peux y aller. En fait, je doute fort que ça t'ait atteint. Quand même, j'espère...[nointeract]"
+    # [Alice_07 "Ну, раз так, можешь идти. Я на самом деле сильно сомневаюсь, что до тебя дошло. Но всё же понадеюсь..." nointeract
+    Alice_07 "Eh bien, si c'est le cas, tu peux y aller. En fait, je doute fort que ça t'ait atteint. Quand même, j'espère..." nointeract
 
 # game/dialogues/alicetalk.rpy:5376
 translate frenh alice_mistress_3_domine_no_drink_4880142c:
@@ -9913,8 +9913,8 @@ translate frenh alice_mistress_3_domine_no_drink_4880142c:
 # game/dialogues/alicetalk.rpy:5378
 translate frenh alice_mistress_3_domine_no_drink_56a049d6:
 
-    # [Alice_16 "Вот так ты значит хочешь? Дерзить мне будешь... Ну, смотри... Если не поставишь руки на стол и не отклячишь свою задницу, добавки будет столько, что ноги откажут![nointeract]"
-    Alice_16 "C'est ce que tu veux? Tu vas me faire chier... Eh bien, écoutes... Si tu ne poses pas tes mains sur la table et ne te décolles pas le cul de là, il y aura tellement plus que tes jambes vont lâcher ![nointeract]"
+    # [Alice_16 "Вот так ты значит хочешь? Дерзить мне будешь... Ну, смотри... Если не поставишь руки на стол и не отклячишь свою задницу, добавки будет столько, что ноги откажут!" nointeract
+    Alice_16 "C'est ce que tu veux? Tu vas me faire chier... Eh bien, écoutes... Si tu ne poses pas tes mains sur la table et ne te décolles pas le cul de là, il y aura tellement plus que tes jambes vont lâcher !" nointeract
 
 # game/dialogues/alicetalk.rpy:5384
 translate frenh alice_mistress_3_domine_no_drink_a578cf2b:
@@ -9955,8 +9955,8 @@ translate frenh alice_mistress_3_domine_no_drink_1755dd23:
 # game/dialogues/alicetalk.rpy:5400
 translate frenh alice_mistress_3_domine_no_drink_a03004fb:
 
-    # [Alice_07 "Ну, а раз понял, можешь идти. Я на самом деле сильно сомневаюсь, что до тебя дошло. Но всё же понадеюсь...[nointeract]"
-    Alice_07 "Bien, maintenant que tu as compris, tu peux y aller. En fait, je doute fort que ça t'ait atteint. Quand même, j'espère...[nointeract]"
+    # [Alice_07 "Ну, а раз понял, можешь идти. Я на самом деле сильно сомневаюсь, что до тебя дошло. Но всё же понадеюсь..." nointeract
+    Alice_07 "Bien, maintenant que tu as compris, tu peux y aller. En fait, je doute fort que ça t'ait atteint. Quand même, j'espère..." nointeract
 
 # game/dialogues/alicetalk.rpy:5410
 translate frenh alice_mistress_3_domine_no_drink_28518983:
@@ -9985,8 +9985,8 @@ translate frenh alice_mistress_3_domine_no_drink_6a20833b:
 # game/dialogues/alicetalk.rpy:5423
 translate frenh alice_mistress_3_domine_no_drink_07b7d700:
 
-    # [Alice_07 "Ну ладно, сделаю вид, что я поверила. Вали отсюда. Надеюсь, ты и правда что-то усвоил.[nointeract]"
-    Alice_07 "D'accord, je vais faire semblant d'y croire. Sors d'ici. J'espère que tu as vraiment appris quelque chose.[nointeract]"
+    # [Alice_07 "Ну ладно, сделаю вид, что я поверила. Вали отсюда. Надеюсь, ты и правда что-то усвоил." nointeract
+    Alice_07 "D'accord, je vais faire semblant d'y croire. Sors d'ici. J'espère que tu as vraiment appris quelque chose." nointeract
 
 # game/dialogues/alicetalk.rpy:5437
 translate frenh alice_domine_drink_2879aca1:
@@ -10003,8 +10003,8 @@ translate frenh alice_domine_drink_dd706ac2:
 # game/dialogues/alicetalk.rpy:5440
 translate frenh alice_domine_drink_39940f2d:
 
-    # [Alice_05 "Неужели такому мелкому извращенцу, как ты, стало страшно поворачиваться ко мне задом? Это хорошо... Но раздеться тебе придётся всё равно! Или есть возражения?![nointeract]"
-    Alice_05 "Est-ce qu'un petit pervers comme toi a eu peur de me tourner le dos? C'est bien... Mais tu dois quand même te déshabiller! Ou y a-t-il une objection?![nointeract]"
+    # [Alice_05 "Неужели такому мелкому извращенцу, как ты, стало страшно поворачиваться ко мне задом? Это хорошо... Но раздеться тебе придётся всё равно! Или есть возражения?!" nointeract
+    Alice_05 "Est-ce qu'un petit pervers comme toi a eu peur de me tourner le dos? C'est bien... Mais tu dois quand même te déshabiller! Ou y a-t-il une objection?!" nointeract
 
 # game/dialogues/alicetalk.rpy:5447
 translate frenh alice_domine_drink_c8a300e9:
@@ -10081,8 +10081,8 @@ translate frenh alice_domine_drink_d3d28512:
 # game/dialogues/alicetalk.rpy:5467
 translate frenh alice_domine_drink_47a27bae:
 
-    # [Alice_13 "Ну и что ты там, подглядывая в душе, мечтал со мной сделать, а Макс?! Признавайся![nointeract]"
-    Alice_13 "Alors, qu'est-ce que tu rêvais de me faire, Max, en m'observant dans la douche ?! Avoues ![nointeract]"
+    # [Alice_13 "Ну и что ты там, подглядывая в душе, мечтал со мной сделать, а Макс?! Признавайся!" nointeract
+    Alice_13 "Alors, qu'est-ce que tu rêvais de me faire, Max, en m'observant dans la douche ?! Avoues !" nointeract
 
 # game/dialogues/alicetalk.rpy:5472
 translate frenh alice_domine_drink_b8f1c5c0:
@@ -10111,8 +10111,8 @@ translate frenh alice_domine_drink_5d0d17a3:
 # game/dialogues/alicetalk.rpy:5483
 translate frenh alice_domine_drink_b60fd174:
 
-    # [Alice_07 "Какая жалость! Похоже, кто-то привязан к стулу и не может быть так близко ко мне, как ему хотелось... Должно быть, обидно?[nointeract]"
-    Alice_07 "Quel dommage ! On dirait que quelqu’un est attaché à une chaise et ne peut pas être aussi proche de moi qu’il le voudrait... Ça doit être une difficile?[nointeract]"
+    # [Alice_07 "Какая жалость! Похоже, кто-то привязан к стулу и не может быть так близко ко мне, как ему хотелось... Должно быть, обидно?" nointeract
+    Alice_07 "Quel dommage ! On dirait que quelqu’un est attaché à une chaise et ne peut pas être aussi proche de moi qu’il le voudrait... Ça doit être une difficile?" nointeract
 
 # game/dialogues/alicetalk.rpy:5488
 translate frenh alice_domine_drink_a3418458:
@@ -10177,8 +10177,8 @@ translate frenh alice_domine_drink_ce1b1967:
 # game/dialogues/alicetalk.rpy:5518
 translate frenh alice_domine_drink_63f01203:
 
-    # [Alice_07 "Смотри, Макс! Я не хочу разочаровываться... Ах-х! Это хорошо... Но если мне хоть что-то не понравится, то я...[nointeract]"
-    Alice_07 "Regardes, Max! Je ne veux pas être déçu... Ahh C’est gentil... Mais si je n’aime pas quelque chose, Je...[nointeract]"
+    # [Alice_07 "Смотри, Макс! Я не хочу разочаровываться... Ах-х! Это хорошо... Но если мне хоть что-то не понравится, то я..." nointeract
+    Alice_07 "Regardes, Max! Je ne veux pas être déçu... Ahh C’est gentil... Mais si je n’aime pas quelque chose, Je..." nointeract
 
 # game/dialogues/alicetalk.rpy:5528
 translate frenh alice_domine_drink_afraid_to_say_51dc47bd:
@@ -10237,20 +10237,20 @@ translate frenh alice_domine_drink_afraid_to_say_b6efeed9:
 # game/dialogues/alicetalk.rpy:5546
 translate frenh alice_domine_drink_afraid_to_say_832d4481:
 
-    # [Alice_12 "Это не шутка, Макс - я тебя предупредила! Всё, вали отсюда.[nointeract]"
-    Alice_12 "Ce n’est pas une blague, Max - je t’ai prévenu! Sors d’ici.[nointeract]"
+    # [Alice_12 "Это не шутка, Макс - я тебя предупредила! Всё, вали отсюда." nointeract
+    Alice_12 "Ce n’est pas une blague, Max - je t’ai prévenu! Sors d’ici." nointeract
 
 # game/dialogues/alicetalk.rpy:5559
 translate frenh alice_domine_drink_caressing_tongue_2daa297f:
 
-    # [Alice_09 "[like!t]Ахх, Макс! Ты так приятно и нежно ласкаешь языком мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а...[nointeract]"
-    Alice_09 "[like!t] Ahh, Max! Tu caresses mes mamelons si gentiment et si doucement avec ta langue... Mmm... J’ai l’impression que ton copain est devenu plus dur! Je suis très excitée! A-ah...[nointeract]"
+    # [Alice_09 "[like!t]Ахх, Макс! Ты так приятно и нежно ласкаешь языком мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а..." nointeract
+    Alice_09 "[like!t] Ahh, Max! Tu caresses mes mamelons si gentiment et si doucement avec ta langue... Mmm... J’ai l’impression que ton copain est devenu plus dur! Je suis très excitée! A-ah..." nointeract
 
 # game/dialogues/alicetalk.rpy:5567
 translate frenh alice_domine_drink_caressing_tongue_281fa531:
 
-    # [Alice_08 "Охх... Да, Макс, ещё! Ммм... Хорошо... Не знаю где ты научился это делать, но получается у тебя... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо?[nointeract]"
-    Alice_08 "oh... Ouais, Max, plus! Mmm... D’accord... Je ne sais pas où tu as appris à le faire, mais tu le fais... Ahhh Admirablement! Tu embrasses probablement tout aussi bien?[nointeract]"
+    # [Alice_08 "Охх... Да, Макс, ещё! Ммм... Хорошо... Не знаю где ты научился это делать, но получается у тебя... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо?" nointeract
+    Alice_08 "oh... Ouais, Max, plus! Mmm... D’accord... Je ne sais pas où tu as appris à le faire, mais tu le fais... Ahhh Admirablement! Tu embrasses probablement tout aussi bien?" nointeract
 
 # game/dialogues/alicetalk.rpy:5575
 translate frenh alice_domine_drink_caressing_tongue_4a53814e:
@@ -10261,14 +10261,14 @@ translate frenh alice_domine_drink_caressing_tongue_4a53814e:
 # game/dialogues/alicetalk.rpy:5585
 translate frenh alice_domine_drink_caressing_lips_2e84dff8:
 
-    # [Alice_09 "[like!t]Ахх, Макс! Ты так приятно и нежно посасываешь мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а...[nointeract]"
-    Alice_09 "[like!t] Ahh, Max! Tu caresses mes mamelons si gentiment et si doucement... Mmm... J’ai l’impression que ton copain est devenu plus dur! Je suis très excitée! A-ah...[nointeract]"
+    # [Alice_09 "[like!t]Ахх, Макс! Ты так приятно и нежно посасываешь мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а..." nointeract
+    Alice_09 "[like!t] Ahh, Max! Tu caresses mes mamelons si gentiment et si doucement... Mmm... J’ai l’impression que ton copain est devenu plus dur! Je suis très excitée! A-ah..." nointeract
 
 # game/dialogues/alicetalk.rpy:5593
 translate frenh alice_domine_drink_caressing_lips_281fa531:
 
-    # [Alice_08 "Охх... Да, Макс, ещё! Ммм... Хорошо... Не знаю где ты научился это делать, но получается у тебя... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо?[nointeract]"
-    Alice_08 "oh... Ouais, Max, plus! Mmm... D’accord... Je ne sais pas où tu as appris à le faire, mais tu le fais... Ahhh Admirablement! Tu embrasses probablement tout aussi bien?[nointeract]"
+    # [Alice_08 "Охх... Да, Макс, ещё! Ммм... Хорошо... Не знаю где ты научился это делать, но получается у тебя... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо?" nointeract
+    Alice_08 "oh... Ouais, Max, plus! Mmm... D’accord... Je ne sais pas où tu as appris à le faire, mais tu le fais... Ahhh Admirablement! Tu embrasses probablement tout aussi bien?" nointeract
 
 # game/dialogues/alicetalk.rpy:5601
 translate frenh alice_domine_drink_caressing_lips_4a53814e:
@@ -10279,8 +10279,8 @@ translate frenh alice_domine_drink_caressing_lips_4a53814e:
 # game/dialogues/alicetalk.rpy:5609
 translate frenh alice_domine_drink_kiss_9d6bbf0d:
 
-    # [Max_20 "{m}Надеюсь, моего опыта поцелуев хватит, чтобы Алиса приятно удивилась... Она так страстно целуется и трётся о мой член, что вполне могла бы в порыве страсти взять и отсосать мне! Это было бы круто!{/m}[nointeract]"
-    Max_20 "{m}J’espère que mon expérience pour les baisers sera suffisante pour qu’Alice soit agréablement surprise... Elle m’embrasse et se frotte contre moi avec tant de passion qu’elle pourrait me sortir ma bite et la sucer dans un accès de passion ! Ce serait cool!{/m}[nointeract]"
+    # [Max_20 "{m}Надеюсь, моего опыта поцелуев хватит, чтобы Алиса приятно удивилась... Она так страстно целуется и трётся о мой член, что вполне могла бы в порыве страсти взять и отсосать мне! Это было бы круто!{/m}" nointeract
+    Max_20 "{m}J’espère que mon expérience pour les baisers sera suffisante pour qu’Alice soit agréablement surprise... Elle m’embrasse et se frotte contre moi avec tant de passion qu’elle pourrait me sortir ma bite et la sucer dans un accès de passion ! Ce serait cool!{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5619
 translate frenh alice_domine_drink_kiss_1d65d60e:
@@ -10327,8 +10327,8 @@ translate frenh alice_domine_drink_kiss_9d5fdb90:
 # game/dialogues/alicetalk.rpy:5642
 translate frenh alice_domine_drink_kiss_cdcd1179:
 
-    # [Max_19 "{m}Да я этому только рад, сестрёнка! Как бы мне не кончить от её стонов и жарких поцелуев... Так можно ей всё удовольствие обломать, а после схлопотать вдогонку по заднице её стеком! Мне лучше и правда держаться, но как же это непросто...{/m}[nointeract]"
-    Max_19 "{m}Oui, je n’en suis que plus content, ma sœur ! Comment pourrais-je résister à ses gémissements et ses baisers chauds... Ainsi, Elle peut me casser et garder tout le plaisir pour elle, puis me gifler le cul avec sa cravache! Je ferais mieux de m’accrocher, mais comme c’est difficile... {/m}[nointeract]"
+    # [Max_19 "{m}Да я этому только рад, сестрёнка! Как бы мне не кончить от её стонов и жарких поцелуев... Так можно ей всё удовольствие обломать, а после схлопотать вдогонку по заднице её стеком! Мне лучше и правда держаться, но как же это непросто...{/m}" nointeract
+    Max_19 "{m}Oui, je n’en suis que plus content, ma sœur ! Comment pourrais-je résister à ses gémissements et ses baisers chauds... Ainsi, Elle peut me casser et garder tout le plaisir pour elle, puis me gifler le cul avec sa cravache! Je ferais mieux de m’accrocher, mais comme c’est difficile... {/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5651
 translate frenh alice_domine_drink_kiss_9e72ee84:
@@ -10381,8 +10381,8 @@ translate frenh alice_domine_drink_kiss_b757c018:
 # game/dialogues/alicetalk.rpy:5668
 translate frenh alice_domine_drink_kiss_d00a5927:
 
-    # [Alice_05 "Отвяжу тебя от стула и ты сможешь уйти без какого-либо вреда для здоровья. А в остальном помоги себе сам! Всё, вали отсюда.[nointeract]"
-    Alice_05 "je vais tes détacher de la chaise et tu pourras partir sans plus de problème pour ta santé. Sinon, aide-toi toi même! Ça y est, barres-toi.[nointeract]"
+    # [Alice_05 "Отвяжу тебя от стула и ты сможешь уйти без какого-либо вреда для здоровья. А в остальном помоги себе сам! Всё, вали отсюда." nointeract
+    Alice_05 "je vais tes détacher de la chaise et tu pourras partir sans plus de problème pour ta santé. Sinon, aide-toi toi même! Ça y est, barres-toi." nointeract
 
 # game/dialogues/alicetalk.rpy:5676
 translate frenh alice_domine_drink_kiss_9299017f:
@@ -10411,50 +10411,50 @@ translate frenh alice_domine_drink_how_should_b1b05964:
 # game/dialogues/alicetalk.rpy:5705
 translate frenh alice_help_carry_plates_170dcbe9:
 
-    # [Alice_07 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду.[nointeract]"
-    Alice_07 "C’est ce que j’espérais vraiment. De l'aide supplémentaire ne me ferait certainement pas de mal... Pendant que je fini ici avec le nettoyage, tu peux apporter les assiettes pour le diner à la véranda.[nointeract]"
+    # [Alice_07 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+    Alice_07 "C’est ce que j’espérais vraiment. De l'aide supplémentaire ne me ferait certainement pas de mal... Pendant que je fini ici avec le nettoyage, tu peux apporter les assiettes pour le diner à la véranda." nointeract
 
 # game/dialogues/alicetalk.rpy:5707
 translate frenh alice_help_carry_plates_78889183:
 
-    # [Alice_07 "Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду.[nointeract]"
-    Alice_07 "De l’aide?! Pourquoi es-tu, Max, si gentil ? Bien que, quelques mains supplémentaires ne me feront certainement pas de mal ... Pendant que j’ai fini avec tout ici et le nettoyage, tu peux apporter les assiettes de nourriture à la véranda.[nointeract]"
+    # [Alice_07 "Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+    Alice_07 "De l’aide?! Pourquoi es-tu, Max, si gentil ? Bien que, quelques mains supplémentaires ne me feront certainement pas de mal ... Pendant que j’ai fini avec tout ici et le nettoyage, tu peux apporter les assiettes de nourriture à la véranda." nointeract
 
 # game/dialogues/alicetalk.rpy:5715
 translate frenh alice_help_carry_plates_9489751c:
 
-    # [Max_09 "{m}Вот зачем таскать эти тарелки на второй этаж, когда у нас есть прямо здесь, в гостиной, прекрасный большой стол?!{/m}[nointeract]"
-    Max_09 "{m}Pourquoi transporter ces assiettes au premier étage alors que nous avons une grande table ici, dans le salon !{/m}[nointeract]"
+    # [Max_09 "{m}Вот зачем таскать эти тарелки на второй этаж, когда у нас есть прямо здесь, в гостиной, прекрасный большой стол?!{/m}" nointeract
+    Max_09 "{m}Pourquoi transporter ces assiettes au premier étage alors que nous avons une grande table ici, dans le salon !{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5724
 translate frenh alice_help_carry_plates_f1599bc0:
 
-    # [Max_07 "{m}Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут...{/m}[nointeract]"
-    Max_07 "{m}Merde ! Maintenant je veux manger non seulement les miennes mais aussi les pâtes de Lisa. Elles ont l'air et semblent trop appétissantes....{/m}[nointeract]"
+    # [Max_07 "{m}Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут...{/m}" nointeract
+    Max_07 "{m}Merde ! Maintenant je veux manger non seulement les miennes mais aussi les pâtes de Lisa. Elles ont l'air et semblent trop appétissantes....{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5726
 translate frenh alice_help_carry_plates_c0d8ea5b:
 
-    # [Max_07 "{m}Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться.{/m}[nointeract]"
-    Max_07 "{m}Oh! Alice a mis les plus grosses côtelettes pour elle... On devrait au moins en échanger une, oui.{/m}[nointeract]"
+    # [Max_07 "{m}Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться.{/m}" nointeract
+    Max_07 "{m}Oh! Alice a mis les plus grosses côtelettes pour elle... On devrait au moins en échanger une, oui.{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5728
 translate frenh alice_help_carry_plates_3d1a9524:
 
-    # [Max_07 "{m}А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе...{/m}[nointeract]"
-    Max_07 "{m}Ça, ce n'est pas bon ! L'assiette de maman contient trop de glucides. Je dois garder un œil sur sa silhouette, donc je vais en garder un peu pour moi...{/m}[nointeract]"
+    # [Max_07 "{m}А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе...{/m}" nointeract
+    Max_07 "{m}Ça, ce n'est pas bon ! L'assiette de maman contient trop de glucides. Je dois garder un œil sur sa silhouette, donc je vais en garder un peu pour moi...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5736
 translate frenh alice_help_carry_plates_d89e30f0:
 
-    # [Max_02 "{m}Ну что, Эрик... Удачно тебе посидеть на унитазе. Думаю, тебе будет не скучно...{/m}[nointeract]"
-    Max_02 "{m}Alors, Eric... Passes un bon moment assis sur les toilettes. Je pense qu'il ne s'ennuiera pas...{/m}[nointeract]"
+    # [Max_02 "{m}Ну что, Эрик... Удачно тебе посидеть на унитазе. Думаю, тебе будет не скучно...{/m}" nointeract
+    Max_02 "{m}Alors, Eric... Passes un bon moment assis sur les toilettes. Je pense qu'il ne s'ennuiera pas...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5744
 translate frenh alice_help_carry_plates_ddbe426e:
 
-    # [Max_03 "{m}Надеюсь, сегодня Эрику никакие потрахушки не светят, благодаря этому средству. Если он сгорит со стыда, я только порадуюсь...{/m}[nointeract]"
-    Max_03 "{m}J'espère qu'Eric ne s'enverra pas en l'air ce soir, grâce à ce remède. S'il brûle d'embarras, je ne serai que content...{/m}[nointeract]"
+    # [Max_03 "{m}Надеюсь, сегодня Эрику никакие потрахушки не светят, благодаря этому средству. Если он сгорит со стыда, я только порадуюсь...{/m}" nointeract
+    Max_03 "{m}J'espère qu'Eric ne s'enverra pas en l'air ce soir, grâce à ce remède. S'il brûle d'embarras, je ne serai que content...{/m}" nointeract
 
 # game/dialogues/alicetalk.rpy:5755
 translate frenh alice_help_carry_plates_008120f8:

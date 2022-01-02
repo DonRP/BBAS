@@ -183,8 +183,8 @@ translate frenh punishment_max_e667ce8e:
 # game/dialogues/punishment.rpy:203
 translate frenh punishment_max_aa40f9a0:
 
-    # [Ann_17 "Не виноват, значит? Снова? Кажется, ты не осознаёшь, что это последнее предупреждение и в следующий раз я тебя выпорю на глазах у сестёр. Ты меня понял? А теперь рассказывай, что натворил, чтобы все были в курсе![nointeract]"
-    Ann_17 "Ce n'est pas ta faute, alors ? Encore ? Tu ne sembles pas réaliser que c'est ton dernier avertissement et que la prochaine fois, je te fouetterais devant tes sœurs. Tu me comprends ? Maintenant, dis-moi ce que tu as fait, pour que tout le monde le sache ![nointeract]"
+    # [Ann_17 "Не виноват, значит? Снова? Кажется, ты не осознаёшь, что это последнее предупреждение и в следующий раз я тебя выпорю на глазах у сестёр. Ты меня понял? А теперь рассказывай, что натворил, чтобы все были в курсе!" nointeract
+    Ann_17 "Ce n'est pas ta faute, alors ? Encore ? Tu ne sembles pas réaliser que c'est ton dernier avertissement et que la prochaine fois, je te fouetterais devant tes sœurs. Tu me comprends ? Maintenant, dis-moi ce que tu as fait, pour que tout le monde le sache !" nointeract
 
 # game/dialogues/punishment.rpy:205
 translate frenh punishment_max_81902265:
@@ -195,8 +195,8 @@ translate frenh punishment_max_81902265:
 # game/dialogues/punishment.rpy:206
 translate frenh punishment_max_3cc1d6e0:
 
-    # [Ann_17 "Не виноват, значит? А я думаю, что ещё как виноват. В этот раз тебе повезло, это всего лишь первое предупреждение. Надеюсь, второго не потребуется... Кстати, можешь всем рассказать, что ты натворил...[nointeract]"
-    Ann_17 "Ce n'est pas ta faute, alors ? Je pense que oui. Tu as de la chance cette fois, c'est seulement ton premier avertissement. Espérons que le second ne sera pas nécessaire... Au fait, tu peux dire à tout le monde ce que tu as fait...[nointeract]"
+    # [Ann_17 "Не виноват, значит? А я думаю, что ещё как виноват. В этот раз тебе повезло, это всего лишь первое предупреждение. Надеюсь, второго не потребуется... Кстати, можешь всем рассказать, что ты натворил..." nointeract
+    Ann_17 "Ce n'est pas ta faute, alors ? Je pense que oui. Tu as de la chance cette fois, c'est seulement ton premier avertissement. Espérons que le second ne sera pas nécessaire... Au fait, tu peux dire à tout le monde ce que tu as fait..." nointeract
 
 # game/dialogues/punishment.rpy:209
 translate frenh punishment_max_pun_reson_2be684f3:
@@ -273,20 +273,20 @@ translate frenh punishment_max_pun_reson_a3ff079a:
 # game/dialogues/punishment.rpy:241
 translate frenh punishment_max_pun_reson_b1c59edb:
 
-    # [Ann_18 "Ты не закончил, Макс. Продолжай...[nointeract]"
-    Ann_18 "Tu n'as pas fini, Max. Continues...[nointeract]"
+    # [Ann_18 "Ты не закончил, Макс. Продолжай..." nointeract
+    Ann_18 "Tu n'as pas fini, Max. Continues..." nointeract
 
 # game/dialogues/punishment.rpy:243
 translate frenh punishment_max_pun_reson_bcdffc42:
 
-    # [Ann_18 "Дальше, Макс, мы тебя внимательно слушаем...[nointeract]"
-    Ann_18 "Ensuite, Max, je t'écoute attentivement....[nointeract]"
+    # [Ann_18 "Дальше, Макс, мы тебя внимательно слушаем..." nointeract
+    Ann_18 "Ensuite, Max, je t'écoute attentivement...." nointeract
 
 # game/dialogues/punishment.rpy:245
 translate frenh punishment_max_pun_reson_a9365548:
 
-    # [Ann_18 "А ты про кое-что ещё не забыл?[nointeract]"
-    Ann_18 "Tu n'oublies pas autre chose ?[nointeract]"
+    # [Ann_18 "А ты про кое-что ещё не забыл?" nointeract
+    Ann_18 "Tu n'oublies pas autre chose ?" nointeract
 
 # game/dialogues/punishment.rpy:247
 translate frenh punishment_max_pun_reson_33837bf7:
@@ -309,8 +309,8 @@ translate frenh punishment_max_pun_reson_c9c8162f:
 # game/dialogues/punishment.rpy:252
 translate frenh punishment_max_pun_reson_bf38fe93:
 
-    # [Ann_16 "Макс! Сейчас ты будешь наказан, сам знаешь за что![nointeract]"
-    Ann_16 "Max ! Maintenant tu vas être puni, tu sais pourquoi ![nointeract]"
+    # [Ann_16 "Макс! Сейчас ты будешь наказан, сам знаешь за что!" nointeract
+    Ann_16 "Max ! Maintenant tu vas être puni, tu sais pourquoi !" nointeract
 
 # game/dialogues/punishment.rpy:256
 translate frenh punishment_max_pun_reson_db52f1d4:
@@ -327,8 +327,8 @@ translate frenh punishment_max_pun_reson_dbaef78e:
 # game/dialogues/punishment.rpy:270
 translate frenh punishment_max_pun_reson_291cc499:
 
-    # [Ann_19 "[failed!t]Вот так просто? \"Я не виноват\" и всё забудем? Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай [_text!t] и ложись на мои колени. Надеюсь, ты сегодня в трусах...[nointeract]"
-    Ann_19 "[failed!t]Juste comme ça ? 'Ce n'était pas ma faute.' et tout oublier ? Non, Max, tu ne peux pas me faire ce genre de blague. Allez, enlève tes vêtements et allonge-toi sur mes genoux. J'espère que tu portes un short aujourd'hui...[nointeract]"
+    # [Ann_19 "[failed!t]Вот так просто? \"Я не виноват\" и всё забудем? Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай [_text!t] и ложись на мои колени. Надеюсь, ты сегодня в трусах..." nointeract
+    Ann_19 "[failed!t]Juste comme ça ? 'Ce n'était pas ma faute.' et tout oublier ? Non, Max, tu ne peux pas me faire ce genre de blague. Allez, enlève tes vêtements et allonge-toi sur mes genoux. J'espère que tu portes un short aujourd'hui..." nointeract
 
 # game/dialogues/punishment.rpy:278
 translate frenh punishment_max_pun_reson_8b8f1722:
@@ -365,20 +365,20 @@ translate frenh punishment_max_pun_reson_700a2ea3:
 # game/dialogues/punishment.rpy:334
 translate frenh punishment_max_pun_reson_2f01137f:
 
-    # [Ann_12 "Ну, Макс, раздевайся до трусов. Остальные просто посмотрят, что бывает, когда кто-то косячит...[nointeract]"
-    Ann_12 "Eh bien, Max, enlève tes sous-vêtements. Les autres verront ce qui se passe quand quelqu'un fait une erreur...[nointeract]"
+    # [Ann_12 "Ну, Макс, раздевайся до трусов. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+    Ann_12 "Eh bien, Max, enlève tes sous-vêtements. Les autres verront ce qui se passe quand quelqu'un fait une erreur..." nointeract
 
 # game/dialogues/punishment.rpy:339
 translate frenh punishment_max_pun_reson_09e2a1e5:
 
-    # [Ann_12 "Ну, Макс, снимай шорты. Остальные просто посмотрят, что бывает, когда кто-то косячит...[nointeract]"
-    Ann_12 "Eh bien, Max, enlève ton short. Les autres verront ce qui se passe quand quelqu'un fait une erreur...[nointeract]"
+    # [Ann_12 "Ну, Макс, снимай шорты. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+    Ann_12 "Eh bien, Max, enlève ton short. Les autres verront ce qui se passe quand quelqu'un fait une erreur..." nointeract
 
 # game/dialogues/punishment.rpy:344
 translate frenh punishment_max_pun_reson_ad895117:
 
-    # [Ann_12 "Ну, Макс, раздевайся. Остальные просто посмотрят, что бывает, когда кто-то косячит...[nointeract]"
-    Ann_12 "Eh bien, Max, déshabille-toi. Les autres verront ce qui se passe quand quelqu'un fait une erreur...[nointeract]"
+    # [Ann_12 "Ну, Макс, раздевайся. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+    Ann_12 "Eh bien, Max, déshabille-toi. Les autres verront ce qui se passe quand quelqu'un fait une erreur..." nointeract
 
 # game/dialogues/punishment.rpy:351
 translate frenh punishment_max_pun_reson_2f871657:
@@ -421,8 +421,8 @@ translate frenh punishment_lisa_678436cc:
 # game/dialogues/punishment.rpy:462
 translate frenh punishment_lisa_0b6806cc:
 
-    # [Ann_16 "[_text!t][nointeract]"
-    Ann_16 "[_text!t][nointeract]"
+    # [Ann_16 "[_text!t]" nointeract
+    Ann_16 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:465
 translate frenh punishment_lisa_f1ea86d0:
@@ -493,8 +493,8 @@ translate frenh punishment_lisa_a4b257c5:
 # game/dialogues/punishment.rpy:509
 translate frenh punishment_lisa_67c8b436:
 
-    # [Ann_18 "[_text!t][nointeract]"
-    Ann_18 "[_text!t][nointeract]"
+    # [Ann_18 "[_text!t]" nointeract
+    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:513
 translate frenh punishment_lisa_a1d39e4d:
@@ -619,8 +619,8 @@ translate frenh punishment_alice_a4b257c5:
 # game/dialogues/punishment.rpy:629
 translate frenh punishment_alice_67c8b436:
 
-    # [Ann_18 "[_text!t][nointeract]"
-    Ann_18 "[_text!t][nointeract]"
+    # [Ann_18 "[_text!t]" nointeract
+    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:633
 translate frenh punishment_alice_cb34e360:
@@ -745,8 +745,8 @@ translate frenh punishment_alice_a4b257c5_1:
 # game/dialogues/punishment.rpy:702
 translate frenh punishment_alice_67c8b436_1:
 
-    # [Ann_18 "[_text!t][nointeract]"
-    Ann_18 "[_text!t][nointeract]"
+    # [Ann_18 "[_text!t]" nointeract
+    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:706
 translate frenh punishment_alice_cb34e360_1:

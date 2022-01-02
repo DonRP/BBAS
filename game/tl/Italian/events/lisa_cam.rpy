@@ -75,32 +75,32 @@ translate italian cam0_lisa_dressed_f7db1942:
 # game/events/lisa_cam.rpy:232
 translate italian cam0_lisa_dressed_e79b2255:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
-    Max_07 "Eccellente! Lisa si veste per andare a scuola...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу..." nointeract
+    Max_07 "Eccellente! Lisa si veste per andare a scuola..." nointeract
 
 # game/events/lisa_cam.rpy:234
 translate italian cam0_lisa_dressed_2978876d:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Eccellente! Lisa si veste per fare shopping...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Eccellente! Lisa si veste per fare shopping..." nointeract
 
 # game/events/lisa_cam.rpy:236
 translate italian cam0_lisa_dressed_80e887bc:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору...[nointeract]"
-    Max_07 "Grande! Lisa si veste per andare dal tutor...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору..." nointeract
+    Max_07 "Grande! Lisa si veste per andare dal tutor..." nointeract
 
 # game/events/lisa_cam.rpy:238
 translate italian cam0_lisa_dressed_413010f3:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку...[nointeract]"
-    Max_07 "Grande! Lisa si veste per andare a fare una passeggiata...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку..." nointeract
+    Max_07 "Grande! Lisa si veste per andare a fare una passeggiata..." nointeract
 
 # game/events/lisa_cam.rpy:250
 translate italian cam0_lisa_dressed_e61ca9e9:
 
-    # [Max_02 "Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-    Max_02 "Uhhh Ora è così nuda e carina...[nointeract]"
+    # [Max_02 "Ухх! Сейчас она такая голенькая и милая..." nointeract
+    Max_02 "Uhhh Ora è così nuda e carina..." nointeract
 
 # game/events/lisa_cam.rpy:265
 translate italian cam0_lisa_dressed_e16161a7:

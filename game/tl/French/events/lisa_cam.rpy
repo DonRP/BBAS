@@ -75,32 +75,32 @@ translate frenh cam0_lisa_dressed_f7db1942:
 # game/events/lisa_cam.rpy:232
 translate frenh cam0_lisa_dressed_e79b2255:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
-    Max_07 "Excellent! Lisa s'habille pour aller à l'école...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу..." nointeract
+    Max_07 "Excellent! Lisa s'habille pour aller à l'école..." nointeract
 
 # game/events/lisa_cam.rpy:234
 translate frenh cam0_lisa_dressed_2978876d:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Excellent! Lisa qui s'habille pour aller faire du shopping...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Excellent! Lisa qui s'habille pour aller faire du shopping..." nointeract
 
 # game/events/lisa_cam.rpy:236
 translate frenh cam0_lisa_dressed_80e887bc:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору...[nointeract]"
-    Max_07 "Excellent! Lisa s'habille pour aller chez son tuteur...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору..." nointeract
+    Max_07 "Excellent! Lisa s'habille pour aller chez son tuteur..." nointeract
 
 # game/events/lisa_cam.rpy:238
 translate frenh cam0_lisa_dressed_413010f3:
 
-    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку...[nointeract]"
-    Max_07 "Excellent! Lisa qui s'habille pour aller en promenade...[nointeract]"
+    # [Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку..." nointeract
+    Max_07 "Excellent! Lisa qui s'habille pour aller en promenade..." nointeract
 
 # game/events/lisa_cam.rpy:250
 translate frenh cam0_lisa_dressed_e61ca9e9:
 
-    # [Max_02 "Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-    Max_02 "Ugh ! Maintenant elle est nue et si mignonne...[nointeract]"
+    # [Max_02 "Ухх! Сейчас она такая голенькая и милая..." nointeract
+    Max_02 "Ugh ! Maintenant elle est nue et si mignonne..." nointeract
 
 # game/events/lisa_cam.rpy:265
 translate frenh cam0_lisa_dressed_e16161a7:

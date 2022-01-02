@@ -21,14 +21,14 @@ translate frenh OliviaTalkStart_26661b27:
 # game/dialogues/oliviatalk.rpy:20
 translate frenh OliviaTalkStart_07bb4878:
 
-    # [Olivia_01 "Конечно, Макс... Мы не против! Такая классная погода стоит...[nointeract]"
-    Olivia_01 "Bien sûr, Max... Ça ne me dérange pas ! Le temps est si agréable...[nointeract]"
+    # [Olivia_01 "Конечно, Макс... Мы не против! Такая классная погода стоит..." nointeract
+    Olivia_01 "Bien sûr, Max... Ça ne me dérange pas ! Le temps est si agréable..." nointeract
 
 # game/dialogues/oliviatalk.rpy:22
 translate frenh OliviaTalkStart_7f46e30d:
 
-    # [Olivia_00 "А, Макс. Хотел поговорить?[nointeract]"
-    Olivia_00 "Ah, Max. Tu voulais parler ?[nointeract]"
+    # [Olivia_00 "А, Макс. Хотел поговорить?" nointeract
+    Olivia_00 "Ah, Max. Tu voulais parler ?" nointeract
 
 # game/dialogues/oliviatalk.rpy:42
 translate frenh olivia_talk1_660e872c:
@@ -717,14 +717,14 @@ translate frenh olivia_about_film_punish_26756e1b:
 # game/dialogues/oliviatalk.rpy:260
 translate frenh olivia_about_film_punish_43b45ee9:
 
-    # [Lisa_01 "Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник...[nointeract]"
-    Lisa_01 "Fais ton choix, Max ! On peut soit reporter la punition à la nuit suivante, ou c'est une soirée entre filles...[nointeract]"
+    # [Lisa_01 "Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
+    Lisa_01 "Fais ton choix, Max ! On peut soit reporter la punition à la nuit suivante, ou c'est une soirée entre filles..." nointeract
 
 # game/dialogues/oliviatalk.rpy:263
 translate frenh olivia_about_film_punish_50a787b4:
 
-    # [Lisa_02 "Вот и разобрались. Пойдёмте уже...[nointeract]"
-    Lisa_02 "Voilà, c'est fait. Allons-y déjà...[nointeract]"
+    # [Lisa_02 "Вот и разобрались. Пойдёмте уже..." nointeract
+    Lisa_02 "Voilà, c'est fait. Allons-y déjà..." nointeract
 
 # game/dialogues/oliviatalk.rpy:270
 translate frenh olivia_about_film_punish_74bdb244_1:
@@ -735,14 +735,14 @@ translate frenh olivia_about_film_punish_74bdb244_1:
 # game/dialogues/oliviatalk.rpy:275
 translate frenh olivia_about_film_punish_43b45ee9_1:
 
-    # [Lisa_01 "Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник...[nointeract]"
-    Lisa_01 "Fais ton choix, Max ! On peut soit reporter la punition à la nuit suivante, ou c'est une soirée entre filles...[nointeract]"
+    # [Lisa_01 "Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
+    Lisa_01 "Fais ton choix, Max ! On peut soit reporter la punition à la nuit suivante, ou c'est une soirée entre filles..." nointeract
 
 # game/dialogues/oliviatalk.rpy:278
 translate frenh olivia_about_film_punish_50a787b4_1:
 
-    # [Lisa_02 "Вот и разобрались. Пойдёмте уже...[nointeract]"
-    Lisa_02 "Voilà, c'est fait. Allons-y déjà...[nointeract]"
+    # [Lisa_02 "Вот и разобрались. Пойдёмте уже..." nointeract
+    Lisa_02 "Voilà, c'est fait. Allons-y déjà..." nointeract
 
 # game/dialogues/oliviatalk.rpy:286
 translate frenh olivia_about_film_punish_postpone_d232056e:

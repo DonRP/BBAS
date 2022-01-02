@@ -15,8 +15,8 @@
 # game/events/lisa.rpy:26
 translate italian lisa_shower_1532bb65:
 
-    # [Max_00 "Лиза сейчас принимает душ...[nointeract]"
-    Max_00 "Lisa si sta facendo la doccia ora...[nointeract]"
+    # [Max_00 "Лиза сейчас принимает душ..." nointeract
+    Max_00 "Lisa si sta facendo la doccia ora..." nointeract
 
 # game/events/lisa.rpy:30
 translate italian lisa_shower_97ede92e:
@@ -39,26 +39,26 @@ translate italian lisa_shower_854c3ca9:
 # game/events/lisa.rpy:43
 translate italian lisa_shower_791d34d9:
 
-    # [Max_09 "Кажется, Лиза что-то делает в ванной...[nointeract]"
-    Max_09 "Sembra che Lisa stia facendo qualcosa in bagno...[nointeract]"
+    # [Max_09 "Кажется, Лиза что-то делает в ванной..." nointeract
+    Max_09 "Sembra che Lisa stia facendo qualcosa in bagno..." nointeract
 
 # game/events/lisa.rpy:46
 translate italian lisa_shower_7a2afa4f:
 
-    # [Lisa]{b}Лиза:{/b} Кто там? Я ещё не закончила. Подождите немного...[nointeract]"
-    Lisa]{b}Lisa:{/b} Chi c'è? Non ho finito. Aspetta un po'...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} Кто там? Я ещё не закончила. Подождите немного..." nointeract
+    Lisa]{b}Lisa:{/b} Chi c'è? Non ho finito. Aspetta un po'..." nointeract
 
 # game/events/lisa.rpy:49
 translate italian lisa_shower_0451df43:
 
-    # [Lisa]{b}Лиза:{/b} Макс, чего хотел? Я же говорю, скоро выйду![nointeract]"
-    Lisa]{b}Lisa:{/b} Max, cosa voleva? Dico, uscirò presto![nointeract]"
+    # [Lisa]{b}Лиза:{/b} Макс, чего хотел? Я же говорю, скоро выйду!" nointeract
+    Lisa]{b}Lisa:{/b} Max, cosa voleva? Dico, uscirò presto!" nointeract
 
 # game/events/lisa.rpy:52
 translate italian lisa_shower_d84f6a90:
 
-    # [Lisa]{b}Лиза:{/b} Нет, Макс. Жди за дверью. Я скоро![nointeract]"
-    Lisa]{b}Lisa:{/b} No, Max. Aspetta fuori dalla porta. Arrivo presto![nointeract]"
+    # [Lisa]{b}Лиза:{/b} Нет, Макс. Жди за дверью. Я скоро!" nointeract
+    Lisa]{b}Lisa:{/b} No, Max. Aspetta fuori dalla porta. Arrivo presto!" nointeract
 
 # game/events/lisa.rpy:64
 translate italian lisa_shower_8d94a43d:
@@ -105,8 +105,8 @@ translate italian lisa_shower_ladder_90ff417e:
 # game/events/lisa.rpy:115
 translate italian lisa_shower_start_peeping_f30ef1eb:
 
-    # [Max_07 "Отлично! Моя младшая сестрёнка принимает душ... Даже видно кое-что... Много кое-чего! Только бы она меня не заметила...[nointeract]"
-    Max_07 "Eccellente! La mia sorellina fa la doccia... Puoi anche vedere qualcosa... Un sacco di cose! Se solo non si fosse accorta di me...[nointeract]"
+    # [Max_07 "Отлично! Моя младшая сестрёнка принимает душ... Даже видно кое-что... Много кое-чего! Только бы она меня не заметила..." nointeract
+    Max_07 "Eccellente! La mia sorellina fa la doccia... Puoi anche vedere qualcosa... Un sacco di cose! Se solo non si fosse accorta di me..." nointeract
 
 # game/events/lisa.rpy:139
 translate italian lisa_shower_alt_peepeng_022529c8:
@@ -179,8 +179,8 @@ translate italian lisa_shower_pinded_7428c407:
 # game/events/lisa.rpy:203
 translate italian lisa_shower_pinded_cc880acd:
 
-    # [Lisa_09 "[spotted!t]Ну, Макс! Опять ты подглядываешь... Если так неймётся ужастики смотреть со мной, то считай ты попал! А сейчас, кыш отсюда...[nointeract]"
-    Lisa_09 "[spotted!t] Beh, Max! Ancora una volta, stai sbirciando... Se è così che i film horror guardano con me, allora pensi di esserci arrivato! E ora, kysh da qui...[nointeract]"
+    # [Lisa_09 "[spotted!t]Ну, Макс! Опять ты подглядываешь... Если так неймётся ужастики смотреть со мной, то считай ты попал! А сейчас, кыш отсюда..." nointeract
+    Lisa_09 "[spotted!t] Beh, Max! Ancora una volta, stai sbirciando... Se è così che i film horror guardano con me, allora pensi di esserci arrivato! E ora, kysh da qui..." nointeract
 
 # game/events/lisa.rpy:208
 translate italian lisa_shower_pinded_e7c30df4:
@@ -209,50 +209,50 @@ translate italian lisa_shower_pinded_e472503c:
 # game/events/lisa.rpy:218
 translate italian lisa_shower_pinded_05cff630:
 
-    # [Lisa_12 "[spotted!t]Макс! Ты подглядываешь за мной? Как тебе не стыдно?! Я всё маме расскажу![nointeract]"
-    Lisa_12 "[spotted!t]Max! Mi stai spiando? Come non ti vergogni?! Dirò tutto a mia madre![nointeract]"
+    # [Lisa_12 "[spotted!t]Макс! Ты подглядываешь за мной? Как тебе не стыдно?! Я всё маме расскажу!" nointeract
+    Lisa_12 "[spotted!t]Max! Mi stai spiando? Come non ti vergogni?! Dirò tutto a mia madre!" nointeract
 
 # game/events/lisa.rpy:731
 translate italian lisa_dressed_69f4873f:
 
-    # [Max_09 "{m}Сейчас Лиза должна собираться в школу...{/m}[nointeract]"
-    Max_09 "{m}Ora Lisa deve andare a scuola... {/m}[nointeract]"
+    # [Max_09 "{m}Сейчас Лиза должна собираться в школу...{/m}" nointeract
+    Max_09 "{m}Ora Lisa deve andare a scuola... {/m}" nointeract
 
 # game/events/lisa.rpy:734
 translate italian lisa_dressed_dad74527:
 
-    # [Max_09 "{m}Сейчас Лиза должна переодеваться, чтобы отправиться вместе со всеми по магазинам...{/m}[nointeract]"
-    Max_09 "{m}Ora Lisa deve cambiarsi d'abito per andare a fare shopping con tutti... {/m}[nointeract]"
+    # [Max_09 "{m}Сейчас Лиза должна переодеваться, чтобы отправиться вместе со всеми по магазинам...{/m}" nointeract
+    Max_09 "{m}Ora Lisa deve cambiarsi d'abito per andare a fare shopping con tutti... {/m}" nointeract
 
 # game/events/lisa.rpy:737
 translate italian lisa_dressed_aaeb2a78:
 
-    # [Max_09 "{m}Сейчас Лиза обычно переодевается, чтобы отправиться на занятие к репетитору...{/m}[nointeract]"
-    Max_09 "{m}Ora Lisa di solito cambia i vestiti per andare a lezione con un tutor... {/m}[nointeract]"
+    # [Max_09 "{m}Сейчас Лиза обычно переодевается, чтобы отправиться на занятие к репетитору...{/m}" nointeract
+    Max_09 "{m}Ora Lisa di solito cambia i vestiti per andare a lezione con un tutor... {/m}" nointeract
 
 # game/events/lisa.rpy:740
 translate italian lisa_dressed_c83f0902:
 
-    # [Max_09 "{m}Сейчас Лиза обычно переодевается, чтобы пойти погулять. Ну, или что она там ещё делает...{/m}[nointeract]"
-    Max_09 "{m}Ora Lisa di solito cambia i vestiti per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo lì... {/m}[nointeract]"
+    # [Max_09 "{m}Сейчас Лиза обычно переодевается, чтобы пойти погулять. Ну, или что она там ещё делает...{/m}" nointeract
+    Max_09 "{m}Ora Lisa di solito cambia i vestiti per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo lì... {/m}" nointeract
 
 # game/events/lisa.rpy:754
 translate italian lisa_dressed_869e0bce:
 
-    # [Lisa]{b}Лиза:{/b} Кто там? Я переодеваюсь![nointeract]"
-    Lisa]{b}Lisa:{/b} Chi c'è? Mi sto cambiando i vestiti![nointeract]"
+    # [Lisa]{b}Лиза:{/b} Кто там? Я переодеваюсь!" nointeract
+    Lisa]{b}Lisa:{/b} Chi c'è? Mi sto cambiando i vestiti!" nointeract
 
 # game/events/lisa.rpy:760
 translate italian lisa_dressed_3c9093ff:
 
-    # [Lisa]{b}Лиза:{/b} Макс, дай одеться спокойно! Потом свой ноутбук заберёшь...[nointeract]"
-    Lisa]{b}Lisa:{/b} Max, fammi vestire tranquillamente! Poi prendi il tuo laptop ...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} Макс, дай одеться спокойно! Потом свой ноутбук заберёшь..." nointeract
+    Lisa]{b}Lisa:{/b} Max, fammi vestire tranquillamente! Poi prendi il tuo laptop ..." nointeract
 
 # game/events/lisa.rpy:790
 translate italian lisa_dressed_be364192:
 
-    # [Max_01 "Ого, какой вид! Вот это я удачно заглянул![nointeract]"
-    Max_01 "Wow, che vista! Questo è quello che ho guardato bene![nointeract]"
+    # [Max_01 "Ого, какой вид! Вот это я удачно заглянул!" nointeract
+    Max_01 "Wow, che vista! Questo è quello che ho guardato bene!" nointeract
 
 # game/events/lisa.rpy:805
 translate italian lisa_dressed_get_notebook0_02a8d3e8:
@@ -275,8 +275,8 @@ translate italian lisa_dressed_get_notebook0_4d87ccb7:
 # game/events/lisa.rpy:808
 translate italian lisa_dressed_get_notebook0_0677ddc2:
 
-    # [Lisa_12 "Ладно, неважно... Забирай свой ноутбук и уходи. Дай мне уже переодеться...[nointeract]"
-    Lisa_12 "Va bene, non importa... Prendi il tuo laptop e parti. Fammi cambiare i vestiti...[nointeract]"
+    # [Lisa_12 "Ладно, неважно... Забирай свой ноутбук и уходи. Дай мне уже переодеться..." nointeract
+    Lisa_12 "Va bene, non importa... Prendi il tuo laptop e parti. Fammi cambiare i vestiti..." nointeract
 
 # game/events/lisa.rpy:810
 translate italian lisa_dressed_get_notebook0_fb4e2ab0:
@@ -299,8 +299,8 @@ translate italian lisa_dressed_get_notebook0_d66e147c:
 # game/events/lisa.rpy:813
 translate italian lisa_dressed_get_notebook0_2d30e546:
 
-    # [Lisa_10 "Ты не глазей, а ноутбук быстрее забирай и уходи. Дай мне уже переодеться...[nointeract]"
-    Lisa_10 "Non stai guardando, ma prendi il laptop più velocemente e parti. Fammi cambiare i vestiti...[nointeract]"
+    # [Lisa_10 "Ты не глазей, а ноутбук быстрее забирай и уходи. Дай мне уже переодеться..." nointeract
+    Lisa_10 "Non stai guardando, ma prendi il laptop più velocemente e parti. Fammi cambiare i vestiti..." nointeract
 
 # game/events/lisa.rpy:815
 translate italian lisa_dressed_get_notebook0_6588bce8:
@@ -323,20 +323,20 @@ translate italian lisa_dressed_get_notebook0_d66e147c_1:
 # game/events/lisa.rpy:820
 translate italian lisa_dressed_get_notebook0_2d30e546_1:
 
-    # [Lisa_10 "Ты не глазей, а ноутбук быстрее забирай и уходи. Дай мне уже переодеться...[nointeract]"
-    Lisa_10 "Non stai guardando, ma prendi il laptop più velocemente e parti. Fammi cambiare i vestiti...[nointeract]"
+    # [Lisa_10 "Ты не глазей, а ноутбук быстрее забирай и уходи. Дай мне уже переодеться..." nointeract
+    Lisa_10 "Non stai guardando, ma prendi il laptop più velocemente e parti. Fammi cambiare i vestiti..." nointeract
 
 # game/events/lisa.rpy:823
 translate italian lisa_dressed_get_notebook0_eb706326:
 
-    # [Lisa_09 "Не раньше тебе и не позже! Бери и уходи. Я хочу спокойно переодеться...[nointeract]"
-    Lisa_09 "Non prima di te e non dopo! Prendilo e vai. Voglio cambiare i vestiti tranquillamente...[nointeract]"
+    # [Lisa_09 "Не раньше тебе и не позже! Бери и уходи. Я хочу спокойно переодеться..." nointeract
+    Lisa_09 "Non prima di te e non dopo! Prendilo e vai. Voglio cambiare i vestiti tranquillamente..." nointeract
 
 # game/events/lisa.rpy:834
 translate italian lisa_dressed_get_notebook1_657f8291:
 
-    # [Lisa]{b}Лиза:{/b} Ладно, так уж и быть, забирай быстрее...[nointeract]"
-    Lisa]{b}Lisa:{/b} Ok, così sia, prendila più veloce...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} Ладно, так уж и быть, забирай быстрее..." nointeract
+    Lisa]{b}Lisa:{/b} Ok, così sia, prendila più veloce..." nointeract
 
 # game/events/lisa.rpy:837
 translate italian lisa_dressed_get_notebook1_77805a20:
@@ -359,8 +359,8 @@ translate italian lisa_dressed_get_notebook1_6388868d:
 # game/events/lisa.rpy:840
 translate italian lisa_dressed_get_notebook1_8649258d:
 
-    # [Lisa_00 "Ладно, неважно... Дай мне уже переодеться![nointeract]"
-    Lisa_00 "Va bene, non importa... Fammi cambiare i vestiti![nointeract]"
+    # [Lisa_00 "Ладно, неважно... Дай мне уже переодеться!" nointeract
+    Lisa_00 "Va bene, non importa... Fammi cambiare i vestiti!" nointeract
 
 # game/events/lisa.rpy:842
 translate italian lisa_dressed_get_notebook1_a85f1f9c:
@@ -383,8 +383,8 @@ translate italian lisa_dressed_get_notebook1_07b6f868:
 # game/events/lisa.rpy:845
 translate italian lisa_dressed_get_notebook1_8649258d_1:
 
-    # [Lisa_00 "Ладно, неважно... Дай мне уже переодеться![nointeract]"
-    Lisa_00 "Va bene, non importa... Fammi cambiare i vestiti![nointeract]"
+    # [Lisa_00 "Ладно, неважно... Дай мне уже переодеться!" nointeract
+    Lisa_00 "Va bene, non importa... Fammi cambiare i vestiti!" nointeract
 
 # game/events/lisa.rpy:848
 translate italian lisa_dressed_get_notebook1_a6bb39c7:
@@ -407,86 +407,86 @@ translate italian lisa_dressed_get_notebook1_32f69930:
 # game/events/lisa.rpy:852
 translate italian lisa_dressed_get_notebook1_6be31d8d:
 
-    # [Lisa_02 "Ага, так я тебе и поверила. Забирай его уже быстрее, деловой...[nointeract]"
-    Lisa_02 "sì, è così che ti ho creduto. Prendilo più velocemente, affari ...[nointeract]"
+    # [Lisa_02 "Ага, так я тебе и поверила. Забирай его уже быстрее, деловой..." nointeract
+    Lisa_02 "sì, è così che ti ho creduto. Prendilo più velocemente, affari ..." nointeract
 
 # game/events/lisa.rpy:865
 translate italian lisa_dressed_moment0_e9b34443:
 
-    # [Lisa_00 "Ой, Макс! А ты можешь немного погулять? Я переодеться хотела...[nointeract]"
-    Lisa_00 "Oh, Max! Puoi fare una piccola passeggiata? Volevo cambiarmi d'[nointeract]"
+    # [Lisa_00 "Ой, Макс! А ты можешь немного погулять? Я переодеться хотела..." nointeract
+    Lisa_00 "Oh, Max! Puoi fare una piccola passeggiata? Volevo cambiarmi d'" nointeract
 
 # game/events/lisa.rpy:868
 translate italian lisa_dressed_moment0_d06bbd27:
 
-    # [Lisa_10 "Ну да... Я стесняюсь это делать при тебе. Ты же наверняка подглядывать будешь![nointeract]"
-    Lisa_10 "sì... Sono imbarazzato a farlo con te. Probabilmente farai capolino![nointeract]"
+    # [Lisa_10 "Ну да... Я стесняюсь это делать при тебе. Ты же наверняка подглядывать будешь!" nointeract
+    Lisa_10 "sì... Sono imbarazzato a farlo con te. Probabilmente farai capolino!" nointeract
 
 # game/events/lisa.rpy:870
 translate italian lisa_dressed_moment0_ca4f8bf0:
 
-    # [Lisa_13 "В смысле?! Это когда ты успел меня голой увидеть?[nointeract]"
-    Lisa_13 "voglio dire?! È quando potresti vedermi nudo?[nointeract]"
+    # [Lisa_13 "В смысле?! Это когда ты успел меня голой увидеть?" nointeract
+    Lisa_13 "voglio dire?! È quando potresti vedermi nudo?" nointeract
 
 # game/events/lisa.rpy:873
 translate italian lisa_dressed_moment0_3e816722:
 
-    # [Lisa_09 "Ага! Так я тебе и поверила. Пожалуйста, дай спокойно переодеться. Я же недолго, Макс![nointeract]"
-    Lisa_09 "sì. È così che ti ho creduto. Per favore, fammi cambiare i vestiti in silenzio. Non sono per molto, Max![nointeract]"
+    # [Lisa_09 "Ага! Так я тебе и поверила. Пожалуйста, дай спокойно переодеться. Я же недолго, Макс!" nointeract
+    Lisa_09 "sì. È così che ti ho creduto. Per favore, fammi cambiare i vestiti in silenzio. Non sono per molto, Max!" nointeract
 
 # game/events/lisa.rpy:876
 translate italian lisa_dressed_moment0_89f1263a:
 
-    # [Lisa_09 "Откуда я знаю, что ты видел, а что ещё нет? Как бы там ни было, я стесняюсь и хочу переодеться без свидетелей.[nointeract]"
-    Lisa_09 "Come faccio a sapere cosa hai visto e cosa non hai visto? Ad ogni modo, sono imbarazzato e voglio cambiare i vestiti senza testimoni.[nointeract]"
+    # [Lisa_09 "Откуда я знаю, что ты видел, а что ещё нет? Как бы там ни было, я стесняюсь и хочу переодеться без свидетелей." nointeract
+    Lisa_09 "Come faccio a sapere cosa hai visto e cosa non hai visto? Ad ogni modo, sono imbarazzato e voglio cambiare i vestiti senza testimoni." nointeract
 
 # game/events/lisa.rpy:879
 translate italian lisa_dressed_moment0_930f8d87:
 
-    # [Lisa_02 "Вот представь, ну никак не могу! Стесняюсь. А переодеться надо. Так что, можно я спокойно это сделаю? И без свидетелей...[nointeract]"
-    Lisa_02 "Non riesco a immaginare! Timido. E devi cambiare i vestiti. Quindi posso farlo in sicurezza? E senza testimoni...[nointeract]"
+    # [Lisa_02 "Вот представь, ну никак не могу! Стесняюсь. А переодеться надо. Так что, можно я спокойно это сделаю? И без свидетелей..." nointeract
+    Lisa_02 "Non riesco a immaginare! Timido. E devi cambiare i vestiti. Quindi posso farlo in sicurezza? E senza testimoni..." nointeract
 
 # game/events/lisa.rpy:883
 translate italian lisa_dressed_moment0_a9de2a0b:
 
-    # [Lisa_01 "И сдался он тебе прямо сейчас? Я же не буду одеваться целый час.[nointeract]"
-    Lisa_01 "E si è arreso a te proprio ora? Non ho intenzione di vestirmi per un'ora.[nointeract]"
+    # [Lisa_01 "И сдался он тебе прямо сейчас? Я же не буду одеваться целый час." nointeract
+    Lisa_01 "E si è arreso a te proprio ora? Non ho intenzione di vestirmi per un'ora." nointeract
 
 # game/events/lisa.rpy:885
 translate italian lisa_dressed_moment0_ce7b5650:
 
-    # [Lisa_01 "Ну забирай, если он тебе так нужен. А так, я недолго буду одеваться, можешь подождать...[nointeract]"
-    Lisa_01 "Bene, toglilo se ne hai bisogno così tanto. E così, non ho intenzione di vestirmi a lungo, puoi aspettare...[nointeract]"
+    # [Lisa_01 "Ну забирай, если он тебе так нужен. А так, я недолго буду одеваться, можешь подождать..." nointeract
+    Lisa_01 "Bene, toglilo se ne hai bisogno così tanto. E così, non ho intenzione di vestirmi a lungo, puoi aspettare..." nointeract
 
 # game/events/lisa.rpy:890
 translate italian lisa_dressed_moment0_4671244c:
 
-    # [Lisa_01 "Спасибо, Макс. Я быстренько![nointeract]"
-    Lisa_01 "Grazie, Max. Sono veloce![nointeract]"
+    # [Lisa_01 "Спасибо, Макс. Я быстренько!" nointeract
+    Lisa_01 "Grazie, Max. Sono veloce!" nointeract
 
 # game/events/lisa.rpy:903
 translate italian lisa_dressed_stay_in_room_9edd3eac:
 
-    # [Lisa_00 "Макс, мне нужно переодеться. Будь добр, погуляй немного или отвернись...[nointeract]"
-    Lisa_00 "Max, devo cambiare i vestiti. Sii gentile, fai una passeggiata o allontanati...[nointeract]"
+    # [Lisa_00 "Макс, мне нужно переодеться. Будь добр, погуляй немного или отвернись..." nointeract
+    Lisa_00 "Max, devo cambiare i vestiti. Sii gentile, fai una passeggiata o allontanati..." nointeract
 
 # game/events/lisa.rpy:908
 translate italian lisa_dressed_stay_in_room_769644c1:
 
-    # [Lisa]{b}Лиза:{/b} Я быстро... Главное, не подглядывай! Надеюсь, тебе это по силам...[nointeract]"
-    Lisa]{b}Lisa:{/b} Sono veloce... Soprattutto, non sbirciare! Spero che tu possa farlo...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} Я быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
+    Lisa]{b}Lisa:{/b} Sono veloce... Soprattutto, non sbirciare! Spero che tu possa farlo..." nointeract
 
 # game/events/lisa.rpy:910
 translate italian lisa_dressed_stay_in_room_08276951:
 
-    # [Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени...[nointeract]"
-    Lisa]{b}Lisa:{/b} E non fregiamo niente! Non ci vorrà molto...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени..." nointeract
+    Lisa]{b}Lisa:{/b} E non fregiamo niente! Non ci vorrà molto..." nointeract
 
 # game/events/lisa.rpy:912
 translate italian lisa_dressed_stay_in_room_cdba7705:
 
-    # [Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста![nointeract]"
-    Lisa]{b}Lisa:{/b} E vorrei che tu cercassi di non sbirciare... So che è difficile, ma per favore![nointeract]"
+    # [Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста!" nointeract
+    Lisa]{b}Lisa:{/b} E vorrei che tu cercassi di non sbirciare... So che è difficile, ma per favore!" nointeract
 
 # game/events/lisa.rpy:936
 translate italian lisa_dressed_moment2_8183fb49:
@@ -497,56 +497,56 @@ translate italian lisa_dressed_moment2_8183fb49:
 # game/events/lisa.rpy:942
 translate italian lisa_dressed_moment2_0caabb4b:
 
-    # [Lisa_14 "Быстро закрой дверь с той стороны и не входи, пока я не переоденусь![nointeract]"
-    Lisa_14 "Chiudi rapidamente la porta dall'altra parte e non entrare fino a quando non mi cambio i vestiti![nointeract]"
+    # [Lisa_14 "Быстро закрой дверь с той стороны и не входи, пока я не переоденусь!" nointeract
+    Lisa_14 "Chiudi rapidamente la porta dall'altra parte e non entrare fino a quando non mi cambio i vestiti!" nointeract
 
 # game/events/lisa.rpy:945
 translate italian lisa_dressed_moment2_b3661128:
 
-    # [Lisa_13 "Выйди и закрой за собой дверь! Мне нужно переодеться![nointeract]"
-    Lisa_13 "Esci e chiudi la porta dietro di te! Devo cambiare i vestiti![nointeract]"
+    # [Lisa_13 "Выйди и закрой за собой дверь! Мне нужно переодеться!" nointeract
+    Lisa_13 "Esci e chiudi la porta dietro di te! Devo cambiare i vestiti!" nointeract
 
 # game/events/lisa.rpy:948
 translate italian lisa_dressed_moment2_06742870:
 
-    # [Lisa_10 "Выйди, пожалуйста, чтобы я могла переодеться! И дверь за собой закрой![nointeract]"
-    Lisa_10 "Per favore, esci così posso cambiare i vestiti! E chiudi la porta dietro di te![nointeract]"
+    # [Lisa_10 "Выйди, пожалуйста, чтобы я могла переодеться! И дверь за собой закрой!" nointeract
+    Lisa_10 "Per favore, esci così posso cambiare i vestiti! E chiudi la porta dietro di te!" nointeract
 
 # game/events/lisa.rpy:959
 translate italian lisa_dressed_moment1_ab3e5dbc:
 
-    # [Lisa_11 "Макс! Я не одета!!! Быстро закрой дверь с той стороны и не входи, пока я не переоденусь![nointeract]"
+    # [Lisa_11 "Макс! Я не одета!!! Быстро закрой дверь с той стороны и не входи, пока я не переоденусь!" nointeract
     Lisa_11 "Max! Non sono vestito!!! Chiudi rapidamente la porta dall'altra parte e non entrare fino a quando non mi cambio i vestiti!"
 
 # game/events/lisa.rpy:962
 translate italian lisa_dressed_moment1_f9a4cf77:
 
-    # [Lisa_11 "Макс! Я не одета!!! Выйди и закрой за собой дверь! Мне нужно переодеться![nointeract]"
-    Lisa_11 "Max! Non sono vestito!!! Esci e chiudi la porta dietro di te! Devo cambiare i vestiti![nointeract]"
+    # [Lisa_11 "Макс! Я не одета!!! Выйди и закрой за собой дверь! Мне нужно переодеться!" nointeract
+    Lisa_11 "Max! Non sono vestito!!! Esci e chiudi la porta dietro di te! Devo cambiare i vestiti!" nointeract
 
 # game/events/lisa.rpy:965
 translate italian lisa_dressed_moment1_bf8db93b:
 
-    # [Lisa_11 "Макс! Я не одета!!! Выйди, пожалуйста, чтобы я могла переодеться! И дверь за собой закрой![nointeract]"
-    Lisa_11 "Max! Non sono vestito!!! Per favore, esci così posso cambiare i miei vestiti! E chiudi la porta dietro di te![nointeract]"
+    # [Lisa_11 "Макс! Я не одета!!! Выйди, пожалуйста, чтобы я могла переодеться! И дверь за собой закрой!" nointeract
+    Lisa_11 "Max! Non sono vestito!!! Per favore, esci così posso cambiare i miei vestiti! E chiudi la porta dietro di te!" nointeract
 
 # game/events/lisa.rpy:972
 translate italian lisa_dressed_lvl_1_b2616dcb:
 
-    # [Lisa_12 "Что?! Если не уйдёшь, то я всё маме расскажу![nointeract]"
-    Lisa_12 "Cosa?! Se non te ne vai, dirò tutto a mia madre![nointeract]"
+    # [Lisa_12 "Что?! Если не уйдёшь, то я всё маме расскажу!" nointeract
+    Lisa_12 "Cosa?! Se non te ne vai, dirò tutto a mia madre!" nointeract
 
 # game/events/lisa.rpy:976
 translate italian lisa_dressed_lvl_1_b2616dcb_1:
 
-    # [Lisa_12 "Что?! Если не уйдёшь, то я всё маме расскажу![nointeract]"
-    Lisa_12 "Cosa?! Se non te ne vai, dirò tutto a mia madre![nointeract]"
+    # [Lisa_12 "Что?! Если не уйдёшь, то я всё маме расскажу!" nointeract
+    Lisa_12 "Cosa?! Se non te ne vai, dirò tutto a mia madre!" nointeract
 
 # game/events/lisa.rpy:979
 translate italian lisa_dressed_lvl_1_10a5c581:
 
-    # [Lisa_12 "Макс! Я ведь маме на тебя нажалуюсь, если не уйдёшь![nointeract]"
-    Lisa_12 "Max! Mi lamenterò con mia mamma se non te ne vai![nointeract]"
+    # [Lisa_12 "Макс! Я ведь маме на тебя нажалуюсь, если не уйдёшь!" nointeract
+    Lisa_12 "Max! Mi lamenterò con mia mamma se non te ne vai!" nointeract
 
 # game/events/lisa.rpy:982
 translate italian lisa_dressed_lvl_1_4d33062b:
@@ -557,26 +557,26 @@ translate italian lisa_dressed_lvl_1_4d33062b:
 # game/events/lisa.rpy:988
 translate italian lisa_dressed_lvl_2_366df3c4:
 
-    # [Lisa_10 "Не надо меня тут комплиментами одаривать, чтобы подольше поглазеть! Или хочешь, чтобы я маме об этом рассказала?[nointeract]"
-    Lisa_10 "Non farmi complimenti qui per dare più tempo! O vuoi che lo dica a mia madre?[nointeract]"
+    # [Lisa_10 "Не надо меня тут комплиментами одаривать, чтобы подольше поглазеть! Или хочешь, чтобы я маме об этом рассказала?" nointeract
+    Lisa_10 "Non farmi complimenti qui per dare più tempo! O vuoi che lo dica a mia madre?" nointeract
 
 # game/events/lisa.rpy:991
 translate italian lisa_dressed_lvl_2_0fe7cd3f:
 
-    # [Lisa_10 "А вот не надо на неё так глазеть! Я ведь и маме всё могу рассказать, если не уйдёшь.[nointeract]"
-    Lisa_10 "Ma non fissarla così! Dopotutto, posso dire tutto a mia madre se non te ne vai.[nointeract]"
+    # [Lisa_10 "А вот не надо на неё так глазеть! Я ведь и маме всё могу рассказать, если не уйдёшь." nointeract
+    Lisa_10 "Ma non fissarla così! Dopotutto, posso dire tutto a mia madre se non te ne vai." nointeract
 
 # game/events/lisa.rpy:994
 translate italian lisa_dressed_lvl_2_0d3512aa:
 
-    # [Lisa_10 "Ну, Макс! Дай переодеться спокойно... Пожалуйста! Или мне маме пожаловаться?[nointeract]"
-    Lisa_10 "Bene, Max! Cambiamo i vestiti in tutta tranquillità... Prego! O dovrei lamentarmi con mia madre?[nointeract]"
+    # [Lisa_10 "Ну, Макс! Дай переодеться спокойно... Пожалуйста! Или мне маме пожаловаться?" nointeract
+    Lisa_10 "Bene, Max! Cambiamo i vestiti in tutta tranquillità... Prego! O dovrei lamentarmi con mia madre?" nointeract
 
 # game/events/lisa.rpy:999
 translate italian lisa_dressed_lvl_2_766601ad:
 
-    # [Lisa_09 "Ну и долго ты ещё пялиться на меня будешь?! Выйди и подожди. Я недолго...[nointeract]"
-    Lisa_09 "Beh, per quanto tempo mi fisserai?! Esci e aspetta. Non sono lungo...[nointeract]"
+    # [Lisa_09 "Ну и долго ты ещё пялиться на меня будешь?! Выйди и подожди. Я недолго..." nointeract
+    Lisa_09 "Beh, per quanto tempo mi fisserai?! Esci e aspetta. Non sono lungo..." nointeract
 
 # game/events/lisa.rpy:1006
 translate italian lisa_dressed_lvl_3_9f4e5577:
@@ -593,8 +593,8 @@ translate italian lisa_dressed_lvl_3_f073ff95:
 # game/events/lisa.rpy:1008
 translate italian lisa_dressed_lvl_3_01edfdc0:
 
-    # [Lisa_09 "Ну, Макс![nointeract]"
-    Lisa_09 "Bene, Max![nointeract]"
+    # [Lisa_09 "Ну, Макс!" nointeract
+    Lisa_09 "Bene, Max!" nointeract
 
 # game/events/lisa.rpy:1012
 translate italian lisa_dressed_lvl_3_53bb992b:
@@ -611,8 +611,8 @@ translate italian lisa_dressed_lvl_3_f331a21c:
 # game/events/lisa.rpy:1014
 translate italian lisa_dressed_lvl_3_01edfdc0_1:
 
-    # [Lisa_09 "Ну, Макс![nointeract]"
-    Lisa_09 "Bene, Max![nointeract]"
+    # [Lisa_09 "Ну, Макс!" nointeract
+    Lisa_09 "Bene, Max!" nointeract
 
 # game/events/lisa.rpy:1017
 translate italian lisa_dressed_lvl_3_aa58b1e2:
@@ -635,8 +635,8 @@ translate italian lisa_dressed_lvl_3_ab614b1d:
 # game/events/lisa.rpy:1022
 translate italian lisa_dressed_lvl_3_1e3411b7:
 
-    # [Lisa_13 "Ты! Ничего! Не видел! Понял? И хватит на меня глазеть с таким довольным лицом... Выйди и подожди за дверью![nointeract]"
-    Lisa_13 "Tu! Non c'è problema! Non l'ho visto! Ho capito? E smettila di fissarmi con una faccia così felice... Esci e aspetta fuori dalla porta![nointeract]"
+    # [Lisa_13 "Ты! Ничего! Не видел! Понял? И хватит на меня глазеть с таким довольным лицом... Выйди и подожди за дверью!" nointeract
+    Lisa_13 "Tu! Non c'è problema! Non l'ho visto! Ho capito? E smettila di fissarmi con una faccia così felice... Esci e aspetta fuori dalla porta!" nointeract
 
 # game/events/lisa.rpy:1027
 translate italian lisa_dressed_lvl_3_fd7a8374:
@@ -653,8 +653,8 @@ translate italian lisa_dressed_lvl_3_fb1e1d49:
 # game/events/lisa.rpy:1029
 translate italian lisa_dressed_lvl_3_b98d244b:
 
-    # [Lisa_02 "Макс, займись чем-нибудь путным.[nointeract]"
-    Lisa_02 "Max, fai qualcosa.[nointeract]"
+    # [Lisa_02 "Макс, займись чем-нибудь путным." nointeract
+    Lisa_02 "Max, fai qualcosa." nointeract
 
 # game/events/lisa.rpy:1039
 translate italian lisa_dressed_try_to_peek_b3342fcc:
@@ -677,20 +677,20 @@ translate italian lisa_dressed_try_to_peek_6614903d:
 # game/events/lisa.rpy:1051
 translate italian lisa_dressed_try_to_peek_1ae137e9:
 
-    # [Lisa_11 "[spotted!t]Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?![nointeract]"
-    Lisa_11 "[spotted!t]Max! Ho chiesto di non sbirciare! Bene, allontanati velocemente... Ancora una volta lo farai e dirò tutto a mia madre! Ho capito?![nointeract]"
+    # [Lisa_11 "[spotted!t]Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?!" nointeract
+    Lisa_11 "[spotted!t]Max! Ho chiesto di non sbirciare! Bene, allontanati velocemente... Ancora una volta lo farai e dirò tutto a mia madre! Ho capito?!" nointeract
 
 # game/events/lisa.rpy:1054
 translate italian lisa_dressed_try_to_peek_b99743fe:
 
-    # [Lisa_11 "[spotted!t]Ну, Макс! Прекращай подглядывать! Если не отвернёшься или ещё раз такое выкинешь, я на тебя маме нажалуюсь... Тебе ясно?![nointeract]"
-    Lisa_11 "[spotted!t] Beh, Max! Smetti di sbirciare! Se non ti allontani o non lo butti fuori di nuovo, mi lamenterò di te con mia madre... Ti è chiaro?![nointeract]"
+    # [Lisa_11 "[spotted!t]Ну, Макс! Прекращай подглядывать! Если не отвернёшься или ещё раз такое выкинешь, я на тебя маме нажалуюсь... Тебе ясно?!" nointeract
+    Lisa_11 "[spotted!t] Beh, Max! Smetti di sbirciare! Se non ti allontani o non lo butti fuori di nuovo, mi lamenterò di te con mia madre... Ti è chiaro?!" nointeract
 
 # game/events/lisa.rpy:1056
 translate italian lisa_dressed_try_to_peek_2ba94453:
 
-    # [Lisa_11 "[spotted!t]Опять ты подглядываешь! И не стыдно тебе?! Делать тебе больше нечего, только глазеть, как я переодеваюсь... Прекращай![nointeract]"
-    Lisa_11 "[spotted!t] Stai sbirciando di nuovo! E non vergognarti di te?! Non hai nient'altro da fare, basta fissare come cambio i vestiti... Fermarsi![nointeract]"
+    # [Lisa_11 "[spotted!t]Опять ты подглядываешь! И не стыдно тебе?! Делать тебе больше нечего, только глазеть, как я переодеваюсь... Прекращай!" nointeract
+    Lisa_11 "[spotted!t] Stai sbirciando di nuovo! E non vergognarti di te?! Non hai nient'altro da fare, basta fissare come cambio i vestiti... Fermarsi!" nointeract
 
 # game/events/lisa.rpy:1059
 translate italian lisa_dressed_try_to_peek_d37ef64c:
@@ -719,14 +719,14 @@ translate italian lisa_dressed_try_to_peek_ff32bf71_1:
 # game/events/lisa.rpy:1067
 translate italian lisa_dressed_try_to_peek_470a2396:
 
-    # [Lisa_13 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись![nointeract]"
-    Lisa_13 "Beh, per quanto tempo mi fisserai?! Girare![nointeract]"
+    # [Lisa_13 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись!" nointeract
+    Lisa_13 "Beh, per quanto tempo mi fisserai?! Girare!" nointeract
 
 # game/events/lisa.rpy:1069
 translate italian lisa_dressed_try_to_peek_f94f03ae:
 
-    # [Lisa_09 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись. Я недолго...[nointeract]"
-    Lisa_09 "Beh, per quanto tempo mi fisserai?! Girare. Non sono lungo...[nointeract]"
+    # [Lisa_09 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись. Я недолго..." nointeract
+    Lisa_09 "Beh, per quanto tempo mi fisserai?! Girare. Non sono lungo..." nointeract
 
 # game/events/lisa.rpy:1074
 translate italian lisa_dressed_try_to_peek_66f1c3a5:
@@ -767,14 +767,14 @@ translate italian lisa_dressed_try_to_peek_e22e7d62:
 # game/events/lisa.rpy:1082
 translate italian lisa_dressed_try_to_peek_01a9904e:
 
-    # [Lisa_02 "Макс, ты меня совсем сейчас засмущаешь! Отвернись, пожалуйста...[nointeract]"
-    Lisa_02 "Max, mi stai mettendo in imbarazzo in questo momento! Si prega di allontanarsi...[nointeract]"
+    # [Lisa_02 "Макс, ты меня совсем сейчас засмущаешь! Отвернись, пожалуйста..." nointeract
+    Lisa_02 "Max, mi stai mettendo in imbarazzo in questo momento! Si prega di allontanarsi..." nointeract
 
 # game/events/lisa.rpy:1229
 translate italian lisa_bath_96660cea:
 
-    # [Max_00 "В это время Лиза обычно плескается в ванне...[nointeract]"
-    Max_00 "In questo momento, Lisa di solito sguazza nella vasca da bagno...[nointeract]"
+    # [Max_00 "В это время Лиза обычно плескается в ванне..." nointeract
+    Max_00 "In questo momento, Lisa di solito sguazza nella vasca da bagno..." nointeract
 
 # game/events/lisa.rpy:1237
 translate italian lisa_bath_26dcc088:
@@ -803,38 +803,38 @@ translate italian lisa_bath_ladder_2b325faf:
 # game/events/lisa.rpy:1267
 translate italian lisa_bath_ladder_e4d05fa2:
 
-    # [Max_03 "Кажется, Лиза как раз собирается принять ванну... О да, моя младшая сестрёнка хороша... а голенькая, так особенно![nointeract]"
-    Max_03 "Sembra che Lisa stia per fare il bagno... Oh sì, la mia sorellina è brava... e nudo, quindi soprattutto![nointeract]"
+    # [Max_03 "Кажется, Лиза как раз собирается принять ванну... О да, моя младшая сестрёнка хороша... а голенькая, так особенно!" nointeract
+    Max_03 "Sembra che Lisa stia per fare il bagno... Oh sì, la mia sorellina è brava... e nudo, quindi soprattutto!" nointeract
 
 # game/events/lisa.rpy:1273
 translate italian lisa_bath_ladder_7e0784ba:
 
-    # [Max_05 "Ох, вот это повезло! Лиза демонстрирует свои прелестные сисечки словно специально! Разумеется, она не знает, что я смотрю, а то крику бы было...[nointeract]"
-    Max_05 "Oh, è fortunato! Lisa mostra il suo adorabile sisechki come di proposito! Certo, lei non sa cosa sto guardando, a parte l'urlo sarebbe...[nointeract]"
+    # [Max_05 "Ох, вот это повезло! Лиза демонстрирует свои прелестные сисечки словно специально! Разумеется, она не знает, что я смотрю, а то крику бы было..." nointeract
+    Max_05 "Oh, è fortunato! Lisa mostra il suo adorabile sisechki come di proposito! Certo, lei non sa cosa sto guardando, a parte l'urlo sarebbe..." nointeract
 
 # game/events/lisa.rpy:1282
 translate italian lisa_bath_ladder_7e0784ba_1:
 
-    # [Max_05 "Ох, вот это повезло! Лиза демонстрирует свои прелестные сисечки словно специально! Разумеется, она не знает, что я смотрю, а то крику бы было...[nointeract]"
-    Max_05 "Oh, è fortunato! Lisa mostra il suo adorabile sisechki come di proposito! Certo, lei non sa cosa sto guardando, a parte l'urlo sarebbe...[nointeract]"
+    # [Max_05 "Ох, вот это повезло! Лиза демонстрирует свои прелестные сисечки словно специально! Разумеется, она не знает, что я смотрю, а то крику бы было..." nointeract
+    Max_05 "Oh, è fortunato! Lisa mostra il suo adorabile sisechki come di proposito! Certo, lei non sa cosa sto guardando, a parte l'urlo sarebbe..." nointeract
 
 # game/events/lisa.rpy:1288
 translate italian lisa_bath_ladder_af2181e8:
 
-    # [Max_07 "Эх! Вот и закончились водные процедуры... Ухх... И с этой обворожительной киской я живу в одной комнате! Красота...[nointeract]"
-    Max_07 "Eh! Questa è la fine delle procedure idriche... Uh... E con quell'affascinante kisske, vivo nella stessa stanza! Bellezza...[nointeract]"
+    # [Max_07 "Эх! Вот и закончились водные процедуры... Ухх... И с этой обворожительной киской я живу в одной комнате! Красота..." nointeract
+    Max_07 "Eh! Questa è la fine delle procedure idriche... Uh... E con quell'affascinante kisske, vivo nella stessa stanza! Bellezza..." nointeract
 
 # game/events/lisa.rpy:1297
 translate italian lisa_bath_knock_b1c84f9a:
 
-    # [Lisa]{b}Лиза:{/b} Кто там? Я принимаю ванну...[nointeract]"
-    Lisa]{b}Lisa:{/b} Chi c'è? Faccio il bagno...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} Кто там? Я принимаю ванну..." nointeract
+    Lisa]{b}Lisa:{/b} Chi c'è? Faccio il bagno..." nointeract
 
 # game/events/lisa.rpy:1300
 translate italian lisa_bath_knock_d71a1367:
 
-    # [Lisa]{b}Лиза:{/b} Я же сказала, что в ванне. Закончу, тогда и войдёшь! А пока жди...[nointeract]"
-    Lisa]{b}Lisa:{/b} Ho detto che ero nella vasca. Finirò, poi entrerai tu! Nel frattempo, aspetta...[nointeract]"
+    # [Lisa]{b}Лиза:{/b} Я же сказала, что в ванне. Закончу, тогда и войдёшь! А пока жди..." nointeract
+    Lisa]{b}Lisa:{/b} Ho detto che ero nella vasca. Finirò, poi entrerai tu! Nel frattempo, aspetta..." nointeract
 
 # game/events/lisa.rpy:1318
 translate italian lisa_bath_open_knock_397f3e74:
@@ -869,8 +869,8 @@ translate italian lisa_bath_open_knock_cf666e29:
 # game/events/lisa.rpy:1346
 translate italian lisa_bath_open_44974c8f:
 
-    # [Lisa_11 "Макс! А постучаться? Я же голая![nointeract]"
-    Lisa_11 "Max! E bussare? Sono nudo![nointeract]"
+    # [Lisa_11 "Макс! А постучаться? Я же голая!" nointeract
+    Lisa_11 "Max! E bussare? Sono nudo!" nointeract
 
 # game/events/lisa.rpy:1353
 translate italian lisa_bath_open_bb4cd26f:
@@ -1385,8 +1385,8 @@ translate italian lisa_horor_movie_0_0302cbc0:
 # game/events/lisa.rpy:1565
 translate italian lisa_horor_movie_0_46ea63fd:
 
-    # [Lisa_03 "Я думала посмотреть все части \"Кошмара на улице Вязов\" или \"Пятницы 13-е\". Мне в школе посоветовали. Но выбирать тебе, ты же будешь бояться.[nointeract]"
-    Lisa_03 "stavo pensando di guardare tutte le parti di \"A Nightmare on Elm Street\" o \"Friday the 13th\". Sono stato consigliato a scuola. Ma avrai paura di scegliere.[nointeract]"
+    # [Lisa_03 "Я думала посмотреть все части \"Кошмара на улице Вязов\" или \"Пятницы 13-е\". Мне в школе посоветовали. Но выбирать тебе, ты же будешь бояться." nointeract
+    Lisa_03 "stavo pensando di guardare tutte le parti di \"A Nightmare on Elm Street\" o \"Friday the 13th\". Sono stato consigliato a scuola. Ma avrai paura di scegliere." nointeract
 
 # game/events/lisa.rpy:1578
 translate italian lisa_horor_movie_0_d62d1fc8:
@@ -1541,8 +1541,8 @@ translate italian lisa_horor_movie_r_eeace2b8:
 # game/events/lisa.rpy:1654
 translate italian lisa_horor_movie_r_821fd45a:
 
-    # [Lisa_00 "Ой, я даже не знаю... Главное, чтобы и тебе было страшно! И желательно, чтобы больше, чем мне.[nointeract]"
-    Lisa_00 "Oh, non lo so nemmeno... La cosa principale è che dovresti avere paura! Ed è auspicabile che più di me.[nointeract]"
+    # [Lisa_00 "Ой, я даже не знаю... Главное, чтобы и тебе было страшно! И желательно, чтобы больше, чем мне." nointeract
+    Lisa_00 "Oh, non lo so nemmeno... La cosa principale è che dovresti avere paura! Ed è auspicabile che più di me." nointeract
 
 # game/events/lisa.rpy:1687
 translate italian lisa_horor_movie_r_40f992d8:
@@ -1553,8 +1553,8 @@ translate italian lisa_horor_movie_r_40f992d8:
 # game/events/lisa.rpy:1690
 translate italian lisa_horor_movie_r_821fd45a_1:
 
-    # [Lisa_00 "Ой, я даже не знаю... Главное, чтобы и тебе было страшно! И желательно, чтобы больше, чем мне.[nointeract]"
-    Lisa_00 "Oh, non lo so nemmeno... La cosa principale è che dovresti avere paura! Ed è auspicabile che più di me.[nointeract]"
+    # [Lisa_00 "Ой, я даже не знаю... Главное, чтобы и тебе было страшно! И желательно, чтобы больше, чем мне." nointeract
+    Lisa_00 "Oh, non lo so nemmeno... La cosa principale è che dovresti avere paura! Ed è auspicabile che più di me." nointeract
 
 # game/events/lisa.rpy:1739
 translate italian lisa_horor_movie_r_10373a9d:
@@ -1589,14 +1589,14 @@ translate italian lisa_horor_movie_r_6c701e39:
 # game/events/lisa.rpy:1755
 translate italian lisa_horor_movie_r_03a8041a:
 
-    # [Max_10 "{m}Только бы у меня не встал! У меня тут полный эффект погружения... Ладно в ужастике сиськи голые периодически мелькают, а вот голая грудь моей сестрёнки, которой она слегка трётся о меня, вот это проблема... Как тут сдерживаться?{/m}[nointeract]"
-    Max_10 "{m}Se solo non mi alzassi! Ho un effetto immersivo completo qui ... Va bene nelle tette dell'orrore le tette nude periodicamente lampeggiano, ma il seno nudo di mia sorella, che lei mi strofina leggermente, questo è il problema... Come ti trattengi? {/m}[nointeract]"
+    # [Max_10 "{m}Только бы у меня не встал! У меня тут полный эффект погружения... Ладно в ужастике сиськи голые периодически мелькают, а вот голая грудь моей сестрёнки, которой она слегка трётся о меня, вот это проблема... Как тут сдерживаться?{/m}" nointeract
+    Max_10 "{m}Se solo non mi alzassi! Ho un effetto immersivo completo qui ... Va bene nelle tette dell'orrore le tette nude periodicamente lampeggiano, ma il seno nudo di mia sorella, che lei mi strofina leggermente, questo è il problema... Come ti trattengi? {/m}" nointeract
 
 # game/events/lisa.rpy:1757
 translate italian lisa_horor_movie_r_d21ad010:
 
-    # [Max_10 "{m}Только бы у меня не встал! Ещё периодически сиськи голые в ужастике мелькают... Как тут сдерживаться?{/m}[nointeract]"
-    Max_10 "{m}Se solo non mi alzassi! Ancora periodicamente tette nude nel flash horror ... Come ti trattengi? {/m}[nointeract]"
+    # [Max_10 "{m}Только бы у меня не встал! Ещё периодически сиськи голые в ужастике мелькают... Как тут сдерживаться?{/m}" nointeract
+    Max_10 "{m}Se solo non mi alzassi! Ancora periodicamente tette nude nel flash horror ... Come ti trattengi? {/m}" nointeract
 
 # game/events/lisa.rpy:1762
 translate italian lisa_horor_movie_r_11d3ed3b:
@@ -1637,8 +1637,8 @@ translate italian lisa_horor_movie_r_7656a27c:
 # game/events/lisa.rpy:1782
 translate italian lisa_horor_movie_r_2ccbf395:
 
-    # [Lisa_05 "Чтобы со мной рядом кое-что шевелилось? Так я точно не усну. Мне нужно как-то храбрости набраться...[nointeract]"
-    Lisa_05 "Quel qualcosa si muove accanto a me? Sicuramente non mi addormenterò in quel modo. Devo avere un po' di coraggio...[nointeract]"
+    # [Lisa_05 "Чтобы со мной рядом кое-что шевелилось? Так я точно не усну. Мне нужно как-то храбрости набраться..." nointeract
+    Lisa_05 "Quel qualcosa si muove accanto a me? Sicuramente non mi addormenterò in quel modo. Devo avere un po' di coraggio..." nointeract
 
 # game/events/lisa.rpy:1793
 translate italian lisa_horor_movie_r_a6cf8168:

@@ -21,14 +21,14 @@ translate italian KiraTalkStart_14a49468:
 # game/dialogues/kiratalk.rpy:18
 translate italian KiraTalkStart_c5aab882:
 
-    # [Kira_01 "Конечно, Макс. Ложись рядом. Погода сегодня отличная![nointeract]"
-    Kira_01 "Certo, Max. Sdraiati uno accanto all'altro. Il tempo oggi è fantastico![nointeract]"
+    # [Kira_01 "Конечно, Макс. Ложись рядом. Погода сегодня отличная!" nointeract
+    Kira_01 "Certo, Max. Sdraiati uno accanto all'altro. Il tempo oggi è fantastico!" nointeract
 
 # game/dialogues/kiratalk.rpy:20
 translate italian KiraTalkStart_7e1cb4f7:
 
-    # [Kira_00 "Макс, чем тебе помочь?[nointeract]"
-    Kira_00 "Max, come posso aiutarti?[nointeract]"
+    # [Kira_00 "Макс, чем тебе помочь?" nointeract
+    Kira_00 "Max, come posso aiutarti?" nointeract
 
 # game/dialogues/kiratalk.rpy:35
 translate italian kira_firsttalk_19e17a9f:
@@ -45,20 +45,20 @@ translate italian kira_firsttalk_349bd8c8:
 # game/dialogues/kiratalk.rpy:38
 translate italian kira_firsttalk_043877d2:
 
-    # [Kira_02 "Макс, тебя смущает мой купальник? Может быть, его снять?[nointeract]"
-    Kira_02 "Max, sei imbarazzato dal mio costume da bagno? Forse rimuoverlo?[nointeract]"
+    # [Kira_02 "Макс, тебя смущает мой купальник? Может быть, его снять?" nointeract
+    Kira_02 "Max, sei imbarazzato dal mio costume da bagno? Forse rimuoverlo?" nointeract
 
 # game/dialogues/kiratalk.rpy:41
 translate italian kira_firsttalk_58c6b494:
 
-    # [Kira_07 "Ну да, не сомневаюсь. Только что же с тобой будет? Макс, ты можешь смотреть мне в глаза или мы тебя потеряли?[nointeract]"
-    Kira_07 "Beh, sì, non ho dubbi. Cosa ti succederà? Max, puoi guardarmi negli occhi o ti abbiamo perso?[nointeract]"
+    # [Kira_07 "Ну да, не сомневаюсь. Только что же с тобой будет? Макс, ты можешь смотреть мне в глаза или мы тебя потеряли?" nointeract
+    Kira_07 "Beh, sì, non ho dubbi. Cosa ti succederà? Max, puoi guardarmi negli occhi o ti abbiamo perso?" nointeract
 
 # game/dialogues/kiratalk.rpy:48
 translate italian kira_firsttalk_00e14e8d:
 
-    # [Kira_07 "Зато знаю я. Макс, постарайся не пялиться на мою грудь. Глаза чуть выше. Ау. Ты здесь, Макс?[nointeract]"
-    Kira_07 "Ma lo so. Max, cerca di non fissarmi il petto. Gli occhi sono leggermente più alti. Au. Sei qui, Max?[nointeract]"
+    # [Kira_07 "Зато знаю я. Макс, постарайся не пялиться на мою грудь. Глаза чуть выше. Ау. Ты здесь, Макс?" nointeract
+    Kira_07 "Ma lo so. Max, cerca di non fissarmi il petto. Gli occhi sono leggermente più alti. Au. Sei qui, Max?" nointeract
 
 # game/dialogues/kiratalk.rpy:53
 translate italian kira_firsttalk_8ab98c15:
@@ -75,14 +75,14 @@ translate italian kira_firsttalk_527eb426:
 # game/dialogues/kiratalk.rpy:58
 translate italian kira_firsttalk_16797a1b:
 
-    # [Kira_05 "Ого... Да я смотрю твой рост пошёл куда надо! И давно ты такое сокровище скрываешь?[nointeract]"
-    Kira_05 "Del... Sì, guardo la tua crescita andare dove dovrebbe! E da quanto tempo nascondi un tale tesoro?[nointeract]"
+    # [Kira_05 "Ого... Да я смотрю твой рост пошёл куда надо! И давно ты такое сокровище скрываешь?" nointeract
+    Kira_05 "Del... Sì, guardo la tua crescita andare dove dovrebbe! E da quanto tempo nascondi un tale tesoro?" nointeract
 
 # game/dialogues/kiratalk.rpy:65
 translate italian kira_firsttalk_562bf199:
 
-    # [Kira_06 "Как я вижу, ты весь пошёл в отца... А кое в чём, так особенно...[nointeract]"
-    Kira_06 "Come vedo tutti voi siete andati dal padre... E in un certo senso, quindi soprattutto...[nointeract]"
+    # [Kira_06 "Как я вижу, ты весь пошёл в отца... А кое в чём, так особенно..." nointeract
+    Kira_06 "Come vedo tutti voi siete andati dal padre... E in un certo senso, quindi soprattutto..." nointeract
 
 # game/dialogues/kiratalk.rpy:67
 translate italian kira_firsttalk_c61d1e38:
@@ -117,8 +117,8 @@ translate italian kira_firsttalk_6e7aee99:
 # game/dialogues/kiratalk.rpy:77
 translate italian kira_firsttalk_92344759:
 
-    # [Max_03 "{m}Расслабиться в душе? Легко. Особенно, когда рядом такая женщина. Ух! Я и не задумывался о своей тёте в этом плане никогда, но сейчас что-то изменилось... или во мне или в ней...{/m}[nointeract]"
-    Max_03 "{m}Rilassarsi sotto la doccia? È facile. Soprattutto quando c'è una donna del genere. Oh! Non ho mai pensato a mia zia a questo proposito, ma ora qualcosa è cambiato... o in me o in lei... {/m}[nointeract]"
+    # [Max_03 "{m}Расслабиться в душе? Легко. Особенно, когда рядом такая женщина. Ух! Я и не задумывался о своей тёте в этом плане никогда, но сейчас что-то изменилось... или во мне или в ней...{/m}" nointeract
+    Max_03 "{m}Rilassarsi sotto la doccia? È facile. Soprattutto quando c'è una donna del genere. Oh! Non ho mai pensato a mia zia a questo proposito, ma ora qualcosa è cambiato... o in me o in lei... {/m}" nointeract
 
 # game/dialogues/kiratalk.rpy:79
 translate italian kira_firsttalk_b89d504e:
@@ -135,14 +135,14 @@ translate italian kira_firsttalk_d6159f85:
 # game/dialogues/kiratalk.rpy:97
 translate italian kira_talk2_cd1cb660:
 
-    # [Kira_02 "В прошлый раз наш разговор не очень удался. Ты был такой возбуждённый... Слушай, Макс, а у тебя есть девушка?[nointeract]"
-    Kira_02 "L'ultima volta la nostra conversazione non ha avuto molto successo. Eri così eccitato... Ascolta, Max, hai una ragazza?[nointeract]"
+    # [Kira_02 "В прошлый раз наш разговор не очень удался. Ты был такой возбуждённый... Слушай, Макс, а у тебя есть девушка?" nointeract
+    Kira_02 "L'ultima volta la nostra conversazione non ha avuto molto successo. Eri così eccitato... Ascolta, Max, hai una ragazza?" nointeract
 
 # game/dialogues/kiratalk.rpy:100
 translate italian kira_talk2_19060dc1:
 
-    # [Kira_04 "А она об этом знает?[nointeract]"
-    Kira_04 "Lo sa?[nointeract]"
+    # [Kira_04 "А она об этом знает?" nointeract
+    Kira_04 "Lo sa?" nointeract
 
 # game/dialogues/kiratalk.rpy:102
 translate italian kira_talk2_dac0052a:
@@ -219,8 +219,8 @@ translate italian kira_talk2_d2b1efcc:
 # game/dialogues/kiratalk.rpy:119
 translate italian kira_talk2_9ec6735a:
 
-    # [Kira_05 "Понятно. Ну, старайся держать себя в руках. Хотя, я в прошлый раз видела как ты себя держал. Это не совсем то, что я имею в виду... Я слишком пошлая, да? Мне надо быть тактичнее?[nointeract]"
-    Kira_05 "comprensibile. Bene, cerca di tenerti in mano. Anche se, l'ultima volta ho visto come ti sei tenuto. Non è esattamente quello che intendo... Sono troppo volgare, eh? Devo essere più discreto?[nointeract]"
+    # [Kira_05 "Понятно. Ну, старайся держать себя в руках. Хотя, я в прошлый раз видела как ты себя держал. Это не совсем то, что я имею в виду... Я слишком пошлая, да? Мне надо быть тактичнее?" nointeract
+    Kira_05 "comprensibile. Bene, cerca di tenerti in mano. Anche se, l'ultima volta ho visto come ti sei tenuto. Non è esattamente quello che intendo... Sono troppo volgare, eh? Devo essere più discreto?" nointeract
 
 # game/dialogues/kiratalk.rpy:124
 translate italian kira_talk2_93b5a4b6:
@@ -261,8 +261,8 @@ translate italian kira_talk2_b8c0dea5:
 # game/dialogues/kiratalk.rpy:131
 translate italian kira_talk2_c0a0b7f1:
 
-    # [Kira_08 "Представляю! Ну, я с Лизой тоже побеседую. Она уже не девочка... хотя, с вашей строгой мамой она о жизни толком ничего и не знает, похоже.[nointeract]"
-    Kira_08 "immagino! Beh, parlerò anche con Lisa. Non è più una ragazza... anche se, con la tua madre severa, non sa davvero nulla della vita, a quanto pare.[nointeract]"
+    # [Kira_08 "Представляю! Ну, я с Лизой тоже побеседую. Она уже не девочка... хотя, с вашей строгой мамой она о жизни толком ничего и не знает, похоже." nointeract
+    Kira_08 "immagino! Beh, parlerò anche con Lisa. Non è più una ragazza... anche se, con la tua madre severa, non sa davvero nulla della vita, a quanto pare." nointeract
 
 # game/dialogues/kiratalk.rpy:135
 translate italian kira_talk2_6a11f48f:
@@ -279,8 +279,8 @@ translate italian kira_talk2_f9ff1c6f:
 # game/dialogues/kiratalk.rpy:141
 translate italian kira_talk2_1f8d1009:
 
-    # [Kira_07 "Макс... Кажется, тебе снова пора в душ. Может быть, мне как-то прикрываться, когда ты рядом, раз у тебя все мысли где-то в другом месте?[nointeract]"
-    Kira_07 "Max... Sembra che sia ora per te di tornare alla doccia. Forse posso in qualche modo nascondermi dietro quando sei in giro, dal momento che hai tutti i tuoi pensieri da qualche altra parte?[nointeract]"
+    # [Kira_07 "Макс... Кажется, тебе снова пора в душ. Может быть, мне как-то прикрываться, когда ты рядом, раз у тебя все мысли где-то в другом месте?" nointeract
+    Kira_07 "Max... Sembra che sia ora per te di tornare alla doccia. Forse posso in qualche modo nascondermi dietro quando sei in giro, dal momento che hai tutti i tuoi pensieri da qualche altra parte?" nointeract
 
 # game/dialogues/kiratalk.rpy:143
 translate italian kira_talk2_00d0240b:
@@ -297,8 +297,8 @@ translate italian kira_talk2_6e7aee99:
 # game/dialogues/kiratalk.rpy:151
 translate italian kira_talk2_2e01812f:
 
-    # [Max_20 "{m}Вроде тётя Кира специально и не провоцирует, но меня к ней так тянет. Её горячее, почти обнажённое тело так и манит...{/m}[nointeract]"
-    Max_20 "{m}come zia Kira non provoca di proposito, ma sono così attratto da lei. Il suo corpo caldo, quasi nudo, invita... {/m}[nointeract]"
+    # [Max_20 "{m}Вроде тётя Кира специально и не провоцирует, но меня к ней так тянет. Её горячее, почти обнажённое тело так и манит...{/m}" nointeract
+    Max_20 "{m}come zia Kira non provoca di proposito, ma sono così attratto da lei. Il suo corpo caldo, quasi nudo, invita... {/m}" nointeract
 
 # game/dialogues/kiratalk.rpy:154
 translate italian kira_talk2_d3412c1c:
@@ -309,8 +309,8 @@ translate italian kira_talk2_d3412c1c:
 # game/dialogues/kiratalk.rpy:168
 translate italian kira_talk3_744eb86a:
 
-    # [Kira_05 "Сегодня уже привык к моему купальнику? Или опять только одно на уме?[nointeract]"
-    Kira_05 "sono abituato al mio costume da bagno oggi? O c'è solo una cosa nella tua mente di nuovo?[nointeract]"
+    # [Kira_05 "Сегодня уже привык к моему купальнику? Или опять только одно на уме?" nointeract
+    Kira_05 "sono abituato al mio costume da bagno oggi? O c'è solo una cosa nella tua mente di nuovo?" nointeract
 
 # game/dialogues/kiratalk.rpy:172
 translate italian kira_talk3_e1f63d41:
@@ -363,26 +363,26 @@ translate italian kira_talk3_82324783:
 # game/dialogues/kiratalk.rpy:181
 translate italian kira_talk3_4fe1e9be:
 
-    # [Kira_13 "Слушай, Макс, а тебе не показалось, что твоя мама какая-то... странная. Я имею в виду её одержимость Эриком...[nointeract]"
-    Kira_13 "Ascolta, Max, e non pensavi che tua madre fosse... Strano. Intendo la sua ossessione per Eric...[nointeract]"
+    # [Kira_13 "Слушай, Макс, а тебе не показалось, что твоя мама какая-то... странная. Я имею в виду её одержимость Эриком..." nointeract
+    Kira_13 "Ascolta, Max, e non pensavi che tua madre fosse... Strano. Intendo la sua ossessione per Eric..." nointeract
 
 # game/dialogues/kiratalk.rpy:184
 translate italian kira_talk3_8905a3cf:
 
-    # [Kira_14 "Значит, не мне одной это показалось? Ну, в чём дело, рассказывай...[nointeract]"
-    Kira_14 "Quindi non ero l'unico? Beh, qual è il problema, dimmi...[nointeract]"
+    # [Kira_14 "Значит, не мне одной это показалось? Ну, в чём дело, рассказывай..." nointeract
+    Kira_14 "Quindi non ero l'unico? Beh, qual è il problema, dimmi..." nointeract
 
 # game/dialogues/kiratalk.rpy:189
 translate italian kira_talk3_f9226615:
 
-    # [Kira_02 "Макс, если что, я на твоей стороне. Мне можно доверять![nointeract]"
-    Kira_02 "Max, semmai, sono dalla tua parte. Puoi fidarti di me![nointeract]"
+    # [Kira_02 "Макс, если что, я на твоей стороне. Мне можно доверять!" nointeract
+    Kira_02 "Max, semmai, sono dalla tua parte. Puoi fidarti di me!" nointeract
 
 # game/dialogues/kiratalk.rpy:193
 translate italian kira_talk3_1942b017:
 
-    # [Kira_13 "Макс, ты наверное шутишь, да? Не может быть, чтобы всё было вот так. Твоя мама не слепая. Конечно, ею всегда было легко манипулировать, чем я и пользовалась, но такое...[nointeract]"
-    Kira_13 "Max, probabilmente stai scherzando, giusto? Non può essere così. Tua madre non è cieca. Certo, è sempre stato facile da manipolare, che ho usato, ma questo è...[nointeract]"
+    # [Kira_13 "Макс, ты наверное шутишь, да? Не может быть, чтобы всё было вот так. Твоя мама не слепая. Конечно, ею всегда было легко манипулировать, чем я и пользовалась, но такое..." nointeract
+    Kira_13 "Max, probabilmente stai scherzando, giusto? Non può essere così. Tua madre non è cieca. Certo, è sempre stato facile da manipolare, che ho usato, ma questo è..." nointeract
 
 # game/dialogues/kiratalk.rpy:195
 translate italian kira_talk3_b62fecc1:
@@ -423,8 +423,8 @@ translate italian kira_talk3_3a1dee30:
 # game/dialogues/kiratalk.rpy:216
 translate italian kira_about_kiss_5e0a2b2a:
 
-    # [Kira_07 "Вот это подход, я понимаю! Может быть, тебе ещё что-то нужно?[nointeract]"
-    Kira_07 "Questo è l'approccio, ho capito! Forse hai ancora bisogno di qualcosa?[nointeract]"
+    # [Kira_07 "Вот это подход, я понимаю! Может быть, тебе ещё что-то нужно?" nointeract
+    Kira_07 "Questo è l'approccio, ho capito! Forse hai ancora bisogno di qualcosa?" nointeract
 
 # game/dialogues/kiratalk.rpy:218
 translate italian kira_about_kiss_a5fac119:
@@ -447,8 +447,8 @@ translate italian kira_about_kiss_e243c55d:
 # game/dialogues/kiratalk.rpy:223
 translate italian kira_about_kiss_50fc02f9:
 
-    # [Kira_05 "Ну зачем ещё парню может это понадобиться, сам подумай... И что, больше не у кого просить помощи, решил ко мне обратиться?[nointeract]"
-    Kira_05 "Beh, perché altrimenti un ragazzo ne avrebbe bisogno, pensaci tu stesso... E cosa, nessun altro a cui chiedere aiuto, ha deciso di rivolgersi a me?[nointeract]"
+    # [Kira_05 "Ну зачем ещё парню может это понадобиться, сам подумай... И что, больше не у кого просить помощи, решил ко мне обратиться?" nointeract
+    Kira_05 "Beh, perché altrimenti un ragazzo ne avrebbe bisogno, pensaci tu stesso... E cosa, nessun altro a cui chiedere aiuto, ha deciso di rivolgersi a me?" nointeract
 
 # game/dialogues/kiratalk.rpy:225
 translate italian kira_about_kiss_98e57cfa:
@@ -477,8 +477,8 @@ translate italian kira_about_kiss_efd591e7:
 # game/dialogues/kiratalk.rpy:233
 translate italian kira_about_kiss_1f69aa9c:
 
-    # [Kira_07 "Ну что же... Думаю, я смогу тебе помочь. Правда, не здесь и не сейчас. Нужна более интимная обстановка. О, я иногда вечерами смотрю телевизор. Если ещё не будешь спать, напомни о своей просьбе...[nointeract]"
-    Kira_07 "Beh... Penso di poterti aiutare. Vero, non qui e non ora. Abbiamo bisogno di un ambiente più intimo. Oh, a volte guardo la Tv la sera. Se non dormi ancora, ricordami la tua richiesta...[nointeract]"
+    # [Kira_07 "Ну что же... Думаю, я смогу тебе помочь. Правда, не здесь и не сейчас. Нужна более интимная обстановка. О, я иногда вечерами смотрю телевизор. Если ещё не будешь спать, напомни о своей просьбе..." nointeract
+    Kira_07 "Beh... Penso di poterti aiutare. Vero, non qui e non ora. Abbiamo bisogno di un ambiente più intimo. Oh, a volte guardo la Tv la sera. Se non dormi ancora, ricordami la tua richiesta..." nointeract
 
 # game/dialogues/kiratalk.rpy:237
 translate italian kira_about_kiss_d9323be4:
@@ -519,8 +519,8 @@ translate italian kira_talk4_a1691294:
 # game/dialogues/kiratalk.rpy:258
 translate italian kira_talk4_9f00eadd:
 
-    # [Kira_07 "Что же тебя смущает? Я разве не могу работать горничной?[nointeract]"
-    Kira_07 "Cosa ti confonde? Non posso lavorare come cameriera?[nointeract]"
+    # [Kira_07 "Что же тебя смущает? Я разве не могу работать горничной?" nointeract
+    Kira_07 "Cosa ti confonde? Non posso lavorare come cameriera?" nointeract
 
 # game/dialogues/kiratalk.rpy:260
 translate italian kira_talk4_00a37ecd:
@@ -549,8 +549,8 @@ translate italian kira_talk4_f99b18bd:
 # game/dialogues/kiratalk.rpy:268
 translate italian kira_talk4_32ed8e84:
 
-    # [Kira_08 "Ну ладно, ладно, ты меня раскусил, Макс. Я не совсем горничной работаю...[nointeract]"
-    Kira_08 "Ok, ok, mi hai colpito, Max. Non sono proprio una cameriera che lavora...[nointeract]"
+    # [Kira_08 "Ну ладно, ладно, ты меня раскусил, Макс. Я не совсем горничной работаю..." nointeract
+    Kira_08 "Ok, ok, mi hai colpito, Max. Non sono proprio una cameriera che lavora..." nointeract
 
 # game/dialogues/kiratalk.rpy:274
 translate italian kira_talk4_7ccd734d:
@@ -579,8 +579,8 @@ translate italian kira_talk4_634c769c:
 # game/dialogues/kiratalk.rpy:279
 translate italian kira_talk4_abeddefc:
 
-    # [Kira_08 "Да, почти звезда! Но никому не говори. Это большой секрет от всех![nointeract]"
-    Kira_08 "sì, quasi una stella! Ma non dirlo a nessuno. È un grande segreto per tutti![nointeract]"
+    # [Kira_08 "Да, почти звезда! Но никому не говори. Это большой секрет от всех!" nointeract
+    Kira_08 "sì, quasi una stella! Ma non dirlo a nessuno. È un grande segreto per tutti!" nointeract
 
 # game/dialogues/kiratalk.rpy:284
 translate italian kira_talk4_5c93772d:
@@ -705,8 +705,8 @@ translate italian kira_talk4_dbc4f220:
 # game/dialogues/kiratalk.rpy:320
 translate italian kira_talk4_89a335de:
 
-    # [Kira_01 "Ладно, ты тут заканчивай, я позже в душ схожу. Не подскользнись![nointeract]"
-    Kira_01 "Ok, hai finito qui, andrò sotto la doccia più tardi. Non scivolare![nointeract]"
+    # [Kira_01 "Ладно, ты тут заканчивай, я позже в душ схожу. Не подскользнись!" nointeract
+    Kira_01 "Ok, hai finito qui, andrò sotto la doccia più tardi. Non scivolare!" nointeract
 
 # game/dialogues/kiratalk.rpy:323
 translate italian kira_talk4_e05be6c3:
@@ -753,8 +753,8 @@ translate italian kira_talk5_ce85c004:
 # game/dialogues/kiratalk.rpy:347
 translate italian kira_talk5_bf982ee2:
 
-    # [Kira_05 "Мне нужно сделать серию снимков для портфолио. Я могла бы обратиться к профессиональному фотографу, но если у тебя найдётся фотоаппарат и будет желание, то я лучше заплачу тебе... Ты умеешь фотографировать?[nointeract]"
-    Kira_05 "ho bisogno di scattare una serie di foto per il portfolio. Potrei rivolgermi a un fotografo professionista, ma se hai una macchina fotografica e hai il desiderio, preferirei pagarti... Sai come scattare foto?[nointeract]"
+    # [Kira_05 "Мне нужно сделать серию снимков для портфолио. Я могла бы обратиться к профессиональному фотографу, но если у тебя найдётся фотоаппарат и будет желание, то я лучше заплачу тебе... Ты умеешь фотографировать?" nointeract
+    Kira_05 "ho bisogno di scattare una serie di foto per il portfolio. Potrei rivolgermi a un fotografo professionista, ma se hai una macchina fotografica e hai il desiderio, preferirei pagarti... Sai come scattare foto?" nointeract
 
 # game/dialogues/kiratalk.rpy:349
 translate italian kira_talk5_f8afef08:
@@ -843,14 +843,14 @@ translate italian kira_talk5_6ed85272:
 # game/dialogues/kiratalk.rpy:378
 translate italian kira_talk5_34346893:
 
-    # [Max_20 "Фотоаппарат у меня уже есть. Дело за тем, чтобы повысить мои шансы на что-нибудь особенное от тёти Киры за эту фотосессию. Не прикупить ли для неё какую-нибудь очень сексуальную сорочку?! Я думаю, это будет совсем не лишним... О да...[nointeract]"
-    Max_20 "ho già una macchina fotografica. Si tratta di aumentare le mie possibilità di qualcosa di speciale da zia Kira per questo servizio fotografico. Non dovrei comprare una camicia molto sexy per lei?! Penso che non sarà affatto superfluo... Oh sì...[nointeract]"
+    # [Max_20 "Фотоаппарат у меня уже есть. Дело за тем, чтобы повысить мои шансы на что-нибудь особенное от тёти Киры за эту фотосессию. Не прикупить ли для неё какую-нибудь очень сексуальную сорочку?! Я думаю, это будет совсем не лишним... О да..." nointeract
+    Max_20 "ho già una macchina fotografica. Si tratta di aumentare le mie possibilità di qualcosa di speciale da zia Kira per questo servizio fotografico. Non dovrei comprare una camicia molto sexy per lei?! Penso che non sarà affatto superfluo... Oh sì..." nointeract
 
 # game/dialogues/kiratalk.rpy:380
 translate italian kira_talk5_dfeec0a5:
 
-    # [Max_20 "Дело за малым. Осталось где-то взять фотоаппарат и тогда... Да... Интересно, сколько они стоят? А, не важно. Важно, что мне может дать сама тётя Кира! Ради этого стоит попотеть... О да...[nointeract]"
-    Max_20 "È una piccola cosa. Rimane un posto dove prendere una macchina fotografica e poi... Sì... Mi chiedo quanto costano? R, non importa. È importante ciò che la stessa zia Kira può darmi! Ne vale la pena... Oh sì...[nointeract]"
+    # [Max_20 "Дело за малым. Осталось где-то взять фотоаппарат и тогда... Да... Интересно, сколько они стоят? А, не важно. Важно, что мне может дать сама тётя Кира! Ради этого стоит попотеть... О да..." nointeract
+    Max_20 "È una piccola cosa. Rimane un posto dove prendere una macchina fotografica e poi... Sì... Mi chiedo quanto costano? R, non importa. È importante ciò che la stessa zia Kira può darmi! Ne vale la pena... Oh sì..." nointeract
 
 # game/dialogues/kiratalk.rpy:384
 translate italian kira_talk5_7a7cc18f:
@@ -861,14 +861,14 @@ translate italian kira_talk5_7a7cc18f:
 # game/dialogues/kiratalk.rpy:406
 translate italian kira_talk6_a9812af2:
 
-    # [Kira_01 "Ты уже нашёл фотоаппарат?[nointeract]"
-    Kira_01 "Hai trovato la fotocamera?[nointeract]"
+    # [Kira_01 "Ты уже нашёл фотоаппарат?" nointeract
+    Kira_01 "Hai trovato la fotocamera?" nointeract
 
 # game/dialogues/kiratalk.rpy:409
 translate italian kira_talk6_12fde23b:
 
-    # [Kira_02 "Понятно. Ну, как найдёшь, дай знать. Я почти всегда готова фотографироваться, но нужно, чтобы ещё и дома никого не было... А то нас не поймут...[nointeract]"
-    Kira_02 "comprensibile. Bene, come trovi, fammi sapere. Sono quasi sempre pronto a scattare foto, ma non ho bisogno di avere nessuno a casa... A parte questo, non saremo capiti...[nointeract]"
+    # [Kira_02 "Понятно. Ну, как найдёшь, дай знать. Я почти всегда готова фотографироваться, но нужно, чтобы ещё и дома никого не было... А то нас не поймут..." nointeract
+    Kira_02 "comprensibile. Bene, come trovi, fammi sapere. Sono quasi sempre pronto a scattare foto, ma non ho bisogno di avere nessuno a casa... A parte questo, non saremo capiti..." nointeract
 
 # game/dialogues/kiratalk.rpy:413
 translate italian kira_talk6_75ec74c9:
@@ -915,8 +915,8 @@ translate italian first_photoset_fea89793:
 # game/dialogues/kiratalk.rpy:439
 translate italian first_photoset_b020807e:
 
-    # [Max_04 "Не угадала! Я решил купить тебе сорочку, ещё сексуальнее твоей...[nointeract]"
-    Max_04 "non ho indovinato! Ho deciso di comprarti una camicia, anche più sexy della tua...[nointeract]"
+    # [Max_04 "Не угадала! Я решил купить тебе сорочку, ещё сексуальнее твоей..." nointeract
+    Max_04 "non ho indovinato! Ho deciso di comprarti una camicia, anche più sexy della tua..." nointeract
 
 # game/dialogues/kiratalk.rpy:444
 translate italian first_photoset_87e394b1:
@@ -957,8 +957,8 @@ translate italian first_photoset_889601ec:
 # game/dialogues/kiratalk.rpy:457
 translate italian first_photoset_676c261f:
 
-    # [Kira_03 "О, мне эта идея нравится! Значит, я просто ложусь на диван или...[nointeract]"
-    Kira_03 "Oh, adoro l'idea! Quindi sono solo sdraiato sul divano o...[nointeract]"
+    # [Kira_03 "О, мне эта идея нравится! Значит, я просто ложусь на диван или..." nointeract
+    Kira_03 "Oh, adoro l'idea! Quindi sono solo sdraiato sul divano o..." nointeract
 
 # game/dialogues/kiratalk.rpy:465
 translate italian first_photoset_a1b55e52:
@@ -999,8 +999,8 @@ translate italian first_photoset_set2_e0b39b37:
 # game/dialogues/kiratalk.rpy:485
 translate italian first_photoset_set2_0542ad6b:
 
-    # [Kira_01 "С радостью, Макс! Как мне для этого лучше устроиться?[nointeract]"
-    Kira_01 "Felice, Max! Come posso avere una migliore possibilità di farlo?[nointeract]"
+    # [Kira_01 "С радостью, Макс! Как мне для этого лучше устроиться?" nointeract
+    Kira_01 "Felice, Max! Come posso avere una migliore possibilità di farlo?" nointeract
 
 # game/dialogues/kiratalk.rpy:493
 translate italian first_photoset_set2_f70e99f0:
@@ -1035,8 +1035,8 @@ translate italian first_photoset_set4_d32c6105:
 # game/dialogues/kiratalk.rpy:510
 translate italian first_photoset_set4_47f29f71:
 
-    # [extend]Отлично! Вот что делаем дальше...[nointeract]"
-    extend]Eccellente! Ecco cosa stiamo facendo dopo...[nointeract]"
+    # [extend]Отлично! Вот что делаем дальше..." nointeract
+    extend]Eccellente! Ecco cosa stiamo facendo dopo..." nointeract
 
 # game/dialogues/kiratalk.rpy:521
 translate italian first_photoset_set4_00af3fa8:
@@ -1089,8 +1089,8 @@ translate italian first_photoset_set6_1f7ddded:
 # game/dialogues/kiratalk.rpy:547
 translate italian first_photoset_set6_ff3a2d28:
 
-    # [extend]Да, кадр получился что надо![nointeract]"
-    extend]Sì, la cornice si è rivelata quella di cui hai bisogno![nointeract]"
+    # [extend]Да, кадр получился что надо!" nointeract
+    extend]Sì, la cornice si è rivelata quella di cui hai bisogno!" nointeract
 
 # game/dialogues/kiratalk.rpy:550
 translate italian first_photoset_set6_42057bef:
@@ -1125,8 +1125,8 @@ translate italian first_photoset_set6_fd2a8d5d:
 # game/dialogues/kiratalk.rpy:566
 translate italian first_photoset_set6_11fdb519:
 
-    # [extend][nointeract]"
-    extend][nointeract]"
+    # [extend]" nointeract
+    extend]" nointeract
 
 # game/dialogues/kiratalk.rpy:577
 translate italian first_photoset_set6_8f9aa457:
@@ -1323,8 +1323,8 @@ translate italian kira_about_photo1_fe79864c:
 # game/dialogues/kiratalk.rpy:678
 translate italian kira_about_photo1_cc5f81d9:
 
-    # [Max_20 "{m}Ох, как она сосёт... Да так глубоко... Похоже, у неё чёрный пояс по минету! Блин, я уже на грани... Вот-вот и кончу... Отпадно!{/m}[nointeract]"
-    Max_20 "{m}Oh, come fa schifo... Sì, così profondamente... Sembra che abbia una cintura nera per un pompino! Accidenti, sono sull'orlo del... Sto per finire... Otpadno! {/m}[nointeract]"
+    # [Max_20 "{m}Ох, как она сосёт... Да так глубоко... Похоже, у неё чёрный пояс по минету! Блин, я уже на грани... Вот-вот и кончу... Отпадно!{/m}" nointeract
+    Max_20 "{m}Oh, come fa schifo... Sì, così profondamente... Sembra che abbia una cintura nera per un pompino! Accidenti, sono sull'orlo del... Sto per finire... Otpadno! {/m}" nointeract
 
 # game/dialogues/kiratalk.rpy:683
 translate italian kira_about_photo1_f17ba8ca:
@@ -1371,8 +1371,8 @@ translate italian kira_about_cuni_063924e5:
 # game/dialogues/kiratalk.rpy:709
 translate italian kira_about_cuni_c16b4060:
 
-    # [Kira_14 "Я не злюсь, но немного расстроена... А разозлюсь я, если ты просто забыл![nointeract]"
-    Kira_14 "non sono arrabbiato, ma sono un po' arrabbiato... E mi arrabbierò se ti sei appena dimenticato![nointeract]"
+    # [Kira_14 "Я не злюсь, но немного расстроена... А разозлюсь я, если ты просто забыл!" nointeract
+    Kira_14 "non sono arrabbiato, ma sono un po' arrabbiato... E mi arrabbierò se ti sei appena dimenticato!" nointeract
 
 # game/dialogues/kiratalk.rpy:714
 translate italian kira_about_cuni_06c8a7c0:
@@ -1449,8 +1449,8 @@ translate italian kira_about_photo2_cc5c82d4:
 # game/dialogues/kiratalk.rpy:751
 translate italian kira_about_photo2_246387f7:
 
-    # [Kira_04 "Я тоже готова. На этот раз мне нужна особая фотосессия...[nointeract]"
-    Kira_04 "sono pronto anche io. Questa volta ho bisogno di un servizio fotografico speciale...[nointeract]"
+    # [Kira_04 "Я тоже готова. На этот раз мне нужна особая фотосессия..." nointeract
+    Kira_04 "sono pronto anche io. Questa volta ho bisogno di un servizio fotografico speciale..." nointeract
 
 # game/dialogues/kiratalk.rpy:753
 translate italian kira_about_photo2_7455059f:
@@ -1527,8 +1527,8 @@ translate italian kira_about_photo2_8159a78d:
 # game/dialogues/kiratalk.rpy:775
 translate italian kira_about_photo2_6d3909b3:
 
-    # [Max_04 "{m}Верёвки и кожа - это интересно! А ещё интереснее то, насколько далеко мне удастся зайти с тётей Кирой во время этой фотосессии...{/m}[nointeract]"
-    Max_04 "{m}Corde e pelle - è interessante! E ancora più interessante è quanto lontano potrò andare con zia Kira durante questo servizio fotografico... {/m}[nointeract]"
+    # [Max_04 "{m}Верёвки и кожа - это интересно! А ещё интереснее то, насколько далеко мне удастся зайти с тётей Кирой во время этой фотосессии...{/m}" nointeract
+    Max_04 "{m}Corde e pelle - è interessante! E ancora più interessante è quanto lontano potrò andare con zia Kira durante questo servizio fotografico... {/m}" nointeract
 
 # game/dialogues/kiratalk.rpy:780
 translate italian kira_about_photo2_e610eb0a:
@@ -1641,14 +1641,14 @@ translate italian kira_about_photo2_a22807a0:
 # game/dialogues/kiratalk.rpy:844
 translate italian kira_about_photo2_eb14f139:
 
-    # [Kira_04 "Да, я думаю самое время привязать меня к кровати! Только так, чтобы выглядело натурально, хорошо?[nointeract]"
-    Kira_04 "sì, penso che sia ora di legarmi a letto! Solo per sembrare naturale, ok?[nointeract]"
+    # [Kira_04 "Да, я думаю самое время привязать меня к кровати! Только так, чтобы выглядело натурально, хорошо?" nointeract
+    Kira_04 "sì, penso che sia ora di legarmi a letto! Solo per sembrare naturale, ok?" nointeract
 
 # game/dialogues/kiratalk.rpy:852
 translate italian kira_about_photo2_e9b5eb7d:
 
-    # [Kira_05 "Отлично, Макс. Теперь нам нужно сделать несколько снимков, на которых я должна выглядеть очень развратно! Я знаю, что тебе уже неймётся...[nointeract]"
-    Kira_05 "Ottimo, Max. Ora abbiamo bisogno di scattare alcune foto in cui dovrei sembrare molto depravato! So che sei già stato chiamato...[nointeract]"
+    # [Kira_05 "Отлично, Макс. Теперь нам нужно сделать несколько снимков, на которых я должна выглядеть очень развратно! Я знаю, что тебе уже неймётся..." nointeract
+    Kira_05 "Ottimo, Max. Ora abbiamo bisogno di scattare alcune foto in cui dovrei sembrare molto depravato! So che sei già stato chiamato..." nointeract
 
 # game/dialogues/kiratalk.rpy:857
 translate italian kira_about_photo2_d43cbc87:
@@ -1671,8 +1671,8 @@ translate italian kira_about_photo2_499c97e0:
 # game/dialogues/kiratalk.rpy:864
 translate italian kira_about_photo2_76feb6c2:
 
-    # [Kira_10 "Думаешь, тебе удастся заткнуть мне рот?! Твоя мама узнает всё![nointeract]"
-    Kira_10 "pensi che sarai in grado di zittirmi?! Tua madre saprà tutto![nointeract]"
+    # [Kira_10 "Думаешь, тебе удастся заткнуть мне рот?! Твоя мама узнает всё!" nointeract
+    Kira_10 "pensi che sarai in grado di zittirmi?! Tua madre saprà tutto!" nointeract
 
 # game/dialogues/kiratalk.rpy:875
 translate italian kira_about_photo2_6714f4ea:
@@ -1689,32 +1689,32 @@ translate italian kira_about_photo2_2779f8a6:
 # game/dialogues/kiratalk.rpy:885
 translate italian kira_about_photo2_1bb70dcb:
 
-    # [Max_07 "Я бы с этим не торопился. А ещё, я бы лучше снял с тебя эти кожаные трусы. Так что отчасти твоё желание по развязыванию я осуществлю... Чтобы было удобнее...[nointeract]"
-    Max_07 "non mi affretterei a farlo. E inoltre, preferirei toglierti quelle mutandine di pelle. Quindi parte del tuo desiderio di scatenare lo farò... Per renderlo più conveniente...[nointeract]"
+    # [Max_07 "Я бы с этим не торопился. А ещё, я бы лучше снял с тебя эти кожаные трусы. Так что отчасти твоё желание по развязыванию я осуществлю... Чтобы было удобнее..." nointeract
+    Max_07 "non mi affretterei a farlo. E inoltre, preferirei toglierti quelle mutandine di pelle. Quindi parte del tuo desiderio di scatenare lo farò... Per renderlo più conveniente..." nointeract
 
 # game/dialogues/kiratalk.rpy:891
 translate italian kira_about_photo2_eb2363b9:
 
-    # [Kira_06 "Оу... Теперь понятно, что будет удобнее... ахх... делать... там. Да... Ты стал очень хорош в этом деле. Ох, обожаю, когда ты так делаешь![nointeract]"
-    Kira_06 "Oh... Ora è chiaro che sarà più conveniente... ahhh fare... Laggiù. Sì... Sei diventato molto bravo a farlo. Oh, mi piace quando lo fai![nointeract]"
+    # [Kira_06 "Оу... Теперь понятно, что будет удобнее... ахх... делать... там. Да... Ты стал очень хорош в этом деле. Ох, обожаю, когда ты так делаешь!" nointeract
+    Kira_06 "Oh... Ora è chiaro che sarà più conveniente... ahhh fare... Laggiù. Sì... Sei diventato molto bravo a farlo. Oh, mi piace quando lo fai!" nointeract
 
 # game/dialogues/kiratalk.rpy:898
 translate italian kira_about_photo2_37168e7e:
 
-    # [Kira_08 "Да... Так приятно... Ммм... Может, самое время, пустить в дело кое-что ещё...[nointeract]"
-    Kira_08 "sì... Così bello... Mmm... Forse è il momento di mettere in atto qualcos'altro...[nointeract]"
+    # [Kira_08 "Да... Так приятно... Ммм... Может, самое время, пустить в дело кое-что ещё..." nointeract
+    Kira_08 "sì... Così bello... Mmm... Forse è il momento di mettere in atto qualcos'altro..." nointeract
 
 # game/dialogues/kiratalk.rpy:904
 translate italian kira_about_photo2_e9b9fac1:
 
-    # [Kira_09 "Макс... Если ты продолжишь так и дальше, я не смогу сдержаться... У тебя такие ловкие пальчики... Да...[nointeract]"
-    Kira_09 "Max... Se continui così, non posso fare a meno di trattenermi... Hai dita così agili... Sì...[nointeract]"
+    # [Kira_09 "Макс... Если ты продолжишь так и дальше, я не смогу сдержаться... У тебя такие ловкие пальчики... Да..." nointeract
+    Kira_09 "Max... Se continui così, non posso fare a meno di trattenermi... Hai dita così agili... Sì..." nointeract
 
 # game/dialogues/kiratalk.rpy:910
 translate italian kira_about_photo2_67976a1c:
 
-    # [Kira_10 "Да... Ещё чуть-чуть и я кончу... Может быть, ты воспользуешься чем-то потолще пальчиков и язычка? Только не торопись...[nointeract]"
-    Kira_10 "sì... Ancora un po' e finirò... Forse userai qualcosa di più spesso delle dita e della lingua? Prenditi il tuo tempo...[nointeract]"
+    # [Kira_10 "Да... Ещё чуть-чуть и я кончу... Может быть, ты воспользуешься чем-то потолще пальчиков и язычка? Только не торопись..." nointeract
+    Kira_10 "sì... Ancora un po' e finirò... Forse userai qualcosa di più spesso delle dita e della lingua? Prenditi il tuo tempo..." nointeract
 
 # game/dialogues/kiratalk.rpy:915
 translate italian kira_about_photo2_c99a9a7c:
@@ -1731,14 +1731,14 @@ translate italian kira_about_photo2_c99a9a7c_1:
 # game/dialogues/kiratalk.rpy:930
 translate italian kira_about_photo2_eb2363b9_1:
 
-    # [Kira_06 "Оу... Теперь понятно, что будет удобнее... ахх... делать... там. Да... Ты стал очень хорош в этом деле. Ох, обожаю, когда ты так делаешь![nointeract]"
-    Kira_06 "Oh... Ora è chiaro che sarà più conveniente... ahhh fare... Laggiù. Sì... Sei diventato molto bravo a farlo. Oh, mi piace quando lo fai![nointeract]"
+    # [Kira_06 "Оу... Теперь понятно, что будет удобнее... ахх... делать... там. Да... Ты стал очень хорош в этом деле. Ох, обожаю, когда ты так делаешь!" nointeract
+    Kira_06 "Oh... Ora è chiaro che sarà più conveniente... ahhh fare... Laggiù. Sì... Sei diventato molto bravo a farlo. Oh, mi piace quando lo fai!" nointeract
 
 # game/dialogues/kiratalk.rpy:936
 translate italian kira_about_photo2_37168e7e_1:
 
-    # [Kira_08 "Да... Так приятно... Ммм... Может, самое время, пустить в дело кое-что ещё...[nointeract]"
-    Kira_08 "sì... Così bello... Mmm... Forse è il momento di mettere in atto qualcos'altro...[nointeract]"
+    # [Kira_08 "Да... Так приятно... Ммм... Может, самое время, пустить в дело кое-что ещё..." nointeract
+    Kira_08 "sì... Così bello... Mmm... Forse è il momento di mettere in atto qualcos'altro..." nointeract
 
 # game/dialogues/kiratalk.rpy:941
 translate italian kira_about_photo2_c99a9a7c_2:
@@ -1749,20 +1749,20 @@ translate italian kira_about_photo2_c99a9a7c_2:
 # game/dialogues/kiratalk.rpy:949
 translate italian kira_about_photo2_dc8e7c61:
 
-    # [Kira_09 "Ухх, давно во мне не было такого большого... Д-а-а... Вот так, Макс... Не спеши, дай мне привыкнуть к нему... А вот теперь, трахни свою тётю![nointeract]"
-    Kira_09 "Uhh, non ho mai avuto un... D-ah... Esatto, Max... Prenditi il tuo tempo, fammi abituare... Ora, fanculo a tua zia![nointeract]"
+    # [Kira_09 "Ухх, давно во мне не было такого большого... Д-а-а... Вот так, Макс... Не спеши, дай мне привыкнуть к нему... А вот теперь, трахни свою тётю!" nointeract
+    Kira_09 "Uhh, non ho mai avuto un... D-ah... Esatto, Max... Prenditi il tuo tempo, fammi abituare... Ora, fanculo a tua zia!" nointeract
 
 # game/dialogues/kiratalk.rpy:958
 translate italian kira_about_photo2_5e707a5f:
 
-    # [Kira_11 "Ах, я правильно сделала, что решила подготовить тебя к первому разу! Ммм... Иначе, ты бы кончил почти сразу, как проник в меня... А я хотела, чтобы мой любимый племянник насладился сексом со мной! Ты ещё и фотографировать успеваешь! Ох...[nointeract]"
-    Kira_11 "Ah, ho fatto la cosa giusta scegliendo di prepararti per la prima volta! Mmm... Altrimenti, lo faresti quasi appena sei entrato in me... E volevo che il mio amato nipote fasse sesso con me! Hai anche tempo per scattare foto! Oh...[nointeract]"
+    # [Kira_11 "Ах, я правильно сделала, что решила подготовить тебя к первому разу! Ммм... Иначе, ты бы кончил почти сразу, как проник в меня... А я хотела, чтобы мой любимый племянник насладился сексом со мной! Ты ещё и фотографировать успеваешь! Ох..." nointeract
+    Kira_11 "Ah, ho fatto la cosa giusta scegliendo di prepararti per la prima volta! Mmm... Altrimenti, lo faresti quasi appena sei entrato in me... E volevo che il mio amato nipote fasse sesso con me! Hai anche tempo per scattare foto! Oh..." nointeract
 
 # game/dialogues/kiratalk.rpy:965
 translate italian kira_about_photo2_d2748148:
 
-    # [Kira_12 "Да, так... Глубже, быстрее! К чёрту нежности, оттрахай меня так, как тебе хочется! Да, вот так... Ох, я кончаю... Д-а-а...[nointeract]"
-    Kira_12 "sì, quindi... Più profondo, più veloce! Per il cazzo di tenerezza, scopami come vuoi! Sì, così... Oh, sto cumming... D-ah...[nointeract]"
+    # [Kira_12 "Да, так... Глубже, быстрее! К чёрту нежности, оттрахай меня так, как тебе хочется! Да, вот так... Ох, я кончаю... Д-а-а..." nointeract
+    Kira_12 "sì, quindi... Più profondo, più veloce! Per il cazzo di tenerezza, scopami come vuoi! Sì, così... Oh, sto cumming... D-ah..." nointeract
 
 # game/dialogues/kiratalk.rpy:971
 translate italian kira_about_photo2_b83148a3:
@@ -1779,8 +1779,8 @@ translate italian kira_about_photo2_f2e0ce1e:
 # game/dialogues/kiratalk.rpy:978
 translate italian kira_about_photo2_20b9c0f0:
 
-    # [Kira_04 "Ну всё, развязывай меня, а то если кто-то придёт, будет... неловко, правда?[nointeract]"
-    Kira_04 "Beh, slegami, e poi se qualcuno viene, sarà... imbarazzante, vero?[nointeract]"
+    # [Kira_04 "Ну всё, развязывай меня, а то если кто-то придёт, будет... неловко, правда?" nointeract
+    Kira_04 "Beh, slegami, e poi se qualcuno viene, sarà... imbarazzante, vero?" nointeract
 
 # game/dialogues/kiratalk.rpy:986
 translate italian kira_about_photo2_c7e8b3a3:
@@ -1869,8 +1869,8 @@ translate italian kira_about_ann_secret0_12d0c7ef:
 # game/dialogues/kiratalk.rpy:1036
 translate italian kira_about_ann_secret2_ac685536:
 
-    # [Kira_14 "Я так понимаю, мама тебе ничего не рассказала? Значит, не хочет, чтобы кто-то об этом что-то знал. А значит, я ничем не могу тебе помочь...[nointeract]"
-    Kira_14 "ho capito che mia madre non ti ha detto nulla? Quindi, non vuole che nessuno ne sappia nulla. Quindi, non posso aiutarti in alcun modo...[nointeract]"
+    # [Kira_14 "Я так понимаю, мама тебе ничего не рассказала? Значит, не хочет, чтобы кто-то об этом что-то знал. А значит, я ничем не могу тебе помочь..." nointeract
+    Kira_14 "ho capito che mia madre non ti ha detto nulla? Quindi, non vuole che nessuno ne sappia nulla. Quindi, non posso aiutarti in alcun modo..." nointeract
 
 # game/dialogues/kiratalk.rpy:1044
 translate italian kira_about_ann_secret2_failed_f2f10ce3:
@@ -1887,8 +1887,8 @@ translate italian kira_about_ann_secret2_failed_f936ff3c:
 # game/dialogues/kiratalk.rpy:1056
 translate italian kira_about_ann_secret_r_39f028b6:
 
-    # [Kira_14 "Макс, твоя мама не хочет, чтобы кто-то об этом что-то знал. На это есть причины и я не хочу подорвать её, и без того довольно шаткое, доверие ко мне...[nointeract]"
-    Kira_14 "Max, tua madre non vuole che nessuno ne sappia nulla. Ci sono ragioni per questo e non voglio minare la sua fiducia già piuttosto traballante in me...[nointeract]"
+    # [Kira_14 "Макс, твоя мама не хочет, чтобы кто-то об этом что-то знал. На это есть причины и я не хочу подорвать её, и без того довольно шаткое, доверие ко мне..." nointeract
+    Kira_14 "Max, tua madre non vuole che nessuno ne sappia nulla. Ci sono ragioni per questo e non voglio minare la sua fiducia già piuttosto traballante in me..." nointeract
 
 # game/dialogues/kiratalk.rpy:1065
 translate italian story_from_childhood_ann_37f146bb:
@@ -1953,8 +1953,8 @@ translate italian story_from_childhood_ann_98fdbce9:
 # game/dialogues/kiratalk.rpy:1077
 translate italian story_from_childhood_ann_86924c02:
 
-    # [Kira_13 "Мне повезло, верёвки на руках не слишком туго были затянуты и я смогла освободиться. Затем, попыталась развязать сестрёнку, но услышала шаги и вылезла в малюсенькое окошко под потолком...[nointeract]"
-    Kira_13 "sono stato fortunato, le corde delle mie mani non erano troppo strette e sono stato in grado di liberarmi. Poi, ho provato a slegare mia sorella, ma ho sentito dei passi e sono salito fuori in una piccola finestra sotto il soffitto...[nointeract]"
+    # [Kira_13 "Мне повезло, верёвки на руках не слишком туго были затянуты и я смогла освободиться. Затем, попыталась развязать сестрёнку, но услышала шаги и вылезла в малюсенькое окошко под потолком..." nointeract
+    Kira_13 "sono stato fortunato, le corde delle mie mani non erano troppo strette e sono stato in grado di liberarmi. Poi, ho provato a slegare mia sorella, ma ho sentito dei passi e sono salito fuori in una piccola finestra sotto il soffitto..." nointeract
 
 # game/dialogues/kiratalk.rpy:1079
 translate italian story_from_childhood_ann_4e458508:
@@ -2541,8 +2541,8 @@ translate italian kira_photoset3_79e4dfc7:
 # game/dialogues/kiratalk.rpy:1251
 translate italian kira_photoset3_3db22fb1:
 
-    # [Kira_05 "Заходи в комнату. Теперь нужно подготовить к фотосессии тебя...[nointeract]"
-    Kira_05 "Entra nella stanza. Ora devi prepararti per un servizio fotografico...[nointeract]"
+    # [Kira_05 "Заходи в комнату. Теперь нужно подготовить к фотосессии тебя..." nointeract
+    Kira_05 "Entra nella stanza. Ora devi prepararti per un servizio fotografico..." nointeract
 
 # game/dialogues/kiratalk.rpy:1261
 translate italian kira_photoset3_993c772c:
@@ -2961,8 +2961,8 @@ translate italian kira_photoset3_105cf0a1:
 # game/dialogues/kiratalk.rpy:1439
 translate italian kira_photoset3_92d02d64:
 
-    # [Max_19 "{m}Вот чёрт! Ничего себе! Вот она, мечта всех мужчин - оказаться во власти двух опытных женщин, которые будто соревнуются друг с другом в мастерстве оральных ласк! Ухх... Я просто улетаю...{/m}[nointeract]"
-    Max_19 "{m}accidenti! Wow! Eccolo, il sogno di tutti gli uomini - essere alla mercé di due donne esperte che sembrano competere l'una con l'altra nell'abilità delle carezze orali! Uh... Sto solo volando via... {/m}[nointeract]"
+    # [Max_19 "{m}Вот чёрт! Ничего себе! Вот она, мечта всех мужчин - оказаться во власти двух опытных женщин, которые будто соревнуются друг с другом в мастерстве оральных ласк! Ухх... Я просто улетаю...{/m}" nointeract
+    Max_19 "{m}accidenti! Wow! Eccolo, il sogno di tutti gli uomini - essere alla mercé di due donne esperte che sembrano competere l'una con l'altra nell'abilità delle carezze orali! Uh... Sto solo volando via... {/m}" nointeract
 
 # game/dialogues/kiratalk.rpy:1447
 translate italian kira_photoset3_5fba5ab5:
@@ -3009,8 +3009,8 @@ translate italian kira_photoset3_02014015:
 # game/dialogues/kiratalk.rpy:1474
 translate italian kira_photoset3_cbf2cef8:
 
-    # [Kira_04 "Мы обязательно придумаем что-нибудь ещё, а пока полежи немного, мы тут немного приведём себя в порядок и я тебя развяжу.[nointeract]"
-    Kira_04 "Troveremo qualcos'altro, e mentre ci sdraieremo un po ', ci riordineremo un po 'qui e ti disfarei.[nointeract]"
+    # [Kira_04 "Мы обязательно придумаем что-нибудь ещё, а пока полежи немного, мы тут немного приведём себя в порядок и я тебя развяжу." nointeract
+    Kira_04 "Troveremo qualcos'altro, e mentre ci sdraieremo un po ', ci riordineremo un po 'qui e ti disfarei." nointeract
 
 # game/dialogues/kiratalk.rpy:1481
 translate italian kira_photoset3_d4c901c6:

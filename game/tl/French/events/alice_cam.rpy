@@ -63,8 +63,8 @@ translate frenh cam0_alice_sleep_night_22b77a79:
 # game/events/alice_cam.rpy:58
 translate frenh cam0_alice_sleep_night_ba6907da:
 
-    # [Max_03 "Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?![nointeract]"
-    Max_03 "Essayer peut-être de l'épier discrètement du balcon, parce que je n'y crois même pas.?![nointeract]"
+    # [Max_03 "Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?!" nointeract
+    Max_03 "Essayer peut-être de l'épier discrètement du balcon, parce que je n'y crois même pas.?!" nointeract
 
 # game/events/alice_cam.rpy:70
 translate frenh cam0_alice_sleep_night_5b3adf24:
@@ -75,8 +75,8 @@ translate frenh cam0_alice_sleep_night_5b3adf24:
 # game/events/alice_cam.rpy:73
 translate frenh cam0_alice_sleep_night_e319aa8d:
 
-    # [Max_03 "Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...[nointeract]"
-    Max_03 "Aha ! Eric se branle encore sur Alice... Seulement maintenant, dans sa chambre, devant elle ! Quel pervers...[nointeract]"
+    # [Max_03 "Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой..." nointeract
+    Max_03 "Aha ! Eric se branle encore sur Alice... Seulement maintenant, dans sa chambre, devant elle ! Quel pervers..." nointeract
 
 # game/events/alice_cam.rpy:81
 translate frenh cam0_alice_sleep_night_badc9d8f:
@@ -87,8 +87,8 @@ translate frenh cam0_alice_sleep_night_badc9d8f:
 # game/events/alice_cam.rpy:84
 translate frenh cam0_alice_sleep_night_1d708372:
 
-    # [Max_09 "Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...[nointeract]"
-    Max_09 "Eric se branle encore sur Alice... C'est quoi la blague?! Même moi, je ne m'abaisse pas à ça...[nointeract]"
+    # [Max_09 "Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь..." nointeract
+    Max_09 "Eric se branle encore sur Alice... C'est quoi la blague?! Même moi, je ne m'abaisse pas à ça..." nointeract
 
 # game/events/alice_cam.rpy:93
 translate frenh cam0_alice_sleep_night_ecdbc7a2:
@@ -237,14 +237,14 @@ translate frenh cam0_alice_dressed_shop_4018efed:
 # game/events/alice_cam.rpy:328
 translate frenh cam0_alice_dressed_shop_c8aa5176:
 
-    # [Max_07 "Ага! Алиса наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Aha ! Alice s'habille pour aller faire du shopping...[nointeract]"
+    # [Max_07 "Ага! Алиса наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Aha ! Alice s'habille pour aller faire du shopping..." nointeract
 
 # game/events/alice_cam.rpy:339
 translate frenh cam0_alice_dressed_shop_9d360f84:
 
-    # [Max_02 "О да! Сейчас она совсем голенькая...[nointeract]"
-    Max_02 "Oh, oui ! Elle est complètement nue maintenant....[nointeract]"
+    # [Max_02 "О да! Сейчас она совсем голенькая..." nointeract
+    Max_02 "Oh, oui ! Elle est complètement nue maintenant...." nointeract
 
 # game/events/alice_cam.rpy:350
 translate frenh cam0_alice_dressed_shop_64a95c05:
@@ -273,14 +273,14 @@ translate frenh cam0_alice_dressed_friend_4018efed:
 # game/events/alice_cam.rpy:386
 translate frenh cam0_alice_dressed_friend_bf45de39:
 
-    # [Max_07 "Ага! Алиса наряжается, чтобы куда-то отправиться...[nointeract]"
-    Max_07 "Aha ! Alice s'habille pour aller quelque part...[nointeract]"
+    # [Max_07 "Ага! Алиса наряжается, чтобы куда-то отправиться..." nointeract
+    Max_07 "Aha ! Alice s'habille pour aller quelque part..." nointeract
 
 # game/events/alice_cam.rpy:397
 translate frenh cam0_alice_dressed_friend_9d360f84:
 
-    # [Max_02 "О да! Сейчас она совсем голенькая...[nointeract]"
-    Max_02 "Oh, oui ! Elle est complètement nue maintenant....[nointeract]"
+    # [Max_02 "О да! Сейчас она совсем голенькая..." nointeract
+    Max_02 "Oh, oui ! Elle est complètement nue maintenant...." nointeract
 
 # game/events/alice_cam.rpy:408
 translate frenh cam0_alice_dressed_friend_356c787f:
@@ -309,14 +309,14 @@ translate frenh cam0_alice_dressed_club_4018efed:
 # game/events/alice_cam.rpy:438
 translate frenh cam0_alice_dressed_club_cc04128a:
 
-    # [Max_07 "Ага! Алиса наряжается, чтобы отправиться в клуб...[nointeract]"
-    Max_07 "Aha ! Alice s'habille pour aller au club...[nointeract]"
+    # [Max_07 "Ага! Алиса наряжается, чтобы отправиться в клуб..." nointeract
+    Max_07 "Aha ! Alice s'habille pour aller au club..." nointeract
 
 # game/events/alice_cam.rpy:449
 translate frenh cam0_alice_dressed_club_9d360f84:
 
-    # [Max_02 "О да! Сейчас она совсем голенькая...[nointeract]"
-    Max_02 "Oh, oui ! Elle est complètement nue maintenant....[nointeract]"
+    # [Max_02 "О да! Сейчас она совсем голенькая..." nointeract
+    Max_02 "Oh, oui ! Elle est complètement nue maintenant...." nointeract
 
 # game/events/alice_cam.rpy:459
 translate frenh cam0_alice_dressed_club_356c787f:
