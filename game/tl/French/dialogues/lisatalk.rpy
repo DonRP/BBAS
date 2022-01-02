@@ -3519,10 +3519,7 @@ translate frenh gift_swimsuit_swimsuit_show_c6805f5f:
 # game/dialogues/lisatalk.rpy:1958
 translate frenh gift_swimsuit_swimsuit_show_7374967a:
 
-    # Max_04 "{m}Да, закрою глаза, когда тут такое... как же!\n"
-"Ух! А, сестрёнка хороша... Местами даже очень...{/m}"
-    Max_04 "{m}Ouais, je fermerais les yeux quand c'est comme ça... Que dis-tu de ça ?\n"
-"Ugh ! Ah, ma sœur est bonne... Dans certains endroits, même très...{/m}"
+    # Max_04 "{m}Да, закрою глаза, когда тут такое... как же!\nУх! А, сестрёнка хороша... Местами даже очень...{/m}"\n   Max_04 "{m}Ouais, je fermerais les yeux quand c'est comme ça... Que dis-tu de ça ?\nUgh ! Ah, ma sœur est bonne... Dans certains endroits, même très...{/m}"
 
 # game/dialogues/lisatalk.rpy:1960
 translate frenh gift_swimsuit_swimsuit_show_e121065c:

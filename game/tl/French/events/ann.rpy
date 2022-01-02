@@ -15,10 +15,7 @@
 # game/events/ann.rpy:11
 translate frenh ann_sleep_240f8eab:
 
-    # Max_00 "В это время мама обычно спит.\n"
-"Мне кажется, не стоит её будить..." nointeract
-    Max_00 "À ce moment-là, maman est généralement endormie.\n"
-"Je ne pense pas que je devrais la réveiller...." nointeract
+    # Max_00 "В это время мама обычно спит.\nМне кажется, не стоит её будить..." nointeract\n   Max_00 "À ce moment-là, maman est généralement endormie.\nJe ne pense pas que je devrais la réveiller...." nointeract
 
 # game/events/ann.rpy:18
 translate frenh ann_sleep_261d0248:
@@ -197,10 +194,7 @@ translate frenh ann_shower_closer_peepeng_3c3328bd:
 # game/events/ann.rpy:177
 translate frenh ann_shower_not_luck_4a76a42b:
 
-    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n"
-"Упс... надо бежать, пока она меня не увидела!"
-    Max_12 "{color=[orange]}{i}Je pense que maman soupçonne quelque chose !{/i}{/color}\n"
-"Oups... Je dois courir avant qu'elle ne me voie !"
+    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"\n   Max_12 "{color=[orange]}{i}Je pense que maman soupçonne quelque chose !{/i}{/color}\nOups... Je dois courir avant qu'elle ne me voie !"
 
 # game/events/ann.rpy:186
 translate frenh ann_shower_not_luck_9b36810d:

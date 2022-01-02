@@ -80,10 +80,7 @@
     new "{color=[lime]}à augmenté{/color}"
 
     # game/core/04function.rpy:380
-    old "Настроение %s %s \n"
-"Её отношение к Максу %s"
-    new "Son humeur %s %s \n"
-"son attitude envers Max %s"
+    old "Настроение %s %s \nЕё отношение к Максу %s"\n   new "Son humeur %s %s \nson attitude envers Max %s"
 
     # game/core/04function.rpy:382
     old "Отношение %s к Максу %s"

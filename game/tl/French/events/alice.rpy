@@ -87,10 +87,7 @@ translate frenh alice_bath_ladder_98712b50:
 # game/events/alice.rpy:100
 translate frenh alice_sleep_night_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья..." nointeract
-    Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\n"
-"Et entrer est dangereux pour la santé..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé..." nointeract
 
 # game/events/alice.rpy:114
 translate frenh alice_sleep_night_395216d9:
@@ -251,10 +248,7 @@ translate frenh alice_sleep_night_ef329553:
 # game/events/alice.rpy:204
 translate frenh alice_sleep_morning_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья..." nointeract
-    Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\n"
-"Et entrer est dangereux pour la santé..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé..." nointeract
 
 # game/events/alice.rpy:215
 translate frenh alice_sleep_morning_7c1f0327:
@@ -817,10 +811,7 @@ translate frenh alice_shower_closer_peepeng_09abbe09:
 # game/events/alice.rpy:588
 translate frenh alice_shower_not_luck_051a23bb:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n"
-"Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."
-    Max_09 "{color=[orange]}{i}Alice semble avoir soupçonné quelque chose !{/i}{/color}\n"
-"Oh, merde ! Je dois sortir d'ici tant que je le peux encore..."
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."\n   Max_09 "{color=[orange]}{i}Alice semble avoir soupçonné quelque chose !{/i}{/color}\nOh, merde ! Je dois sortir d'ici tant que je le peux encore..."
 
 # game/events/alice.rpy:607
 translate frenh alice_shower_pinded_e826d0b4:
@@ -4060,10 +4051,7 @@ translate frenh blog_with_Eric_9660eef6:
     new "{i}ouvrir la porte{/i}"
 
     # game/events/alice.rpy:2464
-    old "Ну, разве, что так...\n"
-"{i}(начать массировать её киску рукой){/i}"
-    new "Eh bien, sauf si c'est comme ça....\n"
-"{i}(commencer à masser sa chatte avec la main){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\n   new "Eh bien, sauf si c'est comme ça....\n{i}(commencer à masser sa chatte avec la main){/i}"
 
     # game/events/alice.rpy:2464
     old "Поласкай свою киску для меня..."

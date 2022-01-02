@@ -36,10 +36,7 @@
     new "furtività, "
 
     # game/screens.rpy:271
-    old "[txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-    txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]possibilità: [vis]%){/color}{/size}{/i}"
+    old "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"\n   txt] \n{i}{size=[sz]}{color=[col]}([skill!t]possibilità: [vis]%){/color}{/size}{/i}"
 
     # game/screens.rpy:333
     old "История"
@@ -374,26 +371,17 @@
     new "Clic destro"
 
     # game/screens.rpy:1310
-    old "Колёсико вверх\n"
-"Клик на сторону отката"
-    new "Ruota su\n"
-"Fai clic sul lato del rollback"
+    old "Колёсико вверх\nКлик на сторону отката"\n   new "Ruota su\nFai clic sul lato del rollback"
 
     # game/screens.rpy:1314
     old "Колёсико вниз"
     new "Ruota verso il basso"
 
     # game/screens.rpy:1321
-    old "Правый триггер\n"
-"A/Нижняя кнопка"
-    new "Grilletto destro\n"
-"pulsante A/Bottom"
+    old "Правый триггер\nA/Нижняя кнопка"\n   new "Grilletto destro\npulsante A/Bottom"
 
     # game/screens.rpy:1325
-    old "Левый Триггер\n"
-"Левый Бампер"
-    new "Grilletto sinistro\n"
-"paraurti sinistro"
+    old "Левый Триггер\nЛевый Бампер"\n   new "Grilletto sinistro\nparaurti sinistro"
 
     # game/screens.rpy:1329
     old "Правый бампер"

@@ -104,10 +104,7 @@
     new "REVENUS DES VUS"
 
     # game/core/screens.rpy:774
-    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
-"Минимальная сумма единоразового снятия: $100."
-    new "Chaque visite sur les pages de votre site web génère un petit revenu. Augmentez votre audience et gagnez de l'argent avec la publicité !\n\n"
-"Montant minimum pour un retrait: 100$."
+    old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."\n   new "Chaque visite sur les pages de votre site web génère un petit revenu. Augmentez votre audience et gagnez de l'argent avec la publicité !\n\nMontant minimum pour un retrait: 100$."
 
     # game/core/screens.rpy:775
     old "На вашем счете $[paid]"
@@ -126,10 +123,7 @@
     new "RÉSEAU DE BANNIÈRES PUBLICITAIRES"
 
     # game/core/screens.rpy:812
-    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
-"За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
-    new "Une offre unique rien que pour vous ! Notre réseau de bannières est conçu pour les clients ayant des demandes spécifiques et est prêt à diffuser votre publicité auprès de votre public cible.\n\n"
-"Pour chaque forfait que vous payez maintenant, nous garantissons 10 000 impressions publicitaires pour votre site dans un avenir proche !"
+    old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"\n   new "Une offre unique rien que pour vous ! Notre réseau de bannières est conçu pour les clients ayant des demandes spécifiques et est prêt à diffuser votre publicité auprès de votre public cible.\n\nPour chaque forfait que vous payez maintenant, nous garantissons 10 000 impressions publicitaires pour votre site dans un avenir proche !"
 
     # game/core/screens.rpy:814
     old "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"

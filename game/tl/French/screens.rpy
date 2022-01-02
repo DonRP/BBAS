@@ -36,10 +36,8 @@
     new "secret, "
 
     # game/screens.rpy:271
-    old "[txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-    txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
+    old "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+    txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
     # game/screens.rpy:333
     old "История"
@@ -374,26 +372,20 @@
     new "Clic droit"
 
     # game/screens.rpy:1310
-    old "Колёсико вверх\n"
-"Клик на сторону отката"
-    new "Roulette en haut\n"
-"Cliquer sur le côté pour le retour en arrière"
+    old "Колёсико вверх\nКлик на сторону отката"
+    new "Roulette en haut\nCliquer sur le côté pour le retour en arrière"
 
     # game/screens.rpy:1314
     old "Колёсико вниз"
     new "Roulette vers le bas"
 
     # game/screens.rpy:1321
-    old "Правый триггер\n"
-"A/Нижняя кнопка"
-    new "Bouton droit\n"
-"A/Bouton du bas"
+    old "Правый триггер\nA/Нижняя кнопка"
+    new "Bouton droit\nA/Bouton du bas"
 
     # game/screens.rpy:1325
-    old "Левый Триггер\n"
-"Левый Бампер"
-    new "Bouton gauche\n"
-"pare-chocs gauche"
+    old "Левый Триггер\nЛевый Бампер"
+    new "Bouton gauche\npare-chocs gauche"
 
     # game/screens.rpy:1329
     old "Правый бампер"

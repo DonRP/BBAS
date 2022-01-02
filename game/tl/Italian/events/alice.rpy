@@ -87,10 +87,7 @@ translate italian alice_bath_ladder_98712b50:
 # game/events/alice.rpy:100
 translate italian alice_sleep_night_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья..." nointeract
-    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\n"
-"Ed entrare è pericoloso per la salute..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
 
 # game/events/alice.rpy:114
 translate italian alice_sleep_night_395216d9:
@@ -251,10 +248,7 @@ translate italian alice_sleep_night_ef329553:
 # game/events/alice.rpy:204
 translate italian alice_sleep_morning_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья..." nointeract
-    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\n"
-"Ed entrare è pericoloso per la salute..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
 
 # game/events/alice.rpy:215
 translate italian alice_sleep_morning_7c1f0327:
@@ -817,10 +811,7 @@ translate italian alice_shower_closer_peepeng_09abbe09:
 # game/events/alice.rpy:588
 translate italian alice_shower_not_luck_051a23bb:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n"
-"Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."
-    Max_09 "{color=[orange]}{i}Sembra che Alice sospettasse qualcosa! {/i} {/color}\n"
-"Oh, dannazione! Devi toglierti le gambe non appena sono ancora lì..."
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."\n   Max_09 "{color=[orange]}{i}Sembra che Alice sospettasse qualcosa! {/i} {/color}\nOh, dannazione! Devi toglierti le gambe non appena sono ancora lì..."
 
 # game/events/alice.rpy:607
 translate italian alice_shower_pinded_e826d0b4:
@@ -4060,10 +4051,7 @@ translate italian blog_with_Eric_9660eef6:
     new "{i}apri la porta{/i}"
 
     # game/events/alice.rpy:2464
-    old "Ну, разве, что так...\n"
-"{i}(начать массировать её киску рукой){/i}"
-    new "Beh, a parte questo...\n"
-"{i}(inizia a massaggiarla con la mano){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\n   new "Beh, a parte questo...\n{i}(inizia a massaggiarla con la mano){/i}"
 
     # game/events/alice.rpy:2464
     old "Поласкай свою киску для меня..."

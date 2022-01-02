@@ -368,10 +368,7 @@
     new "Vale la pena aspettare un po 'e mia madre stessa noterà qualcosa..."
 
     # game/core/09_opportunities.rpy:4
-    old "Мама почувствовала сигаретный дым, но я не сдал Алису. Кажется, сестрёнка это оценила. Вот только что мешает её подставить, чтобы мама узнала об этом не от меня, а как бы сама что-то нашла? И я не при делах!\n\n"
-"А лучше, попробовать развести сестрёнку на что-нибудь эдакое... Думаю, она на многое согласится, лишь бы её не отшлёпали у всех на глазах! Конечно, в разумных пределах."
-    new "La mamma sentiva il fumo di sigaretta, ma io non ho trasformato alice. Mia sorella sembra averlo apprezzato. Questo è proprio ciò che le impedisce di metterla in piedi, in modo che mia madre lo impari non da me, ma come farebbe a trovare qualcosa da sola? E non sono in affari!\n\n"
-"E meglio, prova ad allevare mia sorella per qualcosa del genere... Penso che sarà d'accordo con molto, se solo non fosse stata attraversata davanti a tutti! Naturalmente, entro limiti ragionevoli."
+    old "Мама почувствовала сигаретный дым, но я не сдал Алису. Кажется, сестрёнка это оценила. Вот только что мешает её подставить, чтобы мама узнала об этом не от меня, а как бы сама что-то нашла? И я не при делах!\n\nА лучше, попробовать развести сестрёнку на что-нибудь эдакое... Думаю, она на многое согласится, лишь бы её не отшлёпали у всех на глазах! Конечно, в разумных пределах."\n   new "La mamma sentiva il fumo di sigaretta, ma io non ho trasformato alice. Mia sorella sembra averlo apprezzato. Questo è proprio ciò che le impedisce di metterla in piedi, in modo che mia madre lo impari non da me, ma come farebbe a trovare qualcosa da sola? E non sono in affari!\n\nE meglio, prova ad allevare mia sorella per qualcosa del genere... Penso che sarà d'accordo con molto, se solo non fosse stata attraversata davanti a tutti! Naturalmente, entro limiti ragionevoli."
 
     # game/core/09_opportunities.rpy:4
     old "Нужно поймать Алису, когда она курит..."
@@ -458,62 +455,41 @@
     new "Ho dato ad Alice un simpatico set di biancheria intima. Le è piaciuto molto. È vero, non riuscivo a vedere nulla, solo Alice è già in questa biancheria intima, ma anche questo è stato eccitante... Più curiosamente, ha lasciato intendere che puoi cercare qualcosa di più... Sessuale! E a proposito, posso offrirle di organizzare un servizio fotografico? Alice avrà sicuramente bisogno di foto in mutande per il suo blog. Se solo lei fosse d'accordo!"
 
     # game/core/09_opportunities.rpy:4
-    old "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\n"
-"Много я не наснимал, всё-таки мы с Алисой ещё не настолько близки, но уже лучше находим общий язык. Посмотрим, что будет дальше..."
-    new "Ho preso qualcosa di più sexy per Alice, vale a dire un body traslucido. Moderatamente franco, perché altrimenti rischio di non vederlo su di esso. E quando ho dato, mentre lei era impressionata, sono anche riuscita a convincerla a posare per me... ha bisogno di foto di alta qualità per lo sviluppo del blog! \n\n"
-"non ho girato molto, dopotutto, Alice e io non siamo ancora così vicini, ma stiamo già trovando un linguaggio comune migliore. Vedremo cosa succederà dopo..."
+    old "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\nМного я не наснимал, всё-таки мы с Алисой ещё не настолько близки, но уже лучше находим общий язык. Посмотрим, что будет дальше..."\n   new "Ho preso qualcosa di più sexy per Alice, vale a dire un body traslucido. Moderatamente franco, perché altrimenti rischio di non vederlo su di esso. E quando ho dato, mentre lei era impressionata, sono anche riuscita a convincerla a posare per me... ha bisogno di foto di alta qualità per lo sviluppo del blog! \n\nnon ho girato molto, dopotutto, Alice e io non siamo ancora così vicini, ma stiamo già trovando un linguaggio comune migliore. Vedremo cosa succederà dopo..."
 
     # game/core/09_opportunities.rpy:4
     old "Остаётся ждать, пока Алисе снова что-нибудь не понадобится. И хотя бы временами интересоваться, как у неё идут дела с блогом. Заодно и на сестрёнку в нижнем белье поглазею..."
     new "Dobbiamo aspettare che Alice abbia di nuovo bisogno di qualcosa. E almeno ogni tanto chiedile come va il suo blog. Posso anche guardare mia sorella in mutande..."
 
     # game/core/09_opportunities.rpy:4
-    old "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\n"
-"Фотосессия вышла очень интересной, спасибо за это конфетам с алкоголем. Мне удалось сделать несколько весьма горячих снимков с Алисой и они прекрасно подойдут для моей коллекции... Хоть мы с Алисой всё ещё не очень близки, но уже лучше находим общий язык. Посмотрим, что будет дальше..."
-    new "Ho preso qualcosa di più sexy per Alice, vale a dire un body traslucido. Moderatamente franco, perché altrimenti rischio di non vederlo su di esso. E quando ho dato, mentre lei era impressionata, sono anche riuscita a convincerla a posare per me... ha bisogno di foto di alta qualità per lo sviluppo del blog! \n\n"
-"non ho girato molto, dopotutto, Alice e io non siamo ancora così vicini, ma stiamo già trovando un linguaggio comune migliore. Vedremo cosa succederà dopo..."
+    old "Я подобрал кое-что более сексуальное для Алисы, а именно - полупрозрачное боди. В меру откровенное, потому что иначе я рискую не увидеть его на ней. А при дарении, пока она была под впечатлением, я ещё и умудрился уговорить её попозировать мне... нужны же ей качественные фотоснимки для развития блога! \n\nФотосессия вышла очень интересной, спасибо за это конфетам с алкоголем. Мне удалось сделать несколько весьма горячих снимков с Алисой и они прекрасно подойдут для моей коллекции... Хоть мы с Алисой всё ещё не очень близки, но уже лучше находим общий язык. Посмотрим, что будет дальше..."\n   new "Ho preso qualcosa di più sexy per Alice, vale a dire un body traslucido. Moderatamente franco, perché altrimenti rischio di non vederlo su di esso. E quando ho dato, mentre lei era impressionata, sono anche riuscita a convincerla a posare per me... ha bisogno di foto di alta qualità per lo sviluppo del blog! \n\nnon ho girato molto, dopotutto, Alice e io non siamo ancora così vicini, ma stiamo già trovando un linguaggio comune migliore. Vedremo cosa succederà dopo..."
 
     # game/core/09_opportunities.rpy:4
-    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\n"
-"Я рассказал ему всё, что знал о её блоге. Ну а как иначе, мы же друзья. Теперь он собирается помочь ей с развитием блога и мне лучше этому не мешать... а ещё лучше - помогать ему с этим."
-    new "Solo il mio rapporto con Alice cominciò a migliorare gradualmente, quando Eric venne da me con domande su cosa stesse facendo mia sorella maggiore al computer... \n\n"
-"gli dicevo tutto quello che sapevo sul suo blog. Beh, in quale altro modo, siamo amici. Ora lui l'aiuterà con lo sviluppo del blog e meglio non interferire con esso... o meglio ancora, aiutalo con esso."
+    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nЯ рассказал ему всё, что знал о её блоге. Ну а как иначе, мы же друзья. Теперь он собирается помочь ей с развитием блога и мне лучше этому не мешать... а ещё лучше - помогать ему с этим."\n   new "Solo il mio rapporto con Alice cominciò a migliorare gradualmente, quando Eric venne da me con domande su cosa stesse facendo mia sorella maggiore al computer... \n\ngli dicevo tutto quello che sapevo sul suo blog. Beh, in quale altro modo, siamo amici. Ora lui l'aiuterà con lo sviluppo del blog e meglio non interferire con esso... o meglio ancora, aiutalo con esso."
 
     # game/core/09_opportunities.rpy:4
     old "Нужно приглядывать за этой парочкой, когда они вместе. Вдруг удастся подслушать что-то важное..."
     new "Devi tenere d'occhio questa coppia quando sono insieme. Improvvisamente, puoi grondaia su qualcosa di importante..."
 
     # game/core/09_opportunities.rpy:4
-    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\n"
-"Я решил не облегчать ему жизнь и сказал, что мало об этом знаю. Эрик же, чтобы не тратить своё время, попросил меня за несколько недель узнать как можно больше о занятиях Алисы..."
-    new "Solo il mio rapporto con Alice cominciò a migliorare gradualmente, quando Eric venne da me con domande su cosa stesse facendo mia sorella maggiore al computer... \n\n"
-"decisi di non semplificargli la vita e dissi che ne sapevo poco. Eric, per non perdere tempo, mi ha chiesto di imparare il più possibile sulle lezioni di Alice in poche settimane..."
+    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nЯ решил не облегчать ему жизнь и сказал, что мало об этом знаю. Эрик же, чтобы не тратить своё время, попросил меня за несколько недель узнать как можно больше о занятиях Алисы..."\n   new "Solo il mio rapporto con Alice cominciò a migliorare gradualmente, quando Eric venne da me con domande su cosa stesse facendo mia sorella maggiore al computer... \n\ndecisi di non semplificargli la vita e dissi che ne sapevo poco. Eric, per non perdere tempo, mi ha chiesto di imparare il più possibile sulle lezioni di Alice in poche settimane..."
 
     # game/core/09_opportunities.rpy:4
     old "Теперь у меня есть дополнительное время на то, чтобы больше сблизиться с Алисой, пока Эрик ещё не стал к ней приставать..."
     new "big"
 
     # game/core/09_opportunities.rpy:4
-    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\n"
-"Я решил прекратить вражду с Эриком и рассказал ему всё, что знал о её блоге. Теперь он собирается помочь ей с развитием блога и мне лучше этому не мешать... а ещё лучше - помогать ему с этим."
-    new "Solo il mio rapporto con Alice cominciò a migliorare gradualmente, quando Eric venne da me con domande su cosa stesse facendo mia sorella maggiore al computer... \n\n"
-"decisi di interrompere la faida con Eric e gli dissi tutto ciò che sapevo sul suo blog. Ora lui l'aiuterà con lo sviluppo del blog e meglio non interferire con esso... o meglio ancora, aiutalo con esso."
+    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nЯ решил прекратить вражду с Эриком и рассказал ему всё, что знал о её блоге. Теперь он собирается помочь ей с развитием блога и мне лучше этому не мешать... а ещё лучше - помогать ему с этим."\n   new "Solo il mio rapporto con Alice cominciò a migliorare gradualmente, quando Eric venne da me con domande su cosa stesse facendo mia sorella maggiore al computer... \n\ndecisi di interrompere la faida con Eric e gli dissi tutto ciò che sapevo sul suo blog. Ora lui l'aiuterà con lo sviluppo del blog e meglio non interferire con esso... o meglio ancora, aiutalo con esso."
 
     # game/core/09_opportunities.rpy:4
-    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\n"
-"У меня совершенно нет желания помогать ему подкатывать к моей сестрёнке, что ему и сказал. У нас ведь вражда! Главное, чтобы мне это боком не вышло..."
-    new "Solo il mio rapporto con Alice ha iniziato a migliorare gradualmente, quando Eric è venuto da me con domande su cosa sta facendo mia sorella maggiore al computer... \n\n"
-"non ho assolutamente alcun desiderio di aiutarlo a raggiungere mia sorella, cosa che ha detto. Abbiamo una faida! La cosa principale è che non lo capisco di lato..."
+    old "Только мои отношения с Алисой начали понемногу налаживаться, как ко мне подвалил Эрик с расспросами о том, чем там моя старшая сестрёнка занимается за компьютером... \n\nУ меня совершенно нет желания помогать ему подкатывать к моей сестрёнке, что ему и сказал. У нас ведь вражда! Главное, чтобы мне это боком не вышло..."\n   new "Solo il mio rapporto con Alice ha iniziato a migliorare gradualmente, quando Eric è venuto da me con domande su cosa sta facendo mia sorella maggiore al computer... \n\nnon ho assolutamente alcun desiderio di aiutarlo a raggiungere mia sorella, cosa che ha detto. Abbiamo una faida! La cosa principale è che non lo capisco di lato..."
 
     # game/core/09_opportunities.rpy:4
     old "Теперь, каждую среду, пока мама принимает ванну, Эрик тусуется у Алисы в комнате, якобы помогая ей с блогом. Понятно, что на самом деле он хочет поглазеть на Алису в нижнем белье... а в будущем и в трусики к ней залезть."
     new "Ora, ogni mercoledì mentre la mamma fa il bagno, Eric esce con Alice nella stanza, apparentemente aiutandola con il blog. È chiaro che in realtà vuole fissare Alice in mutande... e in futuro e nelle mutandine per salire su di lei."
 
     # game/core/09_opportunities.rpy:4
-    old "Теперь, каждую среду, пока мама принимает ванну, Эрик тусуется у Алисы в комнате, якобы помогая ей с блогом. Понятно, что на самом деле он хочет поглазеть на Алису в нижнем белье... а в будущем и в трусики к ней залезть.\n\n"
-"А ещё мне повезло узнать, что Эрик собирается купить ей новое кружевное боди! Обидно, конечно, что она попросила об этом не меня. Интересно, как Эрик отреагирует, если я его опережу с покупкой..."
-    new "Ora, ogni mercoledì mentre la mamma fa il bagno, Eric esce con Alice nella stanza, apparentemente aiutandola con il blog. È chiaro che in realtà vuole fissare Alice in mutande... e in futuro e nelle mutandine per salire su di lei.\n\n"
-"E sono stato fortunato a sapere che Eric le avrebbe comprato un nuovo body in pizzo! È un peccato, ovviamente, che non mi abbia chiesto di farlo. Chissà come reagirà Eric se lo precederò con l'acquisto..."
+    old "Теперь, каждую среду, пока мама принимает ванну, Эрик тусуется у Алисы в комнате, якобы помогая ей с блогом. Понятно, что на самом деле он хочет поглазеть на Алису в нижнем белье... а в будущем и в трусики к ней залезть.\n\nА ещё мне повезло узнать, что Эрик собирается купить ей новое кружевное боди! Обидно, конечно, что она попросила об этом не меня. Интересно, как Эрик отреагирует, если я его опережу с покупкой..."\n   new "Ora, ogni mercoledì mentre la mamma fa il bagno, Eric esce con Alice nella stanza, apparentemente aiutandola con il blog. È chiaro che in realtà vuole fissare Alice in mutande... e in futuro e nelle mutandine per salire su di lei.\n\nE sono stato fortunato a sapere che Eric le avrebbe comprato un nuovo body in pizzo! È un peccato, ovviamente, che non mi abbia chiesto di farlo. Chissà come reagirà Eric se lo precederò con l'acquisto..."
 
     # game/core/09_opportunities.rpy:4
     old "Если я хочу это сделать, то нужно торопиться, чтобы успеть подарить ей боди до субботы... И дарить надо, когда Алиса занимается блогом, тогда она может быть переоденется при мне!"
@@ -544,16 +520,10 @@
     new "Quale sarà la reazione di Eric? Lo scoprirò presto! Ma, con Alice ora puoi comportarti in modo più sicuro in molti momenti..."
 
     # game/core/09_opportunities.rpy:4
-    old "Эрик оказался, мягко говоря, не в восторге от того, что я опередил его с дарением кружевного боди для Алисы.\n\n"
-"Он предупредил, что если я ещё раз испорчу его планы, друзьями нам дальше не быть... А в качестве наказания, лишил меня всех возможных \"премиальных\", что мне теперь нужно как-то исправить..."
-    new "Eric non era entusiasta, per non dire altro, che io fossi davanti a lui nel dare un body di pizzo per Alice.\n\n"
-"Ha avvertito che se avessi rovinato di nuovo i suoi piani, non saremmo più stati amici... E come punizione, mi ha privato di tutti i possibili \"bonus\", che ora ho bisogno di risolvere in qualche modo..."
+    old "Эрик оказался, мягко говоря, не в восторге от того, что я опередил его с дарением кружевного боди для Алисы.\n\nОн предупредил, что если я ещё раз испорчу его планы, друзьями нам дальше не быть... А в качестве наказания, лишил меня всех возможных \"премиальных\", что мне теперь нужно как-то исправить..."\n   new "Eric non era entusiasta, per non dire altro, che io fossi davanti a lui nel dare un body di pizzo per Alice.\n\nHa avvertito che se avessi rovinato di nuovo i suoi piani, non saremmo più stati amici... E come punizione, mi ha privato di tutti i possibili \"bonus\", che ora ho bisogno di risolvere in qualche modo..."
 
     # game/core/09_opportunities.rpy:4
-    old "Эрик оказался, мягко говоря, не в восторге от того, что я опередил его с дарением кружевного боди для Алисы.\n\n"
-"Он пригрозил, что у меня теперь будут большие проблемы! Как будто меня этим можно испугать..."
-    new "Eric non era entusiasta, per non dire altro, che io fossi davanti a lui nel dare un body di pizzo per Alice.\n\n"
-"Ha minacciato che ora avrei avuto grossi problemi! È come se potessi essere spaventato da questo..."
+    old "Эрик оказался, мягко говоря, не в восторге от того, что я опередил его с дарением кружевного боди для Алисы.\n\nОн пригрозил, что у меня теперь будут большие проблемы! Как будто меня этим можно испугать..."\n   new "Eric non era entusiasta, per non dire altro, che io fossi davanti a lui nel dare un body di pizzo per Alice.\n\nHa minacciato che ora avrei avuto grossi problemi! È come se potessi essere spaventato da questo..."
 
     # game/core/09_opportunities.rpy:4
     old "Талантливый массажист"
@@ -616,10 +586,7 @@
     new "Tali bellezze possono essere ammirate all'infinito! È un peccato che non sia lungo, ma è molto meglio di niente. Oh, vorrei un giorno poter passare le mani sotto quelle mutandine..."
 
     # game/core/09_opportunities.rpy:4
-    old "Было бы неплохо побольше сблизиться со своими сёстрами. Тогда наши совместные занятия с ними станут более естественными и перспективными. \n"
-"С Алисой же особое внимание стоит уделить успехам в возможности \"Тусовщица\"..."
-    new "Sarebbe bello avvicinarsi alle tue sorelle. Quindi le nostre lezioni congiunte con loro diventeranno più naturali e promettenti. \n"
-"Con Alice, un'attenzione particolare va rivolta al successo nella possibilità di \"Party Girl\"..."
+    old "Было бы неплохо побольше сблизиться со своими сёстрами. Тогда наши совместные занятия с ними станут более естественными и перспективными. \nС Алисой же особое внимание стоит уделить успехам в возможности \"Тусовщица\"..."\n   new "Sarebbe bello avvicinarsi alle tue sorelle. Quindi le nostre lezioni congiunte con loro diventeranno più naturali e promettenti. \nCon Alice, un'attenzione particolare va rivolta al successo nella possibilità di \"Party Girl\"..."
 
     # game/core/09_opportunities.rpy:4
     old "А ведь конфеты с ликёром делают своё дело и очень быстро! Алиса явно становится более податливой и открытой в моих руках. Её трусики скрывают так мало, что у меня каждый раз слегка привстаёт. Чувствую, рано или поздно её ножки упрутся в мой член и будет много криков! И как замечательно, что она об этом потом не вспомнит."
@@ -630,12 +597,7 @@
     new "Se dai ad Alice caramelle con liquore, allora non ricorderà il massaggio, ma la mia abilità crescerà ancora. Resta da vedere dove questo porterà ..."
 
     # game/core/09_opportunities.rpy:4
-    old "Алиса та ещё проказница! Вроде кажется стервозиной, а на деле, всего одной конфеты достаточно, чтобы её шаловливые ножки начали надрачивать мой член. Что уж говорить о двух конфетах... \n"
-"Ох, как же это приятно и круто! Конечно, без массажа до этого бы не дошло, ведь её ножки - одна сплошная эрогенная зона. Жаль, что она не вспомнит этого... А может и хорошо. \n"
-"В любом случае, чтобы добиться от неё большего в массаже с конфетами, нужно сближаться с ней без них... И сколько нужно времени, чтобы она отошла от конфет?"
-    new "Alice è ancora una burlona! Sembra pungente, ma in realtà basta una caramella per far sì che le sue gambe cattive inizino a prendere a calci il mio cazzo. Cosa possiamo dire di due cande... \n"
-"Oh, quanto è bello e bello! Naturalmente, senza massaggio, non si sarebbe arrivati a questo, perché le sue gambe sono una zona erogena continua. Peccato che non se lo ricorderà... O forse una buona cosa. \n"
-"In ogni caso, per ottenere di più da lei in un massaggio con caramelle, è necessario avvicinarsi a lei senza di loro ... E quanto tempo ci vuole per allontanarsi dalle caramelle?"
+    old "Алиса та ещё проказница! Вроде кажется стервозиной, а на деле, всего одной конфеты достаточно, чтобы её шаловливые ножки начали надрачивать мой член. Что уж говорить о двух конфетах... \nОх, как же это приятно и круто! Конечно, без массажа до этого бы не дошло, ведь её ножки - одна сплошная эрогенная зона. Жаль, что она не вспомнит этого... А может и хорошо. \nВ любом случае, чтобы добиться от неё большего в массаже с конфетами, нужно сближаться с ней без них... И сколько нужно времени, чтобы она отошла от конфет?"\n   new "Alice è ancora una burlona! Sembra pungente, ma in realtà basta una caramella per far sì che le sue gambe cattive inizino a prendere a calci il mio cazzo. Cosa possiamo dire di due cande... \n"\nOh, quanto è bello e bello! Naturalmente, senza massaggio, non si sarebbe arrivati a questo, perché le sue gambe sono una zona erogena continua. Peccato che non se lo ricorderà... O forse una buona cosa. \nIn ogni caso, per ottenere di più da lei in un massaggio con caramelle, è necessario avvicinarsi a lei senza di loro ... E quanto tempo ci vuole per allontanarsi dalle caramelle?"
 
     # game/core/09_opportunities.rpy:4
     old "Стоит последить за Алисой через скрытые камеры. Как знать, что она ещё может отчудить, пока будет на веселе после фут-джоба до того, как ляжет спать..."
@@ -826,36 +788,23 @@
     new "Non il fatto che Lisa lo leggerà rapidamente. Dobbiamo aspettare..."
 
     # game/core/09_opportunities.rpy:4
-    old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n"
-"Нужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
-    new "Ho dato a Lisa un libro che contiene molte risposte alle sue domande. Sì, sarebbe utile per me leggerlo da solo, ma pigrizia.\n\n"
-"dovrò chiedere dopo un po' cosa ne pensa di questo libro..."
+    old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."\n   new "Ho dato a Lisa un libro che contiene molte risposte alle sue domande. Sì, sarebbe utile per me leggerlo da solo, ma pigrizia.\n\ndovrò chiedere dopo un po' cosa ne pensa di questo libro..."
 
     # game/core/09_opportunities.rpy:4
-    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\n"
-"В обмен на возможность подглядывать за этим процессом и кое-каким бонусом, с которым мне нужно будет определиться со временем, я согласился его поддержать. Мы же с ним как-никак \"друзья\"."
-    new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\n"
-"In cambio della possibilità di spiare questo processo e qualche bonus che dovrò decidere nel tempo, ho accettato di sostenerlo. Lui ed io siamo \"amici\" dopo tutto."
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом и кое-каким бонусом, с которым мне нужно будет определиться со временем, я согласился его поддержать. Мы же с ним как-никак \"друзья\"."\n   new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\nIn cambio della possibilità di spiare questo processo e qualche bonus che dovrò decidere nel tempo, ho accettato di sostenerlo. Lui ed io siamo \"amici\" dopo tutto."
 
     # game/core/09_opportunities.rpy:4
     old "Интересно, каким образом Эрик собирается втереться в доверие к Лизе? Так или иначе, скоро это станет ясно..."
     new "Mi chiedo come farà Eric a guadagnare la fiducia di Lisa? Ad ogni modo, diventerà presto chiaro ..."
 
     # game/core/09_opportunities.rpy:4
-    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\n"
-"В обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
-    new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\n"
-"In cambio della possibilità di spiare questo processo, ho accettato di sostenerlo. Non c'è bisogno che io litimi con Eric."
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."\n   new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\nIn cambio della possibilità di spiare questo processo, ho accettato di sostenerlo. Non c'è bisogno che io litimi con Eric."
 
     # game/core/09_opportunities.rpy:4
-    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\n"
-"Не смотря на то, что мы с ним \"дружим\", я постарался убедить его, что Лизе ещё рановато это познавать... Это не особо помогло, но Эрик дал мне пару недель на \"чтение книг по теме сексуального образования\" с Лизой. По крайней мере, я выиграл немного времени, которое стоит использовать с умом..."
-    new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\n"
-"Nonostante il fatto che siamo \"amici\" con lui, ho cercato di convincerlo che era troppo presto per Lisa per saperlo... Non ha aiutato molto, ma Eric mi ha dato un paio di settimane per \"leggere libri sull'educazione sessuale\" con Lisa. Almeno ho vinto un po 'di tempo che vale la pena usare saggiamente..."
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nНе смотря на то, что мы с ним \"дружим\", я постарался убедить его, что Лизе ещё рановато это познавать... Это не особо помогло, но Эрик дал мне пару недель на \"чтение книг по теме сексуального образования\" с Лизой. По крайней мере, я выиграл немного времени, которое стоит использовать с умом..."\n   new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\nNonostante il fatto che siamo \"amici\" con lui, ho cercato di convincerlo che era troppo presto per Lisa per saperlo... Non ha aiutato molto, ma Eric mi ha dato un paio di settimane per \"leggere libri sull'educazione sessuale\" con Lisa. Almeno ho vinto un po 'di tempo che vale la pena usare saggiamente..."
 
     # game/core/09_opportunities.rpy:4
-    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\n"
-"Я, естественно, отказался ему в этом содействовать. Враждовать, так враждовать! Вряд ли теперь у меня есть много времени, чтобы избавиться от него, так что нужно скорее искать такой способ..."
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nЯ, естественно, отказался ему в этом содействовать. Враждовать, так враждовать! Вряд ли теперь у меня есть много времени, чтобы избавиться от него, так что нужно скорее искать такой способ..."
     new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale!, naturalmente, mi sono rifiutato di assisterlo in questo. Per faide, così per inimicizia! Non penso di avere molto tempo per sbarazzarmene ora, quindi ho bisogno di cercare quel modo prima..."
 
     # game/core/09_opportunities.rpy:4
@@ -911,10 +860,7 @@
     new "Compagno di classe"
 
     # game/core/09_opportunities.rpy:4
-    old "Очевидно, Лиза по уши влюблена в какого-то своего одноклассника по имени Алекс. Как она рассказала, у него есть подруга Оливия, самая красивая девочка в школе. Лиза ждёт от меня помощи в виде совета - как ей быть дальше.\n\n"
-"И это хороший вопрос! С одной стороны хочется ей помочь дельным советом, а с другой, не хочется отдавать младшую сестрёнку в руки какому-то там Алексу. Нужно не торопиться и какое-то время хорошенько подумать над всем этим."
-    new "Ovviamente, Lisa è innamorata di alcuni dei suoi compagni di classe di nome Alex. Come ha detto, ha una fidanzata Olivia, la ragazza più bella della scuola. Lisa sta aspettando il mio aiuto sotto forma di consigli - come essere il prossimo.\n\n"
-"E questa è una buona domanda! Da un lato, voglio aiutarla con buoni consigli e, dall'altro, non voglio dare mia sorella minore nelle mani di alcuni Alex lì. Devi prenderti il tuo tempo e pensare attentamente a tutto questo per un po '."
+    old "Очевидно, Лиза по уши влюблена в какого-то своего одноклассника по имени Алекс. Как она рассказала, у него есть подруга Оливия, самая красивая девочка в школе. Лиза ждёт от меня помощи в виде совета - как ей быть дальше.\n\nИ это хороший вопрос! С одной стороны хочется ей помочь дельным советом, а с другой, не хочется отдавать младшую сестрёнку в руки какому-то там Алексу. Нужно не торопиться и какое-то время хорошенько подумать над всем этим."\n   new "Ovviamente, Lisa è innamorata di alcuni dei suoi compagni di classe di nome Alex. Come ha detto, ha una fidanzata Olivia, la ragazza più bella della scuola. Lisa sta aspettando il mio aiuto sotto forma di consigli - come essere il prossimo.\n\nE questa è una buona domanda! Da un lato, voglio aiutarla con buoni consigli e, dall'altro, non voglio dare mia sorella minore nelle mani di alcuni Alex lì. Devi prenderti il tuo tempo e pensare attentamente a tutto questo per un po '."
 
     # game/core/09_opportunities.rpy:4
     old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение..."
@@ -1053,10 +999,7 @@
     new "Fatto per Lisa Compiti a casa: [lisa.flags.truehelp]"
 
     # game/core/09_opportunities.rpy:4
-    old "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\n"
-"Теперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"
-    new "Penso di aver persuaso Lisa a obbedirmi pena la punizione. Ora dormirà solo in maglietta e pantaloncini. Beh, niente, ho appena iniziato.\n\n"
-"Ora posso, con il pretesto di aiutare con le lezioni, correggere i calcoli in modo che le venga dato un deuce e possa di nuovo guardare la sua punizione... Chissà, forse sarà possibile divorziare da lei in qualcosa di più?"
+    old "Кажется, я убедил Лизу меня слушаться под страхом наказания. Теперь она будет спать только в футболке и трусах. Ну ничего, я только начал.\n\nТеперь я могу под видом помощи с уроками, подправлять вычисления так, чтобы ей поставили двойку и можно было бы снова наблюдать за её наказанием... Кто знает, может быть, удастся развести её на нечто большее?"\n   new "Penso di aver persuaso Lisa a obbedirmi pena la punizione. Ora dormirà solo in maglietta e pantaloncini. Beh, niente, ho appena iniziato.\n\nOra posso, con il pretesto di aiutare con le lezioni, correggere i calcoli in modo che le venga dato un deuce e possa di nuovo guardare la sua punizione... Chissà, forse sarà possibile divorziare da lei in qualcosa di più?"
 
     # game/core/09_opportunities.rpy:4
     old "Лучше, если Лиза будет делать домашнее задание в одежде посвободнее той, в которой мы заехали в этот дом..."
@@ -1211,14 +1154,7 @@
     new "Ci penserò. Cos'altro rimane..."
 
     # game/core/09_opportunities.rpy:4
-    old "С появлением Эрика мои дела стали неожиданно плохи... Во-первых, он предложил отправить меня в какой-то военный лагерь. Вроде бы для того, чтобы сделать из меня мужика... Да я уже Мужик! Сдались мне эти лагеря...\n\n"
-"Во-вторых, он убедил маму, что наказывать нас надо как-то иначе. Нет бы что хорошее подсказал, но это... В общем, со следующей недели нас будут наказывать на глазах друг у друга... голыми! Это такой позор! Это же каким надо быть извращенцем, чтобы такое выдумать.\n\n"
-"Понятно, что будет прикольно лишний раз увидеть сиськи сестёр, но и меня могут выпороть на глазах у всех. Это же как подорвёт авторитет!\n\n"
-"Сначала эта дурацкая идея с военным лагерем, теперь ещё и это... Нужно что-то срочно решать с этим Эриком!"
-    new "Con l'arrivo di Eric, la mia attività è diventata inaspettatamente cattiva... In primo luogo, si offrì di mandarmi in un campo militare. Un po' per rendermi un uomo... Sì, sono già un Uomo! Questi campi si arresero a me...\n\n"
-"In secondo luogo, convinse mia madre che dovevamo essere puniti in qualche altro modo. Non avrei suggerito nulla di buono, ma è... In generale, dalla prossima settimana saremo puniti l'uno di fronte all'altro... Nudo! È un vero peccato! È come se tu debba essere un pervertito per inventare questo.\n\n"
-"È chiaro che sarà bello ancora una volta vedere le tette delle sorelle, ma posso anche essere frustata davanti a tutti. È come minare la credibilità!\n\n"
-"Prima questa stupida idea con un campo militare, ora è anche... Qualcosa deve essere risolto urgentemente con questo Eric!"
+    old "С появлением Эрика мои дела стали неожиданно плохи... Во-первых, он предложил отправить меня в какой-то военный лагерь. Вроде бы для того, чтобы сделать из меня мужика... Да я уже Мужик! Сдались мне эти лагеря...\n\nВо-вторых, он убедил маму, что наказывать нас надо как-то иначе. Нет бы что хорошее подсказал, но это... В общем, со следующей недели нас будут наказывать на глазах друг у друга... голыми! Это такой позор! Это же каким надо быть извращенцем, чтобы такое выдумать.\n\nПонятно, что будет прикольно лишний раз увидеть сиськи сестёр, но и меня могут выпороть на глазах у всех. Это же как подорвёт авторитет!\n\nСначала эта дурацкая идея с военным лагерем, теперь ещё и это... Нужно что-то срочно решать с этим Эриком!"\n   new "Con l'arrivo di Eric, la mia attività è diventata inaspettatamente cattiva... In primo luogo, si offrì di mandarmi in un campo militare. Un po' per rendermi un uomo... Sì, sono già un Uomo! Questi campi si arresero a me...\n\n"\nIn secondo luogo, convinse mia madre che dovevamo essere puniti in qualche altro modo. Non avrei suggerito nulla di buono, ma è... In generale, dalla p\nÈ chiaro che sarà bello ancora una volta vedere le tette delle sorelle, ma posso anche essere frustata davanti a tutti. È come minare la credibilità!\n\nPrima questa stupida idea con un campo militare, ora è anche... Qualcosa deve essere risolto urgentemente con questo Eric!"
 
     # game/core/09_opportunities.rpy:4
     old "Нужно серьёзно задуматься, дружить с Эриком или нет. Если стану дружить, то проблем у меня может стать меньше, но не известно, не появятся ли новые. Если стану враждовать, то вполне могу попасть в военный лагерь или того хуже. Как вариант, можно дружить, но при каждом удобном случае строить ему козни..."
@@ -1757,36 +1693,24 @@
     new "Christina"
 
     # game/core/09_opportunities.rpy:4
-    old "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \n"
-"Я не решился подкатить к ней... Она бы меня наверняка отшила. Хотя, попробовать всё равно можно было..."
-    new "I miei ordini sospetti di tutti gli abiti femminili interessati alla ragazza dalla consegna. Come si è scoperto, il suo nome è Christina. \n"
-"non ho osato arrotolarmi fino a lei... Probabilmente mi avrebbe cucito via. Anche se, potresti ancora provare..."
+    old "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \nЯ не решился подкатить к ней... Она бы меня наверняка отшила. Хотя, попробовать всё равно можно было..."\n   new "I miei ordini sospetti di tutti gli abiti femminili interessati alla ragazza dalla consegna. Come si è scoperto, il suo nome è Christina. \nnon ho osato arrotolarmi fino a lei... Probabilmente mi avrebbe cucito via. Anche se, potresti ancora provare..."
 
     # game/core/09_opportunities.rpy:4
-    old "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \n"
-"Не самым умным решением было к ней сразу же подкатывать, но что сделано, то сделано. Понятно, что она бы в любом случае меня отшила, но попробовать стоило..."
-    new "I miei ordini sospetti di tutti gli abiti femminili interessati alla ragazza dalla consegna. Come si è scoperto, il suo nome è Christina. \n"
-"Non la decisione più intelligente è stata quella di arrotolarlo subito, ma ciò che è stato fatto è stato fatto. È chiaro che mi avrebbe cucito comunque, ma ne è valsa la pena provare..."
+    old "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \nНе самым умным решением было к ней сразу же подкатывать, но что сделано, то сделано. Понятно, что она бы в любом случае меня отшила, но попробовать стоило..."\n   new "I miei ordini sospetti di tutti gli abiti femminili interessati alla ragazza dalla consegna. Come si è scoperto, il suo nome è Christina. \nNon la decisione più intelligente è stata quella di arrotolarlo subito, ma ciò che è stato fatto è stato fatto. È chiaro che mi avrebbe cucito comunque, ma ne è valsa la pena provare..."
 
     # game/core/09_opportunities.rpy:4
     old "Компромат на Эрика"
     new "Sporcizia su Eric"
 
     # game/core/09_opportunities.rpy:4
-    old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\n"
-"Наверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Такой козырь лучше иметь под рукой, на случай чего..."
-    new "Mi è capitato di notare Eric in piedi vicino alla finestra della stanza di Alice nel cuore della notte e tremare contro di lei! Non mi aspettavo di vederlo... Mi sembrava che Eric fosse uno di quelli che preferirebbero rimuovere una prostituta piuttosto che semplicemente throot, ma come si è scoperto ... Mi sbagliavo.\n\n"
-"Sicuramente questa non è la prima volta che lo fa! Devi guardarlo di notte per ottenere una foto con le sue azioni sporche ... Una tale carta vincente è meglio avere a portata di mano, in caso di ciò che ..."
+    old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\nНаверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Такой козырь лучше иметь под рукой, на случай чего..."\n   new "Mi è capitato di notare Eric in piedi vicino alla finestra della stanza di Alice nel cuore della notte e tremare contro di lei! Non mi aspettavo di vederlo... Mi sembrava che Eric fosse uno di quelli che preferirebbero rimuovere una prostituta piuttosto che semplicemente throot, ma come si è scoperto ... Mi sbagliavo.\n\nSicuramente questa non è la prima volta che lo fa! Devi guardarlo di notte per ottenere una foto con le sue azioni sporche ... Una tale carta vincente è meglio avere a portata di mano, in caso di ciò che ..."
 
     # game/core/09_opportunities.rpy:4
     old "Похоже, Эрик иногда не может удержаться и идёт дрочить на Алису. Это происходит около двух часов ночи..."
     new "Sembra che Eric a volte non riesca a resistere e vada a jever su Alice. Succede verso le due del mattino..."
 
     # game/core/09_opportunities.rpy:4
-    old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\n"
-"Было бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы... Может, получится уговорить её спать голой?!"
-    new "È un go! Ho scattato una foto di Eric che trema ad Alice! Naturalmente, non è molto chiaro nella foto chi o cosa stia degghignando, quindi non troppo questa foto mi aiuterà in caso di qualche pasticcio con Eric.\n\n"
-"Sarebbe bello se Eric fosse così sfacciato da iniziare a deriso Alice proprio nel mezzo della sua stanza... Questo avrebbe già tirato sul compromesso! Alice entrerà davvero nell'inquadratura, ma l'attenzione principale in una foto del genere sarà focalizzata su Eric. È una piccola questione - per capire come attirarlo nella stanza di Alice..."
+    old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\nБыло бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы... Может, получится уговорить её спать голой?!"\n   new "È un go! Ho scattato una foto di Eric che trema ad Alice! Naturalmente, non è molto chiaro nella foto chi o cosa stia degghignando, quindi non troppo questa foto mi aiuterà in caso di qualche pasticcio con Eric.\n\nSarebbe bello se Eric fosse così sfacciato da iniziare a deriso Alice proprio nel mezzo della sua stanza... Questo avrebbe già tirato sul compromesso! Alice entrerà davvero nell'inquadratura, ma l'attenzione principale in una foto del genere sarà focalizzata su Eric. È una piccola questione - per capire come attirarlo nella stanza di Alice..."
 
     # game/core/09_opportunities.rpy:4
     old "Алису точно не удастся уговорить спать голышом, если её даже не наказывали голой..."
@@ -1805,12 +1729,7 @@
     new "Resta solo da avere il tempo di scattare una foto di Eric, mentre sta ancora tremando ad Alice..."
 
     # game/core/09_opportunities.rpy:4
-    old "Вот всё и получилось! У меня есть два снимка, на которых Эрик, как грязный извращенец, дрочит пока все спокойно спят... А на одном из снимков даже видно на кого он дрочит...\n\n"
-"Мне стоит быть осторожнее с этими снимками, Эрик столько всего делает для моих сестёр, что они запросто могут рассказать о том, что у меня есть. А так же хорошенько подумать над тем, как я буду использовать эти снимки.\n\n"
-"Я могу придержать этот компромат, пойти с ним к Эрику в ближайшее время или же вовсе как-то подставить его..."
-    new "Questo è tutto! Ho due foto di Eric, come uno sporco pervertito, che trema mentre tutti dormono tranquillamente... E una delle foto mostra anche a chi sta tremando...\n\n"
-"dovrei stare attento con queste foto, Eric fa così tanto per le mie sorelle che possono facilmente dire di quello che ho. E pensa anche attentamente a come userò queste immagini.\n\n"
-"posso tenere questa sporcizia, andare con lui da Eric nel prossimo futuro o anche in qualche modo incorniciarlo..."
+    old "Вот всё и получилось! У меня есть два снимка, на которых Эрик, как грязный извращенец, дрочит пока все спокойно спят... А на одном из снимков даже видно на кого он дрочит...\n\nМне стоит быть осторожнее с этими снимками, Эрик столько всего делает для моих сестёр, что они запросто могут рассказать о том, что у меня есть. А так же хорошенько подумать над тем, как я буду использовать эти снимки.\n\nЯ могу придержать этот компромат, пойти с ним к Эрику в ближайшее время или же вовсе как-то подставить его..."\n   new "Questo è tutto! Ho due foto di Eric, come uno sporco pervertito, che trema mentre tutti dormono tranquillamente... E una delle foto mostra anche a chi sta tremando...\n\n"\ndovrei stare attento con queste foto, Eric fa così tanto per le mie sorelle che possono facilmente dire di quello che ho. E pensa anche attentamente a come userò queste immagini.\n\nposso tenere questa sporcizia, andare con lui da Eric nel prossimo futuro o anche in qualche modo incorniciarlo..."
 
     # game/core/09_opportunities.rpy:4
     old "Забота о попках"
@@ -1849,12 +1768,7 @@
     new "Se mi alto e Alice fuma, dovrò farglielo sapere e aspettare un po'. Visto quello che la aspetta, lasciala fumare tranquillamente..."
 
     # game/core/09_opportunities.rpy:4
-    old "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось... \n"
-"Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней. \n\n"
-"Хорошо бы понять, как её лучше шлёпать, чтобы тискать как можно дольше и без вреда для здоровья."
-    new "Lo spettacolo è davvero affascinante! Non molte persone sono riuscite a spogliarsi e sculacciare la sorella maggiore...\n"
-"Anche se è capricciosa e si fa la doccia di minacce allo stesso tempo, ma sembra che la mia perseveranza abbia preso il sopravvento. Ammirare il suo nudo e sodo è un piacere, così come schiaffeggiarla.\n\n"
-"E ora capisco come non andare troppo lontano per godere di questa punizione privata il più a lungo possibile."
+    old "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось... \nХоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней. \n\nХорошо бы понять, как её лучше шлёпать, чтобы тискать как можно дольше и без вреда для здоровья."\n   new "Lo spettacolo è davvero affascinante! Non molte persone sono riuscite a spogliarsi e sculacciare la sorella maggiore...\n"\nAnche se è capricciosa e si fa la doccia di minacce allo stesso tempo, ma sembra che la mia perseveranza abbia preso il sopravvento. Ammirare il suo nudo e sodo è un piacere, così come schiaffeggiarla.\n\nE ora capisco come non andare troppo lontano per godere di questa punizione privata il più a lungo possibile."
 
     # game/core/09_opportunities.rpy:4
     old "Лучше шлёпать нежно. По крайней мере, сначала. Алиса не должна забывать, что это так или иначе, наказание..."
