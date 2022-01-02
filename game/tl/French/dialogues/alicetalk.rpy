@@ -7795,8 +7795,8 @@ translate frenh gift_black_lingerie_52c30a67:
 # game/dialogues/alicetalk.rpy:4193
 translate frenh gift_black_lingerie_3163cf24:
 
-    # [Alice]{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
-    Alice]{b}Alice:{/b} C’est tout, Max. Tu peux entrer..."
+    # [Alice "{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
+    Alice "{b}Alice:{/b} C’est tout, Max. Tu peux entrer..."
 
 # game/dialogues/alicetalk.rpy:4199
 translate frenh gift_black_lingerie_75108e7f:
@@ -9127,8 +9127,8 @@ translate frenh alice_mistress_0_bbce7676:
 # game/dialogues/alicetalk.rpy:4948
 translate frenh alice_mistress_0_f57bb277:
 
-    # [Alice]{b}Алиса:{/b} Жди за дверью, Макс! Я сейчас подготовлюсь и позову тебя."
-    Alice]{b}Alice:{/b} Attends devant la porte, Max! Je vais me préparer et t'appeler."
+    # [Alice "{b}Алиса:{/b} Жди за дверью, Макс! Я сейчас подготовлюсь и позову тебя."
+    Alice "{b}Alice:{/b} Attends devant la porte, Max! Je vais me préparer et t'appeler."
 
 # game/dialogues/alicetalk.rpy:4949
 translate frenh alice_mistress_0_ac44d106:
@@ -9139,8 +9139,8 @@ translate frenh alice_mistress_0_ac44d106:
 # game/dialogues/alicetalk.rpy:4950
 translate frenh alice_mistress_0_c84b412e:
 
-    # [Alice]{b}Алиса:{/b} Немного терпения и ты всё узнаешь!"
-    Alice]{b}Alice:{/b} Un peu de patience et tu vas le découvrir!"
+    # [Alice "{b}Алиса:{/b} Немного терпения и ты всё узнаешь!"
+    Alice "{b}Alice:{/b} Un peu de patience et tu vas le découvrir!"
 
 # game/dialogues/alicetalk.rpy:4951
 translate frenh alice_mistress_0_878ce08d:
@@ -9157,8 +9157,8 @@ translate frenh alice_mistress_0_f9c4c600:
 # game/dialogues/alicetalk.rpy:4954
 translate frenh alice_mistress_0_be0cb566:
 
-    # [Alice]{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал..." nointeract
-    Alice]{b}Alice:{/b} Tu peux entrer si tu ne t'es pas encore enfuit..." nointeract
+    # [Alice "{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал..." nointeract
+    Alice "{b}Alice:{/b} Tu peux entrer si tu ne t'es pas encore enfuit..." nointeract
 
 # game/dialogues/alicetalk.rpy:4962
 translate frenh alice_mistress_0_15abff2f:
@@ -9433,8 +9433,8 @@ translate frenh alice_mistress_1_d1fa99ac:
 # game/dialogues/alicetalk.rpy:5058
 translate frenh alice_mistress_1_843d85a9:
 
-    # [Alice]{b}Алиса:{/b} Макс, заходи!" nointeract
-    Alice]{b}Alice:{/b} Max, entre!" nointeract
+    # [Alice "{b}Алиса:{/b} Макс, заходи!" nointeract
+    Alice "{b}Alice:{/b} Max, entre!" nointeract
 
 # game/dialogues/alicetalk.rpy:5066
 translate frenh alice_mistress_1_6c9fc7dd:
@@ -9607,8 +9607,8 @@ translate frenh alice_mistress_2_c7e32ed5:
 # game/dialogues/alicetalk.rpy:5152
 translate frenh alice_mistress_2_de2fccb5:
 
-    # [Alice]{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
-    Alice]{b}Alice:{/b} Et ne penses même pas à t’enfuir parce que je suis presque nue!"
+    # [Alice "{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
+    Alice "{b}Alice:{/b} Et ne penses même pas à t’enfuir parce que je suis presque nue!"
 
 # game/dialogues/alicetalk.rpy:5153
 translate frenh alice_mistress_2_47ba9f6f:
@@ -9619,8 +9619,8 @@ translate frenh alice_mistress_2_47ba9f6f:
 # game/dialogues/alicetalk.rpy:5155
 translate frenh alice_mistress_2_fc43cc0c:
 
-    # [Alice]{b}Алиса:{/b} Давай, заходи." nointeract
-    Alice]{b}Alice:{/b} Aller, entre." nointeract
+    # [Alice "{b}Алиса:{/b} Давай, заходи." nointeract
+    Alice "{b}Alice:{/b} Aller, entre." nointeract
 
 # game/dialogues/alicetalk.rpy:5163
 translate frenh alice_mistress_2_b898a43b:
@@ -9847,8 +9847,8 @@ translate frenh alice_mistress_3_e413dc04:
 # game/dialogues/alicetalk.rpy:5304
 translate frenh alice_mistress_3_follow_de2fccb5:
 
-    # [Alice]{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
-    Alice]{b}Alice:{/b} Et ne penses même pas à t’enfuir parce que je suis presque nue!"
+    # [Alice "{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
+    Alice "{b}Alice:{/b} Et ne penses même pas à t’enfuir parce que je suis presque nue!"
 
 # game/dialogues/alicetalk.rpy:5305
 translate frenh alice_mistress_3_follow_47ba9f6f:
@@ -9859,8 +9859,8 @@ translate frenh alice_mistress_3_follow_47ba9f6f:
 # game/dialogues/alicetalk.rpy:5307
 translate frenh alice_mistress_3_follow_fc43cc0c:
 
-    # [Alice]{b}Алиса:{/b} Давай, заходи." nointeract
-    Alice]{b}Alice:{/b} Aller, entre." nointeract
+    # [Alice "{b}Алиса:{/b} Давай, заходи." nointeract
+    Alice "{b}Alice:{/b} Aller, entre." nointeract
 
 # game/dialogues/alicetalk.rpy:5321
 translate frenh alice_mistress_3_follow_1598145f:

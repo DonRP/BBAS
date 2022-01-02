@@ -271,14 +271,14 @@ translate frenh ann_dressed_work_7b31f3ed:
 # game/events/ann.rpy:257
 translate frenh ann_dressed_work_b21abe2e:
 
-    # [Ann]{b}Анна:{/b} Кто там?" nointeract
-    Ann]{b}Anna:{/b} Qui est là ?" nointeract
+    # [Ann "{b}Анна:{/b} Кто там?" nointeract
+    Ann "{b}Anna:{/b} Qui est là ?" nointeract
 
 # game/events/ann.rpy:259
 translate frenh ann_dressed_work_2e55a9e3:
 
-    # [Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
-    Ann]{b}Anna:{/b} Max, je ne suis pas habillée. Je vais au travail. Attends un peu, chéri."
+    # [Ann "{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Max, je ne suis pas habillée. Je vais au travail. Attends un peu, chéri."
 
 # game/events/ann.rpy:260
 translate frenh ann_dressed_work_f3117b6b:
@@ -289,8 +289,8 @@ translate frenh ann_dressed_work_f3117b6b:
 # game/events/ann.rpy:263
 translate frenh ann_dressed_work_2e55a9e3_1:
 
-    # [Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
-    Ann]{b}Anna:{/b} Max, je ne suis pas habillée. Je vais au travail. Attends un peu, chéri."
+    # [Ann "{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Max, je ne suis pas habillée. Je vais au travail. Attends un peu, chéri."
 
 # game/events/ann.rpy:264
 translate frenh ann_dressed_work_f3117b6b_1:
@@ -415,8 +415,8 @@ translate frenh ann_dressed_work_gift_cc0857da:
 # game/events/ann.rpy:334
 translate frenh ann_dressed_work_gift_dec66268:
 
-    # [Ann]{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
-    Ann]{b}Anna:{/b} Wow, c'est translucide ! Chéri, tu réalises que ta mère ne peut pas montrer sa silhouette devant son fils..."
+    # [Ann "{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
+    Ann "{b}Anna:{/b} Wow, c'est translucide ! Chéri, tu réalises que ta mère ne peut pas montrer sa silhouette devant son fils..."
 
 # game/events/ann.rpy:335
 translate frenh ann_dressed_work_gift_461f061a:
@@ -427,8 +427,8 @@ translate frenh ann_dressed_work_gift_461f061a:
 # game/events/ann.rpy:336
 translate frenh ann_dressed_work_gift_0f666c00:
 
-    # [Ann]{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
-    Ann]{b}Anna:{/b} Non, je l'adore ! C'est un merveilleux cadeau ! Seulement, tu ne crois pas que tu es trop jeune pour offrir de tels cadeaux ?"
+    # [Ann "{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
+    Ann "{b}Anna:{/b} Non, je l'adore ! C'est un merveilleux cadeau ! Seulement, tu ne crois pas que tu es trop jeune pour offrir de tels cadeaux ?"
 
 # game/events/ann.rpy:337
 translate frenh ann_dressed_work_gift_00ed580c:
@@ -439,8 +439,8 @@ translate frenh ann_dressed_work_gift_00ed580c:
 # game/events/ann.rpy:338
 translate frenh ann_dressed_work_gift_f9e66542:
 
-    # [Ann]{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
-    Ann]{b}Anna:{/b} Oh, Max, tu m’embarrasses, un cadeau si sexy, et à ta propre mère... Mais quand même, je l’apprécie vraiment... et merci encore!"
+    # [Ann "{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
+    Ann "{b}Anna:{/b} Oh, Max, tu m’embarrasses, un cadeau si sexy, et à ta propre mère... Mais quand même, je l’apprécie vraiment... et merci encore!"
 
 # game/events/ann.rpy:339
 translate frenh ann_dressed_work_gift_75fcb6dd:
@@ -511,14 +511,14 @@ translate frenh ann_dressed_shop_d4cf236b:
 # game/events/ann.rpy:416
 translate frenh ann_dressed_shop_b21abe2e:
 
-    # [Ann]{b}Анна:{/b} Кто там?" nointeract
-    Ann]{b}Anna:{/b} Qui est là ?" nointeract
+    # [Ann "{b}Анна:{/b} Кто там?" nointeract
+    Ann "{b}Anna:{/b} Qui est là ?" nointeract
 
 # game/events/ann.rpy:418
 translate frenh ann_dressed_shop_bf2abaef:
 
-    # [Ann]{b}Анна:{/b} Нет, Макс. Я переодеваюсь. Подожди немного, дорогой."
-    Ann]{b}Anna:{/b} Non, Max. Je suis en train de me changer. Attends un peu, chéri."
+    # [Ann "{b}Анна:{/b} Нет, Макс. Я переодеваюсь. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Non, Max. Je suis en train de me changer. Attends un peu, chéri."
 
 # game/events/ann.rpy:419
 translate frenh ann_dressed_shop_f3117b6b:
@@ -529,8 +529,8 @@ translate frenh ann_dressed_shop_f3117b6b:
 # game/events/ann.rpy:421
 translate frenh ann_dressed_shop_2f691176:
 
-    # [Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на шопинг. Подожди немного, дорогой."
-    Ann]{b}Anna:{/b} Max, je ne suis pas habillée. Je vais faire du shopping. Attends un peu, chéri."
+    # [Ann "{b}Анна:{/b} Макс, я не одета. Собираюсь на шопинг. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Max, je ne suis pas habillée. Je vais faire du shopping. Attends un peu, chéri."
 
 # game/events/ann.rpy:422
 translate frenh ann_dressed_shop_f3117b6b_1:
@@ -643,8 +643,8 @@ translate frenh ann_dressed_shop_gift_cc0857da:
 # game/events/ann.rpy:488
 translate frenh ann_dressed_shop_gift_dec66268:
 
-    # [Ann]{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
-    Ann]{b}Anna:{/b} Wow, c'est translucide ! Chéri, tu réalises que ta mère ne peut pas montrer sa silhouette devant son fils..."
+    # [Ann "{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
+    Ann "{b}Anna:{/b} Wow, c'est translucide ! Chéri, tu réalises que ta mère ne peut pas montrer sa silhouette devant son fils..."
 
 # game/events/ann.rpy:489
 translate frenh ann_dressed_shop_gift_461f061a:
@@ -655,8 +655,8 @@ translate frenh ann_dressed_shop_gift_461f061a:
 # game/events/ann.rpy:490
 translate frenh ann_dressed_shop_gift_0f666c00:
 
-    # [Ann]{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
-    Ann]{b}Anna:{/b} Non, je l'adore ! C'est un merveilleux cadeau ! Seulement, tu ne crois pas que tu es trop jeune pour offrir de tels cadeaux ?"
+    # [Ann "{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
+    Ann "{b}Anna:{/b} Non, je l'adore ! C'est un merveilleux cadeau ! Seulement, tu ne crois pas que tu es trop jeune pour offrir de tels cadeaux ?"
 
 # game/events/ann.rpy:491
 translate frenh ann_dressed_shop_gift_00ed580c:
@@ -667,8 +667,8 @@ translate frenh ann_dressed_shop_gift_00ed580c:
 # game/events/ann.rpy:492
 translate frenh ann_dressed_shop_gift_f9e66542:
 
-    # [Ann]{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
-    Ann]{b}Anna:{/b} Oh, Max, tu m’embarrasses, un cadeau si sexy, et à ta propre mère... Mais quand même, je l’apprécie vraiment... et merci encore!"
+    # [Ann "{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
+    Ann "{b}Anna:{/b} Oh, Max, tu m’embarrasses, un cadeau si sexy, et à ta propre mère... Mais quand même, je l’apprécie vraiment... et merci encore!"
 
 # game/events/ann.rpy:493
 translate frenh ann_dressed_shop_gift_75fcb6dd:
@@ -739,26 +739,26 @@ translate frenh ann_bath_9132bdea:
 # game/events/ann.rpy:627
 translate frenh ann_bath_cddc6bee:
 
-    # [Ann]{b}Анна:{/b} Кто там? Я принимаю ванну!" nointeract
-    Ann]{b}Anna:{/b} Qui est-ce ? Je prends un bain!" nointeract
+    # [Ann "{b}Анна:{/b} Кто там? Я принимаю ванну!" nointeract
+    Ann "{b}Anna:{/b} Qui est-ce ? Je prends un bain!" nointeract
 
 # game/events/ann.rpy:630
 translate frenh ann_bath_29fc0d16:
 
-    # [Ann]{b}Анна:{/b} Дорогой, что ты хотел?" nointeract
-    Ann]{b}Anna:{/b} Chéri, qu’est-ce que tu voulais ?" nointeract
+    # [Ann "{b}Анна:{/b} Дорогой, что ты хотел?" nointeract
+    Ann "{b}Anna:{/b} Chéri, qu’est-ce que tu voulais ?" nointeract
 
 # game/events/ann.rpy:634
 translate frenh ann_bath_13e7202f:
 
-    # [Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри!" nointeract
-    Ann]{b}Anna:{/b} Eh bien... d’accord, entres. Seulement ne regardes pas!" nointeract
+    # [Ann "{b}Анна:{/b} Ну... хорошо, входи. Только не смотри!" nointeract
+    Ann "{b}Anna:{/b} Eh bien... d’accord, entres. Seulement ne regardes pas!" nointeract
 
 # game/events/ann.rpy:657
 translate frenh ann_bath_9b9b753a:
 
-    # [Ann]{b}Анна:{/b} Хорошо, я скоро закончу..."
-    Ann]{b}Anna:{/b} Ok, j'aurai bientôt fini..."
+    # [Ann "{b}Анна:{/b} Хорошо, я скоро закончу..."
+    Ann "{b}Anna:{/b} Ok, j'aurai bientôt fini..."
 
 # game/events/ann.rpy:658
 translate frenh ann_bath_7852d704:

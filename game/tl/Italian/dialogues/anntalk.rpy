@@ -1269,8 +1269,8 @@ translate italian ann_gift_fit1_021e4709:
 # game/dialogues/anntalk.rpy:874
 translate italian ann_gift_fit1_dc4afcad:
 
-    # [Ann]{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
-    Ann]{b}Anna:{/b} Figliolo, la taglia va bene. Come, si siede perfettamente. Solo qui..."
+    # [Ann "{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
+    Ann "{b}Anna:{/b} Figliolo, la taglia va bene. Come, si siede perfettamente. Solo qui..."
 
 # game/dialogues/anntalk.rpy:880
 translate italian ann_gift_fit1_5783d83b:

@@ -2487,8 +2487,8 @@ translate frenh kira_photoset3_cbdc6fac:
 # game/dialogues/kiratalk.rpy:1237
 translate frenh kira_photoset3_18b48d26:
 
-    # [Kira]{b}Кира:{/b} Скоро, Макс... Не переживай."
-    Kira]{b}Кirа:{/b} Bientôt, Max... Ne te tracasse pas."
+    # [Kira "{b}Кира:{/b} Скоро, Макс... Не переживай."
+    Kira "{b}Кirа:{/b} Bientôt, Max... Ne te tracasse pas."
 
 # game/dialogues/kiratalk.rpy:1238
 translate frenh kira_photoset3_3110144d:
@@ -2505,8 +2505,8 @@ translate frenh kira_photoset3_c5eba79b:
 # game/dialogues/kiratalk.rpy:1240
 translate frenh kira_photoset3_45937bea:
 
-    # [Kira]{b}Кира:{/b} О, Макс, мы с ней любим пошалить... и ещё как!"
-    Kira]{b}Kira:{/b} Oh Max, elle et moi adorons faire des farces... et ainsi de suite!"
+    # [Kira "{b}Кира:{/b} О, Макс, мы с ней любим пошалить... и ещё как!"
+    Kira "{b}Kira:{/b} Oh Max, elle et moi adorons faire des farces... et ainsi de suite!"
 
 # game/dialogues/kiratalk.rpy:1241
 translate frenh kira_photoset3_20a21b5d:

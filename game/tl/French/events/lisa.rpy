@@ -45,20 +45,20 @@ translate frenh lisa_shower_791d34d9:
 # game/events/lisa.rpy:46
 translate frenh lisa_shower_7a2afa4f:
 
-    # [Lisa]{b}Лиза:{/b} Кто там? Я ещё не закончила. Подождите немного..." nointeract
-    Lisa]{b}Lisa:{/b} Qui est-ce ? Je n'ai pas encore fini. Attendez un peu..." nointeract
+    # [Lisa "{b}Лиза:{/b} Кто там? Я ещё не закончила. Подождите немного..." nointeract
+    Lisa "{b}Lisa:{/b} Qui est-ce ? Je n'ai pas encore fini. Attendez un peu..." nointeract
 
 # game/events/lisa.rpy:49
 translate frenh lisa_shower_0451df43:
 
-    # [Lisa]{b}Лиза:{/b} Макс, чего хотел? Я же говорю, скоро выйду!" nointeract
-    Lisa]{b}Lisa:{/b} Max, qu'est-ce que tu veux ? Je te l'ai dit, je serai bientôt dehors!" nointeract
+    # [Lisa "{b}Лиза:{/b} Макс, чего хотел? Я же говорю, скоро выйду!" nointeract
+    Lisa "{b}Lisa:{/b} Max, qu'est-ce que tu veux ? Je te l'ai dit, je serai bientôt dehors!" nointeract
 
 # game/events/lisa.rpy:52
 translate frenh lisa_shower_d84f6a90:
 
-    # [Lisa]{b}Лиза:{/b} Нет, Макс. Жди за дверью. Я скоро!" nointeract
-    Lisa]{b}Lisa:{/b} Non, Max. Attends devant la porte. Je vais bientôt sortir!" nointeract
+    # [Lisa "{b}Лиза:{/b} Нет, Макс. Жди за дверью. Я скоро!" nointeract
+    Lisa "{b}Lisa:{/b} Non, Max. Attends devant la porte. Je vais bientôt sortir!" nointeract
 
 # game/events/lisa.rpy:64
 translate frenh lisa_shower_8d94a43d:
@@ -239,14 +239,14 @@ translate frenh lisa_dressed_c83f0902:
 # game/events/lisa.rpy:754
 translate frenh lisa_dressed_869e0bce:
 
-    # [Lisa]{b}Лиза:{/b} Кто там? Я переодеваюсь!" nointeract
-    Lisa]{b}Lisa:{/b} Qui est là? Je me change!" nointeract
+    # [Lisa "{b}Лиза:{/b} Кто там? Я переодеваюсь!" nointeract
+    Lisa "{b}Lisa:{/b} Qui est là? Je me change!" nointeract
 
 # game/events/lisa.rpy:760
 translate frenh lisa_dressed_3c9093ff:
 
-    # [Lisa]{b}Лиза:{/b} Макс, дай одеться спокойно! Потом свой ноутбук заберёшь..." nointeract
-    Lisa]{b}Lisa:{/b} Max, laisse-moi m'habiller en paix ! Tu peux récupérer ton ordinateur portable plus tard..." nointeract
+    # [Lisa "{b}Лиза:{/b} Макс, дай одеться спокойно! Потом свой ноутбук заберёшь..." nointeract
+    Lisa "{b}Lisa:{/b} Max, laisse-moi m'habiller en paix ! Tu peux récupérer ton ordinateur portable plus tard..." nointeract
 
 # game/events/lisa.rpy:790
 translate frenh lisa_dressed_be364192:
@@ -335,8 +335,8 @@ translate frenh lisa_dressed_get_notebook0_eb706326:
 # game/events/lisa.rpy:834
 translate frenh lisa_dressed_get_notebook1_657f8291:
 
-    # [Lisa]{b}Лиза:{/b} Ладно, так уж и быть, забирай быстрее..." nointeract
-    Lisa]{b}Lisa:{/b} D’accord, qu’il en soit ainsi, vas-y plus vite..." nointeract
+    # [Lisa "{b}Лиза:{/b} Ладно, так уж и быть, забирай быстрее..." nointeract
+    Lisa "{b}Lisa:{/b} D’accord, qu’il en soit ainsi, vas-y plus vite..." nointeract
 
 # game/events/lisa.rpy:837
 translate frenh lisa_dressed_get_notebook1_77805a20:
@@ -473,20 +473,20 @@ translate frenh lisa_dressed_stay_in_room_9edd3eac:
 # game/events/lisa.rpy:908
 translate frenh lisa_dressed_stay_in_room_769644c1:
 
-    # [Lisa]{b}Лиза:{/b} Я быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
-    Lisa]{b}Lisa:{/b} Je fait vite... Mais ne regardes pas! J'espère que tu pourras le faire..." nointeract
+    # [Lisa "{b}Лиза:{/b} Я быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
+    Lisa "{b}Lisa:{/b} Je fait vite... Mais ne regardes pas! J'espère que tu pourras le faire..." nointeract
 
 # game/events/lisa.rpy:910
 translate frenh lisa_dressed_stay_in_room_08276951:
 
-    # [Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени..." nointeract
-    Lisa]{b}Lisa:{/b} Et ne t'avises pas de regarder ! Ça ne prendra pas longtemps...." nointeract
+    # [Lisa "{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени..." nointeract
+    Lisa "{b}Lisa:{/b} Et ne t'avises pas de regarder ! Ça ne prendra pas longtemps...." nointeract
 
 # game/events/lisa.rpy:912
 translate frenh lisa_dressed_stay_in_room_cdba7705:
 
-    # [Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста!" nointeract
-    Lisa]{b}Lisa:{/b} Et j'aimerais que tu essaies de ne pas me regarder... Je sais que c'est difficile, mais s'il te plaît !" nointeract
+    # [Lisa "{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста!" nointeract
+    Lisa "{b}Lisa:{/b} Et j'aimerais que tu essaies de ne pas me regarder... Je sais que c'est difficile, mais s'il te plaît !" nointeract
 
 # game/events/lisa.rpy:936
 translate frenh lisa_dressed_moment2_8183fb49:
@@ -827,14 +827,14 @@ translate frenh lisa_bath_ladder_af2181e8:
 # game/events/lisa.rpy:1297
 translate frenh lisa_bath_knock_b1c84f9a:
 
-    # [Lisa]{b}Лиза:{/b} Кто там? Я принимаю ванну..." nointeract
-    Lisa]{b}Lisa:{/b} Qui est-ce ? Je prends un bain..." nointeract
+    # [Lisa "{b}Лиза:{/b} Кто там? Я принимаю ванну..." nointeract
+    Lisa "{b}Lisa:{/b} Qui est-ce ? Je prends un bain..." nointeract
 
 # game/events/lisa.rpy:1300
 translate frenh lisa_bath_knock_d71a1367:
 
-    # [Lisa]{b}Лиза:{/b} Я же сказала, что в ванне. Закончу, тогда и войдёшь! А пока жди..." nointeract
-    Lisa]{b}Lisa:{/b} J'ai dit dans la baignoire. Je vais finir, et tu pourras entrer ! En attendant, patientes..." nointeract
+    # [Lisa "{b}Лиза:{/b} Я же сказала, что в ванне. Закончу, тогда и войдёшь! А пока жди..." nointeract
+    Lisa "{b}Lisa:{/b} J'ai dit dans la baignoire. Je vais finir, et tu pourras entrer ! En attendant, patientes..." nointeract
 
 # game/events/lisa.rpy:1318
 translate frenh lisa_bath_open_knock_397f3e74:

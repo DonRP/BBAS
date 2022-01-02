@@ -249,8 +249,8 @@ translate italian MorningWoodCont_e3c0bf2a:
 # game/dialogues/lisatalk.rpy:183
 translate italian MorningWoodCont_4fbd8958:
 
-    # [Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
-    Max]Che cos'è?! Lisa vuole toccare il mio cazzo?! No, probabilmente sto ancora dormendo... O no?" nointeract
+    # [Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+    Max "Che cos'è?! Lisa vuole toccare il mio cazzo?! No, probabilmente sto ancora dormendo... O no?" nointeract
 
 # game/dialogues/lisatalk.rpy:189
 translate italian MorningWoodCont_b3cadc1a:

@@ -1269,8 +1269,8 @@ translate frenh ann_gift_fit1_021e4709:
 # game/dialogues/anntalk.rpy:874
 translate frenh ann_gift_fit1_dc4afcad:
 
-    # [Ann]{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
-    Ann]{b}Anna:{/b} Fils, il n'y a rien de mal avec la taille. Elle semble s'adapter parfaitement. Sauf que..."
+    # [Ann "{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
+    Ann "{b}Anna:{/b} Fils, il n'y a rien de mal avec la taille. Elle semble s'adapter parfaitement. Sauf que..."
 
 # game/dialogues/anntalk.rpy:880
 translate frenh ann_gift_fit1_5783d83b:

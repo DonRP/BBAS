@@ -21,8 +21,8 @@ translate italian kira_bath_e51d277a:
 # game/events/kira.rpy:28
 translate italian kira_bath_fef8596e:
 
-    # [Kira]{b}Кира:{/b} Кто там? Я принимаю ванну и абсолютно голая... Так что не входите, дайте отдохнуть!"
-    Kira]{b}Kira:{/b} Chi c'è? Faccio il bagno e sono completamente nudo... Quindi non entrare, fammi riposare!"
+    # [Kira "{b}Кира:{/b} Кто там? Я принимаю ванну и абсолютно голая... Так что не входите, дайте отдохнуть!"
+    Kira "{b}Kira:{/b} Chi c'è? Faccio il bagno e sono completamente nudo... Quindi non entrare, fammi riposare!"
 
 # game/events/kira.rpy:30
 translate italian kira_bath_5bdda7d4:
