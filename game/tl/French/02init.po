@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 15:47\n"
+"PO-Revision-Date: 2022-01-03 17:32\n"
 
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasion réduite!{/i}{/color}\n"
@@ -162,12 +162,7 @@ msgid "В данной игре предусмотрено управление 
 "Для переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\n"
 "Отключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\n"
 "Это очень удобно, если область диалогов скрывает интересную часть изображения..."
-msgstr "Ce jeu fournit un contrôle au clavier. Vous pouvez l'utiliser à tout moment. Raccourcis clavier par défaut:\n"
-"F5 - Enregistrer, F8 - Charger.\n\n\n"
-"En outre, lors de dialogues, 1 à 9 pour différentes options de réponse. S'il n'y a qu'une seule option, vous pouvez appuyer sur la touche [[Space].\n\n\n"
-"Pour passer d'une pièce à une autre, vous pouvez utiliser les touches 1 à 7.\n\n\n"
-"Vous pouvez désactiver l'interface en appuyant sur [[ ' ], [[ h ] ou en appuyant sur le bouton central de la souris.\n"
-"Ceci est très pratique si la zone de dialogue cache une partie intéressante de l'image ..."
+msgstr "Ce jeu fournit un contrôle \\nF5 - Enregistrer, F8 - Charger.\\n\\n En outre, lors de dialogues, 1 à 9 pour différentes options de réponse. S'il n'y a qu'un seule option, vous pouvez appuyer sur la barre [[Space].\\n\\nPour passer d'une pièce à une autre, vous pouvez utiliser les touches 1 à 7.\\n\\nVous pouvez désactiver l'interface en appuyant sur [[ ' ], [[ h ] ou en appuyant sur le bouton central de la souris.\\nCeci est très pratique si la zone de dialogue cache une partie intéressante de l'image ..."
 
 #    # game/core/02init.rpy:122
 msgid "Возможности"
@@ -188,10 +183,7 @@ msgid "Различные действия или фразы, сказанные
 "Если у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\n"
 "Постепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\n"
 "Чтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
-msgstr "Diverses actions ou phrases dites par Max peuvent provoquer une réaction correspondante sous la forme d’un changement d’humeur du personnage.\n\n\n"
-"Si un personnage est de mauvaise humeur, il peut refuser de discuter de certains sujets avec vous.\n\n\n"
-"Progressivement, toutes les heures, l’humeur tend doucement vers un état neutre. Cependant, si l’humeur est très mauvaise, il faudra beaucoup de temps pour récupérer.\n\n\n"
-"Pour vous remonter le moral, vous pouvez donner ce dont vous avez besoin à ce personnage particulier ou simplement vous excuser. Et parfois, le bon mot au cours d’une conversation peut améliorer considérablement l’humeur."
+msgstr "Diverses actions ou phrases dites par Max peuvent provoquer une réaction correspondante sous la forme d'un changement d'humeur du personnage.\\n\\nSi un personnage est de mauvaise humeur, il peut refuser de discuter de certains sujets avec vous.\\n\\nProgressivement, toutes les heures, l’humeur tend doucement vers un état neutre. Cependant, si l’humeur est très mauvaise, il faudra beaucoup de temps pour récupérer.\\n\\nPour vous remonter le moral, vous pouvez donner ce dont vous avez besoin à ce personnage particulier ou simplement vous excuser. Et parfois, le bon mot au cours d’une conversation peut améliorer considérablement l’humeur."
 
 #    # game/core/02init.rpy:122
 msgid "Шоу"
@@ -202,10 +194,7 @@ msgid "Скрытые камеры могут быть основным исто
 "Увеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\n"
 "Если у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n"
 "{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
-msgstr "Les caméras cachées peuvent être la principale source de revenus. Plus le public est grand, plus les gens sont prêts à payer pour regarder.\n\n\n"
-"Vous pouvez augmenter votre audience avec des publicités. Si rien d’intéressant ne se passe sur les caméras, le public partira. Si des moments piquants entrent dans le cadre, le public augmente.\n\n\n"
-"Si vous avez un site Web, vous pouvez gagner de l’argent avec des bannières publicitaires. Donc, plus le public est grand, plus vous avez d’argent.\n\n\n"
-"{i}{b}Note:{/b} Dans les futures versions du jeu, les utilisateurs VIP pourront avoir des demandes spéciales. Si vous les effectuez, vous recevrez une solide augmentation de revenu.{/i}"
+msgstr "Les caméras cachées peuvent être la principale source de revenus. Plus le public est grand, plus les gens sont prêts à payer pour regarder.\\n\\n\\nVous pouvez augmenter votre audience avec des publicités. Si rien d’intéressant ne se passe sur les caméras, le public partira. Si des moments piquants\\nSi vous avez un site Web, vous pouvez gagner de l’argent avec des bannières publicitaires. Donc, plus le public est grand, plus vous avez d’argent.\\n\\n\\n{i}{b}Note:{/b} Dans les futures versions du jeu, les utilisateurs VIP pourront avoir des demandes spéciales. Si vous les effectuez, vous recevrez une solide augmentation de revenu.{/i}"
 
 #    # game/core/02init.rpy:130
 msgid "Значит, у тебя есть блог?"
