@@ -728,7 +728,7 @@ translate italian about_credit_189e301b:
 # game/events/max.rpy:1037
 translate italian about_credit_0f0e102c:
 
-    # Max_04 "Подытожим условия: \n{i}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\nЛучше, конечно же, до такого не доводить."\n   Max_04 "Per riassumere le condizioni: \n"\n{i}Entro un mese è necessario restituire l'intero importo del prestito + 10% \n"\nIn caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo... {/i} \n\nÈ meglio non portare questo a questo, ovviamente."
+    # Max_04 "Подытожим условия: \n{i}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\nЛучше, конечно же, до такого не доводить."\n   Max_04 "Per riassumere le condizioni: \n{i}Entro un mese è necessario restituire l'intero importo del prestito + 10% \nIn caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo... {/i} \n\nÈ meglio non portare questo a questo, ovviamente."
 
 # game/events/max.rpy:1038
 translate italian about_credit_6a66dabb:
