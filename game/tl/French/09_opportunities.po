@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 15:47\n"
+"PO-Revision-Date: 2022-01-03 17:32\n"
 
 msgid "Скрытые камеры"
 msgstr "Caméras cachées"
@@ -1216,10 +1216,7 @@ msgid "С появлением Эрика мои дела стали неожи�
 "Во-вторых, он убедил маму, что наказывать нас надо как-то иначе. Нет бы что хорошее подсказал, но это... В общем, со следующей недели нас будут наказывать на глазах друг у друга... голыми! Это такой позор! Это же каким надо быть извращенцем, чтобы такое выдумать.\n\n"
 "Понятно, что будет прикольно лишний раз увидеть сиськи сестёр, но и меня могут выпороть на глазах у всех. Это же как подорвёт авторитет!\n\n"
 "Сначала эта дурацкая идея с военным лагерем, теперь ещё и это... Нужно что-то срочно решать с этим Эриком!"
-msgstr "Avec l'arrivée d'Eric, mes affaires ont pris une tournure inattendue... D'abord, il a proposé de m'envoyer dans un camp militaire. Pour faire de moi un homme... Je suis déjà un homme ! Je ne me soucie pas de ces camps...\n\n"
-"Deuxièmement, il a convaincu ma mère que nous devions être punis d'une autre manière. J'aimerais pouvoir dire quelque chose de bien, mais c'est... Quoi qu'il en soit, à partir de la semaine prochaine, nous serons punis l'un devant l'autre... à poil ! C'est vraiment dommage ! Quel genre de pervers pourrait inventer une telle chose ?\n\n"
-"Je sais que ce serait amusant de voir les seins de mes sœurs, mais je pourrais aussi me faire fouetter devant tout le monde. Quel coup dur pour ma crédibilité !\n\n"
-"D'abord cette idée stupide d'un camp militaire, maintenant ça... Il est urgent de faire quelque chose !"
+msgstr "Avec l'arrivée d'Eric, mes affaires ont pris une tournure inattendue... D'abord, il a proposé de m'envoyer dans un camp militaire. Pour faire de moi un homme... Je suis déjà un homme ! Je ne me soucie pas de ces camps...\\n\\nDeuxièmement, il a convaincu ma mère que nous devions être punis d'une autre manière. J'aimerais pouvoir dire quelque chose de bien, mais c'est... Quoi qu'il en s\\nJe sais que ce serait amusant de voir les seins de mes sœurs, mais je pourrais aussi me faire fouetter devant tout le monde. Quel coup dur pour ma crédibilité !\\n\\nD'abord cette idée stupide d'un camp militaire, maintenant ça... Il est urgent de faire quelque chose !"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно серьёзно задуматься, дружить с Эриком или нет. Если стану дружить, то проблем у меня может стать меньше, но не известно, не появятся ли новые. Если стану враждовать, то вполне могу попасть в военный лагерь или того хуже. Как вариант, можно дружить, но при каждом удобном случае строить ему козни..."
@@ -1853,9 +1850,7 @@ msgstr "Si j'arrive et qu'Alice fume, je dois l'espionner et attendre un peu. Co
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось... \n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней. \n\n"
 "Хорошо бы понять, как её лучше шлёпать, чтобы тискать как можно дольше и без вреда для здоровья."
-msgstr "Le spectacle est vraiment fascinant! Peu de gens ont réussi à se déshabiller et à donner une fessée à leur sœur aînée... \n"
-"Bien qu’elle soit capricieuse et qu’elle crie des menaces contre moi en même temps, mais il semble que ma persévérance ait pris le dessus. Admirer son cul nu et ferme est un plaisir, tout comme la gifler. \n\n"
-"Il serait bon de comprendre comment il est préférable de la gifler pour la garder le plus longtemps possible sous mes mains et sans nuire à sa santé."
+msgstr "Le spectacle est vraiment fascinant! Peu de gens ont réussi à se déshabiller et à donner une fessée à leur sœur aînée...\\n\\nBien qu’elle soit capricieuse et qu’elle crie des menaces contre moi en même temps, mais il semble que ma persévérance ait pris le dessus. Admirer son cul nu et ferme est un plaisir, tout comme la gifler. \\n\\nIl serait bon de comprendre comment il est préférable de la gifler pour la garder le plus longtemps possible sous mes mains et sans nuire à sa santé."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лучше шлёпать нежно. По крайней мере, сначала. Алиса не должна забывать, что это так или иначе, наказание..."
