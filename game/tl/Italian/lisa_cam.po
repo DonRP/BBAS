@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:49\n"
+"PO-Revision-Date: 2022-01-04 18:40\n"
 
-# game/events/lisa_cam.rpy:8## # translate crowdin cam0_lisa_sleep_night_cab47b53:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/lisa_cam.rpy:8## # translate crowdin cam0_lisa_sleep_night_cab47b53:
 msgid "[Max_01]Лиза сладко спит..."
 msgstr "[Max_01]Lisa dorme dolcemente..."
 
