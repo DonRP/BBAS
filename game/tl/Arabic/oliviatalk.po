@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-11-02 12:34\n"
+"PO-Revision-Date: 2022-01-04 18:38\n"
 
-# game/dialogues/oliviatalk.rpy:19## # translate crowdin OliviaTalkStart_26661b27:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/oliviatalk.rpy:19## # translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01]Вы не против, если я тоже позагораю?"
 msgstr ""
 
