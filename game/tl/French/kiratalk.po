@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-27 09:42\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/dialogues/kiratalk.rpy:17## # translate crowdin KiraTalkStart_14a49468:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/kiratalk.rpy:17## # translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
 msgstr "[Max_01]Pas contre de la compagnie?"
 
