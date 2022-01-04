@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-11-02 11:17\n"
+"PO-Revision-Date: 2022-01-04 18:40\n"
 
-# game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
+# TODO: Translation updated at 2021-12-05 17:43### # game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
 msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
 msgstr "不支持保存技术演示版本。开始新游戏或选择其他保存。"
 
