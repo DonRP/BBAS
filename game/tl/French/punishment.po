@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-27 09:42\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/dialogues/punishment.rpy:99## # translate crowdin StartPunishment_42b2fac4:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/punishment.rpy:99## # translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
 msgstr "[Ann_16]Avant de commencer, quelqu'un mérite d'être puni et tout le monde regardera maintenant..."
 
