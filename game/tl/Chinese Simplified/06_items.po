@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-11-02 11:17\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
+# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/06_items.rpy:2
 msgid "ПАУК"
 msgstr "蜘蛛"
 
