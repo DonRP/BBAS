@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:48\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
-# game/events/olivia.rpy:34## # translate crowdin olivia_lisa_tv_6729ce96:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/olivia.rpy:34## # translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07]{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
 msgstr "[Max_07]{m}Le ragazze stanno guardando qualche soap opera e io preferisco guardarle... A parte il fatto che ho promesso di stare fuori dai piedi...{/m}[nointeract]"
 
