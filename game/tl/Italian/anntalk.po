@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-09 15:41\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
-# game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
 msgstr "[Ann_00]È successo qualcosa, cara?[nointeract]"
 
