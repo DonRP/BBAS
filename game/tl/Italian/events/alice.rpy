@@ -87,7 +87,8 @@ translate italian alice_bath_ladder_98712b50:
 # game/events/alice.rpy:100
 translate italian alice_sleep_night_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract
+    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
 
 # game/events/alice.rpy:114
 translate italian alice_sleep_night_395216d9:
@@ -248,7 +249,8 @@ translate italian alice_sleep_night_ef329553:
 # game/events/alice.rpy:204
 translate italian alice_sleep_morning_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract
+    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
 
 # game/events/alice.rpy:215
 translate italian alice_sleep_morning_7c1f0327:

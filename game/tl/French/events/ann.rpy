@@ -15,7 +15,8 @@
 # game/events/ann.rpy:11
 translate french ann_sleep_240f8eab:
 
-    # Max_00 "В это время мама обычно спит.\nМне кажется, не стоит её будить..." nointeract\n   Max_00 "À ce moment-là, maman est généralement endormie.\nJe ne pense pas que je devrais la réveiller...." nointeract
+    # Max_00 "В это время мама обычно спит.\nМне кажется, не стоит её будить..." nointeract
+    Max_00 "À ce moment-là, maman est généralement endormie.\nJe ne pense pas que je devrais la réveiller...." nointeract
 
 # game/events/ann.rpy:18
 translate french ann_sleep_261d0248:

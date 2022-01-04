@@ -15,7 +15,8 @@
 # game/events/ann.rpy:11
 translate italian ann_sleep_240f8eab:
 
-    # Max_00 "В это время мама обычно спит.\nМне кажется, не стоит её будить..." nointeract\n   Max_00 "In questo momento, la mamma di solito dorme.\nNon credo che dovresti svegliarla..." nointeract
+    # Max_00 "В это время мама обычно спит.\nМне кажется, не стоит её будить..." nointeract
+    Max_00 "In questo momento, la mamma di solito dorme.\nNon credo che dovresti svegliarla..." nointeract
 
 # game/events/ann.rpy:18
 translate italian ann_sleep_261d0248:

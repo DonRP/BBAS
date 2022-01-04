@@ -87,7 +87,8 @@ translate french alice_bath_ladder_98712b50:
 # game/events/alice.rpy:100
 translate french alice_sleep_night_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract
+    Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé..." nointeract
 
 # game/events/alice.rpy:114
 translate french alice_sleep_night_395216d9:
@@ -248,7 +249,8 @@ translate french alice_sleep_night_ef329553:
 # game/events/alice.rpy:204
 translate french alice_sleep_morning_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract\n   Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract
+    Max_00 "Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé..." nointeract
 
 # game/events/alice.rpy:215
 translate french alice_sleep_morning_7c1f0327:

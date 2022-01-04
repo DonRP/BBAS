@@ -1635,7 +1635,8 @@ translate italian alice_aboutbooks_6405d1b7:
 # game/dialogues/alicetalk.rpy:1457
 translate italian alice_aboutbooks_af00f0d1:
 
-    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}" nointeract\n   Alice_00 "non lo dirò. Siediti ora e indovina! \n\n{i}Alice coprì la copertina con la mano{/i}" nointeract
+    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}" nointeract
+    Alice_00 "non lo dirò. Siediti ora e indovina! \n\n{i}Alice coprì la copertina con la mano{/i}" nointeract
 
 # game/dialogues/alicetalk.rpy:1466
 translate italian alice_aboutbooks_2eac1a27:
@@ -1706,7 +1707,8 @@ translate italian first_talk_smoke_talk_b5a5e27d:
 # game/dialogues/alicetalk.rpy:1530
 translate italian first_talk_smoke_talk_ee9ba89b:
 
-    # Alice_13 "Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract\n   Alice_13 "Ora sto correndo per soldi...\nQui, tieni $ 10, e ora di certo non hai visto nulla. Così?" nointeract
+    # Alice_13 "Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
+    Alice_13 "Ora sto correndo per soldi...\nQui, tieni $ 10, e ora di certo non hai visto nulla. Così?" nointeract
 
 # game/dialogues/alicetalk.rpy:1535
 translate italian first_talk_smoke_talk_86687067:
