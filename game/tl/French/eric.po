@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-27 09:42\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/events/eric.rpy:13## # translate crowdin Eric_talk_afterdinner_84e16ca3:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/eric.rpy:13## # translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
 msgstr "[Eric_00]Max, pendant que ta mère se change, j'aimerais te parler. D'homme à homme, pour ainsi dire..."
 
