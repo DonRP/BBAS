@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-05 16:53\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/script.rpy:58## # translate crowdin intro_8dea4dcf:
+# TODO: Translation updated at 2021-12-05 17:43### # game/script.rpy:58## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
 msgstr "[Max_00]Je m’appelle Max. Je suis un gars ordinaire d’une famille normale. Eh bien...banal quoi. Bien que je suis en train de plaisanter. Normal dans ma famille n'ai pas vraiment une réalité. Mais d’abord, les choses principales.[nointeract]"
 
