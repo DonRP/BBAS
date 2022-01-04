@@ -194,7 +194,8 @@ translate french ann_shower_closer_peepeng_3c3328bd:
 # game/events/ann.rpy:177
 translate french ann_shower_not_luck_4a76a42b:
 
-    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"\n   Max_12 "{color=[orange]}{i}Je pense que maman soupçonne quelque chose !{/i}{/color}\nOups... Je dois courir avant qu'elle ne me voie !"
+    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"
+    Max_12 "{color=[orange]}{i}Je pense que maman soupçonne quelque chose !{/i}{/color}\nOups... Je dois courir avant qu'elle ne me voie !"
 
 # game/events/ann.rpy:186
 translate french ann_shower_not_luck_9b36810d:

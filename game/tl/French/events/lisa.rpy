@@ -135,7 +135,8 @@ translate french lisa_shower_closer_peepeng_42f03b58:
 # game/events/lisa.rpy:171
 translate french lisa_shower_not_luck_e8e13c34:
 
-    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\nО нет! Похоже, она что-то заметила... Надо бежать!"\n   Max_12 "{color=[orange]}{i}Lisa semble avoir soupçonné quelque chose !{/i}{/color}\nOh non ! Elle semble avoir remarqué quelque chose... Je dois courir !"
+    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\nО нет! Похоже, она что-то заметила... Надо бежать!"
+    Max_12 "{color=[orange]}{i}Lisa semble avoir soupçonné quelque chose !{/i}{/color}\nOh non ! Elle semble avoir remarqué quelque chose... Je dois courir !"
 
 # game/events/lisa.rpy:193
 translate french lisa_shower_pinded_aded2cb3:

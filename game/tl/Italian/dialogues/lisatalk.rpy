@@ -3519,7 +3519,8 @@ translate italian gift_swimsuit_swimsuit_show_c6805f5f:
 # game/dialogues/lisatalk.rpy:1958
 translate italian gift_swimsuit_swimsuit_show_7374967a:
 
-    # Max_04 "{m}Да, закрою глаза, когда тут такое... как же!\nУх! А, сестрёнка хороша... Местами даже очень...{/m}"\n   Max_04 "{m}sì, chiuderò gli occhi quando ci sarà questo... Come sarebbe!\nOw! Ah, mia sorella è brava... A volte anche molto... {/m}"
+    # Max_04 "{m}Да, закрою глаза, когда тут такое... как же!\nУх! А, сестрёнка хороша... Местами даже очень...{/m}"
+    Max_04 "{m}sì, chiuderò gli occhi quando ci sarà questo... Come sarebbe!\nOw! Ah, mia sorella è brava... A volte anche molto... {/m}"
 
 # game/dialogues/lisatalk.rpy:1960
 translate italian gift_swimsuit_swimsuit_show_e121065c:

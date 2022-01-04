@@ -811,7 +811,8 @@ translate french alice_shower_closer_peepeng_09abbe09:
 # game/events/alice.rpy:588
 translate french alice_shower_not_luck_051a23bb:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."\n   Max_09 "{color=[orange]}{i}Alice semble avoir soupçonné quelque chose !{/i}{/color}\nOh, merde ! Je dois sortir d'ici tant que je le peux encore..."
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."
+    Max_09 "{color=[orange]}{i}Alice semble avoir soupçonné quelque chose !{/i}{/color}\nOh, merde ! Je dois sortir d'ici tant que je le peux encore..."
 
 # game/events/alice.rpy:607
 translate french alice_shower_pinded_e826d0b4:

@@ -194,7 +194,8 @@ translate italian ann_shower_closer_peepeng_3c3328bd:
 # game/events/ann.rpy:177
 translate italian ann_shower_not_luck_4a76a42b:
 
-    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"\n   Max_12 "{color=[orange]}{i}Sembra che mia madre sospettasse qualcosa! {/i} {/color}\nOops... Ho dovuto correre finché non mi ha visto!"
+    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"
+    Max_12 "{color=[orange]}{i}Sembra che mia madre sospettasse qualcosa! {/i} {/color}\nOops... Ho dovuto correre finché non mi ha visto!"
 
 # game/events/ann.rpy:186
 translate italian ann_shower_not_luck_9b36810d:

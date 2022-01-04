@@ -351,7 +351,8 @@ translate french punishment_max_pun_reson_678436cc:
 # game/dialogues/punishment.rpy:308
 translate french punishment_max_pun_reson_219ecbe7:
 
-    # Max_14 "{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"\n   Max_14 "{i}Ma mère me punit juste devant mes sœurs... C'est tellement humiliant...{/i}\n\n{color=[orange]}{b}Attention:{/b} Votre influence sur les personnes présentes a diminué !{/color}"
+    # Max_14 "{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
+    Max_14 "{i}Ma mère me punit juste devant mes sœurs... C'est tellement humiliant...{/i}\n\n{color=[orange]}{b}Attention:{/b} Votre influence sur les personnes présentes a diminué !{/color}"
 
 # game/dialogues/punishment.rpy:328
 translate french punishment_max_pun_reson_700a2ea3:
@@ -398,7 +399,8 @@ translate french punishment_max_pun_reson_678436cc_1:
 # game/dialogues/punishment.rpy:378
 translate french punishment_max_pun_reson_c632e1a6:
 
-    # Max_14 "{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"\n   Max_14 "{i}Merde... Tout le monde est si intéressé à me voir être puni... C'est tellement humiliant...{/i}\n\n{color=[orange]}{b}Attention:{/b} Votre influence sur les personnes présentes a diminué !{/color}"
+    # Max_14 "{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
+    Max_14 "{i}Merde... Tout le monde est si intéressé à me voir être puni... C'est tellement humiliant...{/i}\n\n{color=[orange]}{b}Attention:{/b} Votre influence sur les personnes présentes a diminué !{/color}"
 
 # game/dialogues/punishment.rpy:400
 translate french punishment_max_pun_reson_faf292df:
