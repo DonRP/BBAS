@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-# game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
+﻿# TODO: Translation updated at 2021-12-05 17:43### # game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
 msgstr "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
 

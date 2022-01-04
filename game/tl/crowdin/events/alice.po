@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-# game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
+﻿# TODO: Translation updated at 2021-12-05 17:43### # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
 msgstr "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
 

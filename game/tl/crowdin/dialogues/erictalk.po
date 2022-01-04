@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-# game/dialogues/erictalk.rpy:17## # translate crowdin EricTalkStart_210d83ab:
+﻿# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/erictalk.rpy:17## # translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
 msgstr "[Eric_01]Чего хотел, Макс?[nointeract]"
 

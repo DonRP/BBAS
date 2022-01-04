@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-# game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
+﻿# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
 msgstr "[Lisa_00]Макс, решил поболтать?[nointeract]"
 

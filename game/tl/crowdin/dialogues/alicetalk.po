@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-# game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
+﻿# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
 msgstr "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
+﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
 msgstr "Скрытые камеры"
 

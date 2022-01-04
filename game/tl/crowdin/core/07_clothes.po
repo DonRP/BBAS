@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-## # translate crowdin strings:#    # game/core/07_clothes.rpy:87
+﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/07_clothes.rpy:87
 msgid "Повседневная"
 msgstr "Повседневная"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43
-
-## # translate crowdin strings:#    # game/screens.rpy:244
+﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/screens.rpy:244
 msgid "массаж, "
 msgstr "массаж, "
 
