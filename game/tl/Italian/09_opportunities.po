@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-05 18:11\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
+# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
 msgstr "Telecamere nascoste"
 
