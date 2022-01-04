@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-03 12:46\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
+# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/07_clothes.rpy:87
 msgid "Повседневная"
 msgstr "Informale"
 

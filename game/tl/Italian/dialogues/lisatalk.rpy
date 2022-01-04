@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-09 15:41\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
-# game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
 msgstr "[Lisa_00]Max, ha deciso di chattare?[nointeract]"
 

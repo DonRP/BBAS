@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-12-27 09:42\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
 msgstr "[Max_07]{m}Alice est sur le point de se passer de son chocolat à la liqueur, il est donc préférable de la laisser tranquille pour la journée...{/m}"
 

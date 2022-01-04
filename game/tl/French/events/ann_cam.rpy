@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-11 11:00\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/events/ann_cam.rpy:8## # translate crowdin cam0_ann_sleep_2e831607:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/ann_cam.rpy:8## # translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
 msgstr "[Max_01]Quelle chance j'ai d'avoir une mère aussi sexy... Elle est magnifique, on ne peut pas la quitter des yeux !"
 

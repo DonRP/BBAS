@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-18 11:39\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/events/other.rpy:11## # translate crowdin shoping_034007bc:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/other.rpy:11## # translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
 msgstr "[Ann_05]Max ! On va faire du shopping. Ne t'ennuie pas ici sans nous, ok ? Nous sommes de retour dans trois heures...[nointeract]"
 

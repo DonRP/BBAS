@@ -10,8 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-12-05 15:48\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
+# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "[颜色=#00FF00]{i}信念成功了！{/i}{/color}\n"
 

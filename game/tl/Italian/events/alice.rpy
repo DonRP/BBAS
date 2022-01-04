@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-09 15:41\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
-# game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
 msgstr "[Max_00]Se è mezzanotte, allora Alice si sta rilassando nella vasca da bagno... Entrare senza bussare è pericoloso per la vita.[nointeract]"
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-11-02 12:34\n"
+"PO-Revision-Date: 2022-01-04 18:40\n"
 
-# game/events/eric_cam.rpy:13## # translate crowdin cam0_eric_ann_sleep_7477b46c:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/eric_cam.rpy:13## # translate crowdin cam0_eric_ann_sleep_7477b46c:
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
 msgstr "[Max_07]我有多幸运， 我有这么热的妈妈...等等，埃里克在哪？！也许他去洗手间了或者别的地方..."
 

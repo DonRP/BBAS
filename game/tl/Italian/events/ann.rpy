@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-12-09 15:42\n"
+"PO-Revision-Date: 2022-01-04 18:40\n"
 
-# game/events/ann.rpy:11## # translate crowdin ann_sleep_240f8eab:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/ann.rpy:11## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
 "Мне кажется, не стоит её будить...[nointeract]"
 msgstr "[Max_00]In questo momento, la mamma di solito dorme.\n"

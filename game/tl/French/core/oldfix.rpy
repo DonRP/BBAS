@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-09 10:34\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
+# TODO: Translation updated at 2021-12-05 17:43### # game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
 msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
 msgstr "La version sauvegardée de la démo n'est pas prise en charge. Recommencer une nouvelle partie ou sélectionner une autre sauvegarde."
 

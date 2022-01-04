@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-11-02 12:36\n"
+"PO-Revision-Date: 2022-01-04 18:39\n"
 
-# game/events/olivia_cam.rpy:8## # translate crowdin cam0_olivia_lisa_sun_fb60e201:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/olivia_cam.rpy:8## # translate crowdin cam0_olivia_lisa_sun_fb60e201:
 msgid "[Max_01]Благодаря натуризму Оливии, внимания ко двору станет побольше..."
 msgstr "[Max_01]Grazie al naturismo di Olivia, l'attenzione alla corte sarà più..."
 
