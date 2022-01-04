@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-11-02 12:34\n"
+"PO-Revision-Date: 2022-01-04 18:40\n"
 
-# game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
 msgstr "[Ann_01]每个人都有一个愉快的胃口。我很高兴，麦克斯，你自费买了杂货。我看到的游泳池很干净。我们尽了自己的一切责任，这一切都很感激。现在我们去吃晚饭[nointeract]吧..."
 
