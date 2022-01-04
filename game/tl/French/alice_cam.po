@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-11 11:00\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/events/alice_cam.rpy:25## # translate crowdin cam0_alice_sleep_night_f2d9a8b1:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/alice_cam.rpy:25## # translate crowdin cam0_alice_sleep_night_f2d9a8b1:
 msgid "[Max_07]Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?"
 msgstr "[Max_07]Alice semble avoir décidé de regarder quelque chose avant d'aller se coucher... Je me demande quoi ?"
 
