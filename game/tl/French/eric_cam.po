@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-11 11:00\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
-# game/events/eric_cam.rpy:13## # translate crowdin cam0_eric_ann_sleep_7477b46c:
+# TODO: Translation updated at 2021-12-05 17:43### # game/events/eric_cam.rpy:13## # translate crowdin cam0_eric_ann_sleep_7477b46c:
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
 msgstr "[Max_07]Quelle chance j'ai d'avoir une mère aussi sexy... Attends une minute, où est Eric ? ! Peut-être aller aux toilettes ? Ou n'importe où ailleurs..."
 
