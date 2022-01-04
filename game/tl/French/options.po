@@ -11,8 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-10-30 16:09\n"
+"PO-Revision-Date: 2022-01-04 18:36\n"
 
+# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/options.rpy:15
 msgid "Большой брат: Другая история"
 msgstr "Big Brother : une autre histoire"
 
