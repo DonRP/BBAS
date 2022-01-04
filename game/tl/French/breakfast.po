@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-11-28 08:19\n"
+"PO-Revision-Date: 2022-01-04 18:35\n"
 
-# game/dialogues/breakfast.rpy:14## # translate crowdin typical_breakfast_32286f7d:
+# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/breakfast.rpy:14## # translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
 msgstr "[Ann_00]Bonjour à vous tous, et bon appétit à tous ! Mangeons en silence ce soir, si ça ne vous dérange pas...[nointeract]"
 
