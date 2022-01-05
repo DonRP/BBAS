@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-05 18:34\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -1838,7 +1838,7 @@ msgstr "[Max_01]Quindi fino alla prossima cena?"
 
 # game/dialogues/alicetalk.rpy:2162## # translate crowdin Alice_sorry_21088bb3:
 msgid "[Alice_05]Ничего не обещаю, но не опаздывай, Макс!"
-msgstr "[Alice_05]T promettere nulla, ma non essere in ritardo, Max!"
+msgstr "[Alice_05]Non prometto nulla, ma non fare tardi, Max!"
 
 # game/dialogues/alicetalk.rpy:2163## # translate crowdin Alice_sorry_9bfe44c3:
 msgid "[Max_04]Постараюсь."
@@ -5558,7 +5558,7 @@ msgstr "[Alice_05]Certo che non mi dispiace! Facciamolo qui, lo proverò su... S
 
 # game/dialogues/alicetalk.rpy:4460## # translate crowdin gift_lace_lingerie_88551f02:
 msgid "[Max_03]Конечно! Мне не терпится увидеть, как оно на тебе сидит..."
-msgstr "[Max_03]Certo! Non vedo l'ora di vederlo sedersi su di te..."
+msgstr "[Max_03]Certamente! Non vedo l'ora di vedere come ti sta addosso..."
 
 # game/dialogues/alicetalk.rpy:4467## # translate crowdin gift_lace_lingerie_1bb4de64:
 msgid "[Alice_12]Неплохо это ты уселся в первых рядах, Макс! Отвернись хоть для приличия или живо пойдёшь гулять..."
