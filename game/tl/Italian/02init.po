@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-05 18:34\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -226,7 +226,7 @@ msgstr "Per quanto riguarda i piatti..."
 
 #    # game/core/02init.rpy:130
 msgid "Не возражаешь против компании?"
-msgstr "Non ti dispiace l'azienda?"
+msgstr "Vuoi un po' di compagnia?"
 
 #    # game/core/02init.rpy:130
 msgid "Что читаешь?"
@@ -250,7 +250,7 @@ msgstr "Abbronzatura?"
 
 #    # game/core/02init.rpy:130
 msgid "У меня для тебя обещанная вкусняшка!"
-msgstr "Ho il delizioso promesso per te!"
+msgstr "Ho il dolcetto che ti ho promesso!"
 
 #    # game/core/02init.rpy:130
 msgid "Насчёт ванны ночью..."
@@ -600,7 +600,7 @@ msgstr "Ho un regalo per te {i}(Accappatoio){/i}"
 
 #    # game/core/02init.rpy:248
 msgid "У меня для тебя вкусняшка!"
-msgstr "Ho un pasto delizioso per te!"
+msgstr "Ho un regalo per te!"
 
 #    # game/core/02init.rpy:248
 msgid "У меня есть кое-что запрещённое..."
