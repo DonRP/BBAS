@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-05 18:34\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/events/kira.rpy:26## # translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -22,7 +22,7 @@ msgstr "[Kira]{b}Kira:{/b} Chi c'è? Faccio il bagno e sono completamente nudo..
 
 # game/events/kira.rpy:30## # translate crowdin kira_bath_5bdda7d4:
 msgid "[Max_09]Нужно найти способ как-то подглядеть за девчонками в ванной. Может, попробовать вечером со двора?!"
-msgstr "[Max_09]Devi trovare un modo per fare pipì in qualche modo alle ragazze in bagno. Magari provalo la sera dal cortile?!"
+msgstr "[Max_09]Devi trovare un modo per spiare in qualche modo le ragazze nel bagno. Magari provarlo la sera dal cortile?!"
 
 # game/events/kira.rpy:32## # translate crowdin kira_bath_b499c0e8:
 msgid "[Max_09]Нужно найти способ как-то подглядеть за девчонками в ванной. Может, стоит осмотреться изнутри?!"
