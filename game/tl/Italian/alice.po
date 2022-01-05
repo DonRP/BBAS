@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-05 18:34\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -2420,7 +2420,7 @@ msgstr "[Alice_06]Eric, vuoi davvero che indossi un nuovo body qui davanti a te?
 
 # game/events/alice.rpy:2730## # translate crowdin blog_with_Eric_aec65cef:
 msgid "[Eric_02]Конечно, Алиса. Давай, мне не терпится увидеть, как оно на тебе сидит..."
-msgstr "[Eric_02]Certo, Alice. Dai, non vedo l'ora di vederlo sedersi su di te..."
+msgstr "[Eric_02]Certo, Alice. Dai, non vedo l'ora di vedere come ti sta addosso..."
 
 # game/events/alice.rpy:2734## # translate crowdin blog_with_Eric_e501d3e5:
 msgid "[Alice_14]Эй! Эрик! Ты обещал не подглядывать. Я же вижу, что ты пялишься на меня! Отвернись, быстро! Ну или хотя бы закрой глаза руками..."
