@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 18:34\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/events/lisa.rpy:26## # translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -1223,7 +1223,7 @@ msgstr "Non lo farò. La mia parola su di esso!"
 
 #    # game/events/lisa.rpy:902
 msgid "{i}отвернуться{/i}"
-msgstr "{i}voltare le chiavi{/i}"
+msgstr "{i}voltare le spalle{/i}"
 
 #    # game/events/lisa.rpy:902
 msgid "{i}подождать за дверью, пока Лиза переоденется{/i}"
