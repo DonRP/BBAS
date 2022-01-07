@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 18:34\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -310,7 +310,7 @@ msgstr "Scelgo di essere punito da te..."
 
 #    # game/core/02init.rpy:130
 msgid "Мам, дай денег, пожалуйста..."
-msgstr "Mamma, dammi dei soldi, per favore..."
+msgstr "Mamma, mi dai dei soldi, per favore..."
 
 #    # game/core/02init.rpy:130
 msgid "Я продукты заказал!"
