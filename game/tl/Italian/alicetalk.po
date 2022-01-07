@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 18:34\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/alicetalk.rpy:12## # translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -50,11 +50,11 @@ msgstr "[Max_00]Va bene..."
 
 # game/dialogues/alicetalk.rpy:96## # translate crowdin wash_dishes_alice_6dd3a0ed:
 msgid "[Alice_13]Хочешь о посуде поговорить или пришёл помочь?[nointeract]"
-msgstr "[Alice_13]Vuoi parlare di piatti o venire in aiuto?[nointeract]"
+msgstr "[Alice_13]Vuoi parlare di piatti o sei venuto ad aiutare?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:99## # translate crowdin wash_dishes_alice_9cbbc5d1:
 msgid "[Alice_07]Что это с тобой? Но я не откажусь. И... спасибо.[nointeract]"
-msgstr "[Alice_07]Che cos'è con te? Ma non mi arrenderò. E... Grazie.[nointeract]"
+msgstr "[Alice_07]Che cos'hai? Ma non dirò di no. E... grazie.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:107## # translate crowdin wash_dishes_alice_07966f8d:
 msgid "[Max_11]И почему здесь нет посудомоечной машины...[nointeract]"
@@ -1062,7 +1062,7 @@ msgstr "[Max_03]sì, aveva un cuore."
 
 # game/dialogues/alicetalk.rpy:1440## # translate crowdin alice_aboutbooks_5cb6ebb3:
 msgid "[Alice_13]Книжку, очевидно...[nointeract]"
-msgstr "[Alice_13]libro, ovviamente...[nointeract]"
+msgstr "[Alice_13]Un libro, ovviamente...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1442## # translate crowdin alice_aboutbooks_17c8adf3:
 msgid "[Alice_01]Так чего хотел, Макс?"
@@ -1146,7 +1146,7 @@ msgstr "[Alice_12]Max, sai che sono bloccato. Non ho soldi. Bene, più precisame
 msgid "[Alice_13]Сейчас сбегаю за деньгами...\n"
 "Вот, держи $10, и теперь-то уж точно ты ничего не видел. Так?[nointeract]"
 msgstr "[Alice_13]Ora sto correndo per soldi...\n"
-"Qui, tieni $ 10, e ora di certo non hai visto nulla. Così?[nointeract]"
+"Qui, tieni € 10, e ora di certo non hai visto nulla. Così?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1535## # translate crowdin first_talk_smoke_talk_86687067:
 msgid "[Alice_16]И как это понимать, Макс? Мы же договорились! Ну ты и гад... Всё, вали отсюда![nointeract]"
@@ -1486,7 +1486,7 @@ msgstr "[Alice_01]E ora esci di qui. Fammi fumare tranquillamente![nointeract]"
 
 # game/dialogues/alicetalk.rpy:1902## # translate crowdin smoke_fear_money_d12c5d6b:
 msgid "[Alice_12][succes!t]Ладно, Макс, я дам тебе денег, но только $10, ок?[nointeract]"
-msgstr "[Alice_12][succes!t] Ok, Max, ti darò soldi, ma solo $ 10, ok?[nointeract]"
+msgstr "[Alice_12][succes!t] Ok, Max, ti darò soldi, ma solo € 10, ok?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1905## # translate crowdin smoke_fear_money_b321ae83:
 msgid "[Alice_13][succes!t]Чёрт с тобой, Макс. Совсем без денег оставить хочешь... Сейчас принесу..."
@@ -1498,7 +1498,7 @@ msgstr "[Max_03]sto aspettando..."
 
 # game/dialogues/alicetalk.rpy:1910## # translate crowdin smoke_fear_money_cb48f066:
 msgid "[Alice_16][failed!t]Макс, не наглей! Сейчас принесу $10. Жди..."
-msgstr "[Alice_16][failed!t] Max, non essere sfacciato! Ora porterò $ 10. Aspettare..."
+msgstr "[Alice_16][failed!t] Max, non essere sfacciato! Ora porterò € 10. Aspettare..."
 
 # game/dialogues/alicetalk.rpy:1911## # translate crowdin smoke_fear_money_21c2303f:
 msgid "[Max_04]Ну ладно, я жду..."
@@ -5066,7 +5066,7 @@ msgstr "[Max_02]Come stai con la modestia?"
 
 # game/dialogues/alicetalk.rpy:4117## # translate crowdin talkblog2_7f33d114:
 msgid "[Alice_06]Кажется, я знаю к чему ты клонишь, Макс. Наверняка, ты насмотрелся каких-нибудь девочек, которые крутят задницами перед камерами за деньги? Нет, я на это не соглашусь!"
-msgstr "[Alice_06]penso di sapere a cosa stai arrivando, Max. Sicuramente hai visto qualche ragazza che prende a calci in davanti alle telecamere per soldi? No, non sono d'accordo!"
+msgstr "[Alice_06]penso di sapere a cosa stai arrivando, Max. Sicuramente hai visto qualche ragazza che prende a calci in davanti alle webcam per soldi? No, non sono d'accordo!"
 
 # game/dialogues/alicetalk.rpy:4118## # translate crowdin talkblog2_209cf8c2:
 msgid "[Max_03]Воу... Я не думал об этом, но если ты говоришь..."
@@ -7005,7 +7005,7 @@ msgstr "Dai, sono a casa per il resto"
 
 #    # game/dialogues/alicetalk.rpy:95
 msgid "Нет, просто хотел поглазеть"
-msgstr "No, volevo solo fissare"
+msgstr "No, volevo solo guardare"
 
 #    # game/dialogues/alicetalk.rpy:98
 msgid "{i}мыть посуду{/i}"
@@ -7013,7 +7013,7 @@ msgstr "{i}lava i piatti{/i}"
 
 #    # game/dialogues/alicetalk.rpy:106
 msgid "{i}закончить{/i}"
-msgstr "{i}finish{/i}"
+msgstr "{i}fine{/i}"
 
 #    # game/dialogues/alicetalk.rpy:126
 msgid "Нет, хотел просто больше узнать"
@@ -7425,7 +7425,7 @@ msgstr "Oh bene!"
 
 #    # game/dialogues/alicetalk.rpy:1465
 msgid "{i}узнать подробнее о \"Возможностях\"{/i}"
-msgstr "{i}ulteriori informazioni su \"Caratteristiche\"{/i}"
+msgstr "{i}ulteriori informazioni sulle \"Caratteristiche\"{/i}"
 
 #    # game/dialogues/alicetalk.rpy:1482
 msgid "А если уйду, что мне за это будет?"
@@ -7589,7 +7589,7 @@ msgstr "No, certo che no!"
 
 #    # game/dialogues/alicetalk.rpy:1700
 msgid "Дай $20, и я буду молчать"
-msgstr "Dai $ 20 e rimarrò in silenzio"
+msgstr "Dai € 20 e rimarrò in silenzio"
 
 #    # game/dialogues/alicetalk.rpy:1700
 msgid "Если днём ты будешь ходить без трусов, буду молчать"
@@ -7613,7 +7613,7 @@ msgstr "Uh-huh..."
 
 #    # game/dialogues/alicetalk.rpy:1735
 msgid "Дай $20, и я ничего не скажу"
-msgstr "Dai $ 20 e non dirò nulla"
+msgstr "Dai € 20 e non dirò nulla"
 
 #    # game/dialogues/alicetalk.rpy:1735
 msgid "Если больше не будешь носить лифчик, буду молчать"
@@ -7661,11 +7661,11 @@ msgstr "Cosa stai! No, certo che no..."
 
 #    # game/dialogues/alicetalk.rpy:1901
 msgid "Нет, давай $20"
-msgstr "No, diamo $ 20"
+msgstr "No, diamo € 20"
 
 #    # game/dialogues/alicetalk.rpy:1901
 msgid "Хорошо, устроит и $10"
-msgstr "Va bene, si adatta e $ 10"
+msgstr "Va bene, si adatta e € 10"
 
 #    # game/dialogues/alicetalk.rpy:1917
 msgid "Удачи!"
