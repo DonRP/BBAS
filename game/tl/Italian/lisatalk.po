@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -782,7 +782,7 @@ msgstr "[Lisa_09]E i piatti?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:758## # translate crowdin wash_dishes_lisa_9a2b70d3:
 msgid "[Lisa_01]А вот знаешь... хочу! Да, спасибо, Макс![nointeract]"
-msgstr "[Lisa_01]Ma sai... Volere! Sì, grazie, Max![nointeract]"
+msgstr "[Lisa_01]Ma sai... Lo voglio! Sì, grazie, Max![nointeract]"
 
 # game/dialogues/lisatalk.rpy:768## # translate crowdin wash_dishes_lisa_acbb7452:
 msgid "[Max_00]И чего я этим занимаюсь? Делать нечего, что ли..."
