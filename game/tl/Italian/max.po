@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/events/max.rpy:4## # translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -134,7 +134,7 @@ msgstr "[Max_01]Fatto. Il fatto che lo faccia senza l'aiuto finanziario di mia m
 
 # game/events/max.rpy:353## # translate crowdin create_site_3744c5ee:
 msgid "[Max_00]Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100[nointeract]"
-msgstr "[Max_00]Quindi, è tempo di fare il tuo sito web. Per prima cosa devi acquistare un dominio, un hosting, un modello di design e pagare per i servizi di un servizio di streaming. Tutto in totale hai bisogno di $ 100[nointeract]"
+msgstr "[Max_00]Quindi, è tempo di fare il tuo sito web. Per prima cosa devi acquistare un dominio, un hosting, un modello di design e pagare per i servizi di un servizio di streaming. Tutto in totale hai bisogno di € 100[nointeract]"
 
 # game/events/max.rpy:360## # translate crowdin create_site_e36c401d:
 msgid "[Max_04]Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом...[nointeract]"
@@ -388,7 +388,7 @@ msgstr "[Max_04]{m}Naturalmente, gli eventi accadono raramente qui. Ma quando ac
 
 # game/events/max.rpy:789## # translate crowdin InstallCam_bc72cb94:
 msgid "[Max_03]{m}Теперь через обе камеры можно увидеть всё самое интересное! Девочки любят покрасоваться у зеркала, а моя мама и Эрик, как я заметил, стараются не упустить возможность потрахаться перед этим же зеркалом... Моим зрителям это явно понравится!{/m}[nointeract]"
-msgstr "[Max_03]{m}Ora attraverso entrambe le fotocamere puoi vedere tutte le più interessanti! Le ragazze amano mostrarsi allo specchio, e mia madre ed Eric, come ho notato, cercano di non perdere l'occasione di scopare davanti allo stesso specchio ... I miei spettatori lo adoreranno! {/m}[nointeract]"
+msgstr "[Max_03]{m}Ora attraverso entrambe le telecamere puoi vedere tutte le più interessanti! Le ragazze amano mostrarsi allo specchio, e mia madre ed Eric, come ho notato, cercano di non perdere l'occasione di scopare davanti allo stesso specchio... I miei spettatori lo adoreranno! {/m}[nointeract]"
 
 # game/events/max.rpy:795## # translate crowdin InstallCam_3a6027ee:
 msgid "[Max_04]{m}Конечно, с точки зрения морали ставить камеру в ванной сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно...{/m}[nointeract]"
@@ -577,7 +577,7 @@ msgstr "{i}no, forse più tardi... {/i}"
 
 #    # game/events/max.rpy:273
 msgid "{i}почитать о камерах{/i}"
-msgstr "{i}leggi le fotocamere{/i}"
+msgstr "{i}leggi le telecamere{/i}"
 
 #    # game/events/max.rpy:275
 msgid "{i}читать о блогах{/i}"
@@ -597,7 +597,7 @@ msgstr "{i}cercare informazioni sui prestiti{/i}"
 
 #    # game/events/max.rpy:352
 msgid "Оплатить всё ($100)"
-msgstr "Paga per tutto ($ 100)"
+msgstr "Paga per tutto (€ 100)"
 
 #    # game/events/max.rpy:359
 msgid "Настроить работу сайта"
