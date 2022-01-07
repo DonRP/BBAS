@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 18:34\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -54,7 +54,7 @@ msgstr "[Ann_05]Molto divertente, Max. Vedi le mie tasche? No? Scegli un momento
 
 # game/dialogues/anntalk.rpy:99## # translate crowdin ann_ask_money_81819136:
 msgid "[Ann_00]Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?[nointeract]"
-msgstr "[Ann_00]Max, non ti vergogni di chiedere soldi a tua madre, anche se stai seduto a casa tutto il giorno e non fai nulla?[nointeract]"
+msgstr "[Ann_00]Max, non ti vergogni a chiedere soldi a tua madre quando stai tutto il giorno a casa a fare niente?[nointeract]"
 
 # game/dialogues/anntalk.rpy:103## # translate crowdin ann_ask_money_cc7b3480:
 msgid "[Ann_04]Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают...[nointeract]"
@@ -66,11 +66,11 @@ msgstr "[Ann_01]E allora, per esempio?[nointeract]"
 
 # game/dialogues/anntalk.rpy:119## # translate crowdin ann_ask_money_work_0e83a6b3:
 msgid "[Ann_04]Отличная идея, Макс! Лучше уж я заплачу тебе $40, чем нанимать какого-то человека. Держи. Да, лучше это делать пока светло и никого нет.[nointeract]"
-msgstr "[Ann_04]Ottima idea, Max! Preferirei pagarti $ 40 piuttosto che assumere qualcuno. Aspettare. Sì, è meglio farlo mentre è leggero e non c'è nessuno.[nointeract]"
+msgstr "[Ann_04]Ottima idea, Max! Preferirei pagarti € 40 piuttosto che assumere qualcuno. Aspettare. Sì, è meglio farlo mentre è leggero e non c'è nessuno.[nointeract]"
 
 # game/dialogues/anntalk.rpy:128## # translate crowdin ann_ask_money_work_db69fd50:
 msgid "[Ann_04]Хорошая мысль, Макс. Я дам тебе $50 на продукты и авансом $10 за твои услуги, так сказать. Устроит?[nointeract]"
-msgstr "[Ann_04]Buona idea, Max. Ti darò $ 50 per generi alimentari e $ 10 in anticipo per i tuoi servizi, per così dire. Vestito?[nointeract]"
+msgstr "[Ann_04]Buona idea, Max. Ti darò € 50 per generi alimentari e € 10 in anticipo per i tuoi servizi, per così dire. Vestito?[nointeract]"
 
 # game/dialogues/anntalk.rpy:139## # translate crowdin ann_aboutfood_6a389713:
 msgid "[Ann_05]Спасибо, Макс. Продукты я или Алиса заберём, когда привезут. Об этом не беспокойся.[nointeract]"
