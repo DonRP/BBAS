@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/script.rpy:58## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
-msgstr "[Max_00]Mi chiamo Max. Sono un ragazzo normale di una famiglia normale. Beh, come al solito... Normale. Anche se, chi voglio prendere in giro. Normale nella mia famiglia non è abbastanza. Ma prima le cose primarie.[nointeract]"
+msgstr "[Max_00]Mi chiamo Max. Sono un ragazzo normale di una famiglia normale. Beh, come al solito... Normale. Anche se, chi voglio prendere in giro. Normale nella mia famiglia non è abbastanza. Ma prima le cose importanti.[nointeract]"
 
 # game/script.rpy:60## # translate crowdin intro_0f762891:
 msgid "[Max_01]Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
-msgstr "[Max_01]sono stato recentemente cacciato da scuola. Ufficialmente - per il basso rendimento scolastico. Anche se i voti erano così così, ma la vera ragione è nella matematica. Dicono che ho molestato... Sì, ha costruito gli occhi da sola! Al regista, a suo marito, per qualche motivo non piaceva..."
+msgstr "[Max_01]Sono stato recentemente cacciato da scuola. Ufficialmente - per i brutti voti. Anche se i miei voti erano così così, la vera ragione era l'insegnante di matematica. Dicono che ci ho provato con... Mi stava facendo gli occhi dolci! Al preside, suo marito, non è piaciuto per qualche motivo..."
 
 # game/script.rpy:61## # translate crowdin intro_4e148ae4:
 msgid "[Max_14]В общем, сейчас я с неоконченным средним образованием. Без работы и конкретных планов на будущее... Но всё должно измениться, обязательно!"
-msgstr "[Max_14]In generale, ora ho un'istruzione secondaria incompleta. Senza lavoro e progetti concreti per il futuro... Ma tutto deve cambiare, senza dubbio!"
+msgstr "[Max_14]In pratica, ora ho un'istruzione secondaria incompleta. Senza lavoro e progetti concreti per il futuro... Ma tutto deve cambiare, senza dubbio!"
 
 # game/script.rpy:63## # translate crowdin intro_1c9ab78c:
 msgid "[Max_04]Это Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату съёмного жилья, еду и одежду."
-msgstr "[Max_04]Questa è Anna, mia madre. Ha cresciuto me e le mie due sorelle per diversi anni. Lavora nell'ufficio di un'azienda. Anche se, il suo stipendio è abbastanza decente, ma quasi tutto va a pagare per l'alloggio in affitto, il cibo e i vestiti."
+msgstr "[Max_04]Questa è Anna, mia madre. Ha cresciuto me e le mie due sorelle per diversi anni. Lavora nell'ufficio di un'azienda. Anche se, il suo stipendio è abbastanza decente, ma quasi tutto se ne và per l'alloggio in affitto, il cibo e i vestiti."
 
 # game/script.rpy:65## # translate crowdin intro_cb16881c:
 msgid "[Max_00]Ну а это наша квартира. Тот ещё тараканник! Мама пытается заработать на первый взнос, чтобы взять ипотеку, но пока что-то не получается. Все мы мечтаем отсюда съехать, но куда?"
@@ -34,11 +34,11 @@ msgstr "[Max_00]Bene, questo è il nostro appartamento. Che catapecchia! La mamm
 
 # game/script.rpy:67## # translate crowdin intro_4547bbbc:
 msgid "[Max_08]Алиса, моя старшая сестра. Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-msgstr "[Max_08]Alice, mia sorella maggiore. Mi sono da poco diplomato al liceo e, come me, sto cercando la mia strada. Tutto il giorno seduto in un laptop e facendo un po 'del suo blog. Come spesso accade con i fratelli, non andiamo molto d'accordo..."
+msgstr "[Max_08]Alice, la mia sorella maggiore. Si è da poco laureata e, come me, sta cercando la sua strada. Tutto il giorno resta seduta davanti al suo laptop e lavora a qualche blog tutto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
 
 # game/script.rpy:69## # translate crowdin intro_75876970:
 msgid "[Max_00]Лиза, младшая сестрёнка, ещё учится в школе. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr "[Max_00]Lisa, la sorella minore, è ancora a scuola. Non so come studiare, ma se non mi hai cacciato via come me, allora va bene. Lisa ed io comunichiamo sulla stessa lunghezza d'onda, anche se occasionalmente litighiamo. Ma se succede qualcosa, cerco protezione."
+msgstr "[Max_00]Lisa, la mia sorellina, và ancora a scuola. Non so come và, ma se non è stata cacciata via come me, va bene. Lisa ed io siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, sono io che cerco protezione."
 
 # game/script.rpy:71## # translate crowdin intro_bebe466e:
 msgid "[Max_14]Отца я плохо помню. Он ушёл, когда мне было лет пять. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
