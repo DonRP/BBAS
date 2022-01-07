@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-07 18:56\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -42,7 +42,7 @@ msgstr "A volte, i libri specializzati sono molto meglio di ciò che è scritto 
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, я внимательно прочитал книгу Web Standards и разобрался, как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
-msgstr "Quindi, ho letto attentamente il libro Web Standards e ho capito come creare il tuo sito web. Forse dovremmo iniziare con questo. Avrò bisogno di soldi per un dominio, hosting e pagamento per un modello già pronto con un design. In totale, hai bisogno di circa $ 100."
+msgstr "Quindi, ho letto attentamente il libro Web Standards e ho capito come creare il tuo sito web. Forse dovremmo iniziare con questo. Avrò bisogno di soldi per un dominio, hosting e pagamento per un modello già pronto con un design. In totale, hai bisogno di circa € 100."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Главное, собрать нужную сумму, а остальное - уже ерунда..."
@@ -54,7 +54,7 @@ msgstr "Infine, ho il mio sito web che trasmette l'immagine dalla fotocamera dal
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
-msgstr "Devi pagare periodicamente per la pubblicità per il sito al fine di risparmiare rapidamente denaro per nuove fotocamere e, in alternativa, provare a chiedere qualcosa ad Alice, mamma o Eric..."
+msgstr "Devi pagare periodicamente per la pubblicità per il sito al fine di risparmiare rapidamente denaro per nuove telecamere e, in alternativa, provare a chiedere qualcosa ad Alice, mamma o Eric..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
@@ -78,7 +78,7 @@ msgstr "Non dimenticare di installare una seconda telecamera nel cortile e nel b
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ну вот, пожалуй, девяти камер будет более чем достаточно, чтобы неплохо зарабатывать! Остаётся лишь позаботиться о том, чтобы по каждой из них, моим зрителям было что увидеть..."
-msgstr "Beh, forse, nove fotocamere saranno più che sufficienti per fare buoni soldi! Resta solo da fare in modo che per ognuno di loro, i miei spettatori avessero qualcosa da vedere..."
+msgstr "Beh, forse, nove telecamere saranno più che sufficienti per fare buoni soldi! Resta solo da fare in modo che per ognuno di loro, i miei spettatori avessero qualcosa da vedere..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Особые книги"
@@ -562,7 +562,7 @@ msgstr "Massaggiatore di talento"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я, без особых надежд, предложил Алисе намазать её кремом для загара... Которого ни у неё, ни у меня не было. Но, она не против! Я уже предвкушаю, как буду растирать этот крем по её телу... Только его сперва нужно купить. Как и одежду полегче, ведь во дворе будет жарко!"
-msgstr "big!"
+msgstr "Ho suggerito, senza molte speranze, che Alice si mettesse la crema solare... Cosa che né io né lei avevamo. Ma a lei non importava! Non vedo l'ora di strofinarlo su tutto il suo corpo... Ma prima devo comprarlo. E anche dei vestiti più leggeri, perché farà caldo in giardino!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот теперь у меня есть всё, чтобы подарить Алисе равномерный и безопасный загар. Только бы всё не испортить своими руками... Надеюсь, они у меня не слишком корявые. Так или иначе, скоро я это пойму."
@@ -640,7 +640,7 @@ msgstr "Alice è ancora una burlona! Sembra pungente, ma in realtà basta una ca
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит последить за Алисой через скрытые камеры. Как знать, что она ещё может отчудить, пока будет на веселе после фут-джоба до того, как ляжет спать..."
-msgstr "Vale la pena seguire Alice attraverso telecamere nascoste. Chissà con cosa può ancora farla franca mentre è divertente dopo il lavoro a piedi prima di andare a letto ..."
+msgstr "Vale la pena seguire Alice attraverso telecamere nascoste. Chissà con cosa può ancora farla franca mentre è divertente dopo il lavoro a piedi prima di andare a letto..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ухх... А моя сестрёнка ловко управляется со своей розовой игрушкой! Неужели это мой массаж её так завёл? Похоже на то. А конфеты её только раззадорили и она хочет ещё... Не означает ли это, что я могу зайти куда дальше во время массажа её ног?"
@@ -1181,7 +1181,7 @@ msgstr "Alice ha così paura dei ragni che è corsa da me in soccorso nel cuore 
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лучше подложить паука, когда я делаю Алисе массаж. Если она хорошенько расслабится, то сильнее испугается..."
-msgstr "È meglio mettere un ragno quando sto invecchiando Alice. Se si rilassa bene, sarà più spaventata..."
+msgstr "Meglio mettere un ragno quando faccio un massaggio ad Alice. Se si rilassa bene, si spaventerà di più..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Таких крепких объятий от Алисы я не ожидал! Так близко к моему лицу её сиськи не были ещё никогда! С помощью пауков я могу обеспечить себе много каких по-хорошему волнующих моментов с Алисой... Посмотрим, к чему это приведёт..."
