@@ -1649,8 +1649,8 @@ msgid "[Max_09]А когда твоя подруга придёт, тётя Ки
 msgstr "[Max_09]А когда твоя подруга придёт, тётя Кира?"
 
 # game/dialogues/kiratalk.rpy:1237# translate crowdin kira_photoset3_18b48d26:
-msgid "[Kira "{b}Кира:{/b} Скоро, Макс... Не переживай."
-msgstr "[Kira "{b}Кира:{/b} Скоро, Макс... Не переживай."
+msgid "[Kira]{b}Кира:{/b} Скоро, Макс... Не переживай."
+msgstr "[Kira]{b}Кира:{/b} Скоро, Макс... Не переживай."
 
 # game/dialogues/kiratalk.rpy:1238# translate crowdin kira_photoset3_3110144d:
 msgid "[Max_02]{m}Интересно, а эта подружка... она такая же распутница, как моя тётя?{/m}"
@@ -1661,8 +1661,8 @@ msgid "[Max_07]Тётя Кира, а вы с ней просто подруги 
 msgstr "[Max_07]Тётя Кира, а вы с ней просто подруги или... не только..."
 
 # game/dialogues/kiratalk.rpy:1240# translate crowdin kira_photoset3_45937bea:
-msgid "[Kira "{b}Кира:{/b} О, Макс, мы с ней любим пошалить... и ещё как!"
-msgstr "[Kira "{b}Кира:{/b} О, Макс, мы с ней любим пошалить... и ещё как!"
+msgid "[Kira]{b}Кира:{/b} О, Макс, мы с ней любим пошалить... и ещё как!"
+msgstr "[Kira]{b}Кира:{/b} О, Макс, мы с ней любим пошалить... и ещё как!"
 
 # game/dialogues/kiratalk.rpy:1241# translate crowdin kira_photoset3_20a21b5d:
 msgid "[Max_03]Супер! Я бы на это с удовольствием посмотрел..."
