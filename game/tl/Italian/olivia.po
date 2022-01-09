@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:05\n"
+"PO-Revision-Date: 2022-01-09 20:47\n"
 
 # game/events/olivia.rpy:34# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07]{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
@@ -864,7 +864,6 @@ msgstr "[Olivia_01]Buonanotte a tutti..."
 msgid "[Max_01]Приятных снов."
 msgstr "[Max_01]sogni piacevoli."
 
-#    # game/events/olivia.rpy:33
 msgid "{i}подсмотреть{/i}"
 msgstr "{i}vedere{/i}"
 
@@ -1144,7 +1143,6 @@ msgstr ""
 msgid "[Lisa_02]Ну вы меня совсем сейчас засмущаете![nointeract]"
 msgstr ""
 
-#    # game/events/olivia.rpy:696
 msgid "{i}подождать за дверью, пока девочки переоденутся{/i}"
 msgstr ""
 
