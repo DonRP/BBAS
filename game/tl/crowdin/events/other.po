@@ -983,8 +983,8 @@ msgid "[Lisa_13]Не собираюсь я с тобой наедине боль
 msgstr "[Lisa_13]Не собираюсь я с тобой наедине больше оставаться! Макс всё записал на диктофон в телефоне. Сейчас послушаем..."
 
 # game/events/other.rpy:675# translate crowdin dictaphone_showdown_with_eric_60fce6d7:
-msgid "["{color=[orange]}(все слушают запись...){/color}"
-msgstr "["{color=[orange]}(все слушают запись...){/color}"
+msgid "[{color=[orange]}(все слушают запись...){/color}"
+msgstr "[{color=[orange]}(все слушают запись...){/color}"
 
 # game/events/other.rpy:676# translate crowdin dictaphone_showdown_with_eric_1c22e674:
 msgid "[Ann_14]Это же... Неужели это действительно правда?! Эрик, будь добр, объясни это..."

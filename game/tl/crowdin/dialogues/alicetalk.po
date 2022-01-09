@@ -2761,8 +2761,8 @@ msgid "[Alice_07]Как приятно... Макс, ты делаешь успе
 msgstr "[Alice_07]Как приятно... Макс, ты делаешь успехи! Мне это нравится...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:2888# translate crowdin massage_sunscreen_ass_e47a4169:
-msgid "["попка"
-msgstr "["попка"
+msgid "[попка"
+msgstr "[попка"
 
 # game/dialogues/alicetalk.rpy:2909# translate crowdin massage_sunscreen_hips_cac75cfe:
 msgid "[Alice_06]Макс, а ты куда это там полез так неожиданно?! Лучше сосредоточься на всём остальном, а туда не лезь..."
