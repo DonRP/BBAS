@@ -2022,7 +2022,9 @@ msgstr "[Kira_02]На тебя я как раз таки и рассчитыва
 
 # game/dialogues/kiratalk.rpy:1486# translate crowdin kira_photoset3_e5c7363f:
 msgid "[Max_04]Шикарно!"
-msgstr "[Max_04]Шикарно!"## # translate crowdin strings:
+msgstr "[Max_04]Шикарно!"
+
+## # translate crowdin strings:
 
 #    # game/dialogues/kiratalk.rpy:11
 msgid "{i}Ой, в другой раз...{/i}"

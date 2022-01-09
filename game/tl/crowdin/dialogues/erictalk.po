@@ -954,7 +954,9 @@ msgstr "[Max_09]Это ещё что значит?"
 
 # game/dialogues/erictalk.rpy:779# translate crowdin Eric_tribute_no_money_dd72ca96:
 msgid "[Eric_13]Скоро узнаешь. А теперь проваливай![nointeract]"
-msgstr "[Eric_13]Скоро узнаешь. А теперь проваливай![nointeract]"## # translate crowdin strings:
+msgstr "[Eric_13]Скоро узнаешь. А теперь проваливай![nointeract]"
+
+## # translate crowdin strings:
 
 #    # game/dialogues/erictalk.rpy:11
 msgid "{i}В другой раз...{/i}"
@@ -1160,7 +1162,9 @@ msgstr "[Max_17]Да пошёл ты..."
 
 # game/dialogues/erictalk.rpy:838# translate crowdin Eric_with_dictaphone_9ddf8dae:
 msgid "[Max_03][good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}[nointeract]"
-msgstr "[Max_03][good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}[nointeract]"## # translate crowdin strings:
+msgstr "[Max_03][good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}[nointeract]"
+
+## # translate crowdin strings:
 
 #    # game/dialogues/erictalk.rpy:760
 msgid "Может, договоримся? {i}(добыть компромат){/i}"

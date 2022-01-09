@@ -850,7 +850,9 @@ msgstr "[Olivia_01]Всем спокойной ночи..."
 
 # game/events/olivia.rpy:645# translate crowdin olivia_repeatable_night_out_with_cb768b4d:
 msgid "[Max_01]Приятных снов."
-msgstr "[Max_01]Приятных снов."## # translate crowdin strings:
+msgstr "[Max_01]Приятных снов."
+
+## # translate crowdin strings:
 
 #    # game/events/olivia.rpy:33
 msgid "{i}подсмотреть{/i}"
@@ -1132,7 +1134,9 @@ msgstr "[Olivia_02]Поддерживаю! А то я пропустила эт�
 
 # game/events/olivia.rpy:909# translate crowdin olivia_dressed_try_to_peek_dbf3b763:
 msgid "[Lisa_02]Ну вы меня совсем сейчас засмущаете![nointeract]"
-msgstr "[Lisa_02]Ну вы меня совсем сейчас засмущаете![nointeract]"## # translate crowdin strings:
+msgstr "[Lisa_02]Ну вы меня совсем сейчас засмущаете![nointeract]"
+
+## # translate crowdin strings:
 
 #    # game/events/olivia.rpy:696
 msgid "{i}подождать за дверью, пока девочки переоденутся{/i}"

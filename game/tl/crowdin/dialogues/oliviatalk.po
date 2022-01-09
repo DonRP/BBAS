@@ -502,7 +502,9 @@ msgstr "[Olivia_06]Как?! Не останешься с нами? Жалко...
 
 # game/dialogues/oliviatalk.rpy:297# translate crowdin olivia_about_film_punish_nice_view_3e444279:
 msgid "[Max_01]Мне тоже. Не скучайте."
-msgstr "[Max_01]Мне тоже. Не скучайте."## # translate crowdin strings:
+msgstr "[Max_01]Мне тоже. Не скучайте."
+
+## # translate crowdin strings:
 
 #    # game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."

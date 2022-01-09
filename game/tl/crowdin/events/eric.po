@@ -1402,7 +1402,9 @@ msgstr "[Max_10]{m}Нужно как можно быстрее вымыть вс
 
 # game/events/eric.rpy:1787# translate crowdin lisa_eric_zero_practice_war_36c2b900:
 msgid "[Max_11]{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
-msgstr "[Max_11]{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"## # translate crowdin strings:
+msgstr "[Max_11]{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
+
+## # translate crowdin strings:
 
 #    # game/events/eric.rpy:17
 msgid "Понимаю, хорошо..."
@@ -2216,7 +2218,9 @@ msgstr "[Max_14]{m}Для начала, мне стоит попробовать
 
 # game/events/eric.rpy:1938# translate crowdin eric_kira_night_swim_a236de17:
 msgid "[Eric_13]Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать.[nointeract]"
-msgstr "[Eric_13]Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать.[nointeract]"## # translate crowdin strings:
+msgstr "[Eric_13]Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать.[nointeract]"
+
+## # translate crowdin strings:
 
 #    # game/events/eric.rpy:692
 msgid "{i}затаиться на полчаса{/i}"
