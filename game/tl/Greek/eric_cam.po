@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-01-09 19:08\n"
+"PO-Revision-Date: 2022-01-09 20:46\n"
 
 # game/events/eric_cam.rpy:13# translate crowdin cam0_eric_ann_sleep_7477b46c:
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
@@ -408,7 +408,6 @@ msgstr ""
 msgid "[Max_10]{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
 msgstr ""
 
-#    # game/events/eric_cam.rpy:436
 msgid "{i}идти к комнате Алисы{/i}"
 msgstr ""
 
