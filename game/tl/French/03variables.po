@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 19:05\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
-#    # game/core/03variables.rpy:37
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/03variables.rpy:37
 msgid "МОЯ\n"
 "КОМНАТА"
 msgstr ""
@@ -358,7 +358,7 @@ msgstr ""
 msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
 msgstr ""
 
-#    # game/core/03variables.rpy:149
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "ТЕЛЕФОН"
 msgstr ""
