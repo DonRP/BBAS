@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-01-09 20:04\n"
+"PO-Revision-Date: 2022-01-09 20:45\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -6357,7 +6357,6 @@ msgstr ""
 msgid "[Max_01]А я буду. Успехов тебе!"
 msgstr ""
 
-#    # game/dialogues/lisatalk.rpy:62
 msgid "Кажется, я передумал..."
 msgstr ""
 
@@ -7586,7 +7585,6 @@ msgstr ""
 msgid "[Max_01]Договорились, сестрёнка."
 msgstr ""
 
-#    # game/dialogues/lisatalk.rpy:4589
 msgid "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
 msgstr ""
 
