@@ -10,149 +10,289 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-01-04 18:37\n"
+"PO-Revision-Date: 2022-01-09 19:06\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # game/events/ann_cam.rpy:8## # translate crowdin cam0_ann_sleep_2e831607:
+# game/events/ann_cam.rpy:8# translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
 msgstr ""
 
-# game/events/ann_cam.rpy:17## # translate crowdin cam0_ann_shower_0326dfb9:
+# game/events/ann_cam.rpy:17# translate crowdin cam0_ann_shower_0326dfb9:
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/ann_cam.rpy:19## # translate crowdin cam0_ann_shower_d62cf6fa:
+# game/events/ann_cam.rpy:19# translate crowdin cam0_ann_shower_d62cf6fa:
 msgid "[Max_09]Мамы не видно через эту камеру..."
 msgstr ""
 
-# game/events/ann_cam.rpy:27## # translate crowdin cam0_ann_shower_5850319e:
+# game/events/ann_cam.rpy:27# translate crowdin cam0_ann_shower_5850319e:
 msgid "[Max_04]Зрелище просто потрясающее... У меня очень горячая мама!"
 msgstr ""
 
-# game/events/ann_cam.rpy:49## # translate crowdin cam1_ann_shower_b2ae0654:
+# game/events/ann_cam.rpy:49# translate crowdin cam1_ann_shower_b2ae0654:
 msgid "[Max_03]Мама, перед тем, как принять душ, красуется перед зеркалом. Глядя на эту красоту, можно мечтать лишь об одном!"
 msgstr ""
 
-# game/events/ann_cam.rpy:55## # translate crowdin cam1_ann_shower_0326dfb9:
+# game/events/ann_cam.rpy:55# translate crowdin cam1_ann_shower_0326dfb9:
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/ann_cam.rpy:68## # translate crowdin cam0_ann_yoga_e9ef9711:
+# game/events/ann_cam.rpy:68# translate crowdin cam0_ann_yoga_e9ef9711:
 msgid "[Max_02]Мама, как и всегда в это время, занимается йогой. Здесь, хоть в какой позе, она выглядит очень сексуально..."
 msgstr ""
 
-# game/events/ann_cam.rpy:75## # translate crowdin cam1_ann_yoga_ce238a73:
+# game/events/ann_cam.rpy:75# translate crowdin cam1_ann_yoga_ce238a73:
 msgid "[Max_09]Через эту камеру ничего не видно... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/ann_cam.rpy:85## # translate crowdin cam0_ann_cooking_121fe332:
+# game/events/ann_cam.rpy:85# translate crowdin cam0_ann_cooking_121fe332:
 msgid "[Max_01]Как и всегда, мама готовит завтрак. Вроде, ничего интересного, но она всё равно лучшая..."
 msgstr ""
 
-# game/events/ann_cam.rpy:87## # translate crowdin cam0_ann_cooking_81d5efdf:
+# game/events/ann_cam.rpy:87# translate crowdin cam0_ann_cooking_81d5efdf:
 msgid "[Max_01]Мама сегодня готовит ужин. Будет очень вкусно..."
 msgstr ""
 
-# game/events/ann_cam.rpy:119## # translate crowdin cam0_ann_dressed_work_6161d2f7:
+# game/events/ann_cam.rpy:119# translate crowdin cam0_ann_dressed_work_6161d2f7:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, мама полностью оделась."
 msgstr ""
 
-# game/events/ann_cam.rpy:132## # translate crowdin cam0_ann_dressed_work_2a4aa6ca:
+# game/events/ann_cam.rpy:132# translate crowdin cam0_ann_dressed_work_2a4aa6ca:
 msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
 msgstr ""
 
-# game/events/ann_cam.rpy:143## # translate crowdin cam0_ann_dressed_work_ecd759fc:
+# game/events/ann_cam.rpy:143# translate crowdin cam0_ann_dressed_work_ecd759fc:
 msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
 msgstr ""
 
-# game/events/ann_cam.rpy:155## # translate crowdin cam0_ann_dressed_work_8e5f0391:
+# game/events/ann_cam.rpy:155# translate crowdin cam0_ann_dressed_work_8e5f0391:
 msgid "[Max_04]Да уж, её округлости равнодушным не оставят никого!"
 msgstr ""
 
-# game/events/ann_cam.rpy:166## # translate crowdin cam0_ann_dressed_shop_6161d2f7:
+# game/events/ann_cam.rpy:166# translate crowdin cam0_ann_dressed_shop_6161d2f7:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, мама полностью оделась."
 msgstr ""
 
-# game/events/ann_cam.rpy:179## # translate crowdin cam0_ann_dressed_shop_5b93ed0b:
+# game/events/ann_cam.rpy:179# translate crowdin cam0_ann_dressed_shop_5b93ed0b:
 msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
 msgstr ""
 
-# game/events/ann_cam.rpy:190## # translate crowdin cam0_ann_dressed_shop_ecd759fc:
+# game/events/ann_cam.rpy:190# translate crowdin cam0_ann_dressed_shop_ecd759fc:
 msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
 msgstr ""
 
-# game/events/ann_cam.rpy:202## # translate crowdin cam0_ann_dressed_shop_8e5f0391:
+# game/events/ann_cam.rpy:202# translate crowdin cam0_ann_dressed_shop_8e5f0391:
 msgid "[Max_04]Да уж, её округлости равнодушным не оставят никого!"
 msgstr ""
 
-# game/events/ann_cam.rpy:213## # translate crowdin cam0_ann_resting_8fadb848:
+# game/events/ann_cam.rpy:213# translate crowdin cam0_ann_resting_8fadb848:
 msgid "[Max_01]Мама даже когда отдыхает, выглядит очень сексуально..."
 msgstr ""
 
-# game/events/ann_cam.rpy:221## # translate crowdin cam0_ann_read_6481c328:
+# game/events/ann_cam.rpy:221# translate crowdin cam0_ann_read_6481c328:
 msgid "[Max_01]Мама увлечённо читает. Вроде бы ничего особенного, а смотреть на её округлые формы всё равно приятно!"
 msgstr ""
 
-# game/events/ann_cam.rpy:229## # translate crowdin cam0_ann_sun_fcdcc7e0:
+# game/events/ann_cam.rpy:229# translate crowdin cam0_ann_sun_fcdcc7e0:
 msgid "[Max_01]Самая горячая мама на свете загорает! Не повезло тем зрителям, которые это пропускают..."
 msgstr ""
 
-# game/events/ann_cam.rpy:236## # translate crowdin cam1_ann_sun_ce238a73:
+# game/events/ann_cam.rpy:236# translate crowdin cam1_ann_sun_ce238a73:
 msgid "[Max_09]Через эту камеру ничего не видно... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/ann_cam.rpy:244## # translate crowdin cam0_ann_swim_39c0bef3:
+# game/events/ann_cam.rpy:244# translate crowdin cam0_ann_swim_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
 msgstr ""
 
-# game/events/ann_cam.rpy:246## # translate crowdin cam0_ann_swim_06c19036:
+# game/events/ann_cam.rpy:246# translate crowdin cam0_ann_swim_06c19036:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
 msgstr ""
 
-# game/events/ann_cam.rpy:254## # translate crowdin cam1_ann_swim_4c5bb67e:
+# game/events/ann_cam.rpy:254# translate crowdin cam1_ann_swim_4c5bb67e:
 msgid "[Max_01]На маму во дворе всегда приятно посмотреть..."
 msgstr ""
 
-# game/events/ann_cam.rpy:264## # translate crowdin cam0_ann_alice_sun_38f9ae7b:
+# game/events/ann_cam.rpy:264# translate crowdin cam0_ann_alice_sun_38f9ae7b:
 msgid "[Max_01]Две загорающих красотки - лучше чем одна..."
 msgstr ""
 
-# game/events/ann_cam.rpy:271## # translate crowdin cam1_ann_alice_sun_39c0bef3:
+# game/events/ann_cam.rpy:271# translate crowdin cam1_ann_alice_sun_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
 msgstr ""
 
-# game/events/ann_cam.rpy:279## # translate crowdin cam0_ann_alice_swim_39c0bef3:
+# game/events/ann_cam.rpy:279# translate crowdin cam0_ann_alice_swim_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
 msgstr ""
 
-# game/events/ann_cam.rpy:281## # translate crowdin cam0_ann_alice_swim_06c19036:
+# game/events/ann_cam.rpy:281# translate crowdin cam0_ann_alice_swim_06c19036:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
 msgstr ""
 
-# game/events/ann_cam.rpy:304## # translate crowdin cam1_ann_alice_swim_ceb932d1:
+# game/events/ann_cam.rpy:304# translate crowdin cam1_ann_alice_swim_ceb932d1:
 msgid "[Max_01]Две соблазнительные дамочки в бассейне, что может быть лучше? Только если бы они были ещё и голые!"
 msgstr ""
 
-# game/events/ann_cam.rpy:314## # translate crowdin cam0_ann_bath_e995a3d7:
+# game/events/ann_cam.rpy:314# translate crowdin cam0_ann_bath_e995a3d7:
 msgid "[Max_01]Такой шикарной попке, как у моей мамы, любая женщина может позавидовать..."
 msgstr ""
 
-# game/events/ann_cam.rpy:321## # translate crowdin cam0_ann_bath_412f2768:
+# game/events/ann_cam.rpy:321# translate crowdin cam0_ann_bath_412f2768:
 msgid "[Max_04]Не вытирайся, мам, ходи мокренькая..."
 msgstr ""
 
-# game/events/ann_cam.rpy:327## # translate crowdin cam0_ann_bath_d9f05873:
+# game/events/ann_cam.rpy:327# translate crowdin cam0_ann_bath_d9f05873:
 msgid "[Max_05]И зачем нужны все эти эротические ролики в интернете, когда можно посмотреть на мою маму в ванне?!"
 msgstr ""
 
-# game/events/ann_cam.rpy:334## # translate crowdin cam1_ann_bath_0326dfb9:
+# game/events/ann_cam.rpy:334# translate crowdin cam1_ann_bath_0326dfb9:
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
 msgstr ""
 
-# game/events/ann_cam.rpy:344## # translate crowdin cam0_ann_tv_8b464610:
+# game/events/ann_cam.rpy:344# translate crowdin cam0_ann_tv_8b464610:
 msgid "[Max_01]{m}Как приятно видеть маму без Эрика. Может составить ей компанию, чтобы она не скучала?{/m}"
 msgstr ""
 
-# game/events/ann_cam.rpy:346## # translate crowdin cam0_ann_tv_b8dd0b35:
+# game/events/ann_cam.rpy:346# translate crowdin cam0_ann_tv_b8dd0b35:
 msgid "[Max_01]Мама, как всегда, отдыхает за просмотром сериала или фильма."
+msgstr ""
+
+# game/events/ann_cam.rpy:8# translate crowdin cam0_ann_sleep_97963875:
+msgid "[Max_01]{m}Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:17# translate crowdin cam0_ann_shower_16f87e0e:
+msgid "[Max_09]{m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:19# translate crowdin cam0_ann_shower_dcea9c75:
+msgid "[Max_09]{m}Мамы не видно через эту камеру...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:27# translate crowdin cam0_ann_shower_9a95b168:
+msgid "[Max_04]{m}Зрелище просто потрясающее... У меня очень горячая мама!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:49# translate crowdin cam1_ann_shower_26e73e97:
+msgid "[Max_03]{m}Мама, перед тем, как принять душ, красуется перед зеркалом. Глядя на эту красоту, можно мечтать лишь об одном!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:55# translate crowdin cam1_ann_shower_16f87e0e:
+msgid "[Max_09]{m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:68# translate crowdin cam0_ann_yoga_dd5fae2f:
+msgid "[Max_02]{m}Мама, как и всегда в это время, занимается йогой. Здесь, хоть в какой позе, она выглядит очень сексуально...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:75# translate crowdin cam1_ann_yoga_762850fc:
+msgid "[Max_09]{m}Через эту камеру ничего не видно... Может посмотреть через другую?{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:85# translate crowdin cam0_ann_cooking_38afbb36:
+msgid "[Max_01]{m}Как и всегда, мама готовит завтрак. Вроде, ничего интересного, но она всё равно лучшая...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:87# translate crowdin cam0_ann_cooking_940b85e9:
+msgid "[Max_01]{m}Мама сегодня готовит ужин. Будет очень вкусно...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:125# translate crowdin cam0_ann_dressed_work_9605c272:
+msgid "[Max_09]{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:138# translate crowdin cam0_ann_dressed_work_cf6335de:
+msgid "[Max_07]{m}Вот и мама наряжается, чтобы отправиться на работу...{/m}[nointeract]"
+msgstr ""
+
+# game/events/ann_cam.rpy:149# translate crowdin cam0_ann_dressed_work_dd61cb77:
+msgid "[Max_02]{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
+msgstr ""
+
+# game/events/ann_cam.rpy:161# translate crowdin cam0_ann_dressed_work_13752107:
+msgid "[Max_04]{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:172# translate crowdin cam0_ann_dressed_shop_9605c272:
+msgid "[Max_09]{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:185# translate crowdin cam0_ann_dressed_shop_0d242c83:
+msgid "[Max_07]{m}Вот и мама наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
+msgstr ""
+
+# game/events/ann_cam.rpy:196# translate crowdin cam0_ann_dressed_shop_dd61cb77:
+msgid "[Max_02]{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
+msgstr ""
+
+# game/events/ann_cam.rpy:208# translate crowdin cam0_ann_dressed_shop_13752107:
+msgid "[Max_04]{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:219# translate crowdin cam0_ann_resting_9a0cb854:
+msgid "[Max_01]{m}Мама даже когда отдыхает, выглядит очень сексуально...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:227# translate crowdin cam0_ann_read_2e2f9a32:
+msgid "[Max_01]{m}Мама увлечённо читает. Вроде бы ничего особенного, а смотреть на её округлые формы всё равно приятно!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:235# translate crowdin cam0_ann_sun_ca35bdfd:
+msgid "[Max_01]{m}Самая горячая мама на свете загорает! Не повезло тем зрителям, которые это пропускают...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:242# translate crowdin cam1_ann_sun_762850fc:
+msgid "[Max_09]{m}Через эту камеру ничего не видно... Может посмотреть через другую?{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:250# translate crowdin cam0_ann_swim_4bc4874c:
+msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:252# translate crowdin cam0_ann_swim_14337802:
+msgid "[Max_09]{m}Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:260# translate crowdin cam1_ann_swim_e680e051:
+msgid "[Max_01]{m}На маму во дворе всегда приятно посмотреть...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:270# translate crowdin cam0_ann_alice_sun_767dabd9:
+msgid "[Max_01]{m}Две загорающих красотки - лучше чем одна...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:277# translate crowdin cam1_ann_alice_sun_4bc4874c:
+msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:285# translate crowdin cam0_ann_alice_swim_4bc4874c:
+msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:287# translate crowdin cam0_ann_alice_swim_14337802:
+msgid "[Max_09]{m}Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:310# translate crowdin cam1_ann_alice_swim_94989c11:
+msgid "[Max_01]{m}Две соблазнительные дамочки в бассейне, что может быть лучше? Только если бы они были ещё и голые!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:320# translate crowdin cam0_ann_bath_9a38aaa7:
+msgid "[Max_01]{m}Такой шикарной попке, как у моей мамы, любая женщина может позавидовать...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:327# translate crowdin cam0_ann_bath_48b41e3f:
+msgid "[Max_04]{m}Не вытирайся, мам, ходи мокренькая...{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:333# translate crowdin cam0_ann_bath_0a937105:
+msgid "[Max_05]{m}И зачем нужны все эти эротические ролики в интернете, когда можно посмотреть на мою маму в ванне?!{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:340# translate crowdin cam1_ann_bath_16f87e0e:
+msgid "[Max_09]{m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
+msgstr ""
+
+# game/events/ann_cam.rpy:352# translate crowdin cam0_ann_tv_d888f1a9:
+msgid "[Max_01]{m}Мама, как всегда, отдыхает за просмотром сериала или фильма.{/m}"
 msgstr ""
 
