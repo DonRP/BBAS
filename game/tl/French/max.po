@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 19:37\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
 # game/events/max.rpy:4# translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -540,7 +540,6 @@ msgstr "[Max_00]Combien vais-je rembourser maintenant ?[nointeract]"
 msgid "[Max_07]{m}Как же напакостить Эрику, чтобы он хотя бы на время перестал лезть к моим сёстрам... и Кире... да и к маме тоже... Хм... У меня была бы отличная возможность что-нибудь подмешать в его еду за ужином, если помочь Алисе накрыть на стол! Стоит посмотреть в интернет-магазине, можно ли что-то такое купить...{/m}"
 msgstr "[Max_07]{m}Comment faire pour qu'Eric arrête d'embêter mes sœurs, au moins pour un moment... et Kira... et ma mère aussi... Hmmm... J'aurais une belle occasion de glisser quelque chose dans sa nourriture au dîner si j'aidais Alice à mettre la table ! Cela vaut la peine de regarder la boutique en ligne pour voir si je peux acheter quelque chose comme ça....{/m}"
 
-#    # game/events/max.rpy:31
 msgid "{i}установить будильник{/i}"
 msgstr "{i}mettre une alarme{/i}"
 
@@ -1155,7 +1154,6 @@ msgstr ""
 msgid "[Max_09]{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}[nointeract]"
 msgstr ""
 
-#    # game/events/max.rpy:1134
 msgid "{i}идти к Эрику с включённым диктофоном{/i}"
 msgstr ""
 
