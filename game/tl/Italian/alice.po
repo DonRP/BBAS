@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-05 18:34\n"
+"PO-Revision-Date: 2022-01-09 19:08\n"
 
 # TODO: Translation updated at 2021-12-05 17:43### # game/events/alice.rpy:13## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -980,7 +980,7 @@ msgstr "[Max_08]Ukh, quanto sei assetato di sangue. Ok..."
 
 # game/events/alice.rpy:1225## # translate crowdin spider_in_bed_money_e7afa5bd:
 msgid "[Alice_16][succes!t]Ну ты и хам, Макс! Ладно, держи $10, только убей его, быстрее!!!"
-msgstr "[Alice_16][succes!t] Beh, sei boorish, Max! Ok, mantieni $ 10, uccidilo, più velocemente!!!"
+msgstr "[Alice_16][succes!t] Beh, sei boorish, Max! Ok, mantieni € 10, uccidilo, più velocemente!!!"
 
 # game/events/alice.rpy:1226## # translate crowdin spider_in_bed_money_5f8bef51:
 msgid "[Max_04]Деньги всегда пригодятся! Ладно, где этот твой паук..."
