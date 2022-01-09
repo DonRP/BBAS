@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-01-09 20:10\n"
+"PO-Revision-Date: 2022-01-09 20:45\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -6982,7 +6982,6 @@ msgstr ""
 msgid "[Max_01]Заодно и попку разомнёшь, а то за своим ноутбуком слишком много сидишь."
 msgstr ""
 
-#    # game/dialogues/alicetalk.rpy:25
 msgid "{i}уйти{/i}"
 msgstr ""
 
@@ -8319,7 +8318,6 @@ msgstr ""
 msgid "[Max_01]Конечно. Если что, зови."
 msgstr ""
 
-#    # game/dialogues/alicetalk.rpy:5775
 msgid "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
 msgstr ""
 
