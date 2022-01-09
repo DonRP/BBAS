@@ -1356,9 +1356,7 @@ msgstr "[Ann_02]Только будь поскромнее. Этот фильм 
 msgid "[Max_01]Конечно, мам!"
 msgstr "[Max_01]Конечно, мам!"
 
-## # translate crowdin strings:
-
-#    # game/dialogues/anntalk.rpy:61
+## # translate crowdin strings:#    # game/dialogues/anntalk.rpy:61
 msgid "В другой раз..."
 msgstr "В другой раз..."
 
@@ -1596,9 +1594,7 @@ msgstr "[Ann_18]Пока не вернёшь, даже не подходи ко 
 msgid "[Max_11]Как скажешь, мам."
 msgstr "[Max_11]Как скажешь, мам."
 
-## # translate crowdin strings:
-
-#    # game/dialogues/anntalk.rpy:1471
+## # translate crowdin strings:#    # game/dialogues/anntalk.rpy:1471
 msgid "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
 msgstr "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
 

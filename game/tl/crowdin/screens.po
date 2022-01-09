@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
-
-#    # game/screens.rpy:244
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/screens.rpy:244
 msgid "массаж, "
 msgstr "массаж, "
 
@@ -416,9 +414,7 @@ msgstr "Скрыть интерфейс"
 msgid "Меню"
 msgstr "Меню"
 
-# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:
-
-#    # game/screens.rpy:1031
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/screens.rpy:1031
 msgid "Именованные сохранения"
 msgstr "Именованные сохранения"
 

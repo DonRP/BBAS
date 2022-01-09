@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
-
-#    # game/core/03variables.rpy:37
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/03variables.rpy:37
 msgid "МОЯ\nКОМНАТА"
 msgstr "МОЯ\nКОМНАТА"
 
@@ -324,9 +322,7 @@ msgstr "Оливией"
 msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
 msgstr "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
 
-# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:
-
-#    # game/core/03variables.rpy:149
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/03variables.rpy:149
 msgid "ИСКАТЬ\nТЕЛЕФОН"
 msgstr "ИСКАТЬ\nТЕЛЕФОН"
 

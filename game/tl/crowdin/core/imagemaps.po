@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
-
-#    # game/core/imagemaps.rpy:31
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
 msgstr "{i}искать под кроватью{/i}"
 
@@ -36,9 +34,7 @@ msgstr "{i}массировать спину{/i}"
 msgid "{i}массировать попку{/i}"
 msgstr "{i}массировать попку{/i}"
 
-# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:
-
-#    # game/core/imagemaps.rpy:108
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/imagemaps.rpy:108
 msgid "{i}искать на кровати{/i}"
 msgstr "{i}искать на кровати{/i}"
 

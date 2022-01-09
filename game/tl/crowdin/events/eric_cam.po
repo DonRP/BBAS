@@ -398,9 +398,7 @@ msgstr "[Max_09]{m}Ничего не разглядеть... Нужно уста
 msgid "[Max_10]{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
 msgstr "[Max_10]{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
 
-## # translate crowdin strings:
-
-#    # game/events/eric_cam.rpy:436
+## # translate crowdin strings:#    # game/events/eric_cam.rpy:436
 msgid "{i}идти к комнате Алисы{/i}"
 msgstr "{i}идти к комнате Алисы{/i}"
 
