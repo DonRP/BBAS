@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-07 18:56\n"
+"PO-Revision-Date: 2022-01-09 19:06\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/screens.rpy:348
+#    # game/core/screens.rpy:348
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}TIENDA ONLINE{/b}"
 
@@ -383,4 +383,8 @@ msgstr "Todos los personajes representados en este juego son ficticios y mayores
 #    # game/core/screens.rpy:2051
 msgid "Продолжить"
 msgstr "Continuar"
+
+#    # game/core/screens.rpy:2102
+msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+msgstr ""
 
