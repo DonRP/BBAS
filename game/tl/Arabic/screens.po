@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-01-07 18:56\n"
+"PO-Revision-Date: 2022-01-09 19:06\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/screens.rpy:348
+#    # game/core/screens.rpy:348
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr ""
 
@@ -380,5 +380,9 @@ msgstr ""
 
 #    # game/core/screens.rpy:2051
 msgid "Продолжить"
+msgstr ""
+
+#    # game/core/screens.rpy:2102
+msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 msgstr ""
 
