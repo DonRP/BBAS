@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:05\n"
+"PO-Revision-Date: 2022-01-09 20:46\n"
 
 # game/dialogues/anntalk.rpy:17# translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -1368,7 +1368,6 @@ msgstr "[Ann_02]Basta essere umili. Questo film si è rivelato molto eccitante..
 msgid "[Max_01]Конечно, мам!"
 msgstr "[Max_01]Certo, mamma!"
 
-#    # game/dialogues/anntalk.rpy:61
 msgid "В другой раз..."
 msgstr "Un'altra volta..."
 
@@ -1604,7 +1603,6 @@ msgstr ""
 msgid "[Max_11]Как скажешь, мам."
 msgstr ""
 
-#    # game/dialogues/anntalk.rpy:1471
 msgid "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
 msgstr ""
 
