@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-04 18:36\n"
+"PO-Revision-Date: 2022-01-09 19:05\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/07_clothes.rpy:87
+#    # game/core/07_clothes.rpy:87
 msgid "Повседневная"
 msgstr "Casual"
 
