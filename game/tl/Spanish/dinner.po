@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-04 18:37\n"
+"PO-Revision-Date: 2022-01-09 19:06\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
+# game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
 msgstr "[Ann_01]Bon appetit a todos. Me alegro, Max, de que hayas comprado los comestibles a tu propio costo. Y veo la piscina limpia. Bien hecho por asumir esta responsabilidad, todos lo agradecemos. Ahora vamos a cenar...[nointeract]"
 
@@ -1264,6 +1264,7 @@ msgstr "[Ann_04]Bueno, me alegro de que haya funcionado de esa manera. Oh, estoy
 msgid "[Max_01]Пока, мам..."
 msgstr "[Max_01]sí, mamá..."
 
+#    # game/dialogues/dinner.rpy:74
 msgid "Как скажешь, мам..."
 msgstr "Como dices, mamá..."
 
