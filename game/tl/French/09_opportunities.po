@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 19:05\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
-#    # game/core/09_opportunities.rpy:4
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
 msgstr "Caméras cachées"
 
@@ -1969,7 +1969,7 @@ msgstr "Eric a donné à Alice un body en dentelle devant moi, ce qui signifie q
 msgid "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
 msgstr "J’ai besoin de passer plus de temps avec ma mère. Ses cours de yoga du matin m'aidera à nous rapprocher..."
 
-#    # game/core/09_opportunities.rpy:4
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Теперь Эрика нет и я могу спокойно помогать Алисе дальше. Я уже предложил ей сходить куда-нибудь и развеяться, а то Эрик своими планами произвёл на моих сестёр и маму не самые лучшие впечатления. Но Алиса хочет сперва опомниться, а уже потом как-то развлекаться. Остаётся ждать..."
 msgstr ""
 
