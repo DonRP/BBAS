@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 20:10\n"
+"PO-Revision-Date: 2022-01-09 20:44\n"
 
 # game/events/alice.rpy:13# translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -2470,7 +2470,6 @@ msgstr "[Max_09] {m} Espera un minuto, están hablando de comprar lencería... �
 msgid "[Max_07]{m}Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего...{/m}[nointeract]"
 msgstr "[Max_07] {m} Eric decidió ser inteligente frente a Alice con sus conocimientos de consumismo y publicidad... Bueno, sí, mientras tanto, se queda mirando sus encantos, apenas cubiertos de lino. Todavía no tengo nada que hacer aquí... {/ m} [nointeract]"
 
-#    # game/events/alice.rpy:12
 msgid "{i}постучаться{/i}"
 msgstr "{i}knock{/i}"
 
