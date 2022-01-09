@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 20:03\n"
+"PO-Revision-Date: 2022-01-09 20:44\n"
 
 # game/events/kira.rpy:26# translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -2720,7 +2720,6 @@ msgstr ""
 msgid "[Max_02]Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа![nointeract]"
 msgstr ""
 
-#    # game/events/kira.rpy:25
 msgid "{i}войти{/i}"
 msgstr ""
 
@@ -3564,7 +3563,6 @@ msgstr ""
 msgid "[Max_02]{m}Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!{/m}[nointeract]"
 msgstr ""
 
-#    # game/events/kira.rpy:994
 msgid "Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
 msgstr ""
 
