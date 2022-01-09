@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/02init.rpy:18
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
+
+#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 
@@ -605,4 +607,30 @@ msgstr "У меня для тебя подарок {i}(Плётка){/i}"
 #    # game/core/02init.rpy:248
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "Мам, я купил тебе одежду полегче!"
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:
+
+#    # game/core/02init.rpy:40
+msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
+msgstr "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
+
+#    # game/core/02init.rpy:43
+msgid "{color=#00FF00}{i}Успех!{/i}{/color}\n"
+msgstr "{color=#00FF00}{i}Успех!{/i}{/color}\n"
+
+#    # game/core/02init.rpy:44
+msgid "{color=#E59400}{i}Провал!{/i}{/color}\n"
+msgstr "{color=#E59400}{i}Провал!{/i}{/color}\n"
+
+#    # game/core/02init.rpy:135
+msgid "Как ты после случившегося?"
+msgstr "Как ты после случившегося?"
+
+#    # game/core/02init.rpy:135
+msgid "Уже слышала новость, тётя Кира?"
+msgstr "Уже слышала новость, тётя Кира?"
+
+#    # game/core/02init.rpy:135
+msgid "Лиза, ты чего нос повесила?"
+msgstr "Лиза, ты чего нос повесила?"
 

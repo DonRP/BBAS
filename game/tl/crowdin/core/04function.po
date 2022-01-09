@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/04function.rpy:300
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
+
+#    # game/core/04function.rpy:300
 msgid "+ к навыку скрытности"
 msgstr "+ к навыку скрытности"
 

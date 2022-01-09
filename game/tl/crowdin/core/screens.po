@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/screens.rpy:348
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
+
+#    # game/core/screens.rpy:348
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 
@@ -365,4 +367,10 @@ msgstr "Все персонажи, изображённые в этой игре
 #    # game/core/screens.rpy:2051
 msgid "Продолжить"
 msgstr "Продолжить"
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:
+
+#    # game/core/screens.rpy:2102
+msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+msgstr "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 

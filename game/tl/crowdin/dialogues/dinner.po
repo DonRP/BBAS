@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
+﻿# TODO: Translation updated at 2021-12-05 17:43
+
+# game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
 msgstr "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
 
@@ -1249,8 +1251,9 @@ msgstr "[Ann_04]Ну, я рада, что всё так сложилось. Ох
 # game/dialogues/dinner.rpy:775## # translate crowdin dinner_lace_lingerie_e0b844ce:
 msgid "[Max_01]Пока, мам..."
 msgstr "[Max_01]Пока, мам..."
+## # translate crowdin strings:
 
-## # translate crowdin strings:#    # game/dialogues/dinner.rpy:74
+#    # game/dialogues/dinner.rpy:74
 msgid "Как скажешь, мам..."
 msgstr "Как скажешь, мам..."
 

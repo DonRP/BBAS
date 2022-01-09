@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/extra/extra.rpy:56
+﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:
+
+#    # game/extra/extra.rpy:56
 msgid "Новый купальник Лизы"
 msgstr "Новый купальник Лизы"
 
@@ -253,4 +255,10 @@ msgstr "Вернуться в коллекцию"
 #    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "Следующий снимок"
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:
+
+#    # game/extra/extra.rpy:60
+msgid "Вместо ночного плаванья"
+msgstr "Вместо ночного плаванья"
 
