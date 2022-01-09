@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 20:03\n"
+"PO-Revision-Date: 2022-01-09 20:44\n"
 
 # game/events/ann.rpy:11# translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -548,7 +548,6 @@ msgstr "[Max_05]¡Guau, es fascinante! ¡Los procedimientos de agua de la madre 
 msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
 msgstr "[Max_07]¡Eh! Parece que la diversión ha terminado... ¡Aunque, ver a mamá limpiar su cuerpo húmedo y seductor no es menos agradable! Oh, qué tiene...[nointeract]"
 
-#    # game/events/ann.rpy:185
 msgid "{i}Отвернуться{/i}"
 msgstr "{i}Alejarse{/i}"
 
@@ -1042,7 +1041,6 @@ msgstr ""
 msgid "[Max_07]{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}[nointeract]"
 msgstr ""
 
-#    # game/events/ann.rpy:369
 msgid "А я не помешаю. Начинай..."
 msgstr ""
 
