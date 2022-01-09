@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 19:37\n"
+"PO-Revision-Date: 2022-01-09 20:44\n"
 
 # game/events/other.rpy:11# translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -488,7 +488,6 @@ msgstr "[Ann_04] Está bien, ya veremos. Kira, me parece que no valía la pena g
 msgid "[Max_07]Давайте уже завтракать, а то остыло почти всё..."
 msgstr "[Max_07]Desayunemos ya, de lo contrario todo se va a enfriar..."
 
-#    # game/events/other.rpy:10
 msgid "Удачи"
 msgstr "Buena suerte"
 
@@ -1188,7 +1187,6 @@ msgstr ""
 msgid "[Max_14]{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}[nointeract]"
 msgstr ""
 
-#    # game/events/other.rpy:445
 msgid "{i}подставить Эрика{/i}"
 msgstr ""
 
