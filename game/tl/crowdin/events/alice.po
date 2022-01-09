@@ -2041,8 +2041,8 @@ msgid "[Max_03]Конечно, Алиса!"
 msgstr "[Max_03]Конечно, Алиса!"
 
 # game/events/alice.rpy:2398# translate crowdin alice_towel_after_club_3479dfb8:
-msgid "[Max "[nointeract]"
-msgstr "[Max "[nointeract]"
+msgid "[Max][nointeract]"
+msgstr "[Max][nointeract]"
 
 # game/events/alice.rpy:2400# translate crowdin alice_towel_after_club_164b6a94:
 msgid "[Alice "{b}Алиса:{/b} Кому там не спится? Я ванну принимаю..."

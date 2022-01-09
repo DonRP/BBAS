@@ -157,8 +157,8 @@ msgid "[Lisa_09]Да ну тебя, Макс!"
 msgstr "[Lisa_09]Да ну тебя, Макс!"
 
 # game/dialogues/lisatalk.rpy:183# translate crowdin MorningWoodCont_4fbd8958:
-msgid "[Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?[nointeract]"
-msgstr "[Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?[nointeract]"
+msgid "[Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?[nointeract]"
+msgstr "[Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:189# translate crowdin MorningWoodCont_b3cadc1a:
 msgid "[Lisa_11]Ой, Макс, ты не спишь! Это... не то, что ты подумал..."
