@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 19:06\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
-#    # game/core/imagemaps.rpy:31
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
 msgstr "{i}rechercher sous le lit{/i}"
 
@@ -48,7 +48,7 @@ msgstr "{i}masser le dos{/i}"
 msgid "{i}массировать попку{/i}"
 msgstr "{i}masser les fesses{/i}"
 
-#    # game/core/imagemaps.rpy:108
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/imagemaps.rpy:108
 msgid "{i}искать на кровати{/i}"
 msgstr ""
 
