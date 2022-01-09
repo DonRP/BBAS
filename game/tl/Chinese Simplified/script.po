@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-01-09 19:09\n"
+"PO-Revision-Date: 2022-01-09 20:47\n"
 
 # game/script.rpy:58# translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
@@ -148,7 +148,6 @@ msgstr "[Max_00]一些\"机会\"是暂时的。有些可能导致不良结果。
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
 msgstr "[Max_04]但不要害怕他们。正是由于\"机会\"，你才能实现一些他们甚至做梦也想不到的事情！[nointeract]"
 
-#    # game/script.rpy:57
 msgid "{i}далее{/i}"
 msgstr "{i}下一步{/i}"
 
