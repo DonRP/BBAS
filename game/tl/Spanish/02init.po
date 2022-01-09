@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 19:05\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
-#    # game/core/02init.rpy:18
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}¡La persuasión tuvo éxito! {/i} {/color}\n"
 
@@ -646,7 +646,7 @@ msgstr "Tengo un regalo para ti {i}(Pijama){/i}"
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "¡Mamá, te compré ropa más ligera!"
 
-#    # game/core/02init.rpy:40
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/02init.rpy:40
 msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
 msgstr ""
 
