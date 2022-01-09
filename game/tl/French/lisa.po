@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:03\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
 # game/events/lisa.rpy:26# translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -1166,7 +1166,6 @@ msgstr "[Max_04]Je t'accompagne au lit ?"
 msgid "[Lisa_13]Сама справлюсь! Ой ой ой!"
 msgstr "[Lisa_13]Je peux le faire moi-même ! Oh oh!"
 
-#    # game/events/lisa.rpy:45
 msgid "Это я, Макс!"
 msgstr "C’est moi, Max!"
 
