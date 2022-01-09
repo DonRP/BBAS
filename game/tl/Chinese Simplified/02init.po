@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-01-09 19:08\n"
+"PO-Revision-Date: 2022-01-09 20:46\n"
 
-#    # game/core/02init.rpy:18
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "[颜色=#00FF00]{i}信念成功了！{/i}{/color}\n"
 
@@ -645,7 +645,7 @@ msgstr ""
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "妈妈，我给你买了些更容易的衣服！"
 
-#    # game/core/02init.rpy:40
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/02init.rpy:40
 msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
 msgstr ""
 
