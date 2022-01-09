@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:03\n"
+"PO-Revision-Date: 2022-01-09 20:43\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -6358,7 +6358,6 @@ msgstr "[Lisa_01]Ouaip. Je vais courir à l'école, alors ne t'ennuie pas..."
 msgid "[Max_01]А я буду. Успехов тебе!"
 msgstr "[Max_01]Et je le ferais. Bonne chance à toi!"
 
-#    # game/dialogues/lisatalk.rpy:62
 msgid "Кажется, я передумал..."
 msgstr "Je crois que j'ai changé d'avis..."
 
@@ -7587,7 +7586,6 @@ msgstr ""
 msgid "[Max_01]Договорились, сестрёнка."
 msgstr ""
 
-#    # game/dialogues/lisatalk.rpy:4589
 msgid "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
 msgstr ""
 
