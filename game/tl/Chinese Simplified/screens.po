@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-01-07 18:56\n"
+"PO-Revision-Date: 2022-01-09 19:09\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/screens.rpy:348
+#    # game/core/screens.rpy:348
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}在线商店{/b}"
 
@@ -382,5 +382,9 @@ msgstr ""
 
 #    # game/core/screens.rpy:2051
 msgid "Продолжить"
+msgstr ""
+
+#    # game/core/screens.rpy:2102
+msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 msgstr ""
 
