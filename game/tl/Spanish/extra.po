@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-04 18:37\n"
+"PO-Revision-Date: 2022-01-09 19:06\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/extra/extra.rpy:56
+#    # game/extra/extra.rpy:56
 msgid "Новый купальник Лизы"
 msgstr "El nuevo bañador de Lisa"
 
@@ -267,4 +267,8 @@ msgstr "Volver a la colección"
 #    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "Siguiente imagen"
+
+#    # game/extra/extra.rpy:60
+msgid "Вместо ночного плаванья"
+msgstr ""
 
