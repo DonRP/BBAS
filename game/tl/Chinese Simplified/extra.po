@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-01-04 18:40\n"
+"PO-Revision-Date: 2022-01-09 19:09\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/extra/extra.rpy:56
+#    # game/extra/extra.rpy:56
 msgid "Новый купальник Лизы"
 msgstr "丽莎的新泳衣"
 
@@ -267,4 +267,8 @@ msgstr "返回模型"
 #    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "下一快照"
+
+#    # game/extra/extra.rpy:60
+msgid "Вместо ночного плаванья"
+msgstr ""
 
