@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-01-09 19:09\n"
+"PO-Revision-Date: 2022-01-09 20:47\n"
 
 # game/dialogues/oliviatalk.rpy:19# translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01]Вы не против, если я тоже позагораю?"
@@ -516,7 +516,6 @@ msgstr "[Olivia_06]怎么样？！你不和我们在一起吗？太可惜了..."
 msgid "[Max_01]Мне тоже. Не скучайте."
 msgstr "[Max_01]我也一样不要感到无聊。"
 
-#    # game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr "虽然， 不...其实我有事要做..."
 
