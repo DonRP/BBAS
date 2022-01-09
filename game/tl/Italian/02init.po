@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 19:08\n"
+"PO-Revision-Date: 2022-01-09 20:46\n"
 
-#    # game/core/02init.rpy:18
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasione riuscita!{/i}{/color}\n"
 
@@ -646,7 +646,7 @@ msgstr "Ho un regalo per te {i}(La frusta){/i}"
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "Mamma, ti ho comprato vestiti più leggeri!"
 
-#    # game/core/02init.rpy:40
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/02init.rpy:40
 msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
 msgstr ""
 
