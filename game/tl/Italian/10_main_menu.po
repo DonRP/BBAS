@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:48\n"
+"PO-Revision-Date: 2022-01-10 20:45\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
@@ -22,31 +22,31 @@ msgstr ""
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шорты"
-msgstr ""
+msgstr "Pantaloncini"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусы"
-msgstr ""
+msgstr "Mutandine"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шапка"
-msgstr ""
+msgstr "Cappello"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Борода"
-msgstr ""
+msgstr "Barba"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусы #1"
-msgstr ""
+msgstr "Mutande #1"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусы #2"
-msgstr ""
+msgstr "Mutande #2"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Маечка"
-msgstr ""
+msgstr "T-shirt"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Минишортики"
@@ -54,7 +54,7 @@ msgstr ""
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Лиф"
-msgstr ""
+msgstr "Corpetto"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Плавки"
@@ -62,23 +62,23 @@ msgstr ""
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Лифчик"
-msgstr ""
+msgstr "Reggiseno"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусики"
-msgstr ""
+msgstr "Mutandine"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шапочка"
-msgstr ""
+msgstr "Berretta"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Бант на шею"
-msgstr ""
+msgstr "Arco sul collo"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Кружевное платье"
-msgstr ""
+msgstr "Abito in pizzo"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Чулочки"
