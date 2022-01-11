@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-10 20:45\n"
+"PO-Revision-Date: 2022-01-11 20:44\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
@@ -90,11 +90,11 @@ msgstr ""
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шортики"
-msgstr ""
+msgstr "Pantaloncini"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шляпка"
-msgstr ""
+msgstr "Cappello"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Бабочка на шею"
