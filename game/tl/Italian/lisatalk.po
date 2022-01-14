@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-14 09:06\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -1642,7 +1642,7 @@ msgstr "[Lisa_06]sì... Da questo massaggio divo troppo caldo... E fa così cald
 
 # game/dialogues/lisatalk.rpy:1431# translate crowdin Lisa_HomeWork_shoulders_f9066800:
 msgid "[Max_03]{m}Кстати! А это отличная возможность скрыть мой стояк от мамы, когда мы смотрим вместе ТВ! Массажем я уже овладел весьма неплохо... Так почему бы не предложить его маме? И если она согласится, то я смогу оказаться прямо за ней и она ничего не увидит. Так и надо будет сделать!{/m}"
-msgstr "[Max_03]{m}A proposito! E questa è una grande opportunità per nascondere il mio riser a mia madre quando guardiamo la TV insieme! Massaggio che ho già padroneggiato molto bene... Allora perché non offrirlo a mia madre? E se lei è d'accordo, posso essere proprio dietro di lei e lei non vedrà nulla. Questo è quello che dovremo fare! {/m}"
+msgstr "[Max_03]{m}A proposito! E questa è una grande opportunità per nascondere il mio riser a mia madre quando guardiamo la TV insieme! Massaggio che ho già padroneggiato molto bene... Allora perché non offrirlo a mia madre? E se lei è d'accordo, posso essere proprio dietro di lei e lei non vedrà nulla. Questo è quello che dovrei fare! {/m}"
 
 # game/dialogues/lisatalk.rpy:1433# translate crowdin Lisa_HomeWork_shoulders_3593d09b:
 msgid "[Max_09]{m}Только сперва нужно отточить свои навыки массажа на Лизе. Ещё не хватало перед мамой позориться тем, что я так себе массажист. Нужно, чтобы ей понравилось...{/m}"
@@ -1802,7 +1802,7 @@ msgstr "[Lisa_06]sì... Da questo massaggio divo troppo caldo... E fa così cald
 
 # game/dialogues/lisatalk.rpy:1569# translate crowdin Lisa_HomeWork_new_shoulders_f9066800:
 msgid "[Max_03]{m}Кстати! А это отличная возможность скрыть мой стояк от мамы, когда мы смотрим вместе ТВ! Массажем я уже овладел весьма неплохо... Так почему бы не предложить его маме? И если она согласится, то я смогу оказаться прямо за ней и она ничего не увидит. Так и надо будет сделать!{/m}"
-msgstr "[Max_03]{m}A proposito! E questa è una grande opportunità per nascondere il mio riser a mia madre quando guardiamo la TV insieme! Massaggio che ho già padroneggiato molto bene... Allora perché non offrirlo a mia madre? E se lei è d'accordo, posso essere proprio dietro di lei e lei non vedrà nulla. Questo è quello che dovremo fare! {/m}"
+msgstr "[Max_03]{m}A proposito! E questa è una grande opportunità per nascondere il mio riser a mia madre quando guardiamo la TV insieme! Massaggio che ho già padroneggiato molto bene... Allora perché non offrirlo a mia madre? E se lei è d'accordo, posso essere proprio dietro di lei e lei non vedrà nulla. Questo è quello che dovrei fare! {/m}"
 
 # game/dialogues/lisatalk.rpy:1571# translate crowdin Lisa_HomeWork_new_shoulders_3593d09b:
 msgid "[Max_09]{m}Только сперва нужно отточить свои навыки массажа на Лизе. Ещё не хватало перед мамой позориться тем, что я так себе массажист. Нужно, чтобы ей понравилось...{/m}"
@@ -1826,7 +1826,7 @@ msgstr "[Max_02]Beh... Immagino di essermi allontanato un po' dalla rotta per fa
 
 # game/dialogues/lisatalk.rpy:1584# translate crowdin Lisa_HomeWork_new_shoulders_f9066800_1:
 msgid "[Max_03]{m}Кстати! А это отличная возможность скрыть мой стояк от мамы, когда мы смотрим вместе ТВ! Массажем я уже овладел весьма неплохо... Так почему бы не предложить его маме? И если она согласится, то я смогу оказаться прямо за ней и она ничего не увидит. Так и надо будет сделать!{/m}"
-msgstr "[Max_03]{m}A proposito! E questa è una grande opportunità per nascondere il mio riser a mia madre quando guardiamo la TV insieme! Massaggio che ho già padroneggiato molto bene... Allora perché non offrirlo a mia madre? E se lei è d'accordo, posso essere proprio dietro di lei e lei non vedrà nulla. Questo è quello che dovremo fare! {/m}"
+msgstr "[Max_03]{m}A proposito! E questa è una grande opportunità per nascondere il mio riser a mia madre quando guardiamo la TV insieme! Massaggio che ho già padroneggiato molto bene... Allora perché non offrirlo a mia madre? E se lei è d'accordo, posso essere proprio dietro di lei e lei non vedrà nulla. Questo è quello che dovrei fare! {/m}"
 
 # game/dialogues/lisatalk.rpy:1586# translate crowdin Lisa_HomeWork_new_shoulders_3593d09b_1:
 msgid "[Max_09]{m}Только сперва нужно отточить свои навыки массажа на Лизе. Ещё не хватало перед мамой позориться тем, что я так себе массажист. Нужно, чтобы ей понравилось...{/m}"
