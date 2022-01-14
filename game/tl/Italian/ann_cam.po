@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:47\n"
+"PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/ann_cam.rpy:8# translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
@@ -209,20 +209,20 @@ msgid "[Max_09]{m}Ничего не разглядеть... Нужно уста�
 msgstr ""
 
 msgid "[Max_01]{m}Две соблазнительные дамочки в бассейне, что может быть лучше? Только если бы они были ещё и голые!{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Due signore seducenti in una piscina, cosa c'è di meglio? Solo se fossero anche nudi!{/m}"
 
 msgid "[Max_01]{m}Такой шикарной попке, как у моей мамы, любая женщина может позавидовать...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Un sedere così bello come quello di mia madre farebbe invidia a qualsiasi donna...{/m}"
 
 msgid "[Max_04]{m}Не вытирайся, мам, ходи мокренькая...{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Non pulirti, mamma, cammina bagnata...{/m}"
 
 msgid "[Max_05]{m}И зачем нужны все эти эротические ролики в интернете, когда можно посмотреть на мою маму в ванне?!{/m}"
-msgstr ""
+msgstr "[Max_05]{m}E perché tutti i video erotici su internet quando puoi guardare mia madre nella vasca da bagno?{/m}"
 
 msgid "[Max_09]{m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si può vedere la mamma attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_01]{m}Мама, как всегда, отдыхает за просмотром сериала или фильма.{/m}"
-msgstr ""
+msgstr "[Max_01]{m}La mamma, come sempre, si rilassa guardando una soap opera o un film.{/m}"
 
