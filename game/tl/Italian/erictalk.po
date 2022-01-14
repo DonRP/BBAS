@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-14 09:06\n"
 
 # game/dialogues/erictalk.rpy:17# translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -170,7 +170,7 @@ msgstr "[Eric_03]E tu sei Max, siediti, non essere timido...[nointeract]"
 
 # game/dialogues/erictalk.rpy:171# translate crowdin lessons_from_Eric_first_bj_385a2e04:
 msgid "[Max_08]{m}Вау! Мама продолжила отсасывать Эрику! При мне... Хотя, видно что делает она это не так чувственно, как раньше.{/m}"
-msgstr "[Max_08]{m}Wow! La mamma continuava a succhiare Erica! Davanti a me... Anche se si vede che non lo sta facendo in modo sensuale come prima.{/m}"
+msgstr "[Max_08]{m}Wow! La mamma continuava a succhiare Eric! Davanti a me... Anche se si vede che non lo sta facendo in modo sensuale come prima.{/m}"
 
 # game/dialogues/erictalk.rpy:172# translate crowdin lessons_from_Eric_first_bj_245d909c:
 msgid "[Eric_05]Смотри Макс, как хороша твоя мама! А ты Ань, не стесняйся, делай это уверенно... Покажи Максу, каким удовольствием делятся любящие друг друга люди."
