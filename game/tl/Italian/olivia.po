@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:47\n"
+"PO-Revision-Date: 2022-01-14 09:06\n"
 
 # game/events/olivia.rpy:34# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07]{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
@@ -913,11 +913,11 @@ msgstr ""
 
 # game/events/olivia.rpy:701# translate crowdin olivia_dressed_stay_in_room_08276951:
 msgid "[Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени...[nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} E non fregiamo niente! Non ci vorrà molto...[nointeract]"
 
 # game/events/olivia.rpy:703# translate crowdin olivia_dressed_stay_in_room_cdba7705:
 msgid "[Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста![nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} E vorrei che tu cercassi di non sbirciare... So che è difficile, ma per favore![nointeract]"
 
 # game/events/olivia.rpy:730# translate crowdin olivia_dressed_moment0_8a87f589:
 msgid "[Lisa_00]Ой, Макс! А ты можешь немного погулять? Мы собирались переодеться...[nointeract]"
