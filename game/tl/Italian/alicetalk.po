@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-14 09:06\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -8095,11 +8095,11 @@ msgstr "{i}per iniziare la cena{/i}"
 
 #    # game/dialogues/alicetalk.rpy:5729
 msgid "{i}подмешать Эрику в тарелку слабительное{/i}"
-msgstr "{i}mescolare Erica in un lassativo piatto{/i}"
+msgstr "{i}mescolare Eric in un lassativo piatto{/i}"
 
 #    # game/dialogues/alicetalk.rpy:5729
 msgid "{i}подмешать Эрику в тарелку успокоительное{/i}"
-msgstr "{i}mescolare Erica in un piatto di sedativi{/i}"
+msgstr "{i}mescolare Eric in un piatto di sedativi{/i}"
 
 # game/dialogues/alicetalk.rpy:36# translate crowdin AliceTalkStart_429c2af4:
 msgid "[Alice_17]Тебя выпнуть, Макс, или сам отвалишь?[nointeract]"
