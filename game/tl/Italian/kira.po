@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-14 09:07\n"
 
 # game/events/kira.rpy:26# translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -542,7 +542,7 @@ msgstr "[Eric_02]Basta non trascinarlo fuori, o mi annoierò... Ci vediamo se pr
 
 # game/events/kira.rpy:491# translate crowdin kira_bath_caught_a45c03b9:
 msgid "[Max_08]Ты правда собираешься по ночам отсасывать Эрику?!"
-msgstr "[Max_08]Hai davvero intenzione di succhiare Erica di notte?!"
+msgstr "[Max_08]Hai davvero intenzione di succhiare Eric di notte?!"
 
 # game/events/kira.rpy:492# translate crowdin kira_bath_caught_2e0c93cb:
 msgid "[Kira_13]Похоже, придётся... Иначе, ты отправишься прямиком в летний лагерь, а я... Меня, скорее всего, тоже выгонят и боюсь отношения с твоей мамой у меня будут испорчены навсегда... А я этого очень не хочу..."
@@ -566,7 +566,7 @@ msgstr "[Kira_10]Stai attento, Max! Perché finora non è poi così male..."
 
 # game/events/kira.rpy:500# translate crowdin kira_bath_caught_90341b4e:
 msgid "[Max_08]Тётя Кира, ты же не собираешься по ночам отсасывать Эрику, правда?!"
-msgstr "[Max_08]zia Kira, non hai intenzione di succhiare Erica di notte, vero?!"
+msgstr "[Max_08]zia Kira, non hai intenzione di succhiare Eric di notte, vero?!"
 
 # game/events/kira.rpy:501# translate crowdin kira_bath_caught_2e0c93cb_1:
 msgid "[Kira_13]Похоже, придётся... Иначе, ты отправишься прямиком в летний лагерь, а я... Меня, скорее всего, тоже выгонят и боюсь отношения с твоей мамой у меня будут испорчены навсегда... А я этого очень не хочу..."
@@ -3045,7 +3045,7 @@ msgstr "Non posso resistere al tuo seno. La voglio!"
 
 # game/events/kira.rpy:26# translate crowdin kira_bath_a64599ce:
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira![nointeract]"
 
 # game/events/kira.rpy:30# translate crowdin kira_bath_9db81a9c:
 msgid "[Max_09]{m}Нужно найти способ как-то подглядеть за девчонками в ванной. Может, попробовать вечером со двора?!{/m}"
@@ -3233,7 +3233,7 @@ msgstr ""
 
 # game/events/kira.rpy:2296# translate crowdin kira_shower_ladder_1409147d:
 msgid "[Max_07]{m}Мои зрители явно пропускают много всего интересного! Мне однозначно стоит установить сюда ещё одну камеру...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}I miei spettatori si stanno chiaramente perdendo un sacco di cose interessanti! Dovrei assolutamente installare un'altra telecamera qui...{/m}"
 
 # game/events/kira.rpy:2297# translate crowdin kira_shower_ladder_63c0b6bb:
 msgid "[Max_00]{m}Хоть и не хочется, но пока меня не заметили, лучше уходить...{/m}"
