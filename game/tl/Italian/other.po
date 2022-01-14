@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-14 09:07\n"
 
 # game/events/other.rpy:11# translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -282,7 +282,7 @@ msgstr "[Ann_01]No, Max, sicuramente non è normale. Cancellamo il fatto che hai
 
 # game/events/other.rpy:230# translate crowdin MeetingEric_bad_c246e424:
 msgid "[Ann_01]Молчишь? Нечего сказать или стыдно? Будем считать, что ты просто голодный, а не специально хотел нахамить Эрику. Ладно, пойдёмте ужинать..."
-msgstr "[Ann_01]stai zitto? Niente da dire o vergogna? Supponiamo che tu abbia solo fame e non specificamente voluto essere giudicato da Erica. Ok, andiamo a cena..."
+msgstr "[Ann_01]stai zitto? Niente da dire o vergogna? Supponiamo che tu abbia solo fame e non specificamente voluto essere giudicato da Eric. Ok, andiamo a cena..."
 
 # game/events/other.rpy:243# translate crowdin Kira_arrival_ce3f4211:
 msgid "[Ann_05]Ну что, дети, дождались? Встречайте, к нам приехала тётя Кира!"
