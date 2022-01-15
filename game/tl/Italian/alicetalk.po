@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:06\n"
+"PO-Revision-Date: 2022-01-15 09:08\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -8175,11 +8175,11 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:5790# translate crowdin smoke_after_wallet_b5ff10cd:
 msgid "[Max_01]Вот и отлично!"
-msgstr ""
+msgstr "[Max_01]È fantastico!"
 
 # game/dialogues/alicetalk.rpy:5792# translate crowdin smoke_after_wallet_40b817ec:
 msgid "[Alice_13]А теперь вали отсюда. Дай спокойно покурить![nointeract]"
-msgstr ""
+msgstr "[Alice_13]E ora esci di qui. Fammi fumare tranquillamente![nointeract]"
 
 # game/dialogues/alicetalk.rpy:5802# translate crowdin smoke_after_wallet_429c2af4:
 msgid "[Alice_17]Тебя выпнуть, Макс, или сам отвалишь?[nointeract]"
