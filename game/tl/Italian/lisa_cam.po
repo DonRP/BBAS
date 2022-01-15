@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:47\n"
+"PO-Revision-Date: 2022-01-15 09:09\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/lisa_cam.rpy:8# translate crowdin cam0_lisa_sleep_night_cab47b53:
 msgid "[Max_01]Лиза сладко спит..."
@@ -101,89 +101,89 @@ msgid "[Max_01]Лиза учит уроки. Может, стоило ей по�
 msgstr "[Max_01]Lisa sta imparando le lezioni. Forse valeva la pena aiutarla?!"
 
 msgid "[Max_01]{m}Лиза сладко спит...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa dorme dolcemente...{/m}"
 
 msgid "[Max_01]{m}Лиза ещё спит...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa sta ancora dormendo...{/m}"
 
 msgid "[Max_09]{m}Лизы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Lisa non può essere vista attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_09]{m}Лизы не видно через эту камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Lisa non può essere vista attraverso questa telecamera...{/m}"
 
 msgid "[Max_04]{m}Младшая сестрёнка принимает душ... Прекрасная Лиза - прекрасное утро!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Sorellina che fa la doccia... Bella Lisa - bella mattina!{/m}"
 
 msgid "[Max_03]{m}Лиза, прежде чем принять душ, любуется собой перед зеркалом. И мы этим со зрителями тоже полюбуемся...{/m}"
-msgstr ""
+msgstr "[Max_03]{m}Lisa, prima di fare la doccia, si ammira davanti allo specchio. Ed è quello che anche noi e il pubblico possiamo ammirare...{/m}"
 
 msgid "[Max_09]{m}Лизы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Lisa non può essere vista attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_07]{m}Люблю смотреть, как Лиза читает. Вернее, люблю позы, в которых она читает...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Adoro guardare Lisa che legge. O meglio, amo le pose in cui legge...{/m}"
 
 msgid "[Max_01]{m}Лиза готовится к сегодняшним урокам в школе. Какая умничка...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa si sta preparando per la scuola oggi. Che ragazza intelligente...{/m}"
 
 msgid "[Max_09]{m}Ничего интересного я здесь уже не увижу, Лиза полностью оделась.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non vedrò più niente di interessante qui, Lisa è completamente vestita.{/m}"
 
 msgid "[Max_07]{m}Отлично! Лиза наряжается, чтобы отправиться в школу...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Grande! Lisa si veste per andare a scuola...{/m}[nointeract]"
 
 msgid "[Max_07]{m}Отлично! Лиза наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Grande! Lisa si mette in tiro per andare a fare shopping...{/m}[nointeract]"
 
 msgid "[Max_07]{m}Отлично! Лиза наряжается, чтобы отправиться к репетитору...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Grande! Lisa si veste per andare dal suo tutor...{/m}[nointeract]"
 
 msgid "[Max_07]{m}Отлично! Лиза наряжается, чтобы отправиться на прогулку...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Grande! Lisa si veste per andare a fare una passeggiata...{/m}[nointeract]"
 
 msgid "[Max_02]{m}Ухх! Сейчас она такая голенькая и милая...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_02]{m}Ugh! Ora è così nuda e carina...{/m}[nointeract]"
 
 msgid "[Max_04]{m}Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Che bello che la mia sorellina sia una studentessa così seducente. Sono sicuro che gli spettatori lo adorano!{/m}"
 
 msgid "[Max_04]{m}Повезло мне с сестрёнкой! Обворожительна в любой одежде и ещё больше - без неё...{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Che fortuna con mia sorella! Affascinante in tutti i vestiti e ancora di più senza...{/m}"
 
 msgid "[Max_01]{m}Лиза загорает и радует этим моих зрителей! И меня, конечно же...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa prende il sole e rende felici i miei spettatori! E io, naturalmente...{/m}"
 
 msgid "[Max_09]{m}Через эту камеру ничего не видно... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... Vale la pena di guardare attraverso l'altra telecamera...{/m}"
 
 msgid "[Max_09]{m}Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... È necessario installare una telecamera che copra tutta la piscina...{/m}"
 
 msgid "[Max_01]{m}Приятно наблюдать за младшей сестрёнкой у водички...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}È bello vedere la mia sorellina vicino all'acqua...{/m}"
 
 msgid "[Max_01]{m}Лиза моет посуду. А ведь я мог бы ей помочь...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa sta lavando i piatti. Ma potrei aiutarla...{/m}"
 
 msgid "[Max_01]{m}Сестрёнка бездельничает и залипла в свой телефон. Но лежит красиво...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}La sorella è inattiva e bloccata sul telefono. Ma è bellissimo...{/m}"
 
 msgid "[Max_01]{m}Лиза почти набрала воду, хотя я смотрю на кое-что другое...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa è quasi piena d'acqua, anche se sto guardando qualcos'altro...{/m}"
 
 msgid "[Max_04]{m}Эх, Лиза... Не вытирайся! Ты мокренькая тоже обалденная...{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Oh, Lisa... Non pulirti! Anche tu sei bagnato fradicio...{/m}"
 
 msgid "[Max_05]{m}Давай, сестрёнка, не стесняйся показать как можно больше всего интересного...{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Dai, sorella, sentiti libera di mostrare tutte le cose interessanti che puoi...{/m}"
 
 msgid "[Max_09]{m}Лизы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Lisa non può essere vista attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_01]{m}Лиза учит уроки. Может, стоило ей помочь?!{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Lisa sta imparando le sue lezioni. Forse avrei dovuto aiutarla!{/m}"
 
