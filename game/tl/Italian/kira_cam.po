@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:07\n"
+"PO-Revision-Date: 2022-01-15 09:09\n"
 
 # game/events/kira_cam.rpy:7# translate crowdin cam0_kira_sleep_night_e86a44fa:
 msgid "[Max_01]Моя очаровательная тётя Кира спит..."
@@ -413,41 +413,41 @@ msgstr "[Max_05]{m}Oh, fantastico! Zia Kira ha deciso di fare una nuotata nottur
 
 # game/events/kira_cam.rpy:417# translate crowdin cam0_return_from_club_4bc4874c:
 msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... Vale la pena di guardare attraverso l'altra telecamera...{/m}"
 
 # game/events/kira_cam.rpy:419# translate crowdin cam0_return_from_club_23af8aa5:
 msgid "[Max_09]{m}Ничего не разглядеть... Нужно установить камеру, которая охватила бы бассейн...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... È necessario installare una telecamera che copra la piscina...{/m}"
 
 # game/events/kira_cam.rpy:432# translate crowdin cam1_return_from_club_e33d266a:
 msgid "[Max_00]{m}Поздно уже, пойду лучше спать...{/m}"
-msgstr ""
+msgstr "[Max_00]{m}È tardi, è meglio che vada a letto...{/m}"
 
 # game/events/kira_cam.rpy:443# translate crowdin cam0_kira_bath_with_eric_db2aac92:
 msgid "[Max_08]{m}Бедной тёте Кире приходится ублажать Эрика, чтобы никто о нас с ней не узнал...{/m}"
-msgstr ""
+msgstr "[Max_08]{m}La povera zia Kira deve mantenere Eric felice in modo che nessuno scopra di me e lei...{/m}"
 
 # game/events/kira_cam.rpy:445# translate crowdin cam0_kira_bath_with_eric_bbe0e20f:
 msgid "[Max_01]{m}Повезло Эрику... Тётя Кира умеет ублажать мужчин и ещё как!{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Fortunato Eric... Zia Kira sa come soddisfare un uomo, e molto!{/m}"
 
 # game/events/kira_cam.rpy:453# translate crowdin cam0_kira_bath_with_eric_6830485e:
 msgid "[Max_10]{m}Благо у Эрика такой член, с которым Кире не составит труда справиться! Хотя, его выдержке можно позавидовать...{/m}"
-msgstr ""
+msgstr "[Max_10]{m}Per fortuna, Eric ha un cazzo che Kira non dovrebbe avere problemi a gestire! Anche se la sua resistenza è invidiabile...{/m}"
 
 # game/events/kira_cam.rpy:455# translate crowdin cam0_kira_bath_with_eric_e5f40ba7:
 msgid "[Max_07]{m}Со стороны кажется, что для Киры это самое обыденное дело! Она так легко управляется с членом Эрика, хотя это и не сложно, после моего-то...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Dall'esterno, sembra essere una cosa regolare per Kira! È così facile con il cazzo di Eric, anche se non è duro, dopo il mio...{/m}"
 
 # game/events/kira_cam.rpy:463# translate crowdin cam0_kira_bath_with_eric_bdae0f96:
 msgid "[Max_09]{m}Всё! На этот раз Кира отмучалась... Но от Эрика надо скорее избавляться.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Questo è tutto! Questa volta Kira è esausta... Ma dobbiamo liberarci di Eric il prima possibile.{/m}"
 
 # game/events/kira_cam.rpy:465# translate crowdin cam0_kira_bath_with_eric_d88ef0e5:
 msgid "[Max_02]{m}Вот и всё! С Кирой долго не продержишься... Особенно если она нацелена доставить своим языком максимум удовольствия.{/m}"
-msgstr ""
+msgstr "[Max_02]{m}Questo è tutto! Non durerai a lungo con Kira... Soprattutto se mira a dare il massimo piacere con la sua lingua.{/m}"
 
 # game/events/kira_cam.rpy:476# translate crowdin cam1_kira_bath_with_eric_90e1f759:
 msgid "[Max_09]{m}Через эту камеру никого не видно... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si può vedere nessuno attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
