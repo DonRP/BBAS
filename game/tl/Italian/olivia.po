@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:06\n"
+"PO-Revision-Date: 2022-01-15 09:08\n"
 
 # game/events/olivia.rpy:34# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07]{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
@@ -973,7 +973,7 @@ msgstr ""
 
 # game/events/olivia.rpy:793# translate crowdin olivia_dressed_lvl_2_91ad6784:
 msgid "[Lisa_10]Ты не глазей, а жди за дверью! Или хочешь, чтобы я маме об этом рассказала?[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Non si fissa, si aspetta fuori dalla porta! O vuoi che lo dica a mia madre?[nointeract]"
 
 # game/events/olivia.rpy:796# translate crowdin olivia_dressed_lvl_2_32b71976:
 msgid "[Olivia_02]Оу, похоже Макс хочет сказать, что мы с тобой очень соблазнительно выглядим!"
@@ -1057,19 +1057,19 @@ msgstr ""
 
 # game/events/olivia.rpy:846# translate crowdin olivia_dressed_try_to_peek_144e8df6:
 msgid "[Max_05][lucky!t]{m}Кажется, они не заметили, что я подглядываю! Эти две аппетитные попки могут свести с ума любого... Но именно сейчас сводят меня и это так приятно!{/m}"
-msgstr ""
+msgstr "[Max_05][lucky!t]{m}Non sembravano accorgersi che stavo sbirciando! Quei due culi lussuriosi potrebbero far impazzire chiunque... Ma in questo momento mi stanno facendo impazzire ed è così bello!{/m}"
 
 # game/events/olivia.rpy:848# translate crowdin olivia_dressed_try_to_peek_be20eb18:
 msgid "[Max_05][lucky!t]{m}Никто не видит, что я подглядываю... Мне даже всё равно, если они заметят. Рискнуть и увидеть, как эти девочки оголяют свои сладенькие прелести в паре метров от меня, стоит того!{/m}"
-msgstr ""
+msgstr "[Max_05][lucky!t]{m}Nessuno mi vede sbirciare... Non mi interessa nemmeno che se ne accorgano. Vale la pena rischiare per vedere queste ragazze che espongono il loro dolce fascino a pochi metri da me!{/m}"
 
 # game/events/olivia.rpy:859# translate crowdin olivia_dressed_try_to_peek_24da8c0a:
 msgid "[Max_03][lucky!t]{m}Ой, Оливия увидела, что я подглядываю! Но ничего не говорит Лизе... Ну ещё бы. Она же натуристка и это её нисколько не смущает. Забавные сиськи... В смысле, забавная ситуация!{/m}"
-msgstr ""
+msgstr "[Max_03][lucky!t]{m}Oh, Olivia mi ha visto sbirciare! Ma non ha detto niente a Lisa... Certo che no. È una nudista e non ne è minimamente imbarazzata. Tette divertenti... Insomma, è una situazione divertente.{/m}"
 
 # game/events/olivia.rpy:861# translate crowdin olivia_dressed_try_to_peek_895988b1:
 msgid "[Max_03][lucky!t]{m}Оливия заметила, что я подглядываю! Хорошо, что она натуристка, а то сейчас бы криков было... А так, можно смотреть и наслаждаться. Она так забавно пальчиком грозит...{/m}"
-msgstr ""
+msgstr "[Max_03][lucky!t]{m}Olivia ha notato che stavo sbirciando! Meno male che è una nudista, altrimenti ci sarebbero state delle urla... Ma in questo modo, si può guardare e godere. Ha uno strano modo di scuotere il dito...{/m}"
 
 # game/events/olivia.rpy:873# translate crowdin olivia_dressed_try_to_peek_f458687d:
 msgid "[Lisa_11][spotted!t]Ну, Макс! Прекращай подглядывать! Если не отвернёшься или ещё раз такое выкинешь, я на тебя маме нажалуюсь... Тебе ясно?!"
