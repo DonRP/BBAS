@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:06\n"
+"PO-Revision-Date: 2022-01-15 09:08\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -7351,19 +7351,19 @@ msgstr ""
 
 # game/dialogues/lisatalk.rpy:4572# translate crowdin lisa_about_wallet_8c152f15:
 msgid "[Max_07]{m}Ясно. Доказательства у меня есть, вот только девчонки сейчас в таком состоянии, что запросто могут обвинить меня в том, что я эти фотографии нарисовал в каком-нибудь графическом редакторе.{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Giusto. Ho le prove, ma le ragazze sono in uno stato tale che potrebbero accusarmi di aver disegnato queste immagini con una specie di editor grafico.{/m}"
 
 # game/dialogues/lisatalk.rpy:4573# translate crowdin lisa_about_wallet_0b4cc1e7:
 msgid "[Max_01]{m}Кажется, я знаю, как подкрепить эти снимки фактами... И поможет мне в этом Алиса, ведь именно на неё Эрик так усердно дрочит. Остаётся его грамотно подставить...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Credo di sapere come sostenere queste immagini con i fatti... E Alice mi aiuterà in questo, perché è lei che Eric si è fatto una sega così forte. Non resta che incastrarlo...{/m}"
 
 # game/dialogues/lisatalk.rpy:4574# translate crowdin lisa_about_wallet_3d4efb1f:
 msgid "[Max_09]{m}Нужно будет проследить за его ночными делишками в комнате Алисы, а сразу после действовать! Главное, чтобы Алиса спала голой...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Dovremo tenere d'occhio le sue attività notturne nella stanza di Alice e agire subito dopo! L'importante è che Alice dorma nuda...{/m}"
 
 # game/dialogues/lisatalk.rpy:4578# translate crowdin lisa_about_wallet_2a4e3fae:
 msgid "[Max_07]{m}Ясно. Хоть у меня и есть снимок, на котором Эрик дрочит у окна в комнату Алисы, но девчонки сейчас в таком состоянии, что запросто могут обвинить меня в том, что я нарисовал этот снимок в каком-нибудь графическом редакторе.{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Capisco. Anche se ho una foto di Eric che si masturba alla finestra della stanza di Alice, le ragazze sono in un tale stato che potrebbero accusarmi di averla disegnata con un qualche programma di grafica.{/m}"
 
 # game/dialogues/lisatalk.rpy:4579# translate crowdin lisa_about_wallet_7940bf27:
 msgid "[Max_01]{m}Надо думать, на чём можно подловить Эрика. Возможно, у меня получится записать на диктофон наши с ним разговоры? Почему бы и нет! Главное, чтобы он разоткровенничался...{/m}"
@@ -7460,7 +7460,8 @@ msgstr ""
 # game/dialogues/lisatalk.rpy:4648# translate crowdin lisa_about_stolen_phone_0a6862b6:
 msgid "[Eric]{b}Эрик:{/b}\n"
 "{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
-msgstr ""
+msgstr "[Eric]{b}Eric:{/b}\n"
+"{i}... inizierà a lucidare il mio cazzo con le sue dolci labbra. L'hai già inviato? Sono qui! La storia sarà la stessa!{/i}"
 
 # game/dialogues/lisatalk.rpy:4649# translate crowdin lisa_about_stolen_phone_4c12b1b6:
 msgid "[Lisa_10]Всё, Макс, выключи... Это... Это просто кошмар какой-то... Да меня сейчас просто вырвет от одной мысли о том, что он говорил... Неужели это всё правда?"
