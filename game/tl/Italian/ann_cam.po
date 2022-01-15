@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:07\n"
+"PO-Revision-Date: 2022-01-15 09:09\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/ann_cam.rpy:8# translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
@@ -122,91 +122,91 @@ msgid "[Max_01]Мама, как всегда, отдыхает за просмо
 msgstr "[Max_01]mamma, come sempre, riposa guardando una serie Tv o un film."
 
 msgid "[Max_01]{m}Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Che fortuna avere una mamma così sexy... Ha un aspetto fantastico, non posso toglierle gli occhi di dosso!{/m}"
 
 msgid "[Max_09]{m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si può vedere la mamma attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_09]{m}Мамы не видно через эту камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si può vedere la mamma attraverso questa telecamera...{/m}"
 
 msgid "[Max_04]{m}Зрелище просто потрясающее... У меня очень горячая мама!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Lo spettacolo è incredibile... Ho una mamma molto sexy!{/m}"
 
 msgid "[Max_03]{m}Мама, перед тем, как принять душ, красуется перед зеркалом. Глядя на эту красоту, можно мечтать лишь об одном!{/m}"
-msgstr ""
+msgstr "[Max_03]{m}La mamma, prima di fare la doccia, è bellissima davanti allo specchio. Guardando questa bellezza, si può sognare solo una cosa!{/m}"
 
 msgid "[Max_09]{m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si può vedere la mamma attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_02]{m}Мама, как и всегда в это время, занимается йогой. Здесь, хоть в какой позе, она выглядит очень сексуально...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}La mamma sta facendo yoga, come fa sempre in questo periodo. Qui, in qualsiasi posa, sembra molto sexy...{/m}"
 
 msgid "[Max_09]{m}Через эту камеру ничего не видно... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_01]{m}Как и всегда, мама готовит завтрак. Вроде, ничего интересного, но она всё равно лучшая...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Come sempre, la mamma prepara la colazione. Non sembra niente di interessante, ma è ancora la migliore...{/m}"
 
 msgid "[Max_01]{m}Мама сегодня готовит ужин. Будет очень вкусно...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}La mamma cucina la cena stasera. Sarà delizioso...{/m}"
 
 msgid "[Max_09]{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non vedrò più niente di interessante qui, la mamma è completamente vestita.{/m}"
 
 msgid "[Max_07]{m}Вот и мама наряжается, чтобы отправиться на работу...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Ecco la mamma che si veste per andare al lavoro...{/m}[nointeract]"
 
 msgid "[Max_02]{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_02]{m}Oh! Una madre nuda è uno spettacolo delizioso...{/m}[nointeract]"
 
 msgid "[Max_04]{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Sì, le sue rotondità non lasceranno nessuno indifferente!{/m}"
 
 msgid "[Max_09]{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non vedrò più niente di interessante qui, la mamma è completamente vestita.{/m}"
 
 msgid "[Max_07]{m}Вот и мама наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Ecco la mamma che si veste per andare a fare shopping...{/m}[nointeract]"
 
 msgid "[Max_02]{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_02]{m}Oh! Una madre nuda è uno spettacolo delizioso...{/m}[nointeract]"
 
 msgid "[Max_04]{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Sì, le sue rotondità non lasceranno nessuno indifferente!{/m}"
 
 msgid "[Max_01]{m}Мама даже когда отдыхает, выглядит очень сексуально...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}La mamma, anche quando riposa, è molto sexy...{/m}"
 
 msgid "[Max_01]{m}Мама увлечённо читает. Вроде бы ничего особенного, а смотреть на её округлые формы всё равно приятно!{/m}"
-msgstr ""
+msgstr "[Max_01]{m}La mamma legge con passione. Non sembra niente di speciale, ma è comunque bello guardare la sua forma arrotondata!{/m}"
 
 msgid "[Max_01]{m}Самая горячая мама на свете загорает! Не повезло тем зрителям, которые это пропускают...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}La mamma più sexy del mondo sta prendendo il sole! Sfortuna per gli spettatori che se lo perdono...{/m}"
 
 msgid "[Max_09]{m}Через эту камеру ничего не видно... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... Vale la pena di guardare attraverso l'altra telecamera...{/m}"
 
 msgid "[Max_09]{m}Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... È necessario installare una telecamera che copra tutta la piscina...{/m}"
 
 msgid "[Max_01]{m}На маму во дворе всегда приятно посмотреть...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}È sempre bello vedere una mamma nel cortile...{/m}"
 
 msgid "[Max_01]{m}Две загорающих красотки - лучше чем одна...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Due bellezze che prendono il sole sono meglio di una...{/m}"
 
 msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... Vale la pena di guardare attraverso l'altra telecamera...{/m}"
 
 msgid "[Max_09]{m}Ничего толком не видно... Стоит взглянуть через другую камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... Vale la pena di guardare attraverso l'altra telecamera...{/m}"
 
 msgid "[Max_09]{m}Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non si vede niente... È necessario installare una telecamera che copra tutta la piscina...{/m}"
 
 msgid "[Max_01]{m}Две соблазнительные дамочки в бассейне, что может быть лучше? Только если бы они были ещё и голые!{/m}"
 msgstr "[Max_01]{m}Due signore seducenti in una piscina, cosa c'è di meglio? Solo se fossero anche nudi!{/m}"
