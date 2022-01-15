@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:07\n"
+"PO-Revision-Date: 2022-01-15 09:09\n"
 
 # game/events/alice_cam.rpy:25# translate crowdin cam0_alice_sleep_night_f2d9a8b1:
 msgid "[Max_07]Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?"
@@ -689,65 +689,65 @@ msgstr "[Max_02]{m}Alice sarebbe fantastica come le ragazze che intrattengono la
 
 # game/events/alice_cam.rpy:612# translate crowdin cam0_alice_rest_evening_3c34eb01:
 msgid "[Max_07]{m}К сожалению, шоу закончилось и теперь Алиса просто занимается своим блогом...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Sfortunatamente, lo spettacolo è finito e ora Alice fa solo il suo blog...{/m}"
 
 # game/events/alice_cam.rpy:618# translate crowdin cam0_alice_rest_evening_8da9d809:
 msgid "[Max_07]{m}Алиса занимается своим блогом. Ничего интересного не намечается. Хотя... как знать, может стоит подождать...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Alice è impegnata con il suo blog. Non c'è niente di interessante in arrivo. Anche se... chissà, forse dovremmo aspettare...{/m}"
 
 # game/events/alice_cam.rpy:620# translate crowdin cam0_alice_rest_evening_29ebe6ec:
 msgid "[Max_07]{m}Алиса занимается своим блогом. Ничего интересного не намечается...{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Alice è impegnata con il suo blog. Non c'è niente di interessante in arrivo...{/m}"
 
 # game/events/alice_cam.rpy:630# translate crowdin cam0_alice_tv_6c3872e9:
 msgid "[Max_01]{m}Алиса смотрит ТВ. Наверняка залипла в какие-нибудь сериалы...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Alice sta guardando la TV. Probabilmente è presa da qualche soap opera...{/m}"
 
 # game/events/alice_cam.rpy:640# translate crowdin cam0_alice_bath_d3d737e8:
 msgid "[Max_01]{m}Алиса ещё только набирает воду, а вид уже классный!{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Alice sta ancora entrando in acqua e la vista è già fresca!{/m}"
 
 # game/events/alice_cam.rpy:647# translate crowdin cam0_alice_bath_8af01322:
 msgid "[Max_04]{m}Не спеши, Алиса. Вытирайся помедленнее...{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Prenditi il tuo tempo, Alice. Asciugati lentamente...{/m}"
 
 # game/events/alice_cam.rpy:653# translate crowdin cam0_alice_bath_d9457482:
 msgid "[Max_05]{m}Это самый лучший ракурс, чтобы понаблюдать за тем, как Алиса принимает ванну! Заглядение...{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Questa è la migliore angolazione per vedere Alice fare il bagno! Uno spettacolo da vedere...{/m}"
 
 # game/events/alice_cam.rpy:660# translate crowdin cam1_alice_bath_d245ef91:
 msgid "[Max_09]{m}Алисы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Alice non può essere vista attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 # game/events/alice_cam.rpy:684# translate crowdin cam0_alice_blog_lingerie_a9cbbaee:
 msgid "[Max_02]{m}Сегодня Алиса занимается блогом в нижнем белье! Это уже поинтереснее...{/m}"
-msgstr ""
+msgstr "[Max_02]{m}Oggi Alice sta bloggando in mutande! Questo è più interessante...{/m}"
 
 # game/events/alice_cam.rpy:686# translate crowdin cam0_alice_blog_lingerie_62f092f7:
 msgid "[Max_04]{m}Правильно, сестрёнка! Нужно хорошенько попозировать... А если бы ты ещё и раздевалась, вот это было бы шоу!{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Proprio così, sorella! Hai bisogno di una buona posa... E se ti togliessi i vestiti, sarebbe uno spettacolo!{/m}"
 
 # game/events/alice_cam.rpy:695# translate crowdin cam0_alice_after_club_d245ef91:
 msgid "[Max_09]{m}Алисы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Alice non può essere vista attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 # game/events/alice_cam.rpy:697# translate crowdin cam0_alice_after_club_fb8560fe:
 msgid "[Max_09]{m}Алисы не видно через эту камеру...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Alice non può essere vista attraverso questa telecamera...{/m}"
 
 # game/events/alice_cam.rpy:704# translate crowdin cam0_alice_after_club_8af01322:
 msgid "[Max_04]{m}Не спеши, Алиса. Вытирайся помедленнее...{/m}"
-msgstr ""
+msgstr "[Max_04]{m}Prenditi il tuo tempo, Alice. Asciugati lentamente...{/m}"
 
 # game/events/alice_cam.rpy:710# translate crowdin cam0_alice_after_club_d9457482:
 msgid "[Max_05]{m}Это самый лучший ракурс, чтобы понаблюдать за тем, как Алиса принимает ванну! Заглядение...{/m}"
-msgstr ""
+msgstr "[Max_05]{m}Questa è la migliore angolazione per vedere Alice fare il bagno! Uno spettacolo da vedere...{/m}"
 
 # game/events/alice_cam.rpy:723# translate crowdin cam1_alice_after_club_bc1436f8:
 msgid "[Max_01]{m}Алиса вернулась из клуба.{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Alice è tornata dal club.{/m}"
 
 # game/events/alice_cam.rpy:728# translate crowdin cam1_alice_after_club_d245ef91:
 msgid "[Max_09]{m}Алисы не видно через эту камеру... Может посмотреть через другую?{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Alice non può essere vista attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
