@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-11 20:44\n"
+"PO-Revision-Date: 2022-01-15 09:09\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
@@ -50,7 +50,7 @@ msgstr "T-shirt"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Минишортики"
-msgstr ""
+msgstr "Minishorts"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Лиф"
@@ -58,7 +58,7 @@ msgstr "Corpetto"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Плавки"
-msgstr ""
+msgstr "Costumi da bagno"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Лифчик"
@@ -82,7 +82,7 @@ msgstr "Abito in pizzo"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Чулочки"
-msgstr ""
+msgstr "Calze"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Топик"
