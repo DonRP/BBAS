@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-15 09:08\n"
+"PO-Revision-Date: 2022-01-16 09:05\n"
 
 # game/events/eric.rpy:13# translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -2161,19 +2161,19 @@ msgstr ""
 
 # game/events/eric.rpy:1857# translate crowdin start_eric_wallet_cf89d297:
 msgid "[Max_16]Так, а какие у него доказательства? Он же врёт!"
-msgstr ""
+msgstr "[Max_16]Quindi quali prove ha? Sta mentendo!"
 
 # game/events/eric.rpy:1858# translate crowdin start_eric_wallet_eed33a57:
 msgid "[Eric_14]Ну а кто тут у нас ещё девочек разными подарками задаривает? Если прикинуть, то сумма уже приличная набегает... Или хочешь сказать, что ты в интернете столько умудряешься зарабатывать? В таком случае покажи нам, чем ты там занимаешься!"
-msgstr ""
+msgstr "[Eric_14]Beh, chi altro sta dando alle ragazze tutti i tipi di regali? Se ci pensate, sono un sacco di soldi... O mi stai dicendo che fai così tanti soldi su internet? In questo caso, mostraci cosa stai facendo!"
 
 # game/events/eric.rpy:1859# translate crowdin start_eric_wallet_4520c649:
 msgid "[Max_10]Нет, там ничего особенного... Так, просто халтурка."
-msgstr ""
+msgstr "[Max_10]No, non è niente di speciale... È solo un po' di lavoro di fantasia."
 
 # game/events/eric.rpy:1860# translate crowdin start_eric_wallet_75289435:
 msgid "[Eric_09]Мой бумажник пропал ещё давно и именно здесь. Я об этом ничего не говорил, потому что хотел посмотреть, у кого и что начнёт появляться. Так что это ты, Макс! Без вариантов! И сумма, которую я прошу вернуть, названа уже с примерным вычетом того, что ты потратил."
-msgstr ""
+msgstr "[Eric_09]Il mio portafoglio è scomparso molto tempo fa ed è lì che si trova. Non ho detto nulla perché volevo vedere chi e cosa avrebbe iniziato a comparire. Allora sei tu, Max! Impossibile! E l'importo che chiedo indietro è già stato dato con una deduzione approssimativa di quello che avete speso."
 
 # game/events/eric.rpy:1861# translate crowdin start_eric_wallet_424e7e6c:
 msgid "[Max_17]Мам!!! Меня подставляют!"
