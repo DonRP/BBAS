@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-16 09:05\n"
 
 # game/dialogues/kiratalk.rpy:17# translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -2349,11 +2349,11 @@ msgstr ""
 
 # game/dialogues/kiratalk.rpy:382# translate crowdin kira_talk5_cea37e86:
 msgid "[Max_20]{m}Фотоаппарат у меня уже есть. Дело за тем, чтобы повысить мои шансы на что-нибудь особенное от тёти Киры за эту фотосессию. Не прикупить ли для неё какую-нибудь очень сексуальную сорочку?! Я думаю, это будет совсем не лишним... О да...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_20]{m}Ho già la macchina fotografica. Si tratta solo di aumentare le mie possibilità di ottenere qualcosa di speciale dalla zia Kira per questo servizio fotografico. Non dovrei prenderle una camicia molto sexy?! Non credo che sarebbe uno spreco... Oh, sì...{/m}[nointeract]"
 
 # game/dialogues/kiratalk.rpy:384# translate crowdin kira_talk5_fe9ad210:
 msgid "[Max_20]{m}Дело за малым. Осталось где-то взять фотоаппарат и тогда... Да... Интересно, сколько они стоят? А, не важно. Важно, что мне может дать сама тётя Кира! Ради этого стоит попотеть... О да...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_20]{m}È solo una questione di tempo. Non resta che prendere una macchina fotografica da qualche parte e poi... Sì... Mi chiedo quanto costano? Oh, non importa. Ciò che conta è quello che la stessa zia Kira può darmi! Vale la pena di sudare... Oh, sì...{/m}[nointeract]"
 
 # game/dialogues/kiratalk.rpy:1510# translate crowdin kira_about_wallet_6c2cb919:
 msgid "[Kira_14]Как ты, Макс?"
