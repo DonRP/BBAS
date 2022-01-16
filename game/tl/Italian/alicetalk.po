@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-15 09:08\n"
+"PO-Revision-Date: 2022-01-16 09:05\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -8107,27 +8107,27 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:118# translate crowdin wash_dishes_alice_133a9c4b:
 msgid "[Max_11]{m}И почему здесь нет посудомоечной машины...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_11]{m}E perché non c'è una lavastoviglie...{/m}[nointeract]"
 
 # game/dialogues/alicetalk.rpy:342# translate crowdin alice_talk_tv_0f86ff43:
 msgid "[Max_11]{m}По телику сегодня нет ничего интересного... Ни порнушки, ни даже эротики... А было бы забавно посмотреть такое с сестрёнкой...{/m}"
-msgstr ""
+msgstr "[Max_11]{m}Non c'è niente di interessante in Tv oggi... Niente porno, nemmeno erotismo... Sarebbe stato divertente guardarlo con mia sorella...{/m}"
 
 # game/dialogues/alicetalk.rpy:2630# translate crowdin Alice_solar_596d8ab7:
 msgid "[Max_09]{m}Такой крем наверняка можно найти в интернет-магазине. Да и прежде чем пытаться поприставать к сестрёнке таким образом, стоит обзавестись одеждой полегче.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Probabilmente puoi trovare una tale crema in un negozio online. E prima di provare a molestare tua sorella in questo modo, dovresti prendere dei vestiti più leggeri.{/m}"
 
 # game/dialogues/alicetalk.rpy:3256# translate crowdin alice_sorry_gifts_3ad3d6a8:
 msgid "[Max_09]{m}Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non credo che sia una buona idea dare un regalo oggi. Potrebbe destare inutili sospetti... È meglio farlo domani.{/m}"
 
 # game/dialogues/alicetalk.rpy:4350# translate crowdin alice_gift_sweets_3ad3d6a8:
 msgid "[Max_09]{m}Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Non credo che sia una buona idea dare un regalo oggi. Potrebbe destare inutili sospetti... È meglio farlo domani.{/m}"
 
 # game/dialogues/alicetalk.rpy:4663# translate crowdin alice_private_punish_0_smoke_2259f05c:
 msgid "[Alice_03]Всё, я готова. Где это сделаем?"
-msgstr ""
+msgstr "[Alice_03]Ecco, sono pronto. Dove lo facciamo?"
 
 # game/dialogues/alicetalk.rpy:5768# translate crowdin alice_about_wallet_1fc2b461:
 msgid "[Alice_16]Мне это не интересно, Макс!"
