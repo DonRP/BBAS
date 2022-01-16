@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:07\n"
+"PO-Revision-Date: 2022-01-16 09:05\n"
 
 # game/events/other.rpy:11# translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -645,39 +645,39 @@ msgstr "E quasi nulla è visibile..."
 
 # game/events/other.rpy:309# translate crowdin Kira_arrival_end_yard_3af78784:
 msgid "[Max_11]{m}Ну где они все?! Если я начну завтракать без них, то потом все только и будут говорить о моей невоспитанности. Давайте уже быстрее!{/m}"
-msgstr ""
+msgstr "[Max_11]{m}Dove sono tutti?! Se inizio a fare colazione con loro, allora tutti parleranno della mia maleducazione. Dai, sbrigati!{/m}"
 
 # game/events/other.rpy:407# translate crowdin follow_cameras_eric_4a1b4511:
 msgid "[Max_09]{m}Неутомимый Эрик! Вали уже обратно к маме в комнату и засыпай. А то у меня тоже есть дела у Алисы в комнате...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}Instancabile Eric! Torna nella stanza di tua madre e vai a dormire. Ho delle cose da fare anche nella stanza di Alice...{/m}[nointeract]"
 
 # game/events/other.rpy:427# translate crowdin follow_cameras_eric_2da5afe7:
 msgid "[Max_01]{m}Отлично! Пора...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_01]{m}Va bene! È il momento...{/m}[nointeract]"
 
 # game/events/other.rpy:439# translate crowdin frame_eric_60e127e3:
 msgid "[Max_07]{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Oh, sì! La mia sorella maggiore è fantastica... Le curve del suo corpo completamente nudo sono qualcosa che voglio guardare per sempre!{/m}[nointeract]"
 
 # game/events/other.rpy:441# translate crowdin frame_eric_58e230bc:
 msgid "[Max_04]{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_04]{m}Wow! Sono fortunato che Alice dorma con le spalle alla finestra... E non ha idea che sta mostrando il suo culo nudo per me in tutta la sua gloria.{/m}[nointeract]"
 
 # game/events/other.rpy:443# translate crowdin frame_eric_f84d87b6:
 msgid "[Max_01]{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_01]{m}È fantastico! Sorella che dorme con la schiena inarcata, facendo spuntare i suoi seni nudi come due montagnole... Una vista seducente...{/m}[nointeract]"
 
 # game/events/other.rpy:453# translate crowdin frame_eric_c7dc4684:
 msgid "[Max_07]{m}Уж прости, Алиса, ничего личного. Мне позарез нужно показать всем вам, а особенно маме, что Эрик собирается тут с вами всеми делать...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_07]{m}Scusa, Alice, non è niente di personale. Ho davvero bisogno di mostrare a tutti voi, e specialmente a mia madre, quello che Eric sta per fare con tutti voi...{/m}[nointeract]"
 
 # game/events/other.rpy:460# translate crowdin frame_eric_40044bf4:
 msgid "[Max_20]{m}Только бы Алиса не проснулась! Иначе я отправлюсь не в военный лагерь, а сразу на кладбище... Но сейчас лучше думать не об этом, а о том, как сладко я бы проникал своим членом во все её самые интересные дырочки... Д-а-а... Это было бы очень приятно...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_20]{m}Non lasciare che Alice si svegli! Altrimenti non andrei al campo militare, ma direttamente al cimitero... Ma in questo momento preferisco non pensare a questo, ma a quanto dolcemente penetrerei tutti i suoi buchi più interessanti con il mio cazzo... Già... Sarebbe molto bello...{/m}[nointeract]"
 
 # game/events/other.rpy:467# translate crowdin frame_eric_f720febd:
 msgid "[Max_08]{m}Фух! Вроде, не проснулась... Надеюсь, этого хватит, чтобы утром Алиса забила тревогу. Наверняка, она сразу подумает, что это я её чем-то испачкал. И вот тогда-то я и покажу снимки с Эриком, а уже всю картину воедино она сложит сама. Если я, конечно, смогу уйти незамеченным в свою комнату...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_08]{m}Non sembrava svegliarsi... Speriamo che questo sia sufficiente per far suonare la sveglia ad Alice la mattina. Sono sicuro che penserà che sono stato io a sporcarla. Ed è allora che le mostrerò le foto con Eric, e lei stessa metterà insieme l'intero quadro. Se riesco a scappare inosservato nella mia stanza...{/m}[nointeract]"
 
 # game/events/other.rpy:485# translate crowdin showdown_with_eric_c59ea561:
 msgid "[Alice_17]Макс! Ну-ка быстро просыпайся, а не то я тебе всыплю! Признавайся, чем ты меня ночью измазал?"
@@ -1181,11 +1181,11 @@ msgstr ""
 
 # game/events/other.rpy:844# translate crowdin failed_dinner_fe32100d:
 msgid "[Max_14]{m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_14]{m}La mia storia è finita così. Non mi credevano e non volevano più vedermi. Certo, se non fosse stato per Eric, tutto sarebbe andato bene, ma quel bastardo... Ora non c'è niente che gli impedisca di fare quello che vuole fare alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}[nointeract]"
 
 # game/events/other.rpy:851# translate crowdin failed_dinner_79acb07c:
 msgid "[Max_14]{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_14]{m}La mia storia è finita così. Tutta questa ingiustizia mi ha fatto diventare un po' matto e ho quasi imbrattato Eric sul balcone... Quasi... Ora non c'è niente che gli impedisca di fare quello che vuole alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}[nointeract]"
 
 msgid "{i}подставить Эрика{/i}"
 msgstr ""
