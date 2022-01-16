@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-15 09:08\n"
+"PO-Revision-Date: 2022-01-16 09:05\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -7287,23 +7287,23 @@ msgstr ""
 
 # game/dialogues/lisatalk.rpy:784# translate crowdin wash_dishes_lisa_d6fa3950:
 msgid "[Max_00]{m}И чего я этим занимаюсь? Делать нечего, что ли...{/m}"
-msgstr ""
+msgstr "[Max_00]{m}Perché lo faccio? Non ho niente di meglio da fare...{/m}"
 
 # game/dialogues/lisatalk.rpy:786# translate crowdin wash_dishes_lisa_e7cbef78:
 msgid "[Max_00]{m}А с другой стороны - неплохой способ улучшить отношения с Лизой...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_00]{m}D'altra parte, non è un brutto modo per migliorare la tua relazione con Lisa...{/m}[nointeract]"
 
 # game/dialogues/lisatalk.rpy:3420# translate crowdin lisa_ment_kiss_273a78e0:
 msgid "[Max_05][lisa_good_kiss!t]{m}Ухх... Какие гладкие у неё ножки и упругая попка! И она, похоже, не против того, как и где я к ней прикасаюсь...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_05][lisa_good_kiss!t]{m}Ugh... Che gambe lisce che ha e un culo sodo! E non sembra badare a come o dove la tocco...{/m}[nointeract]"
 
 # game/dialogues/lisatalk.rpy:3776# translate crowdin lisa_about_ae_sexed0_4b2e62c5_1:
 msgid "[Max_08]Конечно интересно!"
-msgstr ""
+msgstr "[Max_08]Certo che interessante!"
 
 # game/dialogues/lisatalk.rpy:3799# translate crowdin lisa_about_ae_sexed1_4d3bf8a8:
 msgid "[Max_09]Знаешь, про всех пойманных маньяков и педофилов тоже всегда так говорят, что они казались не такими."
-msgstr ""
+msgstr "[Max_09]Sai, dicono sempre così di tutti i maniaci e i pedofili catturati, che non sembravano così."
 
 # game/dialogues/lisatalk.rpy:4361# translate crowdin lisa_about_ae_sexed5_ac17f18b:
 msgid "[Lisa_01]Тогда я соглашаюсь на продолжение уроков с Эриком. Только тебе придётся теперь по понедельникам, после ужина, где-нибудь \"погулять\"... минимум полчасика."
@@ -7367,23 +7367,23 @@ msgstr "[Max_07]{m}Capisco. Anche se ho una foto di Eric che si masturba alla fi
 
 # game/dialogues/lisatalk.rpy:4579# translate crowdin lisa_about_wallet_7940bf27:
 msgid "[Max_01]{m}Надо думать, на чём можно подловить Эрика. Возможно, у меня получится записать на диктофон наши с ним разговоры? Почему бы и нет! Главное, чтобы он разоткровенничался...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Devo pensare a qualcosa per catturare Eric. Forse posso registrarci per parlare con lui? Non vedo perché no. Finché è aperto su questo...{/m}"
 
 # game/dialogues/lisatalk.rpy:4580# translate crowdin lisa_about_wallet_a2fd0f39:
 msgid "[Max_09]{m}На следующей неделе у меня ещё будет время, чтобы поговорить с Эриком, а пока нужно достать диктофон. Он наверняка должен быть у Лизы в телефоне. Правда, вряд ли она мне его даст. Нужно будет спросить у неё через пару дней...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Avrò tempo di parlare con Eric la prossima settimana, ma nel frattempo devo procurarmi un registratore. Lisa dovrebbe averla nel suo telefono. Non credo che me lo darà, però. Dovrò chiederglielo tra un paio di giorni...{/m}"
 
 # game/dialogues/lisatalk.rpy:4584# translate crowdin lisa_about_wallet_14a14016:
 msgid "[Max_07]{m}Ясно. Без доказательств, что Эрик тот ещё подлец, поддержки от сестёр мне точно не видать. Надо думать, на чём можно подловить Эрика.{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Capisco. Senza la prova che Eric è una canaglia, non avrò alcun sostegno dalle sorelle. Devo capire cosa fare per prendere Eric.{/m}"
 
 # game/dialogues/lisatalk.rpy:4585# translate crowdin lisa_about_wallet_15cf5dd3:
 msgid "[Max_01]{m}Возможно, у меня получится записать на диктофон наши с ним разговоры? Почему бы и нет! Главное, чтобы он разоткровенничался...{/m}"
-msgstr ""
+msgstr "[Max_01]{m}Forse posso metterci io e lui sul registratore per registrare le nostre conversazioni? Non vedo perché no. Finché è aperto su questo...{/m}"
 
 # game/dialogues/lisatalk.rpy:4586# translate crowdin lisa_about_wallet_a2fd0f39_1:
 msgid "[Max_09]{m}На следующей неделе у меня ещё будет время, чтобы поговорить с Эриком, а пока нужно достать диктофон. Он наверняка должен быть у Лизы в телефоне. Правда, вряд ли она мне его даст. Нужно будет спросить у неё через пару дней...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Avrò tempo di parlare con Eric la prossima settimana, ma nel frattempo devo procurarmi un registratore. Lisa dovrebbe averla nel suo telefono. Non credo che me lo darà, però. Dovrò chiederglielo tra un paio di giorni...{/m}"
 
 # game/dialogues/lisatalk.rpy:4599# translate crowdin lisa_asked_phone_2d8609a6:
 msgid "[Lisa_13]Макс, я не хочу с тобой разговаривать."
@@ -7423,11 +7423,11 @@ msgstr ""
 
 # game/dialogues/lisatalk.rpy:4616# translate crowdin lisa_asked_phone_5787d988:
 msgid "[Max_09]{m}Похоже, остаётся полагаться только на себя. С Эриком я могу поговорить только после ужина, пока мама принимает ванну, а Лиза как раз будет мыть посуду. Наверняка, она оставляет телефон в комнате. Нужно будет его найти и останется только разговорить Эрика...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Immagino che dovrò contare solo su me stesso. Posso parlare con Eric solo dopo cena, mentre mamma sta facendo il bagno e Lisa sta lavando i piatti. Sono sicuro che lascia il suo telefono nella sua stanza. Dovremo solo trovarlo e poi dovremo parlare con Eric...{/m}"
 
 # game/dialogues/lisatalk.rpy:4631# translate crowdin lisa_about_stolen_phone_8b94a697:
 msgid "[Lisa_12]Вот ты где! Ты оказывается не только бумажники воруешь, но ещё и телефоны! Ну-ка отдал... Быстро! Или маме рассказать?[nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Eccoti qua! Non state rubando solo i portafogli, ma anche i telefoni! Restituiscilo... Veloce! O dovrei dirlo a mia madre?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:4634# translate crowdin lisa_about_stolen_phone_a7d84a35:
 msgid "[Lisa_13]Это в какой такой Вселенной кража телефона одного человека оправдывает кражу бумажника у другого?"
