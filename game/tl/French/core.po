@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-19 08:35\n"
 
 # game/core/core.rpy:496# translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
@@ -58,11 +58,11 @@ msgstr "[Max_07]{m}je me demande dans quel vêtements tante Kira voudra être ph
 
 # game/core/core.rpy:821# translate crowdin after_load_84f87582:
 msgid "[ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "[ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:827# translate crowdin after_load_e53fbeb7:
 msgid "[_ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "[_ver [_version], conf.ver [config.version]"
 
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nouveau produit est disponible dans la boutique en ligne."
@@ -89,37 +89,37 @@ msgstr "Le spectacle est vraiment fascinant! Peu de gens ont réussi à déshabi
 
 # game/core/core.rpy:556# translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00]{m}Я слишком устал. Надо бы вздремнуть...{/m}"
-msgstr ""
+msgstr "[Max_00]{m}Je suis trop fatigué. On devrait faire une sieste...{/m}"
 
 # game/core/core.rpy:776# translate crowdin night_of_fun_35c4c591:
 msgid "[Max_19]{m}Теперь можно спокойно спать и ничего больше...{/m}"
-msgstr ""
+msgstr "[Max_19]{m}maintenant, vous pouvez dormir paisiblement et rien d'autre...{/m}"
 
 # game/core/core.rpy:813# translate crowdin cam_after_waiting_bfada06d:
 msgid "[Max_09]{m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}je Pense que regarder les caméras maintenant n'est pas la meilleure idée. Il ne suffisait pas que Lisa remarque quelque chose... Peut-être que tu devrais aller sur la véranda. Il ne devrait y avoir personne là-bas maintenant...{/m}[nointeract]"
 
 # game/core/core.rpy:820# translate crowdin cam_after_waiting_44f62349:
 msgid "[Max_09]{m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Lisa est dans la pièce... Et sur la véranda, la place est occupée! Il vaut mieux ne pas prendre de risques et attendre de voir les caméras.{/m}"
 
 # game/core/core.rpy:825# translate crowdin cam_after_waiting_935d8f7d:
 msgid "[Max_09]{m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}Mieux voir les caméras ailleurs! Il ne suffisait pas que Lisa remarque quelque chose...{/m}[nointeract]"
 
 # game/core/core.rpy:837# translate crowdin cam_after_waiting_af0a2821:
 msgid "[Max_09]{m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}Peut-être que vous ne devriez pas regarder les caméras maintenant. Lisa peut se réveiller et remarquer ce que je fais... Peut-être que tu devrais aller sur la véranda. Il ne devrait y avoir personne là-bas maintenant...{/m}[nointeract]"
 
 # game/core/core.rpy:844# translate crowdin cam_after_waiting_44f62349_1:
 msgid "[Max_09]{m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Lisa est dans la pièce... Et sur la véranda, la place est occupée! Il vaut mieux ne pas prendre de risques et attendre de voir les caméras.{/m}"
 
 # game/core/core.rpy:849# translate crowdin cam_after_waiting_24007a63:
 msgid "[Max_09]{m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}Mieux voir les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais...{/m}[nointeract]"
 
 # game/core/core.rpy:901# translate crowdin cam_after_waiting_b8378225:
 msgid "[Max_00]{m}Сейчас здесь ничего не происходит.{/m}"
-msgstr ""
+msgstr "[Max_00]{m}rien ne se passe ici maintenant.{/m}"
 
