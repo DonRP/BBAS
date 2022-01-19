@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-19 08:35\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -637,25 +637,25 @@ msgstr "Maman, je t’ai acheté des vêtements plus légers!"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/02init.rpy:40
 msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
-msgstr ""
+msgstr "{color = # FFBE00}{b}Attention: {/b} Votre influence sur les personnes présentes a diminué!{/color}\n"
 
 #    # game/core/02init.rpy:43
 msgid "{color=#00FF00}{i}Успех!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Succès!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:44
 msgid "{color=#E59400}{i}Провал!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}échec!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:135
 msgid "Как ты после случившегося?"
-msgstr ""
+msgstr "Comment ça va après ça?"
 
 #    # game/core/02init.rpy:135
 msgid "Уже слышала новость, тётя Кира?"
-msgstr ""
+msgstr "Tu as entendu la nouvelle, tante Kira?"
 
 #    # game/core/02init.rpy:135
 msgid "Лиза, ты чего нос повесила?"
-msgstr ""
+msgstr "Lisa, qu'est-ce que tu as fait?"
 
