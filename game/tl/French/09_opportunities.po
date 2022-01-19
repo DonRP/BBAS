@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-19 08:35\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -1971,79 +1971,81 @@ msgstr "J’ai besoin de passer plus de temps avec ma mère. Ses cours de yoga d
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Теперь Эрика нет и я могу спокойно помогать Алисе дальше. Я уже предложил ей сходить куда-нибудь и развеяться, а то Эрик своими планами произвёл на моих сестёр и маму не самые лучшие впечатления. Но Алиса хочет сперва опомниться, а уже потом как-то развлекаться. Остаётся ждать..."
-msgstr ""
+msgstr "Maintenant Eric est parti et je peux aider Alice en toute sécurité. Je lui ai déjà proposé d'aller quelque part et de se détendre, ou Eric avec ses plans a fait sur mes sœurs et ma mère ne sont pas les meilleures impressions. Mais Alice veut d'abord se rappeler, et alors seulement en quelque sorte s'amuser. Reste à attendre..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Кажется, я нашёл ту, которая научит меня целоваться. И это... моя тётя! Это так странно... Ну она точно в этом вопросе понимает достаточно. Да я был бы рад любому учителю, но такой - идеален! Да, тётя Кира сказала, что лучше об этом поговорить в более интимной обстановке. Например, когда она ночью смотрит телик."
-msgstr ""
+msgstr "Je crois que j'en ai trouvé une qui m'apprendra à m'embrasser. Et ça... ma tante! C'est tellement bizarre... Eh bien, elle comprend assez exactement cette question. Oui, je serais heureux de n'importe quel professeur, mais c'est parfait! Oui, tante Kira a dit qu'il valait mieux en parler dans un cadre plus intime. Comme quand elle regarde la télé la nuit."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно помешать Эрику и Лизе во время практических занятий..."
-msgstr ""
+msgstr "Il faut empêcher Eric et Lisa de s'entraîner..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Потребуются успехи в возможности \"Компромат на Эрика\"..."
-msgstr ""
+msgstr "Il faudra réussir dans la possibilité d'un 'Compromis sur Eric'..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я вмешался в практическое занятие Лизы, прежде чем она совершила большую ошибку... Естественно, Эрик предупредил меня, что так просто он это не оставит и у меня будут огромные проблемы. Ну посмотрим, что такого он может сделать..."
-msgstr ""
+msgstr "Je suis intervenu dans la pratique de Lisa avant qu'elle ne commette une grosse erreur... Naturellement, Eric m'a prévenu qu'il ne le laisserait pas si simple et que j'aurais d'énormes problèmes. Voyons ce qu'il peut faire..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "После того, как с Эриком всё разрешилось, я поговорил с Лизой. Она после того, что затевал Эрик, не горит большим желанием активно продолжать своё сексуальное образование. Поэтому я предложил ей смотреть обучающие фильмы и она не против. Теперь нужно будет подыскать что-нибудь такое для неё, не порно, но добротные эротические фильмы. А там глядишь и до порно фильмов недалеко..."
-msgstr ""
+msgstr "Après que tout soit réglé avec Eric, j'ai parlé à Lisa. Elle, après ce qu'Eric a commencé, ne brûle pas un grand désir de poursuivre activement son éducation sexuelle. Je lui ai donc proposé de regarder des films pédagogiques et ça ne lui dérange pas. Maintenant, vous devrez trouver quelque chose pour elle, pas du porno, mais de bons films érotiques. Et là, vous regardez des films porno non loin..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Эта сволочь Эрик, взял и обвинил меня в воровстве его бумажника с деньгами! И якобы именно на эти сворованные деньги я и покупаю все подарки для моей семьи. Дал мне неделю, чтобы я всё ему вернул, иначе меня отправят в военный лагерь. А как обидно, что верят именно Эрику, а не мне.\n"
 "Эрик так же дал понять, что \"уладить\" это у меня не получится, так что дело за компроматом на него. Но сначала нужно поговорить с сёстрами, чтобы понять, насколько они верят Эрику."
-msgstr ""
+msgstr "Ce salaud Eric m'a pris et m'a accusé de voler son portefeuille avec de l'argent! Et apparemment c'est sur cet argent volé que j'achète tous les cadeaux pour ma famille. Il m'a donné une semaine pour tout lui rendre, sinon je serais envoyé dans un camp militaire. C'est dommage qu'ils croient à Eric, pas à moi.\n"
+"Eric a également précisé que je ne pouvais pas \"régler\" cela, donc c'est une affaire de compromis sur lui. Mais il faut d'abord parler aux sœurs pour comprendre à quel point elles croient Eric."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно торопиться! Лучше поговорить с Лизой и Алисой как можно быстрее..."
-msgstr ""
+msgstr "Besoin de se presser! Il vaut mieux parler à Lisa et Alice aussi vite que possible..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Спрашиваете меня об Эрике? Эрик... Эрик... Какой такой Эрик? Не слышал ни о каком Эрике... Кажется, его и не было никогда. Даже вспоминать не буду! Но что мне запомнилось, так это Алиса в гневе. У меня даже привстал на такое..."
-msgstr ""
+msgstr "Vous me demandez pour Eric? Eric... Eric... Qui est Eric? Je n'ai pas entendu parler d'Eric... Je crois qu'il n'a jamais été là. Je ne me souviendrai même pas! Mais ce dont je me souviens, c'est Alice en colère. J'ai même fait ça..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Или же Эрик ещё может вернуться? Как знать..."
-msgstr ""
+msgstr "Ou Eric pourrait-il encore revenir? Qui sait..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Спрашиваете меня об Эрике? Эрик... Эрик... Какой такой Эрик? Не слышал ни о каком Эрике... Кажется, его и не было никогда. Даже вспоминать не буду! Но что мне запомнилось, так это Лиза в гневе. Вроде хотела порвать Эрика, а сама за меня в итоге пряталась..."
-msgstr ""
+msgstr "Vous me demandez pour Eric? Eric... Eric... Qui est Eric? Je n'ai pas entendu parler d'Eric... Je crois qu'il n'a jamais été là. Je ne me souviendrai même pas! Mais ce dont je me souviens, c'est que Lisa est en colère. Je voulais casser Eric, et je me suis cachée pour moi..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Пришло время действовать! Одного снимка мало, чтобы убедить всех в том, что Эрик тот ещё мудак, а заманивать его его в комнату к Алисе нет времени. Вот бы мне разговорить Эрика и записать его мерзкие признания на диктофон! У Лизы на телефоне наверняка должен быть диктофон, но нужно подождать пару дней, чтобы она остыла. Тогда я его и попрошу на время..."
-msgstr ""
+msgstr "Il est temps d'agir! Une seule photo ne suffit pas à convaincre tout le monde qu'Eric est un connard, et il n'y a pas le temps de l'attirer dans la chambre d'Alice. J'aimerais parler à Eric et enregistrer ses viles aveux sur l'enregistreur. Lisa doit avoir un enregistreur sur son téléphone, mais il faut attendre quelques jours pour qu'elle refroidisse. Je lui demanderai un moment..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно будет подождать и попросить у Лизы на время её телефон. Стоит попробовать начиная с субботы..."
-msgstr ""
+msgstr "Il faudra attendre et demander à Lisa pour le temps de son téléphone. Cela vaut la peine d'essayer à partir de samedi..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Пришло время действовать! Без доказательств я никак не смогу убедить всех в том, что Эрик тот ещё мудак. Вот бы мне разговорить его... и записать его мерзкие признания на диктофон! У Лизы на телефоне наверняка должен быть диктофон, но нужно подождать пару дней, чтобы она остыла. Тогда я его и попрошу на время..."
-msgstr ""
+msgstr "Il est temps d'agir! Sans preuve, je ne peux pas convaincre tout le monde qu'Eric est un connard. J'aimerais lui parler... et enregistrer ses viles aveux sur l'enregistreur! Lisa doit avoir un enregistreur sur son téléphone, mais il faut attendre quelques jours pour qu'elle refroidisse. Je lui demanderai un moment..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Пришло время действовать! Снимки у меня есть, но хорошо бы перетянуть кого-нибудь из сестёр на свою сторону. Раз Эрик любит подрочить на Алису, то я знаю, как усилить эффект от компромата.\n\n"
 "Нужно проследить за Эриком и убедиться, что он сделал все свои мерзкие ночные дела, а после немного \"испачкать\" Алису, будто бы это Эрик. С учётом обстоятельств, она точно прибежит с утра именно ко мне. Надеюсь, я успею показать ей снимки до того, как она меня убьёт!"
-msgstr ""
+msgstr "Il est temps d'agir! J'ai des photos, mais il serait bon de tirer l'une des sœurs de mon côté. Si Eric aime se branler sur Alice, je sais comment améliorer l'effet du compromis.\n\n"
+"vous Devez suivre Eric et vous assurer qu'il a fait toutes ses sales affaires nocturnes, et après avoir un peu \"taché\" Alice, comme si c'était Eric. Compte tenu des circonstances, elle va sûrement venir à moi dès demain matin. J'espère pouvoir lui montrer les photos avant qu'elle ne me tue!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно убедиться, что Эрик вернулся в комнату мамы после ночных похождений и подставить его, зайдя к спящей Алисе в комнату..."
-msgstr ""
+msgstr "Il faut s'assurer qu'Eric est de retour dans la chambre de sa mère après les aventures nocturnes et le piéger en allant voir Alice endormie dans la chambre..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лиза ни за что не хочет давать мне свой телефон! Придётся взять его, пока она будет мыть посуду после ужина. Думаю, у меня получится найти её телефон в комнате и быстренько разговорить Эрика, пока она не обнаружила пропажу и подняла шум."
-msgstr ""
+msgstr "Lisa ne veut pas me donner son téléphone! Je vais devoir le prendre pendant qu'elle fait la vaisselle après le dîner. Je pense que je pourrais trouver son téléphone dans la chambre et parler à Eric rapidement jusqu'à ce qu'elle Découvre la disparition et fasse un bruit."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно найти телефон Лизы в комнате, пока она моет посуду и сразу же идти к Эрику. Другой возможности больше может не представиться..."
-msgstr ""
+msgstr "Nous devons trouver le téléphone de Lisa dans la chambre pendant qu'elle fait la vaisselle et aller immédiatement à Eric. Une autre possibilité peut ne plus se présenter..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Эрик повержен! Мне удалось вывести его на чистую воду и теперь мы наконец-то заживём, как раньше. Даже ещё лучше! Но для начала всем нужно время, чтобы отойти от правды о нём."
-msgstr ""
+msgstr "Eric est vaincu! J'ai réussi à le mettre à l'eau claire et maintenant nous allons enfin guérir comme avant. Même mieux encore! Mais pour commencer, tout le monde a besoin de temps pour s'éloigner de la vérité à son sujet."
 
