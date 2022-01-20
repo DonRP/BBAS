@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-20 08:32\n"
 
 # game/dialogues/anntalk.rpy:17# translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -42,7 +42,7 @@ msgstr "[Max_00]Ok, maman..."
 
 # game/dialogues/anntalk.rpy:83# translate crowdin ann_ask_money_cf2d6379:
 msgid "[При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
-msgstr ""
+msgstr "[Dans le cours normal des choses, cette ligne n'aurait pas dû apparaître. Informez le développeur."
 
 # game/dialogues/anntalk.rpy:87# translate crowdin ann_ask_money_59ac536a:
 msgid "[Ann_05]Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста...[nointeract]"
@@ -1585,24 +1585,24 @@ msgstr "Maman, ta serviette glisse..."
 
 # game/dialogues/anntalk.rpy:22# translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
-msgstr ""
+msgstr "[Ann_17]va-t'en, Max, On n'a rien à dire jusqu'à ce que tu récupères l'argent d'Eric et que tu t'excuses à lui et à nous tous![nointeract]"
 
 # game/dialogues/anntalk.rpy:1466# translate crowdin ann_about_wallet_90e1fc67:
 msgid "[Ann_16]Ты вернул Эрику бумажник и деньги?"
-msgstr ""
+msgstr "[Ann_16]Tu as rendu le portefeuille et l'argent à Eric?"
 
 # game/dialogues/anntalk.rpy:1467# translate crowdin ann_about_wallet_0b099756:
 msgid "[Max_09]Да не крал я у него ничего! Он всех обманывает!"
-msgstr ""
+msgstr "[Max_09]Je ne lui ai rien volé! Il trompe tout le monde!"
 
 # game/dialogues/anntalk.rpy:1468# translate crowdin ann_about_wallet_33bee417:
 msgid "[Ann_18]Пока не вернёшь, даже не подходи ко мне, Макс! Всё настроение от тебя только портится. А уж как мне перед Эриком стыдно..."
-msgstr ""
+msgstr "[Ann_18]Jusqu'à ce que tu me ramènes, ne m'approche même pas, Max! Tu ne fais que gâcher l'ambiance. J'ai honte d'Eric..."
 
 # game/dialogues/anntalk.rpy:1469# translate crowdin ann_about_wallet_a7053e1b:
 msgid "[Max_11]Как скажешь, мам."
-msgstr ""
+msgstr "[Max_11]Comme tu veux, maman."
 
 msgid "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
-msgstr ""
+msgstr "{b}Alerte: {/B} Anna ne veut plus interagir avec Max"
 
