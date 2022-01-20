@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-20 08:32\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -2778,7 +2778,7 @@ msgstr "[Alice_07]Comme c’est agréable... Max, tu fais des progrès ! J’aim
 
 # game/dialogues/alicetalk.rpy:2888# translate crowdin massage_sunscreen_ass_e47a4169:
 msgid "[попка"
-msgstr ""
+msgstr "[cul"
 
 # game/dialogues/alicetalk.rpy:2909# translate crowdin massage_sunscreen_hips_cac75cfe:
 msgid "[Alice_06]Макс, а ты куда это там полез так неожиданно?! Лучше сосредоточься на всём остальном, а туда не лезь..."
@@ -8103,224 +8103,224 @@ msgstr "{i}glisser un sédatif dans l'assiette d'Eric{/i}"
 
 # game/dialogues/alicetalk.rpy:36# translate crowdin AliceTalkStart_429c2af4:
 msgid "[Alice_17]Тебя выпнуть, Макс, или сам отвалишь?[nointeract]"
-msgstr ""
+msgstr "[Alice_17]tu Vas te faire virer, Max, Ou tu vas te faire virer?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:118# translate crowdin wash_dishes_alice_133a9c4b:
 msgid "[Max_11]{m}И почему здесь нет посудомоечной машины...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_11]{m}et pourquoi il n'y a pas de lave-vaisselle ici...{/m}[nointeract]"
 
 # game/dialogues/alicetalk.rpy:342# translate crowdin alice_talk_tv_0f86ff43:
 msgid "[Max_11]{m}По телику сегодня нет ничего интересного... Ни порнушки, ни даже эротики... А было бы забавно посмотреть такое с сестрёнкой...{/m}"
-msgstr ""
+msgstr "[Max_11]{m}À la télévision aujourd'hui, il n'y a rien d'intéressant... Pas de porno, pas même de l'érotisme... Ce serait marrant de voir ça avec ma soeur...{/m}"
 
 # game/dialogues/alicetalk.rpy:2630# translate crowdin Alice_solar_596d8ab7:
 msgid "[Max_09]{m}Такой крем наверняка можно найти в интернет-магазине. Да и прежде чем пытаться поприставать к сестрёнке таким образом, стоит обзавестись одеждой полегче.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}une telle crème peut certainement être trouvée dans la boutique en ligne. Oui, et avant d'essayer de se présenter à sa soeur de cette façon, il vaut la peine d'obtenir des vêtements plus faciles.{/m}"
 
 # game/dialogues/alicetalk.rpy:3256# translate crowdin alice_sorry_gifts_3ad3d6a8:
 msgid "[Max_09]{m}Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}je Pense que vous ne devriez pas donner un délicieux aujourd'hui. Cela peut causer des soupçons inutiles... Il vaut mieux le faire demain.{/m}"
 
 # game/dialogues/alicetalk.rpy:4350# translate crowdin alice_gift_sweets_3ad3d6a8:
 msgid "[Max_09]{m}Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра.{/m}"
-msgstr ""
+msgstr "[Max_09]{m}je Pense que vous ne devriez pas donner un délicieux aujourd'hui. Cela peut causer des soupçons inutiles... Il vaut mieux le faire demain.{/m}"
 
 # game/dialogues/alicetalk.rpy:4663# translate crowdin alice_private_punish_0_smoke_2259f05c:
 msgid "[Alice_03]Всё, я готова. Где это сделаем?"
-msgstr ""
+msgstr "[Alice_03]Tout le monde, je suis prête. Où est-ce qu'on fait ça?"
 
 # game/dialogues/alicetalk.rpy:5768# translate crowdin alice_about_wallet_1fc2b461:
 msgid "[Alice_16]Мне это не интересно, Макс!"
-msgstr ""
+msgstr "[Alice_16]je ne suis pas intéressé par ça, Max!"
 
 # game/dialogues/alicetalk.rpy:5769# translate crowdin alice_about_wallet_7fa286a3:
 msgid "[Max_07]Э-э-э... Что не интересно?"
-msgstr ""
+msgstr "[Max_07]e-E-e... Ce qui n'est pas intéressant?"
 
 # game/dialogues/alicetalk.rpy:5770# translate crowdin alice_about_wallet_b528c3ce:
 msgid "[Alice_12]Всё, с чем бы ты не пришёл. Просто уходи... Или врежу!"
-msgstr ""
+msgstr "[Alice_12]Tout ce que tu as à faire. Tout simplement disparaître... Ou je vais frapper!"
 
 # game/dialogues/alicetalk.rpy:5771# translate crowdin alice_about_wallet_d249d4b4:
 msgid "[Max_09]Ты что, поверила Эрику?!"
-msgstr ""
+msgstr "[Max_09]tu as cru Eric?!"
 
 # game/dialogues/alicetalk.rpy:5772# translate crowdin alice_about_wallet_1310eef7:
 msgid "[Alice_17]А ты ещё здесь?!"
-msgstr ""
+msgstr "[Alice_17]et tu es toujours là?!"
 
 # game/dialogues/alicetalk.rpy:5773# translate crowdin alice_about_wallet_3deff628:
 msgid "[Max_10]Ладно. Всё понял. Ухожу."
-msgstr ""
+msgstr "[Max_10]Ok. Tout compris. S'en aller."
 
 # game/dialogues/alicetalk.rpy:5785# translate crowdin smoke_after_wallet_aa2d0826:
 msgid "[Alice_12]Нечего на меня тут глазеть, Макс! Иди отсюда. Или тебя поджопником ускорить?"
-msgstr ""
+msgstr "[Alice_12]il n'y a Rien à me regarder ici, Max! Sors d'ici. Ou tu es un pyromane?"
 
 # game/dialogues/alicetalk.rpy:5786# translate crowdin smoke_after_wallet_8a0bacb0:
 msgid "[Max_09]Ты, конечно, можешь это сделать... Но, знаешь кто вечером узнает, что ты продолжаешь курить?"
-msgstr ""
+msgstr "[Max_09]tu peux le faire... Mais tu sais qui saura ce soir que tu continues à fumer?"
 
 # game/dialogues/alicetalk.rpy:5787# translate crowdin smoke_after_wallet_b149a7c2:
 msgid "[Alice_16]Не вздумай говорить маме!"
-msgstr ""
+msgstr "[Alice_16]ne dis pas à maman!"
 
 # game/dialogues/alicetalk.rpy:5788# translate crowdin smoke_after_wallet_4b38b441:
 msgid "[Max_07]Запросто! Ты спишь голая, а я молчу. И всем хорошо..."
-msgstr ""
+msgstr "[Max_07]Facile! Tu dors nue et je me tais. Et tout le monde va bien..."
 
 # game/dialogues/alicetalk.rpy:5789# translate crowdin smoke_after_wallet_02e0beca:
 msgid "[Alice_17]Говнюк ты, Макс! Не знаю, зачем тебе, извращенцу, это нужно, но лучше я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
-msgstr ""
+msgstr "[Alice_17]espèce d'Enfoiré, Max! Je ne sais pas pourquoi tu as besoin de ça, mais je préfère accepter ce truc... Jusqu'à ce que tu demandes autre chose."
 
 # game/dialogues/alicetalk.rpy:5790# translate crowdin smoke_after_wallet_b5ff10cd:
 msgid "[Max_01]Вот и отлично!"
-msgstr ""
+msgstr "[Max_01]c'est génial!"
 
 # game/dialogues/alicetalk.rpy:5792# translate crowdin smoke_after_wallet_40b817ec:
 msgid "[Alice_13]А теперь вали отсюда. Дай спокойно покурить![nointeract]"
-msgstr ""
+msgstr "[Alice_13]maintenant dégage. Laisse-moi fumer![nointeract]"
 
 # game/dialogues/alicetalk.rpy:5802# translate crowdin smoke_after_wallet_429c2af4:
 msgid "[Alice_17]Тебя выпнуть, Макс, или сам отвалишь?[nointeract]"
-msgstr ""
+msgstr "[Alice_17]tu Vas te faire virer, Max, Ou tu vas te faire virer?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:5814# translate crowdin alice_about_showdown_b4204cf5:
 msgid "[Alice_12]Даже не знаю, как тебе сказать... Узнать, что кто-то приходит ночью и дрочит на тебя - довольно мерзко!"
-msgstr ""
+msgstr "[Alice_12]je ne sais Même pas comment te le dire... Apprendre que quelqu'un vient la nuit et se branle sur vous est assez dégoûtant!"
 
 # game/dialogues/alicetalk.rpy:5815# translate crowdin alice_about_showdown_ec63fe69:
 msgid "[Max_07]Я как раз хотел поговорить с тобой об этом."
-msgstr ""
+msgstr "[Max_07]je voulais juste te parler de ça."
 
 # game/dialogues/alicetalk.rpy:5816# translate crowdin alice_about_showdown_aa4e88a7:
 msgid "[Alice_13]Макс, ты меня прости, но сейчас я не настроена для разговора по-душам."
-msgstr ""
+msgstr "[Alice_13]Max, je suis désolée, Mais je ne suis pas prête à parler à cœur."
 
 # game/dialogues/alicetalk.rpy:5817# translate crowdin alice_about_showdown_26d0557c:
 msgid "[Max_10]Понимаю. Но ты ведь не злишься за эти снимки?"
-msgstr ""
+msgstr "[Max_10]. Mais tu n'es pas en colère pour ces photos, n'est-ce pas?"
 
 # game/dialogues/alicetalk.rpy:5818# translate crowdin alice_about_showdown_a7037251:
 msgid "[Alice_16]Во-первых, удали их! А то я там голая... А во-вторых, злюсь. Я так понимаю, ты поэтому уговорил меня спать голой? Чтобы Эрика было на чём подловить..."
-msgstr ""
+msgstr "[Alice_16]tout d'abord, supprimez-les! Je suis nue... Et Deuxièmement, je suis en colère. C'est pour ça que tu m'as persuadé de dormir nue? Pour qu'Erica ait quelque chose à attraper..."
 
 # game/dialogues/alicetalk.rpy:5819# translate crowdin alice_about_showdown_dfaf5e9e:
 msgid "[Max_09]Да, всё верно. Вы же меня не слушали. Вот и приходилось его заманивать к тебе в комнату."
-msgstr ""
+msgstr "[Max_09]Oui, c'est vrai. Vous ne m'avez pas écouté. J'ai dû l'attirer dans ta chambre."
 
 # game/dialogues/alicetalk.rpy:5820# translate crowdin alice_about_showdown_19cc68f2:
 msgid "[Alice_06]А если бы он меня взял и... сделал бы что-нибудь со мной?"
-msgstr ""
+msgstr "[Alice_06]et s'il m'avait pris et... tu m'aurais fait quelque chose?"
 
 # game/dialogues/alicetalk.rpy:5821# translate crowdin alice_about_showdown_5fce1d0b:
 msgid "[Max_02]Так он и сделал. Из-за этого ты ко мне и прибежала."
-msgstr ""
+msgstr "[Max_02]c'est ce qu'il a fait. C'est pour ça que tu es venue me voir."
 
 # game/dialogues/alicetalk.rpy:5822# translate crowdin alice_about_showdown_9a5ab198:
 msgid "[Alice_17]Макс! Ещё раз так пошутишь и я тебе врежу!"
-msgstr ""
+msgstr "[Alice_17]Max! Si tu plaisantes encore, je te frapperai!"
 
 # game/dialogues/alicetalk.rpy:5823# translate crowdin alice_about_showdown_30688f5a:
 msgid "[Max_04]Да ничего бы он такого дерзкого не сделал. Он же не в конец придурок. К тому же, если бы он распоясался, то я бы вмешался."
-msgstr ""
+msgstr "[Max_04]Il ne ferait rien d'aussi audacieux. C'est pas un crétin. En plus, s'il s'était défait, je serais intervenu."
 
 # game/dialogues/alicetalk.rpy:5824# translate crowdin alice_about_showdown_a6730d12:
 msgid "[Alice_12]И Макс, узнаю, что ты фотографируешь меня в душе или когда я сплю... Ты покойник..."
-msgstr ""
+msgstr "[Alice_12]et Max, je Découvre que tu me prends sous la douche ou quand je dors... Vous êtes un homme mort..."
 
 # game/dialogues/alicetalk.rpy:5825# translate crowdin alice_about_showdown_2c04e40c:
 msgid "[Max_03]О! Хорошую мысль ты подкинула, спасибо."
-msgstr ""
+msgstr "[Max_03]Oh! C'est une bonne idée, merci."
 
 # game/dialogues/alicetalk.rpy:5826# translate crowdin alice_about_showdown_a07f89f9:
 msgid "[Alice_17]Макс, я не шутила!"
-msgstr ""
+msgstr "[Alice_17]Max, Je ne plaisantais pas!"
 
 # game/dialogues/alicetalk.rpy:5827# translate crowdin alice_about_showdown_7ae816d6:
 msgid "[Max_07]Да ладно тебе. Какая-то ты напряжённая, моих шуток не понимаешь. Давай я тебя отвлеку чем-нибудь? Например, сходим и выберем тебе какое-нибудь нижнее бельё новенькое. Да и фоточки с ним можно будет красивые сделать. Как тебе?"
-msgstr ""
+msgstr "[Max_07]Allez. Tu es stressée, tu ne comprends pas mes blagues. Je peux te distraire? Par exemple, nous allons et sélectionnons pour toi sur n'importe quel lingerie de nouveau. Et les photos avec lui peuvent être belles à faire. Comme toi?"
 
 # game/dialogues/alicetalk.rpy:5831# translate crowdin alice_about_showdown_33337c7f:
 msgid "[Alice_12]Даже не знаю, как тебе сказать... Узнать, что Эрик хотел сделать с нашей Лизой - довольно мерзко!"
-msgstr ""
+msgstr "[Alice_12]je ne sais Même pas comment te le dire... Découvrir ce qu'Eric voulait faire à Lisa , c'est dégueulasse!"
 
 # game/dialogues/alicetalk.rpy:5832# translate crowdin alice_about_showdown_ec63fe69_1:
 msgid "[Max_07]Я как раз хотел поговорить с тобой об этом."
-msgstr ""
+msgstr "[Max_07]je voulais juste te parler de ça."
 
 # game/dialogues/alicetalk.rpy:5833# translate crowdin alice_about_showdown_8bb1d706:
 msgid "[Alice_06]Ты молодец, Макс, что показал, как мы ошибались в Эрике. Уж не знаю, что бы тут без тебя произошло."
-msgstr ""
+msgstr "[Alice_06]tu as bien fait, Max, De montrer à quel point nous avions tort à propos d'Eric. Je ne sais pas ce qui se serait passé sans toi."
 
 # game/dialogues/alicetalk.rpy:5837# translate crowdin alice_about_showdown_c3bbc5ac:
 msgid "[Max_09]Нууу... Я вот не знаю, показать тебе кое-что или нет."
-msgstr ""
+msgstr "[Max_09]... Je ne sais pas si je peux te montrer quelque chose."
 
 # game/dialogues/alicetalk.rpy:5838# translate crowdin alice_about_showdown_f055e52d:
 msgid "[Alice_17]Если ты сейчас высунешь свою пипирку, то я тебе врежу!"
-msgstr ""
+msgstr "[Alice_17]Si tu sors ta pipirka maintenant, je vais te frapper!"
 
 # game/dialogues/alicetalk.rpy:5839# translate crowdin alice_about_showdown_a83bcdd4:
 msgid "[Max_00]Не это. Дело в том, что аудиозапись разговора с Эриком, это не всё, что у меня есть. У меня ещё есть фотография, как он дрочит на тебя, пока ты спишь."
-msgstr ""
+msgstr "[Max_00]Pas ça. Le fait est que l'enregistrement audio de la conversation avec Eric n'est pas tout ce que j'ai. J'ai encore une photo de lui en train de te branler pendant que tu dors."
 
 # game/dialogues/alicetalk.rpy:5840# translate crowdin alice_about_showdown_ae73099f:
 msgid "[Alice_14]Макс, ты сейчас серьёзно?!"
-msgstr ""
+msgstr "[Alice_14]Max, tu es sérieux maintenant?!"
 
 # game/dialogues/alicetalk.rpy:5841# translate crowdin alice_about_showdown_52b43e07:
 msgid "[Max_15]Ага. Я как-то заметил его случайно со двора, ночью. Поближе подобрался и сфотографировал, как он стоит у твоего окна и шишку свою натирает."
-msgstr ""
+msgstr "[Max_15]. Je l'ai vu par hasard dans la cour, la nuit. Je me suis rapproché et j'ai photographié comment il se tenait près de ta fenêtre et frottait sa bosse."
 
 # game/dialogues/alicetalk.rpy:5842# translate crowdin alice_about_showdown_95f24655:
 msgid "[Alice_12]Фу, Макс! Ты зачем мне это обрисовал. У меня теперь эта картина перед глазами стоит!"
-msgstr ""
+msgstr "[Alice_12]Fu, Max! Pourquoi m'as-tu décrit ça? J'ai maintenant cette image devant mes yeux!"
 
 # game/dialogues/alicetalk.rpy:5843# translate crowdin alice_about_showdown_3e6bc570:
 msgid "[Max_09]Посмотреть снимок хочешь?"
-msgstr ""
+msgstr "[Max_09]tu veux Voir une photo?"
 
 # game/dialogues/alicetalk.rpy:5844# translate crowdin alice_about_showdown_ebf19ff3:
 msgid "[Alice_15]Нет, конечно, сдурел что ли! Нашёл, что предлагать."
-msgstr ""
+msgstr "[Alice_15]Non, bien sûr, il est fou! J'ai trouvé quelque chose à offrir."
 
 # game/dialogues/alicetalk.rpy:5848# translate crowdin alice_about_showdown_54999ed3:
 msgid "[Max_09]Ничего хорошего. Ты знаешь не всё. Я например видел, как Эрик дрочит на тебя, пока ты спишь."
-msgstr ""
+msgstr "[Max_09]Rien de bon. Tu ne sais pas tout. J'ai vu Eric te branler pendant que tu dors."
 
 # game/dialogues/alicetalk.rpy:5849# translate crowdin alice_about_showdown_ae73099f_1:
 msgid "[Alice_14]Макс, ты сейчас серьёзно?!"
-msgstr ""
+msgstr "[Alice_14]Max, tu es sérieux maintenant?!"
 
 # game/dialogues/alicetalk.rpy:5850# translate crowdin alice_about_showdown_02bbd577:
 msgid "[Max_15]Ага. Я как-то заметил его случайно со двора, ночью. Хотел сфотографировать, но не успел. Он прямо у твоего окна стоял и шишку свою натирал."
-msgstr ""
+msgstr "[Max_15]. Je l'ai vu par hasard dans la cour, la nuit. Je voulais prendre une photo, mais je n'ai pas eu le temps. Il se tenait juste devant ta fenêtre et frottait sa bosse."
 
 # game/dialogues/alicetalk.rpy:5851# translate crowdin alice_about_showdown_95f24655_1:
 msgid "[Alice_12]Фу, Макс! Ты зачем мне это обрисовал. У меня теперь эта картина перед глазами стоит!"
-msgstr ""
+msgstr "[Alice_12]Fu, Max! Pourquoi m'as-tu décrit ça? J'ai maintenant cette image devant mes yeux!"
 
 # game/dialogues/alicetalk.rpy:5852# translate crowdin alice_about_showdown_d48585fb:
 msgid "[Max_09]Был бы снимок - показал бы."
-msgstr ""
+msgstr "[Max_09]Serait une photo-montrerait."
 
 # game/dialogues/alicetalk.rpy:5853# translate crowdin alice_about_showdown_db96b47f:
 msgid "[Alice_15]Оно мне надо, такое видеть?! Сдурел что ли!"
-msgstr ""
+msgstr "[Alice_15]je veux voir ça?! Bien sûr que si!"
 
 # game/dialogues/alicetalk.rpy:5855# translate crowdin alice_about_showdown_4125882f:
 msgid "[Max_07]Да ладно тебе. Какая-то ты напряжённая. Давай я тебя отвлеку чем-нибудь? Например, сходим и выберем тебе какое-нибудь нижнее бельё новенькое. Да и фоточки с ним можно будет красивые сделать. Как тебе?"
-msgstr ""
+msgstr "[Max_07]Allez. Tu es tendue. Je peux te distraire? Par exemple, nous allons et sélectionnons pour toi sur n'importe quel lingerie de nouveau. Et les photos avec lui peuvent être belles à faire. Comme toi?"
 
 # game/dialogues/alicetalk.rpy:5857# translate crowdin alice_about_showdown_fce06d05:
 msgid "[Alice_06]Звучит очень заманчиво, но я пока ещё не готова. Мне нужно время, чтобы отойти от того, что делал Эрик. Фууу..."
-msgstr ""
+msgstr "[Alice_06]Semble très tentant, mais je ne suis pas encore prête. J'ai besoin de temps pour m'éloigner de ce qu'Eric a fait. Fuuuu..."
 
 # game/dialogues/alicetalk.rpy:5858# translate crowdin alice_about_showdown_fd54e914:
 msgid "[Max_01]Конечно. Если что, зови."
-msgstr ""
+msgstr "[Max_01]Bien sûr. Si tu veux, appelle-moi."
 
 msgid "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
-msgstr ""
+msgstr "{b}Alerte: {/b} Alice ne veut plus interagir avec Max"
 
