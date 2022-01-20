@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-20 08:32\n"
 
 # game/dialogues/punishment.rpy:99# translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
-msgstr "[Ann_16]Avant de commencer, quelqu'un mérite d'être puni et tout le monde regardera maintenant..."
+msgstr "[Ann_16]Avant que nous commencions, quelqu'un mérite d'être puni et maintenant tout le monde le verra..."
 
 # game/dialogues/punishment.rpy:119# translate crowdin punishment_5cebd4e9:
 msgid "[Ann_18]Итак, Макс, ты первый..."
@@ -689,25 +689,25 @@ msgstr "Alors, Alice, tu as honte? Tu te tais? Penses à ce que tu fais pendant 
 
 # game/dialogues/punishment.rpy:308# translate crowdin punishment_max_pun_reson_e027e673:
 msgid "[Max_14][impact_reduced!t]{m}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/m}"
-msgstr ""
+msgstr "[Max_14][impact_reduced!t]{m}Maman me punit juste devant mes sœurs... C'est tellement humiliant...{/m}"
 
 # game/dialogues/punishment.rpy:378# translate crowdin punishment_max_pun_reson_a77a4336:
 msgid "[Max_14][impact_reduced!t]{m}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/m}"
-msgstr ""
+msgstr "[Max_14][impact_reduced!t]{m}Crêpe... Tout le monde regarde avec tant d'intérêt comment je suis puni... C'est tellement humiliant...{/m}"
 
 # game/dialogues/punishment.rpy:519# translate crowdin punishment_lisa_5e582e44:
 msgid "[Ann_12]Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... А ты, Лиза, не стой столбом, шевелись давай..."
-msgstr ""
+msgstr "[Ann_12]Non, Max! Et dis merci de ne pas te punir avec elle... Et toi, Lisa, ne reste pas debout, bouge..."
 
 # game/dialogues/punishment.rpy:696# translate crowdin punishment_alice_23976523:
 msgid "[Max_07]{m}Посмотрим, станет ли Алиса посговорчивей, если я перестану вмешиваться... Главное, успеть поговорить с ней, пока ей будет ещё больно сидеть!{/m}"
-msgstr ""
+msgstr "[Max_07]{m}Voyons si Alice sera plus bavarde si j'arrête d'intervenir... L'essentiel est d'avoir le temps de lui parler pendant qu'elle souffre encore!{/m}"
 
 # game/dialogues/punishment.rpy:712# translate crowdin punishment_alice_3eaef6e3:
 msgid "[Ann_12]Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... Алиса, пошевеливайся..."
-msgstr ""
+msgstr "[Ann_12]Non, Max! Et dis merci de ne pas te punir avec elle... Alice, dépêche-toi..."
 
 # game/dialogues/punishment.rpy:720# translate crowdin punishment_alice_f34a7f97:
 msgid "[Max_09]{m}Ага, как же, не забудет она... Хм... Может, стоит попросить у неё что-нибудь, чтобы она не думала, что моя доброта безвозмездна?! И сделать это нужно сегодня, пока она ещё под впечатлением...{/m}"
-msgstr ""
+msgstr "[Max_09]{m}Ouais, eh bien, elle n'oubliera pas... Hmmm... Je devrais peut-être lui demander quelque chose pour qu'elle ne pense pas que ma gentillesse est gratuite ! Et cela doit être fait aujourd'hui, alors qu'elle est encore sous l'impression d'avoir échapper à la punition...{/m}"
 
