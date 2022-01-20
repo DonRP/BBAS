@@ -10,141 +10,141 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:48\n"
+"PO-Revision-Date: 2022-01-20 08:32\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
-msgstr ""
+msgstr "{color =[lime]} le réglage détaillé de l'un des costumes %s est Ouvert dans le menu principal {/color}"
 
 #    # game/core/10_main_menu.rpy:287
 msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-msgstr ""
+msgstr "{color=#00FF00}nouveau costume %s Ouvert pour le menu principal {/color}"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шорты"
-msgstr ""
+msgstr "Short"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусы"
-msgstr ""
+msgstr "Culotte"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шапка"
-msgstr ""
+msgstr "Chapeau"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Борода"
-msgstr ""
+msgstr "Barbe"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусы #1"
-msgstr ""
+msgstr "Culotte #1"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусы #2"
-msgstr ""
+msgstr "Culotte #2"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Маечка"
-msgstr ""
+msgstr "T-shirt"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Минишортики"
-msgstr ""
+msgstr "Mini-Short"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Лиф"
-msgstr ""
+msgstr "Corsage"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Плавки"
-msgstr ""
+msgstr "Slip"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Лифчик"
-msgstr ""
+msgstr "Soutien-gorge"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Трусики"
-msgstr ""
+msgstr "Culotte"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шапочка"
-msgstr ""
+msgstr "Bonnet"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Бант на шею"
-msgstr ""
+msgstr "Arc autour du cou"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Кружевное платье"
-msgstr ""
+msgstr "Robe en dentelle"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Чулочки"
-msgstr ""
+msgstr "Bas"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Топик"
-msgstr ""
+msgstr "Sujet"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шортики"
-msgstr ""
+msgstr "Short"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шляпка"
-msgstr ""
+msgstr "Casquette"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Бабочка на шею"
-msgstr ""
+msgstr "Papillon autour du cou"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Мишура на груди"
-msgstr ""
+msgstr "Guirlande sur la poitrine"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Минилиф"
-msgstr ""
+msgstr "Minilifter"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Миниплавки"
-msgstr ""
+msgstr "Mini-flotteurs"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Сорочка"
-msgstr ""
+msgstr "Chemise"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Свитер без рукавов"
-msgstr ""
+msgstr "Pull sans manche"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Откровенный корсет"
-msgstr ""
+msgstr "Corset candide"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Браслетики на запястья"
-msgstr ""
+msgstr "Bracelets de poignet"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Юбочка"
-msgstr ""
+msgstr "Jupe"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Штанишки"
-msgstr ""
+msgstr "Culotte"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Леденец на шею"
-msgstr ""
+msgstr "Sucette sur le cou"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Свитер с рукавами"
-msgstr ""
+msgstr "Pull à manches longues"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Колготки"
-msgstr ""
+msgstr "Collant"
 
