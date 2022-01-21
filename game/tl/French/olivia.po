@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-01-21 08:37\n"
 
 # game/events/olivia.rpy:34# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07]{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
@@ -889,304 +889,304 @@ msgstr "{i}allez dans votre chambre{/i}"
 
 # game/events/olivia.rpy:299# translate crowdin olivia_night_visit_r_dcf86a41:
 msgid "[Lisa_13]Но без Макса! Он сильно провинился, так что сегодня мы с тобой будем только вдвоём, Оливия. А ты, Макс, не мешай нам!"
-msgstr ""
+msgstr "[Lisa_13]mais sans Max! Il a commis une faute grave, donc ce soir, on ne sera que deux, Olivia. Et toi, Max, ne nous dérange pas!"
 
 # game/events/olivia.rpy:301# translate crowdin olivia_night_visit_r_5e8eeb58:
 msgid "[Max_11]Ну вот...[nointeract]"
-msgstr ""
+msgstr "[Max_11]voilà...[nointeract]"
 
 # game/events/olivia.rpy:686# translate crowdin olivia_dressed_stay_in_room_186ccac5:
 msgid "[Olivia_05]Привет, Макс! Такая хорошая погода стоит, а ты в комнате сидишь... И зря!"
-msgstr ""
+msgstr "[Olivia_05]Salut, Max! Le temps est si beau, et vous êtes assis dans la pièce... Et en vain!"
 
 # game/events/olivia.rpy:688# translate crowdin olivia_dressed_stay_in_room_c0dccde6:
 msgid "[Olivia_05]Привет, Макс! Зря в комнате сидишь, на улице чудесная погода... Мы вот с Лизой сейчас будем отдыхать во дворе, пока солнышко светит!"
-msgstr ""
+msgstr "[Olivia_05]Salut, Max! En vain dans la pièce, vous êtes assis, il fait beau dehors... Lisa et moi allons nous reposer dans la cour pendant que le soleil brille!"
 
 # game/events/olivia.rpy:692# translate crowdin olivia_dressed_stay_in_room_740cab84:
 msgid "[Lisa_09]А ещё нам нужно переодеться. Будь добр, выйди из комнаты ненадолго...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]et nous devons nous changer. Sors de la pièce un moment...[nointeract]"
 
 # game/events/olivia.rpy:694# translate crowdin olivia_dressed_stay_in_room_132c666f:
 msgid "[Lisa_00]А ещё нам нужно переодеться. Будь добр, погуляй немного или отвернись...[nointeract]"
-msgstr ""
+msgstr "[Lisa_00]et nous devons nous changer. Sois gentil, marche un peu ou tourne-toi...[nointeract]"
 
 # game/events/olivia.rpy:701# translate crowdin olivia_dressed_stay_in_room_08276951:
 msgid "[Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени...[nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} Et ne t'avises pas de regarder ! Ça ne prendra pas longtemps....[nointeract]"
 
 # game/events/olivia.rpy:703# translate crowdin olivia_dressed_stay_in_room_cdba7705:
 msgid "[Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста![nointeract]"
-msgstr ""
+msgstr "[Lisa]{b}Lisa:{/b} Et j'aimerais que tu essaies de ne pas me regarder... Je sais que c'est difficile, mais s'il te plaît ![nointeract]"
 
 # game/events/olivia.rpy:730# translate crowdin olivia_dressed_moment0_8a87f589:
 msgid "[Lisa_00]Ой, Макс! А ты можешь немного погулять? Мы собирались переодеться...[nointeract]"
-msgstr ""
+msgstr "[Lisa_00]Oh, Max! Tu peux marcher un peu? On allait se changer...[nointeract]"
 
 # game/events/olivia.rpy:732# translate crowdin olivia_dressed_moment0_b8c05569:
 msgid "[Lisa_09]Откуда я знаю, что ты видел, а что ещё нет? Как бы там ни было, я стесняюсь и хочу переодеться без свидетелей."
-msgstr ""
+msgstr "[Lisa_09]Comment puis-je savoir ce que tu as vu et ce que tu n'as pas encore vu ? Bref, je suis timide et je veux me changer sans témoins."
 
 # game/events/olivia.rpy:733# translate crowdin olivia_dressed_moment0_af5d43f0:
 msgid "[Olivia_01]Что сказать, Макс... Ты в пролёте![nointeract]"
-msgstr ""
+msgstr "[Olivia_01]que dire, Max... Tu es en fuite![nointeract]"
 
 # game/events/olivia.rpy:736# translate crowdin olivia_dressed_moment0_c92765a1:
 msgid "[Lisa_01]Спасибо, Макс. Мы быстренько!"
-msgstr ""
+msgstr "[Lisa_01]Merci, Max!"
 
 # game/events/olivia.rpy:737# translate crowdin olivia_dressed_moment0_87d5067e:
 msgid "[Olivia_01]Лично мне Макс нисколько не мешает...[nointeract]"
-msgstr ""
+msgstr "[Olivia_01]personnellement, Max ne m'empêche pas du tout...[nointeract]"
 
 # game/events/olivia.rpy:753# translate crowdin olivia_dressed_moment2_20fd5016:
 msgid "[Lisa_11]Макс! Мы же переодеваемся!!! {p=3}{nw}"
-msgstr ""
+msgstr "[Lisa_11]Max! On se change!!! {p=3}{nw}"
 
 # game/events/olivia.rpy:761# translate crowdin olivia_dressed_moment2_c171310b:
 msgid "[Lisa_13]Выйди и закрой за собой дверь!"
-msgstr ""
+msgstr "[Lisa_13]Sortez et fermez la porte derrière vous!"
 
 # game/events/olivia.rpy:762# translate crowdin olivia_dressed_moment2_7c31b019:
 msgid "[Olivia_03]Да, Макс! Тебе должно быть очень стыдно за такие выходки.[nointeract]"
-msgstr ""
+msgstr "[Olivia_03]Oui, Max! Tu devrais avoir honte de ces pitreries.[nointeract]"
 
 # game/events/olivia.rpy:766# translate crowdin olivia_dressed_moment2_58aafaf5:
 msgid "[Lisa_10]Пожалуйста, выйди и дверь за собой закрой!"
-msgstr ""
+msgstr "[Lisa_10]s'il vous Plaît, sortez et fermez la porte derrière vous!"
 
 # game/events/olivia.rpy:767# translate crowdin olivia_dressed_moment2_276f7949:
 msgid "[Olivia_03]Да ладно тебе, Лиза. Мы же все всё у друг друга уже видели.[nointeract]"
-msgstr ""
+msgstr "[Olivia_03]allez, Lisa. On a tout vu l'un l'autre.[nointeract]"
 
 # game/events/olivia.rpy:783# translate crowdin olivia_dressed_moment1_43215628:
 msgid "[Lisa_11]Макс! Мы же переодеваемся!!! Выйди и закрой за собой дверь![nointeract]"
-msgstr ""
+msgstr "[Lisa_11]Max! On se change!!! Sors et ferme la porte derrière toi![nointeract]"
 
 # game/events/olivia.rpy:786# translate crowdin olivia_dressed_moment1_9c7c76de:
 msgid "[Lisa_11]Макс! Мы же переодеваемся!!! Пожалуйста, выйди и дверь за собой закрой![nointeract]"
-msgstr ""
+msgstr "[Lisa_11]Max! On se change!!! S'il te plaît, sors et ferme la porte derrière toi![nointeract]"
 
 # game/events/olivia.rpy:792# translate crowdin olivia_dressed_lvl_2_7968a2a6:
 msgid "[Olivia_02]Ох, нам бы твои проблемы..."
-msgstr ""
+msgstr "[Olivia_02]Oh, nous aurions vos problèmes..."
 
 # game/events/olivia.rpy:793# translate crowdin olivia_dressed_lvl_2_91ad6784:
 msgid "[Lisa_10]Ты не глазей, а жди за дверью! Или хочешь, чтобы я маме об этом рассказала?[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]tu n'as pas les yeux, mais attends devant la porte! Ou tu veux que je le dise à maman?[nointeract]"
 
 # game/events/olivia.rpy:796# translate crowdin olivia_dressed_lvl_2_32b71976:
 msgid "[Olivia_02]Оу, похоже Макс хочет сказать, что мы с тобой очень соблазнительно выглядим!"
-msgstr ""
+msgstr "[Olivia_02]Oh, on dirait que Max veut dire que toi et moi sommes très séduisants!"
 
 # game/events/olivia.rpy:797# translate crowdin olivia_dressed_lvl_2_81a439ed:
 msgid "[Lisa_10]Ну, Макс! Я ведь и маме всё могу рассказать, если не уйдёшь.[nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Eh Bien, Max! Je peux tout dire à ma mère si tu ne pars pas.[nointeract]"
 
 # game/events/olivia.rpy:800# translate crowdin olivia_dressed_lvl_2_eba9367a:
 msgid "[Olivia_02]Спасибо. Ты тоже ничего... Только из шорт от радости не выпрыгни."
-msgstr ""
+msgstr "[Olivia_02]Merci. Tu as aussi de rien... Ne saute pas de ton short de joie."
 
 # game/events/olivia.rpy:802# translate crowdin olivia_dressed_lvl_2_c401595c:
 msgid "[Lisa_09]Ну и долго ты ещё пялиться будешь?! Выйди и подожди. Мы недолго...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]combien de temps tu regarderas?! Sors et attends. On ne sera pas là pour longtemps...[nointeract]"
 
 # game/events/olivia.rpy:809# translate crowdin olivia_dressed_lvl_3_97aa3ff0:
 msgid "[Lisa_01]Ты, видимо, только об этом и мечтаешь... Но нечего глазеть, как мы одеваемся! Лучше займи себя чем-нибудь полезным..."
-msgstr ""
+msgstr "[Lisa_01]tu ne rêves que de ça... Mais il n'y a rien à voir avec la façon dont nous nous habillons! Tu ferais mieux de t'occuper de quelque chose d'utile..."
 
 # game/events/olivia.rpy:810# translate crowdin olivia_dressed_lvl_3_f073ff95:
 msgid "[Max_02]Как раз это и делаю..."
-msgstr ""
+msgstr "[Max_02]C’est ce que je fais..."
 
 # game/events/olivia.rpy:811# translate crowdin olivia_dressed_lvl_3_a21098ed:
 msgid "[Olivia_02]Осторожней, Макс. Косоглазие заработаешь и все тебя начнут дурачком считать..."
-msgstr ""
+msgstr "[Olivia_02]Fais attention, Max..."
 
 # game/events/olivia.rpy:812# translate crowdin olivia_dressed_lvl_3_12bd6daa:
 msgid "[Lisa_02]Да мы и так... Ладно, молчу.[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]oui... D'accord, je me tais.[nointeract]"
 
 # game/events/olivia.rpy:815# translate crowdin olivia_dressed_lvl_3_81729ace:
 msgid "[Lisa_01]Вот иди и радуйся где-нибудь в другом месте. А мы хотим спокойно одеться..."
-msgstr ""
+msgstr "[Lisa_01]alors va te réjouir ailleurs. Et nous voulons nous habiller calmement..."
 
 # game/events/olivia.rpy:816# translate crowdin olivia_dressed_lvl_3_34689a50:
 msgid "[Max_02]Подожди! Оливия же не будет одевается. Что-то не сходится..."
-msgstr ""
+msgstr "[Max_02]Attends! Olivia ne s'habillera pas. Quelque chose ne converge pas..."
 
 # game/events/olivia.rpy:817# translate crowdin olivia_dressed_lvl_3_01edfdc0:
 msgid "[Lisa_09]Ну, Макс![nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Eh bien, Max![nointeract]"
 
 # game/events/olivia.rpy:820# translate crowdin olivia_dressed_lvl_3_61ed6671:
 msgid "[Lisa_13]А ты и доволен! И хватит на меня глазеть... Выйди и подожди за дверью!"
-msgstr ""
+msgstr "[Lisa_13]et vous êtes heureux! Et arrête de me regarder... Sortez et attendez dehors!"
 
 # game/events/olivia.rpy:821# translate crowdin olivia_dressed_lvl_3_a32fa991:
 msgid "[Olivia_02]А может она их и вовсе не одевала?"
-msgstr ""
+msgstr "[Olivia_02]peut-être ne les a-t-elle pas habillées du tout?"
 
 # game/events/olivia.rpy:822# translate crowdin olivia_dressed_lvl_3_8d0ac507:
 msgid "[Max_08]Да-а-а?!"
-msgstr ""
+msgstr "[Max_08]Oui?!"
 
 # game/events/olivia.rpy:823# translate crowdin olivia_dressed_lvl_3_3daab7f8:
 msgid "[Olivia_03]Может быть. А может и нет. Но какая теперь разница? Ты же всё равно пофантазируешь на эту тему..."
-msgstr ""
+msgstr "[Olivia_03]Peut-être. Mais peut-être pas. Mais quelle est la différence maintenant? Tu imagines toujours ça..."
 
 # game/events/olivia.rpy:824# translate crowdin olivia_dressed_lvl_3_d7323289:
 msgid "[Lisa_10]Оливия![nointeract]"
-msgstr ""
+msgstr "[Lisa_10]Olivia![nointeract]"
 
 # game/events/olivia.rpy:827# translate crowdin olivia_dressed_lvl_3_319973cf:
 msgid "[Lisa_01]Спасибо. Но давай ты не будешь пялиться и подождёшь за дверью, мы недолго..."
-msgstr ""
+msgstr "[Lisa_01]Merci. Mais tu ne regardes pas et tu attends devant la porte, on ne sera pas là pour longtemps..."
 
 # game/events/olivia.rpy:828# translate crowdin olivia_dressed_lvl_3_5c400cb2:
 msgid "[Olivia_02]Смотри, Макс... Так ведь и привыкнуть можно. И станет это простой обыденностью."
-msgstr ""
+msgstr "[Olivia_02]Regarde, Max... Donc, après tout, vous pouvez vous habituer. Et ce sera une simple routine."
 
 # game/events/olivia.rpy:829# translate crowdin olivia_dressed_lvl_3_453d6107:
 msgid "[Max_04]Не станет! Ты не так часто приходишь, а Лиза меня до сих пор стесняется..."
-msgstr ""
+msgstr "[Max_04]ne le fera pas! Tu ne viens pas si souvent, et Lisa est toujours timide..."
 
 # game/events/olivia.rpy:831# translate crowdin olivia_dressed_lvl_3_b98d244b:
 msgid "[Lisa_02]Макс, займись чем-нибудь путным.[nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Max, fais quelque chose.[nointeract]"
 
 # game/events/olivia.rpy:846# translate crowdin olivia_dressed_try_to_peek_144e8df6:
 msgid "[Max_05][lucky!t]{m}Кажется, они не заметили, что я подглядываю! Эти две аппетитные попки могут свести с ума любого... Но именно сейчас сводят меня и это так приятно!{/m}"
-msgstr ""
+msgstr "[Max_05][lucky!t]{m}ils ne Semblent pas avoir remarqué que je voyais! Ces deux culs appétissants peuvent rendre n'importe qui fou... Mais c'est maintenant qu'ils me ramènent et c'est tellement agréable!{/m}"
 
 # game/events/olivia.rpy:848# translate crowdin olivia_dressed_try_to_peek_be20eb18:
 msgid "[Max_05][lucky!t]{m}Никто не видит, что я подглядываю... Мне даже всё равно, если они заметят. Рискнуть и увидеть, как эти девочки оголяют свои сладенькие прелести в паре метров от меня, стоит того!{/m}"
-msgstr ""
+msgstr "[Max_05][lucky!t]{m}Personne ne me voit espionner... Je m'en fous s'ils le remarquent. Prendre un risque et voir ces filles exposer leurs doux charmes à quelques mètres de moi en vaut la peine!{/m}"
 
 # game/events/olivia.rpy:859# translate crowdin olivia_dressed_try_to_peek_24da8c0a:
 msgid "[Max_03][lucky!t]{m}Ой, Оливия увидела, что я подглядываю! Но ничего не говорит Лизе... Ну ещё бы. Она же натуристка и это её нисколько не смущает. Забавные сиськи... В смысле, забавная ситуация!{/m}"
-msgstr ""
+msgstr "[Max_03][lucky!t]{m}Oh, Olivia m'a vu espionner! Mais ça ne dit rien à Lisa... Eh bien, si. Elle est naturiste et cela ne l'embarrasse pas du tout. Drôle de seins... Je veux dire, c'est drôle!{/m}"
 
 # game/events/olivia.rpy:861# translate crowdin olivia_dressed_try_to_peek_895988b1:
 msgid "[Max_03][lucky!t]{m}Оливия заметила, что я подглядываю! Хорошо, что она натуристка, а то сейчас бы криков было... А так, можно смотреть и наслаждаться. Она так забавно пальчиком грозит...{/m}"
-msgstr ""
+msgstr "[Max_03][lucky!t]{m}Olivia m'a vu espionner! C'est bien qu'elle soit naturiste, sinon il y aurait eu des cris... Et ainsi, vous pouvez regarder et profiter. Elle est si drôle...{/m}"
 
 # game/events/olivia.rpy:873# translate crowdin olivia_dressed_try_to_peek_f458687d:
 msgid "[Lisa_11][spotted!t]Ну, Макс! Прекращай подглядывать! Если не отвернёшься или ещё раз такое выкинешь, я на тебя маме нажалуюсь... Тебе ясно?!"
-msgstr ""
+msgstr "[Lisa_11][spotted!t]Eh bien, Max ! Arrêtes d'épier ! Si tu te retournes ou refais ça, je te dénonce à notre mère... Est-ce que c'est clair pour toi?!"
 
 # game/events/olivia.rpy:875# translate crowdin olivia_dressed_try_to_peek_585185bb:
 msgid "[Olivia_03]Ай-я-яй, как нехорошо подглядывать, Макс. Ай-я-яй, какой негодник![nointeract]"
-msgstr ""
+msgstr "[Olivia_03]ay-I-yay, c'est pas bon de regarder, Max. ay-I-yay, quel méchant![nointeract]"
 
 # game/events/olivia.rpy:877# translate crowdin olivia_dressed_try_to_peek_f165e904:
 msgid "[Olivia_02]Да я-то не стесняюсь. Мне наоборот, куда комфортнее без одежды..."
-msgstr ""
+msgstr "[Olivia_02]Oui, je ne suis pas timide. Au contraire, je suis beaucoup plus à l'aise sans vêtements..."
 
 # game/events/olivia.rpy:878# translate crowdin olivia_dressed_try_to_peek_e5e895f1:
 msgid "[Lisa_10]А я вот стесняюсь! И перестань на меня так глазеть, Макс! А то я Алису попрошу, чтобы она тебя отпинала..."
-msgstr ""
+msgstr "[Lisa_10]et je suis timide! Et arrête de me regarder comme ça, Max! Je vais demander à Alice de te tuer..."
 
 # game/events/olivia.rpy:880# translate crowdin olivia_dressed_try_to_peek_eb8e36a6:
 msgid "[Max_08]Всё, я отвернулся![nointeract]"
-msgstr ""
+msgstr "[Max_08]Tout le monde, je me suis détourné![nointeract]"
 
 # game/events/olivia.rpy:885# translate crowdin olivia_dressed_try_to_peek_eba9367a:
 msgid "[Olivia_02]Спасибо. Ты тоже ничего... Только из шорт от радости не выпрыгни."
-msgstr ""
+msgstr "[Olivia_02]Merci. Tu as aussi de rien... Ne saute pas de ton short de joie."
 
 # game/events/olivia.rpy:887# translate crowdin olivia_dressed_try_to_peek_5e5bea76:
 msgid "[Lisa_09]Ну и долго ты ещё пялиться на меня будешь?! Отвернись. Мы недолго...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]tu me regarderas encore longtemps?! Se détourner. On ne sera pas là pour longtemps...[nointeract]"
 
 # game/events/olivia.rpy:891# translate crowdin olivia_dressed_try_to_peek_943d13a8:
 msgid "[Lisa_11][spotted!t]Опять ты подглядываешь! И не стыдно тебе?! Делать тебе больше нечего, только глазеть, как мы переодеваемся... Прекращай!"
-msgstr ""
+msgstr "[Lisa_11][spotted!encore une fois, tu regardes! Et n'a pas honte de toi?! Tu n'as rien à faire d'autre que de nous regarder changer... Cesse!"
 
 # game/events/olivia.rpy:893# translate crowdin olivia_dressed_try_to_peek_d2b966ac:
 msgid "[Olivia_03]Какой же ты Макс проказник! Ни стыда, ни совести...[nointeract]"
-msgstr ""
+msgstr "[Olivia_03]tu es Max le farceur! Pas de honte, pas de conscience...[nointeract]"
 
 # game/events/olivia.rpy:895# translate crowdin olivia_dressed_try_to_peek_c1321b9d:
 msgid "[Olivia_02]Ммм... А где это Макс... Только ведь тут вроде был! А теперь нет..."
-msgstr ""
+msgstr "[Olivia_02]Mmm... Où est Max?.. Seulement parce que c'était comme ça! Et maintenant non..."
 
 # game/events/olivia.rpy:896# translate crowdin olivia_dressed_try_to_peek_66f1c3a5:
 msgid "[Lisa_02]Вот представь, ну никак не могу! Стесняюсь. Можно я уже спокойно переоденусь? Без этого твоего сверлящего и озабоченного взгляда..."
-msgstr ""
+msgstr "[Lisa_02]Tu peux imaginer, je ne peux pas ! Je peux me changer en paix maintenant ? Sans ton regard scrutateur et inquisiteur..."
 
 # game/events/olivia.rpy:897# translate crowdin olivia_dressed_try_to_peek_a18c539b:
 msgid "[Max_02]Можно. Только погодите пару секунд, я фотоаппарат достану..."
-msgstr ""
+msgstr "[Max_02]vous Pouvez. Attendez quelques secondes, je vais chercher l'appareil photo..."
 
 # game/events/olivia.rpy:898# translate crowdin olivia_dressed_try_to_peek_ab614b1d:
 msgid "[Lisa_09]Ну, Макс!"
-msgstr ""
+msgstr "[Lisa_09]Eh bien, Max!"
 
 # game/events/olivia.rpy:900# translate crowdin olivia_dressed_try_to_peek_48e1fee0:
 msgid "[Max_03]Да шучу я... Всё, отвернулся![nointeract]"
-msgstr ""
+msgstr "[Max_03]je plaisante... Tout le monde, tourne le dos![nointeract]"
 
 # game/events/olivia.rpy:905# translate crowdin olivia_dressed_try_to_peek_e11ee97e:
 msgid "[Lisa_01]Спасибо. Но давай ты не будешь пялиться и отвернёшься... Хорошо?"
-msgstr ""
+msgstr "[Lisa_01]Merci. Mais si tu ne fixes pas c'est mieux, regardes ailleurs... D'accord ?"
 
 # game/events/olivia.rpy:906# translate crowdin olivia_dressed_try_to_peek_e22e7d62:
 msgid "[Max_04]Мне понравилось, как ты двигалась... Не повторишь?"
-msgstr ""
+msgstr "[Max_04]J'ai aimé la façon dont tu as bougé... Le referais-tu ?"
 
 # game/events/olivia.rpy:907# translate crowdin olivia_dressed_try_to_peek_cd4c9bac:
 msgid "[Olivia_02]Поддерживаю! А то я пропустила этот захватывающий момент..."
-msgstr ""
+msgstr "[Olivia_02]Soutien! J'ai raté ce moment passionnant..."
 
 # game/events/olivia.rpy:909# translate crowdin olivia_dressed_try_to_peek_dbf3b763:
 msgid "[Lisa_02]Ну вы меня совсем сейчас засмущаете![nointeract]"
-msgstr ""
+msgstr "[Lisa_02]Eh bien, vous allez me faire rire![nointeract]"
 
 msgid "{i}подождать за дверью, пока девочки переоденутся{/i}"
-msgstr ""
+msgstr "{i}attendre devant la porte pendant que les filles se changent {/i}"
 
 #    # game/events/olivia.rpy:790
 msgid "Аж глаза разбегаются, на кого смотреть..."
-msgstr ""
+msgstr "Déjà les yeux se dispersent, qui regarder..."
 
 #    # game/events/olivia.rpy:790
 msgid "У меня встал!"
-msgstr ""
+msgstr "J'ai levé!"
 
 #    # game/events/olivia.rpy:790
 msgid "Извините... Мне стыдно, но смотритесь вы красиво!"
-msgstr ""
+msgstr "Excusez-moi... J'ai honte, mais vous êtes belle!"
 
 #    # game/events/olivia.rpy:807
 msgid "Сколько округлостей красивых! Глаза разбегаются..."
-msgstr ""
+msgstr "Combien de rondeurs sont belles! Les yeux s'enfuient..."
 
 #    # game/events/olivia.rpy:807
 msgid "Как-то даже в шортах тесно стало..."
-msgstr ""
+msgstr "D'une manière ou d'une autre, même en short, il est devenu étroit..."
 
 #    # game/events/olivia.rpy:807
 msgid "Кого-то угораздило, очень удачно для меня, снять трусики..."
-msgstr ""
+msgstr "Quelqu'un a réussi, très bien pour moi, à enlever sa culotte..."
 
 #    # game/events/olivia.rpy:807
 msgid "Извините... Вид, конечно, очаровательнее некуда!"
-msgstr ""
+msgstr "Excusez-moi... La vue, bien sûr, est plus charmante nulle part!"
 
 #    # game/events/olivia.rpy:874
 msgid "Да ладно вам, можете меня не стесняться!"
-msgstr ""
+msgstr "Allez, n'hésitez pas!"
 
 #    # game/events/olivia.rpy:874
 msgid "Извините, не удержался... Хорошо выглядите, девчонки!"
-msgstr ""
+msgstr "Désolé, je n'ai pas pu résister... Vous avez l'air bien, les filles!"
 
 #    # game/events/olivia.rpy:892
 msgid "А вы представьте, что меня тут на самом деле нет!"
-msgstr ""
+msgstr "Et vous imaginez que je ne suis pas là!"
 
 #    # game/events/olivia.rpy:892
 msgid "Извините, не удержался... Красота ведь неописуемая!"
-msgstr ""
+msgstr "Désolé, je n'ai pas pu résister... La beauté est indescriptible!"
 
