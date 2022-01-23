@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-01-23 14:22\n"
 
 # game/events/lisa.rpy:26# translate crowdin lisa_shower_1532bb65:
 msgid "[Max_00]Лиза сейчас принимает душ...[nointeract]"
@@ -1453,7 +1453,7 @@ msgstr "[Max_01]{m}Wow, che vista! Che sguardo fortunato ho avuto!{/m}[nointerac
 
 # game/events/lisa.rpy:917# translate crowdin lisa_dressed_stay_in_room_4d0209ac:
 msgid "[Lisa_09]Макс, мне нужно переодеться. Будь добр, выйди из комнаты ненадолго...[nointeract]"
-msgstr ""
+msgstr "[Lisa_09]Max, ho bisogno di cambiare. Sarebbe così gentile da lasciare la stanza per un momento...[nointeract]"
 
 # game/events/lisa.rpy:1249# translate crowdin lisa_bath_2d4c2fc0:
 msgid "[Max_00]{m}В это время Лиза обычно плескается в ванне...{/m}[nointeract]"
