@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-01-25 18:46\n"
 
 # game/events/eric.rpy:13# translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -2117,47 +2117,47 @@ msgstr "[Max_10]{m}Merda, mentre correvo, Eric era già andato via... Beh, lo pr
 
 # game/events/eric.rpy:1846# translate crowdin start_eric_wallet_c1ca5e1e:
 msgid "[Eric_00]Было вкусно! Но прежде, чем мы разойдёмся, я бы хотел кое о чём рассказать... Это очень важно и отнеситесь к моим словам серьёзно!"
-msgstr ""
+msgstr "[Eric_00]Era delizioso! Ma prima di andare, c'è qualcosa che vorrei dire... È molto importante e prendete sul serio le mie parole!"
 
 # game/events/eric.rpy:1847# translate crowdin start_eric_wallet_a9a3d262:
 msgid "[Max_09]Можно я пойду, а мне потом Лиза это расскажет?"
-msgstr ""
+msgstr "[Max_09]Posso andare e Lisa può dirmelo dopo?"
 
 # game/events/eric.rpy:1848# translate crowdin start_eric_wallet_6a754288:
 msgid "[Ann_12]Макс! Тебя это тоже касается. Точнее, именно тебя это и касается. Но пусть всё скажет Эрик..."
-msgstr ""
+msgstr "[Ann_12]Max! Questo riguarda anche te. O meglio, ti riguarda. Ma lasciamo parlare Eric..."
 
 # game/events/eric.rpy:1849# translate crowdin start_eric_wallet_8deadb4d:
 msgid "[Max_07]Опять какую-то фигню придумали?"
-msgstr ""
+msgstr "[Max_07]Hanno di nuovo inventato qualche stronzata?"
 
 # game/events/eric.rpy:1850# translate crowdin start_eric_wallet_630fb780:
 msgid "[Eric_09]Что-то ты очень весел, Макс, для того, кто украл мой бумажник..."
-msgstr ""
+msgstr "[Eric_09]Sei molto divertente, Max, per essere uno che mi ha rubato il portafoglio..."
 
 # game/events/eric.rpy:1851# translate crowdin start_eric_wallet_fea122b6:
 msgid "[Max_08]Что? Ничего я не крал!"
-msgstr ""
+msgstr "[Max_08]Cosa? Non ho rubato niente!"
 
 # game/events/eric.rpy:1852# translate crowdin start_eric_wallet_01db12a6:
 msgid "[Ann_17]Макс! У Эрика есть обоснованные подозрения и просто так такими обвинениями он бросаться не станет. Так что, давай не прикидывайся дурачком. Пока не поздно, нужно всё уладить."
-msgstr ""
+msgstr "[Ann_17]Max! Eric ha un ragionevole sospetto e non ha intenzione di lanciare accuse del genere. Quindi non fare il finto tonto con me. Prima che sia troppo tardi, dobbiamo risolvere la questione."
 
 # game/events/eric.rpy:1853# translate crowdin start_eric_wallet_8c91f040:
 msgid "[Max_10]Что уладить? Я ничего не брал!"
-msgstr ""
+msgstr "[Max_10]Sistemare cosa? Non ho preso niente!"
 
 # game/events/eric.rpy:1854# translate crowdin start_eric_wallet_074415cb:
 msgid "[Eric_13]Именно это и сказал бы вор! В общем, в бумажнике было $ 25 000 и теперь ты должен их вернуть. Я даю тебе неделю... Как только это время истечёт, мы повторим этот разговор на этом месте и если ты не вернёшь деньги, то точно отправишься в военный лагерь. Всё понял?"
-msgstr ""
+msgstr "[Eric_13]È esattamente quello che direbbe il ladro! Comunque, c'erano 25.000 dollari nel portafoglio e ora devi restituirli. Ti do una settimana... Non appena il tempo sarà scaduto, ripeteremo questa conversazione in questo luogo e se non restituisci i soldi, andrai di sicuro in un campo militare. Hai capito?"
 
 # game/events/eric.rpy:1855# translate crowdin start_eric_wallet_bb073fbf:
 msgid "[Max_15]Ты эту сумму с потолка взял?! А почему не миллион или миллиард?"
-msgstr ""
+msgstr "[Max_15]Hai preso quella cifra dal soffitto?! Perché non un milione o un miliardo?"
 
 # game/events/eric.rpy:1856# translate crowdin start_eric_wallet_970e5f65:
 msgid "[Ann_16]Макс! Ты как со взрослыми разговариваешь? Если Эрик говорит, значит точно уверен в твоей виновности. Так что, давай без истерик!"
-msgstr ""
+msgstr "[Ann_16]Max! Come si fa a parlare con gli adulti? Se Eric lo dice, significa che è sicuro che sei colpevole. Quindi non diventiamo isterici!"
 
 # game/events/eric.rpy:1857# translate crowdin start_eric_wallet_cf89d297:
 msgid "[Max_16]Так, а какие у него доказательства? Он же врёт!"
@@ -2177,27 +2177,27 @@ msgstr "[Eric_09]Il mio portafoglio è scomparso molto tempo fa ed è lì che si
 
 # game/events/eric.rpy:1861# translate crowdin start_eric_wallet_424e7e6c:
 msgid "[Max_17]Мам!!! Меня подставляют!"
-msgstr ""
+msgstr "[Max_17]Mamma!!! Mi stanno incastrando!"
 
 # game/events/eric.rpy:1862# translate crowdin start_eric_wallet_1833e925:
 msgid "[Ann_18]Всё, Макс. Мне это надоело! Твоё слово против слова Эрика. И поверь, у тебя нет шансов. Так что, признайся и верни то, что он просит. Больше я ничего слышать не хочу. Закончили!"
-msgstr ""
+msgstr "[Ann_18]Questo è tutto, Max. Sono stufo di tutto questo! È la tua parola contro quella di Eric. E credetemi, non avete alcuna possibilità. Perciò, confessa e ridammi quello che ti ha chiesto. Non voglio sentire altro. Abbiamo finito!"
 
 # game/events/eric.rpy:1863# translate crowdin start_eric_wallet_40074965:
 msgid "[Max_11]Да как так-то?!"
-msgstr ""
+msgstr "[Max_11]Come può essere?!"
 
 # game/events/eric.rpy:1904# translate crowdin start_eric_wallet_aaaab0c1:
 msgid "[Eric_01]Ты уж извини... Такое следовало бы решить с глазу на глаз, но я решил, что твоя семья должна знать, что ты за человек."
-msgstr ""
+msgstr "[Eric_01]Mi dispiace... Questo avrebbe dovuto essere risolto faccia a faccia, ma ho pensato che la tua famiglia dovesse sapere che tipo di uomo sei."
 
 # game/events/eric.rpy:1905# translate crowdin start_eric_wallet_a0a5454a:
 msgid "[Max_15]Я не брал твои деньги! Как это всё понимать?!"
-msgstr ""
+msgstr "[Max_15]Non ho preso i tuoi soldi! Di cosa si tratta?!"
 
 # game/events/eric.rpy:1906# translate crowdin start_eric_wallet_11bfa182:
 msgid "[Eric_03]Не знаю, не знаю... Мне вот кажется, что брал! И предлагаю тебе их вернуть при всех, перед ужином. Теперь веришь, что я могу создавать проблемы?"
-msgstr ""
+msgstr "[Eric_03]Non lo so, non lo so... Penso di averlo fatto! E ti consiglio di restituirli davanti a tutti, prima di cena. Ora credi che io possa causare problemi?"
 
 # game/events/eric.rpy:1907# translate crowdin start_eric_wallet_8132910c:
 msgid "[Max_16]Да пошёл ты..."
