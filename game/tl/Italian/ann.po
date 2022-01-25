@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-01-25 18:46\n"
 
 # game/events/ann.rpy:11# translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -1048,33 +1048,33 @@ msgstr "Non voglio essere d'intralcio. Iniziare..."
 
 #    # game/events/ann.rpy:428
 msgid "У тебя самые зачётные сиськи, которые я видел!"
-msgstr ""
+msgstr "You have the coolest tits I've ever seen!"
 
 #    # game/events/ann.rpy:428
 msgid "У тебя самый потрясный зад на свете, мам!"
-msgstr ""
+msgstr "Hai il culo più bello del mondo, mamma!"
 
 #    # game/events/ann.rpy:428
 msgid "Я просто хотел посмотреть..."
-msgstr ""
+msgstr "Volevo solo vedere..."
 
 #    # game/events/ann.rpy:428
 msgid "Ой, извини. Я забыл... Хорошо выглядишь, мам!"
-msgstr ""
+msgstr "Oh, mi dispiace. Ho dimenticato... Stai bene, mamma!"
 
 #    # game/events/ann.rpy:458
 msgid "Да не прикрывай такую красоту, все свои же!"
-msgstr ""
+msgstr "Non coprire questa bellezza, è tutta tua!"
 
 #    # game/events/ann.rpy:458
 msgid "Сразу видно, что попка у тебя тренированная!"
-msgstr ""
+msgstr "È evidente che hai un culo che si è allenato!"
 
 #    # game/events/ann.rpy:458
 msgid "А посмотреть нельзя?"
-msgstr ""
+msgstr "Non possiamo vederlo?"
 
 #    # game/events/ann.rpy:458
 msgid "Извини, всё позабыл, когда тебя увидел. Ты прекрасна!"
-msgstr ""
+msgstr "Scusa, ho dimenticato tutto quando ti ho visto. Sei bellissima!"
 
