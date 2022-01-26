@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # game/dialogues/punishment.rpy:99# translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -697,7 +697,7 @@ msgstr "[Max_14][impact_reduced!t]{m}Merda... Tutti sono così interessati a ved
 
 # game/dialogues/punishment.rpy:519# translate crowdin punishment_lisa_5e582e44:
 msgid "[Ann_12]Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... А ты, Лиза, не стой столбом, шевелись давай..."
-msgstr ""
+msgstr "[Ann_12]No, Max! E ringrazia che non ti sto punendo insieme a lei... E tu, Lisa, non stare lì, datti una mossa..."
 
 # game/dialogues/punishment.rpy:696# translate crowdin punishment_alice_23976523:
 msgid "[Max_07]{m}Посмотрим, станет ли Алиса посговорчивей, если я перестану вмешиваться... Главное, успеть поговорить с ней, пока ей будет ещё больно сидеть!{/m}"
@@ -705,7 +705,7 @@ msgstr "[Max_07]{m}Vediamo se Alice sarà più cooperativa se smetto di interfer
 
 # game/dialogues/punishment.rpy:712# translate crowdin punishment_alice_3eaef6e3:
 msgid "[Ann_12]Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... Алиса, пошевеливайся..."
-msgstr ""
+msgstr "[Ann_12]No, Max! E ringrazia che non ti sto punendo insieme a lei... Alice, datti una mossa..."
 
 # game/dialogues/punishment.rpy:720# translate crowdin punishment_alice_f34a7f97:
 msgid "[Max_09]{m}Ага, как же, не забудет она... Хм... Может, стоит попросить у неё что-нибудь, чтобы она не думала, что моя доброта безвозмездна?! И сделать это нужно сегодня, пока она ещё под впечатлением...{/m}"
