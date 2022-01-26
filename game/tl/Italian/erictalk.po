@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:06\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # game/dialogues/erictalk.rpy:17# translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -1037,168 +1037,168 @@ msgstr "Chiediglielo! (continuazione della faida)"
 
 # game/dialogues/erictalk.rpy:738# translate crowdin Eric_tribute_no_money_e6e6f0f4:
 msgid "[Eric_09]Эх, Макс... Ну вот ни черта с тебя толку нет. Только подумал, что ты можешь принести хоть какую-то пользу... Свали с глаз моих!"
-msgstr ""
+msgstr "[Eric_09]Oh, Max... Non mi servi a niente. Proprio quando pensavo che tu potessi farmi del bene... Sparisci dalla mia vista!"
 
 # game/dialogues/erictalk.rpy:761# translate crowdin Eric_with_dictaphone_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
-msgstr ""
+msgstr "[Eric_01]Cosa volevi, Max?[nointeract]"
 
 # game/dialogues/erictalk.rpy:765# translate crowdin Eric_with_dictaphone_9dfe8aef:
 msgid "[Eric_02]И о чём таком мы с тобой можем договориться?"
-msgstr ""
+msgstr "[Eric_02]E su cosa possiamo essere d'accordo io e lei?"
 
 # game/dialogues/erictalk.rpy:766# translate crowdin Eric_with_dictaphone_39024e04:
 msgid "[Max_15]Раз ты меня обвинил в воровстве бумажника, то и оправдать можешь..."
-msgstr ""
+msgstr "[Max_15]Visto che mi hai accusato di avermi rubato il portafoglio, potresti anche assolvermi..."
 
 # game/dialogues/erictalk.rpy:768# translate crowdin Eric_with_dictaphone_8f068430:
 msgid "[Eric_07]И с какой стати мне тебя оправдывать?[nointeract]"
-msgstr ""
+msgstr "[Eric_07]E perché dovrei trovare delle scuse per te?[nointeract]"
 
 # game/dialogues/erictalk.rpy:770# translate crowdin Eric_with_dictaphone_cdac9939:
 msgid "[Eric_04]Дело, Макс, не в деньгах. А в том, что такому воришке и бездельнику, как ты, здесь не место."
-msgstr ""
+msgstr "[Eric_04]Non si tratta di soldi, Max. Si tratta del fatto che un ladro e un barbone come te non appartengono a questo posto."
 
 # game/dialogues/erictalk.rpy:771# translate crowdin Eric_with_dictaphone_27a885e0:
 msgid "[Max_09]А может это тебе здесь не место?"
-msgstr ""
+msgstr "[Max_09]O forse il tuo posto non è qui?"
 
 # game/dialogues/erictalk.rpy:772# translate crowdin Eric_with_dictaphone_71008328:
 msgid "[Eric_05]Сам подумай... Твоя семья меня любит и уважает, да и обеспечить я их смогу без проблем. А вот ты - большое разочарование для них."
-msgstr ""
+msgstr "[Eric_05]Pensateci... La tua famiglia mi ama e mi rispetta, e io posso provvedere a loro senza problemi. Tu, invece, sei una grande delusione per loro."
 
 # game/dialogues/erictalk.rpy:773# translate crowdin Eric_with_dictaphone_e9c20a7f:
 msgid "[Max_16]Это только потому, что ты меня подставил!"
-msgstr ""
+msgstr "[Max_16]È solo perché mi hai incastrato!"
 
 # game/dialogues/erictalk.rpy:774# translate crowdin Eric_with_dictaphone_bbaeb3f4:
 msgid "[Eric_06]Ну, Макс... Надо было не мешать мне с планами по развращению твоей семьи. И был бы ты сейчас в шоколаде. А так...[nointeract]"
-msgstr ""
+msgstr "[Eric_06]Bene, Max... Avresti dovuto mettermi al corrente dei piani per corrompere la tua famiglia. In questo momento saresti d'oro. E ora...[nointeract]"
 
 # game/dialogues/erictalk.rpy:777# translate crowdin Eric_with_dictaphone_da084f59:
 msgid "[Eric_04]Шантажировать меня решил? Твой блеф ничего не изменит и тебе придётся вернуть мне деньги. Или же бюджетный вариант - военный лагерь."
-msgstr ""
+msgstr "[Eric_04]Mi stai ricattando? Il tuo bluff non cambierà nulla e dovrai ripagarmi. Oppure l'opzione economica è un campo militare."
 
 # game/dialogues/erictalk.rpy:778# translate crowdin Eric_with_dictaphone_a6187998:
 msgid "[Max_07]А как же то, что ты любишь потереть шишку на Алису?"
-msgstr ""
+msgstr "[Max_07]E che dire del fatto che ti piace strofinare un bernoccolo su Alice?"
 
 # game/dialogues/erictalk.rpy:779# translate crowdin Eric_with_dictaphone_fadbb170:
 msgid "[Eric_05]Понятия не имею о чём ты говоришь. А тебя эти извращенские и влажные фантазии только ещё больше не красят."
-msgstr ""
+msgstr "[Eric_05]Non ho idea di cosa tu stia parlando. E tu, queste fantasie perverse e bagnate ti rendono solo più poco attraente."
 
 # game/dialogues/erictalk.rpy:780# translate crowdin Eric_with_dictaphone_7754fb83:
 msgid "[Max_09]Фантазии фантазиями, а вот фотоснимки - это уже совершенно другое."
-msgstr ""
+msgstr "[Max_09]La fantasia è la fantasia, ma la fotografia è tutta un'altra cosa."
 
 # game/dialogues/erictalk.rpy:781# translate crowdin Eric_with_dictaphone_824ffff7:
 msgid "[Eric_06]Нет у тебя, Макс, никаких фотоснимков. И если ты даже что-то там нафотошопил, правдой это не станет."
-msgstr ""
+msgstr "[Eric_06]Non hai nessuna foto, Max. E anche se hai photoshoppato qualcosa, non è vero."
 
 # game/dialogues/erictalk.rpy:782# translate crowdin Eric_with_dictaphone_4c2c47ee:
 msgid "[Max_07]Думаешь, у мамы и Алисы не появятся сомнения на счёт тебя, после того, как они увидят эти снимки?"
-msgstr ""
+msgstr "[Max_07]Pensi che la mamma e Alice non avranno dubbi su di te dopo aver visto queste foto?"
 
 # game/dialogues/erictalk.rpy:783# translate crowdin Eric_with_dictaphone_fef296d0:
 msgid "[Eric_07]Макс, ты может не в курсе, но для твоей мамы я самый любимый мужчина. И сёстры твои от меня в восторге. А ты тот, кто её очень сильно разочаровал и за кого ей сейчас стыдно.[nointeract]"
-msgstr ""
+msgstr "[Eric_07]Max, forse non lo sai, ma sono l'uomo preferito di tua madre. E le tue sorelle mi amano. E sei tu quello che è molto deluso e di cui si vergogna in questo momento.[nointeract]"
 
 # game/dialogues/erictalk.rpy:787# translate crowdin Eric_with_dictaphone_42a46437:
 msgid "[Eric_03]О, не переживай, у твоей мамы будет всё самое лучшее. И давай маму не расстраивай, шуруй сапоги чисти, скоро в лагерь."
-msgstr ""
+msgstr "[Eric_03]Non preoccuparti, tua madre avrà il meglio di tutto. E non lasciare che tua madre si arrabbi, pulisciti gli stivali, tra poco si parte per il campeggio."
 
 # game/dialogues/erictalk.rpy:788# translate crowdin Eric_with_dictaphone_26629fad:
 msgid "[Max_17]Да пошёл ты..."
-msgstr ""
+msgstr "[Max_17]Sì, vai..."
 
 # game/dialogues/erictalk.rpy:797# translate crowdin Eric_with_dictaphone_3a815690:
 msgid "[Max_14][bad_mission!t]{m}Вот блин! Ничего толкового я из него не вытянул. Этого явно будет мало, чтобы на него начали хотя бы подозрительно смотреть. Похоже, это конец...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_14][bad_mission!t]{m}Oh, cavolo! Non ho ottenuto nulla di utile da lui. Non sarà sufficiente per farlo sembrare almeno sospetto. Sembra che sia finita...{/m}[nointeract]"
 
 # game/dialogues/erictalk.rpy:807# translate crowdin Eric_with_dictaphone_8b94a697:
 msgid "[Lisa_12]Вот ты где! Ты оказывается не только бумажники воруешь, но ещё и телефоны! Ну-ка отдал... Быстро! Или маме рассказать?[nointeract]"
-msgstr ""
+msgstr "[Lisa_12]Eccoti qua! Non state rubando solo i portafogli, ma anche i telefoni! Restituiscilo... Veloce! O dovrei dirlo a mia madre?[nointeract]"
 
 # game/dialogues/erictalk.rpy:811# translate crowdin Eric_with_dictaphone_5e5e5db9:
 msgid "[Lisa_13]Больше даже близко не подходи к моему телефону! И ко мне тоже.[nointeract]"
-msgstr ""
+msgstr "[Lisa_13]Non avvicinarti mai più al mio telefono! E non avvicinarti nemmeno a me.[nointeract]"
 
 # game/dialogues/erictalk.rpy:815# translate crowdin Eric_with_dictaphone_fde14d10:
 msgid "[{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
-msgstr ""
+msgstr "[{color=[orange]}( Poi venne la cena, quando tutto fu deciso... ){/color}"
 
 # game/dialogues/erictalk.rpy:819# translate crowdin Eric_with_dictaphone_b4b1461d:
 msgid "[Eric_03]Уже получил, Макс! И если ты ещё до сих пор не осознал, то для тебя уже всё потеряно и на днях ты отправишься маршировать, а я наконец получу всё, что хотел."
-msgstr ""
+msgstr "[Eric_03]Già fatto, Max! E se non l'hai ancora capito, tutto è perduto per te e uno di questi giorni marcirai via e io avrò finalmente tutto quello che voglio."
 
 # game/dialogues/erictalk.rpy:820# translate crowdin Eric_with_dictaphone_f5b8245a:
 msgid "[Max_10]Не трогай хотя бы Лизу! Она ведь ещё младше меня."
-msgstr ""
+msgstr "[Max_10]Almeno non toccare Lisa! È anche più giovane di me."
 
 # game/dialogues/erictalk.rpy:821# translate crowdin Eric_with_dictaphone_84c7d60f:
 msgid "[Eric_08]Ты что, на Лизу у меня самые... особые планы. Ведь она в таком возрасте, когда её легко можно воспитать под себя на такой разврат и утехи, на которые не удастся развести ни твою маму, ни Алису."
-msgstr ""
+msgstr "[Eric_08]Dai, ho il più... piani speciali. Ha un'età in cui può essere facilmente educata a quel tipo di dissolutezza e di piacere in cui né tua madre né Alice possono essere ingannate."
 
 # game/dialogues/erictalk.rpy:822# translate crowdin Eric_with_dictaphone_c1653118:
 msgid "[Max_09]Воспитать Лизу под себя? У тебя это ни за что не получится. Лиза не такая!"
-msgstr ""
+msgstr "[Max_09]Crescere Lisa per essere il tuo uomo? Non c'è modo di farlo. Lisa non è così!"
 
 # game/dialogues/erictalk.rpy:823# translate crowdin Eric_with_dictaphone_0f17c3cf:
 msgid "[Eric_05]Вот свалишь ты в лагерь и без твоих вмешательств у меня всё наладится! Я уже предвкушаю, как старательно Лиза будет надрачивать мне своими нежными ручками... А затем мы перейдём к следующему шагу. То ли ещё будет!"
-msgstr ""
+msgstr "[Eric_05]Quando tornerai al campo, starò bene senza che tu interferisca! Sto già pregustando quanto forte Lisa mi farà una sega con le sue mani delicate... E poi passeremo al passo successivo. Oh, andrà meglio!"
 
 # game/dialogues/erictalk.rpy:824# translate crowdin Eric_with_dictaphone_9b4d53c3:
 msgid "[Max_08]К какому ещё шагу?"
-msgstr ""
+msgstr "[Max_08]A quale altro passo?"
 
 # game/dialogues/erictalk.rpy:825# translate crowdin Eric_with_dictaphone_2c100bd9:
 msgid "[Eric_06]При котором она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!"
-msgstr ""
+msgstr "[Eric_06]Al che lei comincerà a lucidare il mio cazzo con le sue dolci labbra. L'hai già immaginato? L'ho fatto! Sarà una favola!"
 
 # game/dialogues/erictalk.rpy:826# translate crowdin Eric_with_dictaphone_67186cad:
 msgid "[Max_15]Вот ты больной ублюдок!"
-msgstr ""
+msgstr "[Max_15]Bastardo malato!"
 
 # game/dialogues/erictalk.rpy:827# translate crowdin Eric_with_dictaphone_9740bacb:
 msgid "[Eric_01]Старшим грубить - нехорошо. Давай-ка проваливай и подумай над своим поведением хорошенько."
-msgstr ""
+msgstr "[Eric_01]Non è bello essere scortesi con gli anziani. Vai, esci di qui e pensa al tuo comportamento."
 
 # game/dialogues/erictalk.rpy:828# translate crowdin Eric_with_dictaphone_26629fad_1:
 msgid "[Max_17]Да пошёл ты..."
-msgstr ""
+msgstr "[Max_17]Sì, vai..."
 
 # game/dialogues/erictalk.rpy:838# translate crowdin Eric_with_dictaphone_9ddf8dae:
 msgid "[Max_03][good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_03][good_mission!t]{m}È fantastico! Ho scritto la cosa più importante, cioè i suoi piani per la nostra piccola Lisa. Questo dovrebbe essere sufficiente per farlo non solo sembrare sospettoso, ma anche per cacciarlo via...{/m}[nointeract]"
 
 msgid "Может, договоримся? {i}(добыть компромат){/i}"
-msgstr ""
+msgstr "Che ne dici di un accordo? {i}(compromesso){/i}"
 
 #    # game/dialogues/erictalk.rpy:767
 msgid "С той, что я могу заплатить тебе больше, чем якобы должен."
-msgstr ""
+msgstr "Con quella che posso pagarti piu ' di quanto dovrei."
 
 #    # game/dialogues/erictalk.rpy:767
 msgid "С той, что у меня есть кое-что на тебя."
-msgstr ""
+msgstr "Perché ho qualcosa su di te."
 
 #    # game/dialogues/erictalk.rpy:785
 msgid "Ты мутный тип, а моя мама заслуживает лучшего!"
-msgstr ""
+msgstr "Sei un tipo fangoso e mia madre merita di meglio!"
 
 #    # game/dialogues/erictalk.rpy:785
 msgid "Сестрёнок моих ты не получишь!"
-msgstr ""
+msgstr "Non avrai le mie sorelle!"
 
 #    # game/dialogues/erictalk.rpy:795
 msgid "{i}вернуться в свою комнату{/i}"
-msgstr ""
+msgstr "{i}Torna nella tua stanza{/i}"
 
 #    # game/dialogues/erictalk.rpy:806
 msgid "Не шуми. Держи, всё равно не пригодился..."
-msgstr ""
+msgstr "Non fare rumore. Tieni, non ti serve..."
 
 #    # game/dialogues/erictalk.rpy:810
 msgid "{i}смириться{/i}"
-msgstr ""
+msgstr "{i}venire a patti{/i}"
 
