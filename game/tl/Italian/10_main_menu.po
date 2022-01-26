@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-15 09:09\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
-msgstr ""
+msgstr "{color=[lime]}L'impostazione dettagliata di uno dei costumi %s nel menu principale è aperta{/color}"
 
 #    # game/core/10_main_menu.rpy:287
 msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-msgstr ""
+msgstr "{color=#00FF00}Nuovo costume %s per il menu principale aperto{/color}"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шорты"
@@ -86,7 +86,7 @@ msgstr "Calze"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Топик"
-msgstr ""
+msgstr "Argomento"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Шортики"
@@ -98,53 +98,53 @@ msgstr "Cappello"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Бабочка на шею"
-msgstr ""
+msgstr "Collo a farfalla"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Мишура на груди"
-msgstr ""
+msgstr "Orpelli sul petto"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Минилиф"
-msgstr ""
+msgstr "Minilife"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Миниплавки"
-msgstr ""
+msgstr "Mini-melts"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Сорочка"
-msgstr ""
+msgstr "Camicia"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Свитер без рукавов"
-msgstr ""
+msgstr "Maglione senza maniche"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Откровенный корсет"
-msgstr ""
+msgstr "Candid corsetto"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Браслетики на запястья"
-msgstr ""
+msgstr "Braccialetti sul polso"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Юбочка"
-msgstr ""
+msgstr "Gonna"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Штанишки"
-msgstr ""
+msgstr "Pantaloni"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Леденец на шею"
-msgstr ""
+msgstr "Lecca-lecca sul collo"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Свитер с рукавами"
-msgstr ""
+msgstr "Maglione a maniche lunghe"
 
 #    # game/core/10_main_menu.rpy:416
 msgid "Колготки"
-msgstr ""
+msgstr "Collant"
 
