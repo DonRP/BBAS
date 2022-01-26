@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # game/dialogues/breakfast.rpy:14# translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
@@ -1877,101 +1877,101 @@ msgstr "Beh, non così buono..."
 
 # game/dialogues/breakfast.rpy:870# translate crowdin breakfast_after_showdown_with_eric_d26cf396:
 msgid "[Ann_00]Всем приятного аппетита! Давайте просто помолчим и поедим."
-msgstr ""
+msgstr "[Ann_00]Buon appetito a tutti! Stiamo zitti e mangiamo."
 
 # game/dialogues/breakfast.rpy:871# translate crowdin breakfast_after_showdown_with_eric_8a681cc1:
 msgid "[Max_00]Конечно..."
-msgstr ""
+msgstr "[Max_00]Naturalmente..."
 
 # game/dialogues/breakfast.rpy:872# translate crowdin breakfast_after_showdown_with_eric_fcdb0431:
 msgid "[Lisa_10]Подожди, мам, ты почему такая грустная? Неужели до сих пор грустишь из-за Эрика?"
-msgstr ""
+msgstr "[Lisa_10]Aspetta, mamma, perché sei così triste? Sei ancora triste per Eric?"
 
 # game/dialogues/breakfast.rpy:873# translate crowdin breakfast_after_showdown_with_eric_59835e43:
 msgid "[Alice_05]Мама, да не переживай ты так! Мужиков этих, как грязи, а ты у нас красавица! Они к тебе сами слетаться будут, как пчёлы на мёд, только выбирай!"
-msgstr ""
+msgstr "[Alice_05]Mamma, non preoccuparti così tanto! Ci sono molti uomini là fuori, e tu sei una bellezza! Accorreranno a te come le api al miele, basta scegliere!"
 
 # game/dialogues/breakfast.rpy:874# translate crowdin breakfast_after_showdown_with_eric_64589ce5:
 msgid "[Max_07]Вот не надо... Что-то случилось?"
-msgstr ""
+msgstr "[Max_07]Non... È successo qualcosa?"
 
 # game/dialogues/breakfast.rpy:875# translate crowdin breakfast_after_showdown_with_eric_523c4edf:
 msgid "[Ann_12]Эээ... В некотором смысле, да... Это всё из-за работы..."
-msgstr ""
+msgstr "[Ann_12]Ehm... In un certo senso, sì... È tutta una questione di lavoro..."
 
 # game/dialogues/breakfast.rpy:876# translate crowdin breakfast_after_showdown_with_eric_aa6a0925:
 msgid "[Kira_14]Аня, что опять стряслось?! На тебе лица нет!"
-msgstr ""
+msgstr "[Kira_14]Anya, cosa c'è di nuovo che non va?! Non hai la faccia!"
 
 # game/dialogues/breakfast.rpy:877# translate crowdin breakfast_after_showdown_with_eric_c53523b1:
 msgid "[Max_09]Да, мам... в чём дело?"
-msgstr ""
+msgstr "[Max_09]Sì, mamma... cosa c'è?"
 
 # game/dialogues/breakfast.rpy:878# translate crowdin breakfast_after_showdown_with_eric_d19c6569:
 msgid "[Ann_14]Нуу... Если вы помните, то Эрик мой начальник и, как вы все прекрасно понимаете, теперь у нас с ним складываются весьма натянутые отношения."
-msgstr ""
+msgstr "[Ann_14]Bene... Se vi ricordate, Eric è il mio capo e, come tutti sapete, io e lui abbiamo un rapporto molto teso ora."
 
 # game/dialogues/breakfast.rpy:879# translate crowdin breakfast_after_showdown_with_eric_e556daca:
 msgid "[Alice_06]Ничего себе... Я и забыла, что вы работаете вместе. Так может это и к лучшему? Может тебе уволиться, чтобы нервы не трепать? Устроишься в другое место! Лучше прежнего!"
-msgstr ""
+msgstr "[Alice_06]Wow... Avevo dimenticato che voi due lavoraste insieme. Quindi forse è meglio così. Perché non smetti, così non ti innervosisci? Troverai un altro lavoro! Meglio di prima!"
 
 # game/dialogues/breakfast.rpy:880# translate crowdin breakfast_after_showdown_with_eric_8b47b3d2:
 msgid "[Max_00]Согласен с Алисой!"
-msgstr ""
+msgstr "[Max_00]Sono d'accordo con Alice!"
 
 # game/dialogues/breakfast.rpy:881# translate crowdin breakfast_after_showdown_with_eric_6cb65c7a:
 msgid "[Kira_15]Слушай, Ань, а может тебе и правда уйти? Как можно терпеть каждый день человека, который сделал тебе столько гадостей?"
-msgstr ""
+msgstr "[Kira_15]Senti, Anja, perché non te ne vai davvero? Come puoi sopportare ogni giorno qualcuno che ti ha fatto così tanto male?"
 
 # game/dialogues/breakfast.rpy:882# translate crowdin breakfast_after_showdown_with_eric_d661b13d:
 msgid "[Ann_13]Боюсь, что с этим могут быть проблемы..."
-msgstr ""
+msgstr "[Ann_13]Temo che ci possa essere un problema con questo..."
 
 # game/dialogues/breakfast.rpy:883# translate crowdin breakfast_after_showdown_with_eric_024b2013:
 msgid "[Max_09]В каком смысле, мам?"
-msgstr ""
+msgstr "[Max_09]Cosa vuoi dire, mamma?"
 
 # game/dialogues/breakfast.rpy:884# translate crowdin breakfast_after_showdown_with_eric_f91c5150:
 msgid "[Ann_14]В общем, он очень злопамятным оказался. Пообещал, что постарается, чтобы я никогда не смогла найти приличную работу в этом городе. Злорадствует, гад!"
-msgstr ""
+msgstr "[Ann_14]Comunque, era molto vendicativo. Mi ha promesso che si sarebbe assicurato che non avrei mai trovato un lavoro decente in questa città. Gongola, il bastardo!"
 
 # game/dialogues/breakfast.rpy:885# translate crowdin breakfast_after_showdown_with_eric_bfdeb3ee:
 msgid "[Max_16]Вот подонок! И это после всего, что он тут устроил?!"
-msgstr ""
+msgstr "[Max_16]Che bastardo! Dopo tutto quello che ha fatto qui?!"
 
 # game/dialogues/breakfast.rpy:886# translate crowdin breakfast_after_showdown_with_eric_5b0614af:
 msgid "[Ann_17]Наверное, я поступила слишком резко, выставив его за дверь..."
-msgstr ""
+msgstr "[Ann_17]Forse sono stato troppo duro, buttandolo fuori dalla porta..."
 
 # game/dialogues/breakfast.rpy:887# translate crowdin breakfast_after_showdown_with_eric_1dd25179:
 msgid "[Lisa_13]Мам, что ты такое говоришь? Неужели ты готова смириться с тем, чтобы тебя и нас развращал этот мерзавец? Вдруг он действительно... маньяк!"
-msgstr ""
+msgstr "[Lisa_13]Mamma, di cosa stai parlando? Sei davvero disposto a lasciare che quella canaglia corrompa te e noi? E se lui fosse davvero... un maniaco!"
 
 # game/dialogues/breakfast.rpy:888# translate crowdin breakfast_after_showdown_with_eric_62c62745:
 msgid "[Ann_13]Ага! То хвостом вертели, крутились вокруг него, подарочки принимали. Эрик хороший! Эрик добрый! Мама с Эриком так счастлива! А теперь маньяк?!"
-msgstr ""
+msgstr "[Ann_13]Sì! Sai, scodinzolando intorno a lui, dandogli regali. Eric è bravo! Eric è simpatico, la mamma e Eric sono così felici! E ora un maniaco?!"
 
 # game/dialogues/breakfast.rpy:889# translate crowdin breakfast_after_showdown_with_eric_ee4c327b:
 msgid "[Alice_16]А тех доказательств, что предоставил Макс, тебе недостаточно? Может будет убедительнее, когда Эрик устроит оргию со всеми нами прямо у тебя на глазах?"
-msgstr ""
+msgstr "[Alice_16]Non ti bastano le prove che ti ha dato Max? Non sarebbe più convincente se Eric facesse un'orgia con tutti noi proprio davanti a te?"
 
 # game/dialogues/breakfast.rpy:890# translate crowdin breakfast_after_showdown_with_eric_6ff1ea73:
 msgid "[Kira_01]Прекрати, Аня, мы что-нибудь обязательно придумаем!"
-msgstr ""
+msgstr "[Kira_01]Smettila, Anya, penseremo a qualcosa!"
 
 # game/dialogues/breakfast.rpy:891# translate crowdin breakfast_after_showdown_with_eric_66e7da4f:
 msgid "[Max_07]Да, мам. Что-нибудь придумаем!"
-msgstr ""
+msgstr "[Max_07]Sì, mamma. Penseremo a qualcosa!"
 
 # game/dialogues/breakfast.rpy:892# translate crowdin breakfast_after_showdown_with_eric_e1136eba:
 msgid "[Ann_00]Спасибо вам за поддержку, мои родные! Я постараюсь поменьше контактировать с Эриком. Если уже в конец достанет, то уйду с работы."
-msgstr ""
+msgstr "[Ann_00]Grazie per il vostro sostegno, mia famiglia! Cercherò di avere meno contatti con Eric. Se diventa troppo per me, lascerò il mio lavoro."
 
 # game/dialogues/breakfast.rpy:893# translate crowdin breakfast_after_showdown_with_eric_81418ab0:
 msgid "[Max_01]Мы рядом, мам, это главное."
-msgstr ""
+msgstr "[Max_01]Siamo qui per te, mamma, è tutto ciò che conta."
 
 # game/dialogues/breakfast.rpy:894# translate crowdin breakfast_after_showdown_with_eric_8d40d181:
 msgid "[Ann_01]Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
-msgstr ""
+msgstr "[Ann_01]Grazie a tutti per la colazione... Vado a stare da solo con i miei pensieri."
 
