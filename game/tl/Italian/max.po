@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # game/events/max.rpy:4# translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -1113,7 +1113,7 @@ msgstr "[Max_07]{m}Sì, potrebbe funzionare - prestiti a breve termine agli impr
 
 # game/events/max.rpy:1036# translate crowdin about_credit_90bb447c:
 msgid "[Max_01]Бла, бла, бла... ... если у Вас есть работающий проект в интернете, мы предоставляем займы на раскрутку Вашего бизнеса..."
-msgstr ""
+msgstr "[Max_01]Bla, bla, bla... ... Se hai un progetto di lavoro su Internet, forniamo prestiti per promuovere il tuo business..."
 
 # game/events/max.rpy:1038# translate crowdin about_credit_73692d65:
 msgid "[Max_04]{m}Подытожим условия: \n"
@@ -1158,5 +1158,5 @@ msgid "[Max_09]{m}Да, диктофон есть. Теперь, пока Лиз
 msgstr "[Max_09]{m}Sì, c'è un registratore. Ora, prima che Lisa torni, dobbiamo andare da Eric e cercare di smascherarlo...{/m}[nointeract]"
 
 msgid "{i}идти к Эрику с включённым диктофоном{/i}"
-msgstr ""
+msgstr "{i}per andare da Eric con il registratore acceso{/i}"
 
