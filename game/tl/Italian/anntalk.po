@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # game/dialogues/anntalk.rpy:17# translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -1585,24 +1585,24 @@ msgstr "Mamma, il tuo asciugamano sta scivolando..."
 
 # game/dialogues/anntalk.rpy:22# translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
-msgstr ""
+msgstr "[Ann_17]Vai via, Max. Non abbiamo niente di cui parlare finché non restituisci i soldi a Eric e ti scusi con lui e con tutti noi![nointeract]"
 
 # game/dialogues/anntalk.rpy:1466# translate crowdin ann_about_wallet_90e1fc67:
 msgid "[Ann_16]Ты вернул Эрику бумажник и деньги?"
-msgstr ""
+msgstr "[Ann_16]Hai ridato a Eric il suo portafoglio e i suoi soldi?"
 
 # game/dialogues/anntalk.rpy:1467# translate crowdin ann_about_wallet_0b099756:
 msgid "[Max_09]Да не крал я у него ничего! Он всех обманывает!"
-msgstr ""
+msgstr "[Max_09]Non gli ho rubato niente! Sta imbrogliando tutti!"
 
 # game/dialogues/anntalk.rpy:1468# translate crowdin ann_about_wallet_33bee417:
 msgid "[Ann_18]Пока не вернёшь, даже не подходи ко мне, Макс! Всё настроение от тебя только портится. А уж как мне перед Эриком стыдно..."
-msgstr ""
+msgstr "[Ann_18]Finché non lo farai, non avvicinarti nemmeno, Max! Mi fai sentire male. E quanto sono imbarazzata di fronte a Eric..."
 
 # game/dialogues/anntalk.rpy:1469# translate crowdin ann_about_wallet_a7053e1b:
 msgid "[Max_11]Как скажешь, мам."
-msgstr ""
+msgstr "[Max_11]Come dici tu, mamma."
 
 msgid "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
-msgstr ""
+msgstr "{b}Attenzione:{/b} Anna non vuole più interagire con Max"
 
