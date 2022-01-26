@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-01-26 18:41\n"
 
 # game/events/kira.rpy:26# translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -3149,7 +3149,7 @@ msgstr "[Max_05]{m}Ugh... Ha iniziato ad accarezzare la sua figa... Questo sì c
 
 # game/events/kira.rpy:1028# translate crowdin kira_night_tv_900519e1:
 msgid "[Max_03]Конечно, тётя Кира. Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
-msgstr ""
+msgstr "[Max_03]Certo, zia Kira. Non riesco a dormire. Posso anche guardare la televisione con te?"
 
 # game/events/kira.rpy:1033# translate crowdin kira_night_tv_900519e1_1:
 msgid "[Max_03]Конечно, тётя Кира. Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
@@ -3165,11 +3165,11 @@ msgstr "[Max_05]{m}Ugh... Ha iniziato ad accarezzare la sua figa... Questo sì c
 
 # game/events/kira.rpy:1441# translate crowdin kira_night_tv_second_lesson_85e001ed:
 msgid "[Kira_04]Уже значительно лучше. С сегодняшним уроком ты справился очень хорошо, но хорошего помаленьку. А то у тебя будет мозоль на языке... А теперь бегом спать! Я тут планирую ещё немного телик посмотреть..."
-msgstr ""
+msgstr "[Kira_04]Ora va molto meglio. Hai fatto molto bene con la lezione di oggi, ma bene a poco a poco. Ti verrà un callo sulla lingua... Ora a letto! Ho intenzione di guardare ancora un po' di Tv..."
 
 # game/events/kira.rpy:1452# translate crowdin kira_night_tv_second_lesson_30137438:
 msgid "[Kira_04][failed!t]Уже значительно лучше. С сегодняшним уроком ты справился очень хорошо, но хорошего помаленьку. А то у тебя будет мозоль на языке... А теперь бегом спать! Я тут планирую ещё немного телик посмотреть..."
-msgstr ""
+msgstr "[Kira_04][failed!t]Ora va molto meglio. Hai fatto molto bene con la lezione di oggi, ma bene a poco a poco. Ti verrà un callo sulla lingua... Ora a letto! Ho intenzione di guardare ancora un po' di Tv..."
 
 # game/events/kira.rpy:1587# translate crowdin kira_night_tv_repeat_lesson_941d71d2:
 msgid "[Max_20][restrain!t]{m}Ухх, она так нежно посасывает головку моего члена... Видно, что это не так-то просто... ей еле хватает рта, чтобы это сделать.{/m}[nointeract]"
@@ -3281,63 +3281,63 @@ msgstr "[Max_05]{m}Ecco, zia Kira... Dai alla tua figa una bella carezza per me!
 
 # game/events/kira.rpy:2453# translate crowdin kira_shower_sex_daa07887:
 msgid "[Kira_02]А, Макс, конечно не помешаешь! Лишь бы никто нас не увидел. Присоединяйся...[nointeract]"
-msgstr ""
+msgstr "[Kira_02]Ah, Max, certo che lo farai! Basta che nessuno ci veda. Vieni e unisciti a noi...[nointeract]"
 
 # game/events/kira.rpy:2458# translate crowdin kira_shower_sex_48c799ee:
 msgid "[Kira_05]А я тут стою, вся такая мокренькая и думаю - забыл обо мне мой племянничек или нет. И ночью тебя не было."
-msgstr ""
+msgstr "[Kira_05]E io sono qui tutta bagnata e mi chiedo se mio nipote si è dimenticato di me o no. E tu non c'eri ieri sera."
 
 # game/events/kira.rpy:2459# translate crowdin kira_shower_sex_460cc511:
 msgid "[Max_03]Как о тебе можно забыть, тётя Кира? А ночью я вымотался. Зато сейчас во мне полно сил..."
-msgstr ""
+msgstr "[Max_03]Come si potrebbe dimenticare di te, zia Kira? Ieri sera ero esausto. Ma ora sono pieno di energia..."
 
 # game/events/kira.rpy:2460# translate crowdin kira_shower_sex_86196ff7:
 msgid "[Kira_07]И что, мой дорогой племянник потратит немного сил на свою обожаемую тётю?"
-msgstr ""
+msgstr "[Kira_07]E cosa, il mio caro nipote spenderà un po' di energia per la sua zia adorante?"
 
 # game/events/kira.rpy:2462# translate crowdin kira_shower_sex_e941b8a6:
 msgid "[Max_02]За этим я и пришёл, тётя Кира![nointeract]"
-msgstr ""
+msgstr "[Max_02]Ecco perché sono qui, zia Kira![nointeract]"
 
 # game/events/kira.rpy:2473# translate crowdin kira_shower_sex_b8948e92:
 msgid "[Kira_04]Ох... Ты тот ещё шалунишка! Я обожаю, когда твои ловкие пальчики ласкают меня там внизу... Ммм... Да-а-а! Делай это ещё быстрее...[nointeract]"
-msgstr ""
+msgstr "[Kira_04]Oh... Sei proprio un ragazzaccio! Mi piace quando le tue dita agili mi accarezzano là sotto... Mmm... Sì, fallo più velocemente...[nointeract]"
 
 # game/events/kira.rpy:2478# translate crowdin kira_shower_sex_7ca5775c:
 msgid "[Kira_11]О да... Ещё, Макс... Я уже близко... Так приятно...[nointeract]"
-msgstr ""
+msgstr "[Kira_11]Oh, sì... Di più, Max... Mi sto avvicinando... Ci si sente così bene...[nointeract]"
 
 # game/events/kira.rpy:2486# translate crowdin kira_shower_sex_76f12159:
 msgid "[Kira_12]Ухх... Да, ещё... быстрее и глубже... Ммм, ещё чуть-чуть и я кончу... Ах! Да-а-а! Как же хорошо!"
-msgstr ""
+msgstr "[Kira_12]Uh... Sì, anche... più veloce e più profondo... Mmm, ancora un po' e vengo... Ah! Sì! Che bella sensazione!"
 
 # game/events/kira.rpy:2487# translate crowdin kira_shower_sex_e61b7117:
 msgid "[Max_04]Ну как, тётя Кира? Я приподнял твоё настроение на сегодня?"
-msgstr ""
+msgstr "[Max_04]Come è stato, zia Kira? Ti ho tirato su il morale per oggi?"
 
 # game/events/kira.rpy:2493# translate crowdin kira_shower_sex_287411ce:
 msgid "[Kira_08]Однозначно! А у тебя-то какое приподнятое настроение! Давай-ка я тебе помогу приподнять его ещё сильнее... Нравится?"
-msgstr ""
+msgstr "[Kira_08]Decisamente! Sei di buon umore, vero? Lascia che ti aiuti ad alzarlo ancora di più... Ti piace?"
 
 # game/events/kira.rpy:2494# translate crowdin kira_shower_sex_4448b24f:
 msgid "[Max_05]О да! Продолжай..."
-msgstr ""
+msgstr "[Max_05]Oh sì! Vai avanti..."
 
 # game/events/kira.rpy:2495# translate crowdin kira_shower_sex_2b4065e5:
 msgid "[Kira_10]Ты хоть представляешь, Макс, что будет, если нас застукают за таким?"
-msgstr ""
+msgstr "[Kira_10]Hai idea, Max, cosa succede se veniamo informati per questo?"
 
 # game/events/kira.rpy:2496# translate crowdin kira_shower_sex_f1756a61:
 msgid "[Max_07]Боюсь даже представить... Может, сделать всё по-быстрому?"
-msgstr ""
+msgstr "[Max_07]Ho paura di immaginare... Che ne dite di una soluzione rapida?"
 
 # game/events/kira.rpy:2502# translate crowdin kira_shower_sex_87d047c4:
 msgid "[Kira_02]И смотри по сторонам, чтобы никто не увидел, что мы делаем! Мы ведь с тобой такими плохими делишками занимаемся..."
-msgstr ""
+msgstr "[Kira_02]E tieni gli occhi aperti in modo che nessuno veda quello che stiamo facendo! Io e te facciamo cose così brutte, vero..."
 
 # game/events/kira.rpy:2503# translate crowdin kira_shower_sex_fe79864c:
 msgid "[Max_02]Само собой, тётя Кира!"
-msgstr ""
+msgstr "[Max_02]Certo, zia Kira!"
 
 # game/events/kira.rpy:2510# translate crowdin kira_shower_sex_6a8246c5:
 msgid "[Max_20]{m}Ох, как она сосёт... Да так глубоко... Даже не знаю, что я буду говорить, если нас кто-нибудь увидит. Когда тётя Кира берётся за чувственный минет, становится всё рано, что там будет дальше. Блин, я уже на грани... Вот-вот и кончу... Отпадно!{/m}[nointeract]"
@@ -3349,19 +3349,19 @@ msgstr "[Max_22]{m}sì... Sto cumming... Proprio nella sua bocca! Oh Signore... 
 
 # game/events/kira.rpy:2523# translate crowdin kira_shower_sex_a3bdee18:
 msgid "[Kira_11]Ухх... Макс! Хватит уже дразнить мою киску... В такие моменты я сразу начинаю скучать по твоему твёрдому и большому члену!"
-msgstr ""
+msgstr "[Kira_11]Uh... Max! Smettila di prendere in giro la mia figa... È in momenti come questo che mi manca immediatamente il tuo cazzo duro e grosso!"
 
 # game/events/kira.rpy:2530# translate crowdin kira_shower_sex_dba6cc23:
 msgid "[Max_07]Так зачем скучать? Вот же он... Разве не чувствуешь?[nointeract]"
-msgstr ""
+msgstr "[Max_07]Quindi perché perderlo? Eccolo lì... Non lo senti?[nointeract]"
 
 # game/events/kira.rpy:2538# translate crowdin kira_shower_sex_b81555c3:
 msgid "[Kira_12]Д-а-а... Ещё... Ох, Макс, не останавливайся! Сожми мою попку покрепче! Вгоняй его в меня сильнее... Ещё! Трахни свою тётю пожёстче... Я еле сдерживаюсь... Ох, как хорошо! Ещё! Да, я кончаю... Ахх...[nointeract]"
-msgstr ""
+msgstr "[Kira_12]Y-a-a... Più... Oh, Max, non fermarti! Stringi il mio culo più forte. Spingilo dentro di me più forte... Di più! Scopati tua zia con forza... Riesco a malapena a tenerlo dentro... Oh, che bella sensazione. Ancora! Sì, sto arrivando... Ahhh...[nointeract]"
 
 # game/events/kira.rpy:2546# translate crowdin kira_shower_sex_533c7f7f:
 msgid "[Kira_07]Фух! Неплохо развлеклись, Макс. Надеюсь, никто не услышал мои стоны. Вроде, нет. Тогда я ещё успею кое-что сделать..."
-msgstr ""
+msgstr "[Kira_07]È stato divertente, Max. Spero che nessuno mi abbia sentito gemere. Credo di no. Allora sono ancora in tempo per fare qualcosa..."
 
 # game/events/kira.rpy:2552# translate crowdin kira_shower_sex_fafcb6cb:
 msgid "[Max_22]{m}Ах! О боже... Она так смачно посасывает головку моего члена... Вот это отсос, так отсос! Кажется, это самое офигенное развлечение в мире!{/m}"
@@ -3369,19 +3369,19 @@ msgstr "[Max_22]{m}Ah! Oh, mio... Sta succhiando la testa del mio cazzo così fo
 
 # game/events/kira.rpy:2556# translate crowdin kira_shower_sex_74184a9e:
 msgid "[Kira_05]Ну вот. Понравилось? И ни капли мимо..."
-msgstr ""
+msgstr "[Kira_05]Bene. Benvoluto? E non una goccia da..."
 
 # game/events/kira.rpy:2557# translate crowdin kira_shower_sex_deee8dbc:
 msgid "[Max_05]Ты потрясающая! Это было классно!"
-msgstr ""
+msgstr "[Max_05]Sei fantastico! È stato fantastico!"
 
 # game/events/kira.rpy:2558# translate crowdin kira_shower_sex_8eeb46c7:
 msgid "[Kira_01]Я рада, что ты зашёл ко мне. А теперь, давай разбегаться, пока нас кто-нибудь не увидел..."
-msgstr ""
+msgstr "[Kira_01]Это было весело, Макс. Надеюсь, никто не слышал моих стонов. Думаю, нет. Тогда у меня еще есть время кое-что сделать..."
 
 # game/events/kira.rpy:2559# translate crowdin kira_shower_sex_9b836c58:
 msgid "[Max_04]Конечно!"
-msgstr ""
+msgstr "[Max_04]Certo!"
 
 # game/events/kira.rpy:2577# translate crowdin kira_lisa_shower_096d6593:
 msgid "[Max_00]{m}Лиза и Кира принимают душ, не стоит им мешать...{/m}[nointeract]"
@@ -3568,13 +3568,13 @@ msgstr "Non riesco a dormire. Posso anche guardare la televisione con te?"
 
 #    # game/events/kira.rpy:2311
 msgid "Я не помешаю?"
-msgstr ""
+msgstr "Ti disturbo?"
 
 #    # game/events/kira.rpy:2472
 msgid "{i}ласкать быстрее{/i}"
-msgstr ""
+msgstr "{i}accarezzare più velocemente{/i}"
 
 #    # game/events/kira.rpy:2472
 msgid "{i}ласкать медленнее{/i}"
-msgstr ""
+msgstr "{i}accarezzare più lentamente{/i}"
 
