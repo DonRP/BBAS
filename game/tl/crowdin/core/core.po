@@ -45,12 +45,12 @@ msgid "[Max_07]{m}Интересно, а в чём тётя Кира будет 
 msgstr "[Max_07]{m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
 
 # game/core/core.rpy:821# translate crowdin after_load_84f87582:
-msgid "[ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr "[ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:827# translate crowdin after_load_e53fbeb7:
-msgid "[_ver [_version], conf.ver [config.version]"
-msgstr "[_ver [_version], conf.ver [config.version]"
+msgid "_ver [_version], conf.ver [config.version]"
+msgstr "_ver [_version], conf.ver [config.version]"
 
 ## # translate crowdin strings:#    # game/core/core.rpy:363
 msgid "В интернет-магазине доступен новый товар."
