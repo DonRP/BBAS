@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-14 09:07\n"
+"PO-Revision-Date: 2022-01-29 11:06\n"
 
 # game/core/core.rpy:496# translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
@@ -57,11 +57,11 @@ msgid "[Max_07]{m}Интересно, а в чём тётя Кира будет 
 msgstr "[Max_07]{m}Mi chiedo con cosa verrà fotografata la zia Kira fuori dai suoi vestiti? Ne ha bisogno per il suo portafoglio porno... Quindi forse dovrei prendere qualcosa di sexy per lei. Come una camicia da notte più rivelatrice! Questo sarebbe un vantaggio per me...{/m}"
 
 # game/core/core.rpy:821# translate crowdin after_load_84f87582:
-msgid "[ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
 msgstr ""
 
 # game/core/core.rpy:827# translate crowdin after_load_e53fbeb7:
-msgid "[_ver [_version], conf.ver [config.version]"
+msgid "_ver [_version], conf.ver [config.version]"
 msgstr ""
 
 msgid "В интернет-магазине доступен новый товар."
