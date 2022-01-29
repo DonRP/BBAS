@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-01-09 20:45\n"
+"PO-Revision-Date: 2022-01-29 11:08\n"
 
 # game/dialogues/anntalk.rpy:17# translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -41,7 +41,7 @@ msgid "[Max_00]Ок, мам..."
 msgstr ""
 
 # game/dialogues/anntalk.rpy:83# translate crowdin ann_ask_money_cf2d6379:
-msgid "[При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
+msgid "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
 msgstr ""
 
 # game/dialogues/anntalk.rpy:87# translate crowdin ann_ask_money_59ac536a:
