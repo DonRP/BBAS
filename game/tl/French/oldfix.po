@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-20 08:32\n"
+"PO-Revision-Date: 2022-01-29 11:06\n"
 
 # game/core/oldfix.rpy:6# translate crowdin old_fix_6c975de3:
-msgid "[Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
-msgstr "[Enregistrer la version techno-démo ne sont pas pris en charge. Commencez une nouvelle partie ou sélectionnez une autre sauvegarde."
+msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
+msgstr ""
 
 # game/core/oldfix.rpy:10# translate crowdin old_fix_93331e6b:
-msgid "[К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-msgstr "[Malheureusement, cette version n'est pas prise en charge en raison d'un grand nombre de modifications internes. Commencez une nouvelle partie ou sélectionnez une autre sauvegarde."
+msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+msgstr ""
 
 # game/core/oldfix.rpy:14# translate crowdin old_fix_93331e6b_1:
-msgid "[К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-msgstr "[Malheureusement, cette version n'est pas prise en charge en raison d'un grand nombre de modifications internes. Commencez une nouvelle partie ou sélectionnez une autre sauvegarde."
+msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+msgstr ""
 
 msgid "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
 msgstr "{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
