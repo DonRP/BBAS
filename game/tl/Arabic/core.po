@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-01-09 20:44\n"
+"PO-Revision-Date: 2022-01-29 11:08\n"
 
 # game/core/core.rpy:496# translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
@@ -57,11 +57,11 @@ msgid "[Max_07]{m}Интересно, а в чём тётя Кира будет 
 msgstr ""
 
 # game/core/core.rpy:821# translate crowdin after_load_84f87582:
-msgid "[ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
 msgstr ""
 
 # game/core/core.rpy:827# translate crowdin after_load_e53fbeb7:
-msgid "[_ver [_version], conf.ver [config.version]"
+msgid "_ver [_version], conf.ver [config.version]"
 msgstr ""
 
 msgid "В интернет-магазине доступен новый товар."
