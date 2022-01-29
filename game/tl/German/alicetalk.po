@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-01-09 20:45\n"
+"PO-Revision-Date: 2022-01-29 11:07\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -2775,7 +2775,7 @@ msgid "[Alice_07]Как приятно... Макс, ты делаешь успе
 msgstr ""
 
 # game/dialogues/alicetalk.rpy:2888# translate crowdin massage_sunscreen_ass_e47a4169:
-msgid "[попка"
+msgid "попка"
 msgstr ""
 
 # game/dialogues/alicetalk.rpy:2909# translate crowdin massage_sunscreen_hips_cac75cfe:
