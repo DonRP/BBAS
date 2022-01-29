@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-26 18:41\n"
+"PO-Revision-Date: 2022-01-29 11:07\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -1289,7 +1289,7 @@ msgid "[Lisa_02]Отлично. В общем, мне нужно сделать 
 msgstr "[Lisa_02]Ottimo. Quindi ho bisogno di fare questo, questo e questo. Guida?[nointeract]"
 
 # game/dialogues/lisatalk.rpy:1074# translate crowdin Lisa_HomeWork_641cf30e:
-msgid "[{i}Спустя какое-то время...{/i}"
+msgid "{i}Спустя какое-то время...{/i}"
 msgstr ""
 
 # game/dialogues/lisatalk.rpy:1075# translate crowdin Lisa_HomeWork_c91852c6:
@@ -1709,7 +1709,7 @@ msgid "[Max_01]Хорошо. Договорились."
 msgstr "[Max_01]Va bene. Fatto."
 
 # game/dialogues/lisatalk.rpy:1489# translate crowdin Lisa_HomeWork_new_self_641cf30e:
-msgid "[{i}Спустя какое-то время...{/i}"
+msgid "{i}Спустя какое-то время...{/i}"
 msgstr ""
 
 # game/dialogues/lisatalk.rpy:1490# translate crowdin Lisa_HomeWork_new_self_64ba960e:
