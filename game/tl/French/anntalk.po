@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-20 08:32\n"
+"PO-Revision-Date: 2022-01-29 11:05\n"
 
 # game/dialogues/anntalk.rpy:17# translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -41,8 +41,8 @@ msgid "[Max_00]Ок, мам..."
 msgstr "[Max_00]Ok, maman..."
 
 # game/dialogues/anntalk.rpy:83# translate crowdin ann_ask_money_cf2d6379:
-msgid "[При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
-msgstr "[Dans le cours normal des choses, cette ligne n'aurait pas dû apparaître. Informez le développeur."
+msgid "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
+msgstr ""
 
 # game/dialogues/anntalk.rpy:87# translate crowdin ann_ask_money_59ac536a:
 msgid "[Ann_05]Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста...[nointeract]"
