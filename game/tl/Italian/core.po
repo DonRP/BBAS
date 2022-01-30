@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-29 11:06\n"
+"PO-Revision-Date: 2022-01-30 11:25\n"
 
 # game/core/core.rpy:496# translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
@@ -58,11 +58,11 @@ msgstr "[Max_07]{m}Mi chiedo con cosa verrà fotografata la zia Kira fuori dai s
 
 # game/core/core.rpy:821# translate crowdin after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:827# translate crowdin after_load_e53fbeb7:
 msgid "_ver [_version], conf.ver [config.version]"
-msgstr ""
+msgstr "_ver [_version], conf.ver [config.version]"
 
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nuovo prodotto è disponibile nel negozio online."
