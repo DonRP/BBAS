@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -380,28 +380,28 @@ msgstr "[Max_09]{m}Ho capito cosa sta succedendo tra voi due, Alice è sul collo
 msgid "[Max_08]{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
 msgstr "[Max_08]{m}Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog... Ma davvero, solo per guardare Alice in mutande, lo so...{/m}"
 
-msgid "{i}Конечно{/i}"
-msgstr "{i}Certo{/i}"
+    old "{i}Конечно{/i}"
+    new "{i}Certo{/i}"
 
 #    # game/events/alice_cam.rpy:72
-msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgstr "{i}Prendi la macchina fotografica e vai alla finestra di Alice{/i}"
+    old "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
+    new "{i}Prendi la macchina fotografica e vai alla finestra di Alice{/i}"
 
 #    # game/events/alice_cam.rpy:72
-msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgstr "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
+    old "{i}Да и хрен с ним, пусть дрочит{/i}"
+    new "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
 
 #    # game/events/alice_cam.rpy:83
-msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgstr "{i}Prendi la macchina fotografica e vai al balcone{/i}"
+    old "{i}Взять фотоаппарат и пойти на балкон{/i}"
+    new "{i}Prendi la macchina fotografica e vai al balcone{/i}"
 
 #    # game/events/alice_cam.rpy:327
-msgid "{i}продолжать смотреть{/i}"
-msgstr "{i}continua a guardare{/i}"
+    old "{i}продолжать смотреть{/i}"
+    new "{i}continua a guardare{/i}"
 
 #    # game/events/alice_cam.rpy:327
-msgid "{i}достаточно{/i}"
-msgstr "{i}abbastanza{/i}"
+    old "{i}достаточно{/i}"
+    new "{i}abbastanza{/i}"
 
 # game/events/alice_cam.rpy:25# translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07]{m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"

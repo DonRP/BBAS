@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -232,8 +232,8 @@ msgstr "[Max_02]Questo è tutto! Non puoi durare a lungo con Kira... Soprattutto
 msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
 msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
 
-msgid "{i}встретить их{/i}"
-msgstr "{i}li incontriamo{/i}"
+    old "{i}встретить их{/i}"
+    new "{i}li incontriamo{/i}"
 
 # game/events/kira_cam.rpy:7# translate crowdin cam0_kira_sleep_night_07884053:
 msgid "[Max_01]{m}Моя очаровательная тётя Кира спит...{/m}"

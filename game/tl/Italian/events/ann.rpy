@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -544,72 +544,72 @@ msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre posson
 msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
 msgstr "[Max_07]Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha...[nointeract]"
 
-msgid "{i}Отвернуться{/i}"
-msgstr "{i}voltare le chiavi in giavolte{/i}"
+    old "{i}Отвернуться{/i}"
+    new "{i}voltare le chiavi in giavolte{/i}"
 
 #    # game/events/ann.rpy:196
-msgid "Я не подглядывал. Это случайность!"
-msgstr "Non stavo sbirciando. È stato un incidente!"
+    old "Я не подглядывал. Это случайность!"
+    new "Non stavo sbirciando. È stato un incidente!"
 
 #    # game/events/ann.rpy:196
-msgid "Мам, извини..."
-msgstr "Mamma, mi dispiace..."
+    old "Мам, извини..."
+    new "Mamma, mi dispiace..."
 
 #    # game/events/ann.rpy:196
-msgid "Попка у тебя - что надо!"
-msgstr "Il tuo è quello di cui hai bisogno!"
+    old "Попка у тебя - что надо!"
+    new "Il tuo è quello di cui hai bisogno!"
 
 #    # game/events/ann.rpy:256
-msgid "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-msgstr "Sono io, Max. Posso entrare? Ho qualcosa per te."
+    old "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
+    new "Sono io, Max. Posso entrare? Ho qualcosa per te."
 
 #    # game/events/ann.rpy:278
-msgid "Хорошо выглядишь, мам!"
-msgstr "Hai un bell'aspetto, mamma!"
+    old "Хорошо выглядишь, мам!"
+    new "Hai un bell'aspetto, mamma!"
 
 #    # game/events/ann.rpy:278
-msgid "У меня для тебя кое-что есть."
-msgstr "Ho qualcosa per te."
+    old "У меня для тебя кое-что есть."
+    new "Ho qualcosa per te."
 
 #    # game/events/ann.rpy:278
-msgid "Зачётные сиськи!"
-msgstr "Tette!"
+    old "Зачётные сиськи!"
+    new "Tette!"
 
 #    # game/events/ann.rpy:278
-msgid "Ой, извини. Я забыл..."
-msgstr "Oh, scusa. Dimenticavo..."
+    old "Ой, извини. Я забыл..."
+    new "Oh, scusa. Dimenticavo..."
 
 #    # game/events/ann.rpy:348
-msgid "Ну мам! Этого было так мало, давай ещё..."
-msgstr "Vieni mamma! Era così poco, abbiamo di più..."
+    old "Ну мам! Этого было так мало, давай ещё..."
+    new "Vieni mamma! Era così poco, abbiamo di più..."
 
 #    # game/events/ann.rpy:348
-msgid "Конечно, мам! Хорошего тебе дня..."
-msgstr "Certo, mamma! Buona Giornata..."
+    old "Конечно, мам! Хорошего тебе дня..."
+    new "Certo, mamma! Buona Giornata..."
 
 #    # game/events/ann.rpy:437
-msgid "Ой, извини..."
-msgstr "Oh, scusa..."
+    old "Ой, извини..."
+    new "Oh, scusa..."
 
 #    # game/events/ann.rpy:626
-msgid "Это я, Макс."
-msgstr "Sono io, Max."
+    old "Это я, Макс."
+    new "Sono io, Max."
 
 #    # game/events/ann.rpy:629
-msgid "Можно я войду?"
-msgstr "Posso partecipare?"
+    old "Можно я войду?"
+    new "Posso partecipare?"
 
 #    # game/events/ann.rpy:629
-msgid "Нет, ничего"
-msgstr "No, niente"
+    old "Нет, ничего"
+    new "No, niente"
 
 #    # game/events/ann.rpy:629
-msgid "Я подожду..."
-msgstr "Aspetterò..."
+    old "Я подожду..."
+    new "Aspetterò..."
 
 #    # game/events/ann.rpy:633
-msgid "Ой, нет, я передумал"
-msgstr "Oh no, ho cambiato idea"
+    old "Ой, нет, я передумал"
+    new "Oh no, ho cambiato idea"
 
 # game/events/ann.rpy:11# translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00]{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}[nointeract]"
@@ -1035,38 +1035,38 @@ msgstr "[Max_05]{m}Wow, è ipnotizzante! Il trattamento dell'acqua della mamma r
 msgid "[Max_07]{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}[nointeract]"
 msgstr "[Max_07]{m}Eh! Sembra che la parte divertente sia finita... Anche se guardare la mamma che pulisce il suo corpo bagnato e seducente è altrettanto soddisfacente! Oh, che culo che ha...{/m}[nointeract]"
 
-msgid "А я не помешаю. Начинай..."
-msgstr "Non voglio essere d'intralcio. Iniziare..."
+    old "А я не помешаю. Начинай..."
+    new "Non voglio essere d'intralcio. Iniziare..."
 
 #    # game/events/ann.rpy:428
-msgid "У тебя самые зачётные сиськи, которые я видел!"
-msgstr "You have the coolest tits I've ever seen!"
+    old "У тебя самые зачётные сиськи, которые я видел!"
+    new "You have the coolest tits I've ever seen!"
 
 #    # game/events/ann.rpy:428
-msgid "У тебя самый потрясный зад на свете, мам!"
-msgstr "Hai il culo più bello del mondo, mamma!"
+    old "У тебя самый потрясный зад на свете, мам!"
+    new "Hai il culo più bello del mondo, mamma!"
 
 #    # game/events/ann.rpy:428
-msgid "Я просто хотел посмотреть..."
-msgstr "Volevo solo vedere..."
+    old "Я просто хотел посмотреть..."
+    new "Volevo solo vedere..."
 
 #    # game/events/ann.rpy:428
-msgid "Ой, извини. Я забыл... Хорошо выглядишь, мам!"
-msgstr "Oh, mi dispiace. Ho dimenticato... Stai bene, mamma!"
+    old "Ой, извини. Я забыл... Хорошо выглядишь, мам!"
+    new "Oh, mi dispiace. Ho dimenticato... Stai bene, mamma!"
 
 #    # game/events/ann.rpy:458
-msgid "Да не прикрывай такую красоту, все свои же!"
-msgstr "Non coprire questa bellezza, è tutta tua!"
+    old "Да не прикрывай такую красоту, все свои же!"
+    new "Non coprire questa bellezza, è tutta tua!"
 
 #    # game/events/ann.rpy:458
-msgid "Сразу видно, что попка у тебя тренированная!"
-msgstr "È evidente che hai un culo che si è allenato!"
+    old "Сразу видно, что попка у тебя тренированная!"
+    new "È evidente che hai un culo che si è allenato!"
 
 #    # game/events/ann.rpy:458
-msgid "А посмотреть нельзя?"
-msgstr "Non possiamo vederlo?"
+    old "А посмотреть нельзя?"
+    new "Non possiamo vederlo?"
 
 #    # game/events/ann.rpy:458
-msgid "Извини, всё позабыл, когда тебя увидел. Ты прекрасна!"
-msgstr "Scusa, ho dimenticato tutto quando ti ho visto. Sei bellissima!"
+    old "Извини, всё позабыл, когда тебя увидел. Ты прекрасна!"
+    new "Scusa, ho dimenticato tutto quando ti ho visto. Sei bellissima!"
 

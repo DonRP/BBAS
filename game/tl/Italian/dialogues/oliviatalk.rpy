@@ -516,18 +516,18 @@ msgstr "[Olivia_06]Come?! Non rimarrai con noi? Miseramente..."
 msgid "[Max_01]Мне тоже. Не скучайте."
 msgstr "[Max_01]anche a me. Non annoiarti."
 
-msgid "Хотя, нет... У меня вообще-то дела есть..."
-msgstr "Anche se, no... In realtà ho cose da fare..."
+    old "Хотя, нет... У меня вообще-то дела есть..."
+    new "Anche se, no... In realtà ho cose da fare..."
 
 #    # game/dialogues/oliviatalk.rpy:259
-msgid "Давай перенесём..."
-msgstr "Spostiamoci..."
+    old "Давай перенесём..."
+    new "Spostiamoci..."
 
 #    # game/dialogues/oliviatalk.rpy:259
-msgid "Тогда приятного вам просмотра..."
-msgstr "Allora goditi la tua visione..."
+    old "Тогда приятного вам просмотра..."
+    new "Allora goditi la tua visione..."
 
 #    # game/dialogues/oliviatalk.rpy:262
-msgid "{i}идти в гостиную{/i}"
-msgstr "{i}vai in salotto{/i}"
+    old "{i}идти в гостиную{/i}"
+    new "{i}vai in salotto{/i}"
 

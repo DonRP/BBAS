@@ -968,72 +968,72 @@ msgstr "[Max_09]Che cosa significa?"
 msgid "[Eric_13]Скоро узнаешь. А теперь проваливай![nointeract]"
 msgstr "[Eric_13]Lo scoprirai presto. Ora sparisci![nointeract]"
 
-msgid "{i}В другой раз...{/i}"
-msgstr "{i}Un'altra volta... {/i}"
+    old "{i}В другой раз...{/i}"
+    new "{i}Un'altra volta... {/i}"
 
 #    # game/dialogues/erictalk.rpy:55
-msgid "Э... Ну не совсем так..."
-msgstr "Uh... Beh, non esattamente..."
+    old "Э... Ну не совсем так..."
+    new "Uh... Beh, non esattamente..."
 
 #    # game/dialogues/erictalk.rpy:55
-msgid "А так можно?"
-msgstr "E' possibile?"
+    old "А так можно?"
+    new "E' possibile?"
 
 #    # game/dialogues/erictalk.rpy:65
-msgid "Кстати, как ты это делаешь?"
-msgstr "A proposito, come si fa?"
+    old "Кстати, как ты это делаешь?"
+    new "A proposito, come si fa?"
 
 #    # game/dialogues/erictalk.rpy:65
-msgid "Отлично! Спасибо, Эрик."
-msgstr "È fantastico! Grazie, Eric."
+    old "Отлично! Спасибо, Эрик."
+    new "È fantastico! Grazie, Eric."
 
 #    # game/dialogues/erictalk.rpy:71
-msgid "Это угроза?"
-msgstr "È una minaccia?"
+    old "Это угроза?"
+    new "È una minaccia?"
 
 #    # game/dialogues/erictalk.rpy:71
-msgid "Хорошо, Эрик!"
-msgstr "Va bene, Eric!"
+    old "Хорошо, Эрик!"
+    new "Va bene, Eric!"
 
 #    # game/dialogues/erictalk.rpy:159
-msgid "{i}сесть на кровать{/i}"
-msgstr "{i}siedono sul letto{/i}"
+    old "{i}сесть на кровать{/i}"
+    new "{i}siedono sul letto{/i}"
 
 #    # game/dialogues/erictalk.rpy:174
-msgid "{i}слегка подвинуться{/i}"
-msgstr "{i}spostati leggermente{/i}"
+    old "{i}слегка подвинуться{/i}"
+    new "{i}spostati leggermente{/i}"
 
 #    # game/dialogues/erictalk.rpy:235
-msgid "{i}смотреть, как мама сосёт{/i}"
-msgstr "{i}guarda la mamma succhiare{/i}"
+    old "{i}смотреть, как мама сосёт{/i}"
+    new "{i}guarda la mamma succhiare{/i}"
 
 #    # game/dialogues/erictalk.rpy:294
-msgid "{i}пересесть{/i}"
-msgstr "{i}cambiare{/i}"
+    old "{i}пересесть{/i}"
+    new "{i}cambiare{/i}"
 
 #    # game/dialogues/erictalk.rpy:339
-msgid "Нет, можешь обучать... (продолжение дружбы)"
-msgstr "No, puoi insegnare... (continuazione dell'amicizia)"
+    old "Нет, можешь обучать... (продолжение дружбы)"
+    new "No, puoi insegnare... (continuazione dell'amicizia)"
 
 #    # game/dialogues/erictalk.rpy:339
-msgid "А ей не рановато? (попытка выиграть время)"
-msgstr "Non è troppo presto? (cercando di guadagnare tempo)"
+    old "А ей не рановато? (попытка выиграть время)"
+    new "Non è troppo presto? (cercando di guadagnare tempo)"
 
 #    # game/dialogues/erictalk.rpy:339
-msgid "Лизу тебе не отдам! (продолжение вражды)"
-msgstr "Non ti darò Lisa! (continuazione della faida)"
+    old "Лизу тебе не отдам! (продолжение вражды)"
+    new "Non ti darò Lisa! (continuazione della faida)"
 
 #    # game/dialogues/erictalk.rpy:473
-msgid "Значит, тебя её блог интересует? (продолжение дружбы)"
-msgstr "Quindi sei interessato al suo blog? (continuazione dell'amicizia)"
+    old "Значит, тебя её блог интересует? (продолжение дружбы)"
+    new "Quindi sei interessato al suo blog? (continuazione dell'amicizia)"
 
 #    # game/dialogues/erictalk.rpy:473
-msgid "Я мало что об этом знаю... (попытка выиграть время)"
-msgstr "Non ne so molto... (cercando di guadagnare tempo)"
+    old "Я мало что об этом знаю... (попытка выиграть время)"
+    new "Non ne so molto... (cercando di guadagnare tempo)"
 
 #    # game/dialogues/erictalk.rpy:473
-msgid "Вот у неё и спрашивай! (продолжение вражды)"
-msgstr "Chiediglielo! (continuazione della faida)"
+    old "Вот у неё и спрашивай! (продолжение вражды)"
+    new "Chiediglielo! (continuazione della faida)"
 
 # game/dialogues/erictalk.rpy:738# translate crowdin Eric_tribute_no_money_e6e6f0f4:
 msgid "[Eric_09]Эх, Макс... Ну вот ни черта с тебя толку нет. Только подумал, что ты можешь принести хоть какую-то пользу... Свали с глаз моих!"
@@ -1171,34 +1171,34 @@ msgstr "[Max_17]Sì, vai..."
 msgid "[Max_03][good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}[nointeract]"
 msgstr "[Max_03][good_mission!t]{m}È fantastico! Ho scritto la cosa più importante, cioè i suoi piani per la nostra piccola Lisa. Questo dovrebbe essere sufficiente per farlo non solo sembrare sospettoso, ma anche per cacciarlo via...{/m}[nointeract]"
 
-msgid "Может, договоримся? {i}(добыть компромат){/i}"
-msgstr "Che ne dici di un accordo? {i}(compromesso){/i}"
+    old "Может, договоримся? {i}(добыть компромат){/i}"
+    new "Che ne dici di un accordo? {i}(compromesso){/i}"
 
 #    # game/dialogues/erictalk.rpy:767
-msgid "С той, что я могу заплатить тебе больше, чем якобы должен."
-msgstr "Con quella che posso pagarti piu ' di quanto dovrei."
+    old "С той, что я могу заплатить тебе больше, чем якобы должен."
+    new "Con quella che posso pagarti piu ' di quanto dovrei."
 
 #    # game/dialogues/erictalk.rpy:767
-msgid "С той, что у меня есть кое-что на тебя."
-msgstr "Perché ho qualcosa su di te."
+    old "С той, что у меня есть кое-что на тебя."
+    new "Perché ho qualcosa su di te."
 
 #    # game/dialogues/erictalk.rpy:785
-msgid "Ты мутный тип, а моя мама заслуживает лучшего!"
-msgstr "Sei un tipo fangoso e mia madre merita di meglio!"
+    old "Ты мутный тип, а моя мама заслуживает лучшего!"
+    new "Sei un tipo fangoso e mia madre merita di meglio!"
 
 #    # game/dialogues/erictalk.rpy:785
-msgid "Сестрёнок моих ты не получишь!"
-msgstr "Non avrai le mie sorelle!"
+    old "Сестрёнок моих ты не получишь!"
+    new "Non avrai le mie sorelle!"
 
 #    # game/dialogues/erictalk.rpy:795
-msgid "{i}вернуться в свою комнату{/i}"
-msgstr "{i}Torna nella tua stanza{/i}"
+    old "{i}вернуться в свою комнату{/i}"
+    new "{i}Torna nella tua stanza{/i}"
 
 #    # game/dialogues/erictalk.rpy:806
-msgid "Не шуми. Держи, всё равно не пригодился..."
-msgstr "Non fare rumore. Tieni, non ti serve..."
+    old "Не шуми. Держи, всё равно не пригодился..."
+    new "Non fare rumore. Tieni, non ti serve..."
 
 #    # game/dialogues/erictalk.rpy:810
-msgid "{i}смириться{/i}"
-msgstr "{i}venire a patti{/i}"
+    old "{i}смириться{/i}"
+    new "{i}venire a patti{/i}"
 
