@@ -45,7 +45,7 @@
 
     # game/core/screens.rpy:484
     old "[mgg.credit.left] дней на погашение"
-    mgg.credit.left] jours pour rembourser"
+    new "mgg.credit.left] jours pour rembourser"
 
     # game/core/screens.rpy:486
     old "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
