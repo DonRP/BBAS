@@ -13,38 +13,31 @@
 # "PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/03variables.rpy:37
-msgid "МОЯ\n"
-"КОМНАТА"
-msgstr "LA MIA\n"
-"CAMERETTA"
+msgid "МОЯ\nКОМНАТА"
+msgstr "LA MIA\nCAMERETTA"
 
 #    # game/core/03variables.rpy:37
 msgid "МОЯ КОМНАТА"
 msgstr "LA MIA CAMERETTA"
 
 #    # game/core/03variables.rpy:37
-msgid "КОМНАТА\n"
-"АЛИСЫ"
-msgstr "LA CAMERETTA\n"
-"DI ALICE"
+msgid "КОМНАТА\nАЛИСЫ"
+msgstr "LA CAMERETTA\nDI ALICE"
 
 #    # game/core/03variables.rpy:37
 msgid "КОМНАТА АЛИСЫ"
 msgstr "LA CAMERETTA DI ALICE"
 
 #    # game/core/03variables.rpy:37
-msgid "КОМНАТА\n"
-"АННЫ"
-msgstr "LA CAMERA\n"
-"DI ANN"
+msgid "КОМНАТА\nАННЫ"
+msgstr "LA CAMERA\nDI ANN"
 
 #    # game/core/03variables.rpy:37
 msgid "КОМНАТА АННЫ"
 msgstr "LA CAMERA DI ANN"
 
 #    # game/core/03variables.rpy:37
-msgid "ВАННАЯ\n"
-"КОМНАТА"
+msgid "ВАННАЯ\nКОМНАТА"
 msgstr "BAGNO"
 
 #    # game/core/03variables.rpy:37
@@ -160,128 +153,92 @@ msgid "Всегда в поисках приключений на свою пя�
 msgstr "Всегда в поисках приключений на свою пятую точку."
 
 #    # game/core/03variables.rpy:147
-msgid "ПОСМОТРЕТЬ\n"
-"ФИЛЬМ"
-msgstr "GUARDA\n"
-"FILM"
+msgid "ПОСМОТРЕТЬ\nФИЛЬМ"
+msgstr "GUARDA\nFILM"
 
 #    # game/core/03variables.rpy:147
-msgid "ВЫЙТИ\n"
-"ИЗ ДОМА"
-msgstr "ESCI\n"
-"DI CASA"
+msgid "ВЫЙТИ\nИЗ ДОМА"
+msgstr "ESCI\nDI CASA"
 
 #    # game/core/03variables.rpy:147
-msgid "ПОИГРАТЬ\n"
-"С ЛИЗОЙ"
-msgstr "GIOCA\n"
-"CON LISA"
+msgid "ПОИГРАТЬ\nС ЛИЗОЙ"
+msgstr "GIOCA\nCON LISA"
 
 #    # game/core/03variables.rpy:147
-msgid "УСТАНОВИТЬ\n"
-"КЕЙЛОГГЕР"
-msgstr "INSTALLARE\n"
-"KEYLOGGER"
+msgid "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
+msgstr "INSTALLARE\nKEYLOGGER"
 
 #    # game/core/03variables.rpy:147
-msgid "УСТАНОВИТЬ\n"
-"КАМЕРУ"
-msgstr "INSTALLA LA\n"
-"TELECAMERA"
+msgid "УСТАНОВИТЬ\nКАМЕРУ"
+msgstr "INSTALLA LA\nTELECAMERA"
 
 #    # game/core/03variables.rpy:147
-msgid "СПРЯТАТЬ\n"
-"ПАУКА"
-msgstr "NASCONDI \n"
-"IL RAGNO"
+msgid "СПРЯТАТЬ\nПАУКА"
+msgstr "NASCONDI \nIL RAGNO"
 
 #    # game/core/03variables.rpy:147
-msgid "БРОСИТЬ\n"
-"ПАУКА"
-msgstr "LANCIA\n"
-"IL RAGNO"
+msgid "БРОСИТЬ\nПАУКА"
+msgstr "LANCIA\nIL RAGNO"
 
 #    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"ПАУКОВ"
-msgstr "CERCA\n"
-"UN RAGNO"
+msgid "ИСКАТЬ\nПАУКОВ"
+msgstr "CERCA\nUN RAGNO"
 
 #    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"СИГАРЕТЫ"
-msgstr "CERCA\n"
-"SIGARETTE"
+msgid "ИСКАТЬ\nСИГАРЕТЫ"
+msgstr "CERCA\nSIGARETTE"
 
 #    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"КНИГУ"
-msgstr "CERCA\n"
-"LIBRO"
+msgid "ИСКАТЬ\nКНИГУ"
+msgstr "CERCA\nLIBRO"
 
 #    # game/core/03variables.rpy:147
-msgid "ЧИСТИТЬ\n"
-"БАССЕЙН"
-msgstr "PULIRE \n"
-"LA PISCINA"
+msgid "ЧИСТИТЬ\nБАССЕЙН"
+msgstr "PULIRE \nLA PISCINA"
 
 #    # game/core/03variables.rpy:147
 msgid "ЧИТАТЬ"
 msgstr "LEGGERE"
 
 #    # game/core/03variables.rpy:147
-msgid "ИСКАТЬ\n"
-"КАМЕРУ"
-msgstr "CERCA\n"
-"TELECAMERA"
+msgid "ИСКАТЬ\nКАМЕРУ"
+msgstr "CERCA\nTELECAMERA"
 
 #    # game/core/03variables.rpy:147
-msgid "РАЗОБРАТЬ\n"
-"КОРОБКИ"
-msgstr "SPACCHETTA \n"
-"SCATOLE"
+msgid "РАЗОБРАТЬ\nКОРОБКИ"
+msgstr "SPACCHETTA \nSCATOLE"
 
 #    # game/core/03variables.rpy:147
-msgid "ВКЛЮЧИТЬ\n"
-"НОУТБУК"
-msgstr "ACCENDI\n"
-"IL LAPTOP"
+msgid "ВКЛЮЧИТЬ\nНОУТБУК"
+msgstr "ACCENDI\nIL LAPTOP"
 
 #    # game/core/03variables.rpy:147
 msgid "СПАТЬ"
 msgstr "DORMI"
 
 #    # game/core/03variables.rpy:147
-msgid "УСТАНОВИТЬ\n"
-"БУДИЛЬНИК"
-msgstr "IMPOSTA \n"
-"LA SVEGLIA"
+msgid "УСТАНОВИТЬ\nБУДИЛЬНИК"
+msgstr "IMPOSTA \nLA SVEGLIA"
 
 #    # game/core/03variables.rpy:147
 msgid "ВЗДРЕМНУТЬ"
 msgstr "Fai un pisolino"
 
 #    # game/core/03variables.rpy:147
-msgid "ПРИНЯТЬ\n"
-"ДУШ"
-msgstr "FAI LA\n"
-"DOCCIA"
+msgid "ПРИНЯТЬ\nДУШ"
+msgstr "FAI LA\nDOCCIA"
 
 #    # game/core/03variables.rpy:147
-msgid "ПРИНЯТЬ\n"
-"ВАННУ"
-msgstr "FAI UN\n"
-"BAGNO"
+msgid "ПРИНЯТЬ\nВАННУ"
+msgstr "FAI UN\nBAGNO"
 
 #    # game/core/03variables.rpy:147
 msgid "ПОГОВОРИТЬ"
 msgstr "CONVERSA"
 
 #    # game/core/03variables.rpy:147
-msgid "МЫТЬ\n"
-"ПОСУДУ"
-msgstr "LAVA I\n"
-"PIATTI"
+msgid "МЫТЬ\nПОСУДУ"
+msgstr "LAVA I\nPIATTI"
 
 #    # game/core/03variables.rpy:202
 msgid "Общение"
@@ -380,8 +337,6 @@ msgid "Оливия, одноклассница моей младшей сест
 msgstr "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto dolce. E per di più, ha un colpo di scena... Va in giro per la scuola senza mutandine, e per casa nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/03variables.rpy:149
-msgid "ИСКАТЬ\n"
-"ТЕЛЕФОН"
-msgstr "CERCA IL\n"
-"TELEFONO"
+msgid "ИСКАТЬ\nТЕЛЕФОН"
+msgstr "CERCA IL\nTELEFONO"
 

@@ -93,10 +93,7 @@ msgid "[Max_03][undetect!t]О, да! За тем, как вода стекает
 msgstr "[Max_03][undetect!t]Oh, sì! Per il modo in cui l'acqua scorre lungo il suo affascinante, voglio guardare senza distogliere lo distogliere lo studio..."
 
 # game/events/lisa.rpy:171# translate crowdin lisa_shower_not_luck_e8e13c34:
-msgid "[Max_12]{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n"
-"О нет! Похоже, она что-то заметила... Надо бежать!"
-msgstr "[Max_12]{color=[orange]}{i}Sembra che Lisa sospettasse qualcosa! {/i} {/color}\n"
-"Oh no! Sembra che abbia notato qualcosa... Devi correre!"
+msgid "[Max_12]{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\nО нет! Похоже, она что-то заметила... Надо бежать!"\nsgstr "[Max_12]{color=[orange]}{i}Sembra che Lisa sospettasse qualcosa! {/i} {/color}\nOh no! Sembra che abbia notato qualcosa... Devi correre!"
 
 # game/events/lisa.rpy:193# translate crowdin lisa_shower_pinded_aded2cb3:
 msgid "[Lisa_11][spotted!t]Ой, Макс! Опять ты подглядываешь... Это уже маньячество какое-то!"
@@ -1442,10 +1439,7 @@ msgid "[Max_03][undetect!t]{m}О, да! За тем, как вода стека�
 msgstr "[Max_03][undetect!t]{m}Oh, sì! Il modo in cui l'acqua scorre sul suo bel sedere ti fa venire voglia di guardarlo sempre...{/m}"
 
 # game/events/lisa.rpy:182# translate crowdin lisa_shower_not_luck_76384340:
-msgid "[Max_12]{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n"
-"{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"
-msgstr "[Max_12]{color=[orange]}{i}Lisa sembra aver sospettato qualcosa!{/i}{/color}\n"
-"{m}Oh no! Sembra che abbia notato qualcosa... Dobbiamo correre!{/m}"
+msgid "[Max_12]{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"\nsgstr "[Max_12]{color=[orange]}{i}Lisa sembra aver sospettato qualcosa!{/i}{/color}\n{m}Oh no! Sembra che abbia notato qualcosa... Dobbiamo correre!{/m}"
 
 # game/events/lisa.rpy:803# translate crowdin lisa_dressed_ad44f284:
 msgid "[Max_01]{m}Ого, какой вид! Вот это я удачно заглянул!{/m}[nointeract]"

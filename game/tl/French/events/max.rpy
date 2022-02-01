@@ -301,50 +301,29 @@ msgid "[Max_00]Пришло время почитать что-то...[nointerac
 msgstr "[Max_00]Il est temps de lire quelque chose...[nointeract]"
 
 # game/events/max.rpy:653# translate crowdin BookRead_manual_41be558e:
-msgid "[Max_00]Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n"
-"{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"
-msgstr "[Max_00]Hmmm... beaucoup de mots incompréhensibles. Je pense que je vais devoir relire les premiers chapitres...\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 20%%){/i}{/color}"
+msgid "[Max_00]Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"\nsgstr "[Max_00]Hmmm... beaucoup de mots incompréhensibles. Je pense que je vais devoir relire les premiers chapitres...\n\n{color=[orange]}{i}(Le livre est étudié à 20%%){/i}{/color}"
 
 # game/events/max.rpy:655# translate crowdin BookRead_manual_0826f3fe:
-msgid "[Max_00]Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n"
-"{color=[orange]}{i}(Книга изучена на 40%%){/i}{/color}"
-msgstr "[Max_00]Bon, eh bien, j'ai réglé ça, d'accord... Qu'est-ce que c'est ? Ce n'est pas clair. Il faudra y réfléchir....\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 40%%){/i}{/color}"
+msgid "[Max_00]Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n{color=[orange]}{i}(Книга изучена на 40%%){/i}{/color}"\nsgstr "[Max_00]Bon, eh bien, j'ai réglé ça, d'accord... Qu'est-ce que c'est ? Ce n'est pas clair. Il faudra y réfléchir....\n\n{color=[orange]}{i}(Le livre est étudié à 40%%){/i}{/color}"
 
 # game/events/max.rpy:657# translate crowdin BookRead_manual_3605e1d8:
-msgid "[Max_00]Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз.\n\n"
-"{color=[orange]}{i}(Книга изучена на 60%%){/i}{/color}"
-msgstr "[Max_00]Wow, c'est génial! Est-il déjà possible de créer un site web? Ah, non... Tout n'est pas encore clair... Eh bien, je m'en occuperai une autre fois.\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 60%%){/i}{/color}"
+msgid "[Max_00]Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз.\n\n{color=[orange]}{i}(Книга изучена на 60%%){/i}{/color}"\nsgstr "[Max_00]Wow, c'est génial! Est-il déjà possible de créer un site web? Ah, non... Tout n'est pas encore clair... Eh bien, je m'en occuperai une autre fois.\n\n{color=[orange]}{i}(Le livre est étudié à 60%%){/i}{/color}"
 
 # game/events/max.rpy:659# translate crowdin BookRead_manual_1c08c83d:
-msgid "[Max_00]Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?\n\n"
-"{color=[orange]}{i}(Книга изучена на 80%%){/i}{/color}"
-msgstr "[Max_00]Ok, bien, maintenant j'ai une idée. Il ne reste plus qu'à régler les petites choses... Ou est-ce que ce n'est pas un peu trivial ?\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 80%%){/i}{/color}"
+msgid "[Max_00]Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?\n\n{color=[orange]}{i}(Книга изучена на 80%%){/i}{/color}"\nsgstr "[Max_00]Ok, bien, maintenant j'ai une idée. Il ne reste plus qu'à régler les petites choses... Ou est-ce que ce n'est pas un peu trivial ?\n\n{color=[orange]}{i}(Le livre est étudié à 80%%){/i}{/color}"
 
 # game/events/max.rpy:661# translate crowdin BookRead_manual_bd8ad388:
 msgid "[Max_00]Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги?"
 msgstr "[Max_00]C'est ça, maintenant tout est parfaitement clair! Je peux déjà créer mon propre site web et y diffuser une image! Mais comment être payé pour ça?"
 
 # game/events/max.rpy:672# translate crowdin BookRead_sex_ed_e2e2e4d9:
-msgid "[Max_01]Ага. У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать.\n\n"
-"{color=[orange]}{i}(Книга изучена на 25%%){/i}{/color}"
-msgstr "[Max_01]Ouaip. Chacun a ses particularités, je ne le savais pas! La structure des organes génitaux d'une adolescente est juste... Lisons et regardons autour de moi.\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 25%%){/i}{/color}"
+msgid "[Max_01]Ага. У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать.\n\n{color=[orange]}{i}(Книга изучена на 25%%){/i}{/color}"\nsgstr "[Max_01]Ouaip. Chacun a ses particularités, je ne le savais pas! La structure des organes génitaux d'une adolescente est juste... Lisons et regardons autour de moi.\n\n{color=[orange]}{i}(Le livre est étudié à 25%%){/i}{/color}"
 
 # game/events/max.rpy:674# translate crowdin BookRead_sex_ed_2c2e756a:
-msgid "[Max_03]Так, это не особо интересно... А вот сексуалное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n"
-"{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
-msgstr "[Max_03]Donc, ce n'est pas vraiment intéressant... Mais le comportement sexuel des adolescents ne concerne que moi! Si je peux lire quelque chose sur mes érections matinales, ce serait génial...\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 50%%){/i}{/color}"
+msgid "[Max_03]Так, это не особо интересно... А вот сексуалное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"\nsgstr "[Max_03]Donc, ce n'est pas vraiment intéressant... Mais le comportement sexuel des adolescents ne concerne que moi! Si je peux lire quelque chose sur mes érections matinales, ce serait génial...\n\n{color=[orange]}{i}(Le livre est étudié à 50%%){/i}{/color}"
 
 # game/events/max.rpy:676# translate crowdin BookRead_sex_ed_cdf53c7a:
-msgid "[Max_07]Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n"
-"{color=[orange]}{i}(Книга изучена на 75%%){/i}{/color}"
-msgstr "[Max_07]Wow, il y a même une brève esquisse historique sur l'éducation sexuelle des enfants et des adolescents... Ca me donne mal à la tête d'avoir été berné pendant tout ce temps!\n\n"
-"{color=[orange]}{i}(Le livre est étudié à 75%%){/i}{/color}"
+msgid "[Max_07]Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n{color=[orange]}{i}(Книга изучена на 75%%){/i}{/color}"\nsgstr "[Max_07]Wow, il y a même une brève esquisse historique sur l'éducation sexuelle des enfants et des adolescents... Ca me donne mal à la tête d'avoir été berné pendant tout ce temps!\n\n{color=[orange]}{i}(Le livre est étudié à 75%%){/i}{/color}"
 
 # game/events/max.rpy:680# translate crowdin BookRead_sex_ed_58528ae0:
 msgid "[Max_04]Вот и последние главы... Всё-таки прикосновения очень важны! Да я и на практике уже это понял... Эх, надо было раньше эту книжку купить! Но лучше поздно, чем никогда. Материал усвоен и теперь можно дарить её Лизе."
@@ -507,14 +486,7 @@ msgid "[Max_01]Бла, бла, бла... ...если у Вас есть рабо
 msgstr "[Max_01]Bla, bla, bla... ...si vous avez un projet Internet qui fonctionne, nous fournissons des prêts pour promouvoir votre entreprise..."
 
 # game/events/max.rpy:1037# translate crowdin about_credit_0f0e102c:
-msgid "[Max_04]Подытожим условия: \n"
-"{i}В течение месяца нужно вернуть всю сумму займа + 10%% \n"
-"В случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\n"
-"Лучше, конечно же, до такого не доводить."
-msgstr "[Max_04]Pour résumer les conditions: \n"
-"{i}Vous devez rembourser le montant total du prêt + 10 %% dans un délai d'un mois. \n"
-"En cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/i} \n\n"
-"Il est certainement préférable de ne pas en arriver là."
+msgid "[Max_04]Подытожим условия: \n{i}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\nЛучше, конечно же, до такого не доводить."\nsgstr "[Max_04]Pour résumer les conditions: \n"\n{i}Vous devez rembourser le montant total du prêt + 10 %% dans un délai d'un mois. \n"\nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/i} \n\nIl est certainement préférable de ne pas en arriver là."
 
 # game/events/max.rpy:1038# translate crowdin about_credit_6a66dabb:
 msgid "[Max_05]Регистрируюсь... Указываю свои реквизиты... Свой сайт в качестве источника дохода... Готово!"
@@ -1116,14 +1088,7 @@ msgid "[Max_01]Бла, бла, бла... ... если у Вас есть раб�
 msgstr "[Max_01]Bla, bla, bla... ...si vous avez un projet Internet qui fonctionne, nous fournissons des prêts pour promouvoir votre entreprise..."
 
 # game/events/max.rpy:1038# translate crowdin about_credit_73692d65:
-msgid "[Max_04]{m}Подытожим условия: \n"
-"{b}В течение месяца нужно вернуть всю сумму займа + 10%% \n"
-"В случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\n"
-"Лучше, конечно же, до такого не доводить.{/m}"
-msgstr "[Max_04]{m}Pour résumer les conditions: \n"
-"{b}Vous devez rembourser le montant total du prêt + 10%% dans un délai d'un mois. \n"
-"En cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/b} \n\n"
-"Il est certainement préférable de ne pas en arriver là{/m}"
+msgid "[Max_04]{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"\nsgstr "[Max_04]{m}Pour résumer les conditions: \n"\n{b}Vous devez rembourser le montant total du prêt + 10%% dans un délai d'un mois. \n"\nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/b} \n\nIl est certainement préférable de ne pas en arriver là{/m}"
 
 # game/events/max.rpy:1039# translate crowdin about_credit_5011fb20:
 msgid "[Max_05]{m}Регистрируюсь... Указываю свои реквизиты... Свой сайт в качестве источника дохода... Готово!{/m}"

@@ -1093,10 +1093,7 @@ msgid "[Alice_02]Забавно. А тебе не всё равно? Или де
 msgstr "[Alice_02]C'est drôle. Tu t'en soucies? Ou bien n'y a-t-il rien de sérieux?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1457# translate crowdin alice_aboutbooks_af00f0d1:
-msgid "[Alice_00]Не скажу. Сиди теперь и гадай! \n\n"
-"{i}Алиса прикрыла обложку рукой{/i}[nointeract]"
-msgstr "[Alice_00]Je ne le dirai pas. Maintenant, assieds-toi et devines ! \n\n"
-"{i}Alice a couvert la couverture de sa main{/i}[nointeract]"
+msgid "[Alice_00]Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}[nointeract]"\nsgstr "[Alice_00]Je ne le dirai pas. Maintenant, assieds-toi et devines ! \n\n{i}Alice a couvert la couverture de sa main{/i}[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1466# translate crowdin alice_aboutbooks_2eac1a27:
 msgid "[Alice_01]Думай, что хочешь, а я всё равно не скажу.[nointeract]"
@@ -1143,10 +1140,7 @@ msgid "[Alice_12]Макс, ты же знаешь, что я на мели. У �
 msgstr "[Alice_12]Max, tu sais que je suis fauchée. Je n'ai pas d'argent. Eh bien, il y en a un petit quelque chose, pour être exact, mais c'est dix dollars. Cela te conviendrait-il ?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1530# translate crowdin first_talk_smoke_talk_ee9ba89b:
-msgid "[Alice_13]Сейчас сбегаю за деньгами...\n"
-"Вот, держи $10, и теперь-то уж точно ты ничего не видел. Так?[nointeract]"
-msgstr "[Alice_13]Je vais juste donner l'argent...\n"
-"Voilà, 10 dollars, et maintenant tu n'as certainement rien vu. N'est-ce pas ?[nointeract]"
+msgid "[Alice_13]Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?[nointeract]"\nsgstr "[Alice_13]Je vais juste donner l'argent...\nVoilà, 10 dollars, et maintenant tu n'as certainement rien vu. N'est-ce pas ?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:1535# translate crowdin first_talk_smoke_talk_86687067:
 msgid "[Alice_16]И как это понимать, Макс? Мы же договорились! Ну ты и гад... Всё, вали отсюда![nointeract]"
@@ -7820,10 +7814,7 @@ msgid "{i}сделать массаж с кремом{/i}"
 msgstr "{i}faire un massage avec la crème{/i}"
 
 #    # game/dialogues/alicetalk.rpy:2647
-msgid "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\n"
-"крема недостаточно{/color}{/i}"
-msgstr "{i}{color=[gray]}faire un massage avec la crème{/color}{color=[red]}\n"
-"la crème n'est pas suffisante{/color}{/i}"
+msgid "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"\nsgstr "{i}{color=[gray]}faire un massage avec la crème{/color}{color=[red]}\nla crème n'est pas suffisante{/color}{/i}"
 
 #    # game/dialogues/alicetalk.rpy:2647
 msgid "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"

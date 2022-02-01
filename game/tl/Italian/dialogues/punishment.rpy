@@ -237,10 +237,7 @@ msgid "[Ann_16][_text!t]"
 msgstr "[Ann_16][_text!t]"
 
 # game/dialogues/punishment.rpy:308# translate crowdin punishment_max_pun_reson_219ecbe7:
-msgid "[Max_14]{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n"
-"{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
-msgstr "[Max_14]{i}mamma mi punisce proprio davanti alle sorelle... È così umiliante... {/i}\n\n"
-"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
+msgid "[Max_14]{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"\nsgstr "[Max_14]{i}mamma mi punisce proprio davanti alle sorelle... È così umiliante... {/i}\n\n{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
 
 # game/dialogues/punishment.rpy:328# translate crowdin punishment_max_pun_reson_700a2ea3:
 msgid "[Ann_12]Ну вот. Теперь все всё поняли? Ведите себя хорошо и вас не ждёт эта участь..."
@@ -271,10 +268,7 @@ msgid "[Ann_16][_text!t]"
 msgstr "[Ann_16][_text!t]"
 
 # game/dialogues/punishment.rpy:378# translate crowdin punishment_max_pun_reson_c632e1a6:
-msgid "[Max_14]{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n"
-"{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
-msgstr "[Max_14]{i}Accidenti... Tutti guardano con tanto interesse come vengo punito... È così umiliante... {/i}\n\n"
-"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
+msgid "[Max_14]{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"\nsgstr "[Max_14]{i}Accidenti... Tutti guardano con tanto interesse come vengo punito... È così umiliante... {/i}\n\n{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
 
 # game/dialogues/punishment.rpy:400# translate crowdin punishment_max_pun_reson_faf292df:
 msgid "[Ann_12]Ну всё, Макс, одевайся. Надеюсь, ты сделал выводы и постараешься больше не попадать в такую унизительную ситуацию..."

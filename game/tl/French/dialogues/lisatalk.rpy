@@ -2349,10 +2349,7 @@ msgid "[Lisa_02]Макс! Ты подглядываешь. Ты же обеща�
 msgstr "[Lisa_02]Max ! Tu es en train d'épier. Tu as promis... Tournes-toi, vite ![nointeract]"
 
 # game/dialogues/lisatalk.rpy:1958# translate crowdin gift_swimsuit_swimsuit_show_7374967a:
-msgid "[Max_04]{m}Да, закрою глаза, когда тут такое... как же!\n"
-"Ух! А, сестрёнка хороша... Местами даже очень...{/m}"
-msgstr "[Max_04]{m}Ouais, je fermerais les yeux quand c'est comme ça... Que dis-tu de ça ?\n"
-"Ugh ! Ah, ma sœur est bonne... Dans certains endroits, même très...{/m}"
+msgid "[Max_04]{m}Да, закрою глаза, когда тут такое... как же!\nУх! А, сестрёнка хороша... Местами даже очень...{/m}"\nsgstr "[Max_04]{m}Ouais, je fermerais les yeux quand c'est comme ça... Que dis-tu de ça ?\nUgh ! Ah, ma sœur est bonne... Dans certains endroits, même très...{/m}"
 
 # game/dialogues/lisatalk.rpy:1960# translate crowdin gift_swimsuit_swimsuit_show_e121065c:
 msgid "[Max_08]{m}Вот это вид, я понимаю! Главное, чтобы штаны меня не выдали...{/m}"
@@ -7458,10 +7455,7 @@ msgid "[{color=[orange]}(Лиза слушает запись...){/color}"
 msgstr "[{color=[orange]}(Lisa écoute l'enregistrement...){/color}"
 
 # game/dialogues/lisatalk.rpy:4648# translate crowdin lisa_about_stolen_phone_0a6862b6:
-msgid "[Eric]{b}Эрик:{/b}\n"
-"{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
-msgstr "[Eric]{b}Eric:{/b}\n"
-"{i}... elle va commencer à polir ma bite avec ses douces lèvres. Tu l'as déjà imaginé? J', c'est oui! Le conte sera le même!{/i}"
+msgid "[Eric]{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"\nsgstr "[Eric]{b}Eric:{/b}\n{i}... elle va commencer à polir ma bite avec ses douces lèvres. Tu l'as déjà imaginé? J', c'est oui! Le conte sera le même!{/i}"
 
 # game/dialogues/lisatalk.rpy:4649# translate crowdin lisa_about_stolen_phone_4c12b1b6:
 msgid "[Lisa_10]Всё, Макс, выключи... Это... Это просто кошмар какой-то... Да меня сейчас просто вырвет от одной мысли о том, что он говорил... Неужели это всё правда?"
