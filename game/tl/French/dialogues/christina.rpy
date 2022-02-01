@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -132,10 +132,10 @@ msgstr "[Christine_03]Merci, Max. C'était un plaisir de te rencontrer !"
 msgid "[Max_01]Я тоже, Кристина! Пока."
 msgstr "[Max_01]Moi aussi, Christine ! Au revoir."
 
-msgid "Хорошего тебе дня!"
-msgstr "Bonne journée!"
+    old "Хорошего тебе дня!"
+    new "Bonne journée!"
 
 #    # game/dialogues/christina.rpy:25
-msgid "А чем вечером будешь заниматься? Давай погуляем!?"
-msgstr "Que vas-tu faire ce soir? Allons nous nous promener !?"
+    old "А чем вечером будешь заниматься? Давай погуляем!?"
+    new "Que vas-tu faire ce soir? Allons nous nous promener !?"
 

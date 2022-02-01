@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -516,18 +516,18 @@ msgstr "[Olivia_06]Comment ? Tu ne veux pas rester avec nous ? C'est dommage..."
 msgid "[Max_01]Мне тоже. Не скучайте."
 msgstr "[Max_01]Moi aussi. Je ne veux pas vous ennuyer."
 
-msgid "Хотя, нет... У меня вообще-то дела есть..."
-msgstr "Bien que, non... En fait, j'ai des choses à faire..."
+    old "Хотя, нет... У меня вообще-то дела есть..."
+    new "Bien que, non... En fait, j'ai des choses à faire..."
 
 #    # game/dialogues/oliviatalk.rpy:259
-msgid "Давай перенесём..."
-msgstr "Passons à autre chose..."
+    old "Давай перенесём..."
+    new "Passons à autre chose..."
 
 #    # game/dialogues/oliviatalk.rpy:259
-msgid "Тогда приятного вам просмотра..."
-msgstr "Alors profitez de votre film..."
+    old "Тогда приятного вам просмотра..."
+    new "Alors profitez de votre film..."
 
 #    # game/dialogues/oliviatalk.rpy:262
-msgid "{i}идти в гостиную{/i}"
-msgstr "{i}aller dans le salon{/i}"
+    old "{i}идти в гостиную{/i}"
+    new "{i}aller dans le salon{/i}"
 

@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -864,28 +864,28 @@ msgstr "[Olivia_01]Bonne nuit, tout le monde..."
 msgid "[Max_01]Приятных снов."
 msgstr "[Max_01]Faites de beaux rêves."
 
-msgid "{i}подсмотреть{/i}"
-msgstr "{i}espionner{/i}"
+    old "{i}подсмотреть{/i}"
+    new "{i}espionner{/i}"
 
 #    # game/events/olivia.rpy:92
-msgid "{i}дождаться девчонок{/i}"
-msgstr "{i}attendre les filles{/i}"
+    old "{i}дождаться девчонок{/i}"
+    new "{i}attendre les filles{/i}"
 
 #    # game/events/olivia.rpy:178
-msgid "Конечно с вами!"
-msgstr "Bien sûr, avec vous !"
+    old "Конечно с вами!"
+    new "Bien sûr, avec vous !"
 
 #    # game/events/olivia.rpy:291
-msgid "Я с вами!"
-msgstr "J'en suis !"
+    old "Я с вами!"
+    new "J'en suis !"
 
 #    # game/events/olivia.rpy:379
-msgid "{i}раздеться и сесть рядом{/i}"
-msgstr "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
+    old "{i}раздеться и сесть рядом{/i}"
+    new "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
 
 #    # game/events/olivia.rpy:631
-msgid "{i}идти в свою комнату{/i}"
-msgstr "{i}allez dans votre chambre{/i}"
+    old "{i}идти в свою комнату{/i}"
+    new "{i}allez dans votre chambre{/i}"
 
 # game/events/olivia.rpy:299# translate crowdin olivia_night_visit_r_dcf86a41:
 msgid "[Lisa_13]Но без Макса! Он сильно провинился, так что сегодня мы с тобой будем только вдвоём, Оливия. А ты, Макс, не мешай нам!"
@@ -1143,50 +1143,50 @@ msgstr "[Olivia_02]Soutien! J'ai raté ce moment passionnant..."
 msgid "[Lisa_02]Ну вы меня совсем сейчас засмущаете![nointeract]"
 msgstr "[Lisa_02]Eh bien, vous allez me faire rire![nointeract]"
 
-msgid "{i}подождать за дверью, пока девочки переоденутся{/i}"
-msgstr "{i}attendre devant la porte pendant que les filles se changent {/i}"
+    old "{i}подождать за дверью, пока девочки переоденутся{/i}"
+    new "{i}attendre devant la porte pendant que les filles se changent {/i}"
 
 #    # game/events/olivia.rpy:790
-msgid "Аж глаза разбегаются, на кого смотреть..."
-msgstr "Déjà les yeux se dispersent, qui regarder..."
+    old "Аж глаза разбегаются, на кого смотреть..."
+    new "Déjà les yeux se dispersent, qui regarder..."
 
 #    # game/events/olivia.rpy:790
-msgid "У меня встал!"
-msgstr "J'ai levé!"
+    old "У меня встал!"
+    new "J'ai levé!"
 
 #    # game/events/olivia.rpy:790
-msgid "Извините... Мне стыдно, но смотритесь вы красиво!"
-msgstr "Excusez-moi... J'ai honte, mais vous êtes belle!"
+    old "Извините... Мне стыдно, но смотритесь вы красиво!"
+    new "Excusez-moi... J'ai honte, mais vous êtes belle!"
 
 #    # game/events/olivia.rpy:807
-msgid "Сколько округлостей красивых! Глаза разбегаются..."
-msgstr "Combien de rondeurs sont belles! Les yeux s'enfuient..."
+    old "Сколько округлостей красивых! Глаза разбегаются..."
+    new "Combien de rondeurs sont belles! Les yeux s'enfuient..."
 
 #    # game/events/olivia.rpy:807
-msgid "Как-то даже в шортах тесно стало..."
-msgstr "D'une manière ou d'une autre, même en short, il est devenu étroit..."
+    old "Как-то даже в шортах тесно стало..."
+    new "D'une manière ou d'une autre, même en short, il est devenu étroit..."
 
 #    # game/events/olivia.rpy:807
-msgid "Кого-то угораздило, очень удачно для меня, снять трусики..."
-msgstr "Quelqu'un a réussi, très bien pour moi, à enlever sa culotte..."
+    old "Кого-то угораздило, очень удачно для меня, снять трусики..."
+    new "Quelqu'un a réussi, très bien pour moi, à enlever sa culotte..."
 
 #    # game/events/olivia.rpy:807
-msgid "Извините... Вид, конечно, очаровательнее некуда!"
-msgstr "Excusez-moi... La vue, bien sûr, est plus charmante nulle part!"
+    old "Извините... Вид, конечно, очаровательнее некуда!"
+    new "Excusez-moi... La vue, bien sûr, est plus charmante nulle part!"
 
 #    # game/events/olivia.rpy:874
-msgid "Да ладно вам, можете меня не стесняться!"
-msgstr "Allez, n'hésitez pas!"
+    old "Да ладно вам, можете меня не стесняться!"
+    new "Allez, n'hésitez pas!"
 
 #    # game/events/olivia.rpy:874
-msgid "Извините, не удержался... Хорошо выглядите, девчонки!"
-msgstr "Désolé, je n'ai pas pu résister... Vous avez l'air bien, les filles!"
+    old "Извините, не удержался... Хорошо выглядите, девчонки!"
+    new "Désolé, je n'ai pas pu résister... Vous avez l'air bien, les filles!"
 
 #    # game/events/olivia.rpy:892
-msgid "А вы представьте, что меня тут на самом деле нет!"
-msgstr "Et vous imaginez que je ne suis pas là!"
+    old "А вы представьте, что меня тут на самом деле нет!"
+    new "Et vous imaginez que je ne suis pas là!"
 
 #    # game/events/olivia.rpy:892
-msgid "Извините, не удержался... Красота ведь неописуемая!"
-msgstr "Désolé, je n'ai pas pu résister... La beauté est indescriptible!"
+    old "Извините, не удержался... Красота ведь неописуемая!"
+    new "Désolé, je n'ai pas pu résister... La beauté est indescriptible!"
 

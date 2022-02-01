@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -408,6 +408,6 @@ msgstr "[Max_09]{m}rien à voir... Nous devons installer une caméra qui couvrir
 msgid "[Max_10]{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
 msgstr "[Max_10]{m}Voici les caractéristiques de la! On dirait que Kira fait plaisir à Eric pour qu'il ne nous mette pas à ma mère...{/m}"
 
-msgid "{i}идти к комнате Алисы{/i}"
-msgstr "{i}aller à la chambre d'Alice {/i}"
+    old "{i}идти к комнате Алисы{/i}"
+    new "{i}aller à la chambre d'Alice {/i}"
 

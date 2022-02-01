@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -1368,220 +1368,220 @@ msgstr "[Ann_02]Sois juste modeste. Ce film s'est avéré très émouvant..."
 msgid "[Max_01]Конечно, мам!"
 msgstr "[Max_01]Bien sûr, maman!"
 
-msgid "В другой раз..."
-msgstr "Une autre fois..."
+    old "В другой раз..."
+    new "Une autre fois..."
 
 #    # game/dialogues/anntalk.rpy:86
-msgid "Точно, извини..."
-msgstr "Exact, désolé..."
+    old "Точно, извини..."
+    new "Exact, désolé..."
 
 #    # game/dialogues/anntalk.rpy:98
-msgid "Мне стыдно, но очень нужны деньги..."
-msgstr "Je suis gêné, mais j'ai vraiment besoin d'argent..."
+    old "Мне стыдно, но очень нужны деньги..."
+    new "Je suis gêné, mais j'ai vraiment besoin d'argent..."
 
 #    # game/dialogues/anntalk.rpy:98
-msgid "Я могу сделать какую-то работу, чтобы не просто так выпрашивать деньги..."
-msgstr "Je peux travailler un peu pour ne pas avoir à mendier de l'argent..."
+    old "Я могу сделать какую-то работу, чтобы не просто так выпрашивать деньги..."
+    new "Je peux travailler un peu pour ne pas avoir à mendier de l'argent..."
 
 #    # game/dialogues/anntalk.rpy:98
-msgid "Ты права, стыдно. В другой раз..."
-msgstr "Tu as raison, c'est embarrassant. Une autre fois..."
+    old "Ты права, стыдно. В другой раз..."
+    new "Tu as raison, c'est embarrassant. Une autre fois..."
 
 #    # game/dialogues/anntalk.rpy:102
-msgid "Ага! Спасибо, мам!"
-msgstr "Aha! Merci maman!"
+    old "Ага! Спасибо, мам!"
+    new "Aha! Merci maman!"
 
 #    # game/dialogues/anntalk.rpy:102
-msgid "Может быть, я могу что-то сделать?"
-msgstr "Peut-être y a-t-il quelque chose que je peux faire?"
+    old "Может быть, я могу что-то сделать?"
+    new "Peut-être y a-t-il quelque chose que je peux faire?"
 
 #    # game/dialogues/anntalk.rpy:113
-msgid "Может быть, почистить бассейн?"
-msgstr "Peut-être nettoyer la piscine?"
+    old "Может быть, почистить бассейн?"
+    new "Peut-être nettoyer la piscine?"
 
 #    # game/dialogues/anntalk.rpy:113
-msgid "Ну, могу заказать продукты"
-msgstr "Eh bien, je peux commander des produits d’épicerie"
+    old "Ну, могу заказать продукты"
+    new "Eh bien, je peux commander des produits d’épicerie"
 
 #    # game/dialogues/anntalk.rpy:113
-msgid "Не знаю. Видимо, ничего..."
-msgstr "Je ne sais pas. Apparemment rien..."
+    old "Не знаю. Видимо, ничего..."
+    new "Je ne sais pas. Apparemment rien..."
 
 #    # game/dialogues/anntalk.rpy:118
-msgid "Может я могу ещё что-то сделать?"
-msgstr "Peut-être que je peux faire autre chose?"
+    old "Может я могу ещё что-то сделать?"
+    new "Peut-être que je peux faire autre chose?"
 
 #    # game/dialogues/anntalk.rpy:138
-msgid "Супер!"
-msgstr "Parfait !"
+    old "Супер!"
+    new "Parfait !"
 
 #    # game/dialogues/anntalk.rpy:168
-msgid "Конечно! Что смотреть будем?"
-msgstr "Bien sûr! Qu’allons-nous regarder?"
+    old "Конечно! Что смотреть будем?"
+    new "Bien sûr! Qu’allons-nous regarder?"
 
 #    # game/dialogues/anntalk.rpy:168
-msgid "А я прикупил фильм на вечер. Посмотрим?"
-msgstr "Et j’ai acheté un film pour la soirée. Tu veux voir?"
+    old "А я прикупил фильм на вечер. Посмотрим?"
+    new "Et j’ai acheté un film pour la soirée. Tu veux voir?"
 
 #    # game/dialogues/anntalk.rpy:168
-msgid "Мы не досмотрели один фильм. Помнишь?"
-msgstr "On n'a pas fini le film. Tu te souviens ?"
+    old "Мы не досмотрели один фильм. Помнишь?"
+    new "On n'a pas fini le film. Tu te souviens ?"
 
 #    # game/dialogues/anntalk.rpy:192
-msgid "Не буду тебе мешать..."
-msgstr "Je ne me mettrai pas en travers de ton chemin..."
+    old "Не буду тебе мешать..."
+    new "Je ne me mettrai pas en travers de ton chemin..."
 
 #    # game/dialogues/anntalk.rpy:211
-msgid "Нет, не слышал о таком. Давай смотреть!"
-msgstr "Non, je n'en ai pas entendu parler. Jetons un coup d'œil !"
+    old "Нет, не слышал о таком. Давай смотреть!"
+    new "Non, je n'en ai pas entendu parler. Jetons un coup d'œil !"
 
 #    # game/dialogues/anntalk.rpy:211
-msgid "Да, слышал кое-что о нём..."
-msgstr "Oui, j'ai entendu quelque chose sur lui..."
+    old "Да, слышал кое-что о нём..."
+    new "Oui, j'ai entendu quelque chose sur lui..."
 
 #    # game/dialogues/anntalk.rpy:214
-msgid "{i}начать просмотр{/i}"
-msgstr "{i}commencer à regarder{/i}"
+    old "{i}начать просмотр{/i}"
+    new "{i}commencer à regarder{/i}"
 
 #    # game/dialogues/anntalk.rpy:219
-msgid "Да, отзывы отличные"
-msgstr "Oui, les critiques sont excellentes"
+    old "Да, отзывы отличные"
+    new "Oui, les critiques sont excellentes"
 
 #    # game/dialogues/anntalk.rpy:246
-msgid "Я не смотрю, а что там?"
-msgstr "Je ne regarde pas, qu'est-ce que c'est ?"
+    old "Я не смотрю, а что там?"
+    new "Je ne regarde pas, qu'est-ce que c'est ?"
 
 #    # game/dialogues/anntalk.rpy:246
-msgid "Я уже взрослый!"
-msgstr "Je suis un adulte !"
+    old "Я уже взрослый!"
+    new "Je suis un adulte !"
 
 #    # game/dialogues/anntalk.rpy:298
-msgid "сидеть и надеяться на лучшее"
-msgstr "s'asseoir et espérer le meilleur"
+    old "сидеть и надеяться на лучшее"
+    new "s'asseoir et espérer le meilleur"
 
 #    # game/dialogues/anntalk.rpy:370
-msgid "Да, очень!"
-msgstr "Oui, beaucoup!"
+    old "Да, очень!"
+    new "Oui, beaucoup!"
 
 #    # game/dialogues/anntalk.rpy:370
-msgid "Почти также, как сидеть рядом с тобой..."
-msgstr "Presque autant que d'être assis à côté de toi..."
+    old "Почти также, как сидеть рядом с тобой..."
+    new "Presque autant que d'être assis à côté de toi..."
 
 #    # game/dialogues/anntalk.rpy:410
-msgid "{i}перестраховаться (массаж){/i}"
-msgstr "{i}rassurer (massage){/i}"
+    old "{i}перестраховаться (массаж){/i}"
+    new "{i}rassurer (massage){/i}"
 
 #    # game/dialogues/anntalk.rpy:475
-msgid "Мам, хочешь массаж?"
-msgstr "Maman, tu veux un massage ?"
+    old "Мам, хочешь массаж?"
+    new "Maman, tu veux un massage ?"
 
 #    # game/dialogues/anntalk.rpy:544
-msgid "А что такого?"
-msgstr "Et alors ?"
+    old "А что такого?"
+    new "Et alors ?"
 
 #    # game/dialogues/anntalk.rpy:544
-msgid "Хорошо, постараюсь..."
-msgstr "Ok, je vais essayer..."
+    old "Хорошо, постараюсь..."
+    new "Ok, je vais essayer..."
 
 #    # game/dialogues/anntalk.rpy:547
-msgid "Ого, мам..."
-msgstr "Wow, maman..."
+    old "Ого, мам..."
+    new "Wow, maman..."
 
 #    # game/dialogues/anntalk.rpy:547
-msgid "Разве это должно пугать?"
-msgstr "C'est censé être effrayant ?"
+    old "Разве это должно пугать?"
+    new "C'est censé être effrayant ?"
 
 #    # game/dialogues/anntalk.rpy:550
-msgid "Значит, тебе понравилось?"
-msgstr "Alors, tu as aimé ?"
+    old "Значит, тебе понравилось?"
+    new "Alors, tu as aimé ?"
 
 #    # game/dialogues/anntalk.rpy:550
-msgid "Ладно, я всё понял..."
-msgstr "Ok, j'ai compris..."
+    old "Ладно, я всё понял..."
+    new "Ok, j'ai compris..."
 
 #    # game/dialogues/anntalk.rpy:558
-msgid "Взрослую женщину притягивает?"
-msgstr "Est-ce qu'une femme adulte est attirée par toi ?"
+    old "Взрослую женщину притягивает?"
+    new "Est-ce qu'une femme adulte est attirée par toi ?"
 
 #    # game/dialogues/anntalk.rpy:558
-msgid "Да, я всё понял!"
-msgstr "Oui, je l'ai eu !"
+    old "Да, я всё понял!"
+    new "Oui, je l'ai eu !"
 
 #    # game/dialogues/anntalk.rpy:582
-msgid "Нет, никого не было..."
-msgstr "Non, il n'y avait personne..."
+    old "Нет, никого не было..."
+    new "Non, il n'y avait personne..."
 
 #    # game/dialogues/anntalk.rpy:582
-msgid "Может быть, показалось?"
-msgstr "Peut-être que c'était juste une impression ?"
+    old "Может быть, показалось?"
+    new "Peut-être que c'était juste une impression ?"
 
 #    # game/dialogues/anntalk.rpy:588
-msgid "Нет, мам, нечего рассказывать"
-msgstr "Non, maman, il n'y a rien à dire"
+    old "Нет, мам, нечего рассказывать"
+    new "Non, maman, il n'y a rien à dire"
 
 #    # game/dialogues/anntalk.rpy:595
-msgid "Всегда пожалуйста, сестрёнка!"
-msgstr "De rien, ma sœur !"
+    old "Всегда пожалуйста, сестрёнка!"
+    new "De rien, ma sœur !"
 
 #    # game/dialogues/anntalk.rpy:595
-msgid "Может, ещё сдам..."
-msgstr "Peut-être que je vais lui en donner un peu plus..."
+    old "Может, ещё сдам..."
+    new "Peut-être que je vais lui en donner un peu plus..."
 
 #    # game/dialogues/anntalk.rpy:595
-msgid "Если сделаешь кое-что, то и не сдам..."
-msgstr "Si tu fais quelque chose, je n’abandonnerais pas..."
+    old "Если сделаешь кое-что, то и не сдам..."
+    new "Si tu fais quelque chose, je n’abandonnerais pas..."
 
 #    # game/dialogues/anntalk.rpy:606
-msgid "Да я пошутил..."
-msgstr "Je plaisantais..."
+    old "Да я пошутил..."
+    new "Je plaisantais..."
 
 #    # game/dialogues/anntalk.rpy:606
-msgid "Извини..."
-msgstr "Pardon..."
+    old "Извини..."
+    new "Pardon..."
 
 #    # game/dialogues/anntalk.rpy:606
-msgid "Всё в твоих руках..."
-msgstr "Tout est entre tes mains..."
+    old "Всё в твоих руках..."
+    new "Tout est entre tes mains..."
 
 #    # game/dialogues/anntalk.rpy:645
-msgid "Да это не важно..."
-msgstr "Peu importe..."
+    old "Да это не важно..."
+    new "Peu importe..."
 
 #    # game/dialogues/anntalk.rpy:645
-msgid "Ну, красивая..."
-msgstr "Eh bien, magnifique..."
+    old "Ну, красивая..."
+    new "Eh bien, magnifique..."
 
 #    # game/dialogues/anntalk.rpy:776
-msgid "Тебе не жарко, мам?"
-msgstr "Tu n'as pas chaude, maman ?"
+    old "Тебе не жарко, мам?"
+    new "Tu n'as pas chaude, maman ?"
 
 #    # game/dialogues/anntalk.rpy:776
-msgid "Продолжай, мам. Я весь во внимании..."
-msgstr "Vas-y, maman. Je suis tout ouïe..."
+    old "Продолжай, мам. Я весь во внимании..."
+    new "Vas-y, maman. Je suis tout ouïe..."
 
 #    # game/dialogues/anntalk.rpy:868
-msgid "..."
-msgstr "..."
+    old "..."
+    new "..."
 
 #    # game/dialogues/anntalk.rpy:891
-msgid "Давай ещё?! Ты такая классная!"
-msgstr "Aller?! Tu es tellement cool!"
+    old "Давай ещё?! Ты такая классная!"
+    new "Aller?! Tu es tellement cool!"
 
 #    # game/dialogues/anntalk.rpy:891
-msgid "Конечно, мам! Не скучай..."
-msgstr "Bien sûr, maman ! Ne t'ennuies pas..."
+    old "Конечно, мам! Не скучай..."
+    new "Bien sûr, maman ! Ne t'ennuies pas..."
 
 #    # game/dialogues/anntalk.rpy:898
-msgid "Хорошо... Я тебя люблю, мам!"
-msgstr "Eh bien... Je t'aime, maman !"
+    old "Хорошо... Я тебя люблю, мам!"
+    new "Eh bien... Je t'aime, maman !"
 
 #    # game/dialogues/anntalk.rpy:1036
-msgid "{i}закончить массаж и попытаться скрыть стояк{/i}"
-msgstr "{i}finir le massage et essayer de cacher la trique{/i}"
+    old "{i}закончить массаж и попытаться скрыть стояк{/i}"
+    new "{i}finir le massage et essayer de cacher la trique{/i}"
 
 #    # game/dialogues/anntalk.rpy:1233
-msgid "Мам, у тебя полотенце сползает..."
-msgstr "Maman, ta serviette glisse..."
+    old "Мам, у тебя полотенце сползает..."
+    new "Maman, ta serviette glisse..."
 
 # game/dialogues/anntalk.rpy:22# translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
@@ -1603,6 +1603,6 @@ msgstr "[Ann_18]Jusqu'à ce que tu me ramènes, ne m'approche même pas, Max! Tu
 msgid "[Max_11]Как скажешь, мам."
 msgstr "[Max_11]Comme tu veux, maman."
 
-msgid "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
-msgstr "{b}Alerte: {/B} Anna ne veut plus interagir avec Max"
+    old "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
+    new "{b}Alerte: {/B} Anna ne veut plus interagir avec Max"
 
