@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-04 18:36\n"
+"PO-Revision-Date: 2022-01-29 11:07\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # game/core/oldfix.rpy:6## # translate crowdin old_fix_6c975de3:
+# game/core/oldfix.rpy:6# translate crowdin old_fix_6c975de3:
 msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
-msgstr "No se admite guardar la versión techno demo. Inicia una nueva partida o elige una partida diferente."
+msgstr ""
 
-# game/core/oldfix.rpy:10## # translate crowdin old_fix_93331e6b:
+# game/core/oldfix.rpy:10# translate crowdin old_fix_93331e6b:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-msgstr "Desafortunadamente, guardar esta versión no es compatible debido a una gran cantidad de cambios internos. Inicia una nueva partida o elige una partida diferente."
+msgstr ""
 
-# game/core/oldfix.rpy:14## # translate crowdin old_fix_93331e6b_1:
+# game/core/oldfix.rpy:14# translate crowdin old_fix_93331e6b_1:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-msgstr "Desafortunadamente, guardar esta versión no es compatible debido a una gran cantidad de cambios internos. Inicia una nueva partida o elige una partida diferente."
+msgstr ""
 
 msgid "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
 msgstr "{i}{b}Nota:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"característica\" en la versión actual del juego. {/i}"

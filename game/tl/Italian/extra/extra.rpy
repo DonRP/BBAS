@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-13 08:38\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/extra/extra.rpy:56
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/extra/extra.rpy:56
 msgid "Новый купальник Лизы"
 msgstr "Il nuovo costume da bagno di Lisa"
 
@@ -267,4 +267,8 @@ msgstr "Torna alla collezione"
 #    # game/extra/extra.rpy:301
 msgid "Следующий снимок"
 msgstr "Immagine successiva"
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/extra/extra.rpy:60
+msgid "Вместо ночного плаванья"
+msgstr "Вместо ночного плаванья"
 

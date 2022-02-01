@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:40\n"
+"PO-Revision-Date: 2022-01-09 20:47\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
+# game/dialogues/dinner.rpy:61## # translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
 msgstr "[Ann_01]Buon appetito a tutti. Sono contento, Max, che tu abbia comprato la spesa a tue spese. E vedo la piscina pulita. Complimenti per essersi assunto questa responsabilità, lo apprezziamo tutti. Ora ceniamo...[nointeract]"
 
@@ -42,7 +42,7 @@ msgstr "[Ann_05]sì, va bene, Max. Grazie per avermelo chiesto. È solo che ci s
 
 # game/dialogues/dinner.rpy:80## # translate crowdin typical_dinner_63f629c8:
 msgid "[Max_00]Понятно. Приятного аппетита!"
-msgstr "[Max_00]comprensibile. Buon appetito!"
+msgstr "[Max_00]Capisco. Buon appetito!"
 
 # game/dialogues/dinner.rpy:86## # translate crowdin dinner_first_650c2c5d:
 msgid "[Ann_07]Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"

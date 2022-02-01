@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-09 20:46\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/02init.rpy:18
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr ""
 
@@ -631,5 +631,29 @@ msgstr ""
 
 #    # game/core/02init.rpy:248
 msgid "Мам, я купил тебе одежду полегче!"
+msgstr ""
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/02init.rpy:40
+msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
+msgstr ""
+
+#    # game/core/02init.rpy:43
+msgid "{color=#00FF00}{i}Успех!{/i}{/color}\n"
+msgstr ""
+
+#    # game/core/02init.rpy:44
+msgid "{color=#E59400}{i}Провал!{/i}{/color}\n"
+msgstr ""
+
+#    # game/core/02init.rpy:135
+msgid "Как ты после случившегося?"
+msgstr ""
+
+#    # game/core/02init.rpy:135
+msgid "Уже слышала новость, тётя Кира?"
+msgstr ""
+
+#    # game/core/02init.rpy:135
+msgid "Лиза, ты чего нос повесила?"
 msgstr ""
 

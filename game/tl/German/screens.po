@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-01-04 18:37\n"
+"PO-Revision-Date: 2022-01-29 11:09\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/screens.rpy:244
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/screens.rpy:244
 msgid "массаж, "
 msgstr "massage, "
 
@@ -433,4 +433,8 @@ msgstr "Oberfläche ausblenden"
 #    # game/screens.rpy:1683
 msgid "Меню"
 msgstr "Menü"
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/screens.rpy:1031
+msgid "Именованные сохранения"
+msgstr ""
 

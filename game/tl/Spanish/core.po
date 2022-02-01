@@ -10,59 +10,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-04 18:37\n"
+"PO-Revision-Date: 2022-01-29 11:08\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # game/core/core.rpy:496## # translate crowdin AfterWaiting_c2510a45:
+# game/core/core.rpy:496# translate crowdin AfterWaiting_c2510a45:
 msgid "[Max_00]Я слишком устал. Надо бы вздремнуть..."
 msgstr "[Max_00]Estoy demasiado cansado. Debería tomar una siesta..."
 
-# game/core/core.rpy:641## # translate crowdin night_of_fun_cae91685:
+# game/core/core.rpy:641# translate crowdin night_of_fun_cae91685:
 msgid "[Max_19]Теперь можно спокойно спать и ничего больше..."
 msgstr "[Max_19]Ahora puedes dormir tranquilo y nada más..."
 
-# game/core/core.rpy:678## # translate crowdin cam_after_waiting_6058d5d4:
+# game/core/core.rpy:678# translate crowdin cam_after_waiting_6058d5d4:
 msgid "[Max_09]Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
 msgstr "[Max_09]creo que ver cámaras ahora no es la mejor idea. No había suficiente para que Lisa notó nada ... ¿Tal vez deberías ir a la terraza? No debería haber nadie allí ahora ...[nointeract]"
 
-# game/core/core.rpy:685## # translate crowdin cam_after_waiting_c283f316:
+# game/core/core.rpy:685# translate crowdin cam_after_waiting_c283f316:
 msgid "[Max_09]Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
 msgstr "[Max_09]Lisa está en la habitación en este momento ... ¡Y en la terraza el lugar está ocupado! Es mejor no correr riesgos y esperar con la visualización de las cámaras."
 
-# game/core/core.rpy:690## # translate crowdin cam_after_waiting_38f46f18:
+# game/core/core.rpy:690# translate crowdin cam_after_waiting_38f46f18:
 msgid "[Max_09]Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...[nointeract]"
 msgstr "[Max_09]Mejor ver las cámaras en otro lugar! No fue suficiente para Lisa notar algo ...[nointeract]"
 
-# game/core/core.rpy:702## # translate crowdin cam_after_waiting_d4f49617:
+# game/core/core.rpy:702# translate crowdin cam_after_waiting_d4f49617:
 msgid "[Max_09]Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
 msgstr "[Max_09]Tal vez no deberías mirar las cámaras ahora. Lisa podría despertarse y notar lo que estoy haciendo ... ¿Tal vez deberías ir a la terraza? No debería haber nadie allí ahora ...[nointeract]"
 
-# game/core/core.rpy:709## # translate crowdin cam_after_waiting_c283f316_1:
+# game/core/core.rpy:709# translate crowdin cam_after_waiting_c283f316_1:
 msgid "[Max_09]Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер."
 msgstr "[Max_09]Lisa está en la habitación en este momento ... ¡Y en la terraza el lugar está ocupado! Es mejor no correr riesgos y esperar con la visualización de las cámaras."
 
-# game/core/core.rpy:714## # translate crowdin cam_after_waiting_eea92f18:
+# game/core/core.rpy:714# translate crowdin cam_after_waiting_eea92f18:
 msgid "[Max_09]Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...[nointeract]"
 msgstr "[Max_09]Mejor ver las cámaras en otro lugar! Lisa puede despertarse y darse cuenta de lo que estoy haciendo...[nointeract]"
 
-# game/core/core.rpy:766## # translate crowdin cam_after_waiting_27f05bf1:
+# game/core/core.rpy:766# translate crowdin cam_after_waiting_27f05bf1:
 msgid "[Max_00]Сейчас здесь ничего не происходит."
 msgstr "[Max_00]Nada está sucediendo aquí en este momento."
 
-# game/core/core.rpy:801## # translate crowdin after_buying_27b33f97:
+# game/core/core.rpy:801# translate crowdin after_buying_27b33f97:
 msgid "[Max_01]{m}Так, фотокамеру я заказал, осталось дождаться доставки...{/m}"
 msgstr "[Max_01]{m}Entonces, pedí la cámara, queda esperar la entrega...{/i}"
 
-# game/core/core.rpy:802## # translate crowdin after_buying_46e6b997:
+# game/core/core.rpy:802# translate crowdin after_buying_46e6b997:
 msgid "[Max_07]{m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
 msgstr "[Max_07] {m} Me pregunto con qué ropa me gustaría fotografiar a la tía Kira. Ella lo necesita para un portafolio... ¡¿Entonces tal vez debería comprarle algo sexy?! Por ejemplo, ¡un camisón más sexy! Esto será una ventaja... {/ m}"
 
-# game/core/core.rpy:821## # translate crowdin after_load_84f87582:
+# game/core/core.rpy:821# translate crowdin after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgstr ""
 
-# game/core/core.rpy:827## # translate crowdin after_load_e53fbeb7:
+# game/core/core.rpy:827# translate crowdin after_load_e53fbeb7:
 msgid "_ver [_version], conf.ver [config.version]"
-msgstr "_ver [_version], conf.ver [config.version]"
+msgstr ""
 
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nuevo producto está disponible en la tienda en línea."
@@ -90,4 +90,40 @@ msgid "Зрелище действительно завораживающее! �
 msgstr "¡El espectáculo es realmente fascinante! Probablemente no muchos hayan logrado desnudar y azotar a su hermana mayor...\n"
 "Aunque es caprichosa y al mismo tiempo lanza amenazas, parece que mi perseverancia prevaleció. Admirar su culo desnudo y elástico es un placer, además de azotarla.\n\n"
 "Y ahora entiendo cómo no ir demasiado lejos para disfrutar el mayor tiempo posible de este castigo privado..."
+
+# game/core/core.rpy:556# translate crowdin AfterWaiting_583fe90e:
+msgid "[Max_00]{m}Я слишком устал. Надо бы вздремнуть...{/m}"
+msgstr ""
+
+# game/core/core.rpy:776# translate crowdin night_of_fun_35c4c591:
+msgid "[Max_19]{m}Теперь можно спокойно спать и ничего больше...{/m}"
+msgstr ""
+
+# game/core/core.rpy:813# translate crowdin cam_after_waiting_bfada06d:
+msgid "[Max_09]{m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}[nointeract]"
+msgstr ""
+
+# game/core/core.rpy:820# translate crowdin cam_after_waiting_44f62349:
+msgid "[Max_09]{m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
+msgstr ""
+
+# game/core/core.rpy:825# translate crowdin cam_after_waiting_935d8f7d:
+msgid "[Max_09]{m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m}[nointeract]"
+msgstr ""
+
+# game/core/core.rpy:837# translate crowdin cam_after_waiting_af0a2821:
+msgid "[Max_09]{m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}[nointeract]"
+msgstr ""
+
+# game/core/core.rpy:844# translate crowdin cam_after_waiting_44f62349_1:
+msgid "[Max_09]{m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
+msgstr ""
+
+# game/core/core.rpy:849# translate crowdin cam_after_waiting_24007a63:
+msgid "[Max_09]{m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m}[nointeract]"
+msgstr ""
+
+# game/core/core.rpy:901# translate crowdin cam_after_waiting_b8378225:
+msgid "[Max_00]{m}Сейчас здесь ничего не происходит.{/m}"
+msgstr ""
 

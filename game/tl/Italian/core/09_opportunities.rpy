@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-14 09:07\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
 msgstr "Telecamere nascoste"
 
@@ -42,7 +42,7 @@ msgstr "A volte, i libri specializzati sono molto meglio di ciò che è scritto 
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, я внимательно прочитал книгу Web Standards и разобрался, как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
-msgstr "Quindi, ho letto attentamente il libro Web Standards e ho capito come creare il tuo sito web. Forse dovremmo iniziare con questo. Avrò bisogno di soldi per un dominio, hosting e pagamento per un modello già pronto con un design. In totale, hai bisogno di circa $ 100."
+msgstr "Quindi, ho letto attentamente il libro Web Standards e ho capito come creare il tuo sito web. Forse dovremmo iniziare con questo. Avrò bisogno di soldi per un dominio, hosting e pagamento per un modello già pronto con un design. In totale, hai bisogno di circa € 100."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Главное, собрать нужную сумму, а остальное - уже ерунда..."
@@ -54,7 +54,7 @@ msgstr "Infine, ho il mio sito web che trasmette l'immagine dalla fotocamera dal
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
-msgstr "Devi pagare periodicamente per la pubblicità per il sito al fine di risparmiare rapidamente denaro per nuove fotocamere e, in alternativa, provare a chiedere qualcosa ad Alice, mamma o Eric..."
+msgstr "Devi pagare periodicamente per la pubblicità per il sito al fine di risparmiare rapidamente denaro per nuove telecamere e, in alternativa, provare a chiedere qualcosa ad Alice, mamma o Eric..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
@@ -78,7 +78,7 @@ msgstr "Non dimenticare di installare una seconda telecamera nel cortile e nel b
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ну вот, пожалуй, девяти камер будет более чем достаточно, чтобы неплохо зарабатывать! Остаётся лишь позаботиться о том, чтобы по каждой из них, моим зрителям было что увидеть..."
-msgstr "Beh, forse, nove fotocamere saranno più che sufficienti per fare buoni soldi! Resta solo da fare in modo che per ognuno di loro, i miei spettatori avessero qualcosa da vedere..."
+msgstr "Beh, forse, nove telecamere saranno più che sufficienti per fare buoni soldi! Resta solo da fare in modo che per ognuno di loro, i miei spettatori avessero qualcosa da vedere..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Особые книги"
@@ -562,7 +562,7 @@ msgstr "Massaggiatore di talento"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я, без особых надежд, предложил Алисе намазать её кремом для загара... Которого ни у неё, ни у меня не было. Но, она не против! Я уже предвкушаю, как буду растирать этот крем по её телу... Только его сперва нужно купить. Как и одежду полегче, ведь во дворе будет жарко!"
-msgstr "big!"
+msgstr "Ho suggerito, senza molte speranze, che Alice si mettesse la crema solare... Cosa che né io né lei avevamo. Ma a lei non importava! Non vedo l'ora di strofinarlo su tutto il suo corpo... Ma prima devo comprarlo. E anche dei vestiti più leggeri, perché farà caldo in giardino!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот теперь у меня есть всё, чтобы подарить Алисе равномерный и безопасный загар. Только бы всё не испортить своими руками... Надеюсь, они у меня не слишком корявые. Так или иначе, скоро я это пойму."
@@ -640,7 +640,7 @@ msgstr "Alice è ancora una burlona! Sembra pungente, ma in realtà basta una ca
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит последить за Алисой через скрытые камеры. Как знать, что она ещё может отчудить, пока будет на веселе после фут-джоба до того, как ляжет спать..."
-msgstr "Vale la pena seguire Alice attraverso telecamere nascoste. Chissà con cosa può ancora farla franca mentre è divertente dopo il lavoro a piedi prima di andare a letto ..."
+msgstr "Vale la pena seguire Alice attraverso telecamere nascoste. Chissà con cosa può ancora farla franca mentre è divertente dopo il lavoro a piedi prima di andare a letto..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ухх... А моя сестрёнка ловко управляется со своей розовой игрушкой! Неужели это мой массаж её так завёл? Похоже на то. А конфеты её только раззадорили и она хочет ещё... Не означает ли это, что я могу зайти куда дальше во время массажа её ног?"
@@ -881,7 +881,7 @@ msgstr "Come si è scoperto, Eric ha pagato corsi extra per Lisa a scuola per mi
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лиза предупредила меня, что теперь, когда их теоретические занятия закончились, Эрик будет проводить для неё уроки сексуального воспитания без участия моей мамы. И, как я понял, они собираются закреплять теоретическую часть практическими занятиями! Эрик хорошо запудрил мозги Лизе, я даже не смог её отговорить от этого. Остаётся разве что помешать им... Если бы у меня получилось подмешать Эрику в еду что-нибудь, вроде слабительного или успокоительного, то вполне возможно, что практические занятия с Лизой - это последнее, о чём он будет думать. Главное устраивать такие пакости не чаще, чем раз в неделю, иначе он всё поймёт. Ну, а уже если не получится, то я вмешаюсь в их практику лично. Проблем из-за этого мне точно не избежать, но что поделать..."
-msgstr "Lisa mi ha avvertito che ora che le loro lezioni di teoria erano finite, Eric avrebbe fatto lezioni di educazione sessuale per lei senza il coinvolgimento di mia madre. E, come ho capito, consolideranno la parte teorica con esercizi pratici! Eric è stato un buon lavaggio del cervello di Lisa, non riuscivo nemmeno a dissuaderla. Resta solo da prevenirli ... Se potessi mescolare Erica con qualcosa come un lassativo o un sedativo, è possibile che praticare con Lisa sia l'ultima cosa a cui penserà. La cosa principale è organizzare tali trucchi sporchi non più di una volta alla settimana, altrimenti capirà tutto. Bene, se non funziona, interverrò personalmente nella loro pratica. Problemi a causa di questo sicuramente non posso evitare, ma cosa fare ..."
+msgstr "Lisa mi ha avvertito che ora che le loro lezioni di teoria erano finite, Eric avrebbe fatto lezioni di educazione sessuale per lei senza il coinvolgimento di mia madre. E, come ho capito, consolideranno la parte teorica con esercizi pratici! Eric è stato un buon lavaggio del cervello di Lisa, non riuscivo nemmeno a dissuaderla. Resta solo da prevenirli ... Se potessi mescolare Eric con qualcosa come un lassativo o un sedativo, è possibile che praticare con Lisa sia l'ultima cosa a cui penserà. La cosa principale è organizzare tali trucchi sporchi non più di una volta alla settimana, altrimenti capirà tutto. Bene, se non funziona, interverrò personalmente nella loro pratica. Problemi a causa di questo sicuramente non posso evitare, ma cosa fare ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Эрик собирается проводить практические занятия с Лизой по понедельникам. Чтобы их сорвать, нужно прикупить слабительное или успокоительное, а затем помочь Алисе накрыть на стол, заодно подсыпав одно из этих средств..."
@@ -889,7 +889,7 @@ msgstr "Eric farà lezioni pratiche con Lisa il lunedì. Per romperli, è necess
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лиза обратилась ко мне за советом, ведь как оказалось, после окончания их теоретических занятий, Эрик предложил ей закрепить всё это на практических уроках без участия моей мамы. Благо, Лиза прислушивается ко мне и у меня получилось убедить её, что на это лучше не соглашаться. Но вряд ли Эрик этому обрадуется. Меня наверняка ждут проблемы из-за этого, но что поделать... Было бы неплохо хоть немного снизить его активную деятельность в нашем доме! Если бы у меня получилось подмешать Эрику в еду что-нибудь, вроде слабительного или успокоительного, то вполне возможно, что лезть к моим сёстрам - это последнее, о чём он будет думать. Главное устраивать такие пакости не чаще, чем раз в неделю, иначе он всё поймёт."
-msgstr "Lisa si rivolse a me per un consiglio, perché come si è scoperto, dopo la fine delle loro lezioni teoriche, Eric le suggerì di consolidare tutto questo in lezioni pratiche senza la partecipazione di mia madre. Fortunatamente, Lisa mi ascolta e sono riuscito a convincerla che è meglio non accettare questo. Ma è improbabile che Eric ne sia felice. Probabilmente sono nei guai a causa di questo, ma cosa posso fare ... Sarebbe bello ridurre almeno leggermente la sua attività attiva nella nostra casa! Se potessi mescolare Erica con qualcosa come un lassativo o un sedativo, è possibile che raggiungere le mie sorelle sia l'ultima cosa a cui penserà. La cosa principale è organizzare tali trucchi sporchi non più di una volta alla settimana, altrimenti capirà tutto."
+msgstr "Lisa si rivolse a me per un consiglio, perché come si è scoperto, dopo la fine delle loro lezioni teoriche, Eric le suggerì di consolidare tutto questo in lezioni pratiche senza la partecipazione di mia madre. Fortunatamente, Lisa mi ascolta e sono riuscito a convincerla che è meglio non accettare questo. Ma è improbabile che Eric ne sia felice. Probabilmente sono nei guai a causa di questo, ma cosa posso fare ... Sarebbe bello ridurre almeno leggermente la sua attività attiva nella nostra casa! Se potessi mescolare Eric con qualcosa come un lassativo o un sedativo, è possibile che raggiungere le mie sorelle sia l'ultima cosa a cui penserà. La cosa principale è organizzare tali trucchi sporchi non più di una volta alla settimana, altrimenti capirà tutto."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Чтобы Эрик меньше лез к моим сёстрам, нужно прикупить слабительное или успокоительное, а затем помочь Алисе накрыть на стол, заодно подсыпав одно из этих средств..."
@@ -1181,7 +1181,7 @@ msgstr "Alice ha così paura dei ragni che è corsa da me in soccorso nel cuore 
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лучше подложить паука, когда я делаю Алисе массаж. Если она хорошенько расслабится, то сильнее испугается..."
-msgstr "È meglio mettere un ragno quando sto invecchiando Alice. Se si rilassa bene, sarà più spaventata..."
+msgstr "Meglio mettere un ragno quando faccio un massaggio ad Alice. Se si rilassa bene, si spaventerà di più..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Таких крепких объятий от Алисы я не ожидал! Так близко к моему лицу её сиськи не были ещё никогда! С помощью пауков я могу обеспечить себе много каких по-хорошему волнующих моментов с Алисой... Посмотрим, к чему это приведёт..."
@@ -1972,4 +1972,84 @@ msgstr "Eric ha dato ad Alice un body di pizzo davanti a me, il che significa ch
 #    # game/core/09_opportunities.rpy:789
 msgid "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
 msgstr "Ho bisogno di passare più tempo con mia madre. Le sue lezioni di yoga mattutine ci aiuteranno ad avvicinarci..."
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/09_opportunities.rpy:4
+msgid "Теперь Эрика нет и я могу спокойно помогать Алисе дальше. Я уже предложил ей сходить куда-нибудь и развеяться, а то Эрик своими планами произвёл на моих сестёр и маму не самые лучшие впечатления. Но Алиса хочет сперва опомниться, а уже потом как-то развлекаться. Остаётся ждать..."
+msgstr "Ora che Eric se n'era andato, ero libero di aiutare Alice. Le ho già suggerito di uscire a divertirsi, perché i piani di Eric non hanno fatto la migliore impressione sulle mie sorelle e su mia madre. Ma Alice vuole prima rinsavire e poi divertirsi un po'. Dobbiamo aspettare..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Кажется, я нашёл ту, которая научит меня целоваться. И это... моя тётя! Это так странно... Ну она точно в этом вопросе понимает достаточно. Да я был бы рад любому учителю, но такой - идеален! Да, тётя Кира сказала, что лучше об этом поговорить в более интимной обстановке. Например, когда она ночью смотрит телик."
+msgstr "Credo di aver trovato qualcuno che può insegnarmi a baciare. E questo è... mia zia! È così strano... Beh, di sicuro ne sa molto di queste cose. Sarei felice con qualsiasi insegnante, ma questo è perfetto. Sì, la zia Kira ha detto che è meglio parlarne in un ambiente più intimo. Come quando guarda la televisione la sera."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Нужно помешать Эрику и Лизе во время практических занятий..."
+msgstr "Dobbiamo impedire a Eric e Lisa di praticare..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Потребуются успехи в возможности \"Компромат на Эрика\"..."
+msgstr "Ci vorranno progressi sull'opportunità del \"Compromesso su Eric\"..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Я вмешался в практическое занятие Лизы, прежде чем она совершила большую ошибку... Естественно, Эрик предупредил меня, что так просто он это не оставит и у меня будут огромные проблемы. Ну посмотрим, что такого он может сделать..."
+msgstr "Sono intervenuto nella sessione di allenamento di Lisa prima che facesse un grosso errore... Naturalmente, Eric mi ha avvertito che non avrebbe lasciato perdere e che sarei stato in grossi guai. Bene, vediamo cosa può fare..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "После того, как с Эриком всё разрешилось, я поговорил с Лизой. Она после того, что затевал Эрик, не горит большим желанием активно продолжать своё сексуальное образование. Поэтому я предложил ей смотреть обучающие фильмы и она не против. Теперь нужно будет подыскать что-нибудь такое для неё, не порно, но добротные эротические фильмы. А там глядишь и до порно фильмов недалеко..."
+msgstr "Dopo aver risolto tutto con Eric, ho parlato con Lisa. Dopo quello che aveva fatto Eric, non era molto propensa a proseguire attivamente la sua educazione sessuale. Così le ho suggerito di guardare film educativi e le va bene. Ora dobbiamo trovare qualcosa per lei, non porno, ma buoni film erotici. E poi vedremo se non possiamo entrare nei film porno..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Эта сволочь Эрик, взял и обвинил меня в воровстве его бумажника с деньгами! И якобы именно на эти сворованные деньги я и покупаю все подарки для моей семьи. Дал мне неделю, чтобы я всё ему вернул, иначе меня отправят в военный лагерь. А как обидно, что верят именно Эрику, а не мне.\n"
+"Эрик так же дал понять, что \"уладить\" это у меня не получится, так что дело за компроматом на него. Но сначала нужно поговорить с сёстрами, чтобы понять, насколько они верят Эрику."
+msgstr "Quel bastardo di Eric, mi ha accusato di avergli rubato il portafoglio di soldi! E presumibilmente era con quei soldi rubati che stavo comprando tutti i regali per la mia famiglia. Mi diede una settimana per ripagarlo, altrimenti sarei stato mandato in un campo militare. È un peccato che credano a Erik e non a me.\n"
+"Eric ha anche chiarito che non potevo \"sistemare\" la cosa, quindi spettava a lui trovare un compromesso. Ma prima dobbiamo parlare con le sorelle per scoprire quanto si fidano di Eric."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Нужно торопиться! Лучше поговорить с Лизой и Алисой как можно быстрее..."
+msgstr "Dobbiamo sbrigarci! Meglio parlare con Lisa e Alice il più presto possibile..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Спрашиваете меня об Эрике? Эрик... Эрик... Какой такой Эрик? Не слышал ни о каком Эрике... Кажется, его и не было никогда. Даже вспоминать не буду! Но что мне запомнилось, так это Алиса в гневе. У меня даже привстал на такое..."
+msgstr "Mi stai chiedendo di Eric? Eric... Eric... Eric chi? Non ho mai sentito parlare di nessun Eric... Non credo che sia mai esistito. Non me ne ricorderò nemmeno! Ma quello che ricordo è Alice in preda alla rabbia. Mi sono anche eccitato per questo..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Или же Эрик ещё может вернуться? Как знать..."
+msgstr "O Eric potrebbe ancora tornare? Chi lo sa..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Спрашиваете меня об Эрике? Эрик... Эрик... Какой такой Эрик? Не слышал ни о каком Эрике... Кажется, его и не было никогда. Даже вспоминать не буду! Но что мне запомнилось, так это Лиза в гневе. Вроде хотела порвать Эрика, а сама за меня в итоге пряталась..."
+msgstr "Mi stai chiedendo di Eric? Eric... Eric... Eric chi? Non ho mai sentito parlare di nessun Eric... Non credo che sia mai esistito. Non riesco nemmeno a ricordare! Ma quello che ricordo è Lisa in preda alla rabbia. Come se volesse fare a pezzi Eric, ma ha finito per nascondersi dietro di me..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Пришло время действовать! Одного снимка мало, чтобы убедить всех в том, что Эрик тот ещё мудак, а заманивать его его в комнату к Алисе нет времени. Вот бы мне разговорить Эрика и записать его мерзкие признания на диктофон! У Лизы на телефоне наверняка должен быть диктофон, но нужно подождать пару дней, чтобы она остыла. Тогда я его и попрошу на время..."
+msgstr "È il momento di agire! Non era abbastanza per convincere tutti che Eric era uno stronzo, e non c'era tempo per attirarlo nella stanza di Alice. Vorrei poter far parlare Eric e registrare le sue brutte confessioni! Lisa deve avere un registratore sul suo telefono, ma dovrà aspettare un paio di giorni prima che si raffreddi. Allora glielo chiederò per un po'..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Нужно будет подождать и попросить у Лизы на время её телефон. Стоит попробовать начиная с субботы..."
+msgstr "Dovremo aspettare e chiedere a Lisa il suo telefono per un po'. Vale la pena provare a partire da sabato..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Пришло время действовать! Без доказательств я никак не смогу убедить всех в том, что Эрик тот ещё мудак. Вот бы мне разговорить его... и записать его мерзкие признания на диктофон! У Лизы на телефоне наверняка должен быть диктофон, но нужно подождать пару дней, чтобы она остыла. Тогда я его и попрошу на время..."
+msgstr "È il momento di agire! Senza prove, non c'era modo di convincere tutti che Eric era uno stronzo. Vorrei poterlo far parlare... e registrare la sua disgustosa confessione! Lisa dovrebbe probabilmente avere un registratore sul suo telefono, ma ha bisogno di aspettare un paio di giorni per raffreddarsi. Allora glielo chiederò per un po'..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Пришло время действовать! Снимки у меня есть, но хорошо бы перетянуть кого-нибудь из сестёр на свою сторону. Раз Эрик любит подрочить на Алису, то я знаю, как усилить эффект от компромата.\n\n"
+"Нужно проследить за Эриком и убедиться, что он сделал все свои мерзкие ночные дела, а после немного \"испачкать\" Алису, будто бы это Эрик. С учётом обстоятельств, она точно прибежит с утра именно ко мне. Надеюсь, я успею показать ей снимки до того, как она меня убьёт!"
+msgstr "È il momento di agire! Ho le foto, ma sarebbe bene avere una delle sorelle dalla mia parte. Dato che a Eric piace masturbarsi con Alice, so come aumentare l'effetto del compromesso.\n\n"
+"Dobbiamo seguire Eric e assicurarci che abbia fatto tutte le sue brutte cose notturne, e poi \"sporcare\" un po' Alice come se fosse Eric. Date le circostanze, è sicuramente da me che correrà domattina. Spero di poterle mostrare le foto prima che mi uccida!"
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Нужно убедиться, что Эрик вернулся в комнату мамы после ночных похождений и подставить его, зайдя к спящей Алисе в комнату..."
+msgstr "Dobbiamo assicurarci che Eric sia tornato nella stanza di sua madre dopo la sua notte fuori e incastrarlo entrando nella stanza da letto di Alice..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Лиза ни за что не хочет давать мне свой телефон! Придётся взять его, пока она будет мыть посуду после ужина. Думаю, у меня получится найти её телефон в комнате и быстренько разговорить Эрика, пока она не обнаружила пропажу и подняла шум."
+msgstr "È impossibile che Lisa voglia darmi il suo telefono! Dovrò prenderlo mentre lei fa i piatti dopo cena. Penso di poter trovare il suo telefono nella sua stanza e far parlare Eric velocemente prima che scopra che manca e faccia una scenata."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Нужно найти телефон Лизы в комнате, пока она моет посуду и сразу же идти к Эрику. Другой возможности больше может не представиться..."
+msgstr "Dobbiamo trovare il telefono di Lisa nella sua stanza mentre sta lavando i piatti e andare direttamente a casa di Eric. Potrebbe non esserci un'altra opportunità..."
+
+#    # game/core/09_opportunities.rpy:4
+msgid "Эрик повержен! Мне удалось вывести его на чистую воду и теперь мы наконец-то заживём, как раньше. Даже ещё лучше! Но для начала всем нужно время, чтобы отойти от правды о нём."
+msgstr "Eric è sconfitto! Sono riuscito a farlo uscire allo scoperto e ora finalmente vivremo come prima. Ancora meglio! Ma prima, tutti hanno bisogno di tempo per superare la verità su di lui."
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-04 18:39\n"
+"PO-Revision-Date: 2022-01-14 09:07\n"
 
-# TODO: Translation updated at 2021-12-05 17:43### # translate crowdin strings:#    # game/core/02init.rpy:18
+# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasione riuscita!{/i}{/color}\n"
 
@@ -226,7 +226,7 @@ msgstr "Per quanto riguarda i piatti..."
 
 #    # game/core/02init.rpy:130
 msgid "Не возражаешь против компании?"
-msgstr "Non ti dispiace l'azienda?"
+msgstr "Vuoi un po' di compagnia?"
 
 #    # game/core/02init.rpy:130
 msgid "Что читаешь?"
@@ -250,7 +250,7 @@ msgstr "Abbronzatura?"
 
 #    # game/core/02init.rpy:130
 msgid "У меня для тебя обещанная вкусняшка!"
-msgstr "Ho il delizioso promesso per te!"
+msgstr "Ho il dolcetto che ti ho promesso!"
 
 #    # game/core/02init.rpy:130
 msgid "Насчёт ванны ночью..."
@@ -310,7 +310,7 @@ msgstr "Scelgo di essere punito da te..."
 
 #    # game/core/02init.rpy:130
 msgid "Мам, дай денег, пожалуйста..."
-msgstr "Mamma, dammi dei soldi, per favore..."
+msgstr "Mamma, mi dai dei soldi, per favore..."
 
 #    # game/core/02init.rpy:130
 msgid "Я продукты заказал!"
@@ -600,7 +600,7 @@ msgstr "Ho un regalo per te {i}(Accappatoio){/i}"
 
 #    # game/core/02init.rpy:248
 msgid "У меня для тебя вкусняшка!"
-msgstr "Ho un pasto delizioso per te!"
+msgstr "Ho un regalo per te!"
 
 #    # game/core/02init.rpy:248
 msgid "У меня есть кое-что запрещённое..."
@@ -645,4 +645,28 @@ msgstr "Ho un regalo per te {i}(La frusta){/i}"
 #    # game/core/02init.rpy:248
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "Mamma, ti ho comprato vestiti più leggeri!"
+
+# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/02init.rpy:40
+msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
+msgstr "{color=#FFBE00}{b}Attenzione:{/b} La tua influenza sulle presenti è diminuita!{/color}\n"
+
+#    # game/core/02init.rpy:43
+msgid "{color=#00FF00}{i}Успех!{/i}{/color}\n"
+msgstr "{color=#00FF00}{i}Successo!{/i}{/color}\n"
+
+#    # game/core/02init.rpy:44
+msgid "{color=#E59400}{i}Провал!{/i}{/color}\n"
+msgstr "{color=#E59400}{i}Fallimento!{/i}{/color}\n"
+
+#    # game/core/02init.rpy:135
+msgid "Как ты после случившегося?"
+msgstr "Come stai dopo quello che è successo?"
+
+#    # game/core/02init.rpy:135
+msgid "Уже слышала новость, тётя Кира?"
+msgstr "Hai già sentito la notizia, zia Kira?"
+
+#    # game/core/02init.rpy:135
+msgid "Лиза, ты чего нос повесила?"
+msgstr "Lisa, perché stai arricciando il naso?"
 
