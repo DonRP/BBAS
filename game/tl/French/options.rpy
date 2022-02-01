@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Большой брат: Другая история\n"
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
@@ -14,6 +14,6 @@
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/options.rpy:15
-msgid "Большой брат: Другая история"
-msgstr "Big Brother : une autre histoire"
+    old "Большой брат: Другая история"
+    new "Big Brother : une autre histoire"
 

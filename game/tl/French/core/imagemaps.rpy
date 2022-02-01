@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,42 +13,42 @@
 # "PO-Revision-Date: 2022-01-19 08:35\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/imagemaps.rpy:31
-msgid "{i}искать под кроватью{/i}"
-msgstr "{i}rechercher sous le lit{/i}"
+    old "{i}искать под кроватью{/i}"
+    new "{i}rechercher sous le lit{/i}"
 
 #    # game/core/imagemaps.rpy:34
-msgid "{i}искать в тумбочке{/i}"
-msgstr "{i}regarder dans la table de nuit{/i}"
+    old "{i}искать в тумбочке{/i}"
+    new "{i}regarder dans la table de nuit{/i}"
 
 #    # game/core/imagemaps.rpy:37
-msgid "{i}искать в столе{/i}"
-msgstr "{i}rechercher sur le bureau{/i}"
+    old "{i}искать в столе{/i}"
+    new "{i}rechercher sur le bureau{/i}"
 
 #    # game/core/imagemaps.rpy:56
-msgid "{i}массировать ступни{/i}"
-msgstr "{i}massage des jambes{/i}"
+    old "{i}массировать ступни{/i}"
+    new "{i}massage des jambes{/i}"
 
 #    # game/core/imagemaps.rpy:64
-msgid "{i}массировать голени{/i}"
-msgstr "{i}masser le bas des jambes{/i}"
+    old "{i}массировать голени{/i}"
+    new "{i}masser le bas des jambes{/i}"
 
 #    # game/core/imagemaps.rpy:74
-msgid "{i}массировать бёдра{/i}"
-msgstr "{i}masser les hanches{/i}"
+    old "{i}массировать бёдра{/i}"
+    new "{i}masser les hanches{/i}"
 
 #    # game/core/imagemaps.rpy:78
-msgid "{i}массировать плечи{/i}"
-msgstr "{i}masser les épaules{/i}"
+    old "{i}массировать плечи{/i}"
+    new "{i}masser les épaules{/i}"
 
 #    # game/core/imagemaps.rpy:82
-msgid "{i}массировать спину{/i}"
-msgstr "{i}masser le dos{/i}"
+    old "{i}массировать спину{/i}"
+    new "{i}masser le dos{/i}"
 
 #    # game/core/imagemaps.rpy:87
-msgid "{i}массировать попку{/i}"
-msgstr "{i}masser les fesses{/i}"
+    old "{i}массировать попку{/i}"
+    new "{i}masser les fesses{/i}"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/imagemaps.rpy:108
-msgid "{i}искать на кровати{/i}"
-msgstr "{i}chercher sur le lit {/i}"
+    old "{i}искать на кровати{/i}"
+    new "{i}chercher sur le lit {/i}"
 

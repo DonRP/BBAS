@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -148,34 +148,34 @@ msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcune possono portare 
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
 msgstr "[Max_04]Ma non dovreste nemmeno averne paura. È attraverso le \"opportunità\" che si possono raggiungere risultati che altri nemmeno sognano![nointeract]"
 
-msgid "{i}далее{/i}"
-msgstr "{i}prosegui{/i}"
+    old "{i}далее{/i}"
+    new "{i}prosegui{/i}"
 
 #    # game/script.rpy:57
-msgid "{i}пропустить{/i}"
-msgstr "{i}salta{/i}"
+    old "{i}пропустить{/i}"
+    new "{i}salta{/i}"
 
 #    # game/script.rpy:85
-msgid "{i}пару недель спустя...{/i}"
-msgstr "{i}un paio di settimane dopo...{/i}"
+    old "{i}пару недель спустя...{/i}"
+    new "{i}un paio di settimane dopo...{/i}"
 
 #    # game/script.rpy:98
-msgid "{i}спустя неделю...{/i}"
-msgstr "{i}una settimana dopo...{/i}"
+    old "{i}спустя неделю...{/i}"
+    new "{i}una settimana dopo...{/i}"
 
 #    # game/script.rpy:104
-msgid "{i}Начать игру{/i}"
-msgstr "{i}Avvia il gioco{/i}"
+    old "{i}Начать игру{/i}"
+    new "{i}Avvia il gioco{/i}"
 
 #    # game/script.rpy:104
-msgid "{i}Повторить историю{/i}"
-msgstr "{i}Ripetere il prologo{/i}"
+    old "{i}Повторить историю{/i}"
+    new "{i}Ripetere il prologo{/i}"
 
 #    # game/script.rpy:121
-msgid "{i}всё ясно{/i}"
-msgstr "{i}è tutto chiaro{/i}"
+    old "{i}всё ясно{/i}"
+    new "{i}è tutto chiaro{/i}"
 
 #    # game/script.rpy:121
-msgid "{i}повторить{/i}"
-msgstr "{i}ripeti{/i}"
+    old "{i}повторить{/i}"
+    new "{i}ripeti{/i}"
 

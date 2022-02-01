@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,422 +13,422 @@
 # "PO-Revision-Date: 2022-01-29 11:06\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/screens.rpy:244
-msgid "массаж, "
-msgstr "masser, "
+    old "массаж, "
+    new "masser, "
 
 #    # game/screens.rpy:244
-msgid "убеждение, "
-msgstr "croyance, "
+    old "убеждение, "
+    new "croyance, "
 
 #    # game/screens.rpy:244
-msgid "сексуальный опыт, "
-msgstr "expérience sexuelle, "
+    old "сексуальный опыт, "
+    new "expérience sexuelle, "
 
 #    # game/screens.rpy:244
-msgid "поцелуи, "
-msgstr "embrasser, "
+    old "поцелуи, "
+    new "embrasser, "
 
 #    # game/screens.rpy:244
-msgid "удача, "
-msgstr "chance, "
+    old "удача, "
+    new "chance, "
 
 #    # game/screens.rpy:244
-msgid "скрытность, "
-msgstr "secret, "
+    old "скрытность, "
+    new "secret, "
 
 #    # game/screens.rpy:271
-msgid "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-msgstr "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
+    old "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+    new "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
 #    # game/screens.rpy:333
-msgid "История"
-msgstr "Histoire principale"
+    old "История"
+    new "Histoire principale"
 
 #    # game/screens.rpy:334
-msgid "Пропуск"
-msgstr "Sauter"
+    old "Пропуск"
+    new "Sauter"
 
 #    # game/screens.rpy:335
-msgid "Авто"
-msgstr "Automatique"
+    old "Авто"
+    new "Automatique"
 
 #    # game/screens.rpy:336
-msgid "Сохранить"
-msgstr "Sauvegarder"
+    old "Сохранить"
+    new "Sauvegarder"
 
 #    # game/screens.rpy:337
-msgid "Б.Сохр"
-msgstr "B.Sohr"
+    old "Б.Сохр"
+    new "B.Sohr"
 
 #    # game/screens.rpy:338
-msgid "Б.Загр"
-msgstr "B.Zagr"
+    old "Б.Загр"
+    new "B.Zagr"
 
 #    # game/screens.rpy:339
-msgid "Опции"
-msgstr "Options"
+    old "Опции"
+    new "Options"
 
 #    # game/screens.rpy:384
-msgid "Загрузить игру"
-msgstr "Charger un Jeu"
+    old "Загрузить игру"
+    new "Charger un Jeu"
 
 #    # game/screens.rpy:387
-msgid "Сохранить игру"
-msgstr "Sauvegarder la partie"
+    old "Сохранить игру"
+    new "Sauvegarder la partie"
 
 #    # game/screens.rpy:390
-msgid "Настройки"
-msgstr "Paramètres"
+    old "Настройки"
+    new "Paramètres"
 
 #    # game/screens.rpy:397
-msgid "Завершить повтор"
-msgstr "Terminer la répétition"
+    old "Завершить повтор"
+    new "Terminer la répétition"
 
 #    # game/screens.rpy:400
-msgid "Главное меню"
-msgstr "Menu principal"
+    old "Главное меню"
+    new "Menu principal"
 
 #    # game/screens.rpy:407
-msgid "Выйти из игры"
-msgstr "Quitter le jeu"
+    old "Выйти из игры"
+    new "Quitter le jeu"
 
 #    # game/screens.rpy:413
-msgid "Назад"
-msgstr "Précédent"
+    old "Назад"
+    new "Précédent"
 
 #    # game/screens.rpy:490
-msgid "НОВАЯ ИГРА"
-msgstr "NOUVEAU JEU"
+    old "НОВАЯ ИГРА"
+    new "NOUVEAU JEU"
 
 #    # game/screens.rpy:496
-msgid "ПРОДОЛЖИТЬ"
-msgstr "CONTINUER"
+    old "ПРОДОЛЖИТЬ"
+    new "CONTINUER"
 
 #    # game/screens.rpy:499
-msgid "ЗАГРУЗИТЬ"
-msgstr "TÉLÉCHARGER"
+    old "ЗАГРУЗИТЬ"
+    new "TÉLÉCHARGER"
 
 #    # game/screens.rpy:503
-msgid "НАСТРОЙКИ"
-msgstr "PARAMÈTRES"
+    old "НАСТРОЙКИ"
+    new "PARAMÈTRES"
 
 #    # game/screens.rpy:504
-msgid "ВЫЙТИ"
-msgstr "QUITTER"
+    old "ВЫЙТИ"
+    new "QUITTER"
 
 #    # game/screens.rpy:535
-msgid "МЕНЮ"
-msgstr "MENU"
+    old "МЕНЮ"
+    new "MENU"
 
 #    # game/screens.rpy:669
-msgid "Введите описание файла сохранения:"
-msgstr "Entrer une description du fichier de sauvegarde:"
+    old "Введите описание файла сохранения:"
+    new "Entrer une description du fichier de sauvegarde:"
 
 #    # game/screens.rpy:690
-msgid "(Нет описания)"
-msgstr "(Aucune description)"
+    old "(Нет описания)"
+    new "(Aucune description)"
 
 #    # game/screens.rpy:709
-msgid "{} страница"
-msgstr "{} page"
+    old "{} страница"
+    new "{} page"
 
 #    # game/screens.rpy:709
-msgid "Автосохранения"
-msgstr "Enregistrement automatique"
+    old "Автосохранения"
+    new "Enregistrement automatique"
 
 #    # game/screens.rpy:709
-msgid "Быстрые сохранения"
-msgstr "Sauvegarde rapides"
+    old "Быстрые сохранения"
+    new "Sauvegarde rapides"
 
 #    # game/screens.rpy:784
-msgid "{#file_time}%a, %d %b %Y, %H:%M"
-msgstr "{#file_time}%a, %d %b %Y, %H:%M"
+    old "{#file_time}%a, %d %b %Y, %H:%M"
+    new "{#file_time}%a, %d %b %Y, %H:%M"
 
 #    # game/screens.rpy:784
-msgid "Пустой слот"
-msgstr "Emplacement vide"
+    old "Пустой слот"
+    new "Emplacement vide"
 
 #    # game/screens.rpy:792
-msgid "ДЕНЬ [load_day]"
-msgstr "JOUR [load_day]"
+    old "ДЕНЬ [load_day]"
+    new "JOUR [load_day]"
 
 #    # game/screens.rpy:842
-msgid "{#file_time}%d %b %Y, %H:%M"
-msgstr "{#file_time}%d %b %Y, %H:%M"
+    old "{#file_time}%d %b %Y, %H:%M"
+    new "{#file_time}%d %b %Y, %H:%M"
 
 #    # game/screens.rpy:866
-msgid "<"
-msgstr "<"
+    old "<"
+    new "<"
 
 #    # game/screens.rpy:869
-msgid "{#auto_page}Автосохр."
-msgstr "{#auto_page}Sauvegarde automatique."
+    old "{#auto_page}Автосохр."
+    new "{#auto_page}Sauvegarde automatique."
 
 #    # game/screens.rpy:872
-msgid "{#quick_page}Быстрые сохр."
-msgstr "{#quick_page}Sauvegarde rapide."
+    old "{#quick_page}Быстрые сохр."
+    new "{#quick_page}Sauvegarde rapide."
 
 #    # game/screens.rpy:878
-msgid ">"
-msgstr ">"
+    old ">"
+    new ">"
 
 #    # game/screens.rpy:947
-msgid "Режим экрана"
-msgstr "Mode d'affichage"
+    old "Режим экрана"
+    new "Mode d'affichage"
 
 #    # game/screens.rpy:948
-msgid "Оконный"
-msgstr "Fenêtre"
+    old "Оконный"
+    new "Fenêtre"
 
 #    # game/screens.rpy:949
-msgid "Полный"
-msgstr "Plein écran"
+    old "Полный"
+    new "Plein écran"
 
 #    # game/screens.rpy:952
-msgid "Сторона отката"
-msgstr "Côté retour en arrière"
+    old "Сторона отката"
+    new "Côté retour en arrière"
 
 #    # game/screens.rpy:953
-msgid "Отключено"
-msgstr "Désactivé"
+    old "Отключено"
+    new "Désactivé"
 
 #    # game/screens.rpy:954
-msgid "Левая"
-msgstr "Gauche"
+    old "Левая"
+    new "Gauche"
 
 #    # game/screens.rpy:955
-msgid "Правая"
-msgstr "Droite"
+    old "Правая"
+    new "Droite"
 
 #    # game/screens.rpy:961
-msgid "Всего текста"
-msgstr "Texte entier"
+    old "Всего текста"
+    new "Texte entier"
 
 #    # game/screens.rpy:962
-msgid "После выборов"
-msgstr "Après la selection"
+    old "После выборов"
+    new "Après la selection"
 
 #    # game/screens.rpy:963
-msgid "Переходов"
-msgstr "Navigation"
+    old "Переходов"
+    new "Navigation"
 
 #    # game/screens.rpy:966
-msgid "Язык"
-msgstr "Langue"
+    old "Язык"
+    new "Langue"
 
 #    # game/screens.rpy:985
-msgid "Дополнительно"
-msgstr "Avancés"
+    old "Дополнительно"
+    new "Avancés"
 
 #    # game/screens.rpy:986
-msgid "Запрашивать название при сохранении"
-msgstr "Demander un nom lors de l’enregistrement"
+    old "Запрашивать название при сохранении"
+    new "Demander un nom lors de l’enregistrement"
 
 #    # game/screens.rpy:987
-msgid "Прозрачное текстовое окно"
-msgstr "Zone texte transparente"
+    old "Прозрачное текстовое окно"
+    new "Zone texte transparente"
 
 #    # game/screens.rpy:988
-msgid "Отображать все \"Возможности\""
-msgstr "Afficher toutes les 'opportunités'"
+    old "Отображать все \"Возможности\""
+    new "Afficher toutes les 'opportunités'"
 
 #    # game/screens.rpy:989
-msgid "Переодевания Лизы пропускаются, если Макс в комнате"
-msgstr "Le changement de tenue de Lisa est ignoré si Max est dans la pièce"
+    old "Переодевания Лизы пропускаются, если Макс в комнате"
+    new "Le changement de tenue de Lisa est ignoré si Max est dans la pièce"
 
 #    # game/screens.rpy:1002
-msgid "Скорость текста"
-msgstr "Vitesse du texte"
+    old "Скорость текста"
+    new "Vitesse du texte"
 
 #    # game/screens.rpy:1006
-msgid "Скорость авточтения"
-msgstr "Vitesse de lecture automatique"
+    old "Скорость авточтения"
+    new "Vitesse de lecture automatique"
 
 #    # game/screens.rpy:1013
-msgid "Громкость музыки"
-msgstr "Volume de la musique"
+    old "Громкость музыки"
+    new "Volume de la musique"
 
 #    # game/screens.rpy:1020
-msgid "Громкость звуков"
-msgstr "Volume des sons du jeu"
+    old "Громкость звуков"
+    new "Volume des sons du jeu"
 
 #    # game/screens.rpy:1026
-msgid "Тест"
-msgstr "Tester"
+    old "Тест"
+    new "Tester"
 
 #    # game/screens.rpy:1030
-msgid "Громкость голоса"
-msgstr "Volume des voix"
+    old "Громкость голоса"
+    new "Volume des voix"
 
 #    # game/screens.rpy:1041
-msgid "Без звука"
-msgstr "En sourdine"
+    old "Без звука"
+    new "En sourdine"
 
 #    # game/screens.rpy:1162
-msgid "История диалогов пуста."
-msgstr "L'historique de dialogue est vide."
+    old "История диалогов пуста."
+    new "L'historique de dialogue est vide."
 
 #    # game/screens.rpy:1225
-msgid "Помощь"
-msgstr "Aide"
+    old "Помощь"
+    new "Aide"
 
 #    # game/screens.rpy:1234
-msgid "Клавиатура"
-msgstr "Clavier"
+    old "Клавиатура"
+    new "Clavier"
 
 #    # game/screens.rpy:1235
-msgid "Мышь"
-msgstr "Souris"
+    old "Мышь"
+    new "Souris"
 
 #    # game/screens.rpy:1238
-msgid "Геймпад"
-msgstr "Manette de Jeu"
+    old "Геймпад"
+    new "Manette de Jeu"
 
 #    # game/screens.rpy:1251
-msgid "Enter"
-msgstr "Entrée"
+    old "Enter"
+    new "Entrée"
 
 #    # game/screens.rpy:1252
-msgid "Прохождение диалогов, активация интерфейса."
-msgstr "Passer les dialogues, activer l'interface de choix."
+    old "Прохождение диалогов, активация интерфейса."
+    new "Passer les dialogues, activer l'interface de choix."
 
 #    # game/screens.rpy:1255
-msgid "Пробел"
-msgstr "Barre d'espace"
+    old "Пробел"
+    new "Barre d'espace"
 
 #    # game/screens.rpy:1256
-msgid "Прохождение диалогов без возможности делать выбор."
-msgstr "Passer les dialogues sans pouvoir faire de choix."
+    old "Прохождение диалогов без возможности делать выбор."
+    new "Passer les dialogues sans pouvoir faire de choix."
 
 #    # game/screens.rpy:1259
-msgid "Стрелки"
-msgstr "Flèches"
+    old "Стрелки"
+    new "Flèches"
 
 #    # game/screens.rpy:1260
-msgid "Навигация по интерфейсу."
-msgstr "Navigation dans l’interface."
+    old "Навигация по интерфейсу."
+    new "Navigation dans l’interface."
 
 #    # game/screens.rpy:1263
-msgid "Esc"
-msgstr "Esc"
+    old "Esc"
+    new "Esc"
 
 #    # game/screens.rpy:1264
-msgid "Вход в игровое меню."
-msgstr "Entrez dans le menu du jeu."
+    old "Вход в игровое меню."
+    new "Entrez dans le menu du jeu."
 
 #    # game/screens.rpy:1267
-msgid "Ctrl"
-msgstr "Ctrl"
+    old "Ctrl"
+    new "Ctrl"
 
 #    # game/screens.rpy:1268
-msgid "Пропускает диалоги, пока зажат."
-msgstr "Ignore la boîte de dialogue lorsque s’est skippé."
+    old "Пропускает диалоги, пока зажат."
+    new "Ignore la boîte de dialogue lorsque s’est skippé."
 
 #    # game/screens.rpy:1271
-msgid "Tab"
-msgstr "Tab"
+    old "Tab"
+    new "Tab"
 
 #    # game/screens.rpy:1272
-msgid "Включает режим пропуска."
-msgstr "Active le mode skipper - ignorer."
+    old "Включает режим пропуска."
+    new "Active le mode skipper - ignorer."
 
 #    # game/screens.rpy:1275
-msgid "Page Up"
-msgstr "Page haut"
+    old "Page Up"
+    new "Page haut"
 
 #    # game/screens.rpy:1276
-msgid "Откат назад по сюжету игры."
-msgstr "Revenir en arrière dans l'histoire du jeu."
+    old "Откат назад по сюжету игры."
+    new "Revenir en arrière dans l'histoire du jeu."
 
 #    # game/screens.rpy:1279
-msgid "Page Down"
-msgstr "Page bas"
+    old "Page Down"
+    new "Page bas"
 
 #    # game/screens.rpy:1280
-msgid "Откатывает предыдущее действие вперёд."
-msgstr "Faire avancer à l’action précédente."
+    old "Откатывает предыдущее действие вперёд."
+    new "Faire avancer à l’action précédente."
 
 #    # game/screens.rpy:1284
-msgid "Скрывает интерфейс пользователя."
-msgstr "Masquer l’interface utilisateur."
+    old "Скрывает интерфейс пользователя."
+    new "Masquer l’interface utilisateur."
 
 #    # game/screens.rpy:1288
-msgid "Делает снимок экрана."
-msgstr "Prend une capture d’écran."
+    old "Делает снимок экрана."
+    new "Prend une capture d’écran."
 
 #    # game/screens.rpy:1292
-msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
-msgstr "Activer le synthétiseur vocal {a=https://www.renpy.org/l/voicing}pris en charge{/a}."
+    old "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
+    new "Activer le synthétiseur vocal {a=https://www.renpy.org/l/voicing}pris en charge{/a}."
 
 #    # game/screens.rpy:1298
-msgid "Левый клик"
-msgstr "Clic gauche"
+    old "Левый клик"
+    new "Clic gauche"
 
 #    # game/screens.rpy:1302
-msgid "Клик колёсиком"
-msgstr "Clic sur la molette"
+    old "Клик колёсиком"
+    new "Clic sur la molette"
 
 #    # game/screens.rpy:1306
-msgid "Правый клик"
-msgstr "Clic droit"
+    old "Правый клик"
+    new "Clic droit"
 
 #    # game/screens.rpy:1310
-msgid "Колёсико вверх\nКлик на сторону отката"
-msgstr "Roulette en haut\nCliquer sur le côté pour le retour en arrière"
+    old "Колёсико вверх\nКлик на сторону отката"
+    new "Roulette en haut\nCliquer sur le côté pour le retour en arrière"
 
 #    # game/screens.rpy:1314
-msgid "Колёсико вниз"
-msgstr "Roulette vers le bas"
+    old "Колёсико вниз"
+    new "Roulette vers le bas"
 
 #    # game/screens.rpy:1321
-msgid "Правый триггер\nA/Нижняя кнопка"
-msgstr "Bouton droit\nA/Bouton du bas"
+    old "Правый триггер\nA/Нижняя кнопка"
+    new "Bouton droit\nA/Bouton du bas"
 
 #    # game/screens.rpy:1325
-msgid "Левый Триггер\nЛевый Бампер"
-msgstr "Bouton gauche\npare-chocs gauche"
+    old "Левый Триггер\nЛевый Бампер"
+    new "Bouton gauche\npare-chocs gauche"
 
 #    # game/screens.rpy:1329
-msgid "Правый бампер"
-msgstr "Bouton en haut à droite"
+    old "Правый бампер"
+    new "Bouton en haut à droite"
 
 #    # game/screens.rpy:1334
-msgid "Крестовина, Стики"
-msgstr "D-pad, Bouton"
+    old "Крестовина, Стики"
+    new "D-pad, Bouton"
 
 #    # game/screens.rpy:1338
-msgid "Start, Guide"
-msgstr "Démarrer, le guide"
+    old "Start, Guide"
+    new "Démarrer, le guide"
 
 #    # game/screens.rpy:1342
-msgid "Y/Верхняя кнопка"
-msgstr "Bouton Y/En haut"
+    old "Y/Верхняя кнопка"
+    new "Bouton Y/En haut"
 
 #    # game/screens.rpy:1345
-msgid "Калибровка"
-msgstr "Calibration"
+    old "Калибровка"
+    new "Calibration"
 
 #    # game/screens.rpy:1411
-msgid "Да"
-msgstr "Oui"
+    old "Да"
+    new "Oui"
 
 #    # game/screens.rpy:1412
-msgid "Нет"
-msgstr "Non"
+    old "Нет"
+    new "Non"
 
 #    # game/screens.rpy:1458
-msgid "Пропускаю"
-msgstr "Sauter"
+    old "Пропускаю"
+    new "Sauter"
 
 #    # game/screens.rpy:1682
-msgid "Скрыть интерфейс"
-msgstr "Masquer l'interface graphique"
+    old "Скрыть интерфейс"
+    new "Masquer l'interface graphique"
 
 #    # game/screens.rpy:1683
-msgid "Меню"
-msgstr "Menu"
+    old "Меню"
+    new "Menu"
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/screens.rpy:1031
-msgid "Именованные сохранения"
-msgstr "Conservation nommée"
+    old "Именованные сохранения"
+    new "Conservation nommée"
 
