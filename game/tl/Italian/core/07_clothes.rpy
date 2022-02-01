@@ -12,51 +12,52 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-01-09 20:46\n"
 
-# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/07_clothes.rpy:87
+# TODO: Translation updated at 2021-12-05 17:43## 
+translate crowdin strings:    # game/core/07_clothes.rpy:87
     old "Повседневная"
     new "Informale"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Для сна"
     new "Per dormire"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Для йоги"
     new "Per lo Yoga"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Блог в нижнем белье"
     new "Blog in intimo"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Готовит завтрак"
     new "Prepara la colazione"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Готовит ужин"
     new "Cucina la cena"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Утренний отдых"
     new "Riposo mattutino"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Вечерний отдых"
     new "Riposo serale"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Купальник"
     new "Costume da bagno"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "За уроками"
     new "Per le lezioni"
 
-#    # game/core/07_clothes.rpy:87
+    # game/core/07_clothes.rpy:87
     old "Для прогулок"
     new "Per le passeggiate"
 
-#    # game/core/07_clothes.rpy:163
+    # game/core/07_clothes.rpy:163
     old "Влияние Макса недостаточно"
     new "L'influenza di Max non è sufficiente"
 

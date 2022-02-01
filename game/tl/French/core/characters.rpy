@@ -12,15 +12,16 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
-# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/characters.rpy:230
+# TODO: Translation updated at 2021-12-05 17:43## 
+translate crowdin strings:    # game/core/characters.rpy:230
     old "Мама"
     new "Maman"
 
-#    # game/core/characters.rpy:356
+    # game/core/characters.rpy:356
     old "Майя"
     new "Maya"
 
-#    # game/core/characters.rpy:369
+    # game/core/characters.rpy:369
     old "Сэм"
     new "Sam"
 
