@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,126 +13,126 @@
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/04function.rpy:300
-msgid "+ к навыку скрытности"
-msgstr "+ de compétence pour la furtivité"
+    old "+ к навыку скрытности"
+    new "+ de compétence pour la furtivité"
 
 #    # game/core/04function.rpy:304
-msgid "+ к навыку убеждения"
-msgstr "+ de capacité de persuasion"
+    old "+ к навыку убеждения"
+    new "+ de capacité de persuasion"
 
 #    # game/core/04function.rpy:308
-msgid "+ к навыку массажа"
-msgstr "+ d’habileté pour le massage"
+    old "+ к навыку массажа"
+    new "+ d’habileté pour le massage"
 
 #    # game/core/04function.rpy:312
-msgid "+ к навыку поцелуев"
-msgstr "+ d’habileté pour embrasser"
+    old "+ к навыку поцелуев"
+    new "+ d’habileté pour embrasser"
 
 #    # game/core/04function.rpy:316
-msgid "+ к навыку эротического массажа"
-msgstr "+ d’habileté pour le massage érotique"
+    old "+ к навыку эротического массажа"
+    new "+ d’habileté pour le massage érotique"
 
 #    # game/core/04function.rpy:320
-msgid "+ к тренированности"
-msgstr "+ de forme physique"
+    old "+ к тренированности"
+    new "+ de forme physique"
 
 #    # game/core/04function.rpy:324
-msgid "+ к навыку кунилингуса"
-msgstr "+ de compétence pour le cunnilingus"
+    old "+ к навыку кунилингуса"
+    new "+ de compétence pour le cunnilingus"
 
 #    # game/core/04function.rpy:328
-msgid "+ к сексуальному опыту"
-msgstr "+ d’expérience sexuelle"
+    old "+ к сексуальному опыту"
+    new "+ d’expérience sexuelle"
 
 #    # game/core/04function.rpy:332
-msgid "+ к опыту анального секса"
-msgstr "+ d’expérience pour le sexe"
+    old "+ к опыту анального секса"
+    new "+ d’expérience pour le sexe"
 
 #    # game/core/04function.rpy:341
-msgid "{color=[red]}значительно ухудшилось{/color}"
-msgstr "{color=[red]}s’est considérablement détérioré {/color}"
+    old "{color=[red]}значительно ухудшилось{/color}"
+    new "{color=[red]}s’est considérablement détérioré {/color}"
 
 #    # game/core/04function.rpy:341
-msgid "{color=[red]}ухудшилось{/color}"
-msgstr "{color=[red]}s'est aggravé{/color}"
+    old "{color=[red]}ухудшилось{/color}"
+    new "{color=[red]}s'est aggravé{/color}"
 
 #    # game/core/04function.rpy:341
-msgid "{color=[red]}немного ухудшилось{/color}"
-msgstr "{color=[red]}s'est légèrement aggravé{/color}"
+    old "{color=[red]}немного ухудшилось{/color}"
+    new "{color=[red]}s'est légèrement aggravé{/color}"
 
 #    # game/core/04function.rpy:341
-msgid "{color=[lime]}немного улучшилось{/color}"
-msgstr "{color=[lime]}s'est légèrement amélioré{/color}"
+    old "{color=[lime]}немного улучшилось{/color}"
+    new "{color=[lime]}s'est légèrement amélioré{/color}"
 
 #    # game/core/04function.rpy:341
-msgid "{color=[lime]}улучшилось{/color}"
-msgstr "{color=[lime]}s'est amélioré{/color}"
+    old "{color=[lime]}улучшилось{/color}"
+    new "{color=[lime]}s'est amélioré{/color}"
 
 #    # game/core/04function.rpy:341
-msgid "{color=[lime]}значительно улучшилось{/color}"
-msgstr "{color=[lime]}s’est considérablement amélioré{/color}"
+    old "{color=[lime]}значительно улучшилось{/color}"
+    new "{color=[lime]}s’est considérablement amélioré{/color}"
 
 #    # game/core/04function.rpy:352
-msgid "{color=[red]}снизилось{/color}"
-msgstr "{color=[red]}à diminué{/color}"
+    old "{color=[red]}снизилось{/color}"
+    new "{color=[red]}à diminué{/color}"
 
 #    # game/core/04function.rpy:352
-msgid "{color=[lime]}повысилось{/color}"
-msgstr "{color=[lime]}à augmenté{/color}"
+    old "{color=[lime]}повысилось{/color}"
+    new "{color=[lime]}à augmenté{/color}"
 
 #    # game/core/04function.rpy:380
-msgid "Настроение %s %s \nЕё отношение к Максу %s"
-msgstr "Son humeur %s %s \nson attitude envers Max %s"
+    old "Настроение %s %s \nЕё отношение к Максу %s"
+    new "Son humeur %s %s \nson attitude envers Max %s"
 
 #    # game/core/04function.rpy:382
-msgid "Отношение %s к Максу %s"
-msgstr "L’attitude de %s envers Max %s"
+    old "Отношение %s к Максу %s"
+    new "L’attitude de %s envers Max %s"
 
 #    # game/core/04function.rpy:384
-msgid "Настроение %s %s"
-msgstr "%s %s d’humeur"
+    old "Настроение %s %s"
+    new "%s %s d’humeur"
 
 #    # game/core/04function.rpy:401
-msgid "Так... В накладной написано следующее:"
-msgstr "Ainsi... La facture se lit comme suit :"
+    old "Так... В накладной написано следующее:"
+    new "Ainsi... La facture se lit comme suit :"
 
 #    # game/core/04function.rpy:990
-msgid "Прохладные"
-msgstr "Refroidir"
+    old "Прохладные"
+    new "Refroidir"
 
 #    # game/core/04function.rpy:992
-msgid "Война"
-msgstr "Guerre"
+    old "Война"
+    new "Guerre"
 
 #    # game/core/04function.rpy:992
-msgid "Враждебные"
-msgstr "Hostile"
+    old "Враждебные"
+    new "Hostile"
 
 #    # game/core/04function.rpy:992
-msgid "Плохие"
-msgstr "Mauvais"
+    old "Плохие"
+    new "Mauvais"
 
 #    # game/core/04function.rpy:992
-msgid "Неплохие"
-msgstr "Pas mauvais"
+    old "Неплохие"
+    new "Pas mauvais"
 
 #    # game/core/04function.rpy:992
-msgid "Хорошие"
-msgstr "Bon"
+    old "Хорошие"
+    new "Bon"
 
 #    # game/core/04function.rpy:992
-msgid "Тёплые"
-msgstr "Chaud"
+    old "Тёплые"
+    new "Chaud"
 
 #    # game/core/04function.rpy:992
-msgid "Дружеские"
-msgstr "Amical"
+    old "Дружеские"
+    new "Amical"
 
 #    # game/core/04function.rpy:992
-msgid "Близкие"
-msgstr "Fermer"
+    old "Близкие"
+    new "Fermer"
 
 #    # game/core/04function.rpy:1295
-msgid "Конфеты закончились"
-msgstr "Les bonbons sont fini"
+    old "Конфеты закончились"
+    new "Les bonbons sont fini"
 

@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,46 +13,46 @@
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/01classes.rpy:658
-msgid "Ужасное"
-msgstr "Terrible"
+    old "Ужасное"
+    new "Terrible"
 
 #    # game/core/01classes.rpy:658
-msgid "Очень плохое"
-msgstr "New"
+    old "Очень плохое"
+    new "New"
 
 #    # game/core/01classes.rpy:658
-msgid "Плохое"
-msgstr "Mauvais"
+    old "Плохое"
+    new "Mauvais"
 
 #    # game/core/01classes.rpy:658
-msgid "Не очень"
-msgstr "Pas vraiment"
+    old "Не очень"
+    new "Pas vraiment"
 
 #    # game/core/01classes.rpy:658
-msgid "Нейтральное"
-msgstr "Neutre"
+    old "Нейтральное"
+    new "Neutre"
 
 #    # game/core/01classes.rpy:658
-msgid "Неплохое"
-msgstr "Décent"
+    old "Неплохое"
+    new "Décent"
 
 #    # game/core/01classes.rpy:658
-msgid "Хорошее"
-msgstr "Bon"
+    old "Хорошее"
+    new "Bon"
 
 #    # game/core/01classes.rpy:658
-msgid "Очень хорошее"
-msgstr "Très bon"
+    old "Очень хорошее"
+    new "Très bon"
 
 #    # game/core/01classes.rpy:658
-msgid "Прекрасное"
-msgstr "Parfait"
+    old "Прекрасное"
+    new "Parfait"
 
 #    # game/core/01classes.rpy:1047
-msgid "Приобретен пакет рекламы"
-msgstr "Pack de pub acheté"
+    old "Приобретен пакет рекламы"
+    new "Pack de pub acheté"
 
 #    # game/core/01classes.rpy:1292
-msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Attention:{/b} Vous avez obtenu une nouvelle 'opportunité'! {/i} {/color}"
+    old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+    new "{color=[lime]}{i}{b}Attention:{/b} Vous avez obtenu une nouvelle 'opportunité'! {/i} {/color}"
 

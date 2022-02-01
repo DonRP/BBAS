@@ -1,5 +1,5 @@
-# msgid ""
-# msgstr ""
+#     old ""
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -13,14 +13,14 @@
 # "PO-Revision-Date: 2022-01-09 20:47\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/characters.rpy:230
-msgid "Мама"
-msgstr "Mamma"
+    old "Мама"
+    new "Mamma"
 
 #    # game/core/characters.rpy:356
-msgid "Майя"
-msgstr "Maya"
+    old "Майя"
+    new "Maya"
 
 #    # game/core/characters.rpy:369
-msgid "Сэм"
-msgstr "Sam"
+    old "Сэм"
+    new "Sam"
 
