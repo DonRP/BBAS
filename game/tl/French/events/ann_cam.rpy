@@ -48,11 +48,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "Ничего интересного я здесь уже не увижу, мама полностью оделась."
     Max_09 "Je ne vois plus rien d'intéressant ici, Maman est complètement habillée."
 
-    # Max_07 "Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
-    Max_07 "Voici maman qui s'habille pour aller travailler....[nointeract]"
+    # Max_07 "Вот и мама наряжается, чтобы отправиться на работу..." nointeract
+    Max_07 "Voici maman qui s'habille pour aller travailler...." nointeract
 
-    # Max_02 "Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-    Max_02 "Oh ! Une mère nue est un spectacle délicieux...[nointeract]"
+    # Max_02 "Ох! Голая мама - это восхитительное зрелище..." nointeract
+    Max_02 "Oh ! Une mère nue est un spectacle délicieux..." nointeract
 
     # Max_04 "Да уж, её округлости равнодушным не оставят никого!"
     Max_04 "Oui, ses courbes ne laissera personne indifférent !"
@@ -60,11 +60,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "Ничего интересного я здесь уже не увижу, мама полностью оделась."
     Max_09 "Je ne vois plus rien d'intéressant ici, Maman est complètement habillée."
 
-    # Max_07 "Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Voici maman qui s'habille pour aller faire du shopping...[nointeract]"
+    # Max_07 "Вот и мама наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Voici maman qui s'habille pour aller faire du shopping..." nointeract
 
-    # Max_02 "Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-    Max_02 "Oh ! Une mère nue est un spectacle délicieux...[nointeract]"
+    # Max_02 "Ох! Голая мама - это восхитительное зрелище..." nointeract
+    Max_02 "Oh ! Une mère nue est un spectacle délicieux..." nointeract
 
     # Max_04 "Да уж, её округлости равнодушным не оставят никого!"
     Max_04 "Oui, ses courbes ne laissera personne indifférent !"
@@ -156,11 +156,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
     Max_09 "{m}Je ne verrai rien d'intéressant ici, ma mère est complètement habillée.{/m}"
 
-    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на работу...{/m}[nointeract]"
-    Max_07 "{m}alors maman s'habille pour aller travailler...{/m}[nointeract]"
+    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на работу...{/m}" nointeract
+    Max_07 "{m}alors maman s'habille pour aller travailler...{/m}" nointeract
 
-    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
-    Max_02 "{m}Oh! Maman nue est un spectacle délicieux...{/m}[nointeract]"
+    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}" nointeract
+    Max_02 "{m}Oh! Maman nue est un spectacle délicieux...{/m}" nointeract
 
     # Max_04 "{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
     Max_04 "{m}Oui, sa rondeur ne laissera personne indifférent!{/m}"
@@ -168,11 +168,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
     Max_09 "{m}Je ne verrai rien d'intéressant ici, ma mère est complètement habillée.{/m}"
 
-    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-    Max_07 "{m}alors maman s'habille pour aller faire du shopping...{/m}[nointeract]"
+    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на шопинг...{/m}" nointeract
+    Max_07 "{m}alors maman s'habille pour aller faire du shopping...{/m}" nointeract
 
-    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
-    Max_02 "{m}Oh! Maman nue est un spectacle délicieux...{/m}[nointeract]"
+    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}" nointeract
+    Max_02 "{m}Oh! Maman nue est un spectacle délicieux...{/m}" nointeract
 
     # Max_04 "{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
     Max_04 "{m}Oui, sa rondeur ne laissera personne indifférent!{/m}"

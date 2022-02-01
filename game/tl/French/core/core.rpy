@@ -27,8 +27,8 @@ translate crowdin night_of_fun_cae91685:
 # game/core/core.rpy:678
 translate crowdin cam_after_waiting_6058d5d4:
 
-    # Max_09 "Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
-    Max_09 "Je ne pense pas que ce soit une bonne idée de visionner les caméras maintenant. Je ne veux pas que Lisa remarque quoi que ce soit... Je devrais peut-être aller dans la véranda. Il ne devrait plus y avoir personne maintenant....[nointeract]"
+    # Max_09 "Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+    Max_09 "Je ne pense pas que ce soit une bonne idée de visionner les caméras maintenant. Je ne veux pas que Lisa remarque quoi que ce soit... Je devrais peut-être aller dans la véranda. Il ne devrait plus y avoir personne maintenant...." nointeract
 
 # game/core/core.rpy:685
 translate crowdin cam_after_waiting_c283f316:
@@ -39,14 +39,14 @@ translate crowdin cam_after_waiting_c283f316:
 # game/core/core.rpy:690
 translate crowdin cam_after_waiting_38f46f18:
 
-    # Max_09 "Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...[nointeract]"
-    Max_09 "Mieux vaut visionner les caméras ailleurs! Il ne faudrait pas que Lisa se doute de quelque chose...[nointeract]"
+    # Max_09 "Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила..." nointeract
+    Max_09 "Mieux vaut visionner les caméras ailleurs! Il ne faudrait pas que Lisa se doute de quelque chose..." nointeract
 
 # game/core/core.rpy:702
 translate crowdin cam_after_waiting_d4f49617:
 
-    # Max_09 "Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
-    Max_09 "Peut-être ne devrais-je pas visionner les caméras maintenant. Lisa pourrait se réveiller et remarquer ce que je fais... Peut-être devrais-je aller à la véranda? Il ne devrait y avoir personne là-bas maintenant...[nointeract]"
+    # Max_09 "Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+    Max_09 "Peut-être ne devrais-je pas visionner les caméras maintenant. Lisa pourrait se réveiller et remarquer ce que je fais... Peut-être devrais-je aller à la véranda? Il ne devrait y avoir personne là-bas maintenant..." nointeract
 
 # game/core/core.rpy:709
 translate crowdin cam_after_waiting_c283f316_1:
@@ -57,8 +57,8 @@ translate crowdin cam_after_waiting_c283f316_1:
 # game/core/core.rpy:714
 translate crowdin cam_after_waiting_eea92f18:
 
-    # Max_09 "Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...[nointeract]"
-    Max_09 "Mieux vaut visionner les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais...[nointeract]"
+    # Max_09 "Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю..." nointeract
+    Max_09 "Mieux vaut visionner les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais..." nointeract
 
 # game/core/core.rpy:766
 translate crowdin cam_after_waiting_27f05bf1:
@@ -122,8 +122,8 @@ translate crowdin night_of_fun_35c4c591:
 # game/core/core.rpy:813
 translate crowdin cam_after_waiting_bfada06d:
 
-    # Max_09 "{m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}[nointeract]"
-    Max_09 "{m}je Pense que regarder les caméras maintenant n'est pas la meilleure idée. Il ne suffisait pas que Lisa remarque quelque chose... Peut-être que tu devrais aller sur la véranda. Il ne devrait y avoir personne là-bas maintenant...{/m}[nointeract]"
+    # Max_09 "{m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}" nointeract
+    Max_09 "{m}je Pense que regarder les caméras maintenant n'est pas la meilleure idée. Il ne suffisait pas que Lisa remarque quelque chose... Peut-être que tu devrais aller sur la véranda. Il ne devrait y avoir personne là-bas maintenant...{/m}" nointeract
 
 # game/core/core.rpy:820
 translate crowdin cam_after_waiting_44f62349:
@@ -134,14 +134,14 @@ translate crowdin cam_after_waiting_44f62349:
 # game/core/core.rpy:825
 translate crowdin cam_after_waiting_935d8f7d:
 
-    # Max_09 "{m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m}[nointeract]"
-    Max_09 "{m}Mieux voir les caméras ailleurs! Il ne suffisait pas que Lisa remarque quelque chose...{/m}[nointeract]"
+    # Max_09 "{m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m}" nointeract
+    Max_09 "{m}Mieux voir les caméras ailleurs! Il ne suffisait pas que Lisa remarque quelque chose...{/m}" nointeract
 
 # game/core/core.rpy:837
 translate crowdin cam_after_waiting_af0a2821:
 
-    # Max_09 "{m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}[nointeract]"
-    Max_09 "{m}Peut-être que vous ne devriez pas regarder les caméras maintenant. Lisa peut se réveiller et remarquer ce que je fais... Peut-être que tu devrais aller sur la véranda. Il ne devrait y avoir personne là-bas maintenant...{/m}[nointeract]"
+    # Max_09 "{m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}" nointeract
+    Max_09 "{m}Peut-être que vous ne devriez pas regarder les caméras maintenant. Lisa peut se réveiller et remarquer ce que je fais... Peut-être que tu devrais aller sur la véranda. Il ne devrait y avoir personne là-bas maintenant...{/m}" nointeract
 
 # game/core/core.rpy:844
 translate crowdin cam_after_waiting_44f62349_1:
@@ -152,8 +152,8 @@ translate crowdin cam_after_waiting_44f62349_1:
 # game/core/core.rpy:849
 translate crowdin cam_after_waiting_24007a63:
 
-    # Max_09 "{m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m}[nointeract]"
-    Max_09 "{m}Mieux voir les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais...{/m}[nointeract]"
+    # Max_09 "{m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m}" nointeract
+    Max_09 "{m}Mieux voir les caméras ailleurs! Lisa peut se réveiller et remarquer ce que je fais...{/m}" nointeract
 
 # game/core/core.rpy:901
 translate crowdin cam_after_waiting_b8378225:

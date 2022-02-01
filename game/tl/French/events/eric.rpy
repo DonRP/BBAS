@@ -27,8 +27,8 @@ translate crowdin Eric_talk_afterdinner_9a9eff04:
 # game/events/eric.rpy:18
 translate crowdin Eric_talk_afterdinner_7bba59ab:
 
-    # Eric_05 "Я заметил, что ты настроен вполне дружелюбно. Для меня важно подружиться с твоей семьёй, чтобы твоя мама не испытывала дискомфорт на этой почве, если ты меня понимаешь...[nointeract]"
-    Eric_05 "J'ai remarqué que tu es plutôt amical. C'est important pour moi d'être ami avec ta famille pour que ta mère ne se sente pas mal à l'aise, si tu vois ce que je veux dire....[nointeract]"
+    # Eric_05 "Я заметил, что ты настроен вполне дружелюбно. Для меня важно подружиться с твоей семьёй, чтобы твоя мама не испытывала дискомфорт на этой почве, если ты меня понимаешь..." nointeract
+    Eric_05 "J'ai remarqué que tu es plutôt amical. C'est important pour moi d'être ami avec ta famille pour que ta mère ne se sente pas mal à l'aise, si tu vois ce que je veux dire...." nointeract
 
 # game/events/eric.rpy:24
 translate crowdin Eric_talk_afterdinner_0d5cb7f0:
@@ -39,8 +39,8 @@ translate crowdin Eric_talk_afterdinner_0d5cb7f0:
 # game/events/eric.rpy:27
 translate crowdin Eric_talk_afterdinner_6065daea:
 
-    # Eric_09 "Я знаю, что мы начали знакомство не идеально, но мне показалось, что мы можем найти общий язык. Для меня важно, чтобы твоя мама не испытывала какой-либо дискомфорт из-за этого...[nointeract]"
-    Eric_09 "Je sais que nous n'avons pas pris un départ parfait, mais j'ai senti que nous pouvions trouver un terrain d'entente. Il est important pour moi que ta mère ne se sente pas mal à l'aise à ce sujet...[nointeract]"
+    # Eric_09 "Я знаю, что мы начали знакомство не идеально, но мне показалось, что мы можем найти общий язык. Для меня важно, чтобы твоя мама не испытывала какой-либо дискомфорт из-за этого..." nointeract
+    Eric_09 "Je sais que nous n'avons pas pris un départ parfait, mais j'ai senti que nous pouvions trouver un terrain d'entente. Il est important pour moi que ta mère ne se sente pas mal à l'aise à ce sujet..." nointeract
 
 # game/events/eric.rpy:33
 translate crowdin Eric_talk_afterdinner_3d2bc793:
@@ -51,44 +51,44 @@ translate crowdin Eric_talk_afterdinner_3d2bc793:
 # game/events/eric.rpy:36
 translate crowdin Eric_talk_afterdinner_f01572f3:
 
-    # Eric_13 "Ты знаешь, мы начали знакомство как-то совсем неудачно. Предлагаю как-то уладить этот конфликт. Я бы очень не хотел, чтобы твоя мама испытывала дискомфорт по этому поводу...[nointeract]"
-    Eric_13 "Tu sais, on a pris un très mauvais départ. Je suggère que ce conflit soit résolu d'une manière ou d'une autre. Je ne voudrais pas que ta mère se sente mal à l'aise avec ça....[nointeract]"
+    # Eric_13 "Ты знаешь, мы начали знакомство как-то совсем неудачно. Предлагаю как-то уладить этот конфликт. Я бы очень не хотел, чтобы твоя мама испытывала дискомфорт по этому поводу..." nointeract
+    Eric_13 "Tu sais, on a pris un très mauvais départ. Je suggère que ce conflit soit résolu d'une manière ou d'une autre. Je ne voudrais pas que ta mère se sente mal à l'aise avec ça...." nointeract
 
 # game/events/eric.rpy:47
 translate crowdin Eric_talk_afterdinner_good_576d188f:
 
-    # Eric_01 "Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет...[nointeract]"
-    Eric_01 "Super. Si nous devenons amis, tu ne le regretteras pas, Max. Mais juste pour être sûr, revenons sur cette conversation dans une semaine. Si nous trouvons un terrain d'entente, tout ira bien. Et si ce n'est pas le cas...[nointeract]"
+    # Eric_01 "Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет..." nointeract
+    Eric_01 "Super. Si nous devenons amis, tu ne le regretteras pas, Max. Mais juste pour être sûr, revenons sur cette conversation dans une semaine. Si nous trouvons un terrain d'entente, tout ira bien. Et si ce n'est pas le cas..." nointeract
 
 # game/events/eric.rpy:59
 translate crowdin Eric_talk_afterdinner_bad_5431f4ad:
 
-    # Eric_01 "Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь...[nointeract]"
-    Eric_01 "Si j'étais toi, je ne chercherais pas un ennemi là où il n'y en a pas. Je propose que nous revenions sur cette conversation dans une semaine. Si nous devenons amis, tu ne le regretteras pas. Mais si tu décides d'entrer en guerre contre moi, tu perdras certainement....[nointeract]"
+    # Eric_01 "Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь..." nointeract
+    Eric_01 "Si j'étais toi, je ne chercherais pas un ennemi là où il n'y en a pas. Je propose que nous revenions sur cette conversation dans une semaine. Si nous devenons amis, tu ne le regretteras pas. Mais si tu décides d'entrer en guerre contre moi, tu perdras certainement...." nointeract
 
 # game/events/eric.rpy:67
 translate crowdin Eric_talk_afterdinner_what_bd2c8839:
 
-    # Eric_05 "Если решишь испытать судьбу, то сам всё скоро узнаешь. У меня есть влияние, деньги, харизма. А главное - я умею убеждать и подчинять других людей. А что есть у тебя?[nointeract]"
-    Eric_05 "Si tu décides de tenter ta chance, tu le découvriras rapidement par toi-même. J'ai de l'influence, de l'argent, du charisme. Et surtout, je sais comment persuader et soumettre les autres. Qu'est-ce que tu en dis?[nointeract]"
+    # Eric_05 "Если решишь испытать судьбу, то сам всё скоро узнаешь. У меня есть влияние, деньги, харизма. А главное - я умею убеждать и подчинять других людей. А что есть у тебя?" nointeract
+    Eric_05 "Si tu décides de tenter ta chance, tu le découvriras rapidement par toi-même. J'ai de l'influence, de l'argent, du charisme. Et surtout, je sais comment persuader et soumettre les autres. Qu'est-ce que tu en dis?" nointeract
 
 # game/events/eric.rpy:76
 translate crowdin Eric_talk_afterdinner_what_3a292d72:
 
-    # Eric_02 "Правда? А я вот уже слышал, что Алиса относится к тебе как к маленькому извращенцу, Лиза рядом с тобой просто потому, что других защитников в доме не было, а мать смотрит на тебя как на неудачника...[nointeract]"
-    Eric_02 "Vraiment ? J'ai déjà compris qu'Alice te traite comme un petit pervers, que Lisa est là pour toi juste parce qu'il n'y avait pas d'autres défenseurs dans la maison, et que ta mère te regarde comme un loser...[nointeract]"
+    # Eric_02 "Правда? А я вот уже слышал, что Алиса относится к тебе как к маленькому извращенцу, Лиза рядом с тобой просто потому, что других защитников в доме не было, а мать смотрит на тебя как на неудачника..." nointeract
+    Eric_02 "Vraiment ? J'ai déjà compris qu'Alice te traite comme un petit pervers, que Lisa est là pour toi juste parce qu'il n'y avait pas d'autres défenseurs dans la maison, et que ta mère te regarde comme un loser..." nointeract
 
 # game/events/eric.rpy:86
 translate crowdin Eric_talk_afterdinner_what_c8163074:
 
-    # Eric_02 "Серьёзно? И как ты с этими мозгами довёл ситуацию до того, что Алиса в тебе видит маленького извращенца, подглядывающего из-за угла. Лиза рядом только потому, что других защитников не было, а мать... смотрит на тебя как на неудачника![nointeract]"
-    Eric_02 "Vraiment ? Et comment toi et ton cerveaux en es-tu arrivés au point où Alice te voit comme un petit pervers qui épie au coin de la rue. Lisa n'est là que parce qu'il n'y avait pas d'autres défenseurs, et ta mère... te regarde comme si tu étais un loser ![nointeract]"
+    # Eric_02 "Серьёзно? И как ты с этими мозгами довёл ситуацию до того, что Алиса в тебе видит маленького извращенца, подглядывающего из-за угла. Лиза рядом только потому, что других защитников не было, а мать... смотрит на тебя как на неудачника!" nointeract
+    Eric_02 "Vraiment ? Et comment toi et ton cerveaux en es-tu arrivés au point où Alice te voit comme un petit pervers qui épie au coin de la rue. Lisa n'est là que parce qu'il n'y avait pas d'autres défenseurs, et ta mère... te regarde comme si tu étais un loser !" nointeract
 
 # game/events/eric.rpy:94
 translate crowdin Eric_talk_afterdinner_bullshit_efb61ad4:
 
-    # Eric_09 "Ну не знаю... Даже если что-то ещё и не так, то с моей помощью всё так и будет, поверь... Но повторюсь, я не хочу с тобой воевать и лучше бы ты был на моей стороне...[nointeract]"
-    Eric_09 "Je ne sais pas... Même si quelque chose d'autre ne va pas, avec mon aide, ça ira, crois-moi... Mais encore une fois, je ne veux pas me battre avec toi et tu ferais mieux d'être de mon côté....[nointeract]"
+    # Eric_09 "Ну не знаю... Даже если что-то ещё и не так, то с моей помощью всё так и будет, поверь... Но повторюсь, я не хочу с тобой воевать и лучше бы ты был на моей стороне..." nointeract
+    Eric_09 "Je ne sais pas... Même si quelque chose d'autre ne va pas, avec mon aide, ça ira, crois-moi... Mais encore une fois, je ne veux pas me battre avec toi et tu ferais mieux d'être de mon côté...." nointeract
 
 # game/events/eric.rpy:101
 translate crowdin Eric_talk_afterdinner_shesaid_d48a9a8b:
@@ -99,26 +99,26 @@ translate crowdin Eric_talk_afterdinner_shesaid_d48a9a8b:
 # game/events/eric.rpy:104
 translate crowdin Eric_talk_afterdinner_shesaid_de4eb4e2:
 
-    # Eric_00 "Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь...[nointeract]"
-    Eric_00 "Mais encore une fois, je ne veux pas entrer en guerre avec toi. Au contraire, j'aimerais être ami avec toi et si tu es de mon côté, tu ne pourras qu'en tirer profit....[nointeract]"
+    # Eric_00 "Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь..." nointeract
+    Eric_00 "Mais encore une fois, je ne veux pas entrer en guerre avec toi. Au contraire, j'aimerais être ami avec toi et si tu es de mon côté, tu ne pourras qu'en tirer profit...." nointeract
 
 # game/events/eric.rpy:114
 translate crowdin Eric_talk_afterdinner_ok_b9f85d9a:
 
-    # Eric_05 "Смотря как пройдёт наше общение за следующую неделю. Если помиримся, то я буду помогать решать твои проблемы, ну а ты мои, если такие возникнут с твоей семьёй...[nointeract]"
-    Eric_05 "Ça dépend de la façon dont notre communication se déroule la semaine prochaine. Si nous nous réconcilions, je t'aiderai à résoudre tes problèmes et tu m'aideras à résoudre les miens, s'il y en a avec ta famille....[nointeract]"
+    # Eric_05 "Смотря как пройдёт наше общение за следующую неделю. Если помиримся, то я буду помогать решать твои проблемы, ну а ты мои, если такие возникнут с твоей семьёй..." nointeract
+    Eric_05 "Ça dépend de la façon dont notre communication se déroule la semaine prochaine. Si nous nous réconcilions, je t'aiderai à résoudre tes problèmes et tu m'aideras à résoudre les miens, s'il y en a avec ta famille...." nointeract
 
 # game/events/eric.rpy:117
 translate crowdin Eric_talk_afterdinner_ok_4dcd84ae:
 
-    # Eric_00 "Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить...[nointeract]"
-    Eric_00 "Tu prends trop d'avance, Max. Voyons d'abord comment ça se passe. Donne-moi au moins une chance de te convaincre...[nointeract]"
+    # Eric_00 "Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить..." nointeract
+    Eric_00 "Tu prends trop d'avance, Max. Voyons d'abord comment ça se passe. Donne-moi au moins une chance de te convaincre..." nointeract
 
 # game/events/eric.rpy:129
 translate crowdin Eric_talk_afterdinner_no_099d542e:
 
-    # Eric_00 "Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть.[nointeract]"
-    Eric_00 "Eh bien, faites comme tu veux. J'espère que ce sont tes émotions plutôt que ton bon sens qui parlent pour toi en ce moment. Tu as une semaine pour changer d'avis. Ensuite, nous en reparlerons et nous saurons ce qu'il faut faire.[nointeract]"
+    # Eric_00 "Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть." nointeract
+    Eric_00 "Eh bien, faites comme tu veux. J'espère que ce sont tes émotions plutôt que ton bon sens qui parlent pour toi en ce moment. Tu as une semaine pour changer d'avis. Ensuite, nous en reparlerons et nous saurons ce qu'il faut faire." nointeract
 
 # game/events/eric.rpy:138
 translate crowdin Eric_talk_afterdinner_friend_9b6bd24d:
@@ -147,8 +147,8 @@ translate crowdin Eric_talk_afterdinner_second_talk_25aa812b:
 # game/events/eric.rpy:156
 translate crowdin Eric_talk_afterdinner_second_talk_5a895ebf:
 
-    # Eric_05 "Отлично! Ну что, вроде бы ты и правда настроен на дружбу. Я прав?[nointeract]"
-    Eric_05 "Super ! Eh bien, tu sembles être d'humeur à devenir ami. Ais-je raison ?[nointeract]"
+    # Eric_05 "Отлично! Ну что, вроде бы ты и правда настроен на дружбу. Я прав?" nointeract
+    Eric_05 "Super ! Eh bien, tu sembles être d'humeur à devenir ami. Ais-je raison ?" nointeract
 
 # game/events/eric.rpy:162
 translate crowdin Eric_talk_afterdinner_second_talk_6f10b98c:
@@ -159,8 +159,8 @@ translate crowdin Eric_talk_afterdinner_second_talk_6f10b98c:
 # game/events/eric.rpy:164
 translate crowdin Eric_talk_afterdinner_second_talk_7a3e3f7a:
 
-    # Eric_01 "Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?[nointeract]"
-    Eric_01 "Vraiment, je ne comprends pas bien ta position. Es-tu d'humeur à l'amitié, ou veux-tu essayer la guerre ?[nointeract]"
+    # Eric_01 "Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?" nointeract
+    Eric_01 "Vraiment, je ne comprends pas bien ta position. Es-tu d'humeur à l'amitié, ou veux-tu essayer la guerre ?" nointeract
 
 # game/events/eric.rpy:170
 translate crowdin Eric_talk_afterdinner_second_talk_becdd118:
@@ -171,8 +171,8 @@ translate crowdin Eric_talk_afterdinner_second_talk_becdd118:
 # game/events/eric.rpy:172
 translate crowdin Eric_talk_afterdinner_second_talk_9f170499:
 
-    # Eric_09 "Значит, дружить ты не намерен. Я правильно понимаю?[nointeract]"
-    Eric_09 "Donc tu n'as pas l'intention d'être amis avec moi. Est-ce que je comprends bien?[nointeract]"
+    # Eric_09 "Значит, дружить ты не намерен. Я правильно понимаю?" nointeract
+    Eric_09 "Donc tu n'as pas l'intention d'être amis avec moi. Est-ce que je comprends bien?" nointeract
 
 # game/events/eric.rpy:181
 translate crowdin Eric_talk_afterdinner_badbad_ee988680:
@@ -207,38 +207,38 @@ translate crowdin Eric_talk_afterdinner_goodgood_a3b08112:
 # game/events/eric.rpy:196
 translate crowdin Eric_talk_afterdinner_goodgood_6b61a60f:
 
-    # Eric_05 "Я не слепой и вижу как ты смотришь на своих сестёр и даже маму. Не отрицай, иногда даже твои штаны тебя выдают. Но я тебя не виню, ещё бы, такие цыпочки кругом![nointeract]"
-    Eric_05 "Je ne suis pas aveugle et je peux voir comment tu regardes tes sœurs et même ta mère. Ne le nies pas, parfois même ton pantalon te trahit. Mais je ne t'en veux pas, bien sûr, avec toutes ces nanas autour de toi![nointeract]"
+    # Eric_05 "Я не слепой и вижу как ты смотришь на своих сестёр и даже маму. Не отрицай, иногда даже твои штаны тебя выдают. Но я тебя не виню, ещё бы, такие цыпочки кругом!" nointeract
+    Eric_05 "Je ne suis pas aveugle et je peux voir comment tu regardes tes sœurs et même ta mère. Ne le nies pas, parfois même ton pantalon te trahit. Mais je ne t'en veux pas, bien sûr, avec toutes ces nanas autour de toi!" nointeract
 
 # game/events/eric.rpy:204
 translate crowdin Eric_talk_afterdinner_goodgood_3e31f80b:
 
-    # Eric_01 "Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю![nointeract]"
-    Eric_01 "Aller, on est tous amis ici! N'importe quel homme ne penserait qu'à les baiser une par une ou même toutes à la fois. C'est normal! Je sais ce que tu veux dire ![nointeract]"
+    # Eric_01 "Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю!" nointeract
+    Eric_01 "Aller, on est tous amis ici! N'importe quel homme ne penserait qu'à les baiser une par une ou même toutes à la fois. C'est normal! Je sais ce que tu veux dire !" nointeract
 
 # game/events/eric.rpy:207
 translate crowdin Eric_talk_afterdinner_goodgood_25bd7ebc:
 
-    # Eric_05 "Уверен в этом. И если честно, надеюсь, у меня всё получится. А ты мне в этом поможешь![nointeract]"
-    Eric_05 "J'en suis sûr. Et pour être honnête, j'espère que ça marchera pour moi. Et tu vas m'aider à le faire ![nointeract]"
+    # Eric_05 "Уверен в этом. И если честно, надеюсь, у меня всё получится. А ты мне в этом поможешь!" nointeract
+    Eric_05 "J'en suis sûr. Et pour être honnête, j'espère que ça marchera pour moi. Et tu vas m'aider à le faire !" nointeract
 
 # game/events/eric.rpy:216
 translate crowdin Eric_talk_afterdinner_goodgood_6f764d15:
 
-    # Eric_05 "Конечно! Я же нормальный мужик... Кстати, ты же никому не расскажешь, верно? Мы же типа друзья?[nointeract]"
-    Eric_05 "Bien sûr ! Je suis un homme normal... Au fait, tu ne le dis à personne, n'est-ce pas ? Nous sommes en quelque sorte des amis, n'est-ce pas ?[nointeract]"
+    # Eric_05 "Конечно! Я же нормальный мужик... Кстати, ты же никому не расскажешь, верно? Мы же типа друзья?" nointeract
+    Eric_05 "Bien sûr ! Je suis un homme normal... Au fait, tu ne le dis à personne, n'est-ce pas ? Nous sommes en quelque sorte des amis, n'est-ce pas ?" nointeract
 
 # game/events/eric.rpy:224
 translate crowdin Eric_talk_afterdinner_tell_539dcb1f:
 
-    # Eric_03 "Всем? Это кому же? Сёстрам? Ну да, поверят они тебе... Расскажешь матери? Попытайся. Заодно, узнаешь на что способны мои, так сказать, \"чары\"...[nointeract]"
-    Eric_03 "Tous? C'est pour qui ? Tes sœurs ? Ouais, eh bien, elles te croiront... Tu vas le dire à ta mère ? Essaies-le. Tu découvriras ce dont mes 'charmes' sont capables, pour ainsi dire...[nointeract]"
+    # Eric_03 "Всем? Это кому же? Сёстрам? Ну да, поверят они тебе... Расскажешь матери? Попытайся. Заодно, узнаешь на что способны мои, так сказать, \"чары\"..." nointeract
+    Eric_03 "Tous? C'est pour qui ? Tes sœurs ? Ouais, eh bien, elles te croiront... Tu vas le dire à ta mère ? Essaies-le. Tu découvriras ce dont mes 'charmes' sont capables, pour ainsi dire..." nointeract
 
 # game/events/eric.rpy:229
 translate crowdin Eric_talk_afterdinner_tell_e73b4f64:
 
-    # Eric_09 "Не ожидал я от тебя такого... Ну ладно, дело твоё... Но учти, на этой войне у тебя нет ни единого шанса![nointeract]"
-    Eric_09 "Je ne m'attendais pas à ça de ta part... Très bien, c'est à toi... Mais attention, tu n'as aucune chance dans cette guerre ![nointeract]"
+    # Eric_09 "Не ожидал я от тебя такого... Ну ладно, дело твоё... Но учти, на этой войне у тебя нет ни единого шанса!" nointeract
+    Eric_09 "Je ne m'attendais pas à ça de ta part... Très bien, c'est à toi... Mais attention, tu n'as aucune chance dans cette guerre !" nointeract
 
 # game/events/eric.rpy:236
 translate crowdin Eric_talk_afterdinner_tell_6653b55b:
@@ -303,26 +303,26 @@ translate crowdin Eric_talk_afterdinner_get_d2c545b7:
 # game/events/eric.rpy:249
 translate crowdin Eric_talk_afterdinner_get_9720f70e:
 
-    # Eric_02 "Если ты про свою семью, то хотя я тебя и понимаю, но торговаться на этот счёт не намерен. Я тебе буду платить за твоё невмешательство. Более того, даже разрешу подглядывать без последствий, а вот все женщины в семье - мои.[nointeract]"
-    Eric_02 "Si tu parles de ta famille, je comprends, mais je n'ai pas l'intention de négocier à ce sujet. Je te paierais pour ton non-intervention. De plus, je t'autorise même le voyeurisme sans conséquences, mais toutes les femmes de la famille sont à moi.[nointeract]"
+    # Eric_02 "Если ты про свою семью, то хотя я тебя и понимаю, но торговаться на этот счёт не намерен. Я тебе буду платить за твоё невмешательство. Более того, даже разрешу подглядывать без последствий, а вот все женщины в семье - мои." nointeract
+    Eric_02 "Si tu parles de ta famille, je comprends, mais je n'ai pas l'intention de négocier à ce sujet. Je te paierais pour ton non-intervention. De plus, je t'autorise même le voyeurisme sans conséquences, mais toutes les femmes de la famille sont à moi." nointeract
 
 # game/events/eric.rpy:254
 translate crowdin Eric_talk_afterdinner_get_9af01c97:
 
-    # Eric_09 "Ну, тогда мы с тобой перед диллемой. Ты знаешь слишком много о моих планах, я знаю, что ты тот ещё извращенец... Как быть?[nointeract]"
-    Eric_09 "Eh bien, toi et moi sommes confrontés à un dilemme. Tu en sais trop sur mes projets, je sais que tu es un pervers... Que faire ?[nointeract]"
+    # Eric_09 "Ну, тогда мы с тобой перед диллемой. Ты знаешь слишком много о моих планах, я знаю, что ты тот ещё извращенец... Как быть?" nointeract
+    Eric_09 "Eh bien, toi et moi sommes confrontés à un dilemme. Tu en sais trop sur mes projets, je sais que tu es un pervers... Que faire ?" nointeract
 
 # game/events/eric.rpy:257
 translate crowdin Eric_talk_afterdinner_get_5024cd98:
 
-    # Eric_03 "Ну, это как посмотреть. Ты хотел потребовать \"доступа\" к женщинам в своей семье... Если бы твоя мать узнала, сомневаюсь, что это бы хорошо для тебя закончилось, правда?[nointeract]"
-    Eric_03 "Eh bien, cela dépend de la façon dont tu le regardes. Tu voulais exiger un 'accès' aux femmes de ta famille... Si ta mère le découvrait, je doute que ça se termine bien pour toi, non ?[nointeract]"
+    # Eric_03 "Ну, это как посмотреть. Ты хотел потребовать \"доступа\" к женщинам в своей семье... Если бы твоя мать узнала, сомневаюсь, что это бы хорошо для тебя закончилось, правда?" nointeract
+    Eric_03 "Eh bien, cela dépend de la façon dont tu le regardes. Tu voulais exiger un 'accès' aux femmes de ta famille... Si ta mère le découvrait, je doute que ça se termine bien pour toi, non ?" nointeract
 
 # game/events/eric.rpy:267
 translate crowdin Eric_talk_afterdinner_get_91cf9d80:
 
-    # Eric_02 "Боюсь, что да. Либо ты со мной, либо против меня. Напомню - я тебе буду платить, ты сможешь смотреть, но нельзя трогать... Ну или война и ты точно проиграешь. Очень быстро...[nointeract]"
-    Eric_02 "J'en ai bien peur. Soit tu es avec moi, soit tu es contre moi. Rappelles-toi - Je te paie, tu peux regarder, mais pas toucher... Eh bien, ou c'est la guerre et tu vas certainement perdre. Très rapidement...[nointeract]"
+    # Eric_02 "Боюсь, что да. Либо ты со мной, либо против меня. Напомню - я тебе буду платить, ты сможешь смотреть, но нельзя трогать... Ну или война и ты точно проиграешь. Очень быстро..." nointeract
+    Eric_02 "J'en ai bien peur. Soit tu es avec moi, soit tu es contre moi. Rappelles-toi - Je te paie, tu peux regarder, mais pas toucher... Eh bien, ou c'est la guerre et tu vas certainement perdre. Très rapidement..." nointeract
 
 # game/events/eric.rpy:272
 translate crowdin Eric_talk_afterdinner_get_b74ade66:
@@ -369,80 +369,80 @@ translate crowdin Eric_talk_afterdinner_get_3d7ac95b:
 # game/events/eric.rpy:320
 translate crowdin eric_ann_tv_bca2c1fb:
 
-    # Max_07 "{m}Кажется, мама с Эриком смотрят какой-то фильм. Наверняка, снова порно...{/m}[nointeract]"
-    Max_07 "{m}Maman et Eric semblent regarder une sorte de film. Probablement encore du porno...{/m}[nointeract]"
+    # Max_07 "{m}Кажется, мама с Эриком смотрят какой-то фильм. Наверняка, снова порно...{/m}" nointeract
+    Max_07 "{m}Maman et Eric semblent regarder une sorte de film. Probablement encore du porno...{/m}" nointeract
 
 # game/events/eric.rpy:322
 translate crowdin eric_ann_tv_098f8cbb:
 
-    # Max_07 "{m}Кажется, мама с Эриком смотрят какой-то фильм. Интересно, какой...{/m}[nointeract]"
-    Max_07 "{m}Maman et Eric semblent regarder une sorte de film. Je me demande quel genre de...{/m}[nointeract]"
+    # Max_07 "{m}Кажется, мама с Эриком смотрят какой-то фильм. Интересно, какой...{/m}" nointeract
+    Max_07 "{m}Maman et Eric semblent regarder une sorte de film. Je me demande quel genre de...{/m}" nointeract
 
 # game/events/eric.rpy:330
 translate crowdin eric_ann_tv_ef522b93:
 
-    # Ann_12 "Макс, мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?[nointeract]"
-    Ann_12 "Max, Eric et moi regardons un film. Je t'inviterais bien, mais ce n'est pas pour les enfants. Tu ne pourrais pas aller te promener quelque part ? Et s'il te plaît, ne regardes pas. D'accord ?[nointeract]"
+    # Ann_12 "Макс, мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?" nointeract
+    Ann_12 "Max, Eric et moi regardons un film. Je t'inviterais bien, mais ce n'est pas pour les enfants. Tu ne pourrais pas aller te promener quelque part ? Et s'il te plaît, ne regardes pas. D'accord ?" nointeract
 
 # game/events/eric.rpy:332
 translate crowdin eric_ann_tv_0d84ad96:
 
-    # Ann_12 "Ой, Макс... Мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?[nointeract]"
-    Ann_12 "Oh, Max... Eric et moi regardons un film. Je t'inviterais bien, mais ce n'est pas pour les enfants. Tu ne pourrais pas aller te promener quelque part ? Et s'il te plaît, ne regardes pas. D'accord ?[nointeract]"
+    # Ann_12 "Ой, Макс... Мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?" nointeract
+    Ann_12 "Oh, Max... Eric et moi regardons un film. Je t'inviterais bien, mais ce n'est pas pour les enfants. Tu ne pourrais pas aller te promener quelque part ? Et s'il te plaît, ne regardes pas. D'accord ?" nointeract
 
 # game/events/eric.rpy:353
 translate crowdin eric_ann_tv_57c1f4ce:
 
-    # Max_08 "Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику...[nointeract]"
-    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Et maman a apparemment tendu la main pour sucer la bite d'Eric à nouveau...[nointeract]"
+    # Max_08 "Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику..." nointeract
+    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Et maman a apparemment tendu la main pour sucer la bite d'Eric à nouveau..." nointeract
 
 # game/events/eric.rpy:355
 translate crowdin eric_ann_tv_dd49566e:
 
-    # Max_08 "Ого! На экране стало интереснее! А куда это мама так наклонилась?[nointeract]"
-    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Où est-ce que maman se penche comme ça ?[nointeract]"
+    # Max_08 "Ого! На экране стало интереснее! А куда это мама так наклонилась?" nointeract
+    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Où est-ce que maman se penche comme ça ?" nointeract
 
 # game/events/eric.rpy:365
 translate crowdin eric_ann_tv_1734441a:
 
-    # Max_07 "На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?[nointeract]"
-    Max_07 "C'est partout sur l'écran et maman a jeté l'éponge! J'aimerais pouvoir voir ce cul nu sous un autre angle... Devrais-je me rapprocher?[nointeract]"
+    # Max_07 "На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?" nointeract
+    Max_07 "C'est partout sur l'écran et maman a jeté l'éponge! J'aimerais pouvoir voir ce cul nu sous un autre angle... Devrais-je me rapprocher?" nointeract
 
 # game/events/eric.rpy:367
 translate crowdin eric_ann_tv_e2d170ee:
 
-    # Max_07 "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?[nointeract]"
-    Max_07 "Wow ! Eric retire la serviette de maman et je peux voir son derrière nu ! Devrais-je me rapprocher?[nointeract]"
+    # Max_07 "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?" nointeract
+    Max_07 "Wow ! Eric retire la serviette de maman et je peux voir son derrière nu ! Devrais-je me rapprocher?" nointeract
 
 # game/events/eric.rpy:387
 translate crowdin eric_ann_tv_07619ed6:
 
-    # Max_08 "Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику...[nointeract]"
-    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Et maman semble avoir recommencé à branler Eric...[nointeract]"
+    # Max_08 "Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику..." nointeract
+    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Et maman semble avoir recommencé à branler Eric..." nointeract
 
 # game/events/eric.rpy:389
 translate crowdin eric_ann_tv_3fda5669:
 
-    # Max_08 "Ого! На экране стало интереснее! А что это мама там делает?[nointeract]"
-    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Qu'est-ce que maman fait là ?[nointeract]"
+    # Max_08 "Ого! На экране стало интереснее! А что это мама там делает?" nointeract
+    Max_08 "Wow ! L'écran vient de devenir plus intéressant ! Qu'est-ce que maman fait là ?" nointeract
 
 # game/events/eric.rpy:399
 translate crowdin eric_ann_tv_6e12a3a4:
 
-    # Max_07 "На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?[nointeract]"
-    Max_07 "C'est partout sur l'écran et maman a jeté l'éponge ! C'est dommage que ses seins ne soient pas clairement visibles... Devrais-je me rapprocher ?[nointeract]"
+    # Max_07 "На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?" nointeract
+    Max_07 "C'est partout sur l'écran et maman a jeté l'éponge ! C'est dommage que ses seins ne soient pas clairement visibles... Devrais-je me rapprocher ?" nointeract
 
 # game/events/eric.rpy:401
 translate crowdin eric_ann_tv_59d45b77:
 
-    # Max_07 "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?[nointeract]"
-    Max_07 "Wow ! Eric retire la serviette de maman et je peux voir ses seins nus! Devrais-je me rapprocher?[nointeract]"
+    # Max_07 "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?" nointeract
+    Max_07 "Wow ! Eric retire la serviette de maman et je peux voir ses seins nus! Devrais-je me rapprocher?" nointeract
 
 # game/events/eric.rpy:423
 translate crowdin eric_ann_tv_42ac5694:
 
-    # Max_10 "Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут[nointeract]"
-    Max_10 "Si je suis remarqué pendant que je regarde du porno sur grand écran et que je regarde ce qui se passe ici, dans la réalité, je serais punis[nointeract]"
+    # Max_10 "Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут" nointeract
+    Max_10 "Si je suis remarqué pendant que je regarde du porno sur grand écran et que je regarde ce qui se passe ici, dans la réalité, je serais punis" nointeract
 
 # game/events/eric.rpy:426
 translate crowdin eric_ann_tv_c1692c11:
@@ -453,20 +453,20 @@ translate crowdin eric_ann_tv_c1692c11:
 # game/events/eric.rpy:433
 translate crowdin eric_ann_tv_f9ebeced:
 
-    # Max_10 "Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить![nointeract]"
-    Max_10 "Wow! S'ils me remarquent pendant que je regarde ÇA, ils me puniront. Un besoin urgent de s'en aller![nointeract]"
+    # Max_10 "Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить!" nointeract
+    Max_10 "Wow! S'ils me remarquent pendant que je regarde ÇA, ils me puniront. Un besoin urgent de s'en aller!" nointeract
 
 # game/events/eric.rpy:455
 translate crowdin eric_ann_tv_closer1_39475977:
 
-    # Max_15 "Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?[nointeract]"
-    Max_15 "Est-ce qu'elle le branle?! Ici... Il faut arrêter ça tout de suite! Seulement, comment est-il préférable de le faire?[nointeract]"
+    # Max_15 "Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?" nointeract
+    Max_15 "Est-ce qu'elle le branle?! Ici... Il faut arrêter ça tout de suite! Seulement, comment est-il préférable de le faire?" nointeract
 
 # game/events/eric.rpy:457
 translate crowdin eric_ann_tv_closer1_717fa033:
 
-    # Max_16 "Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?[nointeract]"
-    Max_16 "Est-elle complètement nue en train de le branler?! Ici... Je dois y mettre un terme de toute urgence! Juste, comment le faire au mieux?[nointeract]"
+    # Max_16 "Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?" nointeract
+    Max_16 "Est-elle complètement nue en train de le branler?! Ici... Je dois y mettre un terme de toute urgence! Juste, comment le faire au mieux?" nointeract
 
 # game/events/eric.rpy:461
 translate crowdin eric_ann_tv_closer1_849abea4:
@@ -483,38 +483,38 @@ translate crowdin eric_ann_tv_closer1_03d660f3:
 # game/events/eric.rpy:471
 translate crowdin eric_ann_tv_closer1_d646f6b6:
 
-    # Max_11 "Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-    Max_11 "Ouais, elle le branle ! Juste ici... Ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran...[nointeract]"
+    # Max_11 "Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+    Max_11 "Ouais, elle le branle ! Juste ici... Ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran..." nointeract
 
 # game/events/eric.rpy:473
 translate crowdin eric_ann_tv_closer1_224a6ad6:
 
-    # Max_07 "Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-    Max_07 "Oh... Maman est tellement nue et mouillée... Elle a un corps si séduisant et quel cul ! Mmm... La bonne nouvelle est qu'ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran....[nointeract]"
+    # Max_07 "Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+    Max_07 "Oh... Maman est tellement nue et mouillée... Elle a un corps si séduisant et quel cul ! Mmm... La bonne nouvelle est qu'ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran...." nointeract
 
 # game/events/eric.rpy:476
 translate crowdin eric_ann_tv_closer1_bdf10685:
 
-    # Max_11 "Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-    Max_11 "Oui, elle le suce ! Juste ici... Ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran...[nointeract]"
+    # Max_11 "Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+    Max_11 "Oui, elle le suce ! Juste ici... Ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran..." nointeract
 
 # game/events/eric.rpy:478
 translate crowdin eric_ann_tv_closer1_224a6ad6_1:
 
-    # Max_07 "Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-    Max_07 "Oh... Maman est tellement nue et mouillée... Elle a un corps si séduisant et quel cul ! Mmm... La bonne nouvelle est qu'ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran....[nointeract]"
+    # Max_07 "Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+    Max_07 "Oh... Maman est tellement nue et mouillée... Elle a un corps si séduisant et quel cul ! Mmm... La bonne nouvelle est qu'ils sont tellement absorbés l'un par l'autre qu'ils ne remarquent rien autour d'eux ! Eh bien, en dehors de ce qui se passe sur l'écran...." nointeract
 
 # game/events/eric.rpy:480
 translate crowdin eric_ann_tv_closer1_dd256959:
 
-    # Max_15 "Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит![nointeract]"
-    Max_15 "Est-ce qu'elle suce sa bite ? ! Juste ici... Quelle salope, et si quelqu'un entre et voit ça ![nointeract]"
+    # Max_15 "Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит!" nointeract
+    Max_15 "Est-ce qu'elle suce sa bite ? ! Juste ici... Quelle salope, et si quelqu'un entre et voit ça !" nointeract
 
 # game/events/eric.rpy:490
 translate crowdin eric_ann_tv_closer1_1cc34756:
 
-    # Ann_13 "Что? Кто здесь? Макс?! Выйди немедленно, не видишь...[nointeract]"
-    Ann_13 "Quoi ? Qui est là ? Max ? ! Sors d'ici maintenant, tu ne peux pas regarder...[nointeract]"
+    # Ann_13 "Что? Кто здесь? Макс?! Выйди немедленно, не видишь..." nointeract
+    Ann_13 "Quoi ? Qui est là ? Max ? ! Sors d'ici maintenant, tu ne peux pas regarder..." nointeract
 
 # game/events/eric.rpy:496
 translate crowdin eric_ann_tv_closer1_282eb1bf:
@@ -543,8 +543,8 @@ translate crowdin eric_ann_tv_closer1_4a3cf6f9:
 # game/events/eric.rpy:506
 translate crowdin eric_ann_tv_closer1_74c87652:
 
-    # Ann_12 "Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем...[nointeract]"
-    Ann_12 "Ecoutes, fils... Tu vois, les adultes ont besoin d'intimité parfois. Nous pensions que tout le monde était en haut et que nous étions ici, c'était évident pour tout le monde... En tout cas....[nointeract]"
+    # Ann_12 "Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем..." nointeract
+    Ann_12 "Ecoutes, fils... Tu vois, les adultes ont besoin d'intimité parfois. Nous pensions que tout le monde était en haut et que nous étions ici, c'était évident pour tout le monde... En tout cas...." nointeract
 
 # game/events/eric.rpy:508
 translate crowdin eric_ann_tv_closer1_e22f3a8c:
@@ -585,8 +585,8 @@ translate crowdin eric_ann_tv_closer1_cd0fd095:
 # game/events/eric.rpy:535
 translate crowdin eric_ann_fucking_60cad7ba:
 
-    # Max_00 "Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит...[nointeract]"
-    Max_00 "D'après ce qu'on entend, maman et Eric font quelque chose. Ce n'est pas une bonne idée d'ouvrir la porte, ça va devenir...[nointeract]"
+    # Max_00 "Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит..." nointeract
+    Max_00 "D'après ce qu'on entend, maman et Eric font quelque chose. Ce n'est pas une bonne idée d'ouvrir la porte, ça va devenir..." nointeract
 
 # game/events/eric.rpy:571
 translate crowdin eric_ann_fucking_voyeur_c6b7e289:
@@ -627,14 +627,14 @@ translate crowdin eric_ann_fucking_voyeur_c6425607:
 # game/events/eric.rpy:585
 translate crowdin eric_ann_fucking_voyeur_1a6dca32:
 
-    # Ann_18 "Макс? Опять подглядываешь?! Ну-ка бегом отсюда![nointeract]"
-    Ann_18 "Max ? Encore un coup d'œil ? ! Sors d'ici ![nointeract]"
+    # Ann_18 "Макс? Опять подглядываешь?! Ну-ка бегом отсюда!" nointeract
+    Ann_18 "Max ? Encore un coup d'œil ? ! Sors d'ici !" nointeract
 
 # game/events/eric.rpy:588
 translate crowdin eric_ann_fucking_voyeur_afca94eb:
 
-    # Eric_02 "Ань, пусть лучше смотрит на нас, чем на непойми какие извращения в интернете, верно? Так, Макс, зайди сюда, поговорим...[nointeract]"
-    Eric_02 "Ann, il vaut mieux qu'il nous regarde que de regarder n'importe quelle perversion sur Internet, n'est-ce pas ? Alors, Max, viens ici et nous allons parler....[nointeract]"
+    # Eric_02 "Ань, пусть лучше смотрит на нас, чем на непойми какие извращения в интернете, верно? Так, Макс, зайди сюда, поговорим..." nointeract
+    Eric_02 "Ann, il vaut mieux qu'il nous regarde que de regarder n'importe quelle perversion sur Internet, n'est-ce pas ? Alors, Max, viens ici et nous allons parler...." nointeract
 
 # game/events/eric.rpy:594
 translate crowdin eric_ann_fucking_voyeur_9e12ffd3:
@@ -669,32 +669,32 @@ translate crowdin eric_ann_fucking_voyeur_6e7aee99:
 # game/events/eric.rpy:613
 translate crowdin eric_ann_fucking_voyeur_02303e2f:
 
-    # Max_10 "[undetect!t]Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?![nointeract]"
-    Max_10 "[undetect!t]Mon Dieu, que fait ma mère ? ! Est-ce qu'elle aime vraiment sucer la bite de cet abruti ? ![nointeract]"
+    # Max_10 "[undetect!t]Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?!" nointeract
+    Max_10 "[undetect!t]Mon Dieu, que fait ma mère ? ! Est-ce qu'elle aime vraiment sucer la bite de cet abruti ? !" nointeract
 
 # game/events/eric.rpy:615
 translate crowdin eric_ann_fucking_voyeur_6f277737:
 
-    # Max_07 "[undetect!t]Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится![nointeract]"
-    Max_07 "[undetect!t]Wow ! C'est comme un film porno cool ! Je n'aurais jamais pu imaginer que ma mère stricte était capable d'une telle chose. Et Eric la suit de près... Elle semble l'apprécier beaucoup ![nointeract]"
+    # Max_07 "[undetect!t]Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится!" nointeract
+    Max_07 "[undetect!t]Wow ! C'est comme un film porno cool ! Je n'aurais jamais pu imaginer que ma mère stricte était capable d'une telle chose. Et Eric la suit de près... Elle semble l'apprécier beaucoup !" nointeract
 
 # game/events/eric.rpy:617
 translate crowdin eric_ann_fucking_voyeur_fd07b201:
 
-    # Max_10 "[undetect!t]Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?![nointeract]"
-    Max_10 "[undetect!t]Quoi ? ! Est-ce que ma mère suce ce monstre ? Eric, ce salaud, il est... la baiser dans la bouche comme une pute de rue bon marché! Pourquoi elle le laisse faire ça ? ![nointeract]"
+    # Max_10 "[undetect!t]Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?!" nointeract
+    Max_10 "[undetect!t]Quoi ? ! Est-ce que ma mère suce ce monstre ? Eric, ce salaud, il est... la baiser dans la bouche comme une pute de rue bon marché! Pourquoi elle le laisse faire ça ? !" nointeract
 
 # game/events/eric.rpy:619
 translate crowdin eric_ann_fucking_voyeur_2223829f:
 
-    # Max_08 "[undetect!t]Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится![nointeract]"
-    Max_08 "[undetect!t]C'est parti, Eric baise ma mère par derrière, et il est si actif... Elle ne semble pas avoir la force d'y résister, mais peut-être qu'elle aime ça![nointeract]"
+    # Max_08 "[undetect!t]Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится!" nointeract
+    Max_08 "[undetect!t]C'est parti, Eric baise ma mère par derrière, et il est si actif... Elle ne semble pas avoir la force d'y résister, mais peut-être qu'elle aime ça!" nointeract
 
 # game/events/eric.rpy:621
 translate crowdin eric_ann_fucking_voyeur_769f0bc5:
 
-    # Max_07 "[undetect!t]Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла...[nointeract]"
-    Max_07 "[undetect!t]Wow ! Quelle passion ! Ma mère monte Eric comme une folle! Je ne savais pas qu'elle était capable d'une telle chose! Ils semblent tellement absorbés l'un par l'autre qu'ils ne remarqueront pas si j'arrive dans le coin...[nointeract]"
+    # Max_07 "[undetect!t]Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла..." nointeract
+    Max_07 "[undetect!t]Wow ! Quelle passion ! Ma mère monte Eric comme une folle! Je ne savais pas qu'elle était capable d'une telle chose! Ils semblent tellement absorbés l'un par l'autre qu'ils ne remarqueront pas si j'arrive dans le coin..." nointeract
 
 # game/events/eric.rpy:631
 translate crowdin eric_ann_fucking_voyeur_c6b7e289_1:
@@ -735,92 +735,92 @@ translate crowdin eric_ann_fucking_voyeur_844b777a:
 # game/events/eric.rpy:676
 translate crowdin eric_ann_sleep_eb3bfa8c:
 
-    # Max_00 "Кажется, все спят...[nointeract]"
-    Max_00 "Tout le monde semble dormir...[nointeract]"
+    # Max_00 "Кажется, все спят..." nointeract
+    Max_00 "Tout le monde semble dormir..." nointeract
 
 # game/events/eric.rpy:691
 translate crowdin eric_ann_sleep_7df403de:
 
-    # Max_09 "О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?![nointeract]"
-    Max_09 "Оh! Maman dort seule... Comme elle est belle, surtout nue... Où est Eric ? Alice est dans sa chambre?![nointeract]"
+    # Max_09 "О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?!" nointeract
+    Max_09 "Оh! Maman dort seule... Comme elle est belle, surtout nue... Où est Eric ? Alice est dans sa chambre?!" nointeract
 
 # game/events/eric.rpy:712
 translate crowdin eric_ann_sleep_b52c6465:
 
-    # Max_01 "Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?[nointeract]"
-    Max_01 "Ils semblent dormir profondément... Complètement nus! Merde, c'est une honte que maman soit la seule couchée derrière Eric et qu'on puisse à peine la voir... Pourquoi est-il si grand ?[nointeract]"
+    # Max_01 "Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?" nointeract
+    Max_01 "Ils semblent dormir profondément... Complètement nus! Merde, c'est une honte que maman soit la seule couchée derrière Eric et qu'on puisse à peine la voir... Pourquoi est-il si grand ?" nointeract
 
 # game/events/eric.rpy:714
 translate crowdin eric_ann_sleep_3032e3eb:
 
-    # Max_07 "О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла![nointeract]"
-    Max_07 "Oh, oui ! Cette nuit, ma mère est apparue dans toute sa gloire... Complètement nue... si séduisante. Sauf qu'il y a un singe qui traîne dans le coin![nointeract]"
+    # Max_07 "О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла!" nointeract
+    Max_07 "Oh, oui ! Cette nuit, ma mère est apparue dans toute sa gloire... Complètement nue... si séduisante. Sauf qu'il y a un singe qui traîne dans le coin!" nointeract
 
 # game/events/eric.rpy:716
 translate crowdin eric_ann_sleep_bf16469a:
 
-    # Max_04 "Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала...[nointeract]"
-    Max_04 "Joli ! Ma mère a le plus beau cul du monde... et nue comme ça, ça me rend fou! J'aimerais que cette montagne de muscles ne soit pas à côté d'elle...[nointeract]"
+    # Max_04 "Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала..." nointeract
+    Max_04 "Joli ! Ma mère a le plus beau cul du monde... et nue comme ça, ça me rend fou! J'aimerais que cette montagne de muscles ne soit pas à côté d'elle..." nointeract
 
 # game/events/eric.rpy:725
 translate crowdin eric_ann_sleep_5dbd568a:
 
-    # Max_03 "Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить.[nointeract]"
-    Max_03 "Ils sont vraiment endormis... Je ne vois pas le plus intéressant, mais maman a jeté sa jambe par-dessus si élégamment, de manière féminine... Heureusement qu'il fait si chaud et qu'il n'y a pas d'air conditionné à la maison... Ok, il est temps d'y aller.[nointeract]"
+    # Max_03 "Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить." nointeract
+    Max_03 "Ils sont vraiment endormis... Je ne vois pas le plus intéressant, mais maman a jeté sa jambe par-dessus si élégamment, de manière féminine... Heureusement qu'il fait si chaud et qu'il n'y a pas d'air conditionné à la maison... Ok, il est temps d'y aller." nointeract
 
 # game/events/eric.rpy:727
 translate crowdin eric_ann_sleep_1a7abd7b:
 
-    # Max_02 "Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся.[nointeract]"
-    Max_02 "C'est juste fou ! Elle est allongée à un mètre de moi... complètement nue... et je peux voir sa chatte... si belle ! Et ce bâtard, Eric, l'a si magistralement tripotée... J'aimerais le frapper, ce salaud... Bien, je ferais mieux d'y aller ou ils vont se réveiller.[nointeract]"
+    # Max_02 "Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся." nointeract
+    Max_02 "C'est juste fou ! Elle est allongée à un mètre de moi... complètement nue... et je peux voir sa chatte... si belle ! Et ce bâtard, Eric, l'a si magistralement tripotée... J'aimerais le frapper, ce salaud... Bien, je ferais mieux d'y aller ou ils vont se réveiller." nointeract
 
 # game/events/eric.rpy:729
 translate crowdin eric_ann_sleep_9771290e:
 
-    # Max_05 "Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись...[nointeract]"
-    Max_05 "Maman est si belle... Et son cul rond et rebondi est merveilleux! Si fascinant! Comme j'aimerais pouvoir la toucher... Oh, les rêves... Ne pas les réveiller maintenant...[nointeract]"
+    # Max_05 "Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись..." nointeract
+    Max_05 "Maman est si belle... Et son cul rond et rebondi est merveilleux! Si fascinant! Comme j'aimerais pouvoir la toucher... Oh, les rêves... Ne pas les réveiller maintenant..." nointeract
 
 # game/events/eric.rpy:740
 translate crowdin eric_ann_sleep_not_eric_a05237c8:
 
-    # Max_01 "Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
-    Max_01 "Joli ! Maman dort nue... Je ne peux pas croire que cette beauté a trois enfants... Je n'aurais jamais cru ça de ma vie ![nointeract]"
+    # Max_01 "Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!" nointeract
+    Max_01 "Joli ! Maman dort nue... Je ne peux pas croire que cette beauté a trois enfants... Je n'aurais jamais cru ça de ma vie !" nointeract
 
 # game/events/eric.rpy:742
 translate crowdin eric_ann_sleep_not_eric_f8c5f5ec:
 
-    # Max_07 "О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер![nointeract]"
-    Max_07 "Oh, oui ! Maman le cul nu! C'est bien qu'il fasse si chaud et que tout le monde dorment sans habits... C'est génial![nointeract]"
+    # Max_07 "О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер!" nointeract
+    Max_07 "Oh, oui ! Maman le cul nu! C'est bien qu'il fasse si chaud et que tout le monde dorment sans habits... C'est génial!" nointeract
 
 # game/events/eric.rpy:744
 translate crowdin eric_ann_sleep_not_eric_ca37ba4b:
 
-    # Max_04 "Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
-    Max_04 "Le truc le plus sympa! Quelle chance j'ai d'avoir une mère aussi sexy... Nue, elle a l'air incroyable, on ne peut pas la quitter des yeux![nointeract]"
+    # Max_04 "Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется!" nointeract
+    Max_04 "Le truc le plus sympa! Quelle chance j'ai d'avoir une mère aussi sexy... Nue, elle a l'air incroyable, on ne peut pas la quitter des yeux!" nointeract
 
 # game/events/eric.rpy:758
 translate crowdin eric_ann_sleep_not_eric_closer_0982aff1:
 
-    # Max_03 "Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
-    Max_03 "Bon sang, j'ai la maman la plus délicieuse du monde! J'adorerais lui parler... Mais il vaut mieux partir lentement avant qu'elle ne se réveille..[nointeract]"
+    # Max_03 "Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась." nointeract
+    Max_03 "Bon sang, j'ai la maman la plus délicieuse du monde! J'adorerais lui parler... Mais il vaut mieux partir lentement avant qu'elle ne se réveille.." nointeract
 
 # game/events/eric.rpy:760
 translate crowdin eric_ann_sleep_not_eric_closer_5aa8a3a4:
 
-    # Max_02 "Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
-    Max_02 "Ugh ! Je voudrais juste me blottir contre ce charmant cul nu... Mais il est temps de partir, ou elle pourrait se réveiller..[nointeract]"
+    # Max_02 "Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться." nointeract
+    Max_02 "Ugh ! Je voudrais juste me blottir contre ce charmant cul nu... Mais il est temps de partir, ou elle pourrait se réveiller.." nointeract
 
 # game/events/eric.rpy:762
 translate crowdin eric_ann_sleep_not_eric_closer_947120a8:
 
-    # Max_05 "Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась...[nointeract]"
-    Max_05 "Wow ! La vue de ces jambes écartées me fait presque oublié que c'est quand même ma mère... Trop séduisante sa chatte! Ne pas la réveiller maintenant....[nointeract]"
+    # Max_05 "Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась..." nointeract
+    Max_05 "Wow ! La vue de ces jambes écartées me fait presque oublié que c'est quand même ma mère... Trop séduisante sa chatte! Ne pas la réveiller maintenant...." nointeract
 
 # game/events/eric.rpy:780
 translate crowdin eric_ann_shower_2822b9e1:
 
-    # Max_00 "Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?[nointeract]"
-    Max_00 "On dirait que maman et Eric prennent une douche... Ou que peuvent-ils faire d’autre?[nointeract]"
+    # Max_00 "Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?" nointeract
+    Max_00 "On dirait que maman et Eric prennent une douche... Ou que peuvent-ils faire d’autre?" nointeract
 
 # game/events/eric.rpy:794
 translate crowdin eric_ann_shower_ladder_2b325faf:
@@ -903,98 +903,98 @@ translate crowdin eric_ann_shower_end_f00d8bbc:
 # game/events/eric.rpy:868
 translate crowdin eric_ann_shower_start_peeping_1cdffa73:
 
-    # Max_07 "Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим...[nointeract]"
-    Max_07 "Wow... On dirait que quelque chose de plus qu'une simple douche se prépare ! J'ai peur d'imaginer ce qui se passerait si je me faisais prendre en train de mater... derrière ça...[nointeract]"
+    # Max_07 "Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим..." nointeract
+    Max_07 "Wow... On dirait que quelque chose de plus qu'une simple douche se prépare ! J'ai peur d'imaginer ce qui se passerait si je me faisais prendre en train de mater... derrière ça..." nointeract
 
 # game/events/eric.rpy:893
 translate crowdin eric_ann_shower_alt_peepeng_d769a708:
 
-    # Max_10 "[undetect!t]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется...[nointeract]"
-    Max_10 "[undetect!t]Ma mère est encore en train de sucer celui-là... Eric! Oui, avec une telle passion ! Est-ce qu'elle aime vraiment le faire ou est-ce qu'elle l'aime à ce point? Bien que je ne veuille même pas y penser là à la seconde..[nointeract]"
+    # Max_10 "[undetect!t]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется..." nointeract
+    Max_10 "[undetect!t]Ma mère est encore en train de sucer celui-là... Eric! Oui, avec une telle passion ! Est-ce qu'elle aime vraiment le faire ou est-ce qu'elle l'aime à ce point? Bien que je ne veuille même pas y penser là à la seconde.." nointeract
 
 # game/events/eric.rpy:895
 translate crowdin eric_ann_shower_alt_peepeng_42177608:
 
-    # Max_09 "[undetect!t]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?![nointeract]"
-    Max_09 "[undetect!t]Ouais, Eric s'est bien installé... Maman le suce si fort qu'elle ne peut plus s'en détacher ! Est-ce qu'elle aime vraiment sucer son moignon ?![nointeract]"
+    # Max_09 "[undetect!t]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?!" nointeract
+    Max_09 "[undetect!t]Ouais, Eric s'est bien installé... Maman le suce si fort qu'elle ne peut plus s'en détacher ! Est-ce qu'elle aime vraiment sucer son moignon ?!" nointeract
 
 # game/events/eric.rpy:897
 translate crowdin eric_ann_shower_alt_peepeng_5b560f45:
 
-    # Max_04 "[undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...[nointeract]"
-    Max_04 "[undetect!t]Ohhh... Quelle chance pour Eric... Après tout, les mains de maman sont si douces et affectueuses ! La simple vue de son corps complètement nu et mouillé suffit à te faire jouir...[nointeract]"
+    # Max_04 "[undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить..." nointeract
+    Max_04 "[undetect!t]Ohhh... Quelle chance pour Eric... Après tout, les mains de maman sont si douces et affectueuses ! La simple vue de son corps complètement nu et mouillé suffit à te faire jouir..." nointeract
 
 # game/events/eric.rpy:899
 translate crowdin eric_ann_shower_alt_peepeng_065723ba:
 
-    # Max_06 "[undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится![nointeract]"
-    Max_06 "[undetect!t]Putain de merde ! Quelle passion ! Ils semblent tellement amoureux l'un de l'autre qu'ils ne se soucient pas de savoir si quelqu'un les voit ou non... Et maman semble l'apprécier beaucoup ![nointeract]"
+    # Max_06 "[undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!" nointeract
+    Max_06 "[undetect!t]Putain de merde ! Quelle passion ! Ils semblent tellement amoureux l'un de l'autre qu'ils ne se soucient pas de savoir si quelqu'un les voit ou non... Et maman semble l'apprécier beaucoup !" nointeract
 
 # game/events/eric.rpy:901
 translate crowdin eric_ann_shower_alt_peepeng_cedd144b:
 
-    # Max_05 "[undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти![nointeract]"
-    Max_05 "[undetect!t]Wow ! Eric baise ma mère par derrière, si activement... Et... elle a l'air de beaucoup aimer, elle va même vers lui... et se plonge à corps perdu dans la luxure ![nointeract]"
+    # Max_05 "[undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!" nointeract
+    Max_05 "[undetect!t]Wow ! Eric baise ma mère par derrière, si activement... Et... elle a l'air de beaucoup aimer, elle va même vers lui... et se plonge à corps perdu dans la luxure !" nointeract
 
 # game/events/eric.rpy:913
 translate crowdin eric_ann_shower_alt_peepeng_c849c0ca:
 
-    # Max_09 "Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?![nointeract]"
-    Max_09 "Oh, merde ! Eric jouit sur le visage de ma mère, comme dans un porno ! Et elle aime tellement ça qu'elle sourit et avale son sperme! Est-elle si débile?![nointeract]"
+    # Max_09 "Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?!" nointeract
+    Max_09 "Oh, merde ! Eric jouit sur le visage de ma mère, comme dans un porno ! Et elle aime tellement ça qu'elle sourit et avale son sperme! Est-elle si débile?!" nointeract
 
 # game/events/eric.rpy:915
 translate crowdin eric_ann_shower_alt_peepeng_925cd30e:
 
-    # Max_01 "Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили![nointeract]"
-    Max_01 "C'est ça ! Qui aurait douté qu'Eric ne tiendrait pas trop longtemps. Maman sait ce qu'elle fait ! Bien, je dois sortir d'ici avant qu'ils ne me voient ![nointeract]"
+    # Max_01 "Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!" nointeract
+    Max_01 "C'est ça ! Qui aurait douté qu'Eric ne tiendrait pas trop longtemps. Maman sait ce qu'elle fait ! Bien, je dois sortir d'ici avant qu'ils ne me voient !" nointeract
 
 # game/events/eric.rpy:917
 translate crowdin eric_ann_shower_alt_peepeng_b85f5146:
 
-    # Max_07 "Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...[nointeract]"
-    Max_07 "Oh, merde... Eric a déjà terminé... C'est une bonne chose qu'il ne soit pas allé chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir...[nointeract]"
+    # Max_07 "Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят..." nointeract
+    Max_07 "Oh, merde... Eric a déjà terminé... C'est une bonne chose qu'il ne soit pas allé chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir..." nointeract
 
 # game/events/eric.rpy:919
 translate crowdin eric_ann_shower_alt_peepeng_cc0c1868:
 
-    # Max_08 "Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...[nointeract]"
-    Max_08 "L'enfer... il a fini... Joyeux enfoiré... éclaboussé maman tout son dos et son cul avec son sperme! Besoin de m'éloigner, mais ils sont sur le point de m'apercevoir...[nointeract]"
+    # Max_08 "Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят..." nointeract
+    Max_08 "L'enfer... il a fini... Joyeux enfoiré... éclaboussé maman tout son dos et son cul avec son sperme! Besoin de m'éloigner, mais ils sont sur le point de m'apercevoir..." nointeract
 
 # game/events/eric.rpy:943
 translate crowdin eric_ann_shower_closer_peepeng_5b560f45:
 
-    # Max_04 "[undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...[nointeract]"
-    Max_04 "[undetect!t]Ohhh... Quelle chance pour Eric... Après tout, les mains de maman sont si douces et affectueuses ! La simple vue de son corps complètement nu et mouillé suffit à te faire jouir...[nointeract]"
+    # Max_04 "[undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить..." nointeract
+    Max_04 "[undetect!t]Ohhh... Quelle chance pour Eric... Après tout, les mains de maman sont si douces et affectueuses ! La simple vue de son corps complètement nu et mouillé suffit à te faire jouir..." nointeract
 
 # game/events/eric.rpy:945
 translate crowdin eric_ann_shower_closer_peepeng_065723ba:
 
-    # Max_06 "[undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится![nointeract]"
-    Max_06 "[undetect!t]Putain de merde ! Quelle passion ! Ils semblent tellement amoureux l'un de l'autre qu'ils ne se soucient pas de savoir si quelqu'un les voit ou non... Et maman semble l'apprécier beaucoup ![nointeract]"
+    # Max_06 "[undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!" nointeract
+    Max_06 "[undetect!t]Putain de merde ! Quelle passion ! Ils semblent tellement amoureux l'un de l'autre qu'ils ne se soucient pas de savoir si quelqu'un les voit ou non... Et maman semble l'apprécier beaucoup !" nointeract
 
 # game/events/eric.rpy:947
 translate crowdin eric_ann_shower_closer_peepeng_cedd144b:
 
-    # Max_05 "[undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти![nointeract]"
-    Max_05 "[undetect!t]Wow ! Eric baise ma mère par derrière, si activement... Et... elle a l'air de beaucoup aimer, elle va même vers lui... et se plonge à corps perdu dans la luxure ![nointeract]"
+    # Max_05 "[undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!" nointeract
+    Max_05 "[undetect!t]Wow ! Eric baise ma mère par derrière, si activement... Et... elle a l'air de beaucoup aimer, elle va même vers lui... et se plonge à corps perdu dans la luxure !" nointeract
 
 # game/events/eric.rpy:959
 translate crowdin eric_ann_shower_closer_peepeng_925cd30e:
 
-    # Max_01 "Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили![nointeract]"
-    Max_01 "C'est ça ! Qui aurait douté qu'Eric ne tiendrait pas trop longtemps. Maman sait ce qu'elle fait ! Bien, je dois sortir d'ici avant qu'ils ne me voient ![nointeract]"
+    # Max_01 "Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!" nointeract
+    Max_01 "C'est ça ! Qui aurait douté qu'Eric ne tiendrait pas trop longtemps. Maman sait ce qu'elle fait ! Bien, je dois sortir d'ici avant qu'ils ne me voient !" nointeract
 
 # game/events/eric.rpy:961
 translate crowdin eric_ann_shower_closer_peepeng_b85f5146:
 
-    # Max_07 "Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...[nointeract]"
-    Max_07 "Oh, merde... Eric a déjà terminé... C'est une bonne chose qu'il ne soit pas allé chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir...[nointeract]"
+    # Max_07 "Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят..." nointeract
+    Max_07 "Oh, merde... Eric a déjà terminé... C'est une bonne chose qu'il ne soit pas allé chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir..." nointeract
 
 # game/events/eric.rpy:963
 translate crowdin eric_ann_shower_closer_peepeng_cc0c1868:
 
-    # Max_08 "Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...[nointeract]"
-    Max_08 "L'enfer... il a fini... Joyeux enfoiré... éclaboussé maman tout son dos et son cul avec son sperme! Besoin de m'éloigner, mais ils sont sur le point de m'apercevoir...[nointeract]"
+    # Max_08 "Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят..." nointeract
+    Max_08 "L'enfer... il a fini... Joyeux enfoiré... éclaboussé maman tout son dos et son cul avec son sperme! Besoin de m'éloigner, mais ils sont sur le point de m'apercevoir..." nointeract
 
 # game/events/eric.rpy:978
 translate crowdin eric_ann_shower_not_luck_cdfa03c1:
@@ -1005,32 +1005,32 @@ translate crowdin eric_ann_shower_not_luck_cdfa03c1:
 # game/events/eric.rpy:994
 translate crowdin sexed_lisa_fbf9c0fd:
 
-    # Max_09 "{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит?{/m}[nointeract]"
-    Max_09 "{m}Je me demande pourquoi maman a appelé Lisa dans la pièce. Et puis il y a Eric. Peut-on au moins regarder à travers la caméra pour voir ce qui s'y passe ?{/m}[nointeract]"
+    # Max_09 "{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит?{/m}" nointeract
+    Max_09 "{m}Je me demande pourquoi maman a appelé Lisa dans la pièce. Et puis il y a Eric. Peut-on au moins regarder à travers la caméra pour voir ce qui s'y passe ?{/m}" nointeract
 
 # game/events/eric.rpy:1009
 translate crowdin sexed_lisa_6af17f94:
 
-    # Max_09 "{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать.{/m}[nointeract]"
-    Max_09 "{m}Je me demande pourquoi maman a appelé Lisa dans la pièce. Et puis il y a Eric. Si j'avais installé une caméra dans cette pièce, je pourrais tout voir maintenant, mais maintenant je dois attendre le retour de Lisa pour le découvrir.{/m}[nointeract]"
+    # Max_09 "{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать.{/m}" nointeract
+    Max_09 "{m}Je me demande pourquoi maman a appelé Lisa dans la pièce. Et puis il y a Eric. Si j'avais installé une caméra dans cette pièce, je pourrais tout voir maintenant, mais maintenant je dois attendre le retour de Lisa pour le découvrir.{/m}" nointeract
 
 # game/events/eric.rpy:1018
 translate crowdin sexed_lisa_139d73b1:
 
-    # Max_07 "{m}Эрик сказал, что всё устроит так, чтобы меня не заметили, когда я буду подглядывать. Сейчас посмотрим...{/m}[nointeract]"
-    Max_07 "{m}Eric a dit qu'il arrangerait les choses pour qu'on ne me remarque pas quand j'épierais. Voyons voir....{/m}[nointeract]"
+    # Max_07 "{m}Эрик сказал, что всё устроит так, чтобы меня не заметили, когда я буду подглядывать. Сейчас посмотрим...{/m}" nointeract
+    Max_07 "{m}Eric a dit qu'il arrangerait les choses pour qu'on ne me remarque pas quand j'épierais. Voyons voir....{/m}" nointeract
 
 # game/events/eric.rpy:1032
 translate crowdin sexed_lisa_bb20dbe6:
 
-    # Max_09 "{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру...{/m}[nointeract]"
-    Max_09 "{m}Je me demande ce que lui et Lisa sont en train de faire! Je pourrais essayer de jeter un coup d'œil par la fenêtre, mais je ne devrais pas donner à Eric une chance de m'humilier ou pire. C'est mieux de regarder à travers la caméra...{/m}[nointeract]"
+    # Max_09 "{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру...{/m}" nointeract
+    Max_09 "{m}Je me demande ce que lui et Lisa sont en train de faire! Je pourrais essayer de jeter un coup d'œil par la fenêtre, mais je ne devrais pas donner à Eric une chance de m'humilier ou pire. C'est mieux de regarder à travers la caméra...{/m}" nointeract
 
 # game/events/eric.rpy:1048
 translate crowdin sexed_lisa_331970d9:
 
-    # Max_09 "{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить.{/m}[nointeract]"
-    Max_09 "{m}Je me demande ce que lui et Lisa sont en train de faire ! Je pourrais essayer de jeter un coup d'œil par la fenêtre, mais je ne devrais pas donner à Eric une chance de m'humilier ou pire. Je dois attendre que Lisa revienne et lui demander, mais ça ne ferait pas de mal de mettre une caméra dans la chambre de maman..{/m}[nointeract]"
+    # Max_09 "{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить.{/m}" nointeract
+    Max_09 "{m}Je me demande ce que lui et Lisa sont en train de faire ! Je pourrais essayer de jeter un coup d'œil par la fenêtre, mais je ne devrais pas donner à Eric une chance de m'humilier ou pire. Je dois attendre que Lisa revienne et lui demander, mais ça ne ferait pas de mal de mettre une caméra dans la chambre de maman..{/m}" nointeract
 
 # game/events/eric.rpy:1059
 translate crowdin sexed_lisa_lesson_0_34f083f3:
@@ -1587,14 +1587,14 @@ translate crowdin first_jerk_balkon_22b77a79:
 # game/events/eric.rpy:1309
 translate crowdin first_jerk_balkon_028c8f53:
 
-    # Max_03 "Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...[nointeract]"
-    Max_03 "Je devrais peut-être prendre une photo de lui en silence la prochaine fois ! Donc, juste au cas où...[nointeract]"
+    # Max_03 "Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай..." nointeract
+    Max_03 "Je devrais peut-être prendre une photo de lui en silence la prochaine fois ! Donc, juste au cas où..." nointeract
 
 # game/events/eric.rpy:1323
 translate crowdin first_jerk_yard_b743b57a:
 
-    # Max_07 "Опа, Эрик! Что это он делает среди ночи у окна Алисы?![nointeract]"
-    Max_07 "Whoa, Eric ! Que fait-il à la fenêtre d'Alice au milieu de la nuit ?![nointeract]"
+    # Max_07 "Опа, Эрик! Что это он делает среди ночи у окна Алисы?!" nointeract
+    Max_07 "Whoa, Eric ! Que fait-il à la fenêtre d'Alice au milieu de la nuit ?!" nointeract
 
 # game/events/eric.rpy:1328
 translate crowdin first_jerk_yard_36a13914:
@@ -1605,32 +1605,32 @@ translate crowdin first_jerk_yard_36a13914:
 # game/events/eric.rpy:1330
 translate crowdin first_jerk_yard_028c8f53:
 
-    # Max_03 "Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...[nointeract]"
-    Max_03 "Je devrais peut-être prendre une photo de lui en silence la prochaine fois ! Donc, juste au cas où...[nointeract]"
+    # Max_03 "Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай..." nointeract
+    Max_03 "Je devrais peut-être prendre une photo de lui en silence la prochaine fois ! Donc, juste au cas où..." nointeract
 
 # game/events/eric.rpy:1351
 translate crowdin jerk_balkon_f235bbdd:
 
-    # Max_07 "Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?![nointeract]"
-    Max_07 "Eric continue de se branler sur Alice ! Et il n'est pas trop paresseux pour se lever au milieu de la nuit pour le faire?![nointeract]"
+    # Max_07 "Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!" nointeract
+    Max_07 "Eric continue de se branler sur Alice ! Et il n'est pas trop paresseux pour se lever au milieu de la nuit pour le faire?!" nointeract
 
 # game/events/eric.rpy:1364
 translate crowdin jerk_balkon_63126f2e:
 
-    # Max_03 "Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное![nointeract]"
-    Max_03 "Oui, Eric est là ! Il n'a pas pu résister à une Alice nue et s'est branlé en plein milieu de sa chambre... Quel sale animal ![nointeract]"
+    # Max_03 "Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное!" nointeract
+    Max_03 "Oui, Eric est là ! Il n'a pas pu résister à une Alice nue et s'est branlé en plein milieu de sa chambre... Quel sale animal !" nointeract
 
 # game/events/eric.rpy:1381
 translate crowdin jerk_yard_f235bbdd:
 
-    # Max_07 "Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?![nointeract]"
-    Max_07 "Eric continue de se branler sur Alice ! Et il n'est pas trop paresseux pour se lever au milieu de la nuit pour le faire?![nointeract]"
+    # Max_07 "Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!" nointeract
+    Max_07 "Eric continue de se branler sur Alice ! Et il n'est pas trop paresseux pour se lever au milieu de la nuit pour le faire?!" nointeract
 
 # game/events/eric.rpy:1397
 translate crowdin jerk_photohant1_0f4523b2:
 
-    # Max_09 "Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай![nointeract]"
-    Max_09 "Il est là! Il se branle toujours... si dur! Regarder ça, n'efface pas ma bosse.... Bien que non, il vaut mieux laver![nointeract]"
+    # Max_09 "Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай!" nointeract
+    Max_09 "Il est là! Il se branle toujours... si dur! Regarder ça, n'efface pas ma bosse.... Bien que non, il vaut mieux laver!" nointeract
 
 # game/events/eric.rpy:1403
 translate crowdin jerk_photohant1_9aed2e73:
@@ -1641,26 +1641,26 @@ translate crowdin jerk_photohant1_9aed2e73:
 # game/events/eric.rpy:1406
 translate crowdin jerk_photohant1_9fa70f41:
 
-    # Max_09 "А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как...[nointeract]"
-    Max_09 "Et si j'essayais de faire entrer Eric dans la chambre d'Alice ? ! J'aurais alors une chance de prendre une photo plus définitive de sur qui Eric se branle. Seulement comment...[nointeract]"
+    # Max_09 "А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как..." nointeract
+    Max_09 "Et si j'essayais de faire entrer Eric dans la chambre d'Alice ? ! J'aurais alors une chance de prendre une photo plus définitive de sur qui Eric se branle. Seulement comment..." nointeract
 
 # game/events/eric.rpy:1421
 translate crowdin jerk_photohant1_5893f935:
 
-    # Max_10 "Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
-    Max_10 "Merde, pendant que je courais, Eric était déjà parti... Pas grave, je l'attraperai la prochaine fois....[nointeract]"
+    # Max_10 "Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз..." nointeract
+    Max_10 "Merde, pendant que je courais, Eric était déjà parti... Pas grave, je l'attraperai la prochaine fois...." nointeract
 
 # game/events/eric.rpy:1441
 translate crowdin jerk_photohant2_52df7afd:
 
-    # Max_05 "Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться![nointeract]"
-    Max_05 "Voilà, c'est fait ! Avec ce genre de 'sale' avec un instantané, si quelque chose, il sera clair pour tout le monde... L'essentiel maintenant est de ne pas se faire prendre![nointeract]"
+    # Max_05 "Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться!" nointeract
+    Max_05 "Voilà, c'est fait ! Avec ce genre de 'sale' avec un instantané, si quelque chose, il sera clair pour tout le monde... L'essentiel maintenant est de ne pas se faire prendre!" nointeract
 
 # game/events/eric.rpy:1455
 translate crowdin jerk_photohant2_5893f935:
 
-    # Max_10 "Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
-    Max_10 "Merde, pendant que je courais, Eric était déjà parti... Pas grave, je l'attraperai la prochaine fois....[nointeract]"
+    # Max_10 "Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз..." nointeract
+    Max_10 "Merde, pendant que je courais, Eric était déjà parti... Pas grave, je l'attraperai la prochaine fois...." nointeract
 
 # game/events/eric.rpy:1469
 translate crowdin eric_shat_684d01d0:
@@ -1671,14 +1671,14 @@ translate crowdin eric_shat_684d01d0:
 # game/events/eric.rpy:1480
 translate crowdin eric_ann_resting_ad8c84cf:
 
-    # Max_07 "{m}Из комнаты мамы не доносится почти никаких звуков. Похоже, Эрику совершенно не до развлечений...{/m}[nointeract]"
-    Max_07 "{m}Il n'y a presque aucun bruit venant de la chambre de maman. Eric n'a pas l'air de s'amuser du tout..{/m}[nointeract]"
+    # Max_07 "{m}Из комнаты мамы не доносится почти никаких звуков. Похоже, Эрику совершенно не до развлечений...{/m}" nointeract
+    Max_07 "{m}Il n'y a presque aucun bruit venant de la chambre de maman. Eric n'a pas l'air de s'amuser du tout..{/m}" nointeract
 
 # game/events/eric.rpy:1485
 translate crowdin eric_ann_resting_d879c878:
 
-    # Max_01 "{m}Что, Эрик, сегодня ты не такой активный, как обычно? С тобой рядом такая женщина, а у тебя голова чем-то другим забита...{/m}[nointeract]"
-    Max_01 "{m}Quoi, Eric, tu n'es pas aussi actif que d'habitude aujourd'hui? Tu as une femme comme ça avec toi et tu as d'autres choses en tête...{/m}[nointeract]"
+    # Max_01 "{m}Что, Эрик, сегодня ты не такой активный, как обычно? С тобой рядом такая женщина, а у тебя голова чем-то другим забита...{/m}" nointeract
+    Max_01 "{m}Quoi, Eric, tu n'es pas aussi actif que d'habitude aujourd'hui? Tu as une femme comme ça avec toi et tu as d'autres choses en tête...{/m}" nointeract
 
 # game/events/eric.rpy:1504
 translate crowdin eric_sleep_9fec01f6:
@@ -1689,14 +1689,14 @@ translate crowdin eric_sleep_9fec01f6:
 # game/events/eric.rpy:1515
 translate crowdin eric_ann_try_fucking_ad8c84cf:
 
-    # Max_07 "{m}Из комнаты мамы не доносится почти никаких звуков. Похоже, Эрику совершенно не до развлечений...{/m}[nointeract]"
-    Max_07 "{m}Il n'y a presque aucun bruit venant de la chambre de maman. Eric n'a pas l'air de s'amuser du tout..{/m}[nointeract]"
+    # Max_07 "{m}Из комнаты мамы не доносится почти никаких звуков. Похоже, Эрику совершенно не до развлечений...{/m}" nointeract
+    Max_07 "{m}Il n'y a presque aucun bruit venant de la chambre de maman. Eric n'a pas l'air de s'amuser du tout..{/m}" nointeract
 
 # game/events/eric.rpy:1519
 translate crowdin eric_ann_try_fucking_e010ae0b:
 
-    # Max_02 "{m}Ну как на такую шикарную женщину может не стоять?! Я не понимаю...{/m}[nointeract]"
-    Max_02 "{m}Comment une femme aussi magnifique ne pourrait-elle pas en valoir la peine ?! Je ne comprends pas...{/m}[nointeract]"
+    # Max_02 "{m}Ну как на такую шикарную женщину может не стоять?! Я не понимаю...{/m}" nointeract
+    Max_02 "{m}Comment une femme aussi magnifique ne pourrait-elle pas en valoir la peine ?! Je ne comprends pas...{/m}" nointeract
 
 # game/events/eric.rpy:1538
 translate crowdin lisa_eric_sex_ed_practice_practice_1_3065454e:
@@ -1839,8 +1839,8 @@ translate crowdin lisa_eric_sex_ed_practice_practice_1_3849c169:
 # game/events/eric.rpy:1585
 translate crowdin lisa_eric_sex_ed_practice_practice_1_cc24ef7a:
 
-    # Lisa_09 "Ну ладно. Я сейчас попробую...[nointeract]"
-    Lisa_09 "Très bien. Je vais l'essayer maintenant....[nointeract]"
+    # Lisa_09 "Ну ладно. Я сейчас попробую..." nointeract
+    Lisa_09 "Très bien. Je vais l'essayer maintenant...." nointeract
 
 # game/events/eric.rpy:1591
 translate crowdin lisa_eric_sex_ed_practice_practice_1_b1511ce1:
@@ -1953,8 +1953,8 @@ translate crowdin eric_about_practice_war_c7db9fbd:
 # game/events/eric.rpy:1688
 translate crowdin eric_about_practice_war_b9cfdec8:
 
-    # Eric_06 "Посмотрим, как ты будешь выёживаться дальше...[nointeract]"
-    Eric_06 "Voyons comment tu vas te planter ensuite...[nointeract]"
+    # Eric_06 "Посмотрим, как ты будешь выёживаться дальше..." nointeract
+    Eric_06 "Voyons comment tu vas te planter ensuite..." nointeract
 
 # game/events/eric.rpy:1694
 translate crowdin eric_about_practice_war_6acf127b:
@@ -2013,14 +2013,14 @@ translate crowdin eric_about_practice_war_5f1874f1:
 # game/events/eric.rpy:1712
 translate crowdin eric_about_practice_war_32688ff1:
 
-    # Eric_02 "За эти деньги, я пожалуй могу мириться с твоими выкрутасами. Но смотри... Этот ценник запросто вырастет, если ты решишь портить мне настроение. И платить придётся прямо сейчас![nointeract]"
-    Eric_02 "Pour cet argent, je peux supporter tes pitreries. Mais écoutes... Ce prix va facilement augmenter si tu décides de gâcher mon humeur. Et tu dois payer maintenant ![nointeract]"
+    # Eric_02 "За эти деньги, я пожалуй могу мириться с твоими выкрутасами. Но смотри... Этот ценник запросто вырастет, если ты решишь портить мне настроение. И платить придётся прямо сейчас!" nointeract
+    Eric_02 "Pour cet argent, je peux supporter tes pitreries. Mais écoutes... Ce prix va facilement augmenter si tu décides de gâcher mon humeur. Et tu dois payer maintenant !" nointeract
 
 # game/events/eric.rpy:1715
 translate crowdin eric_about_practice_war_65dfed3f:
 
-    # Eric_05 "К Лизе я больше не полезу. По крайней мере в ближайшую неделю, за которую ты мне и заплатишь. Но и ты не станешь мешать мне в моих планах на остальных дамочек в этом доме.[nointeract]"
-    Eric_05 "Je ne m'approcherais plus de Lisa. Au moins pour la semaine prochaine, c'est pour ça que tu me paieras. Mais tu ne te mettras pas en travers de mes plans pour le reste des femmes de cette maison..[nointeract]"
+    # Eric_05 "К Лизе я больше не полезу. По крайней мере в ближайшую неделю, за которую ты мне и заплатишь. Но и ты не станешь мешать мне в моих планах на остальных дамочек в этом доме." nointeract
+    Eric_05 "Je ne m'approcherais plus de Lisa. Au moins pour la semaine prochaine, c'est pour ça que tu me paieras. Mais tu ne te mettras pas en travers de mes plans pour le reste des femmes de cette maison.." nointeract
 
 # game/events/eric.rpy:1717
 translate crowdin eric_about_practice_war_2784de49:
@@ -2031,8 +2031,8 @@ translate crowdin eric_about_practice_war_2784de49:
 # game/events/eric.rpy:1722
 translate crowdin eric_about_practice_war_76a0e74b:
 
-    # Max_09 "{m}Если он и правда не полезет к Лизе, если я буду платить каждую неделю, то это уже хорошо. Но как же мне уберечь от него всех остальных? Надеюсь, я найду способ...{/m}[nointeract]"
-    Max_09 "{m}S'il ne s'en prend vraiment pas à Lisa, si je paie chaque semaine, c'est déjà une bonne chose. Mais comment puis-je garder tout le monde à l'abri de lui? J'espère que je peux trouver un moyen...{/m}[nointeract]"
+    # Max_09 "{m}Если он и правда не полезет к Лизе, если я буду платить каждую неделю, то это уже хорошо. Но как же мне уберечь от него всех остальных? Надеюсь, я найду способ...{/m}" nointeract
+    Max_09 "{m}S'il ne s'en prend vraiment pas à Lisa, si je paie chaque semaine, c'est déjà une bonne chose. Mais comment puis-je garder tout le monde à l'abri de lui? J'espère que je peux trouver un moyen...{/m}" nointeract
 
 # game/events/eric.rpy:1727
 translate crowdin eric_about_practice_war_2ff7cd4a:
@@ -2049,8 +2049,8 @@ translate crowdin eric_about_practice_war_ce89f953:
 # game/events/eric.rpy:1730
 translate crowdin eric_about_practice_war_6795eebc:
 
-    # Eric_04 "Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
-    Eric_04 "Tant que tu paies, Max, et que tu ne me tapes pas sur les nerfs, je me fiche de Lisa. Alors ne fais pas la tête ou j'augmente le prix! Sorts. J'ai hâte de te voir dans une semaine..[nointeract]"
+    # Eric_04 "Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
+    Eric_04 "Tant que tu paies, Max, et que tu ne me tapes pas sur les nerfs, je me fiche de Lisa. Alors ne fais pas la tête ou j'augmente le prix! Sorts. J'ai hâte de te voir dans une semaine.." nointeract
 
 # game/events/eric.rpy:1736
 translate crowdin eric_about_practice_war_7fade9dd:
@@ -2067,8 +2067,8 @@ translate crowdin eric_about_practice_war_1cacd8b8:
 # game/events/eric.rpy:1739
 translate crowdin eric_about_practice_war_14f657ad:
 
-    # Eric_01 "Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
-    Eric_01 "Tu ferais mieux de courir et de gagner cet argent, ou je double le tarif! Sorts. J'ai hâte de te voir dans une semaine.[nointeract]"
+    # Eric_01 "Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
+    Eric_01 "Tu ferais mieux de courir et de gagner cet argent, ou je double le tarif! Sorts. J'ai hâte de te voir dans une semaine." nointeract
 
 # game/events/eric.rpy:1745
 translate crowdin eric_about_practice_war_7fade9dd_1:
@@ -2097,20 +2097,20 @@ translate crowdin eric_about_practice_war_1cacd8b8_1:
 # game/events/eric.rpy:1750
 translate crowdin eric_about_practice_war_14f657ad_1:
 
-    # Eric_01 "Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю.[nointeract]"
-    Eric_01 "Tu ferais mieux de courir et de gagner cet argent, ou je double le tarif! Sorts. J'ai hâte de te voir dans une semaine.[nointeract]"
+    # Eric_01 "Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
+    Eric_01 "Tu ferais mieux de courir et de gagner cet argent, ou je double le tarif! Sorts. J'ai hâte de te voir dans une semaine." nointeract
 
 # game/events/eric.rpy:1763
 translate crowdin lisa_eric_zero_practice_war_2dcab8b5:
 
-    # Max_09 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Я должен проследить, чтобы моя младшая и наивная сестрёнка не перешла все границы! Она просила не мешать, а ещё лучше помыть за неё посуду...{/m}[nointeract]"
-    Max_09 "{m}Lisa est sur le point d'avoir une leçon pratique d'éducation sexuelle. Je dois m'assurer que ma petite sœur naïve ne dépasse pas les limites! Elle m'a demandé de rester à l'écart, ou mieux, de faire la vaisselle pour elle...{/m}[nointeract]"
+    # Max_09 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Я должен проследить, чтобы моя младшая и наивная сестрёнка не перешла все границы! Она просила не мешать, а ещё лучше помыть за неё посуду...{/m}" nointeract
+    Max_09 "{m}Lisa est sur le point d'avoir une leçon pratique d'éducation sexuelle. Je dois m'assurer que ma petite sœur naïve ne dépasse pas les limites! Elle m'a demandé de rester à l'écart, ou mieux, de faire la vaisselle pour elle...{/m}" nointeract
 
 # game/events/eric.rpy:1774
 translate crowdin lisa_eric_zero_practice_war_86a0b856:
 
-    # Max_10 "{m}Нужно как можно быстрее вымыть всю посуду и бежать к своей комнате, а то Эрик может запустить свои грязные руки... А скорее всего даже не руки! Ну вот и закончил...{/m}[nointeract]"
-    Max_10 "{m}Je dois laver toute la vaisselle le plus vite possible et courir dans ma chambre, ou Eric pourrait avoir les mains sales... Et très probablement même pas que les mains! C'est parti....{/m}[nointeract]"
+    # Max_10 "{m}Нужно как можно быстрее вымыть всю посуду и бежать к своей комнате, а то Эрик может запустить свои грязные руки... А скорее всего даже не руки! Ну вот и закончил...{/m}" nointeract
+    Max_10 "{m}Je dois laver toute la vaisselle le plus vite possible et courir dans ma chambre, ou Eric pourrait avoir les mains sales... Et très probablement même pas que les mains! C'est parti....{/m}" nointeract
 
 # game/events/eric.rpy:1787
 translate crowdin lisa_eric_zero_practice_war_36c2b900:
@@ -2444,56 +2444,56 @@ translate crowdin lisa_eric_zero_practice_war_36c2b900:
 # game/events/eric.rpy:353
 translate crowdin eric_ann_tv_984887be:
 
-    # Max_08 "{m}Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику...{/m}[nointeract]"
-    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Et ma mère a dû encore sucer Erica...{/m}[nointeract]"
+    # Max_08 "{m}Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику...{/m}" nointeract
+    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Et ma mère a dû encore sucer Erica...{/m}" nointeract
 
 # game/events/eric.rpy:355
 translate crowdin eric_ann_tv_898dcfe9:
 
-    # Max_08 "{m}Ого! На экране стало интереснее! А куда это мама так наклонилась?{/m}[nointeract]"
-    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Où est-ce que maman s'est penchée comme ça?{/m}[nointeract]"
+    # Max_08 "{m}Ого! На экране стало интереснее! А куда это мама так наклонилась?{/m}" nointeract
+    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Où est-ce que maman s'est penchée comme ça?{/m}" nointeract
 
 # game/events/eric.rpy:365
 translate crowdin eric_ann_tv_7170a555:
 
-    # Max_07 "{m}На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?{/m}[nointeract]"
-    Max_07 "{m}L'écran est déjà dans tout le plaisir et maman a jeté la serviette! J'aimerais voir ce cul nu sous un angle différent... Peut-être se rapprocher?{/m}[nointeract]"
+    # Max_07 "{m}На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?{/m}" nointeract
+    Max_07 "{m}L'écran est déjà dans tout le plaisir et maman a jeté la serviette! J'aimerais voir ce cul nu sous un angle différent... Peut-être se rapprocher?{/m}" nointeract
 
 # game/events/eric.rpy:367
 translate crowdin eric_ann_tv_9ce1c0be:
 
-    # Max_07 "{m}Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?{/m}[nointeract]"
-    Max_07 "{m}wow! Eric a enlevé sa serviette de maman et je vois son cul nu! Peut-être se rapprocher?{/m}[nointeract]"
+    # Max_07 "{m}Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?{/m}" nointeract
+    Max_07 "{m}wow! Eric a enlevé sa serviette de maman et je vois son cul nu! Peut-être se rapprocher?{/m}" nointeract
 
 # game/events/eric.rpy:387
 translate crowdin eric_ann_tv_4fa4239d:
 
-    # Max_08 "{m}Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику...{/m}[nointeract]"
-    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Et maman a recommencé à branler Erica...{/m}[nointeract]"
+    # Max_08 "{m}Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику...{/m}" nointeract
+    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Et maman a recommencé à branler Erica...{/m}" nointeract
 
 # game/events/eric.rpy:389
 translate crowdin eric_ann_tv_2dfe5fa6:
 
-    # Max_08 "{m}Ого! На экране стало интереснее! А что это мама там делает?{/m}[nointeract]"
-    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Qu'est-ce que maman fait là-bas?{/m}[nointeract]"
+    # Max_08 "{m}Ого! На экране стало интереснее! А что это мама там делает?{/m}" nointeract
+    Max_08 "{m}Wow! L'écran est devenu plus intéressant! Qu'est-ce que maman fait là-bas?{/m}" nointeract
 
 # game/events/eric.rpy:399
 translate crowdin eric_ann_tv_8cace1a9:
 
-    # Max_07 "{m}На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?{/m}[nointeract]"
-    Max_07 "{m}L'écran est déjà dans tout le plaisir et maman a jeté la serviette! Dommage que ses seins ne soient pas très visibles... Peut-être se rapprocher?{/m}[nointeract]"
+    # Max_07 "{m}На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?{/m}" nointeract
+    Max_07 "{m}L'écran est déjà dans tout le plaisir et maman a jeté la serviette! Dommage que ses seins ne soient pas très visibles... Peut-être se rapprocher?{/m}" nointeract
 
 # game/events/eric.rpy:401
 translate crowdin eric_ann_tv_2a838c07:
 
-    # Max_07 "{m}Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?{/m}[nointeract]"
-    Max_07 "{m}wow! Eric a retiré sa serviette de maman et je vois ses seins nus! Peut-être se rapprocher?{/m}[nointeract]"
+    # Max_07 "{m}Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?{/m}" nointeract
+    Max_07 "{m}wow! Eric a retiré sa serviette de maman et je vois ses seins nus! Peut-être se rapprocher?{/m}" nointeract
 
 # game/events/eric.rpy:423
 translate crowdin eric_ann_tv_bfcfdbde:
 
-    # Max_10 "{m}Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут{/m}[nointeract]"
-    Max_10 "{m}Si je suis remarqué pendant que je regarde du porno sur grand écran et que je regarde ce qui se passe ici, dans la réalité, je serai puni{/m}[nointeract]"
+    # Max_10 "{m}Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут{/m}" nointeract
+    Max_10 "{m}Si je suis remarqué pendant que je regarde du porno sur grand écran et que je regarde ce qui se passe ici, dans la réalité, je serai puni{/m}" nointeract
 
 # game/events/eric.rpy:426
 translate crowdin eric_ann_tv_9f5684d4:
@@ -2504,86 +2504,86 @@ translate crowdin eric_ann_tv_9f5684d4:
 # game/events/eric.rpy:433
 translate crowdin eric_ann_tv_3a24c8c9:
 
-    # Max_10 "{m}Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить!{/m}[nointeract]"
-    Max_10 "{m}Wow! S'ils me remarquent pendant que je regarde ÇA, ils me puniront. Un besoin urgent de s'en aller!{/m}[nointeract]"
+    # Max_10 "{m}Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить!{/m}" nointeract
+    Max_10 "{m}Wow! S'ils me remarquent pendant que je regarde ÇA, ils me puniront. Un besoin urgent de s'en aller!{/m}" nointeract
 
 # game/events/eric.rpy:455
 translate crowdin eric_ann_tv_closer1_60cd4ca1:
 
-    # Max_15 "{m}Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?{/m}[nointeract]"
-    Max_15 "{m}est-ce qu'elle le branle?! Ici... Il faut arrêter tout de suite! Seulement, comment est-il préférable de le faire?{/m}[nointeract]"
+    # Max_15 "{m}Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?{/m}" nointeract
+    Max_15 "{m}est-ce qu'elle le branle?! Ici... Il faut arrêter tout de suite! Seulement, comment est-il préférable de le faire?{/m}" nointeract
 
 # game/events/eric.rpy:457
 translate crowdin eric_ann_tv_closer1_b860cd90:
 
-    # Max_16 "{m}Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?{/m}[nointeract]"
-    Max_16 "{m}est-ce qu'elle se branle complètement nue?! Ici... Il faut arrêter tout de suite! Seulement, comment est-il préférable de le faire?{/m}[nointeract]"
+    # Max_16 "{m}Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?{/m}" nointeract
+    Max_16 "{m}est-ce qu'elle se branle complètement nue?! Ici... Il faut arrêter tout de suite! Seulement, comment est-il préférable de le faire?{/m}" nointeract
 
 # game/events/eric.rpy:471
 translate crowdin eric_ann_tv_closer1_3b23a932:
 
-    # Max_11 "{m}Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}[nointeract]"
-    Max_11 "{m}Oui, elle le branle! Ici... Ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}[nointeract]"
+    # Max_11 "{m}Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}" nointeract
+    Max_11 "{m}Oui, elle le branle! Ici... Ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}" nointeract
 
 # game/events/eric.rpy:473
 translate crowdin eric_ann_tv_closer1_7e5671b4:
 
-    # Max_07 "{m}Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}[nointeract]"
-    Max_07 "{m}Oh... maman est tellement nue et mouillée... Elle a un corps si séduisant, et quel cul! Mmm... Heureusement qu'ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}[nointeract]"
+    # Max_07 "{m}Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}" nointeract
+    Max_07 "{m}Oh... maman est tellement nue et mouillée... Elle a un corps si séduisant, et quel cul! Mmm... Heureusement qu'ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}" nointeract
 
 # game/events/eric.rpy:476
 translate crowdin eric_ann_tv_closer1_f04a9a57:
 
-    # Max_11 "{m}Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}[nointeract]"
-    Max_11 "{m}Oui, elle le suce! Ici... Ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}[nointeract]"
+    # Max_11 "{m}Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}" nointeract
+    Max_11 "{m}Oui, elle le suce! Ici... Ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}" nointeract
 
 # game/events/eric.rpy:478
 translate crowdin eric_ann_tv_closer1_7e5671b4_1:
 
-    # Max_07 "{m}Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}[nointeract]"
-    Max_07 "{m}Oh... maman est tellement nue et mouillée... Elle a un corps si séduisant, et quel cul! Mmm... Heureusement qu'ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}[nointeract]"
+    # Max_07 "{m}Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...{/m}" nointeract
+    Max_07 "{m}Oh... maman est tellement nue et mouillée... Elle a un corps si séduisant, et quel cul! Mmm... Heureusement qu'ils sont tellement passionnés les uns par les autres qu'ils ne remarquent rien! Eh bien, sauf ce qui se passe à l'écran...{/m}" nointeract
 
 # game/events/eric.rpy:480
 translate crowdin eric_ann_tv_closer1_741ad417:
 
-    # Max_15 "{m}Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит!{/m}[nointeract]"
-    Max_15 "{m}est-ce qu'elle le suce?! Ici... C'est une salope, et si quelqu'un entre et voit!{/m}[nointeract]"
+    # Max_15 "{m}Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит!{/m}" nointeract
+    Max_15 "{m}est-ce qu'elle le suce?! Ici... C'est une salope, et si quelqu'un entre et voit!{/m}" nointeract
 
 # game/events/eric.rpy:535
 translate crowdin eric_ann_fucking_2d694b69:
 
-    # Max_00 "{m}Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит...{/m}[nointeract]"
-    Max_00 "{m}à En juger par les sons, maman et Eric font quelque chose. Ouvrir la porte ne vaut pas la peine, va voler...{/m}[nointeract]"
+    # Max_00 "{m}Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит...{/m}" nointeract
+    Max_00 "{m}à En juger par les sons, maman et Eric font quelque chose. Ouvrir la porte ne vaut pas la peine, va voler...{/m}" nointeract
 
 # game/events/eric.rpy:613
 translate crowdin eric_ann_fucking_voyeur_3f292d08:
 
-    # Max_10 "[undetect!t]{m}Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?!{/m}[nointeract]"
-    Max_10 "[undetect!t]{m}mon Dieu, que fait ma mère?! Est-ce qu'elle aime vraiment sucer ce crétin?!{/m}[nointeract]"
+    # Max_10 "[undetect!t]{m}Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?!{/m}" nointeract
+    Max_10 "[undetect!t]{m}mon Dieu, que fait ma mère?! Est-ce qu'elle aime vraiment sucer ce crétin?!{/m}" nointeract
 
 # game/events/eric.rpy:615
 translate crowdin eric_ann_fucking_voyeur_e30603c7:
 
-    # Max_07 "[undetect!t]{m}Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится!{/m}[nointeract]"
-    Max_07 "[undetect!t]{m}c'est Ça! Comme dans un film porno cool! Je ne pouvais même pas imaginer que ma mère stricte puisse faire ça. Et Eric n'est pas en reste... Elle semble l'aimer beaucoup!{/m}[nointeract]"
+    # Max_07 "[undetect!t]{m}Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится!{/m}" nointeract
+    Max_07 "[undetect!t]{m}c'est Ça! Comme dans un film porno cool! Je ne pouvais même pas imaginer que ma mère stricte puisse faire ça. Et Eric n'est pas en reste... Elle semble l'aimer beaucoup!{/m}" nointeract
 
 # game/events/eric.rpy:617
 translate crowdin eric_ann_fucking_voyeur_5bcaf7a6:
 
-    # Max_10 "[undetect!t]{m}Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?!{/m}[nointeract]"
-    Max_10 "[undetect!t]{m}Quoi?! Ma mère suce ce monstre? Eric, connard... la baise dans la bouche comme une putain de rue bon marché! Pourquoi le laisse-t-elle faire ça?!{/m}[nointeract]"
+    # Max_10 "[undetect!t]{m}Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?!{/m}" nointeract
+    Max_10 "[undetect!t]{m}Quoi?! Ma mère suce ce monstre? Eric, connard... la baise dans la bouche comme une putain de rue bon marché! Pourquoi le laisse-t-elle faire ça?!{/m}" nointeract
 
 # game/events/eric.rpy:619
 translate crowdin eric_ann_fucking_voyeur_4f753f1f:
 
-    # Max_08 "[undetect!t]{m}Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится!{/m}[nointeract]"
-    Max_08 "[undetect!t]{m}Eh bien, Eric baise maman par derrière, oui si activement... Elle ne semble tout simplement pas avoir la force de s'y opposer, même si elle l'aime peut-être même!{/m}[nointeract]"
+    # Max_08 "[undetect!t]{m}Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится!{/m}" nointeract
+    Max_08 "[undetect!t]{m}Eh bien, Eric baise maman par derrière, oui si activement... Elle ne semble tout simplement pas avoir la force de s'y opposer, même si elle l'aime peut-être même!{/m}" nointeract
 
 # game/events/eric.rpy:621
 translate crowdin eric_ann_fucking_voyeur_c2a3b9b0:
 
-    # Max_07 "[undetect!t]{m}Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла...{/m}[nointeract]"
-    Max_07 "[undetect!t]{m}wow! C'est une passion! Ma mère Monte Erica comme une folle! Je ne pouvais même pas imaginer qu'elle était capable de faire ça! Ils semblent tellement passionnés les uns des autres qu'ils ne remarqueront pas si je sors du coin...{/m}[nointeract]"
+    # Max_07 "[undetect!t]{m}Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла...{/m}" nointeract
+    Max_07 "[undetect!t]{m}wow! C'est une passion! Ma mère Monte Erica comme une folle! Je ne pouvais même pas imaginer qu'elle était capable de faire ça! Ils semblent tellement passionnés les uns des autres qu'ils ne remarqueront pas si je sors du coin...{/m}" nointeract
 
 # game/events/eric.rpy:651
 translate crowdin eric_ann_fucking_voyeur_e4f5fb50:
@@ -2618,104 +2618,104 @@ translate crowdin eric_ann_fucking_voyeur_46cd8c20:
 # game/events/eric.rpy:676
 translate crowdin eric_ann_sleep_6d97eb0c:
 
-    # Max_00 "{m}Кажется, все спят...{/m}[nointeract]"
-    Max_00 "{m}Tout le monde semble dormir...{/m}[nointeract]"
+    # Max_00 "{m}Кажется, все спят...{/m}" nointeract
+    Max_00 "{m}Tout le monde semble dormir...{/m}" nointeract
 
 # game/events/eric.rpy:693
 translate crowdin eric_ann_sleep_3127d6ee:
 
-    # Max_07 "{m}Ага! Мама одна... Значит, Эрик почти наверняка сейчас дрочит на Алису. Можно подождать хотя бы полчаса, чтобы он вернулся к моей маме, и затем уже спокойно его подставить...{/m}[nointeract]"
-    Max_07 "{m}Aha! Maman est seule... Donc, Eric est presque sûr de se branler sur Alice en ce moment. Vous pouvez attendre au moins une demi-heure pour qu'il revienne chez ma mère, puis le piéger calmement...{/m}[nointeract]"
+    # Max_07 "{m}Ага! Мама одна... Значит, Эрик почти наверняка сейчас дрочит на Алису. Можно подождать хотя бы полчаса, чтобы он вернулся к моей маме, и затем уже спокойно его подставить...{/m}" nointeract
+    Max_07 "{m}Aha! Maman est seule... Donc, Eric est presque sûr de se branler sur Alice en ce moment. Vous pouvez attendre au moins une demi-heure pour qu'il revienne chez ma mère, puis le piéger calmement...{/m}" nointeract
 
 # game/events/eric.rpy:703
 translate crowdin eric_ann_sleep_51c79016:
 
-    # Max_07 "{m}Ага! Мама одна... Значит, Эрик почти наверняка сейчас дрочит на Алису. С помощью камер я смогу проследить, когда он пойдёт спать и затем уже можно будет спокойно его подставить...{/m}[nointeract]"
-    Max_07 "{m}Aha! Maman est seule... Donc, Eric est presque sûr de se branler sur Alice en ce moment. Avec les caméras, je peux voir quand il va se coucher, et ensuite je peux le piéger en toute sécurité...{/m}[nointeract]"
+    # Max_07 "{m}Ага! Мама одна... Значит, Эрик почти наверняка сейчас дрочит на Алису. С помощью камер я смогу проследить, когда он пойдёт спать и затем уже можно будет спокойно его подставить...{/m}" nointeract
+    Max_07 "{m}Aha! Maman est seule... Donc, Eric est presque sûr de se branler sur Alice en ce moment. Avec les caméras, je peux voir quand il va se coucher, et ensuite je peux le piéger en toute sécurité...{/m}" nointeract
 
 # game/events/eric.rpy:707
 translate crowdin eric_ann_sleep_adf5bbdf:
 
-    # Max_09 "{m}О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?!{/m}[nointeract]"
-    Max_09 "{m}Sur! Maman dort toute seule... Comme elle est belle, surtout nue... Où est Eric? Alice n'est-Elle pas dans la chambre?!{/m}[nointeract]"
+    # Max_09 "{m}О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?!{/m}" nointeract
+    Max_09 "{m}Sur! Maman dort toute seule... Comme elle est belle, surtout nue... Où est Eric? Alice n'est-Elle pas dans la chambre?!{/m}" nointeract
 
 # game/events/eric.rpy:728
 translate crowdin eric_ann_sleep_980b6a59:
 
-    # Max_01 "{m}Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?{/m}[nointeract]"
-    Max_01 "{m}On dirait qu'ils dorment bien... Complètement nus! Merde, c'est dommage que maman soit derrière Eric et qu'on ne la voie presque pas... Pourquoi est-il si sain?{/m}[nointeract]"
+    # Max_01 "{m}Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?{/m}" nointeract
+    Max_01 "{m}On dirait qu'ils dorment bien... Complètement nus! Merde, c'est dommage que maman soit derrière Eric et qu'on ne la voie presque pas... Pourquoi est-il si sain?{/m}" nointeract
 
 # game/events/eric.rpy:730
 translate crowdin eric_ann_sleep_9f0558e6:
 
-    # Max_07 "{m}О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла!{/m}[nointeract]"
-    Max_07 "{m}oh, oui! Cette nuit, ma mère est apparue dans toute sa splendeur... Complètement nue... si séduisante. Seulement ici, le singe est suspendu!{/m}[nointeract]"
+    # Max_07 "{m}О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла!{/m}" nointeract
+    Max_07 "{m}oh, oui! Cette nuit, ma mère est apparue dans toute sa splendeur... Complètement nue... si séduisante. Seulement ici, le singe est suspendu!{/m}" nointeract
 
 # game/events/eric.rpy:732
 translate crowdin eric_ann_sleep_5da2c2be:
 
-    # Max_04 "{m}Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала...{/m}[nointeract]"
-    Max_04 "{m}Classe! Ma mère a le meilleur cul du monde... et nue, elle est folle! Cette montagne de muscles ne serait pas près d'elle...{/m}[nointeract]"
+    # Max_04 "{m}Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала...{/m}" nointeract
+    Max_04 "{m}Classe! Ma mère a le meilleur cul du monde... et nue, elle est folle! Cette montagne de muscles ne serait pas près d'elle...{/m}" nointeract
 
 # game/events/eric.rpy:741
 translate crowdin eric_ann_sleep_784afa47:
 
-    # Max_03 "{m}Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить.{/m}[nointeract]"
-    Max_03 "{m}ils dorment vraiment bien... Peut - être que le plus intéressant n'est pas visible, mais maman, si élégante, féminine, lui a jeté sa jambe... C'est une bonne chose que cette chaleur et la maison n'a pas de climatiseurs... Ainsi, il était temps de partir.{/m}[nointeract]"
+    # Max_03 "{m}Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить.{/m}" nointeract
+    Max_03 "{m}ils dorment vraiment bien... Peut - être que le plus intéressant n'est pas visible, mais maman, si élégante, féminine, lui a jeté sa jambe... C'est une bonne chose que cette chaleur et la maison n'a pas de climatiseurs... Ainsi, il était temps de partir.{/m}" nointeract
 
 # game/events/eric.rpy:743
 translate crowdin eric_ann_sleep_2bbb8611:
 
-    # Max_02 "{m}Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся.{/m}[nointeract]"
-    Max_02 "{m}vous pouvez juste devenir fou! Elle est à un mètre de moi... complètement nue... et je vois sa chatte... cette jolie! Et ce salaud, Eric, l'a tapé comme ça... Tu devrais le frapper, connard... J'aurais dû partir, sinon ils se réveilleront.{/m}[nointeract]"
+    # Max_02 "{m}Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся.{/m}" nointeract
+    Max_02 "{m}vous pouvez juste devenir fou! Elle est à un mètre de moi... complètement nue... et je vois sa chatte... cette jolie! Et ce salaud, Eric, l'a tapé comme ça... Tu devrais le frapper, connard... J'aurais dû partir, sinon ils se réveilleront.{/m}" nointeract
 
 # game/events/eric.rpy:745
 translate crowdin eric_ann_sleep_b74cc146:
 
-    # Max_05 "{m}Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись...{/m}[nointeract]"
-    Max_05 "{m}Maman est si belle... et son cul rond est un miracle! Tellement fascinant! J'aurais aimé la toucher... Oh, rêves... Si seulement ils ne se réveillaient pas maintenant...{/m}[nointeract]"
+    # Max_05 "{m}Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись...{/m}" nointeract
+    Max_05 "{m}Maman est si belle... et son cul rond est un miracle! Tellement fascinant! J'aurais aimé la toucher... Oh, rêves... Si seulement ils ne se réveillaient pas maintenant...{/m}" nointeract
 
 # game/events/eric.rpy:756
 translate crowdin eric_ann_sleep_not_eric_b63d8481:
 
-    # Max_01 "{m}Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!{/m}[nointeract]"
-    Max_01 "{m}Classe! Maman dort nue... Je ne peux même pas croire que ce bonbon a trois enfants... Dans la vie, je n'aurais pas cru ça!{/m}[nointeract]"
+    # Max_01 "{m}Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!{/m}" nointeract
+    Max_01 "{m}Classe! Maman dort nue... Je ne peux même pas croire que ce bonbon a trois enfants... Dans la vie, je n'aurais pas cru ça!{/m}" nointeract
 
 # game/events/eric.rpy:758
 translate crowdin eric_ann_sleep_not_eric_8dd67095:
 
-    # Max_07 "{m}О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер!{/m}[nointeract]"
-    Max_07 "{m}oh, oui! Quel cul nu de maman! C'est quand même une bonne chose qu'il fasse si chaud ici et que tout le monde dorme sans se cacher... Juste super!{/m}[nointeract]"
+    # Max_07 "{m}О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер!{/m}" nointeract
+    Max_07 "{m}oh, oui! Quel cul nu de maman! C'est quand même une bonne chose qu'il fasse si chaud ici et que tout le monde dorme sans se cacher... Juste super!{/m}" nointeract
 
 # game/events/eric.rpy:760
 translate crowdin eric_ann_sleep_not_eric_ab61de8e:
 
-    # Max_04 "{m}Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется!{/m}[nointeract]"
-    Max_04 "{m}Génial! Quelle chance d'avoir une maman si chaude... Nue, elle a l'air incroyable, je ne veux pas arracher les yeux!{/m}[nointeract]"
+    # Max_04 "{m}Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется!{/m}" nointeract
+    Max_04 "{m}Génial! Quelle chance d'avoir une maman si chaude... Nue, elle a l'air incroyable, je ne veux pas arracher les yeux!{/m}" nointeract
 
 # game/events/eric.rpy:774
 translate crowdin eric_ann_sleep_not_eric_closer_b7823d18:
 
-    # Max_03 "{m}Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась.{/m}[nointeract]"
-    Max_03 "{m}merde, J'ai la maman la plus appétissante du monde! J'adorerais lui parler... Mais il vaut mieux partir lentement avant qu'elle ne se réveille.{/m}[nointeract]"
+    # Max_03 "{m}Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась.{/m}" nointeract
+    Max_03 "{m}merde, J'ai la maman la plus appétissante du monde! J'adorerais lui parler... Mais il vaut mieux partir lentement avant qu'elle ne se réveille.{/m}" nointeract
 
 # game/events/eric.rpy:776
 translate crowdin eric_ann_sleep_not_eric_closer_e7f8bb49:
 
-    # Max_02 "{m}Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться.{/m}[nointeract]"
-    Max_02 "{m}uhh! Et je veux me blottir contre ce beau cul nu et être méchant toute la nuit... Mais il est temps de partir, sinon elle pourrait se réveiller.{/m}[nointeract]"
+    # Max_02 "{m}Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться.{/m}" nointeract
+    Max_02 "{m}uhh! Et je veux me blottir contre ce beau cul nu et être méchant toute la nuit... Mais il est temps de partir, sinon elle pourrait se réveiller.{/m}" nointeract
 
 # game/events/eric.rpy:778
 translate crowdin eric_ann_sleep_not_eric_closer_2e9d5e9f:
 
-    # Max_05 "{m}Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась...{/m}[nointeract]"
-    Max_05 "{m}C'est ça! La vue de ces jambes écartées donne l'impression qu'elle est ma mère... Trop séduisante dans sa chatte! Si seulement elle se réveillait...{/m}[nointeract]"
+    # Max_05 "{m}Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась...{/m}" nointeract
+    Max_05 "{m}C'est ça! La vue de ces jambes écartées donne l'impression qu'elle est ma mère... Trop séduisante dans sa chatte! Si seulement elle se réveillait...{/m}" nointeract
 
 # game/events/eric.rpy:796
 translate crowdin eric_ann_shower_1aa7afa0:
 
-    # Max_00 "{m}Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?{/m}[nointeract]"
-    Max_00 "{m}on Dirait que maman et Eric prennent une douche... Ou que peuvent-ils faire d'autre?{/m}[nointeract]"
+    # Max_00 "{m}Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?{/m}" nointeract
+    Max_00 "{m}on Dirait que maman et Eric prennent une douche... Ou que peuvent-ils faire d'autre?{/m}" nointeract
 
 # game/events/eric.rpy:810
 translate crowdin eric_ann_shower_ladder_76e8b72b:
@@ -2804,104 +2804,104 @@ translate crowdin eric_ann_shower_start_peeping_fc5db481:
 # game/events/eric.rpy:886
 translate crowdin eric_ann_shower_start_peeping_dda24c4d:
 
-    # Max_01 "{m}Хорошо, что это не распространяется на Киру...{/m}[nointeract]"
-    Max_01 "{m}Eh bien, cela ne s'applique pas à Kira...{/m}[nointeract]"
+    # Max_01 "{m}Хорошо, что это не распространяется на Киру...{/m}" nointeract
+    Max_01 "{m}Eh bien, cela ne s'applique pas à Kira...{/m}" nointeract
 
 # game/events/eric.rpy:893
 translate crowdin eric_ann_shower_start_peeping_bacc73be:
 
-    # Max_07 "{m}Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим...{/m}[nointeract]"
-    Max_07 "{m}C'est ça... On dirait qu'il y a plus qu'une douche! J'ai peur d'imaginer ce qui se passerait si je me faisais prendre pendant que je surveillais... pour ça...{/m}[nointeract]"
+    # Max_07 "{m}Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим...{/m}" nointeract
+    Max_07 "{m}C'est ça... On dirait qu'il y a plus qu'une douche! J'ai peur d'imaginer ce qui se passerait si je me faisais prendre pendant que je surveillais... pour ça...{/m}" nointeract
 
 # game/events/eric.rpy:918
 translate crowdin eric_ann_shower_alt_peepeng_a9df0b41:
 
-    # Max_10 "[undetect!t]{m}Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется...{/m}[nointeract]"
-    Max_10 "[undetect!t]{m}Ma mère le suce à nouveau... Eric! Oui avec une telle passion! Est-ce qu'elle aime vraiment faire ça ou est-ce qu'elle l'aime tellement? Bien que je ne veuille même pas penser à la seconde...{/m}[nointeract]"
+    # Max_10 "[undetect!t]{m}Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется...{/m}" nointeract
+    Max_10 "[undetect!t]{m}Ma mère le suce à nouveau... Eric! Oui avec une telle passion! Est-ce qu'elle aime vraiment faire ça ou est-ce qu'elle l'aime tellement? Bien que je ne veuille même pas penser à la seconde...{/m}" nointeract
 
 # game/events/eric.rpy:920
 translate crowdin eric_ann_shower_alt_peepeng_4bbef346:
 
-    # Max_09 "[undetect!t]{m}Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?!{/m}[nointeract]"
-    Max_09 "[undetect!t]{m}oui, Eric s'est bien installé... Maman lui suce avec un tel plaisir, déjà ne peut pas se détacher! Est-ce qu'elle aime vraiment sucer cette bite?!{/m}[nointeract]"
+    # Max_09 "[undetect!t]{m}Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?!{/m}" nointeract
+    Max_09 "[undetect!t]{m}oui, Eric s'est bien installé... Maman lui suce avec un tel plaisir, déjà ne peut pas se détacher! Est-ce qu'elle aime vraiment sucer cette bite?!{/m}" nointeract
 
 # game/events/eric.rpy:922
 translate crowdin eric_ann_shower_alt_peepeng_c8bfd09c:
 
-    # Max_04 "[undetect!t]{m}Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...{/m}[nointeract]"
-    Max_04 "[undetect!t]{m}Ohh... Eric a eu de la chance... Après tout, ma mère a des mains si douces et affectueuses! Déjà seulement d'une vue de son corps complètement nu et humide, vous pouvez jouir...{/m}[nointeract]"
+    # Max_04 "[undetect!t]{m}Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...{/m}" nointeract
+    Max_04 "[undetect!t]{m}Ohh... Eric a eu de la chance... Après tout, ma mère a des mains si douces et affectueuses! Déjà seulement d'une vue de son corps complètement nu et humide, vous pouvez jouir...{/m}" nointeract
 
 # game/events/eric.rpy:924
 translate crowdin eric_ann_shower_alt_peepeng_62ae8e11:
 
-    # Max_06 "[undetect!t]{m}Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!{/m}[nointeract]"
-    Max_06 "[undetect!t]{m}Putain! C'est une passion! Ils semblent tellement passionnés les uns par les autres qu'ils ne se soucient pas si quelqu'un les voit ou non... Et on dirait que maman aime ça!{/m}[nointeract]"
+    # Max_06 "[undetect!t]{m}Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!{/m}" nointeract
+    Max_06 "[undetect!t]{m}Putain! C'est une passion! Ils semblent tellement passionnés les uns par les autres qu'ils ne se soucient pas si quelqu'un les voit ou non... Et on dirait que maman aime ça!{/m}" nointeract
 
 # game/events/eric.rpy:926
 translate crowdin eric_ann_shower_alt_peepeng_cd84b893:
 
-    # Max_05 "[undetect!t]{m}Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!{/m}[nointeract]"
-    Max_05 "[undetect!t]{m}Wow! Eric baise maman par derrière, oui si activement... Et... il semble qu'elle l'aime beaucoup, elle se déplace même à sa rencontre... et il est épuisé par la passion!{/m}[nointeract]"
+    # Max_05 "[undetect!t]{m}Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!{/m}" nointeract
+    Max_05 "[undetect!t]{m}Wow! Eric baise maman par derrière, oui si activement... Et... il semble qu'elle l'aime beaucoup, elle se déplace même à sa rencontre... et il est épuisé par la passion!{/m}" nointeract
 
 # game/events/eric.rpy:938
 translate crowdin eric_ann_shower_alt_peepeng_745d1ff0:
 
-    # Max_09 "{m}Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?!{/m}[nointeract]"
-    Max_09 "{m}Voici les caractéristiques de la! Eric éjacule maman directement sur son visage comme dans du porno! Et, elle l'aime tellement qu'elle sourit et attrape son sperme avec sa bouche! Est-elle si débile?!{/m}[nointeract]"
+    # Max_09 "{m}Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?!{/m}" nointeract
+    Max_09 "{m}Voici les caractéristiques de la! Eric éjacule maman directement sur son visage comme dans du porno! Et, elle l'aime tellement qu'elle sourit et attrape son sperme avec sa bouche! Est-elle si débile?!{/m}" nointeract
 
 # game/events/eric.rpy:940
 translate crowdin eric_ann_shower_alt_peepeng_7fb09690:
 
-    # Max_01 "{m}Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!{/m}[nointeract]"
-    Max_01 "{m}eh Bien, oui! Qui aurait douté qu'Eric ne durerait pas trop longtemps. Maman sait ce que c'est! D'accord, on doit partir avant qu'ils ne me remarquent!{/m}[nointeract]"
+    # Max_01 "{m}Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!{/m}" nointeract
+    Max_01 "{m}eh Bien, oui! Qui aurait douté qu'Eric ne durerait pas trop longtemps. Maman sait ce que c'est! D'accord, on doit partir avant qu'ils ne me remarquent!{/m}" nointeract
 
 # game/events/eric.rpy:942
 translate crowdin eric_ann_shower_alt_peepeng_75e47802:
 
-    # Max_07 "{m}Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...{/m}[nointeract]"
-    Max_07 "{m}Oh, merde... Eric a fini... C'est bien de ne pas aller chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir...{/m}[nointeract]"
+    # Max_07 "{m}Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...{/m}" nointeract
+    Max_07 "{m}Oh, merde... Eric a fini... C'est bien de ne pas aller chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir...{/m}" nointeract
 
 # game/events/eric.rpy:944
 translate crowdin eric_ann_shower_alt_peepeng_2f53b8ff:
 
-    # Max_08 "{m}Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...{/m}[nointeract]"
-    Max_08 "{m}bon sang... il a fini... Joyeux enfoiré... éclaboussé maman tout le dos avec son cul avec son sperme! Le besoin de s'éloigner, mais ils sont sur le point de m'en apercevoir...{/m}[nointeract]"
+    # Max_08 "{m}Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...{/m}" nointeract
+    Max_08 "{m}bon sang... il a fini... Joyeux enfoiré... éclaboussé maman tout le dos avec son cul avec son sperme! Le besoin de s'éloigner, mais ils sont sur le point de m'en apercevoir...{/m}" nointeract
 
 # game/events/eric.rpy:968
 translate crowdin eric_ann_shower_closer_peepeng_c8bfd09c:
 
-    # Max_04 "[undetect!t]{m}Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...{/m}[nointeract]"
-    Max_04 "[undetect!t]{m}Ohh... Eric a eu de la chance... Après tout, ma mère a des mains si douces et affectueuses! Déjà seulement d'une vue de son corps complètement nu et humide, vous pouvez jouir...{/m}[nointeract]"
+    # Max_04 "[undetect!t]{m}Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...{/m}" nointeract
+    Max_04 "[undetect!t]{m}Ohh... Eric a eu de la chance... Après tout, ma mère a des mains si douces et affectueuses! Déjà seulement d'une vue de son corps complètement nu et humide, vous pouvez jouir...{/m}" nointeract
 
 # game/events/eric.rpy:970
 translate crowdin eric_ann_shower_closer_peepeng_62ae8e11:
 
-    # Max_06 "[undetect!t]{m}Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!{/m}[nointeract]"
-    Max_06 "[undetect!t]{m}Putain! C'est une passion! Ils semblent tellement passionnés les uns par les autres qu'ils ne se soucient pas si quelqu'un les voit ou non... Et on dirait que maman aime ça!{/m}[nointeract]"
+    # Max_06 "[undetect!t]{m}Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!{/m}" nointeract
+    Max_06 "[undetect!t]{m}Putain! C'est une passion! Ils semblent tellement passionnés les uns par les autres qu'ils ne se soucient pas si quelqu'un les voit ou non... Et on dirait que maman aime ça!{/m}" nointeract
 
 # game/events/eric.rpy:972
 translate crowdin eric_ann_shower_closer_peepeng_cd84b893:
 
-    # Max_05 "[undetect!t]{m}Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!{/m}[nointeract]"
-    Max_05 "[undetect!t]{m}Wow! Eric baise maman par derrière, oui si activement... Et... il semble qu'elle l'aime beaucoup, elle se déplace même à sa rencontre... et il est épuisé par la passion!{/m}[nointeract]"
+    # Max_05 "[undetect!t]{m}Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!{/m}" nointeract
+    Max_05 "[undetect!t]{m}Wow! Eric baise maman par derrière, oui si activement... Et... il semble qu'elle l'aime beaucoup, elle se déplace même à sa rencontre... et il est épuisé par la passion!{/m}" nointeract
 
 # game/events/eric.rpy:984
 translate crowdin eric_ann_shower_closer_peepeng_7fb09690:
 
-    # Max_01 "{m}Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!{/m}[nointeract]"
-    Max_01 "{m}eh Bien, oui! Qui aurait douté qu'Eric ne durerait pas trop longtemps. Maman sait ce que c'est! D'accord, on doit partir avant qu'ils ne me remarquent!{/m}[nointeract]"
+    # Max_01 "{m}Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!{/m}" nointeract
+    Max_01 "{m}eh Bien, oui! Qui aurait douté qu'Eric ne durerait pas trop longtemps. Maman sait ce que c'est! D'accord, on doit partir avant qu'ils ne me remarquent!{/m}" nointeract
 
 # game/events/eric.rpy:986
 translate crowdin eric_ann_shower_closer_peepeng_75e47802:
 
-    # Max_07 "{m}Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...{/m}[nointeract]"
-    Max_07 "{m}Oh, merde... Eric a fini... C'est bien de ne pas aller chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir...{/m}[nointeract]"
+    # Max_07 "{m}Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...{/m}" nointeract
+    Max_07 "{m}Oh, merde... Eric a fini... C'est bien de ne pas aller chez maman... Fils de pute chanceux... Et elle sourit encore?! Il est temps que je parte, sinon ils vont me voir...{/m}" nointeract
 
 # game/events/eric.rpy:988
 translate crowdin eric_ann_shower_closer_peepeng_2f53b8ff:
 
-    # Max_08 "{m}Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...{/m}[nointeract]"
-    Max_08 "{m}bon sang... il a fini... Joyeux enfoiré... éclaboussé maman tout le dos avec son cul avec son sperme! Le besoin de s'éloigner, mais ils sont sur le point de m'en apercevoir...{/m}[nointeract]"
+    # Max_08 "{m}Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...{/m}" nointeract
+    Max_08 "{m}bon sang... il a fini... Joyeux enfoiré... éclaboussé maman tout le dos avec son cul avec son sperme! Le besoin de s'éloigner, mais ils sont sur le point de m'en apercevoir...{/m}" nointeract
 
 # game/events/eric.rpy:1332
 translate crowdin first_jerk_balkon_6094a2c7:
@@ -2912,14 +2912,14 @@ translate crowdin first_jerk_balkon_6094a2c7:
 # game/events/eric.rpy:1334
 translate crowdin first_jerk_balkon_c14fd12f:
 
-    # Max_03 "{m}Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...{/m}[nointeract]"
-    Max_03 "{m}peut-être que je devrais prendre une photo de lui tranquillement la prochaine fois?! Ok, juste au cas où...{/m}[nointeract]"
+    # Max_03 "{m}Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...{/m}" nointeract
+    Max_03 "{m}peut-être que je devrais prendre une photo de lui tranquillement la prochaine fois?! Ok, juste au cas où...{/m}" nointeract
 
 # game/events/eric.rpy:1348
 translate crowdin first_jerk_yard_24645ec4:
 
-    # Max_07 "{m}Опа, Эрик! Что это он делает среди ночи у окна Алисы?!{/m}[nointeract]"
-    Max_07 "{m}Whoua, Eric! Qu'est-ce qu'il fait au milieu de la nuit à la fenêtre d'Alice?!{/m}[nointeract]"
+    # Max_07 "{m}Опа, Эрик! Что это он делает среди ночи у окна Алисы?!{/m}" nointeract
+    Max_07 "{m}Whoua, Eric! Qu'est-ce qu'il fait au milieu de la nuit à la fenêtre d'Alice?!{/m}" nointeract
 
 # game/events/eric.rpy:1353
 translate crowdin first_jerk_yard_351c6970:
@@ -2930,50 +2930,50 @@ translate crowdin first_jerk_yard_351c6970:
 # game/events/eric.rpy:1355
 translate crowdin first_jerk_yard_c14fd12f:
 
-    # Max_03 "{m}Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...{/m}[nointeract]"
-    Max_03 "{m}peut-être que je devrais prendre une photo de lui tranquillement la prochaine fois?! Ok, juste au cas où...{/m}[nointeract]"
+    # Max_03 "{m}Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...{/m}" nointeract
+    Max_03 "{m}peut-être que je devrais prendre une photo de lui tranquillement la prochaine fois?! Ok, juste au cas où...{/m}" nointeract
 
 # game/events/eric.rpy:1377
 translate crowdin jerk_balkon_069d2e5a:
 
-    # Max_13 "{m}Вот чёрт! Я совсем забыл, что Эрик заходит в комнату к Алисе только тогда, когда она голая... Чтобы подставить Эрика, Алиса должна быть голой, иначе будет несостыковка со снимками и мне никто не поверит!{/m}[nointeract]"
-    Max_13 "{m}Voici les caractéristiques de la! J'ai oublié qu'Eric n'entre dans la chambre d'Alice que lorsqu'elle est nue... Pour piéger Eric, Alice doit être nue, sinon il y aura une incohérence avec les photos et personne ne me croira!{/m}[nointeract]"
+    # Max_13 "{m}Вот чёрт! Я совсем забыл, что Эрик заходит в комнату к Алисе только тогда, когда она голая... Чтобы подставить Эрика, Алиса должна быть голой, иначе будет несостыковка со снимками и мне никто не поверит!{/m}" nointeract
+    Max_13 "{m}Voici les caractéristiques de la! J'ai oublié qu'Eric n'entre dans la chambre d'Alice que lorsqu'elle est nue... Pour piéger Eric, Alice doit être nue, sinon il y aura une incohérence avec les photos et personne ne me croira!{/m}" nointeract
 
 # game/events/eric.rpy:1379
 translate crowdin jerk_balkon_7882c2f1:
 
-    # Max_07 "{m}Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!{/m}[nointeract]"
-    Max_07 "{m}Eric se branle sur Alice! Et ne sois pas trop paresseux pour se lever au milieu de la nuit pour cela?!{/m}[nointeract]"
+    # Max_07 "{m}Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!{/m}" nointeract
+    Max_07 "{m}Eric se branle sur Alice! Et ne sois pas trop paresseux pour se lever au milieu de la nuit pour cela?!{/m}" nointeract
 
 # game/events/eric.rpy:1395
 translate crowdin jerk_balkon_d6c245f1:
 
-    # Max_07 "{m}Отлично! Эрик именно там, где мне и нужно... Можно подождать хотя бы полчаса, чтобы он вернулся к моей маме, и затем уже спокойно его подставить...{/m}[nointeract]"
-    Max_07 "{m}Bien! Eric est exactement là où j'ai besoin... Vous pouvez attendre au moins une demi-heure pour qu'il revienne chez ma mère, puis le piéger calmement...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Эрик именно там, где мне и нужно... Можно подождать хотя бы полчаса, чтобы он вернулся к моей маме, и затем уже спокойно его подставить...{/m}" nointeract
+    Max_07 "{m}Bien! Eric est exactement là où j'ai besoin... Vous pouvez attendre au moins une demi-heure pour qu'il revienne chez ma mère, puis le piéger calmement...{/m}" nointeract
 
 # game/events/eric.rpy:1402
 translate crowdin jerk_balkon_64a35bbd:
 
-    # Max_07 "{m}Отлично! Эрик именно там, где мне и нужно... С помощью камер я смогу проследить, когда он пойдёт спать и затем уже можно будет спокойно его подставить...{/m}[nointeract]"
-    Max_07 "{m}Bien! Eric est exactement là où j'ai besoin... Avec les caméras, je peux voir quand il va se coucher, et ensuite je peux le piéger en toute sécurité...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Эрик именно там, где мне и нужно... С помощью камер я смогу проследить, когда он пойдёт спать и затем уже можно будет спокойно его подставить...{/m}" nointeract
+    Max_07 "{m}Bien! Eric est exactement là où j'ai besoin... Avec les caméras, je peux voir quand il va se coucher, et ensuite je peux le piéger en toute sécurité...{/m}" nointeract
 
 # game/events/eric.rpy:1406
 translate crowdin jerk_balkon_3b98a2ff:
 
-    # Max_03 "{m}Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное!{/m}[nointeract]"
-    Max_03 "{m}ouais, Eric est là! Il n'a pas résisté À Alice nue et se branle au milieu de sa chambre... Quel sale animal!{/m}[nointeract]"
+    # Max_03 "{m}Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное!{/m}" nointeract
+    Max_03 "{m}ouais, Eric est là! Il n'a pas résisté À Alice nue et se branle au milieu de sa chambre... Quel sale animal!{/m}" nointeract
 
 # game/events/eric.rpy:1423
 translate crowdin jerk_yard_7882c2f1:
 
-    # Max_07 "{m}Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!{/m}[nointeract]"
-    Max_07 "{m}Eric se branle sur Alice! Et ne sois pas trop paresseux pour se lever au milieu de la nuit pour cela?!{/m}[nointeract]"
+    # Max_07 "{m}Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!{/m}" nointeract
+    Max_07 "{m}Eric se branle sur Alice! Et ne sois pas trop paresseux pour se lever au milieu de la nuit pour cela?!{/m}" nointeract
 
 # game/events/eric.rpy:1439
 translate crowdin jerk_photohant1_7865ceac:
 
-    # Max_09 "{m}Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай!{/m}[nointeract]"
-    Max_09 "{m}!le Voilà! Encore doigté... Oui jesko! Voir, шышку ne pas exploser... Bien que non, mieux vaut laver!{/m}[nointeract]"
+    # Max_09 "{m}Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай!{/m}" nointeract
+    Max_09 "{m}!le Voilà! Encore doigté... Oui jesko! Voir, шышку ne pas exploser... Bien que non, mieux vaut laver!{/m}" nointeract
 
 # game/events/eric.rpy:1445
 translate crowdin jerk_photohant1_2f5f5cbd:
@@ -2984,26 +2984,26 @@ translate crowdin jerk_photohant1_2f5f5cbd:
 # game/events/eric.rpy:1448
 translate crowdin jerk_photohant1_f18969bd:
 
-    # Max_09 "{m}А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как...{/m}[nointeract]"
-    Max_09 "{m}et si tu essayais d'amener Eric dans la chambre d'Alice?! Ensuite, j'aurais eu la chance de prendre une photo plus précise, où vous pouvez voir qui se branle Eric. Seulement c'est comme ça...{/m}[nointeract]"
+    # Max_09 "{m}А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как...{/m}" nointeract
+    Max_09 "{m}et si tu essayais d'amener Eric dans la chambre d'Alice?! Ensuite, j'aurais eu la chance de prendre une photo plus précise, où vous pouvez voir qui se branle Eric. Seulement c'est comme ça...{/m}" nointeract
 
 # game/events/eric.rpy:1463
 translate crowdin jerk_photohant1_7df01892:
 
-    # Max_10 "{m}Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...{/m}[nointeract]"
-    Max_10 "{m}Merde, pendant que je courais, Eric était déjà parti... Je vais l'attraper la prochaine fois...{/m}[nointeract]"
+    # Max_10 "{m}Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...{/m}" nointeract
+    Max_10 "{m}Merde, pendant que je courais, Eric était déjà parti... Je vais l'attraper la prochaine fois...{/m}" nointeract
 
 # game/events/eric.rpy:1483
 translate crowdin jerk_photohant2_8c6a080b:
 
-    # Max_05 "{m}Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться!{/m}[nointeract]"
-    Max_05 "{m}vous voilà! Avec une telle image \"sale\", dans ce cas, tout sera clair pour tout le monde... L'essentiel est maintenant de ne pas se faire attraper!{/m}[nointeract]"
+    # Max_05 "{m}Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться!{/m}" nointeract
+    Max_05 "{m}vous voilà! Avec une telle image \"sale\", dans ce cas, tout sera clair pour tout le monde... L'essentiel est maintenant de ne pas se faire attraper!{/m}" nointeract
 
 # game/events/eric.rpy:1497
 translate crowdin jerk_photohant2_7df01892:
 
-    # Max_10 "{m}Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...{/m}[nointeract]"
-    Max_10 "{m}Merde, pendant que je courais, Eric était déjà parti... Je vais l'attraper la prochaine fois...{/m}[nointeract]"
+    # Max_10 "{m}Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...{/m}" nointeract
+    Max_10 "{m}Merde, pendant que je courais, Eric était déjà parti... Je vais l'attraper la prochaine fois...{/m}" nointeract
 
 # game/events/eric.rpy:1846
 translate crowdin start_eric_wallet_c1ca5e1e:
@@ -3170,8 +3170,8 @@ translate crowdin start_eric_wallet_21b8e72f:
 # game/events/eric.rpy:1938
 translate crowdin eric_kira_night_swim_a236de17:
 
-    # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать.[nointeract]"
-    Eric_13 "pourquoi tu te faufiles, Max?! Nuit dans la cour. Arrête de te branler et dors. Ne nous empêche pas de nous reposer.[nointeract]"
+    # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать." nointeract
+    Eric_13 "pourquoi tu te faufiles, Max?! Nuit dans la cour. Arrête de te branler et dors. Ne nous empêche pas de nous reposer." nointeract
 
     old "{i}затаиться на полчаса{/i}"
     new "{i}se cacher pendant une demi-heure {/i}"

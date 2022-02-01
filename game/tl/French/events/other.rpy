@@ -15,8 +15,8 @@
 # game/events/other.rpy:11
 translate crowdin shoping_034007bc:
 
-    # Ann_05 "Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
-    Ann_05 "Max! Nous sommes allés faire du shopping. Ne te manque pas ici sans nous, d'accord? On revient dans 3 heures...[nointeract]"
+    # Ann_05 "Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3..." nointeract
+    Ann_05 "Max! Nous sommes allés faire du shopping. Ne te manque pas ici sans nous, d'accord? On revient dans 3 heures..." nointeract
 
 # game/events/other.rpy:34
 translate crowdin back_shoping_bd2b389d:
@@ -57,8 +57,8 @@ translate crowdin back_shoping_838f5698:
 # game/events/other.rpy:41
 translate crowdin back_shoping_ff699a77:
 
-    # Ann_01 "Алиса, мы это уже обсуждали. Я против платьев, где у тебя всё видно. То, что оно длинное, не значит, что твою задницу не видно через разрез до ушей...[nointeract]"
-    Ann_01 "Alice, on en a déjà parlé. Je suis contre les robes où l'on peut tout voir. Ce n'est pas parce que c'est long que l'on ne voit pas son cul à travers la fente jusqu'aux oreilles....[nointeract]"
+    # Ann_01 "Алиса, мы это уже обсуждали. Я против платьев, где у тебя всё видно. То, что оно длинное, не значит, что твою задницу не видно через разрез до ушей..." nointeract
+    Ann_01 "Alice, on en a déjà parlé. Je suis contre les robes où l'on peut tout voir. Ce n'est pas parce que c'est long que l'on ne voit pas son cul à travers la fente jusqu'aux oreilles...." nointeract
 
 # game/events/other.rpy:46
 translate crowdin back_shoping_ec104f51:
@@ -75,8 +75,8 @@ translate crowdin back_shoping_e23a2e06:
 # game/events/other.rpy:49
 translate crowdin back_shoping_dbb7dd3e:
 
-    # Lisa_09 "Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые...[nointeract]"
-    Lisa_09 "Non. Maman a dit que celui que je voulais était trop cher et que les autres étaient trop ouverts...[nointeract]"
+    # Lisa_09 "Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые..." nointeract
+    Lisa_09 "Non. Maman a dit que celui que je voulais était trop cher et que les autres étaient trop ouverts..." nointeract
 
 # game/events/other.rpy:51
 translate crowdin back_shoping_4ac118f9:
@@ -117,8 +117,8 @@ translate crowdin back_shoping_3081eefb:
 # game/events/other.rpy:60
 translate crowdin back_shoping_87e46818:
 
-    # Ann_01 "Алиса, хватит мечтать. Это всё выглядит так, как будто вы хотите из него выкачать как можно больше денег. Успокойтесь и будьте скромнее...[nointeract]"
-    Ann_01 "Alice, arrête de rêver. On dirait que vous voulez lui soutirer le plus d'argent possible. Calmez-vous et soyez humble...[nointeract]"
+    # Ann_01 "Алиса, хватит мечтать. Это всё выглядит так, как будто вы хотите из него выкачать как можно больше денег. Успокойтесь и будьте скромнее..." nointeract
+    Ann_01 "Alice, arrête de rêver. On dirait que vous voulez lui soutirer le plus d'argent possible. Calmez-vous et soyez humble..." nointeract
 
 # game/events/other.rpy:62
 translate crowdin back_shoping_b5a1abfc:
@@ -261,14 +261,14 @@ translate crowdin MeetingEric_ff8aa8d1:
 # game/events/other.rpy:124
 translate crowdin MeetingEric_56e6606a:
 
-    # Ann_05 "Знакомься, это - Эрик. Эрик, это Макс, мой сын...[nointeract]"
-    Ann_05 "Je vous présente Eric. Eric, voici Max, mon fils....[nointeract]"
+    # Ann_05 "Знакомься, это - Эрик. Эрик, это Макс, мой сын..." nointeract
+    Ann_05 "Je vous présente Eric. Eric, voici Max, mon fils...." nointeract
 
 # game/events/other.rpy:129
 translate crowdin MeetingEric_deda115c:
 
-    # Eric_01 "Мне тоже. Как жизнь, Макс, чем занимаешься?[nointeract]"
-    Eric_01 "Moi aussi. Quoi de neuf, Max, qu'est-ce que tu fais ?[nointeract]"
+    # Eric_01 "Мне тоже. Как жизнь, Макс, чем занимаешься?" nointeract
+    Eric_01 "Moi aussi. Quoi de neuf, Max, qu'est-ce que tu fais ?" nointeract
 
 # game/events/other.rpy:131
 translate crowdin MeetingEric_fae75ac4:
@@ -309,8 +309,8 @@ translate crowdin MeetingEric_2db9f65a:
 # game/events/other.rpy:150
 translate crowdin MeetingEric_cf7f1be0:
 
-    # Eric_09 "Очень приятно, Макс. А ты у нас не очень разговорчивый, да?[nointeract]"
-    Eric_09 "C'est un plaisir, Max. Tu n'es pas un grand bavard, n'est-ce pas ?[nointeract]"
+    # Eric_09 "Очень приятно, Макс. А ты у нас не очень разговорчивый, да?" nointeract
+    Eric_09 "C'est un plaisir, Max. Tu n'es pas un grand bavard, n'est-ce pas ?" nointeract
 
 # game/events/other.rpy:152
 translate crowdin MeetingEric_fda4595b:
@@ -351,8 +351,8 @@ translate crowdin MeetingEric_58916f16:
 # game/events/other.rpy:171
 translate crowdin MeetingEric_e662491e:
 
-    # Eric_02 "Извини, Макс, что не оправдал твои ожидания. В любом случае, приятно с тобой познакомиться...[nointeract]"
-    Eric_02 "Désolé, Max, cela n'a pas répondu à tes attentes. En tout cas, c'est un plaisir de te rencontrer...[nointeract]"
+    # Eric_02 "Извини, Макс, что не оправдал твои ожидания. В любом случае, приятно с тобой познакомиться..." nointeract
+    Eric_02 "Désolé, Max, cela n'a pas répondu à tes attentes. En tout cas, c'est un plaisir de te rencontrer..." nointeract
 
 # game/events/other.rpy:176
 translate crowdin MeetingEric_5febc517:
@@ -381,26 +381,26 @@ translate crowdin MeetingEric_c0dc2202:
 # game/events/other.rpy:188
 translate crowdin MeetingEric_68dfdf17:
 
-    # Eric_09 "И что со мной не так? Вот так с первого взгляда делаешь выводы о человеке? Не очень умно... Но для твоего возраста это нормально...[nointeract]"
-    Eric_09 "Et qu'est-ce qui ne va pas avec moi? Donc, à première rencontre, tu fais des conclusions sur une personne? Pas très intelligent ... mais pour ton âge, c'est normal...[nointeract]"
+    # Eric_09 "И что со мной не так? Вот так с первого взгляда делаешь выводы о человеке? Не очень умно... Но для твоего возраста это нормально..." nointeract
+    Eric_09 "Et qu'est-ce qui ne va pas avec moi? Donc, à première rencontre, tu fais des conclusions sur une personne? Pas très intelligent ... mais pour ton âge, c'est normal..." nointeract
 
 # game/events/other.rpy:199
 translate crowdin MeetingEric_good_53d048fe:
 
-    # Ann_07 "Ну, я рада, что вы познакомились и, вроде бы, нашли общий язык. Прошу, Эрик, к столу. Мы завтракаем и ужинаем на свежем воздухе, на веранде, пойдём покажу.[nointeract]"
-    Ann_07 "Eh bien, je suis content que tu aies appris et, il semble que nous avons trouvé un langage commun. S'il te plaît, Eric, à la table. Nous avons le petit déjeuner et le dîner à l'air frais, sur la véranda, allons-y.[nointeract]"
+    # Ann_07 "Ну, я рада, что вы познакомились и, вроде бы, нашли общий язык. Прошу, Эрик, к столу. Мы завтракаем и ужинаем на свежем воздухе, на веранде, пойдём покажу." nointeract
+    Ann_07 "Eh bien, je suis content que tu aies appris et, il semble que nous avons trouvé un langage commun. S'il te plaît, Eric, à la table. Nous avons le petit déjeuner et le dîner à l'air frais, sur la véranda, allons-y." nointeract
 
 # game/events/other.rpy:209
 translate crowdin MeetingEric_middle_6e04cd04:
 
-    # Ann_17 "Макс, мы с тобой потом поговорим. Ну, Эрик, проходи к столу. Мы обычно ужинаем, да и завтракаем на открытом воздухе, тут у нас веранда...[nointeract]"
-    Ann_17 "Max, je vais te parler plus tard. Eh bien, Eric, vas à la table. Nous dînons habituellement et le petit-déjeuner à l'extérieur, nous avons une véranda...[nointeract]"
+    # Ann_17 "Макс, мы с тобой потом поговорим. Ну, Эрик, проходи к столу. Мы обычно ужинаем, да и завтракаем на открытом воздухе, тут у нас веранда..." nointeract
+    Ann_17 "Max, je vais te parler plus tard. Eh bien, Eric, vas à la table. Nous dînons habituellement et le petit-déjeuner à l'extérieur, nous avons une véranda..." nointeract
 
 # game/events/other.rpy:219
 translate crowdin MeetingEric_bad_2c10cf49:
 
-    # Ann_20 "Макс! Ты почему себя так ведёшь? Это не только тебя не красит, но и меня позорит, что я тебя так воспитала![nointeract]"
-    Ann_20 "Max! Pourquoi te comportes-tu de cette façon? Cela ne te désert pas seulement, mais ça te diminue à mes yeux de toute l'aide que je t'ai apporté![nointeract]"
+    # Ann_20 "Макс! Ты почему себя так ведёшь? Это не только тебя не красит, но и меня позорит, что я тебя так воспитала!" nointeract
+    Ann_20 "Max! Pourquoi te comportes-tu de cette façon? Cela ne te désert pas seulement, mais ça te diminue à mes yeux de toute l'aide que je t'ai apporté!" nointeract
 
 # game/events/other.rpy:224
 translate crowdin MeetingEric_bad_341bbd07:
@@ -435,8 +435,8 @@ translate crowdin Kira_arrival_9816e105:
 # game/events/other.rpy:246
 translate crowdin Kira_arrival_437eebba:
 
-    # Kira_01 "Это кто тут у нас? Макс? Я тебя не узнала! Почти настоящий мужчина![nointeract]"
-    Kira_01 "Qui est là? Max ? Je ne t'avais pas reconnu ! Un demi homme, presque un vrai homme![nointeract]"
+    # Kira_01 "Это кто тут у нас? Макс? Я тебя не узнала! Почти настоящий мужчина!" nointeract
+    Kira_01 "Qui est là? Max ? Je ne t'avais pas reconnu ! Un demi homme, presque un vrai homme!" nointeract
 
 # game/events/other.rpy:250
 translate crowdin Kira_arrival_761ba430:
@@ -483,8 +483,8 @@ translate crowdin Kira_arrival_94209dce:
 # game/events/other.rpy:261
 translate crowdin Kira_arrival_9a868553:
 
-    # Ann_04 "Что ты, Кира, оставайся хоть навсегда! Я тоже очень рада тебя видеть, сестрёнка![nointeract]"
-    Ann_04 "Aller, Kira, reste pour toujours ! C'est bon de te voir aussi, sœurette![nointeract]"
+    # Ann_04 "Что ты, Кира, оставайся хоть навсегда! Я тоже очень рада тебя видеть, сестрёнка!" nointeract
+    Ann_04 "Aller, Kira, reste pour toujours ! C'est bon de te voir aussi, sœurette!" nointeract
 
 # game/events/other.rpy:263
 translate crowdin Kira_arrival_837dc5ce:
@@ -513,8 +513,8 @@ translate crowdin Kira_arrival_239a2d0b:
 # game/events/other.rpy:270
 translate crowdin Kira_arrival_4bf7c736:
 
-    # Kira_05 "Нет, что ты. Я прилетела пару дней назад и остановилась в гостинице. Просто... нужно было разобраться кое с чем. Но с делами покончено и специально ради вас я наряжалась всё утро![nointeract]"
-    Kira_05 "Non, tu ne le fais pas. J'ai pris l'avion il y a quelques jours et je suis resté à l'hôtel. C'est juste que... il y avait des choses à régler. Mais j'en ai fini avec les affaires et je me suis habillée toute la matinée juste pour toi![nointeract]"
+    # Kira_05 "Нет, что ты. Я прилетела пару дней назад и остановилась в гостинице. Просто... нужно было разобраться кое с чем. Но с делами покончено и специально ради вас я наряжалась всё утро!" nointeract
+    Kira_05 "Non, tu ne le fais pas. J'ai pris l'avion il y a quelques jours et je suis resté à l'hôtel. C'est juste que... il y avait des choses à régler. Mais j'en ai fini avec les affaires et je me suis habillée toute la matinée juste pour toi!" nointeract
 
 # game/events/other.rpy:274
 translate crowdin Kira_arrival_2171ddd4:
@@ -579,8 +579,8 @@ translate crowdin Kira_arrival_end_yard_e217d4e7:
 # game/events/other.rpy:300
 translate crowdin Kira_arrival_end_yard_d90987d8:
 
-    # Kira_05 "Так, вы все давайте держите новую одежду, переодевайтесь и встречаемся за столом, где вы завтракаете. Посмотрим, всем ли всё подошло. А тебе, Макс, я ничего не купила. Подумала, что ты можешь и в шортах ходить. Но подарок тебе сделаю, позже решим какой...[nointeract]"
-    Kira_05 "Ok, aller tous chercher vos nouveaux vêtements, changez-vous et rendez-vous à la table du petit-déjeuner. Voyons si tout vous va. Et pour toi, Max, je n'ai rien acheté. J'ai pensé que tu pourrais aussi bien porter des shorts. Mais je vais te faire un cadeau, on décidera plus tard quoi...[nointeract]"
+    # Kira_05 "Так, вы все давайте держите новую одежду, переодевайтесь и встречаемся за столом, где вы завтракаете. Посмотрим, всем ли всё подошло. А тебе, Макс, я ничего не купила. Подумала, что ты можешь и в шортах ходить. Но подарок тебе сделаю, позже решим какой..." nointeract
+    Kira_05 "Ok, aller tous chercher vos nouveaux vêtements, changez-vous et rendez-vous à la table du petit-déjeuner. Voyons si tout vous va. Et pour toi, Max, je n'ai rien acheté. J'ai pensé que tu pourrais aussi bien porter des shorts. Mais je vais te faire un cadeau, on décidera plus tard quoi..." nointeract
 
 # game/events/other.rpy:309
 translate crowdin Kira_arrival_end_yard_370fc726:
@@ -591,8 +591,8 @@ translate crowdin Kira_arrival_end_yard_370fc726:
 # game/events/other.rpy:314
 translate crowdin Kira_arrival_end_yard_e9e6d4fa:
 
-    # Lisa_02 "Ну как вам? Такой классный топ и юбочка и мой любимый цвет, представляете![nointeract]"
-    Lisa_02 "Qu'en pensez-vous ? Un haut et une jupe si cool et ma couleur préférée, imaginez![nointeract]"
+    # Lisa_02 "Ну как вам? Такой классный топ и юбочка и мой любимый цвет, представляете!" nointeract
+    Lisa_02 "Qu'en pensez-vous ? Un haut et une jupe si cool et ma couleur préférée, imaginez!" nointeract
 
 # game/events/other.rpy:316
 translate crowdin Kira_arrival_end_yard_f609e252:
@@ -627,8 +627,8 @@ translate crowdin Kira_arrival_end_yard_f057f5be:
 # game/events/other.rpy:327
 translate crowdin Kira_arrival_end_yard_d2a8a875:
 
-    # Ann_02 "Я не поняла. А трусы то на тебе хоть есть? Ты же не планируешь в таком виде ходить дома, Алиса?[nointeract]"
-    Ann_02 "Je n'ai pas compris. Est-ce que tu portes au moins des sous-vêtements ? Tu n'as pas l'intention de te promener dans la maison en ressemblant à ça, Alice?[nointeract]"
+    # Ann_02 "Я не поняла. А трусы то на тебе хоть есть? Ты же не планируешь в таком виде ходить дома, Алиса?" nointeract
+    Ann_02 "Je n'ai pas compris. Est-ce que tu portes au moins des sous-vêtements ? Tu n'as pas l'intention de te promener dans la maison en ressemblant à ça, Alice?" nointeract
 
 # game/events/other.rpy:329
 translate crowdin Kira_arrival_end_yard_c8223c08:
@@ -675,14 +675,14 @@ translate crowdin Kira_arrival_end_yard_82a7c555:
 # game/events/other.rpy:341
 translate crowdin Kira_arrival_end_yard_11f0d126:
 
-    # Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?[nointeract]"
-    Ann_04 "Eh bien, maintenant c'est mon tour. Qu'en penses-tu? Pas trop flagrant?[nointeract]"
+    # Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?" nointeract
+    Ann_04 "Eh bien, maintenant c'est mon tour. Qu'en penses-tu? Pas trop flagrant?" nointeract
 
 # game/events/other.rpy:348
 translate crowdin Kira_arrival_end_yard_27e62e75:
 
-    # Ann_07 "Мне кажется, шортики слишком короткие... Я в них еле влезла, если честно. Надо худеть...[nointeract]"
-    Ann_07 "Je pense que les shorts sont trop courts... Je pouvais à peine rentrer dedans, pour être honnête. Tu devrais perdre du poids...[nointeract]"
+    # Ann_07 "Мне кажется, шортики слишком короткие... Я в них еле влезла, если честно. Надо худеть..." nointeract
+    Ann_07 "Je pense que les shorts sont trop courts... Je pouvais à peine rentrer dedans, pour être honnête. Tu devrais perdre du poids..." nointeract
 
 # game/events/other.rpy:354
 translate crowdin Kira_arrival_end_yard_a4137f9f:
@@ -699,8 +699,8 @@ translate crowdin Kira_arrival_end_yard_bfefabb8:
 # game/events/other.rpy:359
 translate crowdin Kira_arrival_end_yard_95b07e68:
 
-    # Kira_05 "Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное.[nointeract]"
-    Kira_05 "Comment tu me trouves ? C'est bon ? Et Anna, pas un mot de plus. Tout te semble trop ouvert ou révélateur.[nointeract]"
+    # Kira_05 "Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное." nointeract
+    Kira_05 "Comment tu me trouves ? C'est bon ? Et Anna, pas un mot de plus. Tout te semble trop ouvert ou révélateur." nointeract
 
 # game/events/other.rpy:366
 translate crowdin Kira_arrival_end_yard_2417a0cf:
@@ -890,50 +890,50 @@ translate crowdin Kira_arrival_end_yard_3af78784:
 # game/events/other.rpy:407
 translate crowdin follow_cameras_eric_4a1b4511:
 
-    # Max_09 "{m}Неутомимый Эрик! Вали уже обратно к маме в комнату и засыпай. А то у меня тоже есть дела у Алисы в комнате...{/m}[nointeract]"
-    Max_09 "{m}Infatigable Eric! Retourne dans la chambre de ta mère et dors. J'ai aussi des affaires avec Alice dans la chambre...{/m}[nointeract]"
+    # Max_09 "{m}Неутомимый Эрик! Вали уже обратно к маме в комнату и засыпай. А то у меня тоже есть дела у Алисы в комнате...{/m}" nointeract
+    Max_09 "{m}Infatigable Eric! Retourne dans la chambre de ta mère et dors. J'ai aussi des affaires avec Alice dans la chambre...{/m}" nointeract
 
 # game/events/other.rpy:427
 translate crowdin follow_cameras_eric_2da5afe7:
 
-    # Max_01 "{m}Отлично! Пора...{/m}[nointeract]"
-    Max_01 "{m}Bien! C'est l'heure...{/m}[nointeract]"
+    # Max_01 "{m}Отлично! Пора...{/m}" nointeract
+    Max_01 "{m}Bien! C'est l'heure...{/m}" nointeract
 
 # game/events/other.rpy:439
 translate crowdin frame_eric_60e127e3:
 
-    # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m}[nointeract]"
-    Max_07 "{m}oh, oui! Ma grande soeur a l'air incroyable... Les courbes de son corps complètement nu veulent regarder pour toujours!{/m}[nointeract]"
+    # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m}" nointeract
+    Max_07 "{m}oh, oui! Ma grande soeur a l'air incroyable... Les courbes de son corps complètement nu veulent regarder pour toujours!{/m}" nointeract
 
 # game/events/other.rpy:441
 translate crowdin frame_eric_58e230bc:
 
-    # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m}[nointeract]"
-    Max_04 "{m}Wow! J'ai de la chance qu'Alice dort le dos à la fenêtre... Et il ne se doutait pas qu'il montrait son cul nu pour moi dans toute sa splendeur.{/m}[nointeract]"
+    # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m}" nointeract
+    Max_04 "{m}Wow! J'ai de la chance qu'Alice dort le dos à la fenêtre... Et il ne se doutait pas qu'il montrait son cul nu pour moi dans toute sa splendeur.{/m}" nointeract
 
 # game/events/other.rpy:443
 translate crowdin frame_eric_f84d87b6:
 
-    # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}[nointeract]"
-    Max_01 "{m}Génial! La soeur dort en cambrant le dos, ce qui fait que sa poitrine nue dépasse comme deux monticules... Un spectacle séduisant...{/m}[nointeract]"
+    # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}" nointeract
+    Max_01 "{m}Génial! La soeur dort en cambrant le dos, ce qui fait que sa poitrine nue dépasse comme deux monticules... Un spectacle séduisant...{/m}" nointeract
 
 # game/events/other.rpy:453
 translate crowdin frame_eric_c7dc4684:
 
-    # Max_07 "{m}Уж прости, Алиса, ничего личного. Мне позарез нужно показать всем вам, а особенно маме, что Эрик собирается тут с вами всеми делать...{/m}[nointeract]"
-    Max_07 "{m}désolé, Alice, rien de personnel. Je dois vous montrer à tous, et surtout à maman, ce qu'Eric va faire avec vous...{/m}[nointeract]"
+    # Max_07 "{m}Уж прости, Алиса, ничего личного. Мне позарез нужно показать всем вам, а особенно маме, что Эрик собирается тут с вами всеми делать...{/m}" nointeract
+    Max_07 "{m}désolé, Alice, rien de personnel. Je dois vous montrer à tous, et surtout à maman, ce qu'Eric va faire avec vous...{/m}" nointeract
 
 # game/events/other.rpy:460
 translate crowdin frame_eric_40044bf4:
 
-    # Max_20 "{m}Только бы Алиса не проснулась! Иначе я отправлюсь не в военный лагерь, а сразу на кладбище... Но сейчас лучше думать не об этом, а о том, как сладко я бы проникал своим членом во все её самые интересные дырочки... Д-а-а... Это было бы очень приятно...{/m}[nointeract]"
-    Max_20 "{m}si Alice ne se réveillait pas! Sinon, je n'irai pas au camp militaire, mais directement au cimetière... Mais maintenant, il vaut mieux ne pas y penser, mais à quel point je voudrais pénétrer ma bite dans tous ses trous les plus intéressants... D-a-A... Ce serait très agréable...{/m}[nointeract]"
+    # Max_20 "{m}Только бы Алиса не проснулась! Иначе я отправлюсь не в военный лагерь, а сразу на кладбище... Но сейчас лучше думать не об этом, а о том, как сладко я бы проникал своим членом во все её самые интересные дырочки... Д-а-а... Это было бы очень приятно...{/m}" nointeract
+    Max_20 "{m}si Alice ne se réveillait pas! Sinon, je n'irai pas au camp militaire, mais directement au cimetière... Mais maintenant, il vaut mieux ne pas y penser, mais à quel point je voudrais pénétrer ma bite dans tous ses trous les plus intéressants... D-a-A... Ce serait très agréable...{/m}" nointeract
 
 # game/events/other.rpy:467
 translate crowdin frame_eric_f720febd:
 
-    # Max_08 "{m}Фух! Вроде, не проснулась... Надеюсь, этого хватит, чтобы утром Алиса забила тревогу. Наверняка, она сразу подумает, что это я её чем-то испачкал. И вот тогда-то я и покажу снимки с Эриком, а уже всю картину воедино она сложит сама. Если я, конечно, смогу уйти незамеченным в свою комнату...{/m}[nointeract]"
-    Max_08 "{m}En De la sorte, ne s'est réveillée... J'espère que ça suffira pour qu'Alice sonne l'alarme ce matin. Elle va sûrement penser que c'est moi qui l'ai salie. Et c'est là que je vais montrer les photos avec Eric, et déjà l'ensemble de l'image, elle va mettre elle-même. Si, bien sûr, je peux passer inaperçu dans ma chambre...{/m}[nointeract]"
+    # Max_08 "{m}Фух! Вроде, не проснулась... Надеюсь, этого хватит, чтобы утром Алиса забила тревогу. Наверняка, она сразу подумает, что это я её чем-то испачкал. И вот тогда-то я и покажу снимки с Эриком, а уже всю картину воедино она сложит сама. Если я, конечно, смогу уйти незамеченным в свою комнату...{/m}" nointeract
+    Max_08 "{m}En De la sorte, ne s'est réveillée... J'espère que ça suffira pour qu'Alice sonne l'alarme ce matin. Elle va sûrement penser que c'est moi qui l'ai salie. Et c'est là que je vais montrer les photos avec Eric, et déjà l'ensemble de l'image, elle va mettre elle-même. Si, bien sûr, je peux passer inaperçu dans ma chambre...{/m}" nointeract
 
 # game/events/other.rpy:485
 translate crowdin showdown_with_eric_c59ea561:
@@ -1070,8 +1070,8 @@ translate crowdin showdown_with_eric_60498e82:
 # game/events/other.rpy:528
 translate crowdin showdown_with_eric_6d1dd214:
 
-    # Alice_17 "Вот я Эрику с мамой сейчас устрою! Макс, пошли за мной![nointeract]"
-    Alice_17 "je vais arranger Eric avec ma mère maintenant! Max, suivez-moi![nointeract]"
+    # Alice_17 "Вот я Эрику с мамой сейчас устрою! Макс, пошли за мной!" nointeract
+    Alice_17 "je vais arranger Eric avec ma mère maintenant! Max, suivez-moi!" nointeract
 
 # game/events/other.rpy:537
 translate crowdin showdown_with_eric_40a33569:
@@ -1682,20 +1682,20 @@ translate crowdin failed_dinner_b3c54058:
 # game/events/other.rpy:837
 translate crowdin failed_dinner_4d7ce5c3:
 
-    # Eric_01 "Не переживай, Макс, я позабочусь обо всех, пока ты будешь тянуть лямку в армии...[nointeract]"
-    Eric_01 "ne t'inquiète pas, Max, Je m'occuperai de tout le monde pendant que tu Tires la sangle dans l'armée...[nointeract]"
+    # Eric_01 "Не переживай, Макс, я позабочусь обо всех, пока ты будешь тянуть лямку в армии..." nointeract
+    Eric_01 "ne t'inquiète pas, Max, Je m'occuperai de tout le monde pendant que tu Tires la sangle dans l'armée..." nointeract
 
 # game/events/other.rpy:844
 translate crowdin failed_dinner_fe32100d:
 
-    # Max_14 "{m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}[nointeract]"
-    Max_14 "{m}c'est ainsi que mon histoire s'est terminée. Ils ne me croyaient plus et ne voulaient plus me voir. Bien sûr, sans Eric, tout serait bien, mais ce connard... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}[nointeract]"
+    # Max_14 "{m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
+    Max_14 "{m}c'est ainsi que mon histoire s'est terminée. Ils ne me croyaient plus et ne voulaient plus me voir. Bien sûr, sans Eric, tout serait bien, mais ce connard... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}" nointeract
 
 # game/events/other.rpy:851
 translate crowdin failed_dinner_79acb07c:
 
-    # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}[nointeract]"
-    Max_14 "{m}c'est ainsi que mon histoire s'est terminée. De toute cette injustice, je me suis un peu envolé et j'ai presque barbouillé Eric sur le balcon... Presque... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}[nointeract]"
+    # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
+    Max_14 "{m}c'est ainsi que mon histoire s'est terminée. De toute cette injustice, je me suis un peu envolé et j'ai presque barbouillé Eric sur le balcon... Presque... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}" nointeract
 
     old "{i}подставить Эрика{/i}"
     new "{i}remplacer Eric {/i}"

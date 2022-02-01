@@ -15,14 +15,14 @@
 # game/events/olivia.rpy:34
 translate crowdin olivia_lisa_tv_6729ce96:
 
-    # Max_07 "{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}[nointeract]"
-    Max_07 "{m}Le ragazze stanno guardando qualche soap opera e io preferisco guardarle... A parte il fatto che ho promesso di stare fuori dai piedi...{/m}[nointeract]"
+    # Max_07 "{m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m}" nointeract
+    Max_07 "{m}Le ragazze stanno guardando qualche soap opera e io preferisco guardarle... A parte il fatto che ho promesso di stare fuori dai piedi...{/m}" nointeract
 
 # game/events/olivia.rpy:38
 translate crowdin olivia_lisa_tv_1ac759be:
 
-    # Max_10 "[risky!t]{m}Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне!{/m}[nointeract]"
-    Max_10 "[risky!t]{m}No, è troppo pericoloso spiarli! Potrebbero vedermi da un momento all'altro... E questo non farebbe che peggiorare le cose per me!{/m}[nointeract]"
+    # Max_10 "[risky!t]{m}Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне!{/m}" nointeract
+    Max_10 "[risky!t]{m}No, è troppo pericoloso spiarli! Potrebbero vedermi da un momento all'altro... E questo non farebbe che peggiorare le cose per me!{/m}" nointeract
 
 # game/events/olivia.rpy:47
 translate crowdin olivia_lisa_tv_f4d8507c:
@@ -33,20 +33,20 @@ translate crowdin olivia_lisa_tv_f4d8507c:
 # game/events/olivia.rpy:49
 translate crowdin olivia_lisa_tv_661fc12b:
 
-    # Max_04 "{m}Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить...{/m}[nointeract]"
-    Max_04 "{m}Bellissimo! Sedersi sul divano con loro sarebbe molto più interessante... Potevo tenere un occhio su di loro e l'altro sullo schermo. Eh, è meglio che non mi soffermi qui, potrebbero notarmi da un momento all'altro...{/m}[nointeract]"
+    # Max_04 "{m}Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить...{/m}" nointeract
+    Max_04 "{m}Bellissimo! Sedersi sul divano con loro sarebbe molto più interessante... Potevo tenere un occhio su di loro e l'altro sullo schermo. Eh, è meglio che non mi soffermi qui, potrebbero notarmi da un momento all'altro...{/m}" nointeract
 
 # game/events/olivia.rpy:53
 translate crowdin olivia_lisa_tv_9e5614b7:
 
-    # Max_09 "{m}Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня?{/m}[nointeract]"
-    Max_09 "{m}Allora come faccio a salire sul divano con loro? Ho bisogno che Lisa sia più adeguata al mio aspetto arrapato, ma come... Forse se si accorge che la sbircio sotto la doccia, posso negoziare con lei e non mi consegnerà a mia madre, e vorrà vedermi nudo in cambio?{/m}[nointeract]"
+    # Max_09 "{m}Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня?{/m}" nointeract
+    Max_09 "{m}Allora come faccio a salire sul divano con loro? Ho bisogno che Lisa sia più adeguata al mio aspetto arrapato, ma come... Forse se si accorge che la sbircio sotto la doccia, posso negoziare con lei e non mi consegnerà a mia madre, e vorrà vedermi nudo in cambio?{/m}" nointeract
 
 # game/events/olivia.rpy:56
 translate crowdin olivia_lisa_tv_ed5cbb38:
 
-    # Max_09 "{m}Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе?{/m}[nointeract]"
-    Max_09 "{m}Allora come faccio a salire sul divano con loro? Ho bisogno che Lisa sia più adeguata al mio sguardo arrapato, ma come... Forse dovrei farmi beccare più spesso a sbirciare sotto la doccia?{/m}[nointeract]"
+    # Max_09 "{m}Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе?{/m}" nointeract
+    Max_09 "{m}Allora come faccio a salire sul divano con loro? Ho bisogno che Lisa sia più adeguata al mio sguardo arrapato, ma come... Forse dovrei farmi beccare più spesso a sbirciare sotto la doccia?{/m}" nointeract
 
 # game/events/olivia.rpy:83
 translate crowdin olivia_first_meeting_7515fc87:
@@ -105,8 +105,8 @@ translate crowdin olivia_first_meeting_0a346054:
 # game/events/olivia.rpy:93
 translate crowdin olivia_first_meeting_bdf9e8bb:
 
-    # Lisa_01 "Да, мы скоро вернёмся...[nointeract]"
-    Lisa_01 "sì, torneremo presto...[nointeract]"
+    # Lisa_01 "Да, мы скоро вернёмся..." nointeract
+    Lisa_01 "sì, torneremo presto..." nointeract
 
 # game/events/olivia.rpy:98
 translate crowdin olivia_first_meeting_7fb7ef7c:
@@ -255,8 +255,8 @@ translate crowdin olivia_first_night_visit_8074ca27:
 # game/events/olivia.rpy:179
 translate crowdin olivia_first_night_visit_9df66df1:
 
-    # Olivia_03 "Отлично! Конечно, ночью особо не позагораешь, но в этом есть своя прелесть... Ну всё, Лиза, пойдём что-нибудь посмотрим на вашем большом экране! Макс, ты как, с нами?[nointeract]"
-    Olivia_03 "Eccellente! Certo, di notte non prenderai particolarmente il sole, ma questo ha il suo fascino... Bene, Lisa, andiamo a vedere qualcosa sul tuo grande schermo! Max, sei con noi?[nointeract]"
+    # Olivia_03 "Отлично! Конечно, ночью особо не позагораешь, но в этом есть своя прелесть... Ну всё, Лиза, пойдём что-нибудь посмотрим на вашем большом экране! Макс, ты как, с нами?" nointeract
+    Olivia_03 "Eccellente! Certo, di notte non prenderai particolarmente il sole, ma questo ha il suo fascino... Bene, Lisa, andiamo a vedere qualcosa sul tuo grande schermo! Max, sei con noi?" nointeract
 
 # game/events/olivia.rpy:182
 translate crowdin olivia_first_night_visit_68265e05:
@@ -309,8 +309,8 @@ translate crowdin olivia_first_night_visit_0d60f763:
 # game/events/olivia.rpy:204
 translate crowdin olivia_first_night_visit_5272565d:
 
-    # Olivia_04 "Ну и отлично! Пойдёмте уже...[nointeract]"
-    Olivia_04 "Bene, fantastico! Andiamo già...[nointeract]"
+    # Olivia_04 "Ну и отлично! Пойдёмте уже..." nointeract
+    Olivia_04 "Bene, fantastico! Andiamo già..." nointeract
 
 # game/events/olivia.rpy:211
 translate crowdin olivia_first_night_visit_failure_296a2ae7:
@@ -363,8 +363,8 @@ translate crowdin olivia_second_night_visit_389682e0:
 # game/events/olivia.rpy:243
 translate crowdin olivia_second_night_visit_ce53ea19:
 
-    # Olivia_02 "С радостью бы искупалась, но так устала, что хочу только валяться и смотреть сериалы. Пойдём, Лиза... Макс, ты как, с нами?[nointeract]"
-    Olivia_02 "mi piacerebbe nuotare, ma sono così stanco che voglio solo sdraiarmi e guardare programmi Tv. Andiamo, Lisa... Max, sei con noi?[nointeract]"
+    # Olivia_02 "С радостью бы искупалась, но так устала, что хочу только валяться и смотреть сериалы. Пойдём, Лиза... Макс, ты как, с нами?" nointeract
+    Olivia_02 "mi piacerebbe nuotare, ma sono così stanco che voglio solo sdraiarmi e guardare programmi Tv. Andiamo, Lisa... Max, sei con noi?" nointeract
 
 # game/events/olivia.rpy:246
 translate crowdin olivia_second_night_visit_10c0fcb2:
@@ -441,8 +441,8 @@ translate crowdin olivia_second_night_visit_1fb0f97c:
 # game/events/olivia.rpy:273
 translate crowdin olivia_second_night_visit_a6603bc7:
 
-    # Olivia_04 "Такими темпами мы ничего не посмотрим. Пойдёмте уже...[nointeract]"
-    Olivia_04 "Non guarderemo nulla a questo ritmo. Andiamo già...[nointeract]"
+    # Olivia_04 "Такими темпами мы ничего не посмотрим. Пойдёмте уже..." nointeract
+    Olivia_04 "Non guarderemo nulla a questo ritmo. Andiamo già..." nointeract
 
 # game/events/olivia.rpy:284
 translate crowdin olivia_night_visit_r_c0291a99:
@@ -465,8 +465,8 @@ translate crowdin olivia_night_visit_r_b6a957f2:
 # game/events/olivia.rpy:292
 translate crowdin olivia_night_visit_r_9b51ac68:
 
-    # Lisa_02 "Я тоже рада поваляться вместе с вами хоть один поздний вечерок.[nointeract]"
-    Lisa_02 "sono anche felice di sdraiarmi con te almeno una sera tardi.[nointeract]"
+    # Lisa_02 "Я тоже рада поваляться вместе с вами хоть один поздний вечерок." nointeract
+    Lisa_02 "sono anche felice di sdraiarmi con te almeno una sera tardi." nointeract
 
 # game/events/olivia.rpy:303
 translate crowdin olivia_night_visit_r_8574b567:
@@ -555,14 +555,14 @@ translate crowdin olivia_night_visit_r_17b1c448:
 # game/events/olivia.rpy:333
 translate crowdin olivia_night_visit_r_2fa10a26:
 
-    # Olivia_04 "Эх, Макс! Прошляпил всё веселье. Ладно, пойдёмте уже...[nointeract]"
-    Olivia_04 "Oh, Max! Mi sono divertito tantissimo. Ok, andiamo già...[nointeract]"
+    # Olivia_04 "Эх, Макс! Прошляпил всё веселье. Ладно, пойдёмте уже..." nointeract
+    Olivia_04 "Oh, Max! Mi sono divertito tantissimo. Ok, andiamo già..." nointeract
 
 # game/events/olivia.rpy:335
 translate crowdin olivia_night_visit_r_a6603bc7:
 
-    # Olivia_04 "Такими темпами мы ничего не посмотрим. Пойдёмте уже...[nointeract]"
-    Olivia_04 "Non guarderemo nulla a questo ritmo. Andiamo già...[nointeract]"
+    # Olivia_04 "Такими темпами мы ничего не посмотрим. Пойдёмте уже..." nointeract
+    Olivia_04 "Non guarderemo nulla a questo ritmo. Andiamo già..." nointeract
 
 # game/events/olivia.rpy:375
 translate crowdin olivia_first_night_out_with_67a0d9d9:
@@ -591,8 +591,8 @@ translate crowdin olivia_first_night_out_with_922025e6:
 # game/events/olivia.rpy:380
 translate crowdin olivia_first_night_out_with_11409cf9:
 
-    # Lisa_10 "Так, стоять! Это уже слишком! Я не уверена, что хочу сидеть рядом со своим голым братом. Хоть трусы оставь...[nointeract]"
-    Lisa_10 "Allora, stai in piedi! È troppo! Non sono sicuro di volermi sedere accanto a mio fratello nudo. Almeno lasciare le mutandine...[nointeract]"
+    # Lisa_10 "Так, стоять! Это уже слишком! Я не уверена, что хочу сидеть рядом со своим голым братом. Хоть трусы оставь..." nointeract
+    Lisa_10 "Allora, stai in piedi! È troppo! Non sono sicuro di volermi sedere accanto a mio fratello nudo. Almeno lasciare le mutandine..." nointeract
 
 # game/events/olivia.rpy:386
 translate crowdin olivia_first_night_out_with_7542b55d:
@@ -1251,8 +1251,8 @@ translate crowdin olivia_repeatable_night_out_with_dd6e369a:
 # game/events/olivia.rpy:632
 translate crowdin olivia_repeatable_night_out_with_0b752bfe:
 
-    # Lisa_05 "Ага, давайте пойдём по кроваткам, пока здесь не заснули.[nointeract]"
-    Lisa_05 "sì, andiamo alle culle prima di addormentarci qui.[nointeract]"
+    # Lisa_05 "Ага, давайте пойдём по кроваткам, пока здесь не заснули." nointeract
+    Lisa_05 "sì, andiamo alle culle prima di addormentarci qui." nointeract
 
 # game/events/olivia.rpy:640
 translate crowdin olivia_repeatable_night_out_with_1e38110f:
@@ -1322,8 +1322,8 @@ translate crowdin olivia_night_visit_r_dcf86a41:
 # game/events/olivia.rpy:301
 translate crowdin olivia_night_visit_r_5e8eeb58:
 
-    # Max_11 "Ну вот...[nointeract]"
-    Max_11 "Ecco qui...[nointeract]"
+    # Max_11 "Ну вот..." nointeract
+    Max_11 "Ecco qui..." nointeract
 
 # game/events/olivia.rpy:686
 translate crowdin olivia_dressed_stay_in_room_186ccac5:
@@ -1340,32 +1340,32 @@ translate crowdin olivia_dressed_stay_in_room_c0dccde6:
 # game/events/olivia.rpy:692
 translate crowdin olivia_dressed_stay_in_room_740cab84:
 
-    # Lisa_09 "А ещё нам нужно переодеться. Будь добр, выйди из комнаты ненадолго...[nointeract]"
-    Lisa_09 "Abbiamo anche bisogno di cambiarci i vestiti. Sarebbe così gentile da lasciare la stanza per un momento...[nointeract]"
+    # Lisa_09 "А ещё нам нужно переодеться. Будь добр, выйди из комнаты ненадолго..." nointeract
+    Lisa_09 "Abbiamo anche bisogno di cambiarci i vestiti. Sarebbe così gentile da lasciare la stanza per un momento..." nointeract
 
 # game/events/olivia.rpy:694
 translate crowdin olivia_dressed_stay_in_room_132c666f:
 
-    # Lisa_00 "А ещё нам нужно переодеться. Будь добр, погуляй немного или отвернись...[nointeract]"
-    Lisa_00 "Dobbiamo anche cambiarci. Sarebbe così gentile da camminare per un po' o girarsi...[nointeract]"
+    # Lisa_00 "А ещё нам нужно переодеться. Будь добр, погуляй немного или отвернись..." nointeract
+    Lisa_00 "Dobbiamo anche cambiarci. Sarebbe così gentile da camminare per un po' o girarsi..." nointeract
 
 # game/events/olivia.rpy:701
 translate crowdin olivia_dressed_stay_in_room_08276951:
 
-    # Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени...[nointeract]"
-    Lisa]{b}Lisa:{/b} E non fregiamo niente! Non ci vorrà molto...[nointeract]"
+    # Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени..." nointeract
+    Lisa]{b}Lisa:{/b} E non fregiamo niente! Non ci vorrà molto..." nointeract
 
 # game/events/olivia.rpy:703
 translate crowdin olivia_dressed_stay_in_room_cdba7705:
 
-    # Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста![nointeract]"
-    Lisa]{b}Lisa:{/b} E vorrei che tu cercassi di non sbirciare... So che è difficile, ma per favore![nointeract]"
+    # Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста!" nointeract
+    Lisa]{b}Lisa:{/b} E vorrei che tu cercassi di non sbirciare... So che è difficile, ma per favore!" nointeract
 
 # game/events/olivia.rpy:730
 translate crowdin olivia_dressed_moment0_8a87f589:
 
-    # Lisa_00 "Ой, Макс! А ты можешь немного погулять? Мы собирались переодеться...[nointeract]"
-    Lisa_00 "Oh, Max! Non puoi uscire un po'? Stavamo per cambiare...[nointeract]"
+    # Lisa_00 "Ой, Макс! А ты можешь немного погулять? Мы собирались переодеться..." nointeract
+    Lisa_00 "Oh, Max! Non puoi uscire un po'? Stavamo per cambiare..." nointeract
 
 # game/events/olivia.rpy:732
 translate crowdin olivia_dressed_moment0_b8c05569:
@@ -1376,8 +1376,8 @@ translate crowdin olivia_dressed_moment0_b8c05569:
 # game/events/olivia.rpy:733
 translate crowdin olivia_dressed_moment0_af5d43f0:
 
-    # Olivia_01 "Что сказать, Макс... Ты в пролёте![nointeract]"
-    Olivia_01 "Che posso dire, Max... Sei fregato![nointeract]"
+    # Olivia_01 "Что сказать, Макс... Ты в пролёте!" nointeract
+    Olivia_01 "Che posso dire, Max... Sei fregato!" nointeract
 
 # game/events/olivia.rpy:736
 translate crowdin olivia_dressed_moment0_c92765a1:
@@ -1388,8 +1388,8 @@ translate crowdin olivia_dressed_moment0_c92765a1:
 # game/events/olivia.rpy:737
 translate crowdin olivia_dressed_moment0_87d5067e:
 
-    # Olivia_01 "Лично мне Макс нисколько не мешает...[nointeract]"
-    Olivia_01 "Personalmente, Max non mi disturba affatto...[nointeract]"
+    # Olivia_01 "Лично мне Макс нисколько не мешает..." nointeract
+    Olivia_01 "Personalmente, Max non mi disturba affatto..." nointeract
 
 # game/events/olivia.rpy:753
 translate crowdin olivia_dressed_moment2_20fd5016:
@@ -1406,8 +1406,8 @@ translate crowdin olivia_dressed_moment2_c171310b:
 # game/events/olivia.rpy:762
 translate crowdin olivia_dressed_moment2_7c31b019:
 
-    # Olivia_03 "Да, Макс! Тебе должно быть очень стыдно за такие выходки.[nointeract]"
-    Olivia_03 "Sì, Max! Dovreste vergognarvi molto delle vostre buffonate.[nointeract]"
+    # Olivia_03 "Да, Макс! Тебе должно быть очень стыдно за такие выходки." nointeract
+    Olivia_03 "Sì, Max! Dovreste vergognarvi molto delle vostre buffonate." nointeract
 
 # game/events/olivia.rpy:766
 translate crowdin olivia_dressed_moment2_58aafaf5:
@@ -1418,20 +1418,20 @@ translate crowdin olivia_dressed_moment2_58aafaf5:
 # game/events/olivia.rpy:767
 translate crowdin olivia_dressed_moment2_276f7949:
 
-    # Olivia_03 "Да ладно тебе, Лиза. Мы же все всё у друг друга уже видели.[nointeract]"
-    Olivia_03 "Andiamo, Lisa. Abbiamo visto tutto l'uno dell'altro.[nointeract]"
+    # Olivia_03 "Да ладно тебе, Лиза. Мы же все всё у друг друга уже видели." nointeract
+    Olivia_03 "Andiamo, Lisa. Abbiamo visto tutto l'uno dell'altro." nointeract
 
 # game/events/olivia.rpy:783
 translate crowdin olivia_dressed_moment1_43215628:
 
-    # Lisa_11 "Макс! Мы же переодеваемся!!! Выйди и закрой за собой дверь![nointeract]"
-    Lisa_11 "Max! Stiamo cambiando!!! Esci e chiudi la porta dietro di te![nointeract]"
+    # Lisa_11 "Макс! Мы же переодеваемся!!! Выйди и закрой за собой дверь!" nointeract
+    Lisa_11 "Max! Stiamo cambiando!!! Esci e chiudi la porta dietro di te!" nointeract
 
 # game/events/olivia.rpy:786
 translate crowdin olivia_dressed_moment1_9c7c76de:
 
-    # Lisa_11 "Макс! Мы же переодеваемся!!! Пожалуйста, выйди и дверь за собой закрой![nointeract]"
-    Lisa_11 "Max! Stiamo cambiando!!! Per favore, esci e chiudi la porta dietro di te![nointeract]"
+    # Lisa_11 "Макс! Мы же переодеваемся!!! Пожалуйста, выйди и дверь за собой закрой!" nointeract
+    Lisa_11 "Max! Stiamo cambiando!!! Per favore, esci e chiudi la porta dietro di te!" nointeract
 
 # game/events/olivia.rpy:792
 translate crowdin olivia_dressed_lvl_2_7968a2a6:
@@ -1442,8 +1442,8 @@ translate crowdin olivia_dressed_lvl_2_7968a2a6:
 # game/events/olivia.rpy:793
 translate crowdin olivia_dressed_lvl_2_91ad6784:
 
-    # Lisa_10 "Ты не глазей, а жди за дверью! Или хочешь, чтобы я маме об этом рассказала?[nointeract]"
-    Lisa_10 "Non si fissa, si aspetta fuori dalla porta! O vuoi che lo dica a mia madre?[nointeract]"
+    # Lisa_10 "Ты не глазей, а жди за дверью! Или хочешь, чтобы я маме об этом рассказала?" nointeract
+    Lisa_10 "Non si fissa, si aspetta fuori dalla porta! O vuoi che lo dica a mia madre?" nointeract
 
 # game/events/olivia.rpy:796
 translate crowdin olivia_dressed_lvl_2_32b71976:
@@ -1454,8 +1454,8 @@ translate crowdin olivia_dressed_lvl_2_32b71976:
 # game/events/olivia.rpy:797
 translate crowdin olivia_dressed_lvl_2_81a439ed:
 
-    # Lisa_10 "Ну, Макс! Я ведь и маме всё могу рассказать, если не уйдёшь.[nointeract]"
-    Lisa_10 "Andiamo, Max! Posso dirlo anche a mia madre, se non te ne vai.[nointeract]"
+    # Lisa_10 "Ну, Макс! Я ведь и маме всё могу рассказать, если не уйдёшь." nointeract
+    Lisa_10 "Andiamo, Max! Posso dirlo anche a mia madre, se non te ne vai." nointeract
 
 # game/events/olivia.rpy:800
 translate crowdin olivia_dressed_lvl_2_eba9367a:
@@ -1466,8 +1466,8 @@ translate crowdin olivia_dressed_lvl_2_eba9367a:
 # game/events/olivia.rpy:802
 translate crowdin olivia_dressed_lvl_2_c401595c:
 
-    # Lisa_09 "Ну и долго ты ещё пялиться будешь?! Выйди и подожди. Мы недолго...[nointeract]"
-    Lisa_09 "Per quanto tempo hai intenzione di continuare a fissare?! Esci e aspetta. Non ci metteremo molto...[nointeract]"
+    # Lisa_09 "Ну и долго ты ещё пялиться будешь?! Выйди и подожди. Мы недолго..." nointeract
+    Lisa_09 "Per quanto tempo hai intenzione di continuare a fissare?! Esci e aspetta. Non ci metteremo molto..." nointeract
 
 # game/events/olivia.rpy:809
 translate crowdin olivia_dressed_lvl_3_97aa3ff0:
@@ -1490,8 +1490,8 @@ translate crowdin olivia_dressed_lvl_3_a21098ed:
 # game/events/olivia.rpy:812
 translate crowdin olivia_dressed_lvl_3_12bd6daa:
 
-    # Lisa_02 "Да мы и так... Ладно, молчу.[nointeract]"
-    Lisa_02 "Sì, siamo già... Ok, sto zitto.[nointeract]"
+    # Lisa_02 "Да мы и так... Ладно, молчу." nointeract
+    Lisa_02 "Sì, siamo già... Ok, sto zitto." nointeract
 
 # game/events/olivia.rpy:815
 translate crowdin olivia_dressed_lvl_3_81729ace:
@@ -1508,8 +1508,8 @@ translate crowdin olivia_dressed_lvl_3_34689a50:
 # game/events/olivia.rpy:817
 translate crowdin olivia_dressed_lvl_3_01edfdc0:
 
-    # Lisa_09 "Ну, Макс![nointeract]"
-    Lisa_09 "Bene, Max![nointeract]"
+    # Lisa_09 "Ну, Макс!" nointeract
+    Lisa_09 "Bene, Max!" nointeract
 
 # game/events/olivia.rpy:820
 translate crowdin olivia_dressed_lvl_3_61ed6671:
@@ -1538,8 +1538,8 @@ translate crowdin olivia_dressed_lvl_3_3daab7f8:
 # game/events/olivia.rpy:824
 translate crowdin olivia_dressed_lvl_3_d7323289:
 
-    # Lisa_10 "Оливия![nointeract]"
-    Lisa_10 "Olivia![nointeract]"
+    # Lisa_10 "Оливия!" nointeract
+    Lisa_10 "Olivia!" nointeract
 
 # game/events/olivia.rpy:827
 translate crowdin olivia_dressed_lvl_3_319973cf:
@@ -1562,8 +1562,8 @@ translate crowdin olivia_dressed_lvl_3_453d6107:
 # game/events/olivia.rpy:831
 translate crowdin olivia_dressed_lvl_3_b98d244b:
 
-    # Lisa_02 "Макс, займись чем-нибудь путным.[nointeract]"
-    Lisa_02 "Max, fai qualcosa.[nointeract]"
+    # Lisa_02 "Макс, займись чем-нибудь путным." nointeract
+    Lisa_02 "Max, fai qualcosa." nointeract
 
 # game/events/olivia.rpy:846
 translate crowdin olivia_dressed_try_to_peek_144e8df6:
@@ -1598,8 +1598,8 @@ translate crowdin olivia_dressed_try_to_peek_f458687d:
 # game/events/olivia.rpy:875
 translate crowdin olivia_dressed_try_to_peek_585185bb:
 
-    # Olivia_03 "Ай-я-яй, как нехорошо подглядывать, Макс. Ай-я-яй, какой негодник![nointeract]"
-    Olivia_03 "Ay-yi-yi-yi, non va bene sbirciare, Max. Ai-yi-yi-yi, che mascalzone![nointeract]"
+    # Olivia_03 "Ай-я-яй, как нехорошо подглядывать, Макс. Ай-я-яй, какой негодник!" nointeract
+    Olivia_03 "Ay-yi-yi-yi, non va bene sbirciare, Max. Ai-yi-yi-yi, che mascalzone!" nointeract
 
 # game/events/olivia.rpy:877
 translate crowdin olivia_dressed_try_to_peek_f165e904:
@@ -1616,8 +1616,8 @@ translate crowdin olivia_dressed_try_to_peek_e5e895f1:
 # game/events/olivia.rpy:880
 translate crowdin olivia_dressed_try_to_peek_eb8e36a6:
 
-    # Max_08 "Всё, я отвернулся![nointeract]"
-    Max_08 "Ecco, mi sto girando![nointeract]"
+    # Max_08 "Всё, я отвернулся!" nointeract
+    Max_08 "Ecco, mi sto girando!" nointeract
 
 # game/events/olivia.rpy:885
 translate crowdin olivia_dressed_try_to_peek_eba9367a:
@@ -1628,8 +1628,8 @@ translate crowdin olivia_dressed_try_to_peek_eba9367a:
 # game/events/olivia.rpy:887
 translate crowdin olivia_dressed_try_to_peek_5e5bea76:
 
-    # Lisa_09 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись. Мы недолго...[nointeract]"
-    Lisa_09 "Per quanto tempo hai intenzione di continuare a fissarmi?! Girare. Non ci metteremo molto...[nointeract]"
+    # Lisa_09 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись. Мы недолго..." nointeract
+    Lisa_09 "Per quanto tempo hai intenzione di continuare a fissarmi?! Girare. Non ci metteremo molto..." nointeract
 
 # game/events/olivia.rpy:891
 translate crowdin olivia_dressed_try_to_peek_943d13a8:
@@ -1640,8 +1640,8 @@ translate crowdin olivia_dressed_try_to_peek_943d13a8:
 # game/events/olivia.rpy:893
 translate crowdin olivia_dressed_try_to_peek_d2b966ac:
 
-    # Olivia_03 "Какой же ты Макс проказник! Ни стыда, ни совести...[nointeract]"
-    Olivia_03 "Che burlone che sei, Max! Nessuna vergogna, nessuna coscienza...[nointeract]"
+    # Olivia_03 "Какой же ты Макс проказник! Ни стыда, ни совести..." nointeract
+    Olivia_03 "Che burlone che sei, Max! Nessuna vergogna, nessuna coscienza..." nointeract
 
 # game/events/olivia.rpy:895
 translate crowdin olivia_dressed_try_to_peek_c1321b9d:
@@ -1670,8 +1670,8 @@ translate crowdin olivia_dressed_try_to_peek_ab614b1d:
 # game/events/olivia.rpy:900
 translate crowdin olivia_dressed_try_to_peek_48e1fee0:
 
-    # Max_03 "Да шучу я... Всё, отвернулся![nointeract]"
-    Max_03 "Sto solo scherzando... Ecco, girati![nointeract]"
+    # Max_03 "Да шучу я... Всё, отвернулся!" nointeract
+    Max_03 "Sto solo scherzando... Ecco, girati!" nointeract
 
 # game/events/olivia.rpy:905
 translate crowdin olivia_dressed_try_to_peek_e11ee97e:
@@ -1694,8 +1694,8 @@ translate crowdin olivia_dressed_try_to_peek_cd4c9bac:
 # game/events/olivia.rpy:909
 translate crowdin olivia_dressed_try_to_peek_dbf3b763:
 
-    # Lisa_02 "Ну вы меня совсем сейчас засмущаете![nointeract]"
-    Lisa_02 "Ora mi stai mettendo in imbarazzo![nointeract]"
+    # Lisa_02 "Ну вы меня совсем сейчас засмущаете!" nointeract
+    Lisa_02 "Ora mi stai mettendo in imbarazzo!" nointeract
 
     old "{i}подождать за дверью, пока девочки переоденутся{/i}"
     new "{i}Aspettare fuori dalla porta che le ragazze si cambino{/i}"

@@ -579,14 +579,14 @@ translate crowdin cam1_eric_shat_a8ebe479:
 # game/events/eric_cam.rpy:421
 translate crowdin cam_before_frame_eric_cb1c7bf7:
 
-    # Max_07 "{m}Отлично! Эрик именно там, где мне и нужно... Нужно дождаться, когда он вернётся к моей маме, и затем уже спокойно его подставлять...{/m}[nointeract]"
-    Max_07 "{m}È fantastico! Eric è esattamente dove ho bisogno di lui... Devo aspettare che torni da mia madre, e poi posso sistemarlo...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Эрик именно там, где мне и нужно... Нужно дождаться, когда он вернётся к моей маме, и затем уже спокойно его подставлять...{/m}" nointeract
+    Max_07 "{m}È fantastico! Eric è esattamente dove ho bisogno di lui... Devo aspettare che torni da mia madre, e poi posso sistemarlo...{/m}" nointeract
 
 # game/events/eric_cam.rpy:437
 translate crowdin cam_before_frame_eric_2da5afe7:
 
-    # Max_01 "{m}Отлично! Пора...{/m}[nointeract]"
-    Max_01 "{m}Va bene! È il momento...{/m}[nointeract]"
+    # Max_01 "{m}Отлично! Пора...{/m}" nointeract
+    Max_01 "{m}Va bene! È il momento...{/m}" nointeract
 
 # game/events/eric_cam.rpy:447
 translate crowdin cam0_eric_kira_night_swim_4bc4874c:

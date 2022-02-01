@@ -21,14 +21,14 @@ translate crowdin StartDialog_069fda26:
 # game/events/max.rpy:32
 translate crowdin Sleep_52abcf74:
 
-    # Max_00 "{m}Пожалуй, пора ложиться спать...{/m}[nointeract]"
-    Max_00 "{m}Peut-être qu'il est temps d'aller au lit...{/m}[nointeract]"
+    # Max_00 "{m}Пожалуй, пора ложиться спать...{/m}" nointeract
+    Max_00 "{m}Peut-être qu'il est temps d'aller au lit...{/m}" nointeract
 
 # game/events/max.rpy:35
 translate crowdin Sleep_9878a7fd:
 
-    # Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
-    Max_00 "{m}À quelle heure ferais-je mieux de me réveiller? {/m}[nointeract]"
+    # Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}" nointeract
+    Max_00 "{m}À quelle heure ferais-je mieux de me réveiller? {/m}" nointeract
 
 # game/events/max.rpy:48
 translate crowdin Sleep_dca71115:
@@ -39,8 +39,8 @@ translate crowdin Sleep_dca71115:
 # game/events/max.rpy:65
 translate crowdin Wearied_d8557c8f:
 
-    # Max_10 "{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}[nointeract]"
-    Max_10 "{m}Je n'ai pas les idées claires, je dois aller me coucher...{/m}[nointeract]"
+    # Max_10 "{m}Моя голова уже совсем не соображает, нужно ложиться спать...{/m}" nointeract
+    Max_10 "{m}Je n'ai pas les idées claires, je dois aller me coucher...{/m}" nointeract
 
 # game/events/max.rpy:67
 translate crowdin Wearied_dca71115:
@@ -51,8 +51,8 @@ translate crowdin Wearied_dca71115:
 # game/events/max.rpy:85
 translate crowdin LittleEnergy_d97dcb62:
 
-    # Max_10 "{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}[nointeract]"
-    Max_10 "{m}je suis trop épuisé, j’ai besoin de faire une petite sieste... {/m}[nointeract]"
+    # Max_10 "{m}Я слишком вымотался, нужно хоть немного вздремнуть...{/m}" nointeract
+    Max_10 "{m}je suis trop épuisé, j’ai besoin de faire une petite sieste... {/m}" nointeract
 
 # game/events/max.rpy:94
 translate crowdin LittleEnergy_dca71115:
@@ -63,14 +63,14 @@ translate crowdin LittleEnergy_dca71115:
 # game/events/max.rpy:114
 translate crowdin Nap_89e3b066:
 
-    # Max_00 "{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}[nointeract]"
-    Max_00 "{i}Je n'ai pas vraiment envie de dormir en ce moment, mais une petite sieste ne ferait pas de mal...{/i}[nointeract]"
+    # Max_00 "{i}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/i}" nointeract
+    Max_00 "{i}Je n'ai pas vraiment envie de dormir en ce moment, mais une petite sieste ne ferait pas de mal...{/i}" nointeract
 
 # game/events/max.rpy:116
 translate crowdin Nap_286b3b95:
 
-    # Max_00 "{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}[nointeract]"
-    Max_00 "{i}Oh, je suis épuisé aujourd'hui, j'ai besoin de faire une sieste...{/i}[nointeract]"
+    # Max_00 "{i}Ох и вымотался же я сегодня, надо немного вздремнуть...{/i}" nointeract
+    Max_00 "{i}Oh, je suis épuisé aujourd'hui, j'ai besoin de faire une sieste...{/i}" nointeract
 
 # game/events/max.rpy:131
 translate crowdin Nap_dca71115:
@@ -81,8 +81,8 @@ translate crowdin Nap_dca71115:
 # game/events/max.rpy:140
 translate crowdin Alarm_9878a7fd:
 
-    # Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
-    Max_00 "{m}À quelle heure ferais-je mieux de me réveiller? {/m}[nointeract]"
+    # Max_00 "{m}В каком часу мне будет лучше проснуться?{/m}" nointeract
+    Max_00 "{m}À quelle heure ferais-je mieux de me réveiller? {/m}" nointeract
 
 # game/events/max.rpy:152
 translate crowdin Alarm_dca71115:
@@ -93,8 +93,8 @@ translate crowdin Alarm_dca71115:
 # game/events/max.rpy:167
 translate crowdin Shower_2c708671:
 
-    # Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется...[nointeract]"
-    Max_19 "Pourtant, être propre, c’est beaucoup mieux. Bien que je ne le veux pas toujours...[nointeract]"
+    # Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется..." nointeract
+    Max_19 "Pourtant, être propre, c’est beaucoup mieux. Bien que je ne le veux pas toujours..." nointeract
 
 # game/events/max.rpy:173
 translate crowdin Shower_58b0fd27:
@@ -117,8 +117,8 @@ translate crowdin Shower_b3c37b42:
 # game/events/max.rpy:190
 translate crowdin Bath_2c708671:
 
-    # Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется...[nointeract]"
-    Max_19 "Pourtant, être propre, c’est beaucoup mieux. Bien que je ne le veux pas toujours...[nointeract]"
+    # Max_19 "Всё-таки чистым быть намного лучше. Хотя не всегда хочется..." nointeract
+    Max_19 "Pourtant, être propre, c’est beaucoup mieux. Bien que je ne le veux pas toujours..." nointeract
 
 # game/events/max.rpy:196
 translate crowdin Bath_58b0fd27:
@@ -159,8 +159,8 @@ translate crowdin Box_05229898:
 # game/events/max.rpy:219
 translate crowdin Box_b28a0ea4:
 
-    # Max_10 "Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом...[nointeract]"
-    Max_10 "Peut-être que c'est installé quelque part dans la maison et que quelqu’un nous espionne?! Je dois inspecter la maison...[nointeract]"
+    # Max_10 "Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом..." nointeract
+    Max_10 "Peut-être que c'est installé quelque part dans la maison et que quelqu’un nous espionne?! Je dois inspecter la maison..." nointeract
 
 # game/events/max.rpy:245
 translate crowdin Notebook_2dd57a79:
@@ -195,14 +195,14 @@ translate crowdin buyfood_96f7e58d:
 # game/events/max.rpy:353
 translate crowdin create_site_3744c5ee:
 
-    # Max_00 "Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100[nointeract]"
-    Max_00 "Il est donc temps de s'occuper de mon site web. Pour commencer, je dois acheter un domaine, un hébergement, un modèle de conception et payer pour le service de streaming. Tout cela s'élève à 100 $.[nointeract]"
+    # Max_00 "Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100" nointeract
+    Max_00 "Il est donc temps de s'occuper de mon site web. Pour commencer, je dois acheter un domaine, un hébergement, un modèle de conception et payer pour le service de streaming. Tout cela s'élève à 100 $." nointeract
 
 # game/events/max.rpy:360
 translate crowdin create_site_e36c401d:
 
-    # Max_04 "Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом...[nointeract]"
-    Max_04 "Excellent! Maintenant, j’ai mon site Web et mon domaine! Il ne reste plus qu’à connecter le flux de données de la caméra au service de streaming...[nointeract]"
+    # Max_04 "Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом..." nointeract
+    Max_04 "Excellent! Maintenant, j’ai mon site Web et mon domaine! Il ne reste plus qu’à connecter le flux de données de la caméra au service de streaming..." nointeract
 
 # game/events/max.rpy:364
 translate crowdin create_site_4e1c08b2:
@@ -231,32 +231,32 @@ translate crowdin about_cam_3fd48063:
 # game/events/max.rpy:414
 translate crowdin about_blog_d88e779b:
 
-    # Max_00 "Итак, попробуем что-то найти о блогах. С чего начать?[nointeract]"
-    Max_00 "Alors, essayons de trouver quelque chose sur les blogs. Par où commencer?[nointeract]"
+    # Max_00 "Итак, попробуем что-то найти о блогах. С чего начать?" nointeract
+    Max_00 "Alors, essayons de trouver quelque chose sur les blogs. Par où commencer?" nointeract
 
 # game/events/max.rpy:417
 translate crowdin about_blog_3a839884:
 
-    # Max_10 "Ох... Сколько цифр. Неужели, во всём этом можно разобраться?[nointeract]"
-    Max_10 "Oh... Tellement de chiffres. Est-il vraiment possible de comprendre tout cela ?[nointeract]"
+    # Max_10 "Ох... Сколько цифр. Неужели, во всём этом можно разобраться?" nointeract
+    Max_10 "Oh... Tellement de chiffres. Est-il vraiment possible de comprendre tout cela ?" nointeract
 
 # game/events/max.rpy:426
 translate crowdin about_blog_814aee55:
 
-    # Max_04 "Прикольно... Ага. Котики. Не, устарели. Киски. Ну, смотря какие...[nointeract]"
-    Max_04 "C'est drôle... Ouaip. Les chats. Non, c'est dépassé. La chatte. Eh bien, ça dépend....[nointeract]"
+    # Max_04 "Прикольно... Ага. Котики. Не, устарели. Киски. Ну, смотря какие..." nointeract
+    Max_04 "C'est drôle... Ouaip. Les chats. Non, c'est dépassé. La chatte. Eh bien, ça dépend...." nointeract
 
 # game/events/max.rpy:435
 translate crowdin about_blog_bb8942c7:
 
-    # Max_14 "Ух. Сколько гадости в комментах... Ладно, попробуем найти в этом крупицу смысла...[nointeract]"
-    Max_14 "Ugh. Tant de méchanceté dans les commentaires... Ok, essayons de donner un sens à tout ça...[nointeract]"
+    # Max_14 "Ух. Сколько гадости в комментах... Ладно, попробуем найти в этом крупицу смысла..." nointeract
+    Max_14 "Ugh. Tant de méchanceté dans les commentaires... Ok, essayons de donner un sens à tout ça..." nointeract
 
 # game/events/max.rpy:444
 translate crowdin about_blog_5af97f32:
 
-    # Max_09 "[_text!t][nointeract]"
-    Max_09 "[_text!t][nointeract]"
+    # Max_09 "[_text!t]" nointeract
+    Max_09 "[_text!t]" nointeract
 
 # game/events/max.rpy:446
 translate crowdin about_blog_c1ce2606:
@@ -273,8 +273,8 @@ translate crowdin about_blog_4571eb7f:
 # game/events/max.rpy:460
 translate crowdin about_secretbook_605b0407:
 
-    # Max_00 "Так... Сейчас погуглим. Как там она называлась? \"Sugar Daddies\"?... Любовный роман? И что в нём такого может быть?[nointeract]"
-    Max_00 "Alors... Allons sur Google. Comment s'appelait-il ? 'Sugar Daddies'... ? Une roman d'amour ? Qu'est-ce qui pourrait bien clocher ?[nointeract]"
+    # Max_00 "Так... Сейчас погуглим. Как там она называлась? \"Sugar Daddies\"?... Любовный роман? И что в нём такого может быть?" nointeract
+    Max_00 "Alors... Allons sur Google. Comment s'appelait-il ? 'Sugar Daddies'... ? Une roman d'amour ? Qu'est-ce qui pourrait bien clocher ?" nointeract
 
 # game/events/max.rpy:462
 translate crowdin about_secretbook_279d4103:
@@ -285,8 +285,8 @@ translate crowdin about_secretbook_279d4103:
 # game/events/max.rpy:476
 translate crowdin about_spider_45c2646e:
 
-    # Max_00 "Так... Пауки. Ох, сколько видов... Какие же тут водятся...[nointeract]"
-    Max_00 "Alors... Les araignées. Oh, combien d'espèces... Quel genre vivent ici....[nointeract]"
+    # Max_00 "Так... Пауки. Ох, сколько видов... Какие же тут водятся..." nointeract
+    Max_00 "Alors... Les araignées. Oh, combien d'espèces... Quel genre vivent ici...." nointeract
 
 # game/events/max.rpy:478
 translate crowdin about_spider_624fb07e:
@@ -309,14 +309,14 @@ translate crowdin about_spider_e3aa40bf:
 # game/events/max.rpy:483
 translate crowdin about_spider_49e33bd9:
 
-    # Max_01 "Ну вот, подходит. Самый популярный паук в наших краях. Ага! Теперь узнаем как его поймать...[nointeract]"
-    Max_01 "Voilà, ça colle. L'araignée la plus populaire dans ma région. Aha ! Maintenant, trouvons comment l'attraper...[nointeract]"
+    # Max_01 "Ну вот, подходит. Самый популярный паук в наших краях. Ага! Теперь узнаем как его поймать..." nointeract
+    Max_01 "Voilà, ça colle. L'araignée la plus populaire dans ma région. Aha ! Maintenant, trouvons comment l'attraper..." nointeract
 
 # game/events/max.rpy:486
 translate crowdin about_spider_5170efbe:
 
-    # Max_09 "Так, питается комарами и мошками. Как это обычно... нет, это ничего не даёт...[nointeract]"
-    Max_09 "Donc, elle se nourrit de moustiques et de moucherons. Comme d'habitude... Non, ça ne fait rien...[nointeract]"
+    # Max_09 "Так, питается комарами и мошками. Как это обычно... нет, это ничего не даёт..." nointeract
+    Max_09 "Donc, elle se nourrit de moustiques et de moucherons. Comme d'habitude... Non, ça ne fait rien..." nointeract
 
 # game/events/max.rpy:491
 translate crowdin about_spider_883f72be:
@@ -375,8 +375,8 @@ translate crowdin ClearPool_62cb38c0:
 # game/events/max.rpy:555
 translate crowdin DishesWashed_cedc9161:
 
-    # Max_00 "Эх... столько посуды. И почему в этом огромном доме нет маленькой посудомоечной машины?[nointeract]"
-    Max_00 "Eh... tant de plats. Et pourquoi n'y a-t-il pas de petit lave-vaisselle dans cette énorme maison ?[nointeract]"
+    # Max_00 "Эх... столько посуды. И почему в этом огромном доме нет маленькой посудомоечной машины?" nointeract
+    Max_00 "Eh... tant de plats. Et pourquoi n'y a-t-il pas de petit lave-vaisselle dans cette énorme maison ?" nointeract
 
 # game/events/max.rpy:581
 translate crowdin delivery1_919500cd:
@@ -441,8 +441,8 @@ translate crowdin delivery2_1f5e97ce:
 # game/events/max.rpy:644
 translate crowdin BookRead_9562ffab:
 
-    # Max_00 "Пришло время почитать что-то...[nointeract]"
-    Max_00 "Il est temps de lire quelque chose...[nointeract]"
+    # Max_00 "Пришло время почитать что-то..." nointeract
+    Max_00 "Il est temps de lire quelque chose..." nointeract
 
 # game/events/max.rpy:653
 translate crowdin BookRead_manual_41be558e:
@@ -501,26 +501,26 @@ translate crowdin BookRead_sex_ed_58528ae0:
 # game/events/max.rpy:693
 translate crowdin SearchSecretBook_390d326c:
 
-    # Max_10 "Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается...[nointeract]"
-    Max_10 "Alors... Et où commence-t-on à chercher? Et je dois me dépêcher : Si Alice m'attrape, elle me tuera d'abord et me dira ensuite bonjour....[nointeract]"
+    # Max_10 "Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается..." nointeract
+    Max_10 "Alors... Et où commence-t-on à chercher? Et je dois me dépêcher : Si Alice m'attrape, elle me tuera d'abord et me dira ensuite bonjour...." nointeract
 
 # game/events/max.rpy:708
 translate crowdin SearchSecretBook_pillow_fdc18f7e:
 
-    # Max_14 "Нет, здесь её нет... Ну где же эта чёртова книга? Шаги? Нет, показалось...[nointeract]"
-    Max_14 "Non, il n'est pas là... Où est le livre, bon sang ? Des pas ? Non, c'était une impression...[nointeract]"
+    # Max_14 "Нет, здесь её нет... Ну где же эта чёртова книга? Шаги? Нет, показалось..." nointeract
+    Max_14 "Non, il n'est pas là... Où est le livre, bon sang ? Des pas ? Non, c'était une impression..." nointeract
 
 # game/events/max.rpy:721
 translate crowdin SearchSecretBook_bed_893f346c:
 
-    # Max_14 "Нет, тут её точно нет. Ну где же она? Кажется, я слышу шум...[nointeract]"
-    Max_14 "Non, il n'est définitivement pas là. Alors, où est-il ? Je crois que j'entends un bruit...[nointeract]"
+    # Max_14 "Нет, тут её точно нет. Ну где же она? Кажется, я слышу шум..." nointeract
+    Max_14 "Non, il n'est définitivement pas là. Alors, où est-il ? Je crois que j'entends un bruit..." nointeract
 
 # game/events/max.rpy:735
 translate crowdin SearchSecretBook_table_f75e7ca0:
 
-    # Max_14 "Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск?[nointeract]"
-    Max_14 "Peut-être qu'il n'est pas là? Ou essayer de regarder un peu plus, à mes risques et périls ?[nointeract]"
+    # Max_14 "Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск?" nointeract
+    Max_14 "Peut-être qu'il n'est pas là? Ou essayer de regarder un peu plus, à mes risques et périls ?" nointeract
 
 # game/events/max.rpy:751
 translate crowdin SearchSecretBook_wardrobe_ef3ccc0f:
@@ -537,50 +537,50 @@ translate crowdin InstallCam_b5c9650c:
 # game/events/max.rpy:770
 translate crowdin InstallCam_44699dcc:
 
-    # Max_04 "{m}В этой комнате столько всего может происходить... Думаю, зрителям понравится! Главное - спрятать все провода, чтобы Лиза не заметила новую микро-камеру...{/m}[nointeract]"
-    Max_04 "{m}Tant de choses peuvent se passer dans cette pièce... Je pense que le public va adorer ! L'essentiel est de cacher tous les fils pour que Lisa ne remarque pas la nouvelle micro-caméra....{/m}[nointeract]"
+    # Max_04 "{m}В этой комнате столько всего может происходить... Думаю, зрителям понравится! Главное - спрятать все провода, чтобы Лиза не заметила новую микро-камеру...{/m}" nointeract
+    Max_04 "{m}Tant de choses peuvent se passer dans cette pièce... Je pense que le public va adorer ! L'essentiel est de cacher tous les fils pour que Lisa ne remarque pas la nouvelle micro-caméra....{/m}" nointeract
 
 # game/events/max.rpy:776
 translate crowdin InstallCam_b9324e31:
 
-    # Max_04 "{m}Пусть зрители посмотрят, чем Алиса занимается в своей комнате, когда её не видят... Я бы и сам был бы рад посмотреть, но пока такой функции у меня нет...{/m}[nointeract]"
-    Max_04 "{m}Laissez le public voir ce qu'Alice fait dans sa chambre quand on ne la voit pas... J'aimerais le voir moi-même, mais je n'ai pas encore cette fonction...{/m}[nointeract]"
+    # Max_04 "{m}Пусть зрители посмотрят, чем Алиса занимается в своей комнате, когда её не видят... Я бы и сам был бы рад посмотреть, но пока такой функции у меня нет...{/m}" nointeract
+    Max_04 "{m}Laissez le public voir ce qu'Alice fait dans sa chambre quand on ne la voit pas... J'aimerais le voir moi-même, mais je n'ai pas encore cette fonction...{/m}" nointeract
 
 # game/events/max.rpy:782
 translate crowdin InstallCam_9d11ed16:
 
-    # Max_04 "{m}Конечно, здесь редко происходят события. Зато, когда они происходят, то здесь такое... Думаю, зрители будут рады таким моментам...{/m}[nointeract]"
-    Max_04 "{m}Bien sûr, les événements se produisent rarement ici. Mais quand ils le font, c'est... Je pense que les téléspectateurs apprécieront ces moments...{/m}[nointeract]"
+    # Max_04 "{m}Конечно, здесь редко происходят события. Зато, когда они происходят, то здесь такое... Думаю, зрители будут рады таким моментам...{/m}" nointeract
+    Max_04 "{m}Bien sûr, les événements se produisent rarement ici. Mais quand ils le font, c'est... Je pense que les téléspectateurs apprécieront ces moments...{/m}" nointeract
 
 # game/events/max.rpy:789
 translate crowdin InstallCam_bc72cb94:
 
-    # Max_03 "{m}Теперь через обе камеры можно увидеть всё самое интересное! Девочки любят покрасоваться у зеркала, а моя мама и Эрик, как я заметил, стараются не упустить возможность потрахаться перед этим же зеркалом... Моим зрителям это явно понравится!{/m}[nointeract]"
-    Max_03 "{m}Maintenant, je peux voir tout ce qui est intéressant à travers les deux caméras! Les filles aiment s'exhiber devant le miroir, et ma mère et Eric, je l'ai remarqué, ne manquent pas l'occasion de baiser devant le même miroir... Mes téléspectateurs vont clairement adorer !{/m}[nointeract]"
+    # Max_03 "{m}Теперь через обе камеры можно увидеть всё самое интересное! Девочки любят покрасоваться у зеркала, а моя мама и Эрик, как я заметил, стараются не упустить возможность потрахаться перед этим же зеркалом... Моим зрителям это явно понравится!{/m}" nointeract
+    Max_03 "{m}Maintenant, je peux voir tout ce qui est intéressant à travers les deux caméras! Les filles aiment s'exhiber devant le miroir, et ma mère et Eric, je l'ai remarqué, ne manquent pas l'occasion de baiser devant le même miroir... Mes téléspectateurs vont clairement adorer !{/m}" nointeract
 
 # game/events/max.rpy:795
 translate crowdin InstallCam_3a6027ee:
 
-    # Max_04 "{m}Конечно, с точки зрения морали ставить камеру в ванной сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно...{/m}[nointeract]"
-    Max_04 "{m}Bien sûr, du point de vue de la moralité, mettre une caméra dans la salle de bain est douteux. Cependant, il y a déjà une fenêtre sur tout le mur. Donc, officiellement, j'ai juste ouvert une autre fenêtre...{/m}[nointeract]"
+    # Max_04 "{m}Конечно, с точки зрения морали ставить камеру в ванной сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно...{/m}" nointeract
+    Max_04 "{m}Bien sûr, du point de vue de la moralité, mettre une caméra dans la salle de bain est douteux. Cependant, il y a déjà une fenêtre sur tout le mur. Donc, officiellement, j'ai juste ouvert une autre fenêtre...{/m}" nointeract
 
 # game/events/max.rpy:801
 translate crowdin InstallCam_918d8b5b:
 
-    # Max_04 "{m}Уж не знаю, будет ли какой-то толк от этой камеры... Тут так редко что-то происходит... Ну пусть будет. Раз уж взялся всё подключать...{/m}[nointeract]"
-    Max_04 "{m}Je ne sais pas si cette caméra va faire quelque chose... Il se passe rarement quelque chose ici... Eh bien, laissons-la. J'ai tout branché....{/m}[nointeract]"
+    # Max_04 "{m}Уж не знаю, будет ли какой-то толк от этой камеры... Тут так редко что-то происходит... Ну пусть будет. Раз уж взялся всё подключать...{/m}" nointeract
+    Max_04 "{m}Je ne sais pas si cette caméra va faire quelque chose... Il se passe rarement quelque chose ici... Eh bien, laissons-la. J'ai tout branché....{/m}" nointeract
 
 # game/events/max.rpy:808
 translate crowdin InstallCam_3a93939c:
 
-    # Max_04 "{m}Вот теперь зрители смогут насладится всеми мокрыми и блестящими красотами, происходящими во дворе...{/m}[nointeract]"
-    Max_04 "{m}Maintenant, le public pourra profiter de toutes les beautés humides et brillantes qui se prélassent dans la cour...{/m}[nointeract]"
+    # Max_04 "{m}Вот теперь зрители смогут насладится всеми мокрыми и блестящими красотами, происходящими во дворе...{/m}" nointeract
+    Max_04 "{m}Maintenant, le public pourra profiter de toutes les beautés humides et brillantes qui se prélassent dans la cour...{/m}" nointeract
 
 # game/events/max.rpy:814
 translate crowdin InstallCam_3426c2fd:
 
-    # Max_04 "{m}Двор... Тут почти всё время кто-то есть и что-то делает, пока светит солнце. Думаю, тут зрители будут зависать постоянно в надежде увидеть кого-то с голыми сиськами...{/m}[nointeract]"
-    Max_04 "{m}Cour... Ici, presque tout le temps, quelqu'un est là et fait quelque chose pendant que le soleil brille. Je pense que les spectateurs vont traîner dans l'espoir de voir quelqu'un avec des seins nus...{/m}[nointeract]"
+    # Max_04 "{m}Двор... Тут почти всё время кто-то есть и что-то делает, пока светит солнце. Думаю, тут зрители будут зависать постоянно в надежде увидеть кого-то с голыми сиськами...{/m}" nointeract
+    Max_04 "{m}Cour... Ici, presque tout le temps, quelqu'un est là et fait quelque chose pendant que le soleil brille. Je pense que les spectateurs vont traîner dans l'espoir de voir quelqu'un avec des seins nus...{/m}" nointeract
 
 # game/events/max.rpy:816
 translate crowdin InstallCam_7711d18e:
@@ -591,8 +591,8 @@ translate crowdin InstallCam_7711d18e:
 # game/events/max.rpy:850
 translate crowdin SearchSpider_19279e48:
 
-    # Max_00 "Так, нужно хорошенько рассмотреть траву...[nointeract]"
-    Max_00 "Donc, je dois examiner attentivement l'herbe...[nointeract]"
+    # Max_00 "Так, нужно хорошенько рассмотреть траву..." nointeract
+    Max_00 "Donc, je dois examiner attentivement l'herbe..." nointeract
 
 # game/events/max.rpy:855
 translate crowdin SearchSpider_1b27d19f:
@@ -615,8 +615,8 @@ translate crowdin HideSpider_59b81ead:
 # game/events/max.rpy:877
 translate crowdin HideSpider_14a01e28:
 
-    # Max_00 "Интересно, что будет, если Алиса заметит паука ночью? Она прибежит за помощью? Вот только этот монстр может сбежать... Так что, чем позже я его спрячу, тем больше шансов на успех...[nointeract]"
-    Max_00 "Je me demande ce qui se passerait si Alice remarquait une araignée la nuit? Elle va chercher de l'aide? Seulement ce monstre pourrait s'échapper... Donc, plus je la cache tard, plus j'ai de chances de réussir.....[nointeract]"
+    # Max_00 "Интересно, что будет, если Алиса заметит паука ночью? Она прибежит за помощью? Вот только этот монстр может сбежать... Так что, чем позже я его спрячу, тем больше шансов на успех..." nointeract
+    Max_00 "Je me demande ce qui se passerait si Alice remarquait une araignée la nuit? Elle va chercher de l'aide? Seulement ce monstre pourrait s'échapper... Donc, plus je la cache tard, plus j'ai de chances de réussir....." nointeract
 
 # game/events/max.rpy:880
 translate crowdin HideSpider_dbcd96db:
@@ -639,14 +639,14 @@ translate crowdin SearchCigarettes_b89e2d47:
 # game/events/max.rpy:949
 translate crowdin SearchCigarettes_no_34602f75:
 
-    # Max_10 "Кажется, здесь их нет... Пора уходить, а то если кто-то заметит меня...[nointeract]"
-    Max_10 "Il semble qu’elles ne soient pas là... Il est temps de partir, si quelqu’un me remarque...[nointeract]"
+    # Max_10 "Кажется, здесь их нет... Пора уходить, а то если кто-то заметит меня..." nointeract
+    Max_10 "Il semble qu’elles ne soient pas là... Il est temps de partir, si quelqu’un me remarque..." nointeract
 
 # game/events/max.rpy:957
 translate crowdin SearchCigarettes_yes_b172b515:
 
-    # Max_04 "Ага, нашёл! Так... Теперь их нужно положить таким образом, чтобы мама их заметила, если заглянет в комнату...[nointeract]"
-    Max_04 "oui, je l’ai trouvé ! Ainsi... Maintenant, elles doivent être placés de telle sorte que ma mère les remarque si elle regarde dans la pièce...[nointeract]"
+    # Max_04 "Ага, нашёл! Так... Теперь их нужно положить таким образом, чтобы мама их заметила, если заглянет в комнату..." nointeract
+    Max_04 "oui, je l’ai trouvé ! Ainsi... Maintenant, elles doivent être placés de telle sorte que ma mère les remarque si elle regarde dans la pièce..." nointeract
 
 # game/events/max.rpy:975
 translate crowdin need_money_abb42405:
@@ -757,14 +757,14 @@ translate crowdin about_credit_a7187d9d:
 # game/events/max.rpy:1052
 translate crowdin getting_load_f9d89f7f:
 
-    # Max_00 "Сколько мне сейчас нужно занять?[nointeract]"
-    Max_00 "Combien dois-je emprunter maintenant ?[nointeract]"
+    # Max_00 "Сколько мне сейчас нужно занять?" nointeract
+    Max_00 "Combien dois-je emprunter maintenant ?" nointeract
 
 # game/events/max.rpy:1069
 translate crowdin return_part_loan_4564f05f:
 
-    # Max_00 "Сколько я верну сейчас?[nointeract]"
-    Max_00 "Combien vais-je rembourser maintenant ?[nointeract]"
+    # Max_00 "Сколько я верну сейчас?" nointeract
+    Max_00 "Combien vais-je rembourser maintenant ?" nointeract
 
 # game/events/max.rpy:1092
 translate crowdin bedtime_thoughts_a9917f30:
@@ -1038,14 +1038,14 @@ translate crowdin LittleEnergy_06b9714c:
 # game/events/max.rpy:114
 translate crowdin Nap_9f963ea2:
 
-    # Max_00 "{m}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/m}[nointeract]"
-    Max_00 "{m}je ne veux pas vraiment dormir maintenant, mais une petite sieste ne sera pas superflue...{/m}[nointeract]"
+    # Max_00 "{m}Я сейчас не очень хочу спать, но немного вздремнуть лишним не будет...{/m}" nointeract
+    Max_00 "{m}je ne veux pas vraiment dormir maintenant, mais une petite sieste ne sera pas superflue...{/m}" nointeract
 
 # game/events/max.rpy:116
 translate crowdin Nap_5e123eb6:
 
-    # Max_00 "{m}Ох и вымотался же я сегодня, надо немного вздремнуть...{/m}[nointeract]"
-    Max_00 "{m}Oh et je suis épuisé aujourd'hui, il faut faire une petite sieste...{/m}[nointeract]"
+    # Max_00 "{m}Ох и вымотался же я сегодня, надо немного вздремнуть...{/m}" nointeract
+    Max_00 "{m}Oh et je suis épuisé aujourd'hui, il faut faire une petite sieste...{/m}" nointeract
 
 # game/events/max.rpy:132
 translate crowdin Nap_06b9714c:
@@ -1062,8 +1062,8 @@ translate crowdin Alarm_06b9714c:
 # game/events/max.rpy:168
 translate crowdin Shower_691d4581:
 
-    # Max_19 "{m}Всё-таки чистым быть намного лучше. Хотя не всегда хочется...{/m}[nointeract]"
-    Max_19 "{m}toujours être propre est beaucoup mieux. Bien que pas toujours envie...{/m}[nointeract]"
+    # Max_19 "{m}Всё-таки чистым быть намного лучше. Хотя не всегда хочется...{/m}" nointeract
+    Max_19 "{m}toujours être propre est beaucoup mieux. Bien que pas toujours envie...{/m}" nointeract
 
 # game/events/max.rpy:174
 translate crowdin Shower_8b383cf3:
@@ -1086,8 +1086,8 @@ translate crowdin Shower_38c5acb7:
 # game/events/max.rpy:191
 translate crowdin Bath_691d4581:
 
-    # Max_19 "{m}Всё-таки чистым быть намного лучше. Хотя не всегда хочется...{/m}[nointeract]"
-    Max_19 "{m}toujours être propre est beaucoup mieux. Bien que pas toujours envie...{/m}[nointeract]"
+    # Max_19 "{m}Всё-таки чистым быть намного лучше. Хотя не всегда хочется...{/m}" nointeract
+    Max_19 "{m}toujours être propre est beaucoup mieux. Bien que pas toujours envie...{/m}" nointeract
 
 # game/events/max.rpy:197
 translate crowdin Bath_8b383cf3:
@@ -1128,8 +1128,8 @@ translate crowdin Box_333c951b:
 # game/events/max.rpy:220
 translate crowdin Box_911e2e27:
 
-    # Max_10 "{m}Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом...{/m}[nointeract]"
-    Max_10 "{m}peut-être qu'elle est installée quelque part dans la maison et que quelqu'un nous surveille?! Il faudra inspecter la maison...{/m}[nointeract]"
+    # Max_10 "{m}Может быть, она установлена где-то в доме и за нами кто-то наблюдает?! Нужно будет осмотреть дом...{/m}" nointeract
+    Max_10 "{m}peut-être qu'elle est installée quelque part dans la maison et que quelqu'un nous surveille?! Il faudra inspecter la maison...{/m}" nointeract
 
 # game/events/max.rpy:246
 translate crowdin Notebook_299609c3:
@@ -1164,14 +1164,14 @@ translate crowdin buyfood_31efbd83:
 # game/events/max.rpy:354
 translate crowdin create_site_c3e958a9:
 
-    # Max_00 "{m}Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100{/m}[nointeract]"
-    Max_00 "{m}donc, il est temps de s'attaquer à votre site. Pour commencer, vous devez acheter un domaine, un hébergement, un modèle de conception et payer pour les services de streaming. Pour tout le montant nécessaire $ 100{/m}[nointeract]"
+    # Max_00 "{m}Итак, пришло время заняться своим сайтом. Для начала нужно купить домен, хостинг, шаблон дизайна и оплатить услуги стримингового сервиса. На всё в сумме нужно $100{/m}" nointeract
+    Max_00 "{m}donc, il est temps de s'attaquer à votre site. Pour commencer, vous devez acheter un domaine, un hébergement, un modèle de conception et payer pour les services de streaming. Pour tout le montant nécessaire $ 100{/m}" nointeract
 
 # game/events/max.rpy:361
 translate crowdin create_site_4c292724:
 
-    # Max_04 "{m}Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом...{/m}[nointeract]"
-    Max_04 "{m}Bien! Maintenant, j'ai mon site et mon domaine! Il ne reste plus qu'à connecter le flux de données de la caméra au service de streaming...{/m}[nointeract]"
+    # Max_04 "{m}Отлично! Теперь у меня есть свой сайт и домен! Осталось только соединить поток данных от камеры со стриминговым сервисом...{/m}" nointeract
+    Max_04 "{m}Bien! Maintenant, j'ai mon site et mon domaine! Il ne reste plus qu'à connecter le flux de données de la caméra au service de streaming...{/m}" nointeract
 
 # game/events/max.rpy:365
 translate crowdin create_site_2b30be60:
@@ -1200,31 +1200,31 @@ translate crowdin about_cam_8ca532b0:
 # game/events/max.rpy:415
 translate crowdin about_blog_ea375606:
 
-    # Max_00 "{m}Итак, попробуем что-то найти о блогах. С чего начать?{/m}[nointeract]"
-    Max_00 "{m}alors, essayons de trouver quelque chose sur les blogs. Par où commencer?{/m}[nointeract]"
+    # Max_00 "{m}Итак, попробуем что-то найти о блогах. С чего начать?{/m}" nointeract
+    Max_00 "{m}alors, essayons de trouver quelque chose sur les blogs. Par où commencer?{/m}" nointeract
 
 # game/events/max.rpy:418
 translate crowdin about_blog_c3072649:
 
-    # Max_10 "{m}Ох... Сколько цифр. Неужели, во всём этом можно разобраться?{/m}[nointeract]"
-    Max_10 "{m}Oh... Combien de chiffres. Est-ce que tout cela peut être compris?{/m}[nointeract]"
+    # Max_10 "{m}Ох... Сколько цифр. Неужели, во всём этом можно разобраться?{/m}" nointeract
+    Max_10 "{m}Oh... Combien de chiffres. Est-ce que tout cela peut être compris?{/m}" nointeract
 
 # game/events/max.rpy:427
 translate crowdin about_blog_eaab3fbf:
 
-    # Max_04 "{m}Прикольно... Ага. Котики. Не, устарели. Киски. Ну, смотря какие...{/m}[nointeract]"
-    Max_04 "{m}Cool... Ouais. Minets. Non, obsolète. Chattes. Ça dépend de quoi...{/m}[nointeract]"
+    # Max_04 "{m}Прикольно... Ага. Котики. Не, устарели. Киски. Ну, смотря какие...{/m}" nointeract
+    Max_04 "{m}Cool... Ouais. Minets. Non, obsolète. Chattes. Ça dépend de quoi...{/m}" nointeract
 
 # game/events/max.rpy:436
 translate crowdin about_blog_f7287104:
 
-    # Max_14 "{m}Ух. Сколько гадости в комментах... Ладно, попробуем найти в этом крупицу смысла...{/m}[nointeract]"
-    Max_14 "{m}Oreille. Quelle méchanceté dans les commentaires... Essayons de trouver un peu de sens...{/m}[nointeract]"
+    # Max_14 "{m}Ух. Сколько гадости в комментах... Ладно, попробуем найти в этом крупицу смысла...{/m}" nointeract
+    Max_14 "{m}Oreille. Quelle méchanceté dans les commentaires... Essayons de trouver un peu de sens...{/m}" nointeract
 
 # game/events/max.rpy:445
 translate crowdin about_blog_2d9761c1:
 
-    # Max_09 "{m}[_text!t]{/m}[nointeract]"
+    # Max_09 "{m}[_text!t]{/m}" nointeract
 msgstr ""
 
 # game/events/max.rpy:447
@@ -1242,8 +1242,8 @@ translate crowdin about_blog_b55fbee5:
 # game/events/max.rpy:461
 translate crowdin about_secretbook_d428da7a:
 
-    # Max_00 "{m}Так... Сейчас погуглим. Как там она называлась? \"Sugar Daddies\"?... Любовный роман? И что в нём такого может быть?{/m}[nointeract]"
-    Max_00 "{m}Ainsi... On va chercher sur Google. Comment s'appelait-elle? \"Sugar Daddies\"?... Une histoire d'amour? Et qu'est-ce qui peut y arriver?{/m}[nointeract]"
+    # Max_00 "{m}Так... Сейчас погуглим. Как там она называлась? \"Sugar Daddies\"?... Любовный роман? И что в нём такого может быть?{/m}" nointeract
+    Max_00 "{m}Ainsi... On va chercher sur Google. Comment s'appelait-elle? \"Sugar Daddies\"?... Une histoire d'amour? Et qu'est-ce qui peut y arriver?{/m}" nointeract
 
 # game/events/max.rpy:463
 translate crowdin about_secretbook_331cf11d:
@@ -1254,8 +1254,8 @@ translate crowdin about_secretbook_331cf11d:
 # game/events/max.rpy:477
 translate crowdin about_spider_c9502343:
 
-    # Max_00 "{m}Так... Пауки. Ох, сколько видов... Какие же тут водятся...{/m}[nointeract]"
-    Max_00 "{m}Ainsi... Araignées. Oh, combien d'espèces... Quelles sont les mêmes ici se trouvent les...{/m}[nointeract]"
+    # Max_00 "{m}Так... Пауки. Ох, сколько видов... Какие же тут водятся...{/m}" nointeract
+    Max_00 "{m}Ainsi... Araignées. Oh, combien d'espèces... Quelles sont les mêmes ici se trouvent les...{/m}" nointeract
 
 # game/events/max.rpy:479
 translate crowdin about_spider_1c3432cf:
@@ -1278,14 +1278,14 @@ translate crowdin about_spider_06795649:
 # game/events/max.rpy:484
 translate crowdin about_spider_825e59bc:
 
-    # Max_01 "{m}Ну вот, подходит. Самый популярный паук в наших краях. Ага! Теперь узнаем как его поймать...{/m}[nointeract]"
-    Max_01 "{m}eh Bien, parfait. L'araignée la plus populaire de notre région. Ah!ah! Maintenant, nous allons savoir comment l'attraper...{/m}[nointeract]"
+    # Max_01 "{m}Ну вот, подходит. Самый популярный паук в наших краях. Ага! Теперь узнаем как его поймать...{/m}" nointeract
+    Max_01 "{m}eh Bien, parfait. L'araignée la plus populaire de notre région. Ah!ah! Maintenant, nous allons savoir comment l'attraper...{/m}" nointeract
 
 # game/events/max.rpy:487
 translate crowdin about_spider_43ff8442:
 
-    # Max_09 "{m}Так, питается комарами и мошками. Как это обычно... нет, это ничего не даёт...{/m}[nointeract]"
-    Max_09 "{m}donc, se nourrit de moustiques et de moucherons. Comme c'est habituellement... non, ça ne donne rien...{/m}[nointeract]"
+    # Max_09 "{m}Так, питается комарами и мошками. Как это обычно... нет, это ничего не даёт...{/m}" nointeract
+    Max_09 "{m}donc, se nourrit de moustiques et de moucherons. Comme c'est habituellement... non, ça ne donne rien...{/m}" nointeract
 
 # game/events/max.rpy:492
 translate crowdin about_spider_313f4e4c:
@@ -1344,8 +1344,8 @@ translate crowdin ClearPool_26cb581b:
 # game/events/max.rpy:556
 translate crowdin DishesWashed_62001d7c:
 
-    # Max_00 "{m}Эх... столько посуды. И почему в этом огромном доме нет маленькой посудомоечной машины?{/m}[nointeract]"
-    Max_00 "{m}Eh... beaucoup de vaisselle. Et pourquoi n'y a-t-il pas un petit lave-vaisselle dans cette immense maison?{/m}[nointeract]"
+    # Max_00 "{m}Эх... столько посуды. И почему в этом огромном доме нет маленькой посудомоечной машины?{/m}" nointeract
+    Max_00 "{m}Eh... beaucoup de vaisselle. Et pourquoi n'y a-t-il pas un petit lave-vaisselle dans cette immense maison?{/m}" nointeract
 
 # game/events/max.rpy:582
 translate crowdin delivery1_f0fc4226:
@@ -1362,26 +1362,26 @@ translate crowdin delivery2_f0fc4226:
 # game/events/max.rpy:694
 translate crowdin SearchSecretBook_4d6b282e:
 
-    # Max_10 "{m}Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается...{/m}[nointeract]"
-    Max_10 "{m}Ainsi... Et par où commencer la recherche? Et il faut se dépêcher: si Alice m'attrape, elle me tue d'abord, puis elle dit bonjour...{/m}[nointeract]"
+    # Max_10 "{m}Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается...{/m}" nointeract
+    Max_10 "{m}Ainsi... Et par où commencer la recherche? Et il faut se dépêcher: si Alice m'attrape, elle me tue d'abord, puis elle dit bonjour...{/m}" nointeract
 
 # game/events/max.rpy:709
 translate crowdin SearchSecretBook_pillow_9214580d:
 
-    # Max_14 "{m}Нет, здесь её нет... Ну где же эта чёртова книга? Шаги? Нет, показалось...{/m}[nointeract]"
-    Max_14 "{m}Non, elle n'est pas là... Où est ce putain de livre? Pas? Non, il a semblé...{/m}[nointeract]"
+    # Max_14 "{m}Нет, здесь её нет... Ну где же эта чёртова книга? Шаги? Нет, показалось...{/m}" nointeract
+    Max_14 "{m}Non, elle n'est pas là... Où est ce putain de livre? Pas? Non, il a semblé...{/m}" nointeract
 
 # game/events/max.rpy:722
 translate crowdin SearchSecretBook_bed_fdbef300:
 
-    # Max_14 "{m}Нет, тут её точно нет. Ну где же она? Кажется, я слышу шум...{/m}[nointeract]"
-    Max_14 "{m}Non, elle n'est pas là. Eh bien, où est-elle? Je crois que j'entends un bruit...{/m}[nointeract]"
+    # Max_14 "{m}Нет, тут её точно нет. Ну где же она? Кажется, я слышу шум...{/m}" nointeract
+    Max_14 "{m}Non, elle n'est pas là. Eh bien, où est-elle? Je crois que j'entends un bruit...{/m}" nointeract
 
 # game/events/max.rpy:736
 translate crowdin SearchSecretBook_table_1c89acaf:
 
-    # Max_14 "{m}Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск?{/m}[nointeract]"
-    Max_14 "{m}Peut-être qu'elle n'est pas là? Ou essayer de chercher encore, à vos risques et périls?{/m}[nointeract]"
+    # Max_14 "{m}Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск?{/m}" nointeract
+    Max_14 "{m}Peut-être qu'elle n'est pas là? Ou essayer de chercher encore, à vos risques et périls?{/m}" nointeract
 
 # game/events/max.rpy:752
 translate crowdin SearchSecretBook_wardrobe_b73b38d5:
@@ -1398,8 +1398,8 @@ translate crowdin InstallCam_90e45062:
 # game/events/max.rpy:851
 translate crowdin SearchSpider_d37d0a80:
 
-    # Max_00 "{m}Так, нужно хорошенько рассмотреть траву...{/m}[nointeract]"
-    Max_00 "{m}donc, vous devez examiner attentivement l'herbe...{/m}[nointeract]"
+    # Max_00 "{m}Так, нужно хорошенько рассмотреть траву...{/m}" nointeract
+    Max_00 "{m}donc, vous devez examiner attentivement l'herbe...{/m}" nointeract
 
 # game/events/max.rpy:860
 translate crowdin SearchSpider_f2d13038:
@@ -1416,8 +1416,8 @@ translate crowdin HideSpider_a2694b69:
 # game/events/max.rpy:878
 translate crowdin HideSpider_ebac98bc:
 
-    # Max_00 "{m}Интересно, что будет, если Алиса заметит паука ночью? Она прибежит за помощью? Вот только этот монстр может сбежать... Так что, чем позже я его спрячу, тем больше шансов на успех...{/m}[nointeract]"
-    Max_00 "{m}je me Demande ce qui se passera si Alice remarque une araignée la nuit? Elle va chercher de l'aide? Seul ce monstre peut s'échapper... Donc, plus je le cache tard, plus j'ai de chances de réussir...{/m}[nointeract]"
+    # Max_00 "{m}Интересно, что будет, если Алиса заметит паука ночью? Она прибежит за помощью? Вот только этот монстр может сбежать... Так что, чем позже я его спрячу, тем больше шансов на успех...{/m}" nointeract
+    Max_00 "{m}je me Demande ce qui se passera si Alice remarque une araignée la nuit? Elle va chercher de l'aide? Seul ce monstre peut s'échapper... Donc, plus je le cache tard, plus j'ai de chances de réussir...{/m}" nointeract
 
 # game/events/max.rpy:881
 translate crowdin HideSpider_9502351b:
@@ -1434,14 +1434,14 @@ translate crowdin SearchCigarettes_7d1de5a5:
 # game/events/max.rpy:950
 translate crowdin SearchCigarettes_no_025a648e:
 
-    # Max_10 "{m}Кажется, здесь их нет... Пора уходить, а то если кто-то заметит меня...{/m}[nointeract]"
-    Max_10 "{m}il Ne semble pas y en avoir ici... Il est temps de partir, ou si quelqu'un me remarque...{/m}[nointeract]"
+    # Max_10 "{m}Кажется, здесь их нет... Пора уходить, а то если кто-то заметит меня...{/m}" nointeract
+    Max_10 "{m}il Ne semble pas y en avoir ici... Il est temps de partir, ou si quelqu'un me remarque...{/m}" nointeract
 
 # game/events/max.rpy:958
 translate crowdin SearchCigarettes_yes_f44440e9:
 
-    # Max_04 "{m}Ага, нашёл! Так... Теперь их нужно положить таким образом, чтобы мама их заметила, если заглянет в комнату...{/m}[nointeract]"
-    Max_04 "{m}oui, je l'ai trouvé! Donc... Maintenant, ils doivent être placés de manière à ce que ma mère les remarque s'il regarde dans la pièce...{/m}[nointeract]"
+    # Max_04 "{m}Ага, нашёл! Так... Теперь их нужно положить таким образом, чтобы мама их заметила, если заглянет в комнату...{/m}" nointeract
+    Max_04 "{m}oui, je l'ai trouvé! Donc... Maintenant, ils doivent être placés de manière à ce que ma mère les remarque s'il regarde dans la pièce...{/m}" nointeract
 
 # game/events/max.rpy:976
 translate crowdin need_money_7d60b08e:
@@ -1542,14 +1542,14 @@ translate crowdin about_credit_dc6f567b:
 # game/events/max.rpy:1053
 translate crowdin getting_load_f43833f1:
 
-    # Max_00 "{m}Сколько мне сейчас нужно занять?{/m}[nointeract]"
-    Max_00 "{m}Combien dois-je emprunter maintenant?{/m}[nointeract]"
+    # Max_00 "{m}Сколько мне сейчас нужно занять?{/m}" nointeract
+    Max_00 "{m}Combien dois-je emprunter maintenant?{/m}" nointeract
 
 # game/events/max.rpy:1070
 translate crowdin return_part_loan_67582e30:
 
-    # Max_00 "{m}Сколько я верну сейчас?{/m}[nointeract]"
-    Max_00 "{m}combien vais-je récupérer maintenant?{/m}[nointeract]"
+    # Max_00 "{m}Сколько я верну сейчас?{/m}" nointeract
+    Max_00 "{m}combien vais-je récupérer maintenant?{/m}" nointeract
 
 # game/events/max.rpy:1125
 translate crowdin SearchPhone_no_9a51253a:
@@ -1566,8 +1566,8 @@ translate crowdin SearchPhone_yes_48a26421:
 # game/events/max.rpy:1135
 translate crowdin SearchPhone_yes_075e9758:
 
-    # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}[nointeract]"
-    Max_09 "{m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m}[nointeract]"
+    # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}" nointeract
+    Max_09 "{m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m}" nointeract
 
     old "{i}идти к Эрику с включённым диктофоном{/i}"
     new "{i}aller voir Eric avec l'enregistreur activé {/i}"

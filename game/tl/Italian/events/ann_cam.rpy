@@ -48,11 +48,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "Ничего интересного я здесь уже не увижу, мама полностью оделась."
     Max_09 "non vedrò nulla di interessante qui, mia madre è completamente vestita."
 
-    # Max_07 "Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
-    Max_07 "Così mia mamma si veste per andare al lavoro...[nointeract]"
+    # Max_07 "Вот и мама наряжается, чтобы отправиться на работу..." nointeract
+    Max_07 "Così mia mamma si veste per andare al lavoro..." nointeract
 
-    # Max_02 "Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso...[nointeract]"
+    # Max_02 "Ох! Голая мама - это восхитительное зрелище..." nointeract
+    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso..." nointeract
 
     # Max_04 "Да уж, её округлости равнодушным не оставят никого!"
     Max_04 "Sì, la sua rotondità non lascerà nessuno indifferente!"
@@ -60,11 +60,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "Ничего интересного я здесь уже не увижу, мама полностью оделась."
     Max_09 "non vedrò nulla di interessante qui, mia madre è completamente vestita."
 
-    # Max_07 "Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Così mia madre si veste per andare a fare shopping...[nointeract]"
+    # Max_07 "Вот и мама наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Così mia madre si veste per andare a fare shopping..." nointeract
 
-    # Max_02 "Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso...[nointeract]"
+    # Max_02 "Ох! Голая мама - это восхитительное зрелище..." nointeract
+    Max_02 "Oh! La mamma nuda è uno spettacolo delizioso..." nointeract
 
     # Max_04 "Да уж, её округлости равнодушным не оставят никого!"
     Max_04 "Sì, la sua rotondità non lascerà nessuno indifferente!"
@@ -156,11 +156,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
     Max_09 "{m}Non vedrò più niente di interessante qui, la mamma è completamente vestita.{/m}"
 
-    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на работу...{/m}[nointeract]"
-    Max_07 "{m}Ecco la mamma che si veste per andare al lavoro...{/m}[nointeract]"
+    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на работу...{/m}" nointeract
+    Max_07 "{m}Ecco la mamma che si veste per andare al lavoro...{/m}" nointeract
 
-    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
-    Max_02 "{m}Oh! Una madre nuda è uno spettacolo delizioso...{/m}[nointeract]"
+    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}" nointeract
+    Max_02 "{m}Oh! Una madre nuda è uno spettacolo delizioso...{/m}" nointeract
 
     # Max_04 "{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
     Max_04 "{m}Sì, le sue rotondità non lasceranno nessuno indifferente!{/m}"
@@ -168,11 +168,11 @@ translate crowdin cam0_ann_sleep_2e831607:
     # Max_09 "{m}Ничего интересного я здесь уже не увижу, мама полностью оделась.{/m}"
     Max_09 "{m}Non vedrò più niente di interessante qui, la mamma è completamente vestita.{/m}"
 
-    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-    Max_07 "{m}Ecco la mamma che si veste per andare a fare shopping...{/m}[nointeract]"
+    # Max_07 "{m}Вот и мама наряжается, чтобы отправиться на шопинг...{/m}" nointeract
+    Max_07 "{m}Ecco la mamma che si veste per andare a fare shopping...{/m}" nointeract
 
-    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}[nointeract]"
-    Max_02 "{m}Oh! Una madre nuda è uno spettacolo delizioso...{/m}[nointeract]"
+    # Max_02 "{m}Ох! Голая мама - это восхитительное зрелище...{/m}" nointeract
+    Max_02 "{m}Oh! Una madre nuda è uno spettacolo delizioso...{/m}" nointeract
 
     # Max_04 "{m}Да уж, её округлости равнодушным не оставят никого!{/m}"
     Max_04 "{m}Sì, le sue rotondità non lasceranno nessuno indifferente!{/m}"

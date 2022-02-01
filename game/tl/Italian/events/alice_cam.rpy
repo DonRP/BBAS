@@ -63,8 +63,8 @@ translate crowdin cam0_alice_sleep_night_22b77a79:
 # game/events/alice_cam.rpy:58
 translate crowdin cam0_alice_sleep_night_ba6907da:
 
-    # Max_03 "Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?![nointeract]"
-    Max_03 "Forse prova a spiarlo attentamente dal balcone, e poi in qualche modo non riesco a crederci?![nointeract]"
+    # Max_03 "Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?!" nointeract
+    Max_03 "Forse prova a spiarlo attentamente dal balcone, e poi in qualche modo non riesco a crederci?!" nointeract
 
 # game/events/alice_cam.rpy:70
 translate crowdin cam0_alice_sleep_night_5b3adf24:
@@ -75,8 +75,8 @@ translate crowdin cam0_alice_sleep_night_5b3adf24:
 # game/events/alice_cam.rpy:73
 translate crowdin cam0_alice_sleep_night_e319aa8d:
 
-    # Max_03 "Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...[nointeract]"
-    Max_03 "sì. Eric trema di nuovo ad Alice... Solo ora proprio nella sua stanza, di fronte a lei! Ecco un pervertito cosa...[nointeract]"
+    # Max_03 "Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой..." nointeract
+    Max_03 "sì. Eric trema di nuovo ad Alice... Solo ora proprio nella sua stanza, di fronte a lei! Ecco un pervertito cosa..." nointeract
 
 # game/events/alice_cam.rpy:81
 translate crowdin cam0_alice_sleep_night_badc9d8f:
@@ -87,8 +87,8 @@ translate crowdin cam0_alice_sleep_night_badc9d8f:
 # game/events/alice_cam.rpy:84
 translate crowdin cam0_alice_sleep_night_1d708372:
 
-    # Max_09 "Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...[nointeract]"
-    Max_09 "Eric trema di nuovo ad Alice... Qual è lo scherzo?! Anche io non mi pie piemo a questo...[nointeract]"
+    # Max_09 "Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь..." nointeract
+    Max_09 "Eric trema di nuovo ad Alice... Qual è lo scherzo?! Anche io non mi pie piemo a questo..." nointeract
 
 # game/events/alice_cam.rpy:93
 translate crowdin cam0_alice_sleep_night_ecdbc7a2:
@@ -237,14 +237,14 @@ translate crowdin cam0_alice_dressed_shop_4018efed:
 # game/events/alice_cam.rpy:328
 translate crowdin cam0_alice_dressed_shop_c8aa5176:
 
-    # Max_07 "Ага! Алиса наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "sì. Alice si veste per fare shopping...[nointeract]"
+    # Max_07 "Ага! Алиса наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "sì. Alice si veste per fare shopping..." nointeract
 
 # game/events/alice_cam.rpy:339
 translate crowdin cam0_alice_dressed_shop_9d360f84:
 
-    # Max_02 "О да! Сейчас она совсем голенькая...[nointeract]"
-    Max_02 "Oh sì! Ora è completamente nuda...[nointeract]"
+    # Max_02 "О да! Сейчас она совсем голенькая..." nointeract
+    Max_02 "Oh sì! Ora è completamente nuda..." nointeract
 
 # game/events/alice_cam.rpy:350
 translate crowdin cam0_alice_dressed_shop_64a95c05:
@@ -273,14 +273,14 @@ translate crowdin cam0_alice_dressed_friend_4018efed:
 # game/events/alice_cam.rpy:386
 translate crowdin cam0_alice_dressed_friend_bf45de39:
 
-    # Max_07 "Ага! Алиса наряжается, чтобы куда-то отправиться...[nointeract]"
-    Max_07 "sì. Alice si veste per andare da qualche parte...[nointeract]"
+    # Max_07 "Ага! Алиса наряжается, чтобы куда-то отправиться..." nointeract
+    Max_07 "sì. Alice si veste per andare da qualche parte..." nointeract
 
 # game/events/alice_cam.rpy:397
 translate crowdin cam0_alice_dressed_friend_9d360f84:
 
-    # Max_02 "О да! Сейчас она совсем голенькая...[nointeract]"
-    Max_02 "Oh sì! Ora è completamente nuda...[nointeract]"
+    # Max_02 "О да! Сейчас она совсем голенькая..." nointeract
+    Max_02 "Oh sì! Ora è completamente nuda..." nointeract
 
 # game/events/alice_cam.rpy:408
 translate crowdin cam0_alice_dressed_friend_356c787f:
@@ -309,14 +309,14 @@ translate crowdin cam0_alice_dressed_club_4018efed:
 # game/events/alice_cam.rpy:438
 translate crowdin cam0_alice_dressed_club_cc04128a:
 
-    # Max_07 "Ага! Алиса наряжается, чтобы отправиться в клуб...[nointeract]"
-    Max_07 "sì. Alice si veste per andare al club...[nointeract]"
+    # Max_07 "Ага! Алиса наряжается, чтобы отправиться в клуб..." nointeract
+    Max_07 "sì. Alice si veste per andare al club..." nointeract
 
 # game/events/alice_cam.rpy:449
 translate crowdin cam0_alice_dressed_club_9d360f84:
 
-    # Max_02 "О да! Сейчас она совсем голенькая...[nointeract]"
-    Max_02 "Oh sì! Ora è completamente nuda...[nointeract]"
+    # Max_02 "О да! Сейчас она совсем голенькая..." nointeract
+    Max_02 "Oh sì! Ora è completamente nuda..." nointeract
 
 # game/events/alice_cam.rpy:459
 translate crowdin cam0_alice_dressed_club_356c787f:
@@ -638,8 +638,8 @@ translate crowdin cam0_alice_sleep_night_6094a2c7:
 # game/events/alice_cam.rpy:58
 translate crowdin cam0_alice_sleep_night_8219b103:
 
-    # Max_03 "{m}Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?!{/m}[nointeract]"
-    Max_03 "{m}Forse provare a spiarlo discretamente dal balcone, non ci posso credere?!{/m}[nointeract]"
+    # Max_03 "{m}Может, попробовать осторожно подсмотреть за ним с балкона, а то как-то даже не верится?!{/m}" nointeract
+    Max_03 "{m}Forse provare a spiarlo discretamente dal balcone, non ci posso credere?!{/m}" nointeract
 
 # game/events/alice_cam.rpy:72
 translate crowdin cam0_alice_sleep_night_2098780c:
@@ -650,8 +650,8 @@ translate crowdin cam0_alice_sleep_night_2098780c:
 # game/events/alice_cam.rpy:75
 translate crowdin cam0_alice_sleep_night_d77d346a:
 
-    # Max_03 "{m}Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...{/m}[nointeract]"
-    Max_03 "{m}Aha! Eric si sta masturbando di nuovo con Alice... Solo che questa volta nella sua stanza, davanti a lei! Che pervertito...{/m}[nointeract]"
+    # Max_03 "{m}Ага! Эрик опять дрочит на Алису... Только теперь уже прямо в её комнате, перед ней! Вот же извращенец какой...{/m}" nointeract
+    Max_03 "{m}Aha! Eric si sta masturbando di nuovo con Alice... Solo che questa volta nella sua stanza, davanti a lei! Che pervertito...{/m}" nointeract
 
 # game/events/alice_cam.rpy:84
 translate crowdin cam0_alice_sleep_night_f2542dc5:
@@ -668,8 +668,8 @@ translate crowdin cam0_alice_sleep_night_9756406b:
 # game/events/alice_cam.rpy:89
 translate crowdin cam0_alice_sleep_night_f18bbaed:
 
-    # Max_09 "{m}Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...{/m}[nointeract]"
-    Max_09 "{m}Eric si sta masturbando di nuovo con Alice... Qual è lo scherzo?! Nemmeno io mi abbasso a questo...{/m}[nointeract]"
+    # Max_09 "{m}Эрик опять дрочит на Алису... В чём прикол?! Даже я до такого не опускаюсь...{/m}" nointeract
+    Max_09 "{m}Eric si sta masturbando di nuovo con Alice... Qual è lo scherzo?! Nemmeno io mi abbasso a questo...{/m}" nointeract
 
 # game/events/alice_cam.rpy:98
 translate crowdin cam0_alice_sleep_night_e13c61ff:
@@ -818,14 +818,14 @@ translate crowdin cam0_alice_dressed_shop_8b130390:
 # game/events/alice_cam.rpy:333
 translate crowdin cam0_alice_dressed_shop_5ea48260:
 
-    # Max_07 "{m}Ага! Алиса наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-    Max_07 "{m}Aha! Alice si veste per andare a fare shopping...{/m}[nointeract]"
+    # Max_07 "{m}Ага! Алиса наряжается, чтобы отправиться на шопинг...{/m}" nointeract
+    Max_07 "{m}Aha! Alice si veste per andare a fare shopping...{/m}" nointeract
 
 # game/events/alice_cam.rpy:344
 translate crowdin cam0_alice_dressed_shop_1f916806:
 
-    # Max_02 "{m}О да! Сейчас она совсем голенькая...{/m}[nointeract]"
-    Max_02 "{m}Oh sì, ora è completamente nuda...{/m}[nointeract]"
+    # Max_02 "{m}О да! Сейчас она совсем голенькая...{/m}" nointeract
+    Max_02 "{m}Oh sì, ora è completamente nuda...{/m}" nointeract
 
 # game/events/alice_cam.rpy:355
 translate crowdin cam0_alice_dressed_shop_d757a788:
@@ -854,14 +854,14 @@ translate crowdin cam0_alice_dressed_friend_8b130390:
 # game/events/alice_cam.rpy:391
 translate crowdin cam0_alice_dressed_friend_363c2c1a:
 
-    # Max_07 "{m}Ага! Алиса наряжается, чтобы куда-то отправиться...{/m}[nointeract]"
-    Max_07 "{m}Aha! Alice si veste per andare da qualche parte...{/m}[nointeract]"
+    # Max_07 "{m}Ага! Алиса наряжается, чтобы куда-то отправиться...{/m}" nointeract
+    Max_07 "{m}Aha! Alice si veste per andare da qualche parte...{/m}" nointeract
 
 # game/events/alice_cam.rpy:402
 translate crowdin cam0_alice_dressed_friend_1f916806:
 
-    # Max_02 "{m}О да! Сейчас она совсем голенькая...{/m}[nointeract]"
-    Max_02 "{m}Oh sì, ora è completamente nuda...{/m}[nointeract]"
+    # Max_02 "{m}О да! Сейчас она совсем голенькая...{/m}" nointeract
+    Max_02 "{m}Oh sì, ora è completamente nuda...{/m}" nointeract
 
 # game/events/alice_cam.rpy:413
 translate crowdin cam0_alice_dressed_friend_e872a8d5:
@@ -890,14 +890,14 @@ translate crowdin cam0_alice_dressed_club_8b130390:
 # game/events/alice_cam.rpy:443
 translate crowdin cam0_alice_dressed_club_0a40c953:
 
-    # Max_07 "{m}Ага! Алиса наряжается, чтобы отправиться в клуб...{/m}[nointeract]"
-    Max_07 "{m}Aha! Alice si veste per andare al club...{/m}[nointeract]"
+    # Max_07 "{m}Ага! Алиса наряжается, чтобы отправиться в клуб...{/m}" nointeract
+    Max_07 "{m}Aha! Alice si veste per andare al club...{/m}" nointeract
 
 # game/events/alice_cam.rpy:454
 translate crowdin cam0_alice_dressed_club_1f916806:
 
-    # Max_02 "{m}О да! Сейчас она совсем голенькая...{/m}[nointeract]"
-    Max_02 "{m}Oh sì, ora è completamente nuda...{/m}[nointeract]"
+    # Max_02 "{m}О да! Сейчас она совсем голенькая...{/m}" nointeract
+    Max_02 "{m}Oh sì, ora è completamente nuda...{/m}" nointeract
 
 # game/events/alice_cam.rpy:464
 translate crowdin cam0_alice_dressed_club_e872a8d5:

@@ -45,20 +45,20 @@ translate crowdin cam0_lisa_sleep_night_cab47b53:
     # Max_09 "Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
     Max_09 "non vedrò nulla di interessante qui, Lisa è completamente vestita."
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
-    Max_07 "Eccellente! Lisa si veste per andare a scuola...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу..." nointeract
+    Max_07 "Eccellente! Lisa si veste per andare a scuola..." nointeract
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Eccellente! Lisa si veste per fare shopping...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Eccellente! Lisa si veste per fare shopping..." nointeract
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору...[nointeract]"
-    Max_07 "Grande! Lisa si veste per andare dal tutor...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору..." nointeract
+    Max_07 "Grande! Lisa si veste per andare dal tutor..." nointeract
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку...[nointeract]"
-    Max_07 "Grande! Lisa si veste per andare a fare una passeggiata...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку..." nointeract
+    Max_07 "Grande! Lisa si veste per andare a fare una passeggiata..." nointeract
 
-    # Max_02 "Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-    Max_02 "Uhhh Ora è così nuda e carina...[nointeract]"
+    # Max_02 "Ухх! Сейчас она такая голенькая и милая..." nointeract
+    Max_02 "Uhhh Ora è così nuda e carina..." nointeract
 
     # Max_04 "Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!"
     Max_04 "Quanto è bello che mia sorella sia una studentessa così seducente. Sono sicuro che al pubblico piace!"
@@ -132,20 +132,20 @@ translate crowdin cam0_lisa_sleep_night_cab47b53:
     # Max_09 "{m}Ничего интересного я здесь уже не увижу, Лиза полностью оделась.{/m}"
     Max_09 "{m}Non vedrò più niente di interessante qui, Lisa è completamente vestita.{/m}"
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться в школу...{/m}[nointeract]"
-    Max_07 "{m}Grande! Lisa si veste per andare a scuola...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться в школу...{/m}" nointeract
+    Max_07 "{m}Grande! Lisa si veste per andare a scuola...{/m}" nointeract
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-    Max_07 "{m}Grande! Lisa si mette in tiro per andare a fare shopping...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на шопинг...{/m}" nointeract
+    Max_07 "{m}Grande! Lisa si mette in tiro per andare a fare shopping...{/m}" nointeract
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться к репетитору...{/m}[nointeract]"
-    Max_07 "{m}Grande! Lisa si veste per andare dal suo tutor...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться к репетитору...{/m}" nointeract
+    Max_07 "{m}Grande! Lisa si veste per andare dal suo tutor...{/m}" nointeract
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на прогулку...{/m}[nointeract]"
-    Max_07 "{m}Grande! Lisa si veste per andare a fare una passeggiata...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на прогулку...{/m}" nointeract
+    Max_07 "{m}Grande! Lisa si veste per andare a fare una passeggiata...{/m}" nointeract
 
-    # Max_02 "{m}Ухх! Сейчас она такая голенькая и милая...{/m}[nointeract]"
-    Max_02 "{m}Ugh! Ora è così nuda e carina...{/m}[nointeract]"
+    # Max_02 "{m}Ухх! Сейчас она такая голенькая и милая...{/m}" nointeract
+    Max_02 "{m}Ugh! Ora è così nuda e carina...{/m}" nointeract
 
     # Max_04 "{m}Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!{/m}"
     Max_04 "{m}Che bello che la mia sorellina sia una studentessa così seducente. Sono sicuro che gli spettatori lo adorano!{/m}"

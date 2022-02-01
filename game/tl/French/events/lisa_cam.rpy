@@ -45,20 +45,20 @@ translate crowdin cam0_lisa_sleep_night_cab47b53:
     # Max_09 "Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
     Max_09 "Je ne vois plus rien d'intéressant ici, Lisa est complètement habillée."
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
-    Max_07 "Excellent! Lisa s'habille pour aller à l'école...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться в школу..." nointeract
+    Max_07 "Excellent! Lisa s'habille pour aller à l'école..." nointeract
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
-    Max_07 "Excellent! Lisa qui s'habille pour aller faire du shopping...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на шопинг..." nointeract
+    Max_07 "Excellent! Lisa qui s'habille pour aller faire du shopping..." nointeract
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору...[nointeract]"
-    Max_07 "Excellent! Lisa s'habille pour aller chez son tuteur...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться к репетитору..." nointeract
+    Max_07 "Excellent! Lisa s'habille pour aller chez son tuteur..." nointeract
 
-    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку...[nointeract]"
-    Max_07 "Excellent! Lisa qui s'habille pour aller en promenade...[nointeract]"
+    # Max_07 "Отлично! Лиза наряжается, чтобы отправиться на прогулку..." nointeract
+    Max_07 "Excellent! Lisa qui s'habille pour aller en promenade..." nointeract
 
-    # Max_02 "Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-    Max_02 "Ugh ! Maintenant elle est nue et si mignonne...[nointeract]"
+    # Max_02 "Ухх! Сейчас она такая голенькая и милая..." nointeract
+    Max_02 "Ugh ! Maintenant elle est nue et si mignonne..." nointeract
 
     # Max_04 "Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!"
     Max_04 "C'est pas cool que ma petite sœur soit une écolière si séduisante ? Je suis sûr que le public adore ça !"
@@ -132,20 +132,20 @@ translate crowdin cam0_lisa_sleep_night_cab47b53:
     # Max_09 "{m}Ничего интересного я здесь уже не увижу, Лиза полностью оделась.{/m}"
     Max_09 "{m}je ne verrai plus rien d'intéressant ici, Lisa est complètement habillée.{/m}"
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться в школу...{/m}[nointeract]"
-    Max_07 "{m}Bien! Lisa s'habille pour aller à l'école...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться в школу...{/m}" nointeract
+    Max_07 "{m}Bien! Lisa s'habille pour aller à l'école...{/m}" nointeract
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на шопинг...{/m}[nointeract]"
-    Max_07 "{m}Bien! Lisa s'habille pour aller faire du shopping...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на шопинг...{/m}" nointeract
+    Max_07 "{m}Bien! Lisa s'habille pour aller faire du shopping...{/m}" nointeract
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться к репетитору...{/m}[nointeract]"
-    Max_07 "{m}Bien! Lisa s'habille pour aller voir le tuteur...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться к репетитору...{/m}" nointeract
+    Max_07 "{m}Bien! Lisa s'habille pour aller voir le tuteur...{/m}" nointeract
 
-    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на прогулку...{/m}[nointeract]"
-    Max_07 "{m}Bien! Lisa s'habille pour aller faire une promenade...{/m}[nointeract]"
+    # Max_07 "{m}Отлично! Лиза наряжается, чтобы отправиться на прогулку...{/m}" nointeract
+    Max_07 "{m}Bien! Lisa s'habille pour aller faire une promenade...{/m}" nointeract
 
-    # Max_02 "{m}Ухх! Сейчас она такая голенькая и милая...{/m}[nointeract]"
-    Max_02 "{m}uhh! Maintenant, elle est si nue et mignonne...{/m}[nointeract]"
+    # Max_02 "{m}Ухх! Сейчас она такая голенькая и милая...{/m}" nointeract
+    Max_02 "{m}uhh! Maintenant, elle est si nue et mignonne...{/m}" nointeract
 
     # Max_04 "{m}Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!{/m}"
     Max_04 "{m}comme c'est cool que ma soeur soit une écolière si séduisante. Je suis sûr que le public l'aime!{/m}"
