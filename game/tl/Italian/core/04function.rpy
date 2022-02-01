@@ -81,7 +81,8 @@ msgid "{color=[lime]}повысилось{/color}"
 msgstr "{color=[lime]}aumentato{/color}"
 
 #    # game/core/04function.rpy:380
-msgid "Настроение %s %s \nЕё отношение к Максу %s"\nsgstr "Il suo umore %s %s \nil suo atteggiamento nei confronti di Max %s"
+msgid "Настроение %s %s \nЕё отношение к Максу %s"
+msgstr "Il suo umore %s %s \nil suo atteggiamento nei confronti di Max %s"
 
 #    # game/core/04function.rpy:382
 msgid "Отношение %s к Максу %s"

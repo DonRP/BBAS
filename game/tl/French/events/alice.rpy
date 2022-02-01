@@ -61,7 +61,8 @@ msgid "[Max_07]Эх! Самое интересное продолжалось н
 msgstr "[Max_07]Oh! Le plus intéressant n'a pas duré longtemps... La seule chose qu’il reste à faire est de profiter de son cul incomparable![nointeract]"
 
 # game/events/alice.rpy:100# translate crowdin alice_sleep_night_7ff48024:
-msgid "[Max_00]Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...[nointeract]"\nsgstr "[Max_00]Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé...[nointeract]"
+msgid "[Max_00]Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...[nointeract]"
+msgstr "[Max_00]Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé...[nointeract]"
 
 # game/events/alice.rpy:114# translate crowdin alice_sleep_night_395216d9:
 msgid "[Max_07]О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела, в одних лишь трусиках, хочется смотреть вечно![nointeract]"
@@ -168,7 +169,8 @@ msgid "[Max_01]Чёрт, какая же она притягательная, к
 msgstr "[Max_01]Putain, elle est belle quand elle est couchée comme ça... Et je veux me faufiler entre ces seins et ses jambes minces! Si seulement elle ne se réveillait pas maintenant...[nointeract]"
 
 # game/events/alice.rpy:204# translate crowdin alice_sleep_morning_7ff48024:
-msgid "[Max_00]Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...[nointeract]"\nsgstr "[Max_00]Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé...[nointeract]"
+msgid "[Max_00]Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...[nointeract]"
+msgstr "[Max_00]Alice semble endormie. Frapper à la porte n’en vaut certainement pas la peine.\nEt entrer est dangereux pour la santé...[nointeract]"
 
 # game/events/alice.rpy:215# translate crowdin alice_sleep_morning_7c1f0327:
 msgid "[Max_07]Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную фигурку, на которой лишь одни трусики...[nointeract]"
@@ -543,7 +545,8 @@ msgid "[Max_01][undetect!t]О, да... Перед мокренькой Алис�
 msgstr "[Max_01][undetect!t]Oh, oui... Il est difficile de résister à Alice mouillée ! Surtout quand elle tourne son cul de façon si séduisante..."
 
 # game/events/alice.rpy:588# translate crowdin alice_shower_not_luck_051a23bb:
-msgid "[Max_09]{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."\nsgstr "[Max_09]{color=[orange]}{i}Alice semble avoir soupçonné quelque chose !{/i}{/color}\nOh, merde ! Je dois sortir d'ici tant que je le peux encore..."
+msgid "[Max_09]{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."
+msgstr "[Max_09]{color=[orange]}{i}Alice semble avoir soupçonné quelque chose !{/i}{/color}\nOh, merde ! Je dois sortir d'ici tant que je le peux encore..."
 
 # game/events/alice.rpy:607# translate crowdin alice_shower_pinded_e826d0b4:
 msgid "[Alice_15][spotted!t]Макс!!! Опять ты за мной подглядываешь! Сколько можно-то?! Совсем что ли весь страх потерял?"
@@ -2825,7 +2828,8 @@ msgid "{i}открыть дверь{/i}"
 msgstr "{i}ouvrir la porte{/i}"
 
 #    # game/events/alice.rpy:2464
-msgid "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\nsgstr "Eh bien, sauf si c'est comme ça....\n{i}(commencer à masser sa chatte avec la main){/i}"
+msgid "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+msgstr "Eh bien, sauf si c'est comme ça....\n{i}(commencer à masser sa chatte avec la main){/i}"
 
 #    # game/events/alice.rpy:2464
 msgid "Поласкай свою киску для меня..."
@@ -2888,7 +2892,8 @@ msgid "[Max_07]{m}Эх! Самое интересное продолжалось
 msgstr "[Max_07]{m}Hein! Le plus intéressant n'a pas duré longtemps... La seule chose qui reste à faire est de profiter de son cul incomparable!{/m}[nointeract]"
 
 # game/events/alice.rpy:103# translate crowdin alice_sleep_night_e1c2fdd7:
-msgid "[Max_00]{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}[nointeract]"\nsgstr "[Max_00]{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}[nointeract]"
+msgid "[Max_00]{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}[nointeract]"
+msgstr "[Max_00]{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}[nointeract]"
 
 # game/events/alice.rpy:117# translate crowdin alice_sleep_night_c0808a95:
 msgid "[Max_07]{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела, в одних лишь трусиках, хочется смотреть вечно!{/m}[nointeract]"
@@ -2995,7 +3000,8 @@ msgid "[Max_01]{m}Чёрт, какая же она притягательная,
 msgstr "[Max_01]{m}bon sang, Elle est belle quand elle est couchée comme ça... Et je veux me faufiler entre ces seins et ses jambes minces! Si seulement elle se réveillait...{/m}[nointeract]"
 
 # game/events/alice.rpy:208# translate crowdin alice_sleep_morning_e1c2fdd7:
-msgid "[Max_00]{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}[nointeract]"\nsgstr "[Max_00]{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}[nointeract]"
+msgid "[Max_00]{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}[nointeract]"
+msgstr "[Max_00]{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}[nointeract]"
 
 # game/events/alice.rpy:219# translate crowdin alice_sleep_morning_34a5f34f:
 msgid "[Max_07]{m}Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную фигурку, на которой лишь одни трусики...{/m}[nointeract]"
@@ -3170,7 +3176,8 @@ msgid "[Max_01][undetect!t]{m}О, да... Перед мокренькой Али
 msgstr "[Max_01][undetect!t]{m}Oh, oui... Il est difficile de résister à la mouille d'Alice! Surtout quand elle tourne son cul si séduisant...{/m}"
 
 # game/events/alice.rpy:600# translate crowdin alice_shower_not_luck_11b8b725:
-msgid "[Max_09]{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"\nsgstr "[Max_09]{color=[orange]}{i}il semble qu'Alice ait suspecté quelque chose!{/i} {/color}\n{m}Oh, merde! Il faut prendre les jambes avant qu'elles ne soient là...{/m}"
+msgid "[Max_09]{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"
+msgstr "[Max_09]{color=[orange]}{i}il semble qu'Alice ait suspecté quelque chose!{/i} {/color}\n{m}Oh, merde! Il faut prendre les jambes avant qu'elles ne soient là...{/m}"
 
 # game/events/alice.rpy:648# translate crowdin alice_shower_ladder_76e8b72b:
 msgid "[Max_04]{m}Посмотрим, что у нас тут...{/m}"

@@ -165,7 +165,8 @@ msgid "Возможности"
 msgstr "Opportunités"
 
 #    # game/core/02init.rpy:122
-msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"\nsgstr "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'opportunités'. Leurs mécanismes sont un peu similaires aux 'quêtes' d’autres jeux, mais il y a quelques différences.\n\n\n'Les opportunités' peuvent ouvrir l’accès à des événements ou des achats cachés dans la boutique en ligne, à de nouvelles options dans l’ordinateur portable ou à des actions dans certaines pièces. Lisez attentivement la description de chaque 'opportunités' et vous ne manquerez de rien!"
+msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
+msgstr "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'opportunités'. Leurs mécanismes sont un peu similaires aux 'quêtes' d’autres jeux, mais il y a quelques différences.\n\n\n'Les opportunités' peuvent ouvrir l’accès à des événements ou des achats cachés dans la boutique en ligne, à de nouvelles options dans l’ordinateur portable ou à des actions dans certaines pièces. Lisez attentivement la description de chaque 'opportunités' et vous ne manquerez de rien!"
 
 #    # game/core/02init.rpy:122
 msgid "Настроение"
@@ -528,7 +529,8 @@ msgid "Рад тебя видеть, Оливия!"
 msgstr "Heureux de te voir, Olivia!"
 
 #    # game/core/02init.rpy:130
-msgid "Ну как, всё повторила? \n{i}(проводить Лизу в школу){/i}"\nsgstr "Eh bien, a-t-elle tout répété? \n{i}(escorter Lisa à l’école){/i}"
+msgid "Ну как, всё повторила? \n{i}(проводить Лизу в школу){/i}"
+msgstr "Eh bien, a-t-elle tout répété? \n{i}(escorter Lisa à l’école){/i}"
 
 #    # game/core/02init.rpy:237
 msgid "Одежда"

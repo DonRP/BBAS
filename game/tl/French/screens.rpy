@@ -37,7 +37,8 @@ msgid "скрытность, "
 msgstr "secret, "
 
 #    # game/screens.rpy:271
-msgid "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"\nsgstr "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
+msgid "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+msgstr "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
 #    # game/screens.rpy:333
 msgid "История"
@@ -372,17 +373,20 @@ msgid "Правый клик"
 msgstr "Clic droit"
 
 #    # game/screens.rpy:1310
-msgid "Колёсико вверх\nКлик на сторону отката"\nsgstr "Roulette en haut\nCliquer sur le côté pour le retour en arrière"
+msgid "Колёсико вверх\nКлик на сторону отката"
+msgstr "Roulette en haut\nCliquer sur le côté pour le retour en arrière"
 
 #    # game/screens.rpy:1314
 msgid "Колёсико вниз"
 msgstr "Roulette vers le bas"
 
 #    # game/screens.rpy:1321
-msgid "Правый триггер\nA/Нижняя кнопка"\nsgstr "Bouton droit\nA/Bouton du bas"
+msgid "Правый триггер\nA/Нижняя кнопка"
+msgstr "Bouton droit\nA/Bouton du bas"
 
 #    # game/screens.rpy:1325
-msgid "Левый Триггер\nЛевый Бампер"\nsgstr "Bouton gauche\npare-chocs gauche"
+msgid "Левый Триггер\nЛевый Бампер"
+msgstr "Bouton gauche\npare-chocs gauche"
 
 #    # game/screens.rpy:1329
 msgid "Правый бампер"

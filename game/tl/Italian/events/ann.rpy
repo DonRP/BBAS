@@ -13,7 +13,8 @@
 # "PO-Revision-Date: 2022-01-25 18:46\n"
 
 # game/events/ann.rpy:11# translate crowdin ann_sleep_240f8eab:
-msgid "[Max_00]В это время мама обычно спит.\nМне кажется, не стоит её будить...[nointeract]"\nsgstr "[Max_00]In questo momento, la mamma di solito dorme.\nNon credo che dovresti svegliarla...[nointeract]"
+msgid "[Max_00]В это время мама обычно спит.\nМне кажется, не стоит её будить...[nointeract]"
+msgstr "[Max_00]In questo momento, la mamma di solito dorme.\nNon credo che dovresti svegliarla...[nointeract]"
 
 # game/events/ann.rpy:18# translate crowdin ann_sleep_261d0248:
 msgid "[Max_01]Класс! Мама спит... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
@@ -132,7 +133,8 @@ msgid "[Max_05][undetect!t]О, да! Зрелище просто потряса�
 msgstr "[Max_05][undetect!t]Oh, sì! Lo spettacolo è semplicemente sbalorditivo... Un così succoso può essere l'invidia di qualsiasi donna! Che bagnato..."
 
 # game/events/ann.rpy:177# translate crowdin ann_shower_not_luck_4a76a42b:
-msgid "[Max_12]{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"\nsgstr "[Max_12]{color=[orange]}{i}Sembra che mia madre sospettasse qualcosa! {/i} {/color}\nOops... Ho dovuto correre finché non mi ha visto!"
+msgid "[Max_12]{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\nУпс... надо бежать, пока она меня не увидела!"
+msgstr "[Max_12]{color=[orange]}{i}Sembra che mia madre sospettasse qualcosa! {/i} {/color}\nOops... Ho dovuto correre finché non mi ha visto!"
 
 # game/events/ann.rpy:186# translate crowdin ann_shower_not_luck_9b36810d:
 msgid "[Ann_15][spotted!t]Макс!!! Что ты здесь делаешь? А ну быстро отвернись!!![nointeract]"
@@ -610,7 +612,8 @@ msgid "Ой, нет, я передумал"
 msgstr "Oh no, ho cambiato idea"
 
 # game/events/ann.rpy:11# translate crowdin ann_sleep_6173ff68:
-msgid "[Max_00]{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}[nointeract]"\nsgstr "[Max_00]{m}La mamma di solito dorme a quest'ora.\nNon credo sia una buona idea svegliarla...{/m}[nointeract]"
+msgid "[Max_00]{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}[nointeract]"
+msgstr "[Max_00]{m}La mamma di solito dorme a quest'ora.\nNon credo sia una buona idea svegliarla...{/m}[nointeract]"
 
 # game/events/ann.rpy:18# translate crowdin ann_sleep_2e3b88bc:
 msgid "[Max_01]{m}Класс! Мама спит... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!{/m}[nointeract]"
@@ -737,7 +740,8 @@ msgid "[Max_05][undetect!t]{m}О, да! Зрелище просто потряс
 msgstr "[Max_05][undetect!t]{m}Oh, sì! È uno spettacolo incredibile... Un culo così succoso che ogni donna invidierebbe! È così bagnato...{/m}"
 
 # game/events/ann.rpy:185# translate crowdin ann_shower_not_luck_6222d56c:
-msgid "[Max_12]{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"\nsgstr "[Max_12]{color=[orange]}{i}Sembra che mia madre abbia in mente qualcosa!{/i}{/color}\n{m}Ops... Devo scappare prima che mi veda!{/m}"
+msgid "[Max_12]{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"
+msgstr "[Max_12]{color=[orange]}{i}Sembra che mia madre abbia in mente qualcosa!{/i}{/color}\n{m}Ops... Devo scappare prima che mi veda!{/m}"
 
 # game/events/ann.rpy:266# translate crowdin ann_dressed_734f1c10:
 msgid "[Max_09]{m}Сегодня суббота, день шоппинга. Видимо, мама собирается...{/m}[nointeract]"
