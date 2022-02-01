@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/core/imagemaps.rpy:31
+translate Italian strings:    # game/core/imagemaps.rpy:31
     old "{i}искать под кроватью{/i}"
     new "{i}cerca sotto il letto{/i}"
 
@@ -50,7 +50,7 @@ translate crowdin strings:    # game/core/imagemaps.rpy:31
     new "{i}massaggiarmi il culo{/i}"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate crowdin strings:    # game/core/imagemaps.rpy:108
+translate Italian strings:    # game/core/imagemaps.rpy:108
     old "{i}искать на кровати{/i}"
     new "{i}cerca sul letto{/i}"
 

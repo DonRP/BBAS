@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-09 20:47\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/core/characters.rpy:230
+translate Italian strings:    # game/core/characters.rpy:230
     old "Мама"
     new "Mamma"
 

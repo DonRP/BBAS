@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/core/02init.rpy:18
+translate Italian strings:    # game/core/02init.rpy:18
     old "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
     new "{color=#00FF00}{i}Persuasione riuscita!{/i}{/color}\n"
 
@@ -622,7 +622,7 @@ translate crowdin strings:    # game/core/02init.rpy:18
     new "Mamma, ti ho comprato vestiti più leggeri!"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate crowdin strings:    # game/core/02init.rpy:40
+translate Italian strings:    # game/core/02init.rpy:40
     old "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
     new "{color=#FFBE00}{b}Attenzione:{/b} La tua influenza sulle presenti è diminuita!{/color}\n"
 

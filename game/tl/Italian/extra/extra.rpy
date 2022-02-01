@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-13 08:38\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/extra/extra.rpy:56
+translate Italian strings:    # game/extra/extra.rpy:56
     old "Новый купальник Лизы"
     new "Il nuovo costume da bagno di Lisa"
 
@@ -270,7 +270,7 @@ translate crowdin strings:    # game/extra/extra.rpy:56
     new "Immagine successiva"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate crowdin strings:    # game/extra/extra.rpy:60
+translate Italian strings:    # game/extra/extra.rpy:60
     old "Вместо ночного плаванья"
     new "Вместо ночного плаванья"
 
