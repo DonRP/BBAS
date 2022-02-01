@@ -13,17 +13,17 @@
 # "PO-Revision-Date: 2022-01-30 11:25\n"
 
 # game/core/oldfix.rpy:6
-translate crowdin old_fix_6c975de3:
+translate french old_fix_6c975de3:
 msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
 msgstr "La version sauvegardée de la démo n'est pas prise en charge. Recommencer une nouvelle partie ou sélectionner une autre sauvegarde."
 
 # game/core/oldfix.rpy:10
-translate crowdin old_fix_93331e6b:
+translate french old_fix_93331e6b:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 msgstr "Malheureusement, l’enregistrement de cette version n’est pas pris en charge en raison d’un grand nombre de modifications internes. Démarrer une nouvelle partie ou choisir une autre sauvegarde."
 
 # game/core/oldfix.rpy:14
-translate crowdin old_fix_93331e6b_1:
+translate french old_fix_93331e6b_1:
 msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 msgstr "Malheureusement, l’enregistrement de cette version n’est pas pris en charge en raison d’un grand nombre de modifications internes. Démarrer une nouvelle partie ou choisir une autre sauvegarde."
 

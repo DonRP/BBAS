@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/core/07_clothes.rpy:87
+translate french strings:    # game/core/07_clothes.rpy:87
     old "Повседневная"
     new "Informel"
 

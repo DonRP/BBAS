@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-20 08:32\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate crowdin strings:    # game/core/10_main_menu.rpy:51
+translate french strings:    # game/core/10_main_menu.rpy:51
     old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
     new "{color =[lime]} le réglage détaillé de l'un des costumes %s est Ouvert dans le menu principal {/color}"
 

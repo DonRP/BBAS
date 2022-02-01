@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-21 08:37\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/ann_cam.rpy:8
-translate crowdin cam0_ann_sleep_2e831607:
+translate french cam0_ann_sleep_2e831607:
 
     # Max_01 "Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
     Max_01 "Quelle chance j'ai d'avoir une mère aussi sexy... Elle est magnifique, on ne peut pas la quitter des yeux !"

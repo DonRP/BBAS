@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/core/04function.rpy:300
+translate french strings:    # game/core/04function.rpy:300
     old "+ к навыку скрытности"
     new "+ de compétence pour la furtivité"
 

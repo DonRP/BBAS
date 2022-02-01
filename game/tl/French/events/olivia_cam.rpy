@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-21 08:37\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/olivia_cam.rpy:8
-translate crowdin cam0_olivia_lisa_sun_fb60e201:
+translate french cam0_olivia_lisa_sun_fb60e201:
 
     # Max_01 "Благодаря натуризму Оливии, внимания ко двору станет побольше..."
     Max_01 "grâce au naturisme d'Olivia, l'attention à la cour sera plus grande..."

@@ -14,7 +14,7 @@
 # "PO-Revision-Date: 2022-01-09 20:43\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/options.rpy:15
+translate french strings:    # game/options.rpy:15
     old "Большой брат: Другая история"
     new "Big Brother : une autre histoire"
 

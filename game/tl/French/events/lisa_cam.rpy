@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-21 08:37\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/lisa_cam.rpy:8
-translate crowdin cam0_lisa_sleep_night_cab47b53:
+translate french cam0_lisa_sleep_night_cab47b53:
 
     # Max_01 "Лиза сладко спит..."
     Max_01 "Lisa dort gentiment..."

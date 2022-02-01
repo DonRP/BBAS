@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-29 11:06\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate crowdin strings:    # game/screens.rpy:244
+translate french strings:    # game/screens.rpy:244
     old "массаж, "
     new "masser, "
 
@@ -430,7 +430,7 @@ translate crowdin strings:    # game/screens.rpy:244
     new "Menu"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate crowdin strings:    # game/screens.rpy:1031
+translate french strings:    # game/screens.rpy:1031
     old "Именованные сохранения"
     new "Conservation nommée"
 
