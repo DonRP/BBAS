@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-30 11:26\n"
+"PO-Revision-Date: 2022-02-02 08:40\n"
 
 # game/events/max.rpy:4# translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -174,7 +174,7 @@ msgstr "[Max_14]Wh. Quanto c'è nei commenti... Ok, proviamo a trovare un pizzic
 
 # game/events/max.rpy:444# translate crowdin about_blog_5af97f32:
 msgid "[Max_09][_text!t][nointeract]"
-msgstr "[Max_09][_text!t][nointeract]"
+msgstr ""
 
 # game/events/max.rpy:446# translate crowdin about_blog_c1ce2606:
 msgid "[Max_01]Это что же получается. Неужели, всё так просто? Главное - сиськи! Не важно о чём блог, важно что на экране. И если там сиськи, всё в порядке с популярностью! Но я и так об этом догадывался..."
