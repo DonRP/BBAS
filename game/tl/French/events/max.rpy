@@ -698,13 +698,13 @@ translate french need_money_e2987b4e:
 
 # game/events/max.rpy:1020
 translate french cheat_money_46383d7e:
-msgid "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-msgstr "A ce stade du jeu, Max ne peut pas avoir ce montant. Le piratage peut entraîner des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités, ainsi que des erreurs critiques qui vous empêcheront de continuer à jouer au jeu."
+    # "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
+    "A ce stade du jeu, Max ne peut pas avoir ce montant. Le piratage peut entraîner des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités, ainsi que des erreurs critiques qui vous empêcheront de continuer à jouer au jeu."
 
 # game/events/max.rpy:1024
 translate french cheat_money_strateg_16b9bde6:
-msgid "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-msgstr "Vous êtes soit un hacker prudent, soit un bon stratège. Dans les deux cas, vous n'avez pas besoin de méthodes supplémentaires pour obtenir de l'argent. Sachez que le piratage peut avoir des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités du jeu, ainsi que des erreurs critiques qui vous empêcheront de poursuivre le jeu."
+    # "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
+    "Vous êtes soit un hacker prudent, soit un bon stratège. Dans les deux cas, vous n'avez pas besoin de méthodes supplémentaires pour obtenir de l'argent. Sachez que le piratage peut avoir des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités du jeu, ainsi que des erreurs critiques qui vous empêcheront de poursuivre le jeu."
 
 # game/events/max.rpy:1032
 translate french about_credit_235ff689:
@@ -1227,7 +1227,7 @@ translate french about_blog_f7287104:
 translate french about_blog_2d9761c1:
 
     # Max_09 "{m}[_text!t]{/m}" nointeract
-msgstr ""
+    ""
 
 # game/events/max.rpy:447
 translate french about_blog_116ee643:

@@ -56,8 +56,8 @@ translate french Ann_cooldown_fa220d84:
 
 # game/dialogues/anntalk.rpy:83
 translate french ann_ask_money_cf2d6379:
-msgid "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
-msgstr "Dans le cours normal des choses, cette ligne n'aurait pas dû apparaître. Informez le développeur."
+    # "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
+    "Dans le cours normal des choses, cette ligne n'aurait pas dû apparaître. Informez le développeur."
 
 # game/dialogues/anntalk.rpy:87
 translate french ann_ask_money_59ac536a:

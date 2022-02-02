@@ -354,8 +354,8 @@ translate italian strings:
     new "Rendi corrente"
 
     # game/core/screens.rpy:1957
-    old "[view_cam[1 ".public]"
-    view_cam[1 ".public]"
+    old "[view_cam[1].public]"
+    new "[view_cam[1].public]"
 
     # game/core/screens.rpy:2039
     old "ВНИМАНИЕ"

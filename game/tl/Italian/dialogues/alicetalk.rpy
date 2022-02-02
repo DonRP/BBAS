@@ -4154,8 +4154,8 @@ translate italian massage_sunscreen_spine_3c450833:
 
 # game/dialogues/alicetalk.rpy:2888
 translate italian massage_sunscreen_ass_e47a4169:
-msgid "попка"
-msgstr "pappagallo"
+    # "попка"
+    "pappagallo"
 
 # game/dialogues/alicetalk.rpy:2909
 translate italian massage_sunscreen_hips_cac75cfe:

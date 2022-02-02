@@ -56,8 +56,8 @@ translate italian Ann_cooldown_fa220d84:
 
 # game/dialogues/anntalk.rpy:83
 translate italian ann_ask_money_cf2d6379:
-msgid "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
-msgstr "Nello scenario normale, questa riga non avrebbe dovuto apparire. Dillo allo sviluppatore."
+    # "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
+    "Nello scenario normale, questa riga non avrebbe dovuto apparire. Dillo allo sviluppatore."
 
 # game/dialogues/anntalk.rpy:87
 translate italian ann_ask_money_59ac536a:

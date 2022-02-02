@@ -1928,8 +1928,8 @@ translate italian Lisa_HomeWork_2e4b11ca:
 
 # game/dialogues/lisatalk.rpy:1074
 translate italian Lisa_HomeWork_641cf30e:
-msgid "{i}Спустя какое-то время...{/i}"
-msgstr "{i}Dopo un po'... {/i}"
+    # "{i}Спустя какое-то время...{/i}"
+    "{i}Dopo un po'... {/i}"
 
 # game/dialogues/lisatalk.rpy:1075
 translate italian Lisa_HomeWork_c91852c6:
@@ -2557,8 +2557,8 @@ translate italian Lisa_HomeWork_random_answer_b6886dad:
 
 # game/dialogues/lisatalk.rpy:1489
 translate italian Lisa_HomeWork_new_self_641cf30e:
-msgid "{i}Спустя какое-то время...{/i}"
-msgstr "{i}Dopo un po'... {/i}"
+    # "{i}Спустя какое-то время...{/i}"
+    "{i}Dopo un po'... {/i}"
 
 # game/dialogues/lisatalk.rpy:1490
 translate italian Lisa_HomeWork_new_self_64ba960e:

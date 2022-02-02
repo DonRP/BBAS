@@ -698,13 +698,13 @@ translate italian need_money_e2987b4e:
 
 # game/events/max.rpy:1020
 translate italian cheat_money_46383d7e:
-msgid "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-msgstr "In questa fase del gioco, Max non può avere una tale quantità. L'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
+    # "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
+    "In questa fase del gioco, Max non può avere una tale quantità. L'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
 
 # game/events/max.rpy:1024
 translate italian cheat_money_strateg_16b9bde6:
-msgid "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-msgstr "O sei un ladro pulito o un buon stratega. In ogni caso, non hai bisogno di metodi aggiuntivi per ottenere denaro. Si prega di notare che l'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
+    # "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
+    "O sei un ladro pulito o un buon stratega. In ogni caso, non hai bisogno di metodi aggiuntivi per ottenere denaro. Si prega di notare che l'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
 
 # game/events/max.rpy:1032
 translate italian about_credit_235ff689:
@@ -1227,7 +1227,7 @@ translate italian about_blog_f7287104:
 translate italian about_blog_2d9761c1:
 
     # Max_09 "{m}[_text!t]{/m}" nointeract
-msgstr ""
+    ""
 
 # game/events/max.rpy:447
 translate italian about_blog_116ee643:

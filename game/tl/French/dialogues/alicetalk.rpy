@@ -4154,8 +4154,8 @@ translate french massage_sunscreen_spine_3c450833:
 
 # game/dialogues/alicetalk.rpy:2888
 translate french massage_sunscreen_ass_e47a4169:
-msgid "попка"
-msgstr "perroquet"
+    # "попка"
+    "perroquet"
 
 # game/dialogues/alicetalk.rpy:2909
 translate french massage_sunscreen_hips_cac75cfe:
