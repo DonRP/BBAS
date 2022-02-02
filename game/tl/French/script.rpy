@@ -216,6 +216,8 @@ translate french about_poss_95f72849:
     # Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
     Max_04 "Mais vous ne devez pas non plus en avoir peur. C'est grâce à des 'opportunités' que vous pouvez réaliser des choses dont certaines personnes ne rêvent même pas !" nointeract
 
+translate french strings:
+
     old "{i}далее{/i}"
     new "{i}suivant{/i}"
 

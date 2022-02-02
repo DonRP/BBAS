@@ -1890,6 +1890,8 @@ translate french dinner_lace_lingerie_e0b844ce:
     # Max_01 "Пока, мам..."
     Max_01 "Au revoir, maman..."
 
+translate french strings:
+
     old "Как скажешь, мам..."
     new "Comme tu veux, maman..."
 

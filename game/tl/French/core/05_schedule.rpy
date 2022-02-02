@@ -12,6 +12,8 @@
 # "Language: fr_FR\n"
 # "PO-Revision-Date: 2021-10-22 21:14\n"
 
+translate french strings:
+
     old "курит"
     new "fumée"
 

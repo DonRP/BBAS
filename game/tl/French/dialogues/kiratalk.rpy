@@ -3048,6 +3048,8 @@ translate french kira_photoset3_e5c7363f:
     # Max_04 "Шикарно!"
     Max_04 "Magnifique !"
 
+translate french strings:
+
     old "{i}Ой, в другой раз...{/i}"
     new "{i}Oh, une autre fois...{/i}"
 

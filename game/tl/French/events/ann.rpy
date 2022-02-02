@@ -810,6 +810,8 @@ translate french ann_bath_ladder_36138fd2:
     # Max_07 "Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка..." nointeract
     Max_07 "Eh ! On dirait que la partie amusante est terminée... Bien que regarder maman essuyer son corps humide et séduisant soit tout aussi satisfaisant ! Oh, quel cul elle a..." nointeract
 
+translate french strings:
+
     old "{i}Отвернуться{/i}"
     new "{i}Se retourner{/i}"
 
@@ -1512,6 +1514,8 @@ translate french ann_bath_ladder_87fd27ff:
 
     # Max_07 "{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}" nointeract
     Max_07 "{m}Hein! On dirait que le plus intéressant est terminé... Bien que, regarder maman essuyer son corps humide et séduisant n'est pas moins agréable! Oh, quel cul!..{/m}" nointeract
+
+translate french strings:
 
     old "А я не помешаю. Начинай..."
     new "Et je ne te dérange pas. Vas-y..."

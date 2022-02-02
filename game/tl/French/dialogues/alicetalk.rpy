@@ -10463,6 +10463,8 @@ translate french alice_help_carry_plates_2edc33ad:
     # Max_01 "Заодно и попку разомнёшь, а то за своим ноутбуком слишком много сидишь."
     Max_01 "Cela t'aidera à étirer tes fesses, puisque tu es trop souvent assise devant ton ordinateur portable."
 
+translate french strings:
+
     old "{i}уйти{/i}"
     new "{i}quitter{/i}"
 
@@ -11907,6 +11909,8 @@ translate french alice_about_showdown_fd54e914:
 
     # Max_01 "Конечно. Если что, зови."
     Max_01 "Bien sûr. Si tu veux, appelle-moi."
+
+translate french strings:
 
     old "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
     new "{b}Alerte: {/b} Alice ne veut plus interagir avec Max"

@@ -192,6 +192,8 @@ translate french christina_first_talk_204a6521_1:
     # Max_01 "Я тоже, Кристина! Пока."
     Max_01 "Moi aussi, Christine ! Au revoir."
 
+translate french strings:
+
     old "Хорошего тебе дня!"
     new "Bonne journée!"
 

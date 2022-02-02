@@ -4074,6 +4074,8 @@ translate french kira_bath_with_eric_6bca3a88:
     # Max_02 "Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!" nointeract
     Max_02 "Kira n'a pas laissé passer une seule goutte ! Et comme si personne ne venait de sucer la bite de quelqu'un... Un travail propre!" nointeract
 
+translate french strings:
+
     old "{i}войти{/i}"
     new "{i}se connecter{/i}"
 
@@ -5176,6 +5178,8 @@ translate french kira_bath_with_eric_56dad693:
 
     # Max_02 "{m}Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!{/m}" nointeract
     Max_02 "{m}Kira n'a pas manqué une seule goutte! Et comme si personne ne venait de sucer... Travail propre!{/m}" nointeract
+
+translate french strings:
 
     old "Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
     new "Moi quelque chose de pas dormi. Je peux regarder la télé aussi?"

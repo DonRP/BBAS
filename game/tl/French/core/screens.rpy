@@ -12,6 +12,8 @@
 # # "Language: fr_FR\n"
 # # "PO-Revision-Date: 2022-01-02 16:42\n"
 
+translate french strings:
+
     old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
     new "{b}BOUTIQUE EN LIGNE{/b}"
 

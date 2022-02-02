@@ -1290,6 +1290,8 @@ translate french olivia_repeatable_night_out_with_cb768b4d:
     # Max_01 "Приятных снов."
     Max_01 "Faites de beaux rêves."
 
+translate french strings:
+
     old "{i}подсмотреть{/i}"
     new "{i}espionner{/i}"
 
@@ -1696,6 +1698,8 @@ translate french olivia_dressed_try_to_peek_dbf3b763:
 
     # Lisa_02 "Ну вы меня совсем сейчас засмущаете!" nointeract
     Lisa_02 "Eh bien, vous allez me faire rire!" nointeract
+
+translate french strings:
 
     old "{i}подождать за дверью, пока девочки переоденутся{/i}"
     new "{i}attendre devant la porte pendant que les filles se changent {/i}"

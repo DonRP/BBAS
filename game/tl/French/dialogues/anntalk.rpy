@@ -2045,6 +2045,8 @@ translate french erofilm2_2_end_acd22c78:
     # Max_01 "Конечно, мам!"
     Max_01 "Bien sûr, maman!"
 
+translate french strings:
+
     old "В другой раз..."
     new "Une autre fois..."
 
@@ -2289,6 +2291,8 @@ translate french ann_about_wallet_a7053e1b:
 
     # Max_11 "Как скажешь, мам."
     Max_11 "Comme tu veux, maman."
+
+translate french strings:
 
     old "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
     new "{b}Alerte: {/B} Anna ne veut plus interagir avec Max"

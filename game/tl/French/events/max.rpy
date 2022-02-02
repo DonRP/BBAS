@@ -772,6 +772,8 @@ translate french bedtime_thoughts_a9917f30:
     # Max_07 "{m}Как же напакостить Эрику, чтобы он хотя бы на время перестал лезть к моим сёстрам... и Кире... да и к маме тоже... Хм... У меня была бы отличная возможность что-нибудь подмешать в его еду за ужином, если помочь Алисе накрыть на стол! Стоит посмотреть в интернет-магазине, можно ли что-то такое купить...{/m}"
     Max_07 "{m}Comment faire pour qu'Eric arrête d'embêter mes sœurs, au moins pour un moment... et Kira... et ma mère aussi... Hmmm... J'aurais une belle occasion de glisser quelque chose dans sa nourriture au dîner si j'aidais Alice à mettre la table ! Cela vaut la peine de regarder la boutique en ligne pour voir si je peux acheter quelque chose comme ça....{/m}"
 
+translate french strings:
+
     old "{i}установить будильник{/i}"
     new "{i}mettre une alarme{/i}"
 
@@ -1568,6 +1570,8 @@ translate french SearchPhone_yes_075e9758:
 
     # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}" nointeract
     Max_09 "{m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m}" nointeract
+
+translate french strings:
 
     old "{i}идти к Эрику с включённым диктофоном{/i}"
     new "{i}aller voir Eric avec l'enregistreur activé {/i}"

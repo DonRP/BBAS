@@ -342,6 +342,8 @@ translate french cam1_kira_bath_with_eric_77deb168:
     # Max_09 "Через эту камеру никого не видно... Может посмотреть через другую?"
     Max_09 "On ne peut voir personne à travers cette caméra... Je regarde sur une autre ?"
 
+translate french strings:
+
     old "{i}встретить их{/i}"
     new "{i}les rencontrer{/i}"
 

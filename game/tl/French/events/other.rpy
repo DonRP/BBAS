@@ -726,6 +726,8 @@ translate french Kira_arrival_end_yard_438c6fcd:
     # Max_07 "Давайте уже завтракать, а то остыло почти всё..."
     Max_07 "Prenons déjà le petit-déjeuner, il refroidit presque..."
 
+translate french strings:
+
     old "Удачи"
     new "Bonne chance"
 
@@ -1696,6 +1698,8 @@ translate french failed_dinner_79acb07c:
 
     # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
     Max_14 "{m}c'est ainsi que mon histoire s'est terminée. De toute cette injustice, je me suis un peu envolé et j'ai presque barbouillé Eric sur le balcon... Presque... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}" nointeract
+
+translate french strings:
 
     old "{i}подставить Эрика{/i}"
     new "{i}remplacer Eric {/i}"

@@ -834,6 +834,8 @@ translate french punishment_alice_3006a77e:
     # Ann_12 "Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
     Ann_12 "Alors, tu as compris la leçon ? Honteuse ? Bien. Il faut avoir honte. J'espère que ça ne se reproduira pas. Maintenant, habille-toi..."
 
+translate french strings:
+
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new "Il se trouve que j'étais à côté de la douche quand Lisa était là..."
 

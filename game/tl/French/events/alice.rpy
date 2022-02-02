@@ -3690,6 +3690,8 @@ translate french blog_with_Eric_9660eef6:
     # Max_07 "{m}Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего...{/m}" nointeract
     Max_07 "{m}Eric a décidé de se moquer des connaissances d'Alice en matière de consommation et de publicité... Oui, et pendant ce temps, il regarde ses charmes, à peine couverts par ses sous-vêtements. Il n'y a rien à faire pour moi ici pour le moment...{/m}" nointeract
 
+translate french strings:
+
     old "{i}постучаться{/i}"
     new "{i}frapper{/i}"
 

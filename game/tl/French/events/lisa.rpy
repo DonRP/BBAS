@@ -1740,6 +1740,8 @@ translate french lisa_horor_movie_r_not_restrain_f26114cd:
     # Lisa_13 "Сама справлюсь! Ой ой ой!"
     Lisa_13 "Je peux le faire moi-même ! Oh oh!"
 
+translate french strings:
+
     old "Это я, Макс!"
     new "C’est moi, Max!"
 

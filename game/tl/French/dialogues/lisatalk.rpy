@@ -9526,6 +9526,8 @@ translate french take_to_school_bb885618_3:
     # Max_01 "А я буду. Успехов тебе!"
     Max_01 "Et je le ferais. Bonne chance à toi!"
 
+translate french strings:
+
     old "Кажется, я передумал..."
     new "Je crois que j'ai changé d'avis..."
 
@@ -10904,6 +10906,8 @@ translate french lisa_about_showdown_e05d6220:
 
     # Max_01 "Договорились, сестрёнка."
     Max_01 "d'Accord, sœurette."
+
+translate french strings:
 
     old "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
     new "{b}Alerte: {/B} Lisa ne veut plus interagir avec Max"

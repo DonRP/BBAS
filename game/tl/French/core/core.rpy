@@ -90,6 +90,8 @@ translate french after_load_e53fbeb7:
     # "_ver [_version], conf.ver [config.version]"
     "_ver [_version], conf.ver [config.version]"
 
+translate french strings:
+
     old "В интернет-магазине доступен новый товар."
     new "Un nouveau produit est disponible dans la boutique en ligne."
 

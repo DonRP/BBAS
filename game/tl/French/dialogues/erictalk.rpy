@@ -1446,6 +1446,8 @@ translate french Eric_tribute_no_money_dd72ca96:
     # Eric_13 "Скоро узнаешь. А теперь проваливай!" nointeract
     Eric_13 "Tu le sauras bien assez tôt. Maintenant, sors!" nointeract
 
+translate french strings:
+
     old "{i}В другой раз...{/i}"
     new "{i}Une autre fois...{/i}"
 
@@ -1716,6 +1718,8 @@ translate french Eric_with_dictaphone_9ddf8dae:
 
     # Max_03 "[good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}" nointeract
     Max_03 "[good_mission!t]{m}Excellent! La chose la plus importante que j'ai écrite, à savoir ses plans pour notre petite Lisa. Cela devrait suffire pour qu'il commence non seulement à regarder avec suspicion, mais qu'il soit expulsé...{/m}" nointeract
+
+translate french strings:
 
     old "Может, договоримся? {i}(добыть компромат){/i}"
     new "On peut faire un marché? {i}() {/i}"

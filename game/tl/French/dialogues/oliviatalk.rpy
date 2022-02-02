@@ -768,6 +768,8 @@ translate french olivia_about_film_punish_nice_view_3e444279:
     # Max_01 "Мне тоже. Не скучайте."
     Max_01 "Moi aussi. Je ne veux pas vous ennuyer."
 
+translate french strings:
+
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Bien que, non... En fait, j'ai des choses à faire..."
 

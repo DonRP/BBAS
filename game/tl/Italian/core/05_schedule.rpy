@@ -12,6 +12,8 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2021-09-26 08:55\n"
 
+translate italian strings:
+
     old "курит"
     new "fuma"
 

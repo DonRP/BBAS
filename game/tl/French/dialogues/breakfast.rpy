@@ -1812,6 +1812,8 @@ translate french breakfast_35_79b424d8:
     # Ann_02 "Да, Кира. Мы будем рады её увидеть. Думаю, завтрак мы на этом закончим. Спасибо вам всем!"
     Ann_02 "Oui, Kira. Nous aimerions la voir. Je pense qu'on va s'arrêter là. Merci à tous !"
 
+translate french strings:
+
     old "Конечно, мам..."
     new "Bien sûr, maman..."
 

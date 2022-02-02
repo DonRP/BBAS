@@ -2118,6 +2118,8 @@ translate french lisa_eric_zero_practice_war_36c2b900:
     # Max_11 "{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
     Max_11 "{m}Je ferais mieux de faire la vaisselle ou Lisa ne me parlera plus du tout pendant un moment...{/m}"
 
+translate french strings:
+
     old "Понимаю, хорошо..."
     new "Je comprends, d’accord..."
 
@@ -3172,6 +3174,8 @@ translate french eric_kira_night_swim_a236de17:
 
     # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать." nointeract
     Eric_13 "pourquoi tu te faufiles, Max?! Nuit dans la cour. Arrête de te branler et dors. Ne nous empêche pas de nous reposer." nointeract
+
+translate french strings:
 
     old "{i}затаиться на полчаса{/i}"
     new "{i}se cacher pendant une demi-heure {/i}"
