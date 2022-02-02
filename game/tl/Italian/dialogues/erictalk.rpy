@@ -1648,8 +1648,8 @@ translate Italian Eric_with_dictaphone_5e5e5db9:
 # game/dialogues/erictalk.rpy:815
 translate Italian Eric_with_dictaphone_fde14d10:
 
-    # {color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
-    {color=[orange]}( Poi venne la cena, quando tutto fu deciso... ){/color}"
+    # "{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+    "{color=[orange]}( Poi venne la cena, quando tutto fu deciso... ){/color}"
 
 # game/dialogues/erictalk.rpy:819
 translate Italian Eric_with_dictaphone_b4b1461d:

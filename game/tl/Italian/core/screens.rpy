@@ -80,8 +80,8 @@
     new "Hai già pagato per questo corso e puoi attivare il prossimo video tutorial disponibile in qualsiasi momento."
 
     # game/core/screens.rpy:713
-    old "Занятие [text1 " из [text2 ""
-    text1 " da [text2 ""
+    old "Занятие [text1] из [text2]"
+    new  "[text1] da [text2]"
 
     # game/core/screens.rpy:717
     old "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
@@ -92,8 +92,8 @@
     new "{i}{b}HAI STUDIATO DI RECENTE. PRENDITI UNA PAUSA! {/b} {/i}"
 
     # game/core/screens.rpy:732
-    old "Количество занятий: [text2 ""
-    new "Numero di lezioni: [text2 ""
+    old "Количество занятий: [text2]"
+    new "Numero di lezioni: [text2]"
 
     # game/core/screens.rpy:738
     old "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"

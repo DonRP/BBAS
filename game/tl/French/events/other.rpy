@@ -1406,7 +1406,7 @@ translate french dictaphone_showdown_with_eric_8684e2a4:
 # game/events/other.rpy:675
 translate french dictaphone_showdown_with_eric_60fce6d7:
 
-    # {color=[orange]}(все слушают запись...){/color}"
+    # "{color=[orange]}(все слушают запись...){/color}"
     {color =[orange]} (tout le monde écoute l'enregistrement...){/color}"
 
 # game/events/other.rpy:676

@@ -10710,8 +10710,8 @@ translate french lisa_about_stolen_phone_d80ba8b0:
 # game/dialogues/lisatalk.rpy:4647
 translate french lisa_about_stolen_phone_2a74b2cc:
 
-    # {color=[orange]}(Лиза слушает запись...){/color}"
-    {color=[orange]}(Lisa écoute l'enregistrement...){/color}"
+    # "{color=[orange]}(Лиза слушает запись...){/color}"
+    "{color=[orange]}(Lisa écoute l'enregistrement...){/color}"
 
 # game/dialogues/lisatalk.rpy:4648
 translate french lisa_about_stolen_phone_0a6862b6:
