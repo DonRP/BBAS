@@ -111,7 +111,7 @@ translate french strings:
 
     # game/core/screens.rpy:775
     old "На вашем счете $[paid]"
-    paid]$ dans votre compte"
+    new "$[paid] dans votre compte"
 
     # game/core/screens.rpy:777
     old "Забрать $[paid]"

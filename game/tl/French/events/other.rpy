@@ -1409,7 +1409,7 @@ translate french dictaphone_showdown_with_eric_8684e2a4:
 translate french dictaphone_showdown_with_eric_60fce6d7:
 
     # "{color=[orange]}(все слушают запись...){/color}"
-    {color =[orange]} (tout le monde écoute l'enregistrement...){/color}"
+    "{color=[orange]}(tout le monde écoute l'enregistrement...){/color}"
 
 # game/events/other.rpy:676
 translate french dictaphone_showdown_with_eric_1c22e674:

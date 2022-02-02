@@ -975,8 +975,8 @@ translate italian first_photoset_4e92d6fb:
 # game/dialogues/kiratalk.rpy:470
 translate italian first_photoset_92396b51:
 
-    # extend]Готово! Теперь садись. Ты уже проснулась и решила красиво потянуться..."
-    extend]Fatto! Ora siediti. Ti sei già svegliato e hai deciso di allungare magnificamente..."
+    # extend "Готово! Теперь садись. Ты уже проснулась и решила красиво потянуться..."
+    extend "Fatto! Ora siediti. Ti sei già svegliato e hai deciso di allungare magnificamente..."
 
 # game/dialogues/kiratalk.rpy:475
 translate italian first_photoset_set2_8b0aa53e:
@@ -993,8 +993,8 @@ translate italian first_photoset_set2_2cc32318:
 # game/dialogues/kiratalk.rpy:480
 translate italian first_photoset_set2_e0b39b37:
 
-    # extend]Ага, есть! А дальше мы щёлкнем твою попку..."
-    extend]sì, c'è! E poi ti schiaccheremo il..."
+    # extend "Ага, есть! А дальше мы щёлкнем твою попку..."
+    extend "sì, c'è! E poi ti schiaccheremo il..."
 
 # game/dialogues/kiratalk.rpy:485
 translate italian first_photoset_set2_0542ad6b:
@@ -1017,8 +1017,8 @@ translate italian first_photoset_set2_ec1bc097:
 # game/dialogues/kiratalk.rpy:498
 translate italian first_photoset_set2_f7295a5d:
 
-    # extend]Вот и готово. Давай, привстань немного, я сделаю ещё снимок..."
-    extend]Fatto. Dai, alzati un po', farò un'altra foto..."
+    # extend "Вот и готово. Давай, привстань немного, я сделаю ещё снимок..."
+    extend "Fatto. Dai, alzati un po', farò un'altra foto..."
 
 # game/dialogues/kiratalk.rpy:503
 translate italian first_photoset_set4_434fb1ca:
@@ -1035,8 +1035,8 @@ translate italian first_photoset_set4_d32c6105:
 # game/dialogues/kiratalk.rpy:510
 translate italian first_photoset_set4_47f29f71:
 
-    # extend]Отлично! Вот что делаем дальше..." nointeract
-    extend]Eccellente! Ecco cosa stiamo facendo dopo..." nointeract
+    # extend "Отлично! Вот что делаем дальше..." nointeract
+    extend "Eccellente! Ecco cosa stiamo facendo dopo..." nointeract
 
 # game/dialogues/kiratalk.rpy:521
 translate italian first_photoset_set4_00af3fa8:
@@ -1053,8 +1053,8 @@ translate italian first_photoset_set4_c305aae6:
 # game/dialogues/kiratalk.rpy:526
 translate italian first_photoset_set4_947687dd:
 
-    # extend]Снимок выйдет чумовой... Теперь переходим с дивана к столу."
-    extend]'immagine uscirà fuori di testa... Ora passiamo dal divano al tavolo."
+    # extend "Снимок выйдет чумовой... Теперь переходим с дивана к столу."
+    extend "'immagine uscirà fuori di testa... Ora passiamo dal divano al tavolo."
 
 # game/dialogues/kiratalk.rpy:531
 translate italian first_photoset_set6_9af80df1:
@@ -1071,8 +1071,8 @@ translate italian first_photoset_set6_04c93189:
 # game/dialogues/kiratalk.rpy:536
 translate italian first_photoset_set6_9e415db6:
 
-    # extend]Снимок готов. Давай, покажи мне что-нибудь погорячее..."
-    extend]L'immagine è pronta. Dai, mostrami qualcosa di più caldo..."
+    # extend "Снимок готов. Давай, покажи мне что-нибудь погорячее..."
+    extend "L'immagine è pronta. Dai, mostrami qualcosa di più caldo..."
 
 # game/dialogues/kiratalk.rpy:540
 translate italian first_photoset_set6_d74aef50:
@@ -1089,8 +1089,8 @@ translate italian first_photoset_set6_1f7ddded:
 # game/dialogues/kiratalk.rpy:547
 translate italian first_photoset_set6_ff3a2d28:
 
-    # extend]Да, кадр получился что надо!" nointeract
-    extend]Sì, la cornice si è rivelata quella di cui hai bisogno!" nointeract
+    # extend "Да, кадр получился что надо!" nointeract
+    extend "Sì, la cornice si è rivelata quella di cui hai bisogno!" nointeract
 
 # game/dialogues/kiratalk.rpy:550
 translate italian first_photoset_set6_42057bef:
@@ -1107,8 +1107,8 @@ translate italian first_photoset_set6_ef185983:
 # game/dialogues/kiratalk.rpy:555
 translate italian first_photoset_set6_b116d87b:
 
-    # extend]Это же все для портфолио, а в нём должны быть продемонстрированы твои умения..."
-    extend]Questo è tutto per il portafoglio e dovrebbe dimostrare le tue capacità..."
+    # extend "Это же все для портфолио, а в нём должны быть продемонстрированы твои умения..."
+    extend "Questo è tutto per il portafoglio e dovrebbe dimostrare le tue capacità..."
 
 # game/dialogues/kiratalk.rpy:559
 translate italian first_photoset_set6_44dd7e29:
@@ -1125,8 +1125,8 @@ translate italian first_photoset_set6_fd2a8d5d:
 # game/dialogues/kiratalk.rpy:566
 translate italian first_photoset_set6_11fdb519:
 
-    # extend]" nointeract
-    extend]" nointeract
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/dialogues/kiratalk.rpy:577
 translate italian first_photoset_set6_8f9aa457:
@@ -1143,8 +1143,8 @@ translate italian first_photoset_set6_2da65c76:
 # game/dialogues/kiratalk.rpy:583
 translate italian first_photoset_set6_77e15199:
 
-    # extend]Да... продолжай вот так, это будет отличный кадр! Может тебе есть, чем меня удивить?"
-    extend]sì... vai avanti, sarà un grande scatto! Forse hai qualcosa da sorprendermi?"
+    # extend "Да... продолжай вот так, это будет отличный кадр! Может тебе есть, чем меня удивить?"
+    extend "sì... vai avanti, sarà un grande scatto! Forse hai qualcosa da sorprendermi?"
 
 # game/dialogues/kiratalk.rpy:587
 translate italian first_photoset_set11_2fd9047a:
@@ -1161,8 +1161,8 @@ translate italian first_photoset_set11_be14bc45:
 # game/dialogues/kiratalk.rpy:593
 translate italian first_photoset_set11_54845204:
 
-    # extend]Думаю, я уже почти готов для последнего снимка! Готовься, тётя Кира..."
-    extend]penso di essere quasi pronto per l'ultimo scatto! Preparati, zia Kira..."
+    # extend "Думаю, я уже почти готов для последнего снимка! Готовься, тётя Кира..."
+    extend "penso di essere quasi pronto per l'ultimo scatto! Preparati, zia Kira..."
 
 # game/dialogues/kiratalk.rpy:596
 translate italian first_photoset_set11_94d8f220:
@@ -1179,8 +1179,8 @@ translate italian first_photoset_set11_adb51051:
 # game/dialogues/kiratalk.rpy:602
 translate italian first_photoset_set11_9c4f2555:
 
-    # extend]Да уж, это было потрясающе! Думаю, снимки получились удачными..."
-    extend]sì, è stato fantastico! Penso che le foto siano state un successo..."
+    # extend "Да уж, это было потрясающе! Думаю, снимки получились удачными..."
+    extend "sì, è stato fantastico! Penso che le foto siano state un successo..."
 
 # game/dialogues/kiratalk.rpy:603
 translate italian first_photoset_set11_9aa39956:
@@ -1581,8 +1581,8 @@ translate italian kira_about_photo2_17697838:
 # game/dialogues/kiratalk.rpy:810
 translate italian kira_about_photo2_1e1833a1:
 
-    # extend]Готово! Теперь приляг на кровать как-нибудь интересно..."
-    extend]Fatto! Ora sono sdraiato sul letto in qualche modo interessante..."
+    # extend "Готово! Теперь приляг на кровать как-нибудь интересно..."
+    extend "Fatto! Ora sono sdraiato sul letto in qualche modo interessante..."
 
 # game/dialogues/kiratalk.rpy:815
 translate italian kira_about_photo2_3632b5af:
@@ -1599,8 +1599,8 @@ translate italian kira_about_photo2_5a7f8753:
 # game/dialogues/kiratalk.rpy:820
 translate italian kira_about_photo2_2281fcac:
 
-    # extend]Ага, есть! А дальше мы щёлкнем твою попку ещё раз, ложись как будто устала и отдыхаешь..."
-    extend]sì, c'è! E poi ti faremo di nuovo clic sul, sdraiati come se fossi stanco e riposando..."
+    # extend "Ага, есть! А дальше мы щёлкнем твою попку ещё раз, ложись как будто устала и отдыхаешь..."
+    extend "sì, c'è! E poi ti faremo di nuovo clic sul, sdraiati come se fossi stanco e riposando..."
 
 # game/dialogues/kiratalk.rpy:825
 translate italian kira_about_photo2_b4d729d5:
@@ -1617,8 +1617,8 @@ translate italian kira_about_photo2_cc3722f2:
 # game/dialogues/kiratalk.rpy:830
 translate italian kira_about_photo2_08b22229:
 
-    # extend]С радостью бы её расстегнул, но давай начнём с верху. Наверно, во всей этой коже очень жарко..."
-    extend]Mi piacerebbe sbottonarlo, ma iniziamo dall'alto. Immagino che sia molto caldo in tutta questa pelle..."
+    # extend "С радостью бы её расстегнул, но давай начнём с верху. Наверно, во всей этой коже очень жарко..."
+    extend "Mi piacerebbe sbottonarlo, ma iniziamo dall'alto. Immagino che sia molto caldo in tutta questa pelle..."
 
 # game/dialogues/kiratalk.rpy:835
 translate italian kira_about_photo2_b42365a4:
@@ -1635,8 +1635,8 @@ translate italian kira_about_photo2_663fd71a:
 # game/dialogues/kiratalk.rpy:840
 translate italian kira_about_photo2_a22807a0:
 
-    # extend]Снимок готов. А что ты там говорила про верёвки?"
-    extend]L'immagine è pronta. E cosa hai detto lì sulle corde?"
+    # extend "Снимок готов. А что ты там говорила про верёвки?"
+    extend "L'immagine è pronta. E cosa hai detto lì sulle corde?"
 
 # game/dialogues/kiratalk.rpy:844
 translate italian kira_about_photo2_eb14f139:
@@ -1665,8 +1665,8 @@ translate italian kira_about_photo2_ed7eabcb:
 # game/dialogues/kiratalk.rpy:862
 translate italian kira_about_photo2_499c97e0:
 
-    # extend]И даже, как любишь сосать мой член расскажешь?"
-    extend]E anche, come ti piace succhiare il mio racconto?"
+    # extend "И даже, как любишь сосать мой член расскажешь?"
+    extend "E anche, come ti piace succhiare il mio racconto?"
 
 # game/dialogues/kiratalk.rpy:864
 translate italian kira_about_photo2_76feb6c2:
@@ -2685,8 +2685,8 @@ translate italian kira_photoset3_65d2418d:
 # game/dialogues/kiratalk.rpy:1314
 translate italian kira_photoset3_b3251128:
 
-    # extend]стягиваю с себя те блестящие трусики, которые ты видел..."
-    extend]togli quelle mutandine lucide che hai visto..."
+    # extend "стягиваю с себя те блестящие трусики, которые ты видел..."
+    extend "togli quelle mutandine lucide che hai visto..."
 
 # game/dialogues/kiratalk.rpy:1315
 translate italian kira_photoset3_4b50b734:
@@ -2751,8 +2751,8 @@ translate italian kira_photoset3_b53667ec:
 # game/dialogues/kiratalk.rpy:1344
 translate italian kira_photoset3_f26895a9:
 
-    # extend]Ты можешь сказать, как тебе больше нравится..."
-    extend]Puoi dirmi quanto ti piace..."
+    # extend "Ты можешь сказать, как тебе больше нравится..."
+    extend "Puoi dirmi quanto ti piace..."
 
 # game/dialogues/kiratalk.rpy:1345
 translate italian kira_photoset3_fd10fafc:
@@ -2817,8 +2817,8 @@ translate italian kira_photoset3_7f0a1c51:
 # game/dialogues/kiratalk.rpy:1372
 translate italian kira_photoset3_34802b52:
 
-    # extend]Ухх... Твою подругу придётся хорошенько отшлёпать!"
-    extend]Uhh La tua ragazza dovrà sculacciare bene!"
+    # extend "Ухх... Твою подругу придётся хорошенько отшлёпать!"
+    extend "Uhh La tua ragazza dovrà sculacciare bene!"
 
 # game/dialogues/kiratalk.rpy:1378
 translate italian kira_photoset3_2e774034:
@@ -2865,8 +2865,8 @@ translate italian kira_photoset3_4e3a97cd:
 # game/dialogues/kiratalk.rpy:1397
 translate italian kira_photoset3_35211b2c:
 
-    # extend]Ты как, готов трахнуть свою тётю или тебя ещё помучить..."
-    extend]sei pronto a scopare tua zia o sei ancora tormentato..."
+    # extend "Ты как, готов трахнуть свою тётю или тебя ещё помучить..."
+    extend "sei pronto a scopare tua zia o sei ancora tormentato..."
 
 # game/dialogues/kiratalk.rpy:1398
 translate italian kira_photoset3_bc109d9b:
@@ -2919,8 +2919,8 @@ translate italian kira_photoset3_66f2bbc9:
 # game/dialogues/kiratalk.rpy:1423
 translate italian kira_photoset3_8c30c98f:
 
-    # extend]У меня до сих пор дрожь по телу..."
-    extend]ho ancora un brivido nel mio corpo..."
+    # extend "У меня до сих пор дрожь по телу..."
+    extend "ho ancora un brivido nel mio corpo..."
 
 # game/dialogues/kiratalk.rpy:1424
 translate italian kira_photoset3_d4f0958c:

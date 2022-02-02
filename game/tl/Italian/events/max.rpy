@@ -734,7 +734,7 @@ translate italian about_credit_189e301b:
 translate italian about_credit_0f0e102c:
 
     # Max_04 "Подытожим условия: \n{i}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\nЛучше, конечно же, до такого не доводить."
-    Max_04 "Per riassumere le condizioni: \n"\n{i}Entro un mese è necessario restituire l'intero importo del prestito + 10% \n"\nIn caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo... {/i} \n\nÈ meglio non portare questo a questo, ovviamente."
+    Max_04 "Per riassumere le condizioni: \n\n{i}Entro un mese è necessario restituire l'intero importo del prestito + 10% \n\nIn caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo... {/i} \n\nÈ meglio non portare questo a questo, ovviamente."
 
 # game/events/max.rpy:1038
 translate italian about_credit_6a66dabb:
@@ -1521,7 +1521,7 @@ translate italian about_credit_90bb447c:
 translate italian about_credit_73692d65:
 
     # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"
-    Max_04 "{m}Riassumiamo le condizioni: \n"\n{b}Entro un mese, è necessario rimborsare l'intero importo del prestito + 10%% \n"\nSe non ripago in tempo, il debito si triplica ogni 30 giorni, e la metà dei profitti sarà presa dal mio sito ogni giorno. E non ci sarà più modo di prendere in prestito...{/b} \n\nMeglio, ovviamente, non portarlo a questo.{/m}"
+    Max_04 "{m}Riassumiamo le condizioni: \n\n{b}Entro un mese, è necessario rimborsare l'intero importo del prestito + 10%% \n\nSe non ripago in tempo, il debito si triplica ogni 30 giorni, e la metà dei profitti sarà presa dal mio sito ogni giorno. E non ci sarà più modo di prendere in prestito...{/b} \n\nMeglio, ovviamente, non portarlo a questo.{/m}"
 
 # game/events/max.rpy:1039
 translate italian about_credit_5011fb20:
