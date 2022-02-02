@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-26 18:41\n"
+"PO-Revision-Date: 2022-02-02 08:40\n"
 
 # game/dialogues/kiratalk.rpy:17# translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -754,7 +754,7 @@ msgstr "[Max_02]penso che gli scatti saranno fantastici... {p=1.5}{nw}"
 
 # game/dialogues/kiratalk.rpy:566# translate crowdin first_photoset_set6_11fdb519:
 msgid "[extend][nointeract]"
-msgstr "[extend][nointeract]"
+msgstr ""
 
 # game/dialogues/kiratalk.rpy:577# translate crowdin first_photoset_set6_8f9aa457:
 msgid "[Kira_02]Как скажешь, Макс. Держись... Это будет сумасшедший минет!"
