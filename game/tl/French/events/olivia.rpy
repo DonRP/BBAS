@@ -1352,14 +1352,14 @@ translate french olivia_dressed_stay_in_room_132c666f:
 # game/events/olivia.rpy:701
 translate french olivia_dressed_stay_in_room_08276951:
 
-    # Lisa]{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени..." nointeract
-    Lisa]{b}Lisa:{/b} Et ne t'avises pas de regarder ! Ça ne prendra pas longtemps...." nointeract
+    # Lisa "{b}Лиза:{/b} И не вздумай подглядывать! Это не займёт много времени..." nointeract
+    Lisa "{b}Lisa:{/b} Et ne t'avises pas de regarder ! Ça ne prendra pas longtemps...." nointeract
 
 # game/events/olivia.rpy:703
 translate french olivia_dressed_stay_in_room_cdba7705:
 
-    # Lisa]{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста!" nointeract
-    Lisa]{b}Lisa:{/b} Et j'aimerais que tu essaies de ne pas me regarder... Je sais que c'est difficile, mais s'il te plaît !" nointeract
+    # Lisa "{b}Лиза:{/b} И я бы хотела, чтобы ты постарался не подглядывать... Знаю, сложно, но пожалуйста!" nointeract
+    Lisa "{b}Lisa:{/b} Et j'aimerais que tu essaies de ne pas me regarder... Je sais que c'est difficile, mais s'il te plaît !" nointeract
 
 # game/events/olivia.rpy:730
 translate french olivia_dressed_moment0_8a87f589:

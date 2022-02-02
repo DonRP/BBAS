@@ -21,14 +21,14 @@ translate Italian alice_bath_086088b7:
 # game/events/alice.rpy:16
 translate Italian alice_bath_ab9e6db9:
 
-    # Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю..." nointeract
-    Alice]{b}Alice:{/b} Chi non dorme lì? Sto facendo il bagno..." nointeract
+    # Alice "{b}Алиса:{/b} Кому там не спится? Я ванну набираю..." nointeract
+    Alice "{b}Alice:{/b} Chi non dorme lì? Sto facendo il bagno..." nointeract
 
 # game/events/alice.rpy:18
 translate Italian alice_bath_74fd8c7a:
 
-    # Alice]{b}Алиса:{/b} Макс, ты глухой? Я же сказала, буду в ванне плескаться. Жди как минимум час!"
-    Alice]{b}Alice:{/b} Max, sei sordo? Ho detto, ho intenzione di sguazzare nella vasca. Aspetta almeno un'ora!"
+    # Alice "{b}Алиса:{/b} Макс, ты глухой? Я же сказала, буду в ванне плескаться. Жди как минимум час!"
+    Alice "{b}Alice:{/b} Max, sei sordo? Ho detto, ho intenzione di sguazzare nella vasca. Aspetta almeno un'ora!"
 
 # game/events/alice.rpy:19
 translate Italian alice_bath_84309eb3:
@@ -477,8 +477,8 @@ translate Italian alice_shower_spider_7e56af7c:
 # game/events/alice.rpy:377
 translate Italian alice_shower_spider_3f8fc33f:
 
-    # Alice]{b}Алиса:{/b} А-а-а-а-а!!! Вот чёрт... Охренеть!"
-    Alice]{b}Alice:{/b} A-a-a-a-a-a!!! Ecco l'inferno... Oh cazzo!"
+    # Alice "{b}Алиса:{/b} А-а-а-а-а!!! Вот чёрт... Охренеть!"
+    Alice "{b}Alice:{/b} A-a-a-a-a-a!!! Ecco l'inferno... Oh cazzo!"
 
 # game/events/alice.rpy:378
 translate Italian alice_shower_spider_08cd39c6:
@@ -957,14 +957,14 @@ translate Italian alice_dressed_shop_61771170:
 # game/events/alice.rpy:703
 translate Italian alice_dressed_shop_f5380b66:
 
-    # Alice]{b}Алиса:{/b} Кто там? Я переодеваюсь!" nointeract
-    Alice]{b}Alice:{/b} Chi c'è? Mi sto cambiando i vestiti!" nointeract
+    # Alice "{b}Алиса:{/b} Кто там? Я переодеваюсь!" nointeract
+    Alice "{b}Alice:{/b} Chi c'è? Mi sto cambiando i vestiti!" nointeract
 
 # game/events/alice.rpy:705
 translate Italian alice_dressed_shop_d12c2b56:
 
-    # Alice]{b}Алиса:{/b} Даже не вздумай! Прибью на месте! Жди там. А лучше свали подальше, чтобы под дверью не сопел тут."
-    Alice]{b}Alice:{/b} Non pensarci nemmeno! Lo inchioderò sul posto! Aspetta lì. Ed è meglio cadere, in modo che sotto la porta non russasse qui."
+    # Alice "{b}Алиса:{/b} Даже не вздумай! Прибью на месте! Жди там. А лучше свали подальше, чтобы под дверью не сопел тут."
+    Alice "{b}Alice:{/b} Non pensarci nemmeno! Lo inchioderò sul posto! Aspetta lì. Ed è meglio cadere, in modo che sotto la porta non russasse qui."
 
 # game/events/alice.rpy:706
 translate Italian alice_dressed_shop_6e7aee99:
@@ -1005,14 +1005,14 @@ translate Italian alice_dressed_friend_fffa81b2:
 # game/events/alice.rpy:795
 translate Italian alice_dressed_friend_f5380b66:
 
-    # Alice]{b}Алиса:{/b} Кто там? Я переодеваюсь!" nointeract
-    Alice]{b}Alice:{/b} Chi c'è? Mi sto cambiando i vestiti!" nointeract
+    # Alice "{b}Алиса:{/b} Кто там? Я переодеваюсь!" nointeract
+    Alice "{b}Alice:{/b} Chi c'è? Mi sto cambiando i vestiti!" nointeract
 
 # game/events/alice.rpy:797
 translate Italian alice_dressed_friend_d12c2b56:
 
-    # Alice]{b}Алиса:{/b} Даже не вздумай! Прибью на месте! Жди там. А лучше свали подальше, чтобы под дверью не сопел тут."
-    Alice]{b}Alice:{/b} Non pensarci nemmeno! Lo inchioderò sul posto! Aspetta lì. Ed è meglio cadere, in modo che sotto la porta non russasse qui."
+    # Alice "{b}Алиса:{/b} Даже не вздумай! Прибью на месте! Жди там. А лучше свали подальше, чтобы под дверью не сопел тут."
+    Alice "{b}Alice:{/b} Non pensarci nemmeno! Lo inchioderò sul posto! Aspetta lì. Ed è meglio cadere, in modo che sotto la porta non russasse qui."
 
 # game/events/alice.rpy:798
 translate Italian alice_dressed_friend_6e7aee99:
@@ -1071,8 +1071,8 @@ translate Italian alice_dressed_club_9720dc1a:
 # game/events/alice.rpy:906
 translate Italian alice_dressed_club_knock_7b60fad6:
 
-    # Alice]{b}Алиса:{/b} Кто там? Я собираюсь, подождите..."
-    Alice]{b}Alice:{/b} Chi c'è? Vado a, aspetta..."
+    # Alice "{b}Алиса:{/b} Кто там? Я собираюсь, подождите..."
+    Alice "{b}Alice:{/b} Chi c'è? Vado a, aspetta..."
 
 # game/events/alice.rpy:907
 translate Italian alice_dressed_club_knock_a5d16085:
@@ -1563,14 +1563,14 @@ translate Italian alice_after_club_57eac526:
 # game/events/alice.rpy:1410
 translate Italian alice_after_club_ab9e6db9:
 
-    # Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю..." nointeract
-    Alice]{b}Alice:{/b} Chi non dorme lì? Sto facendo il bagno..." nointeract
+    # Alice "{b}Алиса:{/b} Кому там не спится? Я ванну набираю..." nointeract
+    Alice "{b}Alice:{/b} Chi non dorme lì? Sto facendo il bagno..." nointeract
 
 # game/events/alice.rpy:1412
 translate Italian alice_after_club_74fd8c7a:
 
-    # Alice]{b}Алиса:{/b} Макс, ты глухой? Я же сказала, буду в ванне плескаться. Жди как минимум час!"
-    Alice]{b}Alice:{/b} Max, sei sordo? Ho detto, ho intenzione di sguazzare nella vasca. Aspetta almeno un'ora!"
+    # Alice "{b}Алиса:{/b} Макс, ты глухой? Я же сказала, буду в ванне плескаться. Жди как минимум час!"
+    Alice "{b}Alice:{/b} Max, sei sordo? Ho detto, ho intenzione di sguazzare nella vasca. Aspetta almeno un'ora!"
 
 # game/events/alice.rpy:1413
 translate Italian alice_after_club_9ddb515e:
@@ -2763,8 +2763,8 @@ translate Italian alice_blog_lingerie_4b2720e7:
 # game/events/alice.rpy:2214
 translate Italian alice_blog_lingerie_85e795c3:
 
-    # Alice]{b}Алиса:{/b} Заходи давай, пока я не передумала!" nointeract
-    Alice]{b}Alice:{/b} Dai, finché non cambio idea!" nointeract
+    # Alice "{b}Алиса:{/b} Заходи давай, пока я не передумала!" nointeract
+    Alice "{b}Alice:{/b} Dai, finché non cambio idea!" nointeract
 
 # game/events/alice.rpy:2224
 translate Italian alice_blog_lingerie_a937857e:
@@ -3075,14 +3075,14 @@ translate Italian alice_body_photoset1_cec47c00:
 # game/events/alice.rpy:2398
 translate Italian alice_towel_after_club_3479dfb8:
 
-    # Max]" nointeract
-    Max]" nointeract
+    # Max "" nointeract
+    Max "" nointeract
 
 # game/events/alice.rpy:2400
 translate Italian alice_towel_after_club_164b6a94:
 
-    # Alice]{b}Алиса:{/b} Кому там не спится? Я ванну принимаю..."
-    Alice]{b}Alice:{/b} Chi non dorme lì? Faccio il bagno..."
+    # Alice "{b}Алиса:{/b} Кому там не спится? Я ванну принимаю..."
+    Alice "{b}Alice:{/b} Chi non dorme lì? Faccio il bagno..."
 
 # game/events/alice.rpy:2401
 translate Italian alice_towel_after_club_06f4b1d3:
@@ -3093,8 +3093,8 @@ translate Italian alice_towel_after_club_06f4b1d3:
 # game/events/alice.rpy:2402
 translate Italian alice_towel_after_club_86a91f2d:
 
-    # Alice]{b}Алиса:{/b} Поздно, Макс! Я уже в ванне, так что гуляй."
-    Alice]{b}Alice:{/b} In ritardo, Max! Sono già nella vasca, quindi vai a fare una passeggiata."
+    # Alice "{b}Алиса:{/b} Поздно, Макс! Я уже в ванне, так что гуляй."
+    Alice "{b}Alice:{/b} In ritardo, Max! Sono già nella vasca, quindi vai a fare una passeggiata."
 
 # game/events/alice.rpy:2404
 translate Italian alice_towel_after_club_71b9cc8b:

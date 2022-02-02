@@ -7790,8 +7790,8 @@ translate Italian gift_black_lingerie_52c30a67:
 # game/dialogues/alicetalk.rpy:4193
 translate Italian gift_black_lingerie_3163cf24:
 
-    # Alice]{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
-    Alice]{b}Alice:{/b} Questo è tutto, Max. Puoi entrare..."
+    # Alice "{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
+    Alice "{b}Alice:{/b} Questo è tutto, Max. Puoi entrare..."
 
 # game/dialogues/alicetalk.rpy:4199
 translate Italian gift_black_lingerie_75108e7f:
@@ -9122,8 +9122,8 @@ translate Italian alice_mistress_0_bbce7676:
 # game/dialogues/alicetalk.rpy:4948
 translate Italian alice_mistress_0_f57bb277:
 
-    # Alice]{b}Алиса:{/b} Жди за дверью, Макс! Я сейчас подготовлюсь и позову тебя."
-    Alice]{b}Alice:{/b} Aspetta fuori dalla porta, Max! Ti preparerò e ti chiamerò ora."
+    # Alice "{b}Алиса:{/b} Жди за дверью, Макс! Я сейчас подготовлюсь и позову тебя."
+    Alice "{b}Alice:{/b} Aspetta fuori dalla porta, Max! Ti preparerò e ti chiamerò ora."
 
 # game/dialogues/alicetalk.rpy:4949
 translate Italian alice_mistress_0_ac44d106:
@@ -9134,8 +9134,8 @@ translate Italian alice_mistress_0_ac44d106:
 # game/dialogues/alicetalk.rpy:4950
 translate Italian alice_mistress_0_c84b412e:
 
-    # Alice]{b}Алиса:{/b} Немного терпения и ты всё узнаешь!"
-    Alice]{b}Alice:{/b} Un po' di pazienza e lo scoprirete!"
+    # Alice "{b}Алиса:{/b} Немного терпения и ты всё узнаешь!"
+    Alice "{b}Alice:{/b} Un po' di pazienza e lo scoprirete!"
 
 # game/dialogues/alicetalk.rpy:4951
 translate Italian alice_mistress_0_878ce08d:
@@ -9152,8 +9152,8 @@ translate Italian alice_mistress_0_f9c4c600:
 # game/dialogues/alicetalk.rpy:4954
 translate Italian alice_mistress_0_be0cb566:
 
-    # Alice]{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал..." nointeract
-    Alice]{b}Alice:{/b} Puoi entrare se non sei ancora scappato..." nointeract
+    # Alice "{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал..." nointeract
+    Alice "{b}Alice:{/b} Puoi entrare se non sei ancora scappato..." nointeract
 
 # game/dialogues/alicetalk.rpy:4962
 translate Italian alice_mistress_0_15abff2f:
@@ -9428,8 +9428,8 @@ translate Italian alice_mistress_1_d1fa99ac:
 # game/dialogues/alicetalk.rpy:5058
 translate Italian alice_mistress_1_843d85a9:
 
-    # Alice]{b}Алиса:{/b} Макс, заходи!" nointeract
-    Alice]{b}Alice:{/b} Max, entra!" nointeract
+    # Alice "{b}Алиса:{/b} Макс, заходи!" nointeract
+    Alice "{b}Alice:{/b} Max, entra!" nointeract
 
 # game/dialogues/alicetalk.rpy:5066
 translate Italian alice_mistress_1_6c9fc7dd:
@@ -9602,8 +9602,8 @@ translate Italian alice_mistress_2_c7e32ed5:
 # game/dialogues/alicetalk.rpy:5152
 translate Italian alice_mistress_2_de2fccb5:
 
-    # Alice]{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
-    Alice]{b}Alice:{/b} E non pensare nemmeno di scappare perché sono quasi vestita!"
+    # Alice "{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
+    Alice "{b}Alice:{/b} E non pensare nemmeno di scappare perché sono quasi vestita!"
 
 # game/dialogues/alicetalk.rpy:5153
 translate Italian alice_mistress_2_47ba9f6f:
@@ -9614,8 +9614,8 @@ translate Italian alice_mistress_2_47ba9f6f:
 # game/dialogues/alicetalk.rpy:5155
 translate Italian alice_mistress_2_fc43cc0c:
 
-    # Alice]{b}Алиса:{/b} Давай, заходи." nointeract
-    Alice]{b}Alice:{/b} Dai, entra." nointeract
+    # Alice "{b}Алиса:{/b} Давай, заходи." nointeract
+    Alice "{b}Alice:{/b} Dai, entra." nointeract
 
 # game/dialogues/alicetalk.rpy:5163
 translate Italian alice_mistress_2_b898a43b:
@@ -9842,8 +9842,8 @@ translate Italian alice_mistress_3_e413dc04:
 # game/dialogues/alicetalk.rpy:5304
 translate Italian alice_mistress_3_follow_de2fccb5:
 
-    # Alice]{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
-    Alice]{b}Alice:{/b} E non pensare nemmeno di scappare perché sono quasi vestita!"
+    # Alice "{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
+    Alice "{b}Alice:{/b} E non pensare nemmeno di scappare perché sono quasi vestita!"
 
 # game/dialogues/alicetalk.rpy:5305
 translate Italian alice_mistress_3_follow_47ba9f6f:
@@ -9854,8 +9854,8 @@ translate Italian alice_mistress_3_follow_47ba9f6f:
 # game/dialogues/alicetalk.rpy:5307
 translate Italian alice_mistress_3_follow_fc43cc0c:
 
-    # Alice]{b}Алиса:{/b} Давай, заходи." nointeract
-    Alice]{b}Alice:{/b} Dai, entra." nointeract
+    # Alice "{b}Алиса:{/b} Давай, заходи." nointeract
+    Alice "{b}Alice:{/b} Dai, entra." nointeract
 
 # game/dialogues/alicetalk.rpy:5321
 translate Italian alice_mistress_3_follow_1598145f:

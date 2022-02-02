@@ -249,8 +249,8 @@ translate french MorningWoodCont_e3c0bf2a:
 # game/dialogues/lisatalk.rpy:183
 translate french MorningWoodCont_4fbd8958:
 
-    # Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
-    Max]Qu'est-ce que c'est ? Lisa veut toucher ma bite ? ! Non, je dois encore rêver... Ou est-ce le cas ?" nointeract
+    # Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+    Max "Qu'est-ce que c'est ? Lisa veut toucher ma bite ? ! Non, je dois encore rêver... Ou est-ce le cas ?" nointeract
 
 # game/dialogues/lisatalk.rpy:189
 translate french MorningWoodCont_b3cadc1a:
@@ -10716,8 +10716,8 @@ translate french lisa_about_stolen_phone_2a74b2cc:
 # game/dialogues/lisatalk.rpy:4648
 translate french lisa_about_stolen_phone_0a6862b6:
 
-    # Eric]{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
-    Eric]{b}Eric:{/b}\n{i}... elle va commencer à polir ma bite avec ses douces lèvres. Tu l'as déjà imaginé? J', c'est oui! Le conte sera le même!{/i}"
+    # Eric "{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
+    Eric "{b}Eric:{/b}\n{i}... elle va commencer à polir ma bite avec ses douces lèvres. Tu l'as déjà imaginé? J', c'est oui! Le conte sera le même!{/i}"
 
 # game/dialogues/lisatalk.rpy:4649
 translate french lisa_about_stolen_phone_4c12b1b6:

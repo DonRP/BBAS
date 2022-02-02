@@ -249,8 +249,8 @@ translate Italian MorningWoodCont_e3c0bf2a:
 # game/dialogues/lisatalk.rpy:183
 translate Italian MorningWoodCont_4fbd8958:
 
-    # Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
-    Max]Che cos'è?! Lisa vuole toccare il mio cazzo?! No, probabilmente sto ancora dormendo... O no?" nointeract
+    # Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+    Max "Che cos'è?! Lisa vuole toccare il mio cazzo?! No, probabilmente sto ancora dormendo... O no?" nointeract
 
 # game/dialogues/lisatalk.rpy:189
 translate Italian MorningWoodCont_b3cadc1a:
@@ -10716,8 +10716,8 @@ translate Italian lisa_about_stolen_phone_2a74b2cc:
 # game/dialogues/lisatalk.rpy:4648
 translate Italian lisa_about_stolen_phone_0a6862b6:
 
-    # Eric]{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
-    Eric]{b}Eric:{/b}\n{i}... inizierà a lucidare il mio cazzo con le sue dolci labbra. L'hai già inviato? Sono qui! La storia sarà la stessa!{/i}"
+    # Eric "{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
+    Eric "{b}Eric:{/b}\n{i}... inizierà a lucidare il mio cazzo con le sue dolci labbra. L'hai già inviato? Sono qui! La storia sarà la stessa!{/i}"
 
 # game/dialogues/lisatalk.rpy:4649
 translate Italian lisa_about_stolen_phone_4c12b1b6:
