@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-26 18:41\n"
+"PO-Revision-Date: 2022-02-02 08:40\n"
 
 # game/dialogues/punishment.rpy:99# translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -286,7 +286,7 @@ msgstr "[Ann_16][_text!t]"
 
 # game/dialogues/punishment.rpy:462# translate crowdin punishment_lisa_0b6806cc:
 msgid "[Ann_16][_text!t][nointeract]"
-msgstr "[Ann_16][_text!t][nointeract]"
+msgstr ""
 
 # game/dialogues/punishment.rpy:465# translate crowdin punishment_lisa_f1ea86d0:
 msgid "[Max_08]Мам, не нужно наказывать Лизу. Она правда старалась, я сам видел. Ну и я помогу ей подтянуть оценки."
@@ -334,7 +334,7 @@ msgstr "[Ann_18][_text!t]"
 
 # game/dialogues/punishment.rpy:509# translate crowdin punishment_lisa_67c8b436:
 msgid "[Ann_18][_text!t][nointeract]"
-msgstr "[Ann_18][_text!t][nointeract]"
+msgstr ""
 
 # game/dialogues/punishment.rpy:513# translate crowdin punishment_lisa_a1d39e4d:
 msgid "[Max_08]Мам, не нужно наказывать Лизу. Обещаю, что бы там ни было, я поработаю с ней над поведением, честно. Вот увидишь, проблем больше не будет!"
@@ -418,7 +418,7 @@ msgstr "[Ann_18][_text!t]"
 
 # game/dialogues/punishment.rpy:629# translate crowdin punishment_alice_67c8b436:
 msgid "[Ann_18][_text!t][nointeract]"
-msgstr "[Ann_18][_text!t][nointeract]"
+msgstr ""
 
 # game/dialogues/punishment.rpy:633# translate crowdin punishment_alice_cb34e360:
 msgid "[Max_08]Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
@@ -502,7 +502,7 @@ msgstr "[Ann_18][_text!t]"
 
 # game/dialogues/punishment.rpy:702# translate crowdin punishment_alice_67c8b436_1:
 msgid "[Ann_18][_text!t][nointeract]"
-msgstr "[Ann_18][_text!t][nointeract]"
+msgstr ""
 
 # game/dialogues/punishment.rpy:706# translate crowdin punishment_alice_cb34e360_1:
 msgid "[Max_08]Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
