@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 20:44\n"
+"PO-Revision-Date: 2022-02-02 08:39\n"
 
 # game/dialogues/erictalk.rpy:17# translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -1124,7 +1124,7 @@ msgid "[Lisa_13]Больше даже близко не подходи к мое
 msgstr ""
 
 # game/dialogues/erictalk.rpy:815# translate crowdin Eric_with_dictaphone_fde14d10:
-msgid "[{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+msgid "{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
 msgstr ""
 
 # game/dialogues/erictalk.rpy:819# translate crowdin Eric_with_dictaphone_b4b1461d:
