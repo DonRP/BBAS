@@ -149,3 +149,9 @@ game/core
 *.TTF
 *.otf
 *.png
+renpy
+*.rpa
+*.txt
+*.exe
+*.py
+*.sh
