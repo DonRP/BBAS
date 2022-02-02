@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-30 11:26\n"
+"PO-Revision-Date: 2022-02-02 08:40\n"
 
 # game/dialogues/alicetalk.rpy:12# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -3178,7 +3178,7 @@ msgstr "[Alice_15]Chi??? Ragni cosa?! Se non tolgi le mani in cinque secondi, ti
 
 # game/dialogues/alicetalk.rpy:3164# translate crowdin massage_sunscreen_squeeze_chest_11fdb519:
 msgid "[extend][nointeract]"
-msgstr "[extend][nointeract]"
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:3180# translate crowdin massage_sunscreen_squeeze_chest_1160d297:
 msgid "[Max_02]Всё, убрал. Правда, если ты продолжишь так крепко прижиматься ими к моему лицу, то есть риск..."
