@@ -810,6 +810,8 @@ translate italian ann_bath_ladder_36138fd2:
     # Max_07 "Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка..." nointeract
     Max_07 "Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha..." nointeract
 
+translate italian strings:
+
     old "{i}Отвернуться{/i}"
     new "{i}voltare le chiavi in giavolte{/i}"
 
@@ -1512,6 +1514,8 @@ translate italian ann_bath_ladder_87fd27ff:
 
     # Max_07 "{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}" nointeract
     Max_07 "{m}Eh! Sembra che la parte divertente sia finita... Anche se guardare la mamma che pulisce il suo corpo bagnato e seducente è altrettanto soddisfacente! Oh, che culo che ha...{/m}" nointeract
+
+translate italian strings:
 
     old "А я не помешаю. Начинай..."
     new "Non voglio essere d'intralcio. Iniziare..."

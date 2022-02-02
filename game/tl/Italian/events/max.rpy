@@ -772,6 +772,8 @@ translate italian bedtime_thoughts_a9917f30:
     # Max_07 "{m}Как же напакостить Эрику, чтобы он хотя бы на время перестал лезть к моим сёстрам... и Кире... да и к маме тоже... Хм... У меня была бы отличная возможность что-нибудь подмешать в его еду за ужином, если помочь Алисе накрыть на стол! Стоит посмотреть в интернет-магазине, можно ли что-то такое купить...{/m}"
     Max_07 "{m}Come attaccare Eric, in modo che almeno per un po 'abbia smesso di arrampicarsi sulle mie sorelle ... e Kira... e anche a mia mamma... Hmm... Avrei una grande opportunità di mescolare qualcosa nel suo pasto a cena se aiutassi Alice ad impostare la tavola! Vale la pena cercare nel negozio online, se è possibile acquistare qualcosa di simile ... {/m}"
 
+translate italian strings:
+
     old "{i}установить будильник{/i}"
     new "{i}impostare l'allarme{/i}"
 
@@ -1568,6 +1570,8 @@ translate italian SearchPhone_yes_075e9758:
 
     # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}" nointeract
     Max_09 "{m}Sì, c'è un registratore. Ora, prima che Lisa torni, dobbiamo andare da Eric e cercare di smascherarlo...{/m}" nointeract
+
+translate italian strings:
 
     old "{i}идти к Эрику с включённым диктофоном{/i}"
     new "{i}per andare da Eric con il registratore acceso{/i}"

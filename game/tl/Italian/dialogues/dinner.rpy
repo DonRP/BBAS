@@ -1890,6 +1890,8 @@ translate italian dinner_lace_lingerie_e0b844ce:
     # Max_01 "Пока, мам..."
     Max_01 "Bye, Mamma..."
 
+translate italian strings:
+
     old "Как скажешь, мам..."
     new "Come dici tu, mamma..."
 

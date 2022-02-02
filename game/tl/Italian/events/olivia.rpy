@@ -1290,6 +1290,8 @@ translate italian olivia_repeatable_night_out_with_cb768b4d:
     # Max_01 "Приятных снов."
     Max_01 "sogni piacevoli."
 
+translate italian strings:
+
     old "{i}подсмотреть{/i}"
     new "{i}vedere{/i}"
 
@@ -1696,6 +1698,8 @@ translate italian olivia_dressed_try_to_peek_dbf3b763:
 
     # Lisa_02 "Ну вы меня совсем сейчас засмущаете!" nointeract
     Lisa_02 "Ora mi stai mettendo in imbarazzo!" nointeract
+
+translate italian strings:
 
     old "{i}подождать за дверью, пока девочки переоденутся{/i}"
     new "{i}Aspettare fuori dalla porta che le ragazze si cambino{/i}"

@@ -2045,6 +2045,8 @@ translate italian erofilm2_2_end_acd22c78:
     # Max_01 "Конечно, мам!"
     Max_01 "Certo, mamma!"
 
+translate italian strings:
+
     old "В другой раз..."
     new "Un'altra volta..."
 
@@ -2289,6 +2291,8 @@ translate italian ann_about_wallet_a7053e1b:
 
     # Max_11 "Как скажешь, мам."
     Max_11 "Come dici tu, mamma."
+
+translate italian strings:
 
     old "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
     new "{b}Attenzione:{/b} Anna non vuole più interagire con Max"

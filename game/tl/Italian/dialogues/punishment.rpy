@@ -834,6 +834,8 @@ translate italian punishment_alice_3006a77e:
     # Ann_12 "Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
     Ann_12 "Beh, hai imparato una lezione? Vergognoso? Corretto. Dovrebbe essere un peccato. Speriamo che questo non accada di nuovo. Ora, vestiti..."
 
+translate italian strings:
+
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 

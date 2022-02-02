@@ -1812,6 +1812,8 @@ translate italian breakfast_35_79b424d8:
     # Ann_02 "Да, Кира. Мы будем рады её увидеть. Думаю, завтрак мы на этом закончим. Спасибо вам всем!"
     Ann_02 "Sì, Kira. Ci piacerebbe vederla. Penso che finiremo la colazione con quello. Grazie a tutti!"
 
+translate italian strings:
+
     old "Конечно, мам..."
     new "Certo, mamma..."
 

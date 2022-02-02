@@ -3048,6 +3048,8 @@ translate italian kira_photoset3_e5c7363f:
     # Max_04 "Шикарно!"
     Max_04 "Stupendo!"
 
+translate italian strings:
+
     old "{i}Ой, в другой раз...{/i}"
     new "{i}Oh, un'altra volta... {/i}"
 

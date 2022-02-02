@@ -1446,6 +1446,8 @@ translate italian Eric_tribute_no_money_dd72ca96:
     # Eric_13 "Скоро узнаешь. А теперь проваливай!" nointeract
     Eric_13 "Lo scoprirai presto. Ora sparisci!" nointeract
 
+translate italian strings:
+
     old "{i}В другой раз...{/i}"
     new "{i}Un'altra volta... {/i}"
 
@@ -1716,6 +1718,8 @@ translate italian Eric_with_dictaphone_9ddf8dae:
 
     # Max_03 "[good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}" nointeract
     Max_03 "[good_mission!t]{m}È fantastico! Ho scritto la cosa più importante, cioè i suoi piani per la nostra piccola Lisa. Questo dovrebbe essere sufficiente per farlo non solo sembrare sospettoso, ma anche per cacciarlo via...{/m}" nointeract
+
+translate italian strings:
 
     old "Может, договоримся? {i}(добыть компромат){/i}"
     new "Che ne dici di un accordo? {i}(compromesso){/i}"

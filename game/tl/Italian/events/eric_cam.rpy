@@ -606,6 +606,8 @@ translate italian cam1_eric_kira_night_swim_45123771:
     # Max_10 "{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
     Max_10 "{m}Oh, merda! Sembra che Kira stia dando piacere a Eric per non darlo in pasto a sua madre...{/m}"
 
+translate italian strings:
+
     old "{i}идти к комнате Алисы{/i}"
     new "{i}vai nella stanza di Alice{/i}"
 

@@ -9526,6 +9526,8 @@ translate italian take_to_school_bb885618_3:
     # Max_01 "А я буду. Успехов тебе!"
     Max_01 "E lo farò. Buona Fortuna!"
 
+translate italian strings:
+
     old "Кажется, я передумал..."
     new "Penso di aver cambiato idea..."
 
@@ -10904,6 +10906,8 @@ translate italian lisa_about_showdown_e05d6220:
 
     # Max_01 "Договорились, сестрёнка."
     Max_01 "È un affare, sorella."
+
+translate italian strings:
 
     old "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
     new "{b}Allerta:{/b} Lisa non vuole più interagire con Max"

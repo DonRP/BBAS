@@ -4074,6 +4074,8 @@ translate italian kira_bath_with_eric_6bca3a88:
     # Max_02 "Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!" nointeract
     Max_02 "Kira non ha perso una sola goccia passata! Ed è come se nessuno l'avessi appena risucchiata... Lavoro pulito!" nointeract
 
+translate italian strings:
+
     old "{i}войти{/i}"
     new "{i}accedi{/i}"
 
@@ -5176,6 +5178,8 @@ translate italian kira_bath_with_eric_56dad693:
 
     # Max_02 "{m}Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!{/m}" nointeract
     Max_02 "{m}Kira non ha lasciato passare neanche una goccia! E come se nessuno avesse appena succhiato il cazzo di qualcuno... Lavoro pulito!{/m}" nointeract
+
+translate italian strings:
 
     old "Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
     new "Non riesco a dormire. Posso anche guardare la televisione con te?"

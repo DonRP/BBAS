@@ -3690,6 +3690,8 @@ translate italian blog_with_Eric_9660eef6:
     # Max_07 "{m}Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего...{/m}" nointeract
     Max_07 "{m}Eric decide di rendere più intelligente Alice con la sua conoscenza del consumismo e della pubblicità... Sì, e nel frattempo, lui sta fissando il suo corpo coperto di mutande. Non ho ancora niente da fare qui...{/m}" nointeract
 
+translate italian strings:
+
     old "{i}постучаться{/i}"
     new "{i}bussa{/i}"
 

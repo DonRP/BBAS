@@ -192,6 +192,8 @@ translate italian christina_first_talk_204a6521_1:
     # Max_01 "Я тоже, Кристина! Пока."
     Max_01 "anch'io, Christina! Finalmente."
 
+translate italian strings:
+
     old "Хорошего тебе дня!"
     new "Buona Giornata!"
 

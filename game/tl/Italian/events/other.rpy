@@ -726,6 +726,8 @@ translate italian Kira_arrival_end_yard_438c6fcd:
     # Max_07 "Давайте уже завтракать, а то остыло почти всё..."
     Max_07 "Facciamo colazione, e poi quasi tutto si è raffreddato..."
 
+translate italian strings:
+
     old "Удачи"
     new "Buona Fortuna"
 
@@ -1696,6 +1698,8 @@ translate italian failed_dinner_79acb07c:
 
     # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
     Max_14 "{m}La mia storia è finita così. Tutta questa ingiustizia mi ha fatto diventare un po' matto e ho quasi imbrattato Eric sul balcone... Quasi... Ora non c'è niente che gli impedisca di fare quello che vuole alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}" nointeract
+
+translate italian strings:
 
     old "{i}подставить Эрика{/i}"
     new "{i}incastrare Eric{/i}"

@@ -1740,6 +1740,8 @@ translate italian lisa_horor_movie_r_not_restrain_f26114cd:
     # Lisa_13 "Сама справлюсь! Ой ой ой!"
     Lisa_13 "posso farlo da solo! Oh oh!"
 
+translate italian strings:
+
     old "Это я, Макс!"
     new "Sono io, Max!"
 

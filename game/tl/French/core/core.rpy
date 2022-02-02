@@ -80,13 +80,15 @@ translate french after_buying_46e6b997:
 
 # game/core/core.rpy:821
 translate french after_load_84f87582:
-msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
+
+    # "ver [current_ver], _ver [_version], conf.ver [config.version]"
+    "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:827
 translate french after_load_e53fbeb7:
-msgid "_ver [_version], conf.ver [config.version]"
-msgstr "_ver [_version], conf.ver [config.version]"
+
+    # "_ver [_version], conf.ver [config.version]"
+    "_ver [_version], conf.ver [config.version]"
 
     old "В интернет-магазине доступен новый товар."
     new "Un nouveau produit est disponible dans la boutique en ligne."

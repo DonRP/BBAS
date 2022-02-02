@@ -12,6 +12,8 @@
 # "Language: it_IT\n"
 # "PO-Revision-Date: 2022-01-02 16:49\n"
 
+translate italian strings:
+
     old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
     new "{b}NEGOZIO ONLINE{/b}"
 

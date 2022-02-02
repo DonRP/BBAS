@@ -768,6 +768,8 @@ translate italian olivia_about_film_punish_nice_view_3e444279:
     # Max_01 "Мне тоже. Не скучайте."
     Max_01 "anche a me. Non annoiarti."
 
+translate italian strings:
+
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Anche se, no... In realtà ho cose da fare..."
 

@@ -342,6 +342,8 @@ translate italian cam1_kira_bath_with_eric_77deb168:
     # Max_09 "Через эту камеру никого не видно... Может посмотреть через другую?"
     Max_09 "Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
 
+translate italian strings:
+
     old "{i}встретить их{/i}"
     new "{i}li incontriamo{/i}"
 

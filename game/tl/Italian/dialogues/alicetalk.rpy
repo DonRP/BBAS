@@ -10463,6 +10463,8 @@ translate italian alice_help_carry_plates_2edc33ad:
     # Max_01 "Заодно и попку разомнёшь, а то за своим ноутбуком слишком много сидишь."
     Max_01 "Allo stesso tempo, ti schiaccerai il e poi ti siedi troppo al tuo laptop."
 
+translate italian strings:
+
     old "{i}уйти{/i}"
     new "{i}vattene{/i}"
 
@@ -11907,6 +11909,8 @@ translate italian alice_about_showdown_fd54e914:
 
     # Max_01 "Конечно. Если что, зови."
     Max_01 "Naturalmente. Chiamatemi se avete bisogno di qualcosa."
+
+translate italian strings:
 
     old "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
     new "{b}Attenzione:{/b} Alice non vuole più interagire con Max"

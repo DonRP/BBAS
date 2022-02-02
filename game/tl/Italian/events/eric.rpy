@@ -2118,6 +2118,8 @@ translate italian lisa_eric_zero_practice_war_36c2b900:
     # Max_11 "{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
     Max_11 "{m}è meglio lavare i piatti dopo tutto, a parte Lisa non inizierà a parlarmi presto... {/m}"
 
+translate italian strings:
+
     old "Понимаю, хорошо..."
     new "Capisco, va bene..."
 
@@ -3172,6 +3174,8 @@ translate italian eric_kira_night_swim_a236de17:
 
     # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать." nointeract
     Eric_13 "Perché mi arrivi di soppiatto, Max?! È notte fonda. Smetti di barcollare e vai a letto. Non disturbare il nostro riposo." nointeract
+
+translate italian strings:
 
     old "{i}затаиться на полчаса{/i}"
     new "{i}stare tranquilli per mezz'ora{/i}"
