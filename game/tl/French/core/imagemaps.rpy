@@ -13,7 +13,9 @@
 # "PO-Revision-Date: 2022-01-19 08:35\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate french strings:    # game/core/imagemaps.rpy:31
+translate french strings:
+
+    # game/core/imagemaps.rpy:31
     old "{i}искать под кроватью{/i}"
     new "{i}rechercher sous le lit{/i}"
 
@@ -50,7 +52,9 @@ translate french strings:    # game/core/imagemaps.rpy:31
     new "{i}masser les fesses{/i}"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate french strings:    # game/core/imagemaps.rpy:108
+translate french strings:
+
+    # game/core/imagemaps.rpy:108
     old "{i}искать на кровати{/i}"
     new "{i}chercher sur le lit {/i}"
 

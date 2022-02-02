@@ -13,7 +13,9 @@
 # "PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate Italian strings:    # game/core/09_opportunities.rpy:4
+translate Italian strings:
+
+    # game/core/09_opportunities.rpy:4
     old "Скрытые камеры"
     new "Telecamere nascoste"
 
@@ -1914,7 +1916,9 @@ translate Italian strings:    # game/core/09_opportunities.rpy:4
     new "Ho bisogno di passare più tempo con mia madre. Le sue lezioni di yoga mattutine ci aiuteranno ad avvicinarci..."
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate Italian strings:    # game/core/09_opportunities.rpy:4
+translate Italian strings:
+
+    # game/core/09_opportunities.rpy:4
     old "Теперь Эрика нет и я могу спокойно помогать Алисе дальше. Я уже предложил ей сходить куда-нибудь и развеяться, а то Эрик своими планами произвёл на моих сестёр и маму не самые лучшие впечатления. Но Алиса хочет сперва опомниться, а уже потом как-то развлекаться. Остаётся ждать..."
     new "Ora che Eric se n'era andato, ero libero di aiutare Alice. Le ho già suggerito di uscire a divertirsi, perché i piani di Eric non hanno fatto la migliore impressione sulle mie sorelle e su mia madre. Ma Alice vuole prima rinsavire e poi divertirsi un po'. Dobbiamo aspettare..."
 

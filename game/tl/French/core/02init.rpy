@@ -13,7 +13,9 @@
 # "PO-Revision-Date: 2022-01-19 08:35\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate french strings:    # game/core/02init.rpy:18
+translate french strings:
+
+    # game/core/02init.rpy:18
     old "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
     new "{color=#00FF00}{i}Persuasion réduite!{/i}{/color}\n"
 
@@ -622,7 +624,9 @@ translate french strings:    # game/core/02init.rpy:18
     new "Maman, je t’ai acheté des vêtements plus légers!"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate french strings:    # game/core/02init.rpy:40
+translate french strings:
+
+    # game/core/02init.rpy:40
     old "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
     new "{color = # FFBE00}{b}Attention: {/b} Votre influence sur les personnes présentes a diminué!{/color}\n"
 

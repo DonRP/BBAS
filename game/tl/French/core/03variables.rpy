@@ -13,7 +13,9 @@
 # "PO-Revision-Date: 2022-01-20 08:32\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate french strings:    # game/core/03variables.rpy:37
+translate french strings:
+
+    # game/core/03variables.rpy:37
     old "МОЯ\nКОМНАТА"
     new "MA\nCHAMBRE"
 
@@ -338,7 +340,9 @@ translate french strings:    # game/core/03variables.rpy:37
     new "Olivia, une camarade de classe de ma sœur cadette Lisa. Fille mignonne. Et surtout avec une touche sexy... Elle se promène à l’école sans culotte, et à la maison elle est généralement nue, comme ses parents, ils sont naturistes. C’est cool que Lisa ait une petite amie aussi intéressante!"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate french strings:    # game/core/03variables.rpy:149
+translate french strings:
+
+    # game/core/03variables.rpy:149
     old "ИСКАТЬ\nТЕЛЕФОН"
     new "RECHERCHER\nLE TÉLÉPHONE"
 

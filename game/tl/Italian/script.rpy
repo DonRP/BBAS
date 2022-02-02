@@ -216,6 +216,9 @@ translate Italian about_poss_95f72849:
     # Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
     Max_04 "Ma non dovreste nemmeno averne paura. È attraverso le \"opportunità\" che si possono raggiungere risultati che altri nemmeno sognano!" nointeract
 
+translate Italian strings:
+
+    # game/script.rpy:57
     old "{i}далее{/i}"
     new "{i}prosegui{/i}"
 
