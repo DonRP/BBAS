@@ -7443,8 +7443,8 @@ msgid "[Max_00]Вот, пожалуйста, слушай, что говорит
 msgstr "[Max_00]Вот, пожалуйста, слушай, что говорит о тебе ваш обожаемый Эрик..."
 
 # game/dialogues/lisatalk.rpy:4647# translate crowdin lisa_about_stolen_phone_2a74b2cc:
-msgid "[{color=[orange]}(Лиза слушает запись...){/color}"
-msgstr "[{color=[orange]}(Лиза слушает запись...){/color}"
+msgid "{color=[orange]}(Лиза слушает запись...){/color}"
+msgstr "{color=[orange]}(Лиза слушает запись...){/color}"
 
 # game/dialogues/lisatalk.rpy:4648# translate crowdin lisa_about_stolen_phone_0a6862b6:
 msgid "[Eric]{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"

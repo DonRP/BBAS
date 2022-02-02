@@ -1115,8 +1115,8 @@ msgid "[Lisa_13]Больше даже близко не подходи к мое
 msgstr "[Lisa_13]Больше даже близко не подходи к моему телефону! И ко мне тоже.[nointeract]"
 
 # game/dialogues/erictalk.rpy:815# translate crowdin Eric_with_dictaphone_fde14d10:
-msgid "[{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
-msgstr "[{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+msgid "{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+msgstr "{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
 
 # game/dialogues/erictalk.rpy:819# translate crowdin Eric_with_dictaphone_b4b1461d:
 msgid "[Eric_03]Уже получил, Макс! И если ты ещё до сих пор не осознал, то для тебя уже всё потеряно и на днях ты отправишься маршировать, а я наконец получу всё, что хотел."
