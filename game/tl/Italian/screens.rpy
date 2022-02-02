@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-29 11:06\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/screens.rpy:348
     old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
@@ -384,7 +384,7 @@ translate Italian strings:
     new "Continua"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/screens.rpy:2102
     old "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"

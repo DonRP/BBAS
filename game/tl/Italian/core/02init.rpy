@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/02init.rpy:18
     old "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -624,7 +624,7 @@ translate Italian strings:
     new "Mamma, ti ho comprato vestiti più leggeri!"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/02init.rpy:40
     old "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"

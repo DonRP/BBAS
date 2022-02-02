@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-15 09:09\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/ann_cam.rpy:8
-translate Italian cam0_ann_sleep_2e831607:
+translate italian cam0_ann_sleep_2e831607:
 
     # Max_01 "Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
     Max_01 "Che fortuna ho una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi!"

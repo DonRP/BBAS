@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-09 20:46\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/04function.rpy:300
     old "+ к навыку скрытности"

@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-14 09:07\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/03variables.rpy:37
     old "МОЯ\nКОМНАТА"
@@ -340,7 +340,7 @@ translate Italian strings:
     new "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto dolce. E per di più, ha un colpo di scena... Va in giro per la scuola senza mutandine, e per casa nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/03variables.rpy:149
     old "ИСКАТЬ\nТЕЛЕФОН"

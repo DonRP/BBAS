@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-15 09:09\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/lisa_cam.rpy:8
-translate Italian cam0_lisa_sleep_night_cab47b53:
+translate italian cam0_lisa_sleep_night_cab47b53:
 
     # Max_01 "Лиза сладко спит..."
     Max_01 "Lisa dorme dolcemente..."

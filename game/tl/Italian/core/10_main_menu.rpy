@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-26 18:41\n"
 
 # TODO: Translation updated at 2022-01-09 20:33## 
-translate Italian strings:
+translate italian strings:
 
     # game/core/10_main_menu.rpy:51
     old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"

@@ -13,7 +13,7 @@
 # "PO-Revision-Date: 2022-01-16 09:05\n"
 
 # TODO: Translation updated at 2021-12-05 17:43# game/events/olivia_cam.rpy:8
-translate Italian cam0_olivia_lisa_sun_fb60e201:
+translate italian cam0_olivia_lisa_sun_fb60e201:
 
     # Max_01 "Благодаря натуризму Оливии, внимания ко двору станет побольше..."
     Max_01 "Grazie al naturismo di Olivia, l'attenzione alla corte sarà più..."

@@ -14,7 +14,7 @@
 # "PO-Revision-Date: 2022-01-09 20:47\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## 
-translate Italian strings:
+translate italian strings:
 
     # game/options.rpy:15
     old "Большой брат: Другая история"
