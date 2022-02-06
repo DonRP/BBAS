@@ -4403,7 +4403,7 @@ translate italian strings:
 translate italian kira_bath_a64599ce:
 
     # Max_01 "{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}" nointeract
-    Max_01 "{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!" nointeract
+    Max_01 "{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m}" nointeract
 
 # game/events/kira.rpy:30
 translate italian kira_bath_9db81a9c:
@@ -5141,7 +5141,7 @@ translate italian return_from_club_ass_0abe858e:
 translate italian kira_bath_with_eric_a64599ce:
 
     # Max_01 "{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}" nointeract
-    Max_01 "{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!" nointeract
+    Max_01 "{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m}" nointeract
 
 # game/events/kira.rpy:3236
 translate italian kira_bath_with_eric_97e543d2:
