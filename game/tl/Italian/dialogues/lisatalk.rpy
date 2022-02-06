@@ -2031,7 +2031,7 @@ translate italian Lisa_HomeWork_show_breast_eb1cb0cd:
 translate italian Lisa_HomeWork_show_breast_a1b246d0:
 
     # Max_00 "{m}Ну, раз Лиза выполнила мою просьбу, придётся всё сделать как положено. Да и если ей поставят двойку за это снова, она больше ничего уже не покажет мне...{/m}"
-    Max_00 "{m}Beh, dal momento che Lisa ha soddisfatto la mia richiesta, dovrai fare tutto come dovrebbe essere. E se le viene dato di nuovo un deuce per questo, non mi mostrerà nient'altro...{/i}"
+    Max_00 "{m}Beh, dal momento che Lisa ha soddisfatto la mia richiesta, dovrò farlo come si deve. E se prende di nuovo una F per questo, non mi mostrerà più niente...{/m}"
 
 # game/dialogues/lisatalk.rpy:1153
 translate italian Lisa_HomeWork_show_breast_4a5d69ef:

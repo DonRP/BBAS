@@ -1006,7 +1006,7 @@ translate italian eric_ann_shower_not_luck_cdfa03c1:
 translate italian sexed_lisa_fbf9c0fd:
 
     # Max_09 "{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит?{/m}" nointeract
-    Max_09 "{m}(Mi chiedo perché mia madre abbia chiamato Lisa nella stanza? E c'è anche Eric. Può almeno vedere attraverso la telecamera cosa sta succedendo lì?) {/i}" nointeract
+    Max_09 "{m}Mi chiedo perché la mamma abbia chiamato Lisa nella stanza. E c'è anche Eric. Forse potrei almeno usare la videocamera per vedere cosa sta succedendo lì dentro?{/m}" nointeract
 
 # game/events/eric.rpy:1009
 translate italian sexed_lisa_6af17f94:
@@ -1228,7 +1228,7 @@ translate italian sexed_lisa_lesson_1_0f719766:
 translate italian sexed_lisa_lesson_1_bc56a001:
 
     # Max_04 "{m}Как по мне, а грудь у Лизы весьма симпатичная. Не сравнится с маминой, но они все хороши, по-своему...{/m}"
-    Max_04 "{m}( Per quanto mi riguarda, e i seni di Lisa sono molto carini. Non paragonabili a mia madre, ma sono tutti buoni, a modo loro... ) {/i}"
+    Max_04 "{m}Penso che le tette di Lisa sia molto carine. Non come quelle di sua madre, ma ognuna è bella, a modo suo...{/m}"
 
 # game/events/eric.rpy:1151
 translate italian sexed_lisa_lesson_1_6e3c2656:
