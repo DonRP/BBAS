@@ -1030,7 +1030,7 @@ translate italian sexed_lisa_bb20dbe6:
 translate italian sexed_lisa_331970d9:
 
     # Max_09 "{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить.{/m}" nointeract
-    Max_09 "{m}(mi chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Meglio guardare attraverso la macchina fotografica ... ) {/i}" nointeract
+    Max_09 "{m}Mi chiedo cosa ci facciano lì con Lisa?! Potrei provare a sbirciare dalla finestra, ma non dovrei dare a Eric la possibilità di umiliarmi o peggio. Dovrei aspettare che Lisa torni e me lo dica lei stessa, anche se non sarebbe male mettere una telecamera nella stanza di mamma.{/m}" nointeract
 
 # game/events/eric.rpy:1059
 translate italian sexed_lisa_lesson_0_34f083f3:
@@ -1084,7 +1084,7 @@ translate italian sexed_lisa_lesson_0_71db625e:
 translate italian sexed_lisa_lesson_0_e552fab3:
 
     # Max_08 "{m}Офигеть, что творят! Мама надрачивает Эрику прямо на глазах у Лизы, которую она так всё время оберегала. Да, хорошо Эрик над ней поработал...{/m}"
-    Max_08 "{m}(Oh mio andare, cosa stanno facendo! Mamma scopa Eric proprio di fronte a Lisa, che ha sempre protetto così tanto. Sì, Eric ha fatto un buon lavoro su di lei ...) {/i}"
+    Max_08 "{m}Che diavolo sta succedendo! La mamma si sta masturbando con Eric proprio davanti a Lisa, con cui è sempre stata così protettiva. Già, Eric ha fatto un buon lavoro su di lei...{/m}"
 
 # game/events/eric.rpy:1084
 translate italian sexed_lisa_lesson_0_84fe0924:
@@ -1120,7 +1120,7 @@ translate italian sexed_lisa_lesson_0_57ac6b09:
 translate italian sexed_lisa_lesson_0_b1a8e82e:
 
     # Max_02 "{m}Да, как же классно бы было, если бы моя младшая сестрёнка запустила свои нежные ручки в мои шорты и неспеша поласкала мой член... Ухх!{/m}"
-    Max_02 "{m}(sì, quanto sarebbe bello se la mia sorellina mi insitogliò le sue tenere mani nei miei pantaloncini e lentamente accarezzò il mio... Uh! ){/i}"
+    Max_02 "{m}Sì, come sarebbe bello se la mia sorellina mettesse le sue mani delicate nei miei pantaloncini e accarezzasse dolcemente il mio cazzo... Ooh!{/m}"
 
 # game/events/eric.rpy:1096
 translate italian sexed_lisa_lesson_0_adc1e3a9:
@@ -1150,7 +1150,7 @@ translate italian sexed_lisa_lesson_0_6029a41d:
 translate italian sexed_lisa_lesson_1_4bb42551:
 
     # Max_01 "{m}Посмотрим, чему мою сестрёнку будут сегодня учить...{/m}"
-    Max_01 "{m}( Vediamo cosa verrà insegnato a mia sorella oggi ... ) {/i}"
+    Max_01 "{m}Vediamo un po' cosa le insegneranno oggi alla mia sorellina...{/m}"
 
 # game/events/eric.rpy:1111
 translate italian sexed_lisa_lesson_1_87d80caa:
@@ -1186,7 +1186,7 @@ translate italian sexed_lisa_lesson_1_fa0a2f77:
 translate italian sexed_lisa_lesson_1_84bf2170:
 
     # Max_03 "{m}О да, мам! Мне бы очень понравилось, если бы ты подрочила мне обнажив свою сочную и упругую грудь...{/m}"
-    Max_03 "{m}( Oh sì, mamma! Mi piacerebbe se mi scopassi esponendo i tuoi seni succosi e sodi ... ) {/i}"
+    Max_03 "{m}Oh sì, mamma! Mi piacerebbe che tu mi facessi una sega mostrando le tue succose e sode tette...{/m}"
 
 # game/events/eric.rpy:1133
 translate italian sexed_lisa_lesson_1_1d6ac237:
@@ -1264,13 +1264,13 @@ translate italian sexed_lisa_lesson_1_933c3a52:
 translate italian sexed_lisa_lesson_1_0810d87a:
 
     # Max_07 "{m}С интересом... Да уж, а ещё меня называют в этом доме извращенцем! Хотя, если бы не Эрик...{/m}"
-    Max_07 "{m}( Con interesse... Oh beh, e sono anche chiamato un pervertito in questa casa! Anche se, se non fosse per Eric...) {/i}"
+    Max_07 "{m}Con interesse... Sì, e mi chiamano anche pervertito in questa casa! Anche se, se non fosse per Eric...{/m}"
 
 # game/events/eric.rpy:1173
 translate italian sexed_lisa_lesson_2_4bb42551:
 
     # Max_01 "{m}Посмотрим, чему мою сестрёнку будут сегодня учить...{/m}"
-    Max_01 "{m}( Vediamo cosa verrà insegnato a mia sorella oggi ... ) {/i}"
+    Max_01 "{m}Vediamo un po' cosa le insegneranno oggi alla mia sorellina{/m}"
 
 # game/events/eric.rpy:1174
 translate italian sexed_lisa_lesson_2_4668a125:
@@ -1324,7 +1324,7 @@ translate italian sexed_lisa_lesson_2_fba6f0fd:
 translate italian sexed_lisa_lesson_2_913318bd:
 
     # Max_10 "{m}Эй! Я тоже хочу, чтобы мне яички ласкали! Судя по млеющей физиономии Эрика - это как минимум очень блаженно.{/m}"
-    Max_10 "{m}(Ehi! Voglio anche che i miei testicoli siano accarezzati! A giudicare dalla faccia fumante di Eric, questo è almeno molto beato.) {/i}"
+    Max_10 "{m}Ehi, anch'io voglio farmi accarezzare i testicoli! A giudicare dalla faccia imbronciata di Eric, è sicuramente soddisfatto.{/m}"
 
 # game/events/eric.rpy:1200
 translate italian sexed_lisa_lesson_2_f4970fe1:
@@ -1354,13 +1354,13 @@ translate italian sexed_lisa_lesson_2_f429540b:
 translate italian sexed_lisa_lesson_2_5ffc488b:
 
     # Max_07 "{m}Экзамен... Тянет на какую-то ролевую игру. Хорошо хоть без костюмов! Хотя маму я бы не прочь увидеть в строгом, но сексуальном костюме...{/m}"
-    Max_07 "{m}( Esame... Tira su qualche gioco di ruolo. Buono almeno senza costumi! Anche se non mi dispiacerebbe vedere mia madre in un abito severo, ma sexy ... ) {/i}"
+    Max_07 "{m}L'esame... È come una specie di gioco di ruolo. Almeno non ci sono costumi! Anche se non mi dispiacerebbe vedere la mamma in un costume rigoroso ma sexy...{/m}"
 
 # game/events/eric.rpy:1215
 translate italian sexed_lisa_lesson_3_402847c5:
 
     # Max_01 "{m}И чему же мою сестрёнку будут сегодня учить...{/m}"
-    Max_01 "{m}( E quello che verrà insegnato a mia sorella oggi... ) {/i}"
+    Max_01 "{m}E cosa verrà insegnato oggi alla mia sorellina...{/m}"
 
 # game/events/eric.rpy:1216
 translate italian sexed_lisa_lesson_3_b8ee0608:
@@ -1402,7 +1402,7 @@ translate italian sexed_lisa_lesson_3_18663d6a:
 translate italian sexed_lisa_lesson_3_c374f98e:
 
     # Max_08 "{m}Мама что, и отсасывать собирается Эрику при Лизе?! Да нет... Хотя, уже можно не удивляться чему-то такому...{/m}"
-    Max_08 "{m}(mamma cosa, e sta per succhiare Eric con Lisa?! Sì no... Anche se, non puoi più essere sorpreso da qualcosa del genere ... ) {/i}"
+    Max_08 "{m}La mamma farà un pompino a Erica proprio davanti a Lisa?! No... Anche se non ci si può più stupire di una cosa del genere...{/m}"
 
 # game/events/eric.rpy:1229
 translate italian sexed_lisa_lesson_3_9361d9ee:
@@ -1492,7 +1492,7 @@ translate italian sexed_lisa_lesson_3_705d7946:
 translate italian sexed_lisa_lesson_3_f13fcdfb:
 
     # Max_10 "{m}Эй, вы там на мою сестрёнку только не попадите! Ладно вы люди взрослые, но при Лизе то поаккуратнее будьте...{/m}"
-    Max_10 "{m}(Ehi, non andrai su mia sorella lì! Ok, sei adulto, ma con Lisa allora stai attento...) {/i}"
+    Max_10 "{m}Ehi, non scherzare con mia sorella! Va bene, siete adulti, ma fate attenzione a Lisa...{/m}"
 
 # game/events/eric.rpy:1274
 translate italian sexed_lisa_lesson_3_d99c9cbc:
@@ -3143,7 +3143,7 @@ translate italian start_eric_wallet_8132910c:
 translate italian start_eric_wallet_7db38010:
 
     # Max_09 "{m}Ну всё! Он меня достал! Так позорить меня перед всеми... Даже если я дам ему деньги, то все уже на 100%% будут считать меня вором и обманщиком. А значит пришло время избавляться от Эрика!{/m}"
-    Max_09 "{m}Questo è tutto! Sono stufo di lui! Farmi vergognare così davanti a tutti... Anche se gli do i soldi, tutti penseranno che sono al 100% un ladro e un imbroglione. Il che significa che è il momento di sbarazzarsi di Eric!{/m}"
+    Max_09 "{m}Questo è tutto! Sono stufo di lui! Farmi vergognare così davanti a tutti... Anche se gli do i soldi, tutti penseranno che sono al 100%% un ladro e un imbroglione. Il che significa che è il momento di sbarazzarsi di Eric!{/m}"
 
 # game/events/eric.rpy:1915
 translate italian start_eric_wallet_53c2a5c1:

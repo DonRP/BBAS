@@ -1227,7 +1227,7 @@ translate italian about_blog_f7287104:
 translate italian about_blog_2d9761c1:
 
     # Max_09 "{m}[_text!t]{/m}" nointeract
-    ""
+    "Max_09 "{m}[_text!t]{/m}" nointeract"
 
 # game/events/max.rpy:447
 translate italian about_blog_116ee643:
