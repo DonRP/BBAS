@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-26 18:41\n"
+"PO-Revision-Date: 2022-02-06 21:47\n"
 
 # game/events/kira.rpy:26# translate crowdin kira_bath_e51d277a:
 msgid "[Max_01]Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира![nointeract]"
@@ -3045,7 +3045,7 @@ msgstr "Non posso resistere al tuo seno. La voglio!"
 
 # game/events/kira.rpy:26# translate crowdin kira_bath_a64599ce:
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
-msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira![nointeract]"
+msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m}[nointeract]"
 
 # game/events/kira.rpy:30# translate crowdin kira_bath_9db81a9c:
 msgid "[Max_09]{m}Нужно найти способ как-то подглядеть за девчонками в ванной. Может, попробовать вечером со двора?!{/m}"
@@ -3537,7 +3537,7 @@ msgstr "[Max_01]{m}Spero che sua madre non la sgridi troppo perché va a letto n
 
 # game/events/kira.rpy:3225# translate crowdin kira_bath_with_eric_a64599ce:
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
-msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira![nointeract]"
+msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m}[nointeract]"
 
 # game/events/kira.rpy:3236# translate crowdin kira_bath_with_eric_97e543d2:
 msgid "[Max_08]{m}Конечно, почему бы среди ночи не сходить в ванную, когда тебя там будет ждать шикарная тётя Кира, чтобы отсосать...{/m}"
