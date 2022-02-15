@@ -149,3 +149,8 @@ game/core
 *.TTF
 *.otf
 *.png
+*.rpa
+renpy
+*.exe
+BigBrother_AnotherStory.sh
+BigBrother_AnotherStory.py
