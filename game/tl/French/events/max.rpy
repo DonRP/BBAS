@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-30 11:25\n"
+"PO-Revision-Date: 2022-02-18 18:09\n"
 
 # game/events/max.rpy:4# translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -335,7 +335,7 @@ msgstr "[Max_01]Ouaip. Chacun a ses particularités, je ne le savais pas! La str
 "{color=[orange]}{i}(Le livre est étudié à 25%%){/i}{/color}"
 
 # game/events/max.rpy:674# translate crowdin BookRead_sex_ed_2c2e756a:
-msgid "[Max_03]Так, это не особо интересно... А вот сексуалное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n"
+msgid "[Max_03]Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n"
 "{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
 msgstr "[Max_03]Donc, ce n'est pas vraiment intéressant... Mais le comportement sexuel des adolescents ne concerne que moi! Si je peux lire quelque chose sur mes érections matinales, ce serait génial...\n\n"
 "{color=[orange]}{i}(Le livre est étudié à 50%%){/i}{/color}"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 20:44\n"
+"PO-Revision-Date: 2022-02-05 21:52\n"
 
 # game/events/alice.rpy:13# translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -2865,11 +2865,11 @@ msgstr "No, ni siquiera estoy cerca..."
 
 # game/events/alice.rpy:15# translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00]{m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_00]Si es medianoche, entonces Alice se está calmando en el baño ... Entrar sin golpear es potencialmente mortal.[nointeract]"
 
 # game/events/alice.rpy:28# translate crowdin alice_bath_ca8063ee:
 msgid "[Max_00]{m}Кажется, Алиса и правда принимает ванну. Жаль, что из-за матового стекла почти ничего не видно. Но подходить ближе опасно - может заметить...{/m}"
-msgstr ""
+msgstr "[Max_00]{m}Parece que Alice realmente se está bañando. Es una pena que debido al vidrio esmerilado no se pueda ver casi nada. Pero acercarse es peligroso, puede notar ... {/m}"
 
 # game/events/alice.rpy:30# translate crowdin alice_bath_7fffd1ec:
 msgid "[Max_09]{m}Нужно что-нибудь придумать...{/m}[nointeract]"

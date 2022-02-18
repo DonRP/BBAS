@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-26 18:41\n"
+"PO-Revision-Date: 2022-02-16 21:22\n"
 
 # game/events/other.rpy:11# translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -992,8 +992,8 @@ msgid "[Lisa_13]Не собираюсь я с тобой наедине боль
 msgstr "[Lisa_13]Non sarò più solo con te! Max ha registrato tutto sul registratore del suo telefono. Sentiamo..."
 
 # game/events/other.rpy:675# translate crowdin dictaphone_showdown_with_eric_60fce6d7:
-msgid "[{color=[orange]}(все слушают запись...){/color}"
-msgstr "[{color=[orange]}(tutti ascoltano il nastro...){/color}"
+msgid "{color=[orange]}(все слушают запись...){/color}"
+msgstr "{color=[orange]}(tutti ascoltano il nastro...){/color}"
 
 # game/events/other.rpy:676# translate crowdin dictaphone_showdown_with_eric_1c22e674:
 msgid "[Ann_14]Это же... Неужели это действительно правда?! Эрик, будь добр, объясни это..."

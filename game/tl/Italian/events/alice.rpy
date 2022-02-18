@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-16 09:05\n"
+"PO-Revision-Date: 2022-02-02 08:39\n"
 
 # game/events/alice.rpy:13# translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -490,7 +490,7 @@ msgstr "[Alice_14]Allora, questo è tutto! Ne hai tre... beh, un massimo di cinq
 
 # game/events/alice.rpy:504# translate crowdin alice_shower_dangerous_hugs_11fdb519:
 msgid "[extend][nointeract]"
-msgstr "[extend][nointeract]"
+msgstr ""
 
 # game/events/alice.rpy:520# translate crowdin alice_shower_dangerous_hugs_8f49945b:
 msgid "[Max_04]Всё, убрал. Но я просто хотел прикрыть твою попку, чтобы никто на неё не глазел."
@@ -2060,7 +2060,7 @@ msgstr "[Max_03]Certo, Alice!"
 
 # game/events/alice.rpy:2398# translate crowdin alice_towel_after_club_3479dfb8:
 msgid "[Max][nointeract]"
-msgstr "[Max][nointeract]"
+msgstr ""
 
 # game/events/alice.rpy:2400# translate crowdin alice_towel_after_club_164b6a94:
 msgid "[Alice]{b}Алиса:{/b} Кому там не спится? Я ванну принимаю..."

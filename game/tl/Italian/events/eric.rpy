@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-26 18:41\n"
+"PO-Revision-Date: 2022-02-06 21:47\n"
 
 # game/events/eric.rpy:13# translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -674,7 +674,7 @@ msgstr "[Ann_15][spotted!t]Max?! Qual è la cosa sbagliata che stai facendo qui?
 
 # game/events/eric.rpy:994# translate crowdin sexed_lisa_fbf9c0fd:
 msgid "[Max_09]{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит?{/m}[nointeract]"
-msgstr "[Max_09]{m}(Mi chiedo perché mia madre abbia chiamato Lisa nella stanza? E c'è anche Eric. Può almeno vedere attraverso la telecamera cosa sta succedendo lì?) {/i}[nointeract]"
+msgstr "[Max_09]{m}Mi chiedo perché la mamma abbia chiamato Lisa nella stanza. E c'è anche Eric. Forse potrei almeno usare la videocamera per vedere cosa sta succedendo lì dentro?{/m}[nointeract]"
 
 # game/events/eric.rpy:1009# translate crowdin sexed_lisa_6af17f94:
 msgid "[Max_09]{m}Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать.{/m}[nointeract]"
@@ -686,11 +686,11 @@ msgstr "[Max_07]{m}Eric ha detto che tutto sarebbe stato organizzato in modo che
 
 # game/events/eric.rpy:1032# translate crowdin sexed_lisa_bb20dbe6:
 msgid "[Max_09]{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру...{/m}[nointeract]"
-msgstr "[Max_09]{m}chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Meglio guardare attraverso la fotocamera... {/m}[nointeract]"
+msgstr "[Max_09]{m}Mi chiedo cosa ci facciano lì con Lisa?! Potrei provare a sbirciare dalla finestra, ma non dovrei dare a Eric la possibilità di umiliarmi o peggio. Meglio guardare attraverso la telecamera...{/m}[nointeract]"
 
 # game/events/eric.rpy:1048# translate crowdin sexed_lisa_331970d9:
 msgid "[Max_09]{m}Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить.{/m}[nointeract]"
-msgstr "[Max_09]{m}(mi chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Meglio guardare attraverso la macchina fotografica ... ) {/i}[nointeract]"
+msgstr "[Max_09]{m}Mi chiedo cosa ci facciano lì con Lisa?! Potrei provare a sbirciare dalla finestra, ma non dovrei dare a Eric la possibilità di umiliarmi o peggio. Dovrei aspettare che Lisa torni e me lo dica lei stessa, anche se non sarebbe male mettere una telecamera nella stanza di mamma.{/m}[nointeract]"
 
 # game/events/eric.rpy:1059# translate crowdin sexed_lisa_lesson_0_34f083f3:
 msgid "[Max_01]{m}Отлично! Мне как раз всё видно в зеркале. Посмотрим, чему мою сестрёнку будут учить эти извращенцы...{/m}"
@@ -726,7 +726,7 @@ msgstr "[Ann_05]sottosemina, tesoro. Subito ti renderai conto... O forse il tuo 
 
 # game/events/eric.rpy:1078# translate crowdin sexed_lisa_lesson_0_e552fab3:
 msgid "[Max_08]{m}Офигеть, что творят! Мама надрачивает Эрику прямо на глазах у Лизы, которую она так всё время оберегала. Да, хорошо Эрик над ней поработал...{/m}"
-msgstr "[Max_08]{m}(Oh mio andare, cosa stanno facendo! Mamma scopa Eric proprio di fronte a Lisa, che ha sempre protetto così tanto. Sì, Eric ha fatto un buon lavoro su di lei ...) {/i}"
+msgstr "[Max_08]{m}Che diavolo sta succedendo! La mamma si sta masturbando con Eric proprio davanti a Lisa, con cui è sempre stata così protettiva. Già, Eric ha fatto un buon lavoro su di lei...{/m}"
 
 # game/events/eric.rpy:1084# translate crowdin sexed_lisa_lesson_0_84fe0924:
 msgid "[Lisa_03]Со стороны всё выглядит довольно просто или это не так?"
@@ -750,7 +750,7 @@ msgstr "[Lisa_10]Oh, non ho intenzione di farlo!"
 
 # game/events/eric.rpy:1089# translate crowdin sexed_lisa_lesson_0_b1a8e82e:
 msgid "[Max_02]{m}Да, как же классно бы было, если бы моя младшая сестрёнка запустила свои нежные ручки в мои шорты и неспеша поласкала мой член... Ухх!{/m}"
-msgstr "[Max_02]{m}(sì, quanto sarebbe bello se la mia sorellina mi insitogliò le sue tenere mani nei miei pantaloncini e lentamente accarezzò il mio... Uh! ){/i}"
+msgstr "[Max_02]{m}Sì, come sarebbe bello se la mia sorellina mettesse le sue mani delicate nei miei pantaloncini e accarezzasse dolcemente il mio cazzo... Ooh!{/m}"
 
 # game/events/eric.rpy:1096# translate crowdin sexed_lisa_lesson_0_adc1e3a9:
 msgid "[Ann_04]Ты у меня умница, дочка. Ладно, ступай, на сегодня я думаю достаточно. Через неделю продолжим..."
@@ -770,7 +770,7 @@ msgstr "[Max_07]{m}Oh, è tempo per me di buttarlo a me stesso... {/m}"
 
 # game/events/eric.rpy:1110# translate crowdin sexed_lisa_lesson_1_4bb42551:
 msgid "[Max_01]{m}Посмотрим, чему мою сестрёнку будут сегодня учить...{/m}"
-msgstr "[Max_01]{m}( Vediamo cosa verrà insegnato a mia sorella oggi ... ) {/i}"
+msgstr "[Max_01]{m}Vediamo un po' cosa le insegneranno oggi alla mia sorellina...{/m}"
 
 # game/events/eric.rpy:1111# translate crowdin sexed_lisa_lesson_1_87d80caa:
 msgid "[Ann_02]... Как правильно стимулировать мужской член рукой я тебе показала. Теперь покажу тебе довольно безобидный и эффективный способ ещё больше возбудить мужчину..."
@@ -794,7 +794,7 @@ msgstr "[Ann_05]Gli uomini sono molto accesi quando una donna si spoglia, quindi
 
 # game/events/eric.rpy:1127# translate crowdin sexed_lisa_lesson_1_84bf2170:
 msgid "[Max_03]{m}О да, мам! Мне бы очень понравилось, если бы ты подрочила мне обнажив свою сочную и упругую грудь...{/m}"
-msgstr "[Max_03]{m}( Oh sì, mamma! Mi piacerebbe se mi scopassi esponendo i tuoi seni succosi e sodi ... ) {/i}"
+msgstr "[Max_03]{m}Oh sì, mamma! Mi piacerebbe che tu mi facessi una sega mostrando le tue succose e sode tette...{/m}"
 
 # game/events/eric.rpy:1133# translate crowdin sexed_lisa_lesson_1_1d6ac237:
 msgid "[Lisa_02]А, ну это я делать умею..."
@@ -822,7 +822,7 @@ msgstr "[Ann_02]Non preoccuparti, devi ancora crescere e crescere."
 
 # game/events/eric.rpy:1145# translate crowdin sexed_lisa_lesson_1_bc56a001:
 msgid "[Max_04]{m}Как по мне, а грудь у Лизы весьма симпатичная. Не сравнится с маминой, но они все хороши, по-своему...{/m}"
-msgstr "[Max_04]{m}( Per quanto mi riguarda, e i seni di Lisa sono molto carini. Non paragonabili a mia madre, ma sono tutti buoni, a modo loro... ) {/i}"
+msgstr "[Max_04]{m}Penso che le tette di Lisa sia molto carine. Non come quelle di sua madre, ma ognuna è bella, a modo suo...{/m}"
 
 # game/events/eric.rpy:1151# translate crowdin sexed_lisa_lesson_1_6e3c2656:
 msgid "[Lisa_02]Значит, достаточно просто обнажить грудь и всё?"
@@ -846,11 +846,11 @@ msgstr "[Lisa_01]Certo, mamma. Aspetterò con interesse la prossima lezione..."
 
 # game/events/eric.rpy:1162# translate crowdin sexed_lisa_lesson_1_0810d87a:
 msgid "[Max_07]{m}С интересом... Да уж, а ещё меня называют в этом доме извращенцем! Хотя, если бы не Эрик...{/m}"
-msgstr "[Max_07]{m}( Con interesse... Oh beh, e sono anche chiamato un pervertito in questa casa! Anche se, se non fosse per Eric...) {/i}"
+msgstr "[Max_07]{m}Con interesse... Sì, e mi chiamano anche pervertito in questa casa! Anche se, se non fosse per Eric...{/m}"
 
 # game/events/eric.rpy:1173# translate crowdin sexed_lisa_lesson_2_4bb42551:
 msgid "[Max_01]{m}Посмотрим, чему мою сестрёнку будут сегодня учить...{/m}"
-msgstr "[Max_01]{m}( Vediamo cosa verrà insegnato a mia sorella oggi ... ) {/i}"
+msgstr "[Max_01]{m}Vediamo un po' cosa le insegneranno oggi alla mia sorellina...{/m}"
 
 # game/events/eric.rpy:1174# translate crowdin sexed_lisa_lesson_2_4668a125:
 msgid "[Ann_02]... В дополнение к тому, что ты уже видела, не стоит забывать и ещё кое о чём. Дорогой, встань. Так Лизе будет лучше видно..."
@@ -886,7 +886,7 @@ msgstr "[Eric_07]Oh sì! Incredibilmente buono - è tua madre giusto... Sembra c
 
 # game/events/eric.rpy:1199# translate crowdin sexed_lisa_lesson_2_913318bd:
 msgid "[Max_10]{m}Эй! Я тоже хочу, чтобы мне яички ласкали! Судя по млеющей физиономии Эрика - это как минимум очень блаженно.{/m}"
-msgstr "[Max_10]{m}(Ehi! Voglio anche che i miei testicoli siano accarezzati! A giudicare dalla faccia fumante di Eric, questo è almeno molto beato.) {/i}"
+msgstr "[Max_10]{m}Ehi, anch'io voglio farmi accarezzare i testicoli! A giudicare dalla faccia imbronciata di Eric, è sicuramente soddisfatto.{/m}"
 
 # game/events/eric.rpy:1200# translate crowdin sexed_lisa_lesson_2_f4970fe1:
 msgid "[Lisa_03]Круто! А как долго это всё надо делать?"
@@ -906,11 +906,11 @@ msgstr "[Ann_04]Non c'è niente di complicato qui. Quindi non preoccuparti."
 
 # game/events/eric.rpy:1204# translate crowdin sexed_lisa_lesson_2_5ffc488b:
 msgid "[Max_07]{m}Экзамен... Тянет на какую-то ролевую игру. Хорошо хоть без костюмов! Хотя маму я бы не прочь увидеть в строгом, но сексуальном костюме...{/m}"
-msgstr "[Max_07]{m}( Esame... Tira su qualche gioco di ruolo. Buono almeno senza costumi! Anche se non mi dispiacerebbe vedere mia madre in un abito severo, ma sexy ... ) {/i}"
+msgstr "[Max_07]{m}L'esame... È come una specie di gioco di ruolo. Almeno non ci sono costumi! Anche se non mi dispiacerebbe vedere la mamma in un costume rigoroso ma sexy...{/m}"
 
 # game/events/eric.rpy:1215# translate crowdin sexed_lisa_lesson_3_402847c5:
 msgid "[Max_01]{m}И чему же мою сестрёнку будут сегодня учить...{/m}"
-msgstr "[Max_01]{m}( E quello che verrà insegnato a mia sorella oggi... ) {/i}"
+msgstr "[Max_01]{m}E cosa verrà insegnato oggi alla mia sorellina...{/m}"
 
 # game/events/eric.rpy:1216# translate crowdin sexed_lisa_lesson_3_b8ee0608:
 msgid "[Ann_02]... Посмотрим, всё ли ты усвоила из наших уроков. Что и как мне нужно сделать, чтобы доставить мужчине удовольствие?"
@@ -938,7 +938,7 @@ msgstr "[Lisa_02]Cos'altro?"
 
 # game/events/eric.rpy:1228# translate crowdin sexed_lisa_lesson_3_c374f98e:
 msgid "[Max_08]{m}Мама что, и отсасывать собирается Эрику при Лизе?! Да нет... Хотя, уже можно не удивляться чему-то такому...{/m}"
-msgstr "[Max_08]{m}(mamma cosa, e sta per succhiare Eric con Lisa?! Sì no... Anche se, non puoi più essere sorpreso da qualcosa del genere ... ) {/i}"
+msgstr "[Max_08]{m}La mamma farà un pompino a Erica proprio davanti a Lisa?! No... Anche se non ci si può più stupire di una cosa del genere...{/m}"
 
 # game/events/eric.rpy:1229# translate crowdin sexed_lisa_lesson_3_9361d9ee:
 msgid "[Ann_12]Лиза, не сегодня. Сегодня у нас что?"
@@ -998,7 +998,7 @@ msgstr "[Eric_04]sì, ci sono vicino... Dai, piccola, lavora un po 'più velocem
 
 # game/events/eric.rpy:1273# translate crowdin sexed_lisa_lesson_3_f13fcdfb:
 msgid "[Max_10]{m}Эй, вы там на мою сестрёнку только не попадите! Ладно вы люди взрослые, но при Лизе то поаккуратнее будьте...{/m}"
-msgstr "[Max_10]{m}(Ehi, non andrai su mia sorella lì! Ok, sei adulto, ma con Lisa allora stai attento...) {/i}"
+msgstr "[Max_10]{m}Ehi, non scherzare con mia sorella! Va bene, siete adulti, ma fate attenzione a Lisa...{/m}"
 
 # game/events/eric.rpy:1274# translate crowdin sexed_lisa_lesson_3_d99c9cbc:
 msgid "[Ann_06]Вот так, Лиза, мужчины и кончают... Лучше при себе иметь влажные салфетки, чтобы привести всё в порядок после этого."
@@ -2205,7 +2205,7 @@ msgstr "[Max_16]Sì, vai..."
 
 # game/events/eric.rpy:1912# translate crowdin start_eric_wallet_7db38010:
 msgid "[Max_09]{m}Ну всё! Он меня достал! Так позорить меня перед всеми... Даже если я дам ему деньги, то все уже на 100%% будут считать меня вором и обманщиком. А значит пришло время избавляться от Эрика!{/m}"
-msgstr "[Max_09]{m}Questo è tutto! Sono stufo di lui! Farmi vergognare così davanti a tutti... Anche se gli do i soldi, tutti penseranno che sono al 100% un ladro e un imbroglione. Il che significa che è il momento di sbarazzarsi di Eric!{/m}"
+msgstr "[Max_09]{m}Questo è tutto! Sono stufo di lui! Farmi vergognare così davanti a tutti... Anche se gli do i soldi, tutti penseranno che sono al 100%% un ladro e un imbroglione. Il che significa che è il momento di sbarazzarsi di Eric!{/m}"
 
 # game/events/eric.rpy:1915# translate crowdin start_eric_wallet_53c2a5c1:
 msgid "[Max_07]{m}Итак, у меня есть две фотографии, как Эрик дрочит... И на одной из них даже видно на кого! Но чтобы не облажаться, лучше никому не показывать эти фотографии, по крайней мере пока. Мои сёстры наверняка уже не на моей стороне, а потому увидев эти снимки, запросто могут меня сдать и как вы думаете кому... Да, сраному Эрику!{/m}"

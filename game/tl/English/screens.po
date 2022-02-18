@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-01-29 11:09\n"
+"PO-Revision-Date: 2022-02-18 18:13\n"
 
 # TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/screens.rpy:244
 msgid "массаж, "
@@ -434,5 +434,9 @@ msgstr ""
 
 # TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/screens.rpy:1031
 msgid "Именованные сохранения"
+msgstr ""
+
+# game/core/screens.rpy:2102
+msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 msgstr ""
 

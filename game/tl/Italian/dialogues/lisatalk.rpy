@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-30 11:26\n"
+"PO-Revision-Date: 2022-02-16 21:22\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -1358,7 +1358,7 @@ msgstr "[Max_05]Ora convinto!"
 
 # game/dialogues/lisatalk.rpy:1152# translate crowdin Lisa_HomeWork_show_breast_a1b246d0:
 msgid "[Max_00]{m}Ну, раз Лиза выполнила мою просьбу, придётся всё сделать как положено. Да и если ей поставят двойку за это снова, она больше ничего уже не покажет мне...{/m}"
-msgstr "[Max_00]{m}Beh, dal momento che Lisa ha soddisfatto la mia richiesta, dovrai fare tutto come dovrebbe essere. E se le viene dato di nuovo un deuce per questo, non mi mostrerà nient'altro...{/i}"
+msgstr "[Max_00]{m}Beh, dal momento che Lisa ha soddisfatto la mia richiesta, dovrò farlo come si deve. E se prende di nuovo una F per questo, non mi mostrerà più niente...{/m}"
 
 # game/dialogues/lisatalk.rpy:1153# translate crowdin Lisa_HomeWork_show_breast_4a5d69ef:
 msgid "[Max_04]Ну всё, Лиза, я закончил!"
@@ -7454,8 +7454,8 @@ msgid "[Max_00]Вот, пожалуйста, слушай, что говорит
 msgstr "[Max_00]Ecco, per favore ascolta quello che il tuo amato Eric dice di te..."
 
 # game/dialogues/lisatalk.rpy:4647# translate crowdin lisa_about_stolen_phone_2a74b2cc:
-msgid "[{color=[orange]}(Лиза слушает запись...){/color}"
-msgstr "[{color=[orange]}(Lisa ascolta il nastro...){/color}"
+msgid "{color=[orange]}(Лиза слушает запись...){/color}"
+msgstr "{color=[orange]}(Lisa ascolta il nastro...){/color}"
 
 # game/dialogues/lisatalk.rpy:4648# translate crowdin lisa_about_stolen_phone_0a6862b6:
 msgid "[Eric]{b}Эрик:{/b}\n"

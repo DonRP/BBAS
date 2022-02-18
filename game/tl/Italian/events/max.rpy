@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-01-30 11:26\n"
+"PO-Revision-Date: 2022-02-16 21:22\n"
 
 # game/events/max.rpy:4# translate crowdin StartDialog_069fda26:
 msgid "[Max_10]Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил..."
@@ -18,7 +18,7 @@ msgstr "[Max_10]mi sento troppo stanco per questo. Sarebbe bello fare prima un p
 
 # game/events/max.rpy:32# translate crowdin Sleep_52abcf74:
 msgid "[Max_00]{m}Пожалуй, пора ложиться спать...{/m}[nointeract]"
-msgstr "[Max_00]{m}Forse è ora di andare a letto...{/i}[nointeract]"
+msgstr "[Max_00]{m}Forse è ora di andare a letto...{/m}[nointeract]"
 
 # game/events/max.rpy:35# translate crowdin Sleep_9878a7fd:
 msgid "[Max_00]{m}В каком часу мне будет лучше проснуться?{/m}[nointeract]"
@@ -174,7 +174,7 @@ msgstr "[Max_14]Wh. Quanto c'è nei commenti... Ok, proviamo a trovare un pizzic
 
 # game/events/max.rpy:444# translate crowdin about_blog_5af97f32:
 msgid "[Max_09][_text!t][nointeract]"
-msgstr "[Max_09][_text!t][nointeract]"
+msgstr ""
 
 # game/events/max.rpy:446# translate crowdin about_blog_c1ce2606:
 msgid "[Max_01]Это что же получается. Неужели, всё так просто? Главное - сиськи! Не важно о чём блог, важно что на экране. И если там сиськи, всё в порядке с популярностью! Но я и так об этом догадывался..."
@@ -335,10 +335,10 @@ msgstr "[Max_01]sì. Ognuno ha le sue caratteristiche, o io non lo sapevo! Qui, 
 "{color=[orange]}{i}(Il libro è stato letto al 25%%){/i}{/color}"
 
 # game/events/max.rpy:674# translate crowdin BookRead_sex_ed_2c2e756a:
-msgid "[Max_03]Так, это не особо интересно... А вот сексуалное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n"
+msgid "[Max_03]Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n"
 "{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
-msgstr "[Max_03]Quindi, non è particolarmente interessante... Ma il comportamento sessuale degli adolescenti riguarda solo me! Più sui miei riser mattutini scriverei, sarebbe generalmente super...\n\n"
-"{color=[orange]}{i}(Il libro è stato letto al 50%%){/i}{/color}"
+msgstr "[Max_03]Ok, questo non è molto interessante... Ma il comportamento sessuale degli adolescenti riguarda solo me! Se tu potessi scrivere anche delle mie erezioni mattutine, sarebbe fantastico...\n\n"
+"{color=[orange]}{i}(Il libro è studiato al 50%%){/i}{/color}"
 
 # game/events/max.rpy:676# translate crowdin BookRead_sex_ed_cdf53c7a:
 msgid "[Max_07]Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n"
@@ -512,8 +512,8 @@ msgid "[Max_04]Подытожим условия: \n"
 "В случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\n"
 "Лучше, конечно же, до такого не доводить."
 msgstr "[Max_04]Per riassumere le condizioni: \n"
-"{i}Entro un mese è necessario restituire l'intero importo del prestito + 10% \n"
-"In caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo... {/i} \n\n"
+"{i}Entro un mese è necessario restituire l'intero importo del prestito + 10%% \n"
+"In caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo...{/i} \n\n"
 "È meglio non portare questo a questo, ovviamente."
 
 # game/events/max.rpy:1038# translate crowdin about_credit_6a66dabb:
@@ -921,7 +921,7 @@ msgstr "[Max_14]{m}Ugh. Così tanta cattiveria nei commenti... Bene, cerchiamo d
 
 # game/events/max.rpy:445# translate crowdin about_blog_2d9761c1:
 msgid "[Max_09]{m}[_text!t]{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_09]{m}[_text!t]{/m}[nointeract]"
 
 # game/events/max.rpy:447# translate crowdin about_blog_116ee643:
 msgid "[Max_01]{m}Это что же получается. Неужели, всё так просто? Главное - сиськи! Не важно о чём блог, важно что на экране. И если там сиськи, всё в порядке с популярностью! Но я и так об этом догадывался...{/m}"
