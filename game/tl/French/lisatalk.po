@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-02 08:39\n"
+"PO-Revision-Date: 2022-02-18 18:09\n"
 
 # game/dialogues/lisatalk.rpy:15# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -7455,7 +7455,7 @@ msgstr "[Max_00]s'il vous plaît, écoutez ce que votre adorable Eric dit de vou
 
 # game/dialogues/lisatalk.rpy:4647# translate crowdin lisa_about_stolen_phone_2a74b2cc:
 msgid "{color=[orange]}(Лиза слушает запись...){/color}"
-msgstr ""
+msgstr "{color=[orange]}(Lisa écoute l'enregistrement...){/color}"
 
 # game/dialogues/lisatalk.rpy:4648# translate crowdin lisa_about_stolen_phone_0a6862b6:
 msgid "[Eric]{b}Эрик:{/b}\n"
