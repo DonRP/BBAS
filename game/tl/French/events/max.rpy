@@ -483,7 +483,7 @@ translate french BookRead_sex_ed_e2e2e4d9:
 # game/events/max.rpy:674
 translate french BookRead_sex_ed_2c2e756a:
 
-    # Max_03 "Так, это не особо интересно... А вот сексуалное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
+    # Max_03 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
     Max_03 "Donc, ce n'est pas vraiment intéressant... Mais le comportement sexuel des adolescents ne concerne que moi! Si je peux lire quelque chose sur mes érections matinales, ce serait génial...\n\n{color=[orange]}{i}(Le livre est étudié à 50%%){/i}{/color}"
 
 # game/events/max.rpy:676
@@ -698,11 +698,13 @@ translate french need_money_e2987b4e:
 
 # game/events/max.rpy:1020
 translate french cheat_money_46383d7e:
+
     # "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
     "A ce stade du jeu, Max ne peut pas avoir ce montant. Le piratage peut entraîner des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités, ainsi que des erreurs critiques qui vous empêcheront de continuer à jouer au jeu."
 
 # game/events/max.rpy:1024
 translate french cheat_money_strateg_16b9bde6:
+
     # "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
     "Vous êtes soit un hacker prudent, soit un bon stratège. Dans les deux cas, vous n'avez pas besoin de méthodes supplémentaires pour obtenir de l'argent. Sachez que le piratage peut avoir des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités du jeu, ainsi que des erreurs critiques qui vous empêcheront de poursuivre le jeu."
 
@@ -734,7 +736,7 @@ translate french about_credit_189e301b:
 translate french about_credit_0f0e102c:
 
     # Max_04 "Подытожим условия: \n{i}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\nЛучше, конечно же, до такого не доводить."
-    Max_04 "Pour résumer les conditions: \n\n{i}Vous devez rembourser le montant total du prêt + 10 %% dans un délai d'un mois. \n\nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/i} \n\nIl est certainement préférable de ne pas en arriver là."
+    Max_04 "Pour résumer les conditions: \n{i}Vous devez rembourser le montant total du prêt + 10 %% dans un délai d'un mois. \nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/i} \n\nIl est certainement préférable de ne pas en arriver là."
 
 # game/events/max.rpy:1038
 translate french about_credit_6a66dabb:
@@ -1521,7 +1523,7 @@ translate french about_credit_90bb447c:
 translate french about_credit_73692d65:
 
     # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"
-    Max_04 "{m}Pour résumer les conditions: \n\n{b}Vous devez rembourser le montant total du prêt + 10%% dans un délai d'un mois. \n\nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/b} \n\nIl est certainement préférable de ne pas en arriver là{/m}"
+    Max_04 "{m}Pour résumer les conditions: \n{b}Vous devez rembourser le montant total du prêt + 10%% dans un délai d'un mois. \nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/b} \n\nIl est certainement préférable de ne pas en arriver là{/m}"
 
 # game/events/max.rpy:1039
 translate french about_credit_5011fb20:

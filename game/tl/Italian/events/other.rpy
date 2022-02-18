@@ -678,6 +678,12 @@ translate italian Kira_arrival_end_yard_11f0d126:
     # Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?" nointeract
     Ann_04 "Bene, ora è il mio turno. Che ne pensi? Non troppo franco?" nointeract
 
+# game/events/other.rpy:675
+translate italian dictaphone_showdown_with_eric_60fce6d7:
+
+    # "{color=[orange]}(все слушают запись...){/color}"
+    "{color=[orange]}(tutti ascoltano il nastro...){/color}"
+
 # game/events/other.rpy:348
 translate italian Kira_arrival_end_yard_27e62e75:
 
@@ -1404,12 +1410,6 @@ translate italian dictaphone_showdown_with_eric_8684e2a4:
 
     # Lisa_13 "Не собираюсь я с тобой наедине больше оставаться! Макс всё записал на диктофон в телефоне. Сейчас послушаем..."
     Lisa_13 "Non sarò più solo con te! Max ha registrato tutto sul registratore del suo telefono. Sentiamo..."
-
-# game/events/other.rpy:675
-translate italian dictaphone_showdown_with_eric_60fce6d7:
-
-    # "{color=[orange]}(все слушают запись...){/color}"
-    "{color=[orange]}(tutti ascoltano il nastro...){/color}"
 
 # game/events/other.rpy:676
 translate italian dictaphone_showdown_with_eric_1c22e674:

@@ -678,6 +678,12 @@ translate french Kira_arrival_end_yard_11f0d126:
     # Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?" nointeract
     Ann_04 "Eh bien, maintenant c'est mon tour. Qu'en penses-tu? Pas trop flagrant?" nointeract
 
+# game/events/other.rpy:675
+translate french dictaphone_showdown_with_eric_60fce6d7:
+
+    # "{color=[orange]}(все слушают запись...){/color}"
+    "{color =[orange]} (tout le monde écoute l'enregistrement...){/color}"
+
 # game/events/other.rpy:348
 translate french Kira_arrival_end_yard_27e62e75:
 
@@ -1404,12 +1410,6 @@ translate french dictaphone_showdown_with_eric_8684e2a4:
 
     # Lisa_13 "Не собираюсь я с тобой наедине больше оставаться! Макс всё записал на диктофон в телефоне. Сейчас послушаем..."
     Lisa_13 "Je ne vais plus rester seul avec toi! Max a tout enregistré sur l'enregistreur de son téléphone. On va l'écouter..."
-
-# game/events/other.rpy:675
-translate french dictaphone_showdown_with_eric_60fce6d7:
-
-    # "{color=[orange]}(все слушают запись...){/color}"
-    "{color=[orange]}(tout le monde écoute l'enregistrement...){/color}"
 
 # game/events/other.rpy:676
 translate french dictaphone_showdown_with_eric_1c22e674:

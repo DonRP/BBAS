@@ -431,10 +431,14 @@ translate italian strings:
     old "Меню"
     new "Menù"
 
-# TODO: Translation updated at 2022-01-09 20:33##
+# TODO: Translation updated at 2022-01-09 20:33
 translate italian strings:
 
     # game/screens.rpy:1031
     old "Именованные сохранения"
     new "Salva con nome"
+
+# game/core/screens.rpy:2102
+    old "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+    new "ABBIGLIAMENTO DEL PERSONAGGIO NEL MENU PRINCIPALE"
 

@@ -431,10 +431,14 @@ translate french strings:
     old "Меню"
     new "Menu"
 
-# TODO: Translation updated at 2022-01-09 20:33## 
+# TODO: Translation updated at 2022-01-09 20:33
 translate french strings:
 
     # game/screens.rpy:1031
     old "Именованные сохранения"
     new "Conservation nommée"
+
+# game/core/screens.rpy:2102
+    old "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+    new "LES VÊTEMENTS DES PERSONNAGES DANS LE MENU PRINCIPAL"
 

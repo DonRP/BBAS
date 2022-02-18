@@ -483,8 +483,8 @@ translate italian BookRead_sex_ed_e2e2e4d9:
 # game/events/max.rpy:674
 translate italian BookRead_sex_ed_2c2e756a:
 
-    # Max_03 "Так, это не особо интересно... А вот сексуалное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
-    Max_03 "Quindi, non è particolarmente interessante... Ma il comportamento sessuale degli adolescenti riguarda solo me! Più sui miei riser mattutini scriverei, sarebbe generalmente super...\n\n{color=[orange]}{i}(Il libro è stato letto al 50%%){/i}{/color}"
+    # Max_03 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
+    Max_03 "Ok, questo non è molto interessante... Ma il comportamento sessuale degli adolescenti riguarda solo me! Se tu potessi scrivere anche delle mie erezioni mattutine, sarebbe fantastico...\n\n{color=[orange]}{i}(Il libro è studiato al 50%%){/i}{/color}"
 
 # game/events/max.rpy:676
 translate italian BookRead_sex_ed_cdf53c7a:
@@ -698,11 +698,13 @@ translate italian need_money_e2987b4e:
 
 # game/events/max.rpy:1020
 translate italian cheat_money_46383d7e:
+
     # "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
     "In questa fase del gioco, Max non può avere una tale quantità. L'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
 
 # game/events/max.rpy:1024
 translate italian cheat_money_strateg_16b9bde6:
+
     # "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
     "O sei un ladro pulito o un buon stratega. In ogni caso, non hai bisogno di metodi aggiuntivi per ottenere denaro. Si prega di notare che l'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
 
@@ -734,7 +736,7 @@ translate italian about_credit_189e301b:
 translate italian about_credit_0f0e102c:
 
     # Max_04 "Подытожим условия: \n{i}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/i} \n\nЛучше, конечно же, до такого не доводить."
-    Max_04 "Per riassumere le condizioni: \n\n{i}Entro un mese è necessario restituire l'intero importo del prestito + 10%% \n\nIn caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo... {/i} \n\nÈ meglio non portare questo a questo, ovviamente."
+    Max_04 "Per riassumere le condizioni: \n{i}Entro un mese è necessario restituire l'intero importo del prestito + 10%% \nIn caso di mancato rimborso in tempo, l'importo del debito triplica ogni 30 giorni e metà dei profitti verrà prelevata dal mio sito ogni giorno. E non puoi prendere in prestito di nuovo...{/i} \n\nÈ meglio non portare questo a questo, ovviamente."
 
 # game/events/max.rpy:1038
 translate italian about_credit_6a66dabb:
@@ -1227,7 +1229,7 @@ translate italian about_blog_f7287104:
 translate italian about_blog_2d9761c1:
 
     # Max_09 "{m}[_text!t]{/m}" nointeract
-    "Max_09 "{m}[_text!t]{/m}" nointeract"
+    Max_09 "{m}[_text!t]{/m}" nointeract
 
 # game/events/max.rpy:447
 translate italian about_blog_116ee643:
@@ -1521,7 +1523,7 @@ translate italian about_credit_90bb447c:
 translate italian about_credit_73692d65:
 
     # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"
-    Max_04 "{m}Riassumiamo le condizioni: \n\n{b}Entro un mese, è necessario rimborsare l'intero importo del prestito + 10%% \n\nSe non ripago in tempo, il debito si triplica ogni 30 giorni, e la metà dei profitti sarà presa dal mio sito ogni giorno. E non ci sarà più modo di prendere in prestito...{/b} \n\nMeglio, ovviamente, non portarlo a questo.{/m}"
+    Max_04 "{m}Riassumiamo le condizioni: \n{b}Entro un mese, è necessario rimborsare l'intero importo del prestito + 10%% \nSe non ripago in tempo, il debito si triplica ogni 30 giorni, e la metà dei profitti sarà presa dal mio sito ogni giorno. E non ci sarà più modo di prendere in prestito...{/b} \n\nMeglio, ovviamente, non portarlo a questo.{/m}"
 
 # game/events/max.rpy:1039
 translate italian about_credit_5011fb20:

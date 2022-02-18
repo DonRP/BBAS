@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-01-09 20:46\n"
+"PO-Revision-Date: 2022-02-02 08:40\n"
 
 # game/events/other.rpy:11# translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -992,7 +992,7 @@ msgid "[Lisa_13]Не собираюсь я с тобой наедине боль
 msgstr ""
 
 # game/events/other.rpy:675# translate crowdin dictaphone_showdown_with_eric_60fce6d7:
-msgid "[{color=[orange]}(все слушают запись...){/color}"
+msgid "{color=[orange]}(все слушают запись...){/color}"
 msgstr ""
 
 # game/events/other.rpy:676# translate crowdin dictaphone_showdown_with_eric_1c22e674:
