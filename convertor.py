@@ -154,7 +154,8 @@ msgid \"""",
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
-    """12:36\n\n# game""": """HH:HH# game""",
+    """22:09\n\n# game""": """HH:HH# game""",
+    """22:09\n\n# XXtranslate""": """HH:HH# XXtranslate""",
     # only rpytopo
     """msgid \"\"""": """msgid \"""",
     """msgstr \"\"""": """msgstr \"""",
@@ -191,7 +192,7 @@ def replaceDictionary(pathFile, dict={}, reverse=False):
 
 def getListFiles():
     # Get the list of all files and directories
-    path = "tl/"
+    path = "game/tl/"
     dir_list = glob(path + "/**/*.po", recursive=True)
     return dir_list
 
