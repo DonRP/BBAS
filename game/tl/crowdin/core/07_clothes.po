@@ -1,48 +1,48 @@
-﻿# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/07_clothes.rpy:87
-msgid "Повседневная"
-msgstr "Повседневная"
+﻿# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
+msgid  "Повседневная"
+msgstr  "Повседневная"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Для сна"
-msgstr "Для сна"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Для сна"
+msgstr  "Для сна"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Для йоги"
-msgstr "Для йоги"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Для йоги"
+msgstr  "Для йоги"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Блог в нижнем белье"
-msgstr "Блог в нижнем белье"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Блог в нижнем белье"
+msgstr  "Блог в нижнем белье"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Готовит завтрак"
-msgstr "Готовит завтрак"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Готовит завтрак"
+msgstr  "Готовит завтрак"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Готовит ужин"
-msgstr "Готовит ужин"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Готовит ужин"
+msgstr  "Готовит ужин"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Утренний отдых"
-msgstr "Утренний отдых"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Утренний отдых"
+msgstr  "Утренний отдых"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Вечерний отдых"
-msgstr "Вечерний отдых"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Вечерний отдых"
+msgstr  "Вечерний отдых"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Купальник"
-msgstr "Купальник"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Купальник"
+msgstr  "Купальник"
 
-#    # game/core/07_clothes.rpy:87
-msgid "За уроками"
-msgstr "За уроками"
+# XX## game/core/07_clothes.rpy:393
+msgid  "За уроками"
+msgstr  "За уроками"
 
-#    # game/core/07_clothes.rpy:87
-msgid "Для прогулок"
-msgstr "Для прогулок"
+# XX## game/core/07_clothes.rpy:393
+msgid  "Для прогулок"
+msgstr  "Для прогулок"
 
-#    # game/core/07_clothes.rpy:163
-msgid "Влияние Макса недостаточно"
-msgstr "Влияние Макса недостаточно"
+# XX## game/core/07_clothes.rpy:472
+msgid  "Влияние Макса недостаточно"
+msgstr  "Влияние Макса недостаточно"
 
