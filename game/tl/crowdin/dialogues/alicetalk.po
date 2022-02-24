@@ -3155,8 +3155,8 @@ msgid "[Alice_15]Кто??? Пауки что ли?! Если через пять
 msgstr "[Alice_15]Кто??? Пауки что ли?! Если через пять секунд не уберёшь руки, тебе будет плохо...{p=5}{nw}"
 
 # game/dialogues/alicetalk.rpy:3187 ## translate crowdin massage_sunscreen_squeeze_chest_11fdb519:
-msgid "extend "[nointeract]"
-msgstr "extend "[nointeract]"
+msgid "[extend][nointeract]"
+msgstr "[extend][nointeract]"
 
 # game/dialogues/alicetalk.rpy:3203 ## translate crowdin massage_sunscreen_squeeze_chest_1160d297:
 msgid "[Max_02]Всё, убрал. Правда, если ты продолжишь так крепко прижиматься ими к моему лицу, то есть риск..."
