@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-01-09 20:43\n"
+"PO-Revision-Date: 2022-02-24 22:55\n"
 
-# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/07_clothes.rpy:87
+# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid "Повседневная"
 msgstr "Casual"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Для сна"
 msgstr "Para dormir"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Для йоги"
 msgstr "Para Yoga"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Блог в нижнем белье"
 msgstr "Blog en ropa interior"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Готовит завтрак"
 msgstr "Prepara el desayuno"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Готовит ужин"
 msgstr "Cocina la cena"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Утренний отдых"
 msgstr "Descanso matutino"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Вечерний отдых"
 msgstr "Descanso nocturno"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Купальник"
 msgstr "Traje de baño"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "За уроками"
 msgstr "Para lecciones"
 
-#    # game/core/07_clothes.rpy:87
+# XX## game/core/07_clothes.rpy:393
 msgid "Для прогулок"
 msgstr "Para paseos"
 
-#    # game/core/07_clothes.rpy:163
+# XX## game/core/07_clothes.rpy:472
 msgid "Влияние Макса недостаточно"
 msgstr "La influencia de Max no es suficiente"
 
