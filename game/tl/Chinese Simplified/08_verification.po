@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/08_verification.po\n"
+"X-Crowdin-File-ID: 3306\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2022-02-24 22:58\n"
+
+# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:368
+msgid "Не определены"
+msgstr ""
+
+# XX## game/core/08_verification.rpy:370
+msgid "Откровенная вражда"
+msgstr ""
+
+# XX## game/core/08_verification.rpy:380
+msgid "Дружба"
+msgstr ""
+
+# XX## game/core/08_verification.rpy:388
+msgid "Настоящая дружба"
+msgstr ""
+
+# XX## game/core/08_verification.rpy:399
+msgid "Фальшивая дружба"
+msgstr ""
+
