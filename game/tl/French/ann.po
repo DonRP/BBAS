@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-24 22:57\n"
+"PO-Revision-Date: 2022-02-25 17:38\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00]{m}В это время мама обычно спит.\n"
@@ -466,27 +466,27 @@ msgstr ""
 
 # game/events/ann.rpy:631 ## translate crowdin ann_dressed_balcony_1f19d7dd:
 msgid "[Ann_15]Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось?[nointeract]"
-msgstr ""
+msgstr "[Ann_15]Max! Je t'ai appris à frapper! Vous ne pouvez pas entrer dans la pièce sans prévenir! Quelque chose s'est passé?[nointeract]"
 
 # game/events/ann.rpy:634 ## translate crowdin ann_dressed_balcony_e1ca91d3:
 msgid "[Ann_15]Макс! А стучаться кто будет?! Прекращай уже без предупреждения врываться в комнату! Или у тебя что-то срочное?[nointeract]"
-msgstr ""
+msgstr "[Ann_15]Max! Qui va frapper?! Arrête d'entrer dans la pièce sans prévenir! Ou tu as quelque chose d'urgent?[nointeract]"
 
 # game/events/ann.rpy:642 ## translate crowdin ann_dressed_balcony_a9e5c75c:
 msgid "[Ann_15]Макс! Я же учила тебя стучаться! {p=3}{nw}"
-msgstr ""
+msgstr "[Ann_15]Max! Je t'ai appris à frapper! {p=3}{nw}"
 
 # game/events/ann.rpy:644 ## translate crowdin ann_dressed_balcony_babcea3a:
 msgid "[Ann_15]Макс! А стучаться кто будет?! {p=3}{nw}"
-msgstr ""
+msgstr "[Ann_15]Max! Qui va frapper?! {p=3}{nw}"
 
 # game/events/ann.rpy:647 ## translate crowdin ann_dressed_balcony_aa9214ef:
 msgid "[Ann_14]Нельзя вот так без предупреждения врываться в комнату! Что-то случилось?[nointeract]"
-msgstr ""
+msgstr "[Ann_14]vous ne Pouvez pas entrer dans la pièce sans prévenir! Quelque chose s'est passé?[nointeract]"
 
 # game/events/ann.rpy:650 ## translate crowdin ann_dressed_balcony_c391d1e4:
 msgid "[Ann_12]Прекращай уже без предупреждения врываться в комнату! Или у тебя что-то срочное?[nointeract]"
-msgstr ""
+msgstr "[Ann_12]Arrêtez d'entrer dans la pièce sans avertissement! Ou tu as quelque chose d'urgent?[nointeract]"
 
 # game/events/ann.rpy:661 ## translate crowdin ann_dressed_balkon_talk1_b906cb2e:
 msgid "[Ann_14]У меня сейчас такое состояние, что я не знаю, как мне жить дальше... Я... Я ужасная мать..."
