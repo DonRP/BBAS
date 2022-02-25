@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-02-24 22:56\n"
+"PO-Revision-Date: 2022-02-25 17:37\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:272 ## translate crowdin ann_talk_tv_start_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr ""
+msgstr "[Max_01]当然，妈妈！"
 
 # game/dialogues/anntalk.rpy:288 ## translate crowdin ann_tv_casual_0_de055873:
 msgid "[Max_02]{m}Мама так близко... В одном полотенце... Даже не знаю о чём сериал, о нём я думать точно не могу...{/m}"
@@ -298,7 +298,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:440 ## translate crowdin ann_tv_casual_1_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr ""
+msgstr "[Max_01]当然，妈妈！"
 
 # game/dialogues/anntalk.rpy:445 ## translate crowdin ann_tv_casual_1_284457e7:
 msgid "[Ann_05]Ого, Макс... Алиса была права. Ты делаешь это и правда очень хорошо..."
@@ -558,7 +558,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:703 ## translate crowdin Ann_MorningWood_26bf3db9:
 msgid "[Max_01]Хорошо, мам..."
-msgstr ""
+msgstr "[Max_01]好吧 妈妈..."
 
 # game/dialogues/anntalk.rpy:707 ## translate crowdin Ann_MorningWood_fe9ff73d:
 msgid "[Ann_05]Вот и молодец. А если такое повторится, просто прикройся, как будто ничего нет..."
@@ -1186,7 +1186,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1184 ## translate crowdin ann_gift_fit1_e41c68c6:
 msgid "[Ann_07]И я тебя, Макс..."
-msgstr ""
+msgstr "[Ann_07]我是你"
 
 # game/dialogues/anntalk.rpy:1186 ## translate crowdin ann_gift_fit1_8e40314a:
 msgid "[Ann_02]Спасибо, сынок! И ты тоже..."
@@ -1654,7 +1654,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1723 ## translate crowdin erofilm2_2_end_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr ""
+msgstr "[Max_01]当然，妈妈！"
 
 # game/dialogues/anntalk.rpy:1738 ## translate crowdin ann_about_wallet_90e1fc67:
 msgid "[Ann_16]Ты вернул Эрику бумажник и деньги?"
