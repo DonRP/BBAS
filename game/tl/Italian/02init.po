@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-24 22:54\n"
+"PO-Revision-Date: 2022-02-25 17:35\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -362,11 +362,11 @@ msgstr "Mi iscriverò?"
 
 # XX## game/core/02init.rpy:138
 msgid "Мам, нужно поговорить об Оливии."
-msgstr ""
+msgstr "Mamma, dobbiamo parlare di Olivia."
 
 # XX## game/core/02init.rpy:138
 msgid "Мам, ты подумала об Оливии?"
-msgstr ""
+msgstr "Mamma, hai pensato a Olivia?"
 
 # XX## game/core/02init.rpy:138
 msgid "Мне нужны деньги..."
@@ -592,27 +592,27 @@ msgstr "Lisa, perché stai arricciando il naso?"
 
 # XX## game/core/02init.rpy:138
 msgid "Мама разрешила!"
-msgstr ""
+msgstr "La mamma ha detto che potevo!"
 
 # XX## game/core/02init.rpy:138
 msgid "Кстати, а как тебе та книжка, которую я дарил?"
-msgstr ""
+msgstr "A proposito, cosa ne pensi del libro che ti ho dato?"
 
 # XX## game/core/02init.rpy:138
 msgid "Можно вместе с тобой книжку почитать?"
-msgstr ""
+msgstr "Posso leggere un libro con te?"
 
 # XX## game/core/02init.rpy:138
 msgid "Можно к тебе присоединиться?"
-msgstr ""
+msgstr "Posso unirmi a voi?"
 
 # XX## game/core/02init.rpy:138
 msgid "А у меня есть крем для загара. Хотите?"
-msgstr ""
+msgstr "E ho la protezione solare. Ne vuoi un po'?"
 
 # XX## game/core/02init.rpy:138
 msgid "Давайте, я намажу вас кремом для загара?"
-msgstr ""
+msgstr "Perché non ti metto un po' di protezione solare?"
 
 # XX## game/core/02init.rpy:138
 msgid "Вам дать крем для загара?"
