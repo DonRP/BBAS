@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:56\n"
+"PO-Revision-Date: 2022-02-25 17:37\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
@@ -298,7 +298,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:440 ## translate crowdin ann_tv_casual_1_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr ""
+msgstr "[Max_01]¡Por supuesto, mamá!"
 
 # game/dialogues/anntalk.rpy:445 ## translate crowdin ann_tv_casual_1_284457e7:
 msgid "[Ann_05]Ого, Макс... Алиса была права. Ты делаешь это и правда очень хорошо..."
@@ -1006,7 +1006,7 @@ msgstr "[Max_01]¡Con alegría, mamá! Debe...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1055 ## translate crowdin ann_yoga_with_maxr_6fd1e81a_1:
 msgid "[Max_05]Здорово, мам! Ещё немного потянись и будет идеально..."
-msgstr ""
+msgstr "[Max_05]Genial, mamá! Estira un poco más y será perfecto..."
 
 # game/dialogues/anntalk.rpy:1056 ## translate crowdin ann_yoga_with_maxr_a7aab14e:
 msgid "[Ann_05]Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе... Но с твоей поддержкой, кажется, мне это не грозит."
@@ -1038,7 +1038,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1079 ## translate crowdin ann_yoga_with_maxr_4e133757_1:
 msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
-msgstr ""
+msgstr "[Max_01]¡Con alegría, mamá! Debe...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1090 ## translate crowdin ann_yoga_with_maxr_5a4fa2a4:
 msgid "[Ann_15]Ой, спасибо, сынок, что помог. Фух... А это что такое?! Как тебе не стыдно! Это у тебя на меня такая реакция?!"
@@ -1110,7 +1110,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1121 ## translate crowdin ann_yoga_with_maxr_4e133757_2:
 msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
-msgstr ""
+msgstr "[Max_01]¡Con alegría, mamá! Debe...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1135 ## translate crowdin ann_gift_fit1_d73a8076:
 msgid "[Ann_06]Для моих занятий по утрам? Спасибо, дорогой! Ждала с нетерпением, показывай..."
@@ -1506,7 +1506,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1554 ## translate crowdin erofilm2_2_2138fb99:
 msgid "[Ann_15]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась!"
-msgstr ""
+msgstr "[Ann_15]¡Oh! ¡Uau! Max, ¿por qué no dijiste que mi toalla se estaba deslizando? ¡Casi desnudo no se queda!"
 
 # game/dialogues/anntalk.rpy:1555 ## translate crowdin erofilm2_2_fc50443e:
 msgid "[Max_02]Так я не видел! Фильм же смотрю..."
@@ -1590,15 +1590,15 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1659 ## translate crowdin erofilm2_2_lucky_3dccf94a:
 msgid "[Ann_05]Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
-msgstr ""
+msgstr "[Ann_05]A juzgar por el momento, las cosas se están moviendo hacia un desenlace. Es divertido verlos a todos... Cómo solo ahora entienden lo que el espectador ha entendido durante mucho tiempo."
 
 # game/dialogues/anntalk.rpy:1666 ## translate crowdin erofilm2_2_lucky_82e6080c:
 msgid "[Max_04]Да, намёки для зрителей были местами очень жирные."
-msgstr ""
+msgstr "[Max_04]Sí, las pistas para la audiencia a veces eran muy gordas."
 
 # game/dialogues/anntalk.rpy:1674 ## translate crowdin erofilm2_2_lucky_2d7bb75d:
 msgid "[Ann_06]Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
-msgstr ""
+msgstr "[Ann_06]Eso es todo. Interesante detective... Me gustó. Pero esta película ni siquiera está cerca de ser hecha para niños..."
 
 # game/dialogues/anntalk.rpy:1675 ## translate crowdin erofilm2_2_lucky_2e5facee:
 msgid "[Max_03]А где ты тут детей видишь?"
@@ -1606,7 +1606,7 @@ msgstr "[Max_03]¿Dónde ves a los niños aquí?"
 
 # game/dialogues/anntalk.rpy:1681 ## translate crowdin erofilm2_2_lucky_684e55df:
 msgid "[Ann_04]Да, знаю... знаю... Ты уже взрослый. Почти..."
-msgstr ""
+msgstr "[Ann_04]sí, lo sé... Lo sé... Eres un adulto. Casi..."
 
 # game/dialogues/anntalk.rpy:1690 ## translate crowdin erofilm2_2_unlucky_7cb8cd3e:
 msgid "[Ann_15][unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? Из-за фильма? А, ну да, конечно, я ещё спрашиваю..."
@@ -1626,23 +1626,23 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1703 ## translate crowdin erofilm2_2_unlucky_3dccf94a:
 msgid "[Ann_05]Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
-msgstr ""
+msgstr "[Ann_05]A juzgar por el momento, las cosas se están moviendo hacia un desenlace. Es divertido verlos a todos... Cómo solo ahora entienden lo que el espectador ha entendido durante mucho tiempo."
 
 # game/dialogues/anntalk.rpy:1704 ## translate crowdin erofilm2_2_unlucky_82e6080c:
 msgid "[Max_04]Да, намёки для зрителей были местами очень жирные."
-msgstr ""
+msgstr "[Max_04]Sí, las pistas para la audiencia a veces eran muy gordas."
 
 # game/dialogues/anntalk.rpy:1708 ## translate crowdin erofilm2_2_unlucky_2d7bb75d:
 msgid "[Ann_06]Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
-msgstr ""
+msgstr "[Ann_06]Eso es todo. Interesante detective... Me gustó. Pero esta película ni siquiera está cerca de ser hecha para niños..."
 
 # game/dialogues/anntalk.rpy:1709 ## translate crowdin erofilm2_2_unlucky_2e5facee:
 msgid "[Max_03]А где ты тут детей видишь?"
-msgstr ""
+msgstr "[Max_03]¿Dónde ves a los niños aquí?"
 
 # game/dialogues/anntalk.rpy:1715 ## translate crowdin erofilm2_2_unlucky_684e55df:
 msgid "[Ann_04]Да, знаю... знаю... Ты уже взрослый. Почти..."
-msgstr ""
+msgstr "[Ann_04]sí, lo sé... Lo sé... Eres un adulto. Casi..."
 
 # game/dialogues/anntalk.rpy:1721 ## translate crowdin erofilm2_2_end_e67edc91:
 msgid "[Max_02]В следующий раз посмотрим что-нибудь ещё подобное?"
