@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:53\n"
+"PO-Revision-Date: 2022-02-25 17:35\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -334,7 +334,7 @@ msgstr "[Max_00]Está bien. Ya se fue...[nointeract]"
 
 # game/dialogues/erictalk.rpy:323 ## translate crowdin lessons_from_Eric_fourth_visit_fa9a17f5:
 msgid "[Max_07]К вам ведь можно?"
-msgstr ""
+msgstr "[Max_07]¿Puedo venir a ti?"
 
 # game/dialogues/erictalk.rpy:324 ## translate crowdin lessons_from_Eric_fourth_visit_5499a427:
 msgid "[Eric_01]Ну, как сказать... Вообще-то, того, что мы тебе до этого показали, более чем достаточно. На этом всё, Макс."
@@ -990,7 +990,7 @@ msgstr "[Eric_13] Pronto lo descubrirás. ¡Ahora sal! [nointeract]"
 
 # game/dialogues/erictalk.rpy:762 ## translate crowdin Eric_with_dictaphone_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
-msgstr ""
+msgstr "[Eric_01]¿Qué querías, Max?[nointeract]"
 
 # game/dialogues/erictalk.rpy:766 ## translate crowdin Eric_with_dictaphone_9dfe8aef:
 msgid "[Eric_02]И о чём таком мы с тобой можем договориться?"
