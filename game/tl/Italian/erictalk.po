@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-24 22:54\n"
+"PO-Revision-Date: 2022-02-25 17:35\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -334,7 +334,7 @@ msgstr "[Max_00]Va bene. Già andato...[nointeract]"
 
 # game/dialogues/erictalk.rpy:323 ## translate crowdin lessons_from_Eric_fourth_visit_fa9a17f5:
 msgid "[Max_07]К вам ведь можно?"
-msgstr ""
+msgstr "[Max_07]Posso venire da te?"
 
 # game/dialogues/erictalk.rpy:324 ## translate crowdin lessons_from_Eric_fourth_visit_5499a427:
 msgid "[Eric_01]Ну, как сказать... Вообще-то, того, что мы тебе до этого показали, более чем достаточно. На этом всё, Макс."
@@ -1178,7 +1178,7 @@ msgstr ""
 
 # game/dialogues/erictalk.rpy:878 ## translate crowdin Eric_talk_about_Lisa_3_36c2b900:
 msgid "[Max_11]{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
-msgstr ""
+msgstr "[Max_11]{m}è meglio lavare i piatti dopo tutto, a parte Lisa non inizierà a parlarmi presto... {/m}"
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/erictalk.rpy:11
 msgid "{i}В другой раз...{/i}"
