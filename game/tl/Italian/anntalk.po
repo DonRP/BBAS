@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-24 22:56\n"
+"PO-Revision-Date: 2022-02-25 17:37\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
@@ -1006,7 +1006,7 @@ msgstr "[Max_01]Con gioia, mamma! Deve...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1055 ## translate crowdin ann_yoga_with_maxr_6fd1e81a_1:
 msgid "[Max_05]Здорово, мам! Ещё немного потянись и будет идеально..."
-msgstr ""
+msgstr "[Max_05]Grande, mamma! Allunga un po'di più e sarà perfetto..."
 
 # game/dialogues/anntalk.rpy:1056 ## translate crowdin ann_yoga_with_maxr_a7aab14e:
 msgid "[Ann_05]Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе... Но с твоей поддержкой, кажется, мне это не грозит."
@@ -1038,7 +1038,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1079 ## translate crowdin ann_yoga_with_maxr_4e133757_1:
 msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
-msgstr ""
+msgstr "[Max_01]Con gioia, mamma! Deve...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1090 ## translate crowdin ann_yoga_with_maxr_5a4fa2a4:
 msgid "[Ann_15]Ой, спасибо, сынок, что помог. Фух... А это что такое?! Как тебе не стыдно! Это у тебя на меня такая реакция?!"
@@ -1110,7 +1110,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1121 ## translate crowdin ann_yoga_with_maxr_4e133757_2:
 msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
-msgstr ""
+msgstr "[Max_01]Con gioia, mamma! Deve...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1135 ## translate crowdin ann_gift_fit1_d73a8076:
 msgid "[Ann_06]Для моих занятий по утрам? Спасибо, дорогой! Ждала с нетерпением, показывай..."
