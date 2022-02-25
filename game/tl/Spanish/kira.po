@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:57\n"
+"PO-Revision-Date: 2022-02-25 17:38\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
@@ -334,7 +334,7 @@ msgstr ""
 
 # game/events/kira.rpy:294 ## translate crowdin kira_bath_mass_bath_45071b84_2:
 msgid "[Kira_04]Приятных снов, Макс."
-msgstr ""
+msgstr "[Kira_04]sueños agradables, máx."
 
 # game/events/kira.rpy:304 ## translate crowdin kira_bath_promise_cuni_a2ff7924:
 msgid "[Kira_02]Раз уж ты снял усталость с моих ножек, то может порадуешь свою тётю, как обещал? Или ты уже забыл!?"
@@ -382,7 +382,7 @@ msgstr ""
 
 # game/events/kira.rpy:339 ## translate crowdin kira_bath_promise_cuni_45071b84:
 msgid "[Kira_04]Приятных снов, Макс."
-msgstr ""
+msgstr "[Kira_04]sueños agradables, máx."
 
 # game/events/kira.rpy:354 ## translate crowdin kira_bath_cuni_bj_b0f7c22d:
 msgid "[Kira_05]Оу... Макс, не выдержал и сам захотел поласкать мою киску? У тебя такие нежные пальчики... Да... Поиграй с ней![nointeract]"
@@ -458,7 +458,7 @@ msgstr ""
 
 # game/events/kira.rpy:441 ## translate crowdin kira_bath_cuni_bj_45071b84:
 msgid "[Kira_04]Приятных снов, Макс."
-msgstr ""
+msgstr "[Kira_04]sueños agradables, máx."
 
 # game/events/kira.rpy:450 ## translate crowdin kira_bath_not_restrain_26d27f45:
 msgid "[Kira_08][norestrain!t]Ого! Кто-то у нас тут слишком перевозбудился... А я ведь только начала..."
@@ -486,7 +486,7 @@ msgstr ""
 
 # game/events/kira.rpy:458 ## translate crowdin kira_bath_not_restrain_45071b84:
 msgid "[Kira_04]Приятных снов, Макс."
-msgstr ""
+msgstr "[Kira_04]sueños agradables, máx."
 
 # game/events/kira.rpy:467 ## translate crowdin kira_bath_caught_3ca0ecaf:
 msgid "[Eric_12]Ох нифига себе, Макс!!! Это я удачно зашёл..."
@@ -2318,7 +2318,7 @@ msgstr ""
 
 # game/events/kira.rpy:2559 ## translate crowdin kira_shower_sex_9b836c58:
 msgid "[Max_04]Конечно!"
-msgstr ""
+msgstr "[Max_04]¡Por supuesto!"
 
 # game/events/kira.rpy:2577 ## translate crowdin kira_lisa_shower_096d6593:
 msgid "[Max_00]{m}Лиза и Кира принимают душ, не стоит им мешать...{/m}[nointeract]"
