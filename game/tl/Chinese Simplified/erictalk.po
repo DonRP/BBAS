@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-02-24 22:53\n"
+"PO-Revision-Date: 2022-02-25 17:35\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/dialogues/erictalk.rpy:38 ## translate crowdin eric_needmoney_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr ""
+msgstr "[Max_01]好..."
 
 # game/dialogues/erictalk.rpy:50 ## translate crowdin eric_voy_wtf_17303bac:
 msgid "[Eric_05]А можно конкретнее? О чём речь?"
