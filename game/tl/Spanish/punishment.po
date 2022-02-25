@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:53\n"
+"PO-Revision-Date: 2022-02-25 17:35\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/punishment.rpy:99 ## translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -506,11 +506,11 @@ msgstr ""
 
 # game/dialogues/punishment.rpy:708 ## translate crowdin punishment_alice_cb34e360_1:
 msgid "[Max_08]Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
-msgstr ""
+msgstr "[Max_08]mamá, no castigues a Alice. No son sus cigarrillos, su novia vino a verla hoy, probablemente se olvidó."
 
 # game/dialogues/punishment.rpy:710 ## translate crowdin punishment_alice_e5b82d3f_1:
 msgid "[Ann_12]Нет, Макс, даже не пытайся её оправдывать. Ты и сам накосячил... Алиса, пошевеливайся..."
-msgstr ""
+msgstr "[Ann_12]No, Max, ni siquiera intentes justificarla. Tú mismo lo arruinaste... Alicia, muévete..."
 
 # game/dialogues/punishment.rpy:712 ## translate crowdin punishment_alice_3eaef6e3:
 msgid "[Ann_12]Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... Алиса, пошевеливайся..."
