@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:57\n"
+"PO-Revision-Date: 2022-02-25 17:38\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00]{m}Лиза сейчас принимает душ...{/m}[nointeract]"
@@ -907,11 +907,11 @@ msgstr ""
 
 # game/events/lisa.rpy:1066 ## translate crowdin lisa_romantic_movie_r_3dfedd8c:
 msgid "[Lisa_09]Да ну тебя!"
-msgstr ""
+msgstr "[Lisa_09] ¡Vamos!"
 
 # game/events/lisa.rpy:1068 ## translate crowdin lisa_romantic_movie_r_85436806:
 msgid "[Max_01]Ладно. Доброй ночи тогда."
-msgstr ""
+msgstr "[Max_01]Está bien. Buenas noches entonces."
 
 # game/events/lisa.rpy:1086 ## translate crowdin lisa_horor_movie_0_f3247db8:
 msgid "[Lisa_01]Ну что, Макс, смотрим кино или как?"
