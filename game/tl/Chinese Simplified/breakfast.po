@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-02-24 22:57\n"
+"PO-Revision-Date: 2022-02-25 17:38\n"
 
 # TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
@@ -486,7 +486,7 @@ msgstr ""
 
 # game/dialogues/breakfast.rpy:532 ## translate crowdin breakfast_3_conf_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr ""
+msgstr "[Max_00]好..."
 
 # game/dialogues/breakfast.rpy:536 ## translate crowdin breakfast_3_wedd_d62947f2:
 msgid "[Ann_14]Ну я образно... И, вообще, давайте сменим тему!"
@@ -494,7 +494,7 @@ msgstr ""
 
 # game/dialogues/breakfast.rpy:537 ## translate crowdin breakfast_3_wedd_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr ""
+msgstr "[Max_00]好..."
 
 # game/dialogues/breakfast.rpy:541 ## translate crowdin breakfast_3_hurry_21b57076:
 msgid "[Alice_13]Макс! Ну сколько можно? Мама сама разберётся. Лично я очень за неё рада. Думаю, Лиза тоже. А вот ты... не знаю. Ладно, давайте сменим тему, а то Макс что-то докапывается..."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 # game/dialogues/breakfast.rpy:788 ## translate crowdin breakfast_18_next_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr ""
+msgstr "[Max_00]好..."
 
 # game/dialogues/breakfast.rpy:790 ## translate crowdin breakfast_18_next_38a95e47:
 msgid "[Kira_13]Ого! У вас снова в моде физические наказания? Прямо как у нас в детстве, да Ань? Неужели, дети перестали слушаться обычных голосовых команд?[nointeract]"
