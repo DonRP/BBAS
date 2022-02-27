@@ -4,389 +4,431 @@ msgstr ""
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/screens.po\n"
-"X-Crowdin-File-ID: 809\n"
+"X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 863\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-02-27 17:45\n"
+"PO-Revision-Date: 2022-02-27 17:47\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
-msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
+# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
+msgid "массаж, "
 msgstr ""
 
-# XX## game/core/screens.rpy:182
-msgid "{b}ОНЛАЙН-КУРСЫ{/b}"
+# XX## game/screens.rpy:250
+msgid "убеждение, "
 msgstr ""
 
-# XX## game/core/screens.rpy:192
-msgid "{b}КУПИТЬ ПРОДУКТЫ{/b}"
+# XX## game/screens.rpy:250
+msgid "сексуальный опыт, "
 msgstr ""
 
-# XX## game/core/screens.rpy:205
-msgid "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
+# XX## game/screens.rpy:250
+msgid "поцелуи, "
 msgstr ""
 
-# XX## game/core/screens.rpy:213
-msgid "{b}СВОЙ САЙТ{/b}"
+# XX## game/screens.rpy:250
+msgid "удача, "
 msgstr ""
 
-# XX## game/core/screens.rpy:218
-msgid "{b}CYBER-БАНК{/b}"
+# XX## game/screens.rpy:250
+msgid "скрытность, "
 msgstr ""
 
-# XX## game/core/screens.rpy:306
-msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+# XX## game/screens.rpy:277
+msgid "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
 msgstr ""
 
-# XX## game/core/screens.rpy:313
-msgid "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+# XX## game/screens.rpy:339
+msgid "История"
 msgstr ""
 
-# XX## game/core/screens.rpy:314
-msgid "[mgg.credit.left] дней на погашение"
+# XX## game/screens.rpy:340
+msgid "Пропуск"
 msgstr ""
 
-# XX## game/core/screens.rpy:316
-msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
+# XX## game/screens.rpy:341
+msgid "Авто"
 msgstr ""
 
-# XX## game/core/screens.rpy:320
-msgid "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
+# XX## game/screens.rpy:342
+msgid "Сохранить"
 msgstr ""
 
-# XX## game/core/screens.rpy:328
-msgid "ВЗЯТЬ КРЕДИТ"
+# XX## game/screens.rpy:343
+msgid "Б.Сохр"
 msgstr ""
 
-# XX## game/core/screens.rpy:363
-msgid "Что будем искать?"
+# XX## game/screens.rpy:344
+msgid "Б.Загр"
 msgstr ""
 
-# XX## game/core/screens.rpy:434
-msgid "{i}{b}КУПЛЕНО{/b}{/i}"
+# XX## game/screens.rpy:345
+msgid "Опции"
 msgstr ""
 
-# XX## game/core/screens.rpy:509
-msgid "ОНЛАЙН-КУРСЫ"
+# XX## game/screens.rpy:390
+msgid "Загрузить игру"
 msgstr ""
 
-# XX## game/core/screens.rpy:527
-msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+# XX## game/screens.rpy:393
+msgid "Сохранить игру"
 msgstr ""
 
-# XX## game/core/screens.rpy:539
-msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+# XX## game/screens.rpy:396
+msgid "Настройки"
 msgstr ""
 
-# XX## game/core/screens.rpy:543
-msgid "Занятие [text1] из [text2]"
+# XX## game/screens.rpy:403
+msgid "Завершить повтор"
 msgstr ""
 
-# XX## game/core/screens.rpy:547
-msgid "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
+# XX## game/screens.rpy:406
+msgid "Главное меню"
 msgstr ""
 
-# XX## game/core/screens.rpy:552
-msgid "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
+# XX## game/screens.rpy:413
+msgid "Выйти из игры"
 msgstr ""
 
-# XX## game/core/screens.rpy:562
-msgid "Количество занятий: [text2]"
+# XX## game/screens.rpy:419
+msgid "Назад"
 msgstr ""
 
-# XX## game/core/screens.rpy:568
-msgid "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+# XX## game/screens.rpy:526
+msgid "НОВАЯ ИГРА"
 msgstr ""
 
-# XX## game/core/screens.rpy:603
-msgid "ДОХОД ОТ ПРОСМОТРОВ"
+# XX## game/screens.rpy:532
+msgid "ПРОДОЛЖИТЬ"
 msgstr ""
 
-# XX## game/core/screens.rpy:604
-msgid "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
-"Минимальная сумма единоразового снятия: $100."
+# XX## game/screens.rpy:535
+msgid "ЗАГРУЗИТЬ"
 msgstr ""
 
-# XX## game/core/screens.rpy:605
-msgid "На вашем счете $[paid]"
+# XX## game/screens.rpy:539
+msgid "НАСТРОЙКИ"
 msgstr ""
 
-# XX## game/core/screens.rpy:607
-msgid "Забрать $[paid]"
+# XX## game/screens.rpy:540
+msgid "ВЫЙТИ"
 msgstr ""
 
-# XX## game/core/screens.rpy:620
-msgid "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+# XX## game/screens.rpy:572
+msgid "МЕНЮ"
 msgstr ""
 
-# XX## game/core/screens.rpy:641
-msgid "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+# XX## game/screens.rpy:706
+msgid "Введите описание файла сохранения:"
 msgstr ""
 
-# XX## game/core/screens.rpy:642
-msgid "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
-"За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+# XX## game/screens.rpy:727
+msgid "(Нет описания)"
 msgstr ""
 
-# XX## game/core/screens.rpy:644
-msgid "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+# XX## game/screens.rpy:746
+msgid "{} страница"
 msgstr ""
 
-# XX## game/core/screens.rpy:748
-msgid "{b}РЕКЛАМА{/b}"
+# XX## game/screens.rpy:746
+msgid "Автосохранения"
 msgstr ""
 
-# XX## game/core/screens.rpy:751
-msgid "{b}ВЫВОД СРЕДСТВ{/b}"
+# XX## game/screens.rpy:746
+msgid "Быстрые сохранения"
 msgstr ""
 
-# XX## game/core/screens.rpy:756
-msgid "Расположение:"
+# XX## game/screens.rpy:821
+msgid "{#file_time}%a, %d %b %Y, %H:%M"
 msgstr ""
 
-# XX## game/core/screens.rpy:757
-msgid "Зрителей:"
+# XX## game/screens.rpy:821
+msgid "Пустой слот"
 msgstr ""
 
-# XX## game/core/screens.rpy:758
-msgid "Общий доход:"
+# XX## game/screens.rpy:829
+msgid "ДЕНЬ [load_day]"
 msgstr ""
 
-# XX## game/core/screens.rpy:759
-msgid "Доход сегодня:"
+# XX## game/screens.rpy:879
+msgid "{#file_time}%d %b %Y, %H:%M"
 msgstr ""
 
-# XX## game/core/screens.rpy:960
-msgid "ЖДАТЬ"
+# XX## game/screens.rpy:903
+msgid "<"
 msgstr ""
 
-# XX## game/core/screens.rpy:971
-msgid "Зрителей: [public]"
+# XX## game/screens.rpy:906
+msgid "{#auto_page}Автосохр."
 msgstr ""
 
-# XX## game/core/screens.rpy:1019
-msgid "ПОЛЕЗНОЕ"
+# XX## game/screens.rpy:909
+msgid "{#quick_page}Быстрые сохр."
 msgstr ""
 
-# XX## game/core/screens.rpy:1119
-msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
+# XX## game/screens.rpy:915
+msgid ">"
 msgstr ""
 
-# XX## game/core/screens.rpy:1132
-msgid "В ПРОЦЕССЕ..."
+# XX## game/screens.rpy:987
+msgid "Режим экрана"
 msgstr ""
 
-# XX## game/core/screens.rpy:1134
-msgid "ЗАВЕРШЕНЫ..."
+# XX## game/screens.rpy:988
+msgid "Оконный"
 msgstr ""
 
-# XX## game/core/screens.rpy:1136
-msgid "ЗАБЛОКИРОВАНЫ..."
+# XX## game/screens.rpy:989
+msgid "Полный"
 msgstr ""
 
-# XX## game/core/screens.rpy:1139
-msgid "НЕ ОТКРЫТЫ..."
+# XX## game/screens.rpy:992
+msgid "Сторона отката"
 msgstr ""
 
-# XX## game/core/screens.rpy:1190
-msgid "Подсказка:"
+# XX## game/screens.rpy:993
+msgid "Отключено"
 msgstr ""
 
-# XX## game/core/screens.rpy:1200
-msgid "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+# XX## game/screens.rpy:994
+msgid "Левая"
 msgstr ""
 
-# XX## game/core/screens.rpy:1202
-msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+# XX## game/screens.rpy:995
+msgid "Правая"
 msgstr ""
 
-# XX## game/core/screens.rpy:1281
-msgid "ВЕЩИ"
+# XX## game/screens.rpy:1001
+msgid "Всего текста"
 msgstr ""
 
-# XX## game/core/screens.rpy:1329
-msgid "Ни один предмет не выбран"
+# XX## game/screens.rpy:1002
+msgid "После выборов"
 msgstr ""
 
-# XX## game/core/screens.rpy:1331
-msgid "В данный момент в инвентаре ничего нет"
+# XX## game/screens.rpy:1003
+msgid "Переходов"
 msgstr ""
 
-# XX## game/core/screens.rpy:1392
-msgid "ПЕРСОНАЖИ"
+# XX## game/screens.rpy:1006
+msgid "Язык"
 msgstr ""
 
-# XX## game/core/screens.rpy:1444
-msgid "Отношения с [char_name!t]:"
+# XX## game/screens.rpy:1027
+msgid "Дополнительно"
 msgstr ""
 
-# XX## game/core/screens.rpy:1455
-msgid "Запас сил:"
+# XX## game/screens.rpy:1028
+msgid "Именованные сохранения"
 msgstr ""
 
-# XX## game/core/screens.rpy:1460
-msgid "Тренированность:"
+# XX## game/screens.rpy:1029
+msgid "Прозрачное текстовое окно"
 msgstr ""
 
-# XX## game/core/screens.rpy:1465
-msgid "Чистота:"
+# XX## game/screens.rpy:1030
+msgid "Отображать все \"Возможности\""
 msgstr ""
 
-# XX## game/core/screens.rpy:1472
-msgid "Навыки:"
+# XX## game/screens.rpy:1031
+msgid "Переодевания Лизы пропускаются, если Макс в комнате"
 msgstr ""
 
-# XX## game/core/screens.rpy:1475
-msgid "Навык убеждения:"
+# XX## game/screens.rpy:1044
+msgid "Скорость текста"
 msgstr ""
 
-# XX## game/core/screens.rpy:1480
-msgid "Навык скрытности:"
+# XX## game/screens.rpy:1048
+msgid "Скорость авточтения"
 msgstr ""
 
-# XX## game/core/screens.rpy:1486
-msgid "Навык массажа:"
+# XX## game/screens.rpy:1055
+msgid "Громкость музыки"
 msgstr ""
 
-# XX## game/core/screens.rpy:1492
-msgid "Навык эро.массажа:"
+# XX## game/screens.rpy:1062
+msgid "Громкость звуков"
 msgstr ""
 
-# XX## game/core/screens.rpy:1498
-msgid "Навык поцелуев:"
+# XX## game/screens.rpy:1068
+msgid "Тест"
 msgstr ""
 
-# XX## game/core/screens.rpy:1504
-msgid "Сексуальный опыт:"
+# XX## game/screens.rpy:1072
+msgid "Громкость голоса"
 msgstr ""
 
-# XX## game/core/screens.rpy:1516
-msgid "Настроение:"
+# XX## game/screens.rpy:1083
+msgid "Без звука"
 msgstr ""
 
-# XX## game/core/screens.rpy:1522
-msgid "Уровень отношений:"
+# XX## game/screens.rpy:1204
+msgid "История диалогов пуста."
 msgstr ""
 
-# XX## game/core/screens.rpy:1536
-msgid "Влияние Макса:"
+# XX## game/screens.rpy:1267
+msgid "Помощь"
 msgstr ""
 
-# XX## game/core/screens.rpy:1541
-msgid "Влияние Эрика:"
+# XX## game/screens.rpy:1276
+msgid "Клавиатура"
 msgstr ""
 
-# XX## game/core/screens.rpy:1550
-msgid "Лучше пока не попадаться на подглядывании за Лизой в душе"
+# XX## game/screens.rpy:1277
+msgid "Мышь"
 msgstr ""
 
-# XX## game/core/screens.rpy:1554
-msgid "Предпочтения в сладостях:"
+# XX## game/screens.rpy:1280
+msgid "Геймпад"
 msgstr ""
 
-# XX## game/core/screens.rpy:1558
-msgid "Любит \"Ritter Sport\""
+# XX## game/screens.rpy:1293
+msgid "Enter"
 msgstr ""
 
-# XX## game/core/screens.rpy:1560
-msgid "Сгодится \"Raffaello\""
+# XX## game/screens.rpy:1294
+msgid "Прохождение диалогов, активация интерфейса."
 msgstr ""
 
-# XX## game/core/screens.rpy:1562
-msgid "Ненавидит \"Ferrero Rocher\""
+# XX## game/screens.rpy:1297
+msgid "Пробел"
 msgstr ""
 
-# XX## game/core/screens.rpy:1567
-msgid "Предпочтения в массаже:"
+# XX## game/screens.rpy:1298
+msgid "Прохождение диалогов без возможности делать выбор."
 msgstr ""
 
-# XX## game/core/screens.rpy:1570
-msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+# XX## game/screens.rpy:1301
+msgid "Стрелки"
 msgstr ""
 
-# XX## game/core/screens.rpy:1574
-msgid "Лучше пока не попадаться на подглядывании за Алисой в душе"
+# XX## game/screens.rpy:1302
+msgid "Навигация по интерфейсу."
 msgstr ""
 
-# XX## game/core/screens.rpy:1582
-msgid "Любит \"Ferrero Rocher\""
+# XX## game/screens.rpy:1305
+msgid "Esc"
 msgstr ""
 
-# XX## game/core/screens.rpy:1584
-msgid "Сгодится \"Ritter Sport\""
+# XX## game/screens.rpy:1306
+msgid "Вход в игровое меню."
 msgstr ""
 
-# XX## game/core/screens.rpy:1586
-msgid "Ненавидит \"Raffaello\""
+# XX## game/screens.rpy:1309
+msgid "Ctrl"
 msgstr ""
 
-# XX## game/core/screens.rpy:1590
-msgid "Действие алкоголя:"
+# XX## game/screens.rpy:1310
+msgid "Пропускает диалоги, пока зажат."
 msgstr ""
 
-# XX## game/core/screens.rpy:1593
-msgid "???"
+# XX## game/screens.rpy:1313
+msgid "Tab"
 msgstr ""
 
-# XX## game/core/screens.rpy:1597
-msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
+# XX## game/screens.rpy:1314
+msgid "Включает режим пропуска."
 msgstr ""
 
-# XX## game/core/screens.rpy:1603
-msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+# XX## game/screens.rpy:1317
+msgid "Page Up"
 msgstr ""
 
-# XX## game/core/screens.rpy:1605
-msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+# XX## game/screens.rpy:1318
+msgid "Откат назад по сюжету игры."
 msgstr ""
 
-# XX## game/core/screens.rpy:1607
-msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+# XX## game/screens.rpy:1321
+msgid "Page Down"
 msgstr ""
 
-# XX## game/core/screens.rpy:1650
-msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+# XX## game/screens.rpy:1322
+msgid "Откатывает предыдущее действие вперёд."
 msgstr ""
 
-# XX## game/core/screens.rpy:1747
-msgid "Автосмена каждые 2 дня"
+# XX## game/screens.rpy:1326
+msgid "Скрывает интерфейс пользователя."
 msgstr ""
 
-# XX## game/core/screens.rpy:1758
-msgid "Сделать текущей"
+# XX## game/screens.rpy:1330
+msgid "Делает снимок экрана."
 msgstr ""
 
-# XX## game/core/screens.rpy:1806
-msgid "[view_cam[1].public]"
+# XX## game/screens.rpy:1334
+msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 msgstr ""
 
-# XX## game/core/screens.rpy:1889
-msgid "ВНИМАНИЕ"
+# XX## game/screens.rpy:1340
+msgid "Левый клик"
 msgstr ""
 
-# XX## game/core/screens.rpy:1890
-msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+# XX## game/screens.rpy:1344
+msgid "Клик колёсиком"
 msgstr ""
 
-# XX## game/core/screens.rpy:1894
-msgid "Эта игра содержит контент сексуального характера"
+# XX## game/screens.rpy:1348
+msgid "Правый клик"
 msgstr ""
 
-# XX## game/core/screens.rpy:1895
-msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+# XX## game/screens.rpy:1352
+msgid "Колёсико вверх\n"
+"Клик на сторону отката"
 msgstr ""
 
-# XX## game/core/screens.rpy:1897
-msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+# XX## game/screens.rpy:1356
+msgid "Колёсико вниз"
 msgstr ""
 
-# XX## game/core/screens.rpy:1901
-msgid "Продолжить"
+# XX## game/screens.rpy:1363
+msgid "Правый триггер\n"
+"A/Нижняя кнопка"
 msgstr ""
 
-# XX## game/core/screens.rpy:1914
-msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+# XX## game/screens.rpy:1367
+msgid "Левый Триггер\n"
+"Левый Бампер"
+msgstr ""
+
+# XX## game/screens.rpy:1371
+msgid "Правый бампер"
+msgstr ""
+
+# XX## game/screens.rpy:1376
+msgid "Крестовина, Стики"
+msgstr ""
+
+# XX## game/screens.rpy:1380
+msgid "Start, Guide"
+msgstr ""
+
+# XX## game/screens.rpy:1384
+msgid "Y/Верхняя кнопка"
+msgstr ""
+
+# XX## game/screens.rpy:1387
+msgid "Калибровка"
+msgstr ""
+
+# XX## game/screens.rpy:1453
+msgid "Да"
+msgstr ""
+
+# XX## game/screens.rpy:1454
+msgid "Нет"
+msgstr ""
+
+# XX## game/screens.rpy:1500
+msgid "Пропускаю"
+msgstr ""
+
+# XX## game/screens.rpy:1724
+msgid "Скрыть интерфейс"
+msgstr ""
+
+# XX## game/screens.rpy:1725
+msgid "Меню"
 msgstr ""
 
