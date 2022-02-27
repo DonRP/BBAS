@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-24 22:54\n"
+"PO-Revision-Date: 2022-02-27 17:43\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
+# TODO: Translation updated at 2022-02-27 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
 msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m}[nointeract]"
 
@@ -2816,19 +2816,19 @@ msgstr "[Max_01]{m}Spero che sua madre non la sgridi troppo perché va a letto n
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
 msgstr "[Max_01]{m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m}[nointeract]"
 
-# game/events/kira.rpy:3236 ## translate crowdin kira_bath_with_eric_97e543d2:
-msgid "[Max_08]{m}Конечно, почему бы среди ночи не сходить в ванную, когда тебя там будет ждать шикарная тётя Кира, чтобы отсосать...{/m}"
-msgstr "[Max_08]{m}Certo, perché non andare in bagno nel mezzo della notte con l'elegante zia Kira che ti aspetta per farti un pompino...{/m}"
-
-# game/events/kira.rpy:3238 ## translate crowdin kira_bath_with_eric_1d51e0c6:
+# game/events/kira.rpy:3237 ## translate crowdin kira_bath_with_eric_1d51e0c6:
 msgid "[Max_01]{m}Наверно, тётя Кира хотела прийти с работы и отдохнуть, а тут ещё и Эрику нужно отсосать сперва...{/m}"
 msgstr "[Max_01]{m}Zia Kira avrà voluto tornare a casa dal lavoro e riposarsi, e poi Erik ha bisogno di un pompino prima...{/m}"
 
-# game/events/kira.rpy:3249 ## translate crowdin kira_bath_with_eric_9606bafb:
+# game/events/kira.rpy:3240 ## translate crowdin kira_bath_with_eric_97e543d2:
+msgid "[Max_08]{m}Конечно, почему бы среди ночи не сходить в ванную, когда тебя там будет ждать шикарная тётя Кира, чтобы отсосать...{/m}"
+msgstr "[Max_08]{m}Certo, perché non andare in bagno nel mezzo della notte con l'elegante zia Kira che ti aspetta per farti un pompino...{/m}"
+
+# game/events/kira.rpy:3251 ## translate crowdin kira_bath_with_eric_9606bafb:
 msgid "[Max_10]{m}Хватит уже трахать её в рот, как какую-то порнозвезду! Она конечно порнозвезда, но не круглые же сутки...{/m}"
 msgstr "[Max_10]{m}Smettila di scoparla in bocca come una pornostar! È una pornostar, ma non è una 24/7...{/m}"
 
-# game/events/kira.rpy:3251 ## translate crowdin kira_bath_with_eric_bb5a0c0a:
+# game/events/kira.rpy:3253 ## translate crowdin kira_bath_with_eric_bb5a0c0a:
 msgid "[Max_07]{m}Неплохо так Эрик её голову на свой член напяливает! Как будто так и надо...{/m}"
 msgstr "[Max_07]{m}È bello come Eric mette la sua testa sul suo cazzo! È come se fosse fatto apposta...{/m}"
 
