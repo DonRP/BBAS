@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-02-25 17:36\n"
+"PO-Revision-Date: 2022-02-27 17:44\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
+# TODO: Translation updated at 2022-02-27 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00]{m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m}[nointeract]"
 msgstr ""
 
