@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-24 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
+﻿# TODO: Translation updated at 2022-02-27 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00]{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}[nointeract]"
 msgstr "[Max_00]{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}[nointeract]"
 

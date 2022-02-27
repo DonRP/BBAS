@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
+﻿# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
 msgid  "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr  "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 

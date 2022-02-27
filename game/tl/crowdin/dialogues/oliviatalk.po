@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-24 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
+﻿# TODO: Translation updated at 2022-02-27 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01]Вы не против, если я тоже позагораю?"
 msgstr "[Max_01]Вы не против, если я тоже позагораю?"
 
