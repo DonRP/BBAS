@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-24 22:54\n"
+"PO-Revision-Date: 2022-02-27 17:44\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
+# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasion réduite!{/i}{/color}\n"
 
@@ -366,12 +366,20 @@ msgid "Эрик, мы же договорились!"
 msgstr "Eric, nous étions d’accord !"
 
 # XX## game/core/02init.rpy:138
-msgid "Хочу рассказать тебе кое-что о Кире..."
-msgstr "Je veux te dire quelque chose sur Kira..."
-
-# XX## game/core/02init.rpy:138
 msgid "Я хотел поговорить о Кире..."
 msgstr "Je voulais parler de Kira..."
+
+# XX## game/core/02init.rpy:138
+msgid "Мою премию за помощь с Лизой!"
+msgstr ""
+
+# XX## game/core/02init.rpy:138
+msgid "Чтобы на маме были не только очки для сна, но и чулки!"
+msgstr ""
+
+# XX## game/core/02init.rpy:138
+msgid "Чтобы на маме были только очки для сна!"
+msgstr ""
 
 # XX## game/core/02init.rpy:138
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
@@ -607,91 +615,91 @@ msgstr ""
 msgid "Вам дать крем для загара?"
 msgstr ""
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Одежда"
 msgstr "Vêtements"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Книги"
 msgstr "Livres"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Продукты"
 msgstr "Nourriture"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Электроника"
 msgstr "Electronique"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Товары 18+"
 msgstr "Produits pour plus de 18"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Косметика"
 msgstr "Cosmétiques"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Украшения"
 msgstr "Décorations"
 
-# XX## game/core/02init.rpy:266
+# XX## game/core/02init.rpy:272
 msgid "Другое"
 msgstr "Autre"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "А у меня есть то, о чём ты мечтала..."
 msgstr "Et j’ai ce dont tu rêvais..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня для тебя подарок {i}(Халат){/i}"
 msgstr "J’ai un cadeau pour toi {i}(Peignoir){/i}"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня для тебя вкусняшка!"
 msgstr "J’ai un délicieux cadeau pour toi!"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня есть кое-что запрещённое..."
 msgstr "J’ai quelque chose d’interdit..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "Угадай: маленькое, чёрненькое..."
 msgstr "Devines quoi : petit, noir..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня для тебя одна книжка..."
 msgstr "J’ai un livre pour toi..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня снова для тебя книжка..."
 msgstr "J’ai à nouveau un livre pour toi..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "И снова у меня для тебя книжка..."
 msgstr "Encore une fois, j’ai un livre pour toi..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня для тебя подарок {i}(Пижама){/i}"
 msgstr "J’ai un cadeau pour toi {i}(pyjama){/i}"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня есть кое-что, о чём мы беседовали..."
 msgstr "J’ai la chose dont nous avons parlé..."
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "Прикупил для тебя немного сладенького!"
 msgstr "J'ai acheté un chose sucrée pour toi!"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня для тебя подарок {i}(Кожаный костюм){/i}"
 msgstr "J’ai un cadeau pour toi{i}(Costume en cuir){/i}"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "У меня для тебя подарок {i}(Плётка){/i}"
 msgstr "J’ai un cadeau pour toi{i}(Cravache){/i}"
 
-# XX## game/core/02init.rpy:277
+# XX## game/core/02init.rpy:283
 msgid "Мам, я купил тебе одежду полегче!"
 msgstr "Maman, je t’ai acheté des vêtements plus légers!"
 
