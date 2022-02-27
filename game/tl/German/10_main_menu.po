@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-02-24 22:56\n"
+"PO-Revision-Date: 2022-02-27 17:45\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/10_main_menu.rpy:51
+# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
 msgstr ""
 
