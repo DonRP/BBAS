@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-02-24 22:57\n"
+"PO-Revision-Date: 2022-02-27 17:47\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
+# TODO: Translation updated at 2022-02-27 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
 msgstr ""
 
@@ -2816,19 +2816,19 @@ msgstr ""
 msgid "[Max_01]{m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m}[nointeract]"
 msgstr ""
 
-# game/events/kira.rpy:3236 ## translate crowdin kira_bath_with_eric_97e543d2:
-msgid "[Max_08]{m}Конечно, почему бы среди ночи не сходить в ванную, когда тебя там будет ждать шикарная тётя Кира, чтобы отсосать...{/m}"
-msgstr ""
-
-# game/events/kira.rpy:3238 ## translate crowdin kira_bath_with_eric_1d51e0c6:
+# game/events/kira.rpy:3237 ## translate crowdin kira_bath_with_eric_1d51e0c6:
 msgid "[Max_01]{m}Наверно, тётя Кира хотела прийти с работы и отдохнуть, а тут ещё и Эрику нужно отсосать сперва...{/m}"
 msgstr ""
 
-# game/events/kira.rpy:3249 ## translate crowdin kira_bath_with_eric_9606bafb:
+# game/events/kira.rpy:3240 ## translate crowdin kira_bath_with_eric_97e543d2:
+msgid "[Max_08]{m}Конечно, почему бы среди ночи не сходить в ванную, когда тебя там будет ждать шикарная тётя Кира, чтобы отсосать...{/m}"
+msgstr ""
+
+# game/events/kira.rpy:3251 ## translate crowdin kira_bath_with_eric_9606bafb:
 msgid "[Max_10]{m}Хватит уже трахать её в рот, как какую-то порнозвезду! Она конечно порнозвезда, но не круглые же сутки...{/m}"
 msgstr ""
 
-# game/events/kira.rpy:3251 ## translate crowdin kira_bath_with_eric_bb5a0c0a:
+# game/events/kira.rpy:3253 ## translate crowdin kira_bath_with_eric_bb5a0c0a:
 msgid "[Max_07]{m}Неплохо так Эрик её голову на свой член напяливает! Как будто так и надо...{/m}"
 msgstr ""
 
