@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:54\n"
+"PO-Revision-Date: 2022-02-27 17:43\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# game/events/max.rpy:4 ## translate crowdin StartDialog_e88dfdc8:
+# TODO: Translation updated at 2022-02-27 HH:HH# game/events/max.rpy:4 ## translate crowdin StartDialog_e88dfdc8:
 msgid "[Max_10]{m}Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил...{/m}"
 msgstr ""
 
