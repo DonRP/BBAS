@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-24 22:54\n"
+"PO-Revision-Date: 2022-02-27 17:44\n"
 
-# TODO: Translation updated at 2022-02-24 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/06_items.rpy:2
+# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/06_items.rpy:2
 msgid "ПАУК"
 msgstr "ARAÑA"
 
