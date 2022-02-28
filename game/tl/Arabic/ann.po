@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-02-27 17:47\n"
+"PO-Revision-Date: 2022-02-28 17:48\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
+# TODO: Translation updated at 2022-02-28 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00]{m}В это время мама обычно спит.\n"
 "Мне кажется, не стоит её будить...{/m}[nointeract]"
 msgstr ""
@@ -734,56 +734,136 @@ msgstr ""
 msgid "[Max_00]{m}Видимо, мама принимает ванну...{/m}[nointeract]"
 msgstr ""
 
-# game/events/ann.rpy:894 ## translate crowdin ann_bath_cddc6bee:
-msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
-msgstr ""
-
-# game/events/ann.rpy:897 ## translate crowdin ann_bath_29fc0d16:
-msgid "[Ann]{b}Анна:{/b} Дорогой, что ты хотел?[nointeract]"
-msgstr ""
-
-# game/events/ann.rpy:901 ## translate crowdin ann_bath_13e7202f:
-msgid "[Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри![nointeract]"
-msgstr ""
-
-# game/events/ann.rpy:924 ## translate crowdin ann_bath_9b9b753a:
-msgid "[Ann]{b}Анна:{/b} Хорошо, я скоро закончу..."
-msgstr ""
-
-# game/events/ann.rpy:925 ## translate crowdin ann_bath_7852d704:
-msgid "[Max_00]Ага..."
-msgstr ""
-
-# game/events/ann.rpy:932 ## translate crowdin ann_bath_9d03c202:
+# game/events/ann.rpy:897 ## translate crowdin ann_bath_9d03c202:
 msgid "[Max_00]{m}Эх... жаль, что стекло частично матовое. Так ничего не разглядеть! А если подобраться ближе, то мама может заметить...{/m}"
 msgstr ""
 
-# game/events/ann.rpy:934 ## translate crowdin ann_bath_7fffd1ec:
+# game/events/ann.rpy:899 ## translate crowdin ann_bath_7fffd1ec:
 msgid "[Max_09]{m}Нужно что-нибудь придумать...{/m}[nointeract]"
 msgstr ""
 
-# game/events/ann.rpy:941 ## translate crowdin ann_bath_4a929722:
+# game/events/ann.rpy:906 ## translate crowdin ann_bath_4a929722:
 msgid "[Max_01]{m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
 msgstr ""
 
-# game/events/ann.rpy:955 ## translate crowdin ann_bath_ladder_76e8b72b:
+# game/events/ann.rpy:920 ## translate crowdin ann_bath_ladder_76e8b72b:
 msgid "[Max_04]{m}Посмотрим, что у нас тут...{/m}"
 msgstr ""
 
-# game/events/ann.rpy:965 ## translate crowdin ann_bath_ladder_3a5db899:
+# game/events/ann.rpy:930 ## translate crowdin ann_bath_ladder_3a5db899:
 msgid "[Max_03]{m}Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...{/m}[nointeract]"
 msgstr ""
 
-# game/events/ann.rpy:971 ## translate crowdin ann_bath_ladder_b37e9fe1:
+# game/events/ann.rpy:936 ## translate crowdin ann_bath_ladder_b37e9fe1:
 msgid "[Max_05]{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}[nointeract]"
 msgstr ""
 
-# game/events/ann.rpy:980 ## translate crowdin ann_bath_ladder_b37e9fe1_1:
+# game/events/ann.rpy:945 ## translate crowdin ann_bath_ladder_b37e9fe1_1:
 msgid "[Max_05]{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}[nointeract]"
 msgstr ""
 
-# game/events/ann.rpy:986 ## translate crowdin ann_bath_ladder_87fd27ff:
+# game/events/ann.rpy:951 ## translate crowdin ann_bath_ladder_87fd27ff:
 msgid "[Max_07]{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}[nointeract]"
+msgstr ""
+
+# game/events/ann.rpy:960 ## translate crowdin ann_bath_about_intime_0_cddc6bee:
+msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
+msgstr ""
+
+# game/events/ann.rpy:961 ## translate crowdin ann_bath_about_intime_0_006aa2f9:
+msgid "[Max_07]Это я, Макс. Можно войти?"
+msgstr ""
+
+# game/events/ann.rpy:962 ## translate crowdin ann_bath_about_intime_0_765e20f4:
+msgid "[Ann]{b}Анна:{/b} Зачем, дорогой? Тебе что-то нужно?"
+msgstr ""
+
+# game/events/ann.rpy:963 ## translate crowdin ann_bath_about_intime_0_cc4bed10:
+msgid "[Max_09]Да, мам. Хотел поговорить."
+msgstr ""
+
+# game/events/ann.rpy:964 ## translate crowdin ann_bath_about_intime_0_62195f79:
+msgid "[Ann]{b}Анна{/b}: Если это может подождать, то я через полчасика освобожусь...[nointeract]"
+msgstr ""
+
+# game/events/ann.rpy:974 ## translate crowdin ann_bath_about_intime_0_53cc7aca:
+msgid "[Ann_15]Макс! Ты почему так нагло врываешься! Я же сказала, что скоро освобожусь! Не мог подождать?"
+msgstr ""
+
+# game/events/ann.rpy:975 ## translate crowdin ann_bath_about_intime_0_1af3858f:
+msgid "[Max_08]Нет, нужно кое-что обсудить, пока ты здесь."
+msgstr ""
+
+# game/events/ann.rpy:978 ## translate crowdin ann_bath_about_intime_0_01bf0619:
+msgid "[Ann_14]И что там у тебя такого срочного?!"
+msgstr ""
+
+# game/events/ann.rpy:979 ## translate crowdin ann_bath_about_intime_0_a34fa2a4:
+msgid "[Max_07]Хотел поговорить о девочках!"
+msgstr ""
+
+# game/events/ann.rpy:980 ## translate crowdin ann_bath_about_intime_0_197357cf:
+msgid "[Ann_17]И ты считаешь, что это настолько важно, что кроме как здесь об этом говорить нельзя, да?"
+msgstr ""
+
+# game/events/ann.rpy:981 ## translate crowdin ann_bath_about_intime_0_7db297d2:
+msgid "[Max_01]Ну... Не просто о девочках, а том, как им... делать приятно... там, внизу..."
+msgstr ""
+
+# game/events/ann.rpy:982 ## translate crowdin ann_bath_about_intime_0_28faf8d1:
+msgid "[Ann_02]Вот это вопросы у тебя, Макс! А что, у тебя девочка появилась?"
+msgstr ""
+
+# game/events/ann.rpy:983 ## translate crowdin ann_bath_about_intime_0_4dd2948d:
+msgid "[Max_07]Ещё нет, но появится же. А я хочу быть готовым! Вы мне с Эриком показали на тех уроках, как себя вести, если женщина... так сказать, ласкает мужчину, а вот как ласкать женщин - нет."
+msgstr ""
+
+# game/events/ann.rpy:984 ## translate crowdin ann_bath_about_intime_0_435b556c:
+msgid "[Ann_14]Ой, сынок, какие же это неудобные вопросы! Я всё ещё до конца не могу осознать, что ты уже почти взрослый."
+msgstr ""
+
+# game/events/ann.rpy:985 ## translate crowdin ann_bath_about_intime_0_b912cfb2:
+msgid "[Max_09]Пора бы уже осознать, мам! И уроки ваши, какие-то односторонние. Как-то неправильно."
+msgstr ""
+
+# game/events/ann.rpy:986 ## translate crowdin ann_bath_about_intime_0_24e945aa:
+msgid "[Ann_13]Ну... Что-то я даже не знаю..."
+msgstr ""
+
+# game/events/ann.rpy:989 ## translate crowdin ann_bath_about_intime_0_acd6b1b2:
+msgid "[Max_07]Да ладно, я же уже такое видел с вами на тех уроках..."
+msgstr ""
+
+# game/events/ann.rpy:990 ## translate crowdin ann_bath_about_intime_0_fdfa6acb:
+msgid "[Ann_12]Ой, Макс, не напоминай. Это всё было исключительно для твоего... сексуального образования..."
+msgstr ""
+
+# game/events/ann.rpy:991 ## translate crowdin ann_bath_about_intime_0_e2b46bea:
+msgid "[Max_08]Так и это тоже для образования! Потому что я хочу не только получать ласку от девочек, но и давать её им. А это, как я понимаю, куда сложнее."
+msgstr ""
+
+# game/events/ann.rpy:992 ## translate crowdin ann_bath_about_intime_0_1f40fc0d:
+msgid "[Ann_13]Ох, с учётом того, чему мы с Эриком уже тебя тогда научили, твоя просьба очень логична, сынок. Так что я поговорю об этом с Эриком..."
+msgstr ""
+
+# game/events/ann.rpy:993 ## translate crowdin ann_bath_about_intime_0_ee64e187:
+msgid "[Max_10]Нет, мам, я хочу только с тобой этому учиться!"
+msgstr ""
+
+# game/events/ann.rpy:994 ## translate crowdin ann_bath_about_intime_0_bd74b95d:
+msgid "[Ann_17]То есть, только со мной?! А Эрик тебе чем не угодил?"
+msgstr ""
+
+# game/events/ann.rpy:995 ## translate crowdin ann_bath_about_intime_0_0314b6cd:
+msgid "[Max_09]Мне кажется, он это... направление не особо любит. Мне же лучше, чтобы такому учила именно женщина, ведь вам виднее."
+msgstr ""
+
+# game/events/ann.rpy:996 ## translate crowdin ann_bath_about_intime_0_ba4d6bb6:
+msgid "[Ann_12]Виднее, конечно. Но без Эрика я даже не знаю... Не уверена... Ничего, если я подумаю об этом в более... комфортной обстановке?"
+msgstr ""
+
+# game/events/ann.rpy:997 ## translate crowdin ann_bath_about_intime_0_3a30664f:
+msgid "[Max_01]Да, мам! Я не буду мешать, расслабляйся.[nointeract]"
 msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/events/ann.rpy:195
@@ -894,23 +974,7 @@ msgstr ""
 msgid "{i}продолжить обнимать{/i}"
 msgstr ""
 
-# XX## game/events/ann.rpy:893
-msgid "Это я, Макс."
-msgstr ""
-
-# XX## game/events/ann.rpy:896
-msgid "Можно я войду?"
-msgstr ""
-
-# XX## game/events/ann.rpy:896
-msgid "Нет, ничего"
-msgstr ""
-
-# XX## game/events/ann.rpy:896
-msgid "Я подожду..."
-msgstr ""
-
-# XX## game/events/ann.rpy:900
-msgid "Ой, нет, я передумал"
+# XX## game/events/ann.rpy:965
+msgid "{i}войти{/i}"
 msgstr ""
 
