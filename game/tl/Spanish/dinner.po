@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-27 17:45\n"
+"PO-Revision-Date: 2022-02-28 17:46\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
+# TODO: Translation updated at 2022-02-28 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
 msgstr ""
 
@@ -886,7 +886,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:590 ## translate crowdin dinner_12_b6e4f095:
 msgid "[Max_01]Приятного аппетита..."
-msgstr ""
+msgstr "[Max_01]Buen provecho..."
 
 # game/dialogues/dinner.rpy:592 ## translate crowdin dinner_12_fabf0476:
 msgid "[Ann_07]У меня для вас отличная новость! Это связано с кем-то, кого вы очень любите...[nointeract]"
@@ -1066,7 +1066,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:686 ## translate crowdin dinner_ab_lisa_ed_b6e4f095:
 msgid "[Max_01]Приятного аппетита..."
-msgstr ""
+msgstr "[Max_01]Buen provecho..."
 
 # game/dialogues/dinner.rpy:687 ## translate crowdin dinner_ab_lisa_ed_dc1cdcf5:
 msgid "[Ann_05]Лиза, у Эрика для тебя есть новость..."
@@ -1162,7 +1162,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:737 ## translate crowdin dinner_ab_earn_b6e4f095:
 msgid "[Max_01]Приятного аппетита..."
-msgstr ""
+msgstr "[Max_01]Buen provecho..."
 
 # game/dialogues/dinner.rpy:738 ## translate crowdin dinner_ab_earn_a58a530c:
 msgid "[Ann_02]Что-нибудь случилось интересное, пока я отсутствовала?"
