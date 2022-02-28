@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-02-27 17:47\n"
+"PO-Revision-Date: 2022-02-28 17:48\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
+# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
 msgstr "El nuevo bañador de Lisa"
 
@@ -63,6 +63,10 @@ msgstr "Masaje para tu querida tía"
 # XX## game/extra/extra.rpy:60
 msgid "Совсем другой массаж"
 msgstr "Un masaje completamente diferente"
+
+# XX## game/extra/extra.rpy:60
+msgid "Я спасу их от солнца"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Ночные страхи"
@@ -185,6 +189,10 @@ msgid "Кажется, мы что-то забыли"
 msgstr "Parece que hemos olvidado algo."
 
 # XX## game/extra/extra.rpy:60
+msgid "Всё ниже и ниже"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
 msgid "Больше, чем помощь с домашним заданием"
 msgstr "Más que ayuda con la tarea"
 
@@ -209,6 +217,18 @@ msgid "Полотенце снова сползает..."
 msgstr "La toalla se desliza de nuevo..."
 
 # XX## game/extra/extra.rpy:60
+msgid "Йога с мамой"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
+msgid "Ещё больше массажа у ТВ"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
+msgid "Не надо печалиться"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
 msgstr "lección de mamá y Eric"
 
@@ -219,6 +239,10 @@ msgstr "Tan cerca del de mamá"
 # XX## game/extra/extra.rpy:60
 msgid "Глубокий минет в мамином исполнении"
 msgstr "En lo profundo de la versión de mi madre"
+
+# XX## game/extra/extra.rpy:60
+msgid "Секс-шоу с первых рядов"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Её первые познания..."
@@ -237,38 +261,46 @@ msgid "Как долго это нужно делать?"
 msgstr "¿Cuánto tiempo se debe hacer esto?"
 
 # XX## game/extra/extra.rpy:60
+msgid "Стесняется трогать..."
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
+msgid "Ещё стесняется, но трогает..."
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
 msgid "Кружевное боди для Алисы от Эрика"
 msgstr "Bodysuit de encaje para Alice por Eric"
 
-# XX## game/extra/extra.rpy:160
+# XX## game/extra/extra.rpy:168
 msgid "ВОСПОМИНАНИЯ"
 msgstr "RECUERDOS"
 
-# XX## game/extra/extra.rpy:163
+# XX## game/extra/extra.rpy:171
 msgid "ФОТОСНИМКИ"
 msgstr "FOTOS"
 
-# XX## game/extra/extra.rpy:214
+# XX## game/extra/extra.rpy:222
 msgid "Воспоминание недоступно"
 msgstr "La memoria no está disponible"
 
-# XX## game/extra/extra.rpy:220
+# XX## game/extra/extra.rpy:228
 msgid "Воспоминание ещё не открыто"
 msgstr "La memoria aún no está abierta"
 
-# XX## game/extra/extra.rpy:226
+# XX## game/extra/extra.rpy:234
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr "Todavía no hay fotos en su colección."
 
-# XX## game/extra/extra.rpy:295
+# XX## game/extra/extra.rpy:303
 msgid "Предыдущий снимок"
 msgstr "Foto anterior"
 
-# XX## game/extra/extra.rpy:301
+# XX## game/extra/extra.rpy:309
 msgid "Вернуться в коллекцию"
 msgstr "Volver a la colección"
 
-# XX## game/extra/extra.rpy:306
+# XX## game/extra/extra.rpy:314
 msgid "Следующий снимок"
 msgstr "Siguiente imagen"
 
