@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-02-27 17:48\n"
+"PO-Revision-Date: 2022-02-28 17:49\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:368
+# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:369
 msgid "Не определены"
 msgstr ""
 
-# XX## game/core/08_verification.rpy:370
+# XX## game/core/08_verification.rpy:371
 msgid "Откровенная вражда"
 msgstr ""
 
-# XX## game/core/08_verification.rpy:380
+# XX## game/core/08_verification.rpy:381
 msgid "Дружба"
 msgstr ""
 
-# XX## game/core/08_verification.rpy:388
+# XX## game/core/08_verification.rpy:389
 msgid "Настоящая дружба"
 msgstr ""
 
-# XX## game/core/08_verification.rpy:399
+# XX## game/core/08_verification.rpy:400
 msgid "Фальшивая дружба"
 msgstr ""
 
