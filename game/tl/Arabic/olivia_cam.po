@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-02-27 17:47\n"
+"PO-Revision-Date: 2022-02-28 17:48\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# game/events/olivia_cam.rpy:8 ## translate crowdin cam0_olivia_lisa_sun_6bee5a4a:
+# TODO: Translation updated at 2022-02-28 HH:HH# game/events/olivia_cam.rpy:8 ## translate crowdin cam0_olivia_lisa_sun_6bee5a4a:
 msgid "[Max_01]{m}Благодаря натуризму Оливии, внимания ко двору станет побольше...{/m}"
 msgstr ""
 
