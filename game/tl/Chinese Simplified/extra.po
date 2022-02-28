@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-02-27 17:48\n"
+"PO-Revision-Date: 2022-02-28 17:49\n"
 
-# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
+# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
 msgstr "丽莎的新泳衣"
 
@@ -63,6 +63,10 @@ msgstr "为心爱的阿姨按摩"
 # XX## game/extra/extra.rpy:60
 msgid "Совсем другой массаж"
 msgstr "完全不同的按摩"
+
+# XX## game/extra/extra.rpy:60
+msgid "Я спасу их от солнца"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Ночные страхи"
@@ -185,6 +189,10 @@ msgid "Кажется, мы что-то забыли"
 msgstr "我想我们忘了什么"
 
 # XX## game/extra/extra.rpy:60
+msgid "Всё ниже и ниже"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
 msgid "Больше, чем помощь с домашним заданием"
 msgstr "不仅仅是帮助做家庭作业"
 
@@ -209,6 +217,18 @@ msgid "Полотенце снова сползает..."
 msgstr ""
 
 # XX## game/extra/extra.rpy:60
+msgid "Йога с мамой"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
+msgid "Ещё больше массажа у ТВ"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
+msgid "Не надо печалиться"
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
 msgstr "妈妈和埃里克的课"
 
@@ -219,6 +239,10 @@ msgstr "离妈妈屁股这么近"
 # XX## game/extra/extra.rpy:60
 msgid "Глубокий минет в мамином исполнении"
 msgstr "妈妈表演的深"
+
+# XX## game/extra/extra.rpy:60
+msgid "Секс-шоу с первых рядов"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Её первые познания..."
@@ -237,38 +261,46 @@ msgid "Как долго это нужно делать?"
 msgstr "需要多久才能完成？"
 
 # XX## game/extra/extra.rpy:60
+msgid "Стесняется трогать..."
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
+msgid "Ещё стесняется, но трогает..."
+msgstr ""
+
+# XX## game/extra/extra.rpy:60
 msgid "Кружевное боди для Алисы от Эрика"
 msgstr "蕾丝身体爱丽丝从埃里克"
 
-# XX## game/extra/extra.rpy:160
+# XX## game/extra/extra.rpy:168
 msgid "ВОСПОМИНАНИЯ"
 msgstr "回忆"
 
-# XX## game/extra/extra.rpy:163
+# XX## game/extra/extra.rpy:171
 msgid "ФОТОСНИМКИ"
 msgstr "照片"
 
-# XX## game/extra/extra.rpy:214
+# XX## game/extra/extra.rpy:222
 msgid "Воспоминание недоступно"
 msgstr "内存不可用"
 
-# XX## game/extra/extra.rpy:220
+# XX## game/extra/extra.rpy:228
 msgid "Воспоминание ещё не открыто"
 msgstr "记忆尚未打开"
 
-# XX## game/extra/extra.rpy:226
+# XX## game/extra/extra.rpy:234
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr "您的收藏中还没有照片。"
 
-# XX## game/extra/extra.rpy:295
+# XX## game/extra/extra.rpy:303
 msgid "Предыдущий снимок"
 msgstr "上一快照"
 
-# XX## game/extra/extra.rpy:301
+# XX## game/extra/extra.rpy:309
 msgid "Вернуться в коллекцию"
 msgstr "返回模型"
 
-# XX## game/extra/extra.rpy:306
+# XX## game/extra/extra.rpy:314
 msgid "Следующий снимок"
 msgstr "下一快照"
 
