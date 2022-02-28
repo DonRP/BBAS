@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-27 HH:HH# game/core/core.rpy:572 ## translate crowdin AfterWaiting_583fe90e:
+﻿# TODO: Translation updated at 2022-02-28 HH:HH# game/core/core.rpy:572 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00]{m}Я слишком устал. Надо бы вздремнуть...{/m}"
 msgstr "[Max_00]{m}Я слишком устал. Надо бы вздремнуть...{/m}"
 

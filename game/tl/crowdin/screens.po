@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
+﻿# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
 msgid  "массаж, "
 msgstr  "массаж, "
 

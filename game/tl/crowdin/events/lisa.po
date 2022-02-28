@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-27 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
+﻿# TODO: Translation updated at 2022-02-28 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00]{m}Лиза сейчас принимает душ...{/m}[nointeract]"
 msgstr "[Max_00]{m}Лиза сейчас принимает душ...{/m}[nointeract]"
 

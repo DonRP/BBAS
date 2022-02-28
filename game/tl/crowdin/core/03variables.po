@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-27 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/03variables.rpy:39
+﻿# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/03variables.rpy:39
 msgid  "МОЯ\nКОМНАТА"
 msgstr  "МОЯ\nКОМНАТА"
 
