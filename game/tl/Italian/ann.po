@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-01 17:46\n"
+"PO-Revision-Date: 2022-03-02 17:43\n"
 
 # TODO: Translation updated at 2022-02-28 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00]{m}В это время мама обычно спит.\n"
@@ -462,7 +462,7 @@ msgstr "[Max_07]Mi parli di cosa?"
 
 # game/events/ann.rpy:623 ## translate crowdin ann_dressed_balcony_2e72dc0c:
 msgid "[Max_05]{m}Оу! Мама ещё не оделась... Это я вовремя зашёл. Она шикарно смотрится...{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_05]{m}Tu! La mamma non si è ancora vestita... Sono arrivata appena in tempo. È bellissima...{/m}[nointeract]"
 
 # game/events/ann.rpy:631 ## translate crowdin ann_dressed_balcony_1f19d7dd:
 msgid "[Ann_15]Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось?[nointeract]"
