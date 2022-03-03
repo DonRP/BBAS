@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-02-28 17:46\n"
+"PO-Revision-Date: 2022-03-03 17:40\n"
 
 # TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -154,7 +154,7 @@ msgstr "Devo vedere se mia madre noterà la mia erezione se guardo la TV con lei
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Упс... Вот мама и заметила мой стояк. Что тут сказать, на самом деле сложно не заметить. Но я сам виноват... Понадеялся на лучшее, а у самого даже майки нет. Стоило бы, кстати, её купить и уже тогда спокойно смотреть с мамой ТВ. Там правда тоже гарантий нет, но попробовать можно..."
-msgstr ""
+msgstr "Ops... Così mia madre ha notato la mia erezione. Che dire, è davvero difficile non notarlo. Ma è colpa mia... Mi sono illuso e non possiedo nemmeno una camicia. Dovresti comprarne uno, comunque, e poi guardare la TV con tua madre in pace. Anche lì non ci sono garanzie, ma si può provare..."
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Главное, собрать нужную сумму на эту майку. А после покупки нужно узнать, заметит ли мама мой стояк, если я буду смотреть с ней ТВ в майке и шортах..."
@@ -223,24 +223,26 @@ msgstr "Così io e mia madre abbiamo finito di guardare Il colore della notte. H
 # XX## game/core/09_opportunities.rpy:4
 msgid "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь! \n\n"
 "Самое обидное, это то, что мы слишком редко когда можем посмотреть вместе с мамой ТВ."
-msgstr ""
+msgstr "Così io e mia madre abbiamo finito di guardare Il colore della notte. Ho ammirato di nuovo i suoi seni nudi e, in generale, le cose vanno bene per noi. Comincia lentamente a capire che sono un adulto e non resiste più a guardare questo tipo di film con me. Per amor di decenza, naturalmente, mia madre mi ha detto di non comprare più tali erotici espliciti, ma come se io volessi ascoltare!\n\n"
+"La cosa più frustrante è che anche noi riusciamo troppo raramente a guardare la TV insieme alla mamma."
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Потребуются успехи в возможности \"Контроль\"..."
-msgstr ""
+msgstr "Saranno necessari progressi nella capacità di \"controllo\"..."
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Сперва нужно закрепиться с массажем маминых плеч, пока она смотрит ТВ. Успешно выполнено массажей плеч мамы у ТВ: [ann.flags.m_shoulder] из 5..."
-msgstr ""
+msgstr "In primo luogo, è necessario ottenere un punto d'appoggio con il massaggio delle spalle di mia madre, mentre lei guarda la TV. Massaggio alle spalle della mamma con successo in TV: [ann.flags.m_shoulder] di 5..."
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Нужно попробовать сделать маме массаж спины, пока она смотрит ТВ..."
-msgstr ""
+msgstr "Devi provare a fare un massaggio alla schiena alla mamma mentre guarda la TV..."
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь! \n\n"
 "Самое обидное, это то, что мы слишком редко когда можем посмотреть вместе с мамой ТВ. Нужно сперва избавиться от Эрика, а уже потом покупать эротические фильмы. Пока только массаж время от времени..."
-msgstr ""
+msgstr "Così io e mia madre abbiamo finito di guardare Il colore della notte. Ho ammirato di nuovo i suoi seni nudi e, in generale, le cose vanno bene per noi. Comincia lentamente a capire che sono un adulto e non resiste più a guardare questo tipo di film con me. Per amor di decenza, naturalmente, mia madre mi ha detto di non comprare più tali erotici espliciti, ma come se io volessi ascoltare! \n\n"
+"La cosa più frustrante è che anche noi riusciamo troppo raramente a guardare la TV insieme alla mamma. Dobbiamo prima sbarazzarci di Eric e poi comprare film erotici. Per ora, solo un massaggio ogni tanto..."
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Можно довольствоваться редкими моментами у ТВ с мамой и делать ей лёгкий массаж, а можно попробовать избавиться от Эрика. Для этого потребуются успехи в возможности \"Альфа\"..."
