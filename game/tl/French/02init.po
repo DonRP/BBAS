@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:44\n"
+"PO-Revision-Date: 2022-03-04 17:36\n"
 
 # TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -351,11 +351,11 @@ msgstr "Vais-je m’inscrire?"
 
 # XX## game/core/02init.rpy:138
 msgid "Мам, нужно поговорить об Оливии."
-msgstr ""
+msgstr "Maman, je dois parler d'Olivia."
 
 # XX## game/core/02init.rpy:138
 msgid "Мам, ты подумала об Оливии?"
-msgstr ""
+msgstr "Maman, tu as pensé à Olivia?"
 
 # XX## game/core/02init.rpy:138
 msgid "Мне нужны деньги..."
@@ -371,15 +371,15 @@ msgstr "Je voulais parler de Kira..."
 
 # XX## game/core/02init.rpy:138
 msgid "Мою премию за помощь с Лизой!"
-msgstr ""
+msgstr "Mon prix pour avoir aidé Lisa!"
 
 # XX## game/core/02init.rpy:138
 msgid "Чтобы на маме были не только очки для сна, но и чулки!"
-msgstr ""
+msgstr "Pour maman, il n'y avait pas seulement des lunettes pour dormir, mais aussi des bas!"
 
 # XX## game/core/02init.rpy:138
 msgid "Чтобы на маме были только очки для сна!"
-msgstr ""
+msgstr "Pour que maman n'ait que des lunettes pour dormir!"
 
 # XX## game/core/02init.rpy:138
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
@@ -589,31 +589,31 @@ msgstr "Lisa, qu'est-ce que tu as fait?"
 
 # XX## game/core/02init.rpy:138
 msgid "Мама разрешила!"
-msgstr ""
+msgstr "Maman l’a permis!"
 
 # XX## game/core/02init.rpy:138
 msgid "Кстати, а как тебе та книжка, которую я дарил?"
-msgstr ""
+msgstr "Au fait, comment aimes-tu le livre que je t'ai donné?"
 
 # XX## game/core/02init.rpy:138
 msgid "Можно вместе с тобой книжку почитать?"
-msgstr ""
+msgstr "Je peux lire le livre avec toi?"
 
 # XX## game/core/02init.rpy:138
 msgid "Можно к тебе присоединиться?"
-msgstr ""
+msgstr "Je peux me joindre à toi?"
 
 # XX## game/core/02init.rpy:138
 msgid "А у меня есть крем для загара. Хотите?"
-msgstr ""
+msgstr "J'ai de la crème solaire. Tu en veux?"
 
 # XX## game/core/02init.rpy:138
 msgid "Давайте, я намажу вас кремом для загара?"
-msgstr ""
+msgstr "Aller, je te mets de la crème solaire?"
 
 # XX## game/core/02init.rpy:138
 msgid "Вам дать крем для загара?"
-msgstr ""
+msgstr "Veux-tu de la crème solaire?"
 
 # XX## game/core/02init.rpy:272
 msgid "Одежда"
