@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:48\n"
+"PO-Revision-Date: 2022-03-04 17:36\n"
 
 # TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
@@ -66,7 +66,7 @@ msgstr "Un massage complètement différent"
 
 # XX## game/extra/extra.rpy:60
 msgid "Я спасу их от солнца"
-msgstr ""
+msgstr "Je vais les sauver du soleil"
 
 # XX## game/extra/extra.rpy:60
 msgid "Ночные страхи"
@@ -190,7 +190,7 @@ msgstr "J'ai oublié quelque chose, non?"
 
 # XX## game/extra/extra.rpy:60
 msgid "Всё ниже и ниже"
-msgstr ""
+msgstr "De plus en plus bas"
 
 # XX## game/extra/extra.rpy:60
 msgid "Больше, чем помощь с домашним заданием"
@@ -218,15 +218,15 @@ msgstr "La serviette glisse à nouveau..."
 
 # XX## game/extra/extra.rpy:60
 msgid "Йога с мамой"
-msgstr ""
+msgstr "Yoga avec maman"
 
 # XX## game/extra/extra.rpy:60
 msgid "Ещё больше массажа у ТВ"
-msgstr ""
+msgstr "Encore plus de massage à la télé"
 
 # XX## game/extra/extra.rpy:60
 msgid "Не надо печалиться"
-msgstr ""
+msgstr "Ne sois pas triste"
 
 # XX## game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
@@ -242,7 +242,7 @@ msgstr "Une fellation profonde réalisée par maman"
 
 # XX## game/extra/extra.rpy:60
 msgid "Секс-шоу с первых рядов"
-msgstr ""
+msgstr "Sexe-show des premiers rangs"
 
 # XX## game/extra/extra.rpy:60
 msgid "Её первые познания..."
@@ -262,11 +262,11 @@ msgstr "Combien de temps cela prend-il ?"
 
 # XX## game/extra/extra.rpy:60
 msgid "Стесняется трогать..."
-msgstr ""
+msgstr "Trop timide pour toucher..."
 
 # XX## game/extra/extra.rpy:60
 msgid "Ещё стесняется, но трогает..."
-msgstr ""
+msgstr "Encore timide, mais oser toucher..."
 
 # XX## game/extra/extra.rpy:60
 msgid "Кружевное боди для Алисы от Эрика"
