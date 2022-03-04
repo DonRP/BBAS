@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:43\n"
+"PO-Revision-Date: 2022-03-04 17:36\n"
 
 # TODO: Translation updated at 2022-02-28 HH:HH# game/events/max.rpy:4 ## translate crowdin StartDialog_e88dfdc8:
 msgid "[Max_10]{m}Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил...{/m}"
@@ -352,7 +352,7 @@ msgstr "[Max_04]Voici les derniers chapitres... Le toucher est très important a
 
 # game/events/max.rpy:689 ## translate crowdin BookRead_sex_ed_37326ac9:
 msgid "[Max_04]Вот и последние главы... Кажется, я понял о чём говорила Лиза. Эх, надо было раньше эту книжку прочитать, сейчас бы не тратил на это время! Но лучше поздно, чем никогда. Материал усвоен и теперь можно снова приставать к Лизе."
-msgstr ""
+msgstr "[Max_04]Voici les derniers chapitres... Je crois avoir compris de quoi parlait Lisa. Eh, j'aurais dû lire ce livre avant, maintenant je n'aurais pas perdu de temps! Mais mieux vaut tard que jamais. Le matériel est appris et maintenant vous pouvez à nouveau harceler Lisa."
 
 # game/events/max.rpy:703 ## translate crowdin SearchSecretBook_4d6b282e:
 msgid "[Max_10]{m}Так... И с чего начать поиск? И нужно поспешить: если Алиса меня поймает, то сначала убьёт, а только потом поздоровается...{/m}[nointeract]"
