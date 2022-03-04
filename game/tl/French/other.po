@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:43\n"
+"PO-Revision-Date: 2022-03-04 17:36\n"
 
 # TODO: Translation updated at 2022-02-28 HH:HH# game/events/other.rpy:11 ## translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -1030,11 +1030,11 @@ msgstr "[Max_14]{m}c'est ainsi que mon histoire s'est terminée. De toute cette 
 
 # game/events/other.rpy:870 ## translate crowdin left_cream_68a6f9b5:
 msgid "[Max_10]{m}Ну вот, крем закончился. Надо ещё купить.{/m}"
-msgstr ""
+msgstr "[Max_10]{m}Eh bien, la crème est finie. Nous devons en acheter plus.{/m}"
 
 # game/events/other.rpy:876 ## translate crowdin left_cream_61f00467:
 msgid "[Max_08]{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
-msgstr ""
+msgstr "[Max_08]{m}Il reste peu de crème, la prochaine fois que ce ne sera peut-être pas suffisant, il est préférable d’en acheter à l’avance.{/m}"
 
 # XXtranslate crowdin strings:XX# XX## game/events/other.rpy:10
 msgid "Удачи"
