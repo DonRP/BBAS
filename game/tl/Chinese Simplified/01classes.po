@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-02-28 17:45\n"
+"PO-Revision-Date: 2022-03-05 17:38\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
+# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid "Ужасное"
 msgstr "Ужасное"
 
@@ -52,7 +52,7 @@ msgstr "太赞了！ "
 msgid "Приобретен пакет рекламы"
 msgstr "购买广告包"
 
-# XX## game/core/01classes.rpy:1333
+# XX## game/core/01classes.rpy:1334
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "[颜色=[lime]}{i}{b}注意：{/b} 获得新的\"机会\"！{/i}{/color}"
 
