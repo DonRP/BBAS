@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:43\n"
+"PO-Revision-Date: 2022-03-05 17:36\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
+# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13]Макс, я же просила отстать! Не хочу с тобой разговаривать.[nointeract]"
 msgstr "[Lisa_13]Max, Je t'ai dit de rester derrière! Ne veux pas te parler.[nointeract]"
 
@@ -7064,15 +7064,15 @@ msgstr ""
 msgid "[Max_03]Рад, что тебе понравилось... Ты очень классная, Лиза! И сисечки у тебя прелестные!"
 msgstr ""
 
-# game/dialogues/lisatalk.rpy:5052 ## translate crowdin lisa_read_with_Max_r_f72901e5:
+# game/dialogues/lisatalk.rpy:5053 ## translate crowdin lisa_read_with_Max_r_f72901e5:
 msgid "[Lisa_02]Ой, Макс, не смущай меня так... Но спасибо за комплимент.[nointeract]"
 msgstr ""
 
-# game/dialogues/lisatalk.rpy:5057 ## translate crowdin lisa_read_with_Max_r_7539a0ef:
+# game/dialogues/lisatalk.rpy:5058 ## translate crowdin lisa_read_with_Max_r_7539a0ef:
 msgid "[Lisa_02][lisa_bad_kiss!t]Ухх... Было приятно, настолько, что даже отрываться не хотелось... Но ты немножко торопишься, так что хорошего помаленьку."
 msgstr ""
 
-# game/dialogues/lisatalk.rpy:5058 ## translate crowdin lisa_read_with_Max_r_29e49474:
+# game/dialogues/lisatalk.rpy:5059 ## translate crowdin lisa_read_with_Max_r_29e49474:
 msgid "[Max_01]Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться.[nointeract]"
 msgstr ""
 
