@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-05 17:37\n"
+"PO-Revision-Date: 2022-03-05 18:03\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/eric.rpy:13 ## translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -1466,15 +1466,15 @@ msgstr "[Max_08]Hai pensato a cosa succederebbe se qualcuno ti vedesse? A parte 
 
 # game/events/eric.rpy:1817 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_4ecceec3:
 msgid "[Eric_09]Хм... Нет, я с ней поработаю и она будет держать это втайне."
-msgstr ""
+msgstr "[Eric_09]Ehm... No, lavorerò con lei e lei se lo terrà per sé."
 
 # game/events/eric.rpy:1818 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_999fc9b3:
 msgid "[Max_07]Смотри... Я тебе по дружески эти опасения высказал. Если ты на все 150%% уверен, что вам удастся сохранить это в тайне, то пожалуйста. Но тебе потом от этого отмыться не удастся, если что."
-msgstr ""
+msgstr "[Max_07]Guarda... Vi ho espresso queste preoccupazioni in modo amichevole. Se siete sicuri al 150%% che sarete in grado di mantenere il segreto, bene. Ma non puoi farla franca, semmai."
 
 # game/events/eric.rpy:1819 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_d9d496ce:
 msgid "[Eric_16]Блин, рискованно! А так хочется! Вот какой же ты, Макс... Всю малину растоптал..."
-msgstr ""
+msgstr "[Eric_16]Amico, è rischioso! Mi piacerebbe! Tu sei così, Max... Hai rovinato tutto..."
 
 # game/events/eric.rpy:1820 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_b3a3e772:
 msgid "[Max_09]А я не знаю, почему ты об этом не подумал. Видимо, из-за обилия перспектив с моей семьёй, ты совсем перестал думать тем, чем надо."
@@ -1482,7 +1482,7 @@ msgstr "[Max_09]Non so perché non ci hai pensato. A quanto pare, a causa dell'a
 
 # game/events/eric.rpy:1821 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_c9d70062:
 msgid "[Eric_09]Что теперь с Лизой делать... Если эти уроки прекратить в самом начале, она может начать задавать вопросы тем, кому не надо."
-msgstr ""
+msgstr "[Eric_09]Cosa fare con Lisa ora... Se queste lezioni vengono interrotte all'inizio, potrebbe iniziare a fare domande a chi non ne ha bisogno."
 
 # game/events/eric.rpy:1822 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_0d98c4b2:
 msgid "[Max_07]Ну, я попробую взять её на себя. Чем-нибудь, да займу её. А с остальными членами моей семьи я тебе помогу, как и договаривались."
