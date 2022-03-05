@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /master/game/tl/crowdin/events/alice_cam.po\n"
-"X-Crowdin-File-ID: 913\n"
+"X-Crowdin-File-ID: 3374\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:40\n"
+"PO-Revision-Date: 2022-03-05 18:37\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/alice_cam.rpy:25 ## translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07]{m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
@@ -362,49 +362,49 @@ msgstr ""
 
 # game/events/alice_cam.rpy:740 ## translate crowdin cam0_blog_with_Eric_2dbcbfe9:
 msgid "[Max_09]{m}Эрик о чём-то разговаривает с Алисой. И развалился так, как будто это его комната...{/m}"
-msgstr "[Max_09] {m} Eric está hablando con Alice sobre algo. Y se acostó como si fuera su habitación... {/ m}"
+msgstr ""
 
 # game/events/alice_cam.rpy:744 ## translate crowdin cam0_blog_with_Eric_f539e64b:
 msgid "[Max_08]{m}Ого! Да она при нём, похоже, переодеваться вздумала! Что сказать, Эрик умеет добиваться своего...{/m}"
-msgstr "[Max_08] {m} ¡Parece que se está cambiando de ropa delante de él! ¿Qué puedo decir? Eric sabe salirse con la suya... {/ m}"
+msgstr ""
 
 # game/events/alice_cam.rpy:749 ## translate crowdin cam0_blog_with_Eric_dcf61634:
 msgid "[Max_01]{m}Голая и прекрасная Алиса! Сказала Эрику не подглядывать, только вот он точно во всю глазеет сквозь пальцы... Я бы уж точно рискнул так близко поглазеть на голую Алису!{/m}"
-msgstr "[Max_01] {m} ¡Alice hermosa y desnuda! Le dije a Eric que no mirara, solo que definitivamente él está mirando a través de sus dedos... ¡Ciertamente me arriesgo a acercarme tanto a mirar a una Alice desnuda! {/ M}"
+msgstr ""
 
 # game/events/alice_cam.rpy:753 ## translate crowdin cam0_blog_with_Eric_d27dde4d:
 msgid "[Max_07]{m}Ухх... Алиса не спешит спрятать свои аппетитные сисечки под боди! Хм, а может она заметила, что Эрик всё равно подглядывает и таким образом дразнит его?! И не подозревает, что заодно и меня...{/m}"
-msgstr "[Max_07] {m} Uhhhh... ¡Alice se toma su tiempo para esconder sus deliciosas tetas debajo de su mono! Mmmm, ¡tal vez se dio cuenta de que Eric estaba mirando a escondidas de todos modos y se burlaba de él así! Y no sabe que él también se está burlando de mí... {/ m}"
+msgstr ""
 
 # game/events/alice_cam.rpy:758 ## translate crowdin cam0_blog_with_Eric_c1401911:
 msgid "[Max_09]{m}Понятно всё с вами, Алиса села на шею Эрику, а он и рад. Эх, Алиса... надеюсь, ты знаешь, что делаешь...{/m}"
-msgstr "[Max_09] {m} Entiendo lo que está pasando entre ustedes dos, Alice está en el cuello de Eric y él está feliz de hacerlo. Oh, Alice... espero que sepas lo que estás haciendo... {/ m}"
+msgstr ""
 
 # game/events/alice_cam.rpy:787 ## translate crowdin cam0_blog_with_Eric_4181192f:
 msgid "[Max_08]{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
-msgstr "[Max_08] {m} Eric está en la habitación de Alice hoy. Parece que está tratando de ayudar con el blog... Pero en realidad, solo lo hace para ver a Alice en ropa interior, lo sé... {/ m}"
+msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/events/alice_cam.rpy:57
 msgid "{i}Конечно{/i}"
-msgstr "{i}Por supuesto{/i}"
+msgstr ""
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgstr "{i}Toma la cámara y ve a la ventana de Alice{/i}"
+msgstr ""
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgstr "{i}Y a la mierda con él, déjalo temblar{/i}"
+msgstr ""
 
 # XX## game/events/alice_cam.rpy:88
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgstr "{i}Toma la cámara y ve al balcón{/i}"
+msgstr ""
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}продолжать смотреть{/i}"
-msgstr "{i}sigue mirando{/i}"
+msgstr ""
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}достаточно{/i}"
-msgstr "{i}suficiente{/i}"
+msgstr ""
 
