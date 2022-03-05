@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/dinner.po\n"
-"X-Crowdin-File-ID: 993\n"
+"X-Crowdin-File-ID: 3360\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:39\n"
+"PO-Revision-Date: 2022-03-05 18:36\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
@@ -1058,7 +1058,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:678 ## translate crowdin dinner_17_sleep_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:685 ## translate crowdin dinner_ab_lisa_ed_d04275cc:
 msgid "[Ann_04]Всем приятного аппетита!"
