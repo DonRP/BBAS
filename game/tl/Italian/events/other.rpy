@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-01-26 18:41\n"
+# "PO-Revision-Date: 2022-03-05 18:03\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/events/other.rpy:11
 translate italian shoping_034007bc:
@@ -583,10 +585,10 @@ translate italian Kira_arrival_end_yard_d90987d8:
     Kira_05 "Quindi, teniamo tutti vestiti nuovi, cambiamo i vestiti e incontriamoci al tavolo dove fate colazione. Vediamo se tutto si adatta a tutti loro. E tu, Max, non ho comprato nulla. Pensavo che si potesse andare in giro in pantaloncini. Ma ti farò un regalo, più tardi decideremo quale..." nointeract
 
 # game/events/other.rpy:309
-translate italian Kira_arrival_end_yard_370fc726:
+translate italian Kira_arrival_end_yard_3af78784:
 
-    # Max_11 "Ну где они все?! Если я начну завтракать без них, то потом все только и будут говорить о моей невоспитанности. Давайте уже быстрее!"
-    Max_11 "Beh, dove sono tutti?! Se inizio la colazione senza di loro, allora tutti parleranno solo delle mie cattive maniere. Andiamo più veloce!"
+    # Max_11 "{m}Ну где они все?! Если я начну завтракать без них, то потом все только и будут говорить о моей невоспитанности. Давайте уже быстрее!{/m}"
+    Max_11 "{m}Dove sono tutti?! Se inizio a fare colazione con loro, allora tutti parleranno della mia maleducazione. Dai, sbrigati!{/m}"
 
 # game/events/other.rpy:314
 translate italian Kira_arrival_end_yard_e9e6d4fa:
@@ -678,12 +680,6 @@ translate italian Kira_arrival_end_yard_11f0d126:
     # Ann_04 "Ну, теперь и моя очередь. Как вам? Не слишком откровенно?" nointeract
     Ann_04 "Bene, ora è il mio turno. Che ne pensi? Non troppo franco?" nointeract
 
-# game/events/other.rpy:675
-translate italian dictaphone_showdown_with_eric_60fce6d7:
-
-    # "{color=[orange]}(все слушают запись...){/color}"
-    "{color=[orange]}(tutti ascoltano il nastro...){/color}"
-
 # game/events/other.rpy:348
 translate italian Kira_arrival_end_yard_27e62e75:
 
@@ -732,8 +728,831 @@ translate italian Kira_arrival_end_yard_438c6fcd:
     # Max_07 "Давайте уже завтракать, а то остыло почти всё..."
     Max_07 "Facciamo colazione, e poi quasi tutto si è raffreddato..."
 
+# game/events/other.rpy:404
+translate italian follow_cameras_eric_4a1b4511:
+
+    # Max_09 "{m}Неутомимый Эрик! Вали уже обратно к маме в комнату и засыпай. А то у меня тоже есть дела у Алисы в комнате...{/m}" nointeract
+    Max_09 "{m}Instancabile Eric! Torna nella stanza di tua madre e vai a dormire. Ho delle cose da fare anche nella stanza di Alice...{/m}" nointeract
+
+# game/events/other.rpy:424
+translate italian follow_cameras_eric_2da5afe7:
+
+    # Max_01 "{m}Отлично! Пора...{/m}" nointeract
+    Max_01 "{m}Va bene! È il momento...{/m}" nointeract
+
+# game/events/other.rpy:436
+translate italian frame_eric_60e127e3:
+
+    # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m}" nointeract
+    Max_07 "{m}Oh, sì! La mia sorella maggiore è fantastica... Le curve del suo corpo completamente nudo sono qualcosa che voglio guardare per sempre!{/m}" nointeract
+
+# game/events/other.rpy:438
+translate italian frame_eric_58e230bc:
+
+    # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m}" nointeract
+    Max_04 "{m}Wow! Sono fortunato che Alice dorma con le spalle alla finestra... E non ha idea che sta mostrando il suo culo nudo per me in tutta la sua gloria.{/m}" nointeract
+
+# game/events/other.rpy:440
+translate italian frame_eric_f84d87b6:
+
+    # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}" nointeract
+    Max_01 "{m}È fantastico! Sorella che dorme con la schiena inarcata, facendo spuntare i suoi seni nudi come due montagnole... Una vista seducente...{/m}" nointeract
+
+# game/events/other.rpy:450
+translate italian frame_eric_c7dc4684:
+
+    # Max_07 "{m}Уж прости, Алиса, ничего личного. Мне позарез нужно показать всем вам, а особенно маме, что Эрик собирается тут с вами всеми делать...{/m}" nointeract
+    Max_07 "{m}Scusa, Alice, non è niente di personale. Ho davvero bisogno di mostrare a tutti voi, e specialmente a mia madre, quello che Eric sta per fare con tutti voi...{/m}" nointeract
+
+# game/events/other.rpy:457
+translate italian frame_eric_40044bf4:
+
+    # Max_20 "{m}Только бы Алиса не проснулась! Иначе я отправлюсь не в военный лагерь, а сразу на кладбище... Но сейчас лучше думать не об этом, а о том, как сладко я бы проникал своим членом во все её самые интересные дырочки... Д-а-а... Это было бы очень приятно...{/m}" nointeract
+    Max_20 "{m}Non lasciare che Alice si svegli! Altrimenti non andrei al campo militare, ma direttamente al cimitero... Ma in questo momento preferisco non pensare a questo, ma a quanto dolcemente penetrerei tutti i suoi buchi più interessanti con il mio cazzo... Già... Sarebbe molto bello...{/m}" nointeract
+
+# game/events/other.rpy:464
+translate italian frame_eric_f720febd:
+
+    # Max_08 "{m}Фух! Вроде, не проснулась... Надеюсь, этого хватит, чтобы утром Алиса забила тревогу. Наверняка, она сразу подумает, что это я её чем-то испачкал. И вот тогда-то я и покажу снимки с Эриком, а уже всю картину воедино она сложит сама. Если я, конечно, смогу уйти незамеченным в свою комнату...{/m}" nointeract
+    Max_08 "{m}Non sembrava svegliarsi... Speriamo che questo sia sufficiente per far suonare la sveglia ad Alice la mattina. Sono sicuro che penserà che sono stato io a sporcarla. Ed è allora che le mostrerò le foto con Eric, e lei stessa metterà insieme l'intero quadro. Se riesco a scappare inosservato nella mia stanza...{/m}" nointeract
+
+# game/events/other.rpy:482
+translate italian showdown_with_eric_c59ea561:
+
+    # Alice_17 "Макс! Ну-ка быстро просыпайся, а не то я тебе всыплю! Признавайся, чем ты меня ночью измазал?"
+    Alice_17 "Max! Svegliati in fretta o ti prendo a calci in culo! Dimmi, cosa mi hai fatto ieri sera?"
+
+# game/events/other.rpy:483
+translate italian showdown_with_eric_bd921574:
+
+    # Max_07 "Измазал?! А почему сразу я?!"
+    Max_07 "Ti stai inzuppando?! Perché io?!"
+
+# game/events/other.rpy:484
+translate italian showdown_with_eric_38d64641:
+
+    # Alice_16 "А кто ещё это может быть?! Здесь вообще без вариантов и гадалка не нужна! Так что говори, чем измазал и пошли к маме..."
+    Alice_16 "Chi altro potrebbe essere?! Non hai bisogno di un indovino! Allora dimmi cosa hai spalmato e andiamo da tua madre..."
+
+# game/events/other.rpy:485
+translate italian showdown_with_eric_4d7a3f63:
+
+    # Lisa_10 "Алиса, хватит уже кричать! Я же сплю..."
+    Lisa_10 "Alice, smettila di gridare! Sto dormendo..."
+
+# game/events/other.rpy:486
+translate italian showdown_with_eric_5508b396:
+
+    # Max_00 "Да, Алиса, ты как-то слишком возбуждена. Тебя может неслабо так шокировать то, что я тебе скажу. И даже покажу."
+    Max_00 "Sì, Alice, sei un po' troppo eccitato. Quello che sto per dirvi potrebbe essere un grande shock per voi. Potrei anche mostrarvelo."
+
+# game/events/other.rpy:487
+translate italian showdown_with_eric_43ec76cb:
+
+    # Alice_06 "Так я и знала, что это гадость какая-то! Ну так что это?"
+    Alice_06 "Sapevo che era disgustoso! Allora, che cos'è?"
+
+# game/events/other.rpy:488
+translate italian showdown_with_eric_06f743d3:
+
+    # Max_01 "Это Эрик с тобой кое-чем... поделился..."
+    Max_01 "È stato Eric a condividere qualcosa con te... condiviso con voi..."
+
+# game/events/other.rpy:496
+translate italian showdown_with_eric_fc0ce1b6:
+
+    # Alice_12 "Макс, хватит уже... И что мне этот снимок должен сказать? Хотя... не поняла... Он дрочит что ли?! А где это он?"
+    Alice_12 "Max, basta così... Cosa dovrebbe dirmi questa foto? Anche se... Non capisco... Si sta facendo una sega?! Dov'è?"
+
+# game/events/other.rpy:497
+translate italian showdown_with_eric_c64627b9:
+
+    # Max_07 "А ты присмотрись и отгадаешь где."
+    Max_07 "Guardate bene e indovinate dove."
+
+# game/events/other.rpy:498
+translate italian showdown_with_eric_e376d7c6:
+
+    # Alice_14 "Ну... Это получается... Эй! Это он что, у моего окна стоит?"
+    Alice_14 "Bene... Sarebbe... Ehi, è lui che sta alla mia finestra?"
+
+# game/events/other.rpy:499
+translate italian showdown_with_eric_d5628f21:
+
+    # Max_04 "Не только..."
+    Max_04 "Non solo..."
+
+# game/events/other.rpy:507
+translate italian showdown_with_eric_dea06daf:
+
+    # Lisa_13 "Вы что тут с утра пораньше разглядываете? Ой! Эрик! Прямо у тебя в комнате, Алиса..."
+    Lisa_13 "Cosa state guardando stamattina? Ahi, Eric! Proprio nella tua stanza, Alice..."
+
+# game/events/other.rpy:508
+translate italian showdown_with_eric_3271758d:
+
+    # Alice_15 "Он что, правда в моей комнате и... дрочит... на меня?!"
+    Alice_15 "È davvero nella mia stanza e... masturbandosi... su di me?!"
+
+# game/events/other.rpy:509
+translate italian showdown_with_eric_ff78a8b8:
+
+    # Max_02 "Ну да. Видишь, не такой уж я и извращенец, правда?"
+    Max_02 "Sì. Vedi, non sono un pervertito, vero?"
+
+# game/events/other.rpy:510
+translate italian showdown_with_eric_db6785a5:
+
+    # Alice_06 "То есть, то... что у меня было на ноге, это..."
+    Alice_06 "Voglio dire, quello... quello che avevo sulla gamba era..."
+
+# game/events/other.rpy:511
+translate italian showdown_with_eric_80a21b22:
+
+    # Max_10 "Да, Алиса. Оно самое."
+    Max_10 "Sì, Alice. Questo è quello."
+
+# game/events/other.rpy:518
+translate italian showdown_with_eric_9082d505:
+
+    # Alice_17 "Вот же подонок озабоченный! Подожди... А ты какого хрена это всё фотографировал?!"
+    Alice_17 "Che bastardo arrapato! Aspetta un attimo... Perché cazzo hai fatto tutte queste foto?!"
+
+# game/events/other.rpy:519
+translate italian showdown_with_eric_e40e9eac:
+
+    # Max_09 "Видишь ли, Эрик мне много раз угрожал проблемами и ссылкой в военный лагерь, если я буду ему мешать в подобных... делах. Вот и пришлось подстраховаться."
+    Max_09 "Vedete, Eric mi ha minacciato molte volte di guai e di esilio in un campo militare se interferisco con lui in tale... cose del genere. Quindi ho dovuto prendere delle precauzioni."
+
+# game/events/other.rpy:520
+translate italian showdown_with_eric_3d070281:
+
+    # Alice_16 "И часто этот онанист чёртов ко мне в комнату ходит по ночам?"
+    Alice_16 "Quanto spesso quel segaiolo viene nella mia stanza di notte?"
+
+# game/events/other.rpy:521
+translate italian showdown_with_eric_a26a29c6:
+
+    # Max_07 "Я бы сказал, что с завидным постоянством!"
+    Max_07 "Direi con una coerenza invidiabile!"
+
+# game/events/other.rpy:522
+translate italian showdown_with_eric_3d7646d5:
+
+    # Alice_12 "Ублюдок какой! А ты чего молчал всё это время?!"
+    Alice_12 "Che bastardo! Perché non hai detto niente per tutto questo tempo?!"
+
+# game/events/other.rpy:523
+translate italian showdown_with_eric_60498e82:
+
+    # Max_15 "Так ведь, если говорит Эрик, то это святая истина, а если я, то это чепуха какая-то."
+    Max_15 "Beh, se lo dice Eric, è la santa verità, ma se lo dico io, è una sciocchezza."
+
+# game/events/other.rpy:525
+translate italian showdown_with_eric_6d1dd214:
+
+    # Alice_17 "Вот я Эрику с мамой сейчас устрою! Макс, пошли за мной!" nointeract
+    Alice_17 "Darò del filo da torcere a Erica e a sua madre! Max, seguimi!" nointeract
+
+# game/events/other.rpy:536
+translate italian showdown_with_eric_40a33569:
+
+    # Ann_13 "Алиса! Ты зачем так врываешься?! Стучаться надо..."
+    Ann_13 "Alice! Perché irrompi in questo modo?! Dovresti bussare..."
+
+# game/events/other.rpy:537
+translate italian showdown_with_eric_db864631:
+
+    # Alice_16 "Не волнуйся, мам, я обязательно сейчас по кое-кому постучу! Знаешь, что твой мужчина вытворяет по ночам?"
+    Alice_16 "Non preoccuparti, mamma, non mancherò di bussare alla porta di qualcuno! Sai cosa fa il tuo uomo di notte?"
+
+# game/events/other.rpy:538
+translate italian showdown_with_eric_d1c15c50:
+
+    # Ann_17 "Это что за тон, Алиса! Конечно, знаю. Ой, вы все здесь! Что происходит?"
+    Ann_17 "Che razza di tono è questo, Alice! Certo che sì. Oh, siete tutti qui! Cosa sta succedendo?"
+
+# game/events/other.rpy:539
+translate italian showdown_with_eric_86aba788:
+
+    # Max_07 "У Алисы есть претензии к Эрику..."
+    Max_07 "Alice ha un problema con Eric..."
+
+# game/events/other.rpy:547
+translate italian showdown_with_eric_b57755ec:
+
+    # Alice_17 "И ещё какие! Эрик дрочит на меня по ночам! Это как вообще называется? Я думала у нас Макс извращенец, но ты, Эрик..."
+    Alice_17 "E che mucchio! Eric si masturba con me di notte! Come si chiama questo? Pensavo che Max fosse un pervertito, ma tu, Eric..."
+
+# game/events/other.rpy:548
+translate italian showdown_with_eric_f1dc38c8:
+
+    # Ann_16 "Ты что такое вообще несёшь, Алиса?! Обвинять в таком Эрика, это..."
+    Ann_16 "Di che diavolo stai parlando, Alice? Accusare Eric di una cosa del genere è..."
+
+# game/events/other.rpy:549
+translate italian showdown_with_eric_9f3d0dd5:
+
+    # Alice_18 "Мам! У Макса есть фотографии! А это животное лохматое ещё и обкончало меня этой ночью..."
+    Alice_18 "Mamma! Max ha delle foto! E quell'animale arruffato mi ha anche sborrato addosso ieri sera..."
+
+# game/events/other.rpy:550
+translate italian showdown_with_eric_368c6e02:
+
+    # Eric_09 "Так, Алиса, давай успокаивайся!"
+    Eric_09 "Va bene, Alice, calmiamoci!"
+
+# game/events/other.rpy:560
+translate italian showdown_with_eric_9e66f9ab:
+
+    # Alice_17 "Ну-ка заткнулся! Меня лучше не злить! Сейчас Макс покажет маме снимки и мы послушаем, как ты это объяснишь..."
+    Alice_17 "Zitto! È meglio non farmi arrabbiare! Ora Max mostrerà le foto alla mamma e la sentiremo spiegare..."
+
+# game/events/other.rpy:561
+translate italian showdown_with_eric_4f9368bb:
+
+    # Ann_14 "И что вы хотите мне тут показать? Я не понимаю... Как такое вообще может быть?! Эрик, будь добр, объясни это..."
+    Ann_14 "E cosa vuoi mostrarmi qui? Non capisco... Com'è possibile? Eric, saresti così gentile da spiegare questo..."
+
+# game/events/other.rpy:562
+translate italian showdown_with_eric_37815d99:
+
+    # Eric_13 "Ань, не знаю, что там за снимки, но могу уверить тебя - это фотошоп!"
+    Eric_13 "Anya, non so cosa siano le foto, ma posso assicurarti che è photoshoppato!"
+
+# game/events/other.rpy:563
+translate italian showdown_with_eric_517352a4:
+
+    # Max_09 "В таком случае, я за то, чтобы провести экспертизу их подлинности!"
+    Max_09 "In questo caso, sono favorevole a far esaminare la loro autenticità!"
+
+# game/events/other.rpy:564
+translate italian showdown_with_eric_54354826:
+
+    # Ann_15 "Эрик! У меня в голове не укладывается то, что я вижу... Господи! Ты же дрочишь на мою дочь! Как ты мог такое делать, мерзавец... Лиза, а с тобой всё в порядке?! Эрик ничего с тобой не делал?"
+    Ann_15 "Eric! Non riesco a capire cosa sto vedendo... Gesù Cristo! Stai facendo una sega a mia figlia! Come hai potuto farlo, bastardo... Lisa, stai bene? Eric non ti ha fatto niente?"
+
+# game/events/other.rpy:565
+translate italian showdown_with_eric_6266c673:
+
+    # Lisa_10 "Нет... Правда, он предлагал мне закрепить на практике те уроки сексуального воспитания, что вы для меня проводили."
+    Lisa_10 "No... È vero, si è offerto di farmi fare pratica con le lezioni di educazione sessuale che mi stavi dando."
+
+# game/events/other.rpy:574
+translate italian showdown_with_eric_ad4584a4:
+
+    # Alice_18 "Ах так! Значит, ты свои ручищи к нашей маленькой Лизе уже тянешь? Вот... получай, скотина..."
+    Alice_18 "Oh, sì! Allora, hai già messo le mani sulla nostra piccola Lisa? Qui... prendi questo, bastardo..."
+
+# game/events/other.rpy:575
+translate italian showdown_with_eric_8277ef23:
+
+    # Ann_20 "Эрик, ты совсем что ли больной?! Как ты мог такое делать с моими девочками! Живо выметайся из нашего дома, пока я полицию не вызвала!"
+    Ann_20 "Eric, sei fuori di testa?! Come hai potuto fare questo alle mie ragazze! Esci subito da casa nostra prima che chiami la polizia!"
+
+# game/events/other.rpy:578
+translate italian showdown_with_eric_847ca8ec:
+
+    # Eric_10 "Какую ещё полицию?! Я ничего не делал. Это всё Макс!"
+    Eric_10 "Quale polizia?! Non ho fatto nulla. Era Max!"
+
+# game/events/other.rpy:579
+translate italian showdown_with_eric_8cb800af:
+
+    # Lisa_13 "Не надо всё на Макса сваливать! Он хороший..."
+    Lisa_13 "Non dare la colpa di tutto a Max! È un buon..."
+
+# game/events/other.rpy:580
+translate italian showdown_with_eric_5dcf637a:
+
+    # Alice_16 "Я раньше от души могла навалять Максу, но сейчас я в такой ярости, что запросто наваляю такому здоровому извращенцу, как ты!"
+    Alice_16 "Una volta ero in grado di prendere a calci Max, ma ora sono così incazzato che potrei prendere a calci un grosso pervertito come te!"
+
+# game/events/other.rpy:589
+translate italian showdown_with_eric_aece1638:
+
+    # Ann_19 "Эрик, проваливай! Я не хочу тебя больше видеть!"
+    Ann_19 "Eric, vattene! Non voglio più vederti!"
+
+# game/events/other.rpy:590
+translate italian showdown_with_eric_4a405f54:
+
+    # Eric_09 "Вижу, вы все на взводе, так что я поговорю с вами, когда успокоитесь... А сейчас я оденусь и отправлюсь на работу."
+    Eric_09 "Vedo che sei tutto agitato, quindi ti parlerò quando ti sarai calmato... Ora mi vesto e vado a lavorare."
+
+# game/events/other.rpy:591
+translate italian showdown_with_eric_2ec75356:
+
+    # Ann_20 "Я сказала, {b}ПОШЁЛ ВОН НЕМЕДЛЕННО!!!{/b}"
+    Ann_20 "Ho detto, {b}FUORI ORA!!!{/b}"
+
+# game/events/other.rpy:592
+translate italian showdown_with_eric_cf71befd:
+
+    # Alice_17 "И полотенце можешь оставить себе, грязное животное! Убирайся!"
+    Alice_17 "E puoi tenere l'asciugamano, sporco animale! Vattene!"
+
+# game/events/other.rpy:602
+translate italian showdown_with_eric_f3afe214:
+
+    # Max_00 "Мам, ты только не расстраивайся так из-за него. Всякое бывает..."
+    Max_00 "Mamma, non arrabbiarti così tanto con lui. Cose che succedono..."
+
+# game/events/other.rpy:603
+translate italian showdown_with_eric_b377cce2:
+
+    # Ann_14 "Всё никак в голове не укладывается, что Эрик тут с вами творил... И что я за мать после этого? Я в шоке..."
+    Ann_14 "Mamma, non arrabbiarti così tanto con lui. Cose che succedono..."
+
+# game/events/other.rpy:604
+translate italian showdown_with_eric_90ee4fd2:
+
+    # Alice_13 "Уж лучше узнать поздно, чем никогда. А у нас всё ещё лучше... Мы узнали, пока ещё не стало поздно. Так что не переживай, мам, мы все думали, что Эрик... уж точно не такой..."
+    Alice_13 "Meglio saperlo tardi che mai. È ancora meglio per noi... L'abbiamo scoperto prima che fosse troppo tardi. Quindi non preoccuparti, mamma, tutti noi pensavamo che Eric... certamente non il tipo di..."
+
+# game/events/other.rpy:605
+translate italian showdown_with_eric_167ce82b:
+
+    # Max_09 "Хорошо, что я своим мужским взглядом сразу понял, что он мутный тип!"
+    Max_09 "Meno male che sapevo con il mio sguardo maschile che era un tipo torbido!"
+
+# game/events/other.rpy:606
+translate italian showdown_with_eric_ca2a104b:
+
+    # Lisa_09 "Так это получается, что? Про бумажник Эрик наврал?"
+    Lisa_09 "Tutto qui, allora? Eric ha mentito sul portafoglio?"
+
+# game/events/other.rpy:607
+translate italian showdown_with_eric_b84c6e58:
+
+    # Max_08 "Конечно! Он это придумал, чтобы вы меня в военный лагерь сослали. А то я стал слишком мешаться."
+    Max_08 "Certo! L'ha inventato per farmi mandare in un campo militare. Ero troppo in mezzo ai piedi."
+
+# game/events/other.rpy:608
+translate italian showdown_with_eric_35096e7a:
+
+    # Ann_13 "Ты прости меня, сынок, я должна была прислушиваться к тому, что ты говорил. Что же теперь делать?"
+    Ann_13 "Mi dispiace, figliolo, avrei dovuto ascoltare quello che dicevi. Cosa facciamo ora?"
+
+# game/events/other.rpy:609
+translate italian showdown_with_eric_e862c93b:
+
+    # Max_01 "Жить, как жили до Эрика! Ничего сложного..."
+    Max_01 "Vivi come facevamo prima di Eric! Niente di complicato..."
+
+# game/events/other.rpy:610
+translate italian showdown_with_eric_6ff07095:
+
+    # Ann_12 "Нет, Макс, я о другом... Он же мой начальник! Как мне теперь быть? Ох, не знаю..."
+    Ann_12 "No, Max, non è quello che voglio dire... È il mio capo! Cosa dovrei fare adesso? Oh, non lo so..."
+
+# game/events/other.rpy:611
+translate italian showdown_with_eric_2621818a:
+
+    # Max_07 "Д-а-а... Это проблемка. Ты главное не слушай его оправдания, а то он умеет убеждать, как ты сама убедилась прекрасно. А теперь давайте, все вместе, поддержим маму!"
+    Max_07 "Y-a-a... Questo è un problema. Non ascoltate le sue scuse, perché è un uomo molto persuasivo, come avete visto voi stessi. Ora, forza, tutti quanti, sosteniamo la mamma!"
+
+# game/events/other.rpy:618
+translate italian showdown_with_eric_f96123e9:
+
+    # Ann_13 "Ой, дорогие мои, вы меня так раздавите! Но вы всё равно самые лучшие, кто у меня есть... Простите ещё раз за то, что я привела в наш прекрасный дом этого человека и всё испортила."
+    Ann_13 "Oh, miei cari, mi state schiacciando così tanto! Ma sei ancora il migliore che ho... Mi dispiace ancora per aver portato quest'uomo nella nostra bella casa e aver rovinato tutto."
+
+# game/events/other.rpy:619
+translate italian showdown_with_eric_5a9bcc35:
+
+    # Lisa_01 "Не бери в голову, мам. Не вини себя, всё ведь хорошо. Мы с тобой."
+    Lisa_01 "Non preoccuparti, mamma. Non incolpare te stesso, va tutto bene. Siamo con te."
+
+# game/events/other.rpy:620
+translate italian showdown_with_eric_a2587239:
+
+    # Alice_05 "И если он начнёт устраивать тебе проблемы на работе, то мы все так же дружно, как сейчас, соберёмся и отпинаем его!"
+    Alice_05 "E se comincia a darti problemi al lavoro, ci riuniremo tutti insieme e lo prenderemo a calci in culo, proprio come adesso!"
+
+# game/events/other.rpy:621
+translate italian showdown_with_eric_e1846793:
+
+    # Max_09 "Думаю, Эрик не настолько туп, чтобы строить маме козни. Особенно, если она будет с ним жёстче..."
+    Max_09 "Non credo che Eric sia così stupido da fare scherzi a sua madre. Soprattutto se lei fa la dura con lui..."
+
+# game/events/other.rpy:622
+translate italian showdown_with_eric_d14050f1:
+
+    # Ann_17 "Ох, ребята, я постараюсь... Хотя, мне даже думать о нём сейчас противно, не то что видеть. Надеюсь, я не потеряю работу."
+    Ann_17 "Oh, ragazzi, ci proverò... Anche se mi disgusta anche solo pensare a lui adesso, figuriamoci vederlo. Spero di non perdere il mio lavoro."
+
+# game/events/other.rpy:623
+translate italian showdown_with_eric_72f9e7fc:
+
+    # Max_08 "Может, удастся перевестись в какой-нибудь другой отдел?"
+    Max_08 "Forse potrei ottenere un trasferimento in qualche altro dipartimento?"
+
+# game/events/other.rpy:624
+translate italian showdown_with_eric_032de050:
+
+    # Ann_02 "Надеюсь... Ну всё, мне уже дышать нечем. Пора делами заниматься. Я вас очень люблю..."
+    Ann_02 "Spero... Ecco, non riesco più a respirare. È ora di mettersi al lavoro. Ti amo molto..."
+
+# game/events/other.rpy:625
+translate italian showdown_with_eric_90be8708:
+
+    # Lisa_05 "И мы тебя!"
+    Lisa_05 "Anche tu!"
+
+# game/events/other.rpy:649
+translate italian dictaphone_showdown_with_eric_ff0dd3e4:
+
+    # Ann_13 "Макс! Лиза! Алиса! Ну зачем так неожиданно влетать?! Так и заикой стать не долго..."
+    Ann_13 "Max! Lisa! Alice! Perché devi arrivare così all'improvviso?! Balbetterai..."
+
+# game/events/other.rpy:650
+translate italian dictaphone_showdown_with_eric_6110e6be:
+
+    # Lisa_13 "Извини, мама... Но сейчас кто-то действительно станет заикой! Ты хоть знаешь, какие планы строит Эрик?"
+    Lisa_13 "Mi dispiace, mamma... Ma ora qualcuno sta davvero per balbettare! Hai idea di quali siano i piani di Eric?"
+
+# game/events/other.rpy:651
+translate italian dictaphone_showdown_with_eric_c78bbf14:
+
+    # Ann_15 "Это что за тон, Лиза?! И что это за вопрос? Что происходит?!"
+    Ann_15 "Che razza di tono è questo, Lisa?! E che razza di domanda è questa? Cosa sta succedendo?!"
+
+# game/events/other.rpy:652
+translate italian dictaphone_showdown_with_eric_16776269:
+
+    # Alice_13 "Мам, я понятия не имею... Это всё они."
+    Alice_13 "Mamma, non ne ho idea... Sono tutti loro."
+
+# game/events/other.rpy:653
+translate italian dictaphone_showdown_with_eric_4f2b686c:
+
+    # Max_09 "Лиза тут кое-что узнала... И теперь у неё есть претензии к Эрику..."
+    Max_09 "Lisa ha scoperto qualcosa... E ora ha un problema con Eric..."
+
+# game/events/other.rpy:663
+translate italian dictaphone_showdown_with_eric_b894aaee:
+
+    # Lisa_12 "И ещё какие! Мам, помнишь наши совместные уроки в твоей комнате? Так вот Эрик решил расширить программу моего сексуального образования до практических занятий с ним наедине!"
+    Lisa_12 "E quanti sono! Mamma, ricordi le nostre lezioni insieme nella tua stanza? Bene, Eric ha deciso di espandere il mio programma di educazione sessuale a lezioni private pratiche con lui!"
+
+# game/events/other.rpy:664
+translate italian dictaphone_showdown_with_eric_cf4823cd:
+
+    # Ann_17 "Я ни о чём таком не знаю. В каком смысле, практических?"
+    Ann_17 "Non so niente di tutto questo. Cosa intendi per pratico?"
+
+# game/events/other.rpy:665
+translate italian dictaphone_showdown_with_eric_6a9d0065:
+
+    # Lisa_10 "В таком, чтобы я повторяла всё то, что делала ты. Это как вообще называется? Я думала у нас Макс извращенец, но ты, Эрик..."
+    Lisa_10 "Il tipo in cui ripeto tutto quello che hai fatto. Come si chiama questo? Pensavo che Max fosse un pervertito, ma tu, Eric..."
+
+# game/events/other.rpy:666
+translate italian dictaphone_showdown_with_eric_cefb4f10:
+
+    # Ann_16 "Ты что такое вообще несёшь, Лиза?! Обвинять в таком Эрика, это... Я уверена, ты просто что-то не так поняла. Верно, Эрик?"
+    Ann_16 "Di che diavolo stai parlando, Lisa? Accusare Eric di una cosa del genere è... Sono sicuro che hai solo frainteso qualcosa. Giusto, Eric?"
+
+# game/events/other.rpy:667
+translate italian dictaphone_showdown_with_eric_26987fb2:
+
+    # Eric_13 "Однозначно!"
+    Eric_13 "Decisamente!"
+
+# game/events/other.rpy:668
+translate italian dictaphone_showdown_with_eric_4d03abad:
+
+    # Lisa_09 "Мам, с каких пор ты мне не веришь? Макс специально ходил разговаривать с Эриком и Эрик таких мерзостей ему наговорил про всех... Особенно, про меня!"
+    Lisa_09 "Mamma, da quando non mi credi? Max è andato a parlare con Erik di proposito ed Erik gli ha detto cose così brutte su tutti... Soprattutto su di me!"
+
+# game/events/other.rpy:669
+translate italian dictaphone_showdown_with_eric_1f1b1dd8:
+
+    # Ann_19 "Что?! Это уже явный перебор, Лиза! Мне или нужны доказательства, или тебя придётся хорошенько наказать!"
+    Ann_19 "Cosa? Questo è troppo, Lisa! Voglio delle prove o sarai punita!"
+
+# game/events/other.rpy:670
+translate italian dictaphone_showdown_with_eric_02d9ccd0:
+
+    # Eric_09 "Так, Лиза, давай успокаивайся! Ань, я сейчас поговорю с ней наедине. Макс видимо совсем страх потерял, своей младшей сестрёнке каких-то сказок понарассказывал."
+    Eric_09 "Ok, Lisa, calmiamoci! Anya, ora le parlerò da solo. Max deve aver perso la paura, raccontando alla sua sorellina delle favole."
+
+# game/events/other.rpy:675
+translate italian dictaphone_showdown_with_eric_8684e2a4:
+
+    # Lisa_13 "Не собираюсь я с тобой наедине больше оставаться! Макс всё записал на диктофон в телефоне. Сейчас послушаем..."
+    Lisa_13 "Non sarò più solo con te! Max ha registrato tutto sul registratore del suo telefono. Sentiamo..."
+
+# game/events/other.rpy:676
+translate italian dictaphone_showdown_with_eric_60fce6d7:
+
+    # {color=[orange]}(все слушают запись...){/color}"
+    new "{color=[orange]}(tutti ascoltano il nastro...){/color}"
+
+# game/events/other.rpy:677
+translate italian dictaphone_showdown_with_eric_1c22e674:
+
+    # Ann_14 "Это же... Неужели это действительно правда?! Эрик, будь добр, объясни это..."
+    Ann_14 "Questo è... È proprio vero?! Eric, saresti così gentile da spiegare questo..."
+
+# game/events/other.rpy:678
+translate italian dictaphone_showdown_with_eric_3b4d9713:
+
+    # Eric_13 "Ань, я не знаю, что и где это записано, но могу тебя уверить - это неправда! Уверен на все сто, что эта запись подделка."
+    Eric_13 "Anya, non so cosa o dove sia registrato, ma posso assicurarti che non è vero! Sono abbastanza sicuro che sia un falso."
+
+# game/events/other.rpy:679
+translate italian dictaphone_showdown_with_eric_8dffdb7a:
+
+    # Max_09 "В таком случае, я за то, чтобы провести экспертизу её подлинности!"
+    Max_09 "In questo caso, sono favorevole a farlo autenticare!"
+
+# game/events/other.rpy:686
+translate italian dictaphone_showdown_with_eric_c1994ec4:
+
+    # Alice_18 "Ах вот так, значит! Ты свои ручищи к нашей маленькой Лизе уже тянешь? Вот... получай, скотина..."
+    Alice_18 "Oh, allora è così! Hai già messo le mani sulla nostra piccola Lisa? Qui... prendi questo, bastardo..."
+
+# game/events/other.rpy:687
+translate italian dictaphone_showdown_with_eric_8aba10b5:
+
+    # Ann_15 "Эрик! У меня просто в голове не укладывается... Как ты мог на такое решиться, мерзавец... Лиза, неужели это действительно правда?"
+    Ann_15 "Eric! Non riesco proprio a capirlo... Come hai potuto fare una cosa del genere, bastardo... Lisa, è davvero vero?"
+
+# game/events/other.rpy:688
+translate italian dictaphone_showdown_with_eric_1d2fc481:
+
+    # Max_07 "Разве это не очевидно, мам? Или ты думаешь, что мы тебя так жестоко разыграть решили?"
+    Max_07 "Non è ovvio, mamma? O pensi che ti stiamo facendo questo scherzo crudele?"
+
+# game/events/other.rpy:689
+translate italian dictaphone_showdown_with_eric_0d5ce9a0:
+
+    # Ann_20 "Эрик, ты совсем что ли больной?! Как ты мог, строя отношения со мной, ещё и планировать развращать моих детей! Живо выметайся из нашего дома, пока я полицию не вызвала!"
+    Ann_20 "Eric, sei fuori di testa?! Come hai potuto costruire una relazione con me e progettare di molestare i miei figli! Esci subito da casa nostra prima che chiami la polizia!"
+
+# game/events/other.rpy:690
+translate italian dictaphone_showdown_with_eric_847ca8ec:
+
+    # Eric_10 "Какую ещё полицию?! Я ничего не делал. Это всё Макс!"
+    Eric_10 "Quale polizia?! Non ho fatto nulla. Era Max!"
+
+# game/events/other.rpy:691
+translate italian dictaphone_showdown_with_eric_8cb800af:
+
+    # Lisa_13 "Не надо всё на Макса сваливать! Он хороший..."
+    Lisa_13 "Non dare la colpa di tutto a Max! È un buon..."
+
+# game/events/other.rpy:701
+translate italian dictaphone_showdown_with_eric_2a7e5ec0:
+
+    # Alice_16 "Совсем недавно я могла от души навалять Максу, но сейчас я в такой ярости, что запросто наваляю такому здоровому извращенцу, как ты!"
+    Alice_16 "Non molto tempo fa avrei potuto prendere a calci la merda di Max, ma ora sono così incazzato che potrei prendere a calci la merda di un sano pervertito come te!"
+
+# game/events/other.rpy:702
+translate italian dictaphone_showdown_with_eric_aece1638:
+
+    # Ann_19 "Эрик, проваливай! Я не хочу тебя больше видеть!"
+    Ann_19 "Eric, vattene! Non voglio più vederti!"
+
+# game/events/other.rpy:703
+translate italian dictaphone_showdown_with_eric_beb7cd04:
+
+    # Eric_09 "Вижу, вы все на взводе, так что я поговорю с вами, когда успокоитесь... А сейчас я, пожалуй, отправлюсь к себе домой."
+    Eric_09 "Vedo che sei tutto agitato, quindi ti parlerò quando ti sarai calmato... Ora penso che tornerò a casa mia."
+
+# game/events/other.rpy:704
+translate italian dictaphone_showdown_with_eric_2ec75356:
+
+    # Ann_20 "Я сказала, {b}ПОШЁЛ ВОН НЕМЕДЛЕННО!!!{/b}"
+    Ann_20 "Ho detto, {b}FUORI ORA!!!{/b}"
+
+# game/events/other.rpy:705
+translate italian dictaphone_showdown_with_eric_33de351b:
+
+    # Alice_17 "Убирайся из нашей жизни, грязное животное!"
+    Alice_17 "Esci dalle nostre vite, animale schifoso!"
+
+# game/events/other.rpy:714
+translate italian dictaphone_showdown_with_eric_f3afe214:
+
+    # Max_00 "Мам, ты только не расстраивайся так из-за него. Всякое бывает..."
+    Max_00 "Mamma, non arrabbiarti così tanto con lui. Cose che succedono..."
+
+# game/events/other.rpy:715
+translate italian dictaphone_showdown_with_eric_346fcb3b:
+
+    # Ann_14 "Всё никак в голове не укладывается, что Эрик тут с вами собирался творить... И что я за мать после этого? Я в шоке..."
+    Ann_14 "Non riesco ancora a capacitarmi di quello che Eric stava per farti... Che tipo di madre sono? Sono scioccato..."
+
+# game/events/other.rpy:716
+translate italian dictaphone_showdown_with_eric_90ee4fd2:
+
+    # Alice_13 "Уж лучше узнать поздно, чем никогда. А у нас всё ещё лучше... Мы узнали, пока ещё не стало поздно. Так что не переживай, мам, мы все думали, что Эрик... уж точно не такой..."
+    Alice_13 "Meglio saperlo tardi che mai. È ancora meglio per noi... L'abbiamo scoperto prima che fosse troppo tardi. Quindi non preoccuparti, mamma, tutti noi pensavamo che Eric... certamente non il tipo di..."
+
+# game/events/other.rpy:717
+translate italian dictaphone_showdown_with_eric_167ce82b:
+
+    # Max_09 "Хорошо, что я своим мужским взглядом сразу понял, что он мутный тип!"
+    Max_09 "Meno male che sapevo con il mio sguardo maschile che era un tipo torbido!"
+
+# game/events/other.rpy:718
+translate italian dictaphone_showdown_with_eric_382d50ea:
+
+    # Lisa_09 "И между прочим, про бумажник Эрик наврал..."
+    Lisa_09 "E a proposito, Eric ha mentito sul portafoglio..."
+
+# game/events/other.rpy:719
+translate italian dictaphone_showdown_with_eric_28be9f6a:
+
+    # Max_08 "Кстати, да! Он это придумал, чтобы вы меня в военный лагерь сослали. А то я стал слишком мешаться."
+    Max_08 "A proposito, sì, è stata sua l'idea di farmi esiliare in un campo militare. Ero troppo in mezzo ai piedi."
+
+# game/events/other.rpy:720
+translate italian dictaphone_showdown_with_eric_35096e7a:
+
+    # Ann_13 "Ты прости меня, сынок, я должна была прислушиваться к тому, что ты говорил. Что же теперь делать?"
+    Ann_13 "Mi dispiace, figliolo, avrei dovuto ascoltare quello che dicevi. Cosa facciamo ora?"
+
+# game/events/other.rpy:721
+translate italian dictaphone_showdown_with_eric_e862c93b:
+
+    # Max_01 "Жить, как жили до Эрика! Ничего сложного..."
+    Max_01 "Vivi come facevamo prima di Eric! Niente di complicato..."
+
+# game/events/other.rpy:722
+translate italian dictaphone_showdown_with_eric_6ff07095:
+
+    # Ann_12 "Нет, Макс, я о другом... Он же мой начальник! Как мне теперь быть? Ох, не знаю..."
+    Ann_12 "No, Max, non è quello che voglio dire... È il mio capo! Cosa dovrei fare adesso? Oh, non lo so..."
+
+# game/events/other.rpy:723
+translate italian dictaphone_showdown_with_eric_87eb1c15:
+
+    # Max_07 "Д-а-а... Это проблемка. Ты главное не слушай его оправдания, а то он умеет убеждать, как ты сама прекрасно убедилась. А теперь давайте, все вместе, поддержим маму!"
+    Max_07 "Y-a-a... Questo è un problema. Basta non ascoltare le sue scuse, perché è un uomo persuasivo, come potete vedere. Ora, forza, tutti quanti, sosteniamo la mamma!"
+
+# game/events/other.rpy:731
+translate italian dictaphone_showdown_with_eric_f96123e9:
+
+    # Ann_13 "Ой, дорогие мои, вы меня так раздавите! Но вы всё равно самые лучшие, кто у меня есть... Простите ещё раз за то, что я привела в наш прекрасный дом этого человека и всё испортила."
+    Ann_13 "Oh, miei cari, mi state schiacciando così tanto! Ma sei ancora il migliore che ho... Mi dispiace ancora per aver portato quest'uomo nella nostra bella casa e aver rovinato tutto."
+
+# game/events/other.rpy:732
+translate italian dictaphone_showdown_with_eric_5a9bcc35:
+
+    # Lisa_01 "Не бери в голову, мам. Не вини себя, всё ведь хорошо. Мы с тобой."
+    Lisa_01 "Non preoccuparti, mamma. Non incolpare te stesso, va tutto bene. Siamo con te."
+
+# game/events/other.rpy:733
+translate italian dictaphone_showdown_with_eric_a2587239:
+
+    # Alice_05 "И если он начнёт устраивать тебе проблемы на работе, то мы все так же дружно, как сейчас, соберёмся и отпинаем его!"
+    Alice_05 "E se comincia a darti problemi al lavoro, ci riuniremo tutti insieme e lo prenderemo a calci in culo, proprio come adesso!"
+
+# game/events/other.rpy:734
+translate italian dictaphone_showdown_with_eric_e1846793:
+
+    # Max_09 "Думаю, Эрик не настолько туп, чтобы строить маме козни. Особенно, если она будет с ним жёстче..."
+    Max_09 "Non credo che Eric sia così stupido da fare scherzi a sua madre. Soprattutto se lei fa la dura con lui..."
+
+# game/events/other.rpy:735
+translate italian dictaphone_showdown_with_eric_d14050f1:
+
+    # Ann_17 "Ох, ребята, я постараюсь... Хотя, мне даже думать о нём сейчас противно, не то что видеть. Надеюсь, я не потеряю работу."
+    Ann_17 "Oh, ragazzi, ci proverò... Anche se mi disgusta anche solo pensare a lui adesso, figuriamoci vederlo. Spero di non perdere il mio lavoro."
+
+# game/events/other.rpy:736
+translate italian dictaphone_showdown_with_eric_72f9e7fc:
+
+    # Max_08 "Может, удастся перевестись в какой-нибудь другой отдел?"
+    Max_08 "Forse potrei ottenere un trasferimento in qualche altro dipartimento?"
+
+# game/events/other.rpy:737
+translate italian dictaphone_showdown_with_eric_032de050:
+
+    # Ann_02 "Надеюсь... Ну всё, мне уже дышать нечем. Пора делами заниматься. Я вас очень люблю..."
+    Ann_02 "Spero... Ecco, non riesco più a respirare. È ora di mettersi al lavoro. Ti amo molto..."
+
+# game/events/other.rpy:738
+translate italian dictaphone_showdown_with_eric_90be8708:
+
+    # Lisa_05 "И мы тебя!"
+    Lisa_05 "Anche tu!"
+
+# game/events/other.rpy:819
+translate italian failed_dinner_b8e2672f:
+
+    # Eric_00 "Итак, настал момент истины. Я дал тебе, Макс, достаточно времени, чтобы ты вернул мне мои деньги при всех. Ну что, ты готов покаяться и исправить свою ошибку?"
+    Eric_00 "Così è arrivato il momento della verità. Ti ho dato abbastanza tempo, Max, per ridarmi i miei soldi davanti a tutti. Allora, sei pronto a pentirti e a correggere il tuo errore?"
+
+# game/events/other.rpy:823
+translate italian failed_dinner_d3811ad8:
+
+    # Max_15 "Да пошёл ты... Нет у меня твоих денег, и ты это прекрасно знаешь!"
+    Max_15 "Fanculo... Non ho i tuoi soldi e tu lo sai!"
+
+# game/events/other.rpy:826
+translate italian failed_dinner_851dce21:
+
+    # Max_15 "Да пошёл ты... Я ни за что не стану возвращать тебе то, чего не брал! И признавать себя вором тоже не стану!"
+    Max_15 "Fanculo... Non c'è modo che io vi restituisca quello che non ho preso! E non voglio nemmeno ammettere di essere un ladro!"
+
+# game/events/other.rpy:828
+translate italian failed_dinner_2c4314ba:
+
+    # Eric_09 "Что ж, значит продолжаем отпираться... Ладно... Как ты видишь, Ань, я сделал всё, что было в моих силах, но это твой сын и тебе принимать решение."
+    Eric_09 "Bene, quindi continuiamo a negare... Bene... Come vedi, Anya, ho fatto tutto il possibile, ma è tuo figlio e la decisione spetta a te."
+
+# game/events/other.rpy:829
+translate italian failed_dinner_e02fe136:
+
+    # Ann_14 "Да-да... Прости, Макс, но ты очень меня разочаровал и... нам не остаётся другого выбора, кроме как отправить тебя в военный лагерь. Надеюсь, там из тебя сделают ответственного человека."
+    Ann_14 "Sì, sì... Mi dispiace, Max, ma mi hai davvero deluso e... non abbiamo altra scelta che mandarti in un campo dell'esercito. Speriamo che facciano di te un uomo responsabile."
+
+# game/events/other.rpy:830
+translate italian failed_dinner_03357d46:
+
+    # Max_13 "Что?! Кому это, \"нам\"? Вам с Эриком? Это же не ты сейчас говоришь, а он! Как ты можешь выгонять из дома родного сына?"
+    Max_13 "Cosa?! Chi è \"noi\"? Tu ed Eric? Non sei tu a parlare ora, è lui! Come si può cacciare di casa il proprio figlio?"
+
+# game/events/other.rpy:831
+translate italian failed_dinner_d29fb4a6:
+
+    # Ann_17 "Прекрати, Макс! Я устала слушать твои оправдания. Ты даже не представляешь, до какой степени мне стыдно, что мой единственный сын - вор!"
+    Ann_17 "Smettila, Max! Sono stanco di sentire le tue scuse. Non hai idea di quanto mi vergogno che il mio unico figlio sia un ladro!"
+
+# game/events/other.rpy:832
+translate italian failed_dinner_c43f223d:
+
+    # Max_14 "Но мам, это всё неправда! Не говори так! Это же Эрик всё подстроил!"
+    Max_14 "Ma mamma, non è vero! Non dire così! Eric ha organizzato tutto questo!"
+
+# game/events/other.rpy:833
+translate italian failed_dinner_5a9be7a6:
+
+    # Eric_13 "Да, стыдно за тебя, Макс, ты разбиваешь сердце собственной матери... Какой позор..."
+    Eric_13 "Sì, vergognati, Max, stai spezzando il cuore della tua stessa madre... Che peccato..."
+
+# game/events/other.rpy:834
+translate italian failed_dinner_c7cc51b7:
+
+    # Max_16 "Заткнись, Эрик! Мам, неужели ты не видишь, что он тобой манипулирует?!"
+    Max_16 "Zitto, Eric! Mamma, non vedi che ti sta manipolando?!"
+
+# game/events/other.rpy:835
+translate italian failed_dinner_81894a93:
+
+    # Ann_18 "Не хочу ничего слышать про это. Всё. Собираешь вещи и едешь. Давно надо было это сделать, но я тебя всё жалела. В результате докатились, воруешь в собственном доме! А что будет дальше?"
+    Ann_18 "Non voglio sentirne parlare. Questo è tutto. Fai le valigie e te ne vai. Avrei dovuto farlo molto tempo fa, ma ho continuato a sentirmi dispiaciuto per te. E ora stai rubando a casa tua! Cosa succederà dopo?"
+
+# game/events/other.rpy:836
+translate italian failed_dinner_ffb1b7ea:
+
+    # Max_11 "Но мам..."
+    Max_11 "Ma mamma..."
+
+# game/events/other.rpy:837
+translate italian failed_dinner_b3c54058:
+
+    # Ann_16 "Всё, Макс, разговор окончен!"
+    Ann_16 "Basta così, Max, questa conversazione è finita!"
+
+# game/events/other.rpy:839
+translate italian failed_dinner_4d7ce5c3:
+
+    # Eric_01 "Не переживай, Макс, я позабочусь обо всех, пока ты будешь тянуть лямку в армии..." nointeract
+    Eric_01 "Non preoccuparti, Max, mi prenderò cura di tutti mentre tu ti trascinerai nell'esercito..." nointeract
+
+# game/events/other.rpy:846
+translate italian failed_dinner_fe32100d:
+
+    # Max_14 "{m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
+    Max_14 "{m}La mia storia è finita così. Non mi credevano e non volevano più vedermi. Certo, se non fosse stato per Eric, tutto sarebbe andato bene, ma quel bastardo... Ora non c'è niente che gli impedisca di fare quello che vuole fare alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}" nointeract
+
+# game/events/other.rpy:853
+translate italian failed_dinner_79acb07c:
+
+    # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
+    Max_14 "{m}La mia storia è finita così. Tutta questa ingiustizia mi ha fatto diventare un po' matto e ho quasi imbrattato Eric sul balcone... Quasi... Ora non c'è niente che gli impedisca di fare quello che vuole alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}" nointeract
+
+# game/events/other.rpy:870
+translate italian left_cream_68a6f9b5:
+
+    # Max_10 "{m}Ну вот, крем закончился. Надо ещё купить.{/m}"
+    Max_10 "{m}Beh, la crema è finita. Abbiamo ancora bisogno di comprare.{/m}"
+
+# game/events/other.rpy:876
+translate italian left_cream_61f00467:
+
+    # Max_08 "{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
+    Max_08 "{m}C'è poca crema rimasta, la prossima volta potrebbe non essere sufficiente, è meglio acquistare in anticipo.{/m}"
+
 translate italian strings:
 
+    # game/events/other.rpy:10
     old "Удачи"
     new "Buona Fortuna"
 
@@ -889,854 +1708,43 @@ translate italian strings:
     old "И почти ничего не видно..."
     new "E quasi nulla è visibile..."
 
-# game/events/other.rpy:309
-translate italian Kira_arrival_end_yard_3af78784:
-
-    # Max_11 "{m}Ну где они все?! Если я начну завтракать без них, то потом все только и будут говорить о моей невоспитанности. Давайте уже быстрее!{/m}"
-    Max_11 "{m}Dove sono tutti?! Se inizio a fare colazione con loro, allora tutti parleranno della mia maleducazione. Dai, sbrigati!{/m}"
-
-# game/events/other.rpy:407
-translate italian follow_cameras_eric_4a1b4511:
-
-    # Max_09 "{m}Неутомимый Эрик! Вали уже обратно к маме в комнату и засыпай. А то у меня тоже есть дела у Алисы в комнате...{/m}" nointeract
-    Max_09 "{m}Instancabile Eric! Torna nella stanza di tua madre e vai a dormire. Ho delle cose da fare anche nella stanza di Alice...{/m}" nointeract
-
-# game/events/other.rpy:427
-translate italian follow_cameras_eric_2da5afe7:
-
-    # Max_01 "{m}Отлично! Пора...{/m}" nointeract
-    Max_01 "{m}Va bene! È il momento...{/m}" nointeract
-
-# game/events/other.rpy:439
-translate italian frame_eric_60e127e3:
-
-    # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m}" nointeract
-    Max_07 "{m}Oh, sì! La mia sorella maggiore è fantastica... Le curve del suo corpo completamente nudo sono qualcosa che voglio guardare per sempre!{/m}" nointeract
-
-# game/events/other.rpy:441
-translate italian frame_eric_58e230bc:
-
-    # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m}" nointeract
-    Max_04 "{m}Wow! Sono fortunato che Alice dorma con le spalle alla finestra... E non ha idea che sta mostrando il suo culo nudo per me in tutta la sua gloria.{/m}" nointeract
-
-# game/events/other.rpy:443
-translate italian frame_eric_f84d87b6:
-
-    # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}" nointeract
-    Max_01 "{m}È fantastico! Sorella che dorme con la schiena inarcata, facendo spuntare i suoi seni nudi come due montagnole... Una vista seducente...{/m}" nointeract
-
-# game/events/other.rpy:453
-translate italian frame_eric_c7dc4684:
-
-    # Max_07 "{m}Уж прости, Алиса, ничего личного. Мне позарез нужно показать всем вам, а особенно маме, что Эрик собирается тут с вами всеми делать...{/m}" nointeract
-    Max_07 "{m}Scusa, Alice, non è niente di personale. Ho davvero bisogno di mostrare a tutti voi, e specialmente a mia madre, quello che Eric sta per fare con tutti voi...{/m}" nointeract
-
-# game/events/other.rpy:460
-translate italian frame_eric_40044bf4:
-
-    # Max_20 "{m}Только бы Алиса не проснулась! Иначе я отправлюсь не в военный лагерь, а сразу на кладбище... Но сейчас лучше думать не об этом, а о том, как сладко я бы проникал своим членом во все её самые интересные дырочки... Д-а-а... Это было бы очень приятно...{/m}" nointeract
-    Max_20 "{m}Non lasciare che Alice si svegli! Altrimenti non andrei al campo militare, ma direttamente al cimitero... Ma in questo momento preferisco non pensare a questo, ma a quanto dolcemente penetrerei tutti i suoi buchi più interessanti con il mio cazzo... Già... Sarebbe molto bello...{/m}" nointeract
-
-# game/events/other.rpy:467
-translate italian frame_eric_f720febd:
-
-    # Max_08 "{m}Фух! Вроде, не проснулась... Надеюсь, этого хватит, чтобы утром Алиса забила тревогу. Наверняка, она сразу подумает, что это я её чем-то испачкал. И вот тогда-то я и покажу снимки с Эриком, а уже всю картину воедино она сложит сама. Если я, конечно, смогу уйти незамеченным в свою комнату...{/m}" nointeract
-    Max_08 "{m}Non sembrava svegliarsi... Speriamo che questo sia sufficiente per far suonare la sveglia ad Alice la mattina. Sono sicuro che penserà che sono stato io a sporcarla. Ed è allora che le mostrerò le foto con Eric, e lei stessa metterà insieme l'intero quadro. Se riesco a scappare inosservato nella mia stanza...{/m}" nointeract
-
-# game/events/other.rpy:485
-translate italian showdown_with_eric_c59ea561:
-
-    # Alice_17 "Макс! Ну-ка быстро просыпайся, а не то я тебе всыплю! Признавайся, чем ты меня ночью измазал?"
-    Alice_17 "Max! Svegliati in fretta o ti prendo a calci in culo! Dimmi, cosa mi hai fatto ieri sera?"
-
-# game/events/other.rpy:486
-translate italian showdown_with_eric_bd921574:
-
-    # Max_07 "Измазал?! А почему сразу я?!"
-    Max_07 "Ti stai inzuppando?! Perché io?!"
-
-# game/events/other.rpy:487
-translate italian showdown_with_eric_38d64641:
-
-    # Alice_16 "А кто ещё это может быть?! Здесь вообще без вариантов и гадалка не нужна! Так что говори, чем измазал и пошли к маме..."
-    Alice_16 "Chi altro potrebbe essere?! Non hai bisogno di un indovino! Allora dimmi cosa hai spalmato e andiamo da tua madre..."
-
-# game/events/other.rpy:488
-translate italian showdown_with_eric_4d7a3f63:
-
-    # Lisa_10 "Алиса, хватит уже кричать! Я же сплю..."
-    Lisa_10 "Alice, smettila di gridare! Sto dormendo..."
-
-# game/events/other.rpy:489
-translate italian showdown_with_eric_5508b396:
-
-    # Max_00 "Да, Алиса, ты как-то слишком возбуждена. Тебя может неслабо так шокировать то, что я тебе скажу. И даже покажу."
-    Max_00 "Sì, Alice, sei un po' troppo eccitato. Quello che sto per dirvi potrebbe essere un grande shock per voi. Potrei anche mostrarvelo."
-
-# game/events/other.rpy:490
-translate italian showdown_with_eric_43ec76cb:
-
-    # Alice_06 "Так я и знала, что это гадость какая-то! Ну так что это?"
-    Alice_06 "Sapevo che era disgustoso! Allora, che cos'è?"
-
-# game/events/other.rpy:491
-translate italian showdown_with_eric_06f743d3:
-
-    # Max_01 "Это Эрик с тобой кое-чем... поделился..."
-    Max_01 "È stato Eric a condividere qualcosa con te... condiviso con voi..."
-
-# game/events/other.rpy:499
-translate italian showdown_with_eric_fc0ce1b6:
-
-    # Alice_12 "Макс, хватит уже... И что мне этот снимок должен сказать? Хотя... не поняла... Он дрочит что ли?! А где это он?"
-    Alice_12 "Max, basta così... Cosa dovrebbe dirmi questa foto? Anche se... Non capisco... Si sta facendo una sega?! Dov'è?"
-
-# game/events/other.rpy:500
-translate italian showdown_with_eric_c64627b9:
-
-    # Max_07 "А ты присмотрись и отгадаешь где."
-    Max_07 "Guardate bene e indovinate dove."
-
-# game/events/other.rpy:501
-translate italian showdown_with_eric_e376d7c6:
-
-    # Alice_14 "Ну... Это получается... Эй! Это он что, у моего окна стоит?"
-    Alice_14 "Bene... Sarebbe... Ehi, è lui che sta alla mia finestra?"
-
-# game/events/other.rpy:502
-translate italian showdown_with_eric_d5628f21:
-
-    # Max_04 "Не только..."
-    Max_04 "Non solo..."
-
-# game/events/other.rpy:510
-translate italian showdown_with_eric_dea06daf:
-
-    # Lisa_13 "Вы что тут с утра пораньше разглядываете? Ой! Эрик! Прямо у тебя в комнате, Алиса..."
-    Lisa_13 "Cosa state guardando stamattina? Ahi, Eric! Proprio nella tua stanza, Alice..."
-
-# game/events/other.rpy:511
-translate italian showdown_with_eric_3271758d:
-
-    # Alice_15 "Он что, правда в моей комнате и... дрочит... на меня?!"
-    Alice_15 "È davvero nella mia stanza e... masturbandosi... su di me?!"
-
-# game/events/other.rpy:512
-translate italian showdown_with_eric_ff78a8b8:
-
-    # Max_02 "Ну да. Видишь, не такой уж я и извращенец, правда?"
-    Max_02 "Sì. Vedi, non sono un pervertito, vero?"
-
-# game/events/other.rpy:513
-translate italian showdown_with_eric_db6785a5:
-
-    # Alice_06 "То есть, то... что у меня было на ноге, это..."
-    Alice_06 "Voglio dire, quello... quello che avevo sulla gamba era..."
-
-# game/events/other.rpy:514
-translate italian showdown_with_eric_80a21b22:
-
-    # Max_10 "Да, Алиса. Оно самое."
-    Max_10 "Sì, Alice. Questo è quello."
-
-# game/events/other.rpy:521
-translate italian showdown_with_eric_9082d505:
-
-    # Alice_17 "Вот же подонок озабоченный! Подожди... А ты какого хрена это всё фотографировал?!"
-    Alice_17 "Che bastardo arrapato! Aspetta un attimo... Perché cazzo hai fatto tutte queste foto?!"
-
-# game/events/other.rpy:522
-translate italian showdown_with_eric_e40e9eac:
-
-    # Max_09 "Видишь ли, Эрик мне много раз угрожал проблемами и ссылкой в военный лагерь, если я буду ему мешать в подобных... делах. Вот и пришлось подстраховаться."
-    Max_09 "Vedete, Eric mi ha minacciato molte volte di guai e di esilio in un campo militare se interferisco con lui in tale... cose del genere. Quindi ho dovuto prendere delle precauzioni."
-
-# game/events/other.rpy:523
-translate italian showdown_with_eric_3d070281:
-
-    # Alice_16 "И часто этот онанист чёртов ко мне в комнату ходит по ночам?"
-    Alice_16 "Quanto spesso quel segaiolo viene nella mia stanza di notte?"
-
-# game/events/other.rpy:524
-translate italian showdown_with_eric_a26a29c6:
-
-    # Max_07 "Я бы сказал, что с завидным постоянством!"
-    Max_07 "Direi con una coerenza invidiabile!"
-
-# game/events/other.rpy:525
-translate italian showdown_with_eric_3d7646d5:
-
-    # Alice_12 "Ублюдок какой! А ты чего молчал всё это время?!"
-    Alice_12 "Che bastardo! Perché non hai detto niente per tutto questo tempo?!"
-
-# game/events/other.rpy:526
-translate italian showdown_with_eric_60498e82:
-
-    # Max_15 "Так ведь, если говорит Эрик, то это святая истина, а если я, то это чепуха какая-то."
-    Max_15 "Beh, se lo dice Eric, è la santa verità, ma se lo dico io, è una sciocchezza."
-
-# game/events/other.rpy:528
-translate italian showdown_with_eric_6d1dd214:
-
-    # Alice_17 "Вот я Эрику с мамой сейчас устрою! Макс, пошли за мной!" nointeract
-    Alice_17 "Darò del filo da torcere a Erica e a sua madre! Max, seguimi!" nointeract
-
-# game/events/other.rpy:537
-translate italian showdown_with_eric_40a33569:
-
-    # Ann_13 "Алиса! Ты зачем так врываешься?! Стучаться надо..."
-    Ann_13 "Alice! Perché irrompi in questo modo?! Dovresti bussare..."
-
-# game/events/other.rpy:538
-translate italian showdown_with_eric_db864631:
-
-    # Alice_16 "Не волнуйся, мам, я обязательно сейчас по кое-кому постучу! Знаешь, что твой мужчина вытворяет по ночам?"
-    Alice_16 "Non preoccuparti, mamma, non mancherò di bussare alla porta di qualcuno! Sai cosa fa il tuo uomo di notte?"
-
-# game/events/other.rpy:539
-translate italian showdown_with_eric_d1c15c50:
-
-    # Ann_17 "Это что за тон, Алиса! Конечно, знаю. Ой, вы все здесь! Что происходит?"
-    Ann_17 "Che razza di tono è questo, Alice! Certo che sì. Oh, siete tutti qui! Cosa sta succedendo?"
-
-# game/events/other.rpy:540
-translate italian showdown_with_eric_86aba788:
-
-    # Max_07 "У Алисы есть претензии к Эрику..."
-    Max_07 "Alice ha un problema con Eric..."
-
-# game/events/other.rpy:548
-translate italian showdown_with_eric_b57755ec:
-
-    # Alice_17 "И ещё какие! Эрик дрочит на меня по ночам! Это как вообще называется? Я думала у нас Макс извращенец, но ты, Эрик..."
-    Alice_17 "E che mucchio! Eric si masturba con me di notte! Come si chiama questo? Pensavo che Max fosse un pervertito, ma tu, Eric..."
-
-# game/events/other.rpy:549
-translate italian showdown_with_eric_f1dc38c8:
-
-    # Ann_16 "Ты что такое вообще несёшь, Алиса?! Обвинять в таком Эрика, это..."
-    Ann_16 "Di che diavolo stai parlando, Alice? Accusare Eric di una cosa del genere è..."
-
-# game/events/other.rpy:550
-translate italian showdown_with_eric_9f3d0dd5:
-
-    # Alice_18 "Мам! У Макса есть фотографии! А это животное лохматое ещё и обкончало меня этой ночью..."
-    Alice_18 "Mamma! Max ha delle foto! E quell'animale arruffato mi ha anche sborrato addosso ieri sera..."
-
-# game/events/other.rpy:551
-translate italian showdown_with_eric_368c6e02:
-
-    # Eric_09 "Так, Алиса, давай успокаивайся!"
-    Eric_09 "Va bene, Alice, calmiamoci!"
-
-# game/events/other.rpy:561
-translate italian showdown_with_eric_9e66f9ab:
-
-    # Alice_17 "Ну-ка заткнулся! Меня лучше не злить! Сейчас Макс покажет маме снимки и мы послушаем, как ты это объяснишь..."
-    Alice_17 "Zitto! È meglio non farmi arrabbiare! Ora Max mostrerà le foto alla mamma e la sentiremo spiegare..."
-
-# game/events/other.rpy:562
-translate italian showdown_with_eric_4f9368bb:
-
-    # Ann_14 "И что вы хотите мне тут показать? Я не понимаю... Как такое вообще может быть?! Эрик, будь добр, объясни это..."
-    Ann_14 "E cosa vuoi mostrarmi qui? Non capisco... Com'è possibile? Eric, saresti così gentile da spiegare questo..."
-
-# game/events/other.rpy:563
-translate italian showdown_with_eric_37815d99:
-
-    # Eric_13 "Ань, не знаю, что там за снимки, но могу уверить тебя - это фотошоп!"
-    Eric_13 "Anya, non so cosa siano le foto, ma posso assicurarti che è photoshoppato!"
-
-# game/events/other.rpy:564
-translate italian showdown_with_eric_517352a4:
-
-    # Max_09 "В таком случае, я за то, чтобы провести экспертизу их подлинности!"
-    Max_09 "In questo caso, sono favorevole a far esaminare la loro autenticità!"
-
-# game/events/other.rpy:565
-translate italian showdown_with_eric_54354826:
-
-    # Ann_15 "Эрик! У меня в голове не укладывается то, что я вижу... Господи! Ты же дрочишь на мою дочь! Как ты мог такое делать, мерзавец... Лиза, а с тобой всё в порядке?! Эрик ничего с тобой не делал?"
-    Ann_15 "Eric! Non riesco a capire cosa sto vedendo... Gesù Cristo! Stai facendo una sega a mia figlia! Come hai potuto farlo, bastardo... Lisa, stai bene? Eric non ti ha fatto niente?"
-
-# game/events/other.rpy:566
-translate italian showdown_with_eric_6266c673:
-
-    # Lisa_10 "Нет... Правда, он предлагал мне закрепить на практике те уроки сексуального воспитания, что вы для меня проводили."
-    Lisa_10 "No... È vero, si è offerto di farmi fare pratica con le lezioni di educazione sessuale che mi stavi dando."
-
-# game/events/other.rpy:575
-translate italian showdown_with_eric_ad4584a4:
-
-    # Alice_18 "Ах так! Значит, ты свои ручищи к нашей маленькой Лизе уже тянешь? Вот... получай, скотина..."
-    Alice_18 "Oh, sì! Allora, hai già messo le mani sulla nostra piccola Lisa? Qui... prendi questo, bastardo..."
-
-# game/events/other.rpy:576
-translate italian showdown_with_eric_8277ef23:
-
-    # Ann_20 "Эрик, ты совсем что ли больной?! Как ты мог такое делать с моими девочками! Живо выметайся из нашего дома, пока я полицию не вызвала!"
-    Ann_20 "Eric, sei fuori di testa?! Come hai potuto fare questo alle mie ragazze! Esci subito da casa nostra prima che chiami la polizia!"
-
-# game/events/other.rpy:579
-translate italian showdown_with_eric_847ca8ec:
-
-    # Eric_10 "Какую ещё полицию?! Я ничего не делал. Это всё Макс!"
-    Eric_10 "Quale polizia?! Non ho fatto nulla. Era Max!"
-
-# game/events/other.rpy:580
-translate italian showdown_with_eric_8cb800af:
-
-    # Lisa_13 "Не надо всё на Макса сваливать! Он хороший..."
-    Lisa_13 "Non dare la colpa di tutto a Max! È un buon..."
-
-# game/events/other.rpy:581
-translate italian showdown_with_eric_5dcf637a:
-
-    # Alice_16 "Я раньше от души могла навалять Максу, но сейчас я в такой ярости, что запросто наваляю такому здоровому извращенцу, как ты!"
-    Alice_16 "Una volta ero in grado di prendere a calci Max, ma ora sono così incazzato che potrei prendere a calci un grosso pervertito come te!"
-
-# game/events/other.rpy:590
-translate italian showdown_with_eric_aece1638:
-
-    # Ann_19 "Эрик, проваливай! Я не хочу тебя больше видеть!"
-    Ann_19 "Eric, vattene! Non voglio più vederti!"
-
-# game/events/other.rpy:591
-translate italian showdown_with_eric_4a405f54:
-
-    # Eric_09 "Вижу, вы все на взводе, так что я поговорю с вами, когда успокоитесь... А сейчас я оденусь и отправлюсь на работу."
-    Eric_09 "Vedo che sei tutto agitato, quindi ti parlerò quando ti sarai calmato... Ora mi vesto e vado a lavorare."
-
-# game/events/other.rpy:592
-translate italian showdown_with_eric_2ec75356:
-
-    # Ann_20 "Я сказала, {b}ПОШЁЛ ВОН НЕМЕДЛЕННО!!!{/b}"
-    Ann_20 "Ho detto, {b}FUORI ORA!!!{/b}"
-
-# game/events/other.rpy:593
-translate italian showdown_with_eric_cf71befd:
-
-    # Alice_17 "И полотенце можешь оставить себе, грязное животное! Убирайся!"
-    Alice_17 "E puoi tenere l'asciugamano, sporco animale! Vattene!"
-
-# game/events/other.rpy:603
-translate italian showdown_with_eric_f3afe214:
-
-    # Max_00 "Мам, ты только не расстраивайся так из-за него. Всякое бывает..."
-    Max_00 "Mamma, non arrabbiarti così tanto con lui. Cose che succedono..."
-
-# game/events/other.rpy:604
-translate italian showdown_with_eric_b377cce2:
-
-    # Ann_14 "Всё никак в голове не укладывается, что Эрик тут с вами творил... И что я за мать после этого? Я в шоке..."
-    Ann_14 "Mamma, non arrabbiarti così tanto con lui. Cose che succedono..."
-
-# game/events/other.rpy:605
-translate italian showdown_with_eric_90ee4fd2:
-
-    # Alice_13 "Уж лучше узнать поздно, чем никогда. А у нас всё ещё лучше... Мы узнали, пока ещё не стало поздно. Так что не переживай, мам, мы все думали, что Эрик... уж точно не такой..."
-    Alice_13 "Meglio saperlo tardi che mai. È ancora meglio per noi... L'abbiamo scoperto prima che fosse troppo tardi. Quindi non preoccuparti, mamma, tutti noi pensavamo che Eric... certamente non il tipo di..."
-
-# game/events/other.rpy:606
-translate italian showdown_with_eric_167ce82b:
-
-    # Max_09 "Хорошо, что я своим мужским взглядом сразу понял, что он мутный тип!"
-    Max_09 "Meno male che sapevo con il mio sguardo maschile che era un tipo torbido!"
-
-# game/events/other.rpy:607
-translate italian showdown_with_eric_ca2a104b:
-
-    # Lisa_09 "Так это получается, что? Про бумажник Эрик наврал?"
-    Lisa_09 "Tutto qui, allora? Eric ha mentito sul portafoglio?"
-
-# game/events/other.rpy:608
-translate italian showdown_with_eric_b84c6e58:
-
-    # Max_08 "Конечно! Он это придумал, чтобы вы меня в военный лагерь сослали. А то я стал слишком мешаться."
-    Max_08 "Certo! L'ha inventato per farmi mandare in un campo militare. Ero troppo in mezzo ai piedi."
-
-# game/events/other.rpy:609
-translate italian showdown_with_eric_35096e7a:
-
-    # Ann_13 "Ты прости меня, сынок, я должна была прислушиваться к тому, что ты говорил. Что же теперь делать?"
-    Ann_13 "Mi dispiace, figliolo, avrei dovuto ascoltare quello che dicevi. Cosa facciamo ora?"
-
-# game/events/other.rpy:610
-translate italian showdown_with_eric_e862c93b:
-
-    # Max_01 "Жить, как жили до Эрика! Ничего сложного..."
-    Max_01 "Vivi come facevamo prima di Eric! Niente di complicato..."
-
-# game/events/other.rpy:611
-translate italian showdown_with_eric_6ff07095:
-
-    # Ann_12 "Нет, Макс, я о другом... Он же мой начальник! Как мне теперь быть? Ох, не знаю..."
-    Ann_12 "No, Max, non è quello che voglio dire... È il mio capo! Cosa dovrei fare adesso? Oh, non lo so..."
-
-# game/events/other.rpy:612
-translate italian showdown_with_eric_2621818a:
-
-    # Max_07 "Д-а-а... Это проблемка. Ты главное не слушай его оправдания, а то он умеет убеждать, как ты сама убедилась прекрасно. А теперь давайте, все вместе, поддержим маму!"
-    Max_07 "Y-a-a... Questo è un problema. Non ascoltate le sue scuse, perché è un uomo molto persuasivo, come avete visto voi stessi. Ora, forza, tutti quanti, sosteniamo la mamma!"
-
-# game/events/other.rpy:618
-translate italian showdown_with_eric_f96123e9:
-
-    # Ann_13 "Ой, дорогие мои, вы меня так раздавите! Но вы всё равно самые лучшие, кто у меня есть... Простите ещё раз за то, что я привела в наш прекрасный дом этого человека и всё испортила."
-    Ann_13 "Oh, miei cari, mi state schiacciando così tanto! Ma sei ancora il migliore che ho... Mi dispiace ancora per aver portato quest'uomo nella nostra bella casa e aver rovinato tutto."
-
-# game/events/other.rpy:619
-translate italian showdown_with_eric_5a9bcc35:
-
-    # Lisa_01 "Не бери в голову, мам. Не вини себя, всё ведь хорошо. Мы с тобой."
-    Lisa_01 "Non preoccuparti, mamma. Non incolpare te stesso, va tutto bene. Siamo con te."
-
-# game/events/other.rpy:620
-translate italian showdown_with_eric_a2587239:
-
-    # Alice_05 "И если он начнёт устраивать тебе проблемы на работе, то мы все так же дружно, как сейчас, соберёмся и отпинаем его!"
-    Alice_05 "E se comincia a darti problemi al lavoro, ci riuniremo tutti insieme e lo prenderemo a calci in culo, proprio come adesso!"
-
-# game/events/other.rpy:621
-translate italian showdown_with_eric_e1846793:
-
-    # Max_09 "Думаю, Эрик не настолько туп, чтобы строить маме козни. Особенно, если она будет с ним жёстче..."
-    Max_09 "Non credo che Eric sia così stupido da fare scherzi a sua madre. Soprattutto se lei fa la dura con lui..."
-
-# game/events/other.rpy:622
-translate italian showdown_with_eric_d14050f1:
-
-    # Ann_17 "Ох, ребята, я постараюсь... Хотя, мне даже думать о нём сейчас противно, не то что видеть. Надеюсь, я не потеряю работу."
-    Ann_17 "Oh, ragazzi, ci proverò... Anche se mi disgusta anche solo pensare a lui adesso, figuriamoci vederlo. Spero di non perdere il mio lavoro."
-
-# game/events/other.rpy:623
-translate italian showdown_with_eric_72f9e7fc:
-
-    # Max_08 "Может, удастся перевестись в какой-нибудь другой отдел?"
-    Max_08 "Forse potrei ottenere un trasferimento in qualche altro dipartimento?"
-
-# game/events/other.rpy:624
-translate italian showdown_with_eric_032de050:
-
-    # Ann_02 "Надеюсь... Ну всё, мне уже дышать нечем. Пора делами заниматься. Я вас очень люблю..."
-    Ann_02 "Spero... Ecco, non riesco più a respirare. È ora di mettersi al lavoro. Ti amo molto..."
-
-# game/events/other.rpy:625
-translate italian showdown_with_eric_90be8708:
-
-    # Lisa_05 "И мы тебя!"
-    Lisa_05 "Anche tu!"
-
-# game/events/other.rpy:648
-translate italian dictaphone_showdown_with_eric_ff0dd3e4:
-
-    # Ann_13 "Макс! Лиза! Алиса! Ну зачем так неожиданно влетать?! Так и заикой стать не долго..."
-    Ann_13 "Max! Lisa! Alice! Perché devi arrivare così all'improvviso?! Balbetterai..."
-
-# game/events/other.rpy:649
-translate italian dictaphone_showdown_with_eric_6110e6be:
-
-    # Lisa_13 "Извини, мама... Но сейчас кто-то действительно станет заикой! Ты хоть знаешь, какие планы строит Эрик?"
-    Lisa_13 "Mi dispiace, mamma... Ma ora qualcuno sta davvero per balbettare! Hai idea di quali siano i piani di Eric?"
-
-# game/events/other.rpy:650
-translate italian dictaphone_showdown_with_eric_c78bbf14:
-
-    # Ann_15 "Это что за тон, Лиза?! И что это за вопрос? Что происходит?!"
-    Ann_15 "Che razza di tono è questo, Lisa?! E che razza di domanda è questa? Cosa sta succedendo?!"
-
-# game/events/other.rpy:651
-translate italian dictaphone_showdown_with_eric_16776269:
-
-    # Alice_13 "Мам, я понятия не имею... Это всё они."
-    Alice_13 "Mamma, non ne ho idea... Sono tutti loro."
-
-# game/events/other.rpy:652
-translate italian dictaphone_showdown_with_eric_4f2b686c:
-
-    # Max_09 "Лиза тут кое-что узнала... И теперь у неё есть претензии к Эрику..."
-    Max_09 "Lisa ha scoperto qualcosa... E ora ha un problema con Eric..."
-
-# game/events/other.rpy:662
-translate italian dictaphone_showdown_with_eric_b894aaee:
-
-    # Lisa_12 "И ещё какие! Мам, помнишь наши совместные уроки в твоей комнате? Так вот Эрик решил расширить программу моего сексуального образования до практических занятий с ним наедине!"
-    Lisa_12 "E quanti sono! Mamma, ricordi le nostre lezioni insieme nella tua stanza? Bene, Eric ha deciso di espandere il mio programma di educazione sessuale a lezioni private pratiche con lui!"
-
-# game/events/other.rpy:663
-translate italian dictaphone_showdown_with_eric_cf4823cd:
-
-    # Ann_17 "Я ни о чём таком не знаю. В каком смысле, практических?"
-    Ann_17 "Non so niente di tutto questo. Cosa intendi per pratico?"
-
-# game/events/other.rpy:664
-translate italian dictaphone_showdown_with_eric_6a9d0065:
-
-    # Lisa_10 "В таком, чтобы я повторяла всё то, что делала ты. Это как вообще называется? Я думала у нас Макс извращенец, но ты, Эрик..."
-    Lisa_10 "Il tipo in cui ripeto tutto quello che hai fatto. Come si chiama questo? Pensavo che Max fosse un pervertito, ma tu, Eric..."
-
-# game/events/other.rpy:665
-translate italian dictaphone_showdown_with_eric_cefb4f10:
-
-    # Ann_16 "Ты что такое вообще несёшь, Лиза?! Обвинять в таком Эрика, это... Я уверена, ты просто что-то не так поняла. Верно, Эрик?"
-    Ann_16 "Di che diavolo stai parlando, Lisa? Accusare Eric di una cosa del genere è... Sono sicuro che hai solo frainteso qualcosa. Giusto, Eric?"
-
-# game/events/other.rpy:666
-translate italian dictaphone_showdown_with_eric_26987fb2:
-
-    # Eric_13 "Однозначно!"
-    Eric_13 "Decisamente!"
-
-# game/events/other.rpy:667
-translate italian dictaphone_showdown_with_eric_4d03abad:
-
-    # Lisa_09 "Мам, с каких пор ты мне не веришь? Макс специально ходил разговаривать с Эриком и Эрик таких мерзостей ему наговорил про всех... Особенно, про меня!"
-    Lisa_09 "Mamma, da quando non mi credi? Max è andato a parlare con Erik di proposito ed Erik gli ha detto cose così brutte su tutti... Soprattutto su di me!"
-
-# game/events/other.rpy:668
-translate italian dictaphone_showdown_with_eric_1f1b1dd8:
-
-    # Ann_19 "Что?! Это уже явный перебор, Лиза! Мне или нужны доказательства, или тебя придётся хорошенько наказать!"
-    Ann_19 "Cosa? Questo è troppo, Lisa! Voglio delle prove o sarai punita!"
-
-# game/events/other.rpy:669
-translate italian dictaphone_showdown_with_eric_02d9ccd0:
-
-    # Eric_09 "Так, Лиза, давай успокаивайся! Ань, я сейчас поговорю с ней наедине. Макс видимо совсем страх потерял, своей младшей сестрёнке каких-то сказок понарассказывал."
-    Eric_09 "Ok, Lisa, calmiamoci! Anya, ora le parlerò da solo. Max deve aver perso la paura, raccontando alla sua sorellina delle favole."
-
-# game/events/other.rpy:674
-translate italian dictaphone_showdown_with_eric_8684e2a4:
-
-    # Lisa_13 "Не собираюсь я с тобой наедине больше оставаться! Макс всё записал на диктофон в телефоне. Сейчас послушаем..."
-    Lisa_13 "Non sarò più solo con te! Max ha registrato tutto sul registratore del suo telefono. Sentiamo..."
-
-# game/events/other.rpy:676
-translate italian dictaphone_showdown_with_eric_1c22e674:
-
-    # Ann_14 "Это же... Неужели это действительно правда?! Эрик, будь добр, объясни это..."
-    Ann_14 "Questo è... È proprio vero?! Eric, saresti così gentile da spiegare questo..."
-
-# game/events/other.rpy:677
-translate italian dictaphone_showdown_with_eric_3b4d9713:
-
-    # Eric_13 "Ань, я не знаю, что и где это записано, но могу тебя уверить - это неправда! Уверен на все сто, что эта запись подделка."
-    Eric_13 "Anya, non so cosa o dove sia registrato, ma posso assicurarti che non è vero! Sono abbastanza sicuro che sia un falso."
-
-# game/events/other.rpy:678
-translate italian dictaphone_showdown_with_eric_8dffdb7a:
-
-    # Max_09 "В таком случае, я за то, чтобы провести экспертизу её подлинности!"
-    Max_09 "In questo caso, sono favorevole a farlo autenticare!"
-
-# game/events/other.rpy:685
-translate italian dictaphone_showdown_with_eric_c1994ec4:
-
-    # Alice_18 "Ах вот так, значит! Ты свои ручищи к нашей маленькой Лизе уже тянешь? Вот... получай, скотина..."
-    Alice_18 "Oh, allora è così! Hai già messo le mani sulla nostra piccola Lisa? Qui... prendi questo, bastardo..."
-
-# game/events/other.rpy:686
-translate italian dictaphone_showdown_with_eric_8aba10b5:
-
-    # Ann_15 "Эрик! У меня просто в голове не укладывается... Как ты мог на такое решиться, мерзавец... Лиза, неужели это действительно правда?"
-    Ann_15 "Eric! Non riesco proprio a capirlo... Come hai potuto fare una cosa del genere, bastardo... Lisa, è davvero vero?"
-
-# game/events/other.rpy:687
-translate italian dictaphone_showdown_with_eric_1d2fc481:
-
-    # Max_07 "Разве это не очевидно, мам? Или ты думаешь, что мы тебя так жестоко разыграть решили?"
-    Max_07 "Non è ovvio, mamma? O pensi che ti stiamo facendo questo scherzo crudele?"
-
-# game/events/other.rpy:688
-translate italian dictaphone_showdown_with_eric_0d5ce9a0:
-
-    # Ann_20 "Эрик, ты совсем что ли больной?! Как ты мог, строя отношения со мной, ещё и планировать развращать моих детей! Живо выметайся из нашего дома, пока я полицию не вызвала!"
-    Ann_20 "Eric, sei fuori di testa?! Come hai potuto costruire una relazione con me e progettare di molestare i miei figli! Esci subito da casa nostra prima che chiami la polizia!"
-
-# game/events/other.rpy:689
-translate italian dictaphone_showdown_with_eric_847ca8ec:
-
-    # Eric_10 "Какую ещё полицию?! Я ничего не делал. Это всё Макс!"
-    Eric_10 "Quale polizia?! Non ho fatto nulla. Era Max!"
-
-# game/events/other.rpy:690
-translate italian dictaphone_showdown_with_eric_8cb800af:
-
-    # Lisa_13 "Не надо всё на Макса сваливать! Он хороший..."
-    Lisa_13 "Non dare la colpa di tutto a Max! È un buon..."
-
-# game/events/other.rpy:700
-translate italian dictaphone_showdown_with_eric_2a7e5ec0:
-
-    # Alice_16 "Совсем недавно я могла от души навалять Максу, но сейчас я в такой ярости, что запросто наваляю такому здоровому извращенцу, как ты!"
-    Alice_16 "Non molto tempo fa avrei potuto prendere a calci la merda di Max, ma ora sono così incazzato che potrei prendere a calci la merda di un sano pervertito come te!"
-
-# game/events/other.rpy:701
-translate italian dictaphone_showdown_with_eric_aece1638:
-
-    # Ann_19 "Эрик, проваливай! Я не хочу тебя больше видеть!"
-    Ann_19 "Eric, vattene! Non voglio più vederti!"
-
-# game/events/other.rpy:702
-translate italian dictaphone_showdown_with_eric_beb7cd04:
-
-    # Eric_09 "Вижу, вы все на взводе, так что я поговорю с вами, когда успокоитесь... А сейчас я, пожалуй, отправлюсь к себе домой."
-    Eric_09 "Vedo che sei tutto agitato, quindi ti parlerò quando ti sarai calmato... Ora penso che tornerò a casa mia."
-
-# game/events/other.rpy:703
-translate italian dictaphone_showdown_with_eric_2ec75356:
-
-    # Ann_20 "Я сказала, {b}ПОШЁЛ ВОН НЕМЕДЛЕННО!!!{/b}"
-    Ann_20 "Ho detto, {b}FUORI ORA!!!{/b}"
-
-# game/events/other.rpy:704
-translate italian dictaphone_showdown_with_eric_33de351b:
-
-    # Alice_17 "Убирайся из нашей жизни, грязное животное!"
-    Alice_17 "Esci dalle nostre vite, animale schifoso!"
-
-# game/events/other.rpy:713
-translate italian dictaphone_showdown_with_eric_f3afe214:
-
-    # Max_00 "Мам, ты только не расстраивайся так из-за него. Всякое бывает..."
-    Max_00 "Mamma, non arrabbiarti così tanto con lui. Cose che succedono..."
-
-# game/events/other.rpy:714
-translate italian dictaphone_showdown_with_eric_346fcb3b:
-
-    # Ann_14 "Всё никак в голове не укладывается, что Эрик тут с вами собирался творить... И что я за мать после этого? Я в шоке..."
-    Ann_14 "Non riesco ancora a capacitarmi di quello che Eric stava per farti... Che tipo di madre sono? Sono scioccato..."
-
-# game/events/other.rpy:715
-translate italian dictaphone_showdown_with_eric_90ee4fd2:
-
-    # Alice_13 "Уж лучше узнать поздно, чем никогда. А у нас всё ещё лучше... Мы узнали, пока ещё не стало поздно. Так что не переживай, мам, мы все думали, что Эрик... уж точно не такой..."
-    Alice_13 "Meglio saperlo tardi che mai. È ancora meglio per noi... L'abbiamo scoperto prima che fosse troppo tardi. Quindi non preoccuparti, mamma, tutti noi pensavamo che Eric... certamente non il tipo di..."
-
-# game/events/other.rpy:716
-translate italian dictaphone_showdown_with_eric_167ce82b:
-
-    # Max_09 "Хорошо, что я своим мужским взглядом сразу понял, что он мутный тип!"
-    Max_09 "Meno male che sapevo con il mio sguardo maschile che era un tipo torbido!"
-
-# game/events/other.rpy:717
-translate italian dictaphone_showdown_with_eric_382d50ea:
-
-    # Lisa_09 "И между прочим, про бумажник Эрик наврал..."
-    Lisa_09 "E a proposito, Eric ha mentito sul portafoglio..."
-
-# game/events/other.rpy:718
-translate italian dictaphone_showdown_with_eric_28be9f6a:
-
-    # Max_08 "Кстати, да! Он это придумал, чтобы вы меня в военный лагерь сослали. А то я стал слишком мешаться."
-    Max_08 "A proposito, sì, è stata sua l'idea di farmi esiliare in un campo militare. Ero troppo in mezzo ai piedi."
-
-# game/events/other.rpy:719
-translate italian dictaphone_showdown_with_eric_35096e7a:
-
-    # Ann_13 "Ты прости меня, сынок, я должна была прислушиваться к тому, что ты говорил. Что же теперь делать?"
-    Ann_13 "Mi dispiace, figliolo, avrei dovuto ascoltare quello che dicevi. Cosa facciamo ora?"
-
-# game/events/other.rpy:720
-translate italian dictaphone_showdown_with_eric_e862c93b:
-
-    # Max_01 "Жить, как жили до Эрика! Ничего сложного..."
-    Max_01 "Vivi come facevamo prima di Eric! Niente di complicato..."
-
-# game/events/other.rpy:721
-translate italian dictaphone_showdown_with_eric_6ff07095:
-
-    # Ann_12 "Нет, Макс, я о другом... Он же мой начальник! Как мне теперь быть? Ох, не знаю..."
-    Ann_12 "No, Max, non è quello che voglio dire... È il mio capo! Cosa dovrei fare adesso? Oh, non lo so..."
-
-# game/events/other.rpy:722
-translate italian dictaphone_showdown_with_eric_87eb1c15:
-
-    # Max_07 "Д-а-а... Это проблемка. Ты главное не слушай его оправдания, а то он умеет убеждать, как ты сама прекрасно убедилась. А теперь давайте, все вместе, поддержим маму!"
-    Max_07 "Y-a-a... Questo è un problema. Basta non ascoltare le sue scuse, perché è un uomo persuasivo, come potete vedere. Ora, forza, tutti quanti, sosteniamo la mamma!"
-
-# game/events/other.rpy:730
-translate italian dictaphone_showdown_with_eric_f96123e9:
-
-    # Ann_13 "Ой, дорогие мои, вы меня так раздавите! Но вы всё равно самые лучшие, кто у меня есть... Простите ещё раз за то, что я привела в наш прекрасный дом этого человека и всё испортила."
-    Ann_13 "Oh, miei cari, mi state schiacciando così tanto! Ma sei ancora il migliore che ho... Mi dispiace ancora per aver portato quest'uomo nella nostra bella casa e aver rovinato tutto."
-
-# game/events/other.rpy:731
-translate italian dictaphone_showdown_with_eric_5a9bcc35:
-
-    # Lisa_01 "Не бери в голову, мам. Не вини себя, всё ведь хорошо. Мы с тобой."
-    Lisa_01 "Non preoccuparti, mamma. Non incolpare te stesso, va tutto bene. Siamo con te."
-
-# game/events/other.rpy:732
-translate italian dictaphone_showdown_with_eric_a2587239:
-
-    # Alice_05 "И если он начнёт устраивать тебе проблемы на работе, то мы все так же дружно, как сейчас, соберёмся и отпинаем его!"
-    Alice_05 "E se comincia a darti problemi al lavoro, ci riuniremo tutti insieme e lo prenderemo a calci in culo, proprio come adesso!"
-
-# game/events/other.rpy:733
-translate italian dictaphone_showdown_with_eric_e1846793:
-
-    # Max_09 "Думаю, Эрик не настолько туп, чтобы строить маме козни. Особенно, если она будет с ним жёстче..."
-    Max_09 "Non credo che Eric sia così stupido da fare scherzi a sua madre. Soprattutto se lei fa la dura con lui..."
-
-# game/events/other.rpy:734
-translate italian dictaphone_showdown_with_eric_d14050f1:
-
-    # Ann_17 "Ох, ребята, я постараюсь... Хотя, мне даже думать о нём сейчас противно, не то что видеть. Надеюсь, я не потеряю работу."
-    Ann_17 "Oh, ragazzi, ci proverò... Anche se mi disgusta anche solo pensare a lui adesso, figuriamoci vederlo. Spero di non perdere il mio lavoro."
-
-# game/events/other.rpy:735
-translate italian dictaphone_showdown_with_eric_72f9e7fc:
-
-    # Max_08 "Может, удастся перевестись в какой-нибудь другой отдел?"
-    Max_08 "Forse potrei ottenere un trasferimento in qualche altro dipartimento?"
-
-# game/events/other.rpy:736
-translate italian dictaphone_showdown_with_eric_032de050:
-
-    # Ann_02 "Надеюсь... Ну всё, мне уже дышать нечем. Пора делами заниматься. Я вас очень люблю..."
-    Ann_02 "Spero... Ecco, non riesco più a respirare. È ora di mettersi al lavoro. Ti amo molto..."
-
-# game/events/other.rpy:737
-translate italian dictaphone_showdown_with_eric_90be8708:
-
-    # Lisa_05 "И мы тебя!"
-    Lisa_05 "Anche tu!"
-
-# game/events/other.rpy:817
-translate italian failed_dinner_b8e2672f:
-
-    # Eric_00 "Итак, настал момент истины. Я дал тебе, Макс, достаточно времени, чтобы ты вернул мне мои деньги при всех. Ну что, ты готов покаяться и исправить свою ошибку?"
-    Eric_00 "Così è arrivato il momento della verità. Ti ho dato abbastanza tempo, Max, per ridarmi i miei soldi davanti a tutti. Allora, sei pronto a pentirti e a correggere il tuo errore?"
-
-# game/events/other.rpy:821
-translate italian failed_dinner_d3811ad8:
-
-    # Max_15 "Да пошёл ты... Нет у меня твоих денег, и ты это прекрасно знаешь!"
-    Max_15 "Fanculo... Non ho i tuoi soldi e tu lo sai!"
-
-# game/events/other.rpy:824
-translate italian failed_dinner_851dce21:
-
-    # Max_15 "Да пошёл ты... Я ни за что не стану возвращать тебе то, чего не брал! И признавать себя вором тоже не стану!"
-    Max_15 "Fanculo... Non c'è modo che io vi restituisca quello che non ho preso! E non voglio nemmeno ammettere di essere un ladro!"
-
-# game/events/other.rpy:826
-translate italian failed_dinner_2c4314ba:
-
-    # Eric_09 "Что ж, значит продолжаем отпираться... Ладно... Как ты видишь, Ань, я сделал всё, что было в моих силах, но это твой сын и тебе принимать решение."
-    Eric_09 "Bene, quindi continuiamo a negare... Bene... Come vedi, Anya, ho fatto tutto il possibile, ma è tuo figlio e la decisione spetta a te."
-
-# game/events/other.rpy:827
-translate italian failed_dinner_e02fe136:
-
-    # Ann_14 "Да-да... Прости, Макс, но ты очень меня разочаровал и... нам не остаётся другого выбора, кроме как отправить тебя в военный лагерь. Надеюсь, там из тебя сделают ответственного человека."
-    Ann_14 "Sì, sì... Mi dispiace, Max, ma mi hai davvero deluso e... non abbiamo altra scelta che mandarti in un campo dell'esercito. Speriamo che facciano di te un uomo responsabile."
-
-# game/events/other.rpy:828
-translate italian failed_dinner_03357d46:
-
-    # Max_13 "Что?! Кому это, \"нам\"? Вам с Эриком? Это же не ты сейчас говоришь, а он! Как ты можешь выгонять из дома родного сына?"
-    Max_13 "Cosa?! Chi è \"noi\"? Tu ed Eric? Non sei tu a parlare ora, è lui! Come si può cacciare di casa il proprio figlio?"
-
-# game/events/other.rpy:829
-translate italian failed_dinner_d29fb4a6:
-
-    # Ann_17 "Прекрати, Макс! Я устала слушать твои оправдания. Ты даже не представляешь, до какой степени мне стыдно, что мой единственный сын - вор!"
-    Ann_17 "Smettila, Max! Sono stanco di sentire le tue scuse. Non hai idea di quanto mi vergogno che il mio unico figlio sia un ladro!"
-
-# game/events/other.rpy:830
-translate italian failed_dinner_c43f223d:
-
-    # Max_14 "Но мам, это всё неправда! Не говори так! Это же Эрик всё подстроил!"
-    Max_14 "Ma mamma, non è vero! Non dire così! Eric ha organizzato tutto questo!"
-
-# game/events/other.rpy:831
-translate italian failed_dinner_5a9be7a6:
-
-    # Eric_13 "Да, стыдно за тебя, Макс, ты разбиваешь сердце собственной матери... Какой позор..."
-    Eric_13 "Sì, vergognati, Max, stai spezzando il cuore della tua stessa madre... Che peccato..."
-
-# game/events/other.rpy:832
-translate italian failed_dinner_c7cc51b7:
-
-    # Max_16 "Заткнись, Эрик! Мам, неужели ты не видишь, что он тобой манипулирует?!"
-    Max_16 "Zitto, Eric! Mamma, non vedi che ti sta manipolando?!"
-
-# game/events/other.rpy:833
-translate italian failed_dinner_81894a93:
-
-    # Ann_18 "Не хочу ничего слышать про это. Всё. Собираешь вещи и едешь. Давно надо было это сделать, но я тебя всё жалела. В результате докатились, воруешь в собственном доме! А что будет дальше?"
-    Ann_18 "Non voglio sentirne parlare. Questo è tutto. Fai le valigie e te ne vai. Avrei dovuto farlo molto tempo fa, ma ho continuato a sentirmi dispiaciuto per te. E ora stai rubando a casa tua! Cosa succederà dopo?"
-
-# game/events/other.rpy:834
-translate italian failed_dinner_ffb1b7ea:
-
-    # Max_11 "Но мам..."
-    Max_11 "Ma mamma..."
-
-# game/events/other.rpy:835
-translate italian failed_dinner_b3c54058:
-
-    # Ann_16 "Всё, Макс, разговор окончен!"
-    Ann_16 "Basta così, Max, questa conversazione è finita!"
-
-# game/events/other.rpy:837
-translate italian failed_dinner_4d7ce5c3:
-
-    # Eric_01 "Не переживай, Макс, я позабочусь обо всех, пока ты будешь тянуть лямку в армии..." nointeract
-    Eric_01 "Non preoccuparti, Max, mi prenderò cura di tutti mentre tu ti trascinerai nell'esercito..." nointeract
-
-# game/events/other.rpy:844
-translate italian failed_dinner_fe32100d:
-
-    # Max_14 "{m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
-    Max_14 "{m}La mia storia è finita così. Non mi credevano e non volevano più vedermi. Certo, se non fosse stato per Eric, tutto sarebbe andato bene, ma quel bastardo... Ora non c'è niente che gli impedisca di fare quello che vuole fare alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}" nointeract
-
-# game/events/other.rpy:851
-translate italian failed_dinner_79acb07c:
-
-    # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
-    Max_14 "{m}La mia storia è finita così. Tutta questa ingiustizia mi ha fatto diventare un po' matto e ho quasi imbrattato Eric sul balcone... Quasi... Ora non c'è niente che gli impedisca di fare quello che vuole alla mia famiglia... Se potessi tornare indietro nel tempo... Ma avrebbe senso?{/m}" nointeract
-
-translate italian strings:
-
+    # game/events/other.rpy:442
     old "{i}подставить Эрика{/i}"
     new "{i}incastrare Eric{/i}"
 
-    # game/events/other.rpy:452
+    # game/events/other.rpy:449
     old "{i}осторожно дрочить на Алису{/i}"
     new "{i}che si masturba cautamente con Alice{/i}"
 
-    # game/events/other.rpy:459
+    # game/events/other.rpy:456
     old "{i}кончить Алисе на ноги{/i}"
     new "{i}sborrare sui piedi di Alice{/i}"
 
-    # game/events/other.rpy:466
+    # game/events/other.rpy:463
     old "{i}осторожно идти спать{/i}"
     new "{i}attento ad andare a letto{/i}"
 
-    # game/events/other.rpy:807
+    # game/events/other.rpy:809
     old "{g}Отношения Макса с семьёй значительно улучшились.{/g}"
     new "{g}Il rapporto di Max con la sua famiglia è migliorato notevolmente.{/g}"
 
-    # game/events/other.rpy:836
+    # game/events/other.rpy:838
     old "{i}собираться в военный лагерь{/i}"
     new "{i}fare i bagagli per un campo militare{/i}"
 
-    # game/events/other.rpy:836
+    # game/events/other.rpy:838
     old "{i}накинуться на Эрика{/i}"
     new "{i}balzare su Eric{/i}"
 
-    # game/events/other.rpy:853
+    # game/events/other.rpy:855
     old "{i}загрузить игру{/i}"
     new "{i}scaricare il gioco{/i}"
 
-    # game/events/other.rpy:853
+    # game/events/other.rpy:855
     old "{i}вернуться в главное меню{/i}"
     new "{i}torna al menu principale{/i}"
 
-    # game/events/other.rpy:853
+    # game/events/other.rpy:855
     old "{i}выйти из игры{/i}"
     new "{i}abbandonare{/i}"
 

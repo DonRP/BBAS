@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-01-26 18:41\n"
+# "PO-Revision-Date: 2022-03-05 17:37\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/dialogues/punishment.rpy:99
 translate italian StartPunishment_42b2fac4:
@@ -349,10 +351,10 @@ translate italian punishment_max_pun_reson_678436cc:
     Ann_16 "[_text!t]"
 
 # game/dialogues/punishment.rpy:308
-translate italian punishment_max_pun_reson_219ecbe7:
+translate italian punishment_max_pun_reson_e027e673:
 
-    # Max_14 "{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
-    Max_14 "{i}mamma mi punisce proprio davanti alle sorelle... È così umiliante... {/i}\n\n{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
+    # Max_14 "[impact_reduced!t]{m}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/m}"
+    Max_14 "[impact_reduced!t]{m}Mia madre mi punisce davanti alle mie sorelle... È così umiliante...{/m}"
 
 # game/dialogues/punishment.rpy:328
 translate italian punishment_max_pun_reson_700a2ea3:
@@ -397,10 +399,10 @@ translate italian punishment_max_pun_reson_678436cc_1:
     Ann_16 "[_text!t]"
 
 # game/dialogues/punishment.rpy:378
-translate italian punishment_max_pun_reson_c632e1a6:
+translate italian punishment_max_pun_reson_a77a4336:
 
-    # Max_14 "{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
-    Max_14 "{i}Accidenti... Tutti guardano con tanto interesse come vengo punito... È così umiliante... {/i}\n\n{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/color}"
+    # Max_14 "[impact_reduced!t]{m}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/m}"
+    Max_14 "[impact_reduced!t]{m}Merda... Tutti sono così interessati a vedermi punito... È così umiliante...{/m}"
 
 # game/dialogues/punishment.rpy:400
 translate italian punishment_max_pun_reson_faf292df:
@@ -418,7 +420,6 @@ translate italian punishment_lisa_678436cc:
 translate italian punishment_lisa_0b6806cc:
 
     # Ann_16 "[_text!t]" nointeract
-    Ann_16 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:465
 translate italian punishment_lisa_f1ea86d0:
@@ -490,7 +491,6 @@ translate italian punishment_lisa_a4b257c5:
 translate italian punishment_lisa_67c8b436:
 
     # Ann_18 "[_text!t]" nointeract
-    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:513
 translate italian punishment_lisa_a1d39e4d:
@@ -511,324 +511,334 @@ translate italian punishment_lisa_0fa8acfd_1:
     Ann_12 "No, Max, e non cercare nemmeno di convincermi. L'hai rovinato tu stesso... E tu, Lisa, non sopportare un pilastro, muovici andiamo..."
 
 # game/dialogues/punishment.rpy:519
+translate italian punishment_lisa_5e582e44:
+
+    # Ann_12 "Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... А ты, Лиза, не стой столбом, шевелись давай..."
+    Ann_12 "No, Max! E ringrazia che non ti sto punendo insieme a lei... E tu, Lisa, non stare lì, datti una mossa..."
+
+# game/dialogues/punishment.rpy:521
 translate italian punishment_lisa_85987843:
 
     # Ann_00 "[succes!t]Хорошо, Макс, в этот раз я не стану её наказывать. Надеюсь, я не пожалею о своём решении... А ты, Лиза, можешь одеваться. Скажи спасибо Максу, что сегодня осталась безнаказанной. Но не думай, что я всегда буду такой доброй..."
     Ann_00 "[succes!t] Ok, Max, questa volta non la punirò. Spero di non rimpiangere la mia decisione... E tu, Lisa, puoi vestirti. Dì grazie a Max per essere rimasto impunito oggi. Ma non credo che sarò sempre così gentile..."
 
-# game/dialogues/punishment.rpy:520
+# game/dialogues/punishment.rpy:522
 translate italian punishment_lisa_6d672e8d_1:
 
     # Lisa_02 "Спасибо тебе, Макс!"
     Lisa_02 "Grazie, Max!"
 
-# game/dialogues/punishment.rpy:526
+# game/dialogues/punishment.rpy:528
 translate italian punishment_lisa_edabdf61:
 
     # Max_07 "{m}На одних \"спасибо\" далеко не уедешь... Нужно придумать и для себя что-то хорошее. Думаю, Лизу удастся уговорить смотреть ужастики без маечки. Это точно лучше, чем получать по голой заднице от мамы у всех на глазах! И поговорить с ней лучше, пока моя доброта свежа в её памяти...{/m}"
     Max_07 "{m}Non si può andare lontano con un semplice 'grazie'... Dobbiamo pensare a qualcosa di buono anche per noi stessi. Penso che Lisa possa essere persuasa a guardare un film horror senza il suo top. È sicuramente meglio che farsi prendere a calci nel sedere nudo da sua madre davanti a tutti! Ed è meglio che le parli mentre la mia gentilezza è fresca nella sua mente...{/m}"
 
-# game/dialogues/punishment.rpy:536
+# game/dialogues/punishment.rpy:538
 translate italian punishment_lisa_929c11ac_1:
 
     # Ann_12 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай..."
     Ann_12 "[failed!t] No, Max, la tua persuasione non la aiuterà. Ottieni ciò che meriti. E tu, Lisa, non sopportare un pilastro, muovici andiamo..."
 
-# game/dialogues/punishment.rpy:552
+# game/dialogues/punishment.rpy:554
 translate italian punishment_lisa_022518f9:
 
     # Max_04 "{m}А вот это мне уже нравится... Сестрёнка сверкает своими классными сиськами... Можно смотреть и ничего за это не будет! Красота!{/m}"
     Max_04 "{m}Questo mi piace già... Sorella che mostra le sue belle tette... Si può guardare e non c'è niente! Bellissimo!{/m}"
 
-# game/dialogues/punishment.rpy:555
+# game/dialogues/punishment.rpy:557
 translate italian punishment_lisa_ba80b6fd:
 
     # Max_04 "{m}Хоть Лиза и получает сейчас по своей миленькой попке, но зато можно полюбоваться и всем остальным... А видно много чего интересного!{/m}"
     Max_04 "{m}Anche se Lisa si sta facendo prendere a calci nel suo bel culetto ora, ma si può ammirare tutto il resto... E c'è molto da vedere!{/m}"
 
-# game/dialogues/punishment.rpy:558
+# game/dialogues/punishment.rpy:560
 translate italian punishment_lisa_81192a03:
 
     # Lisa_09 "Ма-ам, я больше не буду... Ай... В смысле, буду лучше учиться. Извини..."
     Lisa_09 "Signora, non lo sarò più... Io... Voglio dire, imparerò meglio. Scusa..."
 
-# game/dialogues/punishment.rpy:571
+# game/dialogues/punishment.rpy:573
 translate italian punishment_lisa_3b824b98:
 
     # Ann_00 "Конечно, будешь. [_text!t] Совсем расслабилась."
     Ann_00 "Certo che lo farai. [_text!t] Completamente rilassato."
 
-# game/dialogues/punishment.rpy:573
+# game/dialogues/punishment.rpy:575
 translate italian punishment_lisa_1be74016:
 
     # Lisa_10 "Ой... Мам! Больно!"
     Lisa_10 "Oh... Mamma! Fa male!"
 
-# game/dialogues/punishment.rpy:575
+# game/dialogues/punishment.rpy:577
 translate italian punishment_lisa_2a6e0df8:
 
     # Ann_16 "Давай терпи! Плохо вела себя в школе - получила по голой заднице у всех на глазах."
     Ann_16 "Siamo pazienti! Male si è comportato a scuola - ha avuto un nudo di fronte a tutti."
 
-# game/dialogues/punishment.rpy:577
+# game/dialogues/punishment.rpy:579
 translate italian punishment_lisa_22426d4e:
 
     # Ann_16 "Давай терпи! Получила двойку - получила по голой заднице у всех на глазах."
     Ann_16 "Siamo pazienti! Ho preso un deuce - ho preso un nudo davanti a tutti."
 
-# game/dialogues/punishment.rpy:589
+# game/dialogues/punishment.rpy:591
 translate italian punishment_lisa_d5d2561c:
 
     # Ann_12 "Лиза, надеюсь, ты извлекла урок из этого наказания и больше это не повторится. А теперь одевайся!"
     Ann_12 "Lisa, spero che tu abbia imparato una lezione da questa punizione e che non accada di nuovo. Ora vestiti!"
 
-# game/dialogues/punishment.rpy:591
+# game/dialogues/punishment.rpy:593
 translate italian punishment_lisa_3250d4ff:
 
     # Ann_12 "Лиза, надеюсь, ты извлекла урок из этого наказания. Да, тебе было стыдно и неприятно, что все пялились на тебя, но надеюсь, ты всё поняла и больше это не повторится. А теперь одевайся!"
     Ann_12 "Lisa, spero che tu abbia imparato una lezione da questa punizione. Sì, ti vergognavi e ti vergognavi che tutti ti fissassero, ma spero che tu abbia capito tutto e che non accada di nuovo. Ora vestiti!"
 
-# game/dialogues/punishment.rpy:617
+# game/dialogues/punishment.rpy:619
 translate italian punishment_alice_d88fc265:
 
     # Ann_16 "Подходи, подходи, Алиса, чего ты там мнешься. Штаны снимай, есть разговор!"
     Ann_16 "Vieni, vieni su, Alice, cosa stai facendo lì. Togliti i pantaloni, c'è una conversazione!"
 
-# game/dialogues/punishment.rpy:619
+# game/dialogues/punishment.rpy:621
 translate italian punishment_alice_d608324e:
 
     # Ann_16 "Подходи, подходи, Алиса, чего ты там мнешься. Снимай шорты, есть разговор!"
     Ann_16 "Vieni, vieni su, Alice, cosa stai facendo lì. Togliti i pantaloncini, c'è una conversazione!"
 
-# game/dialogues/punishment.rpy:620
+# game/dialogues/punishment.rpy:622
 translate italian punishment_alice_8e33c890:
 
     # Alice_12 "Мам, за что? Что я такого сделала?"
     Alice_12 "mamma, per cosa? Cosa ho fatto?"
 
-# game/dialogues/punishment.rpy:626
+# game/dialogues/punishment.rpy:628
 translate italian punishment_alice_a4b257c5:
 
     # Ann_18 "[_text!t]"
     Ann_18 "[_text!t]"
 
-# game/dialogues/punishment.rpy:629
+# game/dialogues/punishment.rpy:631
 translate italian punishment_alice_67c8b436:
 
     # Ann_18 "[_text!t]" nointeract
-    Ann_18 "[_text!t]" nointeract
 
-# game/dialogues/punishment.rpy:633
+# game/dialogues/punishment.rpy:635
 translate italian punishment_alice_cb34e360:
 
     # Max_08 "Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
     Max_08 "mamma, non punire Alice. Non sono le sue sigarette, la sua ragazza è venuta da lei oggi, probabilmente ha dimenticato."
 
-# game/dialogues/punishment.rpy:635
+# game/dialogues/punishment.rpy:637
 translate italian punishment_alice_e5b82d3f:
 
     # Ann_12 "Нет, Макс, даже не пытайся её оправдывать. Ты и сам накосячил... Алиса, пошевеливайся..."
     Ann_12 "No, Max, non provare nemmeno a giustificarlo. L'hai rovinato tu stesso... Alice, muoviti..."
 
-# game/dialogues/punishment.rpy:637
+# game/dialogues/punishment.rpy:639
 translate italian punishment_alice_48884e9e:
 
     # Ann_14 "[succes!t]Хорошо, Макс, сегодня я не стану её наказывать. Надеюсь, я не пожалею об этом... Скажи брату спасибо, Алиса, что заступился, и не приглашай больше сюда таких подружек, хорошему они не научат..."
     Ann_14 "[succes!t] Ok, Max, non ho intenzione di punirla oggi. Spero di non pentirmene... Dì grazie a tuo fratello, Alice, per aver intercedente, e non invitare più queste fidanzate qui, non insegneranno cose buone..."
 
-# game/dialogues/punishment.rpy:638
+# game/dialogues/punishment.rpy:640
 translate italian punishment_alice_2a128a29:
 
     # Alice_13 "Хорошо, мам. Спасибо, Макс, я этого не забуду."
     Alice_13 "Va bene, mamma. Grazie, Max, non lo dimenticherò."
 
-# game/dialogues/punishment.rpy:643
+# game/dialogues/punishment.rpy:645
 translate italian punishment_alice_c8f8e3ea:
 
     # Ann_16 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит в любом случае, не за себя, так за подружку. Не будет водится с такими, до добра они не доведут..."
     Ann_16 "[failed!t] No, Max, la tua persuasione non la aiuterà. Prendi in ogni caso, non per te stesso, così per la tua ragazza. Non si troveranno con tale, al bene non porteranno..."
 
-# game/dialogues/punishment.rpy:648
+# game/dialogues/punishment.rpy:650
 translate italian punishment_alice_055a6121:
 
     # Alice_13 "Мам... Это не мои сигареты... Я не курю, честно..."
     Alice_13 "Mamma... Non sono le mie sigarette... Non fumo, onestamente..."
 
-# game/dialogues/punishment.rpy:650
+# game/dialogues/punishment.rpy:652
 translate italian punishment_alice_3761a8bd:
 
     # Ann_14 "Не твои? А чьи они тогда? Быстро снимай штаны!"
     Ann_14 "Non è tuo? E di chi sono allora? Togliti i pantaloni velocemente!"
 
-# game/dialogues/punishment.rpy:652
+# game/dialogues/punishment.rpy:654
 translate italian punishment_alice_194e9daf:
 
     # Alice_06 "Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
     Alice_06 "mamma, ma oggi sono senza mutandine... Lascia che Max se ne vada o si allontani, almeno..."
 
-# game/dialogues/punishment.rpy:653
+# game/dialogues/punishment.rpy:655
 translate italian punishment_alice_8ad85845:
 
     # Ann_20 "Ты ещё и без трусов?! Сейчас ещё и за это получишь! Макс пусть смотрит, а тебе будет стыдно. Может тогда за ум возьмёшься!"
     Ann_20 "Anche tu sei senza mutandine?! Ora lo otterrai anche tu! Max lo lascia guardare, e ti vergognerai. Forse allora prenderai la mente!"
 
-# game/dialogues/punishment.rpy:660
+# game/dialogues/punishment.rpy:662
 translate italian punishment_alice_933f2254:
 
     # Max_09 "{m}Ничего себе! А что это на Алисе делают трусики?! Мы же с ней договорились... Ну всё, сестрёнка, считай ты попала... и куда больше, чем есть сейчас!{/m}"
     Max_09 "{m}Oh, wow! Cosa ci fanno quelle mutandine su Alice? Pensavo fossimo d'accordo... Ecco, sorellina, sei nei guai... e molto di più di quello che sei ora!{/m}"
 
-# game/dialogues/punishment.rpy:662
+# game/dialogues/punishment.rpy:664
 translate italian punishment_alice_90ee680b:
 
     # Ann_14 "Не твои? А чьи они тогда? Быстро шорты снимай!"
     Ann_14 "Non è tuo? E di chi sono allora? Togliti i pantaloncini velocemente!"
 
-# game/dialogues/punishment.rpy:663
+# game/dialogues/punishment.rpy:665
 translate italian punishment_alice_cd360a25:
 
     # Alice_06 "Мам, но под ними нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
     Alice_06 "mamma, ma non ci sono mutandine sotto... Lascia che Max se ne vada o si allontani, almeno..."
 
-# game/dialogues/punishment.rpy:664
+# game/dialogues/punishment.rpy:666
 translate italian punishment_alice_011ed976:
 
     # Ann_00 "А вот нечего целый день в пижаме по дому шарахаться... Совсем разленилась! Макс пусть смотрит, а тебе будет стыдно. Может тогда за ум возьмёшься!"
     Ann_00 "Ma non c'è niente da mescolare per casa tutto il giorno in pigiama... Completamente pigro! Max lo lascia guardare, e ti vergognerai. Forse allora prenderai la mente!"
 
-# game/dialogues/punishment.rpy:667
+# game/dialogues/punishment.rpy:669
 translate italian punishment_alice_05b9287b:
 
     # Ann_12 "Так, Алиса, раздевайся до трусов. Надеюсь, не надо объяснять, за что я тебя сейчас буду наказывать и сама всё понимаешь..."
     Ann_12 "Quindi, Alice, spogliati fino alle mutandine. Spero che tu non abbia bisogno di spiegare perché ti punirò ora e tu capisci tutto da solo..."
 
-# game/dialogues/punishment.rpy:669
+# game/dialogues/punishment.rpy:671
 translate italian punishment_alice_194e9daf_1:
 
     # Alice_06 "Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
     Alice_06 "mamma, ma oggi sono senza mutandine... Lascia che Max se ne vada o si allontani, almeno..."
 
-# game/dialogues/punishment.rpy:671
+# game/dialogues/punishment.rpy:673
 translate italian punishment_alice_74c9db0c:
 
     # Alice_06 "Мам, но под шортами нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
     Alice_06 "mamma, ma non ci sono mutandine sotto i pantaloncini... Lascia che Max se ne vada o si allontani, almeno..."
 
-# game/dialogues/punishment.rpy:673
+# game/dialogues/punishment.rpy:675
 translate italian punishment_alice_f85f1017:
 
     # Ann_16 "Тогда раздевайся догола, так наказание даже эффективней будет. А Макс пусть смотрит, как и все остальные..."
     Ann_16 "Poi spogliarsi nudi, così la punizione sarà ancora più efficace. E lascia che Max guardi come tutti gli altri..."
 
-# game/dialogues/punishment.rpy:681
+# game/dialogues/punishment.rpy:683
 translate italian punishment_alice_dd1264f2:
 
     # Ann_12 "Так, Алиса, раздевайся. Надеюсь, не надо объяснять, за что я тебя сейчас буду наказывать и сама всё понимаешь..."
     Ann_12 "Allora, Alice, spogliati. Spero che tu non abbia bisogno di spiegare perché ti punirò ora e tu capisci tutto da solo..."
 
-# game/dialogues/punishment.rpy:694
-translate italian punishment_alice_ce43f374:
+# game/dialogues/punishment.rpy:696
+translate italian punishment_alice_23976523:
 
-    # Max_07 "{i}Посмотрим, станет ли Алиса посговорчивей, если я перестану вмешиваться... Главное, успеть поговорить с ней, пока ей будет ещё больно сидеть!{/i}"
-    Max_07 "{i}Vediamo se Alice diventa più accomodante se smetto di interferire... La cosa principale è avere il tempo di parlare con lei mentre farà ancora male sedersi! {/i}"
+    # Max_07 "{m}Посмотрим, станет ли Алиса посговорчивей, если я перестану вмешиваться... Главное, успеть поговорить с ней, пока ей будет ещё больно сидеть!{/m}"
+    Max_07 "{m}Vediamo se Alice sarà più cooperativa se smetto di interferire... L'importante è riuscire a parlarle mentre sta ancora soffrendo da seduta!{/m}"
 
-# game/dialogues/punishment.rpy:699
+# game/dialogues/punishment.rpy:701
 translate italian punishment_alice_a4b257c5_1:
 
     # Ann_18 "[_text!t]"
     Ann_18 "[_text!t]"
 
-# game/dialogues/punishment.rpy:702
+# game/dialogues/punishment.rpy:704
 translate italian punishment_alice_67c8b436_1:
 
     # Ann_18 "[_text!t]" nointeract
-    Ann_18 "[_text!t]" nointeract
 
-# game/dialogues/punishment.rpy:706
+# game/dialogues/punishment.rpy:708
 translate italian punishment_alice_cb34e360_1:
 
     # Max_08 "Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
     Max_08 "mamma, non punire Alice. Non sono le sue sigarette, la sua ragazza è venuta da lei oggi, probabilmente ha dimenticato."
 
-# game/dialogues/punishment.rpy:708
+# game/dialogues/punishment.rpy:710
 translate italian punishment_alice_e5b82d3f_1:
 
     # Ann_12 "Нет, Макс, даже не пытайся её оправдывать. Ты и сам накосячил... Алиса, пошевеливайся..."
     Ann_12 "No, Max, non provare nemmeno a giustificarlo. L'hai rovinato tu stesso... Alice, muoviti..."
 
-# game/dialogues/punishment.rpy:710
+# game/dialogues/punishment.rpy:712
+translate italian punishment_alice_3eaef6e3:
+
+    # Ann_12 "Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... Алиса, пошевеливайся..."
+    Ann_12 "No, Max! E ringrazia che non ti sto punendo insieme a lei... Alice, datti una mossa..."
+
+# game/dialogues/punishment.rpy:714
 translate italian punishment_alice_a3fb885d:
 
     # Ann_14 "[succes!t]Хорошо, Макс, сегодня я не стану её наказывать. Надеюсь, я не пожалею об этом... Можешь одеваться, Алиса, да скажи брату спасибо, что заступился. И не приглашай сюда больше таких подружек, хорошему они не научат..."
     Ann_14 "[succes!t] Ok, Max, non ho intenzione di punirla oggi. Spero di non pentirmene... Puoi vestirti, Alice, dì a tuo fratello grazie per aver intercedo. E non invitare più tali fidanzate qui, non insegneranno cose buone..."
 
-# game/dialogues/punishment.rpy:711
+# game/dialogues/punishment.rpy:715
 translate italian punishment_alice_2a128a29_1:
 
     # Alice_13 "Хорошо, мам. Спасибо, Макс, я этого не забуду."
     Alice_13 "Va bene, mamma. Grazie, Max, non lo dimenticherò."
 
-# game/dialogues/punishment.rpy:716
-translate italian punishment_alice_9e76b62f:
+# game/dialogues/punishment.rpy:720
+translate italian punishment_alice_f34a7f97:
 
-    # Max_09 "{i}Ага, как же, не забудет она... Хм... Может, стоит попросить у неё что-нибудь, чтобы она не думала, что моя доброта безвозмездна?! И сделать это нужно сегодня, пока она ещё под впечатлением...{/i}"
-    Max_09 "{i}sì, non dimenticherà... Hmm... Forse dovrei chiederle qualcosa in modo che non pensi che la mia gentilezza sia gratuita?! E deve essere fatto oggi, mentre lei è ancora impressionata... {/i}"
+    # Max_09 "{m}Ага, как же, не забудет она... Хм... Может, стоит попросить у неё что-нибудь, чтобы она не думала, что моя доброта безвозмездна?! И сделать это нужно сегодня, пока она ещё под впечатлением...{/m}"
+    Max_09 "{m}Sì, beh, non dimenticherà... Hmm... Forse dovrei chiederle qualcosa perché non pensi che la mia gentilezza sia gratuita. E dovrei farlo oggi, mentre lei ha ancora l'impressione...{/m}"
 
-# game/dialogues/punishment.rpy:724
+# game/dialogues/punishment.rpy:728
 translate italian punishment_alice_c8f8e3ea_1:
 
     # Ann_16 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит в любом случае, не за себя, так за подружку. Не будет водится с такими, до добра они не доведут..."
     Ann_16 "[failed!t] No, Max, la tua persuasione non la aiuterà. Prendi in ogni caso, non per te stesso, così per la tua ragazza. Non si troveranno con tale, al bene non porteranno..."
 
-# game/dialogues/punishment.rpy:751
+# game/dialogues/punishment.rpy:755
 translate italian punishment_alice_6bf98fd4:
 
     # Alice_15 "Ай, больно же! Мам, я больше не буду!!!"
     Alice_15 "Ehi, fa male! Mamma, non lo sarò più!!!"
 
-# game/dialogues/punishment.rpy:755
+# game/dialogues/punishment.rpy:759
 translate italian punishment_alice_1f7fc295:
 
     # Max_04 "{m}Вот в такие моменты я не жалею, что нас наказывают практически голыми на глазах друг у друга! Даже порно не надо, когда такое шоу в паре метров от меня!{/m}"
     Max_04 "{m}È in momenti come questo che non mi pento di essere stato punito praticamente nudo davanti all'altro! Non ho nemmeno bisogno del porno quando un tale spettacolo è a pochi metri di distanza!{/m}"
 
-# game/dialogues/punishment.rpy:757
+# game/dialogues/punishment.rpy:761
 translate italian punishment_alice_43f002e8:
 
     # Max_04 "{m}Люблю, когда Алису наказывают... Стервозинка она та ещё, но без последствий полюбоваться её голыми прелестями в других ситуациях опасно для жизни!{/m}"
     Max_04 "{m}Adoro quando Alice viene punita... È un po' stronza, ma è pericoloso ammirare il suo fascino nudo in altre situazioni senza conseguenze!{/m}"
 
-# game/dialogues/punishment.rpy:761
+# game/dialogues/punishment.rpy:765
 translate italian punishment_alice_9e2ea44b:
 
     # Ann_17 "Я знаю, что не будешь. Заслужила наказание, терпи!"
     Ann_17 "So che non lo farai. Meritata punizione, sopportare!"
 
-# game/dialogues/punishment.rpy:763
+# game/dialogues/punishment.rpy:767
 translate italian punishment_alice_be504ff7:
 
     # Alice_15 "Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
     Alice_15 "Ehi! Signora! Fa male! Mamma, non lo sarò più!!!"
 
-# game/dialogues/punishment.rpy:764
+# game/dialogues/punishment.rpy:768
 translate italian punishment_alice_02510b3b:
 
     # Ann_16 "Давай не мамкай тут! Я знаю, что не будешь. Заслужила наказание, терпи!"
     Ann_16 "Non facciamo la mamma qui! So che non lo farai. Meritata punizione, sopportare!"
 
-# game/dialogues/punishment.rpy:782
+# game/dialogues/punishment.rpy:786
 translate italian punishment_alice_7f307a07:
 
     # Ann_12 "Так, всё, надевай свои джинсы. Надеюсь, ты осознала свои поступки и следующего раза не будет..."
     Ann_12 "Quindi, questo è tutto, indossa i jeans. Spero che tu abbia realizzato le tue azioni e la prossima volta non sarà..."
 
-# game/dialogues/punishment.rpy:784
+# game/dialogues/punishment.rpy:788
 translate italian punishment_alice_06c1e8de:
 
     # Ann_12 "Так, всё, надевай свои шорты. Надеюсь, ты осознала свои поступки и следующего раза не будет..."
     Ann_12 "Quindi, questo è tutto, indossa i pantaloncini. Spero che tu abbia realizzato le tue azioni e la prossima volta non sarà..."
 
-# game/dialogues/punishment.rpy:786
+# game/dialogues/punishment.rpy:790
 translate italian punishment_alice_3006a77e:
 
     # Ann_12 "Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
@@ -836,6 +846,7 @@ translate italian punishment_alice_3006a77e:
 
 translate italian strings:
 
+    # game/dialogues/punishment.rpy:207
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 
@@ -931,67 +942,31 @@ translate italian strings:
     old "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
     new "Cosa ti nascondi dietro, Lisa? Vergognoso? Vergognoso? Va bene... Ora sdraiati sulle mie ginocchia. Presto!"
 
-    # game/dialogues/punishment.rpy:562
+    # game/dialogues/punishment.rpy:564
     old "Говоришь тебе, говоришь, все как об стенку горох..."
     new "Tu dici, tu dici, è come un muro di piselli..."
 
-    # game/dialogues/punishment.rpy:568
+    # game/dialogues/punishment.rpy:570
     old "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
     new "Sorprendentemente! Anche Max ti aiuta, e tu afferri i deuces!"
 
-    # game/dialogues/punishment.rpy:622
+    # game/dialogues/punishment.rpy:624
     old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
     new "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloni e si sdraiò sulle mie ginocchia, a cui raccontò!"
 
-    # game/dialogues/punishment.rpy:624
+    # game/dialogues/punishment.rpy:626
     old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
     new "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloncini e si sdraiò sulle mie ginocchia, che lei raccontò!"
 
-    # game/dialogues/punishment.rpy:628
+    # game/dialogues/punishment.rpy:630
     old "{i}Заступиться за Алису{/i}"
     new "{i}Difendete Alice{/i}"
 
-    # game/dialogues/punishment.rpy:686
+    # game/dialogues/punishment.rpy:688
     old "Теперь ложись побыстрее, ужин стынет..."
     new "Ora vai a letto velocemente, la cena è asciutta..."
 
-    # game/dialogues/punishment.rpy:689
+    # game/dialogues/punishment.rpy:691
     old "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
     new "Bene, Alice, ti vergogni? Silenzioso? Pensa al tuo atto mentre io ti punisco davanti a tutti... Sdraiati sulle mie ginocchia!"
-
-# game/dialogues/punishment.rpy:308
-translate italian punishment_max_pun_reson_e027e673:
-
-    # Max_14 "[impact_reduced!t]{m}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/m}"
-    Max_14 "[impact_reduced!t]{m}Mia madre mi punisce davanti alle mie sorelle... È così umiliante...{/m}"
-
-# game/dialogues/punishment.rpy:378
-translate italian punishment_max_pun_reson_a77a4336:
-
-    # Max_14 "[impact_reduced!t]{m}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/m}"
-    Max_14 "[impact_reduced!t]{m}Merda... Tutti sono così interessati a vedermi punito... È così umiliante...{/m}"
-
-# game/dialogues/punishment.rpy:519
-translate italian punishment_lisa_5e582e44:
-
-    # Ann_12 "Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... А ты, Лиза, не стой столбом, шевелись давай..."
-    Ann_12 "No, Max! E ringrazia che non ti sto punendo insieme a lei... E tu, Lisa, non stare lì, datti una mossa..."
-
-# game/dialogues/punishment.rpy:696
-translate italian punishment_alice_23976523:
-
-    # Max_07 "{m}Посмотрим, станет ли Алиса посговорчивей, если я перестану вмешиваться... Главное, успеть поговорить с ней, пока ей будет ещё больно сидеть!{/m}"
-    Max_07 "{m}Vediamo se Alice sarà più cooperativa se smetto di interferire... L'importante è riuscire a parlarle mentre sta ancora soffrendo da seduta!{/m}"
-
-# game/dialogues/punishment.rpy:712
-translate italian punishment_alice_3eaef6e3:
-
-    # Ann_12 "Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... Алиса, пошевеливайся..."
-    Ann_12 "No, Max! E ringrazia che non ti sto punendo insieme a lei... Alice, datti una mossa..."
-
-# game/dialogues/punishment.rpy:720
-translate italian punishment_alice_f34a7f97:
-
-    # Max_09 "{m}Ага, как же, не забудет она... Хм... Может, стоит попросить у неё что-нибудь, чтобы она не думала, что моя доброта безвозмездна?! И сделать это нужно сегодня, пока она ещё под впечатлением...{/m}"
-    Max_09 "{m}Sì, beh, non dimenticherà... Hmm... Forse dovrei chiederle qualcosa perché non pensi che la mia gentilezza sia gratuita. E dovrei farlo oggi, mentre lei ha ancora l'impressione...{/m}"
 

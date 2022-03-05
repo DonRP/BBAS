@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -10,9 +10,10 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-01-09 20:47\n"
+# "PO-Revision-Date: 2022-03-05 17:38\n"
 
-# TODO: Translation updated at 2021-12-05 17:43## 
+# TODO: Translation updated at 2022-03-05 HH:HH
+
 translate italian strings:
 
     # game/core/characters.rpy:230

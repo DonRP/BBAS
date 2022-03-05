@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -10,25 +10,31 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-01-30 11:26\n"
+# "PO-Revision-Date: 2022-03-05 17:38\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/core/oldfix.rpy:6
 translate italian old_fix_6c975de3:
-    # "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
-    "Il salvataggio della versione demo techno non è supportato. Inizia una nuova partita o scegli un salvataggio diverso."
+
+    # Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
+    new "Il salvataggio della versione demo techno non è supportato. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:10
 translate italian old_fix_93331e6b:
-    # "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-    "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
+
+    # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+    new "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:14
 translate italian old_fix_93331e6b_1:
-    # "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
-    "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
+
+    # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+    new "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 translate italian strings:
 
+    # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
     new "{i}{b}Nota:{/b} Finora, questo è tutto ciò che si può fare per questa \"funzione\" nella versione corrente del gioco. {/i}"
 
@@ -107,6 +113,10 @@ translate italian strings:
     # game/core/oldfix.rpy:658
     old "А что если я не буду помогать Лизе какое-то время? Или несколько раз сделаю ошибку в её работе?"
     new "E se non aiutassi Lisa per un po'? O farò un errore nel suo lavoro più volte?"
+
+    # game/core/oldfix.rpy:665
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
+    new "Sono stato l'unico a dare a Lisa un libro sull'educazione sessuale, eric si è subito presentato. Lui, vedete, insieme a mia madre, si occuperà della sua educazione sessuale! \n\nIn cambio della possibilità di spiare questo processo, ho accettato di sostenerlo. Non c'è bisogno che io litimi con Eric."
 
     # game/core/oldfix.rpy:697
     old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\nНаверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."

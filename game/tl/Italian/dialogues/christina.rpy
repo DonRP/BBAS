@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-01-09 20:46\n"
+# "PO-Revision-Date: 2022-03-05 17:39\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/dialogues/christina.rpy:7
 translate italian christina_first_talk_a072d515:
@@ -194,6 +196,7 @@ translate italian christina_first_talk_204a6521_1:
 
 translate italian strings:
 
+    # game/dialogues/christina.rpy:25
     old "Хорошего тебе дня!"
     new "Buona Giornata!"
 

@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 # "X-Crowdin-Project: big-brother-as\n"
 # "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-01-20 08:32\n"
+# "PO-Revision-Date: 2022-03-05 17:40\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/dialogues/breakfast.rpy:14
 translate french typical_breakfast_32286f7d:
@@ -1674,146 +1676,297 @@ translate french breakfast_18_next_bec83eb5:
     # Max_01 "Давайте, удачи..."
     Max_01 "Allez, bonne chance..."
 
-# game/dialogues/breakfast.rpy:835
+# game/dialogues/breakfast.rpy:841
 translate french breakfast_35_ca36c610:
 
     # Ann_04 "Всем доброе утро, приятного аппетита..."
     Ann_04 "Bonjour à tous, bon appétit..."
 
-# game/dialogues/breakfast.rpy:836
+# game/dialogues/breakfast.rpy:842
 translate french breakfast_35_b6e4f095:
 
     # Max_01 "Приятного аппетита..."
     Max_01 "Bon appétit..."
 
-# game/dialogues/breakfast.rpy:837
+# game/dialogues/breakfast.rpy:843
 translate french breakfast_35_ee7bd26a:
 
     # Lisa_02 "Как же всё-таки здорово, что ты снова с нами, тётя Кира! Мне так нравится одежда, которую ты нам подарила..."
     Lisa_02 "C'est génial de t'avoir à nouveau avec nous, tante Kira ! J'aime tellement les vêtements que tu nous as donnés..."
 
-# game/dialogues/breakfast.rpy:838
+# game/dialogues/breakfast.rpy:844
 translate french breakfast_35_dc2af0f6:
 
     # Ann_12 "За это, конечно, спасибо, но благо вы не видели в какой сорочке собиралась спать ваша тётя! Повезло, что я это заметила..."
     Ann_12 "Merci pour ça, bien sûr, mais c'est une bénédiction que tu n'aies pas vu dans quel genre de chemise ta tante allait dormir ! Heureusement que j'ai remarqué ça..."
 
-# game/dialogues/breakfast.rpy:839
+# game/dialogues/breakfast.rpy:845
 translate french breakfast_35_3c3029c9:
 
     # Kira_07 "Мне кажется, Ань, ты слишком волнуешься из-за этого."
     Kira_07 "Je pense, Anna, que tu t'inquiètes trop à ce sujet."
 
-# game/dialogues/breakfast.rpy:840
+# game/dialogues/breakfast.rpy:846
 translate french breakfast_35_9e534fbb:
 
     # Max_09 "А что с сорочкой не так?"
     Max_09 "Qu'est-ce qui ne va pas avec la chemise ?"
 
-# game/dialogues/breakfast.rpy:841
+# game/dialogues/breakfast.rpy:847
 translate french breakfast_35_361a3b97:
 
     # Ann_14 "Да там видно всё, что только можно! Не представляю, как ей вообще пришло в голову такое купить... Дети же увидят."
     Ann_14 "Tu peux voir tout ce qu'il y a à voir! Je ne peux pas imaginer comment elle a pu penser à acheter une telle chose... Les enfants verront."
 
-# game/dialogues/breakfast.rpy:842
+# game/dialogues/breakfast.rpy:848
 translate french breakfast_35_31bd5602:
 
     # Alice_05 "А я бы посмотрела на эту сорочку, похоже она интересная, раз мама так взволновалась."
     Alice_05 "Et je regardais cette chemise, elle semble intéressante puisque maman était si excitée."
 
-# game/dialogues/breakfast.rpy:843
+# game/dialogues/breakfast.rpy:849
 translate french breakfast_35_fcf5caa4:
 
     # Lisa_03 "И я..."
     Lisa_03 "Et je..."
 
-# game/dialogues/breakfast.rpy:844
+# game/dialogues/breakfast.rpy:850
 translate french breakfast_35_ee69b2c6:
 
     # Ann_13 "Так! Никто ничего не будет смотреть! Кира, не вздумай им показывать..."
     Ann_13 "C'est ça! Personne ne regardera quoi que ce soit! Kira, ne t'avise pas de le leur montrer..."
 
-# game/dialogues/breakfast.rpy:845
+# game/dialogues/breakfast.rpy:851
 translate french breakfast_35_937c8234:
 
     # Kira_04 "Ань, ну что ты в самом деле? Алиса уже взрослая. А Лиза... ну может ей такое ещё и рановато видеть, но ничего катастрофичного в этом всё равно нет."
     Kira_04 "Anna, vraiment ? Alice est une grande fille maintenant. Et Lisa... C'est peut-être un peu tôt pour elle, mais il n'y a rien de catastrophique de toute façon."
 
-# game/dialogues/breakfast.rpy:846
+# game/dialogues/breakfast.rpy:852
 translate french breakfast_35_b01754b3:
 
     # Alice_02 "Макс, а ты чего притих!? Ты видимо не понял, что мы тут об откровенной сорочке говорим, а ты даже не сказал своё любомое: \"Я бы тоже посмотрел...\"!"
     Alice_02 "Max, pourquoi es-tu si calme ? Tu n'as apparemment pas réalisé que nous parlons d'un maillot transparent et tu n'as même pas dit ta phrase préférée : 'Je veux la voir aussi...' !"
 
-# game/dialogues/breakfast.rpy:847
+# game/dialogues/breakfast.rpy:853
 translate french breakfast_35_4f031040:
 
     # Max_02 "Всё равно никто ничего мне не покажет такого..."
     Max_02 "Personne ne va me montrer quelque chose comme ça de toute façon..."
 
-# game/dialogues/breakfast.rpy:848
+# game/dialogues/breakfast.rpy:854
 translate french breakfast_35_1a4b2891:
 
     # Alice_01 "А я вот думаю, что ты уже успел увидеть! Признавайся!"
     Alice_01 "Je me demande ce que tu as déjà vu! Avoues!"
 
-# game/dialogues/breakfast.rpy:849
+# game/dialogues/breakfast.rpy:855
 translate french breakfast_35_34472028:
 
     # Max_07 "Я тихий, потому что всё не решаюсь спросить кое о чём... Как там Александра, тётя Кира!?"
     Max_07 "Je suis silencieux parce que j'hésite encore à demander quelque chose... Comment va Alexandra, tante Kira !?"
 
-# game/dialogues/breakfast.rpy:850
+# game/dialogues/breakfast.rpy:856
 translate french breakfast_35_0fa00af2:
 
     # Lisa_09 "Кстати, да! Ты была тогда так зла на неё, что запретила даже вспоминать о ней. У неё всё хорошо?"
     Lisa_09 "Au fait, oui! Tu étais tellement en colère contre elle à l'époque que tu nous interdisais même de penser à elle. Est-ce qu'elle va bien?"
 
-# game/dialogues/breakfast.rpy:851
+# game/dialogues/breakfast.rpy:857
 translate french breakfast_35_b37a11b6:
 
     # Kira_00 "Да что с ней будет! Всё у неё хорошо, по крайней мере сейчас. Возможно, она даже к нам заедет в скором времени, если ей, конечно, снова не взбредёт в голову отчудить что-нибудь безумное."
     Kira_00 "Que va-t-il advenir d'elle ? Elle va bien, du moins pour l'instant. Peut-être même qu'elle viendra nous voir bientôt, à moins, bien sûr, qu'elle ne fasse encore quelque chose de fou."
 
-# game/dialogues/breakfast.rpy:852
+# game/dialogues/breakfast.rpy:858
 translate french breakfast_35_0a7cc259:
 
     # Alice_12 "А что она в тот раз такое сделала?"
     Alice_12 "Qu'est-ce qu'elle a fait cette fois?"
 
-# game/dialogues/breakfast.rpy:853
+# game/dialogues/breakfast.rpy:859
 translate french breakfast_35_a8da0503:
 
     # Kira_14 "Давайте не будем об этом... Я стараюсь это забыть!"
     Kira_14 "Ne parlons pas de ça... J'essaie de l'oublier !"
 
-# game/dialogues/breakfast.rpy:854
+# game/dialogues/breakfast.rpy:860
 translate french breakfast_35_4a19b78c:
 
     # Max_08 "Хорошо... Она так и называет меня Макси?"
     Max_08 "D’accord... Est-ce ainsi qu’elle m’appelle, Maxi ?"
 
-# game/dialogues/breakfast.rpy:855
+# game/dialogues/breakfast.rpy:861
 translate french breakfast_35_2a3d1c38:
 
     # Kira_05 "Может быть да, а может и нет... Узнаешь, если она всё же к нам приедет."
     Kira_05 "Peut-être que oui, peut-être que non... Tu le sauras si elle vient nous voir."
 
-# game/dialogues/breakfast.rpy:856
+# game/dialogues/breakfast.rpy:862
 translate french breakfast_35_e6830c16:
 
     # Alice_07 "Мы так давно её не видели. Было бы здорово, если бы она к нам заглянула."
     Alice_07 "On ne l'a pas vue depuis si longtemps. Ce serait génial si elle pouvait passer nous voir."
 
-# game/dialogues/breakfast.rpy:857
+# game/dialogues/breakfast.rpy:863
 translate french breakfast_35_79b424d8:
 
     # Ann_02 "Да, Кира. Мы будем рады её увидеть. Думаю, завтрак мы на этом закончим. Спасибо вам всем!"
     Ann_02 "Oui, Kira. Nous aimerions la voir. Je pense qu'on va s'arrêter là. Merci à tous !"
 
+# game/dialogues/breakfast.rpy:870
+translate french breakfast_after_showdown_with_eric_d26cf396:
+
+    # Ann_00 "Всем приятного аппетита! Давайте просто помолчим и поедим."
+    Ann_00 "bon appétit à Tous! Taisons - nous et mangeons."
+
+# game/dialogues/breakfast.rpy:871
+translate french breakfast_after_showdown_with_eric_8a681cc1:
+
+    # Max_00 "Конечно..."
+    Max_00 "Bien sûr..."
+
+# game/dialogues/breakfast.rpy:872
+translate french breakfast_after_showdown_with_eric_fcdb0431:
+
+    # Lisa_10 "Подожди, мам, ты почему такая грустная? Неужели до сих пор грустишь из-за Эрика?"
+    Lisa_10 "attends, maman, pourquoi es-tu si triste? Tu es toujours triste à propos d'Eric?"
+
+# game/dialogues/breakfast.rpy:873
+translate french breakfast_after_showdown_with_eric_59835e43:
+
+    # Alice_05 "Мама, да не переживай ты так! Мужиков этих, как грязи, а ты у нас красавица! Они к тебе сами слетаться будут, как пчёлы на мёд, только выбирай!"
+    Alice_05 "maman, ne t'inquiète pas comme ça! Ces hommes sont comme de la boue, et vous êtes belle! Ils vont s'envoler pour vous, comme des abeilles sur le miel, il suffit de choisir!"
+
+# game/dialogues/breakfast.rpy:874
+translate french breakfast_after_showdown_with_eric_64589ce5:
+
+    # Max_07 "Вот не надо... Что-то случилось?"
+    Max_07 "non... Quelque chose s'est passé?"
+
+# game/dialogues/breakfast.rpy:875
+translate french breakfast_after_showdown_with_eric_523c4edf:
+
+    # Ann_12 "Эээ... В некотором смысле, да... Это всё из-за работы..."
+    Ann_12 "Eee... Dans un certain sens, oui... C'est à cause du travail..."
+
+# game/dialogues/breakfast.rpy:876
+translate french breakfast_after_showdown_with_eric_aa6a0925:
+
+    # Kira_14 "Аня, что опять стряслось?! На тебе лица нет!"
+    Kira_14 "Anya, qu'est-ce qui s'est encore passé?! Tu n'as pas de visage!"
+
+# game/dialogues/breakfast.rpy:877
+translate french breakfast_after_showdown_with_eric_c53523b1:
+
+    # Max_09 "Да, мам... в чём дело?"
+    Max_09 "oui, maman... en quoi l'affaire?"
+
+# game/dialogues/breakfast.rpy:878
+translate french breakfast_after_showdown_with_eric_d19c6569:
+
+    # Ann_14 "Нуу... Если вы помните, то Эрик мой начальник и, как вы все прекрасно понимаете, теперь у нас с ним складываются весьма натянутые отношения."
+    Ann_14 "Nuu... Si vous vous souvenez, Eric est mon patron et, comme vous le savez tous, nous avons maintenant une relation très tendue avec lui."
+
+# game/dialogues/breakfast.rpy:879
+translate french breakfast_after_showdown_with_eric_e556daca:
+
+    # Alice_06 "Ничего себе... Я и забыла, что вы работаете вместе. Так может это и к лучшему? Может тебе уволиться, чтобы нервы не трепать? Устроишься в другое место! Лучше прежнего!"
+    Alice_06 "Wow... J'avais oublié que vous travailliez ensemble. C'est peut-être pour le mieux? Peut-être que tu devrais démissionner pour ne pas t'énerver. Tu vas t'installer ailleurs! Mieux que l'ancien!"
+
+# game/dialogues/breakfast.rpy:880
+translate french breakfast_after_showdown_with_eric_8b47b3d2:
+
+    # Max_00 "Согласен с Алисой!"
+    Max_00 "D'accord avec Alice!"
+
+# game/dialogues/breakfast.rpy:881
+translate french breakfast_after_showdown_with_eric_6cb65c7a:
+
+    # Kira_15 "Слушай, Ань, а может тебе и правда уйти? Как можно терпеть каждый день человека, который сделал тебе столько гадостей?"
+    Kira_15 "écoute, Anh, tu peux vraiment partir? Comment peut-on supporter chaque jour un homme qui t'a fait tant de choses?"
+
+# game/dialogues/breakfast.rpy:882
+translate french breakfast_after_showdown_with_eric_d661b13d:
+
+    # Ann_13 "Боюсь, что с этим могут быть проблемы..."
+    Ann_13 "j'ai Peur qu'il y ait des problèmes avec ça..."
+
+# game/dialogues/breakfast.rpy:883
+translate french breakfast_after_showdown_with_eric_024b2013:
+
+    # Max_09 "В каком смысле, мам?"
+    Max_09 "comment ça, maman?"
+
+# game/dialogues/breakfast.rpy:884
+translate french breakfast_after_showdown_with_eric_f91c5150:
+
+    # Ann_14 "В общем, он очень злопамятным оказался. Пообещал, что постарается, чтобы я никогда не смогла найти приличную работу в этом городе. Злорадствует, гад!"
+    Ann_14 "En général, il était très rancunier. Il m'a promis qu'il essaierait de ne jamais trouver de travail décent dans cette ville. Jubilé, enfoiré!"
+
+# game/dialogues/breakfast.rpy:885
+translate french breakfast_after_showdown_with_eric_bfdeb3ee:
+
+    # Max_16 "Вот подонок! И это после всего, что он тут устроил?!"
+    Max_16 "espèce d'enfoiré! Et c'est après tout ce qu'il a fait ici?!"
+
+# game/dialogues/breakfast.rpy:886
+translate french breakfast_after_showdown_with_eric_5b0614af:
+
+    # Ann_17 "Наверное, я поступила слишком резко, выставив его за дверь..."
+    Ann_17 "je suppose que j'ai agi trop brusquement en le mettant à la porte..."
+
+# game/dialogues/breakfast.rpy:887
+translate french breakfast_after_showdown_with_eric_1dd25179:
+
+    # Lisa_13 "Мам, что ты такое говоришь? Неужели ты готова смириться с тем, чтобы тебя и нас развращал этот мерзавец? Вдруг он действительно... маньяк!"
+    Lisa_13 "Maman, qu'est-ce que tu dis? Es-tu prête à accepter d'être corrompue par ce salaud? Soudain, il est vraiment... maniaque!"
+
+# game/dialogues/breakfast.rpy:888
+translate french breakfast_after_showdown_with_eric_62c62745:
+
+    # Ann_13 "Ага! То хвостом вертели, крутились вокруг него, подарочки принимали. Эрик хороший! Эрик добрый! Мама с Эриком так счастлива! А теперь маньяк?!"
+    Ann_13 "ouais! Puis la queue tournait, tournait autour de lui, les cadeaux prenaient. Eric est gentil! Eric est gentil! Maman et Eric sont si heureux! Et maintenant un maniaque?!"
+
+# game/dialogues/breakfast.rpy:889
+translate french breakfast_after_showdown_with_eric_ee4c327b:
+
+    # Alice_16 "А тех доказательств, что предоставил Макс, тебе недостаточно? Может будет убедительнее, когда Эрик устроит оргию со всеми нами прямо у тебя на глазах?"
+    Alice_16 "et les preuves que Max a fournies ne te suffisent pas? Peut-être plus convaincant quand Eric va faire une orgie avec nous tous devant toi?"
+
+# game/dialogues/breakfast.rpy:890
+translate french breakfast_after_showdown_with_eric_6ff1ea73:
+
+    # Kira_01 "Прекрати, Аня, мы что-нибудь обязательно придумаем!"
+    Kira_01 "arrête, Anya, on va trouver quelque chose!"
+
+# game/dialogues/breakfast.rpy:891
+translate french breakfast_after_showdown_with_eric_66e7da4f:
+
+    # Max_07 "Да, мам. Что-нибудь придумаем!"
+    Max_07 "oui, maman. On va trouver quelque chose!"
+
+# game/dialogues/breakfast.rpy:892
+translate french breakfast_after_showdown_with_eric_e1136eba:
+
+    # Ann_00 "Спасибо вам за поддержку, мои родные! Я постараюсь поменьше контактировать с Эриком. Если уже в конец достанет, то уйду с работы."
+    Ann_00 "Merci pour votre soutien, ma famille! Je vais essayer de ne pas avoir de contact avec Eric. S'il arrive à la fin, je démissionne."
+
+# game/dialogues/breakfast.rpy:893
+translate french breakfast_after_showdown_with_eric_81418ab0:
+
+    # Max_01 "Мы рядом, мам, это главное."
+    Max_01 "nous sommes là, maman, c'est l'essentiel."
+
+# game/dialogues/breakfast.rpy:894
+translate french breakfast_after_showdown_with_eric_8d40d181:
+
+    # Ann_01 "Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
+    Ann_01 "Merci à tous pour le petit déjeuner... Je vais rester seul avec mes pensées."
+
 translate french strings:
 
+    # game/dialogues/breakfast.rpy:13
     old "Конечно, мам..."
     new "Bien sûr, maman..."
 
@@ -2476,154 +2629,4 @@ translate french strings:
     # game/dialogues/breakfast.rpy:798
     old "Ну, не настолько хороший..."
     new "Eh bien, pas si bien que ça..."
-
-# game/dialogues/breakfast.rpy:870
-translate french breakfast_after_showdown_with_eric_d26cf396:
-
-    # Ann_00 "Всем приятного аппетита! Давайте просто помолчим и поедим."
-    Ann_00 "bon appétit à Tous! Taisons - nous et mangeons."
-
-# game/dialogues/breakfast.rpy:871
-translate french breakfast_after_showdown_with_eric_8a681cc1:
-
-    # Max_00 "Конечно..."
-    Max_00 "Bien sûr..."
-
-# game/dialogues/breakfast.rpy:872
-translate french breakfast_after_showdown_with_eric_fcdb0431:
-
-    # Lisa_10 "Подожди, мам, ты почему такая грустная? Неужели до сих пор грустишь из-за Эрика?"
-    Lisa_10 "attends, maman, pourquoi es-tu si triste? Tu es toujours triste à propos d'Eric?"
-
-# game/dialogues/breakfast.rpy:873
-translate french breakfast_after_showdown_with_eric_59835e43:
-
-    # Alice_05 "Мама, да не переживай ты так! Мужиков этих, как грязи, а ты у нас красавица! Они к тебе сами слетаться будут, как пчёлы на мёд, только выбирай!"
-    Alice_05 "maman, ne t'inquiète pas comme ça! Ces hommes sont comme de la boue, et vous êtes belle! Ils vont s'envoler pour vous, comme des abeilles sur le miel, il suffit de choisir!"
-
-# game/dialogues/breakfast.rpy:874
-translate french breakfast_after_showdown_with_eric_64589ce5:
-
-    # Max_07 "Вот не надо... Что-то случилось?"
-    Max_07 "non... Quelque chose s'est passé?"
-
-# game/dialogues/breakfast.rpy:875
-translate french breakfast_after_showdown_with_eric_523c4edf:
-
-    # Ann_12 "Эээ... В некотором смысле, да... Это всё из-за работы..."
-    Ann_12 "Eee... Dans un certain sens, oui... C'est à cause du travail..."
-
-# game/dialogues/breakfast.rpy:876
-translate french breakfast_after_showdown_with_eric_aa6a0925:
-
-    # Kira_14 "Аня, что опять стряслось?! На тебе лица нет!"
-    Kira_14 "Anya, qu'est-ce qui s'est encore passé?! Tu n'as pas de visage!"
-
-# game/dialogues/breakfast.rpy:877
-translate french breakfast_after_showdown_with_eric_c53523b1:
-
-    # Max_09 "Да, мам... в чём дело?"
-    Max_09 "oui, maman... en quoi l'affaire?"
-
-# game/dialogues/breakfast.rpy:878
-translate french breakfast_after_showdown_with_eric_d19c6569:
-
-    # Ann_14 "Нуу... Если вы помните, то Эрик мой начальник и, как вы все прекрасно понимаете, теперь у нас с ним складываются весьма натянутые отношения."
-    Ann_14 "Nuu... Si vous vous souvenez, Eric est mon patron et, comme vous le savez tous, nous avons maintenant une relation très tendue avec lui."
-
-# game/dialogues/breakfast.rpy:879
-translate french breakfast_after_showdown_with_eric_e556daca:
-
-    # Alice_06 "Ничего себе... Я и забыла, что вы работаете вместе. Так может это и к лучшему? Может тебе уволиться, чтобы нервы не трепать? Устроишься в другое место! Лучше прежнего!"
-    Alice_06 "Wow... J'avais oublié que vous travailliez ensemble. C'est peut-être pour le mieux? Peut-être que tu devrais démissionner pour ne pas t'énerver. Tu vas t'installer ailleurs! Mieux que l'ancien!"
-
-# game/dialogues/breakfast.rpy:880
-translate french breakfast_after_showdown_with_eric_8b47b3d2:
-
-    # Max_00 "Согласен с Алисой!"
-    Max_00 "D'accord avec Alice!"
-
-# game/dialogues/breakfast.rpy:881
-translate french breakfast_after_showdown_with_eric_6cb65c7a:
-
-    # Kira_15 "Слушай, Ань, а может тебе и правда уйти? Как можно терпеть каждый день человека, который сделал тебе столько гадостей?"
-    Kira_15 "écoute, Anh, tu peux vraiment partir? Comment peut-on supporter chaque jour un homme qui t'a fait tant de choses?"
-
-# game/dialogues/breakfast.rpy:882
-translate french breakfast_after_showdown_with_eric_d661b13d:
-
-    # Ann_13 "Боюсь, что с этим могут быть проблемы..."
-    Ann_13 "j'ai Peur qu'il y ait des problèmes avec ça..."
-
-# game/dialogues/breakfast.rpy:883
-translate french breakfast_after_showdown_with_eric_024b2013:
-
-    # Max_09 "В каком смысле, мам?"
-    Max_09 "comment ça, maman?"
-
-# game/dialogues/breakfast.rpy:884
-translate french breakfast_after_showdown_with_eric_f91c5150:
-
-    # Ann_14 "В общем, он очень злопамятным оказался. Пообещал, что постарается, чтобы я никогда не смогла найти приличную работу в этом городе. Злорадствует, гад!"
-    Ann_14 "En général, il était très rancunier. Il m'a promis qu'il essaierait de ne jamais trouver de travail décent dans cette ville. Jubilé, enfoiré!"
-
-# game/dialogues/breakfast.rpy:885
-translate french breakfast_after_showdown_with_eric_bfdeb3ee:
-
-    # Max_16 "Вот подонок! И это после всего, что он тут устроил?!"
-    Max_16 "espèce d'enfoiré! Et c'est après tout ce qu'il a fait ici?!"
-
-# game/dialogues/breakfast.rpy:886
-translate french breakfast_after_showdown_with_eric_5b0614af:
-
-    # Ann_17 "Наверное, я поступила слишком резко, выставив его за дверь..."
-    Ann_17 "je suppose que j'ai agi trop brusquement en le mettant à la porte..."
-
-# game/dialogues/breakfast.rpy:887
-translate french breakfast_after_showdown_with_eric_1dd25179:
-
-    # Lisa_13 "Мам, что ты такое говоришь? Неужели ты готова смириться с тем, чтобы тебя и нас развращал этот мерзавец? Вдруг он действительно... маньяк!"
-    Lisa_13 "Maman, qu'est-ce que tu dis? Es-tu prête à accepter d'être corrompue par ce salaud? Soudain, il est vraiment... maniaque!"
-
-# game/dialogues/breakfast.rpy:888
-translate french breakfast_after_showdown_with_eric_62c62745:
-
-    # Ann_13 "Ага! То хвостом вертели, крутились вокруг него, подарочки принимали. Эрик хороший! Эрик добрый! Мама с Эриком так счастлива! А теперь маньяк?!"
-    Ann_13 "ouais! Puis la queue tournait, tournait autour de lui, les cadeaux prenaient. Eric est gentil! Eric est gentil! Maman et Eric sont si heureux! Et maintenant un maniaque?!"
-
-# game/dialogues/breakfast.rpy:889
-translate french breakfast_after_showdown_with_eric_ee4c327b:
-
-    # Alice_16 "А тех доказательств, что предоставил Макс, тебе недостаточно? Может будет убедительнее, когда Эрик устроит оргию со всеми нами прямо у тебя на глазах?"
-    Alice_16 "et les preuves que Max a fournies ne te suffisent pas? Peut-être plus convaincant quand Eric va faire une orgie avec nous tous devant toi?"
-
-# game/dialogues/breakfast.rpy:890
-translate french breakfast_after_showdown_with_eric_6ff1ea73:
-
-    # Kira_01 "Прекрати, Аня, мы что-нибудь обязательно придумаем!"
-    Kira_01 "arrête, Anya, on va trouver quelque chose!"
-
-# game/dialogues/breakfast.rpy:891
-translate french breakfast_after_showdown_with_eric_66e7da4f:
-
-    # Max_07 "Да, мам. Что-нибудь придумаем!"
-    Max_07 "oui, maman. On va trouver quelque chose!"
-
-# game/dialogues/breakfast.rpy:892
-translate french breakfast_after_showdown_with_eric_e1136eba:
-
-    # Ann_00 "Спасибо вам за поддержку, мои родные! Я постараюсь поменьше контактировать с Эриком. Если уже в конец достанет, то уйду с работы."
-    Ann_00 "Merci pour votre soutien, ma famille! Je vais essayer de ne pas avoir de contact avec Eric. S'il arrive à la fin, je démissionne."
-
-# game/dialogues/breakfast.rpy:893
-translate french breakfast_after_showdown_with_eric_81418ab0:
-
-    # Max_01 "Мы рядом, мам, это главное."
-    Max_01 "nous sommes là, maman, c'est l'essentiel."
-
-# game/dialogues/breakfast.rpy:894
-translate french breakfast_after_showdown_with_eric_8d40d181:
-
-    # Ann_01 "Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
-    Ann_01 "Merci à tous pour le petit déjeuner... Je vais rester seul avec mes pensées."
 
