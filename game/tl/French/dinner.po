@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/dinner.po\n"
-"X-Crowdin-File-ID: 993\n"
+"X-Crowdin-File-ID: 3360\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-05 17:39\n"
+"PO-Revision-Date: 2022-03-05 18:35\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01]Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать...[nointeract]"
@@ -30,11 +30,11 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:77 ## translate crowdin typical_dinner_1211a2f4:
 msgid "[Ann_05]Спасибо за понимание, Макс! Ну, приступим..."
-msgstr "[Ann_05]Merci de ta compréhension, Max! Eh bien, commençons..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:78 ## translate crowdin typical_dinner_4a7da202:
 msgid "[Max_00]Приятного аппетита!"
-msgstr "[Max_00]Bon appétit!"
+msgstr ""
 
 # game/dialogues/dinner.rpy:80 ## translate crowdin typical_dinner_e7b121b0:
 msgid "[Ann_05]Да, всё в порядке, Макс. Спасибо, что спросил. Просто за день столько всего, что пора бы уже и отдохнуть..."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:81 ## translate crowdin typical_dinner_63f629c8:
 msgid "[Max_00]Понятно. Приятного аппетита!"
-msgstr "[Max_00]Compris. Bon appétit!"
+msgstr ""
 
 # game/dialogues/dinner.rpy:87 ## translate crowdin dinner_first_650c2c5d:
 msgid "[Ann_07]Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
@@ -510,7 +510,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:426 ## translate crowdin dinner_4_25aa812b:
 msgid "[Max_01]Конечно!"
-msgstr "[Max_01]Bien sûr !"
+msgstr ""
 
 # game/dialogues/dinner.rpy:428 ## translate crowdin dinner_4_1a653e5d:
 msgid "[Ann_05]Вот и молодцы. Давайте не ругайтесь, не ссорьтесь. Если что - звоните, я сразу приеду..."
@@ -518,7 +518,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:429 ## translate crowdin dinner_4_9b836c58:
 msgid "[Max_04]Конечно!"
-msgstr "[Max_04]Bien sûr !"
+msgstr ""
 
 # game/dialogues/dinner.rpy:431 ## translate crowdin dinner_4_2a409626:
 msgid "[Ann_14]Макс, твои глупые вопросы меня смущают. В общем, не теряйте, утром вернусь..."
@@ -526,7 +526,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:432 ## translate crowdin dinner_4_f3fba9dc:
 msgid "[Max_00]Ладно, мам..."
-msgstr "[Max_00]Ok, maman..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:442 ## translate crowdin dinner_5_433b61db:
 msgid "[Ann_04]Молодцы, что все собрались. Всем приятного аппетита!"
@@ -626,7 +626,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:490 ## translate crowdin dinner_6_f3fba9dc:
 msgid "[Max_00]Ладно, мам..."
-msgstr "[Max_00]Ok, maman..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:492 ## translate crowdin dinner_6_1af1f49a:
 msgid "[Ann_05]Вот в чём дело! Да, я тебя понимаю, Макс. Но ты не переживай и лучше порадуйся за меня. Я очень рада, что встретила Эрика, настоящего мужчину и очень хотела бы, чтобы вы его приняли в семью..."
@@ -634,7 +634,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:493 ## translate crowdin dinner_6_d66e2468:
 msgid "[Max_00]Хорошо, мам..."
-msgstr "[Max_00]D’accord, maman..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:495 ## translate crowdin dinner_6_08736234:
 msgid "[Ann_00]Макс! Ты стал вести себя слишком агрессивно. Возможно, это гормоны, а может быть, ты почувствовал какую-то для себя угрозу со стороны Эрика. Но уверяю тебя, не стоит. Эрик очень хороший, ты сам это поймёшь!"
@@ -642,7 +642,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:496 ## translate crowdin dinner_6_80f63239:
 msgid "[Max_00]Как скажешь, мам..."
-msgstr "[Max_00]Comme tu veux, maman..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:499 ## translate crowdin dinner_6_99a07aeb:
 msgid "[Eric_02]Макс, мне показалось, или я тебе не очень нравлюсь?[nointeract]"
@@ -662,7 +662,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:505 ## translate crowdin dinner_6_d66e2468_1:
 msgid "[Max_00]Хорошо, мам..."
-msgstr "[Max_00]D’accord, maman..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:507 ## translate crowdin dinner_6_08736234_1:
 msgid "[Ann_00]Макс! Ты стал вести себя слишком агрессивно. Возможно, это гормоны, а может быть, ты почувствовал какую-то для себя угрозу со стороны Эрика. Но уверяю тебя, не стоит. Эрик очень хороший, ты сам это поймёшь!"
@@ -670,7 +670,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:508 ## translate crowdin dinner_6_80f63239_1:
 msgid "[Max_00]Как скажешь, мам..."
-msgstr "[Max_00]Comme tu veux, maman..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:509 ## translate crowdin dinner_6_2dc57b31:
 msgid "[Ann_07]Вот и замечательно. Теперь я хотела бы рассказать об одной идее Эрика. Я и сама о подобном задумывалась, но он озвучил мои мысли. Эрик, может быть ты и расскажешь?"
@@ -886,7 +886,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:590 ## translate crowdin dinner_12_b6e4f095:
 msgid "[Max_01]Приятного аппетита..."
-msgstr "[Max_01]Bon appétit..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:592 ## translate crowdin dinner_12_fabf0476:
 msgid "[Ann_07]У меня для вас отличная новость! Это связано с кем-то, кого вы очень любите...[nointeract]"
@@ -986,7 +986,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:639 ## translate crowdin dinner_12_9816e105:
 msgid "[Max_05]Супер!"
-msgstr "[Max_05]Super!"
+msgstr ""
 
 # game/dialogues/dinner.rpy:640 ## translate crowdin dinner_12_10b24d25:
 msgid "[Ann_02]Да, она сказала, что приедет в ближайшие выходные, если решит какие-то очередные свои проблемы. Так что, ничего не планируйте. Да, спасибо всем за ужин. Хорошо поболтали."
@@ -1058,7 +1058,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:678 ## translate crowdin dinner_17_sleep_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]D’accord..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:685 ## translate crowdin dinner_ab_lisa_ed_d04275cc:
 msgid "[Ann_04]Всем приятного аппетита!"
@@ -1066,7 +1066,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:686 ## translate crowdin dinner_ab_lisa_ed_b6e4f095:
 msgid "[Max_01]Приятного аппетита..."
-msgstr "[Max_01]Bon appétit..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:687 ## translate crowdin dinner_ab_lisa_ed_dc1cdcf5:
 msgid "[Ann_05]Лиза, у Эрика для тебя есть новость..."
@@ -1162,7 +1162,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:737 ## translate crowdin dinner_ab_earn_b6e4f095:
 msgid "[Max_01]Приятного аппетита..."
-msgstr "[Max_01]Bon appétit..."
+msgstr ""
 
 # game/dialogues/dinner.rpy:738 ## translate crowdin dinner_ab_earn_a58a530c:
 msgid "[Ann_02]Что-нибудь случилось интересное, пока я отсутствовала?"
@@ -1262,7 +1262,7 @@ msgstr ""
 
 # game/dialogues/dinner.rpy:775 ## translate crowdin dinner_lace_lingerie_e0b844ce:
 msgid "[Max_01]Пока, мам..."
-msgstr "[Max_01]Au revoir, maman..."
+msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/dinner.rpy:75
 msgid "Как скажешь, мам..."
