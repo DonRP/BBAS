@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-05 17:41\n"
+"PO-Revision-Date: 2022-03-05 18:05\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:372
 msgid "Не определены"
-msgstr ""
+msgstr "Non definito"
 
 # XX## game/core/08_verification.rpy:374
 msgid "Откровенная вражда"
-msgstr ""
+msgstr "Ostilità aperta"
 
 # XX## game/core/08_verification.rpy:384
 msgid "Дружба"
-msgstr ""
+msgstr "Amicizia"
 
 # XX## game/core/08_verification.rpy:392
 msgid "Настоящая дружба"
-msgstr ""
+msgstr "La vera amicizia"
 
 # XX## game/core/08_verification.rpy:403
 msgid "Фальшивая дружба"
-msgstr ""
+msgstr "Finta amicizia"
 
