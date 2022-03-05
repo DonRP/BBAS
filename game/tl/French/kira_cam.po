@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:47\n"
+"PO-Revision-Date: 2022-03-05 17:39\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# game/events/kira_cam.rpy:7 ## translate crowdin cam0_kira_sleep_night_07884053:
+# TODO: Translation updated at 2022-03-05 HH:HH# game/events/kira_cam.rpy:7 ## translate crowdin cam0_kira_sleep_night_07884053:
 msgid "[Max_01]{m}Моя очаровательная тётя Кира спит...{/m}"
 msgstr "[Max_01]{m}Ma charmante tante Kira dort...{/m}"
 
