@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-02-28 17:47\n"
+"PO-Revision-Date: 2022-03-05 17:40\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# game/events/eric_cam.rpy:13 ## translate crowdin cam0_eric_ann_sleep_b363be42:
+# TODO: Translation updated at 2022-03-05 HH:HH# game/events/eric_cam.rpy:13 ## translate crowdin cam0_eric_ann_sleep_b363be42:
 msgid "[Max_07]{m}Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда...{/m}"
 msgstr ""
 
