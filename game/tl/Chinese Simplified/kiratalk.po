@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/kiratalk.po\n"
-"X-Crowdin-File-ID: 1251\n"
+"X-Crowdin-File-ID: 3364\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:37\n"
+"PO-Revision-Date: 2022-03-05 18:36\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -78,7 +78,7 @@ msgstr ""
 
 # game/dialogues/kiratalk.rpy:76 ## translate crowdin kira_firsttalk_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]好..."
+msgstr ""
 
 # game/dialogues/kiratalk.rpy:81 ## translate crowdin kira_firsttalk_92344759:
 msgid "[Max_03]{m}Расслабиться в душе? Легко. Особенно, когда рядом такая женщина. Ух! Я и не задумывался о своей тёте в этом плане никогда, но сейчас что-то изменилось... или во мне или в ней...{/m}[nointeract]"
@@ -198,7 +198,7 @@ msgstr ""
 
 # game/dialogues/kiratalk.rpy:148 ## translate crowdin kira_talk2_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]好..."
+msgstr ""
 
 # game/dialogues/kiratalk.rpy:155 ## translate crowdin kira_talk2_2e01812f:
 msgid "[Max_20]{m}Вроде тётя Кира специально и не провоцирует, но меня к ней так тянет. Её горячее, почти обнажённое тело так и манит...{/m}[nointeract]"
@@ -242,7 +242,7 @@ msgstr ""
 
 # game/dialogues/kiratalk.rpy:183 ## translate crowdin kira_talk3_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/kiratalk.rpy:185 ## translate crowdin kira_talk3_4fe1e9be:
 msgid "[Kira_13]Слушай, Макс, а тебе не показалось, что твоя мама какая-то... странная. Я имею в виду её одержимость Эриком...[nointeract]"
@@ -1546,7 +1546,7 @@ msgstr ""
 
 # game/dialogues/kiratalk.rpy:1153 ## translate crowdin kira_about_photo3_0_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/kiratalk.rpy:1169 ## translate crowdin kira_about_photo3_1_42291d98:
 msgid "[Kira_03]Эй, Макс, у меня есть новости о нашей будущей фотосессии... Только тихо! Тссс..."
