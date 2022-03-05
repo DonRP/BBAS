@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/anntalk.po\n"
-"X-Crowdin-File-ID: 1037\n"
+"X-Crowdin-File-ID: 3354\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:39\n"
+"PO-Revision-Date: 2022-03-05 18:35\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
@@ -18,31 +18,31 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:27 ## translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
-msgstr "]出什么事了，亲爱的？"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:54 ## translate crowdin Ann_badbadmood_321edff9:
 msgid "[Ann_18]Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать![nointeract]"
-msgstr "麦克斯，我现在心情很好，不想和你说话！"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:63 ## translate crowdin Ann_badmood_46817e38:
 msgid "[Ann_18]Макс, я сейчас не в настроении и не хочу разговаривать.[nointeract]"
-msgstr "麦克斯，我现在心情不好，不想说话。"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:72 ## translate crowdin Ann_asksorry_634d3dbe:
 msgid "[Ann_01]Да? Я тебя слушаю?[nointeract]"
-msgstr "是吗？我在听你说话吗？"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:79 ## translate crowdin Ann_normalmood_085fa1a6:
 msgid "[Ann_18]Макс, не сейчас, хорошо?[nointeract]"
-msgstr "麦克斯，现在不行，好吗？"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:85 ## translate crowdin Ann_cooldown_caafbb44:
 msgid "[Ann_18]Макс, давай сменим тему..."
-msgstr "[Ann_18]麦克斯，让我们换个话题..."
+msgstr ""
 
 # game/dialogues/anntalk.rpy:86 ## translate crowdin Ann_cooldown_fa220d84:
 msgid "[Max_00]Ок, мам..."
-msgstr "[Max_00]再见 妈妈..."
+msgstr ""
 
 # game/dialogues/anntalk.rpy:93 ## translate crowdin ann_ask_money_cf2d6379:
 msgid "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
@@ -50,15 +50,15 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:97 ## translate crowdin ann_ask_money_59ac536a:
 msgid "[Ann_05]Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста...[nointeract]"
-msgstr "麦克斯，你看，我现在很忙…请挑选一个更合适的时间……"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:102 ## translate crowdin ann_ask_money_2dec4e10:
 msgid "[Ann_05]Очень смешно, Макс. Ты видишь у меня карманы? Нет? Выбери более подходящий момент, пожалуйста...[nointeract]"
-msgstr "[Ann_05]很有趣，麦克斯你能看见我的口袋吗？不是吗？请选择一个更合适的时机[nointeract]..."
+msgstr ""
 
 # game/dialogues/anntalk.rpy:109 ## translate crowdin ann_ask_money_81819136:
 msgid "[Ann_00]Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?[nointeract]"
-msgstr "麦克斯，你向妈妈要钱不惭愧吗，你整天呆在家里什么都不做？"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:113 ## translate crowdin ann_ask_money_cc7b3480:
 msgid "[Ann_04]Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают...[nointeract]"
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:272 ## translate crowdin ann_talk_tv_start_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr "[Max_01]当然，妈妈！"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:288 ## translate crowdin ann_tv_casual_0_de055873:
 msgid "[Max_02]{m}Мама так близко... В одном полотенце... Даже не знаю о чём сериал, о нём я думать точно не могу...{/m}"
@@ -298,7 +298,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:440 ## translate crowdin ann_tv_casual_1_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr "[Max_01]当然，妈妈！"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:445 ## translate crowdin ann_tv_casual_1_284457e7:
 msgid "[Ann_05]Ого, Макс... Алиса была права. Ты делаешь это и правда очень хорошо..."
@@ -558,7 +558,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:715 ## translate crowdin Ann_MorningWood_26bf3db9:
 msgid "[Max_01]Хорошо, мам..."
-msgstr "[Max_01]好吧 妈妈..."
+msgstr ""
 
 # game/dialogues/anntalk.rpy:719 ## translate crowdin Ann_MorningWood_fe9ff73d:
 msgid "[Ann_05]Вот и молодец. А если такое повторится, просто прикройся, как будто ничего нет..."
@@ -1186,7 +1186,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1202 ## translate crowdin ann_gift_fit1_e41c68c6:
 msgid "[Ann_07]И я тебя, Макс..."
-msgstr "[Ann_07]我是你"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:1204 ## translate crowdin ann_gift_fit1_8e40314a:
 msgid "[Ann_02]Спасибо, сынок! И ты тоже..."
@@ -1654,7 +1654,7 @@ msgstr ""
 
 # game/dialogues/anntalk.rpy:1743 ## translate crowdin erofilm2_2_end_acd22c78:
 msgid "[Max_01]Конечно, мам!"
-msgstr "[Max_01]当然，妈妈！"
+msgstr ""
 
 # game/dialogues/anntalk.rpy:1760 ## translate crowdin ann_about_wallet_90e1fc67:
 msgid "[Ann_16]Ты вернул Эрику бумажник и деньги?"
