@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-02-28 17:45\n"
+"PO-Revision-Date: 2022-03-05 17:38\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
+# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid "Ужасное"
 msgstr "سيء للغاية"
 
@@ -52,7 +52,7 @@ msgstr "مدهش"
 msgid "Приобретен пакет рекламы"
 msgstr "شراء حزمة إعلانية"
 
-# XX## game/core/01classes.rpy:1333
+# XX## game/core/01classes.rpy:1334
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "{لون =[lime]}{i}{b}الانتباه:{/b} تم الحصول على \"فرصة\" جديدة! {/i} {/اللون}"
 
