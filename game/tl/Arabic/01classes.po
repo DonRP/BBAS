@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/01classes.po\n"
+"X-Crowdin-File-ID: 785\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2022-03-05 17:38\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
+msgid "Ужасное"
+msgstr "سيء للغاية"
+
+# XX## game/core/01classes.rpy:682
+msgid "Очень плохое"
+msgstr "سيء جدًا"
+
+# XX## game/core/01classes.rpy:682
+msgid "Плохое"
+msgstr "سيء"
+
+# XX## game/core/01classes.rpy:682
+msgid "Не очень"
+msgstr "ليس جدا"
+
+# XX## game/core/01classes.rpy:682
+msgid "Нейтральное"
+msgstr "محايد"
+
+# XX## game/core/01classes.rpy:682
+msgid "Неплохое"
+msgstr "ليس سيئا"
+
+# XX## game/core/01classes.rpy:682
+msgid "Хорошее"
+msgstr "جيدة"
+
+# XX## game/core/01classes.rpy:682
+msgid "Очень хорошее"
+msgstr "جيد جداً"
+
+# XX## game/core/01classes.rpy:682
+msgid "Прекрасное"
+msgstr "مدهش"
+
+# XX## game/core/01classes.rpy:1078
+msgid "Приобретен пакет рекламы"
+msgstr "شراء حزمة إعلانية"
+
+# XX## game/core/01classes.rpy:1334
+msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+msgstr "{لون =[lime]}{i}{b}الانتباه:{/b} تم الحصول على \"فرصة\" جديدة! {/i} {/اللون}"
+

@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 863\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-03-05 17:42\n"
+
+# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
+msgid "массаж, "
+msgstr "massaggio, "
+
+# XX## game/screens.rpy:250
+msgid "убеждение, "
+msgstr "condanna, "
+
+# XX## game/screens.rpy:250
+msgid "сексуальный опыт, "
+msgstr "esperienza sessuale, "
+
+# XX## game/screens.rpy:250
+msgid "поцелуи, "
+msgstr "baci, "
+
+# XX## game/screens.rpy:250
+msgid "удача, "
+msgstr "buona fortuna, "
+
+# XX## game/screens.rpy:250
+msgid "скрытность, "
+msgstr "furtività, "
+
+# XX## game/screens.rpy:277
+msgid "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+msgstr "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]possibilità: [vis]%){/color}{/size}{/i}"
+
+# XX## game/screens.rpy:339
+msgid "История"
+msgstr "Storia principale"
+
+# XX## game/screens.rpy:340
+msgid "Пропуск"
+msgstr "Salta"
+
+# XX## game/screens.rpy:341
+msgid "Авто"
+msgstr "Automatico"
+
+# XX## game/screens.rpy:342
+msgid "Сохранить"
+msgstr "Salvare"
+
+# XX## game/screens.rpy:343
+msgid "Б.Сохр"
+msgstr "B.Sohr ·"
+
+# XX## game/screens.rpy:344
+msgid "Б.Загр"
+msgstr "B.Zagr"
+
+# XX## game/screens.rpy:345
+msgid "Опции"
+msgstr "Opzioni"
+
+# XX## game/screens.rpy:390
+msgid "Загрузить игру"
+msgstr "Caricare il gioco"
+
+# XX## game/screens.rpy:393
+msgid "Сохранить игру"
+msgstr "Salva gioco"
+
+# XX## game/screens.rpy:396
+msgid "Настройки"
+msgstr "Impostazioni"
+
+# XX## game/screens.rpy:403
+msgid "Завершить повтор"
+msgstr "Termina ripetizione"
+
+# XX## game/screens.rpy:406
+msgid "Главное меню"
+msgstr "Menu principale"
+
+# XX## game/screens.rpy:413
+msgid "Выйти из игры"
+msgstr "Esci dal gioco"
+
+# XX## game/screens.rpy:419
+msgid "Назад"
+msgstr "Indietro"
+
+# XX## game/screens.rpy:526
+msgid "НОВАЯ ИГРА"
+msgstr "NUOVO GIOCO"
+
+# XX## game/screens.rpy:532
+msgid "ПРОДОЛЖИТЬ"
+msgstr "CONTINUA"
+
+# XX## game/screens.rpy:535
+msgid "ЗАГРУЗИТЬ"
+msgstr "CARICA"
+
+# XX## game/screens.rpy:539
+msgid "НАСТРОЙКИ"
+msgstr "IMPOSTAZIONI"
+
+# XX## game/screens.rpy:540
+msgid "ВЫЙТИ"
+msgstr "ESCI"
+
+# XX## game/screens.rpy:572
+msgid "МЕНЮ"
+msgstr "MENU'"
+
+# XX## game/screens.rpy:706
+msgid "Введите описание файла сохранения:"
+msgstr "Immettere una descrizione del file di salvataggio:"
+
+# XX## game/screens.rpy:727
+msgid "(Нет описания)"
+msgstr "(Nessuna descrizione)"
+
+# XX## game/screens.rpy:746
+msgid "{} страница"
+msgstr "Pagina {}"
+
+# XX## game/screens.rpy:746
+msgid "Автосохранения"
+msgstr "Salvataggio automatico"
+
+# XX## game/screens.rpy:746
+msgid "Быстрые сохранения"
+msgstr "Salvataggi rapidi"
+
+# XX## game/screens.rpy:822
+msgid "{#file_time}%a, %d %b %Y, %H:%M"
+msgstr "{#file_time}%a, %d %b %Y, %H:%M"
+
+# XX## game/screens.rpy:822
+msgid "Пустой слот"
+msgstr "Slot vuoto"
+
+# XX## game/screens.rpy:830
+msgid "ДЕНЬ [load_day]"
+msgstr "Giorno [load_day]"
+
+# XX## game/screens.rpy:882
+msgid "{#file_time}%d %b %Y, %H:%M"
+msgstr "{#file_time}%d %b %Y, %H:%M"
+
+# XX## game/screens.rpy:906
+msgid "<"
+msgstr "<"
+
+# XX## game/screens.rpy:909
+msgid "{#auto_page}Автосохр."
+msgstr "{#auto_page}Autosalvataggio."
+
+# XX## game/screens.rpy:912
+msgid "{#quick_page}Быстрые сохр."
+msgstr "{#quick_page}Salvataggio rapido."
+
+# XX## game/screens.rpy:918
+msgid ">"
+msgstr ">"
+
+# XX## game/screens.rpy:990
+msgid "Режим экрана"
+msgstr "Modalità schermo"
+
+# XX## game/screens.rpy:991
+msgid "Оконный"
+msgstr "Finestra"
+
+# XX## game/screens.rpy:992
+msgid "Полный"
+msgstr "Pieno"
+
+# XX## game/screens.rpy:995
+msgid "Сторона отката"
+msgstr "Lato rollback"
+
+# XX## game/screens.rpy:996
+msgid "Отключено"
+msgstr "Diabilitato"
+
+# XX## game/screens.rpy:997
+msgid "Левая"
+msgstr "A sinistra"
+
+# XX## game/screens.rpy:998
+msgid "Правая"
+msgstr "A destra"
+
+# XX## game/screens.rpy:1004
+msgid "Всего текста"
+msgstr "Testo totale"
+
+# XX## game/screens.rpy:1005
+msgid "После выборов"
+msgstr "Dopo le elezioni"
+
+# XX## game/screens.rpy:1006
+msgid "Переходов"
+msgstr "Navigazione"
+
+# XX## game/screens.rpy:1009
+msgid "Язык"
+msgstr "Lingua"
+
+# XX## game/screens.rpy:1030
+msgid "Дополнительно"
+msgstr "Avanzata"
+
+# XX## game/screens.rpy:1031
+msgid "Именованные сохранения"
+msgstr "Salva con nome"
+
+# XX## game/screens.rpy:1032
+msgid "Прозрачное текстовое окно"
+msgstr "Casella di testo trasparente"
+
+# XX## game/screens.rpy:1033
+msgid "Отображать все \"Возможности\""
+msgstr "Mostra tutte le \"Caratteristiche\""
+
+# XX## game/screens.rpy:1034
+msgid "Переодевания Лизы пропускаются, если Макс в комнате"
+msgstr "Il cambio di vestiti di Lisa viene saltato se Max è nella stanza"
+
+# XX## game/screens.rpy:1047
+msgid "Скорость текста"
+msgstr "Velocità del testo"
+
+# XX## game/screens.rpy:1051
+msgid "Скорость авточтения"
+msgstr "Velocità di lettura automatica"
+
+# XX## game/screens.rpy:1058
+msgid "Громкость музыки"
+msgstr "Volume della musica"
+
+# XX## game/screens.rpy:1065
+msgid "Громкость звуков"
+msgstr "Volume dei suoni di gioco"
+
+# XX## game/screens.rpy:1071
+msgid "Тест"
+msgstr "Test"
+
+# XX## game/screens.rpy:1075
+msgid "Громкость голоса"
+msgstr "Volume della voce"
+
+# XX## game/screens.rpy:1086
+msgid "Без звука"
+msgstr "Silenzia"
+
+# XX## game/screens.rpy:1207
+msgid "История диалогов пуста."
+msgstr "La storia del dialogo è vuota."
+
+# XX## game/screens.rpy:1270
+msgid "Помощь"
+msgstr "Guida"
+
+# XX## game/screens.rpy:1279
+msgid "Клавиатура"
+msgstr "Tastiera"
+
+# XX## game/screens.rpy:1280
+msgid "Мышь"
+msgstr "Mouse"
+
+# XX## game/screens.rpy:1283
+msgid "Геймпад"
+msgstr "Controller"
+
+# XX## game/screens.rpy:1296
+msgid "Enter"
+msgstr "Enter"
+
+# XX## game/screens.rpy:1297
+msgid "Прохождение диалогов, активация интерфейса."
+msgstr "Passaggio dei dialoghi, attivazione dell'interfaccia."
+
+# XX## game/screens.rpy:1300
+msgid "Пробел"
+msgstr "Spazio bianco"
+
+# XX## game/screens.rpy:1301
+msgid "Прохождение диалогов без возможности делать выбор."
+msgstr "Passaggio di dialoghi senza la possibilità di fare una scelta."
+
+# XX## game/screens.rpy:1304
+msgid "Стрелки"
+msgstr "Frecce"
+
+# XX## game/screens.rpy:1305
+msgid "Навигация по интерфейсу."
+msgstr "Navigazione attraverso l'interfaccia."
+
+# XX## game/screens.rpy:1308
+msgid "Esc"
+msgstr "Esc"
+
+# XX## game/screens.rpy:1309
+msgid "Вход в игровое меню."
+msgstr "Ingresso al menu di gioco."
+
+# XX## game/screens.rpy:1312
+msgid "Ctrl"
+msgstr "Control"
+
+# XX## game/screens.rpy:1313
+msgid "Пропускает диалоги, пока зажат."
+msgstr "Ignora le finestre di dialogo mentre è bloccato."
+
+# XX## game/screens.rpy:1316
+msgid "Tab"
+msgstr "Tab"
+
+# XX## game/screens.rpy:1317
+msgid "Включает режим пропуска."
+msgstr "Abilita la modalità di salto."
+
+# XX## game/screens.rpy:1320
+msgid "Page Up"
+msgstr "Pag. Su"
+
+# XX## game/screens.rpy:1321
+msgid "Откат назад по сюжету игры."
+msgstr "Torna indietro sulla trama del gioco."
+
+# XX## game/screens.rpy:1324
+msgid "Page Down"
+msgstr "Pag Giù"
+
+# XX## game/screens.rpy:1325
+msgid "Откатывает предыдущее действие вперёд."
+msgstr "Esegue il roll-forward dell'azione precedente."
+
+# XX## game/screens.rpy:1329
+msgid "Скрывает интерфейс пользователя."
+msgstr "Nasconde l'interfaccia utente."
+
+# XX## game/screens.rpy:1333
+msgid "Делает снимок экрана."
+msgstr "Cattura uno screenshot."
+
+# XX## game/screens.rpy:1337
+msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
+msgstr "Include il sintetizzatore vocale {a=https://www.renpy.org/l/voicing}supportato{/a}."
+
+# XX## game/screens.rpy:1343
+msgid "Левый клик"
+msgstr "Clic sinistro"
+
+# XX## game/screens.rpy:1347
+msgid "Клик колёсиком"
+msgstr "Clic sulla rotellina"
+
+# XX## game/screens.rpy:1351
+msgid "Правый клик"
+msgstr "Clic destro"
+
+# XX## game/screens.rpy:1355
+msgid "Колёсико вверх\n"
+"Клик на сторону отката"
+msgstr "Ruota su\n"
+"Fai clic sul lato del rollback"
+
+# XX## game/screens.rpy:1359
+msgid "Колёсико вниз"
+msgstr "Ruota verso il basso"
+
+# XX## game/screens.rpy:1366
+msgid "Правый триггер\n"
+"A/Нижняя кнопка"
+msgstr "Grilletto destro\n"
+"pulsante A/Bottom"
+
+# XX## game/screens.rpy:1370
+msgid "Левый Триггер\n"
+"Левый Бампер"
+msgstr "Grilletto sinistro\n"
+"paraurti sinistro"
+
+# XX## game/screens.rpy:1374
+msgid "Правый бампер"
+msgstr "Paraurti destro"
+
+# XX## game/screens.rpy:1379
+msgid "Крестовина, Стики"
+msgstr "D-pad, Bastoncini"
+
+# XX## game/screens.rpy:1383
+msgid "Start, Guide"
+msgstr "Start, Guida"
+
+# XX## game/screens.rpy:1387
+msgid "Y/Верхняя кнопка"
+msgstr "Pulsante Y/Top"
+
+# XX## game/screens.rpy:1390
+msgid "Калибровка"
+msgstr "Calibrazione"
+
+# XX## game/screens.rpy:1456
+msgid "Да"
+msgstr "Sì"
+
+# XX## game/screens.rpy:1457
+msgid "Нет"
+msgstr "No"
+
+# XX## game/screens.rpy:1503
+msgid "Пропускаю"
+msgstr "Saltare"
+
+# XX## game/screens.rpy:1727
+msgid "Скрыть интерфейс"
+msgstr "Nascondi interfaccia"
+
+# XX## game/screens.rpy:1728
+msgid "Меню"
+msgstr "Menù"
+
