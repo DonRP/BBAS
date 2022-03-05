@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-02-28 17:43\n"
+"PO-Revision-Date: 2022-03-05 17:37\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
+# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
 msgstr "[Max_01]Pas contre de la compagnie?"
 
@@ -1264,9 +1264,9 @@ msgstr "[Max_11]Je vois..."
 msgid "[Kira_14]Макс, твоя мама не хочет, чтобы кто-то об этом что-то знал. На это есть причины и я не хочу подорвать её, и без того довольно шаткое, доверие ко мне...[nointeract]"
 msgstr "[Kira_14]Max, ta mère ne veut pas que quelqu'un le sache. Il y a des raisons à cela, et je ne veux pas la salir, elle est déjà assez fragile, elle a confiance en moi...[nointeract]"
 
-# game/dialogues/kiratalk.rpy:1062 ## translate crowdin story_from_childhood_ann_37f146bb:
-msgid "[Kira_03]Ты же не отстанешь, да? Только учти, если ты обмолвишься об этом кому-то или самой маме, то к обоим доверие пропадёт."
-msgstr "[Kira_03]Tu ne vas pas laisser tomber, hein? Si tu en parles à quelqu'un ou à ta mère elle-même, la confiance sera perdue pour les deux."
+# game/dialogues/kiratalk.rpy:1062 ## translate crowdin story_from_childhood_ann_5afda0cd:
+msgid "[Kira_03][succes!t]Ты же не отстанешь, да? Только учти, если ты обмолвишься об этом кому-то или самой маме, то к обоим доверие пропадёт."
+msgstr ""
 
 # game/dialogues/kiratalk.rpy:1063 ## translate crowdin story_from_childhood_ann_9b09dcde:
 msgid "[Max_07]Конечно. Рассказывай!"
