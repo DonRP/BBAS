@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/lisatalk.po\n"
-"X-Crowdin-File-ID: 1039\n"
+"X-Crowdin-File-ID: 3366\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:36\n"
+"PO-Revision-Date: 2022-03-05 18:36\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13]Макс, я же просила отстать! Не хочу с тобой разговаривать.[nointeract]"
@@ -626,7 +626,7 @@ msgstr ""
 
 # game/dialogues/lisatalk.rpy:587 ## translate crowdin about_school_so_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]好..."
+msgstr ""
 
 # game/dialogues/lisatalk.rpy:591 ## translate crowdin about_school_like_2d12d67a:
 msgid "[Lisa_03]Ну конечно! Что за глупые вопросы. Вот только я не знаю как правильно себя вести, что говорить...[nointeract]"
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/dialogues/lisatalk.rpy:609 ## translate crowdin about_school_goodplan_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]好..."
+msgstr ""
 
 # game/dialogues/lisatalk.rpy:621 ## translate crowdin talk_swim_f9fb2825:
 msgid "[Lisa_10]Как... так?[nointeract]"
