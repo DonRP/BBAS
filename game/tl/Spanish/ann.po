@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /master/game/tl/crowdin/events/ann.po\n"
-"X-Crowdin-File-ID: 949\n"
+"X-Crowdin-File-ID: 3376\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:41\n"
+"PO-Revision-Date: 2022-03-05 18:37\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00]{m}В это время мама обычно спит.\n"
@@ -148,43 +148,43 @@ msgstr ""
 
 # game/events/ann.rpy:196 ## translate crowdin ann_shower_not_luck_9b36810d:
 msgid "[Ann_15][spotted!t]Макс!!! Что ты здесь делаешь? А ну быстро отвернись!!![nointeract]"
-msgstr "[Ann_15][¡manchado!t]Max!!! ¿Qué haces aquí? Y rápidamente aléjese!!![nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:207 ## translate crowdin ann_shower_serious_talk_9d79db42:
 msgid "[Ann_19]Ты что, подглядываешь за мной? Тебе должно быть стыдно! Нас ждёт серьёзный разговор...[nointeract]"
-msgstr "[Ann_19]¿Me estás espiando? ¡Deberías estar avergonzado! Vamos a tener una conversación seria...[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:210 ## translate crowdin ann_shower_serious_talk_5cc0688c:
 msgid "[Ann_12][succes!t]Случайность, говоришь? Ну ладно, поверю. А теперь бегом отсюда!"
-msgstr "[Ann_12][succes!t] Aleatoriedad, dices? Está bien, te creeré. ¡Y ahora corre desde aquí!"
+msgstr ""
 
 # game/events/ann.rpy:211 ## translate crowdin ann_shower_serious_talk_b81f7229:
 msgid "[Max_04]Ага, хорошо, мам!"
-msgstr "[Max_04]sí, está bien, mamá!"
+msgstr ""
 
 # game/events/ann.rpy:214 ## translate crowdin ann_shower_serious_talk_65550d20:
 msgid "[Ann_16][failed!t]Случайно пробрался сюда, спрятался и глазеешь тут? Случайно?! А ну-ка марш отсюда! Перед завтраком поговорим!"
-msgstr "[Ann_16][falló!t] accidentalmente se coló aquí, se escondió y miró aquí? ¡¿Accidentalmente?! Y bueno, ¡marcha desde aquí! Antes del desayuno, ¡hablemos!"
+msgstr ""
 
 # game/events/ann.rpy:215 ## translate crowdin ann_shower_serious_talk_e071f814:
 msgid "[Max_10]Хорошо..."
-msgstr "[Max_10]Está bien..."
+msgstr ""
 
 # game/events/ann.rpy:217 ## translate crowdin ann_shower_serious_talk_1f891e5d:
 msgid "[Ann_12]Что, думаешь извинился и всё, можно снова подглядывать? Нет, Макс. В этот раз всё так просто не пройдёт. Сейчас иди отсюда, а перед завтраком поговорим!"
-msgstr "[Ann_12]¿Crees que me disculpé y eso es todo, puedes mirar de nuevo? No, máx. Esta vez no será tan fácil. Ahora ve desde aquí, y antes del desayuno hablaremos!"
+msgstr ""
 
 # game/events/ann.rpy:218 ## translate crowdin ann_shower_serious_talk_1c3cc022:
 msgid "[Max_11]Хорошо..."
-msgstr "[Max_11]Está bien..."
+msgstr ""
 
 # game/events/ann.rpy:220 ## translate crowdin ann_shower_serious_talk_f1aa69a0:
 msgid "[Ann_13]Что?! Ну всё, Макс, ты попал! Быстро вернулся в дом, а перед завтарком поговорим ещё на эту тему!"
-msgstr "[Ann_13]¿Qué? Bueno, Max, ¡estás aquí! ¡Rápidamente regresó a la casa, y ante el jefe de la manada hablaremos sobre este tema!"
+msgstr ""
 
 # game/events/ann.rpy:221 ## translate crowdin ann_shower_serious_talk_471df3d0:
 msgid "[Max_14]Хорошо..."
-msgstr "[Max_14]Está bien..."
+msgstr ""
 
 # game/events/ann.rpy:273 ## translate crowdin ann_dressed_734f1c10:
 msgid "[Max_09]{m}Сегодня суббота, день шоппинга. Видимо, мама собирается...{/m}[nointeract]"
@@ -196,27 +196,27 @@ msgstr ""
 
 # game/events/ann.rpy:279 ## translate crowdin ann_dressed_b21abe2e:
 msgid "[Ann]{b}Анна:{/b} Кто там?[nointeract]"
-msgstr "[Ann]{b}Anna:{/b} ¿Quién está allí?[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:282 ## translate crowdin ann_dressed_bf2abaef:
 msgid "[Ann]{b}Анна:{/b} Нет, Макс. Я переодеваюсь. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} No, máx. Me cambio de ropa. Espera un poco, querida."
+msgstr ""
 
 # game/events/ann.rpy:284 ## translate crowdin ann_dressed_2e55a9e3:
 msgid "[Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} Max, no estoy vestida. Voy a trabajar. Espera un poco, querida."
+msgstr ""
 
 # game/events/ann.rpy:285 ## translate crowdin ann_dressed_f3117b6b:
 msgid "[Max_00]Хорошо, мам."
-msgstr "[Max_00]Está bien, mamá."
+msgstr ""
 
 # game/events/ann.rpy:288 ## translate crowdin ann_dressed_2f691176:
 msgid "[Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на шопинг. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} Max, no estoy vestida. Voy de compras. Espera un poco, querida."
+msgstr ""
 
 # game/events/ann.rpy:289 ## translate crowdin ann_dressed_f3117b6b_1:
 msgid "[Max_00]Хорошо, мам."
-msgstr "[Max_00]Está bien, mamá."
+msgstr ""
 
 # game/events/ann.rpy:325 ## translate crowdin ann_dressed_a3f1e45d:
 msgid "[Max_01]{m}Ничего себе, вот это зрелище! Это я удачно выбрал момент... Но пора уходить, а то вдруг увидит меня в зеркало!{/m}"
@@ -288,11 +288,11 @@ msgstr ""
 
 # game/events/ann.rpy:429 ## translate crowdin ann_dressed_lvl_1_3e8f5598:
 msgid "[Ann_12]Очень здорово, Макс! Но сначала, ты закроешь дверь и я спокойно переоденусь, а уже после этого посмотрим, что у тебя там такое срочное..."
-msgstr "[Ann_12]¡Muy guay, Max! Pero primero, cierras la puerta y me cambiaré de ropa en silencio, y después de eso veremos lo que tienes allí tan urgente ..."
+msgstr ""
 
 # game/events/ann.rpy:430 ## translate crowdin ann_dressed_lvl_1_c8682e5b:
 msgid "[Max_00]Конечно, мам!"
-msgstr "[Max_00]¡Por supuesto, mamá!"
+msgstr ""
 
 # game/events/ann.rpy:432 ## translate crowdin ann_dressed_lvl_1_a94cbdaa:
 msgid "[Max_00]{m}Пожалуй, не стоило вот так врываться к маме... Надеюсь, подарок всё сгладит.{/m}"
@@ -316,11 +316,11 @@ msgstr ""
 
 # game/events/ann.rpy:459 ## translate crowdin ann_dressed_lvl_2_3e8f5598:
 msgid "[Ann_12]Очень здорово, Макс! Но сначала, ты закроешь дверь и я спокойно переоденусь, а уже после этого посмотрим, что у тебя там такое срочное..."
-msgstr "[Ann_12]¡Muy guay, Max! Pero primero, cierras la puerta y me cambiaré de ropa en silencio, y después de eso veremos lo que tienes allí tan urgente..."
+msgstr ""
 
 # game/events/ann.rpy:460 ## translate crowdin ann_dressed_lvl_2_c8682e5b:
 msgid "[Max_00]Конечно, мам!"
-msgstr "[Max_00]¡Por supuesto, mamá!"
+msgstr ""
 
 # game/events/ann.rpy:462 ## translate crowdin ann_dressed_lvl_2_a94cbdaa:
 msgid "[Max_00]{m}Пожалуй, не стоило вот так врываться к маме... Надеюсь, подарок всё сгладит.{/m}"
@@ -344,103 +344,103 @@ msgstr ""
 
 # game/events/ann.rpy:491 ## translate crowdin ann_dressed_gift_a14e771b:
 msgid "[Ann_01]Ну вот, я одета. Ты сказал, что у тебя что-то есть для меня?! О чём это ты?"
-msgstr "[Ann_01]Bueno, estoy vestido. ¡¿Dijiste que tienes algo para mí?! ¿Qué dices?"
+msgstr ""
 
 # game/events/ann.rpy:492 ## translate crowdin ann_dressed_gift_efc9083b:
 msgid "[Max_04]У меня для тебя подарок! Ночнушка!"
-msgstr "[Max_04]¡Tengo un regalo para ti! ¡Nightgowl!"
+msgstr ""
 
 # game/events/ann.rpy:493 ## translate crowdin ann_dressed_gift_e131ac39:
 msgid "[Ann_06]Ты это серьёзно? Но в честь чего?"
-msgstr "[Ann_06]en serio? ¿Pero en honor a qué?"
+msgstr ""
 
 # game/events/ann.rpy:494 ## translate crowdin ann_dressed_gift_860498c1:
 msgid "[Max_05]Просто ты - самая лучшая мама на свете!"
-msgstr "[Max_05]¡Eres la mejor mamá del mundo!"
+msgstr ""
 
 # game/events/ann.rpy:495 ## translate crowdin ann_dressed_gift_56ae1652:
 msgid "[Ann_08]Ох, Макс, ты мне льстишь! Это так... неожиданно! Спасибо тебе мой милый, я очень тронута!"
-msgstr "[Ann_08]¡Oh, Max, me estás halagando! Es como... ¡inesperadamente! ¡Gracias querida, estoy muy conmovida!"
+msgstr ""
 
 # game/events/ann.rpy:496 ## translate crowdin ann_dressed_gift_60f1c9d7:
 msgid "[Max_03]Может, примеришь?"
-msgstr "[Max_03]¿Tal vez puedas probarlo?"
+msgstr ""
 
 # game/events/ann.rpy:497 ## translate crowdin ann_dressed_gift_f5c9d21b:
 msgid "[Ann_06]Примерить? Для тебя? Ну... ладно... Думаю, ты это заслужил. Подожди, пожалуйста, за дверью..."
-msgstr "[Ann_06]Pruébalo? ¿Para tí? Pozo... Bien... Creo que te lo mereces. Por favor, espere fuera de la puerta ..."
+msgstr ""
 
 # game/events/ann.rpy:498 ## translate crowdin ann_dressed_gift_cc0857da:
 msgid "[Max_01]Хорошо, мам."
-msgstr "[Max_01]Está bien, mamá."
+msgstr ""
 
 # game/events/ann.rpy:500 ## translate crowdin ann_dressed_gift_dec66268:
 msgid "[Ann]{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
-msgstr "[Ann]{b}Anna:{/b} ¡Guau, es translúcida! Cariño, entiendes que tu madre no puede estar frente a su hijo ..."
+msgstr ""
 
 # game/events/ann.rpy:501 ## translate crowdin ann_dressed_gift_461f061a:
 msgid "[Max_10]Тебе не понравился подарок?!"
-msgstr "[Max_10]no te gustó el regalo?"
+msgstr ""
 
 # game/events/ann.rpy:502 ## translate crowdin ann_dressed_gift_0f666c00:
 msgid "[Ann]{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
-msgstr "[Ann]{b}Anna:{/b} ¡No, me encanta! ¡Es un regalo perfecto! Pero, ¿no crees que eres demasiado joven para dar regalos como ese?"
+msgstr ""
 
 # game/events/ann.rpy:503 ## translate crowdin ann_dressed_gift_00ed580c:
 msgid "[Max_09]Я уже большой, мам! Я же от души!"
-msgstr "[Max_09]Ya soy grande, mamá! ¡Soy del corazón!"
+msgstr ""
 
 # game/events/ann.rpy:504 ## translate crowdin ann_dressed_gift_f9e66542:
 msgid "[Ann]{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
-msgstr "[Ann]{b}Anna:{/b} Oh, Max, me estás avergonzando, un regalo tan franco, e incluso a mi propia madre ... Pero aún así, realmente lo aprecio ... y gracias de nuevo!"
+msgstr ""
 
 # game/events/ann.rpy:505 ## translate crowdin ann_dressed_gift_75fcb6dd:
 msgid "[Max_02]Думаю, смотрится она на тебе просто фантастически!"
-msgstr "[Max_02]¡Creo que se ve fantástico en ti!"
+msgstr ""
 
 # game/events/ann.rpy:509 ## translate crowdin ann_dressed_gift_d954a734:
 msgid "[Ann_08]Ох... Спасибо за комплимент, мой милый. Сразу видно, что мой сын настоящий мужчина! Иди ко мне, я тебя обниму..."
-msgstr "[Ann_08]Oh... Gracias por el cumplido, querida. ¡Es inmediatamente obvio que mi hijo es un hombre de verdad! Ven a mí, te abrazaré..."
+msgstr ""
 
 # game/events/ann.rpy:514 ## translate crowdin ann_dressed_gift_26390c24:
 msgid "[Max_05]{m}О да... У меня действительно лучшая мама на свете! Какая же потрясающая у неё фигура... Так приятно прижиматься к ней... её упругой груди... Эту мечту не хочется отпускать!{/m}"
-msgstr "[Max_05]{m}Oh sí... ¡Realmente tengo la mejor mamá del mundo! Qué figura tan increíble tiene ella... Es tan agradable acurrucarse con ella... sus pechos firmes... ¡No quiero dejar ir este sueño! {/m}"
+msgstr ""
 
 # game/events/ann.rpy:519 ## translate crowdin ann_dressed_gift_cda3b4f9:
 msgid "[Ann_04]Ну всё, мой дорогой, нам с девочками ещё нужно успеть пробежаться по магазинам сегодня...[nointeract]"
-msgstr "[Ann_04]Bueno, querida, las chicas y yo todavía necesitamos tener tiempo para correr por las tiendas hoy...[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:521 ## translate crowdin ann_dressed_gift_b6991faf:
 msgid "[Ann_04]Ну всё, мой дорогой, мне уже скоро на работу и нужно успеть сделать ещё кое-какие дела...[nointeract]"
-msgstr "[Ann_04]Bueno, querida, voy a trabajar pronto y necesito tener tiempo para hacer algunas cosas más...[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:526 ## translate crowdin ann_dressed_gift_e66adddb:
 msgid "[Ann_05][succes!t]Ты сегодня очень мил, Макс! За это я тебя даже в щёчку поцелую, чтобы ты почаще старался меня радовать..."
-msgstr "[Ann_05][¡éxito!t] ¡Eres muy agradable hoy, Max! Para esto, incluso te besaré en la mejilla, para que a menudo intentes complacerme ..."
+msgstr ""
 
 # game/events/ann.rpy:529 ## translate crowdin ann_dressed_gift_05855820:
 msgid "[Max_06]{m}Ого! Это даже больше того, на что я надеялся... И не менее приятно чувствовать прикосновение её губ на своём лице! Блаженно...{/m}"
-msgstr "[Max_06]{m}¡Guau! Eso es aún más de lo que esperaba... ¡Y es igual de agradable sentir el toque de sus labios en mi cara! Guau... {/i}"
+msgstr ""
 
 # game/events/ann.rpy:535 ## translate crowdin ann_dressed_gift_c0df5b86:
 msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами.[nointeract]"
-msgstr "[Ann_04]Ahora ve, hijo... Es hora de hacer las cosas.[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:555 ## translate crowdin ann_dressed_fail_f49b0b30:
 msgid "[Ann_01][_text!t]Макс, мне нужно ещё успеть сделать кое-какие дела... Давай, сынок, иди... Займись чем-нибудь.[nointeract]"
-msgstr "[Ann_01][_text!t] Max, todavía tengo algo de tiempo para hacer algunas cosas... Vamos, hijo, ve... Haz algo.[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:557 ## translate crowdin ann_dressed_fail_a9cf1e2d:
 msgid "[Ann_01][_text!t]Макс, я так на работу не успею собраться... Давай, сынок, иди... Пора заниматься делами.[nointeract]"
-msgstr "[Ann_01][_text!t] Max, no tendré tiempo para prepararme para el trabajo ... Vamos, hijo, ve... Es hora de hacer las cosas.[nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:565 ## translate crowdin ann_dressed_loveyou_e41c68c6:
 msgid "[Ann_07]И я тебя, Макс..."
-msgstr "[Ann_07]Y yo soy tú, Max..."
+msgstr ""
 
 # game/events/ann.rpy:569 ## translate crowdin ann_dressed_goodday_1a01074c:
 msgid "[Ann_02]Спасибо, сынок! И тебе тоже..."
-msgstr "[Ann_02]¡Gracias, hijo! Y tú también..."
+msgstr ""
 
 # game/events/ann.rpy:590 ## translate crowdin ann_dressed_balcony_919b6a05:
 msgid "[Max_07]{m}Хм... Должно быть мама на балконе...{/m}"
@@ -768,7 +768,7 @@ msgstr ""
 
 # game/events/ann.rpy:962 ## translate crowdin ann_bath_about_intime_0_cddc6bee:
 msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
-msgstr "[Ann]{b}Anna:{/b} ¿Quién está allí? ¡Me baño![nointeract]"
+msgstr ""
 
 # game/events/ann.rpy:963 ## translate crowdin ann_bath_about_intime_0_006aa2f9:
 msgid "[Max_07]Это я, Макс. Можно войти?"
@@ -868,23 +868,23 @@ msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/events/ann.rpy:195
 msgid "{i}Отвернуться{/i}"
-msgstr "{i}Alejarse{/i}"
+msgstr ""
 
 # XX## game/events/ann.rpy:206
 msgid "Я не подглядывал. Это случайность!"
-msgstr "No estaba mirando. ¡Fue un accidente!"
+msgstr ""
 
 # XX## game/events/ann.rpy:206
 msgid "Мам, извини..."
-msgstr "Lo siento..."
+msgstr ""
 
 # XX## game/events/ann.rpy:206
 msgid "Попка у тебя - что надо!"
-msgstr "¡Tu es lo que necesitas!"
+msgstr ""
 
 # XX## game/events/ann.rpy:278
 msgid "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-msgstr "Soy yo, Max. ¿Puedo entrar? Tengo algo para ti."
+msgstr ""
 
 # XX## game/events/ann.rpy:372
 msgid "А я разве чем-то помешаю?"
@@ -900,7 +900,7 @@ msgstr ""
 
 # XX## game/events/ann.rpy:427
 msgid "У меня для тебя кое-что есть."
-msgstr "Tengo algo para ti."
+msgstr ""
 
 # XX## game/events/ann.rpy:427
 msgid "У тебя самые зачётные сиськи, которые я видел!"
@@ -936,11 +936,11 @@ msgstr ""
 
 # XX## game/events/ann.rpy:522
 msgid "Ну мам! Этого было так мало, давай ещё..."
-msgstr "¡Vamos mamá! Era tan poco, vamos a tener más..."
+msgstr ""
 
 # XX## game/events/ann.rpy:522
 msgid "Конечно, мам! Хорошего тебе дня..."
-msgstr "¡Por supuesto, mamá! Que tengas un buen día..."
+msgstr ""
 
 # XX## game/events/ann.rpy:604
 msgid "Мам, всё нормально?"
