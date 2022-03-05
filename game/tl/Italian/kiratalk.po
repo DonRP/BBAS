@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-05 17:37\n"
+"PO-Revision-Date: 2022-03-05 18:03\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -1266,7 +1266,7 @@ msgstr "[Kira_14]Max, tua madre non vuole che nessuno ne sappia nulla. Ci sono r
 
 # game/dialogues/kiratalk.rpy:1062 ## translate crowdin story_from_childhood_ann_5afda0cd:
 msgid "[Kira_03][succes!t]Ты же не отстанешь, да? Только учти, если ты обмолвишься об этом кому-то или самой маме, то к обоим доверие пропадёт."
-msgstr ""
+msgstr "[Kira_03][succes!t]Non ti arrenderai, vero? Basta essere avvertiti, se ne parli con qualcuno o con tua madre stessa, perderai la fiducia in entrambi."
 
 # game/dialogues/kiratalk.rpy:1063 ## translate crowdin story_from_childhood_ann_9b09dcde:
 msgid "[Max_07]Конечно. Рассказывай!"
