@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-05 17:39\n"
+"PO-Revision-Date: 2022-03-05 18:05\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17]Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами![nointeract]"
@@ -958,11 +958,11 @@ msgstr "[Max_09]Perché? Qual è il problema? Sto aiutando e anche, delicatament
 
 # game/dialogues/anntalk.rpy:1016 ## translate crowdin ann_yoga_with_maxr_f43aaef8:
 msgid "[Ann_03]Да, Макс, верно. Мне лучше расслабиться. Продолжаем..."
-msgstr ""
+msgstr "[Ann_03]Sì, Max, è così. È meglio che mi rilassi. Andando avanti..."
 
 # game/dialogues/anntalk.rpy:1017 ## translate crowdin ann_yoga_with_maxr_72b8ca17:
 msgid "[Max_05]Правильно. Очень классно начинать день с такой красоты, как ты."
-msgstr ""
+msgstr "[Max_05]Proprio così. È davvero bello iniziare la giornata con una bellezza come te."
 
 # game/dialogues/anntalk.rpy:1024 ## translate crowdin ann_yoga_with_maxr_6a06f244_1:
 msgid "[Max_04]Я смотрю, чтобы всё правильно делалось. Ты же этого хотела?"
@@ -970,11 +970,11 @@ msgstr "[Max_04]Mi assicuro che sia fatto bene. Non è quello che volevi?"
 
 # game/dialogues/anntalk.rpy:1025 ## translate crowdin ann_yoga_with_maxr_f7366bcf:
 msgid "[Ann_03]Только не держи меня так крепко, Макс! Придерживай легонько, я справлюсь."
-msgstr ""
+msgstr "[Ann_03]Non stringermi così forte, Max! Tienimi leggero, posso gestirlo."
 
 # game/dialogues/anntalk.rpy:1026 ## translate crowdin ann_yoga_with_maxr_4a3b0f59:
 msgid "[Max_05]Хорошо, придерживаю слегка. Расслабься и сосредоточься на дыхании. Ты прогибаешься просто шикарно!"
-msgstr ""
+msgstr "[Max_05]Ok, tenendolo leggero. Rilassati e concentrati sulla tua respirazione. Ti stai flettendo benissimo!"
 
 # game/dialogues/anntalk.rpy:1032 ## translate crowdin ann_yoga_with_maxr_f2360ace:
 msgid "[Ann_07]Приятно каждый раз от тебя слышать, что я не зря этим занимаюсь... Это прекрасно мотивирует."
@@ -1010,31 +1010,31 @@ msgstr "[Max_05]Grande, mamma! Allunga un po'di più e sarà perfetto..."
 
 # game/dialogues/anntalk.rpy:1064 ## translate crowdin ann_yoga_with_maxr_a7aab14e:
 msgid "[Ann_05]Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе... Но с твоей поддержкой, кажется, мне это не грозит."
-msgstr ""
+msgstr "[Ann_05]La cosa principale è non esagerare la mattina presto... Sarò un disastro al lavoro... Ma con il vostro sostegno, non credo di essere in pericolo."
 
 # game/dialogues/anntalk.rpy:1073 ## translate crowdin ann_yoga_with_maxr_bf667ebd:
 msgid "[Max_14]{m}Ага, у меня сейчас в шортах такая твёрдая опора от всех этих сексуальных изгибов, что мама вот-вот заметит. А не думать о её шелковистом теле просто невозможно! И зачем я без майки этим занимаюсь?{/m}[nointeract]"
-msgstr ""
+msgstr "[Max_14]{m}Sì, ho una presa così salda sui miei pantaloncini in questo momento da tutte quelle curve sexy che mia madre sta per notarlo. Ed è impossibile non pensare al suo corpo di seta! E perché lo sto facendo senza camicia?{/m}[nointeract]"
 
 # game/dialogues/anntalk.rpy:1087 ## translate crowdin ann_yoga_with_maxr_3dff6869:
 msgid "[Ann_04][succes_hide!t]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Буду только рада, если решишь снова присоединиться ко мне."
-msgstr ""
+msgstr "[Ann_04][succes_hide!t]Oh, grazie, figliolo, per l'aiuto. Uff... Penso che abbiamo finito qui. Sarei felice se decidessi di unirti di nuovo a me."
 
 # game/dialogues/anntalk.rpy:1088 ## translate crowdin ann_yoga_with_maxr_ff21d29a:
 msgid "[Max_01]С радостью, мам! Обязательно..."
-msgstr ""
+msgstr "[Max_01]Con piacere, mamma! Io..."
 
 # game/dialogues/anntalk.rpy:1089 ## translate crowdin ann_yoga_with_maxr_dc624a8a:
 msgid "[Ann_02]Но, давай хотя бы через день. Чтобы я могла без твоей помощи попробовать сделать то же самое."
-msgstr ""
+msgstr "[Ann_02]Ma almeno facciamolo un giorno sì e uno no. Così posso provare a fare la stessa cosa senza il vostro aiuto."
 
 # game/dialogues/anntalk.rpy:1090 ## translate crowdin ann_yoga_with_maxr_136c43d9:
 msgid "[Max_04]Хорошо, как скажешь. До следующего раза, мам.[nointeract]"
-msgstr ""
+msgstr "[Max_04]Va bene, come vuoi tu. Alla prossima volta, mamma.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1093 ## translate crowdin ann_yoga_with_maxr_adabf90d:
 msgid "[Ann_04][succes_hide!t]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Завтра я сама попробую это повторить без тебя, а дальше присоединяйся, если захочешь. Я буду только рада."
-msgstr ""
+msgstr "[Ann_04][succes_hide!t]Oh, grazie, figliolo, per l'aiuto. Uff... Penso che abbiamo finito qui. Lo proverò io stesso domani senza di te, e poi ti unirai a me se vuoi. Ne sarei felice."
 
 # game/dialogues/anntalk.rpy:1094 ## translate crowdin ann_yoga_with_maxr_4e133757_1:
 msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
@@ -1042,71 +1042,71 @@ msgstr "[Max_01]Con gioia, mamma! Deve...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1105 ## translate crowdin ann_yoga_with_maxr_5a4fa2a4:
 msgid "[Ann_15]Ой, спасибо, сынок, что помог. Фух... А это что такое?! Как тебе не стыдно! Это у тебя на меня такая реакция?!"
-msgstr ""
+msgstr "[Ann_15]Oh, grazie, figliolo, per l'aiuto. Uff... Cos'è tutto questo?! Vergogna! È questa la tua reazione nei miei confronti?!"
 
 # game/dialogues/anntalk.rpy:1106 ## translate crowdin ann_yoga_with_maxr_28026926:
 msgid "[Max_07]Ну... Говорил же, красиво..."
-msgstr ""
+msgstr "[Max_07]Bene... Te l'avevo detto che era bellissimo..."
 
 # game/dialogues/anntalk.rpy:1107 ## translate crowdin ann_yoga_with_maxr_5f7de140:
 msgid "[Ann_14]Макс, красивое не должно так возбуждать! Вернее, я не должна тебя так возбуждать. Другие женщины, да, но не я, сынок."
-msgstr ""
+msgstr "[Ann_14]Max, la bellezza non dovrebbe essere così eccitante! O meglio, non dovrei eccitarti così tanto. Altre donne, sì, ma non io, figliolo."
 
 # game/dialogues/anntalk.rpy:1108 ## translate crowdin ann_yoga_with_maxr_7301cfbe:
 msgid "[Max_09]Хоть ты и моя мама, но ты так же и очень красивая женщина! Знаешь, мне кажется, что ЭТО - самый искренний комплимент твоей фигуре."
-msgstr ""
+msgstr "[Max_09]Anche se sei mia madre, sei anche una donna molto bella! Sai, penso che questo sia il complimento più sincero che si possa fare alla tua figura."
 
 # game/dialogues/anntalk.rpy:1109 ## translate crowdin ann_yoga_with_maxr_35170ac6:
 msgid "[Ann_16]Да уж, комплимент... Значит так, Макс! Ближайшие три дня можешь ко мне не подходить во время йоги. А в дальнейшем, можешь помогать через день. Всё понятно?"
-msgstr ""
+msgstr "[Ann_16]Sì, questo è un complimento... Va bene, Max! Per i prossimi tre giorni, puoi stare lontano da me durante lo yoga. Dopo di che, potrai aiutarmi a giorni alterni. È chiaro?"
 
 # game/dialogues/anntalk.rpy:1112 ## translate crowdin ann_yoga_with_maxr_17c6fe68:
 msgid "[Ann_14]Ой, спасибо, сынок, что помог. Фух... Да что же это такое! Ты опять перевозбудился..."
-msgstr ""
+msgstr "[Ann_14]Oh, grazie, figliolo, per l'aiuto. Uff... Oh, ma dai! Sei di nuovo sovreccitato..."
 
 # game/dialogues/anntalk.rpy:1113 ## translate crowdin ann_yoga_with_maxr_4b3b94d8:
 msgid "[Max_07]Ага, виновен..."
-msgstr ""
+msgstr "[Max_07]Sì, colpevole..."
 
 # game/dialogues/anntalk.rpy:1114 ## translate crowdin ann_yoga_with_maxr_7c53d0c1:
 msgid "[Ann_16]И вот что прикажешь с тобой делать?"
-msgstr ""
+msgstr "[Ann_16]È questo che dovrei fare con te?"
 
 # game/dialogues/anntalk.rpy:1115 ## translate crowdin ann_yoga_with_maxr_88deb7c3:
 msgid "[Max_09]Понять и простить. Я же мужчина всё-таки..."
-msgstr ""
+msgstr "[Max_09]Comprendere e perdonare. Sono un uomo, dopo tutto..."
 
 # game/dialogues/anntalk.rpy:1116 ## translate crowdin ann_yoga_with_maxr_41ff6034:
 msgid "[Ann_17]Ох, Макс, горе ты моё... Значит так, в ближайшие три дня можешь ко мне не подходить во время йоги, а дальше смотри сам, можешь присоединяться, но чтобы такое не повторялось. Всё понятно?"
-msgstr ""
+msgstr "[Ann_17]Oh, Max, guai a me... Quindi, per i prossimi tre giorni puoi stare lontano da me durante lo yoga, e poi puoi partecipare, ma non lasciare che accada di nuovo. È chiaro?"
 
 # game/dialogues/anntalk.rpy:1117 ## translate crowdin ann_yoga_with_maxr_7ac1ee79:
 msgid "[Max_10]Как скажешь, мам. До следующего раза...[nointeract]"
-msgstr ""
+msgstr "[Max_10]Come vuoi tu, mamma. Fino alla prossima volta...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1120 ## translate crowdin ann_yoga_with_maxr_f2c16400:
 msgid "[Max_02]Под моим присмотром у тебя всегда будет великолепная фигура!"
-msgstr ""
+msgstr "[Max_02]Avrai sempre una bella figura sotto il mio controllo!"
 
 # game/dialogues/anntalk.rpy:1131 ## translate crowdin ann_yoga_with_maxr_f0d0acff:
 msgid "[Ann_04]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Буду только рада, если решишь снова присоединиться ко мне."
-msgstr ""
+msgstr "[Ann_04]Oh, grazie, figliolo, per l'aiuto. Uff... Penso che abbiamo finito qui. Sarei felice se decidessi di unirti di nuovo a me."
 
 # game/dialogues/anntalk.rpy:1132 ## translate crowdin ann_yoga_with_maxr_ff21d29a_1:
 msgid "[Max_01]С радостью, мам! Обязательно..."
-msgstr ""
+msgstr "[Max_01]Con piacere, mamma! Io..."
 
 # game/dialogues/anntalk.rpy:1133 ## translate crowdin ann_yoga_with_maxr_dc624a8a_1:
 msgid "[Ann_02]Но, давай хотя бы через день. Чтобы я могла без твоей помощи попробовать сделать то же самое."
-msgstr ""
+msgstr "[Ann_02]Ma almeno facciamolo un giorno sì e uno no. Così posso provare a fare la stessa cosa senza il vostro aiuto."
 
 # game/dialogues/anntalk.rpy:1134 ## translate crowdin ann_yoga_with_maxr_136c43d9_1:
 msgid "[Max_04]Хорошо, как скажешь. До следующего раза, мам.[nointeract]"
-msgstr ""
+msgstr "[Max_04]Va bene, come vuoi tu. Alla prossima volta, mamma.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1137 ## translate crowdin ann_yoga_with_maxr_c9b86927:
 msgid "[Ann_04]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Завтра я сама попробую это повторить без тебя, а дальше присоединяйся, если захочешь. Я буду только рада."
-msgstr ""
+msgstr "[Ann_04]Oh, grazie, figliolo, per l'aiuto. Uff... Penso che abbiamo finito qui. Lo proverò io stesso domani senza di te, e poi ti unirai a me se vuoi. Ne sarei felice."
 
 # game/dialogues/anntalk.rpy:1138 ## translate crowdin ann_yoga_with_maxr_4e133757_2:
 msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
@@ -1674,95 +1674,95 @@ msgstr "[Max_11]Come dici tu, mamma."
 
 # game/dialogues/anntalk.rpy:1777 ## translate crowdin ann_about_olivia0_2931469c:
 msgid "[Ann_00]Да, Макс, что такое?"
-msgstr ""
+msgstr "[Ann_00]Sì, Max, cosa c'è?"
 
 # game/dialogues/anntalk.rpy:1778 ## translate crowdin ann_about_olivia0_0fb43d08:
 msgid "[Max_07]Можно она будет приходить к нам с ночёвкой по пятницам?"
-msgstr ""
+msgstr "[Max_07]Può venire al nostro pigiama party del venerdì?"
 
 # game/dialogues/anntalk.rpy:1779 ## translate crowdin ann_about_olivia0_ca484fbb:
 msgid "[Ann_13]С ночёвкой? Ну, не знаю, сынок. А её родители, что скажут? И кто за вами будет присматривать?"
-msgstr ""
+msgstr "[Ann_13]Un pernottamento? Non lo so, figliolo. Cosa direbbero i suoi genitori? E chi si prenderà cura di te?"
 
 # game/dialogues/anntalk.rpy:1780 ## translate crowdin ann_about_olivia0_7526967f:
 msgid "[Max_09]За нами не нужно присматривать, мы уже взрослые. И раз это для тебя так важно, то я присмотрю за Оливией и Лизой."
-msgstr ""
+msgstr "[Max_09]Non abbiamo bisogno di essere accuditi, siamo adulti ora. E visto che è così importante per te, mi prenderò cura di Olivia e Lisa."
 
 # game/dialogues/anntalk.rpy:1781 ## translate crowdin ann_about_olivia0_070aa522:
 msgid "[Ann_17]А заниматься вы чем планируете? С натуризмом Оливии даже боюсь представить..."
-msgstr ""
+msgstr "[Ann_17]Cosa pensate di fare? Con il naturismo di Olivia, ho paura anche solo di immaginare..."
 
 # game/dialogues/anntalk.rpy:1782 ## translate crowdin ann_about_olivia0_ee58332d:
 msgid "[Max_01]Мы может ТВ посмотрим или в бассейне поплаваем. Может в комнате поиграем."
-msgstr ""
+msgstr "[Max_01]Potremmo guardare la TV o andare a nuotare in piscina. Forse giocare nella stanza."
 
 # game/dialogues/anntalk.rpy:1783 ## translate crowdin ann_about_olivia0_993f301a:
 msgid "[Ann_14]Ох, вот насчёт бассейна я сильно сомневаюсь. Придётся не ложиться спать и караулить, как бы чего не произошло..."
-msgstr ""
+msgstr "[Ann_14]Oh, ho i miei dubbi sulla piscina. Dovremo restare svegli e stare attenti a tutto quello che potrebbe succedere..."
 
 # game/dialogues/anntalk.rpy:1784 ## translate crowdin ann_about_olivia0_eefee8b2:
 msgid "[Max_08]Мам, я же сказал, я за ними присмотрю. К тому же, хоть Оливия и натуристка, но во всём остальном она девочка целомудренная. Днём ты же нас не караулишь."
-msgstr ""
+msgstr "[Max_08]Mamma, te l'ho detto, mi prenderò cura di loro. Inoltre, anche se Olivia è una nudista, per il resto è una ragazza casta. Non è che ci guardi durante il giorno."
 
 # game/dialogues/anntalk.rpy:1785 ## translate crowdin ann_about_olivia0_51952594:
 msgid "[Ann_12]Одно дело днём, Макс, и совсем другое - ночью... Ох, не знаю...[nointeract]"
-msgstr ""
+msgstr "[Ann_12]Una cosa è il giorno, Max, e un'altra la notte... Oh, non so...[nointeract]"
 
 # game/dialogues/anntalk.rpy:1791 ## translate crowdin ann_about_olivia0_b2ba75f7:
 msgid "[Ann_14][succes!t]Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
-msgstr ""
+msgstr "[Ann_14][succes!t]Vorrei proibirtelo, ma non so come reagirà Lisa. Potrebbe iniziare a scappare di casa per ritorsione..."
 
 # game/dialogues/anntalk.rpy:1797 ## translate crowdin ann_about_olivia0_902cc700:
 msgid "[Ann_17][failed!t]Извини, Макс, но мне нужно подумать. Мне кажется, я вся изведусь, зная, что вы там ночью у бассейна играете."
-msgstr ""
+msgstr "[Ann_17][failed!t]Mi dispiace, Max, ma ho bisogno di pensare. Penso che sarò esausto sapendo che sei là fuori a giocare a biliardo di notte."
 
 # game/dialogues/anntalk.rpy:1798 ## translate crowdin ann_about_olivia0_a744479d:
 msgid "[Max_09]Ладно, подумай пару дней.[nointeract]"
-msgstr ""
+msgstr "[Max_09]Ok, pensateci per un paio di giorni.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1806 ## translate crowdin ann_about_olivia0_succes_a46cecf5:
 msgid "[Max_10]Ну да, это ещё хуже."
-msgstr ""
+msgstr "[Max_10]Sì, beh, questo è anche peggio."
 
 # game/dialogues/anntalk.rpy:1807 ## translate crowdin ann_about_olivia0_succes_b91eb0ff:
 msgid "[Ann_12]Но меня здесь смущает даже больше не Оливия со своим натуризмом, а то, как ты на это реагируешь. Ладно она к этому у себя дома привыкла. А Лиза?"
-msgstr ""
+msgstr "[Ann_12]Ma non è nemmeno Olivia e il suo naturismo che mi lascia perplesso, è il modo in cui si reagisce ad esso. Ok, a casa ci è abituata. E Lisa?"
 
 # game/dialogues/anntalk.rpy:1808 ## translate crowdin ann_about_olivia0_succes_1c48074f:
 msgid "[Max_09]А что Лиза? Ты вспомни, чему вы с Эриком её учили..."
-msgstr ""
+msgstr "[Max_09]E Lisa? Ricorda quello che tu ed Eric le avete insegnato..."
 
 # game/dialogues/anntalk.rpy:1809 ## translate crowdin ann_about_olivia0_succes_bb86700b:
 msgid "[Ann_15]Ой! Лучше не напоминай, Макс. Что я тогда творила, ужас..."
-msgstr ""
+msgstr "[Ann_15]Oh! Non ricordarmelo, Max. Quello che ho fatto allora, l'orrore..."
 
 # game/dialogues/anntalk.rpy:1810 ## translate crowdin ann_about_olivia0_succes_b0bdbf1c:
 msgid "[Max_07]Вот-вот. Лизу теперь это тоже, как и Оливию, совершенно не смущает."
-msgstr ""
+msgstr "[Max_07]Proprio così. Lisa, come Olivia, ora non è affatto imbarazzata neanche da questo."
 
 # game/dialogues/anntalk.rpy:1811 ## translate crowdin ann_about_olivia0_succes_54a6a696:
 msgid "[Ann_14]Видимо, из-за Эрика я стала слишком подозрительной. Пытаюсь снова уберечь Лизу от всего на свете. Хотя, прямо перед этим, сама же такое ей показывала..."
-msgstr ""
+msgstr "[Ann_14]A quanto pare, Eric mi ha reso troppo sospettoso. Cercare di nuovo di proteggere Lisa da tutto. Anche se, poco prima di farlo, le ho mostrato questo..."
 
 # game/dialogues/anntalk.rpy:1812 ## translate crowdin ann_about_olivia0_succes_a1e2dec6:
 msgid "[Max_09]И вспомни, кто вывел Эрика на чистую воду? Я! И я же тебе говорю, что присмотрю за Лизой и Оливией."
-msgstr ""
+msgstr "[Max_09]E ricordate, chi ha portato Eric alla luce? Я! E ti ho detto che mi sarei preso cura di Lisa e Olivia."
 
 # game/dialogues/anntalk.rpy:1813 ## translate crowdin ann_about_olivia0_succes_e99695fc:
 msgid "[Ann_17]Хорошо, я разрешу вам собираться по ночам, но! Если мне будет слишком неспокойно, я могу взять и проверить, чем вы занимаетесь."
-msgstr ""
+msgstr "[Ann_17]Ok, vi lascio riunire di notte, ma! Se sono troppo irrequieto, posso andare a controllare cosa state facendo."
 
 # game/dialogues/anntalk.rpy:1814 ## translate crowdin ann_about_olivia0_succes_a7934c48:
 msgid "[Max_01]Не проблема, мам. Приходи в любое время."
-msgstr ""
+msgstr "[Max_01]Nessun problema, mamma. Torna quando vuoi."
 
 # game/dialogues/anntalk.rpy:1815 ## translate crowdin ann_about_olivia0_succes_573881bf:
 msgid "[Ann_04]Договорились. Ведите себя хорошо.[nointeract]"
-msgstr ""
+msgstr "[Ann_04]È un affare. Comportatevi bene.[nointeract]"
 
 # game/dialogues/anntalk.rpy:1825 ## translate crowdin ann_about_olivia1_282cd97e:
 msgid "[Ann_14]Подумала... Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
-msgstr ""
+msgstr "[Ann_14]Ho pensato... Vorrei proibirtelo, ma non so come reagirà Lisa. Potrebbe iniziare a scappare di casa per ritorsione..."
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/anntalk.rpy:71
 msgid "В другой раз..."
@@ -1874,11 +1874,11 @@ msgstr "Mamma, vuoi un massaggio?"
 
 # XX## game/dialogues/anntalk.rpy:575
 msgid "Массаж спины?"
-msgstr ""
+msgstr "Massaggio alla schiena?"
 
 # XX## game/dialogues/anntalk.rpy:575
 msgid "Полотенце приспустишь?"
-msgstr ""
+msgstr "Puoi tirare giù l'asciugamano?"
 
 # XX## game/dialogues/anntalk.rpy:609
 msgid "{i}массировать маме спину{/i}"
