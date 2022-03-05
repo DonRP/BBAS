@@ -5,30 +5,30 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/08_verification.po\n"
-"X-Crowdin-File-ID: 3306\n"
+"X-Crowdin-File-ID: 3336\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-05 18:05\n"
+"PO-Revision-Date: 2022-03-05 18:34\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:372
 msgid "Не определены"
-msgstr "Non definito"
+msgstr ""
 
 # XX## game/core/08_verification.rpy:374
 msgid "Откровенная вражда"
-msgstr "Ostilità aperta"
+msgstr ""
 
 # XX## game/core/08_verification.rpy:384
 msgid "Дружба"
-msgstr "Amicizia"
+msgstr ""
 
 # XX## game/core/08_verification.rpy:392
 msgid "Настоящая дружба"
-msgstr "La vera amicizia"
+msgstr ""
 
 # XX## game/core/08_verification.rpy:403
 msgid "Фальшивая дружба"
-msgstr "Finta amicizia"
+msgstr ""
 
