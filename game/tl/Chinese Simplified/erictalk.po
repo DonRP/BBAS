@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/erictalk.po\n"
-"X-Crowdin-File-ID: 1053\n"
+"X-Crowdin-File-ID: 3362\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:36\n"
+"PO-Revision-Date: 2022-03-05 18:36\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01]Чего хотел, Макс?[nointeract]"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/dialogues/erictalk.rpy:38 ## translate crowdin eric_needmoney_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/erictalk.rpy:50 ## translate crowdin eric_voy_wtf_17303bac:
 msgid "[Eric_05]А можно конкретнее? О чём речь?"
