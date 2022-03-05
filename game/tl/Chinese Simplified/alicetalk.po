@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/alicetalk.po\n"
-"X-Crowdin-File-ID: 1035\n"
+"X-Crowdin-File-ID: 3352\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:36\n"
+"PO-Revision-Date: 2022-03-05 18:35\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/alicetalk.rpy:12 ## translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07]{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -26,11 +26,11 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:41 ## translate crowdin AliceTalkStart_50ef2ada:
 msgid "[Alice_00]Ну, Макс, чего надо?[nointeract]"
-msgstr "[Alice_00]麦克斯，你想要什么？[nointeract]"
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:68 ## translate crowdin Alice_badbadmood_86d8a37d:
 msgid "[Alice_09]Да пошёл ты! Не хочу тебя видеть даже![nointeract]"
-msgstr "[Alice_09]你走了！我甚至不想见你！[nointeract]"
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:77 ## translate crowdin Alice_badmood_de141364:
 msgid "[Alice_09]Макс, отвали! Я не хочу с тобой разговаривать.[nointeract]"
@@ -1532,7 +1532,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:1967 ## translate crowdin smoke_toples_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:1969 ## translate crowdin smoke_toples_b751840f:
 msgid "[Alice_09]Макс, не играй с огнём! Мы договоривались. А теперь сгинь с глаз моих!"
@@ -2140,7 +2140,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:2266 ## translate crowdin Alice_sorry_6e7aee99:
 msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]好..."
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:2283 ## translate crowdin gift_dress_7509a3ee:
 msgid "[Alice_15]Макс? Это платье для клуба? Правда?!"
@@ -4968,7 +4968,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:4091 ## translate crowdin alice_about_bath_82324783:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:4099 ## translate crowdin alice_about_bath_f3aed3d0:
 msgid "[Alice_03]Надо же, даже извинился... Вот только я правда мало что помню. Будем считать, что ничего и не было. И не напоминай мне больше об этом. Понял?"
@@ -4984,7 +4984,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:4105 ## translate crowdin alice_about_bath_82324783_1:
 msgid "[Max_01]Хорошо..."
-msgstr "[Max_01]好..."
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:4116 ## translate crowdin alice_about_kiss_e0a8fdaa:
 msgid "[Alice_02]Прости, Макс, что?"
@@ -6528,7 +6528,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:5281 ## translate crowdin alice_mistress_3_9a9eff04:
 msgid "[Max_01]Конечно..."
-msgstr "[Max_01]课程{/i..."
+msgstr ""
 
 # game/dialogues/alicetalk.rpy:5285 ## translate crowdin alice_mistress_3_f131083f:
 msgid "[Alice_08]Ммм... Люблю эти конфетки! Пошли за мной![nointeract]"
