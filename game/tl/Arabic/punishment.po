@@ -5,40 +5,40 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: ar\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/punishment.po\n"
-"X-Crowdin-File-ID: 1055\n"
+"X-Crowdin-File-ID: 3370\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-03-05 17:36\n"
+"PO-Revision-Date: 2022-03-05 18:36\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/punishment.rpy:99 ## translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16]Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
-msgstr "[Ann_16]قبل أن نبدأ، بعض الناس يستحقون العقاب والآن الجميع سينظرون إليه..."
+msgstr ""
 
 # game/dialogues/punishment.rpy:119 ## translate crowdin punishment_5cebd4e9:
 msgid "[Ann_18]Итак, Макс, ты первый..."
-msgstr "[Ann_18]إذا يا (ماكس) أنت أول من..."
+msgstr ""
 
 # game/dialogues/punishment.rpy:121 ## translate crowdin punishment_f7581ae0:
 msgid "[Ann_18]Макс, теперь твоя очередь..."
-msgstr "[Ann_18]ماكس، الآن حان دورك..."
+msgstr ""
 
 # game/dialogues/punishment.rpy:123 ## translate crowdin punishment_8ee31be2:
 msgid "[Ann_18]Макс, иди сюда..."
-msgstr "[Ann_18]ماكس تعال هنا"
+msgstr ""
 
 # game/dialogues/punishment.rpy:129 ## translate crowdin punishment_4d81c6a0:
 msgid "[Ann_18]Так, Лиза, начнём с тебя..."
-msgstr "[Ann_18]لذا يا ليزا، لنبدأ معك..."
+msgstr ""
 
 # game/dialogues/punishment.rpy:131 ## translate crowdin punishment_353120e8:
 msgid "[Ann_18]Теперь Лиза..."
-msgstr "[Ann_18]الآن ليزا..."
+msgstr ""
 
 # game/dialogues/punishment.rpy:133 ## translate crowdin punishment_6d4a5e81:
 msgid "[Ann_18]Лиза, подойди-ка ко мне."
-msgstr "[Ann_18]ليزا تعالي إلي"
+msgstr ""
 
 # game/dialogues/punishment.rpy:139 ## translate crowdin punishment_0a6a61be:
 msgid "[Ann_18]Алиса, начнём с тебя..."
