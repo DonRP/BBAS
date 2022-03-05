@@ -5,52 +5,52 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/07_clothes.po\n"
-"X-Crowdin-File-ID: 797\n"
+"X-Crowdin-File-ID: 3334\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-03-05 17:38\n"
+"PO-Revision-Date: 2022-03-05 18:33\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid "Повседневная"
-msgstr "Routine"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для сна"
-msgstr "Schlafen"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для йоги"
-msgstr "Für Yoga"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Блог в нижнем белье"
-msgstr "Dessous-Blog"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит завтрак"
-msgstr "Frühstück vorbereiten"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит ужин"
-msgstr "Kocht Abendessen"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Утренний отдых"
-msgstr "Morgenruhe"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Вечерний отдых"
-msgstr "Abendruhe"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Купальник"
-msgstr "Badeanzug"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "За уроками"
-msgstr "Für den Unterricht"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для прогулок"
@@ -58,5 +58,5 @@ msgstr ""
 
 # XX## game/core/07_clothes.rpy:472
 msgid "Влияние Макса недостаточно"
-msgstr "Max's Einfluss reicht nicht aus"
+msgstr ""
 
