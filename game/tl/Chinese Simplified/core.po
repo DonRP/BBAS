@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/core.po\n"
-"X-Crowdin-File-ID: 889\n"
+"X-Crowdin-File-ID: 3344\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:39\n"
+"PO-Revision-Date: 2022-03-05 18:34\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/core/core.rpy:582 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00]{m}Я слишком устал. Надо бы вздремнуть...{/m}"
@@ -66,15 +66,15 @@ msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/core/core.rpy:411
 msgid "В интернет-магазине доступен новый товар."
-msgstr "网上商店提供新产品。"
+msgstr ""
 
 # XX## game/core/core.rpy:839
 msgid "{i}идти на веранду{/i}"
-msgstr "{i}去维兰达"
+msgstr ""
 
 # XX## game/core/core.rpy:839
 msgid "{i}не сейчас{/i}"
-msgstr "{i}不是现在{/i}"
+msgstr ""
 
 # XX## game/core/core.rpy:1124
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
