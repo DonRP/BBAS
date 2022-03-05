@@ -5,92 +5,92 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/02init.po\n"
-"X-Crowdin-File-ID: 787\n"
+"X-Crowdin-File-ID: 3326\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:37\n"
+"PO-Revision-Date: 2022-03-05 18:34\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}¡La persuasión tuvo éxito! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:19
 msgid "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}pasaste desapercibido! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:20
 msgid "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}¡Funcionó! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:21
 msgid "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}Logró retener{/i}{/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:22
 msgid "{color=#00FF00}{i}Ей нравится!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}¡Le gusta! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:23
 msgid "{color=#00FF00}{i}Повезло!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}¡Funcionó! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:24
 msgid "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}¡a Alice le encantó el masaje! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:25
 msgid "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}Lisa le encantó el masaje! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:26
 msgid "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}a Lisa le encantó el beso! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:27
 msgid "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}¡A mamá le encantó el masaje! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:30
 msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡La persuasión falló! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:31
 msgid "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}Se ha dado cuenta! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:32
 msgid "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡Demasiado arriesgado! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:33
 msgid "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡No funcionó! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:34
 msgid "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
-msgstr "{color=#E59400}{i}No se pudo contener{/i}{/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:35
 msgid "{color=#E59400}{i}Ей не нравится!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡No le gusta! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:36
 msgid "{color=#E59400}{i}Не повезло!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡No funcionó! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:37
 msgid "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡a Alice no le gustó el masaje! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:38
 msgid "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}a Lisa no le gustó el masaje! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:39
 msgid "{color=#E59400}{i}Лизе не понравился поцелуй!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}a Lisa no le gustó el beso! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:40
 msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
@@ -98,7 +98,7 @@ msgstr ""
 
 # XX## game/core/02init.rpy:41
 msgid "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}¡A mamá no le gustó el masaje! {/i} {/color}\n"
+msgstr ""
 
 # XX## game/core/02init.rpy:43
 msgid "{color=#00FF00}{i}Успех!{/i}{/color}\n"
@@ -110,63 +110,63 @@ msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ВС"
-msgstr "Dom"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ВОСКРЕСЕНЬЕ"
-msgstr "DOMINGO"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ПН"
-msgstr "Lun"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ПОНЕДЕЛЬНИК"
-msgstr "LUNES"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ВТ"
-msgstr "Mar"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ВТОРНИК"
-msgstr "MARTES"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "СР"
-msgstr "Mie"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "СРЕДА"
-msgstr "MIÉRCOLES"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ЧТ"
-msgstr "Jue"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ЧЕТВЕРГ"
-msgstr "JUEVES"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ПТ"
-msgstr "Vie"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "ПЯТНИЦА"
-msgstr "VIERNES"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "СБ"
-msgstr "Sáb"
+msgstr ""
 
 # XX## game/core/02init.rpy:87
 msgid "СУББОТА"
-msgstr "SÁBADO"
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "Управление"
-msgstr "Gestión"
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\n"
@@ -175,134 +175,122 @@ msgid "В данной игре предусмотрено управление 
 "Для переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\n"
 "Отключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\n"
 "Это очень удобно, если область диалогов скрывает интересную часть изображения..."
-msgstr "Este juego proporciona control de teclado. Puede ahorrar en cualquier momento. Métodos abreviados de teclado predeterminados:\n"
-"F5 - guardar, F8 - cargar.\n\n\n"
-"Además, durante los diálogos, el 1... 9 para diferentes opciones de respuesta. Si solo hay una opción, puede presionar la tecla [[Space].\n\n\n"
-"Para cambiar entre habitaciones, puede usar las teclas 1 ... 7.\n\n\n"
-"Puede desactivar la interfaz presionando [[ ' ], [[ h ] o presionando el botón central del mouse.\n"
-"Esto es muy conveniente si el área de diálogo oculta una parte interesante de la imagen ..."
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "Возможности"
-msgstr "Posibilidades"
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n"
 "\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
-msgstr "Durante el juego, durante los diálogos y otras acciones, puedes descubrir nuevas \"oportunidades\". Sus mecánicas son un poco similares a las \"misiones\" o \"misiones\" de otros juegos, pero hay algunas diferencias.\n\n\n"
-"\"Características\" puede abrir el acceso a eventos ocultos o compras en la tienda en línea, a nuevas opciones en la computadora portátil o acciones en algunas salas. ¡Lee detenidamente la descripción de cada \"oportunidad\" y no te perderás nada!"
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "Настроение"
-msgstr "Estado de ánimo"
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\n"
 "Если у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\n"
 "Постепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\n"
 "Чтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
-msgstr "Varias acciones o frases dichas por Max pueden causar una reacción correspondiente en forma de un cambio en el estado de ánimo del personaje.\n\n\n"
-"Si un personaje está de mal humor, puede negarse a discutir algunos temas contigo.\n\n\n"
-"Gradualmente, cada hora, el estado de ánimo tiende suavemente a un estado neutral. Sin embargo, si el estado de ánimo es muy malo, tomará mucho tiempo recuperarse.\n\n\n"
-"Para animarte, puedes darle lo que necesitas a este personaje en particular o simplemente disculparte. Y a veces la palabra correcta durante una conversación puede mejorar significativamente el estado de ánimo."
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "Шоу"
-msgstr "Mostrar"
+msgstr ""
 
 # XX## game/core/02init.rpy:131
 msgid "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\n"
 "Увеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\n"
 "Если у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n"
 "{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
-msgstr "Las cámaras ocultas pueden ser la principal fuente de ingresos. Cuanto mayor sea la audiencia, más personas están dispuestas a pagar por verla.\n\n\n"
-"Puedes aumentar tu audiencia con anuncios. Si no pasa nada interesante en las cámaras, el público cae. Si los momentos picantes entran en el marco, la audiencia crece.\n\n\n"
-"Si tiene un sitio web, puede ganar en banners publicitarios. Así que cuanto mayor sea la audiencia, más dinero tendrás.\n\n\n"
-"{i}{b}Nota:{/b} En futuras versiones del juego, los usuarios VIP aparecerán con peticiones especiales. Si los realizas, recibirás un sólido aumento en los ingresos. {/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Значит, у тебя есть блог?"
-msgstr "¿Entonces tienes un blog?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Слушай, насчёт блога..."
-msgstr "Escucha, sobre el blog..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт твоего блога... А если не особо раздеваться?"
-msgstr "En cuanto a tu blog... ¿Y si realmente no te desnudas?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт посуды..."
-msgstr "En cuanto a los platos..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Не возражаешь против компании?"
-msgstr "¿No te importa la compañía?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что читаешь?"
-msgstr "¿Qué lees?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Хотел извиниться за утренний инцидент..."
-msgstr "Quería disculparme por el incidente de la mañana..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Извини, но я случайно увидел, как ты принимаешь душ..."
-msgstr "Lo siento, pero te vi duchándote..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Хочу извиниться. Я бессовестно подглядывал за тобой утром..."
-msgstr "Pido disculpas. Te miré descaradamente por la mañana..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Загораешь?"
-msgstr "¿Estás tomando el sol?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "У меня для тебя обещанная вкусняшка!"
-msgstr "¡Tengo lo delicioso prometido para ti!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт ванны ночью..."
-msgstr "En cuanto al baño por la noche..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "А ты умеешь целоваться?"
-msgstr "¿Sabes cómo besar?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я слышал, Эрик тебе новое бельё собирается купить?"
-msgstr "¿Escuché que Eric te va a comprar ropa interior nueva?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Покажешь боди, которое тебе Эрик купит?"
-msgstr "¿Puedes mostrarme el bodysuit que Eric te comprará?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Хотел узнать, хорошо ли тебе сидится?"
-msgstr "Quería saber si estabas bien?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Не слабо тебя отшлёпали!"
-msgstr "¡No levemente te han cruzado!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ты не передумала о наказаниях?"
-msgstr "¿No has pensado en los castigos?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Отшлёпать тебя сейчас или..."
-msgstr "Azotarte ahora o..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Пора отшлёпать одну милую попку!"
-msgstr "¡Es hora de golpear a ese lindo trasero!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Тебе помочь накрыть на стол?"
-msgstr "¿Puedo ayudarte a poner la mesa?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Как ты после случившегося?"
@@ -310,55 +298,55 @@ msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я пришёл извиниться за то, что было утром. Я больше не буду."
-msgstr "Vine a disculparme por lo ocurrido en la mañana. Ya no lo haré."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я снова подглядывал. Извини."
-msgstr "Miré de nuevo. Perdón."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну давай, можешь меня наказывать..."
-msgstr "Vamos, puedes castigarme..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я выбираю наказание от тебя..."
-msgstr "Elijo que tu me castigues..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мам, дай денег, пожалуйста..."
-msgstr "Mamá, dame dinero, por favor..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я продукты заказал!"
-msgstr "¡Pedí los productos!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мам, бассейн чист!"
-msgstr "Mamá, la piscina está limpia!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что смотришь?"
-msgstr "¿Qué estás viendo?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт случая с Лизой..."
-msgstr "En cuanto al caso Lisa..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мам, а как учатся целоваться?"
-msgstr "Mamá, ¿cómo aprendes a besar?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мам, Кира отправила меня к тебе..."
-msgstr "Mamá, Kira me envió a ti..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "С тобой можно?"
-msgstr "¿Puedo estar con ustedes?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я присоединюсь?"
-msgstr "¿Me uniré?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мам, нужно поговорить об Оливии."
@@ -370,15 +358,15 @@ msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мне нужны деньги..."
-msgstr "Necesito dinero..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Эрик, мы же договорились!"
-msgstr "Eric, ¡estuvimos de acuerdo!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я хотел поговорить о Кире..."
-msgstr "Quería hablar de Kira..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мою премию за помощь с Лизой!"
@@ -394,67 +382,67 @@ msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
-msgstr "Aquí está el dinero para que no vayas con Liza..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "У меня нет денег, чтобы ты не лез к Лизе."
-msgstr "No tengo dinero para mantenerte alejado de Liza."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Да тут всегда хорошая погода..."
-msgstr "Sí, siempre hay buen tiempo..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ага, как всегда..."
-msgstr "Sí, como siempre..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Да, шикарная!"
-msgstr "¡Sí, precioso!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Кира, мне нужно научиться целоваться..."
-msgstr "Kira, necesito aprender a besar..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну как, ты с мамой-то поговорила?"
-msgstr "Bueno, ¿hablaste con tu mamá?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Как отдыхается, тётя Кира?"
-msgstr "¿Cómo descansa la tía Kira?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт фотосессии..."
-msgstr "En cuanto a la sesión de fotos..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Понравились фотографии?"
-msgstr "¿Te gustan las fotos?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Не злишься на меня, тётя Кира?"
-msgstr "¿No estás enojada conmigo, tía Kira?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Так когда будем снова фотографироваться, тётя Кира?"
-msgstr "Entonces, ¿cuándo vamos a ser fotografiados de nuevo, tía Kira?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Тётя Кира, когда ты уже с мамой поговоришь?!"
-msgstr "Tía Kira, ¿cuándo estás hablando con tu mamá?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Я хотел спросить про тот случай из детства мамы..."
-msgstr "Quería preguntar sobre ese incidente de la infancia de mi madre..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Расскажи уже про тот случай из детства мамы..."
-msgstr "Cuéntanos sobre ese incidente de la infancia de mi madre..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Когда будет новая фотосессия, тётя Кира?"
-msgstr "¿Cuándo es la nueva sesión de fotos, tía Kira?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Уже слышала новость, тётя Кира?"
@@ -462,137 +450,136 @@ msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "О школе..."
-msgstr "Sobre la escuela..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "А ты чего так загораешь?"
-msgstr "¿Y por qué tomas el sol así?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт твоего парня..."
-msgstr "En cuanto a tu novio..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт этого случая утром..."
-msgstr "En cuanto a este incidente por la mañana..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Хотел поговорить о Большом Максе..."
-msgstr "Quería hablar de Big Max..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "А ты у нас шалунья, оказывается..."
-msgstr "Y tú eres un, resulta que..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт успеваемости..."
-msgstr "En cuanto al rendimiento académico..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Помочь с уроками?"
-msgstr "¿Ayuda con las lecciones?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "У тебя странный вид..."
-msgstr "Tienes una mirada extraña..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Может всё-таки поделишься своими переживаниями по поводу Алисы?"
-msgstr "¿Puedes compartir tus sentimientos sobre Alice?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Массаж рук заказывала?"
-msgstr "¿Pediste un masaje de manos?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну что, Лиза, готова?"
-msgstr "¿Está lista Lisa?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну что, готова?"
-msgstr "¿Está listo?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Лиза, ты же любишь читать?"
-msgstr "Lisa, ¿te gusta leer?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Лиза, у меня для тебя особая книжка..."
-msgstr "Lisa, tengo un libro especial para ti..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Рассказывай, что делали?"
-msgstr "¿Cuéntanos qué hiciste?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну так и чему же тебя учили?"
-msgstr "Entonces, ¿qué te enseñaron?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что новенького было на уроке?"
-msgstr "¿Qué había de nuevo en clase?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что нового мама с Эриком тебе рассказали?"
-msgstr "¿Qué te dijeron mamá y Eric?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что нового узнала на уроке у мамы и Эрика?"
-msgstr "¿Qué aprendiste de mamá y Eric en clase?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "{i}урок поцелуев{/i}"
-msgstr "{i}Lección de besos{/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Насчёт Алекса..."
-msgstr "En cuanto a Alex..."
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Есть успехи с Оливией?"
-msgstr "¿Has tenido éxito con Olivia?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что-нибудь узнала про Оливию?"
-msgstr "¿Descubriste algo sobre Olivia?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну так, что там с трусиками Оливии?"
-msgstr "Entonces, ¿qué pasa con las bragas de Olivia?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ты позвала Оливию к нам?"
-msgstr "¿Invitaste a Olivia con nosotros?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну как, получилось рассказать всё Оливии?"
-msgstr "Bueno, ¿cómo llegaste a contarle todo a Olivia?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Нравится, что я спасаю твою попку от наказания?"
-msgstr "¿Como que te salvo el del castigo?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Учтите, я испытываю... некоторый подъём!"
-msgstr "Eso sí, estoy experimentando... ¡algo de elevación!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Пошепчемся немного о моей сестрёнке?"
-msgstr "¿Vamos a susurrar un poco sobre mi hermana?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Что новенького, Оливия?"
-msgstr "¿Qué hay de nuevo, Olivia?"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Рад тебя видеть, Оливия!"
-msgstr "¡Me alegro de verte, Alice!"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Ну как, всё повторила? \n"
 "{i}(проводить Лизу в школу){/i}"
-msgstr "Bueno, ¿repitió todo? \n"
-"{i}(acompaña a Lisa a la escuela){/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Лиза, ты чего нос повесила?"
@@ -628,89 +615,89 @@ msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Одежда"
-msgstr "Ropa"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Книги"
-msgstr "Libros"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Продукты"
-msgstr "Comestibles"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Электроника"
-msgstr "Electrónica"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Товары 18+"
-msgstr "Productos 18+"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Косметика"
-msgstr "Cosméticos"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Украшения"
-msgstr "Decoraciones"
+msgstr ""
 
 # XX## game/core/02init.rpy:273
 msgid "Другое"
-msgstr "Otro"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "А у меня есть то, о чём ты мечтала..."
-msgstr "Y tengo lo que soñaste..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня для тебя подарок {i}(Халат){/i}"
-msgstr "Tengo un regalo para ti {i}(Albornoz){/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня для тебя вкусняшка!"
-msgstr "¡Tengo una deliciosa comida para ti!"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня есть кое-что запрещённое..."
-msgstr "Tengo algo prohibido..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "Угадай: маленькое, чёрненькое..."
-msgstr "Adivina qué: pequeño, negro..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня для тебя одна книжка..."
-msgstr "Tengo un libro para ti..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня снова для тебя книжка..."
-msgstr "Tengo un libro para ti de nuevo..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "И снова у меня для тебя книжка..."
-msgstr "De nuevo, tengo un libro para ti..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня для тебя подарок {i}(Пижама){/i}"
-msgstr "Tengo un regalo para ti {i}(Pijama){/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня есть кое-что, о чём мы беседовали..."
-msgstr "Tengo algo de lo que hablamos..."
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "Прикупил для тебя немного сладенького!"
-msgstr "¡Compré un poco de dulce para ti!"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня для тебя подарок {i}(Кожаный костюм){/i}"
-msgstr "Tengo un regalo para ti {i}(Traje de cuero){/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "У меня для тебя подарок {i}(Плётка){/i}"
-msgstr "Tengo un regalo para ti {i}(Pijama){/i}"
+msgstr ""
 
 # XX## game/core/02init.rpy:284
 msgid "Мам, я купил тебе одежду полегче!"
-msgstr "¡Mamá, te compré ropa más ligera!"
+msgstr ""
 
