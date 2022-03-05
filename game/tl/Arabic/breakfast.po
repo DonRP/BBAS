@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: ar\n"
 "X-Crowdin-File: /master/game/tl/crowdin/dialogues/breakfast.po\n"
-"X-Crowdin-File-ID: 1249\n"
+"X-Crowdin-File-ID: 3356\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-03-05 17:40\n"
+"PO-Revision-Date: 2022-03-05 18:35\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
@@ -994,7 +994,7 @@ msgstr ""
 
 # game/dialogues/breakfast.rpy:778 ## translate crowdin breakfast_18_84309eb3:
 msgid "[Max_00]Ладно, ладно..."
-msgstr "[Max_00]حسنا، حسنا..."
+msgstr ""
 
 # game/dialogues/breakfast.rpy:780 ## translate crowdin breakfast_18_next_f5423a85:
 msgid "[Kira_05]Ну, то есть, сфера обслуги, верно? Да шучу я, Ань, шучу. Ладно, а что там с этим вашим Эриком? Какой он?[nointeract]"
