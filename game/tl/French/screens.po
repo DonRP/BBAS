@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-04 17:36\n"
+"PO-Revision-Date: 2022-03-05 17:38\n"
 
-# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
+# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}BOUTIQUE EN LIGNE{/b}"
 
