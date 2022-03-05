@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-01-19 08:35\n"
+"PO-Revision-Date: 2022-03-05 17:38\n"
 
-# TODO: Translation updated at 2021-12-05 17:43## # translate crowdin strings:#    # game/core/imagemaps.rpy:31
+# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
 msgstr "{i}rechercher sous le lit{/i}"
 
-#    # game/core/imagemaps.rpy:34
+# XX## game/core/imagemaps.rpy:34
 msgid "{i}искать в тумбочке{/i}"
 msgstr "{i}regarder dans la table de nuit{/i}"
 
-#    # game/core/imagemaps.rpy:37
+# XX## game/core/imagemaps.rpy:37
 msgid "{i}искать в столе{/i}"
 msgstr "{i}rechercher sur le bureau{/i}"
 
-#    # game/core/imagemaps.rpy:56
+# XX## game/core/imagemaps.rpy:56
 msgid "{i}массировать ступни{/i}"
 msgstr "{i}massage des jambes{/i}"
 
-#    # game/core/imagemaps.rpy:64
+# XX## game/core/imagemaps.rpy:64
 msgid "{i}массировать голени{/i}"
 msgstr "{i}masser le bas des jambes{/i}"
 
-#    # game/core/imagemaps.rpy:74
+# XX## game/core/imagemaps.rpy:74
 msgid "{i}массировать бёдра{/i}"
 msgstr "{i}masser les hanches{/i}"
 
-#    # game/core/imagemaps.rpy:78
+# XX## game/core/imagemaps.rpy:78
 msgid "{i}массировать плечи{/i}"
 msgstr "{i}masser les épaules{/i}"
 
-#    # game/core/imagemaps.rpy:82
+# XX## game/core/imagemaps.rpy:82
 msgid "{i}массировать спину{/i}"
 msgstr "{i}masser le dos{/i}"
 
-#    # game/core/imagemaps.rpy:87
+# XX## game/core/imagemaps.rpy:87
 msgid "{i}массировать попку{/i}"
 msgstr "{i}masser les fesses{/i}"
 
-# TODO: Translation updated at 2022-01-09 20:33## # translate crowdin strings:#    # game/core/imagemaps.rpy:108
+# XX## game/core/imagemaps.rpy:108
 msgid "{i}искать на кровати{/i}"
 msgstr "{i}chercher sur le lit {/i}"
 
