@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
+﻿# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
 msgid  "массаж, "
 msgstr  "массаж, "
 
@@ -126,291 +126,291 @@ msgstr  "Автосохранения"
 msgid  "Быстрые сохранения"
 msgstr  "Быстрые сохранения"
 
-# XX## game/screens.rpy:821
+# XX## game/screens.rpy:822
 msgid  "{#file_time}%a, %d %b %Y, %H:%M"
 msgstr  "{#file_time}%a, %d %b %Y, %H:%M"
 
-# XX## game/screens.rpy:821
+# XX## game/screens.rpy:822
 msgid  "Пустой слот"
 msgstr  "Пустой слот"
 
-# XX## game/screens.rpy:829
+# XX## game/screens.rpy:830
 msgid  "ДЕНЬ [load_day]"
 msgstr  "ДЕНЬ [load_day]"
 
-# XX## game/screens.rpy:879
+# XX## game/screens.rpy:882
 msgid  "{#file_time}%d %b %Y, %H:%M"
 msgstr  "{#file_time}%d %b %Y, %H:%M"
 
-# XX## game/screens.rpy:903
+# XX## game/screens.rpy:906
 msgid  "<"
 msgstr  "<"
 
-# XX## game/screens.rpy:906
+# XX## game/screens.rpy:909
 msgid  "{#auto_page}Автосохр."
 msgstr  "{#auto_page}Автосохр."
 
-# XX## game/screens.rpy:909
+# XX## game/screens.rpy:912
 msgid  "{#quick_page}Быстрые сохр."
 msgstr  "{#quick_page}Быстрые сохр."
 
-# XX## game/screens.rpy:915
+# XX## game/screens.rpy:918
 msgid  ">"
 msgstr  ">"
 
-# XX## game/screens.rpy:987
+# XX## game/screens.rpy:990
 msgid  "Режим экрана"
 msgstr  "Режим экрана"
 
-# XX## game/screens.rpy:988
+# XX## game/screens.rpy:991
 msgid  "Оконный"
 msgstr  "Оконный"
 
-# XX## game/screens.rpy:989
+# XX## game/screens.rpy:992
 msgid  "Полный"
 msgstr  "Полный"
 
-# XX## game/screens.rpy:992
+# XX## game/screens.rpy:995
 msgid  "Сторона отката"
 msgstr  "Сторона отката"
 
-# XX## game/screens.rpy:993
+# XX## game/screens.rpy:996
 msgid  "Отключено"
 msgstr  "Отключено"
 
-# XX## game/screens.rpy:994
+# XX## game/screens.rpy:997
 msgid  "Левая"
 msgstr  "Левая"
 
-# XX## game/screens.rpy:995
+# XX## game/screens.rpy:998
 msgid  "Правая"
 msgstr  "Правая"
 
-# XX## game/screens.rpy:1001
+# XX## game/screens.rpy:1004
 msgid  "Всего текста"
 msgstr  "Всего текста"
 
-# XX## game/screens.rpy:1002
+# XX## game/screens.rpy:1005
 msgid  "После выборов"
 msgstr  "После выборов"
 
-# XX## game/screens.rpy:1003
+# XX## game/screens.rpy:1006
 msgid  "Переходов"
 msgstr  "Переходов"
 
-# XX## game/screens.rpy:1006
+# XX## game/screens.rpy:1009
 msgid  "Язык"
 msgstr  "Язык"
 
-# XX## game/screens.rpy:1027
+# XX## game/screens.rpy:1030
 msgid  "Дополнительно"
 msgstr  "Дополнительно"
 
-# XX## game/screens.rpy:1028
+# XX## game/screens.rpy:1031
 msgid  "Именованные сохранения"
 msgstr  "Именованные сохранения"
 
-# XX## game/screens.rpy:1029
+# XX## game/screens.rpy:1032
 msgid  "Прозрачное текстовое окно"
 msgstr  "Прозрачное текстовое окно"
 
-# XX## game/screens.rpy:1030
+# XX## game/screens.rpy:1033
 msgid  "Отображать все \"Возможности\""
 msgstr  "Отображать все \"Возможности\""
 
-# XX## game/screens.rpy:1031
+# XX## game/screens.rpy:1034
 msgid  "Переодевания Лизы пропускаются, если Макс в комнате"
 msgstr  "Переодевания Лизы пропускаются, если Макс в комнате"
 
-# XX## game/screens.rpy:1044
+# XX## game/screens.rpy:1047
 msgid  "Скорость текста"
 msgstr  "Скорость текста"
 
-# XX## game/screens.rpy:1048
+# XX## game/screens.rpy:1051
 msgid  "Скорость авточтения"
 msgstr  "Скорость авточтения"
 
-# XX## game/screens.rpy:1055
+# XX## game/screens.rpy:1058
 msgid  "Громкость музыки"
 msgstr  "Громкость музыки"
 
-# XX## game/screens.rpy:1062
+# XX## game/screens.rpy:1065
 msgid  "Громкость звуков"
 msgstr  "Громкость звуков"
 
-# XX## game/screens.rpy:1068
+# XX## game/screens.rpy:1071
 msgid  "Тест"
 msgstr  "Тест"
 
-# XX## game/screens.rpy:1072
+# XX## game/screens.rpy:1075
 msgid  "Громкость голоса"
 msgstr  "Громкость голоса"
 
-# XX## game/screens.rpy:1083
+# XX## game/screens.rpy:1086
 msgid  "Без звука"
 msgstr  "Без звука"
 
-# XX## game/screens.rpy:1204
+# XX## game/screens.rpy:1207
 msgid  "История диалогов пуста."
 msgstr  "История диалогов пуста."
 
-# XX## game/screens.rpy:1267
+# XX## game/screens.rpy:1270
 msgid  "Помощь"
 msgstr  "Помощь"
 
-# XX## game/screens.rpy:1276
+# XX## game/screens.rpy:1279
 msgid  "Клавиатура"
 msgstr  "Клавиатура"
 
-# XX## game/screens.rpy:1277
+# XX## game/screens.rpy:1280
 msgid  "Мышь"
 msgstr  "Мышь"
 
-# XX## game/screens.rpy:1280
+# XX## game/screens.rpy:1283
 msgid  "Геймпад"
 msgstr  "Геймпад"
 
-# XX## game/screens.rpy:1293
+# XX## game/screens.rpy:1296
 msgid  "Enter"
 msgstr  "Enter"
 
-# XX## game/screens.rpy:1294
+# XX## game/screens.rpy:1297
 msgid  "Прохождение диалогов, активация интерфейса."
 msgstr  "Прохождение диалогов, активация интерфейса."
 
-# XX## game/screens.rpy:1297
+# XX## game/screens.rpy:1300
 msgid  "Пробел"
 msgstr  "Пробел"
 
-# XX## game/screens.rpy:1298
+# XX## game/screens.rpy:1301
 msgid  "Прохождение диалогов без возможности делать выбор."
 msgstr  "Прохождение диалогов без возможности делать выбор."
 
-# XX## game/screens.rpy:1301
+# XX## game/screens.rpy:1304
 msgid  "Стрелки"
 msgstr  "Стрелки"
 
-# XX## game/screens.rpy:1302
+# XX## game/screens.rpy:1305
 msgid  "Навигация по интерфейсу."
 msgstr  "Навигация по интерфейсу."
 
-# XX## game/screens.rpy:1305
+# XX## game/screens.rpy:1308
 msgid  "Esc"
 msgstr  "Esc"
 
-# XX## game/screens.rpy:1306
+# XX## game/screens.rpy:1309
 msgid  "Вход в игровое меню."
 msgstr  "Вход в игровое меню."
 
-# XX## game/screens.rpy:1309
+# XX## game/screens.rpy:1312
 msgid  "Ctrl"
 msgstr  "Ctrl"
 
-# XX## game/screens.rpy:1310
+# XX## game/screens.rpy:1313
 msgid  "Пропускает диалоги, пока зажат."
 msgstr  "Пропускает диалоги, пока зажат."
 
-# XX## game/screens.rpy:1313
+# XX## game/screens.rpy:1316
 msgid  "Tab"
 msgstr  "Tab"
 
-# XX## game/screens.rpy:1314
+# XX## game/screens.rpy:1317
 msgid  "Включает режим пропуска."
 msgstr  "Включает режим пропуска."
 
-# XX## game/screens.rpy:1317
+# XX## game/screens.rpy:1320
 msgid  "Page Up"
 msgstr  "Page Up"
 
-# XX## game/screens.rpy:1318
+# XX## game/screens.rpy:1321
 msgid  "Откат назад по сюжету игры."
 msgstr  "Откат назад по сюжету игры."
 
-# XX## game/screens.rpy:1321
+# XX## game/screens.rpy:1324
 msgid  "Page Down"
 msgstr  "Page Down"
 
-# XX## game/screens.rpy:1322
+# XX## game/screens.rpy:1325
 msgid  "Откатывает предыдущее действие вперёд."
 msgstr  "Откатывает предыдущее действие вперёд."
 
-# XX## game/screens.rpy:1326
+# XX## game/screens.rpy:1329
 msgid  "Скрывает интерфейс пользователя."
 msgstr  "Скрывает интерфейс пользователя."
 
-# XX## game/screens.rpy:1330
+# XX## game/screens.rpy:1333
 msgid  "Делает снимок экрана."
 msgstr  "Делает снимок экрана."
 
-# XX## game/screens.rpy:1334
+# XX## game/screens.rpy:1337
 msgid  "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 msgstr  "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 
-# XX## game/screens.rpy:1340
+# XX## game/screens.rpy:1343
 msgid  "Левый клик"
 msgstr  "Левый клик"
 
-# XX## game/screens.rpy:1344
+# XX## game/screens.rpy:1347
 msgid  "Клик колёсиком"
 msgstr  "Клик колёсиком"
 
-# XX## game/screens.rpy:1348
+# XX## game/screens.rpy:1351
 msgid  "Правый клик"
 msgstr  "Правый клик"
 
-# XX## game/screens.rpy:1352
+# XX## game/screens.rpy:1355
 msgid  "Колёсико вверх\nКлик на сторону отката"
 msgstr  "Колёсико вверх\nКлик на сторону отката"
 
-# XX## game/screens.rpy:1356
+# XX## game/screens.rpy:1359
 msgid  "Колёсико вниз"
 msgstr  "Колёсико вниз"
 
-# XX## game/screens.rpy:1363
+# XX## game/screens.rpy:1366
 msgid  "Правый триггер\nA/Нижняя кнопка"
 msgstr  "Правый триггер\nA/Нижняя кнопка"
 
-# XX## game/screens.rpy:1367
+# XX## game/screens.rpy:1370
 msgid  "Левый Триггер\nЛевый Бампер"
 msgstr  "Левый Триггер\nЛевый Бампер"
 
-# XX## game/screens.rpy:1371
+# XX## game/screens.rpy:1374
 msgid  "Правый бампер"
 msgstr  "Правый бампер"
 
-# XX## game/screens.rpy:1376
+# XX## game/screens.rpy:1379
 msgid  "Крестовина, Стики"
 msgstr  "Крестовина, Стики"
 
-# XX## game/screens.rpy:1380
+# XX## game/screens.rpy:1383
 msgid  "Start, Guide"
 msgstr  "Start, Guide"
 
-# XX## game/screens.rpy:1384
+# XX## game/screens.rpy:1387
 msgid  "Y/Верхняя кнопка"
 msgstr  "Y/Верхняя кнопка"
 
-# XX## game/screens.rpy:1387
+# XX## game/screens.rpy:1390
 msgid  "Калибровка"
 msgstr  "Калибровка"
 
-# XX## game/screens.rpy:1453
+# XX## game/screens.rpy:1456
 msgid  "Да"
 msgstr  "Да"
 
-# XX## game/screens.rpy:1454
+# XX## game/screens.rpy:1457
 msgid  "Нет"
 msgstr  "Нет"
 
-# XX## game/screens.rpy:1500
+# XX## game/screens.rpy:1503
 msgid  "Пропускаю"
 msgstr  "Пропускаю"
 
-# XX## game/screens.rpy:1724
+# XX## game/screens.rpy:1727
 msgid  "Скрыть интерфейс"
 msgstr  "Скрыть интерфейс"
 
-# XX## game/screens.rpy:1725
+# XX## game/screens.rpy:1728
 msgid  "Меню"
 msgstr  "Меню"
 

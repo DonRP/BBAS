@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/06_items.rpy:2
+﻿# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/06_items.rpy:2
 msgid  "ПАУК"
 msgstr  "ПАУК"
 

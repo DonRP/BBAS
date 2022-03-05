@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
+﻿# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid  "Ужасное"
 msgstr  "Ужасное"
 
@@ -38,7 +38,7 @@ msgstr  "Прекрасное"
 msgid  "Приобретен пакет рекламы"
 msgstr  "Приобретен пакет рекламы"
 
-# XX## game/core/01classes.rpy:1333
+# XX## game/core/01classes.rpy:1334
 msgid  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 

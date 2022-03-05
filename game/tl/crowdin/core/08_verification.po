@@ -1,20 +1,20 @@
-﻿# TODO: Translation updated at 2022-02-28 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:369
+﻿# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:372
 msgid  "Не определены"
 msgstr  "Не определены"
 
-# XX## game/core/08_verification.rpy:371
+# XX## game/core/08_verification.rpy:374
 msgid  "Откровенная вражда"
 msgstr  "Откровенная вражда"
 
-# XX## game/core/08_verification.rpy:381
+# XX## game/core/08_verification.rpy:384
 msgid  "Дружба"
 msgstr  "Дружба"
 
-# XX## game/core/08_verification.rpy:389
+# XX## game/core/08_verification.rpy:392
 msgid  "Настоящая дружба"
 msgstr  "Настоящая дружба"
 
-# XX## game/core/08_verification.rpy:400
+# XX## game/core/08_verification.rpy:403
 msgid  "Фальшивая дружба"
 msgstr  "Фальшивая дружба"
 
