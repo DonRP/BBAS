@@ -10,49 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 19:51\n"
+"PO-Revision-Date: 2022-03-06 11:16\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid "Ужасное"
-msgstr ""
+msgstr "Terrible"
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень плохое"
-msgstr ""
+msgstr "Muy malo"
 
 # XX## game/core/01classes.rpy:682
 msgid "Плохое"
-msgstr ""
+msgstr "Malo"
 
 # XX## game/core/01classes.rpy:682
 msgid "Не очень"
-msgstr ""
+msgstr "No mucho"
 
 # XX## game/core/01classes.rpy:682
 msgid "Нейтральное"
-msgstr ""
+msgstr "Neutral"
 
 # XX## game/core/01classes.rpy:682
 msgid "Неплохое"
-msgstr ""
+msgstr "Decente"
 
 # XX## game/core/01classes.rpy:682
 msgid "Хорошее"
-msgstr ""
+msgstr "Bien"
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень хорошее"
-msgstr ""
+msgstr "Muy bien"
 
 # XX## game/core/01classes.rpy:682
 msgid "Прекрасное"
-msgstr ""
+msgstr "Perfecto"
 
 # XX## game/core/01classes.rpy:1078
 msgid "Приобретен пакет рекламы"
-msgstr ""
+msgstr "Compró un paquete publicitario"
 
 # XX## game/core/01classes.rpy:1334
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr ""
+msgstr "{color=[lime]}{i}{b}Atención:{/b} ¡Ha obtenido una nueva \"oportunidad\"! {/i} {/color"
 
