@@ -1,150 +1,154 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/10_main_menu.po\n"
-"X-Crowdin-File-ID: 3305\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:39\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/core/10_main_menu.po\n"
+# "X-Crowdin-File-ID: 3305\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-05 17:39\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/10_main_menu.rpy:51
-msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
-msgstr ""
+# TODO: Translation updated at 2022-03-05 HH:HH
 
-# XX## game/core/10_main_menu.rpy:289
-msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-msgstr ""
+translate crowdin strings:
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Шорты"
-msgstr ""
+    # game/core/10_main_menu.rpy:51
+    old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Трусы"
-msgstr ""
+    # game/core/10_main_menu.rpy:289
+    old "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Шапка"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Шорты"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Борода"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Трусы"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Трусы #1"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Шапка"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Трусы #2"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Борода"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Маечка"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Трусы #1"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Минишортики"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Трусы #2"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Лиф"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Маечка"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Плавки"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Минишортики"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Лифчик"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Лиф"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Трусики"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Плавки"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Шапочка"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Лифчик"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Бант на шею"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Трусики"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Кружевное платье"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Шапочка"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Чулочки"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Бант на шею"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Топик"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Кружевное платье"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Шортики"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Чулочки"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Шляпка"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Топик"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Бабочка на шею"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Шортики"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Мишура на груди"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Шляпка"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Минилиф"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Бабочка на шею"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Миниплавки"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Мишура на груди"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Сорочка"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Минилиф"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Свитер без рукавов"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Миниплавки"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Откровенный корсет"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Сорочка"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Браслетики на запястья"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Свитер без рукавов"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Юбочка"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Откровенный корсет"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Штанишки"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Браслетики на запястья"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Леденец на шею"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Юбочка"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Свитер с рукавами"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Штанишки"
+    new ""
 
-# XX## game/core/10_main_menu.rpy:421
-msgid "Колготки"
-msgstr ""
+    # game/core/10_main_menu.rpy:421
+    old "Леденец на шею"
+    new ""
+
+    # game/core/10_main_menu.rpy:421
+    old "Свитер с рукавами"
+    new ""
+
+    # game/core/10_main_menu.rpy:421
+    old "Колготки"
+    new ""
 

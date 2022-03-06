@@ -1,16 +1,16 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
-"X-Crowdin-File-ID: 863\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:42\n"
+#  msgid ""
+#  msgstr ""
+#  "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#  "X-Crowdin-Project: big-brother-as\n"
+#  "X-Crowdin-Project-ID: 461654\n"
+#  "X-Crowdin-Language: es-ES\n"
+#  "X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
+#  "X-Crowdin-File-ID: 863\n"
+#  "Project-Id-Version: big-brother-as\n"
+#  "Content-Type: text/plain; charset=UTF-8\n"
+#  "Language-Team: Spanish\n"
+#  "Language: es_ES\n"
+#  "PO-Revision-Date: 2022-03-05 17:42\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
 msgid "массаж, "
@@ -37,10 +37,8 @@ msgid "скрытность, "
 msgstr "sigilo "
 
 # XX## game/screens.rpy:277
-msgid "[txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-msgstr "[txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+msgid "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+msgstr "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
 
 # XX## game/screens.rpy:339
 msgid "История"
@@ -375,26 +373,20 @@ msgid "Правый клик"
 msgstr "Haga clic con el botón derecho"
 
 # XX## game/screens.rpy:1355
-msgid "Колёсико вверх\n"
-"Клик на сторону отката"
-msgstr "Rueda hacia arriba\n"
-"Haga clic en el lado de la reversión"
+msgid "Колёсико вверх\nКлик на сторону отката"
+msgstr "Rueda hacia arriba\nHaga clic en el lado de la reversión"
 
 # XX## game/screens.rpy:1359
 msgid "Колёсико вниз"
 msgstr "Rueda hacia abajo"
 
 # XX## game/screens.rpy:1366
-msgid "Правый триггер\n"
-"A/Нижняя кнопка"
-msgstr "Disparador derecho\n"
-"botón A/Bottom"
+msgid "Правый триггер\nA/Нижняя кнопка"
+msgstr "Disparador derecho\nbotón A/Bottom"
 
 # XX## game/screens.rpy:1370
-msgid "Левый Триггер\n"
-"Левый Бампер"
-msgstr "Gatillo izquierdo\n"
-"parachoques izquierdo"
+msgid "Левый Триггер\nЛевый Бампер"
+msgstr "Gatillo izquierdo\nparachoques izquierdo"
 
 # XX## game/screens.rpy:1374
 msgid "Правый бампер"

@@ -1,58 +1,62 @@
-msgid ""
-msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/01classes.po\n"
-"X-Crowdin-File-ID: 785\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:38\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/core/01classes.po\n"
+# "X-Crowdin-File-ID: 785\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-05 17:38\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
-msgid "Ужасное"
-msgstr "Terrible"
+# TODO: Translation updated at 2022-03-05 HH:HH
 
-# XX## game/core/01classes.rpy:682
-msgid "Очень плохое"
-msgstr "Muy malo"
+translate crowdin strings:
 
-# XX## game/core/01classes.rpy:682
-msgid "Плохое"
-msgstr "Malo"
+    # game/core/01classes.rpy:682
+    old "Ужасное"
+    new "Terrible"
 
-# XX## game/core/01classes.rpy:682
-msgid "Не очень"
-msgstr "No mucho"
+    # game/core/01classes.rpy:682
+    old "Очень плохое"
+    new "Muy malo"
 
-# XX## game/core/01classes.rpy:682
-msgid "Нейтральное"
-msgstr "Neutral"
+    # game/core/01classes.rpy:682
+    old "Плохое"
+    new "Malo"
 
-# XX## game/core/01classes.rpy:682
-msgid "Неплохое"
-msgstr "Decente"
+    # game/core/01classes.rpy:682
+    old "Не очень"
+    new "No mucho"
 
-# XX## game/core/01classes.rpy:682
-msgid "Хорошее"
-msgstr "Bien"
+    # game/core/01classes.rpy:682
+    old "Нейтральное"
+    new "Neutral"
 
-# XX## game/core/01classes.rpy:682
-msgid "Очень хорошее"
-msgstr "Muy bien"
+    # game/core/01classes.rpy:682
+    old "Неплохое"
+    new "Decente"
 
-# XX## game/core/01classes.rpy:682
-msgid "Прекрасное"
-msgstr "Perfecto"
+    # game/core/01classes.rpy:682
+    old "Хорошее"
+    new "Bien"
 
-# XX## game/core/01classes.rpy:1078
-msgid "Приобретен пакет рекламы"
-msgstr "Compró un paquete publicitario"
+    # game/core/01classes.rpy:682
+    old "Очень хорошее"
+    new "Muy bien"
 
-# XX## game/core/01classes.rpy:1334
-msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Atención:{/b} ¡Ha obtenido una nueva \"oportunidad\"! {/i} {/color"
+    # game/core/01classes.rpy:682
+    old "Прекрасное"
+    new "Perfecto"
+
+    # game/core/01classes.rpy:1078
+    old "Приобретен пакет рекламы"
+    new "Compró un paquete publicitario"
+
+    # game/core/01classes.rpy:1334
+    old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+    new "{color=[lime]}{i}{b}Atención:{/b} ¡Ha obtenido una nueva \"oportunidad\"! {/i} {/color"
 
