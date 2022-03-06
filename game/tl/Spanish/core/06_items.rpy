@@ -10,301 +10,301 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 19:51\n"
+"PO-Revision-Date: 2022-03-06 11:16\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/06_items.rpy:2
 msgid "ПАУК"
-msgstr ""
+msgstr "ARAÑA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
-msgstr ""
+msgstr "La criatura más terrible del mundo. Desde el punto de vista de Alice, por supuesto. ¡Necesitas aprovechar esto en el momento adecuado!"
 
 # XX## game/core/06_items.rpy:2
 msgid "СКРЫТАЯ КАМЕРА"
-msgstr ""
+msgstr "CÁMARA CÁNDIDA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
-msgstr ""
+msgstr "Microcámara de alta tecnología diseñada para la vigilancia sigilosa. Tiene un radiomódulo para la transmisión inalámbrica de señal de video digital encriptada."
 
 # XX## game/core/06_items.rpy:2
 msgid "ШЕЛКОВЫЙ ХАЛАТ"
-msgstr ""
+msgstr "TÚNICA DE SEDA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Короткий, лёгкий, почти шёлковый халат высшего качества. Made in China."
-msgstr ""
+msgstr "Túnica corta, ligera, casi de seda de la más alta calidad. Hecho en China."
 
 # XX## game/core/06_items.rpy:2
 msgid "КУПАЛЬНИК КРАСНЫЙ"
-msgstr ""
+msgstr "TRAJE DE BAÑO ROJO"
 
 # XX## game/core/06_items.rpy:2
 msgid "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
-msgstr ""
+msgstr "Traje de baño para aquellos que no se avergüenzan de su cuerpo. Esconde solo las zonas más íntimas. Todo lo demás está abierto al sol y a los ojos de los demás."
 
 # XX## game/core/06_items.rpy:2
 msgid "СИГАРЕТЫ"
-msgstr ""
+msgstr "CIGARRILLOS"
 
 # XX## game/core/06_items.rpy:2
 msgid "Пачка сигарет Lucky Strike. Для настоящих мужчин!"
-msgstr ""
+msgstr "Un paquete de cigarrillos Lucky Strike. ¡Para hombres de verdad!"
 
 # XX## game/core/06_items.rpy:2
 msgid "МАЛЕНЬКОЕ ЧЕРНОЕ ПЛАТЬЕ"
-msgstr ""
+msgstr "PEQUEÑO VESTIDO NEGRO"
 
 # XX## game/core/06_items.rpy:2
 msgid "Отличный подарок для девушки, желающей произвести фурор на вечеринке или дискотеке."
-msgstr ""
+msgstr "Un gran regalo para una chica que quiere causar sensación en una fiesta o discoteca."
 
 # XX## game/core/06_items.rpy:2
 msgid "ЛЮБЯЩАЯ РУБИ"
-msgstr ""
+msgstr "AMAR RUBÍ"
 
 # XX## game/core/06_items.rpy:2
 msgid "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
-msgstr ""
+msgstr "Una novela sobre el amor prohibido entre una secretaria y su jefe, llena de amor, pasión, emociones y... Misticismo."
 
 # XX## game/core/06_items.rpy:2
 msgid "ПРЕМЬЕР-МИНИСТР"
-msgstr ""
+msgstr "PRIMER MINISTRO"
 
 # XX## game/core/06_items.rpy:2
 msgid "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
-msgstr ""
+msgstr "¡Una nueva novela erótica, incluida en el Top 10 de las mejores novelas y cuentos de Estados Unidos!"
 
 # XX## game/core/06_items.rpy:2
 msgid "БЫТЬ КУКЛОЙ"
-msgstr ""
+msgstr "SER UNA MUÑECA"
 
 # XX## game/core/06_items.rpy:2
 msgid "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
-msgstr ""
+msgstr "En la finca de Carter, hermosas chicas son entrenadas para convertirse en esposas perfectas para las personas más poderosas del mundo."
 
 # XX## game/core/06_items.rpy:2
 msgid "КНИГА ОРГАЗМОВ"
-msgstr ""
+msgstr "LIBRO DE ORGASMOS"
 
 # XX## game/core/06_items.rpy:2
 msgid "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
-msgstr ""
+msgstr "¿Qué sucede si recopilas las historias más populares sobre orgasmos de 69 autores diferentes?"
 
 # XX## game/core/06_items.rpy:2
 msgid "ИСТОРИЯ О"
-msgstr ""
+msgstr "HISTORIA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Это история о доминировании и подчинении. История об одной прекрасной девушке по имени О."
-msgstr ""
+msgstr "Es una historia sobre la dominación y la sumisión. La historia de una hermosa niña llamada O."
 
 # XX## game/core/06_items.rpy:2
 msgid "СТРЕМЯНКА"
-msgstr ""
+msgstr "ESCALERA DE MANO"
 
 # XX## game/core/06_items.rpy:2
 msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-msgstr ""
+msgstr "Una pequeña escalón que te permite obtener lo que no tienes suficiente crecimiento"
 
 # XX## game/core/06_items.rpy:2
 msgid "WEB STANDARDS"
-msgstr ""
+msgstr "ESTÁNDARES WEB"
 
 # XX## game/core/06_items.rpy:2
 msgid "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
-msgstr ""
+msgstr "El libro habla sobre formas de crear sus propios sitios que funcionan en cualquier dispositivo."
 
 # XX## game/core/06_items.rpy:2
 msgid "ЛЁГКАЯ ПИЖАМА"
-msgstr ""
+msgstr "PIJAMA LIGERO"
 
 # XX## game/core/06_items.rpy:2
 msgid "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
-msgstr ""
+msgstr "Cómoda camiseta y pantalones cortos. No son calurosos en las sofocantes noches de verano, e igual de acogedores durante todo el año."
 
 # XX## game/core/06_items.rpy:2
 msgid "НОЧНУШКА"
-msgstr ""
+msgstr "NOCHE"
 
 # XX## game/core/06_items.rpy:2
 msgid "Полупрозрачные сорочка и трусики. Облегающий фасон подчёркивает все достоинства и изгибы фигуры, а лёгкое кружево придаст ещё больше сексуальности."
-msgstr ""
+msgstr "Camisa y bragas translúcidas. El estilo ajustado enfatiza todas las ventajas y curvas de la figura, y el encaje ligero dará aún más sexualidad."
 
 # XX## game/core/06_items.rpy:2
 msgid "Набор косметики"
-msgstr ""
+msgstr "Conjunto de cosméticos"
 
 # XX## game/core/06_items.rpy:2
 msgid "Небольшой набор косметики для повседневного использования. Для женщин - только лучшее..."
-msgstr ""
+msgstr "Un pequeño conjunto de cosméticos para el uso diario. Para las mujeres, solo lo mejor..."
 
 # XX## game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
-msgstr ""
+msgstr "Chocolate \"Ritter Sport\" mini (9 uds)"
 
 # XX## game/core/06_items.rpy:2
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
-msgstr ""
+msgstr "Delicia de chocolate para cada ocasión... Muchas variedades sabrosas con los mejores ingredientes de todo el mundo."
 
 # XX## game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" (4 штуки)"
-msgstr ""
+msgstr "Chocolate \"Ritter Sport\" (4 piezas)"
 
 # XX## game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (16 штук)"
-msgstr ""
+msgstr "Dulces \"Raffaello\" (16 uds)"
 
 # XX## game/core/06_items.rpy:2
 msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
-msgstr ""
+msgstr "Crujiente caramelo de coco con almendras enteras. En lugar de mil palabras..."
 
 # XX## game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (24 штуки)"
-msgstr ""
+msgstr "Dulces \"Raffaello\" (24 piezas)"
 
 # XX## game/core/06_items.rpy:2
 msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
-msgstr ""
+msgstr "Dulces \"Ferrero Rocher\" (16 uds)"
 
 # XX## game/core/06_items.rpy:2
 msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
-msgstr ""
+msgstr "La combinación de avellanas enteras y deliciosa crema cremosa de nueces en una crujiente cáscara de gofre le dará una sensación de sabor única."
 
 # XX## game/core/06_items.rpy:2
 msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
-msgstr ""
+msgstr "Dulces \"Ferrero Rocher\" (24 piezas)"
 
 # XX## game/core/06_items.rpy:2
 msgid "КРЕМ ДЛЯ ЗАГАРА"
-msgstr ""
+msgstr "PROTECTOR SOLAR"
 
 # XX## game/core/06_items.rpy:2
 msgid "Легкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
-msgstr ""
+msgstr "La preparación ligera y bien absorbida para acelerar el bronceado tiene propiedades hidratantes y protectoras. Recomendado para su uso en la playa y en el solárium."
 
 # XX## game/core/06_items.rpy:2
 msgid "МУЖСКИЕ МАЙКА И ШОРТЫ"
-msgstr ""
+msgstr "CAMISETAS Y PANTALONES CORTOS PARA HOMBRE"
 
 # XX## game/core/06_items.rpy:2
 msgid "Свободный и лёгкий летний комплект одежды на каждый день."
-msgstr ""
+msgstr "Juego de ropa de verano gratis y ligero para todos los días."
 
 # XX## game/core/06_items.rpy:2
 msgid "КОНФЕТЫ С ЛИКЁРОМ"
-msgstr ""
+msgstr "CARAMELO CON LICOR"
 
 # XX## game/core/06_items.rpy:2
 msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
-msgstr ""
+msgstr "Chocolates con licor. Sabores únicos esconden el sabor del alcohol. Anímate perfectamente. Muy fuerte."
 
 # XX## game/core/06_items.rpy:2
 msgid "КОМПЛЕКТ ТЁМНОГО НИЖНЕГО БЕЛЬЯ"
-msgstr ""
+msgstr "CONJUNTO DE ROPA INTERIOR OSCURA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-msgstr ""
+msgstr "Excelente ropa interior de color oscuro. Un gran regalo para tu novia."
 
 # XX## game/core/06_items.rpy:2
 msgid "СЕКС-ОБРАЗОВАНИЕ"
-msgstr ""
+msgstr "EDUCACIÓN SEXUAL"
 
 # XX## game/core/06_items.rpy:2
 msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
-msgstr ""
+msgstr "El libro trata sobre todo lo relacionado con el sexo. Ideal para educar a la generación más joven."
 
 # XX## game/core/06_items.rpy:2
 msgid "ФОТОАППАРАТ"
-msgstr ""
+msgstr "CÁMARA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
-msgstr ""
+msgstr "Cámara profesional con lente. No es nuevo, pero está en excelentes condiciones. Adecuado tanto para principiantes como para profesionales."
 
 # XX## game/core/06_items.rpy:2
 msgid "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
-msgstr ""
+msgstr "CAMISA CORTA PICANTE"
 
 # XX## game/core/06_items.rpy:2
 msgid "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
-msgstr ""
+msgstr "La seductora camisa negra está hecha de tul elástico. El kit también incluye bragas-tangas."
 
 # XX## game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
-msgstr ""
+msgstr "BODYSUIT NEGRO SEXY"
 
 # XX## game/core/06_items.rpy:2
 msgid "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
-msgstr ""
+msgstr "Bodysuit de malla transparente con una espalda abierta de color negro."
 
 # XX## game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
-msgstr ""
+msgstr "BODYSUIT DE ENCAJE NEGRO"
 
 # XX## game/core/06_items.rpy:2
 msgid "Женское сексуальное нижнее бельё с кружевным узором по краям."
-msgstr ""
+msgstr "Ropa interior sexy de mujer con un patrón de encaje alrededor de los bordes."
 
 # XX## game/core/06_items.rpy:2
 msgid "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
-msgstr ""
+msgstr "CORPIÑO DEPORTIVO Y MINI SHORTS"
 
 # XX## game/core/06_items.rpy:2
 msgid "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
-msgstr ""
+msgstr "Ropa cómoda, abierta y ligera para hacer deporte. También es perfecto para la recreación al aire libre."
 
 # XX## game/core/06_items.rpy:2
 msgid "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
-msgstr ""
+msgstr "PELÍCULA \"COLOR OF NIGHT\" 1994"
 
 # XX## game/core/06_items.rpy:2
 msgid "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
-msgstr ""
+msgstr "Bruce Willis en el papel de un psicólogo de Nueva York que perdió a un paciente: se tiró por la ventana justo durante la sesión. Para recuperarse, se va a Los Ángeles con su amigo, con quien estudiaron juntos..."
 
 # XX## game/core/06_items.rpy:2
 msgid "КОМПРОМАТ НА ЭРИКА"
-msgstr ""
+msgstr "Pruebas comprometedoras de eric"
 
 # XX## game/core/06_items.rpy:2
 msgid "Снимок того, как Эрик по ночам дрочит на Алису у окна её комнаты."
-msgstr ""
+msgstr "Una foto de Eric masturbándose con Alice por la noche junto a la ventana de su habitación."
 
 # XX## game/core/06_items.rpy:2
 msgid "Снимки того, как Эрик по ночам сперва дрочил на Алису у окна её комнаты, а затем и в самой комнате."
-msgstr ""
+msgstr "Imágenes de cómo Eric por la noche se masturbaba primero con Alice en la ventana de su habitación, y luego en su habitación."
 
 # XX## game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ КОСТЮМ ДЛЯ РОЛЕВЫХ ИГР"
-msgstr ""
+msgstr "TRAJE DE CUERO NEGRO PARA JUEGOS DE ROL"
 
 # XX## game/core/06_items.rpy:2
 msgid "Женский сексуальный комплект из натуральной кожи чёрного цвета. Топ с воротничком и коротенькие шортики, которые застёгиваются на стильные заклёпки."
-msgstr ""
+msgstr "Conjunto sexy para mujer hecho de cuero genuino negro. Top con cuello y pantalones cortos, que se abrochan con elegantes remaches."
 
 # XX## game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ СТЕК"
-msgstr ""
+msgstr "Látigo de cuero negro"
 
 # XX## game/core/06_items.rpy:2
 msgid "Стек освежит и разнообразит ваши отношения. Шлепок на конце девайса воспитает дерзкого и непослушного партнера. Секс-игрушка откроет просторы истинного БДСМ."
-msgstr ""
+msgstr "El látigo refrescará y diversificará su relación. Una bofetada al final del acto revelará un compañero valiente y mezquino. Un juguete sexual abrirá los reinos del BDSM real."
 
 # XX## game/core/06_items.rpy:2
 msgid "БЫСТРОДЕЙСТВУЮЩЕЕ СЛАБИТЕЛЬНОЕ"
-msgstr ""
+msgstr "LAXANTE DE ACCIÓN RÁPIDA"
 
 # XX## game/core/06_items.rpy:2
 msgid "Эффективное слабительное средство. Эффект не заставит себя ждать. Деликатное решение деликатной проблемы."
-msgstr ""
+msgstr "Un laxante eficaz. El efecto no te hará esperar. Una solución delicada a un problema delicado."
 
 # XX## game/core/06_items.rpy:2
 msgid "УСПОКОИТЕЛЬНОЕ СРЕДСТВО"
-msgstr ""
+msgstr "SEDANTE"
 
 # XX## game/core/06_items.rpy:2
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
-msgstr ""
+msgstr "Perfecto para aquellos que no quieren emocionarse demasiado. Solo paz y serenidad. Antes de su uso, es necesario consultar a un médico para determinar la dosis deseada."
 

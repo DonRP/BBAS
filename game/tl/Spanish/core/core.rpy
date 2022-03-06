@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 19:52\n"
+"PO-Revision-Date: 2022-03-06 11:17\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/core/core.rpy:582 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
@@ -50,11 +50,11 @@ msgstr ""
 
 # game/core/core.rpy:963 ## translate crowdin after_buying_27b33f97:
 msgid "[Max_01] {m}Так, фотокамеру я заказал, осталось дождаться доставки...{/m}"
-msgstr ""
+msgstr "[Max_01] {m}Entonces, pedí la cámara, queda esperar la entrega...{/i}"
 
 # game/core/core.rpy:964 ## translate crowdin after_buying_46e6b997:
 msgid "[Max_07] {m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
-msgstr ""
+msgstr "[Max_07]  {m} Me pregunto con qué ropa me gustaría fotografiar a la tía Kira. Ella lo necesita para un portafolio... ¡¿Entonces tal vez debería comprarle algo sexy?! Por ejemplo, ¡un camisón más sexy! Esto será una ventaja... {/ m}"
 
 # game/core/core.rpy:1025 ## translate crowdin after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
@@ -66,25 +66,29 @@ msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/core/core.rpy:411
 msgid "В интернет-магазине доступен новый товар."
-msgstr ""
+msgstr "Un nuevo producto está disponible en la tienda en línea."
 
 # XX## game/core/core.rpy:839
 msgid "{i}идти на веранду{/i}"
-msgstr ""
+msgstr "{i}ir a la terraza{/i}"
 
 # XX## game/core/core.rpy:839
 msgid "{i}не сейчас{/i}"
-msgstr ""
+msgstr "{i}no ahora{/i}"
 
 # XX## game/core/core.rpy:1124
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
-msgstr ""
+msgstr "¡Resultó interesante! Por el bien del interés, le dije a Alice que ya no quiero interceder por ella cuando sea castigada, pero que estoy listo para seguir haciéndolo si acepta que le pegue.\n"
+"Al principio aceptó ese acuerdo con hostilidad, pero después de varios castigos de mi madre, aceptó que yo la azotara. Al menos, si resultaba salvar a Alice de la mano de su madre. También debo recordar discutir con ella cuándo debo pegarle.\n\n"
+"Es cierto, hay un pequeño matiz, gracias al cual Alice accedió a esto... Le prometí que la azotaría suavemente. Sí, no será fácil resistirse y no darle una palmada en el culo por lo perra que se comportó..."
 
 # XX## game/core/core.rpy:1124
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
-msgstr ""
+msgstr "¡El espectáculo es realmente fascinante! Probablemente no muchos hayan logrado desnudar y azotar a su hermana mayor...\n"
+"Aunque es caprichosa y al mismo tiempo lanza amenazas, parece que mi perseverancia prevaleció. Admirar su culo desnudo y elástico es un placer, además de azotarla.\n\n"
+"Y ahora entiendo cómo no ir demasiado lejos para disfrutar el mayor tiempo posible de este castigo privado..."
 

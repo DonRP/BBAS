@@ -10,130 +10,131 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 19:51\n"
+"PO-Revision-Date: 2022-03-06 11:16\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
 msgid "+ к навыку скрытности"
-msgstr ""
+msgstr "+ a la habilidad del sigilo"
 
 # XX## game/core/04function.rpy:306
 msgid "+ к навыку убеждения"
-msgstr ""
+msgstr "+ a la habilidad de persuasión"
 
 # XX## game/core/04function.rpy:310
 msgid "+ к навыку массажа"
-msgstr ""
+msgstr "+ a la habilidad del masaje"
 
 # XX## game/core/04function.rpy:314
 msgid "+ к навыку поцелуев"
-msgstr ""
+msgstr "+ a la habilidad de besar"
 
 # XX## game/core/04function.rpy:318
 msgid "+ к навыку эротического массажа"
-msgstr ""
+msgstr "+ a la habilidad del masaje erótico"
 
 # XX## game/core/04function.rpy:322
 msgid "+ к тренированности"
-msgstr ""
+msgstr "+ a fitness"
 
 # XX## game/core/04function.rpy:326
 msgid "+ к навыку кунилингуса"
-msgstr ""
+msgstr "+ a la habilidad de"
 
 # XX## game/core/04function.rpy:330
 msgid "+ к сексуальному опыту"
-msgstr ""
+msgstr "+ a la experiencia sexual"
 
 # XX## game/core/04function.rpy:334
 msgid "+ к опыту анального секса"
-msgstr ""
+msgstr "+ a la experiencia del sexo"
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}значительно ухудшилось{/color}"
-msgstr ""
+msgstr "{color=[red]}se ha deteriorado significativamente{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}ухудшилось{/color}"
-msgstr ""
+msgstr "{color=[red]}empeorado{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}немного ухудшилось{/color}"
-msgstr ""
+msgstr "{color=[red]}ligeramente empeorado{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}немного улучшилось{/color}"
-msgstr ""
+msgstr "{color=[lime]}ligeramente mejorado{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}улучшилось{/color}"
-msgstr ""
+msgstr "{color=[lime]}mejorado{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}значительно улучшилось{/color}"
-msgstr ""
+msgstr "{color=[lime]}ha mejorado significativamente{/color}"
 
 # XX## game/core/04function.rpy:354
 msgid "{color=[red]}снизилось{/color}"
-msgstr ""
+msgstr "{color=[red]}disminuido{/color}"
 
 # XX## game/core/04function.rpy:354
 msgid "{color=[lime]}повысилось{/color}"
-msgstr ""
+msgstr "{color=[lime]}increased{/color}"
 
 # XX## game/core/04function.rpy:385
 msgid "Настроение %s %s \n"
 "Её отношение к Максу %s"
-msgstr ""
+msgstr "Su estado de ánimo %s %s \n"
+"su actitud hacia Max %s"
 
 # XX## game/core/04function.rpy:387
 msgid "Отношение %s к Максу %s"
-msgstr ""
+msgstr "La actitud de %s hacia Max %s"
 
 # XX## game/core/04function.rpy:389
 msgid "Настроение %s %s"
-msgstr ""
+msgstr "%s %sdel estado de ánimo"
 
 # XX## game/core/04function.rpy:406
 msgid "Так... В накладной написано следующее:"
-msgstr ""
+msgstr "Así que... La factura dice lo siguiente:"
 
 # XX## game/core/04function.rpy:712
 msgid "Прохладные"
-msgstr ""
+msgstr "Fresco"
 
 # XX## game/core/04function.rpy:714
 msgid "Война"
-msgstr ""
+msgstr "Guerra"
 
 # XX## game/core/04function.rpy:714
 msgid "Враждебные"
-msgstr ""
+msgstr "Hostil"
 
 # XX## game/core/04function.rpy:714
 msgid "Плохие"
-msgstr ""
+msgstr "Malo"
 
 # XX## game/core/04function.rpy:714
 msgid "Неплохие"
-msgstr ""
+msgstr "Bien"
 
 # XX## game/core/04function.rpy:714
 msgid "Хорошие"
-msgstr ""
+msgstr "Bien"
 
 # XX## game/core/04function.rpy:714
 msgid "Тёплые"
-msgstr ""
+msgstr "Cálido"
 
 # XX## game/core/04function.rpy:714
 msgid "Дружеские"
-msgstr ""
+msgstr "Amistoso"
 
 # XX## game/core/04function.rpy:714
 msgid "Близкие"
-msgstr ""
+msgstr "Cerrar"
 
 # XX## game/core/04function.rpy:1011
 msgid "Конфеты закончились"
-msgstr ""
+msgstr "Se acabó el caramelo"
 
