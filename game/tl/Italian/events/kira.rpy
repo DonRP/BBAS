@@ -1,16 +1,16 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/kira.po\n"
-# "X-Crowdin-File-ID: 1255\n"
+# "X-italian-Project: big-brother-as\n"
+# "X-italian-Project-ID: 461654\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /master/game/tl/italian/events/kira.po\n"
+# "X-italian-File-ID: 3484\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-06 11:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -1584,7 +1584,7 @@ translate italian kira_night_tv_9353de64:
 translate italian kira_night_tv_900519e1:
 
     # Max_03 "Конечно, тётя Кира. Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
-    Max_03 "Certo, zia Kira. Non riesco a dormire. Posso anche guardare la televisione con te?"
+    Max_03 "Zia Kira non è ancora andata a letto... guardare il porno. Forse dovremmo restare in piedi?"
 
 # game/events/kira.rpy:1033
 translate italian kira_night_tv_413b9a2c:
@@ -3288,7 +3288,7 @@ translate italian kira_shower_promise_cuni_56e27392:
 translate italian kira_shower_promise_cuni_7ca5775c:
 
     # Kira_11 "О да... Ещё, Макс... Я уже близко... Так приятно..." nointeract
-    Kira_11 "Oh sì... Di più, Max... Sono vicino... È così bello..." nointeract
+    Kira_11 "Oh, sì... Di più, Max... Mi sto avvicinando... Ci si sente così bene..." nointeract
 
 # game/events/kira.rpy:2430
 translate italian kira_shower_promise_cuni_37a341b6:
@@ -3396,7 +3396,7 @@ translate italian kira_shower_sex_2b4065e5:
 translate italian kira_shower_sex_f1756a61:
 
     # Max_07 "Боюсь даже представить... Может, сделать всё по-быстрому?"
-    Max_07 "Ho paura di immaginare... Che ne dite di una soluzione rapida?"
+    Max_07 "ho paura di immaginare... Forse farlo in fretta?"
 
 # game/events/kira.rpy:2503
 translate italian kira_shower_sex_87d047c4:

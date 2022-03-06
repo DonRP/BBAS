@@ -1,16 +1,16 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/punishment.po\n"
-# "X-Crowdin-File-ID: 1055\n"
+# "X-italian-Project: big-brother-as\n"
+# "X-italian-Project-ID: 461654\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /master/game/tl/italian/dialogues/punishment.po\n"
+# "X-italian-File-ID: 3470\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-06 11:17\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -420,6 +420,7 @@ translate italian punishment_lisa_678436cc:
 translate italian punishment_lisa_0b6806cc:
 
     # Ann_16 "[_text!t]" nointeract
+    Ann_16 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:465
 translate italian punishment_lisa_f1ea86d0:
@@ -491,6 +492,7 @@ translate italian punishment_lisa_a4b257c5:
 translate italian punishment_lisa_67c8b436:
 
     # Ann_18 "[_text!t]" nointeract
+    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:513
 translate italian punishment_lisa_a1d39e4d:
@@ -622,6 +624,7 @@ translate italian punishment_alice_a4b257c5:
 translate italian punishment_alice_67c8b436:
 
     # Ann_18 "[_text!t]" nointeract
+    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:635
 translate italian punishment_alice_cb34e360:
@@ -747,6 +750,7 @@ translate italian punishment_alice_a4b257c5_1:
 translate italian punishment_alice_67c8b436_1:
 
     # Ann_18 "[_text!t]" nointeract
+    Ann_18 "[_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:708
 translate italian punishment_alice_cb34e360_1:

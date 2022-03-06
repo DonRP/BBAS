@@ -5,12 +5,12 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
-"X-Crowdin-File-ID: 863\n"
+"X-Crowdin-File-ID: 3504\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 17:41\n"
+"PO-Revision-Date: 2022-03-06 11:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
 msgid "массаж, "
@@ -43,47 +43,47 @@ msgstr ""
 
 # XX## game/screens.rpy:339
 msgid "История"
-msgstr "主线剧情"
+msgstr ""
 
 # XX## game/screens.rpy:340
 msgid "Пропуск"
-msgstr "关闭"
+msgstr ""
 
 # XX## game/screens.rpy:341
 msgid "Авто"
-msgstr "自动"
+msgstr ""
 
 # XX## game/screens.rpy:342
 msgid "Сохранить"
-msgstr "保存"
+msgstr ""
 
 # XX## game/screens.rpy:343
 msgid "Б.Сохр"
-msgstr "B. 索赫尔"
+msgstr ""
 
 # XX## game/screens.rpy:344
 msgid "Б.Загр"
-msgstr "B. 扎格拉"
+msgstr ""
 
 # XX## game/screens.rpy:345
 msgid "Опции"
-msgstr "选项"
+msgstr ""
 
 # XX## game/screens.rpy:390
 msgid "Загрузить игру"
-msgstr "载入游戏"
+msgstr ""
 
 # XX## game/screens.rpy:393
 msgid "Сохранить игру"
-msgstr "保存存档"
+msgstr ""
 
 # XX## game/screens.rpy:396
 msgid "Настройки"
-msgstr "设置"
+msgstr ""
 
 # XX## game/screens.rpy:403
 msgid "Завершить повтор"
-msgstr "完成重播"
+msgstr ""
 
 # XX## game/screens.rpy:406
 msgid "Главное меню"
@@ -91,31 +91,31 @@ msgstr ""
 
 # XX## game/screens.rpy:413
 msgid "Выйти из игры"
-msgstr "退出"
+msgstr ""
 
 # XX## game/screens.rpy:419
 msgid "Назад"
-msgstr "返回"
+msgstr ""
 
 # XX## game/screens.rpy:526
 msgid "НОВАЯ ИГРА"
-msgstr "新遊戲"
+msgstr ""
 
 # XX## game/screens.rpy:532
 msgid "ПРОДОЛЖИТЬ"
-msgstr "继续"
+msgstr ""
 
 # XX## game/screens.rpy:535
 msgid "ЗАГРУЗИТЬ"
-msgstr "下载"
+msgstr ""
 
 # XX## game/screens.rpy:539
 msgid "НАСТРОЙКИ"
-msgstr "设置"
+msgstr ""
 
 # XX## game/screens.rpy:540
 msgid "ВЫЙТИ"
-msgstr "退出"
+msgstr ""
 
 # XX## game/screens.rpy:572
 msgid "МЕНЮ"
@@ -123,39 +123,39 @@ msgstr ""
 
 # XX## game/screens.rpy:706
 msgid "Введите описание файла сохранения:"
-msgstr "输入保存文件的说明："
+msgstr ""
 
 # XX## game/screens.rpy:727
 msgid "(Нет описания)"
-msgstr "(无描述)"
+msgstr ""
 
 # XX## game/screens.rpy:746
 msgid "{} страница"
-msgstr "页"
+msgstr ""
 
 # XX## game/screens.rpy:746
 msgid "Автосохранения"
-msgstr "自动保存"
+msgstr ""
 
 # XX## game/screens.rpy:746
 msgid "Быстрые сохранения"
-msgstr "快速存档"
+msgstr ""
 
 # XX## game/screens.rpy:822
 msgid "{#file_time}%a, %d %b %Y, %H:%M"
-msgstr "{#file_time}%a, %d %b %Y, %H:%M"
+msgstr ""
 
 # XX## game/screens.rpy:822
 msgid "Пустой слот"
-msgstr "空栏位"
+msgstr ""
 
 # XX## game/screens.rpy:830
 msgid "ДЕНЬ [load_day]"
-msgstr "[load_day]日"
+msgstr ""
 
 # XX## game/screens.rpy:882
 msgid "{#file_time}%d %b %Y, %H:%M"
-msgstr "{#file_time}%d %b %Y, %H:%M"
+msgstr ""
 
 # XX## game/screens.rpy:906
 msgid "<"
@@ -163,11 +163,11 @@ msgstr ""
 
 # XX## game/screens.rpy:909
 msgid "{#auto_page}Автосохр."
-msgstr "{#auto_page}自动保存。"
+msgstr ""
 
 # XX## game/screens.rpy:912
 msgid "{#quick_page}Быстрые сохр."
-msgstr "{#quick_page}快速盐水。"
+msgstr ""
 
 # XX## game/screens.rpy:918
 msgid ">"
@@ -175,51 +175,51 @@ msgstr ""
 
 # XX## game/screens.rpy:990
 msgid "Режим экрана"
-msgstr "显示模式"
+msgstr ""
 
 # XX## game/screens.rpy:991
 msgid "Оконный"
-msgstr "窗口化"
+msgstr ""
 
 # XX## game/screens.rpy:992
 msgid "Полный"
-msgstr "全部"
+msgstr ""
 
 # XX## game/screens.rpy:995
 msgid "Сторона отката"
-msgstr "回滚侧"
+msgstr ""
 
 # XX## game/screens.rpy:996
 msgid "Отключено"
-msgstr "已停用 "
+msgstr ""
 
 # XX## game/screens.rpy:997
 msgid "Левая"
-msgstr "左路"
+msgstr ""
 
 # XX## game/screens.rpy:998
 msgid "Правая"
-msgstr "右"
+msgstr ""
 
 # XX## game/screens.rpy:1004
 msgid "Всего текста"
-msgstr "总文本"
+msgstr ""
 
 # XX## game/screens.rpy:1005
 msgid "После выборов"
-msgstr "选举后"
+msgstr ""
 
 # XX## game/screens.rpy:1006
 msgid "Переходов"
-msgstr "数据追踪"
+msgstr ""
 
 # XX## game/screens.rpy:1009
 msgid "Язык"
-msgstr "语言"
+msgstr ""
 
 # XX## game/screens.rpy:1030
 msgid "Дополнительно"
-msgstr "附加功能"
+msgstr ""
 
 # XX## game/screens.rpy:1031
 msgid "Именованные сохранения"
@@ -227,11 +227,11 @@ msgstr ""
 
 # XX## game/screens.rpy:1032
 msgid "Прозрачное текстовое окно"
-msgstr "透明文本窗口"
+msgstr ""
 
 # XX## game/screens.rpy:1033
 msgid "Отображать все \"Возможности\""
-msgstr "显示所有\"功能\""
+msgstr ""
 
 # XX## game/screens.rpy:1034
 msgid "Переодевания Лизы пропускаются, если Макс в комнате"
@@ -239,199 +239,196 @@ msgstr ""
 
 # XX## game/screens.rpy:1047
 msgid "Скорость текста"
-msgstr "文本速度"
+msgstr ""
 
 # XX## game/screens.rpy:1051
 msgid "Скорость авточтения"
-msgstr "自动读取速度"
+msgstr ""
 
 # XX## game/screens.rpy:1058
 msgid "Громкость музыки"
-msgstr "音乐音量"
+msgstr ""
 
 # XX## game/screens.rpy:1065
 msgid "Громкость звуков"
-msgstr "游戏音量"
+msgstr ""
 
 # XX## game/screens.rpy:1071
 msgid "Тест"
-msgstr "测试"
+msgstr ""
 
 # XX## game/screens.rpy:1075
 msgid "Громкость голоса"
-msgstr "语音音量"
+msgstr ""
 
 # XX## game/screens.rpy:1086
 msgid "Без звука"
-msgstr "静音"
+msgstr ""
 
 # XX## game/screens.rpy:1207
 msgid "История диалогов пуста."
-msgstr "对话历史记录为空。"
+msgstr ""
 
 # XX## game/screens.rpy:1270
 msgid "Помощь"
-msgstr "帮助"
+msgstr ""
 
 # XX## game/screens.rpy:1279
 msgid "Клавиатура"
-msgstr "快捷键和键位绑定"
+msgstr ""
 
 # XX## game/screens.rpy:1280
 msgid "Мышь"
-msgstr "鼠标"
+msgstr ""
 
 # XX## game/screens.rpy:1283
 msgid "Геймпад"
-msgstr "游戏板"
+msgstr ""
 
 # XX## game/screens.rpy:1296
 msgid "Enter"
-msgstr "进入"
+msgstr ""
 
 # XX## game/screens.rpy:1297
 msgid "Прохождение диалогов, активация интерфейса."
-msgstr "通过对话，激活界面。"
+msgstr ""
 
 # XX## game/screens.rpy:1300
 msgid "Пробел"
-msgstr "空格"
+msgstr ""
 
 # XX## game/screens.rpy:1301
 msgid "Прохождение диалогов без возможности делать выбор."
-msgstr "在没有选择的情况下进行对话。"
+msgstr ""
 
 # XX## game/screens.rpy:1304
 msgid "Стрелки"
-msgstr "箭头"
+msgstr ""
 
 # XX## game/screens.rpy:1305
 msgid "Навигация по интерфейсу."
-msgstr "导航界面。"
+msgstr ""
 
 # XX## game/screens.rpy:1308
 msgid "Esc"
-msgstr "Esc"
+msgstr ""
 
 # XX## game/screens.rpy:1309
 msgid "Вход в игровое меню."
-msgstr "进入游戏菜单。"
+msgstr ""
 
 # XX## game/screens.rpy:1312
 msgid "Ctrl"
-msgstr "Ctrl"
+msgstr ""
 
 # XX## game/screens.rpy:1313
 msgid "Пропускает диалоги, пока зажат."
-msgstr "new \"您已完成全部任务。\""
+msgstr ""
 
 # XX## game/screens.rpy:1316
 msgid "Tab"
-msgstr "Tab"
+msgstr ""
 
 # XX## game/screens.rpy:1317
 msgid "Включает режим пропуска."
-msgstr "启用跳过模式。"
+msgstr ""
 
 # XX## game/screens.rpy:1320
 msgid "Page Up"
-msgstr "向上翻页"
+msgstr ""
 
 # XX## game/screens.rpy:1321
 msgid "Откат назад по сюжету игры."
-msgstr "回滚游戏的情节。"
+msgstr ""
 
 # XX## game/screens.rpy:1324
 msgid "Page Down"
-msgstr "下翻页键"
+msgstr ""
 
 # XX## game/screens.rpy:1325
 msgid "Откатывает предыдущее действие вперёд."
-msgstr "回滚上一个操作。"
+msgstr ""
 
 # XX## game/screens.rpy:1329
 msgid "Скрывает интерфейс пользователя."
-msgstr "隐藏用户界面。"
+msgstr ""
 
 # XX## game/screens.rpy:1333
 msgid "Делает снимок экрана."
-msgstr "屏幕截图时"
+msgstr ""
 
 # XX## game/screens.rpy:1337
 msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
-msgstr "包括支持的 {a=https：//www.伦皮.org/l/语音合成器{/a}。"
+msgstr ""
 
 # XX## game/screens.rpy:1343
 msgid "Левый клик"
-msgstr "左键单击"
+msgstr ""
 
 # XX## game/screens.rpy:1347
 msgid "Клик колёсиком"
-msgstr "用轮子点击"
+msgstr ""
 
 # XX## game/screens.rpy:1351
 msgid "Правый клик"
-msgstr "右键单击"
+msgstr ""
 
 # XX## game/screens.rpy:1355
 msgid "Колёсико вверх\n"
 "Клик на сторону отката"
-msgstr "向上\n"
-"点击回调的一侧"
+msgstr ""
 
 # XX## game/screens.rpy:1359
 msgid "Колёсико вниз"
-msgstr "向下轮子"
+msgstr ""
 
 # XX## game/screens.rpy:1366
 msgid "Правый триггер\n"
 "A/Нижняя кнопка"
-msgstr "右侧触发器\n"
-"A/底部按钮"
+msgstr ""
 
 # XX## game/screens.rpy:1370
 msgid "Левый Триггер\n"
 "Левый Бампер"
-msgstr "左触发器\n"
-"左侧保险杠"
+msgstr ""
 
 # XX## game/screens.rpy:1374
 msgid "Правый бампер"
-msgstr "右杆"
+msgstr ""
 
 # XX## game/screens.rpy:1379
 msgid "Крестовина, Стики"
-msgstr "斯蒂基·克雷斯托维纳"
+msgstr ""
 
 # XX## game/screens.rpy:1383
 msgid "Start, Guide"
-msgstr "Start, Guide"
+msgstr ""
 
 # XX## game/screens.rpy:1387
 msgid "Y/Верхняя кнопка"
-msgstr "顶部按钮"
+msgstr ""
 
 # XX## game/screens.rpy:1390
 msgid "Калибровка"
-msgstr "校准"
+msgstr ""
 
 # XX## game/screens.rpy:1456
 msgid "Да"
-msgstr "确定"
+msgstr ""
 
 # XX## game/screens.rpy:1457
 msgid "Нет"
-msgstr "否"
+msgstr ""
 
 # XX## game/screens.rpy:1503
 msgid "Пропускаю"
-msgstr "跳过"
+msgstr ""
 
 # XX## game/screens.rpy:1727
 msgid "Скрыть интерфейс"
-msgstr "隐藏UI"
+msgstr ""
 
 # XX## game/screens.rpy:1728
 msgid "Меню"
-msgstr "菜单"
+msgstr ""
 

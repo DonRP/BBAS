@@ -1,16 +1,16 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/eric_cam.po\n"
-# "X-Crowdin-File-ID: 841\n"
+# "X-italian-Project: big-brother-as\n"
+# "X-italian-Project-ID: 461654\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /master/game/tl/italian/events/eric_cam.po\n"
+# "X-italian-File-ID: 3482\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-05 17:40\n"
+# "PO-Revision-Date: 2022-03-06 11:18\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -48,7 +48,7 @@ translate italian cam0_eric_ann_sleep_84da07d8:
 translate italian cam0_eric_ann_shower_f2cae77e:
 
     # Max_09 "{m}Мамы и Эрика не видно через эту камеру... Может посмотреть через другую?{/m}"
-    Max_09 "{m}Mamma ed Eric non possono essere visti attraverso questa telecamera... Forse dovrei guardare attraverso l'altra?{/m}"
+    Max_09 "{m}Non si possono vedere mamma ed Eric attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 # game/events/eric_cam.rpy:49
 translate italian cam0_eric_ann_shower_25391a36:

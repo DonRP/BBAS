@@ -1,16 +1,16 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/ann.po\n"
-# "X-Crowdin-File-ID: 949\n"
+# "X-italian-Project: big-brother-as\n"
+# "X-italian-Project-ID: 461654\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /master/game/tl/italian/events/ann.po\n"
+# "X-italian-File-ID: 3476\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-05 17:41\n"
+# "PO-Revision-Date: 2022-03-06 11:18\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -209,7 +209,8 @@ translate italian ann_shower_closer_peepeng_bb7b0422:
 # game/events/ann.rpy:187
 translate italian ann_shower_not_luck_6222d56c:
 
-    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"\n   Max_12 "{color=[orange]}{i}Sembra che mia madre abbia in mente qualcosa!{/i}{/color}\n{m}Ops... Devo scappare prima che mi veda!{/m}"
+    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"
+    Max_12 "{color=[orange]}{i}Credo che la mamma sospetti qualcosa!{/i}{/color}\n{m}Ops... Devo scappare prima che mi veda!{/m}"
 
 # game/events/ann.rpy:196
 translate italian ann_shower_not_luck_9b36810d:

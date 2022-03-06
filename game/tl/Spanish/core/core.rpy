@@ -1,88 +1,88 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: es-ES\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/core.po\n"
-# "X-Crowdin-File-ID: 889\n"
+# "X-spanish-Project: big-brother-as\n"
+# "X-spanish-Project-ID: 461654\n"
+# "X-spanish-Language: es-ES\n"
+# "X-spanish-File: /master/game/tl/spanish/core/core.po\n"
+# "X-spanish-File-ID: 3444\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Spanish\n"
 # "Language: es_ES\n"
-# "PO-Revision-Date: 2022-03-05 17:39\n"
+# "PO-Revision-Date: 2022-03-06 11:17\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/core/core.rpy:582
-translate crowdin AfterWaiting_583fe90e:
+translate spanish AfterWaiting_583fe90e:
 
     # Max_00 "{m}Я слишком устал. Надо бы вздремнуть...{/m}"
 
 # game/core/core.rpy:803
-translate crowdin night_of_fun_35c4c591:
+translate spanish night_of_fun_35c4c591:
 
     # Max_19 "{m}Теперь можно спокойно спать и ничего больше...{/m}"
 
 # game/core/core.rpy:840
-translate crowdin cam_after_waiting_bfada06d:
+translate spanish cam_after_waiting_bfada06d:
 
     # Max_09 "{m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}" nointeract
 
 # game/core/core.rpy:847
-translate crowdin cam_after_waiting_44f62349:
+translate spanish cam_after_waiting_44f62349:
 
     # Max_09 "{m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
 
 # game/core/core.rpy:852
-translate crowdin cam_after_waiting_935d8f7d:
+translate spanish cam_after_waiting_935d8f7d:
 
     # Max_09 "{m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m}" nointeract
 
 # game/core/core.rpy:864
-translate crowdin cam_after_waiting_af0a2821:
+translate spanish cam_after_waiting_af0a2821:
 
     # Max_09 "{m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m}" nointeract
 
 # game/core/core.rpy:871
-translate crowdin cam_after_waiting_44f62349_1:
+translate spanish cam_after_waiting_44f62349_1:
 
     # Max_09 "{m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
 
 # game/core/core.rpy:876
-translate crowdin cam_after_waiting_24007a63:
+translate spanish cam_after_waiting_24007a63:
 
     # Max_09 "{m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m}" nointeract
 
 # game/core/core.rpy:928
-translate crowdin cam_after_waiting_b8378225:
+translate spanish cam_after_waiting_b8378225:
 
     # Max_00 "{m}Сейчас здесь ничего не происходит.{/m}"
 
 # game/core/core.rpy:963
-translate crowdin after_buying_27b33f97:
+translate spanish after_buying_27b33f97:
 
     # Max_01 "{m}Так, фотокамеру я заказал, осталось дождаться доставки...{/m}"
     Max_01 "{m}Entonces, pedí la cámara, queda esperar la entrega...{/i}"
 
 # game/core/core.rpy:964
-translate crowdin after_buying_46e6b997:
+translate spanish after_buying_46e6b997:
 
     # Max_07 "{m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
     Max_07 " {m} Me pregunto con qué ropa me gustaría fotografiar a la tía Kira. Ella lo necesita para un portafolio... ¡¿Entonces tal vez debería comprarle algo sexy?! Por ejemplo, ¡un camisón más sexy! Esto será una ventaja... {/ m}"
 
 # game/core/core.rpy:1025
-translate crowdin after_load_84f87582:
+translate spanish after_load_84f87582:
 
     # ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:1031
-translate crowdin after_load_e53fbeb7:
+translate spanish after_load_e53fbeb7:
 
     # _ver [_version], conf.ver [config.version]"
     new ""
 
-translate crowdin strings:
+translate spanish strings:
 
     # game/core/core.rpy:411
     old "В интернет-магазине доступен новый товар."

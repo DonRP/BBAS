@@ -1,16 +1,16 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/anntalk.po\n"
-# "X-Crowdin-File-ID: 1037\n"
+# "X-italian-Project: big-brother-as\n"
+# "X-italian-Project-ID: 461654\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /master/game/tl/italian/dialogues/anntalk.po\n"
+# "X-italian-File-ID: 3454\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-05 18:05\n"
+# "PO-Revision-Date: 2022-03-06 11:17\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -504,7 +504,7 @@ translate italian ann_tv_casual_r_a4da47d1:
 translate italian ann_tv_casual_r_b210320a:
 
     # Max_04 "С удовольствием, мам!"
-    Max_04 "Con piacere, mamma!"
+    Max_04 "Piacere mio, mamma!"
 
 # game/dialogues/anntalk.rpy:506
 translate italian ann_tv_casual_r_37c5e269:
@@ -522,7 +522,7 @@ translate italian ann_tv_casual_r_38413f74:
 translate italian ann_tv_casual_r_46d4b822:
 
     # Ann_05 "Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
-    Ann_05 "Oh, Max! Che meraviglia... Com'è bello che io abbia te... Le tue mani sono semplicemente irrealisticamente rilassanti!"
+    Ann_05 "Oh, Max! Che meraviglia... È così bello averti... Le tue mani sono incredibilmente rilassanti!"
 
 # game/dialogues/anntalk.rpy:513
 translate italian ann_tv_casual_r_f4b189c3:
@@ -1872,7 +1872,7 @@ translate italian erofilm2_1_a4da47d1:
 translate italian erofilm2_1_b210320a:
 
     # Max_04 "С удовольствием, мам!"
-    Max_04 "Con piacere, mamma!"
+    Max_04 "Piacere mio, mamma!"
 
 # game/dialogues/anntalk.rpy:1283
 translate italian erofilm2_1_37c5e269:
@@ -1890,7 +1890,7 @@ translate italian erofilm2_1_38413f74:
 translate italian erofilm2_1_46d4b822:
 
     # Ann_05 "Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
-    Ann_05 "Oh, Max! Che meraviglia... Com'è bello che io abbia te... Le tue mani sono semplicemente irrealisticamente rilassanti!"
+    Ann_05 "Oh, Max! Che meraviglia... È così bello averti... Le tue mani sono incredibilmente rilassanti!"
 
 # game/dialogues/anntalk.rpy:1290
 translate italian erofilm2_1_f4b189c3:
@@ -1908,7 +1908,7 @@ translate italian erofilm2_1_107f36d5:
 translate italian erofilm2_1_0aa128fe:
 
     # Max_02 "Очень надеюсь, что так и будет."
-    Max_02 "spero davvero che sia così."
+    Max_02 "Lo spero davvero."
 
 # game/dialogues/anntalk.rpy:1304
 translate italian erofilm2_1_016dc119:
@@ -1926,7 +1926,7 @@ translate italian erofilm2_1_c74f79bd:
 translate italian erofilm2_1_2138fb99:
 
     # Ann_15 "Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась!"
-    Ann_15 "Oh! Wow! Max, perché non hai detto che il mio asciugamano stava scivolando?! Quasi nudo non lasciato!"
+    Ann_15 "Ow! Wow! Max, perché non mi hai detto che il mio asciugamano stava scivolando?! Mi sono quasi spogliato!"
 
 # game/dialogues/anntalk.rpy:1318
 translate italian erofilm2_1_fc50443e:
@@ -1956,7 +1956,7 @@ translate italian erofilm2_1_f7a5095b:
 translate italian erofilm2_1_db9e8a82:
 
     # Max_07 "Нет. Меня начало описания к фильму заинтересовало. Наверно, нужно было дочитать до конца..."
-    Max_07 "No. Ero interessato all'inizio della descrizione del film. Probabilmente, era necessario leggere fino alla fine..."
+    Max_07 "No. Era l'inizio della descrizione del film che mi interessava. Forse avrei dovuto leggere fino alla fine..."
 
 # game/dialogues/anntalk.rpy:1346
 translate italian erofilm2_1_7cd6006b:
@@ -2292,19 +2292,19 @@ translate italian erofilm2_2_27f6efcb:
 translate italian erofilm2_2_3dccf94a:
 
     # Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
-    Ann_05 "A giudicare dal tempo, le cose si stanno muovendo verso un epilogo. È divertente guardarli tutti... Come solo ora capiscono ciò che lo spettatore ha capito da molto tempo."
+    Ann_05 "A giudicare dalla tempistica, le cose si stanno mettendo male. È divertente guardarli tutti... Come si rendono conto solo ora di ciò che lo spettatore ha capito molto tempo fa."
 
 # game/dialogues/anntalk.rpy:1600
 translate italian erofilm2_2_82e6080c:
 
     # Max_04 "Да, намёки для зрителей были местами очень жирные."
-    Max_04 "Sì, i suggerimenti per il pubblico a volte erano molto grassi."
+    Max_04 "Sì, i suggerimenti per il pubblico erano molto audaci in alcuni punti."
 
 # game/dialogues/anntalk.rpy:1606
 translate italian erofilm2_2_2d7bb75d:
 
     # Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
-    Ann_06 "Questo è tutto. Detective interessante... Mi è piaciuto. Ma questo film non è nemmeno vicino ad essere fatto per i bambini..."
+    Ann_06 "Ecco qui. Interessante storia poliziesca... Mi è piaciuto. Ma questo film non è neanche lontanamente fatto per i bambini..."
 
 # game/dialogues/anntalk.rpy:1608
 translate italian erofilm2_2_e0c6e9b1:
@@ -2358,7 +2358,7 @@ translate italian erofilm2_2_89123af5:
 translate italian erofilm2_2_684e55df:
 
     # Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
-    Ann_04 "sì, lo so... Sì lo so... Sei un adulto. Quasi..."
+    Ann_04 "Sì, lo so... lo so... Sei un adulto. Quasi..."
 
 # game/dialogues/anntalk.rpy:1650
 translate italian erofilm2_2_7cd6006b:

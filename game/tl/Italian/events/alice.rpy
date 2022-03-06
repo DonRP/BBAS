@@ -1,16 +1,16 @@
 #     old ""
 # "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: it\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/alice.po\n"
-# "X-Crowdin-File-ID: 1021\n"
+# "X-italian-Project: big-brother-as\n"
+# "X-italian-Project-ID: 461654\n"
+# "X-italian-Language: it\n"
+# "X-italian-File: /master/game/tl/italian/events/alice.po\n"
+# "X-italian-File-ID: 3472\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-06 11:18\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -251,7 +251,8 @@ translate italian alice_sleep_night_56b097f3:
 # game/events/alice.rpy:208
 translate italian alice_sleep_morning_e1c2fdd7:
 
-    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract\n   Max_00 "{m}Alice sembra dormire. Bussare alla porta non è sicuramente una buona idea.\nE non è salutare nemmeno entrare...{/m}" nointeract
+    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract
+    Max_00 "{m}Alice sembra dormire. Bussare alla porta non è sicuramente una buona idea.\nE non è salutare nemmeno entrare...{/m}" nointeract
 
 # game/events/alice.rpy:219
 translate italian alice_sleep_morning_34a5f34f:
@@ -737,6 +738,7 @@ translate italian alice_shower_dangerous_hugs_e3f63f1b:
 translate italian alice_shower_dangerous_hugs_11fdb519:
 
     # extend "" nointeract
+    extend "" nointeract
 
 # game/events/alice.rpy:532
 translate italian alice_shower_dangerous_hugs_8f49945b:
@@ -825,7 +827,8 @@ translate italian alice_shower_closer_peepeng_3d1ede2b:
 # game/events/alice.rpy:600
 translate italian alice_shower_not_luck_11b8b725:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"\n   Max_09 "{color=[orange]}{i}Sembra che Alice sospettasse qualcosa!{/i}{/color}\n{m}Dannazione! Dobbiamo portare velocemente le gambe mentre sono ancora lì...{/m}"
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"
+    Max_09 "{color=[orange]}{i}Alice sembra aver sospettato qualcosa!{/i}{/color}\n{m}Oh, merda! Dobbiamo andarcene da qui finché siamo in tempo...{/m}"
 
 # game/events/alice.rpy:619
 translate italian alice_shower_pinded_e826d0b4:
@@ -2085,25 +2088,25 @@ translate italian alice_after_club_cum_breast_2547c7ed:
 translate italian alice_after_club_cum_breast_dff49f05:
 
     # Max_03 "А ты разве не для этого ванну собиралась принять?"
-    Max_03 "Non era quello per cui avresti fatto il bagno?"
+    Max_03 "Non è per questo che volevi fare il bagno?"
 
 # game/events/alice.rpy:1840
 translate italian alice_after_club_cum_breast_0011e063:
 
     # Alice_06 "Да, точно... Ты же никому не проболтаешься о том, что тут было?"
-    Alice_06 "sì, esattamente... Non stai parlando con nessuno di quello che c'era qui?"
+    Alice_06 "Sì, giusto... Non dirai a nessuno quello che è successo qui, vero?"
 
 # game/events/alice.rpy:1841
 translate italian alice_after_club_cum_breast_7894f632:
 
     # Max_02 "Где было? Что было? Не понимаю, о чём ты!"
-    Max_02 "Dov'era? Cos'è successo? Non capisco cosa intendi!"
+    Max_02 "Dov'era? Dov'era cosa? Non so cosa vuoi dire!"
 
 # game/events/alice.rpy:1843
 translate italian alice_after_club_cum_breast_fa3f7bbe:
 
     # Alice_05 "Вот именно, что ничего!" nointeract
-    Alice_05 "Questo è esattamente ciò che niente!" nointeract
+    Alice_05 "Esattamente, niente!" nointeract
 
 # game/events/alice.rpy:1853
 translate italian alice_after_club_cum_face_9601d551:
@@ -2115,37 +2118,37 @@ translate italian alice_after_club_cum_face_9601d551:
 translate italian alice_after_club_cum_face_d5b2b244:
 
     # Max_07 "А ты хотела как-то по-другому?"
-    Max_07 "Volevi qualcosa di diverso?"
+    Max_07 "Lo volevi in un altro modo?"
 
 # game/events/alice.rpy:1855
 translate italian alice_after_club_cum_face_24506f4c:
 
     # Alice_13 "Ну, предупредил бы хоть, чтобы в глаза не попало... Теперь мыться надо..."
-    Alice_13 "Beh, ti avverto di non entrare negli occhi... Ora devi lavare..."
+    Alice_13 "Beh, dovresti almeno avvertirmi di non farmelo entrare negli occhi... Ora devo lavare..."
 
 # game/events/alice.rpy:1856
 translate italian alice_after_club_cum_face_dff49f05:
 
     # Max_03 "А ты разве не для этого ванну собиралась принять?"
-    Max_03 "Non era quello per cui avresti fatto il bagno?"
+    Max_03 "Non è per questo che volevi fare il bagno?"
 
 # game/events/alice.rpy:1857
 translate italian alice_after_club_cum_face_0011e063:
 
     # Alice_06 "Да, точно... Ты же никому не проболтаешься о том, что тут было?"
-    Alice_06 "sì, esattamente... Non stai parlando con nessuno di quello che c'era qui?"
+    Alice_06 "Sì, giusto... Non dirai a nessuno quello che è successo qui, vero?"
 
 # game/events/alice.rpy:1858
 translate italian alice_after_club_cum_face_7894f632:
 
     # Max_02 "Где было? Что было? Не понимаю, о чём ты!"
-    Max_02 "Dov'era? Cos'è successo? Non capisco cosa intendi!"
+    Max_02 "Dov'era? Dov'era cosa? Non so cosa vuoi dire!"
 
 # game/events/alice.rpy:1860
 translate italian alice_after_club_cum_face_fa3f7bbe:
 
     # Alice_05 "Вот именно, что ничего!" nointeract
-    Alice_05 "Questo è esattamente ciò che niente!" nointeract
+    Alice_05 "Esattamente, niente!" nointeract
 
 # game/events/alice.rpy:1870
 translate italian alice_after_club_no_restrain_2de4d2ed:
@@ -2157,13 +2160,13 @@ translate italian alice_after_club_no_restrain_2de4d2ed:
 translate italian alice_after_club_no_restrain_d5b2b244:
 
     # Max_07 "А ты хотела как-то по-другому?"
-    Max_07 "Volevi qualcosa di diverso?"
+    Max_07 "Lo volevi in un altro modo?"
 
 # game/events/alice.rpy:1872
 translate italian alice_after_club_no_restrain_24506f4c:
 
     # Alice_13 "Ну, предупредил бы хоть, чтобы в глаза не попало... Теперь мыться надо..."
-    Alice_13 "Beh, ti avverto di non entrare negli occhi... Ora devi lavare..."
+    Alice_13 "Beh, dovresti almeno avvertirmi di non farmelo entrare negli occhi... Ora devo lavare..."
 
 # game/events/alice.rpy:1873
 translate italian alice_after_club_no_restrain_dff49f05:
@@ -3099,6 +3102,7 @@ translate italian alice_body_photoset1_cec47c00:
 translate italian alice_towel_after_club_3479dfb8:
 
     # Max "" nointeract
+    Max "" nointeract
 
 # game/events/alice.rpy:2455
 translate italian alice_towel_after_club_164b6a94:
@@ -3416,25 +3420,25 @@ translate italian alice_towel_after_club_cum_breast_f47ad262:
 translate italian alice_towel_after_club_cum_breast_05ac8115:
 
     # Max_03 "А ты разве не для этого ванну решила принять?"
-    Max_03 "Non è per questo che hai deciso di fare il bagno?"
+    Max_03 "Non è per questo che hai deciso di fare un bagno?"
 
 # game/events/alice.rpy:2661
 translate italian alice_towel_after_club_cum_breast_b197e4d3:
 
     # Alice_06 "Да, точно... Мы же никому не станем рассказывать, что тут было?"
-    Alice_06 "sì, esattamente... Non diremo a nessuno cosa è successo qui?"
+    Alice_06 "Sì, giusto... Non diremo a nessuno quello che è successo qui, vero?"
 
 # game/events/alice.rpy:2662
 translate italian alice_towel_after_club_cum_breast_d7dd7483:
 
     # Max_02 "Я только полотенце принёс и пошёл спать..."
-    Max_02 "ho appena portato un asciugamano e sono andato a letto..."
+    Max_02 "Ho solo portato un asciugamano e sono andato a letto..."
 
 # game/events/alice.rpy:2664
 translate italian alice_towel_after_club_cum_breast_50e121f5:
 
     # Alice_05 "Ага. Именно так всё и было!" nointeract
-    Alice_05 "sì. È esattamente così che è stato!" nointeract
+    Alice_05 "Sì, è esattamente quello che è successo!" nointeract
 
 # game/events/alice.rpy:2677
 translate italian alice_towel_after_club_cum_face_9601d551:
@@ -3458,25 +3462,25 @@ translate italian alice_towel_after_club_cum_face_24506f4c:
 translate italian alice_towel_after_club_cum_face_05ac8115:
 
     # Max_03 "А ты разве не для этого ванну решила принять?"
-    Max_03 "Non è per questo che hai deciso di fare il bagno?"
+    Max_03 "Non è per questo che hai deciso di fare un bagno?"
 
 # game/events/alice.rpy:2681
 translate italian alice_towel_after_club_cum_face_b197e4d3:
 
     # Alice_06 "Да, точно... Мы же никому не станем рассказывать, что тут было?"
-    Alice_06 "sì, esattamente... Non diremo a nessuno cosa è successo qui?"
+    Alice_06 "Sì, giusto... Non diremo a nessuno quello che è successo qui, vero?"
 
 # game/events/alice.rpy:2682
 translate italian alice_towel_after_club_cum_face_d7dd7483:
 
     # Max_02 "Я только полотенце принёс и пошёл спать..."
-    Max_02 "ho appena portato un asciugamano e sono andato a letto..."
+    Max_02 "Ho solo portato un asciugamano e sono andato a letto..."
 
 # game/events/alice.rpy:2684
 translate italian alice_towel_after_club_cum_face_50e121f5:
 
     # Alice_05 "Ага. Именно так всё и было!" nointeract
-    Alice_05 "sì. È esattamente così che è stato!" nointeract
+    Alice_05 "Sì, è esattamente quello che è successo!" nointeract
 
 # game/events/alice.rpy:2695
 translate italian alice_towel_after_club_not_even_close_6117492e:
@@ -4079,7 +4083,8 @@ translate italian strings:
     new "{i}apri la porta{/i}"
 
     # game/events/alice.rpy:2519
-    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\n   new "Beh, a parte questo...\n{i}(inizia a massaggiarla con la mano){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+    new "Beh, a meno che...\n{i}(inizia a massaggiarle la figa con la mano){/i}"
 
     # game/events/alice.rpy:2519
     old "Поласкай свою киску для меня..."

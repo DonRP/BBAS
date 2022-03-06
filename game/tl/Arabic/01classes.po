@@ -5,54 +5,54 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: ar\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/01classes.po\n"
-"X-Crowdin-File-ID: 785\n"
+"X-Crowdin-File-ID: 3424\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-03-05 17:38\n"
+"PO-Revision-Date: 2022-03-05 19:51\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid "Ужасное"
-msgstr "سيء للغاية"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень плохое"
-msgstr "سيء جدًا"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Плохое"
-msgstr "سيء"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Не очень"
-msgstr "ليس جدا"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Нейтральное"
-msgstr "محايد"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Неплохое"
-msgstr "ليس سيئا"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Хорошее"
-msgstr "جيدة"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень хорошее"
-msgstr "جيد جداً"
+msgstr ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Прекрасное"
-msgstr "مدهش"
+msgstr ""
 
 # XX## game/core/01classes.rpy:1078
 msgid "Приобретен пакет рекламы"
-msgstr "شراء حزمة إعلانية"
+msgstr ""
 
 # XX## game/core/01classes.rpy:1334
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{لون =[lime]}{i}{b}الانتباه:{/b} تم الحصول على \"فرصة\" جديدة! {/i} {/اللون}"
+msgstr ""
 
