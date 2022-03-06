@@ -5,58 +5,58 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/07_clothes.po\n"
-"X-Crowdin-File-ID: 797\n"
+"X-Crowdin-File-ID: 3434\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-05 17:38\n"
+"PO-Revision-Date: 2022-03-05 19:51\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid "Повседневная"
-msgstr "Informale"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для сна"
-msgstr "Per dormire"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для йоги"
-msgstr "Per lo Yoga"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Блог в нижнем белье"
-msgstr "Blog in intimo"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит завтрак"
-msgstr "Prepara la colazione"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит ужин"
-msgstr "Cucina la cena"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Утренний отдых"
-msgstr "Riposo mattutino"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Вечерний отдых"
-msgstr "Riposo serale"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Купальник"
-msgstr "Costume da bagno"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "За уроками"
-msgstr "Per le lezioni"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для прогулок"
-msgstr "Per le passeggiate"
+msgstr ""
 
 # XX## game/core/07_clothes.rpy:472
 msgid "Влияние Макса недостаточно"
-msgstr "L'influenza di Max non è sufficiente"
+msgstr ""
 

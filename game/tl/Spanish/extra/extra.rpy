@@ -5,64 +5,64 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /master/game/tl/crowdin/extra/extra.po\n"
-"X-Crowdin-File-ID: 859\n"
+"X-Crowdin-File-ID: 3500\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:41\n"
+"PO-Revision-Date: 2022-03-05 19:54\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
-msgstr "El nuevo bañador de Lisa"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Извинительная пижамка для Алисы"
-msgstr "Pijama apologético para Alice"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Тёмное кружево"
-msgstr "Encaje oscuro"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Давай я нанесу крем"
-msgstr "Déjame aplicar crema"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Ножкам приятно"
-msgstr "Las piernas son bonitas"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Помассирую не только ножки"
-msgstr "Masajear no solo las piernas"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Могу не только руками"
-msgstr "No puedo solo con mis manos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Ответная благодарность"
-msgstr "Agradecimientos sinceros"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Первый массаж ног"
-msgstr "Primer masaje de pies"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Внимание к пальчикам"
-msgstr "Atención a los dedos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Разомнём и плечики"
-msgstr "Vamos a trillar y perchas"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Массаж для любимой тёти"
-msgstr "Masaje para tu querida tía"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Совсем другой массаж"
-msgstr "Un masaje completamente diferente"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Я спасу их от солнца"
@@ -70,111 +70,111 @@ msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Ночные страхи"
-msgstr "Terrores nocturnos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Кто это там ползёт"
-msgstr "¿Quién se arrastra allí?"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Монстр в ванной комнате"
-msgstr "Monstruo en el baño"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Держи и не отпускай"
-msgstr "Guarda y no lo suéjate"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "После клуба"
-msgstr "Después del club"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Я была плохой девочкой"
-msgstr "Era una chica mala"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Как тебе такое?"
-msgstr "¿Qué le parece eso?"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Я принес тебе полотенце!"
-msgstr "¡Te traje una toalla!"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Первые снимки для блога Алисы"
-msgstr "Primeras fotos para el blog de Alice"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Я обошёл Эрика с подарком для Алисы"
-msgstr "Caminé alrededor de Eric con un regalo para Alice."
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Попка, которую я теперь могу отшлёпать"
-msgstr "Un culo que puedo azotar ahora"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Меня нужно наказать именно так!"
-msgstr "¡Así es como necesito ser castigado!"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Смотрим порно вместе с тётей"
-msgstr "Mira con mi tía"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Первый урок поцелуев"
-msgstr "La primera lección de besos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "А это уже совсем не массаж!"
-msgstr "¡Y esto no es un masaje en absoluto!"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Второй урок поцелуев"
-msgstr "La segunda lección de besos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Третий урок поцелуев"
-msgstr "La tercera lección de los besos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Горячее, чем порно"
-msgstr "Más caliente que"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Небольшое приключение перед сном"
-msgstr "Una pequeña aventura antes de acostarse"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Не зря купил сорочку"
-msgstr "No es de extrañar que haya comprado una camisa"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "С меня приятный должок"
-msgstr "Tengo una buena deuda."
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Стриптиз после клуба"
-msgstr "Striptease después del club"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Порно-портфолио для Киры"
-msgstr "portafolio para Kira"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Немного БДСМ от Киры"
-msgstr "Un poco de BDSM de Kira"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Хватит мять сиськи"
-msgstr "Deja de arrugar las sienes"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "И помылись, и порезвились"
-msgstr "Nos bañamos, nos divertimos"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Кто нас фотографирует?"
-msgstr "¿Quién nos fotografió?"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Вместо ночного плаванья"
@@ -182,11 +182,11 @@ msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Вкусные уроки с сестрёнкой"
-msgstr "Deliciosas lecciones con mi hermana"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Кажется, мы что-то забыли"
-msgstr "Parece que hemos olvidado algo."
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Всё ниже и ниже"
@@ -194,27 +194,27 @@ msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Больше, чем помощь с домашним заданием"
-msgstr "Más que ayuda con la tarea"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Ужастики в обнимку с Лизой"
-msgstr "Horror en un abrazo con Lisa"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Без майки куда интереснее"
-msgstr "Sin camiseta es mucho más interesante"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Долой смущение"
-msgstr "Abajo la vergüenza"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Это точно триллер-детектив?"
-msgstr "¿Es un thriller detectivesco?"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Полотенце снова сползает..."
-msgstr "La toalla se desliza de nuevo..."
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Йога с мамой"
@@ -230,15 +230,15 @@ msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
-msgstr "lección de mamá y Eric"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Так близко к маминой попке"
-msgstr "Tan cerca del de mamá"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Глубокий минет в мамином исполнении"
-msgstr "En lo profundo de la versión de mi madre"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Секс-шоу с первых рядов"
@@ -246,19 +246,19 @@ msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Её первые познания..."
-msgstr "Su primer conocimiento..."
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Как возбудить ещё больше?"
-msgstr "¿Cómo emocionar aún más?"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Нежно и аккуратно!"
-msgstr "¡Suave y ordenado!"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Как долго это нужно делать?"
-msgstr "¿Cuánto tiempo se debe hacer esto?"
+msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Стесняется трогать..."
@@ -270,37 +270,37 @@ msgstr ""
 
 # XX## game/extra/extra.rpy:60
 msgid "Кружевное боди для Алисы от Эрика"
-msgstr "Bodysuit de encaje para Alice por Eric"
+msgstr ""
 
 # XX## game/extra/extra.rpy:168
 msgid "ВОСПОМИНАНИЯ"
-msgstr "RECUERDOS"
+msgstr ""
 
 # XX## game/extra/extra.rpy:171
 msgid "ФОТОСНИМКИ"
-msgstr "FOTOS"
+msgstr ""
 
 # XX## game/extra/extra.rpy:222
 msgid "Воспоминание недоступно"
-msgstr "La memoria no está disponible"
+msgstr ""
 
 # XX## game/extra/extra.rpy:228
 msgid "Воспоминание ещё не открыто"
-msgstr "La memoria aún no está abierta"
+msgstr ""
 
 # XX## game/extra/extra.rpy:234
 msgid "В вашей коллекции ещё нет фотоснимков."
-msgstr "Todavía no hay fotos en su colección."
+msgstr ""
 
 # XX## game/extra/extra.rpy:303
 msgid "Предыдущий снимок"
-msgstr "Foto anterior"
+msgstr ""
 
 # XX## game/extra/extra.rpy:309
 msgid "Вернуться в коллекцию"
-msgstr "Volver a la colección"
+msgstr ""
 
 # XX## game/extra/extra.rpy:314
 msgid "Следующий снимок"
-msgstr "Siguiente imagen"
+msgstr ""
 

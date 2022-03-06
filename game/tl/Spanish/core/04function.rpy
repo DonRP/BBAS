@@ -5,136 +5,135 @@ msgstr ""
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /master/game/tl/crowdin/core/04function.po\n"
-"X-Crowdin-File-ID: 791\n"
+"X-Crowdin-File-ID: 3430\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 17:37\n"
+"PO-Revision-Date: 2022-03-05 19:51\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
 msgid "+ к навыку скрытности"
-msgstr "+ a la habilidad del sigilo"
+msgstr ""
 
 # XX## game/core/04function.rpy:306
 msgid "+ к навыку убеждения"
-msgstr "+ a la habilidad de persuasión"
+msgstr ""
 
 # XX## game/core/04function.rpy:310
 msgid "+ к навыку массажа"
-msgstr "+ a la habilidad del masaje"
+msgstr ""
 
 # XX## game/core/04function.rpy:314
 msgid "+ к навыку поцелуев"
-msgstr "+ a la habilidad de besar"
+msgstr ""
 
 # XX## game/core/04function.rpy:318
 msgid "+ к навыку эротического массажа"
-msgstr "+ a la habilidad del masaje erótico"
+msgstr ""
 
 # XX## game/core/04function.rpy:322
 msgid "+ к тренированности"
-msgstr "+ a fitness"
+msgstr ""
 
 # XX## game/core/04function.rpy:326
 msgid "+ к навыку кунилингуса"
-msgstr "+ a la habilidad de"
+msgstr ""
 
 # XX## game/core/04function.rpy:330
 msgid "+ к сексуальному опыту"
-msgstr "+ a la experiencia sexual"
+msgstr ""
 
 # XX## game/core/04function.rpy:334
 msgid "+ к опыту анального секса"
-msgstr "+ a la experiencia del sexo"
+msgstr ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}значительно ухудшилось{/color}"
-msgstr "{color=[red]}se ha deteriorado significativamente{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}ухудшилось{/color}"
-msgstr "{color=[red]}empeorado{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}немного ухудшилось{/color}"
-msgstr "{color=[red]}ligeramente empeorado{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}немного улучшилось{/color}"
-msgstr "{color=[lime]}ligeramente mejorado{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}улучшилось{/color}"
-msgstr "{color=[lime]}mejorado{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}значительно улучшилось{/color}"
-msgstr "{color=[lime]}ha mejorado significativamente{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:354
 msgid "{color=[red]}снизилось{/color}"
-msgstr "{color=[red]}disminuido{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:354
 msgid "{color=[lime]}повысилось{/color}"
-msgstr "{color=[lime]}increased{/color}"
+msgstr ""
 
 # XX## game/core/04function.rpy:385
 msgid "Настроение %s %s \n"
 "Её отношение к Максу %s"
-msgstr "Su estado de ánimo %s %s \n"
-"su actitud hacia Max %s"
+msgstr ""
 
 # XX## game/core/04function.rpy:387
 msgid "Отношение %s к Максу %s"
-msgstr "La actitud de %s hacia Max %s"
+msgstr ""
 
 # XX## game/core/04function.rpy:389
 msgid "Настроение %s %s"
-msgstr "%s %sdel estado de ánimo"
+msgstr ""
 
 # XX## game/core/04function.rpy:406
 msgid "Так... В накладной написано следующее:"
-msgstr "Así que... La factura dice lo siguiente:"
+msgstr ""
 
 # XX## game/core/04function.rpy:712
 msgid "Прохладные"
-msgstr "Fresco"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Война"
-msgstr "Guerra"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Враждебные"
-msgstr "Hostil"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Плохие"
-msgstr "Malo"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Неплохие"
-msgstr "Bien"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Хорошие"
-msgstr "Bien"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Тёплые"
-msgstr "Cálido"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Дружеские"
-msgstr "Amistoso"
+msgstr ""
 
 # XX## game/core/04function.rpy:714
 msgid "Близкие"
-msgstr "Cerrar"
+msgstr ""
 
 # XX## game/core/04function.rpy:1011
 msgid "Конфеты закончились"
-msgstr "Se acabó el caramelo"
+msgstr ""
 
