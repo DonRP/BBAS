@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-05 19:54\n"
+"PO-Revision-Date: 2022-03-06 11:18\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/ann_cam.rpy:8 ## translate crowdin cam0_ann_sleep_97963875:
 msgid "[Max_01] {m}Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!{/m}"
@@ -150,7 +150,7 @@ msgstr ""
 
 # game/events/ann_cam.rpy:350 ## translate crowdin cam0_ann_tv_8b464610:
 msgid "[Max_01] {m}Как приятно видеть маму без Эрика. Может составить ей компанию, чтобы она не скучала?{/m}"
-msgstr ""
+msgstr "[Max_01] {m}Qué bueno ver a mamá sin Eric. ¿Puedo hacerle compañía para que no se aburra"
 
 # game/events/ann_cam.rpy:352 ## translate crowdin cam0_ann_tv_d888f1a9:
 msgid "[Max_01] {m}Мама, как всегда, отдыхает за просмотром сериала или фильма.{/m}"
