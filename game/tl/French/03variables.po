@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-07 15:22\n"
+"PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/03variables.rpy:39
 msgid "МОЯ\n"
 "КОМНАТА"
-msgstr ""
+msgstr "MA CHAMBRE"
 
 # XX## game/core/03variables.rpy:39
 msgid "МОЯ КОМНАТА"
@@ -24,7 +24,7 @@ msgstr "MA CHAMBRE"
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА\n"
 "АЛИСЫ"
-msgstr ""
+msgstr "CHAMBRE D’ALICE"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА АЛИСЫ"
@@ -33,7 +33,7 @@ msgstr "CHAMBRE D’ALICE"
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА\n"
 "АННЫ"
-msgstr ""
+msgstr "CHAMBRE D’ANNA"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА АННЫ"
@@ -159,57 +159,67 @@ msgstr "Toujours à la recherche d'aventure."
 # XX## game/core/03variables.rpy:149
 msgid "ПОСМОТРЕТЬ\n"
 "ФИЛЬМ"
-msgstr ""
+msgstr "REGARDEZ UN FILM"
 
 # XX## game/core/03variables.rpy:149
 msgid "ВЫЙТИ\n"
 "ИЗ ДОМА"
-msgstr ""
+msgstr "SORTIR\n"
+"DE LA MAISON"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПОИГРАТЬ\n"
 "С ЛИЗОЙ"
-msgstr ""
+msgstr "JOUER\n"
+"AVEC LISA"
 
 # XX## game/core/03variables.rpy:149
 msgid "УСТАНОВИТЬ\n"
 "КЕЙЛОГГЕР"
-msgstr ""
+msgstr "INSTALLER\n"
+"KEYLOGGER"
 
 # XX## game/core/03variables.rpy:149
 msgid "УСТАНОВИТЬ\n"
 "КАМЕРУ"
-msgstr ""
+msgstr "INSTALLER\n"
+"CAMÉRA"
 
 # XX## game/core/03variables.rpy:149
 msgid "СПРЯТАТЬ\n"
 "ПАУКА"
-msgstr ""
+msgstr "CACHER\n"
+"ARAIGNÉE"
 
 # XX## game/core/03variables.rpy:149
 msgid "БРОСИТЬ\n"
 "ПАУКА"
-msgstr ""
+msgstr "JETER\n"
+"ARAIGNÉE"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "ПАУКОВ"
-msgstr ""
+msgstr "RECHERCHER\n"
+"ARAIGNÉES"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "СИГАРЕТЫ"
-msgstr ""
+msgstr "RECHERCHER\n"
+"CIGARETTES"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "КНИГУ"
-msgstr ""
+msgstr "RECHERCHER\n"
+"LIVRE"
 
 # XX## game/core/03variables.rpy:149
 msgid "ЧИСТИТЬ\n"
 "БАССЕЙН"
-msgstr ""
+msgstr "NETTOYER\n"
+"LA PISCINE"
 
 # XX## game/core/03variables.rpy:149
 msgid "ЧИТАТЬ"
@@ -218,22 +228,26 @@ msgstr "LIRE"
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "КАМЕРУ"
-msgstr ""
+msgstr "RECHERCHER\n"
+"CAMÉRA"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "ТЕЛЕФОН"
-msgstr ""
+msgstr "RECHERCHER\n"
+"TÉLÉPHONE"
 
 # XX## game/core/03variables.rpy:149
 msgid "РАЗОБРАТЬ\n"
 "КОРОБКИ"
-msgstr ""
+msgstr "DÉFAIRE\n"
+"LES CARTONS"
 
 # XX## game/core/03variables.rpy:149
 msgid "ВКЛЮЧИТЬ\n"
 "НОУТБУК"
-msgstr ""
+msgstr "ALLUMER\n"
+"ORDINATEUR PORTABLE"
 
 # XX## game/core/03variables.rpy:149
 msgid "СПАТЬ"
@@ -242,7 +256,8 @@ msgstr "DORMIR"
 # XX## game/core/03variables.rpy:149
 msgid "УСТАНОВИТЬ\n"
 "БУДИЛЬНИК"
-msgstr ""
+msgstr "RÉGLER\n"
+"RÉVEIL"
 
 # XX## game/core/03variables.rpy:149
 msgid "ВЗДРЕМНУТЬ"
@@ -251,12 +266,14 @@ msgstr "SIESTE"
 # XX## game/core/03variables.rpy:149
 msgid "ПРИНЯТЬ\n"
 "ДУШ"
-msgstr ""
+msgstr "PRENDRE\n"
+"UNE DOUCHE"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПРИНЯТЬ\n"
 "ВАННУ"
-msgstr ""
+msgstr "PRENDRE\n"
+"UN BAIN"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПОГОВОРИТЬ"
@@ -265,7 +282,8 @@ msgstr "PARLER"
 # XX## game/core/03variables.rpy:149
 msgid "МЫТЬ\n"
 "ПОСУДУ"
-msgstr ""
+msgstr "LAVER\n"
+"LA VAISSELLE"
 
 # XX## game/core/03variables.rpy:205
 msgid "Общение"
