@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-05 19:52\n"
+"PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/characters.rpy:230
 msgid "Мама"
-msgstr ""
+msgstr "Maman"
 
 # XX## game/core/characters.rpy:356
 msgid "Майя"
-msgstr ""
+msgstr "Maya"
 
 # XX## game/core/characters.rpy:369
 msgid "Сэм"
-msgstr ""
+msgstr "Sam"
 
