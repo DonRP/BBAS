@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-07 15:22\n"
+"PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -184,7 +184,8 @@ msgstr "Opportunités"
 # XX## game/core/02init.rpy:131
 msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n"
 "\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
-msgstr ""
+msgstr "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'possibilités'. Leurs mécanismes ressemblent un peu aux 'quêtes' ou aux 'quêtes' d'autres jeux, mais il y a quelques différences.\n\n\n"
+"les 'Opportunités' peuvent ouvrir l'accès à des événements cachés ou à des achats en ligne, à de nouvelles options dans un ordinateur portable ou à des activités dans certaines pièces. Lisez attentivement la Description de chaque 'opportunité' et vous ne manquerez rien!"
 
 # XX## game/core/02init.rpy:131
 msgid "Настроение"
@@ -579,7 +580,8 @@ msgstr "Heureux de te voir, Olivia!"
 # XX## game/core/02init.rpy:139
 msgid "Ну как, всё повторила? \n"
 "{i}(проводить Лизу в школу){/i}"
-msgstr ""
+msgstr "Tu as tout répété? \n"
+"{i}(conduire Lisa à l'école){/i}"
 
 # XX## game/core/02init.rpy:139
 msgid "Лиза, ты чего нос повесила?"
@@ -627,7 +629,7 @@ msgstr "Nourriture"
 
 # XX## game/core/02init.rpy:273
 msgid "Электроника"
-msgstr "Electronique"
+msgstr "Électronique"
 
 # XX## game/core/02init.rpy:273
 msgid "Товары 18+"
