@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:19\n"
+"PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/punishment.rpy:99 ## translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -234,7 +234,7 @@ msgstr "[Ann_16] Max a quelques défauts... Il les connaît très bien et je ne 
 
 # game/dialogues/punishment.rpy:301 ## translate crowdin punishment_max_pun_reson_678436cc:
 msgid "[Ann_16] [_text!t]"
-msgstr ""
+msgstr "[Ann_16] [_text!t]"
 
 # game/dialogues/punishment.rpy:308 ## translate crowdin punishment_max_pun_reson_e027e673:
 msgid "[Max_14] [impact_reduced!t]{m}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/m}"
@@ -266,7 +266,7 @@ msgstr "[Ann_16] Max a quelques défauts... Il les connaît très bien et je ne 
 
 # game/dialogues/punishment.rpy:372 ## translate crowdin punishment_max_pun_reson_678436cc_1:
 msgid "[Ann_16] [_text!t]"
-msgstr ""
+msgstr "[Ann_16] [_text!t]"
 
 # game/dialogues/punishment.rpy:378 ## translate crowdin punishment_max_pun_reson_a77a4336:
 msgid "[Max_14] [impact_reduced!t]{m}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/m}"
@@ -278,11 +278,11 @@ msgstr "[Ann_12] Très bien, Max, habille-toi. J'espère que tu as appris ta le�
 
 # game/dialogues/punishment.rpy:459 ## translate crowdin punishment_lisa_678436cc:
 msgid "[Ann_16] [_text!t]"
-msgstr ""
+msgstr "[Ann_16] [_text!t]"
 
 # game/dialogues/punishment.rpy:462 ## translate crowdin punishment_lisa_0b6806cc:
 msgid "[Ann_16] [_text!t] [nointeract]"
-msgstr ""
+msgstr "[Ann_16] [_text!t] [nointeract]"
 
 # game/dialogues/punishment.rpy:465 ## translate crowdin punishment_lisa_f1ea86d0:
 msgid "[Max_08] Мам, не нужно наказывать Лизу. Она правда старалась, я сам видел. Ну и я помогу ей подтянуть оценки."
@@ -326,11 +326,11 @@ msgstr "[Ann_12] Lisa. Dois-je expliquer à tout le monde ce pour quoi tu es sur
 
 # game/dialogues/punishment.rpy:506 ## translate crowdin punishment_lisa_a4b257c5:
 msgid "[Ann_18] [_text!t]"
-msgstr ""
+msgstr "[Ann_18] [_text!t]"
 
 # game/dialogues/punishment.rpy:509 ## translate crowdin punishment_lisa_67c8b436:
 msgid "[Ann_18] [_text!t] [nointeract]"
-msgstr ""
+msgstr "[Ann_18] [_text!t] [nointeract]"
 
 # game/dialogues/punishment.rpy:513 ## translate crowdin punishment_lisa_a1d39e4d:
 msgid "[Max_08] Мам, не нужно наказывать Лизу. Обещаю, что бы там ни было, я поработаю с ней над поведением, честно. Вот увидишь, проблем больше не будет!"
@@ -414,11 +414,11 @@ msgstr "[Alice_12] Maman, pourquoi ? Qu'est-ce que j'ai fait ?"
 
 # game/dialogues/punishment.rpy:628 ## translate crowdin punishment_alice_a4b257c5:
 msgid "[Ann_18] [_text!t]"
-msgstr ""
+msgstr "[Ann_18] [_text!t]"
 
 # game/dialogues/punishment.rpy:631 ## translate crowdin punishment_alice_67c8b436:
 msgid "[Ann_18] [_text!t] [nointeract]"
-msgstr ""
+msgstr "[Ann_18] [_text!t] [nointeract]"
 
 # game/dialogues/punishment.rpy:635 ## translate crowdin punishment_alice_cb34e360:
 msgid "[Max_08] Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
@@ -498,11 +498,11 @@ msgstr "[Max_07] {m}Voyons si Alice sera plus bavarde si j'arrête d'intervenir.
 
 # game/dialogues/punishment.rpy:701 ## translate crowdin punishment_alice_a4b257c5_1:
 msgid "[Ann_18] [_text!t]"
-msgstr ""
+msgstr "[Ann_18] [_text!t]"
 
 # game/dialogues/punishment.rpy:704 ## translate crowdin punishment_alice_67c8b436_1:
 msgid "[Ann_18] [_text!t] [nointeract]"
-msgstr ""
+msgstr "[Ann_18] [_text!t] [nointeract]"
 
 # game/dialogues/punishment.rpy:708 ## translate crowdin punishment_alice_cb34e360_1:
 msgid "[Max_08] Мам, не нужно наказывать Алису. Это не её сигареты, к ней сегодня подружка приходила, наверное, она забыла."
