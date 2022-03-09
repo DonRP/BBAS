@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:19\n"
+"PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
@@ -103,7 +103,8 @@ msgstr "[Max_03] [undetect!t]{m}Oh, oui! Pour la façon dont l'eau coule sur son
 # game/events/lisa.rpy:178 ## translate crowdin lisa_shower_not_luck_76384340:
 msgid "[Max_12] {color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n"
 "{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"
-msgstr ""
+msgstr "[Max_12] {color=[orange]}{i}il semble que Lisa ait suspecté quelque chose!{/i} {/color}\n"
+"{m}Oh non! On dirait qu'elle a remarqué quelque chose... Il faut courir!{/m}"
 
 # game/events/lisa.rpy:200 ## translate crowdin lisa_shower_pinded_aded2cb3:
 msgid "[Lisa_11] [spotted!t]Ой, Макс! Опять ты подглядываешь... Это уже маньячество какое-то!"
@@ -343,7 +344,7 @@ msgstr "[Lisa] {b}Lisa:{/b} Et j'aimerais que tu essaies de ne pas me regarder..
 
 # game/events/lisa.rpy:463 ## translate crowdin lisa_dressed_stay_in_room_db51f185:
 msgid "[Max_09] {m}Я слишком много раз пытался подсмотреть, как Лиза переодевается. Больше не стоит пытаться сделать это сегодня.{/m}"
-msgstr ""
+msgstr "[Max_09] {m}j'ai essayé trop de fois de regarder Lisa se changer. Plus besoin d'essayer de le faire aujourd'hui.{/m}"
 
 # game/events/lisa.rpy:482 ## translate crowdin lisa_dressed_moment2_8183fb49:
 msgid "[Lisa_11] Макс! Я не одета!!! {p=3}{nw}"
