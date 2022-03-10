@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:20\n"
+"PO-Revision-Date: 2022-03-10 15:37\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
@@ -1982,7 +1982,7 @@ msgstr "{i}essayer de me calmer{/i}"
 
 # XX## game/dialogues/anntalk.rpy:1163
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # XX## game/dialogues/anntalk.rpy:1191
 msgid "Давай ещё?! Ты такая классная!"
