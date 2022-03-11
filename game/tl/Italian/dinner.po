@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01] Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать... [nointeract]"
@@ -26,7 +26,7 @@ msgstr "[Ann_01] Buon appetito a tutti. Ho notato dal balcone che la piscina è 
 
 # game/dialogues/dinner.rpy:74 ## translate crowdin typical_dinner_ba465243:
 msgid "[Ann_00] Всем приятного аппетита. Сегодня что-то устала. Так что, давайте поужинаем в тишине... [nointeract]"
-msgstr "[Ann_00] Buon appetito a tutti. Sono stanco di qualcosa oggi. Allora, ceniamo in silenzio... [nointeract]"
+msgstr "[Ann_00] Buon appetito a tutti. Oggi sono stanca. Quindi ceneremo in silenzio... [nointeract]"
 
 # game/dialogues/dinner.rpy:77 ## translate crowdin typical_dinner_1211a2f4:
 msgid "[Ann_05] Спасибо за понимание, Макс! Ну, приступим..."
@@ -42,7 +42,7 @@ msgstr "[Ann_05] Sì, va tutto bene, Max. Grazie per aver chiesto. È solo che h
 
 # game/dialogues/dinner.rpy:81 ## translate crowdin typical_dinner_63f629c8:
 msgid "[Max_00] Понятно. Приятного аппетита!"
-msgstr "[Max_00] comprensibile. Buon appetito!"
+msgstr "[Max_00] Ho capito. Buon appetito!"
 
 # game/dialogues/dinner.rpy:87 ## translate crowdin dinner_first_650c2c5d:
 msgid "[Ann_07] Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
@@ -590,7 +590,7 @@ msgstr "[Ann_07] Grazie, Alice, per esserti presa cura di me. Sì, penso che anc
 
 # game/dialogues/dinner.rpy:469 ## translate crowdin dinner_5_9563c56b:
 msgid "[Lisa_01] Ну, ещё нужно сделать кое-что и да, буду готова. Не переживай, мам..."
-msgstr "[Lisa_01] Beh, ci sono ancora alcune cose da fare e sì, sarò pronto. Non preoccuparti, mamma..."
+msgstr "[Lisa_01] Beh, ci sono ancora alcune cose da fare e sì, sarò pronta. Non preoccuparti, mamma..."
 
 # game/dialogues/dinner.rpy:470 ## translate crowdin dinner_5_2372da91:
 msgid "[Ann_01] Ну не знаю, Лиза. Я всегда преживаю. К тому же, требования в этой школе намного выше, чем в прошлой. Но это не даёт тебе права учиться плохо. Ты меня поняла?"
