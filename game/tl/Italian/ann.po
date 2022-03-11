@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
@@ -234,11 +234,11 @@ msgstr "[Ann_00] Figliolo, Eric ed io stavamo per cambiare. Non disturbare gli a
 
 # game/events/ann.rpy:346 ## translate crowdin ann_dressed_stay_in_room_4e1690c6:
 msgid "[Ann_12] Сынок, я собиралась переодеться. Не мешай маме. Займись чем-нибудь полезным... [nointeract]"
-msgstr "[Ann_12] Figliolo, stavo per cambiare. Non disturbare tua madre. Renditi utile... [nointeract]"
+msgstr "[Ann_12] Figliolo, mi stavo per cambiare. Non disturbare tua madre. Renditi utile... [nointeract]"
 
 # game/events/ann.rpy:348 ## translate crowdin ann_dressed_stay_in_room_0e69876a:
 msgid "[Ann_00] Сынок, я собиралась переодеться. Иди пока, займись чем-нибудь... [nointeract]"
-msgstr "[Ann_00] Figliolo, stavo per cambiare. Vai a fare qualcosa... [nointeract]"
+msgstr "[Ann_00] Figliolo, mi stavo per cambiare. Vai a fare qualcos'altro... [nointeract]"
 
 # game/events/ann.rpy:364 ## translate crowdin ann_dressed_moment0_1c7b7b81:
 msgid "[Eric_09] Макс, не мешай взрослым! В твоём положении это просто верх наглости! Найди себе занятие... [nointeract]"
