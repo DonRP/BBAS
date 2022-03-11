@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/eric.rpy:13 ## translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00] Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
@@ -1506,7 +1506,7 @@ msgstr "[Eric_01] ... non è così spaventoso come la prima volta, vero, Lisa?"
 
 # game/events/eric.rpy:1847 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_af8f9b62:
 msgid "[Lisa_10] Да. Но я всё равно немного волнуюсь..."
-msgstr "[Lisa_10] Sì, ma sono ancora un po' preoccupato..."
+msgstr "[Lisa_10] Sì, ma sono ancora un po' preoccupata..."
 
 # game/events/eric.rpy:1848 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_a2c1cbe0:
 msgid "[Eric_03] Всё в порядке. Главное, что мы это начали и свой страх ты преодолела. Ты умница!"
@@ -1514,7 +1514,7 @@ msgstr "[Eric_03] È tutto a posto. L'importante è che abbiamo iniziato e che t
 
 # game/events/eric.rpy:1849 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_37a7b75d:
 msgid "[Lisa_09] Честно говоря, я ещё и немного стесняюсь это делать..."
-msgstr "[Lisa_09] Ad essere onesti, sono anche un po' imbarazzato a farlo..."
+msgstr "[Lisa_09] Ad essere onesta, sono anche un po' imbarazzata nel farlo..."
 
 # game/events/eric.rpy:1850 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_b3f3c39c:
 msgid "[Max_04] {m}Ничего, небольшое стеснение со стороны Лизы выглядит даже мило. Но постеснялась и всё, хватит, давай за дело, сестрёнка!{/m}"
@@ -1538,7 +1538,7 @@ msgstr "[Lisa_03] Davvero?! È possibile?"
 
 # game/events/eric.rpy:1858 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_eba35258:
 msgid "[Eric_03] Нет предела совершенству, Лиза! Но, пора бы уже не просто обо всём этом говорить, но и делать..."
-msgstr "[Eric_03] Non c'è limite alla perfezione, Lisa! Ma, era ora che non ci limitassimo a parlare di tutto, che facessimo..."
+msgstr "[Eric_03] Non c'è limite alla perfezione, Lisa! Ma, è il momento non solo di parlare di tutto ciò, ma anche di farlo..."
 
 # game/events/eric.rpy:1859 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_73ce750d:
 msgid "[Max_02] {m}Вот именно! Не тяни резину, Лиза... Тебе пора немного подрочить в целях сексуального воспитания!{/m}"
@@ -1546,7 +1546,7 @@ msgstr "[Max_02] {m}Esattamente! Non tirarla per le lunghe, Lisa... È il moment
 
 # game/events/eric.rpy:1863 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_536d7df8:
 msgid "[Lisa_01] Да, Эрик. Думаю, я готова продолжить... Так значит, я просто беру его и начинаю водить вверх-вниз?"
-msgstr "[Lisa_01] Sì, Eric. Credo di essere pronto a continuare... Quindi devo solo prenderlo e iniziare a guidarlo su e giù?"
+msgstr "[Lisa_01] Sì, Eric. Credo di essere pronta a continuare... Quindi devo solo prenderlo e iniziare a accarezzarlo su e giù?"
 
 # game/events/eric.rpy:1864 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_bb26a930:
 msgid "[Eric_05] Да, моя девочка. Тебе нужно уверенно взять его в свою нежную ручку и так же нежно ею водить по нему."
@@ -1570,7 +1570,7 @@ msgstr "[Max_07] {m}Sì, Lisa, vai avanti... Ne stai facendo un dramma!{/m}"
 
 # game/events/eric.rpy:1882 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_5fe7735c:
 msgid "[Lisa_01] Хорошо... Хоть я и до сих пор сильно смущаюсь этого, но во второй раз это уже совсем иначе! Не так страшно..."
-msgstr "[Lisa_01] Ok... Anche se sono ancora molto imbarazzato per questo, la seconda volta è diverso! Non è così spaventoso..."
+msgstr "[Lisa_01] Ok... Anche se sono ancora molto imbarazzata per questo, la seconda volta è diverso! Non è così spaventoso..."
 
 # game/events/eric.rpy:1883 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_2d2ca381:
 msgid "[Eric_03] Вот и замечательно! Нечего бояться совершенно естественных вещей, таких, как это!"
@@ -1578,7 +1578,7 @@ msgstr "[Eric_03] È fantastico! Niente da temere da cose perfettamente naturali
 
 # game/events/eric.rpy:1884 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_23f29fa5:
 msgid "[Lisa_02] Ага, наверное... Не знаю, что вы мужчины в такие моменты испытываете, но я пока сгораю от стыда. Хотя, в то же время, мне очень интересно это делать!"
-msgstr "[Lisa_02] Sì, credo di sì... Non so come vi sentite voi uomini in momenti come questo, ma io per ora brucio di vergogna. Anche se, allo stesso tempo, sono molto interessato a farlo!"
+msgstr "[Lisa_02] Sì, credo di sì... Non so come vi sentite voi uomini in momenti come questo, ma io per ora brucio di vergogna. Anche se, allo stesso tempo, sono molto interessata a farlo!"
 
 # game/events/eric.rpy:1885 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_b015c998:
 msgid "[Eric_02] Понимаю. Это нормально, Лиза. Потом, когда ты преодолеешь все неудобства, это станет ещё интереснее и желаннее для тебя. Ох, у тебя очень хорошо получается, продолжай..."
@@ -1614,7 +1614,7 @@ msgstr "[Lisa_09] Oh, Eric, non so... Forse è abbastanza per oggi? Perché il b
 
 # game/events/eric.rpy:1899 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_1b3a38e2:
 msgid "[Eric_04] Конечно, Лиза! Я и не настаивал на продолжении... Ты и так сегодня сделала большой шаг! Так что занимайся своими делами, а в следующий понедельник мы продолжим. Да, моя дорогая?"
-msgstr "[Eric_04] Certo, Lisa! Non ho insistito per continuare... Oggi hai già fatto un grande passo! Quindi fatevi gli affari vostri e continuiamo lunedì prossimo. Sì, mia cara?"
+msgstr "[Eric_04] Certo, Lisa! Non insistito nel continuare... Oggi hai già fatto un grande passo! Quindi vai pure avanti con le tue cose e continuiamo lunedì prossimo. Sì, mia cara?"
 
 # game/events/eric.rpy:1903 ## translate crowdin lisa_eric_sex_ed_practice_practice_2_8b5130df:
 msgid "[Lisa_02] Да! Спасибо, Эрик, за наставления и этот опыт! Даже не знаю, чтобы я без тебя делала..."
@@ -1766,7 +1766,7 @@ msgstr "[Max_07] {m}Lisa sta per avere una lezione pratica di educazione sessual
 
 # game/events/eric.rpy:2017 ## translate crowdin lisa_eric_zero_practice_war_026ddd2f:
 msgid "[Max_07] {m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Надо обязательно подглядеть за этим, ведь это такое волнительное событие будет для моей сестрёнки! Правда, она попросила помыть за неё посуду...{/m} [nointeract]"
-msgstr "[Max_07] {m}Lisa sta per avere una lezione pratica di educazione sessuale. Devo guardarlo, perché sarà molto emozionante per mia sorella! Solo che mi ha chiesto di fare i piatti per lei...{/m} [nointeract]"
+msgstr "[Max_07] {m}Lisa sta per avere una lezione pratica di educazione sessuale. Devo guardarlo, perché sarà molto emozionante per mia sorella! Solo che mi ha chiesto di lavare i piatti per lei...{/m} [nointeract]"
 
 # game/events/eric.rpy:2020 ## translate crowdin lisa_eric_zero_practice_war_2dcab8b5:
 msgid "[Max_09] {m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Я должен проследить, чтобы моя младшая и наивная сестрёнка не перешла все границы! Она просила не мешать, а ещё лучше помыть за неё посуду...{/m} [nointeract]"
@@ -2226,11 +2226,11 @@ msgstr "{i}portare soldi a Eric{/i}"
 
 # XX## game/events/eric.rpy:2021
 msgid "{i}сперва помыть посуду, а затем проследить{/i}"
-msgstr "{i}lavare prima i piatti e poi tracciare{/i}"
+msgstr "{i}lavare prima i piatti e poi seguire{/i}"
 
 # XX## game/events/eric.rpy:2021
 msgid "{i}проследить сразу{/i}"
-msgstr "{i}rintracciato immediatamente{/i}"
+msgstr "{i}seguire immediatamente{/i}"
 
 # XX## game/events/eric.rpy:2037
 msgid "{i}быстрее смотреть, что делают Лиза и Эрик{/i}"
