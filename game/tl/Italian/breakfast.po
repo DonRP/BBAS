@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:17\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
@@ -26,11 +26,11 @@ msgstr "[Max_00] Buon appetito!"
 
 # game/dialogues/breakfast.rpy:19 ## translate crowdin typical_breakfast_19bf574f:
 msgid "[Ann_05] Нет, просто ещё не проснулась, нужно собраться с мыслями..."
-msgstr "[Ann_05] No, non mi sono ancora svegliato, devi raccogliere i tuoi pensieri..."
+msgstr "[Ann_05] No, e solo che non mi sono ancora svegliata, ho bisogno di raccogliere i miei pensieri..."
 
 # game/dialogues/breakfast.rpy:20 ## translate crowdin typical_breakfast_63f629c8:
 msgid "[Max_00] Понятно. Приятного аппетита!"
-msgstr "[Max_00] comprensibile. Buon appetito!"
+msgstr "[Max_00] Ho capito. Buon appetito!"
 
 # game/dialogues/breakfast.rpy:26 ## translate crowdin breakfast_first_4fdf0844:
 msgid "[Ann_07] Ну, дети, как вам живётся на новом месте? Как спалось в первую ночь?"
