@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01] Не против компании?"
@@ -918,7 +918,7 @@ msgstr "[Max_07] Probabilmente sì. Non ho guardato nella tua doccia..."
 
 # game/dialogues/kiratalk.rpy:714 ## translate crowdin kira_about_cuni_c16b4060:
 msgid "[Kira_14] Я не злюсь, но немного расстроена... А разозлюсь я, если ты просто забыл! [nointeract]"
-msgstr "[Kira_14] non sono arrabbiato, ma sono un po' arrabbiato... E mi arrabbierò se ti sei appena dimenticato! [nointeract]"
+msgstr "[Kira_14] Non sono arrabbiata, ma sono un po' sconvolta... E mi arrabbierò se te lo dimentichi! [nointeract]"
 
 # game/dialogues/kiratalk.rpy:719 ## translate crowdin kira_about_cuni_06c8a7c0:
 msgid "[Kira_07] Должно быть, это было что-то важное, раз ты решил не приходить к своей любимой, совершенно голой тёте в душ!"

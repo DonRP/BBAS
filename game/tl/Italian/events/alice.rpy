@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
@@ -684,7 +684,7 @@ msgstr "[Max_03] {m}Oh, che vista! Sì, sorella, con delle tette così belle e n
 
 # game/events/alice.rpy:810 ## translate crowdin alice_dressed_friend_bb0f5056:
 msgid "[Max_09] {m}Кажется, Алиса куда-то собирается...{/m} [nointeract]"
-msgstr "[Max_09] {m}Alice sembra andare da qualche parte...{/m} [nointeract]"
+msgstr "[Max_09] {m}Sembra che Alice stia per andare da qualche parte...{/m} [nointeract]"
 
 # game/events/alice.rpy:813 ## translate crowdin alice_dressed_friend_f5380b66:
 msgid "[Alice] {b}Алиса:{/b} Кто там? Я переодеваюсь! [nointeract]"
@@ -1568,7 +1568,7 @@ msgstr "[Max_00] {m}Di solito a quest'ora Alice è impegnata con il suo blog, ma
 
 # game/events/alice.rpy:2095 ## translate crowdin alice_blog_lingerie_44e4a54e:
 msgid "[Alice_02] О, Макс! Что-то хотел или просто проведать меня решил? [nointeract]"
-msgstr "[Alice_02] Oh, Max! Voleva qualcosa o semplicemente venirmi a trovare? [nointeract]"
+msgstr "[Alice_02] Oh, Max! Volevi qualcosa o hai appena deciso di venirmi a trovare? [nointeract]"
 
 # game/events/alice.rpy:2104 ## translate crowdin alice_blog_lingerie_43c0d69d:
 msgid "[Alice_03] Знаю, а в новом кружевном боди буду смотреться ещё лучше!"

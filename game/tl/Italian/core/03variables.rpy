@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:16\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -25,12 +25,12 @@ msgstr "LA MIA CAMERETTA"
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА\n"
 "АЛИСЫ"
-msgstr "LA CAMERETTA\n"
+msgstr "LA CAMERA\n"
 "DI ALICE"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА АЛИСЫ"
-msgstr "LA CAMERETTA DI ALICE"
+msgstr "LA CAMERA DI ALICE"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА\n"

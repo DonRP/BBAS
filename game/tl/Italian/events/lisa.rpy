@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
@@ -164,11 +164,11 @@ msgstr "[Max_09] {m}Ora Lisa deve cambiarsi d'abito per andare a fare shopping c
 
 # game/events/lisa.rpy:276 ## translate crowdin lisa_dressed_aaeb2a78:
 msgid "[Max_09] {m}Сейчас Лиза обычно переодевается, чтобы отправиться на занятие к репетитору...{/m} [nointeract]"
-msgstr "[Max_09] {m}Ora Lisa di solito cambia i vestiti per andare a lezione con un tutor... {/m} [nointeract]"
+msgstr "[Max_09] {m}Lisa di solito ora si cambia per andare a lezione dal tutor...{/m} [nointeract]"
 
 # game/events/lisa.rpy:279 ## translate crowdin lisa_dressed_c83f0902:
 msgid "[Max_09] {m}Сейчас Лиза обычно переодевается, чтобы пойти погулять. Ну, или что она там ещё делает...{/m} [nointeract]"
-msgstr "[Max_09] {m}Ora Lisa di solito cambia i vestiti per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo lì... {/m} [nointeract]"
+msgstr "[Max_09] {m}Ora Lisa di solito si cambia per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo lì... {/m} [nointeract]"
 
 # game/events/lisa.rpy:293 ## translate crowdin lisa_dressed_869e0bce:
 msgid "[Lisa] {b}Лиза:{/b} Кто там? Я переодеваюсь! [nointeract]"

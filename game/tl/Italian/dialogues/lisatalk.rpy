@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:17\n"
+"PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -6766,7 +6766,7 @@ msgstr "[Max_09] Pensi davvero che abbia ingannato Eric?"
 
 # game/dialogues/lisatalk.rpy:4777 ## translate crowdin lisa_about_sex_book0_d7fbed8f:
 msgid "[Lisa_10] Не думаю. Я {b}ОЧЕНЬ{/b} в этом уверена!"
-msgstr "[Lisa_10] Non credo. Ne sono {b} MOLTO{/b} sicuro!"
+msgstr "[Lisa_10] Non credo. Ne sono {b}MOLTO{/b} sicura!"
 
 # game/dialogues/lisatalk.rpy:4778 ## translate crowdin lisa_about_sex_book0_e1846811:
 msgid "[Max_07] Тогда, для начала, давай возобновим уроки поцелуев? А когда ты поймёшь, что я знаю, чему учить, то продолжим уроки Эрика..."
@@ -6782,15 +6782,15 @@ msgstr "[Max_07] Certamente non tutto. Andremo avanti. Non ti imbarazza più il 
 
 # game/dialogues/lisatalk.rpy:4785 ## translate crowdin lisa_about_sex_book0_dc029ff0:
 msgid "[Lisa_01] Ты имеешь в виду, во время поцелуев? Нет, не стесняюсь. Они делают поцелуи куда приятнее. А что?"
-msgstr "[Lisa_01] Vuoi dire mentre ti baci? No, non sono timido. Rendono il bacio molto più bello. Perché?"
+msgstr "[Lisa_01] Vuoi dire mentre mi baci? No, non sono timida. Rende il bacio molto più bello. Perché?"
 
 # game/dialogues/lisatalk.rpy:4786 ## translate crowdin lisa_about_sex_book0_c68a94ec:
 msgid "[Max_04] А то, что тебе пора учиться принимать поцелуи не только в губы. Я буду целовать тебя в шею и грудь, а ты не должна стесняться."
-msgstr "[Max_04] E che è ora che tu impari ad accettare baci diversi da quelli sulle labbra. Ti bacerò il collo e il petto, e non devi essere timido."
+msgstr "[Max_04] E che è ora che tu impari ad accettare baci diversi da quelli sulle labbra. Ti bacerò il collo e il seno, e non devi essere timida."
 
 # game/dialogues/lisatalk.rpy:4787 ## translate crowdin lisa_about_sex_book0_2c2f9970:
 msgid "[Lisa_10] Ой, ну... В шею ещё можно попробовать, но вот грудь... Не уверена..."
-msgstr "[Lisa_10] Oh, bene... Potresti provare il collo, ma il petto... Non sono sicuro..."
+msgstr "[Lisa_10] Oh, bene... Potresti provare con il collo, ma il seno... Non sono sicura..."
 
 # game/dialogues/lisatalk.rpy:4788 ## translate crowdin lisa_about_sex_book0_cceec119:
 msgid "[Max_01] Это же всё будет происходить плавно. Начнём с обычных поцелуев в губы, а затем я двинусь ниже."
