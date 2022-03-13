@@ -1,6 +1,3 @@
-    old ""
-    new ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\nX-french-Project: big-brother-as\nX-french-Project-ID: 461654\nX-french-Language: fr\nX-french-File: /master/game/tl/french/core/screens.po\nX-french-File-ID: 3450\nProject-Id-Version: big-brother-as\nContent-Type: text/plain; charset=UTF-8\nLanguage-Team: French\nLanguage: fr_FR\nPO-Revision-Date: 2022-03-13 22:13\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
