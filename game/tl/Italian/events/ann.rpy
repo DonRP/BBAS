@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:18\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -342,13 +342,13 @@ translate italian ann_dressed_stay_in_room_ff7e7143:
 translate italian ann_dressed_stay_in_room_4e1690c6:
 
     # Ann_12 "Сынок, я собиралась переодеться. Не мешай маме. Займись чем-нибудь полезным..." nointeract
-    Ann_12 "Figliolo, stavo per cambiare. Non disturbare tua madre. Renditi utile..." nointeract
+    Ann_12 "Figliolo, mi stavo per cambiare. Non disturbare tua madre. Renditi utile..." nointeract
 
 # game/events/ann.rpy:348
 translate italian ann_dressed_stay_in_room_0e69876a:
 
     # Ann_00 "Сынок, я собиралась переодеться. Иди пока, займись чем-нибудь..." nointeract
-    Ann_00 "Figliolo, stavo per cambiare. Vai a fare qualcosa..." nointeract
+    Ann_00 "Figliolo, mi stavo per cambiare. Vai a fare qualcos'altro..." nointeract
 
 # game/events/ann.rpy:364
 translate italian ann_dressed_moment0_1c7b7b81:

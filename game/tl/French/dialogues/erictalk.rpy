@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/erictalk.po\n"
-# "X-Crowdin-File-ID: 1053\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/dialogues/erictalk.po\n"
+# "X-french-File-ID: 3462\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -504,51 +504,61 @@ translate french lessons_from_Eric_fourth_visit_fa9a17f5:
 translate french lessons_from_Eric_fourth_visit_5499a427:
 
     # Eric_01 "Ну, как сказать... Вообще-то, того, что мы тебе до этого показали, более чем достаточно. На этом всё, Макс."
+    Eric_01 "Eh bien, comment dire... En fait, ce qu'on t'a montré est plus que suffisant. C'est tout, Max."
 
 # game/dialogues/erictalk.rpy:337
 translate french lessons_from_Eric_fourth_visit_ea18ead2:
 
     # Ann_14 "Да, сынок. Дальше ты уже сам разберёшься, что и как. Поэтому постарайся нас не беспокоить по пустякам, хорошо?"
+    Ann_14 "oui, fiston. Ensuite, tu comprendras toi-même quoi et comment. Alors essaie de ne pas nous déranger pour rien, d'accord?"
 
 # game/dialogues/erictalk.rpy:338
 translate french lessons_from_Eric_fourth_visit_c7465eb5:
 
     # Max_08 "Ну, ладно. Как скажешь, мам." nointeract
+    Max_08 "D'accord. Comme tu veux, maman." nointeract
 
 # game/dialogues/erictalk.rpy:349
 translate french lessons_from_Eric_fourth_visit_87030dec:
 
     # Max_09 "{m}Хм... Значит, это ВСЁ говорите... Нет, такое меня не устраивает. Здесь облом. С Алисой тоже непонятно, ведь Эрику может и не понадобится моя помощь с ней. Может, хоть с Лизой будут какие-то перспективы...{/m}"
+    Max_09 "{m}Hmm... Donc, c'est tout ce que vous dites... Non, ça ne me convient pas. Une déception. Alice n'est pas claire non plus, car Eric n'aura peut-être pas besoin de mon aide avec Elle. Peut-être qu'il y aura des perspectives avec Lisa...{/m}"
 
 # game/dialogues/erictalk.rpy:354
 translate french lessons_from_Eric_fourth_visit_63b985ee:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Нужно понять, всё дело в Эрике или маме!{/m}"
+    Max_09 "{m}Hmm... De tout pour tous. Je devais, bien sûr, voir comment ma mère faisait une fellation à Eric et ainsi de suite, mais on pouvait voir dans quelle mesure elle l'écoutait. Il faut savoir si c'est à propos d'Eric ou de maman!{/m}"
 
 # game/dialogues/erictalk.rpy:357
 translate french lessons_from_Eric_fourth_visit_463416a1:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Но, я уже знаю, почему... А значит нужно побольше сблизится с мамой и тогда, может быть, получится уговорить её на кое-какие \"образовательные\" уроки.{/m}"
+    Max_09 "{m}Hmm... De tout pour tous. Je devais, bien sûr, voir comment ma mère faisait une fellation à Eric et ainsi de suite, mais on pouvait voir dans quelle mesure elle l'écoutait. Mais, je sais déjà pourquoi... Donc, vous devez vous rapprocher davantage de votre mère et ensuite, peut-être, vous pourrez la persuader de prendre des leçons \"éducatives\".{/m}"
 
 # game/dialogues/erictalk.rpy:363
 translate french lessons_from_Eric_fourth_visit_8be9de5b:
 
     # Max_09 "{m}Хм... Значит, это ВСЁ говорите... А вот я так не считаю! Эрик сам сказал, что я могу попросить что-нибудь за то, что помог с Лизой. И я уже знаю, что попросить...{/m}"
+    Max_09 "{m}Hmm... Donc, c'est tout ce que vous dites... Et voilà, je n'y crois pas! Eric m'a dit que je pourrais demander quelque chose pour aider Lisa. Et je sais déjà quoi demander...{/m}"
 
 # game/dialogues/erictalk.rpy:368
 translate french lessons_from_Eric_fourth_visit_63b985ee_1:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Нужно понять, всё дело в Эрике или маме!{/m}"
+    Max_09 "{m}Hmm... De tout pour tous. Je devais, bien sûr, voir comment ma mère faisait une fellation à Eric et ainsi de suite, mais on pouvait voir dans quelle mesure elle l'écoutait. Il faut savoir si c'est à propos d'Eric ou de maman!{/m}"
 
 # game/dialogues/erictalk.rpy:371
 translate french lessons_from_Eric_fourth_visit_463416a1_1:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Но, я уже знаю, почему... А значит нужно побольше сблизится с мамой и тогда, может быть, получится уговорить её на кое-какие \"образовательные\" уроки.{/m}"
+    Max_09 "{m}Hmm... De tout pour tous. Je devais, bien sûr, voir comment ma mère faisait une fellation à Eric et ainsi de suite, mais on pouvait voir dans quelle mesure elle l'écoutait. Mais, je sais déjà pourquoi... Donc, vous devez vous rapprocher davantage de votre mère et ensuite, peut-être, vous pourrez la persuader de prendre des leçons \"éducatives\".{/m}"
 
 # game/dialogues/erictalk.rpy:374
 translate french lessons_from_Eric_fourth_visit_c96b2882:
 
     # Max_09 "{m}Хм... Меня совершенно не устраивает такая дружба с Эриком! Если это действительно {b}ВСЁ{/b}, что я буду иметь с этой дружбы, то зачем он тут сдался? Пожалуй, стоит немного подождать и посмотреть, как он собирается пудрить мозги моим сёстрам... Тогда и станет ясно, светит мне что-нибудь там или нет.{/m}"
+    Max_09 "{m}Hmm... Je ne suis pas du tout satisfait de cette amitié avec Eric! Si c'est vraiment {b}tout {/b} que je vais avoir avec cette amitié, alors pourquoi a-t-il abandonné ici? Peut-être que je devrais attendre un peu et voir comment il va faire sauter le cerveau de mes sœurs... Alors il sera clair si quelque chose me brille là-bas ou pas.{/m}"
 
 # game/dialogues/erictalk.rpy:395
 translate french Eric_talk_about_Lisa_0_77426e44:
@@ -1256,16 +1266,19 @@ translate french Eric_talk_about_Kira_1_c1884aa1:
 translate french Eric_talk_about_Kira_1_92183915:
 
     # Eric_02 "Ну, спорить с этим не буду. Но ты, вроде как, хотел возобновить шоу со своей мамой?"
+    Eric_02 "Eh bien, je ne discuterai pas avec cela. Mais tu voulais reprendre le spectacle avec ta mère?"
 
 # game/dialogues/erictalk.rpy:709
 translate french Eric_talk_about_Kira_1_fd7af465:
 
     # Max_07 "Точно! Хочу возобновить шоу с мамой в очках для сна!"
+    Max_07 "Exactement! Je veux reprendre le spectacle avec ma mère portant des lunettes pour dormir!"
 
 # game/dialogues/erictalk.rpy:710
 translate french Eric_talk_about_Kira_1_b808aecd:
 
     # Eric_01 "Хорошо, Макс. Как скажешь."
+    Eric_01 "d'accord, Max."
 
 # game/dialogues/erictalk.rpy:711
 translate french Eric_talk_about_Kira_1_90c46fa5:
@@ -1277,36 +1290,43 @@ translate french Eric_talk_about_Kira_1_90c46fa5:
 translate french Eric_talk_about_Kira_1_99319513:
 
     # Eric_01 "Да, Макс, тянуло бы... Если бы ты не обломал мой подарок для Алисы! Но за то, что ты подогнал мне Киру на блюдечке, я тебя прощаю и даже даю возможность попросить что-либо. Но ты, вроде как, хотел возобновить шоу со своей мамой?"
+    Eric_01 "oui, Max, j'aurais dû le faire... Si tu n'avais pas gâché mon cadeau pour Alice! Mais parce que tu m'as mis Kira sur un plateau, je te pardonne et je te donne même la possibilité de demander quelque chose. Mais tu voulais reprendre le spectacle avec ta mère?"
 
 # game/dialogues/erictalk.rpy:716
 translate french Eric_talk_about_Kira_1_fd7af465_1:
 
     # Max_07 "Точно! Хочу возобновить шоу с мамой в очках для сна!"
+    Max_07 "Exactement! Je veux reprendre le spectacle avec ma mère portant des lunettes pour dormir!"
 
 # game/dialogues/erictalk.rpy:717
 translate french Eric_talk_about_Kira_1_63295c66:
 
     # Eric_01 "Хорошо, Макс. Как скажешь. Но денег от меня ты больше получать не будешь, а то я наспонсирую себе проблем."
+    Eric_01 "d'accord, Max. Mais tu ne recevras plus d'argent de ma part, sinon je vais me payer des problèmes."
 
 # game/dialogues/erictalk.rpy:721
 translate french Eric_talk_about_Kira_1_153dc910:
 
     # Max_11 "Ладно, давай так." nointeract
+    Max_11 "d'accord." nointeract
 
 # game/dialogues/erictalk.rpy:730
 translate french Eric_talk_about_Kira_1_0c0c1bbe:
 
     # Eric_02 "Ну, спорить с этим не буду. Мы, вроде как, договорились о шоу с твоей мамой?"
+    Eric_02 "Eh bien, je ne discuterai pas avec cela. Est-ce qu'on s'est mis d'accord pour un spectacle avec ta mère?"
 
 # game/dialogues/erictalk.rpy:731
 translate french Eric_talk_about_Kira_1_01036b8a:
 
     # Max_07 "Точно! Хочу шоу с мамой в очках для сна!"
+    Max_07 "Exactement! Je veux un spectacle avec ma mère dans des lunettes pour dormir!"
 
 # game/dialogues/erictalk.rpy:732
 translate french Eric_talk_about_Kira_1_b808aecd_1:
 
     # Eric_01 "Хорошо, Макс. Как скажешь."
+    Eric_01 "d'accord, Max."
 
 # game/dialogues/erictalk.rpy:733
 translate french Eric_talk_about_Kira_1_90c46fa5_1:
@@ -1318,21 +1338,25 @@ translate french Eric_talk_about_Kira_1_90c46fa5_1:
 translate french Eric_talk_about_Kira_1_5a7bd4f7:
 
     # Eric_01 "Да, Макс, тянуло бы... Если бы ты не обломал мой подарок для Алисы! Но за то, что ты подогнал мне Киру на блюдечке, я тебя прощаю и даже даю возможность попросить что-либо. Но мы, вроде как, договорились о шоу с твоей мамой?"
+    Eric_01 "oui, Max, j'aurais dû le faire... Si tu n'avais pas gâché mon cadeau pour Alice! Mais parce que tu m'as mis Kira sur un plateau, je te pardonne et je te donne même la possibilité de demander quelque chose. Mais est-ce qu'on s'est mis d'accord pour un spectacle avec ta mère?"
 
 # game/dialogues/erictalk.rpy:738
 translate french Eric_talk_about_Kira_1_01036b8a_1:
 
     # Max_07 "Точно! Хочу шоу с мамой в очках для сна!"
+    Max_07 "Exactement! Je veux un spectacle avec ma mère dans des lunettes pour dormir!"
 
 # game/dialogues/erictalk.rpy:739
 translate french Eric_talk_about_Kira_1_63295c66_1:
 
     # Eric_01 "Хорошо, Макс. Как скажешь. Но денег от меня ты больше получать не будешь, а то я наспонсирую себе проблем."
+    Eric_01 "d'accord, Max. Mais tu ne recevras plus d'argent de ma part, sinon je vais me payer des problèmes."
 
 # game/dialogues/erictalk.rpy:743
 translate french Eric_talk_about_Kira_1_153dc910_1:
 
     # Max_11 "Ладно, давай так." nointeract
+    Max_11 "d'accord." nointeract
 
 # game/dialogues/erictalk.rpy:758
 translate french Eric_tribute_936f5724:
@@ -1602,71 +1626,85 @@ translate french Eric_with_dictaphone_9ddf8dae:
 translate french Eric_talk_about_Lisa_3_58112272:
 
     # Eric_01 "Ты что-то хотел, Макс? Спрашивай..."
+    Eric_01 "tu voulais quelque chose, Max? Demande..."
 
 # game/dialogues/erictalk.rpy:896
 translate french Eric_talk_about_Lisa_3_6ec16737:
 
     # Max_08 "Да, знаешь, я подглядывал за вашими с Лизой уроками и подумал... А ничего, что она ещё маленькая?"
+    Max_08 "Oui, tu sais, j'ai regardé tes cours avec Lisa et j'ai réfléchi... Rien qu'elle soit petite?"
 
 # game/dialogues/erictalk.rpy:897
 translate french Eric_talk_about_Lisa_3_2e69e3bf:
 
     # Eric_05 "Ты что! То, что она ещё такая юная - это вообще бомба. Прямо то, что надо для полного счастья!"
+    Eric_05 "quoi! Le fait qu'elle soit encore si jeune, c'est une bombe. Juste ce qui est nécessaire pour le bonheur complet!"
 
 # game/dialogues/erictalk.rpy:898
 translate french Eric_talk_about_Lisa_3_d4b10974:
 
     # Max_07 "Это понятно. Я о другом... Вас же всё равно, рано или поздно, кто-нибудь увидит. А если даже и нет, то что будет, когда Лиза кому-нибудь об этом разболтает?"
+    Max_07 "c'est compréhensible. Moi de l'autre... Peu importe, tôt ou tard, quelqu'un vous verra. Et si ce n'est pas le cas, que se passera-t-il quand Lisa en parlera à quelqu'un?"
 
 # game/dialogues/erictalk.rpy:899
 translate french Eric_talk_about_Lisa_3_4ecceec3:
 
     # Eric_09 "Хм... Нет, я с ней поработаю и она будет держать это втайне."
+    Eric_09 "Hmm... Non, je vais travailler avec elle et elle va garder ça secret."
 
 # game/dialogues/erictalk.rpy:900
 translate french Eric_talk_about_Lisa_3_67167989:
 
     # Max_09 "Просто, я хорошо знаю Лизу и она мне разболтала несколько секретов, хотя мы были не так близки, как сейчас. А у вас с ней секрет очень... наказуемый... Из-за его раскрытия можно всё потерять!"
+    Max_09 "Juste, je connais bien Lisa et elle m'a parlé de quelques secrets, même si nous n'étions pas aussi proches qu'aujourd'hui. Vous et elle avez un secret... punissable... On peut tout perdre à cause de sa divulgation!"
 
 # game/dialogues/erictalk.rpy:901
 translate french Eric_talk_about_Lisa_3_5ff62a9d:
 
     # Eric_10 "Эх, как-то я об этом не подумал..."
+    Eric_10 "Eh, d'une manière ou d'une autre, je n'y ai pas pensé..."
 
 # game/dialogues/erictalk.rpy:902
 translate french Eric_talk_about_Lisa_3_999fc9b3:
 
     # Max_07 "Смотри... Я тебе по дружески эти опасения высказал. Если ты на все 150%% уверен, что вам удастся сохранить это в тайне, то пожалуйста. Но тебе потом от этого отмыться не удастся, если что."
+    Max_07 "Voir... Je t'ai dit amicalement ces craintes. Si tu es sûr à 150% que tu peux garder ça secret, s'il te plaît. Mais vous ne pourrez pas vous en débarrasser plus tard, si quelque chose se passe."
 
 # game/dialogues/erictalk.rpy:903
 translate french Eric_talk_about_Lisa_3_d9d496ce:
 
     # Eric_16 "Блин, рискованно! А так хочется! Вот какой же ты, Макс... Всю малину растоптал..."
+    Eric_16 "Merde, c'est risqué! Et si vous voulez! C'est comme ça que tu es, Max... J'ai piétiné toutes les framboises..."
 
 # game/dialogues/erictalk.rpy:904
 translate french Eric_talk_about_Lisa_3_90215746:
 
     # Max_09 "А я не знаю, почему ты об этом не подумал. Видимо, из-за обилия перспектив с моей семьёй, ты совсем перестал думать тем, чем надо. Это будет невероятное везение, если тебя за это не посадят."
+    Max_09 "Et je ne sais pas pourquoi tu n'y as pas pensé. Apparemment, à cause de l'abondance de perspectives avec ma famille, tu n'as plus vraiment pensé à ce que tu devais faire. Ce sera une chance incroyable si vous n'êtes pas mis en prison pour ça."
 
 # game/dialogues/erictalk.rpy:905
 translate french Eric_talk_about_Lisa_3_c9d70062:
 
     # Eric_09 "Что теперь с Лизой делать... Если эти уроки прекратить в самом начале, она может начать задавать вопросы тем, кому не надо."
+    Eric_09 "que faire maintenant avec Lisa... Si ces leçons cessent au tout début, elle peut commencer à poser des questions à ceux qui n'en ont pas besoin."
 
 # game/dialogues/erictalk.rpy:906
 translate french Eric_talk_about_Lisa_3_f9b2bcd6:
 
     # Max_07 "Ну, я попробую взять её на себя. Чем-нибудь, да займу её. К тому же, она же не всегда будет маленькой. Подрастёт и можно будет с ней делать всё, что захочется! И без такой лютой опаски. А с остальными членами моей семьи я тебе помогу, как и договаривались."
+    Max_07 "Eh bien, je vais essayer de la prendre en charge. N'importe quoi, oui le prêt de son. En plus, elle ne sera pas toujours petite. Il grandira et vous pourrez faire ce que vous voulez avec elle! Et sans une telle crainte féroce. Et avec le reste de ma famille, je vais t'aider, comme convenu."
 
 # game/dialogues/erictalk.rpy:907
 translate french Eric_talk_about_Lisa_3_72418067:
 
     # Eric_06 "Ладно, Макс, повезло тебе. Отдам Лизу на твоё попечение. Сейчас я ей объясню, что ты прекрасно справишься с этим обучением, а дальше уже твои проблемы. Возись с ней сам. У меня зато больше времени на другие киски будет..."
+    Eric_06 "d'accord, Max, tu as de la chance. Je donnerai Lisa à tes soins. Maintenant, je vais lui expliquer que tu vas bien faire avec cette formation, et ensuite c'est tes problèmes. Joue avec elle toi-même. J'ai plus de temps pour les autres chattes..."
 
 # game/dialogues/erictalk.rpy:908
 translate french Eric_talk_about_Lisa_3_7def813d:
 
     # Max_08 "Ого! Спасибо! Я за ней присмотрю." nointeract
+    Max_08 "Wow! Merci! Je me suis derrière elle присмотрю." nointeract
 
 # game/dialogues/erictalk.rpy:919
 translate french Eric_talk_about_Lisa_3_36c2b900:
@@ -1678,21 +1716,25 @@ translate french Eric_talk_about_Lisa_3_36c2b900:
 translate french Eric_bonus_for_Lisa_f73c4a0a:
 
     # Eric_04 "Какую ещё премию, парень?! С Лизой ты мне, конечно, помог, только ведь она теперь отдана на поруки ТЕБЕ. Вот и считай это премией."
+    Eric_04 "Quel est le prix?! Avec Lisa, tu m'as bien sûr aidé, mais elle est maintenant sous caution. C'est une prime."
 
 # game/dialogues/erictalk.rpy:932
 translate french Eric_bonus_for_Lisa_c2636588:
 
     # Max_10 "Обидно, конечно. Но я понял."
+    Max_10 "c'est Dommage, bien sûr. Mais j'ai compris."
 
 # game/dialogues/erictalk.rpy:933
 translate french Eric_bonus_for_Lisa_53a711aa:
 
     # Eric_03 "Но, если вдруг, например, ты будешь располагать крайне полезной для меня информацией, в отношении твоей семьи, то у тебя будут ещё премиальные."
+    Eric_03 "Mais, si tout à coup, par exemple, vous avez des informations extrêmement utiles pour moi concernant votre famille, alors vous aurez une autre prime."
 
 # game/dialogues/erictalk.rpy:934
 translate french Eric_bonus_for_Lisa_373c87f8:
 
     # Max_07 "Так у меня уже есть такая информация для тебя. О моей тёте Кире."
+    Max_07 "Donc j'ai déjà cette information pour vous. À propos de ma tante Kira."
 
 # game/dialogues/erictalk.rpy:935
 translate french Eric_bonus_for_Lisa_a0b9d0c1:
@@ -1776,12 +1818,13 @@ translate french Eric_bonus_for_Lisa_e0b3dd08:
 translate french Eric_bonus_for_Lisa_fdd8e06e:
 
     # Max_09 "Значит, такая информация тянет на премию?"
+    Max_09 "Donc, cette information tire sur la prime?"
 
 # game/dialogues/erictalk.rpy:949
 translate french Eric_bonus_for_Lisa_9942b3b4:
 
     # Eric_04 "Однозначно тянет. Обязательно это обсудим... Но сперва, когда вы этим с Кирой занимаетесь?"
-    Eric_04 "Certainement. Sûr, c'est à discuter... Mais d'abord, quand fais-tu ça avec Kira?"
+    Eric_04 "tire Clairement. Sûr, c'est discuter... Mais d'abord, quand faites-vous ça avec Kira?"
 
 # game/dialogues/erictalk.rpy:950
 translate french Eric_bonus_for_Lisa_ae52c68e:
@@ -1823,131 +1866,157 @@ translate french Eric_bonus_for_Lisa_840a0cb4:
 translate french Eric_bonus_for_Lisa_176f968d:
 
     # Max_03 "Если я получу премию, то подыграю."
+    Max_03 "Si je reçois une prime, je vais jouer."
 
 # game/dialogues/erictalk.rpy:957
 translate french Eric_bonus_for_Lisa_326a2cf3:
 
     # Eric_02 "Само собой, Макс. Выкладывай, если решил, чего хочешь."
+    Eric_02 "Bien sûr, Max."
 
 # game/dialogues/erictalk.rpy:961
 translate french Eric_bonus_for_Lisa_869907d3:
 
     # Eric_02 "Выкладывай, если решил, чего хочешь."
+    Eric_02 "Affiche si tu as décidé ce que tu veux."
 
 # game/dialogues/erictalk.rpy:962
 translate french Eric_bonus_for_Lisa_f5b3af6e:
 
     # Max_07 "Я... Я хотел бы смотреть, как вы с мамой трахаетесь! При чём, так сказать, с первых рядов..."
+    Max_07 "... J'aimerais vous regarder baiser avec maman! Avec quoi, pour ainsi dire, dès les premiers rangs..."
 
 # game/dialogues/erictalk.rpy:963
 translate french Eric_bonus_for_Lisa_9b8cd369:
 
     # Eric_03 "И что ты, мелкий извращенец, подразумеваешь под \"первыми рядами\"?"
+    Eric_03 "et que veux-tu dire par 'premier rang', petit pervers?"
 
 # game/dialogues/erictalk.rpy:964
 translate french Eric_bonus_for_Lisa_e3ea4723:
 
     # Max_09 "Быть прямо в комнате. Как на тех уроках, где мама отсасывала тебе."
+    Max_09 "Être dans la pièce. Comme dans les cours où maman t'a sucé."
 
 # game/dialogues/erictalk.rpy:965
 translate french Eric_bonus_for_Lisa_47defc6f:
 
     # Eric_09 "Смело просить такое! А ты, парень, случаем на солнышке не перегрелся сегодня днём? Нет, я конечно польщён, что ты считаешь меня настолько крутым, но лучше подумай о каких-нибудь... более реальных просьбах."
+    Eric_09 "n'Hésitez pas à demander cela! Tu n'as pas surchauffé au soleil cet après-midi? Non, je suis flatté que tu me trouves si cool, mais pense à quelque chose... des demandes plus réelles."
 
 # game/dialogues/erictalk.rpy:966
 translate french Eric_bonus_for_Lisa_62140d11:
 
     # Max_08 "Почему? Ты же каким-то образом уговорил мою маму отсасывать тебе, пока я смотрю во всех подробностях!"
+    Max_08 "Pourquoi? Tu as persuadé ma mère de te sucer pendant que je regarde les détails!"
 
 # game/dialogues/erictalk.rpy:967
 translate french Eric_bonus_for_Lisa_cce9de36:
 
     # Eric_04 "Так это одно... И даже с этим было не всё так просто, как тебе думается. А ты сейчас просишь запредельного. Не смотря на все внешние прелести твоей мамы, характер у неё довольно сложный, особенно, что касается её детей."
+    Eric_04 "donc c'est une chose... Et même avec ça, ce n'était pas aussi simple que tu le penses. Et maintenant tu demandes l'au-delà. Malgré tous les charmes extérieurs de votre mère, son caractère est assez complexe, surtout en ce qui concerne ses enfants."
 
 # game/dialogues/erictalk.rpy:968
 translate french Eric_bonus_for_Lisa_b51621dc:
 
     # Max_11 "То есть, это невозможно?"
+    Max_11 "C'est impossible?"
 
 # game/dialogues/erictalk.rpy:969
 translate french Eric_bonus_for_Lisa_5b534c40:
 
     # Eric_01 "Я бы не сказал. Это вполне возможно, просто... Чтобы настроить твою маму на то, что ты просишь, уйдёт много времени и моих стараний, а ты ведь не хочешь долго ждать, верно?"
+    Eric_01 "je ne dirais pas. C'est tout à fait possible, simple... Il faudra beaucoup de temps et d'efforts pour adapter ta mère à ce que tu demandes, et tu ne veux pas attendre longtemps, n'est-ce pas?"
 
 # game/dialogues/erictalk.rpy:970
 translate french Eric_bonus_for_Lisa_b9e56a5b:
 
     # Max_10 "Ну, да. Ты ведь можешь с этим сколько угодно тянуть, а я в дураках буду сидеть и ждать."
+    Max_10 "Eh bien, oui. Tu peux en tirer autant que tu veux, et je vais m'asseoir et attendre."
 
 # game/dialogues/erictalk.rpy:971
 translate french Eric_bonus_for_Lisa_aa1d7b5e:
 
     # Eric_02 "Вот... Поэтому, я предлагаю тебе альтернативу, Макс. Будет тебе то, что ты просишь, но с рядом нюансов."
+    Eric_02 "Voilà... Donc, je t'offre une alternative, Max, ce que tu demandes, Mais avec un certain nombre de nuances."
 
 # game/dialogues/erictalk.rpy:972
 translate french Eric_bonus_for_Lisa_724db350:
 
     # Max_09 "И что за нюансы такие?"
+    Max_09 "et quelles sont ces nuances?"
 
 # game/dialogues/erictalk.rpy:973
 translate french Eric_bonus_for_Lisa_127c681f:
 
     # Eric_05 "Во-первых, она не будет знать, что ты находишься в комнате."
+    Eric_05 "premièrement, elle ne saura pas que vous êtes dans la pièce."
 
 # game/dialogues/erictalk.rpy:974
 translate french Eric_bonus_for_Lisa_8c73dcb6:
 
     # Max_07 "Это как так? Я невидимым становиться не умею."
+    Max_07 "c'est comme ça? Je ne suis pas invisible."
 
 # game/dialogues/erictalk.rpy:975
 translate french Eric_bonus_for_Lisa_9583dd2a:
 
     # Eric_01 "Плохо, Макс! Но не волнуйся из-за этого. Я одену на неё очки для сна и она ничего не увидит."
+    Eric_01 "Mauvais, Max! Mais ne vous inquiétez pas à cause de cela. Je vais lui mettre des lunettes pour dormir et elle ne verra rien."
 
 # game/dialogues/erictalk.rpy:976
 translate french Eric_bonus_for_Lisa_a903a483:
 
     # Max_05 "А, это отлично! То, что надо."
+    Max_05 "A, c'est génial! Ce qu'il faut."
 
 # game/dialogues/erictalk.rpy:977
 translate french Eric_bonus_for_Lisa_45e005db:
 
     # Eric_06 "А во-вторых, тебе нужно будет вести себя {b}ОЧЕНЬ{/b} тихо. Думаю, сам понимаешь почему."
+    Eric_06 "Et deuxièmement, tu devras te comporter {b}VRAIMENT{/b} tranquillement. Je pense que tu sais pourquoi."
 
 # game/dialogues/erictalk.rpy:978
 translate french Eric_bonus_for_Lisa_2dc708b0:
 
     # Max_02 "Ага, понятное дело."
+    Max_02 "oui, bien sûr."
 
 # game/dialogues/erictalk.rpy:979
 translate french Eric_bonus_for_Lisa_dbbb2eec:
 
     # Eric_03 "Я, конечно, буду трахать твою маму так, что за её стонами мало что ещё будет слышно, но всё равно... Не шуметь - в твоих интересах. Если не справишься и она тебя услышит, то я прикинусь, будто не заметил тебя в порыве страсти."
+    Eric_03 "bien sûr, je vais baiser ta mère pour qu'il n'y ait pas grand-chose d'autre à entendre derrière ses gémissements, mais quand même... Ne fais pas de bruit, c'est dans ton intérêt. Si tu ne peux pas le faire et qu'elle t'entend, je vais faire comme si je ne t'avais pas remarqué dans un élan de passion."
 
 # game/dialogues/erictalk.rpy:980
 translate french Eric_bonus_for_Lisa_3f434d2f:
 
     # Max_07 "Понял. Я буду стараться не шуметь."
+    Max_07 "Compris. Je vais essayer de ne pas faire de bruit."
 
 # game/dialogues/erictalk.rpy:981
 translate french Eric_bonus_for_Lisa_9bf8dbda:
 
     # Eric_01 "Тогда, вот и порешали. Только, Макс, давай не чаще, чем раз в неделю. Если упустишь день - твои проблемы, понял? И заглядывай в окно без опаски, Аню я возьму на себя."
+    Eric_01 "Alors, voici poreshali. Max, pas plus d'une fois par semaine. Si tu rates la journée, c'est ton problème, compris? Et regarde par la fenêtre sans crainte, Anya, je vais prendre le relais."
 
 # game/dialogues/erictalk.rpy:990
 translate french Eric_bonus_for_Lisa_0a7c5d4d:
 
     # Max_01 "Ладно, договорились. Ты натыкаешься на нас с Кирой в ванне, я за это получаю шоу с мамой, а ты Киру." nointeract
+    Max_01 "d'accord. Tu te heurtes à Kira et moi dans la baignoire, je fais un Show avec maman pour ça, et tu es Kira." nointeract
 
 # game/dialogues/erictalk.rpy:994
 translate french Eric_bonus_for_Lisa_ce78d8b5:
 
     # Max_01 "Ладно, договорились." nointeract
+    Max_01 "d'accord." nointeract
 
 # game/dialogues/erictalk.rpy:1011
 translate french Eric_stopLisa_bonus_b64e4b51:
 
     # Eric_00 "Макс, задержись ненадолго. Кое-что скажу..."
+    Eric_00 "Max, reste un moment. Je vais te dire quelque chose..."
 
 # game/dialogues/erictalk.rpy:1012
 translate french Eric_stopLisa_bonus_e7f5724b:
@@ -1959,31 +2028,37 @@ translate french Eric_stopLisa_bonus_e7f5724b:
 translate french Eric_stopLisa_bonus_35b241fd:
 
     # Eric_02 "Раз Лиза, пока что, отошла тебе на поруки, то никакого больше шоу с твоей мамой в очках для сна не будет. Это ясно?"
+    Eric_02 "puisque Lisa, jusqu'à présent, vous a laissé en liberté, il n'y aura plus de spectacle avec votre mère avec des lunettes pour dormir. Est-ce clair?"
 
 # game/dialogues/erictalk.rpy:1014
 translate french Eric_stopLisa_bonus_de267cbe:
 
     # Max_08 "Э-э-э! Не понял! Это почему?!"
+    Max_08 "heu! Ne vous méprenez pas! C'est pourquoi?!"
 
 # game/dialogues/erictalk.rpy:1015
 translate french Eric_stopLisa_bonus_5f3d05f9:
 
     # Eric_04 "Причина и следствие, Шерлок! Ты мне с Лизой помог? Помог... Но для меня это оказалось зря. Поэтому, шоу аннулировано. Вместо него ты получил Лизу."
+    Eric_04 "Cause et effet, Sherlock! Tu m'as aidé avec Lisa? Aider à... Mais pour moi, c'était en vain. C'est pour ça que le spectacle est annulé. Tu as eu Lisa à sa place."
 
 # game/dialogues/erictalk.rpy:1016
 translate french Eric_stopLisa_bonus_c2636588:
 
     # Max_10 "Обидно, конечно. Но я понял."
+    Max_10 "c'est Dommage, bien sûr. Mais j'ai compris."
 
 # game/dialogues/erictalk.rpy:1017
 translate french Eric_stopLisa_bonus_d2b6da8b:
 
     # Eric_03 "Но, если вдруг, например, ты будешь располагать крайне полезной для меня информацией в отношении твоей семьи, то не исключаю, что шоу с твоей мамой можно будет возобновить."
+    Eric_03 "Mais, si tout à coup, par exemple, vous avez des informations extrêmement utiles pour moi concernant votre famille, je n'exclus pas que le spectacle avec votre mère peut être repris."
 
 # game/dialogues/erictalk.rpy:1018
 translate french Eric_stopLisa_bonus_373c87f8:
 
     # Max_07 "Так у меня уже есть такая информация для тебя. О моей тёте Кире."
+    Max_07 "Donc j'ai déjà cette information pour vous. À propos de ma tante Kira."
 
 # game/dialogues/erictalk.rpy:1019
 translate french Eric_stopLisa_bonus_a0b9d0c1:
@@ -2037,6 +2112,7 @@ translate french Eric_stopLisa_bonus_1dc507c8:
 translate french Eric_stopLisa_bonus_dd4462cc:
 
     # Eric_06 "Погоди... То есть {b}ТЕБЕ{/b} отсасывает {b}ТВОЯ{/b} родная тётя?! Это ты хочешь сказать?"
+    Eric_06 "Attends... C’est-à-dire, {b}TOI{/b}, tu t'es fait sucé par {b}TA propre tante{/b}?! Est-ce bien ce que tu dis?"
 
 # game/dialogues/erictalk.rpy:1028
 translate french Eric_stopLisa_bonus_9acc7a48:
@@ -2066,12 +2142,13 @@ translate french Eric_stopLisa_bonus_e0b3dd08:
 translate french Eric_stopLisa_bonus_cb36dfe8:
 
     # Max_09 "Значит, такая информация тянет на возобновление шоу с мамой?"
+    Max_09 "Donc, cette information tire sur la reprise du spectacle avec maman?"
 
 # game/dialogues/erictalk.rpy:1033
 translate french Eric_stopLisa_bonus_9942b3b4:
 
     # Eric_04 "Однозначно тянет. Обязательно это обсудим... Но сперва, когда вы этим с Кирой занимаетесь?"
-    Eric_04 "Certainement. Sûr, c'est à discuter... Mais d'abord, quand fais-tu ça avec Kira?"
+    Eric_04 "tire Clairement. Sûr, c'est discuter... Mais d'abord, quand faites-vous ça avec Kira?"
 
 # game/dialogues/erictalk.rpy:1034
 translate french Eric_stopLisa_bonus_ae52c68e:
@@ -2113,6 +2190,7 @@ translate french Eric_stopLisa_bonus_840a0cb4:
 translate french Eric_stopLisa_bonus_4562bb07:
 
     # Max_03 "Если я получу шоу с мамой, то подыграю."
+    Max_03 "Si j'ai un spectacle avec ma mère, je jouerai."
 
 # game/dialogues/erictalk.rpy:1041
 translate french Eric_stopLisa_bonus_c1a34d4e:
@@ -2124,37 +2202,43 @@ translate french Eric_stopLisa_bonus_c1a34d4e:
 translate french Eric_stopLisa_bonus_f22feeb6:
 
     # Max_01 "Значит, договорились." nointeract
+    Max_01 "donc c'est réglé." nointeract
 
 # game/dialogues/erictalk.rpy:1063
 translate french Eric_ask_stockings_45f8d67f:
 
     # Eric_13 "А вот хрен тебе, Макс, а не Аня в чулках! Не надо было дарить Алисе нижнее бельё первее меня."
+    Eric_13 "mais merde, Max, pas Anya en bas! Je n'aurais pas dû donner des sous-vêtements à Alice avant moi."
 
 # game/dialogues/erictalk.rpy:1065
 translate french Eric_ask_stockings_3e3e64a5:
 
     # Max_14 "Вот блин!" nointeract
+    Max_14 "bon sang!" nointeract
 
 # game/dialogues/erictalk.rpy:1069
 translate french Eric_ask_stockings_faecdce4:
 
     # Eric_03 "О-о-о, пацан, это я с радостью устрою. Твоя мама в чулках - это бомба!"
+    Eric_03 "Oh, mon garçon, je vais faire ça avec plaisir. Ta mère en bas est une bombe!"
 
 # game/dialogues/erictalk.rpy:1071
 translate french Eric_ask_stockings_7978befc:
 
     # Max_02 "Спасибо! Рад, что мы на одной волне." nointeract
+    Max_02 "Merci! Content qu'on soit sur la même longueur d'onde." nointeract
 
 # game/dialogues/erictalk.rpy:1086
 translate french Eric_ask_no_stockings_945fa08a:
 
     # Eric_02 "Что, Макс, чулки надоели? Не вопрос, твоя мама и без чулков жутко сексуальна."
+    Eric_02 "quoi, Max, les bas sont fatigués? Pas question, ta mère est terriblement sexy sans bas."
 
 # game/dialogues/erictalk.rpy:1088
 translate french Eric_ask_no_stockings_6fbaeb06:
 
     # Max_01 "Спасибо!" nointeract
-    new ""
+    Max_01 "Merci!" nointeract
 
 translate french strings:
 
@@ -2204,27 +2288,27 @@ translate french strings:
 
     # game/dialogues/erictalk.rpy:399
     old "Нет, можешь обучать... (Настоящая дружба)"
-    new ""
+    new "Non, tu peux enseigner... (Véritable amitié)"
 
     # game/dialogues/erictalk.rpy:399
     old "А ей не рановато? (Фальшивая дружба)"
-    new ""
+    new "Elle n'est pas en avance? (Fausse amitié)"
 
     # game/dialogues/erictalk.rpy:399
     old "Лизу тебе не отдам! (Откровенная вражда)"
-    new ""
+    new "Je ne te donnerai pas Lisa! (Candide inimitié)"
 
     # game/dialogues/erictalk.rpy:494
     old "Значит, тебя её блог интересует? (Настоящая дружба)"
-    new ""
+    new "Alors, son blog t'intéresse? (Véritable amitié)"
 
     # game/dialogues/erictalk.rpy:494
     old "Я мало что об этом знаю... (Фальшивая дружба)"
-    new ""
+    new "Je ne sais pas grand-chose à ce sujet... (Fausse amitié)"
 
     # game/dialogues/erictalk.rpy:494
     old "Вот у неё и спрашивай! (Откровенная вражда)"
-    new ""
+    new "Alors demandes-lui! (Candide inimitié)"
 
     # game/dialogues/erictalk.rpy:802
     old "Может, договоримся? {i}(добыть компромат){/i}"
@@ -2260,5 +2344,5 @@ translate french strings:
 
     # game/dialogues/erictalk.rpy:909
     old "{i}уйти мыть посуду{/i}"
-    new ""
+    new "{i}aller faire la vaisselle {/i}"
 

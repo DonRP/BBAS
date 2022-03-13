@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:16\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -26,11 +26,11 @@ translate italian strings:
 
     # game/core/03variables.rpy:39
     old "КОМНАТА\nАЛИСЫ"
-    new "LA CAMERETTA\nDI ALICE"
+    new "LA CAMERA\nDI ALICE"
 
     # game/core/03variables.rpy:39
     old "КОМНАТА АЛИСЫ"
-    new "LA CAMERETTA DI ALICE"
+    new "LA CAMERA DI ALICE"
 
     # game/core/03variables.rpy:39
     old "КОМНАТА\nАННЫ"

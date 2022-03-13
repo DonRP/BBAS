@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/alicetalk.po\n"
-# "X-Crowdin-File-ID: 1035\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/dialogues/alicetalk.po\n"
+# "X-french-File-ID: 3452\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-08 15:20\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -1566,7 +1566,7 @@ translate french advanced_massage1_reciprocity_1272725b:
 translate french advanced_massage1_reciprocity_da5f55a1:
 
     # Alice_07 "Давай! Кончи мне на грудь... Я бы удивилась, если бы ты продержался ещё дольше. Массаж получился классный, Макс... и я не только про сам массаж. А сейчас, давай-ка засовывай свой член обратно, а мне нужно скорее привести себя в порядок."
-    Alice_07 "Allez ! Jouis sur ma poitrine... Je serais surprise que tu tiennes plus longtemps. Le massage était super, Max... et je ne parle pas seulement du massage lui-même. Maintenant, remets ta bite en place, et je dois me remettre en ordre."
+    Alice_07 "Aller! Jouis sur ma poitrine... Je serais surprise que tu tiennes plus longtemps. Le massage était super, Max... et je ne parle pas seulement du massage lui-même. Maintenant, remets ta bite en place, et je dois me remettre en ordre."
 
 # game/dialogues/alicetalk.rpy:1428
 translate french advanced_massage1_reciprocity_7fef34b9:
@@ -1643,7 +1643,8 @@ translate french alice_aboutbooks_6405d1b7:
 # game/dialogues/alicetalk.rpy:1469
 translate french alice_aboutbooks_af00f0d1:
 
-    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}" nointeract\n   Alice_00 "Je ne le dirai pas. Maintenant, assieds-toi et devines ! \n\n{i}Alice a couvert la couverture de sa main{/i}" nointeract
+    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}" nointeract
+    Alice_00 "je ne dirai pas. Assieds-toi et devine! \n\n{i}Alice a couvert la couverture avec sa main{/i}" nointeract
 
 # game/dialogues/alicetalk.rpy:1478
 translate french alice_aboutbooks_2eac1a27:
@@ -1714,7 +1715,8 @@ translate french first_talk_smoke_talk_b5a5e27d:
 # game/dialogues/alicetalk.rpy:1542
 translate french first_talk_smoke_talk_ee9ba89b:
 
-    # Alice_13 "Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract\n   Alice_13 "Je vais juste donner l'argent...\nVoilà, 10 dollars, et maintenant tu n'as certainement rien vu. N'est-ce pas ?" nointeract
+    # Alice_13 "Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
+    Alice_13 "je vais chercher de l'argent...\nTiens, tiens 10$, et maintenant tu n'as rien vu. C'est ça?" nointeract
 
 # game/dialogues/alicetalk.rpy:1547
 translate french first_talk_smoke_talk_86687067:
@@ -3502,7 +3504,7 @@ translate french gift_pajamas_324b4e00:
 translate french gift_pajamas_27fd05a2:
 
     # Alice_16 "Ещё подглядывать за мной будешь, подлиза ты эдакий?"
-    Alice_16 "Veux-tu toujours m’espionner, es tu un peu sournois?"
+    Alice_16 "Veux-tu toujours m’espionner, es-tu un peu sournois?"
 
 # game/dialogues/alicetalk.rpy:2454
 translate french gift_pajamas_b4a32aa4:
@@ -5068,7 +5070,7 @@ translate french alice_sorry_gifts_you_deserve_b47b0634:
 translate french alice_sorry_gifts_you_deserve_201ce590:
 
     # Max_02 "Второе, конечно!"
-    Max_02 "Deuxièmement, bien sûr!"
+    Max_02 "La deuxième, bien sûr!"
 
 # game/dialogues/alicetalk.rpy:3382
 translate french alice_sorry_gifts_you_deserve_1405c200:
@@ -9712,7 +9714,7 @@ translate french alice_mistress_2_submit_18617f58:
 translate french alice_mistress_2_submit_afd9742b:
 
     # Alice_05 "Точно? Может добавки?"
-    Alice_05 "Vraiment? Peut-être des coups en suppléments?"
+    Alice_05 "Vraiment? Peut-être des coups supplémentaires?"
 
 # game/dialogues/alicetalk.rpy:5227
 translate french alice_mistress_2_submit_71218d7c:
@@ -10102,7 +10104,7 @@ translate french alice_domine_drink_a3418458:
 translate french alice_domine_drink_cb32de16:
 
     # Max_08 "А как надо?"
-    Max_08 "Comment ça va être?"
+    Max_08 "Comment ça?"
 
 # game/dialogues/alicetalk.rpy:5502
 translate french alice_domine_drink_1001ec6a:
@@ -10114,7 +10116,7 @@ translate french alice_domine_drink_1001ec6a:
 translate french alice_domine_drink_b1b05964:
 
     # Max_10 "Эй! В смысле плёткой что ли?!"
-    Max_10 "Hé! Je veux dire, quelle cravache?!"
+    Max_10 "Aie! ça veux dire la cravache?!"
 
 # game/dialogues/alicetalk.rpy:5509
 translate french alice_domine_drink_d6c3bcdd:
@@ -11573,7 +11575,8 @@ translate french strings:
     new "{i}faire un massage avec la crème{/i}"
 
     # game/dialogues/alicetalk.rpy:2660
-    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"\n   new "{i}{color=[gray]}faire un massage avec la crème{/color}{color=[red]}\nla crème n'est pas suffisante{/color}{/i}"
+    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+    new "{i}{color=[gray]}faire un massage avec de la crème{/color}{color=[red]}\nla crème restante ne suffit pas{/color}{/i}"
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"

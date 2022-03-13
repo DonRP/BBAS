@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/max.po\n"
-# "X-Crowdin-File-ID: 1041\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/events/max.po\n"
+# "X-french-File-ID: 3492\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -258,6 +258,7 @@ translate french about_blog_f7287104:
 translate french about_blog_2d9761c1:
 
     # Max_09 "{m}[_text!t]{/m}" nointeract
+    Max_09 "{m}[_text!t]{/m}" nointeract
 
 # game/events/max.rpy:451
 translate french about_blog_116ee643:
@@ -448,22 +449,26 @@ translate french BookRead_9562ffab:
 # game/events/max.rpy:658
 translate french BookRead_manual_41be558e:
 
-    # Max_00 "Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"\n   Max_00 "Hmmm... beaucoup de mots incompréhensibles. Je pense que je vais devoir relire les premiers chapitres...\n\n{color=[orange]}{i}(Le livre est étudié à 20%%){/i}{/color}"
+    # Max_00 "Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"
+    Max_00 "Hmm... beaucoup de mots incompréhensibles. Il va falloir relire les premiers chapitres...\n\n{color=[orange]}{i}(Livre étudié à 20%%){/i}{/color}"
 
 # game/events/max.rpy:660
 translate french BookRead_manual_0826f3fe:
 
-    # Max_00 "Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n{color=[orange]}{i}(Книга изучена на 40%%){/i}{/color}"\n   Max_00 "Bon, eh bien, j'ai réglé ça, d'accord... Qu'est-ce que c'est ? Ce n'est pas clair. Il faudra y réfléchir....\n\n{color=[orange]}{i}(Le livre est étudié à 40%%){/i}{/color}"
+    # Max_00 "Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n{color=[orange]}{i}(Книга изучена на 40%%){/i}{/color}"
+    Max_00 "Bon, je l'ai déjà compris, d'accord... C'est quoi, ça? Pas clair. Il faudra tout comprendre...\n\n{color =[orange]}{i}(Livre étudié à 40%%) {/i} {/color}"
 
 # game/events/max.rpy:662
 translate french BookRead_manual_3605e1d8:
 
-    # Max_00 "Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз.\n\n{color=[orange]}{i}(Книга изучена на 60%%){/i}{/color}"\n   Max_00 "Wow, c'est génial! Est-il déjà possible de créer un site web? Ah, non... Tout n'est pas encore clair... Eh bien, je m'en occuperai une autre fois.\n\n{color=[orange]}{i}(Le livre est étudié à 60%%){/i}{/color}"
+    # Max_00 "Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз.\n\n{color=[orange]}{i}(Книга изучена на 60%%){/i}{/color}"
+    Max_00 "Wow, c'est génial! Est-il déjà possible de faire un site Web? Oh, non... Tout n'est pas encore clair... Je m'en occuperai une autre fois.\n\n{color =[orange]}{i}(Livre étudié à 60%%) {/i} {/color}"
 
 # game/events/max.rpy:664
 translate french BookRead_manual_1c08c83d:
 
-    # Max_00 "Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?\n\n{color=[orange]}{i}(Книга изучена на 80%%){/i}{/color}"\n   Max_00 "Ok, bien, maintenant j'ai une idée. Il ne reste plus qu'à régler les petites choses... Ou est-ce que ce n'est pas un peu trivial ?\n\n{color=[orange]}{i}(Le livre est étudié à 80%%){/i}{/color}"
+    # Max_00 "Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?\n\n{color=[orange]}{i}(Книга изучена на 80%%){/i}{/color}"
+    Max_00 "Eh bien, maintenant l'image se dessine. Il ne reste plus qu'à gérer les petites choses... Ou ce n'est pas des petites choses?\n\n{color =[orange]}{i}(Livre étudié à 80%%) {/i} {/color}"
 
 # game/events/max.rpy:666
 translate french BookRead_manual_bd8ad388:
@@ -474,17 +479,20 @@ translate french BookRead_manual_bd8ad388:
 # game/events/max.rpy:678
 translate french BookRead_sex_ed_e2e2e4d9:
 
-    # Max_01 "Ага. У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать.\n\n{color=[orange]}{i}(Книга изучена на 25%%){/i}{/color}"\n   Max_01 "Ouaip. Chacun a ses particularités, je ne le savais pas! La structure des organes génitaux d'une adolescente est juste... Lisons et regardons autour de moi.\n\n{color=[orange]}{i}(Le livre est étudié à 25%%){/i}{/color}"
+    # Max_01 "Ага. У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать.\n\n{color=[orange]}{i}(Книга изучена на 25%%){/i}{/color}"
+    Max_01 ". Tout le monde a ses propres caractéristiques, sinon je ne savais pas! Voici, la structure des organes génitaux d'une adolescente, ce qui est nécessaire... On va lire et regarder.\n\n{color =[orange]}{i}(Livre étudié à 25%%) {/i} {/color}"
 
 # game/events/max.rpy:680
 translate french BookRead_sex_ed_5dc0d1da:
 
-    # Max_03 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"\n   Max_03 "Donc, ce n'est pas vraiment intéressant... Mais le comportement sexuel des adolescents ne concerne que moi! Si je peux lire quelque chose sur mes érections matinales, ce serait génial...\n\n{color=[orange]}{i}(Le livre est étudié à 50%%){/i}{/color}"
+    # Max_03 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
+    Max_03 "Donc, ce n'est pas particulièrement intéressant... Mais le comportement sexuel des adolescents est juste à propos de moi! Encore à propos de mes érections du matin écriraient, ce serait généralement super...\n\n{color =[orange]}{i}(Livre étudié à 50%%) {/i} {/color}"
 
 # game/events/max.rpy:682
 translate french BookRead_sex_ed_cdf53c7a:
 
-    # Max_07 "Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n{color=[orange]}{i}(Книга изучена на 75%%){/i}{/color}"\n   Max_07 "Wow, il y a même une brève esquisse historique sur l'éducation sexuelle des enfants et des adolescents... Ca me donne mal à la tête d'avoir été berné pendant tout ce temps!\n\n{color=[orange]}{i}(Le livre est étudié à 75%%){/i}{/color}"
+    # Max_07 "Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n{color=[orange]}{i}(Книга изучена на 75%%){/i}{/color}"
+    Max_07 "Wow, il y a même un bref essai historique sur l'éducation sexuelle des enfants et des adolescents... Une fois que la tête n'a pas été dupé pendant tout ce temps!\n\n{color =[orange]}{i}(Livre étudié à 75%%) {/i} {/color}"
 
 # game/events/max.rpy:687
 translate french BookRead_sex_ed_58528ae0:
@@ -735,7 +743,8 @@ translate french about_credit_90bb447c:
 # game/events/max.rpy:1047
 translate french about_credit_73692d65:
 
-    # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"\n   Max_04 "{m}Pour résumer les conditions: \n"\n{b}Vous devez rembourser le montant total du prêt + 10%% dans un délai d'un mois. \n"\nEn cas de non-remboursement à temps, le montant de la dette est triplé tous les 30 jours, et de votre site sera tous les jours retirer la moitié des bénéfices. Et prendre un nouveau prêt ne fonctionnera pas...{/b} \n\nIl est certainement préférable de ne pas en arriver là{/m}"
+    # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"
+    Max_04 "{m}, pour conclure conditions: \n{b}Dans le délai d'un mois vous devez rembourser la totalité du montant du prêt + 10%% \nEn cas de non-remboursement dans les délais, le montant de la dette triples toutes les 30 jours, et avec mon site tous les jours de retirer la moitié des bénéfices. Et prendre une fois de plus ne fonctionnera pas...{/b} \n\nMieux, bien sûr, de ne pas apporter à cela.{/m}"
 
 # game/events/max.rpy:1048
 translate french about_credit_5011fb20:

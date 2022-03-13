@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/eric.po\n"
-# "X-Crowdin-File-ID: 1001\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/events/eric.po\n"
+# "X-french-File-ID: 3480\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:40\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -636,6 +636,7 @@ translate french eric_ann_fucking_voyeur_1a6dca32:
 translate french eric_ann_fucking_voyeur_141f69df:
 
     # Eric_02 "Ань, пусть лучше смотрит на нас, чем на не пойми какие извращения в интернете, верно? Так, Макс, зайди сюда, поговорим..." nointeract
+    Eric_02 "Anh, mieux vaut nous regarder que de ne pas comprendre les perversions sur Internet, n'est-ce pas? Max, viens parler..." nointeract
 
 # game/events/eric.rpy:602
 translate french eric_ann_fucking_voyeur_9e12ffd3:
@@ -737,116 +738,139 @@ translate french eric_ann_fucking_voyeur_46cd8c20:
 translate french eric_ann_fuck_glasses_sleeping_cb30e1a3:
 
     # Max_07 "{m}Оу, супер! Похоже, я очень вовремя! Главное, не шуметь. Тогда всё должно будет пройти отпадно...{/m}" nointeract
+    Max_07 "{m}Oh, super! On dirait que je suis très à l'heure! L'essentiel est de ne pas faire de bruit. Alors tout va bien se passer...{/m}" nointeract
 
 # game/events/eric.rpy:692
 translate french eric_ann_fuck_glasses_sleeping_6b9150a2:
 
     # Ann_05 "Ох, Эрик, ты такой шалун... Твоя фантазия с этими очками такая волнующая! И мне это очень нравится..."
+    Ann_05 "Oh, Eric, tu es un sale con... Votre imagination avec ces lunettes est tellement exaltante! Et j'aime vraiment ça..."
 
 # game/events/eric.rpy:693
 translate french eric_ann_fuck_glasses_sleeping_b4763990:
 
     # Eric_02 "Если будешь и дальше меня слушаться, то ли ещё будет! Ты чувствуешь, как поднимается градус возбуждения?"
+    Eric_02 "Si tu continues à m'obéir, ce sera toujours le cas! Tu sens le degré d'excitation monter?"
 
 # game/events/eric.rpy:694
 translate french eric_ann_fuck_glasses_sleeping_285268d7:
 
     # Max_03 "{m}Не знаю, как у вас ребята, но мой градус уже поднялся до полной готовности! Жгите...{/m}"
+    Max_03 "{m}Je ne sais pas comment vous avez les gars, mais mon degré a déjà atteint sa pleine disponibilité! Brûlez...{/m}"
 
 # game/events/eric.rpy:700
 translate french eric_ann_fuck_glasses_sleeping_68278021:
 
     # Ann_07 "Да, Эрик, твой член... Он сейчас такой твёрдый... Дай мне его скорее! Ты же знаешь, что мне нравится больше всего..."
+    Ann_07 "oui, Eric, ta bite... Il est si dur en ce moment... Donne-le-moi! Tu sais ce que j'aime le plus..."
 
 # game/events/eric.rpy:701
 translate french eric_ann_fuck_glasses_sleeping_ffe8566a:
 
     # Eric_04 "Чёрт возьми, детка, ты сводишь меня с ума своим великолепным телом! Ты... Ты просто чертовски сладкая!"
+    Eric_04 "Bon sang, bébé, tu me rends fou avec ton corps magnifique! Tu... Tu es vraiment douce!"
 
 # game/events/eric.rpy:702
 translate french eric_ann_fuck_glasses_sleeping_3eda019d:
 
     # Ann_08 "Давай, мой милый, возьми меня... Я мечтаю об этом уже целый вечер. Я уже такая мокренькая! Ах-х-х!"
+    Ann_08 "Allez, mon chéri, prends-moi... J'en rêve depuis une soirée. Je suis tellement mouillée! Ah-x-x!"
 
 # game/events/eric.rpy:703
 translate french eric_ann_fuck_glasses_sleeping_ffe21f0c:
 
     # Eric_03 "Сейчас, Аня, мы с тобой зажжём на полную катушку! Ты готова?"
+    Eric_03 "maintenant, Anya, toi et moi allons allumer au maximum! Tu es prête?"
 
 # game/events/eric.rpy:704
 translate french eric_ann_fuck_glasses_sleeping_44d37b69:
 
     # Max_08 "{m}Погодите! Мне нужно тихо и незаметно лучшее место для обзора для себя найти...{/m}" nointeract
+    Max_08 "{m}Bon! J'ai besoin tranquillement et discrètement le meilleur endroit pour examiner pour moi-même de trouver...{/m}" nointeract
 
 # game/events/eric.rpy:716
 translate french eric_ann_fuck_glasses_sleeping_a84f86a2:
 
     # Ann_10 "Ахх... Да-а-а! Боже мой, Эрик, мне так хорошо... Ещё! Трахай меня ещё! Охх... Не вздумай останавливаться! Вот так... Ммм..."
+    Ann_10 "Ahh... Oui! Mon Dieu, Eric, je me sens si bien... Encore! Baise-moi encore! Ohhh... Ne pas essayer de les arrêter! Voilà... Mmm..."
 
 # game/events/eric.rpy:717
 translate french eric_ann_fuck_glasses_sleeping_64a7d43c:
 
     # Eric_06 "Ухх... Ну держись, детка! Сейчас ты получишь всё, чего так хотела... Вот так тебе нравится?"
+    Eric_06 "uhh... Tiens bon, bébé! Tu vas avoir tout ce que tu voulais... C'est comme ça que tu aimes?"
 
 # game/events/eric.rpy:718
 translate french eric_ann_fuck_glasses_sleeping_95dd1b5f:
 
     # Ann_11 "Да! Ещё, мой милый... Ммм... Оттрахай меня, Эрик! Сильнее, не сдерживайся... Как хорошо, д-а-а..."
+    Ann_11 "Oui! Encore, mon chéri... Mmm... Baise-moi, Eric! Plus fort, ne vous retenez pas... C'est bon, a-a-A-Raaaa..."
 
 # game/events/eric.rpy:719
 translate french eric_ann_fuck_glasses_sleeping_e81c2611:
 
     # Max_02 "{m}О боже! Моя мама с такой страстью ему подчиняется! А Эрику, похоже, всё мало и он пытается засадить ей как можно глубже. И, кажется, уже еле сдерживается...{/m}"
+    Max_02 "{m}oh mon dieu! Ma mère lui obéit avec tant de passion! Et Eric, il semble que tout est petit et il essaie de l'enfermer aussi profondément que possible. Et, semble-t-il, il est déjà à peine retenu...{/m}"
 
 # game/events/eric.rpy:727
 translate french eric_ann_fuck_glasses_sleeping_2de0f4bb:
 
     # Eric_08 "Ахх... О Господи, детка, я больше не могу! Я кончаю!!! Д-а-а... Ох, класс..."
+    Eric_08 "Ahh... Oh mon Dieu, bébé, je ne peux plus! Je jouis!!! D-a-A... Oh, la classe..."
 
 # game/events/eric.rpy:728
 translate french eric_ann_fuck_glasses_sleeping_bc1ff92c:
 
     # Ann_07 "Фух... Эрик, это было сильно! Видимо, я была на высоте, раз ты так мощно кончил..."
+    Ann_07 "Fuch... Eric, c'était dur! Je suppose que j'étais à la hauteur, puisque tu as fini si fort..."
 
 # game/events/eric.rpy:729
 translate french eric_ann_fuck_glasses_sleeping_40765c82:
 
     # Eric_05 "Можешь поверить мне на слово, Ань, долго жарить такую сочную и прекрасную женщину, как ты, никто не сможет!"
+    Eric_05 "tu Peux me croire sur parole, Anh, pour longtemps faire frire une femme aussi juteuse et belle que toi, personne ne peut!"
 
 # game/events/eric.rpy:736
 translate french eric_ann_fuck_glasses_sleeping_a989a47e:
 
     # Eric_04 "Давай, детка, скорее возьми его в ротик поглубже! Охх... Ты же знаешь, что я просто улетаю, когда ты смачно сосёшь... О да!"
+    Eric_04 "allez, bébé, prends-le plus profondément dans la bouche! Ohhh... Tu sais que je m'envole quand tu suces... Oh oui!"
 
 # game/events/eric.rpy:737
 translate french eric_ann_fuck_glasses_sleeping_25848186:
 
     # Max_04 "{m}То, что смачно, это точно! При мне, на тех уроках, она с таким жаром ему не отсасывала... Какая же ты, мам, развратница!{/m}"
+    Max_04 "{m}ce qui est savoureux, c'est sûr! Avec moi, dans ces cours, elle ne l'a pas aspiré avec autant de chaleur... Tu es une salope, maman!{/m}"
 
 # game/events/eric.rpy:741
 translate french eric_ann_fuck_glasses_sleeping_2de0f4bb_1:
 
     # Eric_08 "Ахх... О Господи, детка, я больше не могу! Я кончаю!!! Д-а-а... Ох, класс..."
+    Eric_08 "Ahh... Oh mon Dieu, bébé, je ne peux plus! Je jouis!!! D-a-A... Oh, la classe..."
 
 # game/events/eric.rpy:742
 translate french eric_ann_fuck_glasses_sleeping_bc1ff92c_1:
 
     # Ann_07 "Фух... Эрик, это было сильно! Видимо, я была на высоте, раз ты так мощно кончил..."
+    Ann_07 "Fuch... Eric, c'était dur! Je suppose que j'étais à la hauteur, puisque tu as fini si fort..."
 
 # game/events/eric.rpy:743
 translate french eric_ann_fuck_glasses_sleeping_e031cdb4:
 
     # Eric_05 "Не то слово, Ань! Ты была просто бесподобна! Твой ротик - просто сказка."
+    Eric_05 "Pas ce mot, Anh! Tu étais incroyable! Ta bouche est un conte de fées."
 
 # game/events/eric.rpy:746
 translate french eric_ann_fuck_glasses_sleeping_767e8043:
 
     # Ann_05 "Спасибо за комплимент, дорогой, мне тоже понравилось."
+    Ann_05 "Merci pour le compliment, chéri, j'ai aimé ça aussi."
 
 # game/events/eric.rpy:747
 translate french eric_ann_fuck_glasses_sleeping_7d68e880:
 
     # Max_08 "{m}Да уж! А я вот зря так глазею... Пора по-тихому отсюда сваливать, пока мама ещё не сняла очки...{/m}" nointeract
+    Max_08 "{m}Oui vraiment! Voilà, en vain, de sorte глазею... Il est temps de sortir tranquillement d'ici avant que maman n'enlève ses lunettes...{/m}" nointeract
 
 # game/events/eric.rpy:771
 translate french eric_ann_sleep_6d97eb0c:
@@ -1860,6 +1884,7 @@ translate french eric_ann_try_fucking_e010ae0b:
 translate french lisa_eric_sex_ed_practice_practice_1_94b29054:
 
     # Max_01 "{m}Отлично! С этого места мне всё хорошо видно. Эрик разрешил подглядывать, поэтому главное, чтобы меня не заметила Лиза. Если Эрик собирается делать то, что я думаю, то он тот ещё извращенец...{/m}"
+    Max_01 "{m}Bien! De cet endroit, je peux tout voir. Eric m'a autorisé à espionner, donc l'essentiel est que Lisa ne me remarque pas. Si Eric va faire ce que je pense, c'est un pervers...{/m}"
 
 # game/events/eric.rpy:1684
 translate french lisa_eric_sex_ed_practice_practice_1_3065454e:
@@ -1907,6 +1932,7 @@ translate french lisa_eric_sex_ed_practice_practice_1_f6227f68:
 translate french lisa_eric_sex_ed_practice_practice_1_b51df49b:
 
     # Max_04 "{m}Лиза большая умница! Уверен, с талантами у неё тоже всё в порядке, нужно их только раскрыть...{/m}"
+    Max_04 "{m}Lisa est très intelligente! Je suis sûr qu'elle va bien avec ses talents aussi, il suffit de les révéler...{/m}"
 
 # game/events/eric.rpy:1696
 translate french lisa_eric_sex_ed_practice_practice_1_4a6c0e46:
@@ -1942,6 +1968,7 @@ translate french lisa_eric_sex_ed_practice_practice_1_3d5f41d3:
 translate french lisa_eric_sex_ed_practice_practice_1_057b807a:
 
     # Max_07 "{m}Нет, Лиза у нас та ещё стесняшка. Для неё эта практика сейчас - самое волнительное событие в жизни. Мне хорошо видно, что у неё руки дрожат...{/m}"
+    Max_07 "{m}non, Lisa est un peu timide. Pour elle, cette pratique est maintenant l'événement le plus excitant de la vie. Je vois bien que ses mains tremblent...{/m}"
 
 # game/events/eric.rpy:1711
 translate french lisa_eric_sex_ed_practice_practice_1_dd7bf2d0:
@@ -1977,6 +2004,7 @@ translate french lisa_eric_sex_ed_practice_practice_1_aa78a0a8:
 translate french lisa_eric_sex_ed_practice_practice_1_3ae62fc7:
 
     # Max_03 "{m}А вот и начинается самое интересное! Лиза сейчас впервые возьмёт в руки член... Интересно посмотреть на её эмоции от такого...{/m}"
+    Max_03 "{m}et voici le plaisir commence! Lisa va prendre une bite pour la première fois... C'est intéressant de voir ses émotions de ce genre...{/m}"
 
 # game/events/eric.rpy:1725
 translate french lisa_eric_sex_ed_practice_practice_1_3b74cda5:
@@ -1988,6 +2016,7 @@ translate french lisa_eric_sex_ed_practice_practice_1_3b74cda5:
 translate french lisa_eric_sex_ed_practice_practice_1_4b3a47e5:
 
     # Max_03 "{m}Ого! Похоже, я очень вовремя! Чуть всё самое интересное не пропустил с этой посудой... Судя по всему, Лиза сейчас впервые возьмёт в руки член... Интересно посмотреть на её эмоции от такого...{/m}"
+    Max_03 "{m}Wow! On dirait que je suis très à l'heure! Presque tout le plaisir n'a pas manqué avec cette vaisselle... Apparemment, Lisa va prendre une bite pour la première fois... C'est intéressant de voir ses émotions de ce genre...{/m}"
 
 # game/events/eric.rpy:1741
 translate french lisa_eric_sex_ed_practice_practice_1_122391ed:
@@ -2023,46 +2052,55 @@ translate french lisa_eric_sex_ed_practice_practice_1_3849c169:
 translate french lisa_eric_sex_ed_practice_practice_1_7bf11fc1:
 
     # Lisa_09 "Ну ладно. Я сейчас попробую..."
+    Lisa_09 "Ok. Laisse-moi essayer..."
 
 # game/events/eric.rpy:1754
 translate french lisa_eric_sex_ed_practice_practice_1_137e23cb:
 
     # Lisa_11 "Охх... Я... Я сделала это! Боже мой... Это и правда не так страшно, как мне казалось..."
+    Lisa_11 "Ohh... Moi... Je l'ai fait! Oh mon dieu... Ce n'est vraiment pas aussi effrayant que je le pensais..."
 
 # game/events/eric.rpy:1755
 translate french lisa_eric_sex_ed_practice_practice_1_940f7c80:
 
     # Eric_02 "Ну и как он тебе? Что чувствуешь?"
+    Eric_02 "comment ça va? Qu'est-ce que tu ressens?"
 
 # game/events/eric.rpy:1756
 translate french lisa_eric_sex_ed_practice_practice_1_0f697fc3:
 
     # Lisa_01 "Он... Ну... Я не знаю... Он такой тёплый и нежный... Эрик, а что дальше нужно делать?"
+    Lisa_01 "-Il... Eh bien... Je l'ignore... Il est si chaud et doux... Eric, que faut-il faire ensuite?"
 
 # game/events/eric.rpy:1757
 translate french lisa_eric_sex_ed_practice_practice_1_38fa3271:
 
     # Eric_05 "Дальше его нужно массировать. У тебя ручки нежнее, чем у твоей мамы. Возьми его поглубже в ладонь и води вверх-вниз... Нежно и ласково, не спеша..."
+    Eric_05 "Ensuite, il doit être massé. Tes mains sont plus douces que celles de ta mère. Prenez-le profondément dans votre paume et conduisez-le de haut en bas... Doucement et affectueusement, lentement..."
 
 # game/events/eric.rpy:1758
 translate french lisa_eric_sex_ed_practice_practice_1_d4ba3fa3:
 
     # Max_05 "{m}Вот это сейчас будет шоу! Давай, сестрёнка... Дрочить - это тебе не книжки читать! Руки будут отниматься по первости только так...{/m}"
+    Max_05 "{m}Ça va être un spectacle! Allez, sœurette... Se branler, ce n'est pas lire des livres! Les mains ne seront enlevées que de cette façon...{/m}"
 
 # game/events/eric.rpy:1763
 translate french lisa_eric_sex_ed_practice_practice_1_0f5e38dd:
 
     # Lisa_10 "Я не... Эрик, давай не сегодня! Я что-то слишком переволновалась... Мне нужно успокоиться и прийти в себя..."
+    Lisa_10 "Je ne suis pas... Eric, pas aujourd'hui! J'ai quelque chose de trop переволновалась... Je dois me calmer et me remettre en forme..."
 
 # game/events/eric.rpy:1764
 translate french lisa_eric_sex_ed_practice_practice_1_a7a2a190:
 
     # Eric_01 "Ну конечно, Лиза, я не собираюсь давить на тебя. Не сегодня, так не сегодня. Ты и так многое сегодня сделала, переборов свой собственный страх и смущение. Мы продолжим в следующий понедельник..."
+    Eric_01 "bien sûr, Lisa, je ne vais pas te mettre la pression. Pas aujourd'hui, donc pas aujourd'hui. Tu as déjà fait tant de choses aujourd'hui, tu as brisé ta propre peur et ton embarras. Nous continuerons lundi prochain..."
 
 # game/events/eric.rpy:1765
 translate french lisa_eric_sex_ed_practice_practice_1_5f517bd0:
 
     # Max_11 "{m}Да ничего она практически не сделала! Подержала и всё... Ну да ладно, главное, что она меня не заметила, а там и глядишь, в следующий понедельник наконец подрочит спокойно, насколько сможет.{/m}" nointeract
+    Max_11 "{m}Oui, elle n'a pratiquement rien fait! Je l'ai tenu et tout... Elle ne m'a pas remarqué, et tu vois, lundi prochain, elle va enfin se branler aussi calmement qu'elle le peut.{/m}" nointeract
 
 # game/events/eric.rpy:1777
 translate french lisa_eric_sex_ed_practice_practice_1_cc24ef7a:
@@ -2134,226 +2172,271 @@ translate french lisa_eric_sex_ed_practice_practice_1_deab2e43:
 translate french lisa_eric_sex_ed_practice_practice_1_43fa62d0:
 
     # Eric_13 "Ты какого чёрта, Макс, вмешиваешься в наши с Лизой уроки?! Она же просила тебя не мешать, разве нет?"
+    Eric_13 "qu'est-ce que tu fais, Max, Avec Lisa?! Elle t'a dit de ne pas déranger, non?"
 
 # game/events/eric.rpy:1814
 translate french lisa_eric_sex_ed_practice_practice_1_ff9a7213:
 
     # Max_09 "Просила... Просто, я вот о чём подумал... Лиза ещё маленькая... Ты уверен, что хочешь в это влезть?"
+    Max_09 "... C'est juste ce à quoi j'ai pensé... Lisa est encore petite... Tu es sûr de vouloir entrer dans ça?"
 
 # game/events/eric.rpy:1815
 translate french lisa_eric_sex_ed_practice_practice_1_d9e68fa9:
 
     # Eric_14 "О да! Я очень хочу в это влезть, если ты ещё не заметил. А то, что она ещё маленькая - именно то, что надо."
+    Eric_14 "Oh oui! Je veux vraiment entrer dans ça, si tu ne l'as pas remarqué. Et le fait qu'elle soit encore petite est exactement ce qu'il faut."
 
 # game/events/eric.rpy:1816
 translate french lisa_eric_sex_ed_practice_practice_1_3539f3e2:
 
     # Max_08 "А ты думал, что будет, если вас кто-нибудь увидит? Кроме меня, конечно... Или она кому-нибудь разболтает это? Здесь или в школе..."
+    Max_08 "vous pensiez que si quelqu'un vous voyait? Sauf moi, bien sûr... Ou va-t-elle parler à quelqu'un? Ici ou à l'école..."
 
 # game/events/eric.rpy:1817
 translate french lisa_eric_sex_ed_practice_practice_1_4ecceec3:
 
     # Eric_09 "Хм... Нет, я с ней поработаю и она будет держать это втайне."
+    Eric_09 "Hmm... Non, je vais travailler avec elle et elle va garder ça secret."
 
 # game/events/eric.rpy:1818
 translate french lisa_eric_sex_ed_practice_practice_1_999fc9b3:
 
     # Max_07 "Смотри... Я тебе по дружески эти опасения высказал. Если ты на все 150%% уверен, что вам удастся сохранить это в тайне, то пожалуйста. Но тебе потом от этого отмыться не удастся, если что."
+    Max_07 "Voir... Je t'ai dit amicalement ces craintes. Si tu es sûr à 150% que tu peux garder ça secret, s'il te plaît. Mais vous ne pourrez pas vous en débarrasser plus tard, si quelque chose se passe."
 
 # game/events/eric.rpy:1819
 translate french lisa_eric_sex_ed_practice_practice_1_d9d496ce:
 
     # Eric_16 "Блин, рискованно! А так хочется! Вот какой же ты, Макс... Всю малину растоптал..."
+    Eric_16 "Merde, c'est risqué! Et si vous voulez! C'est comme ça que tu es, Max... J'ai piétiné toutes les framboises..."
 
 # game/events/eric.rpy:1820
 translate french lisa_eric_sex_ed_practice_practice_1_b3a3e772:
 
     # Max_09 "А я не знаю, почему ты об этом не подумал. Видимо, из-за обилия перспектив с моей семьёй, ты совсем перестал думать тем, чем надо."
+    Max_09 "Et je ne sais pas pourquoi tu n'y as pas pensé. Apparemment, à cause de l'abondance de perspectives avec ma famille, tu n'as plus vraiment pensé à ce que tu devais faire."
 
 # game/events/eric.rpy:1821
 translate french lisa_eric_sex_ed_practice_practice_1_c9d70062:
 
     # Eric_09 "Что теперь с Лизой делать... Если эти уроки прекратить в самом начале, она может начать задавать вопросы тем, кому не надо."
+    Eric_09 "que faire maintenant avec Lisa... Si ces leçons cessent au tout début, elle peut commencer à poser des questions à ceux qui n'en ont pas besoin."
 
 # game/events/eric.rpy:1822
 translate french lisa_eric_sex_ed_practice_practice_1_0d98c4b2:
 
     # Max_07 "Ну, я попробую взять её на себя. Чем-нибудь, да займу её. А с остальными членами моей семьи я тебе помогу, как и договаривались."
+    Max_07 "Eh bien, je vais essayer de la prendre en charge. N'importe quoi, oui le prêt de son. Et avec le reste de ma famille, je vais t'aider, comme convenu."
 
 # game/events/eric.rpy:1823
 translate french lisa_eric_sex_ed_practice_practice_1_16f6e99d:
 
     # Eric_06 "Ладно, Макс, повезло тебе. Отдам Лизу на твоё попечение. Сейчас я ей объясню, что ты прекрасно справишься с этим обучением, а дальше уже твои проблемы."
+    Eric_06 "d'accord, Max, tu as de la chance. Je donnerai Lisa à tes soins. Maintenant, je vais lui expliquer que tu vas bien faire avec cette formation, et ensuite c'est tes problèmes."
 
 # game/events/eric.rpy:1825
 translate french lisa_eric_sex_ed_practice_practice_1_a0a1d076:
 
     # Max_00 "Понял, постараюсь не облажаться." nointeract
+    Max_00 "Compris, je vais essayer de ne pas foirer." nointeract
 
 # game/events/eric.rpy:1845
 translate french lisa_eric_sex_ed_practice_practice_2_f60134c6:
 
     # Max_03 "{m}Как будто я стану мыть посуду, когда в нашей с Лизой комнате происходят такие интересные события! Да ни за что, ничего не хочу пропустить...{/m}"
+    Max_03 "{m}c'Est comme si j'allais faire la vaisselle quand Lisa et moi avons des événements aussi intéressants dans notre chambre! Oui pour rien, ne veux rien manquer...{/m}"
 
 # game/events/eric.rpy:1846
 translate french lisa_eric_sex_ed_practice_practice_2_470fd346:
 
     # Eric_01 "... уже ведь не так страшно, как в первый раз, да, Лиза?"
+    Eric_01 "... ce n'est pas aussi effrayant que la première fois, n'est-ce pas, Lisa?"
 
 # game/events/eric.rpy:1847
 translate french lisa_eric_sex_ed_practice_practice_2_af8f9b62:
 
     # Lisa_10 "Да. Но я всё равно немного волнуюсь..."
+    Lisa_10 "Oui. Mais je suis toujours un peu inquiet..."
 
 # game/events/eric.rpy:1848
 translate french lisa_eric_sex_ed_practice_practice_2_a2c1cbe0:
 
     # Eric_03 "Всё в порядке. Главное, что мы это начали и свой страх ты преодолела. Ты умница!"
+    Eric_03 "Tout va bien. La chose principale est que nous avons commencé et que vous avez surmonté votre peur. Tu es intelligente!"
 
 # game/events/eric.rpy:1849
 translate french lisa_eric_sex_ed_practice_practice_2_37a7b75d:
 
     # Lisa_09 "Честно говоря, я ещё и немного стесняюсь это делать..."
+    Lisa_09 "Honnêtement, je suis aussi un peu timide pour le faire..."
 
 # game/events/eric.rpy:1850
 translate french lisa_eric_sex_ed_practice_practice_2_b3f3c39c:
 
     # Max_04 "{m}Ничего, небольшое стеснение со стороны Лизы выглядит даже мило. Но постеснялась и всё, хватит, давай за дело, сестрёнка!{/m}"
+    Max_04 "{m}Rien, une petite gêne de la part de Lisa semble même mignon. Mais j'ai eu honte et c'est tout, assez, allez-y, sœurette!{/m}"
 
 # game/events/eric.rpy:1854
 translate french lisa_eric_sex_ed_practice_practice_2_f726e72b:
 
     # Eric_02 "Я тебя понимаю, Лиза. Вначале это всегда кажется чем-то шокирующим, но потом, когда ты к этому привыкнешь, то для тебя откроются новые горизонты."
+    Eric_02 "je te comprends, Lisa. Au début, cela semble toujours choquant, mais quand vous vous y habituerez, de nouveaux horizons s'ouvriront pour vous."
 
 # game/events/eric.rpy:1855
 translate french lisa_eric_sex_ed_practice_practice_2_e76ed681:
 
     # Lisa_03 "Серьёзно? И я смогу, также как мама, делать это легко и просто?"
+    Lisa_03 "Sérieusement? Et puis-je, comme maman, le faire facilement et simplement?"
 
 # game/events/eric.rpy:1856
 translate french lisa_eric_sex_ed_practice_practice_2_00ed89fd:
 
     # Eric_04 "Конечно! А может быть даже и лучше, чем она!"
+    Eric_04 "Bien sûr! Et peut-être même mieux qu'elle!"
 
 # game/events/eric.rpy:1857
 translate french lisa_eric_sex_ed_practice_practice_2_fe01d491:
 
     # Lisa_03 "Правда?! А такое возможно?"
+    Lisa_03 "Vraiment?! Et est-ce possible?"
 
 # game/events/eric.rpy:1858
 translate french lisa_eric_sex_ed_practice_practice_2_eba35258:
 
     # Eric_03 "Нет предела совершенству, Лиза! Но, пора бы уже не просто обо всём этом говорить, но и делать..."
+    Eric_03 "il n'y a pas de limite à la perfection, Lisa! Mais, il est temps de ne pas simplement parler de tout cela, mais aussi de le faire..."
 
 # game/events/eric.rpy:1859
 translate french lisa_eric_sex_ed_practice_practice_2_73ce750d:
 
     # Max_02 "{m}Вот именно! Не тяни резину, Лиза... Тебе пора немного подрочить в целях сексуального воспитания!{/m}"
+    Max_02 "{m}c'est tout! Ne tire pas le caoutchouc, Lisa... Il est temps que tu te branles un peu pour l'éducation sexuelle!{/m}"
 
 # game/events/eric.rpy:1863
 translate french lisa_eric_sex_ed_practice_practice_2_536d7df8:
 
     # Lisa_01 "Да, Эрик. Думаю, я готова продолжить... Так значит, я просто беру его и начинаю водить вверх-вниз?"
+    Lisa_01 "Oui, Eric. Je pense que je suis prête à continuer... Donc je prends ça et je commence à monter et descendre?"
 
 # game/events/eric.rpy:1864
 translate french lisa_eric_sex_ed_practice_practice_2_bb26a930:
 
     # Eric_05 "Да, моя девочка. Тебе нужно уверенно взять его в свою нежную ручку и так же нежно ею водить по нему."
+    Eric_05 "Oui, ma fille. Vous devez le prendre en toute confiance dans sa douce poignée et le conduire doucement sur elle."
 
 # game/events/eric.rpy:1873
 translate french lisa_eric_sex_ed_practice_practice_2_140d5a14:
 
     # Max_02 "{m}Фух! Похоже, я очень вовремя подоспел... Ну что, сестрёнка, тебе пора немного подрочить в целях сексуального воспитания!{/m}"
+    Max_02 "{m}En J'ai l'air d'arriver à temps... Eh bien, sœurette, il est temps que tu te branles un peu pour l'éducation sexuelle!{/m}"
 
 # game/events/eric.rpy:1875
 translate french lisa_eric_sex_ed_practice_practice_2_f814ae2c:
 
     # Lisa_10 "Ладно, я сейчас попробую... Только не смейся, если я что-то буду делать не так! Хорошо?"
+    Lisa_10 "Ok, je vais essayer... Ne ris pas si je fais quelque chose de mal! Bien?"
 
 # game/events/eric.rpy:1876
 translate french lisa_eric_sex_ed_practice_practice_2_0e946955:
 
     # Eric_07 "Лиза, я и не думал смеяться! Всё у тебя получится, а даже если нет, я всегда тебе подскажу. Начинай..."
+    Eric_07 "Lisa, je ne pensais pas rire! Tu réussiras, et même si ce n'est pas le cas, je te le dirai toujours. Vas-y..."
 
 # game/events/eric.rpy:1877
 translate french lisa_eric_sex_ed_practice_practice_2_b050a65e:
 
     # Max_07 "{m}Да, Лиза, начинай уже... А то разговорились тут!{/m}"
+    Max_07 "{m}oui, Lisa, commence... On a parlé ici!{/m}"
 
 # game/events/eric.rpy:1882
 translate french lisa_eric_sex_ed_practice_practice_2_5fe7735c:
 
     # Lisa_01 "Хорошо... Хоть я и до сих пор сильно смущаюсь этого, но во второй раз это уже совсем иначе! Не так страшно..."
+    Lisa_01 "Bien... Bien que je sois encore très confus à ce sujet, mais la deuxième fois, c'est complètement différent! Pas si effrayant..."
 
 # game/events/eric.rpy:1883
 translate french lisa_eric_sex_ed_practice_practice_2_2d2ca381:
 
     # Eric_03 "Вот и замечательно! Нечего бояться совершенно естественных вещей, таких, как это!"
+    Eric_03 "c'est génial! Il n'y a rien à craindre des choses tout à fait naturelles comme ça!"
 
 # game/events/eric.rpy:1884
 translate french lisa_eric_sex_ed_practice_practice_2_23f29fa5:
 
     # Lisa_02 "Ага, наверное... Не знаю, что вы мужчины в такие моменты испытываете, но я пока сгораю от стыда. Хотя, в то же время, мне очень интересно это делать!"
+    Lisa_02 "oui, je suppose... Je ne sais pas ce que vous ressentez dans ces moments-là, mais je brûle encore de honte. Bien que, en même temps, je suis très intéressé à le faire!"
 
 # game/events/eric.rpy:1885
 translate french lisa_eric_sex_ed_practice_practice_2_b015c998:
 
     # Eric_02 "Понимаю. Это нормально, Лиза. Потом, когда ты преодолеешь все неудобства, это станет ещё интереснее и желаннее для тебя. Ох, у тебя очень хорошо получается, продолжай..."
+    Eric_02 ". C'est bon, Lisa. Puis, quand vous surmontez tous les inconvénients, il deviendra encore plus intéressant et plus souhaitable pour vous. Oh, tu te débrouilles très bien, continue..."
 
 # game/events/eric.rpy:1886
 translate french lisa_eric_sex_ed_practice_practice_2_4162a3b6:
 
     # Max_05 "{m}Да, Лиза, продолжай, не стесняйся! Может быть, когда ты этому более-менее обучишься, мне удастся тебя уговорить показать мастерство дрочки...{/m}"
+    Max_05 "{m}oui, Lisa, continue, ne sois pas timide! Peut-être qu'une fois que tu as appris ça, je peux te persuader de te branler...{/m}"
 
 # game/events/eric.rpy:1890
 translate french lisa_eric_sex_ed_practice_practice_2_4970b973:
 
     # Lisa_11 "Ой! Он начал становится таким твёрдым и большим! Это же, насколько я помню, хорошо, да?!"
+    Lisa_11 "Oh! Il a commencé à devenir si solide et grand! C'est aussi bon que je me souvienne, n'est-ce pas?!"
 
 # game/events/eric.rpy:1891
 translate french lisa_eric_sex_ed_practice_practice_2_2cee1748:
 
     # Eric_06 "Конечно, это ОЧЕНЬ хорошо! Давай, обхвати его чуть покрепче и всей ладошкой... Вспомни, как это делала твоя мама... Вот так, да..."
+    Eric_06 "Bien sûr, il est TRÈS bon! Allez, serrez-le un peu plus fort et de toute la paume de votre main... Souviens-toi de ce que ta mère a fait... Voici donc, oui..."
 
 # game/events/eric.rpy:1892
 translate french lisa_eric_sex_ed_practice_practice_2_a095d453:
 
     # Lisa_10 "Да, кажется, я помню... Она делала как-то так... У меня получается? Тебе нравится?"
+    Lisa_10 "oui, je crois que je me souviens... Elle faisait quelque chose comme ça... Je l'ai fait? Est-ce que ça te plaît?"
 
 # game/events/eric.rpy:1893
 translate french lisa_eric_sex_ed_practice_practice_2_2764b823:
 
     # Eric_05 "Да, всё правильно, моя девочка, молодец! Твоя нежная ладошка так хороша... Попробуй делать это чувственно и интуитивно..."
+    Eric_05 "Oui, c'est vrai, ma fille, bien joué! Ta douce paume est si belle... Essayez de le faire sensuellement et intuitivement..."
 
 # game/events/eric.rpy:1894
 translate french lisa_eric_sex_ed_practice_practice_2_7615ec72:
 
     # Max_03 "{m}Ухх... Я бы тоже очень хотел, чтобы её ладошка и пальчики обхватили мой член... Д-а-а... Даже думать об этом невероятно приятно!{/m}"
+    Max_03 "{m}uhh... J'aimerais aussi avoir sa paume et ses doigts autour de ma bite... D-a-A... Même y penser est incroyablement agréable!{/m}"
 
 # game/events/eric.rpy:1898
 translate french lisa_eric_sex_ed_practice_practice_2_27ce6092:
 
     # Lisa_09 "Ой, Эрик, ну я даже не знаю... Может, на сегодня уже хватит? Потому что у меня уже рука начинает болеть, а мне ещё домашнее задание нужно делать..."
+    Lisa_09 "Oh, Eric, je ne sais même pas... Peut-être que c'est assez pour aujourd'hui? Parce que ma main commence déjà à faire mal, et j'ai encore mes devoirs à faire..."
 
 # game/events/eric.rpy:1899
 translate french lisa_eric_sex_ed_practice_practice_2_1b3a38e2:
 
     # Eric_04 "Конечно, Лиза! Я и не настаивал на продолжении... Ты и так сегодня сделала большой шаг! Так что занимайся своими делами, а в следующий понедельник мы продолжим. Да, моя дорогая?"
+    Eric_04 "Bien Sûr, Lisa! Je n'ai pas insisté pour continuer... Tu as déjà fait un grand pas aujourd'hui! Alors occupe-toi de tes affaires, et lundi prochain, nous continuerons. Oui, ma chère?"
 
 # game/events/eric.rpy:1903
 translate french lisa_eric_sex_ed_practice_practice_2_8b5130df:
 
     # Lisa_02 "Да! Спасибо, Эрик, за наставления и этот опыт! Даже не знаю, чтобы я без тебя делала..."
+    Lisa_02 "Oui! Merci, Eric, pour les conseils et cette expérience! Je ne sais même pas ce que je fais sans toi..."
 
 # game/events/eric.rpy:1904
 translate french lisa_eric_sex_ed_practice_practice_2_bb69e3a1:
 
     # Eric_01 "Не за что, Лиза. До следующего раза."
+    Eric_01 "pas question, Lisa. Jusqu'à la prochaine fois."
 
 # game/events/eric.rpy:1905
 translate french lisa_eric_sex_ed_practice_practice_2_b465168f:
 
     # Max_09 "{m}Ага, до следующего... Вот только есть у меня некоторые опасения на этот счёт. Нужно будет обязательно высказать их Эрику в следующий раз после ужина!{/m}" nointeract
+    Max_09 "{m}jusqu'au prochain... Mais j'ai quelques inquiétudes à ce sujet. Il faudra absolument les dire à Eric la prochaine fois après le dîner!{/m}" nointeract
 
 # game/events/eric.rpy:1925
 translate french eric_about_practice_war_cd954bd0:
@@ -2557,11 +2640,13 @@ translate french eric_about_practice_war_14f657ad_1:
 translate french lisa_eric_zero_practice_war_6f687e90:
 
     # Max_07 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Надо обязательно подглядеть за этим! Правда, она попросила помыть за неё посуду...{/m}" nointeract
+    Max_07 "{m}Lisa doit maintenant avoir une leçon pratique d'éducation sexuelle. Il faut absolument surveiller ça! Elle m'a demandé de faire la vaisselle pour elle...{/m}" nointeract
 
 # game/events/eric.rpy:2017
 translate french lisa_eric_zero_practice_war_026ddd2f:
 
     # Max_07 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Надо обязательно подглядеть за этим, ведь это такое волнительное событие будет для моей сестрёнки! Правда, она попросила помыть за неё посуду...{/m}" nointeract
+    Max_07 "{m}Lisa doit maintenant avoir une leçon pratique d'éducation sexuelle. Il est nécessaire de surveiller cela, parce que c'est un événement si excitant pour ma petite soeur! Elle m'a demandé de faire la vaisselle pour elle...{/m}" nointeract
 
 # game/events/eric.rpy:2020
 translate french lisa_eric_zero_practice_war_2dcab8b5:
@@ -2573,6 +2658,7 @@ translate french lisa_eric_zero_practice_war_2dcab8b5:
 translate french lisa_eric_zero_practice_war_d2275465:
 
     # Max_10 "{m}Нужно как можно быстрее вымыть всю посуду и бежать к своей комнате, не зазря же я выпросил у Эрика возможность подглядывать за их уроками. Ну вот и закончил...{/m}" nointeract
+    Max_10 "{m}vous Devez laver tous les ustensiles le plus rapidement possible et courir vers votre chambre, ce n'est pas pour rien que j'ai demandé à Eric l'occasion de regarder leurs leçons. Eh bien, c'est fini...{/m}" nointeract
 
 # game/events/eric.rpy:2036
 translate french lisa_eric_zero_practice_war_86a0b856:
@@ -3018,11 +3104,11 @@ translate french strings:
 
     # game/events/eric.rpy:686
     old "{i}тихо зайти в комнату{/i}"
-    new ""
+    new "{i}entrer tranquillement dans la pièce{/i}"
 
     # game/events/eric.rpy:705
     old "{i}хорошо устроиться{/i}"
-    new ""
+    new "{i}bien s'installer {/i}"
 
     # game/events/eric.rpy:788
     old "{i}затаиться на полчаса{/i}"

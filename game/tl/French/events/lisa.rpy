@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/lisa.po\n"
-# "X-Crowdin-File-ID: 1261\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/events/lisa.po\n"
+# "X-french-File-ID: 3488\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:40\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -149,7 +149,8 @@ translate french lisa_shower_closer_peepeng_cd01369c:
 # game/events/lisa.rpy:178
 translate french lisa_shower_not_luck_76384340:
 
-    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"\n   Max_12 "{color=[orange]}{i}il semble que Lisa ait suspecté quelque chose!{/i} {/color}\n{m}Oh non! On dirait qu'elle a remarqué quelque chose... Il faut courir!{/m}"
+    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"
+    Max_12 "{color=[orange]}{i}il semble que Lisa ait suspecté quelque chose!{/i} {/color}\n{m}Oh non! On dirait qu'elle a remarqué quelque chose... Il faut courir!{/m}"
 
 # game/events/lisa.rpy:200
 translate french lisa_shower_pinded_aded2cb3:
@@ -509,6 +510,7 @@ translate french lisa_dressed_stay_in_room_cdba7705:
 translate french lisa_dressed_stay_in_room_db51f185:
 
     # Max_09 "{m}Я слишком много раз пытался подсмотреть, как Лиза переодевается. Больше не стоит пытаться сделать это сегодня.{/m}"
+    Max_09 "{m}j'ai essayé trop de fois de regarder Lisa se changer. Plus besoin d'essayer de le faire aujourd'hui.{/m}"
 
 # game/events/lisa.rpy:482
 translate french lisa_dressed_moment2_8183fb49:

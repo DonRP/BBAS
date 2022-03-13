@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:16\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -1826,7 +1826,7 @@ translate italian strings:
 
     # game/core/09_opportunities.rpy:4
     old "У меня наконец-то получилось уговорить Алису на конфету с ликёром прямо перед тем, как мы пошли к её комнате! Правда, всё прошло не так хорошо, как могло бы. По крайней мере, мне так кажется... Но с учётом, что меня ожидало без этой волшебной конфеты - её торчащие из под костюма сиськи, которыми она меня дразнила, приятно порадовали мои глаза! Даже интересно, что будет, если я стану вести себя с ней поувереннее, когда она спросит, что я мечтал с ней вытворять в душе? И это обязательно нужно будет проверить, главное снова уговорить её съесть конфетку!"
-    new "Alla fine sono riuscito a convincere Alice per le caramelle al liquore proprio prima di andare nella sua stanza! Tuttavia, tutto non è andato bene come avrebbe potuto. O almeno così mi sembra... Ma considerando ciò che mi aspettava senza questa caramella magica - le sue tette che sporgevano da sotto il vestito, con cui mi prendeva in giro, piaceva piacevolmente ai miei occhi! Mi chiedo cosa succederà se mi comporterò con lei con più sicurezza, quando mi chiede cosa sognavo di fare con lei sotto la doccia? E questo avrà sicuramente bisogno di essere controllato, la cosa principale è convincerla a mangiare di nuovo caramelle!"
+    new "Finalmente sono riuscita a convincere Alice a prendere delle caramelle all liquore poco prima di andare in camera sua! È vero, non è andata così bene come avrebbe potuto. O almeno così mi sembra... Ma considerando ciò che mi aspettava senza quella caramella magica - le sue tette sporgevano da sotto il vestito, con cui mi ha preso in giro, hanno piacevolmente soddisfatto i miei occhi! Mi chiedo cosa succederebbe se mi comportassi con lei in modo più sicuro, se mi chiedesse cosa avrei sognato di farele sotto la doccia? E avrà sicuramente di essere pianificato, la cosa principale è convincerla a mangiare caramelle!"
 
     # game/core/09_opportunities.rpy:4
     old "После того, как я умудрился добиться от Алисы фут-джоба в гостиной, не давая ей ни одной конфеты с ликёром, дела с приватными наказаниями за подглядывания в душе пошли в гору. Не без помощи конфеты, но Алиса теперь не обходит мой член стороной и даже не прочь присесть на него... А вот дальше, чем больше у меня получается ей угождать, тем больше она теряет голову!"
@@ -1886,7 +1886,7 @@ translate italian strings:
 
     # game/core/09_opportunities.rpy:4
     old "Эрик пошёл ещё дальше и теперь суёт моей маме в рот член так глубоко, как только хочет! Мне всё больше кажется, что его просто распирает от восторга показывать, что он получает всё, что только хочет... Ну ничего, я найду на него управу! Нужно только понять, в чём секрет его манипуляций и так ли они хорошо работают на моих сёстрах..."
-    new "Eric è andato anche oltre e ora le mette in bocca quella di mia madre quanto vuole! Sento sempre di più che sta scoppiando di gioia per dimostrare che ottiene tutto ciò che vuole ... Beh, niente, troverò quello giusto! Ho solo bisogno di capire qual è il segreto delle sue manipolazioni e se funzionano così bene per le mie sorelle ..."
+    new "Eric ha fatto un ulteriore passo avanti e ora infila il cazzo nella bocca di mia madre quanto vuole! Mi sembra sempre più che sia solo pieno di entusiasmo nel mostrare che ottiene tutto ciò che vuole... Non fa niente, troverò il controllo su di lui! Dobbiamo solo capire qual è il segreto della sua manipolazione e se funzionano così bene con le mie sorelle..."
 
     # game/core/09_opportunities.rpy:4
     old "Вот это поворот! Хвалёная дружба с Эриком, которую он мне расписывал, как что-то сказочное, на деле оказалась не такой уж и сказкой. Придётся с этим как-то разбираться..."

@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/alice.po\n"
-# "X-Crowdin-File-ID: 1021\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/events/alice.po\n"
+# "X-french-File-ID: 3472\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:36\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -89,7 +89,8 @@ translate french alice_bath_ladder_acb863d5:
 # game/events/alice.rpy:103
 translate french alice_sleep_night_e1c2fdd7:
 
-    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract\n   Max_00 "{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}" nointeract
+    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract
+    Max_00 "{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}" nointeract
 
 # game/events/alice.rpy:117
 translate french alice_sleep_night_c0808a95:
@@ -250,7 +251,8 @@ translate french alice_sleep_night_56b097f3:
 # game/events/alice.rpy:208
 translate french alice_sleep_morning_e1c2fdd7:
 
-    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract\n   Max_00 "{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}" nointeract
+    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract
+    Max_00 "{m}Alice semble dormir. Frapper à la porte ne vaut certainement pas la peine.\nOui et entrer est dangereux pour la santé...{/m}" nointeract
 
 # game/events/alice.rpy:219
 translate french alice_sleep_morning_34a5f34f:
@@ -825,7 +827,8 @@ translate french alice_shower_closer_peepeng_3d1ede2b:
 # game/events/alice.rpy:600
 translate french alice_shower_not_luck_11b8b725:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"\n   Max_09 "{color=[orange]}{i}il semble qu'Alice ait suspecté quelque chose!{/i} {/color}\n{m}Oh, merde! Il faut prendre les jambes avant qu'elles ne soient là...{/m}"
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"
+    Max_09 "{color=[orange]}{i}il semble qu'Alice ait suspecté quelque chose!{/i} {/color}\n{m}Oh, merde! Il faut prendre les jambes avant qu'elles ne soient là...{/m}"
 
 # game/events/alice.rpy:619
 translate french alice_shower_pinded_e826d0b4:
@@ -4080,7 +4083,8 @@ translate french strings:
     new "{i}ouvrir la porte{/i}"
 
     # game/events/alice.rpy:2519
-    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"\n   new "Eh bien, sauf si c'est comme ça....\n{i}(commencer à masser sa chatte avec la main){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+    new "Eh bien, sauf que si...\n{i}(commencer à masser sa chatte avec sa main) {/i}"
 
     # game/events/alice.rpy:2519
     old "Поласкай свою киску для меня..."

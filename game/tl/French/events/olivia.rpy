@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/olivia.po\n"
-# "X-Crowdin-File-ID: 1005\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/events/olivia.po\n"
+# "X-french-File-ID: 3494\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:40\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -258,11 +258,13 @@ translate french olivia_first_night_visit_8074ca27:
 translate french olivia_first_night_visit_af6afb32:
 
     # Olivia_02 "Значит, кроме нас и Лизы дома только ваша мама?"
+    Olivia_02 "Donc, à part Lisa et moi, il n'y a que votre mère à la maison?"
 
 # game/events/olivia.rpy:183
 translate french olivia_first_night_visit_40050d52:
 
     # Max_03 "Да... Алиса с тётей Кирой как всегда в это время тусят где-то допоздна. Мама у себя в комнате, но может прийти нас проверить. Главное сильно не шуметь."
+    Max_03 "Oui... Alice et tante Kira, comme toujours à ce moment-là, traînent quelque part tard. Maman est dans sa chambre, mais peut venir nous voir. L'essentiel est de ne pas faire beaucoup de bruit."
 
 # game/events/olivia.rpy:190
 translate french olivia_first_night_visit_9df66df1:
@@ -394,11 +396,13 @@ translate french olivia_second_night_visit_6d57f034:
 translate french olivia_second_night_visit_4bfe6ec9:
 
     # Olivia_03 "Лиза, а ты так и будешь в маечке и трусиках? Мы ведь шуметь не собираемся, так что твоя мама ничего не увидит. А даже если и придёт, то мы тебя прикроем."
+    Olivia_03 "Lisa, tu vas porter un t-shirt et une culotte? On ne va pas faire de bruit, donc ta mère ne verra rien. Et même s'il vient, on te couvre."
 
 # game/events/olivia.rpy:267
 translate french olivia_second_night_visit_96357a48:
 
     # Lisa_09 "Да я больше не из-за мамы, а из-за Макса. Только и будет делать, что пялиться."
+    Lisa_09 "Je ne suis plus à cause de maman, mais à cause de Max. Il ne fera que regarder."
 
 # game/events/olivia.rpy:270
 translate french olivia_second_night_visit_c1e3c67a:
@@ -482,11 +486,13 @@ translate french olivia_night_visit_r_04f7e51a:
 translate french olivia_night_visit_r_11acffe5:
 
     # Olivia_01 "Привет, Макс. А вот и я! Как дома обстановка?"
+    Olivia_01 "salut, Max. Comment est la maison?"
 
 # game/events/olivia.rpy:311
 translate french olivia_night_visit_r_e85cfe71:
 
     # Max_04 "Привет! Рад тебя видеть. Дома только я, Лиза и мама. Проходи..."
+    Max_04 "bonjour! Content de te voir. Il n'y a que moi, Lisa et maman à la maison. Passer par..."
 
 # game/events/olivia.rpy:317
 translate french olivia_night_visit_r_b6a957f2:
@@ -1314,16 +1320,19 @@ translate french olivia_repeatable_night_out_with_e56be7a5:
 translate french olivia_repeatable_night_out_with_eab840c0:
 
     # Lisa_02 "И с чего ты взял, что нам надоест? Я даже маечку одевать не буду. Макс уже всё видел, а без неё удобнее..."
+    Lisa_02 "et pourquoi as-tu pensé qu'on s'ennuierait? Je ne porterai même pas un t-shirt. Max a déjà tout vu, et sans elle, c'est plus pratique..."
 
 # game/events/olivia.rpy:684
 translate french olivia_repeatable_night_out_with_ba36eeb5:
 
     # Max_02 "Ох, что за дивный вечерок!"
+    Max_02 "Oh, quelle belle soirée!"
 
 # game/events/olivia.rpy:685
 translate french olivia_repeatable_night_out_with_0a6cf6a4:
 
     # Olivia_01 "Ночь вообще-то, Макс. Укладываемся спать..."
+    Olivia_01 "Nuit en fait, Max..."
 
 # game/events/olivia.rpy:688
 translate french olivia_repeatable_night_out_with_6538cfc3:
@@ -1725,282 +1734,337 @@ translate french olivia_dressed_try_to_peek_dbf3b763:
 translate french olivia_ann_meeting_72a9dc2e:
 
     # Ann_00 "Что-то случилось, дорогой?"
+    Ann_00 "quelque chose s'est passé, chéri?"
 
 # game/events/olivia.rpy:1021
 translate french olivia_ann_meeting_61ee095e:
 
     # Max_01 "Пока что нет, но к нам в гости сейчас должна прийти одноклассница Лизы."
+    Max_01 "pas Encore, mais la camarade de classe de Lisa doit venir nous rendre visite."
 
 # game/events/olivia.rpy:1022
 translate french olivia_ann_meeting_12ec5499:
 
     # Ann_04 "Ой! У Лизы подружка появилась? Это очень хорошо."
+    Ann_04 "Oh! Lisa a une petite amie? C'est très bien."
 
 # game/events/olivia.rpy:1023
 translate french olivia_ann_meeting_a910fad5:
 
     # Max_04 "Да и она уже была у нас в гостях. Днём после школы..."
+    Max_04 "et elle était déjà chez nous. Après-midi après l'école..."
 
 # game/events/olivia.rpy:1029
 translate french olivia_ann_meeting_0eda89f8:
 
     # Lisa_01 "Мама, знакомься, это Оливия, моя одноклассница!"
+    Lisa_01 "Maman, voici Olivia, ma camarade de classe!"
 
 # game/events/olivia.rpy:1030
 translate french olivia_ann_meeting_fb8ee967:
 
     # Olivia_04 "Здравствуйте! Мне очень приятно с вами познакомиться. У вас потрясающая дочь!"
+    Olivia_04 "Bonjour! Je suis très heureux de vous rencontrer. Vous avez une fille incroyable!"
 
 # game/events/olivia.rpy:1038
 translate french olivia_ann_meeting_3cbfb1ec:
 
     # Ann_08 "Здравствуй, Оливия. Мне тоже приятно. А ещё я очень рада, что Лиза наконец-то нашла себе подругу. А то новое место, сама понимаешь..."
+    Ann_08 "Bonjour, Olivia. Ça me fait plaisir aussi. Et je suis ravie que Lisa ait enfin trouvé une amie. C'est un nouvel endroit, tu sais..."
 
 # game/events/olivia.rpy:1039
 translate french olivia_ann_meeting_e555d37c:
 
     # Olivia_05 "Я тоже рада. У вас такой большой, красивый и стильный дом... И такой классный бассейн!"
+    Olivia_05 "je suis contente aussi. Vous avez une maison si grande, belle et élégante... Et une piscine si cool!"
 
 # game/events/olivia.rpy:1040
 translate french olivia_ann_meeting_7ba98055:
 
     # Lisa_02 "Мам, мы с Оливией сейчас переоденемся и будем в бассейне плескаться, ты не против?"
+    Lisa_02 "Maman, Olivia et moi allons nous changer et nous éclabousser dans la piscine, ça te dérange?"
 
 # game/events/olivia.rpy:1041
 translate french olivia_ann_meeting_ed750a19:
 
     # Ann_02 "Конечно, девочки, развлекайтесь сколько угодно."
+    Ann_02 "Bien sûr, les filles, amusez - vous autant que vous le souhaitez."
 
 # game/events/olivia.rpy:1042
 translate french olivia_ann_meeting_bf2b83f9:
 
     # Olivia_03 "Привет, Макс! Рада тебя видеть."
+    Olivia_03 "Salut, Max! Ravie de te voir."
 
 # game/events/olivia.rpy:1043
 translate french olivia_ann_meeting_0b901396:
 
     # Max_02 "Привет, Оливия! Хорошо, что заглянула."
+    Max_02 "Bonjour, Olivia! C'est bien d'avoir regardé."
 
 # game/events/olivia.rpy:1050
 translate french olivia_ann_meeting_2bb1adf1:
 
     # Ann_05 "Девочка, вроде, хорошая. Ладно, пусть развлекаются, а я пойду отдохну к себе."
+    Ann_05 "la Fille semble être bonne. D'accord, laissez-les s'amuser et je vais me reposer chez moi."
 
 # game/events/olivia.rpy:1051
 translate french olivia_ann_meeting_8a119134:
 
     # Max_07 "Не торопись, мам. Подожди немного. Тебе нужно кое-что увидеть."
+    Max_07 "Prends ton temps, maman. Attendez un peu. Tu dois voir quelque chose."
 
 # game/events/olivia.rpy:1052
 translate french olivia_ann_meeting_6de9e9c0:
 
     # Ann_07 "Хорошо. Ну, а тебе, Макс, как Оливия, нравится?"
+    Ann_07 "Bien. Et toi, Max, comme Olivia?"
 
 # game/events/olivia.rpy:1053
 translate french olivia_ann_meeting_87a80392:
 
     # Max_01 "Да, она ничего такая. Правда, у неё есть... некоторая особенность... Она натуристка. Знаешь, кто это такие?"
+    Max_01 "Oui, elle n'est pas comme ça. C'est vrai qu'elle l'A... une certaine caractéristique... Elle est naturiste. Tu sais qui sont les gens?"
 
 # game/events/olivia.rpy:1054
 translate french olivia_ann_meeting_e53b9053:
 
     # Ann_02 "Хм... Звучит, как уклон во что-то натуральное. Может, это связано с питанием?"
+    Ann_02 "Hmm... Cela ressemble à un penchant pour quelque chose de naturel. Peut-être que c'est lié à la Nutrition?"
 
 # game/events/olivia.rpy:1055
 translate french olivia_ann_meeting_ecc99f9b:
 
     # Max_04 "Сейчас Оливия вернётся и объяснит, кто это такие. А вот как раз и они..."
+    Max_04 "maintenant Olivia va revenir et expliquer qui c'est. Et voici comment ils ont..."
 
 # game/events/olivia.rpy:1063
 translate french olivia_ann_meeting_2245b664:
 
     # Ann_15 "Оливия, а где твой купальник? Лиза, ты почему не дала своей подруге купальник, хотя бы тот, чёрный?"
+    Ann_15 "Olivia, où est ton maillot de bain? Lisa, pourquoi n'as-tu pas donné à ton amie un maillot de bain noir?"
 
 # game/events/olivia.rpy:1064
 translate french olivia_ann_meeting_7eac38fc:
 
     # Olivia_02 "Да вы не переживайте на этот счёт! Я совсем не стесняюсь. У меня родители натуристы и мы дома все ходим голые, я привыкла!"
+    Olivia_02 "Oui, vous ne vous inquiétez pas à ce sujet! Je ne suis pas timide du tout. Mes parents sont naturistes et nous sommes tous nus à la maison, je suis habitué!"
 
 # game/events/olivia.rpy:1065
 translate french olivia_ann_meeting_8dfdf625:
 
     # Max_03 "У них не семья, а праздник какой-то!"
+    Max_03 "ils n'ont pas de famille, mais des vacances!"
 
 # game/events/olivia.rpy:1073
 translate french olivia_ann_meeting_2bb03421:
 
     # Ann_14 "Ну, я рада, что ты не стесняешься, но вот я стесняюсь за Макса... Кажется, он уже отреагировал в своём стиле... У нас он единственный мужчина в доме, поэтому может временами... напрягаться."
+    Ann_14 "Eh bien, je suis contente que tu ne sois pas timide, mais je suis timide pour Max... Il semble avoir déjà réagi dans son style... Il est le seul homme dans la maison, donc peut-être parfois... se raidir."
 
 # game/events/olivia.rpy:1074
 translate french olivia_ann_meeting_71cb94fe:
 
     # Olivia_03 "Да это нормально! У папы такая же реакция была, когда мы вместе с ним купались или загорали, пока он ещё был с нами... Так что, для меня это обычное дело!"
+    Olivia_03 "Oui c'est normal! Papa a eu la même réaction quand nous nous sommes baignés ou bronzés avec lui alors qu'il était encore avec nous... Donc, pour moi, c'est normal!"
 
 # game/events/olivia.rpy:1075
 translate french olivia_ann_meeting_e64f98f3:
 
     # Ann_13 "Это так... странно, Оливия... А где твой папа сейчас?"
+    Ann_13 "C'est ça... c'est bizarre, Olivia... Où est ton père maintenant?"
 
 # game/events/olivia.rpy:1076
 translate french olivia_ann_meeting_65d93586:
 
     # Olivia_01 "Ну... Они с мамой поругались уже давненько и сейчас он с нами не живёт. А ещё у нас сломался бассейн и его некому чинить... Можно я к вам буду приходить купаться?"
+    Olivia_01 "Eh bien... Sa mère et lui se disputaient depuis longtemps et maintenant il ne vit pas avec nous. Et nous avons une piscine en panne et personne ne peut la réparer... Je peux venir me baigner?"
 
 # game/events/olivia.rpy:1077
 translate french olivia_ann_meeting_0b55a823:
 
     # Lisa_03 "Мам, скажи да, скажи да!"
+    Lisa_03 "maman, dis oui, dis oui!"
 
 # game/events/olivia.rpy:1078
 translate french olivia_ann_meeting_902a71d5:
 
     # Ann_01 "Конечно, Оливия. Если тебя не смущает Макс, который только на тебя и пялится, то я не против. Можешь приходить в любое время! Ну а я пойду по делам, а то уже достаточно позагорала. Развлекайтесь!"
+    Ann_01 "Bien Sûr, Olivia. Si tu n'es pas gêné par Max, qui ne te fixe que, alors ça ne me dérange pas. Tu peux venir à tout moment! Eh bien, je vais faire des affaires, ou j'ai déjà assez bronzé. Amusez-vous!"
 
 # game/events/olivia.rpy:1086
 translate french olivia_ann_meeting_3d9d7b14:
 
     # Max_02 "Как мне кажется, всё прошло довольно хорошо."
+    Max_02 "je pense que tout s'est plutôt bien passé."
 
 # game/events/olivia.rpy:1087
 translate french olivia_ann_meeting_11a6a1b3:
 
     # Olivia_06 "Думаешь, твоя мама разрешит нам собираться вместе по ночам?"
+    Olivia_06 "tu Penses que ta mère va nous laisser sortir ensemble la nuit?"
 
 # game/events/olivia.rpy:1088
 translate french olivia_ann_meeting_02812b71:
 
     # Max_07 "Даже если и нет, то я смогу её уговорить. Ну, или как минимум, очень постараюсь уговорить."
+    Max_07 "même si ce n'est pas le cas, je peux la convaincre. Eh bien, ou du moins, je vais essayer de convaincre."
 
 # game/events/olivia.rpy:1089
 translate french olivia_ann_meeting_512f166a:
 
     # Lisa_13 "Ты, главное, про меня не забудь в этих уговорах. А то мама запросто может сказать, что я ещё маленькая, хотя с Оливией мы ровесницы."
+    Lisa_13 "vous, surtout, ne m'oubliez pas dans ces accords. Ma mère peut facilement dire que je suis encore petite, même si Olivia et moi avons le même âge."
 
 # game/events/olivia.rpy:1090
 translate french olivia_ann_meeting_1a2cd1ba:
 
     # Max_09 "Не знаю, не знаю, Лиза... Это уже будет непросто. Вот если бы вы с Оливией намазали друг друга кремом для загара, то я бы мог и тебя отстоять перед мамой."
+    Max_09 "je ne sais pas, je ne sais pas, Lisa... Il sera difficile de. Si Olivia et toi vous vous enduisiez de crème solaire, je pourrais vous défendre devant maman."
 
 # game/events/olivia.rpy:1091
 translate french olivia_ann_meeting_d996de1a:
 
     # Olivia_03 "Ах вот как, да? Это мы запросто!"
+    Olivia_03 "c'est comme ça, hein? Il nous est possible maintenant!"
 
 # game/events/olivia.rpy:1092
 translate french olivia_ann_meeting_41617c79:
 
     # Lisa_02 "У тебя-то этот самый крем хоть есть?"
+    Lisa_02 "as-tu Au moins cette crème?"
 
 # game/events/olivia.rpy:1099
 translate french olivia_ann_meeting_76e86aa6:
 
     # Max_10 "Сейчас, к сожалению нет, но я обязательно его куплю."
+    Max_10 "Maintenant, malheureusement non, mais je vais certainement l'acheter."
 
 # game/events/olivia.rpy:1100
 translate french olivia_ann_meeting_77380e2d:
 
     # Lisa_01 "Очень жаль, Макс. Вот будет крем - мы и намажемся специально для тебя."
+    Lisa_01 "désolé, Max."
 
 # game/events/olivia.rpy:1107
 translate french olivia_ann_meeting_4d4507bf:
 
     # Max_11 "{m}Эх... Такой момент упустил... Теперь только до следующего раза.{/m}"
+    Max_11 "{m}Eh... Ce moment a manqué... Maintenant seulement jusqu'à la prochaine fois.{/m}"
 
 # game/events/olivia.rpy:1111
 translate french olivia_ann_meeting_32d70104:
 
     # Max_05 "Разумеется есть! Могу даже сам вас намазать, руки у меня почти не заняты."
+    Max_05 "Bien sûr! Je peux même vous enduire moi-même, mes mains sont à peine occupées."
 
 # game/events/olivia.rpy:1112
 translate french olivia_ann_meeting_c7b26a60:
 
     # Lisa_01 "О нет... За крем, конечно, спасибо, но от твоей помощи мы как-нибудь воздержимся, правда Оливия? Не хватало, чтобы ты свои озабоченные ручонки распускал."
+    Lisa_01 "O non... Merci pour la crème, bien sûr, mais on s'abstiendra de ton aide, n'est-ce pas Olivia? Tu n'as pas eu assez de mains inquiètes pour te défouler."
 
 # game/events/olivia.rpy:1114
 translate french olivia_ann_meeting_2aec5f80:
 
     # Olivia_05 "Ага, мы и сами прекрасно справимся. Давай крем. Чур гостей мажут первыми!" nointeract
+    Olivia_05 "ouais, on va s'en sortir. Donne-moi de la crème. Les churros sont les premiers!" nointeract
 
 # game/events/olivia.rpy:1132
 translate french olivia_lisa_sunscreen_0_916ccd9a:
 
     # Lisa_05 "Я же ведь помажу только спину, Оливия? Остальное ты сама..."
+    Lisa_05 "je n'oins que mon dos, n'est-ce pas? Le reste, c'est toi..."
 
 # game/events/olivia.rpy:1133
 translate french olivia_lisa_sunscreen_0_4b7517eb:
 
     # Max_08 "Э-э-э! Какую только спину?! Тебе нужно натереть кремом всё её тело, Лиза."
+    Max_08 "heu! Quel genre de dos?! Tu dois mettre de la crème sur tout son corps, Lisa."
 
 # game/events/olivia.rpy:1134
 translate french olivia_lisa_sunscreen_0_9a51e79c:
 
     # Olivia_03 "Ой, Макс, вот ты разбежался. Может ты тогда за фотоаппаратом или видеокамерой по такому случаю сразу сбегаешь?"
+    Olivia_03 "Oh, Max, tu t'es enfui. Peut-être que vous allez chercher un appareil photo ou une caméra vidéo pour cette occasion?"
 
 # game/events/olivia.rpy:1135
 translate french olivia_lisa_sunscreen_0_63f097d0:
 
     # Max_03 "Что-то мне подсказывает, что пока я буду бегать, вы уже закончите. Я лучше останусь здесь, чтобы ничего не пропустить."
+    Max_03 "Quelque chose me dit que pendant que je cours, vous avez terminé. Je préfère rester ici pour ne rien manquer."
 
 # game/events/olivia.rpy:1136
 translate french olivia_lisa_sunscreen_0_62a4a929:
 
     # Lisa_02 "Эх, а мы ведь могли бы и подождать."
+    Lisa_02 "Eh, et nous pourrions attendre."
 
 # game/events/olivia.rpy:1137
 translate french olivia_lisa_sunscreen_0_963a3477:
 
     # Max_09 "Нет, меня не проведёшь! Эй, ты ей попку совсем не натёрла, не говоря уже обо всём остальном... Это не дело!"
+    Max_09 "Non, je ne peux pas passer! Tu ne lui as pas frotté le cul, sans parler du reste... Ce n'est pas une affaire!"
 
 # game/events/olivia.rpy:1138
 translate french olivia_lisa_sunscreen_0_58ca6b5e:
 
     # Olivia_05 "Со всем остальным я прекрасно справлюсь сама. Поворачивайся ко мне, Лиза, я тебя тоже намажу."
+    Olivia_05 "Avec tout le reste, je peux me débrouiller toute seule. Tourne-toi vers moi, Lisa, je vais te badigeonner aussi."
 
 # game/events/olivia.rpy:1148
 translate french olivia_lisa_sunscreen_0_a00e937b:
 
     # Max_02 "Оливия, ты бы ей купальник развязала. Так будет удобнее..."
+    Max_02 "Olivia, tu lui aurais lâché son maillot de bain. Il en sera plus pratique..."
 
 # game/events/olivia.rpy:1149
 translate french olivia_lisa_sunscreen_0_1b5600b7:
 
     # Lisa_01 "В твоих похотливых идеях, Макс, здесь никто не нуждается! Мы сами разберёмся."
+    Lisa_01 "dans vos idées lascives, Max, personne n'a besoin ici! Nous-mêmes, nous nous comprendrons."
 
 # game/events/olivia.rpy:1150
 translate french olivia_lisa_sunscreen_0_c5a55342:
 
     # Max_07 "Лиза, я же за тебя переживаю. Вдруг Оливия из-за твоего купальника намажет не всё."
+    Max_07 "Lisa, je m'inquiète pour toi. Tout à coup, Olivia ne va pas tout se salir à cause de ton maillot de bain."
 
 # game/events/olivia.rpy:1151
 translate french olivia_lisa_sunscreen_0_5e735faf:
 
     # Olivia_02 "Не переживай, я ничего не упущу. Или, может, всё-таки развязать купальник?"
+    Olivia_02 "ne t'inquiète pas, je ne manquerai rien. Ou peut-être un maillot de bain?"
 
 # game/events/olivia.rpy:1152
 translate french olivia_lisa_sunscreen_0_95df47e9:
 
     # Max_05 "Никаких \"может\". Снимай с неё всё!"
+    Max_05 "Pas de «peut-être». Enleve-lui tout!"
 
 # game/events/olivia.rpy:1153
 translate french olivia_lisa_sunscreen_0_7e394240:
 
     # Lisa_11 "Нет, ребята, вы чего?! Не надо меня раздевать, мне и так хорошо."
+    Lisa_11 "Non, vous êtes quoi?! Ne me déshabille pas, je me sens déjà bien."
 
 # game/events/olivia.rpy:1154
 translate french olivia_lisa_sunscreen_0_2c278307:
 
     # Olivia_01 "Тогда всё, Лиза, я закончила. А тебе, Макс, спасибо за крем."
+    Olivia_01 "alors, Lisa, j'ai fini. Et à toi, Max, merci pour la crème."
 
 # game/events/olivia.rpy:1155
 translate french olivia_lisa_sunscreen_0_ffc96ca2:
 
     # Max_01 "Не за что, девчонки. Мне всё понравилось, но можно было это делать и более страстно."
+    Max_01 "Pas de problème, les filles. J'ai tout aimé, mais je pouvais le faire plus passionnément."
 
 # game/events/olivia.rpy:1156
 translate french olivia_lisa_sunscreen_0_c7bb4508:
 
     # Lisa_03 "Других пожеланий я и не ожидала."
-    new ""
+    Lisa_03 "Je ne m'attendais pas à d'autres souhaits."
 
 translate french strings:
 

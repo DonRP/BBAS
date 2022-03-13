@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/core.po\n"
-# "X-Crowdin-File-ID: 889\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/core/core.po\n"
+# "X-french-File-ID: 3444\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:39\n"
+# "PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -84,12 +84,13 @@ translate french after_buying_46e6b997:
 translate french after_load_84f87582:
 
     # ver [current_ver], _ver [_version], conf.ver [config.version]"
+    new "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:1031
 translate french after_load_e53fbeb7:
 
     # _ver [_version], conf.ver [config.version]"
-    new ""
+    new "_ver [_version], conf.ver [config.version]"
 
 translate french strings:
 

@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/kiratalk.po\n"
-# "X-Crowdin-File-ID: 1251\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/dialogues/kiratalk.po\n"
+# "X-french-File-ID: 3464\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -1728,7 +1728,7 @@ translate french kira_about_photo2_c99a9a7c:
 translate french kira_about_photo2_c99a9a7c_1:
 
     # Kira_07 "Ох, Макс... Должно быть тебе уже неймётся засадить мне! А уж как сильно я этого хочу..."
-    Kira_07 "Oh, Max... Tu dois mourir d'envie de me punir! Et à quel point je le veux..."
+    Kira_07 "Oh, Max... Tu devrais déjà me punir! Et à quel point je le veux..."
 
 # game/dialogues/kiratalk.rpy:935
 translate french kira_about_photo2_eb2363b9_1:
@@ -1896,6 +1896,7 @@ translate french kira_about_ann_secret_r_39f028b6:
 translate french story_from_childhood_ann_5afda0cd:
 
     # Kira_03 "[succes!t]Ты же не отстанешь, да? Только учти, если ты обмолвишься об этом кому-то или самой маме, то к обоим доверие пропадёт."
+    Kira_03 "[succes!t] Tu ne vas pas laisser tomber, n'est-ce pas? Si tu en parles à quelqu'un ou à ta mère elle-même, la confiance sera perdue pour les deux."
 
 # game/dialogues/kiratalk.rpy:1063
 translate french story_from_childhood_ann_9b09dcde:

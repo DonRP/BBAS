@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:17\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -36,13 +36,13 @@ translate italian typical_breakfast_4a7da202:
 translate italian typical_breakfast_19bf574f:
 
     # Ann_05 "Нет, просто ещё не проснулась, нужно собраться с мыслями..."
-    Ann_05 "No, non mi sono ancora svegliato, devi raccogliere i tuoi pensieri..."
+    Ann_05 "No, e solo che non mi sono ancora svegliata, ho bisogno di raccogliere i miei pensieri..."
 
 # game/dialogues/breakfast.rpy:20
 translate italian typical_breakfast_63f629c8:
 
     # Max_00 "Понятно. Приятного аппетита!"
-    Max_00 "comprensibile. Buon appetito!"
+    Max_00 "Ho capito. Buon appetito!"
 
 # game/dialogues/breakfast.rpy:26
 translate italian breakfast_first_4fdf0844:

@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:18\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -36,7 +36,7 @@ translate italian typical_dinner_6b0248d1:
 translate italian typical_dinner_ba465243:
 
     # Ann_00 "Всем приятного аппетита. Сегодня что-то устала. Так что, давайте поужинаем в тишине..." nointeract
-    Ann_00 "Buon appetito a tutti. Sono stanco di qualcosa oggi. Allora, ceniamo in silenzio..." nointeract
+    Ann_00 "Buon appetito a tutti. Oggi sono stanca. Quindi ceneremo in silenzio..." nointeract
 
 # game/dialogues/dinner.rpy:77
 translate italian typical_dinner_1211a2f4:
@@ -60,7 +60,7 @@ translate italian typical_dinner_e7b121b0:
 translate italian typical_dinner_63f629c8:
 
     # Max_00 "Понятно. Приятного аппетита!"
-    Max_00 "comprensibile. Buon appetito!"
+    Max_00 "Ho capito. Buon appetito!"
 
 # game/dialogues/dinner.rpy:87
 translate italian dinner_first_650c2c5d:
@@ -882,7 +882,7 @@ translate italian dinner_5_e38b8880:
 translate italian dinner_5_9563c56b:
 
     # Lisa_01 "Ну, ещё нужно сделать кое-что и да, буду готова. Не переживай, мам..."
-    Lisa_01 "Beh, ci sono ancora alcune cose da fare e sì, sarò pronto. Non preoccuparti, mamma..."
+    Lisa_01 "Beh, ci sono ancora alcune cose da fare e sì, sarò pronta. Non preoccuparti, mamma..."
 
 # game/dialogues/dinner.rpy:470
 translate italian dinner_5_2372da91:

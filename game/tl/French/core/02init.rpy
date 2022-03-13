@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/02init.po\n"
-# "X-Crowdin-File-ID: 787\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/core/02init.po\n"
+# "X-french-File-ID: 3426\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -181,7 +181,8 @@ translate french strings:
     new "Opportunités"
 
     # game/core/02init.rpy:131
-    old "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"\n   new "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'opportunités'. Leurs mécanismes sont un peu similaires aux 'quêtes' d’autres jeux, mais il y a quelques différences.\n\n\n'Les opportunités' peuvent ouvrir l’accès à des événements ou des achats cachés dans la boutique en ligne, à de nouvelles options dans l’ordinateur portable ou à des actions dans certaines pièces. Lisez attentivement la description de chaque 'opportunités' et vous ne manquerez de rien!"
+    old "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
+    new "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'possibilités'. Leurs mécanismes ressemblent un peu aux 'quêtes' ou aux 'quêtes' d'autres jeux, mais il y a quelques différences.\n\n\nles 'Opportunités' peuvent ouvrir l'accès à des événements cachés ou à des achats en ligne, à de nouvelles options dans un ordinateur portable ou à des activités dans certaines pièces. Lisez attentivement la Description de chaque 'opportunité' et vous ne manquerez rien!"
 
     # game/core/02init.rpy:131
     old "Настроение"
@@ -568,7 +569,8 @@ translate french strings:
     new "Heureux de te voir, Olivia!"
 
     # game/core/02init.rpy:139
-    old "Ну как, всё повторила? \n{i}(проводить Лизу в школу){/i}"\n   new "Eh bien, a-t-elle tout répété? \n{i}(escorter Lisa à l’école){/i}"
+    old "Ну как, всё повторила? \n{i}(проводить Лизу в школу){/i}"
+    new "Tu as tout répété? \n{i}(conduire Lisa à l'école){/i}"
 
     # game/core/02init.rpy:139
     old "Лиза, ты чего нос повесила?"
@@ -616,7 +618,7 @@ translate french strings:
 
     # game/core/02init.rpy:273
     old "Электроника"
-    new "Electronique"
+    new "Électronique"
 
     # game/core/02init.rpy:273
     old "Товары 18+"

@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:18\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -2256,7 +2256,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_470fd346:
 translate italian lisa_eric_sex_ed_practice_practice_2_af8f9b62:
 
     # Lisa_10 "Да. Но я всё равно немного волнуюсь..."
-    Lisa_10 "Sì, ma sono ancora un po' preoccupato..."
+    Lisa_10 "Sì, ma sono ancora un po' preoccupata..."
 
 # game/events/eric.rpy:1848
 translate italian lisa_eric_sex_ed_practice_practice_2_a2c1cbe0:
@@ -2268,7 +2268,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_a2c1cbe0:
 translate italian lisa_eric_sex_ed_practice_practice_2_37a7b75d:
 
     # Lisa_09 "Честно говоря, я ещё и немного стесняюсь это делать..."
-    Lisa_09 "Ad essere onesti, sono anche un po' imbarazzato a farlo..."
+    Lisa_09 "Ad essere onesta, sono anche un po' imbarazzata nel farlo..."
 
 # game/events/eric.rpy:1850
 translate italian lisa_eric_sex_ed_practice_practice_2_b3f3c39c:
@@ -2304,7 +2304,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_fe01d491:
 translate italian lisa_eric_sex_ed_practice_practice_2_eba35258:
 
     # Eric_03 "Нет предела совершенству, Лиза! Но, пора бы уже не просто обо всём этом говорить, но и делать..."
-    Eric_03 "Non c'è limite alla perfezione, Lisa! Ma, era ora che non ci limitassimo a parlare di tutto, che facessimo..."
+    Eric_03 "Non c'è limite alla perfezione, Lisa! Ma, è il momento non solo di parlare di tutto ciò, ma anche di farlo..."
 
 # game/events/eric.rpy:1859
 translate italian lisa_eric_sex_ed_practice_practice_2_73ce750d:
@@ -2316,7 +2316,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_73ce750d:
 translate italian lisa_eric_sex_ed_practice_practice_2_536d7df8:
 
     # Lisa_01 "Да, Эрик. Думаю, я готова продолжить... Так значит, я просто беру его и начинаю водить вверх-вниз?"
-    Lisa_01 "Sì, Eric. Credo di essere pronto a continuare... Quindi devo solo prenderlo e iniziare a guidarlo su e giù?"
+    Lisa_01 "Sì, Eric. Credo di essere pronta a continuare... Quindi devo solo prenderlo e iniziare a accarezzarlo su e giù?"
 
 # game/events/eric.rpy:1864
 translate italian lisa_eric_sex_ed_practice_practice_2_bb26a930:
@@ -2352,7 +2352,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_b050a65e:
 translate italian lisa_eric_sex_ed_practice_practice_2_5fe7735c:
 
     # Lisa_01 "Хорошо... Хоть я и до сих пор сильно смущаюсь этого, но во второй раз это уже совсем иначе! Не так страшно..."
-    Lisa_01 "Ok... Anche se sono ancora molto imbarazzato per questo, la seconda volta è diverso! Non è così spaventoso..."
+    Lisa_01 "Ok... Anche se sono ancora molto imbarazzata per questo, la seconda volta è diverso! Non è così spaventoso..."
 
 # game/events/eric.rpy:1883
 translate italian lisa_eric_sex_ed_practice_practice_2_2d2ca381:
@@ -2364,7 +2364,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_2d2ca381:
 translate italian lisa_eric_sex_ed_practice_practice_2_23f29fa5:
 
     # Lisa_02 "Ага, наверное... Не знаю, что вы мужчины в такие моменты испытываете, но я пока сгораю от стыда. Хотя, в то же время, мне очень интересно это делать!"
-    Lisa_02 "Sì, credo di sì... Non so come vi sentite voi uomini in momenti come questo, ma io per ora brucio di vergogna. Anche se, allo stesso tempo, sono molto interessato a farlo!"
+    Lisa_02 "Sì, credo di sì... Non so come vi sentite voi uomini in momenti come questo, ma io per ora brucio di vergogna. Anche se, allo stesso tempo, sono molto interessata a farlo!"
 
 # game/events/eric.rpy:1885
 translate italian lisa_eric_sex_ed_practice_practice_2_b015c998:
@@ -2418,7 +2418,7 @@ translate italian lisa_eric_sex_ed_practice_practice_2_27ce6092:
 translate italian lisa_eric_sex_ed_practice_practice_2_1b3a38e2:
 
     # Eric_04 "Конечно, Лиза! Я и не настаивал на продолжении... Ты и так сегодня сделала большой шаг! Так что занимайся своими делами, а в следующий понедельник мы продолжим. Да, моя дорогая?"
-    Eric_04 "Certo, Lisa! Non ho insistito per continuare... Oggi hai già fatto un grande passo! Quindi fatevi gli affari vostri e continuiamo lunedì prossimo. Sì, mia cara?"
+    Eric_04 "Certo, Lisa! Non insistito nel continuare... Oggi hai già fatto un grande passo! Quindi vai pure avanti con le tue cose e continuiamo lunedì prossimo. Sì, mia cara?"
 
 # game/events/eric.rpy:1903
 translate italian lisa_eric_sex_ed_practice_practice_2_8b5130df:
@@ -2646,7 +2646,7 @@ translate italian lisa_eric_zero_practice_war_6f687e90:
 translate italian lisa_eric_zero_practice_war_026ddd2f:
 
     # Max_07 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Надо обязательно подглядеть за этим, ведь это такое волнительное событие будет для моей сестрёнки! Правда, она попросила помыть за неё посуду...{/m}" nointeract
-    Max_07 "{m}Lisa sta per avere una lezione pratica di educazione sessuale. Devo guardarlo, perché sarà molto emozionante per mia sorella! Solo che mi ha chiesto di fare i piatti per lei...{/m}" nointeract
+    Max_07 "{m}Lisa sta per avere una lezione pratica di educazione sessuale. Devo guardarlo, perché sarà molto emozionante per mia sorella! Solo che mi ha chiesto di lavare i piatti per lei...{/m}" nointeract
 
 # game/events/eric.rpy:2020
 translate italian lisa_eric_zero_practice_war_2dcab8b5:
@@ -3172,11 +3172,11 @@ translate italian strings:
 
     # game/events/eric.rpy:2021
     old "{i}сперва помыть посуду, а затем проследить{/i}"
-    new "{i}lavare prima i piatti e poi tracciare{/i}"
+    new "{i}lavare prima i piatti e poi seguire{/i}"
 
     # game/events/eric.rpy:2021
     old "{i}проследить сразу{/i}"
-    new "{i}rintracciato immediatamente{/i}"
+    new "{i}seguire immediatamente{/i}"
 
     # game/events/eric.rpy:2037
     old "{i}быстрее смотреть, что делают Лиза и Эрик{/i}"

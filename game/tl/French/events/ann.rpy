@@ -1,23 +1,24 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/events/ann.po\n"
-# "X-Crowdin-File-ID: 949\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/events/ann.po\n"
+# "X-french-File-ID: 3476\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:40\n"
+# "PO-Revision-Date: 2022-03-09 15:23\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
 # game/events/ann.rpy:11
 translate french ann_sleep_6173ff68:
 
-    # Max_00 "{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}" nointeract\n   Max_00 "{m}à ce moment-là, maman dort habituellement.\nje pense que je ne devrais pas la réveiller...{/m}" nointeract
+    # Max_00 "{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}" nointeract
+    Max_00 "{m}à ce moment-là, maman dort habituellement.\nje pense que je ne devrais pas la réveiller...{/m}" nointeract
 
 # game/events/ann.rpy:19
 translate french ann_sleep_2e3b88bc:
@@ -208,7 +209,8 @@ translate french ann_shower_closer_peepeng_bb7b0422:
 # game/events/ann.rpy:187
 translate french ann_shower_not_luck_6222d56c:
 
-    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"\n   Max_12 "{color=[orange]}{i}je Pense que maman a suspecté quelque chose!{/i} {/color}\n{m}.. je dois partir avant qu'elle ne me voie!{/m}"
+    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"
+    Max_12 "{color=[orange]}{i}je Pense que maman a suspecté quelque chose!{/i} {/color}\n{m}.. je dois partir avant qu'elle ne me voie!{/m}"
 
 # game/events/ann.rpy:196
 translate french ann_shower_not_luck_9b36810d:
@@ -658,26 +660,31 @@ translate french ann_dressed_goodday_1a01074c:
 translate french ann_dressed_balcony_919b6a05:
 
     # Max_07 "{m}Хм... Должно быть мама на балконе...{/m}"
+    Max_07 "{m}Hmm... Maman doit être sur le balcon...{/m}"
 
 # game/events/ann.rpy:603
 translate french ann_dressed_balcony_34f4b4a9:
 
     # Max_09 "{m}То ли мама просто задумалась, то ли грустит...{/m}" nointeract
+    Max_09 "{m}si ma mère a juste réfléchi, si elle est triste...{/m}" nointeract
 
 # game/events/ann.rpy:608
 translate french ann_dressed_balcony_2fd8332a:
 
     # Ann_12 "Ой, Макс! Ты слишком тихо ходишь. А я так, ничего, просто задумалась немного..."
+    Ann_12 "Oh, Max! Tu es trop tranquille. Et moi, c'est bon, j'ai juste réfléchi un peu..."
 
 # game/events/ann.rpy:609
 translate french ann_dressed_balcony_d6e397b3:
 
     # Max_07 "Расскажешь, о чём?"
+    Max_07 "veux-tu me Dire de quoi?"
 
 # game/events/ann.rpy:623
 translate french ann_dressed_balcony_2e72dc0c:
 
     # Max_05 "{m}Оу! Мама ещё не оделась... Это я вовремя зашёл. Она шикарно смотрится...{/m}" nointeract
+    Max_05 "{m}l'uranium appauvri! Maman n'est pas encore habillée... C'est moi qui suis arrivé à l'heure. Elle l'élégant semble...{/m}" nointeract
 
 # game/events/ann.rpy:631
 translate french ann_dressed_balcony_1f19d7dd:
@@ -719,306 +726,367 @@ translate french ann_dressed_balcony_c391d1e4:
 translate french ann_dressed_balkon_talk1_b906cb2e:
 
     # Ann_14 "У меня сейчас такое состояние, что я не знаю, как мне жить дальше... Я... Я ужасная мать..."
+    Ann_14 "j'ai un tel état que je ne sais pas comment vivre... Moi... Je suis une mère horrible..."
 
 # game/events/ann.rpy:662
 translate french ann_dressed_balkon_talk1_b034aec8:
 
     # Max_08 "Что?! Как ты можешь такое говорить?"
+    Max_08 "Quoi?! Comment peux-tu est-ce à dire?"
 
 # game/events/ann.rpy:663
 translate french ann_dressed_balkon_talk1_79bc09d7:
 
     # Ann_13 "А разве нет? Я... Я была так глупа, что привела в дом проходимца, который не только воспользовался мной, но и чуть не совратил моих девочек!"
+    Ann_13 "n'Est-ce pas? Moi... J'étais tellement stupide que j'ai amené un voyou dans la maison qui a non seulement profité de moi, mais a failli séduire mes filles!"
 
 # game/events/ann.rpy:664
 translate french ann_dressed_balkon_talk1_de50c165:
 
     # Max_09 "Мам, прекрати, это уже всё в прошлом... Забудь..."
+    Max_09 "maman, arrête, c'est du passé... Oublie..."
 
 # game/events/ann.rpy:665
 translate french ann_dressed_balkon_talk1_37635b4b:
 
     # Ann_14 "Забыть? Забыть, как я чуть не отправила единственного сына в военный лагерь и... который один оказался настолько умным и благородным, что не только не разозлился на меня, а наоборот, спас всю семью от этого ублюдка - Эрика."
+    Ann_14 "Oublier? J'ai failli envoyer mon fils unique dans un camp militaire... celui qui était si intelligent et noble que non seulement il ne s'est pas fâché contre moi, mais au contraire, il a sauvé toute la famille de ce bâtard - Eric."
 
 # game/events/ann.rpy:666
 translate french ann_dressed_balkon_talk1_ac19285d:
 
     # Max_07 "Ну хватит... Было и было. Прими это и сделай выводы. Нельзя же всё время теперь ходить такой печальной и заниматься самобичеванием. Ты ни в чём не виновата!"
+    Max_07 "ça suffit... C'était et c'était. Prends ça et tire des conclusions. Vous ne pouvez pas tout le temps maintenant aller si triste et faire de l'auto-flagellation. Tu n'es pas coupable de rien!"
 
 # game/events/ann.rpy:667
 translate french ann_dressed_balkon_talk1_e8140f63:
 
     # Ann_17 "Возможно ты прав, но... присутствие Эрика на работе постоянно мне напоминает о тех событиях и мне это ужасно неприятно."
+    Ann_17 "Peut-être que tu as raison, mais... la présence d'Eric au travail me rappelle constamment ces événements et c'est terriblement désagréable pour moi."
 
 # game/events/ann.rpy:668
 translate french ann_dressed_balkon_talk1_63d3ad78:
 
     # Max_15 "Да и чёрт с ним! Просто игнорируй его. К тому же, у тебя есть мы, и мы все тебя очень любим!"
+    Max_15 "et merde! Ignore-le. En plus, tu nous as, et nous t'aimons tous beaucoup!"
 
 # game/events/ann.rpy:669
 translate french ann_dressed_balkon_talk1_6335970c:
 
     # Ann_02 "Спасибо, мой хороший, за твои тёплые слова и поддержку, мне очень приятно это слышать."
+    Ann_02 "Merci, mon bon, pour vos paroles aimables et votre soutien, je suis très heureux de l'entendre."
 
 # game/events/ann.rpy:670
 translate french ann_dressed_balkon_talk1_59e5166a:
 
     # Max_04 "Не стоит благодарить, мам. Я очень тебя люблю! Ты самая замечательная мама на свете! Самая добрая и самая красивая!"
+    Max_04 "ne remerciez pas, maman. Je t'aime beaucoup! Tu es la plus belle maman du monde! Le plus gentil et le plus beau!"
 
 # game/events/ann.rpy:673
 translate french ann_dressed_balkon_talk1_d77c6ad5:
 
     # Ann_04 "Ой! Вот же ты маленький льстец, Макс!"
+    Ann_04 "Oh! Tu es un peu flatteur, Max!"
 
 # game/events/ann.rpy:674
 translate french ann_dressed_balkon_talk1_5e9b1161:
 
     # Max_07 "Это я-то маленький?"
+    Max_07 "c'est moi le petit?"
 
 # game/events/ann.rpy:675
 translate french ann_dressed_balkon_talk1_5eb0124c:
 
     # Ann_05 "Ну, конечно, ты большой, Макс! Совсем взрослый, почти мужчина."
+    Ann_05 "bien sûr que tu es grand, Max! Un adulte, presque un homme."
 
 # game/events/ann.rpy:676
 translate french ann_dressed_balkon_talk1_f86a1ee3:
 
     # Max_09 "Что значит почти?"
+    Max_09 "Que signifie presque?"
 
 # game/events/ann.rpy:677
 translate french ann_dressed_balkon_talk1_2e6b2825:
 
     # Ann_07 "Ну... То и значит, что полноценным мужчиной ты станешь только после того, как у тебя появится девушка."
+    Ann_07 "Eh bien... Cela signifie que vous deviendrez un homme à part entière seulement après que vous ayez une fille."
 
 # game/events/ann.rpy:678
 translate french ann_dressed_balkon_talk1_a8851b6c:
 
     # Max_08 "Серьёзно? А поподробнее можно узнать, как и что делать с ней, чтобы стать мужчиной?"
+    Max_08 "Sérieusement? Et plus en détail, vous pouvez apprendre comment et quoi faire avec elle pour devenir un homme?"
 
 # game/events/ann.rpy:679
 translate french ann_dressed_balkon_talk1_f041c776:
 
     # Ann_02 "Макс, что за вопросы? Как будто ты до сих пор не знаешь."
+    Ann_02 "Max, quelles sont les questions? Comme si tu ne savais toujours pas."
 
 # game/events/ann.rpy:680
 translate french ann_dressed_balkon_talk1_d7d0349c:
 
     # Max_02 "Да это я просто так спросил... Теперь ты уже не такая печальная и задумчивая, как до моего прихода."
+    Max_02 "C'est moi qui ai demandé ça... Maintenant, tu n'es plus aussi triste et réfléchie qu'avant mon arrivée."
 
 # game/events/ann.rpy:681
 translate french ann_dressed_balkon_talk1_1c8db60a:
 
     # Ann_05 "Вот же ты хитрец! Нашёл чем меня отвлечь..."
+    Ann_05 "Tu es un malin! J'ai trouvé quelque chose pour me distraire..."
 
 # game/events/ann.rpy:682
 translate french ann_dressed_balkon_talk1_3696543d:
 
     # Max_03 "Могу отвлечь чем-нибудь приятным. Например, массажем спины. Думаю, это тебе бы сейчас помогло. Хочешь?"
+    Max_03 "Je peux distraire quelque chose d'agréable. Par exemple, massage du dos. Je pense que ça t'aiderait maintenant. Tu veux?"
 
 # game/events/ann.rpy:683
 translate french ann_dressed_balkon_talk1_eb82677e:
 
     # Ann_04 "Нет, Макс, сейчас мне некогда. Давай вечерком, сынок, у ТВ."
+    Ann_04 "non, Max, Je n'ai pas le temps. Allez, fiston, à la télé."
 
 # game/events/ann.rpy:684
 translate french ann_dressed_balkon_talk1_a3767c9d:
 
     # Max_01 "Договорились, мам. И не забывай, если что, я всегда рядом. Обращайся!"
+    Max_01 "d'Accord, maman. Et n'oublie pas que je suis toujours là. Tournez-vous!"
 
 # game/events/ann.rpy:685
 translate french ann_dressed_balkon_talk1_59d69cc0:
 
     # Ann_01 "Обязательно!" nointeract
+    Ann_01 "Obligatoire!" nointeract
 
 # game/events/ann.rpy:704
 translate french ann_dressed_balkon_talk2_640d08ea:
 
     # Ann_14 "Это всё моя работа... Присутствие Эрика делает её просто невыносимой."
+    Ann_14 "C'est mon travail... La présence d'Eric la rend insupportable."
 
 # game/events/ann.rpy:705
 translate french ann_dressed_balkon_talk2_799ed018:
 
     # Max_15 "Он пристаёт к тебе?"
+    Max_15 "est-ce qu'il te colle?"
 
 # game/events/ann.rpy:706
 translate french ann_dressed_balkon_talk2_624bc582:
 
     # Ann_18 "Нет, но его ехидная ухмылочка и постоянные намёки о возможных неприятностях, если я вдруг попытаюсь уволиться, сводят меня с ума."
+    Ann_18 "Non, mais son sourire malicieux et ses insinuations constantes sur les problèmes possibles, si j'essaie soudainement de démissionner, me rendent fou."
 
 # game/events/ann.rpy:707
 translate french ann_dressed_balkon_talk2_0ce3e59e:
 
     # Max_09 "Просто постарайся не обращать на него внимание."
+    Max_09 "essaie juste de ne pas faire attention à lui."
 
 # game/events/ann.rpy:708
 translate french ann_dressed_balkon_talk2_a8ecc8ef:
 
     # Ann_12 "Вряд ли это возможно, сынок, он же мой начальник." nointeract
+    Ann_12 "ce n'est Pas possible, fils, c'est mon patron." nointeract
 
 # game/events/ann.rpy:715
 translate french ann_dressed_balkon_talk2_9803998b:
 
     # Ann_13 "Макс, ты что это делаешь? За зад меня обнимаешь?!"
+    Ann_13 "Max, qu'est-ce que tu fais? Tu me sers le cul?!"
 
 # game/events/ann.rpy:716
 translate french ann_dressed_balkon_talk2_f912aa8d:
 
     # Max_07 "Ну да. Это я так приободрить тебя решил. Если бы он действительно хотел тебе что-то сделать, то он бы уже давно это сделал."
+    Max_07 "Oui. C'est moi qui ai décidé de t'encourager. S'il voulait vraiment te faire quelque chose, il l'aurait fait depuis longtemps."
 
 # game/events/ann.rpy:717
 translate french ann_dressed_balkon_talk2_769cdc0b:
 
     # Ann_17 "Сынок, такое вот твое приободрение не работает. Оно меня скорее смущает..."
+    Ann_17 "Fiston, ça ne marche pas comme ça. Ça me gêne plutôt..."
 
 # game/events/ann.rpy:721
 translate french ann_dressed_balkon_talk2_0167e576:
 
     # Max_09 "Ладно, уберу... Просто Эрику нравится играть на нервах, вот и всё, что он может сделать."
+    Max_09 "Ok, je vais nettoyer... C'est juste qu'Eric aime jouer sur ses nerfs, c'est tout ce qu'il peut faire."
 
 # game/events/ann.rpy:722
 translate french ann_dressed_balkon_talk2_273fc7d0:
 
     # Ann_12 "Возможно так и есть, но... мне бы очень не хотелось искушать судьбу... это ведь может отразиться и на вас, моих детях, а вы для меня самое дорогое."
+    Ann_12 "c'est Peut-être le cas, mais... je ne voudrais pas tenter le destin... cela peut aussi affecter vous, mes enfants, et vous êtes le plus cher pour moi."
 
 # game/events/ann.rpy:723
 translate french ann_dressed_balkon_talk2_682e32bc:
 
     # Max_10 "Ты тоже самое дорогое для меня... для нас... И нам бы не хотелось видеть тебя такой печальной, мам."
+    Max_10 "Tu es le plus cher pour moi... pour nous... Et on ne voudrait pas te voir aussi triste, maman."
 
 # game/events/ann.rpy:724
 translate french ann_dressed_balkon_talk2_261a6f2e:
 
     # Ann_02 "Спасибо, Макс. Мне очень приятно это слышать. Как хорошо, что у меня есть такой внимательный и заботливый сын."
+    Ann_02 "Merci, Max. C'est bien d'avoir un fils aussi attentionné et attentionné."
 
 # game/events/ann.rpy:725
 translate french ann_dressed_balkon_talk2_23203ebd:
 
     # Max_07 "В любом случае, если ты захочешь сменить место работы и у нас, вдруг, появятся сложности с деньгами, мы все тебя поймём и поддержим."
+    Max_07 "Quoi qu'il en soit, si tu veux changer de lieu de travail et que nous avons soudainement des difficultés avec l'argent, nous te comprendrons et te soutiendrons."
 
 # game/events/ann.rpy:726
 translate french ann_dressed_balkon_talk2_bed6c909:
 
     # Ann_04 "Спасибо, мой хороший, я подумаю об этом..."
+    Ann_04 "Merci, mon bon, je vais y réfléchir..."
 
 # game/events/ann.rpy:727
 translate french ann_dressed_balkon_talk2_d9948e58:
 
     # Max_09 "Обязательно подумай. Нужно покончить с этим прошлым раз и навсегда!"
+    Max_09 "réfléchis. Nous devons mettre fin à ce passé une fois pour toutes!"
 
 # game/events/ann.rpy:728
 translate french ann_dressed_balkon_talk2_09e80fa0:
 
     # Ann_05 "Хм... Глядя на тебя в последнее время, я вижу, что ты очень повзрослел."
+    Ann_05 "Hmm... En te regardant ces derniers temps, je vois que tu es très mature."
 
 # game/events/ann.rpy:729
 translate french ann_dressed_balkon_talk2_cdbf49b6:
 
     # Max_04 "Ну, тебе виднее."
+    Max_04 "Eh bien, vous savez mieux."
 
 # game/events/ann.rpy:730
 translate french ann_dressed_balkon_talk2_650e344f:
 
     # Ann_08 "Так и есть. И мне нравится то, что я вижу..."
+    Ann_08 "C'est vrai. Et j'aime ce que je vois..."
 
 # game/events/ann.rpy:731
 translate french ann_dressed_balkon_talk2_40bdc5b1:
 
     # Max_03 "Главное не унывай, мам. Всё образуется."
+    Max_03 "Ne vous découragez pas, maman. Tout se forme."
 
 # game/events/ann.rpy:732
 translate french ann_dressed_balkon_talk2_ed9bd79e:
 
     # Ann_07 "Хорошо! Спасибо, что поддержал меня и развеял тоску."
+    Ann_07 "D'accord! Merci de m'avoir soutenu et d'avoir dissipé l'angoisse."
 
 # game/events/ann.rpy:733
 translate french ann_dressed_balkon_talk2_1c195d26:
 
     # Max_01 "Пожалуйста! Если что, я всегда рядом. Обращайся!"
+    Max_01 "S’il te plaît! Au contraire, je suis toujours là. Parle!"
 
 # game/events/ann.rpy:734
 translate french ann_dressed_balkon_talk2_59d69cc0:
 
     # Ann_01 "Обязательно!" nointeract
+    Ann_01 "Obligatoire!" nointeract
 
 # game/events/ann.rpy:748
 translate french ann_dressed_balkon_talk2_1f418bf5:
 
     # Max_09 "{m}Смущают её мои прикосновения... Ясно. Значит, нужно больше прикасаться тогда, когда это максимально естественно, чтобы она привыкла. Пожалуй, йога - то, что нужно! Стоит попробовать...{/m}"
+    Max_09 "{m}elle est Embarrassée par mes touches... Clairement. Donc, vous devez toucher plus quand c'est aussi naturel que possible pour qu'elle s'habitue. Peut-être que le yoga est ce dont vous avez besoin! La peine d'essayer...{/m}"
 
 # game/events/ann.rpy:757
 translate french ann_dressed_balkon_r_4897a021:
 
     # Ann_02 "Ой, Макс! Как ты так тихо подкрадываешься? Да, любуюсь... А ты почему без дела слоняешься?" nointeract
+    Ann_02 "Oh, Max! Comment tu te faufiles si doucement? Oui, j'admire... Pourquoi es-tu en train de traîner?" nointeract
 
 # game/events/ann.rpy:760
 translate french ann_dressed_balkon_r_0a883de4:
 
     # Ann_01 "Не то, чтобы мешаешь... Иди лучше чем-нибудь продуктивным займись. Маме пока некогда."
+    Ann_01 "Pas que tu interfères... Tu ferais mieux de faire quelque chose de productif. Maman n'a pas encore le temps."
 
 # game/events/ann.rpy:761
 translate french ann_dressed_balkon_r_58738e49:
 
     # Max_00 "Ладно, не буду мешать." nointeract
+    Max_00 "d'accord, je ne vais pas vous déranger." nointeract
 
 # game/events/ann.rpy:767
 translate french ann_dressed_balkon_r_2280510e:
 
     # Ann_04 "Нет. Побудь, если хочется. Я не против." nointeract
+    Ann_04 "Non. Restez, si vous voulez. Je ne suis pas contre." nointeract
 
 # game/events/ann.rpy:774
 translate french ann_dressed_balkon_r_119f09c9:
 
     # Ann_02 "Как у тебя дела, Макс? Всё хорошо?"
+    Ann_02 "comment ça va, Max? Est-ce que tout est bien?"
 
 # game/events/ann.rpy:775
 translate french ann_dressed_balkon_r_ca3ee871:
 
     # Max_04 "Да, порядок. А ты как? Не скучаешь?"
+    Max_04 "Oui, Ok. Et toi? Tu ne te manques pas?"
 
 # game/events/ann.rpy:776
 translate french ann_dressed_balkon_r_7fdac7ed:
 
     # Ann_05 "Ох, сынок, с вами разве заскучаешь. Да и на работе дел хватает." nointeract
+    Ann_05 "Oh, fiston, tu t'ennuies avec toi. Oui, et au travail, il y a assez de choses à faire." nointeract
 
 # game/events/ann.rpy:781
 translate french ann_dressed_balkon_r_55550510:
 
     # Max_07 "Ты, мам, побольше отдыхать не забывай."
+    Max_07 "maman, n'oublie pas de te reposer."
 
 # game/events/ann.rpy:782
 translate french ann_dressed_balkon_r_081cb55f:
 
     # Ann_07 "Это я и делаю сейчас. А ты давай беги, займись чем-нибудь полезным."
+    Ann_07 "c'est ce que je fais maintenant. Va faire quelque chose d'utile."
 
 # game/events/ann.rpy:793
 translate french ann_dressed_balkon_r_a9420db7:
 
     # Max_07 "Ты, мам, побольше отдыхать не забывай. У нас слишком прекрасный дом, чтобы грустить."
+    Max_07 "maman, n'oublie pas de te reposer. Nous avons une maison trop belle pour être triste."
 
 # game/events/ann.rpy:794
 translate french ann_dressed_balkon_r_874166e7:
 
     # Ann_08 "Да, здесь здорово! Маленький рай. Ты зашёл меня просто вот так подбодрить?"
+    Ann_08 "Oui, c'est génial! Petit paradis. Tu es venu me remonter le moral comme ça?"
 
 # game/events/ann.rpy:798
 translate french ann_dressed_balkon_r_6b6b7f92:
 
     # Max_02 "Ну, да. Хотел напомнить, что я всегда рядом."
+    Max_02 "Eh bien, oui. Je voulais te rappeler que je suis toujours là."
 
 # game/events/ann.rpy:799
 translate french ann_dressed_balkon_r_680063a0:
 
     # Ann_07 "Спасибо, но лучше беги, займись чем-нибудь полезным. У меня всё в порядке."
+    Ann_07 "Merci, mais tu ferais mieux de courir, de faire quelque chose d'utile. Chez moi tout est en ordre."
 
 # game/events/ann.rpy:807
 translate french ann_dressed_balkon_r_0cc8bfb1:
 
     # Max_03 "Ладно, не буду отвлекать. Я тебя люблю, мам!"
+    Max_03 "d'accord, je ne vais pas vous distraire. Je t'aime, maman!"
 
 # game/events/ann.rpy:808
 translate french ann_dressed_balkon_r_dfe00014:
 
     # Ann_06 "Я тебя тоже, сынок." nointeract
+    Ann_06 "moi aussi, fiston." nointeract
 
 # game/events/ann.rpy:893
 translate french ann_bath_fc2b25dc:
@@ -1084,122 +1152,145 @@ translate french ann_bath_about_intime_0_cddc6bee:
 translate french ann_bath_about_intime_0_006aa2f9:
 
     # Max_07 "Это я, Макс. Можно войти?"
+    Max_07 "c'est moi, Max?"
 
 # game/events/ann.rpy:964
 translate french ann_bath_about_intime_0_765e20f4:
 
     # Ann "{b}Анна:{/b} Зачем, дорогой? Тебе что-то нужно?"
+    Ann "{b}Anna: {/b} Pourquoi, chéri? T'a besoin de quelque chose?"
 
 # game/events/ann.rpy:965
 translate french ann_bath_about_intime_0_cc4bed10:
 
     # Max_09 "Да, мам. Хотел поговорить."
+    Max_09 "oui, maman. Voulait parler."
 
 # game/events/ann.rpy:966
 translate french ann_bath_about_intime_0_62195f79:
 
     # Ann "{b}Анна{/b}: Если это может подождать, то я через полчасика освобожусь..." nointeract
+    Ann "{b}Anna {/b}: Si cela peut attendre, je serai libéré dans une demi-heure..." nointeract
 
 # game/events/ann.rpy:977
 translate french ann_bath_about_intime_0_53cc7aca:
 
     # Ann_15 "Макс! Ты почему так нагло врываешься! Я же сказала, что скоро освобожусь! Не мог подождать?"
+    Ann_15 "Max! Pourquoi tu t'insinues si effrontément? Je t'ai dit que je serais bientôt libre! Tu ne pouvais pas attendre?"
 
 # game/events/ann.rpy:978
 translate french ann_bath_about_intime_0_1af3858f:
 
     # Max_08 "Нет, нужно кое-что обсудить, пока ты здесь."
+    Max_08 "non, il y a quelque chose à discuter pendant que tu es là."
 
 # game/events/ann.rpy:982
 translate french ann_bath_about_intime_0_01bf0619:
 
     # Ann_14 "И что там у тебя такого срочного?!"
+    Ann_14 "qu'y a-t-il de si urgent?!"
 
 # game/events/ann.rpy:983
 translate french ann_bath_about_intime_0_a34fa2a4:
 
     # Max_07 "Хотел поговорить о девочках!"
+    Max_07 "Voulait parler des filles!"
 
 # game/events/ann.rpy:984
 translate french ann_bath_about_intime_0_197357cf:
 
     # Ann_17 "И ты считаешь, что это настолько важно, что кроме как здесь об этом говорить нельзя, да?"
+    Ann_17 "Et vous pensez que c'est si important que vous ne pouvez pas en parler ici, n'est-ce pas?"
 
 # game/events/ann.rpy:985
 translate french ann_bath_about_intime_0_7db297d2:
 
     # Max_01 "Ну... Не просто о девочках, а том, как им... делать приятно... там, внизу..."
+    Max_01 "Eh bien... Pas seulement sur les filles, mais sur leur façon... faire agréable... là-bas..."
 
 # game/events/ann.rpy:986
 translate french ann_bath_about_intime_0_28faf8d1:
 
     # Ann_02 "Вот это вопросы у тебя, Макс! А что, у тебя девочка появилась?"
+    Ann_02 "Ce sont les questions que vous avez, Max! C'est quoi votre fille est apparue?"
 
 # game/events/ann.rpy:987
 translate french ann_bath_about_intime_0_4dd2948d:
 
     # Max_07 "Ещё нет, но появится же. А я хочу быть готовым! Вы мне с Эриком показали на тех уроках, как себя вести, если женщина... так сказать, ласкает мужчину, а вот как ласкать женщин - нет."
+    Max_07 "pas Encore, mais le même apparaîtra. Je veux être prêt! Toi et Eric m'avez montré comment se comporter en femme... pour ainsi dire, caresse un homme, mais comment caresser les femmes - non."
 
 # game/events/ann.rpy:988
 translate french ann_bath_about_intime_0_435b556c:
 
     # Ann_14 "Ой, сынок, какие же это неудобные вопросы! Я всё ещё до конца не могу осознать, что ты уже почти взрослый."
+    Ann_14 "Oh, mon fils, quelles sont ces questions inconfortables! Je n'arrive toujours pas à réaliser que tu es presque adulte."
 
 # game/events/ann.rpy:989
 translate french ann_bath_about_intime_0_b912cfb2:
 
     # Max_09 "Пора бы уже осознать, мам! И уроки ваши, какие-то односторонние. Как-то неправильно."
+    Max_09 "il est temps de réaliser, maman! Et vos leçons, certaines unilatérales. Comme quelque chose de mal."
 
 # game/events/ann.rpy:990
 translate french ann_bath_about_intime_0_24e945aa:
 
     # Ann_13 "Ну... Что-то я даже не знаю..."
+    Ann_13 "Eh bien... Quelque chose que je ne sais même pas..."
 
 # game/events/ann.rpy:994
 translate french ann_bath_about_intime_0_acd6b1b2:
 
     # Max_07 "Да ладно, я же уже такое видел с вами на тех уроках..."
+    Max_07 "Allez, j'ai déjà vu ça avec vous dans ces cours..."
 
 # game/events/ann.rpy:995
 translate french ann_bath_about_intime_0_fdfa6acb:
 
     # Ann_12 "Ой, Макс, не напоминай. Это всё было исключительно для твоего... сексуального образования..."
+    Ann_12 "Oh, Max, ne me le rappelle pas. C'était pour le tien... l'éducation sexuelle..."
 
 # game/events/ann.rpy:996
 translate french ann_bath_about_intime_0_e2b46bea:
 
     # Max_08 "Так и это тоже для образования! Потому что я хочу не только получать ласку от девочек, но и давать её им. А это, как я понимаю, куда сложнее."
+    Max_08 "C'est aussi pour l'éducation! Parce que je veux non seulement recevoir l'affection des filles, mais aussi leur donner. Et cela, si je comprends bien, est beaucoup plus difficile."
 
 # game/events/ann.rpy:997
 translate french ann_bath_about_intime_0_1f40fc0d:
 
     # Ann_13 "Ох, с учётом того, чему мы с Эриком уже тебя тогда научили, твоя просьба очень логична, сынок. Так что я поговорю об этом с Эриком..."
+    Ann_13 "Oh, compte tenu de ce qu'Eric et moi t'avons appris à l'époque, ta demande est très logique, fiston. Donc je vais en parler à Eric..."
 
 # game/events/ann.rpy:998
 translate french ann_bath_about_intime_0_ee64e187:
 
     # Max_10 "Нет, мам, я хочу только с тобой этому учиться!"
+    Max_10 "non, maman, je veux juste apprendre ça avec toi!"
 
 # game/events/ann.rpy:999
 translate french ann_bath_about_intime_0_bd74b95d:
 
     # Ann_17 "То есть, только со мной?! А Эрик тебе чем не угодил?"
+    Ann_17 "Donc, juste avec moi?! Qu'est-ce qui ne te plaît pas, Eric?"
 
 # game/events/ann.rpy:1000
 translate french ann_bath_about_intime_0_0314b6cd:
 
     # Max_09 "Мне кажется, он это... направление не особо любит. Мне же лучше, чтобы такому учила именно женщина, ведь вам виднее."
+    Max_09 "je crois que c'est lui... la direction n'aime pas particulièrement. Je préfère que cette femme enseigne, parce que vous êtes plus visible."
 
 # game/events/ann.rpy:1001
 translate french ann_bath_about_intime_0_ba4d6bb6:
 
     # Ann_12 "Виднее, конечно. Но без Эрика я даже не знаю... Не уверена... Ничего, если я подумаю об этом в более... комфортной обстановке?"
+    Ann_12 "plus Visible, bien sûr. Mais sans Eric, je ne sais même pas... Je ne suis pas sûre... Rien si j'y pense en plus... un environnement confortable?"
 
 # game/events/ann.rpy:1002
 translate french ann_bath_about_intime_0_3a30664f:
 
     # Max_01 "Да, мам! Я не буду мешать, расслабляйся." nointeract
-    new ""
+    Max_01 "oui, maman! Je ne vais pas vous déranger, détendez-vous." nointeract
 
 translate french strings:
 
@@ -1225,7 +1316,7 @@ translate french strings:
 
     # game/events/ann.rpy:372
     old "А я разве чем-то помешаю?"
-    new ""
+    new "Est-ce que je peux faire quelque chose?"
 
     # game/events/ann.rpy:372
     old "А я не помешаю. Начинай..."
@@ -1233,7 +1324,7 @@ translate french strings:
 
     # game/events/ann.rpy:372
     old "Да легко! Не буду мешать..."
-    new ""
+    new "Oui facile! Je ne vous dérangerai pas..."
 
     # game/events/ann.rpy:427
     old "У меня для тебя кое-что есть."
@@ -1281,35 +1372,35 @@ translate french strings:
 
     # game/events/ann.rpy:604
     old "Мам, всё нормально?"
-    new ""
+    new "Maman, ça va?"
 
     # game/events/ann.rpy:604
     old "Видами любуешься, мам?"
-    new ""
+    new "Admires-tu la vue, maman?"
 
     # game/events/ann.rpy:624
     old "Мам?"
-    new ""
+    new "Maman?"
 
     # game/events/ann.rpy:709
     old "{i}приобнять маму за попку{/i}"
-    new ""
+    new "{i}embrasser maman sur le cul{/i}"
 
     # game/events/ann.rpy:758
     old "А что, я мешаю?"
-    new ""
+    new "Est-ce que je me mets en travers du chemin?"
 
     # game/events/ann.rpy:758
     old "С тобой хотел побыть. Или я мешаю?"
-    new ""
+    new "Je voulais être avec toi. Ou est-ce que je dérange?"
 
     # game/events/ann.rpy:768
     old "{i}приобнять маму{/i}"
-    new ""
+    new "{i}embrasser maman{/i}"
 
     # game/events/ann.rpy:777
     old "{i}продолжить обнимать{/i}"
-    new ""
+    new "{i}continuer à étreindre{/i}"
 
     # game/events/ann.rpy:967
     old "{i}войти{/i}"

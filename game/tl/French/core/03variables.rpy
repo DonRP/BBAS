@@ -1,37 +1,40 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/03variables.po\n"
-# "X-Crowdin-File-ID: 789\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/core/03variables.po\n"
+# "X-french-File-ID: 3428\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
 translate french strings:
 
     # game/core/03variables.rpy:39
-    old "МОЯ\nКОМНАТА"\n   new "MA\nCHAMBRE"
+    old "МОЯ\nКОМНАТА"
+    new "MA CHAMBRE"
 
     # game/core/03variables.rpy:39
     old "МОЯ КОМНАТА"
     new "MA CHAMBRE"
 
     # game/core/03variables.rpy:39
-    old "КОМНАТА\nАЛИСЫ"\n   new "LA CHAMBRE\nD’ALICE"
+    old "КОМНАТА\nАЛИСЫ"
+    new "CHAMBRE D’ALICE"
 
     # game/core/03variables.rpy:39
     old "КОМНАТА АЛИСЫ"
     new "CHAMBRE D’ALICE"
 
     # game/core/03variables.rpy:39
-    old "КОМНАТА\nАННЫ"\n   new "LA CHAMBRE\nD'ANNA"
+    old "КОМНАТА\nАННЫ"
+    new "CHAMBRE D’ANNA"
 
     # game/core/03variables.rpy:39
     old "КОМНАТА АННЫ"
@@ -154,77 +157,96 @@ translate french strings:
     new "Toujours à la recherche d'aventure."
 
     # game/core/03variables.rpy:149
-    old "ПОСМОТРЕТЬ\nФИЛЬМ"\n   new "REGARDER\nUN FILM"
+    old "ПОСМОТРЕТЬ\nФИЛЬМ"
+    new "REGARDEZ UN FILM"
 
     # game/core/03variables.rpy:149
-    old "ВЫЙТИ\nИЗ ДОМА"\n   new "SORTIR\nDE LA MAISON"
+    old "ВЫЙТИ\nИЗ ДОМА"
+    new "SORTIR\nDE LA MAISON"
 
     # game/core/03variables.rpy:149
-    old "ПОИГРАТЬ\nС ЛИЗОЙ"\n   new "JOUER\nAVEC LISA"
+    old "ПОИГРАТЬ\nС ЛИЗОЙ"
+    new "JOUER\nAVEC LISA"
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"\n   new "INSTALLER\nUN KEYLOGGER"
+    old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
+    new "INSTALLER\nKEYLOGGER"
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\nКАМЕРУ"\n   new "INSTALLER\nLA CAMÉRA"
+    old "УСТАНОВИТЬ\nКАМЕРУ"
+    new "INSTALLER\nCAMÉRA"
 
     # game/core/03variables.rpy:149
-    old "СПРЯТАТЬ\nПАУКА"\n   new "CACHER\nL'ARAIGNÉE"
+    old "СПРЯТАТЬ\nПАУКА"
+    new "CACHER\nARAIGNÉE"
 
     # game/core/03variables.rpy:149
-    old "БРОСИТЬ\nПАУКА"\n   new "PLACER\nL'ARAIGNÉE"
+    old "БРОСИТЬ\nПАУКА"
+    new "JETER\nARAIGNÉE"
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nПАУКОВ"\n   new "RECHERCHER\nUNE ARAIGNÉE"
+    old "ИСКАТЬ\nПАУКОВ"
+    new "RECHERCHER\nARAIGNÉES"
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nСИГАРЕТЫ"\n   new "RECHERCHER\nLES CIGARETTES"
+    old "ИСКАТЬ\nСИГАРЕТЫ"
+    new "RECHERCHER\nCIGARETTES"
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nКНИГУ"\n   new "RECHERCHER\nUN LIVRE"
+    old "ИСКАТЬ\nКНИГУ"
+    new "RECHERCHER\nLIVRE"
 
     # game/core/03variables.rpy:149
-    old "ЧИСТИТЬ\nБАССЕЙН"\n   new "NETTOYER\nLA PISCINE"
+    old "ЧИСТИТЬ\nБАССЕЙН"
+    new "NETTOYER\nLA PISCINE"
 
     # game/core/03variables.rpy:149
     old "ЧИТАТЬ"
     new "LIRE"
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nКАМЕРУ"\n   new "RECHERCHER\nUNE CAMÉRA"
+    old "ИСКАТЬ\nКАМЕРУ"
+    new "RECHERCHER\nCAMÉRA"
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nТЕЛЕФОН"\n   new "RECHERCHER\nLE TÉLÉPHONE"
+    old "ИСКАТЬ\nТЕЛЕФОН"
+    new "RECHERCHER\nTÉLÉPHONE"
 
     # game/core/03variables.rpy:149
-    old "РАЗОБРАТЬ\nКОРОБКИ"\n   new "DÉBALLER\nLES CARTONS"
+    old "РАЗОБРАТЬ\nКОРОБКИ"
+    new "DÉFAIRE\nLES CARTONS"
 
     # game/core/03variables.rpy:149
-    old "ВКЛЮЧИТЬ\nНОУТБУК"\n   new "ALLUMER\nL'ORDI PORTABLE"
+    old "ВКЛЮЧИТЬ\nНОУТБУК"
+    new "ALLUMER\nORDINATEUR PORTABLE"
 
     # game/core/03variables.rpy:149
     old "СПАТЬ"
     new "DORMIR"
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\nБУДИЛЬНИК"\n   new "RÉGLER\nLE RÉVEIL"
+    old "УСТАНОВИТЬ\nБУДИЛЬНИК"
+    new "RÉGLER\nRÉVEIL"
 
     # game/core/03variables.rpy:149
     old "ВЗДРЕМНУТЬ"
     new "SIESTE"
 
     # game/core/03variables.rpy:149
-    old "ПРИНЯТЬ\nДУШ"\n   new "PRENDRE\nUNE DOUCHE"
+    old "ПРИНЯТЬ\nДУШ"
+    new "PRENDRE\nUNE DOUCHE"
 
     # game/core/03variables.rpy:149
-    old "ПРИНЯТЬ\nВАННУ"\n   new "PRENDRE\nUN BAIN"
+    old "ПРИНЯТЬ\nВАННУ"
+    new "PRENDRE\nUN BAIN"
 
     # game/core/03variables.rpy:149
     old "ПОГОВОРИТЬ"
     new "PARLER"
 
     # game/core/03variables.rpy:149
-    old "МЫТЬ\nПОСУДУ"\n   new "LAVER\nLA VAISSELLE"
+    old "МЫТЬ\nПОСУДУ"
+    new "LAVER\nLA VAISSELLE"
 
     # game/core/03variables.rpy:205
     old "Общение"

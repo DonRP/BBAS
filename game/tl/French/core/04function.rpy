@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/04function.po\n"
-# "X-Crowdin-File-ID: 791\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/core/04function.po\n"
+# "X-french-File-ID: 3430\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:37\n"
+# "PO-Revision-Date: 2022-03-08 15:19\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -85,7 +85,8 @@ translate french strings:
     new "{color=[lime]}à augmenté{/color}"
 
     # game/core/04function.rpy:385
-    old "Настроение %s %s \nЕё отношение к Максу %s"\n   new "Son humeur %s %s \nson attitude envers Max %s"
+    old "Настроение %s %s \nЕё отношение к Максу %s"
+    new "Humeur %s %s \nSon attitude envers Max %s"
 
     # game/core/04function.rpy:387
     old "Отношение %s к Максу %s"

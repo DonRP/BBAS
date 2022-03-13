@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:18\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -240,13 +240,13 @@ translate italian lisa_dressed_dad74527:
 translate italian lisa_dressed_aaeb2a78:
 
     # Max_09 "{m}Сейчас Лиза обычно переодевается, чтобы отправиться на занятие к репетитору...{/m}" nointeract
-    Max_09 "{m}Ora Lisa di solito cambia i vestiti per andare a lezione con un tutor... {/m}" nointeract
+    Max_09 "{m}Lisa di solito ora si cambia per andare a lezione dal tutor...{/m}" nointeract
 
 # game/events/lisa.rpy:279
 translate italian lisa_dressed_c83f0902:
 
     # Max_09 "{m}Сейчас Лиза обычно переодевается, чтобы пойти погулять. Ну, или что она там ещё делает...{/m}" nointeract
-    Max_09 "{m}Ora Lisa di solito cambia i vestiti per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo lì... {/m}" nointeract
+    Max_09 "{m}Ora Lisa di solito si cambia per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo lì... {/m}" nointeract
 
 # game/events/lisa.rpy:293
 translate italian lisa_dressed_869e0bce:

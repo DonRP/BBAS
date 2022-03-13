@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:18\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -1014,7 +1014,7 @@ translate italian alice_dressed_shop_1b7b43c8:
 translate italian alice_dressed_friend_bb0f5056:
 
     # Max_09 "{m}Кажется, Алиса куда-то собирается...{/m}" nointeract
-    Max_09 "{m}Alice sembra andare da qualche parte...{/m}" nointeract
+    Max_09 "{m}Sembra che Alice stia per andare da qualche parte...{/m}" nointeract
 
 # game/events/alice.rpy:813
 translate italian alice_dressed_friend_f5380b66:
@@ -2340,7 +2340,7 @@ translate italian alice_blog_lingerie_0331bea3:
 translate italian alice_blog_lingerie_44e4a54e:
 
     # Alice_02 "О, Макс! Что-то хотел или просто проведать меня решил?" nointeract
-    Alice_02 "Oh, Max! Voleva qualcosa o semplicemente venirmi a trovare?" nointeract
+    Alice_02 "Oh, Max! Volevi qualcosa o hai appena deciso di venirmi a trovare?" nointeract
 
 # game/events/alice.rpy:2104
 translate italian alice_blog_lingerie_43c0d69d:

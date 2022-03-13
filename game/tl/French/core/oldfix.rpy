@@ -1,16 +1,16 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: fr\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/oldfix.po\n"
-# "X-Crowdin-File-ID: 807\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/core/oldfix.po\n"
+# "X-french-File-ID: 3448\n"
 # "Project-Id-Version: big-brother-as\n"
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: French\n"
 # "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-05 17:38\n"
+# "PO-Revision-Date: 2022-03-08 15:20\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -39,20 +39,24 @@ translate french strings:
     new "{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
 
     # game/core/oldfix.rpy:51
-    old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"\n   new "Oui, et il semble que Lisa ne parle de son petit copain que lorsqu'elle est de bonne humeur... \n\n{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
+    old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Oui, et on dirait que Lisa ne parle de son garçon que quand elle est de bonne humeur... \n\n{i}{b}Attention: {/b} jusqu'à présent, c'est tout ce qui peut être fait pour cette \"fonctionnalité\" dans la version actuelle du jeu.{/i}"
 
     # game/core/oldfix.rpy:65
-    old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"\n   new "C'est vrai que Lisa a été un peu offensée, mais je peux vivre avec ça. Lui donner quelque chose de bon à manger va réchauffer la relation... \n\n{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
+    old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "C'est vrai que Lisa m'a un peu offensé, mais je m'en remettrai. Je vais lui donner quelque chose de délicieux et elle dégèle... \n\n{i}{b}Attention: {/b} jusqu'à présent, c'est tout ce qui peut être fait pour cette \"fonctionnalité\" dans la version actuelle du jeu.{/i}"
 
     # game/core/oldfix.rpy:68
-    old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"\n   new "Je doute que je puisse la piéger maintenant, elle est trop méfiante à mon égard. \n\n{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
+    old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Je doute que je puisse la piéger maintenant, elle a trop de méfiance envers moi. \n\n{i}{b}Attention: {/b} jusqu'à présent, c'est tout ce qui peut être fait pour cette \"fonctionnalité\" dans la version actuelle du jeu.{/i}"
 
     # game/core/oldfix.rpy:81
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
     new "J'ai aidé Lisa avec ses leçons pendant un moment, gratuitement, mais c'est devenu plutôt ennuyeux et j'ai délibérément commencé à faire des erreurs pour qu'elle obtienne des D et soit punie... Donc, après un autre \"D\" et une punition de ma mère, elle est venue me demander de l'aide. J'ai accepté, mais à la condition qu'elle ne dorme que dans un T-shirt et une culotte. Et je pense que je pourrais être capable de lui faire faire autre chose..."
 
     # game/core/oldfix.rpy:263
-    old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."\n   new "Tante Kira est une excellente enseignante pour les baisers! Elle a accepté de m’enseigner. Qui sait, peut-être qu’elle m'apprendra autre chose ?\n\nEh bien, c’est tout. Maintenant, je devrais m'entraîner à embrasser tante Kira et transmettre les connaissances acquises à Lisa... Mais elle a encore besoin d’être convaincue..."
+    old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
+    new "Tante Kira est un excellent professeur de baisers! Elle a accepté de m'enseigner de temps en temps. Qui sait, peut-être qu'elle va apprendre autre chose?\n\nc'est bon. Maintenant, vous devez pratiquer dans les baisers avec tante Kira et transmettre les connaissances acquises à Lisa... Mais il faut encore la convaincre..."
 
     # game/core/oldfix.rpy:461
     old "Я поговорил с Лизой насчёт её обучения. Она выдвинула ряд условий, среди которых запрет мне к ней прикасаться, если она против. Ну уже что-то."
@@ -67,7 +71,8 @@ translate french strings:
     new "J'ai réussi à impressionner Lisa avec mes talents à embrasser ! Ce n'est pas encore de l'art, mais elle a adoré ! Après tout, tante Kira est une grande professeure. Mais je dois continuer à m'entraîner."
 
     # game/core/oldfix.rpy:461
-    old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."\n   new "J’ai donné à Lisa un livre qui contient de nombreuses réponses à ses questions. Oui, il serait utile pour moi de le lire aussi, mais j'ai la flemme.\n\n\nje vais devoir lui demander, au bout d’un moment, ce qu’elle pense de ce livre..."
+    old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
+    new "J'ai donné à Lisa un livre qui contient beaucoup de réponses à ses questions. Oui, je serais utile de le lire moi-même, mais paresse.\n\n\nvous Devrez demander après un certain temps ce qu'elle pense de ce livre..."
 
     # game/core/oldfix.rpy:492
     old "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды... Может быть, поговорить с ней об этом?"
@@ -110,11 +115,14 @@ translate french strings:
     new "Et si je n'aide pas Lisa pendant un moment? Ou faire quelques erreurs dans mon aide pour son travail?"
 
     # game/core/oldfix.rpy:665
-    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."\n   new "Seulement j'ai donné à Lisa un livre sur l'éducation sexuelle, comme Eric l'a dessiné. Il, vous voyez, avec ma mère, va s'occuper de son éducation sexuelle! \n\nEn échange de la possibilité d'espionner ce processus, j'ai accepté de le soutenir. Je n'ai pas à me battre avec Eric."
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
+    new "Seulement j'ai donné à Lisa un livre sur l'éducation sexuelle, comme Eric l'a dessiné. Il, vous voyez, avec ma mère, va s'occuper de son éducation sexuelle! \n\nEn échange de la possibilité d'espionner ce processus, j'ai accepté de le soutenir. Je n'ai pas à me battre avec Eric."
 
     # game/core/oldfix.rpy:697
-    old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\nНаверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."\n   new "J'ai vu Eric debout près de la fenêtre de la chambre d'Alice au milieu de la nuit, se branlant devant la vue de ma sœur! Je ne m'attendais pas à voir ça... Je pensais qu'Eric était le genre de gars qui préférait payer une prostituée plutôt que de se branler comme ça, mais il s'avère que... j'avais tort.\n\nCe n'est sûrement pas la première fois qu'il fait cela! Il faut le surveiller la nuit pour avoir un aperçu de ses sales travers... Mieux vaut avoir un atout contre lui, juste au cas où..."
+    old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\nНаверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."
+    new "J'ai accidentellement remarqué qu'Eric se tenait près de la fenêtre de la chambre d'Alice au milieu de la nuit et se branlait dessus! Je ne m'attendais pas à voir ça... Il me semblait qu'Eric était un de ceux qui préféreraient enlever une prostituée plutôt que de se masturber, mais comme il s'est avéré... j'ai eu tort.\n\nce n'est Sûrement pas la première fois qu'il le fait! Il faut le surveiller la nuit pour avoir une photo de ses sales affaires... Il vaut mieux avoir un atout contre lui, au cas où..."
 
     # game/core/oldfix.rpy:697
-    old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\nБыло бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."\n   new "Je l'ai fait! J'ai pris une photo d'Eric en train de se branler en train de regarder Alice! Bien sûr, on ne sait pas vraiment sur qui ou sur quoi il se branle sur la photo, ce qui ne m'aide pas beaucoup en cas d'affrontement avec Eric.\n\nCe serait bien qu'Eric soit assez arrogant pour se branler en plein milieu de la chambre d'Alice... Ce serait un peu compromettant! Il est vrai qu'Alice sera dans le cadre, mais l'accent de la photo sera mis sur Eric. Il faut juste trouver comment l'attirer dans la chambre d'Alice..."
+    old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\nБыло бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."
+    new "Réussi! J'ai pris une photo d'Eric se branlant sur Alice! Bien sûr, en fait, il n'est pas clair sur la photo sur qui ou sur quoi il se branle, donc pas trop cette photo m'aidera en cas de problème avec Eric.\n\nce serait bien si Eric était assez insolent pour se branler sur Alice en plein milieu de sa chambre... Cela aurait déjà tiré sur le compromis! Dans le cadre, la vérité sera Alice, mais l'accent sur une telle photo sera rivé sur Eric. Il s'agit de trouver un moyen de l'attirer dans la chambre d'Alice..."
 

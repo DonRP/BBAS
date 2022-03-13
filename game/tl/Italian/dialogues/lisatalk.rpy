@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:17\n"
+# "PO-Revision-Date: 2022-03-11 15:38\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH
 
@@ -10140,7 +10140,7 @@ translate italian lisa_about_sex_book0_40be8496:
 translate italian lisa_about_sex_book0_d7fbed8f:
 
     # Lisa_10 "Не думаю. Я {b}ОЧЕНЬ{/b} в этом уверена!"
-    Lisa_10 "Non credo. Ne sono {b} MOLTO{/b} sicuro!"
+    Lisa_10 "Non credo. Ne sono {b}MOLTO{/b} sicura!"
 
 # game/dialogues/lisatalk.rpy:4778
 translate italian lisa_about_sex_book0_e1846811:
@@ -10164,19 +10164,19 @@ translate italian lisa_about_sex_book0_bc716f9b:
 translate italian lisa_about_sex_book0_dc029ff0:
 
     # Lisa_01 "Ты имеешь в виду, во время поцелуев? Нет, не стесняюсь. Они делают поцелуи куда приятнее. А что?"
-    Lisa_01 "Vuoi dire mentre ti baci? No, non sono timido. Rendono il bacio molto più bello. Perché?"
+    Lisa_01 "Vuoi dire mentre mi baci? No, non sono timida. Rende il bacio molto più bello. Perché?"
 
 # game/dialogues/lisatalk.rpy:4786
 translate italian lisa_about_sex_book0_c68a94ec:
 
     # Max_04 "А то, что тебе пора учиться принимать поцелуи не только в губы. Я буду целовать тебя в шею и грудь, а ты не должна стесняться."
-    Max_04 "E che è ora che tu impari ad accettare baci diversi da quelli sulle labbra. Ti bacerò il collo e il petto, e non devi essere timido."
+    Max_04 "E che è ora che tu impari ad accettare baci diversi da quelli sulle labbra. Ti bacerò il collo e il seno, e non devi essere timida."
 
 # game/dialogues/lisatalk.rpy:4787
 translate italian lisa_about_sex_book0_2c2f9970:
 
     # Lisa_10 "Ой, ну... В шею ещё можно попробовать, но вот грудь... Не уверена..."
-    Lisa_10 "Oh, bene... Potresti provare il collo, ma il petto... Non sono sicuro..."
+    Lisa_10 "Oh, bene... Potresti provare con il collo, ma il seno... Non sono sicura..."
 
 # game/dialogues/lisatalk.rpy:4788
 translate italian lisa_about_sex_book0_cceec119:
