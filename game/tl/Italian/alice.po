@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-13 23:21\n"
+"PO-Revision-Date: 2022-03-14 23:46\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
@@ -760,11 +760,11 @@ msgstr "[Max_01] Sbagliato. Ti piacciono le caramelle, vero? [nointeract]"
 
 # game/events/alice.rpy:951 ## translate crowdin alice_dressed_club_choco_8e118316:
 msgid "[Alice_05] Люблю... И что, никакого подвоха? Просто взял и подарил конфетку на дорожку? [nointeract]"
-msgstr "[Alice_05] Amore... E cosa, nessuna cattura? Hai appena preso e dato caramelle in pista? [nointeract]"
+msgstr "[Alice_05] Amore... Quindi non ci sono fregature? Ti ha appena dato delle caramelle per la strada? [nointeract]"
 
 # game/events/alice.rpy:953 ## translate crowdin alice_dressed_club_choco_0852a688:
 msgid "[Alice_02] Может быть, мне их ещё и снять для тебя? Давай, вали уже, извращенец. А за конфетку спасибо..."
-msgstr "[Alice_02] Forse dovrei fotografarli per te? Dai, wali già, pervertito. E per le caramelle grazie..."
+msgstr "[Alice_02] Forse dovrei anche toglierle per te? Vattene, pervertito. Grazie per le caramelle..."
 
 # game/events/alice.rpy:955 ## translate crowdin alice_dressed_club_choco_9346b73f:
 msgid "[Alice_07] Вот это да! Ну, спасибо тогда... А теперь вали. Я ещё не закончила..."
@@ -2496,11 +2496,11 @@ msgstr "{i}guardare dal cortile{/i}"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}установить стремянку{/i}"
-msgstr "{i}installare una stepladder{/i}"
+msgstr "{i}installare la scala{/i}"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}воспользоваться стремянкой{/i}"
-msgstr "{i}usare una stepladder{/i}"
+msgstr "{i}usare la scala{/i}"
 
 # XX## game/events/alice.rpy:17
 msgid "Это я, Макс. Можно войти?"
@@ -2608,11 +2608,11 @@ msgstr "{i}dai una caramella{/i}"
 
 # XX## game/events/alice.rpy:950
 msgid "Ну, можешь трусы показать..."
-msgstr "Beh, puoi mostrare le tue mutandine..."
+msgstr "Beh, mi puoi fare vedere le tue mutandine..."
 
 # XX## game/events/alice.rpy:950
 msgid "Да, никакого подвоха!"
-msgstr "Sì, nessuna cattura!"
+msgstr "Sì, nessun trucco!"
 
 # XX## game/events/alice.rpy:1058
 msgid "Разбирайся сама..."
