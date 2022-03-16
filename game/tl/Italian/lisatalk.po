@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-16 22:39\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -4692,7 +4692,7 @@ msgstr "[Max_07] Lisa, cosa mi hai svegliato?!"
 
 # game/dialogues/lisatalk.rpy:3659 ## translate crowdin MorningWoodCont2_var1_841f7193:
 msgid "[Lisa_01] Да так, просто хотела немного поиздеваться... Случай мне показался подходящим!"
-msgstr "[Lisa_01] sì, volevo solo prendermi in giro un po'... Il caso mi sembrava appropriato!"
+msgstr "[Lisa_01] Volevo solo prenderlo un po' in giro... L'occasione sembrava appropriata!"
 
 # game/dialogues/lisatalk.rpy:3660 ## translate crowdin MorningWoodCont2_var1_d3da950b:
 msgid "[Max_09] Может, пойдёшь уже по своим делам куда-нибудь?!"
