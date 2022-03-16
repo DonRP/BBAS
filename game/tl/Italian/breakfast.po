@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-16 22:39\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
@@ -42,7 +42,7 @@ msgstr "[Alice_07] Semplicemente mi ha lasciato senza parole! Dopo il nostro vec
 
 # game/dialogues/breakfast.rpy:31 ## translate crowdin breakfast_first_494e7581:
 msgid "[Ann_12] Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно... [nointeract]"
-msgstr "[Ann_12] Già, anch'io sono preoccupato per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non devi pagare la bolletta dell'elettricità... [nointeract]"
+msgstr "[Ann_12] Già, anch'io sono preoccupata per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non si deve pagare la bolletta dell'elettricità... [nointeract]"
 
 # game/dialogues/breakfast.rpy:38 ## translate crowdin breakfast_first_02490cba:
 msgid "[Lisa_01] А вдруг, нигде не кидают? Хотя я папу и не помню, но мне кажется, что никто не стал бы дарить целый дом только чтобы как-то кинуть... [nointeract]"
