@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-06 11:16\n"
+"PO-Revision-Date: 2022-03-14 23:46\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -366,7 +366,7 @@ msgstr ""
 
 # XX## game/core/02init.rpy:139
 msgid "Мам, ты подумала об Оливии?"
-msgstr ""
+msgstr "Mamá, ¿pensaste en Olivia?"
 
 # XX## game/core/02init.rpy:139
 msgid "Мне нужны деньги..."
@@ -382,11 +382,11 @@ msgstr "Quería hablar de Kira..."
 
 # XX## game/core/02init.rpy:139
 msgid "Мою премию за помощь с Лизой!"
-msgstr ""
+msgstr "¡Mi premio por ayudar con Lisa!"
 
 # XX## game/core/02init.rpy:139
 msgid "Чтобы на маме были не только очки для сна, но и чулки!"
-msgstr ""
+msgstr "¡Para qué mamá no solamente lleve gafas ¡Para dormir, sino también medias!"
 
 # XX## game/core/02init.rpy:139
 msgid "Чтобы на маме были только очки для сна!"

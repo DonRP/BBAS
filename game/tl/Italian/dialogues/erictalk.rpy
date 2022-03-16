@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-14 23:46\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -34,7 +34,7 @@ msgstr "[Max_09] Siamo d'accordo..."
 
 # game/dialogues/erictalk.rpy:37 ## translate crowdin eric_needmoney_b2da0d5e:
 msgid "[Eric_03] Да? Ну, ладно... Держи. Только на глаза не попадайся..."
-msgstr "[Eric_03] sì? Ok... Aspettare. Basta non farsi catturare dagli occhi..."
+msgstr "[Eric_03] Sì? Daccordo... Eccoli. Basta che non attiri attenzione..."
 
 # game/dialogues/erictalk.rpy:38 ## translate crowdin eric_needmoney_82324783:
 msgid "[Max_01] Хорошо..."

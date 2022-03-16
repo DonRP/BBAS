@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:17\n"
+"PO-Revision-Date: 2022-03-13 23:21\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/alicetalk.rpy:12 ## translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -1618,7 +1618,7 @@ msgstr "[Alice_13] Beh, questo è tutto, l'ho ammirato e ora basta. Esci di qui,
 
 # game/dialogues/alicetalk.rpy:2036 ## translate crowdin smoke_nopants_7be74dfc:
 msgid "[Alice_02] Макс, чего хотел? [nointeract]"
-msgstr "[Alice_02] Max, cosa voleva? [nointeract]"
+msgstr "[Alice_02] Max, cosa vuoi? [nointeract]"
 
 # game/dialogues/alicetalk.rpy:2038 ## translate crowdin smoke_nopants_c40ddcc1:
 msgid "[Alice_13] Налюбовался? А вот теперь постой в сторонке, пока я покурю! Давай, вали уже..."
@@ -1710,7 +1710,7 @@ msgstr "[Max_01] Va bene. Me ne sono andato..."
 
 # game/dialogues/alicetalk.rpy:2092 ## translate crowdin smoke_sleep_7be74dfc:
 msgid "[Alice_02] Макс, чего хотел? [nointeract]"
-msgstr "[Alice_02] Max, cosa voleva? [nointeract]"
+msgstr "[Alice_02] Max, cosa vuoi? [nointeract]"
 
 # game/dialogues/alicetalk.rpy:2094 ## translate crowdin smoke_sleep_c40ddcc1:
 msgid "[Alice_13] Налюбовался? А вот теперь постой в сторонке, пока я покурю! Давай, вали уже..."
@@ -1726,7 +1726,7 @@ msgstr "[Alice_04] E cosa hai cambiato idea? R, anche se non importa. Sono felic
 
 # game/dialogues/alicetalk.rpy:2118 ## translate crowdin smoke_nojeans_7be74dfc:
 msgid "[Alice_02] Макс, чего хотел? [nointeract]"
-msgstr "[Alice_02] Max, cosa voleva? [nointeract]"
+msgstr "[Alice_02] Max, cosa vuoi? [nointeract]"
 
 # game/dialogues/alicetalk.rpy:2120 ## translate crowdin smoke_nojeans_82da8dd1:
 msgid "[Alice_13] Налюбовался? А вот теперь постой в сторонке, пока я покурю! Давай, иди уже..."

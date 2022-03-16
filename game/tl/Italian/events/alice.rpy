@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-14 23:46\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
@@ -740,7 +740,7 @@ msgstr "[Max_00] Sono io, Max. Ho un caso per te..."
 
 # game/events/alice.rpy:931 ## translate crowdin alice_dressed_club_knock_7d4cb094:
 msgid "[Alice_13] Ну, Макс, чего хотел? Что за дело такое срочное? [nointeract]"
-msgstr "[Alice_13] Bene, Max, cosa voleva? Qual è il caso urgente? [nointeract]"
+msgstr "[Alice_13] Bene, Max, cosa vuoi? Qual è il caso urgente? [nointeract]"
 
 # game/events/alice.rpy:936 ## translate crowdin alice_dressed_club_knock_a112c41e:
 msgid "[Alice_03] Спасибо... Так чего хотел, рассказывай! [nointeract]"
@@ -756,15 +756,15 @@ msgstr "[Alice_02] Max, mi stai sorprendendo sempre di più. Che cosa? Fammi ind
 
 # game/events/alice.rpy:947 ## translate crowdin alice_dressed_club_choco_2bbe497c:
 msgid "[Max_01] Не угадала. Ты же любишь конфеты? [nointeract]"
-msgstr "[Max_01] non ho indovinato. Ti piacciono le caramelle, vero? [nointeract]"
+msgstr "[Max_01] Sbagliato. Ti piacciono le caramelle, vero? [nointeract]"
 
 # game/events/alice.rpy:951 ## translate crowdin alice_dressed_club_choco_8e118316:
 msgid "[Alice_05] Люблю... И что, никакого подвоха? Просто взял и подарил конфетку на дорожку? [nointeract]"
-msgstr "[Alice_05] Amore... E cosa, nessuna cattura? Hai appena preso e dato caramelle in pista? [nointeract]"
+msgstr "[Alice_05] Amore... Quindi non ci sono fregature? Ti ha appena dato delle caramelle per la strada? [nointeract]"
 
 # game/events/alice.rpy:953 ## translate crowdin alice_dressed_club_choco_0852a688:
 msgid "[Alice_02] Может быть, мне их ещё и снять для тебя? Давай, вали уже, извращенец. А за конфетку спасибо..."
-msgstr "[Alice_02] Forse dovrei fotografarli per te? Dai, wali già, pervertito. E per le caramelle grazie..."
+msgstr "[Alice_02] Forse dovrei anche toglierle per te? Vattene, pervertito. Grazie per le caramelle..."
 
 # game/events/alice.rpy:955 ## translate crowdin alice_dressed_club_choco_9346b73f:
 msgid "[Alice_07] Вот это да! Ну, спасибо тогда... А теперь вали. Я ещё не закончила..."
@@ -2496,11 +2496,11 @@ msgstr "{i}guardare dal cortile{/i}"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}установить стремянку{/i}"
-msgstr "{i}installare una stepladder{/i}"
+msgstr "{i}installare la scala{/i}"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}воспользоваться стремянкой{/i}"
-msgstr "{i}usare una stepladder{/i}"
+msgstr "{i}usare la scala{/i}"
 
 # XX## game/events/alice.rpy:17
 msgid "Это я, Макс. Можно войти?"
@@ -2592,7 +2592,7 @@ msgstr "Ok, aspetterò..."
 
 # XX## game/events/alice.rpy:930
 msgid "Выглядишь... шикарно!"
-msgstr "Guardare... Chic!"
+msgstr "Sembri... stupenda!"
 
 # XX## game/events/alice.rpy:930
 msgid "У меня для тебя презент..."
@@ -2604,15 +2604,15 @@ msgstr "Sai, dimenticavo..."
 
 # XX## game/events/alice.rpy:946
 msgid "{i}дать одну конфету{/i}"
-msgstr "{i}dare una caramella{/i}"
+msgstr "{i}dai una caramella{/i}"
 
 # XX## game/events/alice.rpy:950
 msgid "Ну, можешь трусы показать..."
-msgstr "Beh, puoi mostrare le tue mutandine..."
+msgstr "Beh, mi puoi fare vedere le tue mutandine..."
 
 # XX## game/events/alice.rpy:950
 msgid "Да, никакого подвоха!"
-msgstr "Sì, nessuna cattura!"
+msgstr "Sì, nessun trucco!"
 
 # XX## game/events/alice.rpy:1058
 msgid "Разбирайся сама..."
