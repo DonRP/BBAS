@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-14 23:46\n"
+"PO-Revision-Date: 2022-03-17 22:39\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -470,7 +470,7 @@ msgstr "[Max_00] Ok, ci proverò..."
 
 # game/dialogues/erictalk.rpy:447 ## translate crowdin Eric_talk_about_Lisa_0_98c18922:
 msgid "[Eric_04] Я это спросил, просто чтобы тебя позлить. Я её всё равно заберу, скоро ты в этом убедишься. И да, готовь сапоги. Военный лагерь ждёт..."
-msgstr "[Eric_04] ho chiesto questo, solo a te. Lo prenderò comunque, presto sarai convinto. E sì, prepara gli stivali. Il campo militare è in attesa..."
+msgstr "[Eric_04] L'ho chiesto solo per farti arrabbiare. La porterò comunque, vedrai presto. E sì, preparate gli stivali. Il campo di guerra aspetta..."
 
 # game/dialogues/erictalk.rpy:448 ## translate crowdin Eric_talk_about_Lisa_0_2c68645b:
 msgid "[Max_16] Посмотрим..."
