@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-16 22:39\n"
+"PO-Revision-Date: 2022-03-17 22:39\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
@@ -146,7 +146,7 @@ msgstr "[Ann_01] Il nostro intero tetto è costituito da pannelli solari. C'è u
 
 # game/dialogues/breakfast.rpy:195 ## translate crowdin breakfast_first_bf_roof_306fdb3a:
 msgid "[Lisa_09] Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда. [nointeract]"
-msgstr "[Lisa_09] sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco. [nointeract]"
+msgstr "[Lisa_09] Sì, a proposito, fa molto caldo qui. Non sono ancora abituata a questo clima. D'altra parte, non sono così dispiaciuta per i vestiti che ho perso durante il trasloco. [nointeract]"
 
 # game/dialogues/breakfast.rpy:198 ## translate crowdin breakfast_first_bf_roof_6de5b34a:
 msgid "[Ann_00] Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно... [nointeract]"
@@ -198,7 +198,7 @@ msgstr "[Alice_07] selvaggio! Vivi nella stessa stanza con tua sorella minore, d
 
 # game/dialogues/breakfast.rpy:280 ## translate crowdin breakfast_first_bf_buy_new_837aef32:
 msgid "[Alice_06] Ага, вот только купилка у некоторых не выросла ещё! [nointeract]"
-msgstr "[Alice_06] sì, questo è solo l'acquisto da alcuni non è ancora cresciuto! [nointeract]"
+msgstr "[Alice_06] Sì, peccato che alcuni di noi non sono ancora cresciuti! [nointeract]"
 
 # game/dialogues/breakfast.rpy:283 ## translate crowdin breakfast_first_bf_buy_new_f7b11ae0:
 msgid "[Alice_15] Так ты ею будешь зарабатывать? Любопытно... [nointeract]"
