@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-18 22:52\n"
+"PO-Revision-Date: 2022-03-20 14:50\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid "Ужасное"
-msgstr "Ужасное"
+msgstr "Terribile"
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень плохое"
