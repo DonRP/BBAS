@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:19\n"
+"PO-Revision-Date: 2022-03-26 09:55\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/olivia.rpy:38 ## translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07] {m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m} [nointeract]"
@@ -254,7 +254,7 @@ msgstr "[Max_04] No, va bene... Passa, sentiti a casa."
 
 # game/events/olivia.rpy:257 ## translate crowdin olivia_second_night_visit_ce53ea19:
 msgid "[Olivia_02] С радостью бы искупалась, но так устала, что хочу только валяться и смотреть сериалы. Пойдём, Лиза... Макс, ты как, с нами? [nointeract]"
-msgstr "[Olivia_02] mi piacerebbe nuotare, ma sono così stanco che voglio solo sdraiarmi e guardare programmi Tv. Andiamo, Lisa... Max, sei con noi? [nointeract]"
+msgstr "[Olivia_02] Mi piacerebbe andare a fare una nuotata, ma sono così stanca che voglio solo sdraiarmi e guardare le soap opera. Dai, Lisa... Max, ci sei? [nointeract]"
 
 # game/events/olivia.rpy:262 ## translate crowdin olivia_second_night_visit_10c0fcb2:
 msgid "[Olivia_03] Лиза, а ты так и будешь в маечке и трусиках? Дома же никого нет."
