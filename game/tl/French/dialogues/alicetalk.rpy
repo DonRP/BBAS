@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/alicetalk.rpy:12 ## translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -7166,1123 +7166,1682 @@ msgstr "[Max_01] Bien sûr. Si tu veux, appelle-moi."
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/alicetalk.rpy:25
 msgid "{i}уйти{/i}"
-msgstr "{i}quitter{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:67
 msgid "Ок..."
-msgstr "Ok..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:67
 msgid "Я хотел извиниться"
-msgstr "Je voulais m'excuser"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:85
 msgid "Ты знаешь, я передумал..."
-msgstr "Tu sais, j'ai changé d'avis..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:106
 msgid "Давай, я домою остальное"
-msgstr "Laisses-moi faire le reste"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:106
 msgid "Нет, просто хотел поглазеть"
-msgstr "Non, je voulais juste regarder"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:109
 msgid "{i}мыть посуду{/i}"
-msgstr "{i}laver la vaisselle{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:117
 msgid "{i}закончить{/i}"
-msgstr "{i}finir{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:137
 msgid "Нет, хотел просто больше узнать"
-msgstr "Non, je voulais juste en savoir plus"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:137
 msgid "Много подписчиков уже?"
-msgstr "Déjà beaucoup d'abonnés ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:137
 msgid "Заработала уже на нём что-то?"
-msgstr "As-tu déjà gagné de l'argent avec ça ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:140
 msgid "Расскажи, что ты там делаешь"
-msgstr "Dis-moi ce que tu fais là"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:140
 msgid "Как планируешь развиваться?"
-msgstr "Comment comptes-tu te développer ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:143
 msgid "Хитростями? А откуда ты сама всё это узнала?"
-msgstr "Des astuces ? Comment as-tu découvert tout cela ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:143
 msgid "И что теперь без этих своих вещей делать будешь?"
-msgstr "Que vas-tu faire sans tes affaires maintenant ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:146
 msgid "Тема бьюти разве единственная?"
-msgstr "Le thème de la beauté est-il le seul ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:146
 msgid "Понятно. Ну, и что теперь?"
-msgstr "Je vois. Alors, et maintenant ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:149
 msgid "Давай что-то придумаем вместе!"
-msgstr "Réfléchissons ensemble à quelque chose !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:149
 msgid "Может быть, изменить твой блог?"
-msgstr "Peut-être changer de blog ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:160
 msgid "Что, совсем всё пропало?"
-msgstr "Est-ce que tout a disparu?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:160
 msgid "Постой, и что теперь будет?"
-msgstr "Attends, qu'est-ce qui se passe maintenant ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:163
 msgid "Может, это твоя фишка. Да и майка счастливая..."
-msgstr "C'est peut-être ton truc. Et ton copain est heureux..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:163
 msgid "Разве это важно?"
-msgstr "Est-ce important?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:166
 msgid "Да уж, грусть-печаль..."
-msgstr "Oui, c'est une chose triste, triste..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:166
 msgid "Тебе как-то можно помочь?"
-msgstr "Je peux faire quelque chose pour t'aider ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:182
 msgid "Нет. С чего ты взяла?"
-msgstr "Non. Qu'est-ce qui te fait penser ça ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:182
 msgid "Ты о чём, вообще?"
-msgstr "De quoi parles-tu?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:188
 msgid "Да ладно?"
-msgstr "Vraiment ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:188
 msgid "В курсе, конечно"
-msgstr "Je sais, bien sûr"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:197
 msgid "Мне очень жаль..."
-msgstr "Je suis désolé..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:197
 msgid "И как тебе помочь?"
-msgstr "Et comment puis-je t'aider ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:204
 msgid "Что пропало? Ты о чём?"
-msgstr "Qu'est-ce qui manque ? Qu'est-ce que tu veux dire ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:204
 msgid "Ты о тех вещах во время переезда?"
-msgstr "Tu parles de ces choses pendant le déménagement ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:209
 msgid "Да, печально..."
-msgstr "Ouais, triste..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:209
 msgid "Тебе можно как-то помочь?"
-msgstr "Je peux faire quelque chose pour t'aider ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:215
 msgid "Может быть, попробуем вместе найти решение?"
-msgstr "Essayons de trouver une solution ensemble?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:215
 msgid "Я обязательно придумаю, что можно с этим сделать"
-msgstr "Je vais certainement trouver quelque chose à faire avec ça"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:222
 msgid "Денег у меня нет..."
-msgstr "Je n'ai pas l'argent..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:222
 msgid "Я не детектив, чтобы искать вещи..."
-msgstr "Je ne suis pas un détective pour chercher des choses..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:225
 msgid "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
-msgstr "Une vie entière ? Mais c'est pour le mieux. Une telle maison, une piscine, l'endroit est génial !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:225
 msgid "Не грусти. Могло быть и хуже"
-msgstr "Ne sois pas triste. Cela aurait pu être pire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:225
 msgid "Может быть, зарабатывать на чём-то другом?"
-msgstr "Peut-être gagner de l’argent avec autre chose?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:228
 msgid "Ты всё ещё можешь. Может быть, просто смени формат блога"
-msgstr "Tu peux toujours le faire. Peut-être juste changer le format du blog"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:244
 msgid "Ну, у меня много разных идей"
-msgstr "Eh bien, j'ai beaucoup d'idées différentes"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:244
 msgid "Советами!"
-msgstr "Conseils !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:261
 msgid "Может быть, заняться чем-то другим?"
-msgstr "Peut-être faire autre chose ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:270
 msgid "Мы можем с тобой вместе что-то придумать"
-msgstr "Toi et moi pouvons trouver une solution ensemble"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:270
 msgid "Давай, я подумаю и, когда будут мысли, продолжим разговор"
-msgstr "Laisses-moi y réfléchir et, quand j'aurai une idée, nous continuerons la conversation"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:270
 msgid "Пока нет, но я подумаю что можно сделать"
-msgstr "Pas encore, mais je vais voir ce que je peux faire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:281
 msgid "Ну если придумаю что-то, то почему нет?"
-msgstr "Eh bien, si je peux penser à quelque chose, pourquoi pas ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:281
 msgid "Конечно! Будет у нас семейный бизнес!"
-msgstr "Bien sûr ! Nous aurons une entreprise familiale !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:281
 msgid "Ну, можно попробовать же?"
-msgstr "Eh bien, tu peux essayer, n'est-ce pas ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:287
 msgid "Ну да, многие так делают!"
-msgstr "Eh bien oui, beaucoup de gens le font !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:287
 msgid "Нет, из меня ведущий так себе..."
-msgstr "Non, je suis le leader..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:287
 msgid "Попробовать то можем?"
-msgstr "On peut essayer ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:304
 msgid "Постараюсь..."
-msgstr "Je vais essayer..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:304
 msgid "Но ничего не обещаю"
-msgstr "Mais je ne peux rien promettre"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:304
 msgid "Обещаю, что-нибудь придумаю"
-msgstr "Je promets que je trouverais quelque chose"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:339
 msgid "Ну, давай смотреть всё подряд..."
-msgstr "Eh bien, regardons tout..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:339
 msgid "Тебе сделать массаж ног?"
-msgstr "Veux-tu un massage des pieds ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:367
 msgid "Хорошо {i}(начать массаж){/i}"
-msgstr "Bon {i}(commencer le massage){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:367
 msgid "Может конфетку перед массажем?"
-msgstr "Que dirais-tu de quelques sucreries avant le massage ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:381
 msgid "Почему ютуб? Это платные курсы..."
-msgstr "Pourquoi YouTube ? C'est un cours payant..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:381
 msgid "Конечно! Я же научился..."
-msgstr "Bien sûr ! J'ai appris..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:389
 msgid "Так тебе продемонстрировать или как?"
-msgstr "Tu veux une démonstration ou quoi ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:394
 msgid "Тебе понравится!"
-msgstr "Tu vas l'adorer !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:428
 msgid "Хочу тебя!"
-msgstr "Je te veux !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:428
 msgid "Просто я такой хороший парень!"
-msgstr "Je suis juste un gars tellement gentil !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:428
 msgid "Ты узнаешь... В своё время..."
-msgstr "Tu vas le découvrir... En temps voulu..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:444
 msgid "От конфетки не поправишься!"
-msgstr "Tu ne peux pas faire mieux avec des chocolats!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:454
 msgid "Ну, хорошо {i}(начать массаж){/i}"
-msgstr "Bon, d'accord {i}(commencer le massage){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:473
 msgid "{i}продолжить{/i}"
-msgstr "{i}continuer{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:504
 msgid "Может, ещё конфетку?"
-msgstr "Que dirais-tu d'un autre chocolat?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:504
 msgid "Тебе джинсы не мешают?"
-msgstr "Ton jean te gêne-t-il ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:504
 msgid "Тебе джинсы не мешают? Может, снять..."
-msgstr "Ton jean te gêne-t-il ? Peut-être peux-tu l'enlever..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:504
 msgid "{i}высунуть член{/i}"
-msgstr "{i}sortir la bite{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:504
 msgid "{i}закончить массаж{/i}"
-msgstr "{i}terminer le massage{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:585
 msgid "Э... Я к тебе не подкатываю. Просто, жарко же..."
-msgstr "Je... Je ne te drague pas. C'est juste, Il fait chaud..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:585
 msgid "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
-msgstr "Eh bien, tu en as des fantasmes, Alice... Je ne te drague pas !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:618
 msgid "Почему?"
-msgstr "Pourquoi ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:618
 msgid "Потому-что ты без трусиков?"
-msgstr "Parce que tu ne portes pas de culotte ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:665
 msgid "{i}стянуть джинсы до конца{/i}"
-msgstr "{i}tirer le jean jusqu'en bas{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:691
 msgid "{i}продолжить массаж{/i}"
-msgstr "{i}continuer le massage{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:718
 msgid "{i}массировать её ноги выше{/i}"
-msgstr "{i}Massez ses jambes plus haut{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:733
 msgid "{i}массировать ещё выше{/i}"
-msgstr "{i}massage encore plus haut{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:745
 msgid "{i}ласкать её киску пальцами{/i}"
-msgstr "{i}caresser sa chatte avec les doigts{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:760
 msgid "{i}ласкать её киску быстрее{/i}"
-msgstr "{i}Caresser sa chatte plus rapidement{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:760
 msgid "{i}не торопиться{/i}"
-msgstr "{i}prendre votre temps{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:829
 msgid "А почему на тебе трусики?"
-msgstr "Pourquoi tu portes une culotte ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:846
 msgid "{i}стянуть с неё трусики и продолжить массаж{/i}"
-msgstr "{i}retirer sa culotte et continuer le massage{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:920
 msgid "Да, это будет на десерт..."
-msgstr "Oui, ce sera pour le dessert..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:920
 msgid "{i}продолжать молча{/i}"
-msgstr "{i}continuer en silence{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:923
 msgid "{i}попытаться приставать{/i}"
-msgstr "{i}essayer de molester{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:923
 msgid "{i}продолжать массаж{/i}"
-msgstr "{i}continuer le massage{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:941
 msgid "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
-msgstr "Eh bien, je pourrais être ton petit ami... Au moins pour une heure... ou autant que tu le souhaites..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1188
 msgid "{i}ласкать её киску через одежду{/i}"
-msgstr "{i}caresser sa chatte à travers ses vêtements{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1262
 msgid "{i}снять с Алисы трусики{/i}"
-msgstr "{i}enlever la culotte d'Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1262
 msgid "{i}снять с Алисы шортики{/i}"
-msgstr "{i}enlever le short d'Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1286
 msgid "{i}ласкать её киску языком{/i}"
-msgstr "{i}caresser sa chatte avec votre langue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1303
 msgid "{i}ещё быстрее работать языком{/i}"
-msgstr "{i}un travail linguistique encore plus rapide{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1392
 msgid "{i}сдерживаться{/i}"
-msgstr "{i}retenir{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1451
 msgid "Спасибо, кэп!"
-msgstr "Merci, cap !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1451
 msgid "Очень смешно..."
-msgstr "Très drôle..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1451
 msgid "Это понятно, а какую? Только не говори, что бумажную..."
-msgstr "C'est compréhensible, mais lequel ? Ne me dis pas que le papier..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1462
 msgid "Не всё равно, раз спрашиваю"
-msgstr "Je m'en soucie, puisque je demande"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1462
 msgid "Так ты скажешь или нет?"
-msgstr "Tu vas me le dire ou pas ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1468
 msgid "Какой-то дамский роман?"
-msgstr "Une sorte de romance entre femmes ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1468
 msgid "Какие-то сопли с сахаром?"
-msgstr "De la morve et du sucre ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1468
 msgid "Неужели справочник по квантовой механике?"
-msgstr "S'agit-il vraiment d'un guide de la mécanique quantique ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1477
 msgid "Ну и ладно!"
-msgstr "Peu importe !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1477
 msgid "{i}узнать подробнее о \"Возможностях\"{/i}"
-msgstr "{i}En savoir plus sur les 'Opportunités'{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1494
 msgid "А если уйду, что мне за это будет?"
-msgstr "Et si je pars, qu'est-ce que j'y gagne ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1494
 msgid "Ну ок, только я ничего не обещаю..."
-msgstr "Ok, mais je ne promets rien..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1501
 msgid "Ну да. Мама что с тобой сделает, если узнает?"
-msgstr "Bien. Que te ferait maman si elle le découvrait ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1501
 msgid "Ну, мы можем договориться"
-msgstr "Eh bien, nous pouvons faire un marché"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1501
 msgid "Как знать, может быть..."
-msgstr "Qui sait, peut-être..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1501
 msgid "Нет, конечно. Мне жизнь дорога!"
-msgstr "Non, bien sûr que non. Je tiens à ma vie !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1504
 msgid "Не хочешь расстраивать маму или получить по заднице?"
-msgstr "Tu ne veux pas contrarier notre mère et te faire botter le cul ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1504
 msgid "Мы всё ещё можем договориться..."
-msgstr "On est encore d’accord..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1504
 msgid "Посмотрим..."
-msgstr "Eh bien, eh bien..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1504
 msgid "Ну ладно, ладно..."
-msgstr "D'accord, d'accord..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1531
 msgid "Если заплатишь, буду молчать"
-msgstr "Si tu payes, je me tairais"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1531
 msgid "Покажи сиськи!"
-msgstr "Montre-moi tes seins !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1531
 msgid "Сними трусы!"
-msgstr "Enlèves ta culotte !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1531
 msgid "Отсоси мне!"
-msgstr "Suces-moi!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1531
 msgid "Ты будешь мне должна услугу"
-msgstr "Tu me dois une faveur"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1534
 msgid "Ну, давай"
-msgstr "D'accord, je suppose"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1534
 msgid "Нет, этого мало..."
-msgstr "Non, ce n'est pas assez..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1541
 msgid "Так!"
-msgstr "C'est ça !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1541
 msgid "Как знать..."
-msgstr "Qui sait..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1546
 msgid "Ну, как скажешь..."
-msgstr "Eh bien, si tu le dis..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1584
 msgid "Покажешь сиськи, когда попрошу..."
-msgstr "Montres-moi tes seins quand je te le demande..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1584
 msgid "Разденешься, когда скажу..."
-msgstr "Déshabilles-toi quand je te le dis..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1584
 msgid "Отсосёшь, когда нужно будет..."
-msgstr "Prends ça quand tu en as besoin..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1584
 msgid "Я ещё не решил..."
-msgstr "Je n'ai pas encore décidé..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1609
 msgid "Хорошо..."
-msgstr "D’accord..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1622
 msgid "Да хотел узнать, что ты куришь?"
-msgstr "Oui, je me demandais ce que tu fumais ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1622
 msgid "Нет, ничего..."
-msgstr "Non, rien..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1625
 msgid "Просто любопытно"
-msgstr "Juste curieux"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1625
 msgid "Для поддержания разговора"
-msgstr "Pour poursuivre la conversation"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1625
 msgid "А, не важно..."
-msgstr "Ah, peu importe..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1638
 msgid "Скучаешь о нём?"
-msgstr "Il te manque quoi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1638
 msgid "Может, и мне попробовать?"
-msgstr "Peut-être que je peux les essayer aussi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1645
 msgid "Может быть, тебе помочь?"
-msgstr "Je peux t'aider ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1645
 msgid "Ну и ладно..."
-msgstr "D’accord..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1649
 msgid "Ну, я попробую через интернет"
-msgstr "Eh bien, je vais essayer sur internet"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1649
 msgid "Может быть..."
-msgstr "Possible..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1675
 msgid "А что взамен?"
-msgstr "Et qu'est-ce qu'il y a en retour ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1675
 msgid "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
-msgstr "Disons que tu ne diras pas à notre mère que je t'ai espionnée sous la douche..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1675
 msgid "Держи!"
-msgstr "Allons-y!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1707
 msgid "Нет, конечно!"
-msgstr "Bien sûr que non!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1712
 msgid "Дай $20, и я буду молчать"
-msgstr "Donnes-moi 20$ et je me tairais"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1712
 msgid "Если днём ты будешь ходить без трусов, буду молчать"
-msgstr "Si tu te promènes sans culottes pendant la journée, je me tairais"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1712
 msgid "Если будешь курить без верха, буду молчать"
-msgstr "Si tu fumes sans le haut, je me tairais"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1712
 msgid "Если разрешишь тебя отшлёпать, ничего не скажу"
-msgstr "Si tu me laisses te donner une fessée, je ne dirais rien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1712
 msgid "Ничего. Не переживай!"
-msgstr "Aucun problème. Ne t'inquiètes pas!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1733
 msgid "Угу..."
-msgstr "Mmm hmm..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Дай $20, и я ничего не скажу"
-msgstr "Donnes-moi 20$ et je ne dirais rien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Если больше не будешь носить лифчик, буду молчать"
-msgstr "Si tu ne portes plus de soutien-gorge, je me tairais"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Если будешь курить без верха купальника, буду молчать"
-msgstr "Si tu fumes sans haut du maillot de bain, je me tairais"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
-msgstr "Si tu veux que notre mère ne sache rien, tu te passeras de jeans."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
-msgstr "Si tu me laisses te donner la fessée, je ne dirais rien !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Хочу, чтобы ты спала голой!"
-msgstr "Je veux que tu dormes nue !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1747
 msgid "Ты знаешь, я сегодня добрый..."
-msgstr "Tu sais, je suis gentil aujourd'hui..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1765
 msgid "Нет. Или получаешь вечером по заднице или не одеваешь джинсы."
-msgstr "Non. Ou tu as un coup de pied dans le cul le soir ou tu ne portes pas de jeans."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1770
 msgid "Конечно!"
-msgstr "Bien sûr !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1802
 msgid "Но сейчас тебя есть за что отшлёпать!"
-msgstr "Mais maintenant tu as quelque chose à te reprocher !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1808
 msgid "{i}подождать Алису{/i}"
-msgstr "{i}attendre Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1845
 msgid "Что ты! Нет, конечно..."
-msgstr "Qu'est-ce que tu es? Non, bien sûr..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1913
 msgid "Нет, давай $20"
-msgstr "Non, donnes-moi 20$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1913
 msgid "Хорошо, устроит и $10"
-msgstr "Ok, ça fera 10$"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1929
 msgid "Удачи!"
-msgstr "Bonne chance!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1946
 msgid "{i}Ну, как скажешь...{/i}"
-msgstr "{i}Eh bien, si tu le dis....{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1960
 msgid "Доволен, конечно!"
-msgstr "Satisfait, bien sûr !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1960
 msgid "А чего ты прикрываешься?"
-msgstr "Pourquoi tu te couvres ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1960
 msgid "Я передумал. Можешь одеться."
-msgstr "J'ai changé d'avis. Tu peux t'habiller."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1963
 msgid "Не переживай, не скажу"
-msgstr "Ne t'inquiète pas, je ne le ferais pas"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1963
 msgid "Ну... это зависит от тебя!"
-msgstr "Eh bien... ça dépend de toi!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1976
 msgid "Ну, я перегнул палку..."
-msgstr "Eh bien, j'ai réagi de façon excessive..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1976
 msgid "Это мой шаг к дружбе"
-msgstr "C'est mon pas vers l'amitié"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1976
 msgid "Да надоела!"
-msgstr "J'en ai marre !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1976
 msgid "Ты знаешь, пусть всё остаётся как есть..."
-msgstr "Tu sais, laisses les choses comme elles sont..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:1989
 msgid "{i}свалить{/i}"
-msgstr "{i}se décharger{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2022
 msgid "Ага..."
-msgstr "Ouais..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2035
 msgid "Ничего, просто любуюсь..."
-msgstr "Rien, j'admire juste..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2035
 msgid "А ты чего в трусах?"
-msgstr "Pourquoi tu portes une culotte?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2035
 msgid "Я передумал. Можешь носить трусы..."
-msgstr "J'ai changé d'avis. Tu peux porter une culotte..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2041
 msgid "Мы же договорились - без трусов!"
-msgstr "On a dit pas de culotte !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2041
 msgid "Да шучу я..."
-msgstr "Je plaisante..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2091
 msgid "Я передумал. Ты можешь спать в лифчике, если хочешь."
-msgstr "J'ai changé d'avis. Tu peux dormir avec un soutien-gorge si tu veux."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2091
 msgid "Я передумал. Ты можешь спать в нижнем белье..."
-msgstr "J'ai changé d'avis. Tu peux dormir avec en sous-vêtements si tu veux..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2117
 msgid "Я передумал. Ты можешь носить свои джинсы, если захочешь."
-msgstr "J'ai changé d'avis. Tu peux porter tes jeans si tu veux."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2285
 msgid "Держи..."
-msgstr "Attends..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2285
 msgid "Не так быстро..."
-msgstr "Ralentis..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2290
 msgid "Да ничего, просто держи..."
-msgstr "C'est bon, tiens..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2290
 msgid "Устрой мне показ в нём..."
-msgstr "Trouves-moi une émission là-dedans..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2323
 msgid "Э... Хорошо..."
-msgstr "Euh... D’accord..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2339
 msgid "Очень... очень хорошо..."
-msgstr "Très... très bien..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2339
 msgid "А можешь наклониться?"
-msgstr "Tu peux te pencher ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2367
 msgid "Порылся в твоих вещах и нашёл, что читаешь!"
-msgstr "J'ai fouillé dans tes affaires et j'ai trouvé ce que tu lis !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2367
 msgid "Ну, я догадался! Я же умный!"
-msgstr "Eh bien, je l'ai deviné ! Je suis intelligent !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2367
 msgid "Я и не знал. Просто угадал видимо..."
-msgstr "Je ne savais pas. Je l'ai deviné apparemment..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2471
 msgid "Ага, я и не подглядываю..."
-msgstr "Ouais, je ne regarde pas..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2563
 msgid "Нет, просто хотел увидеть, как на тебе будет смотреться пижама..."
-msgstr "Non, je voulais juste voir à quoi ressemblerait ton pyjama..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2618
 msgid "Может быть, тебя намазать кремом для загара?"
-msgstr "Je te mets de la crème solaire ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2618
 msgid "{i}Предложить Алисе намазать её кремом{/i}"
-msgstr "{i}Suggérez à Alice de lui mettre de la crème solaire{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2618
 msgid "Ладно, загорай..."
-msgstr "Très bien, bain de soleil..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2660
 msgid "{i}нанести крем{/i}"
-msgstr "{i}appliquer la crème{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2660
 msgid "{i}сделать массаж с кремом{/i}"
-msgstr "{i}faire un massage avec la crème{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2660
 msgid "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\n"
 "крема недостаточно{/color}{/i}"
-msgstr "{i}{color=[gray]}faire un massage avec de la crème{/color}{color=[red]}\n"
-"la crème restante ne suffit pas{/color}{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2660
 msgid "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
-msgstr "{i}Merde, on est presque à court de crème... Faisons-le une autre fois alors...{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2676
 msgid "{i}наносить крем молча{/i}"
-msgstr "{i}appliquer la crème en silence{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2676
 msgid "А тебе нравится, что следы от лямок остаются?"
-msgstr "Aimerais-tu que des traces du maillot restent?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2699
 msgid "Массаж"
-msgstr "Masser"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2699
 msgid "Массаж ступней"
-msgstr "Massage des pieds"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2699
 msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr "Il s'agit d'une technique de massage unique qui a pour but d'apporter un effet revitalisant sur le corps. Elle est efficace et en même temps facile à réaliser."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2699
 msgid "Массаж кистей рук"
-msgstr "Massage des mains"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2829
 msgid "{i}массировать молча{/i}"
-msgstr "{i}massage en silence{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2854
 msgid "{i}выпустить рядом паука{/i}"
-msgstr "{i}déposer une araignée à proximité{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2983
 msgid "Что, стесняешься?"
-msgstr "Quoi, tu es timide ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:2983
 msgid "Ну, как хочешь..."
-msgstr "Eh bien, comme tu veux..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3056
 msgid "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
-msgstr "Asseyons-nous comme ça encore un peu et attendons. Et voilà, elle s'en va en rampant..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3056
 msgid "Спрячься за меня, хотя бы..."
-msgstr "Caches-toi derrière moi, au moins..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3056
 msgid "{i}потискать Алису за грудь{/i}"
-msgstr "{i}presser les seins d'Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3189
 msgid "{i}убрать руки{/i}"
-msgstr "{i}déplacer les mains{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3189
 msgid "{i}тискать дальше...{/i}"
-msgstr "{i}presser davantage...{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3327
 msgid "Да я же случайно оказался около душа..."
-msgstr "Oui, je me suis accidentellement approché de la douche..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3733
 msgid "Хочется надеяться, что так и будет..."
-msgstr "J’espère que ce sera le cas..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3817
 msgid "Именно на это я и надеюсь..."
-msgstr "C'est exactement ce que j'espère..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:3901
 msgid "Только если без последующего насилия..."
-msgstr "Seulement s'il n'y a pas de violence après..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4083
 msgid "Ты мне кое-что показала..."
-msgstr "Tu m'as montré quelque chose..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4083
 msgid "Ты мне кое-что сделала..."
-msgstr "Tu m'as fait quelque chose..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4083
 msgid "Мы делали кое-что..."
-msgstr "Nous avons fait quelque chose..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4083
 msgid "Да, ну извини..."
-msgstr "Ouais, eh bien, désolé..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4166
 msgid "Ничего..."
-msgstr "Rien..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4166
 msgid "Может, попозируешь для меня..."
-msgstr "Pourquoi ne pas poser pour moi..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4202
 msgid "Ну что, примеришь при мне?"
-msgstr "Eh bien, essaies-le avec moi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4502
 msgid "{i}подглядывать{/i}"
-msgstr "{i}voyeurisme{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4502
 msgid "{i}ждать{/i}"
-msgstr "{i}attendre{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4600
 msgid "Ладно, как знаешь..."
-msgstr "Ok, comme tu veux..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4696
 msgid "{i}стянуть верх купальника{/i}"
-msgstr "{i}Enlever le haut du maillot de bain{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4702
 msgid "{i}стянуть низ купальника{/i}"
-msgstr "{i}Enlever le bas du maillot de bain{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4709
 msgid "{i}шлёпать сильно{/i}"
-msgstr "{i}donner une fessée forte{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4796
 msgid "{i}шлёпать нежно{/i}"
-msgstr "{i}donner une fessée doucement{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4804
 msgid "И как, тебе нравится?"
-msgstr "Et comment l'aimes-tu?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4804
 msgid "Могу сильнее, раз ты заскучала!"
-msgstr "Je peux faire mieux si tu t'ennuies !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4949
 msgid "{i}идти за Алисой{/i}"
-msgstr "{i}suivre Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:4961
 msgid "{i}войти в комнату{/i}"
-msgstr "{i}entrez dans la salle{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5081
 msgid "Конфетка, я полагаю, тоже не спасёт. Но я всё равно предложу..."
-msgstr "Les chocolats, je suppose, ne me sauveront pas non plus. Mais je vais quand même le suggérer..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5193
 msgid "Давай уже быстрее с этим покончим..."
-msgstr "Passons à autre chose rapidement..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5193
 msgid "Ты же понимаешь, что я могу всыпать по твоей заднице в ответ?"
-msgstr "Tu réalises que je pourrais te rendre la pareille, n'est-ce pas ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5201
 msgid "{i}подчиниться{/i}"
-msgstr "{i}soumettre{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5201
 msgid "Да пошла ты!"
-msgstr "Vas te faire foutre !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5233
 msgid "{i}одеться и уйти{/i}"
-msgstr "{i}s'habiller et partir{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5276
 msgid "Конфетку? Она ни к чему не обязывает. Просто признание моей испорченности..."
-msgstr "Des friandises? Ca ne t'engage à rien. Juste un aveu de ma dépravation..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5276
 msgid "То же мне, преступника нашла..."
-msgstr "Quel criminel..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5294
 msgid "Хотя, знаешь... Я передумал. Лучше уж от мамы получить..."
-msgstr "Bien que, tu sais... J'ai changé d'avis. C'est mieux de l'obtenir de notre mère..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5328
 msgid "{i}снять одежду{/i}"
-msgstr "{i}striptease{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5339
 msgid "Ничего. Подождёшь, не развалишься..."
-msgstr "Aucun problème. Tu peux attendre, tu ne t'écrouleras pas..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5346
 msgid "Накажи меня! Я это заслужил..."
-msgstr "Punis-moi ! Je le mérite..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5346
 msgid "Давай уже быстрее, тебя ждём..."
-msgstr "Dépêches-toi, nous t'attendons..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5353
 msgid "Да, я виноват и меня нужно наказать!"
-msgstr "Oui, je suis coupable et je dois être puni !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5385
 msgid "Вертел я тебя знаешь на чём?!"
-msgstr "Tu sais sur quoi je t'ai fait tourner ?!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5474
 msgid "Как-то мне страшно это озвучивать..."
-msgstr "D'une certaine manière, j'ai peur de le dire..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5474
 msgid "Для начала, я бы полюбовался твоими прелестями поближе!"
-msgstr "Pour commencer, j'aimerais bien voir de plus près tes charmes!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5490
 msgid "А ты меня развяжи и мы это исправим..."
-msgstr "Et tu me détaches et on va arranger ça..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5490
 msgid "Раз я привязан, то на меня можно очень удобно присесть..."
-msgstr "Comme je suis attaché, tu peux t'asseoir sur moi très confortablement..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5525
 msgid "{i}ласкать её грудь языком{/i}"
-msgstr "{i}caresser ses seins avec la langue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5525
 msgid "{i}ласкать её грудь губами{/i}"
-msgstr "{i}caresser ses seins avec les lèvres{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5566
 msgid "{i}продолжить ласкать{/i}"
-msgstr "{i}Continuer les caresses{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5574
 msgid "{i}целоваться с Алисой{/i}"
-msgstr "{i}embrasser Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5616
 msgid "{i}пытаться впечатлить{/i}"
-msgstr "{i}essayer d'impressionner{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5649
 msgid "{i}дать Алисе кончить{/i}"
-msgstr "{i}laisser Alice jouir{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5717
 msgid "Ага, не вопрос. Сделаю."
-msgstr "Oui, pas de problème. Je le ferai."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5717
 msgid "Нет, лучше давай сама..."
-msgstr "Non, tu ferais mieux de le faire toi-même..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5722
 msgid "{i}отнести тарелки на веранду{/i}"
-msgstr "{i}amener les assiettes à la véranda{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5737
 msgid "{i}приступить к ужину{/i}"
-msgstr "{i}commencer le dîner{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5737
 msgid "{i}подмешать Эрику в тарелку слабительное{/i}"
-msgstr "{i}glisser un laxatif dans l'assiette d'Eric{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5737
 msgid "{i}подмешать Эрику в тарелку успокоительное{/i}"
-msgstr "{i}glisser un sédatif dans l'assiette d'Eric{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/alicetalk.rpy:5779
 msgid "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
-msgstr "{b}Alerte: {/b} Alice ne veut plus interagir avec Max"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

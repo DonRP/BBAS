@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
@@ -66,25 +66,35 @@ msgstr "_ver [_version], conf.ver [config.version]"
 
 # XXtranslate crowdin strings:XX# XX## game/core/core.rpy:411
 msgid "В интернет-магазине доступен новый товар."
-msgstr "Un nouveau produit est disponible dans la boutique en ligne."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/core.rpy:817
 msgid "{i}идти на веранду{/i}"
-msgstr "{i}Aller à la véranda{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/core.rpy:817
 msgid "{i}не сейчас{/i}"
-msgstr "{i}pas maintenant{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/core.rpy:1108
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
-msgstr "C'est intéressant ! J'ai dit à Alice, par intérêt, que je ne voulais plus prendre sa défense lorsqu'elle était punie, mais que j'étais prêt à continuer à le faire si elle acceptait de recevoir une fessée de ma part.\\n\\nElle l'a d'abord pris mal, mais après quelques punitions de notre mère, elle a accepté que je lui donne la fessée. Du moins, s'il était possible de sauver Alice de la main de notre mère. Je ne dois pas oublier non plus de discuter avec elle, du moment où, je pourrais lui donner une fessée.\\n\\nIl y a, cependant, une petite nuance qui a fait qu'Alice a accepté... J'ai promis de lui donner une fessée par trop forte. Ouais, ça ne va pas être facile de résister à la gifler violemment pour avoir été une telle salope..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/core.rpy:1108
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
-msgstr "Le spectacle est vraiment fascinant! Peu de gens ont réussi à déshabiller et fesser leur grande sœur...\\n\\nMême si elle est grincheuse et menaçante, ma persistance semble avoir eu raison d'elle. Admirer son cul nu et ferme est un plaisir, tout comme le fait de le gifler.\\n\\nEt maintenant, je sais comment ne pas exagérer pour profiter le plus longtemps possible de cette punition privée..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

@@ -10,429 +10,633 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
 msgid "массаж, "
-msgstr "masser, "
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/screens.rpy:250
 msgid "убеждение, "
-msgstr "croyance, "
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:250
 msgid "сексуальный опыт, "
-msgstr "expérience sexuelle, "
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:250
 msgid "поцелуи, "
-msgstr "embrasser, "
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:250
 msgid "удача, "
-msgstr "chance, "
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:250
 msgid "скрытность, "
-msgstr "secret, "
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:277
 msgid "[txt] \n"
 "{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-msgstr "[txt] \n"
-"{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:339
 msgid "История"
-msgstr "Histoire principale"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:340
 msgid "Пропуск"
-msgstr "Sauter"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:341
 msgid "Авто"
-msgstr "Automatique"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:342
 msgid "Сохранить"
-msgstr "Sauvegarder"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:343
 msgid "Б.Сохр"
-msgstr "B.Sohr"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:344
 msgid "Б.Загр"
-msgstr "B.Zagr"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:345
 msgid "Опции"
-msgstr "Options"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:390
 msgid "Загрузить игру"
-msgstr "Charger un Jeu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:393
 msgid "Сохранить игру"
-msgstr "Sauvegarder la partie"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:396
 msgid "Настройки"
-msgstr "Paramètres"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:403
 msgid "Завершить повтор"
-msgstr "Terminer la répétition"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:406
 msgid "Главное меню"
-msgstr "Menu principal"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:413
 msgid "Выйти из игры"
-msgstr "Quitter le jeu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:419
 msgid "Назад"
-msgstr "Précédent"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:526
 msgid "НОВАЯ ИГРА"
-msgstr "NOUVEAU JEU"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:532
 msgid "ПРОДОЛЖИТЬ"
-msgstr "CONTINUER"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:535
 msgid "ЗАГРУЗИТЬ"
-msgstr "TÉLÉCHARGER"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:539
 msgid "НАСТРОЙКИ"
-msgstr "PARAMÈTRES"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:540
 msgid "ВЫЙТИ"
-msgstr "QUITTER"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:572
 msgid "МЕНЮ"
-msgstr "MENU"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:706
 msgid "Введите описание файла сохранения:"
-msgstr "Entrer une description du fichier de sauvegarde:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:727
 msgid "(Нет описания)"
-msgstr "(Aucune description)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:746
 msgid "{} страница"
-msgstr "{} page"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:746
 msgid "Автосохранения"
-msgstr "Enregistrement automatique"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:746
 msgid "Быстрые сохранения"
-msgstr "Sauvegarde rapides"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:822
 msgid "{#file_time}%a, %d %b %Y, %H:%M"
-msgstr "{#file_time}%a, %d %b %Y, %H:%M"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:822
 msgid "Пустой слот"
-msgstr "Emplacement vide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:830
 msgid "ДЕНЬ [load_day]"
-msgstr "JOUR [load_day]"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:882
 msgid "{#file_time}%d %b %Y, %H:%M"
-msgstr "{#file_time}%d %b %Y, %H:%M"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:906
 msgid "<"
-msgstr "<"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:909
 msgid "{#auto_page}Автосохр."
-msgstr "{#auto_page}Sauvegarde automatique."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:912
 msgid "{#quick_page}Быстрые сохр."
-msgstr "{#quick_page}Sauvegarde rapide."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:918
 msgid ">"
-msgstr ">"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:990
 msgid "Режим экрана"
-msgstr "Mode d'affichage"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:991
 msgid "Оконный"
-msgstr "Fenêtre"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:992
 msgid "Полный"
-msgstr "Plein écran"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:995
 msgid "Сторона отката"
-msgstr "Côté retour en arrière"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:996
 msgid "Отключено"
-msgstr "Désactivé"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:997
 msgid "Левая"
-msgstr "Gauche"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:998
 msgid "Правая"
-msgstr "Droite"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1004
 msgid "Всего текста"
-msgstr "Texte entier"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1005
 msgid "После выборов"
-msgstr "Après la selection"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1006
 msgid "Переходов"
-msgstr "Navigation"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1009
 msgid "Язык"
-msgstr "Langue"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1030
 msgid "Дополнительно"
-msgstr "Avancés"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1031
 msgid "Именованные сохранения"
-msgstr "Conservation nommée"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1032
 msgid "Прозрачное текстовое окно"
-msgstr "Zone texte transparente"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1033
 msgid "Отображать все \"Возможности\""
-msgstr "Afficher toutes les 'opportunités'"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1034
 msgid "Переодевания Лизы пропускаются, если Макс в комнате"
-msgstr "Le changement de tenue de Lisa est ignoré si Max est dans la pièce"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1047
 msgid "Скорость текста"
-msgstr "Vitesse du texte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1051
 msgid "Скорость авточтения"
-msgstr "Vitesse de lecture automatique"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1058
 msgid "Громкость музыки"
-msgstr "Volume de la musique"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1065
 msgid "Громкость звуков"
-msgstr "Volume des sons du jeu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1071
 msgid "Тест"
-msgstr "Tester"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1075
 msgid "Громкость голоса"
-msgstr "Volume des voix"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1086
 msgid "Без звука"
-msgstr "En sourdine"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1207
 msgid "История диалогов пуста."
-msgstr "L'historique de dialogue est vide."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1270
 msgid "Помощь"
-msgstr "Aide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1279
 msgid "Клавиатура"
-msgstr "Clavier"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1280
 msgid "Мышь"
-msgstr "Souris"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1283
 msgid "Геймпад"
-msgstr "Manette de Jeu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1296
 msgid "Enter"
-msgstr "Entrée"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1297
 msgid "Прохождение диалогов, активация интерфейса."
-msgstr "Passer les dialogues, activer l'interface de choix."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1300
 msgid "Пробел"
-msgstr "Barre d'espace"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1301
 msgid "Прохождение диалогов без возможности делать выбор."
-msgstr "Passer les dialogues sans pouvoir faire de choix."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1304
 msgid "Стрелки"
-msgstr "Flèches"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1305
 msgid "Навигация по интерфейсу."
-msgstr "Navigation dans l’interface."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1308
 msgid "Esc"
-msgstr "Esc"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1309
 msgid "Вход в игровое меню."
-msgstr "Entrez dans le menu du jeu."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1312
 msgid "Ctrl"
-msgstr "Ctrl"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1313
 msgid "Пропускает диалоги, пока зажат."
-msgstr "Ignore la boîte de dialogue lorsque s’est skippé."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1316
 msgid "Tab"
-msgstr "Tab"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1317
 msgid "Включает режим пропуска."
-msgstr "Active le mode skipper - ignorer."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1320
 msgid "Page Up"
-msgstr "Page haut"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1321
 msgid "Откат назад по сюжету игры."
-msgstr "Revenir en arrière dans l'histoire du jeu."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1324
 msgid "Page Down"
-msgstr "Page bas"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1325
 msgid "Откатывает предыдущее действие вперёд."
-msgstr "Faire avancer à l’action précédente."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1329
 msgid "Скрывает интерфейс пользователя."
-msgstr "Masquer l’interface utilisateur."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1333
 msgid "Делает снимок экрана."
-msgstr "Prend une capture d’écran."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1337
 msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
-msgstr "Activer le synthétiseur vocal {a=https://www.renpy.org/l/voicing}pris en charge{/a}."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1343
 msgid "Левый клик"
-msgstr "Clic gauche"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1347
 msgid "Клик колёсиком"
-msgstr "Clic sur la molette"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1351
 msgid "Правый клик"
-msgstr "Clic droit"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1355
 msgid "Колёсико вверх\n"
 "Клик на сторону отката"
-msgstr "Roulette en haut\n"
-"Cliquer sur le côté pour le retour en arrière"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1359
 msgid "Колёсико вниз"
-msgstr "Roulette vers le bas"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1366
 msgid "Правый триггер\n"
 "A/Нижняя кнопка"
-msgstr "Bouton droit\n"
-"A/Bouton du bas"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1370
 msgid "Левый Триггер\n"
 "Левый Бампер"
-msgstr "Bouton gauche\n"
-"pare-chocs gauche"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1374
 msgid "Правый бампер"
-msgstr "Bouton en haut à droite"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1379
 msgid "Крестовина, Стики"
-msgstr "D-pad, Bouton"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1383
 msgid "Start, Guide"
-msgstr "Démarrer, le guide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1387
 msgid "Y/Верхняя кнопка"
-msgstr "Bouton Y/En haut"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1390
 msgid "Калибровка"
-msgstr "Calibration"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1456
 msgid "Да"
-msgstr "Oui"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1457
 msgid "Нет"
-msgstr "Non"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1503
 msgid "Пропускаю"
-msgstr "Sauter"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1727
 msgid "Скрыть интерфейс"
-msgstr "Masquer l'interface graphique"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/screens.rpy:1728
 msgid "Меню"
-msgstr "Menu"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

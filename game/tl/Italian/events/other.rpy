@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/other.rpy:11 ## translate crowdin shoping_034007bc:
 msgid "[Ann_05] Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -1038,197 +1038,295 @@ msgstr "[Max_08] {m}C'è poca crema rimasta, la prossima volta potrebbe non esse
 
 # XXtranslate crowdin strings:XX# XX## game/events/other.rpy:10
 msgid "Удачи"
-msgstr "Buona Fortuna"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Buona Fortuna"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:40
 msgid "Да, жаль, что не купили его..."
-msgstr "Sì, vorrei che l'avessimo comprato..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, vorrei che l'avessimo comprato..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:40
 msgid "Я бы с удовольствием на это посмотрел..."
-msgstr "Mi piacerebbe guardarlo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi piacerebbe guardarlo..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:48
 msgid "Слишком дорогой это сколько?"
-msgstr "Troppo costoso è quanto?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Troppo costoso è quanto?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:48
 msgid "Насколько открытые?"
-msgstr "Quanto è aperto?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Quanto è aperto?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:59
 msgid "Верно, сами разберёмся без Эрика"
-msgstr "Esatto, cerchiamo di capirlo senza Eric"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Esatto, cerchiamo di capirlo senza Eric"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:59
 msgid "Кстати, где он?"
-msgstr "A proposito, dov'è?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "A proposito, dov'è?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:123
 msgid "Очень приятно..."
-msgstr "Molto bello..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Molto bello..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:123
 msgid "Я думал он выше..."
-msgstr "Pensavo che fosse sopra..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensavo che fosse sopra..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:128
 msgid "Всё отлично. Ищу себя, так сказать..."
-msgstr "Va tutto bene. Sto cercando me stesso, per così dire..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Va tutto bene. Sto cercando me stesso, per così dire..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:128
 msgid "Да то тем, то этим..."
-msgstr "Sì, allora questo, allora questo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, allora questo, allora questo..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:128
 msgid "Отвечаю вот на дурацкие вопросы..."
-msgstr "Sto rispondendo a domande stupide..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sto rispondendo a domande stupide..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:149
 msgid "Стараюсь больше слушать..."
-msgstr "Cerco di ascoltare di più..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cerco di ascoltare di più..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:149
 msgid "Типа того..."
-msgstr "Così..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Così..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:149
 msgid "Да было бы о чём говорить..."
-msgstr "Sì, ci sarebbe qualcosa di cui parlare..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, ci sarebbe qualcosa di cui parlare..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:170
 msgid "Да, мне тоже. Извините..."
-msgstr "Sì, anche io. Mi scusi..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, anche io. Mi scusi..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:170
 msgid "А мне вот не очень..."
-msgstr "E io non proprio..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E io non proprio..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:187
 msgid "Да мне всё равно..."
-msgstr "Non mi interessa..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non mi interessa..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:198
 msgid "{i}идти к столу{/i}"
-msgstr "{i}vai alla tabella{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}vai alla tabella{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:218
 msgid "Извини, Эрик, я просто не в духе..."
-msgstr "Scusa Eric, non sono proprio nello spirito..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Scusa Eric, non sono proprio nello spirito..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:218
 msgid "Нормально себя веду..."
-msgstr "Mi comporto normalmente..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi comporto normalmente..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:245
 msgid "Здравствуй, тётя Кира!"
-msgstr "Ciao, zia Kira!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ciao, zia Kira!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:245
 msgid "Что значит почти? Я настоящий мужчина!"
-msgstr "Cosa significa quasi? Sono un vero uomo!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cosa significa quasi? Sono un vero uomo!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:260
 msgid "А мне можно тоже обнять свою тётю?"
-msgstr "Posso abbracciare anche mia zia?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Posso abbracciare anche mia zia?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:269
 msgid "В гостинице?"
-msgstr "In un hotel?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "In un hotel?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:269
 msgid "Дела?"
-msgstr "Caso?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Caso?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:269
 msgid "Так ты два дня здесь?"
-msgstr "Quindi sei qui per due giorni?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Quindi sei qui per due giorni?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:299
 msgid "Да не стоит..."
-msgstr "Non..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:299
 msgid "Хорошо, тётя Кира!"
-msgstr "Va bene, zia Kira!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Va bene, zia Kira!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:313
 msgid "Выглядит отлично!"
-msgstr "Sembra fantastico!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sembra fantastico!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:313
 msgid "Ну-ка, повернись..."
-msgstr "Beh, girati..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, girati..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:326
 msgid "А что такого? Пусть ходит, я не против..."
-msgstr "Cos'è? Lascialo camminare, non mi dispiace..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cos'è? Lascialo camminare, non mi dispiace..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:340
 msgid "Нет, мам, всё отлично!"
-msgstr "No, mamma, va bene!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "No, mamma, va bene!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:340
 msgid "А можешь немного повернуться?"
-msgstr "Riesci a girarti un po '?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Riesci a girarti un po '?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:347
 msgid "Ты знаешь, длина оптимальная!"
-msgstr "Sai, la lunghezza è ottimale!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sai, la lunghezza è ottimale!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:347
 msgid "Мне нравится, мам!"
-msgstr "Mi piace, mamma!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi piace, mamma!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:358
 msgid "Мне нравится. Просто и со вкусом!"
-msgstr "Mi piace. Semplice e di buon gusto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi piace. Semplice e di buon gusto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:358
 msgid "Отличные... вещички!"
-msgstr "Benissimo... Cose!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Benissimo... Cose!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:358
 msgid "И почти ничего не видно..."
-msgstr "E quasi nulla è visibile..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E quasi nulla è visibile..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:442
 msgid "{i}подставить Эрика{/i}"
-msgstr "{i}incastrare Eric{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}incastrare Eric{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:449
 msgid "{i}осторожно дрочить на Алису{/i}"
-msgstr "{i}che si masturba cautamente con Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}che si masturba cautamente con Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:456
 msgid "{i}кончить Алисе на ноги{/i}"
-msgstr "{i}sborrare sui piedi di Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}sborrare sui piedi di Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:463
 msgid "{i}осторожно идти спать{/i}"
-msgstr "{i}attento ad andare a letto{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}attento ad andare a letto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:808
 msgid "{g}Отношения Макса с семьёй значительно улучшились.{/g}"
-msgstr "{g}Il rapporto di Max con la sua famiglia è migliorato notevolmente.{/g}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{g}Il rapporto di Max con la sua famiglia è migliorato notevolmente.{/g}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:837
 msgid "{i}собираться в военный лагерь{/i}"
-msgstr "{i}fare i bagagli per un campo militare{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}fare i bagagli per un campo militare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:837
 msgid "{i}накинуться на Эрика{/i}"
-msgstr "{i}balzare su Eric{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}balzare su Eric{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:854
 msgid "{i}загрузить игру{/i}"
-msgstr "{i}scaricare il gioco{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}scaricare il gioco{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:854
 msgid "{i}вернуться в главное меню{/i}"
-msgstr "{i}torna al menu principale{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}torna al menu principale{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/other.rpy:854
 msgid "{i}выйти из игры{/i}"
-msgstr "{i}abbandonare{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}abbandonare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 

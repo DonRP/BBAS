@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:20\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/script.rpy:58 ## translate crowdin intro_8dea4dcf:
 msgid "[Max_00] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
@@ -150,33 +150,49 @@ msgstr "[Max_04] Mais vous ne devez pas non plus en avoir peur. C'est grâce à 
 
 # XXtranslate crowdin strings:XX# XX## game/script.rpy:57
 msgid "{i}далее{/i}"
-msgstr "{i}suivant{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:57
 msgid "{i}пропустить{/i}"
-msgstr "{i}sauter - skipper{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:85
 msgid "{i}пару недель спустя...{/i}"
-msgstr "{i}quelques semaines plus tard... {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:98
 msgid "{i}спустя неделю...{/i}"
-msgstr "{i}une semaine plus tard... {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:104
 msgid "{i}Начать игру{/i}"
-msgstr "{i}Démarrer le jeu{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:104
 msgid "{i}Повторить историю{/i}"
-msgstr "{i}Répéter le prologue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:121
 msgid "{i}всё ясно{/i}"
-msgstr "{i}tout est clair{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/script.rpy:121
 msgid "{i}повторить{/i}"
-msgstr "{i}répéter{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

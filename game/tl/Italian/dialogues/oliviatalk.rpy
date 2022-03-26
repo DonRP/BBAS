@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
@@ -998,53 +998,79 @@ msgstr "[Max_01] Alla prossima volta, allora, ragazze. [nointeract]"
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
-msgstr "Anche se, no... In realtà ho cose da fare..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Anche se, no... In realtà ho cose da fare..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid "Давай перенесём..."
-msgstr "Spostiamoci..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Spostiamoci..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid "Тогда приятного вам просмотра..."
-msgstr "Allora goditi la tua visione..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Allora goditi la tua visione..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:265
 msgid "{i}идти в гостиную{/i}"
-msgstr "{i}vai in salotto{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}vai in salotto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:320
 msgid "{i}устроиться поудобнее и наблюдать{/i}"
-msgstr "{i}siediti e guarda{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}siediti e guarda{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:413
 msgid "{i}массировать Оливию кремом для загара{/i}"
-msgstr "{i}massaggiare Olivia con la protezione solare{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiare Olivia con la protezione solare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:438
 msgid "{i}массировать Лизу кремом для загара{/i}"
-msgstr "{i}per massaggiare Lisa con la protezione solare{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}per massaggiare Lisa con la protezione solare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:499
 msgid "{i}сначала делать массаж Оливии{/i}"
-msgstr "{i}per dare a Olivia un massaggio prima{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}per dare a Olivia un massaggio prima{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:499
 msgid "{i}сначала делать массаж Лизе{/i}"
-msgstr "{i}per massaggiare Lisa prima{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}per massaggiare Lisa prima{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:534
 msgid "{i}обнаглеть и массировать Оливии попку{/i}"
-msgstr "{i}spogliarsi e massaggiare il sedere di Olivia{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}spogliarsi e massaggiare il sedere di Olivia{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:534
 msgid "{i}делать массаж Лизе{/i}"
-msgstr "{i}per fare un massaggio a Lisa{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}per fare un massaggio a Lisa{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:591
 msgid "{i}развязать Лизе купальник{/i}"
-msgstr "{i}slegare il costume da bagno di Lisa{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}slegare il costume da bagno di Lisa{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/oliviatalk.rpy:645
 msgid "{i}делать массаж Оливии{/i}"
-msgstr "{i}fare un massaggio a Olivia{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}fare un massaggio a Olivia{/i}"
+msgstr[1] "Ignore this. translate only: One"
 

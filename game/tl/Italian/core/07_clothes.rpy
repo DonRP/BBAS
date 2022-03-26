@@ -10,53 +10,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:34\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid "Повседневная"
-msgstr "Informale"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Informale"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для сна"
-msgstr "Per dormire"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Per dormire"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для йоги"
-msgstr "Per lo Yoga"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Per lo Yoga"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Блог в нижнем белье"
-msgstr "Blog in intimo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Blog in intimo"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит завтрак"
-msgstr "Prepara la colazione"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Prepara la colazione"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит ужин"
-msgstr "Cucina la cena"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cucina la cena"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Утренний отдых"
-msgstr "Riposo mattutino"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Riposo mattutino"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Вечерний отдых"
-msgstr "Riposo serale"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Riposo serale"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Купальник"
-msgstr "Costume da bagno"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Costume da bagno"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "За уроками"
-msgstr "Per le lezioni"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Per le lezioni"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для прогулок"
-msgstr "Per le passeggiate"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Per le passeggiate"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/07_clothes.rpy:472
 msgid "Влияние Макса недостаточно"
-msgstr "L'influenza di Max non è sufficiente"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "L'influenza di Max non è sufficiente"
+msgstr[1] "Ignore this. translate only: One"
 

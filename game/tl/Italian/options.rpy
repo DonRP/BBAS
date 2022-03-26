@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-"Большой брат: Другая история\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -11,9 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
 msgid "Большой брат: Другая история"
-msgstr "Big Brother: un'altra storia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Big Brother: un'altra storia"
+msgstr[1] "Ignore this. translate only: One"
 

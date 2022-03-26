@@ -10,45 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
-msgstr "{i}rechercher sous le lit{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:34
 msgid "{i}искать в тумбочке{/i}"
-msgstr "{i}regarder dans la table de nuit{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:37
 msgid "{i}искать в столе{/i}"
-msgstr "{i}rechercher sur le bureau{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:56
 msgid "{i}массировать ступни{/i}"
-msgstr "{i}massage des jambes{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:64
 msgid "{i}массировать голени{/i}"
-msgstr "{i}masser le bas des jambes{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:74
 msgid "{i}массировать бёдра{/i}"
-msgstr "{i}masser les hanches{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:78
 msgid "{i}массировать плечи{/i}"
-msgstr "{i}masser les épaules{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:82
 msgid "{i}массировать спину{/i}"
-msgstr "{i}masser le dos{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:87
 msgid "{i}массировать попку{/i}"
-msgstr "{i}masser les fesses{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:108
 msgid "{i}искать на кровати{/i}"
-msgstr "{i}chercher sur le lit {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

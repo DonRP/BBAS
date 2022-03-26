@@ -10,25 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:34\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:372
 msgid "Не определены"
-msgstr "Non definito"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non definito"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/08_verification.rpy:374
 msgid "Откровенная вражда"
-msgstr "Ostilità aperta"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ostilità aperta"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/08_verification.rpy:384
 msgid "Дружба"
-msgstr "Amicizia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Amicizia"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/08_verification.rpy:392
 msgid "Настоящая дружба"
-msgstr "La vera amicizia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "La vera amicizia"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/08_verification.rpy:403
 msgid "Фальшивая дружба"
-msgstr "Finta amicizia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Finta amicizia"
+msgstr[1] "Ignore this. translate only: One"
 

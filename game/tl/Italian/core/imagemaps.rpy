@@ -10,45 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
-msgstr "{i}cerca sotto il letto{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}cerca sotto il letto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:34
 msgid "{i}искать в тумбочке{/i}"
-msgstr "{i}guarda nel comodino{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}guarda nel comodino{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:37
 msgid "{i}искать в столе{/i}"
-msgstr "{i}guarda nella tabella{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}guarda nella tabella{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:56
 msgid "{i}массировать ступни{/i}"
-msgstr "{i}massaggiare i piedi{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiare i piedi{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:64
 msgid "{i}массировать голени{/i}"
-msgstr "{i}massaggiare gli stinchi{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiare gli stinchi{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:74
 msgid "{i}массировать бёдра{/i}"
-msgstr "{i}massaggiare i fianchi{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiare i fianchi{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:78
 msgid "{i}массировать плечи{/i}"
-msgstr "{i}massaggiare gli stinchi{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiare gli stinchi{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:82
 msgid "{i}массировать спину{/i}"
-msgstr "{i}massaggiare la schiena{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiare la schiena{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:87
 msgid "{i}массировать попку{/i}"
-msgstr "{i}massaggiarmi il culo{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}massaggiarmi il culo{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/imagemaps.rpy:108
 msgid "{i}искать на кровати{/i}"
-msgstr "{i}cerca sul letto{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}cerca sul letto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 

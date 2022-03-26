@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
 msgid "[Max_01] {m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m} [nointeract]"
@@ -2842,333 +2842,499 @@ msgstr "[Max_02] {m}Kira n'a pas manqué une seule goutte! Et comme si personne 
 
 # XXtranslate crowdin strings:XX# XX## game/events/kira.rpy:87
 msgid "{i}идти к Кире{/i}"
-msgstr "{i}aller voir Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:205
 msgid "{i}присоединиться к тёте{/i}"
-msgstr "{i}rejoindre ma tante{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:240
 msgid "А моё напряжение только растёт, тётя Кира! Может поможешь?"
-msgstr "Et ma tension ne fait que croître, tante Kira ! Peux-tu m'aider ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:271
 msgid "{i}подтянуть её к себе и ласкать пальцами{/i}"
-msgstr "{i}la serrer contre elle et la caresser avec ses doigts{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:271
 msgid "{i}пытаться не кончить{/i}"
-msgstr "{i}essayer de ne pas jouir{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:310
 msgid "{i}поработать языком{/i}"
-msgstr "{i}travailler avec la langue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:310
 msgid "{i}проникнуть в неё пальцами{/i}"
-msgstr "{i}la pénétrer avec les doigts{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:318
 msgid "{i}работать языком быстрее{/i}"
-msgstr "{i}travailler plus vite{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:368
 msgid "Садись на меня, тётя Кира!"
-msgstr "Assieds-toi sur moi, tante Kira !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:368
 msgid "Давай-ка сюда свою шикарную попку!"
-msgstr "Amènes ton magnifique cul par ici !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:387
 msgid "{i}приблизиться членом к её лицу{/i}"
-msgstr "{i}mettre sa bite près de son visage{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:405
 msgid "Ох, тётя Кира... Ты слишком ловко меня дразнишь! Я могу не выдержать..."
-msgstr "Oh, tante Kira... Tu me taquines trop gentiment! Je pourrais ne pas y arriver..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:421
 msgid "Да, давай ещё тётя Кира! Какие же горячие и ненасытные у тебя губки... Да..."
-msgstr "Oui, aller tante Kira ! Comme tes lèvres sont chaudes et insatiables... Oui..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:431
 msgid "Тётя Кира, я больше не могу... сейчас кончу! Да-а-а..."
-msgstr "Tante Kira, je ne peux pas continuer... Je vais jouir! Ouais..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:539
 msgid "{i}кончить в неё{/i}"
-msgstr "{i}jouir en elle{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:539
 msgid "{i}кончить ей на ноги{/i}"
-msgstr "{i}le sperme sur ses pieds{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:539
 msgid "{i}кончить ей в рот{/i}"
-msgstr "{i}dans sa bouche{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:579
 msgid "{i}трахать её{/i}"
-msgstr "{i}la baiser{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:595
 msgid "{i}кончить ей на попку{/i}"
-msgstr "{i}le sperme sur son cul{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:733
 msgid "Да, что-то не спится... К тебе можно?"
-msgstr "Oui, je ne peux pas dormir... Je peux venir ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:733
 msgid "Не могу уснуть, слишком напряжён! {i}(снять шорты){/i}"
-msgstr "Je ne peux pas dormir, je suis trop tendu! {i}(baisser le short){/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:733
 msgid "Я просто прогуливался перед сном. Пойду, уже поздно..."
-msgstr "Je faisais juste une promenade avant d'aller me coucher. Je vais y aller, il se fait tard..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:766
 msgid "{i}кончить ей в рот!{/i}"
-msgstr "{i}dans sa bouche !{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:794
 msgid "{i}спуститься к Кире{/i}"
-msgstr "{i}descendre voir Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:848
 msgid "{i}получать удовольствие{/i}"
-msgstr "{i}Se divertir{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:915
 msgid "{i}подойти поближе{/i}"
-msgstr "{i}s'approcher{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:988
 msgid "{i}посмотреть, что будет дальше{/i}"
-msgstr "{i}voir ce qui se passe ensuite{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:988
 msgid "{i}уже поздно, пора спать...{/i}"
-msgstr "{i}Il est tard, c'est l'heure de se coucher....{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:995
 msgid "Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
-msgstr "Moi quelque chose de pas dormi. Je peux regarder la télé aussi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:995
 msgid "Я насчёт уроков поцелуев, если момент подходящий..."
-msgstr "Je suis là pour les leçons de baisers, si le moment est bien choisi..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:995
 msgid "Я просто хотел пожелать спокойной ночи!"
-msgstr "Je voulais juste te dire bonne nuit !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:998
 msgid "Может быть, эротику?"
-msgstr "Peut-être érotique ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:998
 msgid "Давай смотреть порно?!"
-msgstr "Regardons du porno?!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1024
 msgid "Ни капли!"
-msgstr "Pas une goutte !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1024
 msgid "Да ты продолжай, я посижу, посмотрю..."
-msgstr "Vas-y, je vais m'asseoir et regarder..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1067
 msgid "Конечно, да!"
-msgstr "Oui bien sûr!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1102
 msgid "Вообще-то, с лучшей тётей на свете!"
-msgstr "En fait, avec la meilleure tante du monde!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1150
 msgid "{i}начать дрочить{/i}"
-msgstr "{i}commencer à se branler{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1225
 msgid "{i}начать ласкать её киску языком{/i}"
-msgstr "{i}commencer à caresser sa chatte avec la langue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1230
 msgid "{i}раздеть её и повернуть{/i}"
-msgstr "{i}la déshabiller et la retourner{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1250
 msgid "{i}продолжить языком{/i}"
-msgstr "{i}Continuer avec la langue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1276
 msgid "С чего начнём?"
-msgstr "Par où commencer?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1276
 msgid "Как в прошлый раз?"
-msgstr "Comme la dernière fois ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1303
 msgid "{i}поцеловать её{/i}"
-msgstr "{i}l'embrasser{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1309
 msgid "{i}продолжить целоваться{/i}"
-msgstr "{i}continuer à embrasser{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1371
 msgid "{i}прикоснуться к её попке{/i}"
-msgstr "{i}toucher son cul{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1371
 msgid "{i}подтянуть её ближе к себе{/i}"
-msgstr "{i}la rapprocher de moi{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1447
 msgid "Давай ещё немного, тётя Кира... У меня ведь неплохо получается?"
-msgstr "Encore un peu, tante Kira... Je suis plutôt bon, n'est-ce pas ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1456
 msgid "{i}развязать её ночнушку{/i}"
-msgstr "{i}détacher sa nuisette{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1522
 msgid "{i}ласкать её грудь и киску{/i}"
-msgstr "{i}Caresser ses seins et sa chatte{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1544
 msgid "{i}продолжить пальцами и языком{/i}"
-msgstr "{i}continuer avec les doigts et la langue{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1568
 msgid "Как бы мне не кончить уже сейчас! Какой у тебя игривый язычок... Ммм..."
-msgstr "J'aimerais pouvoir jouir maintenant! Quelle langue experte tu as... Mmm..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1587
 msgid "Да, вот так тётя Кира, твои губки творят чудеса! Охх..."
-msgstr "Oui, c'est ça tante Kira, tes lèvres font des merveilles! Ohhh..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1601
 msgid "Тётя Кира, ещё быстрее... Да... Я сейчас кончу... А-а-а..."
-msgstr "Tante Kira, encore plus vite... Oui... Je vais jouir maintenant... Ahh..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1670
 msgid "{i}раздеть её{/i}"
-msgstr "{i}la mettre à poil{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1670
 msgid "{i}раздеться вместе{/i}"
-msgstr "{i}se déshabiller ensemble{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1876
 msgid "{i}трахнуть тётю Киру{/i} (миссионерская поза)"
-msgstr "{i}baiser tante Kira{/i} (position du missionnaire)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1876
 msgid "{i}снять шорты и трахнуть тётю Киру{/i} (миссионерская поза)"
-msgstr "{i}enlever son short et baiser Tante Kira{/i} (position du missionnaire)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1876
 msgid "{i}трахнуть тётю Киру{/i} (поза на боку)"
-msgstr "{i}baiser tante Kira{/i} (position latérale)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1888
 msgid "{i}трахнуть тётю Киру (догги-стайл){/i}"
-msgstr "{i}baiser tante Kira{/i}  (doggie-style)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1918
 msgid "Порадуешь меня минетом, тётя Кира?"
-msgstr "Tu me feras une fellation, tante Kira ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1918
 msgid "Давай сменим позу, тётя Кира..."
-msgstr "Changeons de position, tante Kira..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:1983
 msgid "{i}кончить в Киру{/i}"
-msgstr "{i}Jouir sur Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2037
 msgid "{i}кончить ей на живот{/i}"
-msgstr "{i}le sperme sur son ventre{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2312
 msgid "К тебе можно, тётя Кира?"
-msgstr "Je peux te voir, tante Kira ?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2312
 msgid "Я не помешаю?"
-msgstr "Je peux vous déranger?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2403
 msgid "{i}раздеться и присоединиться к Кире{/i}"
-msgstr "{i}se déshabiller et rejoindre Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2409
 msgid "{i}ласкать её грудь{/i}"
-msgstr "{i}Caresser ses seins{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2473
 msgid "{i}ласкать быстрее{/i}"
-msgstr "{i}caresser plus vite {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2473
 msgid "{i}ласкать медленнее{/i}"
-msgstr "{i}caresser plus lentement {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2916
 msgid "Давай лучше я уложу тётю Киру!"
-msgstr "Mieux vaut que je mette tante Kira au lit!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2916
 msgid "Ну, ладно... Пока!"
-msgstr "Oh, eh bien... Au revoir !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2923
 msgid "{i}отвести тётю в гостиную{/i}"
-msgstr "{i}emmener tante dans le salon{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2964
 msgid "{i}Дать Алисе конфету и отвести тётю в гостиную{/i}"
-msgstr "{i}Donner des friandises à Alice et emmener tante dans le salon{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2964
 msgid "{i}Отвести тётю в гостиную{/i}"
-msgstr "{i}Emmener tante dans le salon{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2987
 msgid "Такого поворота событий я не ожидал! Можно и задержаться..."
-msgstr "C'est une tournure des événements à laquelle je ne m'attendais pas ! Il est possible de s'attarder..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:2987
 msgid "Я бы задержался, но нужно проверить, как там Алиса..."
-msgstr "Je serais bien resté plus longtemps, mais je dois aller voir Alice..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:3087
 msgid "Хочу грудью!"
-msgstr "Je veux les seins!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:3087
 msgid "Хочу попкой!"
-msgstr "Je veux le cul!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:3096
 msgid "Но я всё равно хочу твою грудь!"
-msgstr "Mais je veux toujours tes seins!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:3096
 msgid "Я не могу устоять перед твоей попкой. Хочу её!"
-msgstr "Je ne peux pas résister à ton cul. Je le veux!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:3127
 msgid "Но я всё равно хочу твою попку!"
-msgstr "Mais je veux toujours ton cul!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/kira.rpy:3127
 msgid "Я не могу устоять перед твоей грудью. Хочу её!"
-msgstr "Je ne peux pas résister à tes seins. Je les veux !"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

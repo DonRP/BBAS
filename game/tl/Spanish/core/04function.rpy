@@ -10,131 +10,192 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:10\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
 msgid "+ к навыку скрытности"
-msgstr "+ a la habilidad del sigilo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:306
 msgid "+ к навыку убеждения"
-msgstr "+ a la habilidad de persuasión"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:310
 msgid "+ к навыку массажа"
-msgstr "+ a la habilidad del masaje"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:314
 msgid "+ к навыку поцелуев"
-msgstr "+ a la habilidad de besar"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:318
 msgid "+ к навыку эротического массажа"
-msgstr "+ a la habilidad del masaje erótico"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:322
 msgid "+ к тренированности"
-msgstr "+ a fitness"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:326
 msgid "+ к навыку кунилингуса"
-msgstr "+ a la habilidad de"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:330
 msgid "+ к сексуальному опыту"
-msgstr "+ a la experiencia sexual"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:334
 msgid "+ к опыту анального секса"
-msgstr "+ a la experiencia del sexo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}значительно ухудшилось{/color}"
-msgstr "{color=[red]}se ha deteriorado significativamente{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}ухудшилось{/color}"
-msgstr "{color=[red]}empeorado{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[red]}немного ухудшилось{/color}"
-msgstr "{color=[red]}ligeramente empeorado{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}немного улучшилось{/color}"
-msgstr "{color=[lime]}ligeramente mejorado{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}улучшилось{/color}"
-msgstr "{color=[lime]}mejorado{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:343
 msgid "{color=[lime]}значительно улучшилось{/color}"
-msgstr "{color=[lime]}ha mejorado significativamente{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:354
 msgid "{color=[red]}снизилось{/color}"
-msgstr "{color=[red]}disminuido{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:354
 msgid "{color=[lime]}повысилось{/color}"
-msgstr "{color=[lime]}increased{/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:385
 msgid "Настроение %s %s \n"
 "Её отношение к Максу %s"
-msgstr "Su estado de ánimo %s %s \n"
-"su actitud hacia Max %s"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:387
 msgid "Отношение %s к Максу %s"
-msgstr "La actitud de %s hacia Max %s"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:389
 msgid "Настроение %s %s"
-msgstr "%s %sdel estado de ánimo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:406
 msgid "Так... В накладной написано следующее:"
-msgstr "Así que... La factura dice lo siguiente:"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:712
 msgid "Прохладные"
-msgstr "Fresco"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Война"
-msgstr "Guerra"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Враждебные"
-msgstr "Hostil"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Плохие"
-msgstr "Malo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Неплохие"
-msgstr "Bien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Хорошие"
-msgstr "Bien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Тёплые"
-msgstr "Cálido"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Дружеские"
-msgstr "Amistoso"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:714
 msgid "Близкие"
-msgstr "Cerrar"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/04function.rpy:1011
 msgid "Конфеты закончились"
-msgstr "Se acabó el caramelo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 

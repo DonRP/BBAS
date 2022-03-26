@@ -10,53 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid "Повседневная"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для сна"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для йоги"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Блог в нижнем белье"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит завтрак"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит ужин"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Утренний отдых"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Вечерний отдых"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Купальник"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "За уроками"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для прогулок"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/core/07_clothes.rpy:472
 msgid "Влияние Макса недостаточно"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 

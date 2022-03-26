@@ -10,378 +10,542 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/03variables.rpy:39
 msgid "МОЯ\n"
 "КОМНАТА"
-msgstr "LA MIA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LA MIA\n"
 "CAMERETTA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "МОЯ КОМНАТА"
-msgstr "LA MIA CAMERETTA"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LA MIA CAMERETTA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА\n"
 "АЛИСЫ"
-msgstr "LA CAMERA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LA CAMERA\n"
 "DI ALICE"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА АЛИСЫ"
-msgstr "LA CAMERA DI ALICE"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LA CAMERA DI ALICE"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА\n"
 "АННЫ"
-msgstr "LA CAMERA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LA CAMERA\n"
 "DI ANN"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "КОМНАТА АННЫ"
-msgstr "LA CAMERA DI ANN"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LA CAMERA DI ANN"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "ВАННАЯ\n"
 "КОМНАТА"
-msgstr "BAGNO"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "BAGNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "ВАННАЯ КОМНАТА"
-msgstr "BAGNO"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "BAGNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "ГОСТИНАЯ"
-msgstr "SOGGIORNO"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "SOGGIORNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "ВЕРАНДА"
-msgstr "VERANDA"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "VERANDA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:39
 msgid "ДВОР"
-msgstr "CORTILE"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CORTILE"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Алиса"
-msgstr "Alice"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Alice"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Алисы"
-msgstr "Alice"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Alice"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Алисе"
-msgstr "Alice"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Alice"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Алису"
-msgstr "Alice"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Alice"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Алисой"
-msgstr "Alice"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Alice"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-msgstr "In qualsiasi situazione incomprensibile ti prende a schiaffi (nel migliore dei casi). Si è da poco laureata e, come me, sta cercando la sua strada. Tutto il giorno resta seduta davanti al suo laptop e lavora a qualche blog tutto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "In qualsiasi situazione incomprensibile ti prende a schiaffi (nel migliore dei casi). Si è da poco laureata e, come me, sta cercando la sua strada. Tutto il giorno resta seduta davanti al suo laptop e lavora a qualche blog tutto suo. Come spesso accade tra fratelli e sorelle maggiori, non andiamo molto d'accordo..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Лиза"
-msgstr "Lisa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lisa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Лизы"
-msgstr "Lisa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lisa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Лизе"
-msgstr "Lisa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lisa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Лизу"
-msgstr "Lisa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lisa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Лизой"
-msgstr "Lisa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lisa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr "Lisa, la mia sorellina. Dolce e allegra. Và ancora a scuola. Lisa ed io siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, sono io che cerco protezione."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Lisa, la mia sorellina. Dolce e allegra. Và ancora a scuola. Lisa ed io siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, sono io che cerco protezione."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Анна"
-msgstr "Аnn"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Аnn"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Анны"
-msgstr "Ann"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ann"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Анне"
-msgstr "Аnn"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Аnn"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Анну"
-msgstr "Ann"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ann"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Анной"
-msgstr "Аnn"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Аnn"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:102
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-msgstr "Anna, mia madre. Ha cresciuto me e le mie due sorelle per diversi anni. Lavora nell'ufficio di un'azienda. Anche se, il suo stipendio è abbastanza decente, ma quasi tutto se ne và per l'alloggio, il cibo e i vestiti."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Anna, mia madre. Ha cresciuto me e le mie due sorelle per diversi anni. Lavora nell'ufficio di un'azienda. Anche se, il suo stipendio è abbastanza decente, ma quasi tutto se ne và per l'alloggio, il cibo e i vestiti."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:113
 msgid "Макс"
-msgstr "Max"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Max"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:113
 msgid "Макса"
-msgstr "Max"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Max"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:113
 msgid "Максу"
-msgstr "Max"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Max"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:113
 msgid "Максом"
-msgstr "Max"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Max"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:113
 msgid "Максе"
-msgstr "Max"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Max"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:113
 msgid "Всегда в поисках приключений на свою пятую точку."
-msgstr "Sempre alla ricerca di una nuova esperienza sul tuo piede."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sempre alla ricerca di una nuova esperienza sul tuo piede."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПОСМОТРЕТЬ\n"
 "ФИЛЬМ"
-msgstr "GUARDA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "GUARDA\n"
 "FILM"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ВЫЙТИ\n"
 "ИЗ ДОМА"
-msgstr "ESCI\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "ESCI\n"
 "DI CASA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПОИГРАТЬ\n"
 "С ЛИЗОЙ"
-msgstr "GIOCA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "GIOCA\n"
 "CON LISA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "УСТАНОВИТЬ\n"
 "КЕЙЛОГГЕР"
-msgstr "INSTALLARE\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "INSTALLARE\n"
 "KEYLOGGER"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "УСТАНОВИТЬ\n"
 "КАМЕРУ"
-msgstr "INSTALLA LA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "INSTALLA LA\n"
 "TELECAMERA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "СПРЯТАТЬ\n"
 "ПАУКА"
-msgstr "NASCONDI \n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "NASCONDI \n"
 "IL RAGNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "БРОСИТЬ\n"
 "ПАУКА"
-msgstr "LANCIA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LANCIA\n"
 "IL RAGNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "ПАУКОВ"
-msgstr "CERCA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CERCA\n"
 "UN RAGNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "СИГАРЕТЫ"
-msgstr "CERCA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CERCA\n"
 "SIGARETTE"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "КНИГУ"
-msgstr "CERCA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CERCA\n"
 "LIBRO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ЧИСТИТЬ\n"
 "БАССЕЙН"
-msgstr "PULIRE \n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "PULIRE \n"
 "LA PISCINA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ЧИТАТЬ"
-msgstr "LEGGERE"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LEGGERE"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "КАМЕРУ"
-msgstr "CERCA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CERCA\n"
 "TELECAMERA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ИСКАТЬ\n"
 "ТЕЛЕФОН"
-msgstr "CERCA IL\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CERCA IL\n"
 "TELEFONO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "РАЗОБРАТЬ\n"
 "КОРОБКИ"
-msgstr "SPACCHETTA \n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "SPACCHETTA \n"
 "SCATOLE"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ВКЛЮЧИТЬ\n"
 "НОУТБУК"
-msgstr "ACCENDI\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "ACCENDI\n"
 "IL LAPTOP"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "СПАТЬ"
-msgstr "DORMI"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "DORMI"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "УСТАНОВИТЬ\n"
 "БУДИЛЬНИК"
-msgstr "IMPOSTA \n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "IMPOSTA \n"
 "LA SVEGLIA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ВЗДРЕМНУТЬ"
-msgstr "Fai un pisolino"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Fai un pisolino"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПРИНЯТЬ\n"
 "ДУШ"
-msgstr "FAI LA\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "FAI LA\n"
 "DOCCIA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПРИНЯТЬ\n"
 "ВАННУ"
-msgstr "FAI UN\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "FAI UN\n"
 "BAGNO"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "ПОГОВОРИТЬ"
-msgstr "CONVERSA"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "CONVERSA"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:149
 msgid "МЫТЬ\n"
 "ПОСУДУ"
-msgstr "LAVA I\n"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "LAVA I\n"
 "PIATTI"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Общение"
-msgstr "Comunicazione"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Comunicazione"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Навыки общения: Чувства человека"
-msgstr "Abilità comunicative: sentimenti umani"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Abilità comunicative: sentimenti umani"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
-msgstr "Questo è un corso sulle abilità comunicative di base che fornisce informazioni di base sui sensi, su come una persona risponde alle tue parole e sulle basi del linguaggio del corpo."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Questo è un corso sulle abilità comunicative di base che fornisce informazioni di base sui sensi, su come una persona risponde alle tue parole e sulle basi del linguaggio del corpo."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Навыки общения: Основы коммуникации"
-msgstr "Abilità comunicative: nozioni di base sulla comunicazione"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Abilità comunicative: nozioni di base sulla comunicazione"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr "Questo è il secondo corso di formazione sulle abilità comunicative. Da esso imparerai come influenzare la decisione di una persona senza parole, come scegliere le parole giuste nella giusta situazione per raggiungere il tuo obiettivo."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Questo è il secondo corso di formazione sulle abilità comunicative. Da esso imparerai come influenzare la decisione di una persona senza parole, come scegliere le parole giuste nella giusta situazione per raggiungere il tuo obiettivo."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Навыки общения: Без границ"
-msgstr "Abilità comunicative: Senza frontiere"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Abilità comunicative: Senza frontiere"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:205
 msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr "Questo è un corso avanzato a lungo termine progettato per coloro che vogliono imparare e migliorare costantemente. È l'ultimo corso disponibile al momento."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Questo è un corso avanzato a lungo termine progettato per coloro che vogliono imparare e migliorare costantemente. È l'ultimo corso disponibile al momento."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:236
 msgid "Эрик"
-msgstr "Eric"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Eric"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:236
 msgid "Эрика"
-msgstr "Eric"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Eric"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:236
 msgid "Эрику"
-msgstr "Eric"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Eric"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:236
 msgid "Эриком"
-msgstr "Eric"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Eric"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:236
 msgid "Эрике"
-msgstr "Eric"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Eric"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:236
 msgid "Ещё до того, как мама познакомила меня со своим внезапным ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт. Слишком уж он подозрительный..."
-msgstr "Ancora prima che mia madre mi presentasse il suo improvviso fidanzato Eric, iniziai a pensare che non avrebbe portato nulla di buono nella mia vita. È troppo sospettoso..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ancora prima che mia madre mi presentasse il suo improvviso fidanzato Eric, iniziai a pensare che non avrebbe portato nulla di buono nella mia vita. È troppo sospettoso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:250
 msgid "Кира"
-msgstr "Kira"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Kira"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:250
 msgid "Киры"
-msgstr "Kira"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Kira"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:250
 msgid "Кире"
-msgstr "Kira"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Kira"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:250
 msgid "Киру"
-msgstr "Kira"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Kira"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:250
 msgid "Кирой"
-msgstr "Kira"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Kira"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:250
 msgid "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
-msgstr "Zia Kira, la sorella minore della mamma. Certo, prima non sembrava avere complessi, ma ora è diventata così... quindi..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Zia Kira, la sorella minore della mamma. Certo, prima non sembrava avere complessi, ma ora è diventata così... quindi..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:286
 msgid "Оливия"
-msgstr "Olivia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Olivia"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:286
 msgid "Оливии"
-msgstr "Olivia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Olivia"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:286
 msgid "Оливию"
-msgstr "Olivia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Olivia"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:286
 msgid "Оливией"
-msgstr "Olivia"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Olivia"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/03variables.rpy:286
 msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
-msgstr "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto dolce. E per di più, ha un colpo di scena... Va in giro per la scuola senza mutandine, e per casa nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto dolce. E per di più, ha un colpo di scena... Va in giro per la scuola senza mutandine, e per casa nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
+msgstr[1] "Ignore this. translate only: One"
 

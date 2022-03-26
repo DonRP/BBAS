@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
@@ -1314,665 +1314,997 @@ msgstr "[Ann_01] Grazie a tutti per la colazione... Vado a stare da solo con i m
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/breakfast.rpy:13
 msgid "Конечно, мам..."
-msgstr "Certo, mamma..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Certo, mamma..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:13
 msgid "А что, что-то случилось?"
-msgstr "È successo qualcosa?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "È successo qualcosa?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:27
 msgid "Посмотрим, какой ещё счёт придёт за жильё..."
-msgstr "Vediamo quale altra bolletta arriverà per l'alloggio..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Vediamo quale altra bolletta arriverà per l'alloggio..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:27
 msgid "Да, это небо и земля. Ещё бы знать, где кидают?"
-msgstr "Sì, è il paradiso e in terra. Vorrei sapere dove la lanciano?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, è il paradiso e in terra. Vorrei sapere dove la lanciano?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:27
 msgid "А вот у меня кровать точно такая же..."
-msgstr "Ma il mio letto è esattamente lo stesso..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ma il mio letto è esattamente lo stesso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:30
 msgid "Почему не нужно?"
-msgstr "Perché no?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Perché no?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:30
 msgid "Ну, я тоже попробую заработать"
-msgstr "Beh, cercherò di fare soldi anche io"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, cercherò di fare soldi anche io"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:37
 msgid "Как знать. Может быть, у него не всё чисто с законом и дом отберут"
-msgstr "Chissà. Forse è nei guai con la legge e la casa gli verrà tolta"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Chissà. Forse è nei guai con la legge e la casa gli verrà tolta"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:37
 msgid "Верно. У нас толком ничего и не было, чтобы планировать что-то отобрать"
-msgstr "Giusto. Non abbiamo davvero pianificato di portare via qualcosa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Giusto. Non abbiamo davvero pianificato di portare via qualcosa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:37
 msgid "Хотелось бы так думать..."
-msgstr "Mi piacerebbe poterlo pensare..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi piacerebbe poterlo pensare..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:46
 msgid "Меня моя тоже устраивает"
-msgstr "Anch'io sto bene con il mio"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Anch'io sto bene con il mio"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:46
 msgid "Вот заработаю и куплю себе новую кровать!"
-msgstr "Guadagnerò e mi comprerò un nuovo letto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Guadagnerò e mi comprerò un nuovo letto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:49
 msgid "Ага. Кстати, я планирую уже начать зарабатывать!"
-msgstr "Aha. A proposito, ho intenzione di iniziare a guadagnare un po'!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aha. A proposito, ho intenzione di iniziare a guadagnare un po'!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:57
 msgid "Поздравляю, Лиза!"
-msgstr "Congratulazioni, Lisa!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Congratulazioni, Lisa!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:57
 msgid "Кстати, в какое время начинается учёба?"
-msgstr "A proposito, a che ora inizia la scuola?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "A proposito, a che ora inizia la scuola?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:57
 msgid "А школа платная?"
-msgstr "C'è una tassa scolastica?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "C'è una tassa scolastica?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:60
 msgid "Если нужна помощь - обращайся"
-msgstr "Se hai bisogno di aiuto - contattami"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Se hai bisogno di aiuto - contattami"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:60
 msgid "Ну, ты справишься!"
-msgstr "Beh, si può fare!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, si può fare!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:63
 msgid "Меня не за знания выгнали"
-msgstr "Non sono stato cacciato per la mia conoscenza"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non sono stato cacciato per la mia conoscenza"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:63
 msgid "Ну, кое-что я знаю..."
-msgstr "Beh, so un paio di cose..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, so un paio di cose..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:66
 msgid "Обязательно меня доставать?"
-msgstr "Devi sempre infastidirmi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Devi sempre infastidirmi?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:66
 msgid "Нормально я учился..."
-msgstr "Ho avuto una buona istruzione..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ho avuto una buona istruzione..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:75
 msgid "А сама, такая умная, даже помощь сестрёнке не предложила!"
-msgstr "E tu, così intelligente, non ti sei nemmeno offerta di aiutare tua sorella!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E tu, così intelligente, non ti sei nemmeno offerta di aiutare tua sorella!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:75
 msgid "Чему смогу, тому и научу..."
-msgstr "Insegnerò quello che posso..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Insegnerò quello che posso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:82
 msgid "Сегодня укороченный день?"
-msgstr "Oggi giornata breve?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Oggi giornata breve?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:82
 msgid "Всего 5 часов?"
-msgstr "Solo 5 ore?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Solo 5 ore?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:82
 msgid "Ну, удачи тебе в школе!"
-msgstr "Beh, buona fortuna a scuola!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, buona fortuna a scuola!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:85
 msgid "Мы в тебя верим..."
-msgstr "Crediamo in te..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Crediamo in te..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:94
 msgid "А почему так мало?"
-msgstr "E perché così presto?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E perché così presto?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:119
 msgid "Ой. Кого же мне это всё напоминает?"
-msgstr "Ahi. Te guarda chi me lo ricorda?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ahi. Te guarda chi me lo ricorda?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:119
 msgid "А вот и заработаю. Научусь что-то делать и сразу заработаю!"
-msgstr "Vado a fare un po' di soldi. Se imparo a fare qualcosa, faccio subito dei soldi!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Vado a fare un po' di soldi. Se imparo a fare qualcosa, faccio subito dei soldi!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:119
 msgid "Ну а ты разве не дома сидишь в своём ноуте? Ты как зарабатывать планируешь?"
-msgstr "Beh, non sei seduta a casa sul tuo portatile? Come hai intenzione di guadagnare denaro?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, non sei seduta a casa sul tuo portatile? Come hai intenzione di guadagnare denaro?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:123
 msgid "И что твой блог тебе даёт?"
-msgstr "E cosa ti dà il tuo blog?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E cosa ti dà il tuo blog?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:123
 msgid "Много уже на нём заработала?"
-msgstr "Ci hai già fatto molti soldi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ci hai già fatto molti soldi?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:123
 msgid "А у меня есть мозги!"
-msgstr "E io ho un cervello!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E io ho un cervello!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:126
 msgid "Смотри, не захлебнись... рекой"
-msgstr "Non affogarti... nel fiume"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non affogarti... nel fiume"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:126
 msgid "Ну, посмотрим на твою реку..."
-msgstr "Bene, diamo un'occhiata al tuo fiume..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, diamo un'occhiata al tuo fiume..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:133
 msgid "Ага, как Кардашьян"
-msgstr "Sì, come le Kardashian"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, come le Kardashian"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:133
 msgid "Может быть, тебе подарить губозакатывательную машинку?"
-msgstr "Forse dovresti prendere un lip-roller?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Forse dovresti prendere un lip-roller?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:140
 msgid "Да поумнее некоторых..."
-msgstr "Sì, più intelligente di alcuni..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, più intelligente di alcuni..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:140
 msgid "Меня не за оценки выперли!"
-msgstr "Non sono stato cacciato per i miei voti!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non sono stato cacciato per i miei voti!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:140
 msgid "Да мне школа и не нужна"
-msgstr "Non ho bisogno di una scuola"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non ho bisogno di una scuola"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:149
 msgid "Да ты сама дома целыми днями сидишь!"
-msgstr "Tu sei quella che sta seduta a casa tutto il giorno!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Tu sei quella che sta seduta a casa tutto il giorno!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:149
 msgid "Ага, дворником или посудомойкой?"
-msgstr "Sì, un bidello o un lavapiatti?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, un bidello o un lavapiatti?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:149
 msgid "Вот сама бы и шла работать по объявлению!"
-msgstr "Sarai tu ad andare a cercare l'annuncio!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sarai tu ad andare a cercare l'annuncio!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:162
 msgid "Ага, всё же так просто..."
-msgstr "Già, è così semplice..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Già, è così semplice..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:162
 msgid "И что ты будешь рекламировать?"
-msgstr "E cosa hai intenzione di pubblicizzare?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E cosa hai intenzione di pubblicizzare?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:162
 msgid "Сколько миллионов подписчиков у тебя, говоришь?"
-msgstr "Quanti milioni di abbonati ha detto che hai?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Quanti milioni di abbonati ha detto che hai?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:165
 msgid "Да уж, делом. Деловая..."
-msgstr "Sì, affari. Affari..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, affari. Affari..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:165
 msgid "Не перетрудись!"
-msgstr "Non lavorare troppo!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non lavorare troppo!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:165
 msgid "Я хотя бы реалист!"
-msgstr "Almeno sono realistico!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Almeno sono realistico!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:174
 msgid "Бьюти-блогеров как грязи. Чем ты лучше их?"
-msgstr "Le beauty blogger sono sporche come la strada. In che modo sei migliore di loro?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Le beauty blogger sono sporche come la strada. In che modo sei migliore di loro?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:174
 msgid "Думаешь, кому-то нужна твоя реклама?"
-msgstr "Pensi che qualcuno abbia bisogno della tua pubblicità?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Pensi che qualcuno abbia bisogno della tua pubblicità?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:174
 msgid "Всё фантазируешь..."
-msgstr "Continui a fantasticare..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Continui a fantasticare..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:183
 msgid "У меня есть планы и идеи"
-msgstr "Ho dei piani e delle idee"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ho dei piani e delle idee"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:183
 msgid "Я тоже что-то придумаю"
-msgstr "Troverò qualcosa anch'io"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Troverò qualcosa anch'io"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:183
 msgid "Ага, десять миллионов..."
-msgstr "Sì certo, dieci milioni..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì certo, dieci milioni..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:194
 msgid "Ты им звонила, мам, узнала где наши вещи?"
-msgstr "Li hai chiamati, mamma, hai scoperto dove sono le nostre cose?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Li hai chiamati, mamma, hai scoperto dove sono le nostre cose?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:194
 msgid "Ничего страшного, купим новую!"
-msgstr "Va bene, compriamone uno nuovo!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Va bene, compriamone uno nuovo!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:194
 msgid "Я не понял, а где кондиционеры?"
-msgstr "Non ho capito, ma dove sono i condizionatori d'aria?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non ho capito, ma dove sono i condizionatori d'aria?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:197
 msgid "Ну и обойдёмся без неё"
-msgstr "Bene, facciamo a meno"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, facciamo a meno"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:197
 msgid "Вот заработаю и куплю всё, что потеряли..."
-msgstr "Guadagnerò e comprerò tutto quello che ho perso..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Guadagnerò e comprerò tutto quello che ho perso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:201
 msgid "Может и рад. Мне стесняться нечего!"
-msgstr "Forse contento. Non ho nulla di cui vergognarmi!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Forse contento. Non ho nulla di cui vergognarmi!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:201
 msgid "Да всем плевать, в чём ты там что ведёшь"
-msgstr "Sì, a tutti non importa cosa stai facendo lì"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, a tutti non importa cosa stai facendo lì"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:201
 msgid "Раз ты такой успешный блогер, купишь новые"
-msgstr "Dato che sei un blogger di successo, acquistane di nuovi"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Dato che sei un blogger di successo, acquistane di nuovi"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:204
 msgid "Что, богатый жизненный опыт?"
-msgstr "Cosa, una ricca esperienza di vita?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cosa, una ricca esperienza di vita?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:204
 msgid "Да я хоть сейчас покажу!"
-msgstr "Sì, te lo mostrerò ora!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, te lo mostrerò ora!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:204
 msgid "На слабо берёшь?"
-msgstr "Su una presa debole?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Su una presa debole?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:213
 msgid "Да на тебя вещей не напасёшься!"
-msgstr "Sì, non ne avrai mai abbastanza!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, non ne avrai mai abbastanza!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:213
 msgid "У тебя репа не треснет с такими запросами?"
-msgstr "Hai una rapa che non si rompe con tali richieste?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Hai una rapa che non si rompe con tali richieste?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:220
 msgid "И что ты там раскручиваешь?"
-msgstr "E cosa stai girando lì?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E cosa stai girando lì?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:220
 msgid "Я придумаю и заработаю!"
-msgstr "Inventerò e guadagnerò!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Inventerò e guadagnerò!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:231
 msgid "Ну и купим, без проблем"
-msgstr "Bene, compreremo, nessun problema"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, compreremo, nessun problema"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:231
 msgid "Вот попробую заработать и всё наладится"
-msgstr "Cercherò di fare soldi e tutto andrà meglio"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cercherò di fare soldi e tutto andrà meglio"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:231
 msgid "Ну что, копим на кондиционеры?"
-msgstr "Bene, risparmiamo per i condizionatori d'aria?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, risparmiamo per i condizionatori d'aria?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:238
 msgid "Ну а если что, всегда можно снять лишнее"
-msgstr "Bene, semmai, puoi sempre rimuovere l'eccesso"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, semmai, puoi sempre rimuovere l'eccesso"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:238
 msgid "Да я бы и в трусах не прочь ходить"
-msgstr "Sì, non mi dispiacerebbe camminare in pantaloncini"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, non mi dispiacerebbe camminare in pantaloncini"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:241
 msgid "Я не против!"
-msgstr "Non mi dispiace!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non mi dispiace!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:241
 msgid "Начинай, я уже в предвкушении..."
-msgstr "Inizia, sono già in anticipo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Inizia, sono già in anticipo..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:241
 msgid "Ну и ходи в своих джинсах дома"
-msgstr "Bene, vai nei tuoi jeans a casa"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, vai nei tuoi jeans a casa"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:244
 msgid "Да я хоть сейчас!"
-msgstr "Sì, almeno io ora!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, almeno io ora!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:244
 msgid "На слабо разводишь?"
-msgstr "Sul divorzio debole?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sul divorzio debole?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:244
 msgid "Я тебе покажу. Всё покажу..."
-msgstr "Ti faccio vedere. Ti mostrerò tutto..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ti faccio vedere. Ti mostrerò tutto..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:262
 msgid "Кто о чём, а Алиса о шоппинге..."
-msgstr "Chi parla di cosa, e Alice dello shopping..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Chi parla di cosa, e Alice dello shopping..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:262
 msgid "Сначала заработай"
-msgstr "Guadagna prima"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Guadagna prima"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:269
 msgid "А может быть, Лиза и не против?"
-msgstr "O forse a Lisa non dispiace?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "O forse a Lisa non dispiace?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:269
 msgid "Я же в трусах, а не без них"
-msgstr "Sono in pantaloncini, non senza di loro"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sono in pantaloncini, non senza di loro"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:269
 msgid "А это тут причём?"
-msgstr "Di cosa si tratta?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Di cosa si tratta?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:279
 msgid "Да моей купилке любой позавидует!"
-msgstr "Sì, chiunque invidierà il mio acquisto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, chiunque invidierà il mio acquisto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:279
 msgid "А у самой то денег куры не клюют, да?"
-msgstr "E i polli non mordono i soldi, giusto?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E i polli non mordono i soldi, giusto?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:279
 msgid "Ну вот возьму и заработаю"
-msgstr "Bene, lo prenderò e lo guadagnerò"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, lo prenderò e lo guadagnerò"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:282
 msgid "А ты чем зарабатываешь?"
-msgstr "E cosa guadagni?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E cosa guadagni?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:289
 msgid "Не всё то шоколад, что коричневого цвета!"
-msgstr "Non tutto quel cioccolato che è marrone!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non tutto quel cioccolato che è marrone!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:299
 msgid "Не сомневаюсь"
-msgstr "Non ne dubito"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non ne dubito"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:299
 msgid "Вот ещё..."
-msgstr "Ecco altro..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ecco altro..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:307
 msgid "Хорошо, я посмотрю"
-msgstr "Okay, darò un'occhiata"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Okay, darò un'occhiata"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:307
 msgid "А что за коробки?"
-msgstr "Che tipo di scatole?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Che tipo di scatole?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:312
 msgid "Понял. Посмотрю..."
-msgstr "Capito. Vedrò..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Capito. Vedrò..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:337
 msgid "Я не балбес! Я всё знаю!"
-msgstr "Non sono uno sciocco! So tutto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non sono uno sciocco! So tutto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:337
 msgid "Меня не за знания выгнали!"
-msgstr "Non sono stato cacciato per la mia conoscenza!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non sono stato cacciato per la mia conoscenza!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:348
 msgid "{i}Наблюдать{/i}"
-msgstr "{i}Osservare{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}Osservare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:348
 msgid "Мама! Лиза права. Дай ей шанс подготовиться. Я ей помогу!"
-msgstr "Mummia! Lisa ha ragione. Datele la possibilità di prepararsi. La aiuterò!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mummia! Lisa ha ragione. Datele la possibilità di prepararsi. La aiuterò!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:369
 msgid "Ясно..."
-msgstr "Capisco..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Capisco..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:369
 msgid "Я тут вообще ни при чём"
-msgstr "Non ho nulla a che fare con questo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non ho nulla a che fare con questo"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:369
 msgid "{i}молчать{/i}"
-msgstr "{i}silent{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}silent{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:387
 msgid "Конечно, Лиза!"
-msgstr "Certo, Lisa!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Certo, Lisa!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:395
 msgid "Какие картины?"
-msgstr "Quali dipinti?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Quali dipinti?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:395
 msgid "Ты про тех голых женщин в ваших спальнях?"
-msgstr "Stai parlando di quelli nelle tue camere da letto?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Stai parlando di quelli nelle tue camere da letto?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:398
 msgid "И ничего я не пялился!"
-msgstr "E non ho fissato nulla!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E non ho fissato nulla!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:398
 msgid "Ну и что. Хорошие картины..."
-msgstr "E allora. Buone foto..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E allora. Buone foto..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:410
 msgid "Что, от Эрика?"
-msgstr "Cosa, da Eric?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Cosa, da Eric?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:410
 msgid "Что, сам Эрик приедет?"
-msgstr "Verrà Eric?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Verrà Eric?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:410
 msgid "Тогда поспеши!"
-msgstr "Allora sbrigati!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Allora sbrigati!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:413
 msgid "Что-то я сомневаюсь..."
-msgstr "Qualcosa di cui dubito..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Qualcosa di cui dubito..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:413
 msgid "Может быть. Тогда, поспеши!"
-msgstr "Potrebbe essere. Allora, sbrigati!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Potrebbe essere. Allora, sbrigati!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:449
 msgid "Мама всё правильно говорит!"
-msgstr "La mamma dice bene!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "La mamma dice bene!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:456
 msgid "Может быть, помочь?"
-msgstr "Forse aiuto?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Forse aiuto?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:466
 msgid "Э... Почему кроме меня?"
-msgstr "Uh... Perché oltre a me?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Uh... Perché oltre a me?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:466
 msgid "Не очень то и хотелось..."
-msgstr "Non volevo davvero..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non volevo davvero..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:469
 msgid "Так у вас же денег нет?"
-msgstr "Quindi non hai soldi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Quindi non hai soldi?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:469
 msgid "И кто вас повезёт?"
-msgstr "E chi sarà fortunato?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E chi sarà fortunato?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:486
 msgid "Так ты знакомишь Эрика с семьёй? Без меня?"
-msgstr "Quindi presenti Eric alla sua famiglia? Senza di me?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Quindi presenti Eric alla sua famiglia? Senza di me?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:486
 msgid "Надеюсь, я то его увижу, когда вернётесь?"
-msgstr "Spero di vederlo quando tornerai?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Spero di vederlo quando tornerai?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:495
 msgid "Ага! Почти?"
-msgstr "Aha! Quasi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Aha! Quasi?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:495
 msgid "И какие недостатки?"
-msgstr "E quali sono gli svantaggi?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E quali sono gli svantaggi?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:500
 msgid "А вы уже признались?"
-msgstr "Hai già ammesso?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Hai già ammesso?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:500
 msgid "Кто говорит о свадьбе?"
-msgstr "Chi parla del matrimonio?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Chi parla del matrimonio?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:500
 msgid "А ты сама не слишком спешишь?!"
-msgstr "Non hai troppa fretta?!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non hai troppa fretta?!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:510
 msgid "А я рад. Правда."
-msgstr "E sono contento. Davvero."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E sono contento. Davvero."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:510
 msgid "Мне просто любопытно!"
-msgstr "Sono solo curioso!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sono solo curioso!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:544
 msgid "{i}закончить завтрак{/i}"
-msgstr "{i}finire la colazione{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}finire la colazione{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:560
 msgid "Ну, я его не знаю..."
-msgstr "Beh, io non lo so..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, io non lo so..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:560
 msgid "А вдруг он не тот, за кого себя выдаёт"
-msgstr "E cosa succede se non è chi finge di essere"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E cosa succede se non è chi finge di essere"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:560
 msgid "Я переживаю о маме"
-msgstr "Mi preoccupo per mia madre"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi preoccupo per mia madre"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:567
 msgid "Ну не знаю. Может, он маньяк..."
-msgstr "Beh, io non lo so. Forse è un maniaco..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, io non lo so. Forse è un maniaco..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:567
 msgid "Дело не в этом, я не знаю его мотивов..."
-msgstr "Non è questo il punto, non conosco le sue motivazioni..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non è questo il punto, non conosco le sue motivazioni..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:567
 msgid "Может он очередной придурок!"
-msgstr "Forse è un altro cretino!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Forse è un altro cretino!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:579
 msgid "Ладно, ладно. Посмотрим..."
-msgstr "Va bene, va bene. Vedere..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Va bene, va bene. Vedere..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:579
 msgid "Да я рад..."
-msgstr "Sì, sono contento..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, sono contento..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:610
 msgid "Как о чём? Про ночь с Эриком!"
-msgstr "Che ne dici di cosa? A proposito della notte con Eric!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Che ne dici di cosa? A proposito della notte con Eric!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:610
 msgid "Я про визит к Эрику..."
-msgstr "Sto parlando di una visita a Eric..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sto parlando di una visita a Eric..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:621
 msgid "А что сразу я? Но да, я согласен с Алисой..."
-msgstr "E io? Ma sì, sono d'accordo con Alice..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E io? Ma sì, sono d'accordo con Alice..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:631
 msgid "Да, вот интересно, как часто он будет нарушать это пространство..."
-msgstr "Sì, mi chiedo quante volte romperà quello spazio..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, mi chiedo quante volte romperà quello spazio..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:631
 msgid "Ага, мне просто любопытно..."
-msgstr "Sì, sono solo curioso..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, sono solo curioso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:637
 msgid "Ого, так часто?"
-msgstr "Walth, così spesso?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Walth, così spesso?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:637
 msgid "Может, ему переехать сюда тогда?"
-msgstr "Forse dovrebbe trasferirsi qui allora?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Forse dovrebbe trasferirsi qui allora?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:637
 msgid "Может, тебе к нему переехать?"
-msgstr "Forse dovresti trasferirti con lui?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Forse dovresti trasferirti con lui?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:637
 msgid "Понятно..."
-msgstr "Capito..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Capito..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:654
 msgid "Никогда!"
-msgstr "Mai!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mai!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:705
 msgid "Какого хрена, мам?"
-msgstr "Che cazzo, mamma?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Che cazzo, mamma?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:705
 msgid "Отличная идея, мам!"
-msgstr "Ottima idea, mamma!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Ottima idea, mamma!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:708
 msgid "Да он козёл!"
-msgstr "Sì, è una capra!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sì, è una capra!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:708
 msgid "Извини, мам..."
-msgstr "Mi dispiace, mamma..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Mi dispiace, mamma..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:754
 msgid "Горничной Эрика!"
-msgstr "La cameriera di Eric!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "La cameriera di Eric!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:754
 msgid "Секретаршей"
-msgstr "Segretario"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Segretario"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:754
 msgid "{i}промолчать{/i}"
-msgstr "{i}rimanere in silenzio{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "{i}rimanere in silenzio{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:757
 msgid "В общем, секретарша..."
-msgstr "In generale, il segretario..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "In generale, il segretario..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:764
 msgid "Ну я так и сказал - секретарша..."
-msgstr "Beh, l'ho detto - segretario..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, l'ho detto - segretario..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:779
 msgid "Подонок, каких мало..."
-msgstr "Basso, che un po '..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Basso, che un po '..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:779
 msgid "Нормальный мужик"
-msgstr "Uomo normale"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Uomo normale"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:782
 msgid "Извини, мам, я пошутил..."
-msgstr "Scusa mamma, stavo scherzando..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Scusa mamma, stavo scherzando..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:782
 msgid "Ну и сниму. От своих слов я не отказываюсь!"
-msgstr "Bene, lo toglierò. Non riringo le mie parole!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bene, lo toglierò. Non riringo le mie parole!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:789
 msgid "Очень смешно, тётя Кира..."
-msgstr "Molto divertente, zia Kira..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Molto divertente, zia Kira..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:789
 msgid "Вас тоже пороли?"
-msgstr "Sei stato picchiato anche tu?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sei stato picchiato anche tu?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:798
 msgid "А ещё он маме предложение сделал..."
-msgstr "E ha proposto a sua madre..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "E ha proposto a sua madre..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/breakfast.rpy:798
 msgid "Ну, не настолько хороший..."
-msgstr "Beh, non così buono..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Beh, non così buono..."
+msgstr[1] "Ignore this. translate only: One"
 
