@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+"PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/alice_cam.rpy:25 ## translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
@@ -388,35 +388,35 @@ msgstr "[Max_08] {m}Eric è nella stanza di Alice oggi. Sembra che stia cercando
 msgid "{i}Конечно{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}Certo{/i}"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}Prendi la macchina fotografica e vai alla finestra di Alice{/i}"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:88
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}Prendi la macchina fotografica e vai al balcone{/i}"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}продолжать смотреть{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}continua a guardare{/i}"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}достаточно{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}abbastanza{/i}"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
