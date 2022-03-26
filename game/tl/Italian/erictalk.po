@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 09:55\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
 msgstr "[Eric_01] Cosa volevi, Max? [nointeract]"
 
