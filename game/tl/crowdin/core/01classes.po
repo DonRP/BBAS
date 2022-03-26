@@ -1,44 +1,55 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid  "Ужасное"
-msgstr  "Ужасное"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ужасное"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Очень плохое"
-msgstr  "Очень плохое"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Очень плохое"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Плохое"
-msgstr  "Плохое"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Плохое"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Не очень"
-msgstr  "Не очень"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Не очень"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Нейтральное"
-msgstr  "Нейтральное"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Нейтральное"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Неплохое"
-msgstr  "Неплохое"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Неплохое"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Хорошее"
-msgstr  "Хорошее"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Хорошее"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Очень хорошее"
-msgstr  "Очень хорошее"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Очень хорошее"
 
 # XX## game/core/01classes.rpy:682
 msgid  "Прекрасное"
-msgstr  "Прекрасное"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Прекрасное"
 
 # XX## game/core/01classes.rpy:1078
 msgid  "Приобретен пакет рекламы"
-msgstr  "Приобретен пакет рекламы"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Приобретен пакет рекламы"
 
 # XX## game/core/01classes.rpy:1334
 msgid  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 

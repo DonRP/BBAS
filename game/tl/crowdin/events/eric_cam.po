@@ -244,5 +244,6 @@ msgstr "[Max_10] {m}Вот чёрт! Похоже, Кира ублажает Э�
 
 # XXtranslate crowdin strings:XX# XX## game/events/eric_cam.rpy:436
 msgid  "{i}идти к комнате Алисы{/i}"
-msgstr  "{i}идти к комнате Алисы{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}идти к комнате Алисы{/i}"
 

@@ -1,12 +1,15 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/characters.rpy:230
 msgid  "Мама"
-msgstr  "Мама"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Мама"
 
 # XX## game/core/characters.rpy:356
 msgid  "Майя"
-msgstr  "Майя"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Майя"
 
 # XX## game/core/characters.rpy:369
 msgid  "Сэм"
-msgstr  "Сэм"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Сэм"
 

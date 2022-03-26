@@ -220,5 +220,6 @@ msgstr "[Max_09] {m}Через эту камеру никого не видно.
 
 # XXtranslate crowdin strings:XX# XX## game/events/kira_cam.rpy:425
 msgid  "{i}встретить их{/i}"
-msgstr  "{i}встретить их{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}встретить их{/i}"
 

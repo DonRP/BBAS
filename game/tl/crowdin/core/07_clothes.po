@@ -1,48 +1,60 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid  "Повседневная"
-msgstr  "Повседневная"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Повседневная"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Для сна"
-msgstr  "Для сна"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Для сна"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Для йоги"
-msgstr  "Для йоги"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Для йоги"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Блог в нижнем белье"
-msgstr  "Блог в нижнем белье"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Блог в нижнем белье"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Готовит завтрак"
-msgstr  "Готовит завтрак"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Готовит завтрак"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Готовит ужин"
-msgstr  "Готовит ужин"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Готовит ужин"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Утренний отдых"
-msgstr  "Утренний отдых"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Утренний отдых"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Вечерний отдых"
-msgstr  "Вечерний отдых"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Вечерний отдых"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Купальник"
-msgstr  "Купальник"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Купальник"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "За уроками"
-msgstr  "За уроками"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "За уроками"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Для прогулок"
-msgstr  "Для прогулок"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Для прогулок"
 
 # XX## game/core/07_clothes.rpy:472
 msgid  "Влияние Макса недостаточно"
-msgstr  "Влияние Макса недостаточно"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Влияние Макса недостаточно"
 

@@ -1,40 +1,50 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid  "{i}искать под кроватью{/i}"
-msgstr  "{i}искать под кроватью{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}искать под кроватью{/i}"
 
 # XX## game/core/imagemaps.rpy:34
 msgid  "{i}искать в тумбочке{/i}"
-msgstr  "{i}искать в тумбочке{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}искать в тумбочке{/i}"
 
 # XX## game/core/imagemaps.rpy:37
 msgid  "{i}искать в столе{/i}"
-msgstr  "{i}искать в столе{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}искать в столе{/i}"
 
 # XX## game/core/imagemaps.rpy:56
 msgid  "{i}массировать ступни{/i}"
-msgstr  "{i}массировать ступни{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}массировать ступни{/i}"
 
 # XX## game/core/imagemaps.rpy:64
 msgid  "{i}массировать голени{/i}"
-msgstr  "{i}массировать голени{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}массировать голени{/i}"
 
 # XX## game/core/imagemaps.rpy:74
 msgid  "{i}массировать бёдра{/i}"
-msgstr  "{i}массировать бёдра{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}массировать бёдра{/i}"
 
 # XX## game/core/imagemaps.rpy:78
 msgid  "{i}массировать плечи{/i}"
-msgstr  "{i}массировать плечи{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}массировать плечи{/i}"
 
 # XX## game/core/imagemaps.rpy:82
 msgid  "{i}массировать спину{/i}"
-msgstr  "{i}массировать спину{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}массировать спину{/i}"
 
 # XX## game/core/imagemaps.rpy:87
 msgid  "{i}массировать попку{/i}"
-msgstr  "{i}массировать попку{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}массировать попку{/i}"
 
 # XX## game/core/imagemaps.rpy:108
 msgid  "{i}искать на кровати{/i}"
-msgstr  "{i}искать на кровати{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}искать на кровати{/i}"
 

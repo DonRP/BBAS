@@ -1252,345 +1252,431 @@ msgstr "[Max_01] Пока, мам..."
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/dinner.rpy:75
 msgid  "Как скажешь, мам..."
-msgstr  "Как скажешь, мам..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Как скажешь, мам..."
 
 # XX## game/dialogues/dinner.rpy:75
 msgid  "У тебя всё хорошо?"
-msgstr  "У тебя всё хорошо?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "У тебя всё хорошо?"
 
 # XX## game/dialogues/dinner.rpy:89
 msgid  "Напомни, а кем ты работаешь?"
-msgstr  "Напомни, а кем ты работаешь?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Напомни, а кем ты работаешь?"
 
 # XX## game/dialogues/dinner.rpy:89
 msgid  "А где находится твой офис?"
-msgstr  "А где находится твой офис?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А где находится твой офис?"
 
 # XX## game/dialogues/dinner.rpy:92
 msgid  "Точно. Ну, поздравляю!"
-msgstr  "Точно. Ну, поздравляю!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Точно. Ну, поздравляю!"
 
 # XX## game/dialogues/dinner.rpy:92
 msgid  "А с начальником повезло?"
-msgstr  "А с начальником повезло?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А с начальником повезло?"
 
 # XX## game/dialogues/dinner.rpy:99
 msgid  "Поздравляю!"
-msgstr  "Поздравляю!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Поздравляю!"
 
 # XX## game/dialogues/dinner.rpy:111
 msgid  "А что с ним?"
-msgstr  "А что с ним?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А что с ним?"
 
 # XX## game/dialogues/dinner.rpy:111
 msgid  "Ещё толще и лысее?"
-msgstr  "Ещё толще и лысее?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ещё толще и лысее?"
 
 # XX## game/dialogues/dinner.rpy:117
 msgid  "Ого! Да он в тебя влюбился?"
-msgstr  "Ого! Да он в тебя влюбился?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ого! Да он в тебя влюбился?"
 
 # XX## game/dialogues/dinner.rpy:117
 msgid  "И как его зовут?"
-msgstr  "И как его зовут?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "И как его зовут?"
 
 # XX## game/dialogues/dinner.rpy:117
 msgid  "Мне кажется, это плохая идея"
-msgstr  "Мне кажется, это плохая идея"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Мне кажется, это плохая идея"
 
 # XX## game/dialogues/dinner.rpy:120
 msgid  "Да, точно! А может быть, и он тебе нравится?"
-msgstr  "Да, точно! А может быть, и он тебе нравится?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да, точно! А может быть, и он тебе нравится?"
 
 # XX## game/dialogues/dinner.rpy:129
 msgid  "А вред такой, что если поссорится, её уволят!"
-msgstr  "А вред такой, что если поссорится, её уволят!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А вред такой, что если поссорится, её уволят!"
 
 # XX## game/dialogues/dinner.rpy:129
 msgid  "Может, ты и права..."
-msgstr  "Может, ты и права..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Может, ты и права..."
 
 # XX## game/dialogues/dinner.rpy:148
 msgid  "Ага, а подружку зовут Алекс..."
-msgstr  "Ага, а подружку зовут Алекс..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ага, а подружку зовут Алекс..."
 
 # XX## game/dialogues/dinner.rpy:148
 msgid  "Что за подружка?"
-msgstr  "Что за подружка?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Что за подружка?"
 
 # XX## game/dialogues/dinner.rpy:148
 msgid  "Что за подружка? {i}(подмигнуть){/i}"
-msgstr  "Что за подружка? {i}(подмигнуть){/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Что за подружка? {i}(подмигнуть){/i}"
 
 # XX## game/dialogues/dinner.rpy:152
 msgid  "Ой, извини. Я думал, у нас нет секретов..."
-msgstr  "Ой, извини. Я думал, у нас нет секретов..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ой, извини. Я думал, у нас нет секретов..."
 
 # XX## game/dialogues/dinner.rpy:152
 msgid  "А ты не сказала, что это секрет..."
-msgstr  "А ты не сказала, что это секрет..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А ты не сказала, что это секрет..."
 
 # XX## game/dialogues/dinner.rpy:178
 msgid  "Хорошо, мам!"
-msgstr  "Хорошо, мам!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Хорошо, мам!"
 
 # XX## game/dialogues/dinner.rpy:190
 msgid  "А ты прямо уработалась, да?"
-msgstr  "А ты прямо уработалась, да?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А ты прямо уработалась, да?"
 
 # XX## game/dialogues/dinner.rpy:190
 msgid  "А ты чем занимаешься?"
-msgstr  "А ты чем занимаешься?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А ты чем занимаешься?"
 
 # XX## game/dialogues/dinner.rpy:201
 msgid  "А на что она будет поступать?"
-msgstr  "А на что она будет поступать?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А на что она будет поступать?"
 
 # XX## game/dialogues/dinner.rpy:201
 msgid  "Да ей лень!"
-msgstr  "Да ей лень!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да ей лень!"
 
 # XX## game/dialogues/dinner.rpy:204
 msgid  "Это кто одарённый? Алиса?"
-msgstr  "Это кто одарённый? Алиса?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Это кто одарённый? Алиса?"
 
 # XX## game/dialogues/dinner.rpy:204
 msgid  "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
-msgstr  "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
 
 # XX## game/dialogues/dinner.rpy:204
 msgid  "А при чём тут Алиса?"
-msgstr  "А при чём тут Алиса?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А при чём тут Алиса?"
 
 # XX## game/dialogues/dinner.rpy:223
 msgid  "Так чего жы ты такая бедная?"
-msgstr  "Так чего жы ты такая бедная?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Так чего жы ты такая бедная?"
 
 # XX## game/dialogues/dinner.rpy:223
 msgid  "И какой план?"
-msgstr  "И какой план?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "И какой план?"
 
 # XX## game/dialogues/dinner.rpy:242
 msgid  "Ну как построишь, позови!"
-msgstr  "Ну как построишь, позови!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ну как построишь, позови!"
 
 # XX## game/dialogues/dinner.rpy:242
 msgid  "Помощь нужна?"
-msgstr  "Помощь нужна?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Помощь нужна?"
 
 # XX## game/dialogues/dinner.rpy:269
 msgid  "Даже спасибо? Ну, хорошо..."
-msgstr  "Даже спасибо? Ну, хорошо..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Даже спасибо? Ну, хорошо..."
 
 # XX## game/dialogues/dinner.rpy:269
 msgid  "Ладно..."
-msgstr  "Ладно..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ладно..."
 
 # XX## game/dialogues/dinner.rpy:276
 msgid  "Спасибо? Мне? От тебя?!"
-msgstr  "Спасибо? Мне? От тебя?!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Спасибо? Мне? От тебя?!"
 
 # XX## game/dialogues/dinner.rpy:288
 msgid  "Ты что, пауков боишься?"
-msgstr  "Ты что, пауков боишься?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ты что, пауков боишься?"
 
 # XX## game/dialogues/dinner.rpy:288
 msgid  "Да они же безобидные, наверное..."
-msgstr  "Да они же безобидные, наверное..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да они же безобидные, наверное..."
 
 # XX## game/dialogues/dinner.rpy:313
 msgid  "А это точно хорошо?"
-msgstr  "А это точно хорошо?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А это точно хорошо?"
 
 # XX## game/dialogues/dinner.rpy:313
 msgid  "Поздравляю, мам!"
-msgstr  "Поздравляю, мам!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Поздравляю, мам!"
 
 # XX## game/dialogues/dinner.rpy:322
 msgid  "И теперь ты будешь ещё больше от него зависеть..."
-msgstr  "И теперь ты будешь ещё больше от него зависеть..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "И теперь ты будешь ещё больше от него зависеть..."
 
 # XX## game/dialogues/dinner.rpy:322
 msgid  "А если поссоришься с этим Эриком, то всё..."
-msgstr  "А если поссоришься с этим Эриком, то всё..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А если поссоришься с этим Эриком, то всё..."
 
 # XX## game/dialogues/dinner.rpy:331
 msgid  "Давай, рассказывай подробности!"
-msgstr  "Давай, рассказывай подробности!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Давай, рассказывай подробности!"
 
 # XX## game/dialogues/dinner.rpy:331
 msgid  "Ладно, не будем мучать Лизу вопросами..."
-msgstr  "Ладно, не будем мучать Лизу вопросами..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ладно, не будем мучать Лизу вопросами..."
 
 # XX## game/dialogues/dinner.rpy:342
 msgid  "Бери меня с собой!"
-msgstr  "Бери меня с собой!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Бери меня с собой!"
 
 # XX## game/dialogues/dinner.rpy:342
 msgid  "Я тоже люблю клубы!"
-msgstr  "Я тоже люблю клубы!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Я тоже люблю клубы!"
 
 # XX## game/dialogues/dinner.rpy:366
 msgid  "А меня сейчас стошнит..."
-msgstr  "А меня сейчас стошнит..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А меня сейчас стошнит..."
 
 # XX## game/dialogues/dinner.rpy:373
 msgid  "Да загорай голая!"
-msgstr  "Да загорай голая!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да загорай голая!"
 
 # XX## game/dialogues/dinner.rpy:386
 msgid  "Попрошайка!"
-msgstr  "Попрошайка!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Попрошайка!"
 
 # XX## game/dialogues/dinner.rpy:393
 msgid  "И правильно!"
-msgstr  "И правильно!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "И правильно!"
 
 # XX## game/dialogues/dinner.rpy:401
 msgid  "Подробнее, пожалуйста..."
-msgstr  "Подробнее, пожалуйста..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Подробнее, пожалуйста..."
 
 # XX## game/dialogues/dinner.rpy:408
 msgid  "{i}О нет...{/i}"
-msgstr  "{i}О нет...{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}О нет...{/i}"
 
 # XX## game/dialogues/dinner.rpy:412
 msgid  "И правильно делаешь!"
-msgstr  "И правильно делаешь!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "И правильно делаешь!"
 
 # XX## game/dialogues/dinner.rpy:422
 msgid  "Повеселитесь там, как следует!"
-msgstr  "Повеселитесь там, как следует!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Повеселитесь там, как следует!"
 
 # XX## game/dialogues/dinner.rpy:422
 msgid  "А что вы будете делать?"
-msgstr  "А что вы будете делать?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А что вы будете делать?"
 
 # XX## game/dialogues/dinner.rpy:446
 msgid  "И чем будете заниматься?"
-msgstr  "И чем будете заниматься?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "И чем будете заниматься?"
 
 # XX## game/dialogues/dinner.rpy:446
 msgid  "Отлично!"
-msgstr  "Отлично!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Отлично!"
 
 # XX## game/dialogues/dinner.rpy:446
 msgid  "Зачем он тут нужен?"
-msgstr  "Зачем он тут нужен?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Зачем он тут нужен?"
 
 # XX## game/dialogues/dinner.rpy:453
 msgid  "Почему понравился? Нормальный мужик..."
-msgstr  "Почему понравился? Нормальный мужик..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Почему понравился? Нормальный мужик..."
 
 # XX## game/dialogues/dinner.rpy:453
 msgid  "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
-msgstr  "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
 
 # XX## game/dialogues/dinner.rpy:461
 msgid  "А за что его любить?"
-msgstr  "А за что его любить?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А за что его любить?"
 
 # XX## game/dialogues/dinner.rpy:461
 msgid  "Да козёл он!"
-msgstr  "Да козёл он!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да козёл он!"
 
 # XX## game/dialogues/dinner.rpy:482
 msgid  "Ну, кто рад, а кто..."
-msgstr  "Ну, кто рад, а кто..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ну, кто рад, а кто..."
 
 # XX## game/dialogues/dinner.rpy:486
 msgid  "Да всё нормально..."
-msgstr  "Да всё нормально..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да всё нормально..."
 
 # XX## game/dialogues/dinner.rpy:486
 msgid  "Вы слишком торопитесь."
-msgstr  "Вы слишком торопитесь."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Вы слишком торопитесь."
 
 # XX## game/dialogues/dinner.rpy:486
 msgid  "Просто не нравишься!"
-msgstr  "Просто не нравишься!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Просто не нравишься!"
 
 # XX## game/dialogues/dinner.rpy:498
 msgid  "Тебе показалось..."
-msgstr  "Тебе показалось..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Тебе показалось..."
 
 # XX## game/dialogues/dinner.rpy:559
 msgid  "Может быть, я такой..."
-msgstr  "Может быть, я такой..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Может быть, я такой..."
 
 # XX## game/dialogues/dinner.rpy:565
 msgid  "Сдалось оно мне..."
-msgstr  "Сдалось оно мне..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Сдалось оно мне..."
 
 # XX## game/dialogues/dinner.rpy:565
 msgid  "Я подумаю..."
-msgstr  "Я подумаю..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Я подумаю..."
 
 # XX## game/dialogues/dinner.rpy:591
 msgid  "Ты беременна?"
-msgstr  "Ты беременна?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ты беременна?"
 
 # XX## game/dialogues/dinner.rpy:591
 msgid  "Опять про Эрика?"
-msgstr  "Опять про Эрика?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Опять про Эрика?"
 
 # XX## game/dialogues/dinner.rpy:591
 msgid  "Не знаю даже..."
-msgstr  "Не знаю даже..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Не знаю даже..."
 
 # XX## game/dialogues/dinner.rpy:602
 msgid  "Я так и знал!"
-msgstr  "Я так и знал!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Я так и знал!"
 
 # XX## game/dialogues/dinner.rpy:602
 msgid  "Тётя Кира?"
-msgstr  "Тётя Кира?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Тётя Кира?"
 
 # XX## game/dialogues/dinner.rpy:610
 msgid  "Первая хорошая новость..."
-msgstr  "Первая хорошая новость..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Первая хорошая новость..."
 
 # XX## game/dialogues/dinner.rpy:617
 msgid  "Почему ты так говоришь?"
-msgstr  "Почему ты так говоришь?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Почему ты так говоришь?"
 
 # XX## game/dialogues/dinner.rpy:617
 msgid  "А на кого она училась?"
-msgstr  "А на кого она училась?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А на кого она училась?"
 
 # XX## game/dialogues/dinner.rpy:620
 msgid  "В каком виде?!"
-msgstr  "В каком виде?!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "В каком виде?!"
 
 # XX## game/dialogues/dinner.rpy:620
 msgid  "Её арестовывали?"
-msgstr  "Её арестовывали?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Её арестовывали?"
 
 # XX## game/dialogues/dinner.rpy:631
 msgid  "Я не в курсе этой истории"
-msgstr  "Я не в курсе этой истории"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Я не в курсе этой истории"
 
 # XX## game/dialogues/dinner.rpy:650
 msgid  "День шоппинга?"
-msgstr  "День шоппинга?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "День шоппинга?"
 
 # XX## game/dialogues/dinner.rpy:650
 msgid  "Тётя Кира приезжает?"
-msgstr  "Тётя Кира приезжает?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Тётя Кира приезжает?"
 
 # XX## game/dialogues/dinner.rpy:657
 msgid  "А без Эрика сегодня никак?"
-msgstr  "А без Эрика сегодня никак?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А без Эрика сегодня никак?"
 
 # XX## game/dialogues/dinner.rpy:657
 msgid  "А как же шоппинг?"
-msgstr  "А как же шоппинг?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А как же шоппинг?"
 
 # XX## game/dialogues/dinner.rpy:672
 msgid  "Ну, я не против"
-msgstr  "Ну, я не против"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ну, я не против"
 
 # XX## game/dialogues/dinner.rpy:672
 msgid  "Может быть, наоборот?"
-msgstr  "Может быть, наоборот?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Может быть, наоборот?"
 

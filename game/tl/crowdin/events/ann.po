@@ -852,113 +852,141 @@ msgstr "[Max_01] Да, мам! Я не буду мешать, расслабля
 
 # XXtranslate crowdin strings:XX# XX## game/events/ann.rpy:195
 msgid  "{i}Отвернуться{/i}"
-msgstr  "{i}Отвернуться{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}Отвернуться{/i}"
 
 # XX## game/events/ann.rpy:206
 msgid  "Я не подглядывал. Это случайность!"
-msgstr  "Я не подглядывал. Это случайность!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Я не подглядывал. Это случайность!"
 
 # XX## game/events/ann.rpy:206
 msgid  "Мам, извини..."
-msgstr  "Мам, извини..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Мам, извини..."
 
 # XX## game/events/ann.rpy:206
 msgid  "Попка у тебя - что надо!"
-msgstr  "Попка у тебя - что надо!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Попка у тебя - что надо!"
 
 # XX## game/events/ann.rpy:278
 msgid  "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-msgstr  "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
 
 # XX## game/events/ann.rpy:372
 msgid  "А я разве чем-то помешаю?"
-msgstr  "А я разве чем-то помешаю?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А я разве чем-то помешаю?"
 
 # XX## game/events/ann.rpy:372
 msgid  "А я не помешаю. Начинай..."
-msgstr  "А я не помешаю. Начинай..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А я не помешаю. Начинай..."
 
 # XX## game/events/ann.rpy:372
 msgid  "Да легко! Не буду мешать..."
-msgstr  "Да легко! Не буду мешать..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да легко! Не буду мешать..."
 
 # XX## game/events/ann.rpy:427
 msgid  "У меня для тебя кое-что есть."
-msgstr  "У меня для тебя кое-что есть."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "У меня для тебя кое-что есть."
 
 # XX## game/events/ann.rpy:427
 msgid  "У тебя самые зачётные сиськи, которые я видел!"
-msgstr  "У тебя самые зачётные сиськи, которые я видел!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "У тебя самые зачётные сиськи, которые я видел!"
 
 # XX## game/events/ann.rpy:427
 msgid  "У тебя самый потрясный зад на свете, мам!"
-msgstr  "У тебя самый потрясный зад на свете, мам!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "У тебя самый потрясный зад на свете, мам!"
 
 # XX## game/events/ann.rpy:427
 msgid  "Я просто хотел посмотреть..."
-msgstr  "Я просто хотел посмотреть..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Я просто хотел посмотреть..."
 
 # XX## game/events/ann.rpy:427
 msgid  "Ой, извини. Я забыл... Хорошо выглядишь, мам!"
-msgstr  "Ой, извини. Я забыл... Хорошо выглядишь, мам!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ой, извини. Я забыл... Хорошо выглядишь, мам!"
 
 # XX## game/events/ann.rpy:457
 msgid  "Да не прикрывай такую красоту, все свои же!"
-msgstr  "Да не прикрывай такую красоту, все свои же!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Да не прикрывай такую красоту, все свои же!"
 
 # XX## game/events/ann.rpy:457
 msgid  "Сразу видно, что попка у тебя тренированная!"
-msgstr  "Сразу видно, что попка у тебя тренированная!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Сразу видно, что попка у тебя тренированная!"
 
 # XX## game/events/ann.rpy:457
 msgid  "А посмотреть нельзя?"
-msgstr  "А посмотреть нельзя?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А посмотреть нельзя?"
 
 # XX## game/events/ann.rpy:457
 msgid  "Извини, всё позабыл, когда тебя увидел. Ты прекрасна!"
-msgstr  "Извини, всё позабыл, когда тебя увидел. Ты прекрасна!"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Извини, всё позабыл, когда тебя увидел. Ты прекрасна!"
 
 # XX## game/events/ann.rpy:522
 msgid  "Ну мам! Этого было так мало, давай ещё..."
-msgstr  "Ну мам! Этого было так мало, давай ещё..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Ну мам! Этого было так мало, давай ещё..."
 
 # XX## game/events/ann.rpy:522
 msgid  "Конечно, мам! Хорошего тебе дня..."
-msgstr  "Конечно, мам! Хорошего тебе дня..."
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Конечно, мам! Хорошего тебе дня..."
 
 # XX## game/events/ann.rpy:604
 msgid  "Мам, всё нормально?"
-msgstr  "Мам, всё нормально?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Мам, всё нормально?"
 
 # XX## game/events/ann.rpy:604
 msgid  "Видами любуешься, мам?"
-msgstr  "Видами любуешься, мам?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Видами любуешься, мам?"
 
 # XX## game/events/ann.rpy:624
 msgid  "Мам?"
-msgstr  "Мам?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "Мам?"
 
 # XX## game/events/ann.rpy:709
 msgid  "{i}приобнять маму за попку{/i}"
-msgstr  "{i}приобнять маму за попку{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}приобнять маму за попку{/i}"
 
 # XX## game/events/ann.rpy:758
 msgid  "А что, я мешаю?"
-msgstr  "А что, я мешаю?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "А что, я мешаю?"
 
 # XX## game/events/ann.rpy:758
 msgid  "С тобой хотел побыть. Или я мешаю?"
-msgstr  "С тобой хотел побыть. Или я мешаю?"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "С тобой хотел побыть. Или я мешаю?"
 
 # XX## game/events/ann.rpy:768
 msgid  "{i}приобнять маму{/i}"
-msgstr  "{i}приобнять маму{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}приобнять маму{/i}"
 
 # XX## game/events/ann.rpy:777
 msgid  "{i}продолжить обнимать{/i}"
-msgstr  "{i}продолжить обнимать{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}продолжить обнимать{/i}"
 
 # XX## game/events/ann.rpy:967
 msgid  "{i}войти{/i}"
-msgstr  "{i}войти{/i}"
+msgid_plural "Ingnora this translate only "One""
+msgstr[0]  "{i}войти{/i}"
 
