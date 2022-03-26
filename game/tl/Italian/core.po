@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
@@ -67,34 +67,38 @@ msgstr "_ver [_version], conf.ver [config.version]"
 # XXtranslate crowdin strings:XX# XX## game/core/core.rpy:411
 msgid "В интернет-магазине доступен новый товар."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Un nuovo prodotto è disponibile nel negozio online."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/core.rpy:817
 msgid "{i}идти на веранду{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}vai in veranda{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/core.rpy:817
 msgid "{i}не сейчас{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}non ora{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/core.rpy:1108
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Era interessante! Ho detto ad Alice, per divertimento, che non volevo più prendere le sue difese quando veniva punita, ma che avrei continuato a farlo se lei avesse accettato di farsi sculacciare.\n"
+"All'inizio l'ha accettato, ma dopo alcune punizioni da parte di sua madre, ha accettato di lasciarsi sculacciare da me. Almeno, se fosse possibile salvare Alice dalla mano di sua madre. Dovrei anche ricordarmi di discutere con lei quando potrei sculacciarla.\n\n"
+"C'è, tuttavia, una piccola sfumatura che ha fatto sì che Alice fosse d'accordo... Le ho promesso che le avrei dato una sculacciata gentile. Sì, non sarà facile non prenderla a schiaffi per essere così stronza..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/core.rpy:1108
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "È davvero uno spettacolo affascinante! Non molti sono riusciti a spogliare e sculacciare la loro sorella maggiore...\n"
+"Anche se è capricciosa e minacciosa, la mia insistenza sembra aver preso il sopravvento. È un piacere ammirare il suo culo nudo e sodo, così come schiaffeggiarlo.\n\n"
+"E ora so come non esagerare per godermi questa punizione privata il più a lungo possibile..."
+msgstr[1] "Ignore this. translate only: One"
 
