@@ -164,6 +164,6 @@ msgstr  "{i}всё ясно{/i}"
 
 # XX## game/script.rpy:121
 msgid  "{i}повторить{/i}"
-msgid_plural ""
-msgstr[0]  "{i}повторить{/i}"
+# XX## new
+msgstr  "{i}повторить{/i}"
 
