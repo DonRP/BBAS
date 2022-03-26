@@ -1,170 +1,170 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/10_main_menu.rpy:51
 msgid  "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
 
 # XX## game/core/10_main_menu.rpy:289
 msgid  "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Шорты"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Шорты"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Трусы"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Трусы"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Шапка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Шапка"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Борода"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Борода"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Трусы #1"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Трусы #1"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Трусы #2"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Трусы #2"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Маечка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Маечка"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Минишортики"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Минишортики"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Лиф"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лиф"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Плавки"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Плавки"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Лифчик"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лифчик"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Трусики"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Трусики"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Шапочка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Шапочка"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Бант на шею"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Бант на шею"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Кружевное платье"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Кружевное платье"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Чулочки"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Чулочки"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Топик"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Топик"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Шортики"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Шортики"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Шляпка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Шляпка"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Бабочка на шею"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Бабочка на шею"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Мишура на груди"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Мишура на груди"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Минилиф"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Минилиф"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Миниплавки"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Миниплавки"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Сорочка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Сорочка"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Свитер без рукавов"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Свитер без рукавов"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Откровенный корсет"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Откровенный корсет"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Браслетики на запястья"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Браслетики на запястья"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Юбочка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Юбочка"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Штанишки"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Штанишки"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Леденец на шею"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Леденец на шею"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Свитер с рукавами"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Свитер с рукавами"
 
 # XX## game/core/10_main_menu.rpy:421
 msgid  "Колготки"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Колготки"
 

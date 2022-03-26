@@ -7060,1216 +7060,1216 @@ msgstr "[Max_01] Рад, что тебе понравилось... В следу
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/lisatalk.rpy:78
 msgid  "Кажется, я передумал..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Кажется, я передумал..."
 
 # XX## game/dialogues/lisatalk.rpy:102
 msgid  "Что? Ты о чём?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Что? Ты о чём?"
 
 # XX## game/dialogues/lisatalk.rpy:102
 msgid  "Что случилось?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Что случилось?"
 
 # XX## game/dialogues/lisatalk.rpy:113
 msgid  "Да это не то, о чём ты думаешь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да это не то, о чём ты думаешь..."
 
 # XX## game/dialogues/lisatalk.rpy:113
 msgid  "Просто, так бывает утром иногда..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Просто, так бывает утром иногда..."
 
 # XX## game/dialogues/lisatalk.rpy:116
 msgid  "Да не ори ты так!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да не ори ты так!"
 
 # XX## game/dialogues/lisatalk.rpy:116
 msgid  "Ничего же не случилось..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ничего же не случилось..."
 
 # XX## game/dialogues/lisatalk.rpy:123
 msgid  "Ну что же ты орёшь так..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну что же ты орёшь так..."
 
 # XX## game/dialogues/lisatalk.rpy:123
 msgid  "Давай всё мирно уладим..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Давай всё мирно уладим..."
 
 # XX## game/dialogues/lisatalk.rpy:135
 msgid  "Да я просто спал, это само..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да я просто спал, это само..."
 
 # XX## game/dialogues/lisatalk.rpy:135
 msgid  "Так бывает по утрам, я не специально..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так бывает по утрам, я не специально..."
 
 # XX## game/dialogues/lisatalk.rpy:198
 msgid  "{i}подождать{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}подождать{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:198
 msgid  "Да трогай уже, он не кусается!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да трогай уже, он не кусается!"
 
 # XX## game/dialogues/lisatalk.rpy:267
 msgid  "Да я сам в шоке!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да я сам в шоке!"
 
 # XX## game/dialogues/lisatalk.rpy:267
 msgid  "Так как дела в школе?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так как дела в школе?"
 
 # XX## game/dialogues/lisatalk.rpy:267
 msgid  "Не заблудилась по дороге?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Не заблудилась по дороге?"
 
 # XX## game/dialogues/lisatalk.rpy:270
 msgid  "Да, мы почти в раю"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да, мы почти в раю"
 
 # XX## game/dialogues/lisatalk.rpy:270
 msgid  "Может быть, тут ураганы бывают?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Может быть, тут ураганы бывают?"
 
 # XX## game/dialogues/lisatalk.rpy:273
 msgid  "Ну, как дела в школе?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, как дела в школе?"
 
 # XX## game/dialogues/lisatalk.rpy:273
 msgid  "Нашла дорогу домой от школы?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Нашла дорогу домой от школы?"
 
 # XX## game/dialogues/lisatalk.rpy:291
 msgid  "Очень смешно!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Очень смешно!"
 
 # XX## game/dialogues/lisatalk.rpy:291
 msgid  "Хм... Ты слишком счастливая. Что-то случилось в школе?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хм... Ты слишком счастливая. Что-то случилось в школе?"
 
 # XX## game/dialogues/lisatalk.rpy:294
 msgid  "А меня всё устраивает"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А меня всё устраивает"
 
 # XX## game/dialogues/lisatalk.rpy:294
 msgid  "Здесь я никого не знаю"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Здесь я никого не знаю"
 
 # XX## game/dialogues/lisatalk.rpy:294
 msgid  "Просто... не люблю людей"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Просто... не люблю людей"
 
 # XX## game/dialogues/lisatalk.rpy:301
 msgid  "Почти? С кем-то познакомилась?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Почти? С кем-то познакомилась?"
 
 # XX## game/dialogues/lisatalk.rpy:301
 msgid  "Так что там в школе?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так что там в школе?"
 
 # XX## game/dialogues/lisatalk.rpy:304
 msgid  "Так кто он?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так кто он?"
 
 # XX## game/dialogues/lisatalk.rpy:304
 msgid  "И ничего я не ревную"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И ничего я не ревную"
 
 # XX## game/dialogues/lisatalk.rpy:304
 msgid  "Ну и не рассказывай, если не хочешь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну и не рассказывай, если не хочешь..."
 
 # XX## game/dialogues/lisatalk.rpy:309
 msgid  "Вот это признание!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Вот это признание!"
 
 # XX## game/dialogues/lisatalk.rpy:309
 msgid  "Я тоже тебя люблю, сестрёнка"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я тоже тебя люблю, сестрёнка"
 
 # XX## game/dialogues/lisatalk.rpy:323
 msgid  "Ну, приходится..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, приходится..."
 
 # XX## game/dialogues/lisatalk.rpy:323
 msgid  "Вы - исключение"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Вы - исключение"
 
 # XX## game/dialogues/lisatalk.rpy:323
 msgid  "Да я пошутил"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да я пошутил"
 
 # XX## game/dialogues/lisatalk.rpy:352
 msgid  "Что-то ты мне голову морочишь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Что-то ты мне голову морочишь..."
 
 # XX## game/dialogues/lisatalk.rpy:352
 msgid  "А имя у твоей подружки не мужское, случайно?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А имя у твоей подружки не мужское, случайно?"
 
 # XX## game/dialogues/lisatalk.rpy:355
 msgid  "Что-то я совсем запутался"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Что-то я совсем запутался"
 
 # XX## game/dialogues/lisatalk.rpy:366
 msgid  "Да как обычно..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да как обычно..."
 
 # XX## game/dialogues/lisatalk.rpy:366
 msgid  "Привыкаю ко всему"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Привыкаю ко всему"
 
 # XX## game/dialogues/lisatalk.rpy:369
 msgid  "Ну, теперь то это будет обычно"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, теперь то это будет обычно"
 
 # XX## game/dialogues/lisatalk.rpy:369
 msgid  "Ты права..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ты права..."
 
 # XX## game/dialogues/lisatalk.rpy:372
 msgid  "Ты же у нас оптимист обычно?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ты же у нас оптимист обычно?"
 
 # XX## game/dialogues/lisatalk.rpy:372
 msgid  "Ага. Или адвокат не заметит ошибку в документах какую-нибудь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ага. Или адвокат не заметит ошибку в документах какую-нибудь..."
 
 # XX## game/dialogues/lisatalk.rpy:385
 msgid  "Ну, я постараюсь"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, я постараюсь"
 
 # XX## game/dialogues/lisatalk.rpy:385
 msgid  "Человек как таракан, ко всему привыкает"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Человек как таракан, ко всему привыкает"
 
 # XX## game/dialogues/lisatalk.rpy:392
 msgid  "Ещё не решил. Что посоветуешь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ещё не решил. Что посоветуешь?"
 
 # XX## game/dialogues/lisatalk.rpy:392
 msgid  "Придумаю ещё. А у тебя какие планы?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Придумаю ещё. А у тебя какие планы?"
 
 # XX## game/dialogues/lisatalk.rpy:392
 msgid  "Буду думать как заработать"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Буду думать как заработать"
 
 # XX## game/dialogues/lisatalk.rpy:407
 msgid  "А если я настаиваю?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А если я настаиваю?"
 
 # XX## game/dialogues/lisatalk.rpy:407
 msgid  "Договорились"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Договорились"
 
 # XX## game/dialogues/lisatalk.rpy:410
 msgid  "Короче, рассказывай!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Короче, рассказывай!"
 
 # XX## game/dialogues/lisatalk.rpy:410
 msgid  "Ой, всё..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ой, всё..."
 
 # XX## game/dialogues/lisatalk.rpy:422
 msgid  "А подробнее?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А подробнее?"
 
 # XX## game/dialogues/lisatalk.rpy:422
 msgid  "И как вы познакомились?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И как вы познакомились?"
 
 # XX## game/dialogues/lisatalk.rpy:422
 msgid  "Расскажи о нём"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Расскажи о нём"
 
 # XX## game/dialogues/lisatalk.rpy:433
 msgid  "Я не зануда!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я не зануда!"
 
 # XX## game/dialogues/lisatalk.rpy:433
 msgid  "Значит, нравится мой типаж?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Значит, нравится мой типаж?"
 
 # XX## game/dialogues/lisatalk.rpy:433
 msgid  "А я тебе нравлюсь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А я тебе нравлюсь?"
 
 # XX## game/dialogues/lisatalk.rpy:438
 msgid  "А хотела бы, чтобы он им стал?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А хотела бы, чтобы он им стал?"
 
 # XX## game/dialogues/lisatalk.rpy:438
 msgid  "Я, между прочим, тоже ничего..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я, между прочим, тоже ничего..."
 
 # XX## game/dialogues/lisatalk.rpy:441
 msgid  "Значит, он тебе нравится?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Значит, он тебе нравится?"
 
 # XX## game/dialogues/lisatalk.rpy:441
 msgid  "И что теперь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И что теперь?"
 
 # XX## game/dialogues/lisatalk.rpy:448
 msgid  "А ты своему парню скажешь, что спишь со своим братом?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А ты своему парню скажешь, что спишь со своим братом?"
 
 # XX## game/dialogues/lisatalk.rpy:448
 msgid  "Спим вместе!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Спим вместе!"
 
 # XX## game/dialogues/lisatalk.rpy:454
 msgid  "Ладно, ладно. Ну а что он говорил?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ладно, ладно. Ну а что он говорил?"
 
 # XX## game/dialogues/lisatalk.rpy:461
 msgid  "Эй, я не неудачник!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Эй, я не неудачник!"
 
 # XX## game/dialogues/lisatalk.rpy:461
 msgid  "Я разве достаю? Просто интересуюсь твоей жизнью"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я разве достаю? Просто интересуюсь твоей жизнью"
 
 # XX## game/dialogues/lisatalk.rpy:468
 msgid  "А кто тебе нравится больше? Я или он?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А кто тебе нравится больше? Я или он?"
 
 # XX## game/dialogues/lisatalk.rpy:471
 msgid  "Ладно, ладно, извини..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ладно, ладно, извини..."
 
 # XX## game/dialogues/lisatalk.rpy:471
 msgid  "А он, значит, теперь нравится больше?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А он, значит, теперь нравится больше?"
 
 # XX## game/dialogues/lisatalk.rpy:471
 msgid  "И всё-таки?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И всё-таки?"
 
 # XX## game/dialogues/lisatalk.rpy:474
 msgid  "А вот теперь я могу обидеться..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А вот теперь я могу обидеться..."
 
 # XX## game/dialogues/lisatalk.rpy:474
 msgid  "Я же в шутку. И, кстати, придурок - это обидно!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я же в шутку. И, кстати, придурок - это обидно!"
 
 # XX## game/dialogues/lisatalk.rpy:491
 msgid  "Ну, со мной ты всегда можешь поболтать"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, со мной ты всегда можешь поболтать"
 
 # XX## game/dialogues/lisatalk.rpy:491
 msgid  "Можешь на меня рассчитывать"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Можешь на меня рассчитывать"
 
 # XX## game/dialogues/lisatalk.rpy:491
 msgid  "Только не превращай меня в свою подушку!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Только не превращай меня в свою подушку!"
 
 # XX## game/dialogues/lisatalk.rpy:498
 msgid  "Что? Он уже тебя бросил?!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Что? Он уже тебя бросил?!"
 
 # XX## game/dialogues/lisatalk.rpy:498
 msgid  "А я не убежал и всё ещё здесь!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А я не убежал и всё ещё здесь!"
 
 # XX## game/dialogues/lisatalk.rpy:521
 msgid  "Он тебе нравится?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Он тебе нравится?"
 
 # XX## game/dialogues/lisatalk.rpy:521
 msgid  "Думаю, у вас всё получится"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Думаю, у вас всё получится"
 
 # XX## game/dialogues/lisatalk.rpy:530
 msgid  "Всё будет хорошо"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Всё будет хорошо"
 
 # XX## game/dialogues/lisatalk.rpy:530
 msgid  "Если что, я всегда помогу советом"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Если что, я всегда помогу советом"
 
 # XX## game/dialogues/lisatalk.rpy:530
 msgid  "А не рано тебе с кем-то встречаться?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А не рано тебе с кем-то встречаться?"
 
 # XX## game/dialogues/lisatalk.rpy:537
 msgid  "Это я её бросил"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Это я её бросил"
 
 # XX## game/dialogues/lisatalk.rpy:537
 msgid  "Так что, у меня есть опыт"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так что, у меня есть опыт"
 
 # XX## game/dialogues/lisatalk.rpy:540
 msgid  "Всё было не так!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Всё было не так!"
 
 # XX## game/dialogues/lisatalk.rpy:540
 msgid  "В любом случае, у меня опыта больше"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "В любом случае, у меня опыта больше"
 
 # XX## game/dialogues/lisatalk.rpy:540
 msgid  "Это всё в прошлом..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Это всё в прошлом..."
 
 # XX## game/dialogues/lisatalk.rpy:556
 msgid  "Я же не обо всём рассказывал..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я же не обо всём рассказывал..."
 
 # XX## game/dialogues/lisatalk.rpy:556
 msgid  "Именно поэтому за советами обращайся ко мне"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Именно поэтому за советами обращайся ко мне"
 
 # XX## game/dialogues/lisatalk.rpy:564
 msgid  "У меня было много девушек"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "У меня было много девушек"
 
 # XX## game/dialogues/lisatalk.rpy:564
 msgid  "А вот это - секрет!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А вот это - секрет!"
 
 # XX## game/dialogues/lisatalk.rpy:564
 msgid  "Тебе лучше не знать..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Тебе лучше не знать..."
 
 # XX## game/dialogues/lisatalk.rpy:573
 msgid  "В школе по мне все девушки с ума сходили"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "В школе по мне все девушки с ума сходили"
 
 # XX## game/dialogues/lisatalk.rpy:573
 msgid  "Не хочешь - не верь. Но опыт у меня есть"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Не хочешь - не верь. Но опыт у меня есть"
 
 # XX## game/dialogues/lisatalk.rpy:576
 msgid  "В любом случае, нужна будет помощь или совет - подходи"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "В любом случае, нужна будет помощь или совет - подходи"
 
 # XX## game/dialogues/lisatalk.rpy:576
 msgid  "Так или иначе, о парнях я знаю больше тебя..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так или иначе, о парнях я знаю больше тебя..."
 
 # XX## game/dialogues/lisatalk.rpy:590
 msgid  "Я знаю как мыслят парни. Так что, могу помочь советом..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я знаю как мыслят парни. Так что, могу помочь советом..."
 
 # XX## game/dialogues/lisatalk.rpy:590
 msgid  "Если будет нужна помощь, обращайся"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Если будет нужна помощь, обращайся"
 
 # XX## game/dialogues/lisatalk.rpy:620
 msgid  "Ну, чего ты в закрытом купальнике лежишь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, чего ты в закрытом купальнике лежишь?"
 
 # XX## game/dialogues/lisatalk.rpy:620
 msgid  "Тебе не жарко в таком купальнике?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Тебе не жарко в таком купальнике?"
 
 # XX## game/dialogues/lisatalk.rpy:626
 msgid  "Очень жаль... Я могу чем-то помочь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Очень жаль... Я могу чем-то помочь?"
 
 # XX## game/dialogues/lisatalk.rpy:626
 msgid  "Так загорай голая!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так загорай голая!"
 
 # XX## game/dialogues/lisatalk.rpy:629
 msgid  "Могу как-то решить твою проблему..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Могу как-то решить твою проблему..."
 
 # XX## game/dialogues/lisatalk.rpy:629
 msgid  "Я что-нибудь придумаю!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я что-нибудь придумаю!"
 
 # XX## game/dialogues/lisatalk.rpy:637
 msgid  "А давай разденемся вместе!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А давай разденемся вместе!"
 
 # XX## game/dialogues/lisatalk.rpy:637
 msgid  "Да легко!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да легко!"
 
 # XX## game/dialogues/lisatalk.rpy:637
 msgid  "Боюсь тебя шокировать..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Боюсь тебя шокировать..."
 
 # XX## game/dialogues/lisatalk.rpy:637
 msgid  "Боюсь тебя снова шокировать..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Боюсь тебя снова шокировать..."
 
 # XX## game/dialogues/lisatalk.rpy:648
 msgid  "Ну, ты сама спросила почему я не раздеваюсь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, ты сама спросила почему я не раздеваюсь..."
 
 # XX## game/dialogues/lisatalk.rpy:648
 msgid  "Точно? А то мне есть что тебе показать..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Точно? А то мне есть что тебе показать..."
 
 # XX## game/dialogues/lisatalk.rpy:651
 msgid  "А какой ты хочешь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А какой ты хочешь?"
 
 # XX## game/dialogues/lisatalk.rpy:663
 msgid  "А я и не шучу..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А я и не шучу..."
 
 # XX## game/dialogues/lisatalk.rpy:663
 msgid  "Ладно. А какой купальник ты хочешь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ладно. А какой купальник ты хочешь?"
 
 # XX## game/dialogues/lisatalk.rpy:666
 msgid  "Извини, шутки у меня дурацкие... А какой купальник ты хочешь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Извини, шутки у меня дурацкие... А какой купальник ты хочешь?"
 
 # XX## game/dialogues/lisatalk.rpy:666
 msgid  "Конечно, одыхай..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Конечно, одыхай..."
 
 # XX## game/dialogues/lisatalk.rpy:687
 msgid  "И всё?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И всё?"
 
 # XX## game/dialogues/lisatalk.rpy:703
 msgid  "Я про Алекса, ты же сама рассказывала..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я про Алекса, ты же сама рассказывала..."
 
 # XX## game/dialogues/lisatalk.rpy:703
 msgid  "Ты уверена? Его вроде Алекс зовут..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ты уверена? Его вроде Алекс зовут..."
 
 # XX## game/dialogues/lisatalk.rpy:703
 msgid  "И правильно. Рано ещё тебе парней заводить"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И правильно. Рано ещё тебе парней заводить"
 
 # XX## game/dialogues/lisatalk.rpy:710
 msgid  "Думаю, она со мной согласилась бы"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Думаю, она со мной согласилась бы"
 
 # XX## game/dialogues/lisatalk.rpy:710
 msgid  "Я знаю, что говорю"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я знаю, что говорю"
 
 # XX## game/dialogues/lisatalk.rpy:710
 msgid  "Значит, он твой парень?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Значит, он твой парень?"
 
 # XX## game/dialogues/lisatalk.rpy:718
 msgid  "Ага, так он твой парень?!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ага, так он твой парень?!"
 
 # XX## game/dialogues/lisatalk.rpy:718
 msgid  "Ну, да..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, да..."
 
 # XX## game/dialogues/lisatalk.rpy:718
 msgid  "Это было бы правильное решение..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Это было бы правильное решение..."
 
 # XX## game/dialogues/lisatalk.rpy:726
 msgid  "Так у нас тут бунтарка!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так у нас тут бунтарка!"
 
 # XX## game/dialogues/lisatalk.rpy:726
 msgid  "А вот это мне в тебе нравится!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А вот это мне в тебе нравится!"
 
 # XX## game/dialogues/lisatalk.rpy:726
 msgid  "Ну и зря. Иногда большинство бывает право..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну и зря. Иногда большинство бывает право..."
 
 # XX## game/dialogues/lisatalk.rpy:736
 msgid  "Да расслабься..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да расслабься..."
 
 # XX## game/dialogues/lisatalk.rpy:736
 msgid  "Ладно, ладно, верю!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ладно, ладно, верю!"
 
 # XX## game/dialogues/lisatalk.rpy:743
 msgid  "Я подумал, что тебе нужна моя помощь"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я подумал, что тебе нужна моя помощь"
 
 # XX## game/dialogues/lisatalk.rpy:743
 msgid  "Хотел дать тебе один совет..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хотел дать тебе один совет..."
 
 # XX## game/dialogues/lisatalk.rpy:743
 msgid  "Да, забей..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да, забей..."
 
 # XX## game/dialogues/lisatalk.rpy:746
 msgid  "Как скажешь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Как скажешь..."
 
 # XX## game/dialogues/lisatalk.rpy:746
 msgid  "Если что, ты знаешь где меня искать"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Если что, ты знаешь где меня искать"
 
 # XX## game/dialogues/lisatalk.rpy:753
 msgid  "Хорошо, хорошо..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хорошо, хорошо..."
 
 # XX## game/dialogues/lisatalk.rpy:753
 msgid  "Ну, если что, я тут"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, если что, я тут"
 
 # XX## game/dialogues/lisatalk.rpy:770
 msgid  "Хочешь, я помогу тебе домыть остальное?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хочешь, я помогу тебе домыть остальное?"
 
 # XX## game/dialogues/lisatalk.rpy:790
 msgid  "Хорошо, пойду займусь"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хорошо, пойду займусь"
 
 # XX## game/dialogues/lisatalk.rpy:803
 msgid  "Извини, я забыл, что обещал"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Извини, я забыл, что обещал"
 
 # XX## game/dialogues/lisatalk.rpy:803
 msgid  "Извини, но было же весело?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Извини, но было же весело?"
 
 # XX## game/dialogues/lisatalk.rpy:803
 msgid  "Извини, я не подумал..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Извини, я не подумал..."
 
 # XX## game/dialogues/lisatalk.rpy:816
 msgid  "Я ни с кем не встречаюсь. В моей жизни есть только ты!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я ни с кем не встречаюсь. В моей жизни есть только ты!"
 
 # XX## game/dialogues/lisatalk.rpy:816
 msgid  "Если бы и был кто-то, ты бы точно свой нос совала!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Если бы и был кто-то, ты бы точно свой нос совала!"
 
 # XX## game/dialogues/lisatalk.rpy:827
 msgid  "Они всё врут. Ты - самая красивая!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Они всё врут. Ты - самая красивая!"
 
 # XX## game/dialogues/lisatalk.rpy:827
 msgid  "Ты уверена, что она самая красивая?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ты уверена, что она самая красивая?"
 
 # XX## game/dialogues/lisatalk.rpy:834
 msgid  "Наверное, стерва?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Наверное, стерва?"
 
 # XX## game/dialogues/lisatalk.rpy:834
 msgid  "И какая она?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "И какая она?"
 
 # XX## game/dialogues/lisatalk.rpy:837
 msgid  "В твоём вкусе?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "В твоём вкусе?"
 
 # XX## game/dialogues/lisatalk.rpy:837
 msgid  "Странно..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Странно..."
 
 # XX## game/dialogues/lisatalk.rpy:853
 msgid  "Ну вот видишь, не всё потеряно!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну вот видишь, не всё потеряно!"
 
 # XX## game/dialogues/lisatalk.rpy:853
 msgid  "Значит, у тебя есть шанс!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Значит, у тебя есть шанс!"
 
 # XX## game/dialogues/lisatalk.rpy:872
 msgid  "Да ты послушай!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да ты послушай!"
 
 # XX## game/dialogues/lisatalk.rpy:872
 msgid  "Я хотел извиниться..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я хотел извиниться..."
 
 # XX## game/dialogues/lisatalk.rpy:950
 msgid  "Помочь, конечно!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Помочь, конечно!"
 
 # XX## game/dialogues/lisatalk.rpy:950
 msgid  "Для начала хотел узнать, как у тебя дела?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Для начала хотел узнать, как у тебя дела?"
 
 # XX## game/dialogues/lisatalk.rpy:953
 msgid  "Тебе повезло, у меня всё хорошо с этими предметами!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Тебе повезло, у меня всё хорошо с этими предметами!"
 
 # XX## game/dialogues/lisatalk.rpy:953
 msgid  "Может быть, я тебе и смогу помочь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Может быть, я тебе и смогу помочь..."
 
 # XX## game/dialogues/lisatalk.rpy:967
 msgid  "Конечно, сестрёнка!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Конечно, сестрёнка!"
 
 # XX## game/dialogues/lisatalk.rpy:970
 msgid  "Ну может быть..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну может быть..."
 
 # XX## game/dialogues/lisatalk.rpy:970
 msgid  "Обещаю! Хочу только помогать и ничего взамен!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Обещаю! Хочу только помогать и ничего взамен!"
 
 # XX## game/dialogues/lisatalk.rpy:989
 msgid  "Ну сама подумай, зачем мне тратить время просто так?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну сама подумай, зачем мне тратить время просто так?"
 
 # XX## game/dialogues/lisatalk.rpy:989
 msgid  "Может быть, попрошу что-то..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Может быть, попрошу что-то..."
 
 # XX## game/dialogues/lisatalk.rpy:989
 msgid  "Да нет, конечно. Обещаю, что ничего не попрошу взамен!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да нет, конечно. Обещаю, что ничего не попрошу взамен!"
 
 # XX## game/dialogues/lisatalk.rpy:997
 msgid  "Нет, Лиза. Ты мне - я тебе."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Нет, Лиза. Ты мне - я тебе."
 
 # XX## game/dialogues/lisatalk.rpy:997
 msgid  "А я пошутил. Обещаю, что ничего не попрошу взамен!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А я пошутил. Обещаю, что ничего не попрошу взамен!"
 
 # XX## game/dialogues/lisatalk.rpy:1053
 msgid  "Лучше отдохни сегодня, а я всё сделаю за тебя?!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лучше отдохни сегодня, а я всё сделаю за тебя?!"
 
 # XX## game/dialogues/lisatalk.rpy:1073
 msgid  "Ну, давай посмотрим..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, давай посмотрим..."
 
 # XX## game/dialogues/lisatalk.rpy:1073
 msgid  "Хотя, в другой раз..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хотя, в другой раз..."
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "Без проблем!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Без проблем!"
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "Ты пока отдохни, я сам всё сделаю!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ты пока отдохни, я сам всё сделаю!"
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "Ага... {i}(сделать ошибки){/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ага... {i}(сделать ошибки){/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "Давай я всё сделаю сам! {i}(без ошибок){/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Давай я всё сделаю сам! {i}(без ошибок){/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "Я всё сделаю сам на пятёрку, если ты сделаешь кое-что для меня..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я всё сделаю сам на пятёрку, если ты сделаешь кое-что для меня..."
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "А ножки тебе помассировать?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А ножки тебе помассировать?"
 
 # XX## game/dialogues/lisatalk.rpy:1085
 msgid  "Ой, тут много... Давай в другой раз."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ой, тут много... Давай в другой раз."
 
 # XX## game/dialogues/lisatalk.rpy:1105
 msgid  "Покажи грудь!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Покажи грудь!"
 
 # XX## game/dialogues/lisatalk.rpy:1145
 msgid  "Тебе напомнить как мама больно наказывает?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Тебе напомнить как мама больно наказывает?"
 
 # XX## game/dialogues/lisatalk.rpy:1145
 msgid  "Как хочешь. Но мама тебя накажет!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Как хочешь. Но мама тебя накажет!"
 
 # XX## game/dialogues/lisatalk.rpy:1194
 msgid  "Да, Лиза, ты права..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да, Лиза, ты права..."
 
 # XX## game/dialogues/lisatalk.rpy:1194
 msgid  "Лиза, я знаю о чём говорю!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лиза, я знаю о чём говорю!"
 
 # XX## game/dialogues/lisatalk.rpy:1228
 msgid  "Лиза очень ценит помощь Макса. Её отношение значительно улучшилось."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лиза очень ценит помощь Макса. Её отношение значительно улучшилось."
 
 # XX## game/dialogues/lisatalk.rpy:1263
 msgid  "{i}начать массаж{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}начать массаж{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1382
 msgid  "Я и плечи помассировать могу, если хочешь?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я и плечи помассировать могу, если хочешь?"
 
 # XX## game/dialogues/lisatalk.rpy:1445
 msgid  "{i}продолжить ниже{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}продолжить ниже{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1642
 msgid  "{i}массировать её грудь{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}массировать её грудь{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1663
 msgid  "{i}продолжить массировать её грудь и целовать{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}продолжить массировать её грудь и целовать{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1775
 msgid  "{i}увлечь её поцелуем{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}увлечь её поцелуем{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1782
 msgid  "{i}закончить урок{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}закончить урок{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1831
 msgid  "{i}притянуть её к себе{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}притянуть её к себе{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:1971
 msgid  "Конечно. Держи!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Конечно. Держи!"
 
 # XX## game/dialogues/lisatalk.rpy:1971
 msgid  "Ну, не совсем..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну, не совсем..."
 
 # XX## game/dialogues/lisatalk.rpy:1976
 msgid  "Я тебе его подарю, если разрешишь посмотреть, как ты его примеряешь..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я тебе его подарю, если разрешишь посмотреть, как ты его примеряешь..."
 
 # XX## game/dialogues/lisatalk.rpy:1976
 msgid  "Я передумал. Ничего не хочу!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Я передумал. Ничего не хочу!"
 
 # XX## game/dialogues/lisatalk.rpy:2009
 msgid  "Угу, уже... {i}(Демонстративно отвернуться){/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Угу, уже... {i}(Демонстративно отвернуться){/i}"
 
 # XX## game/dialogues/lisatalk.rpy:2179
 msgid  "Лиза недовольна отношением Макса к обещаниям. Её отношение к Максу ухудшилось."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лиза недовольна отношением Макса к обещаниям. Её отношение к Максу ухудшилось."
 
 # XX## game/dialogues/lisatalk.rpy:2213
 msgid  "Да, конечно помню..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да, конечно помню..."
 
 # XX## game/dialogues/lisatalk.rpy:2213
 msgid  "Возможно... А что?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Возможно... А что?"
 
 # XX## game/dialogues/lisatalk.rpy:2238
 msgid  "Ага. Ну так как, ты согласна?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ага. Ну так как, ты согласна?"
 
 # XX## game/dialogues/lisatalk.rpy:2238
 msgid  "Нет, не говорила..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Нет, не говорила..."
 
 # XX## game/dialogues/lisatalk.rpy:2256
 msgid  "Лиза не любит признавать, что ей нужна помощь Макса. Её отношение к Максу ухудшилось."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лиза не любит признавать, что ей нужна помощь Макса. Её отношение к Максу ухудшилось."
 
 # XX## game/dialogues/lisatalk.rpy:2545
 msgid  "Однозначно надо обнять!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Однозначно надо обнять!"
 
 # XX## game/dialogues/lisatalk.rpy:2611
 msgid  "Это было случайно... Просто так получается всё время!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Это было случайно... Просто так получается всё время!"
 
 # XX## game/dialogues/lisatalk.rpy:2801
 msgid  "Конечно стоит!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Конечно стоит!"
 
 # XX## game/dialogues/lisatalk.rpy:3147
 msgid  "Лиза, мне можно рассказать!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Лиза, мне можно рассказать!"
 
 # XX## game/dialogues/lisatalk.rpy:3329
 msgid  "Э... Что? Какие условия?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Э... Что? Какие условия?"
 
 # XX## game/dialogues/lisatalk.rpy:3329
 msgid  "Спектакль? Это не спектакль! Но я тебя слушаю..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Спектакль? Это не спектакль! Но я тебя слушаю..."
 
 # XX## game/dialogues/lisatalk.rpy:3339
 msgid  "Понял!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Понял!"
 
 # XX## game/dialogues/lisatalk.rpy:3339
 msgid  "Зато сколько интересного может произойти в комнате..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Зато сколько интересного может произойти в комнате..."
 
 # XX## game/dialogues/lisatalk.rpy:3362
 msgid  "Ну кто ещё тебя научит? А сейчас я готов тебе помочь!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ну кто ещё тебя научит? А сейчас я готов тебе помочь!"
 
 # XX## game/dialogues/lisatalk.rpy:3369
 msgid  "{i}Продемонстрировать своё мастерство{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}Продемонстрировать своё мастерство{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:3428
 msgid  "{i}нежно прикасаться к ней{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}нежно прикасаться к ней{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:3434
 msgid  "{i}нежно прикасаться к её груди{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}нежно прикасаться к её груди{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:3575
 msgid  "{i}всё равно подарить книгу{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}всё равно подарить книгу{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:3575
 msgid  "{i}сперва прочитать самому{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}сперва прочитать самому{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:3599
 msgid  "Возбуждённое..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Возбуждённое..."
 
 # XX## game/dialogues/lisatalk.rpy:3599
 msgid  "Особое такое..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Особое такое..."
 
 # XX## game/dialogues/lisatalk.rpy:3609
 msgid  "Именно!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Именно!"
 
 # XX## game/dialogues/lisatalk.rpy:3609
 msgid  "Нет, речь не готовил..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Нет, речь не готовил..."
 
 # XX## game/dialogues/lisatalk.rpy:3813
 msgid  "А то ты не знаешь, как она выглядит..."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "А то ты не знаешь, как она выглядит..."
 
 # XX## game/dialogues/lisatalk.rpy:3813
 msgid  "Да легко! Ты показываешь грудь, я член!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Да легко! Ты показываешь грудь, я член!"
 
 # XX## game/dialogues/lisatalk.rpy:4266
 msgid  "Это да... Тогда, на здоровье, сестрёнка. Мешать не буду."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Это да... Тогда, на здоровье, сестрёнка. Мешать не буду."
 
 # XX## game/dialogues/lisatalk.rpy:4266
 msgid  "Ясно. А тебе не кажется, что это как минимум неправильно?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ясно. А тебе не кажется, что это как минимум неправильно?"
 
 # XX## game/dialogues/lisatalk.rpy:4327
 msgid  "Это да... Тогда, на здоровье, сестрёнка. Занимайтесь."
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Это да... Тогда, на здоровье, сестрёнка. Занимайтесь."
 
 # XX## game/dialogues/lisatalk.rpy:4327
 msgid  "Ясно. И что, ты хочешь на это согласиться?"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ясно. И что, ты хочешь на это согласиться?"
 
 # XX## game/dialogues/lisatalk.rpy:4459
 msgid  "Если поцелуешь, то вполне можешь!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Если поцелуешь, то вполне можешь!"
 
 # XX## game/dialogues/lisatalk.rpy:4459
 msgid  "Только если дашь поцеловать!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Только если дашь поцеловать!"
 
 # XX## game/dialogues/lisatalk.rpy:4467
 msgid  "{i}прикоснуться к попке Лизы{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}прикоснуться к попке Лизы{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4467
 msgid  "{i}отпустить Лизу в школу{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}отпустить Лизу в школу{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4564
 msgid  "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
 
 # XX## game/dialogues/lisatalk.rpy:4605
 msgid  "Мне пришлось его взять, чтобы себя оправдать!"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Мне пришлось его взять, чтобы себя оправдать!"
 
 # XX## game/dialogues/lisatalk.rpy:4636
 msgid  "{i}идти к Алисе{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}идти к Алисе{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4648
 msgid  "{i}идти с Лизой и Алисой в гостиную{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}идти с Лизой и Алисой в гостиную{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4788
 msgid  "{i}поцеловать Лизу{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}поцеловать Лизу{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4796
 msgid  "{i}нежно прикасаться к её попке{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}нежно прикасаться к её попке{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4808
 msgid  "{i}целовать её шею{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}целовать её шею{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4842
 msgid  "{i}лечь рядом с Лизой{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}лечь рядом с Лизой{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4962
 msgid  "{i}закончить поцелуй{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}закончить поцелуй{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:4970
 msgid  "{i}снова целовать Лизу{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}снова целовать Лизу{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:5022
 msgid  "{i}остановиться{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}остановиться{/i}"
 
 # XX## game/dialogues/lisatalk.rpy:5022
 msgid  "{i}целовать её грудь{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}целовать её грудь{/i}"
 

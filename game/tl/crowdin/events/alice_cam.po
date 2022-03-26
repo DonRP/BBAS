@@ -372,31 +372,31 @@ msgstr "[Max_08] {m}Эрик сегодня в комнате Алисы. Пох
 
 # XXtranslate crowdin strings:XX# XX## game/events/alice_cam.rpy:57
 msgid  "{i}Конечно{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}Конечно{/i}"
 
 # XX## game/events/alice_cam.rpy:74
 msgid  "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
 
 # XX## game/events/alice_cam.rpy:74
 msgid  "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}Да и хрен с ним, пусть дрочит{/i}"
 
 # XX## game/events/alice_cam.rpy:88
 msgid  "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}Взять фотоаппарат и пойти на балкон{/i}"
 
 # XX## game/events/alice_cam.rpy:332
 msgid  "{i}продолжать смотреть{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}продолжать смотреть{/i}"
 
 # XX## game/events/alice_cam.rpy:332
 msgid  "{i}достаточно{/i}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}достаточно{/i}"
 

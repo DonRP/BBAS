@@ -1,155 +1,155 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
 msgid  "+ к навыку скрытности"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к навыку скрытности"
 
 # XX## game/core/04function.rpy:306
 msgid  "+ к навыку убеждения"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к навыку убеждения"
 
 # XX## game/core/04function.rpy:310
 msgid  "+ к навыку массажа"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к навыку массажа"
 
 # XX## game/core/04function.rpy:314
 msgid  "+ к навыку поцелуев"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к навыку поцелуев"
 
 # XX## game/core/04function.rpy:318
 msgid  "+ к навыку эротического массажа"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к навыку эротического массажа"
 
 # XX## game/core/04function.rpy:322
 msgid  "+ к тренированности"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к тренированности"
 
 # XX## game/core/04function.rpy:326
 msgid  "+ к навыку кунилингуса"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к навыку кунилингуса"
 
 # XX## game/core/04function.rpy:330
 msgid  "+ к сексуальному опыту"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к сексуальному опыту"
 
 # XX## game/core/04function.rpy:334
 msgid  "+ к опыту анального секса"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "+ к опыту анального секса"
 
 # XX## game/core/04function.rpy:343
 msgid  "{color=[red]}значительно ухудшилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[red]}значительно ухудшилось{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid  "{color=[red]}ухудшилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[red]}ухудшилось{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid  "{color=[red]}немного ухудшилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[red]}немного ухудшилось{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid  "{color=[lime]}немного улучшилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[lime]}немного улучшилось{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid  "{color=[lime]}улучшилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[lime]}улучшилось{/color}"
 
 # XX## game/core/04function.rpy:343
 msgid  "{color=[lime]}значительно улучшилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[lime]}значительно улучшилось{/color}"
 
 # XX## game/core/04function.rpy:354
 msgid  "{color=[red]}снизилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[red]}снизилось{/color}"
 
 # XX## game/core/04function.rpy:354
 msgid  "{color=[lime]}повысилось{/color}"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[lime]}повысилось{/color}"
 
 # XX## game/core/04function.rpy:385
 msgid  "Настроение %s %s \nЕё отношение к Максу %s"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Настроение %s %s \nЕё отношение к Максу %s"
 
 # XX## game/core/04function.rpy:387
 msgid  "Отношение %s к Максу %s"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Отношение %s к Максу %s"
 
 # XX## game/core/04function.rpy:389
 msgid  "Настроение %s %s"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Настроение %s %s"
 
 # XX## game/core/04function.rpy:406
 msgid  "Так... В накладной написано следующее:"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Так... В накладной написано следующее:"
 
 # XX## game/core/04function.rpy:712
 msgid  "Прохладные"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Прохладные"
 
 # XX## game/core/04function.rpy:714
 msgid  "Война"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Война"
 
 # XX## game/core/04function.rpy:714
 msgid  "Враждебные"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Враждебные"
 
 # XX## game/core/04function.rpy:714
 msgid  "Плохие"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Плохие"
 
 # XX## game/core/04function.rpy:714
 msgid  "Неплохие"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Неплохие"
 
 # XX## game/core/04function.rpy:714
 msgid  "Хорошие"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хорошие"
 
 # XX## game/core/04function.rpy:714
 msgid  "Тёплые"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Тёплые"
 
 # XX## game/core/04function.rpy:714
 msgid  "Дружеские"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Дружеские"
 
 # XX## game/core/04function.rpy:714
 msgid  "Близкие"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Близкие"
 
 # XX## game/core/04function.rpy:1011
 msgid  "Конфеты закончились"
-msgid_plural "Ignore this. translate only: "One""
+msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Конфеты закончились"
 
