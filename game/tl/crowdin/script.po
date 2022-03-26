@@ -164,6 +164,6 @@ msgstr  "{i}всё ясно{/i}"
 
 # XX## game/script.rpy:121
 msgid  "{i}повторить{/i}"
-msgid_plural "[no_traslate]"
+msgid_plural "Ingnora this translate only \"One\""
 msgstr[0]  "{i}повторить{/i}"
 
