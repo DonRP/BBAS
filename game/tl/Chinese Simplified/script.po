@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-05 19:55\n"
+"PO-Revision-Date: 2022-03-26 10:15\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/script.rpy:58 ## translate crowdin intro_8dea4dcf:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/script.rpy:58 ## translate crowdin intro_8dea4dcf:
 msgid "[Max_00] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
 msgstr ""
 
