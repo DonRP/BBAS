@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 09:55\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
 "Мне кажется, не стоит её будить...{/m} [nointeract]"
 msgstr "[Max_00] {m}La mamma di solito dorme a quest'ora.\n"
@@ -498,7 +498,7 @@ msgstr "[Max_08] Cosa?! Come puoi dire questo?"
 
 # game/events/ann.rpy:663 ## translate crowdin ann_dressed_balkon_talk1_79bc09d7:
 msgid "[Ann_13] А разве нет? Я... Я была так глупа, что привела в дом проходимца, который не только воспользовался мной, но и чуть не совратил моих девочек!"
-msgstr "[Ann_13] Non è vero? Я... Sono stata così stupida da portare in casa un vagabondo che non solo ha approfittato di me, ma ha quasi molestato le mie ragazze!"
+msgstr "[Ann_13] Non è vero? Io... Sono stata così stupida da portare in casa un vagabondo che non solo ha approfittato di me, ma ha quasi molestato le mie ragazze!"
 
 # game/events/ann.rpy:664 ## translate crowdin ann_dressed_balkon_talk1_de50c165:
 msgid "[Max_09] Мам, прекрати, это уже всё в прошлом... Забудь..."
