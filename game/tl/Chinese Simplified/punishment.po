@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:18\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/punishment.rpy:99 ## translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -570,125 +570,156 @@ msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/punishment.rpy:207
 msgid "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:207
 msgid "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:207
 msgid "Ну, я подглядывал за тобой, мам..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:207
 msgid "Ну, я подглядывал за вами с Эриком..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:207
 msgid "Ну, я плохо себя вёл..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:251
 msgid "Я же не виноват!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:266
 msgid "штаны"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:268
 msgid "шорты"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:269
 msgid "{i}снять штаны{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:293
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:293
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:293
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:293
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной... с Эриком. Я уже предупреждала, что такое недопустимо!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:293
 msgid "Если вы не в курсе, Макс будет наказан за своё отвратительное поведение. Надеюсь, теперь ты будешь хорошенько думать о том, что делаешь и что говоришь!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:293
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой в душе и, возможно, даже подбросил туда паука. Ты знаешь, что такое я не потерплю!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:333
 msgid "{i}раздеться{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:338
 msgid "{i}снять шорты{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:455
 msgid "Ближе подходи, Лиза. И да, снимай штаны, ты заслужила!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:457
 msgid "Ближе подходи, Лиза. И да, снимай свой халат, ты заслужила!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:461
 msgid "{i}Заступиться за Лизу{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:482
 msgid "Быстро снимай штаны!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:484
 msgid "Быстро снимай халат!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:499
 msgid "Теперь ложись, и побыстрее, все есть хотят..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:502
 msgid "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:564
 msgid "Говоришь тебе, говоришь, все как об стенку горох..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:570
 msgid "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:624
 msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:626
 msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:630
 msgid "{i}Заступиться за Алису{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:688
 msgid "Теперь ложись побыстрее, ужин стынет..."
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
 # XX## game/dialogues/punishment.rpy:691
 msgid "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
 
