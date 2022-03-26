@@ -10,141 +10,209 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
-msgstr "{color =[lime]} le réglage détaillé de l'un des costumes %s est Ouvert dans le menu principal {/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:289
 msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-msgstr "{color=#00FF00}nouveau costume %s Ouvert pour le menu principal {/color}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Шорты"
-msgstr "Short"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Трусы"
-msgstr "Culotte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Шапка"
-msgstr "Chapeau"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Борода"
-msgstr "Barbe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Трусы #1"
-msgstr "Culotte #1"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Трусы #2"
-msgstr "Culotte #2"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Маечка"
-msgstr "T-shirt"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Минишортики"
-msgstr "Mini-Short"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Лиф"
-msgstr "Corsage"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Плавки"
-msgstr "Slip"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Лифчик"
-msgstr "Soutien-gorge"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Трусики"
-msgstr "Culotte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Шапочка"
-msgstr "Bonnet"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Бант на шею"
-msgstr "Arc autour du cou"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Кружевное платье"
-msgstr "Robe en dentelle"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Чулочки"
-msgstr "Bas"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Топик"
-msgstr "Sujet"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Шортики"
-msgstr "Short"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Шляпка"
-msgstr "Casquette"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Бабочка на шею"
-msgstr "Papillon autour du cou"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Мишура на груди"
-msgstr "Guirlande sur la poitrine"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Минилиф"
-msgstr "Minilifter"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Миниплавки"
-msgstr "Mini-flotteurs"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Сорочка"
-msgstr "Chemise"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Свитер без рукавов"
-msgstr "Pull sans manche"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Откровенный корсет"
-msgstr "Corset candide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Браслетики на запястья"
-msgstr "Bracelets de poignet"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Юбочка"
-msgstr "Jupe"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Штанишки"
-msgstr "Culotte"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Леденец на шею"
-msgstr "Sucette sur le cou"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Свитер с рукавами"
-msgstr "Pull à manches longues"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/10_main_menu.rpy:421
 msgid "Колготки"
-msgstr "Collant"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
