@@ -10,49 +10,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:682
 msgid "Ужасное"
-msgstr "Terrible"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень плохое"
-msgstr "Muy malo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Плохое"
-msgstr "Malo"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Не очень"
-msgstr "No mucho"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Нейтральное"
-msgstr "Neutral"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Неплохое"
-msgstr "Decente"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Хорошее"
-msgstr "Bien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Очень хорошее"
-msgstr "Muy bien"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:682
 msgid "Прекрасное"
-msgstr "Perfecto"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:1078
 msgid "Приобретен пакет рекламы"
-msgstr "Compró un paquete publicitario"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/01classes.rpy:1334
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Atención:{/b} ¡Ha obtenido una nueva \"oportunidad\"! {/i} {/color"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
