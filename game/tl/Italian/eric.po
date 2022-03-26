@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-26 10:14\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/eric.rpy:13 ## translate crowdin Eric_talk_afterdinner_84e16ca3:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/eric.rpy:13 ## translate crowdin Eric_talk_afterdinner_84e16ca3:
 msgid "[Eric_00] Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
 msgstr "[Eric_00] Max, mentre tua madre si cambia i vestiti, vorrei parlare con te. Faccia a faccia, per così dire..."
 
@@ -734,7 +734,7 @@ msgstr "[Max_06] [undetect!t]{m}Porca puttana! Questa è passione! Sembrano cos�
 
 # game/events/eric.rpy:1026 ## translate crowdin eric_ann_shower_alt_peepeng_cd84b893:
 msgid "[Max_05] [undetect!t]{m}Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!{/m} [nointeract]"
-msgstr "[Max_05] [undetect!t]{m}Wow! Eric si sta scopando sua madre da dietro così forte... И... sembra che le piaccia molto, si muove persino verso di lui... e lo brama!{/m} [nointeract]"
+msgstr "[Max_05] [undetect!t]{m}Wow! Eric si sta scopando la madre da dietro così forte... E... sembra che le piaccia molto, si muove persino verso di lui... e lo brama!{/m} [nointeract]"
 
 # game/events/eric.rpy:1038 ## translate crowdin eric_ann_shower_alt_peepeng_745d1ff0:
 msgid "[Max_09] {m}Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?!{/m} [nointeract]"
@@ -762,7 +762,7 @@ msgstr "[Max_06] [undetect!t]{m}Porca puttana! Questa è passione! Sembrano cos�
 
 # game/events/eric.rpy:1072 ## translate crowdin eric_ann_shower_closer_peepeng_cd84b893:
 msgid "[Max_05] [undetect!t]{m}Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!{/m} [nointeract]"
-msgstr "[Max_05] [undetect!t]{m}Wow! Eric si sta scopando sua madre da dietro così forte... И... sembra che le piaccia molto, si muove persino verso di lui... e lo brama!{/m} [nointeract]"
+msgstr "[Max_05] [undetect!t]{m}Wow! Eric si sta scopando la madre da dietro così forte... E... sembra che le piaccia molto, si muove persino verso di lui... e lo brama!{/m} [nointeract]"
 
 # game/events/eric.rpy:1084 ## translate crowdin eric_ann_shower_closer_peepeng_7fb09690:
 msgid "[Max_01] {m}Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!{/m} [nointeract]"
@@ -1374,7 +1374,7 @@ msgstr "[Lisa_09] Va bene, allora. Lo proverò ora..."
 
 # game/events/eric.rpy:1754 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_137e23cb:
 msgid "[Lisa_11] Охх... Я... Я сделала это! Боже мой... Это и правда не так страшно, как мне казалось..."
-msgstr "[Lisa_11] Ohhh... Я... L'ho fatto! Oh, mio Dio... Non è davvero così spaventoso come pensavo..."
+msgstr "[Lisa_11] Ohhh... Io... L'ho fatto! Oh, mio Dio... Non è davvero così spaventoso come pensavo..."
 
 # game/events/eric.rpy:1755 ## translate crowdin lisa_eric_sex_ed_practice_practice_1_940f7c80:
 msgid "[Eric_02] Ну и как он тебе? Что чувствуешь?"
