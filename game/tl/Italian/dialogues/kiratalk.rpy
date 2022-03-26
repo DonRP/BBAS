@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-11 15:38\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/dialogues/kiratalk.rpy:21
 translate italian KiraTalkStart_14a49468:
@@ -2160,7 +2160,7 @@ translate italian story_from_childhood_ann_ff307f55:
 translate italian story_from_childhood_ann_9069ca5d:
 
     # Kira_05 "Да, да, я именно так и сказала. Ну это уже не моё дело. Как вас воспитывать будет решать ваша мама. Я могу лишь понаблюдать со стороны на всё это..."
-    Kira_05 "sì, sì, è esattamente quello che ho detto. Beh, non sono affari miei. Il modo in cui sarai cresciuto sarà deciso da tua madre. Posso solo guardare da bordo campo per tutto questo..."
+    Kira_05 "Sì, sì, è esattamente quello che ho detto. Beh, non sono affari miei. Il modo in cui sarete cresciuti dipenderà da vostra madre. Tutto quello che posso fare è guardare da bordo campo..."
 
 # game/dialogues/kiratalk.rpy:1112
 translate italian story_from_childhood_ann_14140d51:

@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:17\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/dialogues/anntalk.rpy:22
 translate italian AnnTalkStart_11c2aa45:
@@ -2616,7 +2616,7 @@ translate italian ann_about_olivia0_succes_54a6a696:
 translate italian ann_about_olivia0_succes_a1e2dec6:
 
     # Max_09 "И вспомни, кто вывел Эрика на чистую воду? Я! И я же тебе говорю, что присмотрю за Лизой и Оливией."
-    Max_09 "E ricordate, chi ha portato Eric alla luce? Я! E ti ho detto che mi sarei preso cura di Lisa e Olivia."
+    Max_09 "E ricordate, chi ha portato Eric alla luce? Io! E ti ho detto che mi sarei preso cura di Lisa e Olivia."
 
 # game/dialogues/anntalk.rpy:1813
 translate italian ann_about_olivia0_succes_e99695fc:

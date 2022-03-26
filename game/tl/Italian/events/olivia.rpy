@@ -1,5 +1,5 @@
 #     old ""
-# "
+#     new ""
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:19\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/events/olivia.rpy:38
 translate italian olivia_lisa_tv_6729ce96:
@@ -378,7 +378,7 @@ translate italian olivia_second_night_visit_389682e0:
 translate italian olivia_second_night_visit_ce53ea19:
 
     # Olivia_02 "С радостью бы искупалась, но так устала, что хочу только валяться и смотреть сериалы. Пойдём, Лиза... Макс, ты как, с нами?" nointeract
-    Olivia_02 "mi piacerebbe nuotare, ma sono così stanco che voglio solo sdraiarmi e guardare programmi Tv. Andiamo, Lisa... Max, sei con noi?" nointeract
+    Olivia_02 "Mi piacerebbe andare a fare una nuotata, ma sono così stanca che voglio solo sdraiarmi e guardare le soap opera. Dai, Lisa... Max, ci sei?" nointeract
 
 # game/events/olivia.rpy:262
 translate italian olivia_second_night_visit_10c0fcb2:

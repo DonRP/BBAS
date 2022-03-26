@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-11 15:38\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/events/ann.rpy:11
 translate italian ann_sleep_6173ff68:
@@ -726,7 +726,7 @@ translate italian ann_dressed_balcony_c391d1e4:
 translate italian ann_dressed_balkon_talk1_b906cb2e:
 
     # Ann_14 "У меня сейчас такое состояние, что я не знаю, как мне жить дальше... Я... Я ужасная мать..."
-    Ann_14 "In questo momento sono in uno stato in cui non so come andare avanti... Я... Sono una madre terribile..."
+    Ann_14 "In questo momento sono in uno stato in cui non so come andare avanti... Io... Sono una madre terribile..."
 
 # game/events/ann.rpy:662
 translate italian ann_dressed_balkon_talk1_b034aec8:
@@ -738,7 +738,7 @@ translate italian ann_dressed_balkon_talk1_b034aec8:
 translate italian ann_dressed_balkon_talk1_79bc09d7:
 
     # Ann_13 "А разве нет? Я... Я была так глупа, что привела в дом проходимца, который не только воспользовался мной, но и чуть не совратил моих девочек!"
-    Ann_13 "Non è vero? Я... Sono stata così stupida da portare in casa un vagabondo che non solo ha approfittato di me, ma ha quasi molestato le mie ragazze!"
+    Ann_13 "Non è vero? Io... Sono stata così stupida da portare in casa un vagabondo che non solo ha approfittato di me, ma ha quasi molestato le mie ragazze!"
 
 # game/events/ann.rpy:664
 translate italian ann_dressed_balkon_talk1_de50c165:

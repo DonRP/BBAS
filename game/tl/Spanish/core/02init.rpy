@@ -1,18 +1,18 @@
-#     old ""
-#     new ""
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-Crowdin-Project: big-brother-as\n"
-# "X-Crowdin-Project-ID: 461654\n"
-# "X-Crowdin-Language: es-ES\n"
-# "X-Crowdin-File: /master/game/tl/crowdin/core/02init.po\n"
-# "X-Crowdin-File-ID: 3426\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Spanish\n"
-# "Language: es_ES\n"
-# "PO-Revision-Date: 2022-03-14 23:46\n"
+    old ""
+    new ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/02init.po\n"
+"X-Crowdin-File-ID: 3426\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 translate crowdin strings:
 
@@ -173,32 +173,56 @@ translate crowdin strings:
     new "Gestión"
 
     # game/core/02init.rpy:131
-    old "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\nF5 - сохранить, F8 - загрузить.\n\n\nКроме того, во время диалогов работают клавиши 1... 9 для различных вариантов ответов. Если вариант всего один, можно нажимать клавишу [[Space].\n\n\nДля переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\nОтключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\nЭто очень удобно, если область диалогов скрывает интересную часть изображения..."
-    new "Este juego proporciona control de teclado. Puede ahorrar en cualquier momento. Métodos abreviados de teclado predeterminados:\nF5 - guardar, F8 - cargar.\n\n\nAdemás, durante los diálogos, el 1... 9 para diferentes opciones de respuesta. Si solo hay una opción, puede presionar la tecla [[Space].\n\n\nPara cambiar entre habitaciones, puede usar las teclas 1 ... 7.\n\n\nPuede desactivar la interfaz presionando [[ ' ], [[ h ] o presionando el botón central del mouse.\nEsto es muy conveniente si el área de diálogo oculta una parte interesante de la imagen ..."
+    old "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\n"
+"F5 - сохранить, F8 - загрузить.\n\n\n"
+"Кроме того, во время диалогов работают клавиши 1... 9 для различных вариантов ответов. Если вариант всего один, можно нажимать клавишу [[Space].\n\n\n"
+"Для переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\n"
+"Отключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\n"
+"Это очень удобно, если область диалогов скрывает интересную часть изображения..."
+    new "Este juego proporciona control de teclado. Puede ahorrar en cualquier momento. Métodos abreviados de teclado predeterminados:\n"
+"F5 - guardar, F8 - cargar.\n\n\n"
+"Además, durante los diálogos, el 1... 9 para diferentes opciones de respuesta. Si solo hay una opción, puede presionar la tecla [[Space].\n\n\n"
+"Para cambiar entre habitaciones, puede usar las teclas 1 ... 7.\n\n\n"
+"Puede desactivar la interfaz presionando [[ ' ], [[ h ] o presionando el botón central del mouse.\n"
+"Esto es muy conveniente si el área de diálogo oculta una parte interesante de la imagen ..."
 
     # game/core/02init.rpy:131
     old "Возможности"
     new "Posibilidades"
 
     # game/core/02init.rpy:131
-    old "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
-    new "Durante el juego, durante los diálogos y otras acciones, puedes descubrir nuevas \"oportunidades\". Sus mecánicas son un poco similares a las \"misiones\" o \"misiones\" de otros juegos, pero hay algunas diferencias.\n\n\n\"Características\" puede abrir el acceso a eventos ocultos o compras en la tienda en línea, a nuevas opciones en la computadora portátil o acciones en algunas salas. ¡Lee detenidamente la descripción de cada \"oportunidad\" y no te perderás nada!"
+    old "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n"
+"\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
+    new "Durante el juego, durante los diálogos y otras acciones, puedes descubrir nuevas \"oportunidades\". Sus mecánicas son un poco similares a las \"misiones\" o \"misiones\" de otros juegos, pero hay algunas diferencias.\n\n\n"
+"\"Características\" puede abrir el acceso a eventos ocultos o compras en la tienda en línea, a nuevas opciones en la computadora portátil o acciones en algunas salas. ¡Lee detenidamente la descripción de cada \"oportunidad\" y no te perderás nada!"
 
     # game/core/02init.rpy:131
     old "Настроение"
     new "Estado de ánimo"
 
     # game/core/02init.rpy:131
-    old "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\nЕсли у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\nПостепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\nЧтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
-    new "Varias acciones o frases dichas por Max pueden causar una reacción correspondiente en forma de un cambio en el estado de ánimo del personaje.\n\n\nSi un personaje está de mal humor, puede negarse a discutir algunos temas contigo.\n\n\nGradualmente, cada hora, el estado de ánimo tiende suavemente a un estado neutral. Sin embargo, si el estado de ánimo es muy malo, tomará mucho tiempo recuperarse.\n\n\nPara animarte, puedes darle lo que necesitas a este personaje en particular o simplemente disculparte. Y a veces la palabra correcta durante una conversación puede mejorar significativamente el estado de ánimo."
+    old "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\n"
+"Если у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\n"
+"Постепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\n"
+"Чтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
+    new "Varias acciones o frases dichas por Max pueden causar una reacción correspondiente en forma de un cambio en el estado de ánimo del personaje.\n\n\n"
+"Si un personaje está de mal humor, puede negarse a discutir algunos temas contigo.\n\n\n"
+"Gradualmente, cada hora, el estado de ánimo tiende suavemente a un estado neutral. Sin embargo, si el estado de ánimo es muy malo, tomará mucho tiempo recuperarse.\n\n\n"
+"Para animarte, puedes darle lo que necesitas a este personaje en particular o simplemente disculparte. Y a veces la palabra correcta durante una conversación puede mejorar significativamente el estado de ánimo."
 
     # game/core/02init.rpy:131
     old "Шоу"
     new "Mostrar"
 
     # game/core/02init.rpy:131
-    old "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\nУвеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\nЕсли у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
-    new "Las cámaras ocultas pueden ser la principal fuente de ingresos. Cuanto mayor sea la audiencia, más personas están dispuestas a pagar por verla.\n\n\nPuedes aumentar tu audiencia con anuncios. Si no pasa nada interesante en las cámaras, el público cae. Si los momentos picantes entran en el marco, la audiencia crece.\n\n\nSi tiene un sitio web, puede ganar en banners publicitarios. Así que cuanto mayor sea la audiencia, más dinero tendrás.\n\n\n{i}{b}Nota:{/b} En futuras versiones del juego, los usuarios VIP aparecerán con peticiones especiales. Si los realizas, recibirás un sólido aumento en los ingresos. {/i}"
+    old "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\n"
+"Увеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\n"
+"Если у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n"
+"{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
+    new "Las cámaras ocultas pueden ser la principal fuente de ingresos. Cuanto mayor sea la audiencia, más personas están dispuestas a pagar por verla.\n\n\n"
+"Puedes aumentar tu audiencia con anuncios. Si no pasa nada interesante en las cámaras, el público cae. Si los momentos picantes entran en el marco, la audiencia crece.\n\n\n"
+"Si tiene un sitio web, puede ganar en banners publicitarios. Así que cuanto mayor sea la audiencia, más dinero tendrás.\n\n\n"
+"{i}{b}Nota:{/b} En futuras versiones del juego, los usuarios VIP aparecerán con peticiones especiales. Si los realizas, recibirás un sólido aumento en los ingresos. {/i}"
 
     # game/core/02init.rpy:139
     old "Значит, у тебя есть блог?"
@@ -569,8 +593,10 @@ translate crowdin strings:
     new "¡Me alegro de verte, Alice!"
 
     # game/core/02init.rpy:139
-    old "Ну как, всё повторила? \n{i}(проводить Лизу в школу){/i}"
-    new "Bueno, ¿repitió todo? \n{i}(acompaña a Lisa a la escuela){/i}"
+    old "Ну как, всё повторила? \n"
+"{i}(проводить Лизу в школу){/i}"
+    new "Bueno, ¿repitió todo? \n"
+"{i}(acompaña a Lisa a la escuela){/i}"
 
     # game/core/02init.rpy:139
     old "Лиза, ты чего нос повесила?"

@@ -1,18 +1,5 @@
-#     old ""
-#     new ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/events/other.po\n"
-# "X-french-File-ID: 3498\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-08 15:19\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/events/other.rpy:11
 translate french shoping_034007bc:
@@ -1442,109 +1429,109 @@ translate french dictaphone_showdown_with_eric_90be8708:
     # Lisa_05 "И мы тебя!"
     Lisa_05 "Et nous sommes vous!"
 
-# game/events/other.rpy:819
+# game/events/other.rpy:818
 translate french failed_dinner_b8e2672f:
 
     # Eric_00 "Итак, настал момент истины. Я дал тебе, Макс, достаточно времени, чтобы ты вернул мне мои деньги при всех. Ну что, ты готов покаяться и исправить свою ошибку?"
     Eric_00 "donc, le moment de vérité est venu. Je t'ai donné, Max, assez de temps pour que Tu me rendes mon argent avec tout le monde. Tu es prêt à te repentir et à corriger ton erreur?"
 
-# game/events/other.rpy:823
+# game/events/other.rpy:822
 translate french failed_dinner_d3811ad8:
 
     # Max_15 "Да пошёл ты... Нет у меня твоих денег, и ты это прекрасно знаешь!"
     Max_15 "va te faire foutre... Je n'ai pas ton argent, et tu le sais très bien!"
 
-# game/events/other.rpy:826
+# game/events/other.rpy:825
 translate french failed_dinner_851dce21:
 
     # Max_15 "Да пошёл ты... Я ни за что не стану возвращать тебе то, чего не брал! И признавать себя вором тоже не стану!"
     Max_15 "va te faire foutre... Je ne te rendrai jamais ce que je n'ai pas pris! Et je ne vais pas me reconnaître comme un voleur non plus!"
 
-# game/events/other.rpy:828
+# game/events/other.rpy:827
 translate french failed_dinner_2c4314ba:
 
     # Eric_09 "Что ж, значит продолжаем отпираться... Ладно... Как ты видишь, Ань, я сделал всё, что было в моих силах, но это твой сын и тебе принимать решение."
     Eric_09 "alors on continue à se défaire... D'accord... Comme tu vois, Anh, j'ai fait tout ce qui était en mon pouvoir, mais c'est ton fils et c'est à toi de décider."
 
-# game/events/other.rpy:829
+# game/events/other.rpy:828
 translate french failed_dinner_e02fe136:
 
     # Ann_14 "Да-да... Прости, Макс, но ты очень меня разочаровал и... нам не остаётся другого выбора, кроме как отправить тебя в военный лагерь. Надеюсь, там из тебя сделают ответственного человека."
     Ann_14 "Oui... Désolé, Max, mais tu m'as vraiment déçu... nous n'avons pas d'autre choix que de vous envoyer dans un camp militaire. J'espère que ça fera de toi une personne responsable."
 
-# game/events/other.rpy:830
+# game/events/other.rpy:829
 translate french failed_dinner_03357d46:
 
     # Max_13 "Что?! Кому это, \"нам\"? Вам с Эриком? Это же не ты сейчас говоришь, а он! Как ты можешь выгонять из дома родного сына?"
     Max_13 "Quoi?! Qui est-ce, \"nous\"? Toi et Eric? Ce n'est pas toi qui parle, c'est lui! Comment peux-tu expulser ton fils de chez toi?"
 
-# game/events/other.rpy:831
+# game/events/other.rpy:830
 translate french failed_dinner_d29fb4a6:
 
     # Ann_17 "Прекрати, Макс! Я устала слушать твои оправдания. Ты даже не представляешь, до какой степени мне стыдно, что мой единственный сын - вор!"
     Ann_17 "Arrête, Max! J'en ai marre d'entendre tes excuses. Tu ne sais même pas à quel point j'ai honte que mon fils unique soit un voleur!"
 
-# game/events/other.rpy:832
+# game/events/other.rpy:831
 translate french failed_dinner_c43f223d:
 
     # Max_14 "Но мам, это всё неправда! Не говори так! Это же Эрик всё подстроил!"
     Max_14 "mais maman, ce n'est pas vrai! Ne dis pas ça! C'est Eric qui a tout arrangé!"
 
-# game/events/other.rpy:833
+# game/events/other.rpy:832
 translate french failed_dinner_5a9be7a6:
 
     # Eric_13 "Да, стыдно за тебя, Макс, ты разбиваешь сердце собственной матери... Какой позор..."
     Eric_13 "oui, j'ai honte de toi, Max, tu brises le cœur de ta mère... Quelle honte..."
 
-# game/events/other.rpy:834
+# game/events/other.rpy:833
 translate french failed_dinner_c7cc51b7:
 
     # Max_16 "Заткнись, Эрик! Мам, неужели ты не видишь, что он тобой манипулирует?!"
     Max_16 "Tais-Toi, Eric! Maman, tu ne vois pas qu'il te manipule?!"
 
-# game/events/other.rpy:835
+# game/events/other.rpy:834
 translate french failed_dinner_81894a93:
 
     # Ann_18 "Не хочу ничего слышать про это. Всё. Собираешь вещи и едешь. Давно надо было это сделать, но я тебя всё жалела. В результате докатились, воруешь в собственном доме! А что будет дальше?"
     Ann_18 "Je ne veux rien entendre à ce sujet. C'est tout. Tu fais tes bagages et tu conduis. J'aurais dû le faire il y a longtemps, mais j'ai eu pitié de toi. En conséquence, vous volez dans votre propre maison! Qu'est-ce qui va se passer ensuite?"
 
-# game/events/other.rpy:836
+# game/events/other.rpy:835
 translate french failed_dinner_ffb1b7ea:
 
     # Max_11 "Но мам..."
     Max_11 "Mais maman..."
 
-# game/events/other.rpy:837
+# game/events/other.rpy:836
 translate french failed_dinner_b3c54058:
 
     # Ann_16 "Всё, Макс, разговор окончен!"
     Ann_16 "tout le monde, Max, la conversation est terminée!"
 
-# game/events/other.rpy:839
+# game/events/other.rpy:838
 translate french failed_dinner_4d7ce5c3:
 
     # Eric_01 "Не переживай, Макс, я позабочусь обо всех, пока ты будешь тянуть лямку в армии..." nointeract
     Eric_01 "ne t'inquiète pas, Max, Je m'occuperai de tout le monde pendant que tu Tires la sangle dans l'armée..." nointeract
 
-# game/events/other.rpy:846
+# game/events/other.rpy:845
 translate french failed_dinner_fe32100d:
 
     # Max_14 "{m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
     Max_14 "{m}c'est ainsi que mon histoire s'est terminée. Ils ne me croyaient plus et ne voulaient plus me voir. Bien sûr, sans Eric, tout serait bien, mais ce connard... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}" nointeract
 
-# game/events/other.rpy:853
+# game/events/other.rpy:852
 translate french failed_dinner_79acb07c:
 
     # Max_14 "{m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m}" nointeract
     Max_14 "{m}c'est ainsi que mon histoire s'est terminée. De toute cette injustice, je me suis un peu envolé et j'ai presque barbouillé Eric sur le balcon... Presque... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m}" nointeract
 
-# game/events/other.rpy:870
+# game/events/other.rpy:869
 translate french left_cream_68a6f9b5:
 
     # Max_10 "{m}Ну вот, крем закончился. Надо ещё купить.{/m}"
     Max_10 "{m}Eh bien, la crème est finie. Nous devons en acheter plus.{/m}"
 
-# game/events/other.rpy:876
+# game/events/other.rpy:875
 translate french left_cream_61f00467:
 
     # Max_08 "{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
@@ -1724,27 +1711,27 @@ translate french strings:
     old "{i}осторожно идти спать{/i}"
     new "{i}allez doucement au lit{/i}"
 
-    # game/events/other.rpy:809
+    # game/events/other.rpy:808
     old "{g}Отношения Макса с семьёй значительно улучшились.{/g}"
     new "{g}la Relation de Max avec sa famille s'est considérablement améliorée.{/g}"
 
-    # game/events/other.rpy:838
+    # game/events/other.rpy:837
     old "{i}собираться в военный лагерь{/i}"
     new "{i}se rassembler dans un camp militaire {/i}"
 
-    # game/events/other.rpy:838
+    # game/events/other.rpy:837
     old "{i}накинуться на Эрика{/i}"
     new "{i}jeter sur Eric {/i}"
 
-    # game/events/other.rpy:855
+    # game/events/other.rpy:854
     old "{i}загрузить игру{/i}"
     new "{i}télécharger le jeu {/i}"
 
-    # game/events/other.rpy:855
+    # game/events/other.rpy:854
     old "{i}вернуться в главное меню{/i}"
     new "{i}retour au menu principal {/i}"
 
-    # game/events/other.rpy:855
+    # game/events/other.rpy:854
     old "{i}выйти из игры{/i}"
     new "{i}quitter le jeu {/i}"
 

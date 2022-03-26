@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-11 15:38\n"
+# "PO-Revision-Date: 2022-03-26 10:12\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 translate italian strings:
 
@@ -1677,6 +1677,10 @@ translate italian strings:
     new "Chissà se Lisa accetterà di guardare film horror senza maglietta?! Lei ed io siamo già diventati abbastanza vicini, ma non so come convincerla a farlo. Ma è meglio farlo lo stesso giorno in cui sua madre voleva punirla."
 
     # game/core/09_opportunities.rpy:4
+    old "Нужно защитить Лизу от маминого наказания, а затем, как можно быстрее, с ней поговорить..."
+    new "Dobbiamo proteggere Lisa dalla punizione di sua madre e poi parlarle il più presto possibile..."
+
+    # game/core/09_opportunities.rpy:4
     old "Времени немного. Нужно успевать до того, как Лиза ляжет спать..."
     new "Il tempo è poco. Devi avere tempo prima che Lisa vada a letto..."
 
@@ -2172,87 +2176,87 @@ translate italian strings:
     old "Как только мама перестанет смущаться моих прикосновений к её сочной попке во время йоги, то и утешать я смогу её куда эффективнее. Для этого потребуются успехи в возможности \"Волнующие изгибы\"..."
     new "Quando la mamma smetterà di essere imbarazzata dal mio toccare il suo culo succoso durante lo yoga, sarò in grado di confortarla molto più efficacemente. Questo richiederà un progresso sull'opportunità di Exciting Bends..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
     new "Forse vale la pena sistemare le scatole di cui parlava mia madre..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
     new "Forse dovresti chiederti cosa vive mia sorella maggiore quando non è seduta nella sua stanza..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "А не посмотреть ли вместе с мамой какой-нибудь фильм? Может и стоит..."
     new "E non guardare con mia madre qualche film? Forse dovrebbe..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
     new "Forse dovresti essere interessato a ciò che vive la mia sorellina quando non è seduta nella sua stanza..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
     new "Forse Alice ha qualche hobby segreto? Se è così, ovviamente lo farà quando ci saranno meno persone a casa..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Алиса любит понежиться на солнышке. Интересно, а она бы разрешила мне растереть ей спину каким-нибудь средством для загара? Стоит узнать..."
     new "Alice ama prendere il sole. Mi chiedo se mi lascerebbe strofinare la schiena con una sorta di agente abbronzante. Vale la pena saperlo..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Почему бы не составить Алисе компанию, когда она смотрит ТВ? А чтобы не сидеть без дела, можно и массаж ей сделать. Только нужно хоть какими-то знаниями обзавестись в этом деле..."
     new "Perché non tenere compagnia ad Alice quando guarda la TV? E per non stare seduto inattivo, puoi massaggiarla. Solo tu hai bisogno di almeno un po 'di conoscenza da acquisire in questa materia ..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Чтобы лезть к Лизе с расспросами о её однокласснике, лучше сперва позаботиться о том, чтобы у неё было хорошее настроение..."
     new "Per arrivare a Lisa con domande sulla sua compagna di classe, è meglio prima assicurarsi che abbia un buon umore ..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "С тётей Кирой о стольком можно поговорить! Нужно успевать, пока она нежится на солнце..."
     new "Puoi parlare con zia Kira di così tanto! Devi tenere il passo mentre lei è in ovatta al sole ..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Если мои сёстры увидят, что я подглядываю за тем, как они принимают душ, то у меня будет много проблем. Но вдруг их удастся чем-то задобрить..."
     new "Se le mie sorelle mi vedono spiare loro mentre si fa la doccia, avrò molti problemi. Ma all'improvviso saranno in grado di placarli con qualcosa..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Эта возможность доступна только при дружбе с Эриком..."
     new "Questa opportunità è disponibile solo con un'amicizia con Eric..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Эрик намекнул, что мне можно подглядывать за тем, чем они с мамой занимаются наедине. Теперь за ними спокойно можно подглядывать в спальне..."
     new "Eric ha lasciato intendere che potevo spiare quello che lui e sua madre stavano facendo in privato. Ora puoi tranquillamente spiarli in camera da letto ..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Эрик явно проявляет к Алисе особый интерес. Нужно приглядывать за этой парочкой, когда они вместе. Но что-то непристойное может происходить и ночью, если вдруг не все будут спать..."
     new "Eric ha chiaramente un interesse speciale per Alice. Devi tenere d'occhio questa coppia quando sono insieme. Ma qualcosa di osceno può accadere di notte, se improvvisamente non tutti dormiranno ..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Нет смысла что-либо затевать в отношении Алисиной попки, пока её хотя бы раз не накажут голой..."
     new "Non ha senso iniziare nulla sul di Alisina fino a quando non viene punita nuda almeno una volta..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Я слишком мало защищал Алису от наказаний мамы..."
     new "Ho difeso Alice troppo poco dalla punizione di mia madre..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Нужно опередить Эрика во всём, что он будет делать для Алисы. Особенно в дарении одежды..."
     new "Devi anticipare Eric in tutto ciò che farà per Alice. Soprattutto nel regalo di vestiti..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Нужно и дальше защищать Алису от наказаний..."
     new "È necessario continuare a proteggere Alice dalla punizione ..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Эрик подарил Алисе кружевное боди раньше меня, а значит я упустил возможность ещё больше с ней сблизиться. По крайней мере, пока не избавлюсь от него (но не в этой версии игры)..."
     new "Eric ha dato ad Alice un body di pizzo davanti a me, il che significa che ho perso l'opportunità di avvicinarmi ancora di più a lei. Almeno fino a quando non me ne libererò (ma non in questa versione del gioco)..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
     new "Ho bisogno di passare più tempo con mia madre. Le sue lezioni di yoga mattutine ci aiuteranno ad avvicinarci..."
 
-    # game/core/09_opportunities.rpy:983
+    # game/core/09_opportunities.rpy:986
     old "Пока мама встречается с Эриком, мне не занять главное место в нашей семье, а значит потребуются успехи в возможности \"Альфа\"..."
     new "Finché mia madre esce con Eric, non potrò prendere il primo posto nella nostra famiglia, il che significa che ci vorrà un progresso nell'opportunità Alpha..."
 
-    # game/core/09_opportunities.rpy:1021
+    # game/core/09_opportunities.rpy:1024
     old "Эта возможность не доступна при дружбе с Эриком..."
     new "Questa opzione non è disponibile quando sei amico di Eric..."
 

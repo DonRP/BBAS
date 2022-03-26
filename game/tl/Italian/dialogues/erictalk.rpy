@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-14 23:46\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/dialogues/erictalk.rpy:17
 translate italian EricTalkStart_210d83ab:
@@ -702,7 +702,7 @@ translate italian Eric_talk_about_Lisa_0_9631fee4:
 translate italian Eric_talk_about_Lisa_0_98c18922:
 
     # Eric_04 "Я это спросил, просто чтобы тебя позлить. Я её всё равно заберу, скоро ты в этом убедишься. И да, готовь сапоги. Военный лагерь ждёт..."
-    Eric_04 "ho chiesto questo, solo a te. Lo prenderò comunque, presto sarai convinto. E sì, prepara gli stivali. Il campo militare è in attesa..."
+    Eric_04 "L'ho chiesto solo per farti arrabbiare. La porterò comunque, vedrai presto. E sì, preparate gli stivali. Il campo di guerra aspetta..."
 
 # game/dialogues/erictalk.rpy:448
 translate italian Eric_talk_about_Lisa_0_2c68645b:
@@ -1884,7 +1884,7 @@ translate italian Eric_bonus_for_Lisa_869907d3:
 translate italian Eric_bonus_for_Lisa_f5b3af6e:
 
     # Max_07 "Я... Я хотел бы смотреть, как вы с мамой трахаетесь! При чём, так сказать, с первых рядов..."
-    Max_07 "Я... Mi piacerebbe guardare te e la mamma mentre scopate! Dalla prima fila, per così dire..."
+    Max_07 "Io... Mi piacerebbe guardare te e la mamma mentre scopate! Dalla prima fila, per così dire..."
 
 # game/dialogues/erictalk.rpy:963
 translate italian Eric_bonus_for_Lisa_9b8cd369:

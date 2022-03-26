@@ -1,20 +1,20 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-spanish-Project: big-brother-as\n"
-# "X-spanish-Project-ID: 461654\n"
-# "X-spanish-Language: es-ES\n"
-# "X-spanish-File: /master/game/tl/spanish/core/10_main_menu.po\n"
-# "X-spanish-File-ID: 3440\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Spanish\n"
-# "Language: es_ES\n"
-# "PO-Revision-Date: 2022-03-05 19:51\n"
+    old ""
+    new ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/10_main_menu.po\n"
+"X-Crowdin-File-ID: 3440\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-03-26 10:12\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
-translate spanish strings:
+translate crowdin strings:
 
     # game/core/10_main_menu.rpy:51
     old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"

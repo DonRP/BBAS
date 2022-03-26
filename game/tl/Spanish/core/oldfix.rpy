@@ -1,60 +1,68 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-spanish-Project: big-brother-as\n"
-# "X-spanish-Project-ID: 461654\n"
-# "X-spanish-Language: es-ES\n"
-# "X-spanish-File: /master/game/tl/spanish/core/oldfix.po\n"
-# "X-spanish-File-ID: 3448\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Spanish\n"
-# "Language: es_ES\n"
-# "PO-Revision-Date: 2022-03-06 11:17\n"
+    old ""
+    new ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/oldfix.po\n"
+"X-Crowdin-File-ID: 3448\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/core/oldfix.rpy:6
-translate spanish old_fix_6c975de3:
+translate crowdin old_fix_6c975de3:
 
     # Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
 
 # game/core/oldfix.rpy:10
-translate spanish old_fix_93331e6b:
+translate crowdin old_fix_93331e6b:
 
     # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
 
 # game/core/oldfix.rpy:14
-translate spanish old_fix_93331e6b_1:
+translate crowdin old_fix_93331e6b_1:
 
     # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     new ""
 
-translate spanish strings:
+translate crowdin strings:
 
     # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
     new "{i}{b}Nota:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"característica\" en la versión actual del juego. {/i}"
 
     # game/core/oldfix.rpy:51
-    old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "Sí, y parece que Lisa habla de su chico solo cuando está de buen humor... \n\n{i}{b}Atención:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"oportunidad\" en la versión actual del juego. {/i}"
+    old "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n"
+"{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Sí, y parece que Lisa habla de su chico solo cuando está de buen humor... \n\n"
+"{i}{b}Atención:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"oportunidad\" en la versión actual del juego. {/i}"
 
     # game/core/oldfix.rpy:65
-    old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "Es cierto que Lisa se sintió un poco ofendida por mí, pero sobreviviré a esto. Le daré algo delicioso y se descongelará... \n\n{i}{b}Atención:{/b} Hasta ahora, eso es todo lo que se puede hacer por esta \"oportunidad\" en la versión actual del juego. {/i}"
+    old "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n"
+"{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Es cierto que Lisa se sintió un poco ofendida por mí, pero sobreviviré a esto. Le daré algo delicioso y se descongelará... \n\n"
+"{i}{b}Atención:{/b} Hasta ahora, eso es todo lo que se puede hacer por esta \"oportunidad\" en la versión actual del juego. {/i}"
 
     # game/core/oldfix.rpy:68
-    old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
-    new "Dudo que ahora sea posible incriminarla, ella tiene demasiada desconfianza en mí. \n\n{i}{b}Nota:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"característica\" en la versión actual del juego. {/i}"
+    old "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n"
+"{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+    new "Dudo que ahora sea posible incriminarla, ella tiene demasiada desconfianza en mí. \n\n"
+"{i}{b}Nota:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"característica\" en la versión actual del juego. {/i}"
 
     # game/core/oldfix.rpy:81
     old "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
     new "Ayudé a Lisa con las lecciones por un tiempo, y de forma gratuita, pero se volvió bastante aburrido y deliberadamente comencé a cometer errores para que le dieran faltas y la castigaran... Y así, después de otra falta y castigo de mi madre, ella se volvió hacia mí en busca de ayuda. Estuve de acuerdo, pero con la condición de que solo durmiera con una camiseta y bragas. Y creo que podré darle vueltas en otra cosa..."
 
     # game/core/oldfix.rpy:263
-    old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\nНу всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
-    new "¡La tía Kira es una excelente maestra de besos! Ella aceptó enseñarme a veces. Quién sabe, ¿tal vez ella me enseñe algo más?\n\nBueno, eso es todo. Ahora necesitas practicar mas con la tía Kira y transmitir el conocimiento adquirido a Lisa... Pero todavía necesita ser convencida..."
+    old "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\n"
+"Ну всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
+    new "¡La tía Kira es una excelente maestra de besos! Ella aceptó enseñarme a veces. Quién sabe, ¿tal vez ella me enseñe algo más?\n\n"
+"Bueno, eso es todo. Ahora necesitas practicar mas con la tía Kira y transmitir el conocimiento adquirido a Lisa... Pero todavía necesita ser convencida..."
 
     # game/core/oldfix.rpy:461
     old "Я поговорил с Лизой насчёт её обучения. Она выдвинула ряд условий, среди которых запрет мне к ней прикасаться, если она против. Ну уже что-то."
@@ -69,8 +77,10 @@ translate spanish strings:
     new "¡Logré impresionar a Lisa con mi arte de besar! Aunque, si bien el arte no tira, ¡pero le gustó! Después de todo, la tía Kira es una gran maestra. Pero hay que seguir practicando."
 
     # game/core/oldfix.rpy:461
-    old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\nНужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
-    new "Le di a Lisa un libro que contiene muchas respuestas a sus preguntas. Sí, sería útil para mí leerlo yo mismo, pero me da pereza.\n\n\ntendré que preguntarle después de un tiempo qué piensa de este libro..."
+    old "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\n"
+"Нужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
+    new "Le di a Lisa un libro que contiene muchas respuestas a sus preguntas. Sí, sería útil para mí leerlo yo mismo, pero me da pereza.\n\n\n"
+"tendré que preguntarle después de un tiempo qué piensa de este libro..."
 
     # game/core/oldfix.rpy:492
     old "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды... Может быть, поговорить с ней об этом?"
@@ -113,14 +123,19 @@ translate spanish strings:
     new "¿Qué pasa si no ayudé a Lisa por un tiempo? ¿O cometeré un error en su trabajo varias veces?"
 
     # game/core/oldfix.rpy:665
-    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\nВ обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
+    old "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\n"
+"В обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
     new ""
 
     # game/core/oldfix.rpy:697
-    old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\nНаверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."
-    new "¡Vi a Eric de pie junto a la ventana de la habitación de Alice en medio de la noche, masturbándose al ver a mi hermana! No esperaba ver esto... pensé que Eric era el tipo de hombre que preferiría pagarle a una prostituta que masturbarse así, pero resulta que... estaba equivocado.\n\n¡Seguramente esta no es la primera vez que hace esto! Tienes que vigilarlo por la noche para echar un vistazo a sus trucos sucios... Es mejor tener una carta de triunfo contra él, por si acaso..."
+    old "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\n"
+"Наверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."
+    new "¡Vi a Eric de pie junto a la ventana de la habitación de Alice en medio de la noche, masturbándose al ver a mi hermana! No esperaba ver esto... pensé que Eric era el tipo de hombre que preferiría pagarle a una prostituta que masturbarse así, pero resulta que... estaba equivocado.\n\n"
+"¡Seguramente esta no es la primera vez que hace esto! Tienes que vigilarlo por la noche para echar un vistazo a sus trucos sucios... Es mejor tener una carta de triunfo contra él, por si acaso..."
 
     # game/core/oldfix.rpy:697
-    old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\nБыло бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."
-    new "¡Lo hice! ¡Tomé una foto de Eric masturbándose viendo a Alice! Por supuesto, no sabemos realmente a quién o qué se está pajeando en la foto, lo que no ayuda mucho en un enfrentamiento con Eric.\n\nSería bueno si Eric fuera lo suficientemente arrogante como para masturbarse en medio de la habitación de Alice... ¡Sería un poco comprometedor! Es cierto que Alice estará en el encuadre, pero el foco de la foto estará en Eric. Solo tienes que descubrir cómo atraerlo a la habitación de Alice..."
+    old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\n"
+"Было бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."
+    new "¡Lo hice! ¡Tomé una foto de Eric masturbándose viendo a Alice! Por supuesto, no sabemos realmente a quién o qué se está pajeando en la foto, lo que no ayuda mucho en un enfrentamiento con Eric.\n\n"
+"Sería bueno si Eric fuera lo suficientemente arrogante como para masturbarse en medio de la habitación de Alice... ¡Sería un poco comprometedor! Es cierto que Alice estará en el encuadre, pero el foco de la foto estará en Eric. Solo tienes que descubrir cómo atraerlo a la habitación de Alice..."
 

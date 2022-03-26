@@ -1,23 +1,24 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-spanish-Project: big-brother-as\n"
-# "X-spanish-Project-ID: 461654\n"
-# "X-spanish-Language: es-ES\n"
-# "X-spanish-File: /master/game/tl/spanish/core/03variables.po\n"
-# "X-spanish-File-ID: 3428\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Spanish\n"
-# "Language: es_ES\n"
-# "PO-Revision-Date: 2022-03-05 19:51\n"
+    old ""
+    new ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/03variables.po\n"
+"X-Crowdin-File-ID: 3428\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
-translate spanish strings:
+translate crowdin strings:
 
     # game/core/03variables.rpy:39
-    old "МОЯ\nКОМНАТА"
+    old "МОЯ\n"
+"КОМНАТА"
     new ""
 
     # game/core/03variables.rpy:39
@@ -25,7 +26,8 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:39
-    old "КОМНАТА\nАЛИСЫ"
+    old "КОМНАТА\n"
+"АЛИСЫ"
     new ""
 
     # game/core/03variables.rpy:39
@@ -33,7 +35,8 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:39
-    old "КОМНАТА\nАННЫ"
+    old "КОМНАТА\n"
+"АННЫ"
     new ""
 
     # game/core/03variables.rpy:39
@@ -41,7 +44,8 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:39
-    old "ВАННАЯ\nКОМНАТА"
+    old "ВАННАЯ\n"
+"КОМНАТА"
     new ""
 
     # game/core/03variables.rpy:39
@@ -157,47 +161,58 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:149
-    old "ПОСМОТРЕТЬ\nФИЛЬМ"
+    old "ПОСМОТРЕТЬ\n"
+"ФИЛЬМ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ВЫЙТИ\nИЗ ДОМА"
+    old "ВЫЙТИ\n"
+"ИЗ ДОМА"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ПОИГРАТЬ\nС ЛИЗОЙ"
+    old "ПОИГРАТЬ\n"
+"С ЛИЗОЙ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
+    old "УСТАНОВИТЬ\n"
+"КЕЙЛОГГЕР"
     new ""
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\nКАМЕРУ"
+    old "УСТАНОВИТЬ\n"
+"КАМЕРУ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "СПРЯТАТЬ\nПАУКА"
+    old "СПРЯТАТЬ\n"
+"ПАУКА"
     new ""
 
     # game/core/03variables.rpy:149
-    old "БРОСИТЬ\nПАУКА"
+    old "БРОСИТЬ\n"
+"ПАУКА"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nПАУКОВ"
+    old "ИСКАТЬ\n"
+"ПАУКОВ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nСИГАРЕТЫ"
+    old "ИСКАТЬ\n"
+"СИГАРЕТЫ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nКНИГУ"
+    old "ИСКАТЬ\n"
+"КНИГУ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ЧИСТИТЬ\nБАССЕЙН"
+    old "ЧИСТИТЬ\n"
+"БАССЕЙН"
     new ""
 
     # game/core/03variables.rpy:149
@@ -205,19 +220,23 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nКАМЕРУ"
+    old "ИСКАТЬ\n"
+"КАМЕРУ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\nТЕЛЕФОН"
+    old "ИСКАТЬ\n"
+"ТЕЛЕФОН"
     new ""
 
     # game/core/03variables.rpy:149
-    old "РАЗОБРАТЬ\nКОРОБКИ"
+    old "РАЗОБРАТЬ\n"
+"КОРОБКИ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ВКЛЮЧИТЬ\nНОУТБУК"
+    old "ВКЛЮЧИТЬ\n"
+"НОУТБУК"
     new ""
 
     # game/core/03variables.rpy:149
@@ -225,7 +244,8 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\nБУДИЛЬНИК"
+    old "УСТАНОВИТЬ\n"
+"БУДИЛЬНИК"
     new ""
 
     # game/core/03variables.rpy:149
@@ -233,11 +253,13 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:149
-    old "ПРИНЯТЬ\nДУШ"
+    old "ПРИНЯТЬ\n"
+"ДУШ"
     new ""
 
     # game/core/03variables.rpy:149
-    old "ПРИНЯТЬ\nВАННУ"
+    old "ПРИНЯТЬ\n"
+"ВАННУ"
     new ""
 
     # game/core/03variables.rpy:149
@@ -245,7 +267,8 @@ translate spanish strings:
     new ""
 
     # game/core/03variables.rpy:149
-    old "МЫТЬ\nПОСУДУ"
+    old "МЫТЬ\n"
+"ПОСУДУ"
     new ""
 
     # game/core/03variables.rpy:205

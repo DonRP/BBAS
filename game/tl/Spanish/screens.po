@@ -1,8 +1,18 @@
-[ msgid ""
+msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\nX-spanish-Project: big-brother-as\nX-spanish-Project-ID: 461654\nX-spanish-Language: es-ES\nX-spanish-File: /master/game/tl/spanish/screens.po\nX-spanish-File-ID: 3504\nProject-Id-Version: big-brother-as\nContent-Type: text/plain; charset=UTF-8\nLanguage-Team: Spanish\nLanguage: es_ES\nPO-Revision-Date: 2022-03-06 11:19\n" ]
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 3504\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-03-26 10:14\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate spanish strings:XX# XX## game/screens.rpy:250
+# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
 msgid "массаж, "
 msgstr ""
 
@@ -27,7 +37,8 @@ msgid "скрытность, "
 msgstr ""
 
 # XX## game/screens.rpy:277
-msgid "[txt] \n{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+msgid "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
 msgstr ""
 
 # XX## game/screens.rpy:339
@@ -363,7 +374,8 @@ msgid "Правый клик"
 msgstr ""
 
 # XX## game/screens.rpy:1355
-msgid "Колёсико вверх\nКлик на сторону отката"
+msgid "Колёсико вверх\n"
+"Клик на сторону отката"
 msgstr ""
 
 # XX## game/screens.rpy:1359
@@ -371,11 +383,13 @@ msgid "Колёсико вниз"
 msgstr ""
 
 # XX## game/screens.rpy:1366
-msgid "Правый триггер\nA/Нижняя кнопка"
+msgid "Правый триггер\n"
+"A/Нижняя кнопка"
 msgstr ""
 
 # XX## game/screens.rpy:1370
-msgid "Левый Триггер\nЛевый Бампер"
+msgid "Левый Триггер\n"
+"Левый Бампер"
 msgstr ""
 
 # XX## game/screens.rpy:1374

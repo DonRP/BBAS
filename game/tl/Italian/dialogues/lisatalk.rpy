@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-11 15:38\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/dialogues/lisatalk.rpy:26
 translate italian LisaTalkStart_e91aa3e9:
@@ -6968,3637 +6968,3637 @@ translate italian gift_sexbook_71e49abd:
     # Max_01 "Не за что!"
     Max_01 "Non per niente!"
 
-# game/dialogues/lisatalk.rpy:3645
+# game/dialogues/lisatalk.rpy:3643
 translate italian MorningWoodCont2_var1_8c16bd79:
 
     # Lisa_01 "Эй, Макс, просыпайся, а то в школу опоздаешь! Там сегодня важный день, надо на уроке Биологии всем твой стоящий член показать!"
     Lisa_01 "Ehi, Max, svegliati, o sarai in ritardo per la scuola! Oggi è un giorno importante lì, devi mostrare il tuo valore a tutti nella classe di Biologia!"
 
-# game/dialogues/lisatalk.rpy:3646
+# game/dialogues/lisatalk.rpy:3644
 translate italian MorningWoodCont2_var1_358c4a02:
 
     # Max_19 "Нет... Я не хочу в школу... Зови всех сюда, здесь покажем..."
     Max_19 "No... Non voglio andare a scuola... Chiama tutti qui, qui mostreremo..."
 
-# game/dialogues/lisatalk.rpy:3647
+# game/dialogues/lisatalk.rpy:3645
 translate italian MorningWoodCont2_var1_db1a936b:
 
     # Lisa_03 "Ага, а учительницу нашу тоже звать?"
     Lisa_03 "sì, e anche il nostro insegnante è chiamato?"
 
-# game/dialogues/lisatalk.rpy:3648
+# game/dialogues/lisatalk.rpy:3646
 translate italian MorningWoodCont2_var1_c08f4c70:
 
     # Max_19 "О да! Я ей такое покажу, будет знать... как надо..."
     Max_19 "Oh sì! Glielo mostrerò, lei lo saprà... come dovrebbe essere..."
 
-# game/dialogues/lisatalk.rpy:3649
+# game/dialogues/lisatalk.rpy:3647
 translate italian MorningWoodCont2_var1_2abb080f:
 
     # Lisa_02 "Какой же ты озабоченный, Макс!"
     Lisa_02 "Che preoccupazione sei, Max!"
 
-# game/dialogues/lisatalk.rpy:3652
+# game/dialogues/lisatalk.rpy:3650
 translate italian MorningWoodCont2_var1_94f51215:
 
     # Max_07 "А?! Кто озабоченный? Где?!"
     Max_07 "Ah?! Chi è preoccupato? Dov'è?!"
 
-# game/dialogues/lisatalk.rpy:3653
+# game/dialogues/lisatalk.rpy:3651
 translate italian MorningWoodCont2_var1_31646b7b:
 
     # Lisa_01 "Да вот, прямо тут, передо мной валяется один, с торчащим из трусов членом..."
     Lisa_01 "sì, proprio lì, ce n'è uno sdraiato di fronte a me, con il suo che sporge dalle mutandine..."
 
-# game/dialogues/lisatalk.rpy:3656
+# game/dialogues/lisatalk.rpy:3654
 translate italian MorningWoodCont2_var1_f25f4e6a:
 
     # Max_09 "Да я же говорил, это само так происходит... Естественный процесс!"
     Max_09 "Sì, ho detto, succede così... Un processo naturale!"
 
-# game/dialogues/lisatalk.rpy:3657
+# game/dialogues/lisatalk.rpy:3655
 translate italian MorningWoodCont2_var1_c7ae7591:
 
     # Lisa_03 "Ну да, очень удобно назвать это естественным процессом!"
     Lisa_03 "Beh, sì, è molto comodo chiamarlo un processo naturale!"
 
-# game/dialogues/lisatalk.rpy:3658
+# game/dialogues/lisatalk.rpy:3656
 translate italian MorningWoodCont2_var1_0d61b2ad:
 
     # Max_07 "Лиза, ты чего меня разбудила-то?!"
     Max_07 "Lisa, cosa mi hai svegliato?!"
 
-# game/dialogues/lisatalk.rpy:3659
+# game/dialogues/lisatalk.rpy:3657
 translate italian MorningWoodCont2_var1_841f7193:
 
     # Lisa_01 "Да так, просто хотела немного поиздеваться... Случай мне показался подходящим!"
-    Lisa_01 "sì, volevo solo prendermi in giro un po'... Il caso mi sembrava appropriato!"
+    Lisa_01 "Volevo solo prenderlo un po' in giro... L'occasione sembrava appropriata!"
 
-# game/dialogues/lisatalk.rpy:3660
+# game/dialogues/lisatalk.rpy:3658
 translate italian MorningWoodCont2_var1_d3da950b:
 
     # Max_09 "Может, пойдёшь уже по своим делам куда-нибудь?!"
     Max_09 "Forse farai i tuoi affari da qualche parte?!"
 
-# game/dialogues/lisatalk.rpy:3661
+# game/dialogues/lisatalk.rpy:3659
 translate italian MorningWoodCont2_var1_146ba08f:
 
     # Lisa_02 "Ладно, озабоченный, я пошла в ванную..."
     Lisa_02 "Ok, preoccupato, sono andato in bagno..."
 
-# game/dialogues/lisatalk.rpy:3662
+# game/dialogues/lisatalk.rpy:3660
 translate italian MorningWoodCont2_var1_a7cd4ea6:
 
     # Max_16 "Ага, на здоровье!"
     Max_16 "sì, sulla salute!"
 
-# game/dialogues/lisatalk.rpy:3664
+# game/dialogues/lisatalk.rpy:3662
 translate italian MorningWoodCont2_var1_eb0d01fc:
 
     # Max_09 "Ты же читала, знаешь, что это естественный процесс!"
     Max_09 "Leggi, sai che è un processo naturale!"
 
-# game/dialogues/lisatalk.rpy:3665
+# game/dialogues/lisatalk.rpy:3663
 translate italian MorningWoodCont2_var1_ec4001bb:
 
     # Lisa_02 "Да, но это всё равно выглядит забавно, вот я и решила немного поиздеваться, пока ты спросонья..."
     Lisa_02 "sì, ma sembra ancora divertente, quindi ho deciso di prendere in giro un po 'mentre stai chiedendo..."
 
-# game/dialogues/lisatalk.rpy:3666
+# game/dialogues/lisatalk.rpy:3664
 translate italian MorningWoodCont2_var1_2132c496:
 
     # Max_07 "Ты меня только из-за этого разбудила что ли?!"
     Max_07 "Mi hai svegliato per questo?!"
 
-# game/dialogues/lisatalk.rpy:3667
+# game/dialogues/lisatalk.rpy:3665
 translate italian MorningWoodCont2_var1_a8d7114a:
 
     # Lisa_03 "Ещё сказать, что я пошла в ванную..."
     Lisa_03 "Anche per dire che sono andato in bagno..."
 
-# game/dialogues/lisatalk.rpy:3668
+# game/dialogues/lisatalk.rpy:3666
 translate italian MorningWoodCont2_var1_6b0a393c:
 
     # Max_16 "Ага, на здоровье! Давай, иди уже..."
     Max_16 "sì, sulla salute! Dai, vai già..."
 
-# game/dialogues/lisatalk.rpy:3676
+# game/dialogues/lisatalk.rpy:3674
 translate italian MorningWoodCont2_var2_aa7578ba:
 
     # Lisa_01 "Эй, Макс, а бывает, что я тебе снюсь?"
     Lisa_01 "Ehi, Max, ti capita?"
 
-# game/dialogues/lisatalk.rpy:3677
+# game/dialogues/lisatalk.rpy:3675
 translate italian MorningWoodCont2_var2_8fb286a1:
 
     # Max_19 "Ага... Бывает..."
     Max_19 "sì... Succede..."
 
-# game/dialogues/lisatalk.rpy:3678
+# game/dialogues/lisatalk.rpy:3676
 translate italian MorningWoodCont2_var2_7f7f7ffd:
 
     # Lisa_02 "А что мы делаем?"
     Lisa_02 "Cosa stiamo facendo?"
 
-# game/dialogues/lisatalk.rpy:3679
+# game/dialogues/lisatalk.rpy:3677
 translate italian MorningWoodCont2_var2_eac59ca3:
 
     # Max_19 "Да я тебя там... по всякому... и так, и этак..."
     Max_19 "sì, ci sono... su tutti... e così, e così..."
 
-# game/dialogues/lisatalk.rpy:3680
+# game/dialogues/lisatalk.rpy:3678
 translate italian MorningWoodCont2_var2_69ba8618:
 
     # Lisa_11 "Не поняла! Что это там и так, и этак ты делаешь?!"
     Lisa_11 "non l'ho capito! Che cos'è lì e così, e così fai?!"
 
-# game/dialogues/lisatalk.rpy:3683
+# game/dialogues/lisatalk.rpy:3681
 translate italian MorningWoodCont2_var2_7d193d82:
 
     # Max_07 "А?! Чего делаю? Кому?!"
     Max_07 "Ah?! Cosa sto facendo? A chi?!"
 
-# game/dialogues/lisatalk.rpy:3684
+# game/dialogues/lisatalk.rpy:3682
 translate italian MorningWoodCont2_var2_5aed04d8:
 
     # Lisa_12 "Мне! Чего это ты там со мной во сне делаешь, признавайся?!"
     Lisa_12 "Me! Cosa ci fai lì con me in sogno, ammettilo?!"
 
-# game/dialogues/lisatalk.rpy:3685
+# game/dialogues/lisatalk.rpy:3683
 translate italian MorningWoodCont2_var2_e60ce384:
 
     # Max_08 "Э-э-э... Да так, во всякие Монополии уделываю тебя только так... В Пазлы..."
     Max_08 "uh... Sì, in tutti i tipi di Monopoli ti do solo così... Nei puzzle..."
 
-# game/dialogues/lisatalk.rpy:3686
+# game/dialogues/lisatalk.rpy:3684
 translate italian MorningWoodCont2_var2_8417bd7c:
 
     # Lisa_02 "Чего?! Как можно уделать кого-то в Пазлы?"
     Lisa_02 "Cosa?! Come puoi far entrare qualcuno in Puzzles?"
 
-# game/dialogues/lisatalk.rpy:3687
+# game/dialogues/lisatalk.rpy:3685
 translate italian MorningWoodCont2_var2_d4a51097:
 
     # Max_09 "Вот не мешала бы спать, я бы узнал, как..."
     Max_09 "Non sarebbe male dormire, imparerei come..."
 
-# game/dialogues/lisatalk.rpy:3688
+# game/dialogues/lisatalk.rpy:3686
 translate italian MorningWoodCont2_var2_62d996ad:
 
     # Lisa_03 "Заливаешь, Макс! Если бы у тебя член так не стоял, я бы может и поверила в твои оправдания..."
     Lisa_03 "Versa, Max! Se non hai avuto così, potrei credere alle tue scuse..."
 
-# game/dialogues/lisatalk.rpy:3689
+# game/dialogues/lisatalk.rpy:3687
 translate italian MorningWoodCont2_var2_df170a9a:
 
     # Max_01 "А будешь так на него пялиться, в школу опоздаешь!"
     Max_01 "E lo guarderai così, sarai in ritardo per la scuola!"
 
-# game/dialogues/lisatalk.rpy:3692
+# game/dialogues/lisatalk.rpy:3690
 translate italian MorningWoodCont2_var2_b812ded9:
 
     # Lisa_11 "Я не пялюсь! Не опоздаю... хотя могу... Я тогда побежала в ванную..."
     Lisa_11 "non sto fissando! Non sono in ritardo... anche se posso... Poi sono corso in bagno..."
 
-# game/dialogues/lisatalk.rpy:3693
+# game/dialogues/lisatalk.rpy:3691
 translate italian MorningWoodCont2_var2_9998603c:
 
     # Max_02 "Как это!? А ещё поглазеть на мой член? Ой, а может ты извращенка!"
     Max_02 "Com'è!? E fissare il mio? Oh, o forse sei un pervertito!"
 
-# game/dialogues/lisatalk.rpy:3694
+# game/dialogues/lisatalk.rpy:3692
 translate italian MorningWoodCont2_var2_402b9fe1:
 
     # Lisa_10 "Чего!? Я не извращенка! Сам такой. Понял! Вот, всё."
     Lisa_10 "Cosa!? Non sono un pervertito! Lui è così. Ho capito! Questo è tutto."
 
-# game/dialogues/lisatalk.rpy:3696
+# game/dialogues/lisatalk.rpy:3694
 translate italian MorningWoodCont2_var2_92d4cea4:
 
     # Lisa_01 "Я не пялюсь и сегодня нет уроков! Выходные же!"
     Lisa_01 "non sto fissando e oggi non ci sono lezioni! Fine settimana!"
 
-# game/dialogues/lisatalk.rpy:3697
+# game/dialogues/lisatalk.rpy:3695
 translate italian MorningWoodCont2_var2_c8f2f573:
 
     # Max_02 "Нет, ты пялишься... Да ты извращенка!"
     Max_02 "No, stai fissando... Sì, sei un pervertito!"
 
-# game/dialogues/lisatalk.rpy:3698
+# game/dialogues/lisatalk.rpy:3696
 translate italian MorningWoodCont2_var2_04f38e1a:
 
     # Lisa_10 "Чего!? Я не извращенка! Сам такой. Вот. А я пошла в ванную..."
     Lisa_10 "Cosa!? Non sono un pervertito! Lui è così. Qui. E sono andato in bagno..."
 
-# game/dialogues/lisatalk.rpy:3699
+# game/dialogues/lisatalk.rpy:3697
 translate italian MorningWoodCont2_var2_8137b9e5:
 
     # Max_01 "Вот и правильно."
     Max_01 "Esatto."
 
-# game/dialogues/lisatalk.rpy:3707
+# game/dialogues/lisatalk.rpy:3705
 translate italian MorningWoodCont2_var3_3a9d9fc0:
 
     # Lisa_01 "Эй, Макс, спишь?"
     Lisa_01 "Ehi, Max, stai dormendo?"
 
-# game/dialogues/lisatalk.rpy:3708
+# game/dialogues/lisatalk.rpy:3706
 translate italian MorningWoodCont2_var3_7787cdef:
 
     # Max_19 "Сплю..."
     Max_19 "sto dormendo..."
 
-# game/dialogues/lisatalk.rpy:3709
+# game/dialogues/lisatalk.rpy:3707
 translate italian MorningWoodCont2_var3_9e5c6c3e:
 
     # Lisa_02 "И как спится?"
     Lisa_02 "E come dormi?"
 
-# game/dialogues/lisatalk.rpy:3710
+# game/dialogues/lisatalk.rpy:3708
 translate italian MorningWoodCont2_var3_cbecbf92:
 
     # Max_19 "Ты что хотела?"
     Max_19 "cosa volevi?"
 
-# game/dialogues/lisatalk.rpy:3711
+# game/dialogues/lisatalk.rpy:3709
 translate italian MorningWoodCont2_var3_10c7b1bc:
 
     # Lisa_03 "Да так... У тебя член опять стоит..."
     Lisa_03 "sì... Il tuo è di nuovo in piedi..."
 
-# game/dialogues/lisatalk.rpy:3714
+# game/dialogues/lisatalk.rpy:3712
 translate italian MorningWoodCont2_var3_c0e65314:
 
     # Max_07 "Ну и пусть стоит, надо так значит! Тебе он что, мешает что ли, из комнаты не даёт выйти?"
     Max_07 "Bene, lascia stare, è necessario così è! Interferisce con te, non ti lascia uscire dalla stanza?"
 
-# game/dialogues/lisatalk.rpy:3715
+# game/dialogues/lisatalk.rpy:3713
 translate italian MorningWoodCont2_var3_5ac7b7a2:
 
     # Lisa_02 "Ну, да... мешает... Когда ещё удастся подглядеть за братом в таком... смешном состоянии."
     Lisa_02 "Beh, sì... Impedisce... Quando altro sarà possibile fare pipì dopo mio fratello in un tale... stato ridicolo."
 
-# game/dialogues/lisatalk.rpy:3716
+# game/dialogues/lisatalk.rpy:3714
 translate italian MorningWoodCont2_var3_6a4f3453:
 
     # Max_03 "Так ты подглядывать любишь у нас! Какая ты плохая девочка!"
     Max_03 "Quindi ti piace sbirciare con noi! Che cattiva ragazza sei!"
 
-# game/dialogues/lisatalk.rpy:3717
+# game/dialogues/lisatalk.rpy:3715
 translate italian MorningWoodCont2_var3_047a8598:
 
     # Lisa_11 "Ой, нет... Я не в этом смысле..."
     Lisa_11 "Oh, no... Non sono in questo senso..."
 
-# game/dialogues/lisatalk.rpy:3718
+# game/dialogues/lisatalk.rpy:3716
 translate italian MorningWoodCont2_var3_7e24432a:
 
     # Max_02 "Да всё с тобой понятно!"
     Max_02 "Sì, tutto è chiaro con te!"
 
-# game/dialogues/lisatalk.rpy:3719
+# game/dialogues/lisatalk.rpy:3717
 translate italian MorningWoodCont2_var3_6f083506:
 
     # Lisa_10 "Я всё, мне пора в ванную..."
     Lisa_10 "sono tutto, è ora per me di andare in bagno..."
 
-# game/dialogues/lisatalk.rpy:3720
+# game/dialogues/lisatalk.rpy:3718
 translate italian MorningWoodCont2_var3_9aba62c0:
 
     # Max_01 "Ага, как удобно."
     Max_01 "sì, quanto è conveniente."
 
-# game/dialogues/lisatalk.rpy:3734
+# game/dialogues/lisatalk.rpy:3732
 translate italian lisa_about_ae_sexed0_f4d81d33:
 
     # Lisa_00 "Ты про поход к маме с Эриком?"
     Lisa_00 "parli di andare da tua madre con Eric?"
 
-# game/dialogues/lisatalk.rpy:3735
+# game/dialogues/lisatalk.rpy:3733
 translate italian lisa_about_ae_sexed0_9e1a3fc3:
 
     # Max_01 "Ну конечно!"
     Max_01 "Certo!"
 
-# game/dialogues/lisatalk.rpy:3736
+# game/dialogues/lisatalk.rpy:3734
 translate italian lisa_about_ae_sexed0_91eb4007:
 
     # Lisa_09 "Они хотят подготовить меня к взрослой жизни. Всё покажут и расскажут. То же, чему и ты собирался меня учить, только вот..."
     Lisa_09 "Vogliono prepararmi per l'età adulta. Tutto sarà mostrato e raccontato. La stessa cosa che stavi per insegnarmi, ma qui..."
 
-# game/dialogues/lisatalk.rpy:3737
+# game/dialogues/lisatalk.rpy:3735
 translate italian lisa_about_ae_sexed0_d6a2976b:
 
     # Max_07 "Только вот что?"
     Max_07 "'è proprio questo?"
 
-# game/dialogues/lisatalk.rpy:3738
+# game/dialogues/lisatalk.rpy:3736
 translate italian lisa_about_ae_sexed0_1a9594bb:
 
     # Lisa_10 "А это вообще нормально? Одно дело, когда меня чему-нибудь учишь ты, а здесь... Мама... и Эрик... Мама так вообще раньше меня от всего такого до жути оберегала!"
     Lisa_10 "Va bene? Una cosa è quando mi insegni qualcosa, ma qui... Mummia... ed Eric... Mia madre così generalmente prima di me da tutto questo a quello terribilmente protetto!"
 
-# game/dialogues/lisatalk.rpy:3741
+# game/dialogues/lisatalk.rpy:3739
 translate italian lisa_about_ae_sexed0_e341ad72:
 
     # Max_09 "У них-то в этом знаний и опыта куда больше моего, я даже не рядом. Так что кому, как не им тебя к этому готовить."
     Max_09 "Hanno molta più conoscenza ed esperienza in questo rispetto alla mia, non sono nemmeno in giro. Quindi chi, se non loro per prepararti a questo."
 
-# game/dialogues/lisatalk.rpy:3742
+# game/dialogues/lisatalk.rpy:3740
 translate italian lisa_about_ae_sexed0_17ae2c32:
 
     # Lisa_00 "Ну ладно. Пожалуй, ты прав."
     Lisa_00 "Va bene. Immagino che tu abbia ragione."
 
-# game/dialogues/lisatalk.rpy:3743
+# game/dialogues/lisatalk.rpy:3741
 translate italian lisa_about_ae_sexed0_184d4b17:
 
     # Max_01 "К тому же, ты всегда можешь отказаться от их уроков. Когда они только успевать это будут, интересно..."
     Max_01 "Inoltre, puoi sempre rifiutare le loro lezioni. Quando hanno solo tempo per farlo, mi chiedo..."
 
-# game/dialogues/lisatalk.rpy:3744
+# game/dialogues/lisatalk.rpy:3742
 translate italian lisa_about_ae_sexed0_2db60e80:
 
     # Lisa_01 "Сказали приходить по понедельникам, в то же время."
     Lisa_01 "detto di venire il lunedì, allo stesso tempo."
 
-# game/dialogues/lisatalk.rpy:3745
+# game/dialogues/lisatalk.rpy:3743
 translate italian lisa_about_ae_sexed0_9cf1879e:
 
     # Max_07 "А мне потом расскажешь, что делали?"
     Max_07 "E poi dimmi cosa hanno fatto?"
 
-# game/dialogues/lisatalk.rpy:3746
+# game/dialogues/lisatalk.rpy:3744
 translate italian lisa_about_ae_sexed0_5c2709c2:
 
     # Lisa_02 "Расскажу, если тебе интересно."
     Lisa_02 "dirò se sei interessato."
 
-# game/dialogues/lisatalk.rpy:3747
+# game/dialogues/lisatalk.rpy:3745
 translate italian lisa_about_ae_sexed0_4b2e62c5:
 
     # Max_08 "Конечно интересно!"
     Max_08 "Certo che interessante!"
 
-# game/dialogues/lisatalk.rpy:3750
+# game/dialogues/lisatalk.rpy:3748
 translate italian lisa_about_ae_sexed0_bd2015d9:
 
     # Max_09 "Да это точно не нормально! Ты не пробовала отказаться?"
     Max_09 "sì, sicuramente non è normale! Hai provato a rifiutare?"
 
-# game/dialogues/lisatalk.rpy:3751
+# game/dialogues/lisatalk.rpy:3749
 translate italian lisa_about_ae_sexed0_fe836025:
 
     # Lisa_09 "Когда ещё такая возможность будет, Макс! Раньше мама вообще мне ничего не хотела рассказывать. А теперь, благодаря Эрику, это изменится."
     Lisa_09 "Quando altro ci sarà una tale opportunità, Max! In precedenza, mia madre non voleva dirmi nulla. E ora, grazie a Eric, questo cambierà."
 
-# game/dialogues/lisatalk.rpy:3752
+# game/dialogues/lisatalk.rpy:3750
 translate italian lisa_about_ae_sexed0_b40a9793:
 
     # Max_10 "Думаешь, в лучшую сторону?"
     Max_10 "pensi per il meglio?"
 
-# game/dialogues/lisatalk.rpy:3753
+# game/dialogues/lisatalk.rpy:3751
 translate italian lisa_about_ae_sexed0_64fea5a2:
 
     # Lisa_02 "Конечно, сам посмотри... Я теперь буду ходить на курсы в школе и мама с Эриком всё мне расскажут о взрослой жизни!"
     Lisa_02 "Certo, cerca te stesso... Ora andrò a scuola e mia madre ed Eric mi diranno tutto sulla vita adulta!"
 
-# game/dialogues/lisatalk.rpy:3754
+# game/dialogues/lisatalk.rpy:3752
 translate italian lisa_about_ae_sexed0_589760d2:
 
     # Max_09 "Только, когда они успевать это будут, интересно..."
     Max_09 "Solo quando hanno tempo per farlo, mi chiedo..."
 
-# game/dialogues/lisatalk.rpy:3755
+# game/dialogues/lisatalk.rpy:3753
 translate italian lisa_about_ae_sexed0_2db60e80_1:
 
     # Lisa_01 "Сказали приходить по понедельникам, в то же время."
     Lisa_01 "detto di venire il lunedì, allo stesso tempo."
 
-# game/dialogues/lisatalk.rpy:3756
+# game/dialogues/lisatalk.rpy:3754
 translate italian lisa_about_ae_sexed0_9cf1879e_1:
 
     # Max_07 "А мне потом расскажешь, что делали?"
     Max_07 "E poi dimmi cosa hanno fatto?"
 
-# game/dialogues/lisatalk.rpy:3757
+# game/dialogues/lisatalk.rpy:3755
 translate italian lisa_about_ae_sexed0_5c2709c2_1:
 
     # Lisa_02 "Расскажу, если тебе интересно."
     Lisa_02 "dirò se sei interessato."
 
-# game/dialogues/lisatalk.rpy:3758
+# game/dialogues/lisatalk.rpy:3756
 translate italian lisa_about_ae_sexed0_4b2e62c5_1:
 
     # Max_08 "Конечно интересно!"
     Max_08 "Certo che interessante!"
 
-# game/dialogues/lisatalk.rpy:3768
+# game/dialogues/lisatalk.rpy:3766
 translate italian lisa_about_ae_sexed1_1a6ee50f:
 
     # Lisa_09 "Даже не знаю, как сказать, Макс... Я всё ещё в лёгком потрясении!"
     Lisa_09 "non so nemmeno come dire, Max... Sono ancora in leggero shock!"
 
-# game/dialogues/lisatalk.rpy:3769
+# game/dialogues/lisatalk.rpy:3767
 translate italian lisa_about_ae_sexed1_de78339f:
 
     # Max_08 "Так может прекратить эти уроки?"
     Max_08 "Quindi queste lezioni possono finire?"
 
-# game/dialogues/lisatalk.rpy:3770
+# game/dialogues/lisatalk.rpy:3768
 translate italian lisa_about_ae_sexed1_2c7ef623:
 
     # Lisa_01 "Нет, это всё очень интересно, просто... не укладывается в голове."
     Lisa_01 "No, è tutto molto interessante, solo... non si adatta alla mia testa."
 
-# game/dialogues/lisatalk.rpy:3771
+# game/dialogues/lisatalk.rpy:3769
 translate italian lisa_about_ae_sexed1_a221ef25:
 
     # Max_09 "Так что было-то?"
     Max_09 "Quindi cosa è successo?"
 
-# game/dialogues/lisatalk.rpy:3772
+# game/dialogues/lisatalk.rpy:3770
 translate italian lisa_about_ae_sexed1_45c17690:
 
     # Lisa_02 "Ну... мама показала, как доставить мужчине удовольствие руками..."
     Lisa_02 "Beh... la mamma ha mostrato come dare piacere a un uomo con le sue mani..."
 
-# game/dialogues/lisatalk.rpy:3773
+# game/dialogues/lisatalk.rpy:3771
 translate italian lisa_about_ae_sexed1_2e192947:
 
     # Max_07 "И как тебе это?"
     Max_07 "E come si fa?"
 
-# game/dialogues/lisatalk.rpy:3774
+# game/dialogues/lisatalk.rpy:3772
 translate italian lisa_about_ae_sexed1_b94de058:
 
     # Lisa_03 "Это забавно! Вроде как, это выглядит легко со стороны, но не знаю... У тебя, кстати... член больше чем у Эрика. Наверно, такой как у тебя сложнее стимулировать, а может и нет..."
     Lisa_03 "È divertente! Sembra facile dall'esterno, ma non lo so... A proposito... il è più grande di quello di Eric. Probabilmente, come hai più difficoltà a stimolare, e forse non..."
 
-# game/dialogues/lisatalk.rpy:3775
+# game/dialogues/lisatalk.rpy:3773
 translate italian lisa_about_ae_sexed1_27960b4f:
 
     # Max_09 "Значит, просто забавно и всё?!"
     Max_09 "Quindi è solo divertente e basta?!"
 
-# game/dialogues/lisatalk.rpy:3776
+# game/dialogues/lisatalk.rpy:3774
 translate italian lisa_about_ae_sexed1_09c29458:
 
     # Lisa_10 "Ну, это странно, конечно. Мама взяла и показала мне, как она доставляет удовольствие Эрику, хотя ещё не так давно даже не хотела объяснять, почему и как твой член становится большим по утрам."
     Lisa_10 "Beh, è strano, ovviamente. La mamma l'ha preso e mi ha mostrato come piace a Eric, anche se non molto tempo fa non voleva nemmeno spiegare perché o come il tuo diventa grande al mattino."
 
-# game/dialogues/lisatalk.rpy:3777
+# game/dialogues/lisatalk.rpy:3775
 translate italian lisa_about_ae_sexed1_0a862fb1:
 
     # Max_14 "Похоже, всё проходит довольно безобидно. Но ты всё равно смотри, чтобы они не стали перегибать палку!"
     Max_14 "Sembra che tutto stia andando abbastanza innocuo. Ma guardi ancora in modo che non vadano troppo lontano!"
 
-# game/dialogues/lisatalk.rpy:3778
+# game/dialogues/lisatalk.rpy:3776
 translate italian lisa_about_ae_sexed1_2b951e5d:
 
     # Lisa_11 "Это как, Макс?!"
     Lisa_11 "'è, Max?!"
 
-# game/dialogues/lisatalk.rpy:3779
+# game/dialogues/lisatalk.rpy:3777
 translate italian lisa_about_ae_sexed1_75254c91:
 
     # Max_15 "Да мало ли! Если Эрик так легко повлиял на маму, что она совершенно спокойно дрочит ему у тебя на глазах и утверждает, что они это делают в образовательных целях, то что будет, если он пойдёт дальше..."
     Max_15 "sì! Se Eric ha influenzato sua madre così facilmente che lei trema tranquillamente davanti ai suoi occhi e afferma che lo stanno facendo per scopi educativi, allora cosa succederà se andrà oltre..."
 
-# game/dialogues/lisatalk.rpy:3780
+# game/dialogues/lisatalk.rpy:3778
 translate italian lisa_about_ae_sexed1_2f7f61d4:
 
     # Lisa_13 "Да нет, Эрик не такой!"
     Lisa_13 "No, Eric non è così!"
 
-# game/dialogues/lisatalk.rpy:3781
+# game/dialogues/lisatalk.rpy:3779
 translate italian lisa_about_ae_sexed1_4d3bf8a8:
 
     # Max_09 "Знаешь, про всех пойманных маньяков и педофилов тоже всегда так говорят, что они казались не такими."
     Max_09 "Sai, dicono sempre così di tutti i maniaci e i pedofili catturati, che non sembravano così."
 
-# game/dialogues/lisatalk.rpy:3782
+# game/dialogues/lisatalk.rpy:3780
 translate italian lisa_about_ae_sexed1_210e8b94:
 
     # Lisa_01 "Ну... Не знаю, Макс. Меня всё пока устраивает."
     Lisa_01 "Beh... Non lo so, Max. Sto bene con questo finora."
 
-# game/dialogues/lisatalk.rpy:3783
+# game/dialogues/lisatalk.rpy:3781
 translate italian lisa_about_ae_sexed1_500ea465:
 
     # Max_16 "Но если вдруг, он начнёт к тебе приставать, сразу говори мне! Хорошо?"
     Max_16 "Ma se all'improvviso inizia a molestarti, dimmelo subito! Ok?"
 
-# game/dialogues/lisatalk.rpy:3784
+# game/dialogues/lisatalk.rpy:3782
 translate italian lisa_about_ae_sexed1_ebda0610:
 
     # Lisa_00 "Хорошо... Но я тебе говорю, он не такой!"
     Lisa_00 "Va bene... Ma ti sto dicendo, non è così!"
 
-# game/dialogues/lisatalk.rpy:3785
+# game/dialogues/lisatalk.rpy:3783
 translate italian lisa_about_ae_sexed1_07023c28:
 
     # Max_09 "Ага, конечно. Ещё посмотрим..."
     Max_09 "sì, assolutamente. Vedremo..."
 
-# game/dialogues/lisatalk.rpy:3795
+# game/dialogues/lisatalk.rpy:3793
 translate italian lisa_about_ae_sexed2_8e2a71cd:
 
     # Lisa_09 "Да так, контрольная работа очередная. Но я вроде большую часть там решила. Надеюсь, правильно..."
     Lisa_09 "Sì, il lavoro di test è un altro. Ma ho deciso la maggior parte di esso lì. Spero che sia giusto..."
 
-# game/dialogues/lisatalk.rpy:3796
+# game/dialogues/lisatalk.rpy:3794
 translate italian lisa_about_ae_sexed2_1279d157:
 
     # Max_07 "Это хорошо, но я немного о другом уроке..."
     Max_07 "Va bene, ma sono un po' su un'altra lezione..."
 
-# game/dialogues/lisatalk.rpy:3797
+# game/dialogues/lisatalk.rpy:3795
 translate italian lisa_about_ae_sexed2_cb1b6768:
 
     # Lisa_01 "А, ты про урок у мамы и Эрика! Ой, ну там, было кое-что..."
     Lisa_01 "Ah, stai parlando di una lezione di mamma ed Eric! Oh, beh, c'era qualcosa..."
 
-# game/dialogues/lisatalk.rpy:3798
+# game/dialogues/lisatalk.rpy:3796
 translate italian lisa_about_ae_sexed2_27613305:
 
     # Max_09 "И что это за кое-что?"
     Max_09 "E che cos'è?"
 
-# game/dialogues/lisatalk.rpy:3799
+# game/dialogues/lisatalk.rpy:3797
 translate italian lisa_about_ae_sexed2_c808bcab:
 
     # Lisa_02 "А что такого вы, мальчики, находите в женской груди?"
     Lisa_02 "Cosa trovate voi ragazzi nel seno di una donna?"
 
-# game/dialogues/lisatalk.rpy:3800
+# game/dialogues/lisatalk.rpy:3798
 translate italian lisa_about_ae_sexed2_420abc15:
 
     # Max_05 "Смеёшься?! Так она же у вас такая офигенно классная! Даже не представляю, как вы живёте с такой офигенностью, да ещё и в прямом доступе."
     Max_05 "stai ridendo?! Quindi è così incredibilmente bello! Non riesco nemmeno a immaginare come vivi con una tale bellezza, e anche in accesso diretto."
 
-# game/dialogues/lisatalk.rpy:3801
+# game/dialogues/lisatalk.rpy:3799
 translate italian lisa_about_ae_sexed2_62807940:
 
     # Lisa_03 "Как это в прямом доступе?"
     Lisa_03 "Com'è l'accesso diretto?"
 
-# game/dialogues/lisatalk.rpy:3802
+# game/dialogues/lisatalk.rpy:3800
 translate italian lisa_about_ae_sexed2_c540218c:
 
     # Max_06 "Так ты же можешь абсолютно в любой момент её потрогать, поласкать..."
     Max_06 "Quindi puoi assolutamente in qualsiasi momento toccarlo, accarezzarlo..."
 
-# game/dialogues/lisatalk.rpy:3803
+# game/dialogues/lisatalk.rpy:3801
 translate italian lisa_about_ae_sexed2_99ff9bc7:
 
     # Lisa_10 "Какой ты, Макс, пошлый! Да и видимо все мальчики..."
     Lisa_10 "Che volgare sei, Max! E a quanto pare tutti i ragazzi..."
 
-# game/dialogues/lisatalk.rpy:3804
+# game/dialogues/lisatalk.rpy:3802
 translate italian lisa_about_ae_sexed2_3276bb47:
 
     # Max_07 "А что нам делать? Так природой заложено - балдеть от ваших сисечек и других прелестей!"
     Max_07 "Cosa dobbiamo fare? Quindi la natura è posata - baldet dai tuoi siseks e altri incantesimi!"
 
-# game/dialogues/lisatalk.rpy:3805
+# game/dialogues/lisatalk.rpy:3803
 translate italian lisa_about_ae_sexed2_1e3c036a:
 
     # Lisa_01 "Скромнее надо быть."
     Lisa_01 "Dobbiamo essere più modesti."
 
-# game/dialogues/lisatalk.rpy:3806
+# game/dialogues/lisatalk.rpy:3804
 translate italian lisa_about_ae_sexed2_f954e4f4:
 
     # Max_08 "Ага, будешь скромнее - вы сразу внимания хотите, а если пялишься - то сразу извращенец и озабоченный."
     Max_08 "sì, sarai più modesto - vuoi immediatamente attenzione, e se fissi - allora immediatamente pervertito e preoccupato."
 
-# game/dialogues/lisatalk.rpy:3807
+# game/dialogues/lisatalk.rpy:3805
 translate italian lisa_about_ae_sexed2_8c7a24f9:
 
     # Lisa_02 "Значит надо середину золотую искать!"
     Lisa_02 "Quindi dobbiamo cercare il mezzo dell'oro!"
 
-# game/dialogues/lisatalk.rpy:3808
+# game/dialogues/lisatalk.rpy:3806
 translate italian lisa_about_ae_sexed2_6d8924fb:
 
     # Max_09 "А ты почему про грудь заговорила, мама или Эрик что-то рассказали?"
     Max_09 "Perché hai parlato di seno, mamma o Eric mi hanno detto qualcosa?"
 
-# game/dialogues/lisatalk.rpy:3809
+# game/dialogues/lisatalk.rpy:3807
 translate italian lisa_about_ae_sexed2_f22cfe89:
 
     # Lisa_01 "Да, рассказали и показали..."
     Lisa_01 "Sì, hanno detto e mostrato..."
 
-# game/dialogues/lisatalk.rpy:3810
+# game/dialogues/lisatalk.rpy:3808
 translate italian lisa_about_ae_sexed2_bc8b4754:
 
     # Max_07 "Мама тебе грудь показала?!"
     Max_07 "mamma ti ha mostrato il seno?!"
 
-# game/dialogues/lisatalk.rpy:3811
+# game/dialogues/lisatalk.rpy:3809
 translate italian lisa_about_ae_sexed2_a000f8cc:
 
     # Lisa_02 "Мне и Эрику. И рассказала, как вы это любите."
     Lisa_02 "io ed Eric. E mi ha detto quanto lo ami."
 
-# game/dialogues/lisatalk.rpy:3812
+# game/dialogues/lisatalk.rpy:3810
 translate italian lisa_about_ae_sexed2_b2045b28:
 
     # Max_04 "Это да, любим... Покажешь?"
     Max_04 "Sì, lo adoriamo... Mostrare?"
 
-# game/dialogues/lisatalk.rpy:3813
+# game/dialogues/lisatalk.rpy:3811
 translate italian lisa_about_ae_sexed2_05b5b9aa:
 
     # Lisa_11 "Мою грудь?! А то ты не знаешь, как она выглядит..."
     Lisa_11 "Il mio seno?! O non sai come appare..."
 
-# game/dialogues/lisatalk.rpy:3814
+# game/dialogues/lisatalk.rpy:3812
 translate italian lisa_about_ae_sexed2_56f588b2:
 
     # Max_02 "А вдруг что-то изменилось? Надо проверить..."
     Max_02 "Cosa succede se qualcosa è cambiato? Dobbiamo controllare..."
 
-# game/dialogues/lisatalk.rpy:3816
+# game/dialogues/lisatalk.rpy:3814
 translate italian lisa_about_ae_sexed2_3c085d5c:
 
     # Lisa_03 "А ты мне свою штуку покажешь сперва?" nointeract
     Lisa_03 "Mi mostrerai prima la tua cosa?" nointeract
 
-# game/dialogues/lisatalk.rpy:3818
+# game/dialogues/lisatalk.rpy:3816
 translate italian lisa_about_ae_sexed2_b747c083:
 
     # Lisa_02 "Ну вот, все всё знают, так что и показывать незачем."
     Lisa_02 "Beh, tutti sanno tutto, quindi non c'è bisogno di mostrare."
 
-# game/dialogues/lisatalk.rpy:3819
+# game/dialogues/lisatalk.rpy:3817
 translate italian lisa_about_ae_sexed2_6378d558:
 
     # Max_03 "Но мне показалось, ты хотела показать..."
     Max_03 "Ma pensavo che volessi mostrare..."
 
-# game/dialogues/lisatalk.rpy:3820
+# game/dialogues/lisatalk.rpy:3818
 translate italian lisa_about_ae_sexed2_f6ff2867:
 
     # Lisa_01 "Вот именно, тебе показалось! Ничего я показывать не буду."
     Lisa_01 "Esattamente, hai pensato! Non mostrerò nulla."
 
-# game/dialogues/lisatalk.rpy:3822
+# game/dialogues/lisatalk.rpy:3820
 translate italian lisa_about_ae_sexed2_c0d63fc8:
 
     # Lisa_11 "Ой, не надо. Не буду я тебе ничего показывать!"
     Lisa_11 "Oh, non farlo. Non ti mostrerò nulla!"
 
-# game/dialogues/lisatalk.rpy:3823
+# game/dialogues/lisatalk.rpy:3821
 translate italian lisa_about_ae_sexed2_5ee12902:
 
     # Max_07 "Это сейчас. Но как захочешь, то зови."
     Max_07 "È adesso. Ma qualunque cosa tu voglia, chiama."
 
-# game/dialogues/lisatalk.rpy:3824
+# game/dialogues/lisatalk.rpy:3822
 translate italian lisa_about_ae_sexed2_f39108cf:
 
     # Lisa_02 "Конечно, Макс, обязательно тебя позову..."
     Lisa_02 "Certo, Max, ti chiamerò sicuramente..."
 
-# game/dialogues/lisatalk.rpy:3825
+# game/dialogues/lisatalk.rpy:3823
 translate italian lisa_about_ae_sexed2_8c3ac440:
 
     # Max_01 "Сегодня?"
     Max_01 "Oggi?"
 
-# game/dialogues/lisatalk.rpy:3826
+# game/dialogues/lisatalk.rpy:3824
 translate italian lisa_about_ae_sexed2_c66e36da:
 
     # Lisa_01 "Ой, всё, отстань."
     Lisa_01 "Oh, questo è tutto, mettiti dietro."
 
-# game/dialogues/lisatalk.rpy:3836
+# game/dialogues/lisatalk.rpy:3834
 translate italian lisa_about_ae_sexed3_8b4345de:
 
     # Lisa_01 "Было кое-что... о ваших яичках. Но ты не знаешь, так что пусть это остаётся для тебя тайной."
     Lisa_01 "'era qualcosa... sui tuoi testicoli. Ma tu non lo sai, quindi lascia che rimanga un mistero per te."
 
-# game/dialogues/lisatalk.rpy:3837
+# game/dialogues/lisatalk.rpy:3835
 translate italian lisa_about_ae_sexed3_be072125:
 
     # Max_08 "Эй, это что ещё за тайны о моих шарах!"
     Max_08 "Ehi, che altri misteri sulle mie palle!"
 
-# game/dialogues/lisatalk.rpy:3838
+# game/dialogues/lisatalk.rpy:3836
 translate italian lisa_about_ae_sexed3_60001f5e:
 
     # Lisa_02 "А вот есть кое-какие! Узнаешь, когда придёт время. А может и нет, это как повезёт."
     Lisa_02 "Ed eccone alcuni! Saprai quando arriverà il momento. O forse no, è come la fortuna."
 
-# game/dialogues/lisatalk.rpy:3839
+# game/dialogues/lisatalk.rpy:3837
 translate italian lisa_about_ae_sexed3_5a214a8e:
 
     # Max_07 "Да ладно, давай рассказывай!"
     Max_07 "Dai, diciamolo!"
 
-# game/dialogues/lisatalk.rpy:3840
+# game/dialogues/lisatalk.rpy:3838
 translate italian lisa_about_ae_sexed3_68e0b90b:
 
     # Lisa_09 "Нет, Макс. Если скажу, то ты опять будешь приставать с дурацкими вопросами."
     Lisa_09 "No, Max. Se dico, ti tormenterai di nuovo con domande stupide."
 
-# game/dialogues/lisatalk.rpy:3841
+# game/dialogues/lisatalk.rpy:3839
 translate italian lisa_about_ae_sexed3_9f5484f1:
 
     # Max_09 "Ну и не надо! Я и так знаю."
     Max_09 "Beh, non è necessario! Lo so già."
 
-# game/dialogues/lisatalk.rpy:3842
+# game/dialogues/lisatalk.rpy:3840
 translate italian lisa_about_ae_sexed3_306f76d0:
 
     # Lisa_01 "Сильно сомневаюсь... И что же ты знаешь?"
     Lisa_01 "ne dubito fortemente... Quindi cosa sai?"
 
-# game/dialogues/lisatalk.rpy:3843
+# game/dialogues/lisatalk.rpy:3841
 translate italian lisa_about_ae_sexed3_a0e691e0:
 
     # Max_03 "То же, что знаешь ты!"
     Max_03 "Stessa cosa che sai!"
 
-# game/dialogues/lisatalk.rpy:3844
+# game/dialogues/lisatalk.rpy:3842
 translate italian lisa_about_ae_sexed3_8a16652b:
 
     # Lisa_02 "И это..."
     Lisa_02 "E questo è..."
 
-# game/dialogues/lisatalk.rpy:3845
+# game/dialogues/lisatalk.rpy:3843
 translate italian lisa_about_ae_sexed3_46da8cfb:
 
     # Max_02 "А вот не скажу! Я знаю, что ты знаешь! Не знаю только, как ты будешь теперь жить зная, что я знаю, что ты знаешь."
     Max_02 "Ma non lo dirò! So quello che sai! Semplicemente non so come vivrai ora sapendo che so quello che sai tu."
 
-# game/dialogues/lisatalk.rpy:3846
+# game/dialogues/lisatalk.rpy:3844
 translate italian lisa_about_ae_sexed3_917f37d7:
 
     # Lisa_03 "Точно так же я буду жить. А знаешь почему? Потому что ты не знаешь, что я знаю!"
     Lisa_03 "vivrò allo stesso modo. Sapete perché? Perché tu non sai quello che so io!"
 
-# game/dialogues/lisatalk.rpy:3847
+# game/dialogues/lisatalk.rpy:3845
 translate italian lisa_about_ae_sexed3_b20c59c7:
 
     # Max_09 "Всё я знаю."
     Max_09 "So tutto."
 
-# game/dialogues/lisatalk.rpy:3848
+# game/dialogues/lisatalk.rpy:3846
 translate italian lisa_about_ae_sexed3_128f2227:
 
     # Lisa_02 "Тогда почему спрашивал?"
     Lisa_02 "Allora perché ha chiesto?"
 
-# game/dialogues/lisatalk.rpy:3849
+# game/dialogues/lisatalk.rpy:3847
 translate italian lisa_about_ae_sexed3_8a48e450:
 
     # Max_01 "А вот было интересно, расскажешь или нет."
     Max_01 "Ma era interessante se lo dicevi o no."
 
-# game/dialogues/lisatalk.rpy:3850
+# game/dialogues/lisatalk.rpy:3848
 translate italian lisa_about_ae_sexed3_c2357250:
 
     # Lisa_01 "Потому что на самом деле ничего ты не знаешь, да?"
     Lisa_01 "Perché in realtà non sai nulla, giusto?"
 
-# game/dialogues/lisatalk.rpy:3851
+# game/dialogues/lisatalk.rpy:3849
 translate italian lisa_about_ae_sexed3_811e0fc7:
 
     # Max_09 "И правда дурацкий разговор вышел."
     Max_09 "E la conversazione davvero stupida è venuta fuori."
 
-# game/dialogues/lisatalk.rpy:3852
+# game/dialogues/lisatalk.rpy:3850
 translate italian lisa_about_ae_sexed3_56af2ff3:
 
     # Lisa_02 "Уже хорошо, что никто ничего не пытался показать, как в прошлый раз."
     Lisa_02 "È un bene che nessuno abbia cercato di mostrare qualcosa di simile l'ultima volta."
 
-# game/dialogues/lisatalk.rpy:3853
+# game/dialogues/lisatalk.rpy:3851
 translate italian lisa_about_ae_sexed3_8a31683e:
 
     # Max_07 "Кстати, когда покажешь?"
     Max_07 "A proposito, quando mostrerai?"
 
-# game/dialogues/lisatalk.rpy:3854
+# game/dialogues/lisatalk.rpy:3852
 translate italian lisa_about_ae_sexed3_c66e36da:
 
     # Lisa_01 "Ой, всё, отстань."
     Lisa_01 "Oh, questo è tutto, mettiti dietro."
 
-# game/dialogues/lisatalk.rpy:3864
+# game/dialogues/lisatalk.rpy:3862
 translate italian lisa_about_ae_sexed4_5b393902:
 
     # Lisa_01 "Ничего особенного. Просто итоговый урок, повторяли всё."
     Lisa_01 "Niente di speciale. Solo la lezione finale, ripetuto tutto."
 
-# game/dialogues/lisatalk.rpy:3865
+# game/dialogues/lisatalk.rpy:3863
 translate italian lisa_about_ae_sexed4_08e8a525:
 
     # Max_07 "И совсем ничего нового?"
     Max_07 "E niente di nuovo?"
 
-# game/dialogues/lisatalk.rpy:3866
+# game/dialogues/lisatalk.rpy:3864
 translate italian lisa_about_ae_sexed4_aa1b0bb6:
 
     # Lisa_09 "Ну... Может хоть ты мне скажешь, почему мальчикам сложнее довести девочек до оргазма?"
     Lisa_09 "Beh... Puoi dirmi perché è più difficile per i ragazzi portare le ragazze all'orgasmo?"
 
-# game/dialogues/lisatalk.rpy:3867
+# game/dialogues/lisatalk.rpy:3865
 translate italian lisa_about_ae_sexed4_86ff5472:
 
     # Max_09 "Сильное заявление! Это кто такое сказал?"
     Max_09 "Affermazione forte! Chi l'ha detto?"
 
-# game/dialogues/lisatalk.rpy:3868
+# game/dialogues/lisatalk.rpy:3866
 translate italian lisa_about_ae_sexed4_0f7efd81:
 
     # Lisa_02 "Мама. Сказала, что довести мужчину до оргазма не сложно, а вот женщину..."
     Lisa_02 "mamma. Ha detto che non è difficile portare un uomo all'orgasmo, ma una donna..."
 
-# game/dialogues/lisatalk.rpy:3869
+# game/dialogues/lisatalk.rpy:3867
 translate italian lisa_about_ae_sexed4_3c94671c:
 
     # Max_08 "Так это Эрик просто неудачник! Ох не повезло ей с ним... Наверно, вообще не старается для неё."
     Max_08 "Quindi è Eric solo un perdente! Oh, è stata sfortunata con lui... Probabilmente non provare affatto per lei."
 
-# game/dialogues/lisatalk.rpy:3870
+# game/dialogues/lisatalk.rpy:3868
 translate italian lisa_about_ae_sexed4_94de4ff7:
 
     # Lisa_13 "Ты с чего так решил?"
     Lisa_13 "Perché l'hai deciso?"
 
-# game/dialogues/lisatalk.rpy:3871
+# game/dialogues/lisatalk.rpy:3869
 translate italian lisa_about_ae_sexed4_e5da39d4:
 
     # Max_05 "Ты нашу маму видела? Да она настолько сексуальна, что у любого мужчины должна быть святая миссия стараться доводить её до оргазма. Я бы доводил точно!"
     Max_05 "Hai visto nostra madre? Sì, è così sexy che qualsiasi uomo dovrebbe avere una missione santa per cercare di portarla all'orgasmo. Mi andrebbe bene così!"
 
-# game/dialogues/lisatalk.rpy:3872
+# game/dialogues/lisatalk.rpy:3870
 translate italian lisa_about_ae_sexed4_be18da32:
 
     # Lisa_11 "Ой, Макс, ты что такое говоришь! Это же наша мама!"
     Lisa_11 "Oh, Max, cosa stai dicendo! È nostra madre!"
 
-# game/dialogues/lisatalk.rpy:3873
+# game/dialogues/lisatalk.rpy:3871
 translate italian lisa_about_ae_sexed4_edf31da1:
 
     # Max_07 "И что? Она теперь не женщина что ли?"
     Max_07 "E allora? Non è una donna ora?"
 
-# game/dialogues/lisatalk.rpy:3874
+# game/dialogues/lisatalk.rpy:3872
 translate italian lisa_about_ae_sexed4_3d6ff6ef:
 
     # Lisa_01 "Женщина, но это всё равно как-то странно слышать... Я думаю, всё у них в порядке."
     Lisa_01 "Woman, ma è ancora un po' strano da sentire... Penso che stiano bene."
 
-# game/dialogues/lisatalk.rpy:3875
+# game/dialogues/lisatalk.rpy:3873
 translate italian lisa_about_ae_sexed4_8ff3a725:
 
     # Max_09 "А почему тебя этот момент так заинтересовал?"
     Max_09 "Perché sei così interessato a questo momento?"
 
-# game/dialogues/lisatalk.rpy:3876
+# game/dialogues/lisatalk.rpy:3874
 translate italian lisa_about_ae_sexed4_0250bd5b:
 
     # Lisa_02 "Просто... вдруг стало интересно, как это происходит у нас, девочек."
     Lisa_02 "Solo... improvvisamente è diventato interessante come questo accada in noi ragazze."
 
-# game/dialogues/lisatalk.rpy:3877
+# game/dialogues/lisatalk.rpy:3875
 translate italian lisa_about_ae_sexed4_ed670cb2:
 
     # Max_04 "Там ничего сложного нет."
     Max_04 "Non c'è niente di complicato lì."
 
-# game/dialogues/lisatalk.rpy:3878
+# game/dialogues/lisatalk.rpy:3876
 translate italian lisa_about_ae_sexed4_47ada166:
 
     # Lisa_03 "Ага, сказал тот, кто всё время дома сидит! В интернете вычитал?"
     Lisa_03 "sì, ha detto colui che si siede a casa tutto il tempo! L'hai letto su internet?"
 
-# game/dialogues/lisatalk.rpy:3879
+# game/dialogues/lisatalk.rpy:3877
 translate italian lisa_about_ae_sexed4_4e2ac284:
 
     # Max_03 "Нет, личный опыт!"
     Max_03 "No, esperienza personale!"
 
-# game/dialogues/lisatalk.rpy:3880
+# game/dialogues/lisatalk.rpy:3878
 translate italian lisa_about_ae_sexed4_a41a9b44:
 
     # Lisa_02 "Макс, ты же в курсе, что воображаемые девушки не считаются?!"
     Lisa_02 "Max, sai che le ragazze immaginarie non contano?!"
 
-# game/dialogues/lisatalk.rpy:3881
+# game/dialogues/lisatalk.rpy:3879
 translate italian lisa_about_ae_sexed4_d051b76b:
 
     # Max_09 "Тебе показать, что я умею?"
     Max_09 "mi mostri cosa posso fare?"
 
-# game/dialogues/lisatalk.rpy:3882
+# game/dialogues/lisatalk.rpy:3880
 translate italian lisa_about_ae_sexed4_e18a43c3:
 
     # Lisa_10 "Ой! Ладно, ладно, верю."
     Lisa_10 "Oh! Va bene, va bene, credo."
 
-# game/dialogues/lisatalk.rpy:3883
+# game/dialogues/lisatalk.rpy:3881
 translate italian lisa_about_ae_sexed4_6beb7f00:
 
     # Max_02 "То-то же!"
     Max_02 "Stessa cosa!"
 
-# game/dialogues/lisatalk.rpy:3894
+# game/dialogues/lisatalk.rpy:3892
 translate italian lisa_stop_kiss_63ad4470:
 
     # Max_09 "{m}Пожалуй, лучше пока прекратить наши с Лизой уроки поцелуев, чтобы не давать Эрику повода устроить мне проблемы.{/m}"
     Max_09 "{m}Forse è meglio interrompere le nostre lezioni di baci con Lisa per ora, in modo da non dare a Eric un motivo per organizzare problemi per me. {/m}"
 
-# game/dialogues/lisatalk.rpy:3897
+# game/dialogues/lisatalk.rpy:3895
 translate italian lisa_stop_kiss_1dee03c4:
 
     # Max_09 "{m}Пожалуй, лучше пока прекратить наши с Лизой уроки поцелуев, чтобы не давать Эрику повода побыстрее от меня избавиться.{/m}"
     Max_09 "{m}Forse è meglio interrompere le nostre lezioni di baci con Lisa per ora, in modo da non dare a Eric un motivo per sbarazzarsi di me rapidamente. {/m}"
 
-# game/dialogues/lisatalk.rpy:3907
+# game/dialogues/lisatalk.rpy:3905
 translate italian about_boy3_3785b052:
 
     # Lisa_00 "Да, что насчёт него? Появились какие-то мысли?"
     Lisa_00 "sì, e lui? Qualche pensiero?"
 
-# game/dialogues/lisatalk.rpy:3908
+# game/dialogues/lisatalk.rpy:3906
 translate italian about_boy3_2317bd16:
 
     # Max_01 "Ага, могу предложить кое-что..."
     Max_01 "sì, posso offrire qualcosa..."
 
-# game/dialogues/lisatalk.rpy:3909
+# game/dialogues/lisatalk.rpy:3907
 translate italian about_boy3_7df1d7f0:
 
     # Lisa_01 "Супер! Я тебя слушаю..."
     Lisa_01 "Super! Ti sto ascoltando..."
 
-# game/dialogues/lisatalk.rpy:3910
+# game/dialogues/lisatalk.rpy:3908
 translate italian about_boy3_157d8a4e:
 
     # Max_07 "Думаю, тебе стоит подружиться с Оливией."
     Max_07 "Penso che dovresti essere amico di Olivia."
 
-# game/dialogues/lisatalk.rpy:3911
+# game/dialogues/lisatalk.rpy:3909
 translate italian about_boy3_c933d2ee:
 
     # Lisa_09 "С Оливией?! Дружить? По-моему, дружить с девочкой, которая встречается с парнем, который мне интересен, не самая лучшая идея."
     Lisa_09 "con Olivia?! Essere amici? Secondo me, essere amico di una ragazza che esce con un ragazzo che mi interessa non è l'idea migliore."
 
-# game/dialogues/lisatalk.rpy:3912
+# game/dialogues/lisatalk.rpy:3910
 translate italian about_boy3_44f9090c:
 
     # Max_09 "Разве?"
     Max_09 "Davvero?"
 
-# game/dialogues/lisatalk.rpy:3913
+# game/dialogues/lisatalk.rpy:3911
 translate italian about_boy3_59f8b5d7:
 
     # Lisa_10 "Ну, как своей подружке, она ведь явно будет рассказывать, чем они с Алексом занимаются... А я не уверена, что хочу знать! Особенно в подробностях..."
     Lisa_10 "Beh, come sua ragazza, ovviamente ti dirà cosa stanno facendo lei e Alex... E non sono sicuro di volerlo sapere! Soprattutto nei dettagli..."
 
-# game/dialogues/lisatalk.rpy:3914
+# game/dialogues/lisatalk.rpy:3912
 translate italian about_boy3_de4ad589:
 
     # Max_03 "В том и смысл! Если ты будешь общаться с Алексом сама, то ещё не известно, каким он себя покажет. А вот через дружбу с Оливией ты сможешь узнать, действительно ли он так хорош, как тебе кажется."
     Max_03 "Questo è il punto! Se comunichi con Alex da solo, non si sa ancora come si mostrerà. Ma attraverso l'amicizia con Olivia, puoi scoprire se è davvero bravo come pensi."
 
-# game/dialogues/lisatalk.rpy:3915
+# game/dialogues/lisatalk.rpy:3913
 translate italian about_boy3_a8df8b20:
 
     # Lisa_00 "А знаешь, может быть ты и прав. Есть правда одно но... Даже если мы с ней подружимся, она ведь не выдаст о нём всё, что только знает и думает. Для такой дружбы нужно время..."
     Lisa_00 "E sai, forse hai ragione. C'è una verità ma... Anche se diventiamo amici con lei, non darà tutto ciò che sa e pensa a lui. Una tale amicizia richiede tempo..."
 
-# game/dialogues/lisatalk.rpy:3916
+# game/dialogues/lisatalk.rpy:3914
 translate italian about_boy3_2b4e8f98:
 
     # Max_07 "Да, но это лучше, чем попытаться их, например, рассорить или ещё чего... Если Оливия очень нравится Алексу и из-за тебя они расстанутся, он вообще тебя может возненавидеть."
     Max_07 "Sì, ma è meglio che cercare di litigare o qualsiasi altra cosa... Se ad Alex piace davvero Olivia e si rompono a causa tuo, può odiarti affatto."
 
-# game/dialogues/lisatalk.rpy:3917
+# game/dialogues/lisatalk.rpy:3915
 translate italian about_boy3_e62a48a2:
 
     # Lisa_11 "Нет, врагов я себе наживать в школе не собираюсь."
     Lisa_11 "No, non ho intenzione di farmi nemici a scuola."
 
-# game/dialogues/lisatalk.rpy:3918
+# game/dialogues/lisatalk.rpy:3916
 translate italian about_boy3_39374c7a:
 
     # Max_04 "Тогда наберись терпения и попробуй подружиться с Оливией. И если всё выйдет, то и об Алексе сможешь узнать всякого... А там и поймёшь, надо ли оно тебе..."
     Max_04 "Allora sii paziente e cerca di fare amicizia con Olivia. E se tutto viene fuori, allora puoi conoscere Alex... E poi vedrai se ne hai bisogno..."
 
-# game/dialogues/lisatalk.rpy:3919
+# game/dialogues/lisatalk.rpy:3917
 translate italian about_boy3_d680efb0:
 
     # Lisa_01 "Значит, так и сделаю. Спасибо за совет, Макс!"
     Lisa_01 "Quindi lo farò. Grazie per il consiglio, Max!"
 
-# game/dialogues/lisatalk.rpy:3920
+# game/dialogues/lisatalk.rpy:3918
 translate italian about_boy3_df1916d7:
 
     # Max_01 "Обращайся, если что... И удачи тебе."
     Max_01 "Contattami semmai... E buona fortuna."
 
-# game/dialogues/lisatalk.rpy:3934
+# game/dialogues/lisatalk.rpy:3932
 translate italian about_olivia_1_09938d5a:
 
     # Lisa_09 "Пока никакого прогресса. Я ещё не знаю, как к ней подступиться и подружиться."
     Lisa_09 "Finora nessun progresso. Non so ancora come avvicinarmi a lei e fare amicizia."
 
-# game/dialogues/lisatalk.rpy:3935
+# game/dialogues/lisatalk.rpy:3933
 translate italian about_olivia_1_7f1defbf:
 
     # Max_09 "Ну а какие у неё вкусы?"
     Max_09 "Beh, quali sono i suoi gusti?"
 
-# game/dialogues/lisatalk.rpy:3936
+# game/dialogues/lisatalk.rpy:3934
 translate italian about_olivia_1_68de12ae:
 
     # Lisa_13 "Кроме Алекса? Не знаю... Она для меня загадка. С одной стороны выглядит скромной девочкой, но парни за ней бегают толпой. И я никак не могу понять почему..."
     Lisa_13 "Tranne Alex? Non lo so... Lei è un mistero per me. Da un lato, sembra una ragazza modesta, ma i ragazzi la inseguono in mezzo alla folla. E non riesco a capire perché..."
 
-# game/dialogues/lisatalk.rpy:3937
+# game/dialogues/lisatalk.rpy:3935
 translate italian about_olivia_1_608ac77f:
 
     # Max_07 "И что, никаких идей?"
     Max_07 "Quindi, nessuna idea?"
 
-# game/dialogues/lisatalk.rpy:3938
+# game/dialogues/lisatalk.rpy:3936
 translate italian about_olivia_1_d85e5631:
 
     # Lisa_00 "Нет... Может быть, что-то посоветуешь?"
     Lisa_00 "No... Forse puoi consigliare qualcosa?"
 
-# game/dialogues/lisatalk.rpy:3939
+# game/dialogues/lisatalk.rpy:3937
 translate italian about_olivia_1_5f89f927:
 
     # Max_01 "Ну, для начала можно выяснить её секрет."
     Max_01 "Bene, prima puoi scoprire il suo segreto."
 
-# game/dialogues/lisatalk.rpy:3940
+# game/dialogues/lisatalk.rpy:3938
 translate italian about_olivia_1_c7d9bcae:
 
     # Lisa_01 "Спасибо, Шерлок! А то я не догадалась... Но как?"
     Lisa_01 "Grazie, Sherlock! A parte quello che non ho indovinato... Ma come?"
 
-# game/dialogues/lisatalk.rpy:3941
+# game/dialogues/lisatalk.rpy:3939
 translate italian about_olivia_1_3e8cb83e:
 
     # Max_02 "Да это же очевидно! Спроси у кого-нибудь..."
     Max_02 "sì, è ovvio! Chiedi a qualcuno..."
 
-# game/dialogues/lisatalk.rpy:3942
+# game/dialogues/lisatalk.rpy:3940
 translate italian about_olivia_1_e2d3ae18:
 
     # Lisa_02 "У кого же? Или ты думаешь мне теперь нужно подружиться с кем-то, кто бегает за Оливией, чтобы узнать её секрет, чтобы подружиться с ней, чтобы... Ну ты понял..."
     Lisa_02 "Chi? O pensi che ora ho bisogno di fare amicizia con qualcuno che corre dietro Olivia per scoprire il suo segreto, per fare amicizia con lei, per... Bene, hai capito..."
 
-# game/dialogues/lisatalk.rpy:3943
+# game/dialogues/lisatalk.rpy:3941
 translate italian about_olivia_1_5151687b:
 
     # Max_04 "Именно! Даже я бы лучше не сказал!"
     Max_04 "Esattamente! Anche io non direi meglio!"
 
-# game/dialogues/lisatalk.rpy:3944
+# game/dialogues/lisatalk.rpy:3942
 translate italian about_olivia_1_be05742b:
 
     # Lisa_01 "Спасибо. Ладно, попробую..."
     Lisa_01 "Grazie. Ok, ci proverò..."
 
-# game/dialogues/lisatalk.rpy:3945
+# game/dialogues/lisatalk.rpy:3943
 translate italian about_olivia_1_e7be6e2a:
 
     # Max_01 "Держи меня в курсе..."
     Max_01 "Tienimi informato..."
 
-# game/dialogues/lisatalk.rpy:3958
+# game/dialogues/lisatalk.rpy:3956
 translate italian about_olivia_2_b5d4852d:
 
     # Lisa_00 "Ага... Только не знаю, как это мне поможет..."
     Lisa_00 "sì... Semplicemente non so come questo mi aiuterà..."
 
-# game/dialogues/lisatalk.rpy:3959
+# game/dialogues/lisatalk.rpy:3957
 translate italian about_olivia_2_45d6f1c7:
 
     # Max_01 "Рассказывай!"
     Max_01 "Dillo!"
 
-# game/dialogues/lisatalk.rpy:3960
+# game/dialogues/lisatalk.rpy:3958
 translate italian about_olivia_2_866da865:
 
     # Lisa_01 "В общем, я подружилась с одним мальчиком, который просто бегает за этой самой Оливией..."
     Lisa_01 "Così ho fatto amicizia con un ragazzo che corre dietro a questa Olivia..."
 
-# game/dialogues/lisatalk.rpy:3961
+# game/dialogues/lisatalk.rpy:3959
 translate italian about_olivia_2_6fab788d:
 
     # Max_07 "Ну и?"
     Max_07 "Bene?"
 
-# game/dialogues/lisatalk.rpy:3962
+# game/dialogues/lisatalk.rpy:3960
 translate italian about_olivia_2_eb0e994e:
 
     # Lisa_09 "Не перебивай. Мальчик этот когда станет взрослым, я уверена, превратится в маньяка. Уж слишком он помешанный на ней... Ну так вот. У Оливии есть одна... фишка, если можно так сказать..."
     Lisa_09 "Non interrompere. Questo ragazzo quando diventerà adulto, ne sono sicuro, si trasformerà in un maniaco. È troppo ossessionato da lei... Bene, ecco fatto. Olivia ne ha uno... chip, se posso dirlo..."
 
-# game/dialogues/lisatalk.rpy:3963
+# game/dialogues/lisatalk.rpy:3961
 translate italian about_olivia_2_86654cb7:
 
     # Max_09 "Да говори уже!"
     Max_09 "Sì, parla già!"
 
-# game/dialogues/lisatalk.rpy:3964
+# game/dialogues/lisatalk.rpy:3962
 translate italian about_olivia_2_26f09c98:
 
     # Lisa_01 "Ты чего такой нервный, Макс? Я же и рассказываю! В общем, Оливия не носит нижнее бельё... Вот. И я думаю, что это бесполезная информация..."
     Lisa_01 "Perché sei così nervoso, Max? Te lo sto dicendo! In generale, Olivia non indossa biancheria intima... Qui. E penso che sia un'informazione inutile..."
 
-# game/dialogues/lisatalk.rpy:3965
+# game/dialogues/lisatalk.rpy:3963
 translate italian about_olivia_2_98c2c9ae:
 
     # Max_02 "Класс! Это всё объясняет..."
     Max_02 "classe! Spiega tutto..."
 
-# game/dialogues/lisatalk.rpy:3966
+# game/dialogues/lisatalk.rpy:3964
 translate italian about_olivia_2_6a089c6b:
 
     # Lisa_10 "В том плане, что теперь ясно, почему все мальчики бегают за Оливией? Ну да... Но что с этим знанием делать?"
     Lisa_10 "Nel senso che ora è chiaro perché tutti i ragazzi stanno correndo dietro Olivia? Pensa così... Ma cosa fare con questa conoscenza?"
 
-# game/dialogues/lisatalk.rpy:3967
+# game/dialogues/lisatalk.rpy:3965
 translate italian about_olivia_2_c559c6ad:
 
     # Max_03 "Это уже повод втянуть Оливию в интересный разговор!"
     Max_03 "Questa è già un'occasione per attirare Olivia in una conversazione interessante!"
 
-# game/dialogues/lisatalk.rpy:3968
+# game/dialogues/lisatalk.rpy:3966
 translate italian about_olivia_2_35067208:
 
     # Lisa_13 "Это как? Типа: \"Оливия, у нас столько общего, я тоже не ношу трусы, давай дружить...\" Так? Глупее идеи не слышала..."
     Lisa_13 "Com'è? Tipo: \"Olivia, abbiamo così tanto in comune, non indosso nemmeno le mutandine, facciamo amicizia...\" Così? Non ho sentito un'idea più stupida..."
 
-# game/dialogues/lisatalk.rpy:3969
+# game/dialogues/lisatalk.rpy:3967
 translate italian about_olivia_2_53126813:
 
     # Max_07 "Подумаешь, немного соврёшь ради дела... Для перестраховки, можешь даже какое-то время не надевать трусики в школу!"
     Max_07 "Pensi, mentirai un po 'per il bene della causa... Per la riassicurazione, puoi anche non indossare mutandine a scuola per un po '!"
 
-# game/dialogues/lisatalk.rpy:3970
+# game/dialogues/lisatalk.rpy:3968
 translate italian about_olivia_2_bb497a79:
 
     # Lisa_12 "Не собираюсь я ходить в школу без трусов! Подозреваю, что ты был бы очень доволен, но нет. Даже не мечтай..."
     Lisa_12 "non andrò a scuola senza mutandine! Sospetto che saresti molto felice, ma no. Non sognare nemmeno..."
 
-# game/dialogues/lisatalk.rpy:3971
+# game/dialogues/lisatalk.rpy:3969
 translate italian about_olivia_2_2558f747:
 
     # Max_04 "Тогда просто поинтересуйся у Оливии, почему она не носит нижнее бельё!"
     Max_04 "Allora basta chiedere a Olivia perché non indossa biancheria intima!"
 
-# game/dialogues/lisatalk.rpy:3972
+# game/dialogues/lisatalk.rpy:3970
 translate italian about_olivia_2_ac090428:
 
     # Lisa_01 "Ну и она ответит что-то из серии \"а я так хочу\"... И что потом?"
     Lisa_01 "Beh, lei risponderà qualcosa della serie \"e lo voglio\"... E poi?"
 
-# game/dialogues/lisatalk.rpy:3973
+# game/dialogues/lisatalk.rpy:3971
 translate italian about_olivia_2_85b1418e:
 
     # Max_02 "А ты спроси. Вдруг разговоритесь..."
     Max_02 "E tu chiedi. Improvvisamente, parla..."
 
-# game/dialogues/lisatalk.rpy:3974
+# game/dialogues/lisatalk.rpy:3972
 translate italian about_olivia_2_d34b3ba8:
 
     # Lisa_00 "Ну ладно. Может и получится... В любом случае, других идей нет. Я попробую спросить."
     Lisa_00 "Va bene. Forse si rivelerà... In ogni caso, non ci sono altre idee. Proverò a chiedere."
 
-# game/dialogues/lisatalk.rpy:3975
+# game/dialogues/lisatalk.rpy:3973
 translate italian about_olivia_2_918d8dea:
 
     # Max_01 "Вот и молодчинка!"
     Max_01 "Questo è tutto!"
 
-# game/dialogues/lisatalk.rpy:3989
+# game/dialogues/lisatalk.rpy:3987
 translate italian about_olivia_3_f08097f2:
 
     # Lisa_02 "Ты же понимаешь, что этот вопрос без контекста звучит очень... странно, да?"
     Lisa_02 "Ti rendi conto che questa domanda senza contesto suona molto... strano, eh?"
 
-# game/dialogues/lisatalk.rpy:3990
+# game/dialogues/lisatalk.rpy:3988
 translate italian about_olivia_3_7f469577:
 
     # Max_02 "Догадываюсь. Ну так как?"
     Max_02 "sto indovinando. E allora come?"
 
-# game/dialogues/lisatalk.rpy:3991
+# game/dialogues/lisatalk.rpy:3989
 translate italian about_olivia_3_6c31e1af:
 
     # Lisa_01 "Ты был прав, эта информация оказалась не такой уж и бесполезной! Оливия была рада поболтать на эту тему и рассказала, что она из семьи натуристов..."
     Lisa_01 "avevi ragione, questa informazione non era così inutile! Olivia è stata felice di chiacchierare su questo argomento e ha detto che proviene da una famiglia di naturisti..."
 
-# game/dialogues/lisatalk.rpy:3992
+# game/dialogues/lisatalk.rpy:3990
 translate italian about_olivia_3_323b6e88:
 
     # Max_09 "Это кто такие?"
     Max_09 "Chi sono?"
 
-# game/dialogues/lisatalk.rpy:3993
+# game/dialogues/lisatalk.rpy:3991
 translate italian about_olivia_3_4158502d:
 
     # Lisa_02 "В общем, они сторонники всего натурального или как-то так. Я не поняла... Но главная особенность в том, что они дома все ходят голые, представляешь!"
     Lisa_02 "In generale, sono sostenitori di tutto ciò che è naturale o qualcosa del genere. Non capivo... Ma la caratteristica principale è che vanno tutti nudi a casa, puoi immaginare!"
 
-# game/dialogues/lisatalk.rpy:3994
+# game/dialogues/lisatalk.rpy:3992
 translate italian about_olivia_3_8f05f23a:
 
     # Max_07 "Обалдеть! А к ним можно в гости?"
     Max_07 "Awdress! E puoi visitarli?"
 
-# game/dialogues/lisatalk.rpy:3995
+# game/dialogues/lisatalk.rpy:3993
 translate italian about_olivia_3_1f949911:
 
     # Lisa_03 "Очень смешно, Макс! Вот придёт к нам в гости и будешь её тут уговаривать раздеться..."
     Lisa_03 "Molto divertente, Max! Qui verrete a trovarci e la convincerete qui a spogliarsi..."
 
-# game/dialogues/lisatalk.rpy:3996
+# game/dialogues/lisatalk.rpy:3994
 translate italian about_olivia_3_de635d4d:
 
     # Max_08 "Да уж..."
     Max_08 "sì..."
 
-# game/dialogues/lisatalk.rpy:3997
+# game/dialogues/lisatalk.rpy:3995
 translate italian about_olivia_3_656601bb:
 
     # Lisa_01 "И по этой причине Оливия не носит нижнее бельё. Говорит, что с радостью разделась бы, если бы её за это не выгнали бы из школы..."
     Lisa_01 "E per questo motivo, Olivia non indossa biancheria intima. Dice che si spoglierebbe volentieri se non fosse stata cacciata da scuola per questo..."
 
-# game/dialogues/lisatalk.rpy:3998
+# game/dialogues/lisatalk.rpy:3996
 translate italian about_olivia_3_90c72700:
 
     # Max_03 "А мне эта Оливия нравится всё больше и больше!"
     Max_03 "E questa Olivia mi piace sempre di più!"
 
-# game/dialogues/lisatalk.rpy:3999
+# game/dialogues/lisatalk.rpy:3997
 translate italian about_olivia_3_a68680de:
 
     # Lisa_09 "Ещё один адепт в её секте объявился! Все вы парни думаете одинаково и только об одном..."
     Lisa_09 "Un altro adepto della sua setta si presentò! Tutti voi ragazzi la pensate allo stesso modo e solo su una cosa..."
 
-# game/dialogues/lisatalk.rpy:4000
+# game/dialogues/lisatalk.rpy:3998
 translate italian about_olivia_3_80dfda46:
 
     # Max_07 "Постой, так вы подружились или как?"
     Max_07 ", è così che siete diventati amici o cosa?"
 
-# game/dialogues/lisatalk.rpy:4001
+# game/dialogues/lisatalk.rpy:3999
 translate italian about_olivia_3_34b22a0e:
 
     # Lisa_01 "Можно и так сказать... В общем, мы разговорились и она рассказала, что живёт тут недалеко, у них тоже большой дом и она больше всего любит воду и солнце..."
     Lisa_01 "Si potrebbe dire così... In generale, abbiamo parlato e mi ha detto che vive qui non lontano, hanno anche una grande casa e lei ama l'acqua e il sole più di tutti..."
 
-# game/dialogues/lisatalk.rpy:4002
+# game/dialogues/lisatalk.rpy:4000
 translate italian about_olivia_3_beb5640a:
 
     # Max_08 "Видимо, бассейн у них тоже есть?"
     Max_08 "A quanto pare hanno anche una piscina?"
 
-# game/dialogues/lisatalk.rpy:4003
+# game/dialogues/lisatalk.rpy:4001
 translate italian about_olivia_3_42500edd:
 
     # Lisa_02 "Есть. И дом, как я поняла, у них очень шикарный. Ну, она не из бедной семьи, мягко говоря..."
     Lisa_02 "è. E la casa, come ho capito, hanno un ambiente molto chic. Beh, non viene da una famiglia povera, per usare un eufemismo..."
 
-# game/dialogues/lisatalk.rpy:4004
+# game/dialogues/lisatalk.rpy:4002
 translate italian about_olivia_3_59d62371:
 
     # Max_09 "Значит, заманить её бассейном не выйдет..."
     Max_09 "Quindi, non sarà ethorging lei con una piscina..."
 
-# game/dialogues/lisatalk.rpy:4005
+# game/dialogues/lisatalk.rpy:4003
 translate italian about_olivia_3_85a04777:
 
     # Lisa_00 "Не совсем так. У них какая-то проблема с их бассейном и там или грибок завёлся или какие-то насекомые, я не поняла, но они уже давно не купаются там, боятся..."
     Lisa_00 "Non esattamente. Hanno qualche tipo di problema con la loro piscina e lì o il fungo è iniziato o alcuni insetti, non ho capito, ma non hanno fatto il bagno lì per molto tempo, hanno paura..."
 
-# game/dialogues/lisatalk.rpy:4006
+# game/dialogues/lisatalk.rpy:4004
 translate italian about_olivia_3_b4cc52d3:
 
     # Max_07 "Так если они богатые, могут починить, почистить, убрать проблемы..."
     Max_07 "Quindi, se sono ricchi, possono risolvere, pulire, ripulire i problemi..."
 
-# game/dialogues/lisatalk.rpy:4007
+# game/dialogues/lisatalk.rpy:4005
 translate italian about_olivia_3_f75860a7:
 
     # Lisa_13 "Ага, только этим обычно её папа занимается, а сейчас он с ними не живёт... Так бассейн у них и пустует... Погоди, а зачем ты её сюда заманивать собрался?"
     Lisa_13 "sì, è quello che fa di solito suo padre, e ora non vive con loro... Quindi la piscina che hanno e vuota... Aspetta, perché hai intenzione di attirarla qui?"
 
-# game/dialogues/lisatalk.rpy:4008
+# game/dialogues/lisatalk.rpy:4006
 translate italian about_olivia_3_e095c9de:
 
     # Max_02 "Одно дело в школе общаться и совсем другое, вместе отдыхать, загорать и плавать!"
     Max_02 "Una cosa a scuola è comunicare e un'altra è rilassarsi insieme, prendere il sole e nuotare!"
 
-# game/dialogues/lisatalk.rpy:4009
+# game/dialogues/lisatalk.rpy:4007
 translate italian about_olivia_3_7fddae8d:
 
     # Lisa_01 "Думаешь, мы так с ней быстрее станем лучшими подругами? Пожалуй... Но ты же это не поэтому предложил?"
     Lisa_01 "Pensi che io e lei saremo migliori amiche più velocemente? Forse... Ma non è per questo che l'hai suggerito?"
 
-# game/dialogues/lisatalk.rpy:4010
+# game/dialogues/lisatalk.rpy:4008
 translate italian about_olivia_3_6fa9b63e:
 
     # Max_07 "А зачем ещё?"
     Max_07 "Perché altrimenti?"
 
-# game/dialogues/lisatalk.rpy:4011
+# game/dialogues/lisatalk.rpy:4009
 translate italian about_olivia_3_9f99955a:
 
     # Lisa_09 "Думается мне, чтобы раздеть мою одноклассницу..."
     Lisa_09 "penso di spogliare il mio compagno di classe..."
 
-# game/dialogues/lisatalk.rpy:4012
+# game/dialogues/lisatalk.rpy:4010
 translate italian about_olivia_3_621616af:
 
     # Max_04 "Знаешь, одно другому не мешает. Да и кто я такой, чтобы запрещать ей раздеваться, если ей так это нравится!"
     Max_04 "Sai, uno non interferisce con l'altro. E chi sono io per proibirle di spogliarsi se le piace così!"
 
-# game/dialogues/lisatalk.rpy:4013
+# game/dialogues/lisatalk.rpy:4011
 translate italian about_olivia_3_1f31ef8e:
 
     # Lisa_02 "Какие вы мальчики озабоченные! Ну да ладно... Я позову её в гости, а ты смотри не спугни мою подружку своим... озабоченным дружком..."
     Lisa_02 "Che ragazzi preoccupati siete! Oh beh... La chiamerò a trovarla, e non sembri spaventare la mia ragazza con la tua... un amico preoccupato..."
 
-# game/dialogues/lisatalk.rpy:4028
+# game/dialogues/lisatalk.rpy:4026
 translate italian about_olivia_4_c448fbc0:
 
     # Lisa_01 "Да, Макс. Она хочет зайти к нам в среду после школы. Заодно и познакомитесь..."
     Lisa_01 "Sì, Max. Vuole venire a trovarci il mercoledì dopo la scuola. Allo stesso tempo e conoscere..."
 
-# game/dialogues/lisatalk.rpy:4030
+# game/dialogues/lisatalk.rpy:4028
 translate italian about_olivia_4_4470ea5e:
 
     # Lisa_01 "Да, Макс. Она зайдёт к нам завтра, после школы. Заодно и познакомитесь..."
     Lisa_01 "Sì, Max. Verrà da noi domani, dopo la scuola. Allo stesso tempo e conoscere..."
 
-# game/dialogues/lisatalk.rpy:4032
+# game/dialogues/lisatalk.rpy:4030
 translate italian about_olivia_4_a459378c:
 
     # Max_04 "Жду не дождусь! Ты ей что-нибудь рассказывала обо мне?"
     Max_04 "'ora! Le hai detto qualcosa di me?"
 
-# game/dialogues/lisatalk.rpy:4033
+# game/dialogues/lisatalk.rpy:4031
 translate italian about_olivia_4_4fc0fc30:
 
     # Lisa_09 "Да, я её предупредила, что у меня есть озабоченный старший брат, который любит бессовестно подглядывать за всей моей семьёй с утра до ночи..."
     Lisa_09 "Sì, l'ho avvertita che ho un fratello maggiore preoccupato a cui piace spiare spudoratamente tutta la mia famiglia dalla mattina alla sera..."
 
-# game/dialogues/lisatalk.rpy:4034
+# game/dialogues/lisatalk.rpy:4032
 translate italian about_olivia_4_d1ba4cae:
 
     # Max_10 "Серьёзно?!"
     Max_10 "Serio?!"
 
-# game/dialogues/lisatalk.rpy:4035
+# game/dialogues/lisatalk.rpy:4033
 translate italian about_olivia_4_b72aae7f:
 
     # Lisa_02 "Нет, конечно! Мы же не хотим её спугнуть, верно? Так что, она знает, что у меня есть старший брат, ну и так, по мелочи..."
     Lisa_02 "Certo che no! Non vogliamo spaventarla, giusto? Quindi, sa che ho un fratello maggiore, e così, per le piccole cose..."
 
-# game/dialogues/lisatalk.rpy:4036
+# game/dialogues/lisatalk.rpy:4034
 translate italian about_olivia_4_a30b0cf3:
 
     # Max_08 "Фух... Тогда ладно..."
     Max_08 "Phew... Allora va bene..."
 
-# game/dialogues/lisatalk.rpy:4037
+# game/dialogues/lisatalk.rpy:4035
 translate italian about_olivia_4_4c7266a2:
 
     # Lisa_10 "Макс, только постарайся сильно нам не мешать, ладно?"
     Lisa_10 "Max, cerca solo di non disturbarci molto, ok?"
 
-# game/dialogues/lisatalk.rpy:4038
+# game/dialogues/lisatalk.rpy:4036
 translate italian about_olivia_4_2ce73bef:
 
     # Max_03 "Не волнуйся. Если я к вам и пристану, то только чтобы вас сплотить."
     Max_03 "Non preoccuparti. Se ho intenzione di arrivare a te, è solo per radunarti."
 
-# game/dialogues/lisatalk.rpy:4039
+# game/dialogues/lisatalk.rpy:4037
 translate italian about_olivia_4_b0a16a19:
 
     # Lisa_01 "Спасибо, надеюсь так и будет..."
     Lisa_01 "Grazie, lo spero..."
 
-# game/dialogues/lisatalk.rpy:4040
+# game/dialogues/lisatalk.rpy:4038
 translate italian about_olivia_4_b9e478cb:
 
     # Max_01 "Конечно."
     Max_01 "Certo."
 
-# game/dialogues/lisatalk.rpy:4057
+# game/dialogues/lisatalk.rpy:4055
 translate italian about_alex1_87ddea69:
 
     # Lisa_00 "Макс, подожди минутку..."
     Lisa_00 "Max, aspetta un attimo..."
 
-# game/dialogues/lisatalk.rpy:4058
+# game/dialogues/lisatalk.rpy:4056
 translate italian about_alex1_0385244c:
 
     # Max_00 "Да, Лиза, что такое?"
     Max_00 "sì, Lisa, che cos'è?"
 
-# game/dialogues/lisatalk.rpy:4059
+# game/dialogues/lisatalk.rpy:4057
 translate italian about_alex1_0bdd87ff:
 
     # Lisa_10 "Мне нужен совет по мальчикам..."
     Lisa_10 "ho bisogno di consigli sui ragazzi..."
 
-# game/dialogues/lisatalk.rpy:4060
+# game/dialogues/lisatalk.rpy:4058
 translate italian about_alex1_a0da8d94:
 
     # Max_01 "Какой именно?"
     Max_01 "Quale?"
 
-# game/dialogues/lisatalk.rpy:4064
+# game/dialogues/lisatalk.rpy:4062
 translate italian about_alex1_72e38670:
 
     # Lisa_01 "Со мной Алекс начал неожиданно общаться... И это не просто милые беседы. Он ещё и флиртует со мной! Как это понимать?"
     Lisa_01 "Alex ha iniziato a parlarmi inaspettatamente... E non si tratta solo di conversazioni carine. Sta anche flirtando con me! Come lo capisci?"
 
-# game/dialogues/lisatalk.rpy:4065
+# game/dialogues/lisatalk.rpy:4063
 translate italian about_alex1_fa8280eb:
 
     # Max_07 "Как есть, ты ему нравишься. Разве не ясно."
     Max_07 "Così com'è, gli piazioni. Non è così chiaro."
 
-# game/dialogues/lisatalk.rpy:4066
+# game/dialogues/lisatalk.rpy:4064
 translate italian about_alex1_ad1c6ecf:
 
     # Lisa_11 "Но он же с Оливией встречается! Может, у них всё плохо в отношениях и потому он так делает?"
     Lisa_11 "Ma sta uscendo con Olivia! Forse stanno andando male nella relazione ed è per questo che lo fa?"
 
-# game/dialogues/lisatalk.rpy:4067
+# game/dialogues/lisatalk.rpy:4065
 translate italian about_alex1_79e9bcc3:
 
     # Max_09 "Не обязательно. Поинтересуйся у Оливии, как у них дела. Если всё нормально, то значит ему мало одной девчонки."
     Max_09 "Non necessariamente. Chiedi a Olivia come stanno. Se tutto è normale, allora significa che una ragazza non è abbastanza per lui."
 
-# game/dialogues/lisatalk.rpy:4068
+# game/dialogues/lisatalk.rpy:4066
 translate italian about_alex1_341e365c:
 
     # Lisa_00 "Точно, узнаю у неё. Но я не заметила, чтобы она была расстроенной в последнее время. Не думала, что Алекс такой..."
     Lisa_00 "Esattamente, lo scoprirò da lei. Ma non ho notato che ultimamente era stata sconvolta. Non pensavo che Alex fosse così..."
 
-# game/dialogues/lisatalk.rpy:4072
+# game/dialogues/lisatalk.rpy:4070
 translate italian about_alex1_d8a7e7aa:
 
     # Max_04 "Ты же помнишь, что мы всю эту дружбу с Оливией затевали именно для того, чтобы это выяснить."
     Max_04 "Ti ricordi che abbiamo iniziato tutta questa amicizia con Olivia per scoprirlo."
 
-# game/dialogues/lisatalk.rpy:4073
+# game/dialogues/lisatalk.rpy:4071
 translate italian about_alex1_571c943d:
 
     # Lisa_09 "Да. Странное какое-то чувство получается. Мне с одной стороны нравится, что он обратил на меня внимание, но в целом, вся эта ситуация затронет рано или поздно Оливию. А она моя подруга."
     Lisa_09 "sì. È una strana sensazione. Da un lato, mi piace che mi abbia prestato attenzione, ma in generale, tutta questa situazione prima o poi influenzerà Olivia. E lei è mia amica."
 
-# game/dialogues/lisatalk.rpy:4074
+# game/dialogues/lisatalk.rpy:4072
 translate italian about_alex1_c999994e:
 
     # Max_07 "Главное - разговаривай с Оливией, чтобы знать, что да как, а не додумывай сама."
     Max_07 "La cosa principale è parlare con Olivia per sapere cosa fare e non pensarci da soli."
 
-# game/dialogues/lisatalk.rpy:4075
+# game/dialogues/lisatalk.rpy:4073
 translate italian about_alex1_be978336:
 
     # Lisa_01 "Ладно, так и сделаю. Спасибо!"
     Lisa_01 "Ok, lo farò. Grazie!"
 
-# game/dialogues/lisatalk.rpy:4092
+# game/dialogues/lisatalk.rpy:4090
 translate italian about_alex2_22b03aac:
 
     # Lisa_00 "Макс, у меня есть кое-какие новости..."
     Lisa_00 "Max, ho qualche notizia..."
 
-# game/dialogues/lisatalk.rpy:4093
+# game/dialogues/lisatalk.rpy:4091
 translate italian about_alex2_6b2a7d27:
 
     # Max_00 "Да, Лиза, я слушаю..."
     Max_00 "Sì, Lisa, sto ascoltando..."
 
-# game/dialogues/lisatalk.rpy:4094
+# game/dialogues/lisatalk.rpy:4092
 translate italian about_alex2_745eaea4:
 
     # Lisa_09 "Оливия сегодня не придёт. Они с Алексом куда-то пошли вдвоём."
     Lisa_09 "Olivia non verrà oggi. Lei e Alex sono andati da qualche parte insieme."
 
-# game/dialogues/lisatalk.rpy:4095
+# game/dialogues/lisatalk.rpy:4093
 translate italian about_alex2_c55850b0:
 
     # Max_07 "Жалко. Но раз они куда-то вместе пошли, а Алекс перед этим с тобой флиртовал, то выходит он не прочь сразу с двумя девчонками мутить."
     Max_07 "dispiace. Ma dal momento che sono andati da qualche parte insieme, e Alex ha flirtato con te prima, allora esce non contrario a confondere con due ragazze contemporaneamente."
 
-# game/dialogues/lisatalk.rpy:4099
+# game/dialogues/lisatalk.rpy:4097
 translate italian about_alex2_ad3ef63a:
 
     # Lisa_01 "Может, он просто так со мной флиртовал? Мальчики флиртуют просто так?"
     Lisa_01 "Forse ha solo flirtato con me? I ragazzi flirtano proprio così?"
 
-# game/dialogues/lisatalk.rpy:4100
+# game/dialogues/lisatalk.rpy:4098
 translate italian about_alex2_86884ea1:
 
     # Max_09 "Нет. Это означает, что он очень хочет залезть к тебе в трусики."
     Max_09 "No. Ciò significa che vuole davvero entrare nelle tue mutandine."
 
-# game/dialogues/lisatalk.rpy:4101
+# game/dialogues/lisatalk.rpy:4099
 translate italian about_alex2_2e2d5d08:
 
     # Lisa_13 "Какие же вы... мальчишки! У вас только одно на уме... Как думаешь, я должна рассказать об этом Оливии или лучше не надо?"
     Lisa_13 "Cosa sei... Ragazzi! Hai solo una cosa in mente... Pensi che dovrei dirlo a Olivia o meglio no?"
 
-# game/dialogues/lisatalk.rpy:4102
+# game/dialogues/lisatalk.rpy:4100
 translate italian about_alex2_2278df43:
 
     # Max_08 "Хороший вопрос. Понятия не имею, как она на это отреагирует. Однозначно кому-то прилетит... Может, Алексу... может, тебе... А может и вам обоим."
     Max_08 "Bella domanda. Non ho idea di come reagirà. Sicuramente qualcuno volerà... Forse Alex... forse tu... O forse entrambi."
 
-# game/dialogues/lisatalk.rpy:4103
+# game/dialogues/lisatalk.rpy:4101
 translate italian about_alex2_92ef6f12:
 
     # Lisa_10 "Вот и я не знаю. А дожидаться момента, когда она нас на этом поймает, мне тоже не хочется, потому что в этом случае уже точно прилетит и мне и ему."
     Lisa_10 "non lo so. E non voglio aspettare il momento in cui ci troverà nemmeno su questo, perché in questo caso verrà sicuramente da me e da lui."
 
-# game/dialogues/lisatalk.rpy:4104
+# game/dialogues/lisatalk.rpy:4102
 translate italian about_alex2_1eb82239:
 
     # Max_07 "Кстати, когда мы лежали и загорали в последний раз, Оливия сказала мне, что Алекс как-то иначе стал к ней относиться, после того, как узнал, что у них финансовые проблемы в семье."
     Max_07 "A proposito, quando ci siamo sdraiati e abbiamo preso il sole l'ultima volta, Olivia mi ha detto che Alex in qualche modo ha iniziato a trattarla in modo diverso, dopo aver scoperto che avevano problemi finanziari in famiglia."
 
-# game/dialogues/lisatalk.rpy:4105
+# game/dialogues/lisatalk.rpy:4103
 translate italian about_alex2_390de030:
 
     # Lisa_09 "Иначе - это как?"
     Lisa_09 "Altrimenti, com'è?"
 
-# game/dialogues/lisatalk.rpy:4106
+# game/dialogues/lisatalk.rpy:4104
 translate italian about_alex2_ea2d047b:
 
     # Max_09 "Вот это уже сама у неё выясни. А когда она ему рассказала про то, какой у нас шикарный дом, он сразу же тобой заинтересовался. Совпадением это не назовёшь!"
     Max_09 "Scoprilo lei stessa. E quando lei gli ha parlato di che bella casa abbiamo, si è immediatamente interessato a te. Non si può definire una coincidenza!"
 
-# game/dialogues/lisatalk.rpy:4110
+# game/dialogues/lisatalk.rpy:4108
 translate italian about_alex2_004f1ccf:
 
     # Lisa_13 "Как же это всё мерзко... И чем дальше, тем всё больше и больше! Что мне теперь делать?"
     Lisa_13 "Quanto è disgustoso tutto questo... E più lontano, più e più! Cosa devo fare ora?"
 
-# game/dialogues/lisatalk.rpy:4111
+# game/dialogues/lisatalk.rpy:4109
 translate italian about_alex2_963b3463:
 
     # Max_00 "Просто игнорируй Алекса, насколько это будет возможно. Возможно, он успокоится."
     Max_00 "Basta ignorare Alex il più possibile. Forse si calmerà."
 
-# game/dialogues/lisatalk.rpy:4112
+# game/dialogues/lisatalk.rpy:4110
 translate italian about_alex2_8df4f381:
 
     # Lisa_00 "А если нет?"
     Lisa_00 "E se no?"
 
-# game/dialogues/lisatalk.rpy:4113
+# game/dialogues/lisatalk.rpy:4111
 translate italian about_alex2_935f1ec4:
 
     # Max_10 "Тогда уже волей-неволей нужно будет рассказать всё Оливии."
     Max_10 "Allora volenti o nolenti dovrai dire tutto a Olivia."
 
-# game/dialogues/lisatalk.rpy:4114
+# game/dialogues/lisatalk.rpy:4112
 translate italian about_alex2_c13ccf66:
 
     # Lisa_10 "Ой, как не хочется..."
     Lisa_10 "Oh, come non voglio..."
 
-# game/dialogues/lisatalk.rpy:4115
+# game/dialogues/lisatalk.rpy:4113
 translate italian about_alex2_22f808e5:
 
     # Max_08 "Понимаю. Надеюсь, всё разрешится само собой."
     Max_08 "capire. Spero che tutto si risolva da solo."
 
-# game/dialogues/lisatalk.rpy:4116
+# game/dialogues/lisatalk.rpy:4114
 translate italian about_alex2_17745da3:
 
     # Lisa_09 "Я тоже надеюсь."
     Lisa_09 "lo spero anche io."
 
-# game/dialogues/lisatalk.rpy:4135
+# game/dialogues/lisatalk.rpy:4133
 translate italian about_alex3_d9d24dbb:
 
     # Lisa_00 "Макс, мне нужно с тобой поговорить..."
     Lisa_00 "Max, ho bisogno di parlare con te..."
 
-# game/dialogues/lisatalk.rpy:4136
+# game/dialogues/lisatalk.rpy:4134
 translate italian about_alex3_d6ba9862:
 
     # Max_00 "Я весь во внимании."
     Max_00 "sono tutto nell'attenzione."
 
-# game/dialogues/lisatalk.rpy:4137
+# game/dialogues/lisatalk.rpy:4135
 translate italian about_alex3_c8131ae6:
 
     # Lisa_09 "У меня такая ситуация непростая случилась... И я хотела с тобой посоветоваться."
     Lisa_09 "ho una situazione così difficile è successo... E volevo consultarmi con voi."
 
-# game/dialogues/lisatalk.rpy:4138
+# game/dialogues/lisatalk.rpy:4136
 translate italian about_alex3_8cc68503:
 
     # Max_07 "Так давай рассказывай!"
     Max_07 "Allora parliamone!"
 
-# game/dialogues/lisatalk.rpy:4142
+# game/dialogues/lisatalk.rpy:4140
 translate italian about_alex3_59d3595f:
 
     # Lisa_10 "Мне Алекс предложил встречаться... И я не знаю, что делать..."
     Lisa_10 "Alex mi ha offerto di uscire... E non so cosa fare..."
 
-# game/dialogues/lisatalk.rpy:4143
+# game/dialogues/lisatalk.rpy:4141
 translate italian about_alex3_4a18f465:
 
     # Max_09 "По-моему, всё просто... Ты либо соглашаешься, либо нет."
     Max_09 "penso che sia semplice... O sei d'accordo o non lo fai."
 
-# game/dialogues/lisatalk.rpy:4144
+# game/dialogues/lisatalk.rpy:4142
 translate italian about_alex3_8b30592e:
 
     # Lisa_13 "Вот только они с Оливией ещё не расстались, а он уже ко мне подкатывает, представляешь! Так же нельзя!"
     Lisa_13 "Questo è solo che lui e Olivia non si sono ancora lasciati, e lui si sta già arrotolando verso di me, puoi immaginare! Neanche tu puoi!"
 
-# game/dialogues/lisatalk.rpy:4145
+# game/dialogues/lisatalk.rpy:4143
 translate italian about_alex3_8ebc6de5:
 
     # Max_08 "Он, видимо, считает, что можно."
     Max_08 "A quanto pare pensa di poterlo fare."
 
-# game/dialogues/lisatalk.rpy:4146
+# game/dialogues/lisatalk.rpy:4144
 translate italian about_alex3_0bf46321:
 
     # Lisa_10 "И что мне делать? Я этого очень хотела... но не так же... Если я соглашусь, то Оливия меня точно возненавидит! А она классная, мне нравится с ней дружить."
     Lisa_10 "E cosa devo fare? Lo volevo davvero... ma non allo stesso modo... Se sono d'accordo, Olivia mi odierà! Ed è fantastica, mi piace essere sua amica."
 
-# game/dialogues/lisatalk.rpy:4147
+# game/dialogues/lisatalk.rpy:4145
 translate italian about_alex3_0f41d7ee:
 
     # Max_07 "Да, Оливия прикольная девчонка. Здесь не поспоришь. А вот этот ваш Алекс..."
     Max_07 "sì, Olivia è una ragazza fantastica. Non si può discutere con questo. E questo dei tuoi Alex..."
 
-# game/dialogues/lisatalk.rpy:4148
+# game/dialogues/lisatalk.rpy:4146
 translate italian about_alex3_ccafc63a:
 
     # Lisa_09 "Вот я и задумалась... Я сейчас потеряю Оливию, а потом меня таким же образом Алекс променяет на кого-нибудь. И в итоге я вообще всех потеряю..."
     Lisa_09 "Così ho pensato... Ora perderò Olivia, e poi Alex mi scambierà per qualcuno allo stesso modo. E alla fine, perderò tutti..."
 
-# game/dialogues/lisatalk.rpy:4149
+# game/dialogues/lisatalk.rpy:4147
 translate italian about_alex3_25de9ad9:
 
     # Max_03 "Меня ты точно не потеряешь! Я всегда буду с тобой, сестрёнка."
     Max_03 "sicuramente non mi perderai! Sarò sempre con te, sorella."
 
-# game/dialogues/lisatalk.rpy:4153
+# game/dialogues/lisatalk.rpy:4151
 translate italian about_alex3_e4eda9e8:
 
     # Lisa_01 "Спасибо, Макс. Но вот с Алексом-то что делать?"
     Lisa_01 "Grazie, Max. Ma cosa fare con Alex?"
 
-# game/dialogues/lisatalk.rpy:4154
+# game/dialogues/lisatalk.rpy:4152
 translate italian about_alex3_bebc38fc:
 
     # Max_07 "Ну, ты же сама всё прекрасно описала. Я, конечно, поддержу любое твоё решение, но с Оливией лучше так не поступать."
     Max_07 "Beh, hai descritto tutto perfettamente. Sosterrei sicuramente qualsiasi tua decisione, ma con Olivia è meglio non farlo."
 
-# game/dialogues/lisatalk.rpy:4155
+# game/dialogues/lisatalk.rpy:4153
 translate italian about_alex3_b7ed45ec:
 
     # Lisa_00 "Тогда можно тебя попросить, завтра не мешать нам с Оливией. Я ей наедине попробую как-то рассказать всё это..."
     Lisa_00 "Allora posso chiederti, domani non interferire con me e Olivia. Cercherò di raccontarle tutto questo in privato..."
 
-# game/dialogues/lisatalk.rpy:4156
+# game/dialogues/lisatalk.rpy:4154
 translate italian about_alex3_f7d9992c:
 
     # Max_04 "Хорошо. А пока отвлекись чем-нибудь. Правильные мысли придут с утра."
     Max_04 "Va bene. Nel frattempo, digressione. I pensieri giusti arriveranno al mattino."
 
-# game/dialogues/lisatalk.rpy:4157
+# game/dialogues/lisatalk.rpy:4155
 translate italian about_alex3_28233916:
 
     # Lisa_02 "Да, ты прав. Утро вечера мудренее..."
     Lisa_02 "Sì, hai ragione. La mattina della sera è più saggia..."
 
-# game/dialogues/lisatalk.rpy:4158
+# game/dialogues/lisatalk.rpy:4156
 translate italian about_alex3_da5da429:
 
     # Max_01 "А то!"
     Max_01 "E poi!"
 
-# game/dialogues/lisatalk.rpy:4168
+# game/dialogues/lisatalk.rpy:4166
 translate italian about_alex4_0860399b:
 
     # Lisa_09 "Не совсем. Я пока подготавливаю почву для этого... Но я расскажу. Обязательно."
     Lisa_09 "Non proprio. Sto ancora preparando il terreno per questo... Ma te lo dirò. Sicuro."
 
-# game/dialogues/lisatalk.rpy:4169
+# game/dialogues/lisatalk.rpy:4167
 translate italian about_alex4_ddac2765:
 
     # Max_07 "Ладно. Успехов тебе."
     Max_07 "Va bene. Buona Fortuna."
 
-# game/dialogues/lisatalk.rpy:4182
+# game/dialogues/lisatalk.rpy:4180
 translate italian about_horror_toples_41628922:
 
     # Lisa_01 "Конечно! И я очень благодарна. Надеюсь, это не сильно сказывается на твоих отношениях с мамой?"
     Lisa_01 "Certo! E sono molto grato. Spero che non influenzi troppo il tuo rapporto con tua madre?"
 
-# game/dialogues/lisatalk.rpy:4183
+# game/dialogues/lisatalk.rpy:4181
 translate italian about_horror_toples_256f7f17:
 
     # Max_07 "Нет, но я спасаю тебя от унижения перед всей семьёй, а в ответ только одно лишь \"спасибо\"."
     Max_07 "No, ma ti salvo dall'umiliazione davanti a tutta la famiglia, e in risposta solo un \"grazie\"."
 
-# game/dialogues/lisatalk.rpy:4184
+# game/dialogues/lisatalk.rpy:4182
 translate italian about_horror_toples_6ae67ce0:
 
     # Lisa_02 "Могу ещё в щёчку чмокнуть..."
     Lisa_02 "posso ancora bagnarmi sulla guancia..."
 
-# game/dialogues/lisatalk.rpy:4185
+# game/dialogues/lisatalk.rpy:4183
 translate italian about_horror_toples_578a31c7:
 
     # Max_04 "У меня идейка получше. Чтобы у меня был стимул спорить с мамой за сохранность твоей попки и дальше, мы будем смотреть ужастики без маек!"
     Max_04 "ho un'idea migliore. Per avere un incentivo a discutere con mia madre per la sicurezza del tuo e via, guarderemo film horror senza magliette!"
 
-# game/dialogues/lisatalk.rpy:4186
+# game/dialogues/lisatalk.rpy:4184
 translate italian about_horror_toples_9559e606:
 
     # Lisa_00 "Подожди... Ты же и так их смотришь в одних трусах!"
     Lisa_00 "Aspetta... Li guardi già con gli stessi pantaloncini!"
 
-# game/dialogues/lisatalk.rpy:4187
+# game/dialogues/lisatalk.rpy:4185
 translate italian about_horror_toples_881f1ee2:
 
     # Max_02 "Точно! Дело осталось за тобой."
     Max_02 "Esattamente! Sta a te."
 
-# game/dialogues/lisatalk.rpy:4188
+# game/dialogues/lisatalk.rpy:4186
 translate italian about_horror_toples_0e688fc3:
 
     # Lisa_11 "Хочешь, чтобы я смотрела их в одних трусиках?! Это уже совсем не тянет на твоё наказание! Скорее наоборот..."
     Lisa_11 "Vuoi che li guardi nelle mie mutandine?! Non trascina affatto la tua punizione! Piuttosto..."
 
-# game/dialogues/lisatalk.rpy:4189
+# game/dialogues/lisatalk.rpy:4187
 translate italian about_horror_toples_7e32ecd8:
 
     # Max_09 "Тогда мне не очень интересно тебя защищать от мамы. Тем более, что наказание ты всегда заслуживаешь."
     Max_09 "Allora non sono molto interessato a proteggerti da tua madre. Inoltre, meriti sempre la punizione."
 
-# game/dialogues/lisatalk.rpy:4190
+# game/dialogues/lisatalk.rpy:4188
 translate italian about_horror_toples_8842e189:
 
     # Lisa_09 "Ты же возбудишься сразу! Что я тебя, не знаю что ли!"
     Lisa_09 "Ti entusiasmerai subito! Non so cosa sei tu!"
 
-# game/dialogues/lisatalk.rpy:4191
+# game/dialogues/lisatalk.rpy:4189
 translate italian about_horror_toples_6ce6ffc4:
 
     # Max_07 "Я думал, тебя это уже не особо смущает?"
     Max_07 "pensavo che non ne fossi più particolarmente imbarazzato?"
 
-# game/dialogues/lisatalk.rpy:4192
+# game/dialogues/lisatalk.rpy:4190
 translate italian about_horror_toples_214dcb00:
 
     # Lisa_10 "Так ведь ты же начнёшь постоянно подглядывать за мной в душе, чтобы как можно чаще смотреть ужастики! Так не пойдёт!"
     Lisa_10 "Quindi inizierai a sbirciare verso di me sotto la doccia per guardare film horror il più spesso possibile! Non andrà così!"
 
-# game/dialogues/lisatalk.rpy:4193
+# game/dialogues/lisatalk.rpy:4191
 translate italian about_horror_toples_11071bb4:
 
     # Max_03 "Мы можем установить лимит, например, не чаще трёх раз в неделю."
     Max_03 "Possiamo impostare un limite, ad esempio, non più di tre volte a settimana."
 
-# game/dialogues/lisatalk.rpy:4194
+# game/dialogues/lisatalk.rpy:4192
 translate italian about_horror_toples_5ef819ff:
 
     # Lisa_13 "Трёх?! Вот ты разбежался! Одного раза будет предостаточно."
     Lisa_13 "Tre?! Ecco qua! Una volta sarà sufficiente."
 
-# game/dialogues/lisatalk.rpy:4195
+# game/dialogues/lisatalk.rpy:4193
 translate italian about_horror_toples_d4345730:
 
     # Max_04 "Два. Давай, два!"
     Max_04 "Due. Dai, due!"
 
-# game/dialogues/lisatalk.rpy:4196
+# game/dialogues/lisatalk.rpy:4194
 translate italian about_horror_toples_70f11476:
 
     # Lisa_02 "Ну ладно, два. И только рискни попасться мне в третий раз! Я сразу же надену её обратно и не буду снимать неделю при тебе. А лучше две недели!"
     Lisa_02 "Va bene, due. E osa prendermi una terza volta! Lo rimetterò subito e non mi prenderò una settimana di pausa con te. O meglio due settimane!"
 
-# game/dialogues/lisatalk.rpy:4197
+# game/dialogues/lisatalk.rpy:4195
 translate italian about_horror_toples_a26f9157:
 
     # Max_07 "Справедливо. Не поспоришь."
     Max_07 "Fiera. Non si può discutere."
 
-# game/dialogues/lisatalk.rpy:4198
+# game/dialogues/lisatalk.rpy:4196
 translate italian about_horror_toples_6dc8f68b:
 
     # Lisa_05 "Но это только, если будешь меня защищать. Провальные попытки не считаются! Понял?"
     Lisa_05 "Ma questo è solo se mi proteggi. I tentativi falliti non contano! Ho capito?"
 
-# game/dialogues/lisatalk.rpy:4199
+# game/dialogues/lisatalk.rpy:4197
 translate italian about_horror_toples_9b836c58:
 
     # Max_04 "Конечно!"
     Max_04 "Certo!"
 
-# game/dialogues/lisatalk.rpy:4200
+# game/dialogues/lisatalk.rpy:4198
 translate italian about_horror_toples_ddaf895d:
 
     # Lisa_01 "Извращенец ты."
     Lisa_01 "sei un pervertito."
 
-# game/dialogues/lisatalk.rpy:4201
+# game/dialogues/lisatalk.rpy:4199
 translate italian about_horror_toples_0c050606:
 
     # Max_01 "Сама-то."
     Max_01 "se stessa."
 
-# game/dialogues/lisatalk.rpy:4214
+# game/dialogues/lisatalk.rpy:4212
 translate italian Lisa_wear_Tshirt_dcb327ce:
 
     # Lisa_09 "Вот и всё, Макс... Теперь в течение недели можешь и не надеяться увидеть меня без майки! Рад, что меня наказали?"
     Lisa_09 "Questo è tutto, Max... Ora durante la settimana non puoi sperare di vedermi senza una maglietta! Contento di essere stato punito?"
 
-# game/dialogues/lisatalk.rpy:4216
+# game/dialogues/lisatalk.rpy:4214
 translate italian Lisa_wear_Tshirt_e4f37387:
 
     # Lisa_09 "Вот и всё, Макс... Теперь в ближайшие две недели можешь и не надеяться увидеть меня без майки! Рад, что меня наказали?"
     Lisa_09 "Questo è tutto, Max... Ora nelle prossime due settimane non potete sperare di vedermi senza camicia! Contento di essere stato punito?"
 
-# game/dialogues/lisatalk.rpy:4217
+# game/dialogues/lisatalk.rpy:4215
 translate italian Lisa_wear_Tshirt_4adb73b5:
 
     # Max_10 "Конечно, нет!"
     Max_10 "Certo che no!"
 
-# game/dialogues/lisatalk.rpy:4220
+# game/dialogues/lisatalk.rpy:4218
 translate italian Lisa_wear_Tshirt_84065ed2:
 
     # Lisa_13 "Может, в следующий раз, ты будешь хоть немного поубедительнее меня защищать..."
     Lisa_13 "Forse la prossima volta sarai un po' più vigile nel difendermi..."
 
-# game/dialogues/lisatalk.rpy:4221
+# game/dialogues/lisatalk.rpy:4219
 translate italian Lisa_wear_Tshirt_029fd40e:
 
     # Max_08 "Можешь даже не сомневаться."
     Max_08 "Non puoi nemmeno dubitarne."
 
-# game/dialogues/lisatalk.rpy:4224
+# game/dialogues/lisatalk.rpy:4222
 translate italian Lisa_wear_Tshirt_8c6e0082:
 
     # Lisa_12 "Может, в следующий раз, ты хоть что-то сделаешь, а не просто тихо отсидишься..."
     Lisa_12 "Forse la prossima volta, almeno farai qualcosa, e non solo sederti tranquillamente..."
 
-# game/dialogues/lisatalk.rpy:4225
+# game/dialogues/lisatalk.rpy:4223
 translate italian Lisa_wear_Tshirt_7a250a36:
 
     # Max_08 "Так и сделаю. В смысле, сделаю..."
     Max_08 "lo farò. Voglio dire, lo farò..."
 
-# game/dialogues/lisatalk.rpy:4240
+# game/dialogues/lisatalk.rpy:4238
 translate italian lisa_about_ae_sexed5_2c0f5a0f:
 
     # Lisa_00 "Макс, ты можешь ненадолго задержаться? Надо поговорить..."
     Lisa_00 "Max, puoi rimanere un po'? Abbiamo bisogno di parlare..."
 
-# game/dialogues/lisatalk.rpy:4241
+# game/dialogues/lisatalk.rpy:4239
 translate italian lisa_about_ae_sexed5_57a76181:
 
     # Max_00 "Конечно, могу. О чём?"
     Max_00 "Certo che posso. Di cosa?"
 
-# game/dialogues/lisatalk.rpy:4242
+# game/dialogues/lisatalk.rpy:4240
 translate italian lisa_about_ae_sexed5_ed64e67d:
 
     # Lisa_09 "Ну... О тех уроках сексуального воспитания, которые для меня устроили мама с Эриком..."
     Lisa_09 "Beh... A proposito di quelle lezioni di educazione sessuale che mia madre ed Eric hanno organizzato per me ..."
 
-# game/dialogues/lisatalk.rpy:4243
+# game/dialogues/lisatalk.rpy:4241
 translate italian lisa_about_ae_sexed5_4c53f0f6:
 
     # Max_07 "Что-то не так?"
     Max_07 "C'è qualcosa che non va?"
 
-# game/dialogues/lisatalk.rpy:4248
+# game/dialogues/lisatalk.rpy:4246
 translate italian lisa_about_ae_sexed5_e04657de:
 
     # Lisa_01 "В общем, я хотела бы, чтобы по понедельникам, после ужина, ты теперь где-нибудь \"погулял\"... минимум полчасика."
     Lisa_01 "In generale, mi piacerebbe vederti fare una passeggiata da qualche parte il lunedì, dopo cena... almeno mezz'ora."
 
-# game/dialogues/lisatalk.rpy:4249
+# game/dialogues/lisatalk.rpy:4247
 translate italian lisa_about_ae_sexed5_cb28e33b:
 
     # Max_09 "Это ещё зачем?"
     Max_09 "Perché altrimenti?"
 
-# game/dialogues/lisatalk.rpy:4254
+# game/dialogues/lisatalk.rpy:4252
 translate italian lisa_about_ae_sexed5_da98adae:
 
     # Lisa_00 "А затем, что эти уроки продолжатся в нашей с тобой комнате, Макс."
     Lisa_00 "E poi che queste lezioni continueranno nella nostra stanza con te, Max."
 
-# game/dialogues/lisatalk.rpy:4255
+# game/dialogues/lisatalk.rpy:4253
 translate italian lisa_about_ae_sexed5_ca534ea4:
 
     # Max_08 "И что? Почему я должен из-за этого покидать свою комнату?"
     Max_08 "E allora? Perché dovrei lasciare la mia stanza a causa di questo?"
 
-# game/dialogues/lisatalk.rpy:4256
+# game/dialogues/lisatalk.rpy:4254
 translate italian lisa_about_ae_sexed5_4de98efd:
 
     # Lisa_02 "Потому что ты там будешь лишним! Было бы неплохо, если бы ты в это время помыл за меня посуду. Я тебе за это только спасибо скажу."
     Lisa_02 "Perché lì sarai superfluo! Sarebbe bello se lavassi i piatti per me in questo momento. Ti ringrazierò solo per questo."
 
-# game/dialogues/lisatalk.rpy:4257
+# game/dialogues/lisatalk.rpy:4255
 translate italian lisa_about_ae_sexed5_f38fb4b4:
 
     # Max_07 "Помою, не вопрос... А почему эти уроки с Эриком будут проходить у нас в комнате, а не как раньше в маминой?"
     Max_07 ", non c'è dubbio... E perché queste lezioni con Eric si terranno nella nostra stanza, e non come prima nella stanza di mia madre?"
 
-# game/dialogues/lisatalk.rpy:4258
+# game/dialogues/lisatalk.rpy:4256
 translate italian lisa_about_ae_sexed5_daa04159:
 
     # Lisa_10 "Потому что мама не хочет учить меня большему, а я хочу..."
     Lisa_10 "Perché mia madre non vuole insegnarmi di più, e io voglio..."
 
-# game/dialogues/lisatalk.rpy:4263
+# game/dialogues/lisatalk.rpy:4261
 translate italian lisa_about_ae_sexed5_40774e99:
 
     # Max_09 "И Эрик, видимо, вызвался тебе помочь с этим, да?"
     Max_09 "Ed Eric apparentemente si è offerto volontario per aiutarti in questo, giusto?"
 
-# game/dialogues/lisatalk.rpy:4264
+# game/dialogues/lisatalk.rpy:4262
 translate italian lisa_about_ae_sexed5_b44fac3b:
 
     # Lisa_09 "Ну да, он предложил и я согласилась. Я не хочу облажаться с мальчиками, когда придёт время..."
     Lisa_09 "Beh, sì, si è offerto e io ho accettato. Non voglio rovinare con i ragazzi quando arriva il momento ..."
 
-# game/dialogues/lisatalk.rpy:4265
+# game/dialogues/lisatalk.rpy:4263
 translate italian lisa_about_ae_sexed5_8de6d12c:
 
     # Max_11 "Так, а ко мне не думала с этим обратиться?"
     Max_11 "Allora, non hai pensato di rivolgerti a me con questo?"
 
-# game/dialogues/lisatalk.rpy:4269
+# game/dialogues/lisatalk.rpy:4267
 translate italian lisa_about_ae_sexed5_1f1a6b2e:
 
     # Lisa_13 "Ну, Макс... Эрик ведь старше и знает, как и что во взрослом мире происходит..." nointeract
     Lisa_13 "Beh, Max... Eric è più vecchio e sa come e cosa succede nel mondo degli adulti..." nointeract
 
-# game/dialogues/lisatalk.rpy:4271
+# game/dialogues/lisatalk.rpy:4269
 translate italian lisa_about_ae_sexed5_8d68420c:
 
     # Lisa_01 "Спасибо, Макс! Я рада, что ты меня понял..."
     Lisa_01 "Grazie, Max! Sono contento che tu mi abbia capito..."
 
-# game/dialogues/lisatalk.rpy:4272
+# game/dialogues/lisatalk.rpy:4270
 translate italian lisa_about_ae_sexed5_94ee0985:
 
     # Max_00 "Не за что."
     Max_00 "Non per niente."
 
-# game/dialogues/lisatalk.rpy:4277
+# game/dialogues/lisatalk.rpy:4275
 translate italian lisa_about_ae_sexed5_c9c40629:
 
     # Max_09 "{m}Так, а вот это мне нужно обсудить с Эриком! Потому что я хочу видеть, чему он там её будет \"учить\"...{/m}"
     Max_09 "{m}Quindi, ed è di questo che devo discutere con Eric! Perché voglio vedere cosa le \"insegnerà\" lì... {/m}"
 
-# game/dialogues/lisatalk.rpy:4279
+# game/dialogues/lisatalk.rpy:4277
 translate italian lisa_about_ae_sexed5_7e0d4074:
 
     # Lisa_11 "Неправильно готовиться к взрослой жизни?"
     Lisa_11 "È sbagliato prepararsi per l'età adulta?"
 
-# game/dialogues/lisatalk.rpy:4280
+# game/dialogues/lisatalk.rpy:4278
 translate italian lisa_about_ae_sexed5_2830c033:
 
     # Max_15 "Нет, неправильно узнавать такое от Эрика! Неспроста же мама не хочет продолжать эти уроки. И я скажу тебе почему. Потому что это в конец перебор!"
     Max_15 "No, è sbagliato impararlo da Eric! Non per niente mia madre non vuole continuare queste lezioni. E ti dirò perché. Perché alla fine è eccessivo!"
 
-# game/dialogues/lisatalk.rpy:4285
+# game/dialogues/lisatalk.rpy:4283
 translate italian lisa_about_ae_sexed5_d86ce708:
 
     # Lisa_12 "Ничего это не перебор! Мне это интересно и я хочу знать всё о взрослой жизни. А если будешь противиться, то Эрик сказал, чтобы я отправляла тебя к нему."
     Lisa_12 "Non è troppo! Sono interessato a questo e voglio sapere tutto sull'età adulta. E se resisti, Eric mi ha detto di mandarti da lui."
 
-# game/dialogues/lisatalk.rpy:4286
+# game/dialogues/lisatalk.rpy:4284
 translate italian lisa_about_ae_sexed5_317c7258:
 
     # Max_09 "{m}Вот же Эрик сволочь! Я прикидываюсь, что дружу с ним, чтобы у меня не было никаких проблем и вместе с тем можно было спокойно придумать, как от него избавиться... Но теперь, всё это под угрозой. Лучше прикидываться дальше и быстрее думать, что делать...{/m}"
     Max_09 "{m}Ecco Eric il bastardo! Faccio finta di essere amico di lui, in modo da non avere problemi e allo stesso tempo puoi tranquillamente capire come sbarazzarti di lui ... Ma ora, è tutto sotto minaccia. È meglio fingere ulteriormente e pensare più velocemente a cosa fare ... {/m}"
 
-# game/dialogues/lisatalk.rpy:4287
+# game/dialogues/lisatalk.rpy:4285
 translate italian lisa_about_ae_sexed5_722951fb:
 
     # Lisa_00 "Макс, ты чего завис?"
     Lisa_00 "Max, con cosa sei bloccato?"
 
-# game/dialogues/lisatalk.rpy:4288
+# game/dialogues/lisatalk.rpy:4286
 translate italian lisa_about_ae_sexed5_e1133d63:
 
     # Max_10 "Занимайтесь, мешать не буду."
     Max_10 "Fallo, non interferirò."
 
-# game/dialogues/lisatalk.rpy:4289
+# game/dialogues/lisatalk.rpy:4287
 translate italian lisa_about_ae_sexed5_8d68420c_1:
 
     # Lisa_01 "Спасибо, Макс! Я рада, что ты меня понял..."
     Lisa_01 "Grazie, Max! Sono contento che tu mi abbia capito..."
 
-# game/dialogues/lisatalk.rpy:4290
+# game/dialogues/lisatalk.rpy:4288
 translate italian lisa_about_ae_sexed5_94ee0985_1:
 
     # Max_00 "Не за что."
     Max_00 "Non per niente."
 
-# game/dialogues/lisatalk.rpy:4295
+# game/dialogues/lisatalk.rpy:4293
 translate italian lisa_about_ae_sexed5_a8cf08b3:
 
     # Max_09 "{m}Похоже, Эрик уже во всю начал пользоваться наивностью Лизы и втихушку за спиной мамы хочет развратить мою младшую сестрёнку! Надо это прекращать!{/m}"
     Max_09 "{m}Sembra che Eric abbia già iniziato a sfruttare appieno l'ingenuità di Lisa e silenziosamente dietro le spalle di sua madre vuole corrompere mia sorella minore! Dobbiamo fermarlo! {/m}"
 
-# game/dialogues/lisatalk.rpy:4298
+# game/dialogues/lisatalk.rpy:4296
 translate italian lisa_about_ae_sexed5_42e30c89:
 
     # Lisa_13 "Ну, Макс... Эрик ведь старше и знает, как и что во взрослом мире происходит..."
     Lisa_13 "Beh, Max... Eric è più vecchio e sa come e cosa succede nel mondo degli adulti..."
 
-# game/dialogues/lisatalk.rpy:4299
+# game/dialogues/lisatalk.rpy:4297
 translate italian lisa_about_ae_sexed5_9047957d:
 
     # Max_10 "Хм... И чему же такому он тебя собирается учить, да ещё и без маминого и моего присмотра?"
     Max_10 "Hmm... E cosa ti insegnerà, e anche senza la mia mamma e la mia supervisione?"
 
-# game/dialogues/lisatalk.rpy:4300
+# game/dialogues/lisatalk.rpy:4298
 translate italian lisa_about_ae_sexed5_30772956:
 
     # Lisa_10 "Нуу... Я думаю, мне нужно набраться опыта в том, что мне показывала мама. В школе ведь так же делают, теоретические знания закрепляют на практических занятиях."
     Lisa_10 "Nuu... Penso di aver bisogno di acquisire esperienza in ciò che mia madre mi ha mostrato. A scuola, dopo tutto, fanno lo stesso, la conoscenza teorica è fissata in classi pratiche."
 
-# game/dialogues/lisatalk.rpy:4301
+# game/dialogues/lisatalk.rpy:4299
 translate italian lisa_about_ae_sexed5_770a6219:
 
     # Max_12 "Что?! Какие ещё, к чёрту, практические занятия?"
     Max_12 "Cosa?! Quali sono le attività della gallina?"
 
-# game/dialogues/lisatalk.rpy:4306
+# game/dialogues/lisatalk.rpy:4304
 translate italian lisa_about_ae_sexed5_5ecce7e1:
 
     # Lisa_13 "Обыкновенные, Макс! Если бы ты нормально учился в школе, то прекрасно бы это знал."
     Lisa_13 "Ordinario, Max! Se fossi a scuola normalmente, lo sapresti perfettamente."
 
-# game/dialogues/lisatalk.rpy:4307
+# game/dialogues/lisatalk.rpy:4305
 translate italian lisa_about_ae_sexed5_980d60e3:
 
     # Max_09 "Да это я знаю прекрасно, но школа это одно, а то, что вы с Эриком удумали..."
     Max_09 "Sì, lo so perfettamente, ma la scuola è una cosa, e quello che tu ed Eric pensavate ..."
 
-# game/dialogues/lisatalk.rpy:4308
+# game/dialogues/lisatalk.rpy:4306
 translate italian lisa_about_ae_sexed5_31085ae0:
 
     # Lisa_12 "Так, Макс... Эрик сказал, что если ты будешь противиться, то с ним и будешь разговаривать..."
     Lisa_12 "Allora, Max... Eric disse che se avessi resistito, gli avresti parlato..."
 
-# game/dialogues/lisatalk.rpy:4309
+# game/dialogues/lisatalk.rpy:4307
 translate italian lisa_about_ae_sexed5_717ed01f:
 
     # Max_16 "Ладно, мы ещё с ним посмотрим, кто кого..."
     Max_16 "Ok, vedremo chi è chi..."
 
-# game/dialogues/lisatalk.rpy:4314
+# game/dialogues/lisatalk.rpy:4312
 translate italian lisa_about_ae_sexed5_a8cf08b3_1:
 
     # Max_09 "{m}Похоже, Эрик уже во всю начал пользоваться наивностью Лизы и втихушку за спиной мамы хочет развратить мою младшую сестрёнку! Надо это прекращать!{/m}"
     Max_09 "{m}Sembra che Eric abbia già iniziato a sfruttare appieno l'ingenuità di Lisa e silenziosamente dietro le spalle di sua madre vuole corrompere mia sorella minore! Dobbiamo fermarlo! {/m}"
 
-# game/dialogues/lisatalk.rpy:4319
+# game/dialogues/lisatalk.rpy:4317
 translate italian lisa_about_ae_sexed5_e4aaaab8:
 
     # Lisa_10 "Да, я нахожусь в некоторых сомнениях и хотела с тобой посоветоваться..."
     Lisa_10 "Sì, ho qualche dubbio e volevo consultarmi con te..."
 
-# game/dialogues/lisatalk.rpy:4320
+# game/dialogues/lisatalk.rpy:4318
 translate italian lisa_about_ae_sexed5_6e83a4f8:
 
     # Max_01 "Конечно, Лиза. Я весь во внимании."
     Max_01 "Certo, Lisa. Sono tutte orecchie."
 
-# game/dialogues/lisatalk.rpy:4325
+# game/dialogues/lisatalk.rpy:4323
 translate italian lisa_about_ae_sexed5_f0643012:
 
     # Lisa_09 "Видишь ли... Даже не знаю, как тебе это лучше сказать... Эрик уговаривает меня проводить с ним занятия в нашей комнате... Ну... по тому, что они мне показывали..."
     Lisa_09 "Vedi... Non so nemmeno come si possa dire che... Eric mi convince a fare lezioni con lui nella nostra stanza. . . Bene... da quello che mi hanno mostrato..."
 
-# game/dialogues/lisatalk.rpy:4326
+# game/dialogues/lisatalk.rpy:4324
 translate italian lisa_about_ae_sexed5_b1cec096:
 
     # Max_08 "В смысле как? Почему в нашей комнате, а не у себя, как было до этого?"
     Max_08 "voglio dire, come? Perché nella nostra stanza, e non a casa, come era prima?"
 
-# game/dialogues/lisatalk.rpy:4330
+# game/dialogues/lisatalk.rpy:4328
 translate italian lisa_about_ae_sexed5_80061a82:
 
     # Lisa_13 "Потому что мама не хочет учить меня большему, а Эрик предложил это делать без неё. И сказал, что будет лучше, если нам никто не будет мешать при этом." nointeract
     Lisa_13 "Perché mia madre non vuole insegnarmi di più, ed Eric ha suggerito di farlo senza di lei. E ha detto che sarebbe stato meglio se nessuno interferisse con noi allo stesso tempo." nointeract
 
-# game/dialogues/lisatalk.rpy:4335
+# game/dialogues/lisatalk.rpy:4333
 translate italian lisa_about_ae_sexed5_9b07ee18:
 
     # Lisa_00 "Думаешь, мне правда стоит согласиться?"
     Lisa_00 "Pensi che dovrei davvero essere d'accordo?"
 
-# game/dialogues/lisatalk.rpy:4336
+# game/dialogues/lisatalk.rpy:4334
 translate italian lisa_about_ae_sexed5_78d28d5c:
 
     # Max_07 "Ну да, если тебе это интересно, то почему нет?"
     Max_07 "Beh, se sei interessato, perché no?"
 
-# game/dialogues/lisatalk.rpy:4337
+# game/dialogues/lisatalk.rpy:4335
 translate italian lisa_about_ae_sexed5_9cc53521:
 
     # Lisa_09 "Конечно интересно. К тому же, кто ещё меня научит, если не взрослый опытный мужчина? Просто не знаю, насколько это правильно..."
     Lisa_09 "Certo che è interessante. Inoltre, chi altro mi insegnerà se non un uomo adulto esperto? Non so se è giusto..."
 
-# game/dialogues/lisatalk.rpy:4338
+# game/dialogues/lisatalk.rpy:4336
 translate italian lisa_about_ae_sexed5_a3d4d2b6:
 
     # Max_01 "Ну, теоретические знания нужно закреплять на практике, потому что увидеть что-то или прочесть одно, а вот самому это сделать - уже другое."
     Max_01 "Beh, la conoscenza teorica deve essere fissata nella pratica, perché vedere qualcosa o leggerne uno, ma farlo da soli è un altro."
 
-# game/dialogues/lisatalk.rpy:4343
+# game/dialogues/lisatalk.rpy:4341
 translate italian lisa_about_ae_sexed5_ac17f18b:
 
     # Lisa_01 "Тогда я соглашаюсь на продолжение уроков с Эриком. Только тебе придётся теперь по понедельникам, после ужина, где-нибудь \"погулять\"... минимум полчасика."
     Lisa_01 "Allora accetto di continuare le lezioni con Eric. Dovrai uscire il lunedì dopo \"cena\"... Per almeno mezz'ora."
 
-# game/dialogues/lisatalk.rpy:4344
+# game/dialogues/lisatalk.rpy:4342
 translate italian lisa_about_ae_sexed5_73916dd2:
 
     # Max_04 "Хорошо, я найду чем заняться."
     Max_04 "Ok, troverò qualcosa da fare."
 
-# game/dialogues/lisatalk.rpy:4345
+# game/dialogues/lisatalk.rpy:4343
 translate italian lisa_about_ae_sexed5_37dc3d8a:
 
     # Lisa_02 "Было бы неплохо, если бы ты в это время помыл за меня посуду. Я тебе за это только спасибо скажу."
     Lisa_02 "Sarebbe bello se lavassi i piatti per me in questo momento. Ti ringrazierò solo per questo."
 
-# game/dialogues/lisatalk.rpy:4346
+# game/dialogues/lisatalk.rpy:4344
 translate italian lisa_about_ae_sexed5_4efd45fa:
 
     # Max_01 "Помою, не вопрос."
     Max_01 ", non c'è dubbio."
 
-# game/dialogues/lisatalk.rpy:4347
+# game/dialogues/lisatalk.rpy:4345
 translate italian lisa_about_ae_sexed5_8284a7b6:
 
     # Lisa_01 "Спасибо, Макс! Я рада, что решила посоветоваться с тобой..."
     Lisa_01 "Grazie, Max! Sono contento di aver deciso di consultarmi con te..."
 
-# game/dialogues/lisatalk.rpy:4348
+# game/dialogues/lisatalk.rpy:4346
 translate italian lisa_about_ae_sexed5_94ee0985_2:
 
     # Max_00 "Не за что."
     Max_00 "Non per niente."
 
-# game/dialogues/lisatalk.rpy:4353
+# game/dialogues/lisatalk.rpy:4351
 translate italian lisa_about_ae_sexed5_c9c40629_1:
 
     # Max_09 "{m}Так, а вот это мне нужно обсудить с Эриком! Потому что я хочу видеть, чему он там её будет \"учить\"...{/m}"
     Max_09 "{m}Quindi, ed è di questo che devo discutere con Eric! Perché voglio vedere cosa le \"insegnerà\" lì... {/m}"
 
-# game/dialogues/lisatalk.rpy:4358
+# game/dialogues/lisatalk.rpy:4356
 translate italian lisa_about_ae_sexed5_ce7b5515:
 
     # Lisa_09 "Я вот не знаю. Поэтому и решила с тобой посоветоваться. Наверно, соглашусь... Мне это интересно. К тому же, кто ещё меня научит, если не взрослый опытный мужчина? Просто не знаю, насколько это правильно..."
     Lisa_09 "non lo so. Pertanto, ho deciso di consultarmi con te. Credo di essere d'accordo... Sono interessato. Inoltre, chi altro mi insegnerà se non un uomo adulto esperto? Non so se è giusto..."
 
-# game/dialogues/lisatalk.rpy:4359
+# game/dialogues/lisatalk.rpy:4357
 translate italian lisa_about_ae_sexed5_317c7258_1:
 
     # Max_09 "{m}Вот же Эрик сволочь! Я прикидываюсь, что дружу с ним, чтобы у меня не было никаких проблем и вместе с тем можно было спокойно придумать, как от него избавиться... Но теперь, всё это под угрозой. Лучше прикидываться дальше и быстрее думать, что делать...{/m}"
     Max_09 "{m}Ecco Eric il bastardo! Faccio finta di essere amico di lui, in modo da non avere problemi e allo stesso tempo puoi tranquillamente capire come sbarazzarti di lui ... Ma ora, è tutto sotto minaccia. È meglio fingere ulteriormente e pensare più velocemente a cosa fare ... {/m}"
 
-# game/dialogues/lisatalk.rpy:4360
+# game/dialogues/lisatalk.rpy:4358
 translate italian lisa_about_ae_sexed5_722951fb_1:
 
     # Lisa_00 "Макс, ты чего завис?"
     Lisa_00 "Max, con cosa sei bloccato?"
 
-# game/dialogues/lisatalk.rpy:4361
+# game/dialogues/lisatalk.rpy:4359
 translate italian lisa_about_ae_sexed5_b48b9e12:
 
     # Max_10 "Конечно это не правильно! Нет чтобы ко мне с этим обратиться... Я тоже могу многому научить!"
     Max_10 "Naturalmente questo non è corretto! Nessuno che si rivolgi a me con questo... Posso insegnare molto anche a te!"
 
-# game/dialogues/lisatalk.rpy:4362
+# game/dialogues/lisatalk.rpy:4360
 translate italian lisa_about_ae_sexed5_c8097947:
 
     # Lisa_03 "О великий учитель... Сам-то с кем практикуешься, с собственной рукой перед компьютером?"
     Lisa_03 "O grande maestro... Con chi ti eserciti, con la tua mano davanti al computer?"
 
-# game/dialogues/lisatalk.rpy:4363
+# game/dialogues/lisatalk.rpy:4361
 translate italian lisa_about_ae_sexed5_0616845d:
 
     # Max_09 "Что за вздор! Я многое знаю и пробовал..."
     Max_09 "Che sciocchezza! So molto e ho provato..."
 
-# game/dialogues/lisatalk.rpy:4368
+# game/dialogues/lisatalk.rpy:4366
 translate italian lisa_about_ae_sexed5_113cc8b0:
 
     # Lisa_01 "Ну да, конечно, не смеши. Так, что думаешь, Макс? Только если я соглашусь, тебе придётся теперь по понедельникам, после ужина, где-нибудь \"погулять\"... минимум полчасика."
     Lisa_01 "Sì, giusto, non essere ridicolo. Allora, cosa ne pensi, Max? Solo se ti dico di sì, dovrai uscire il lunedì dopo \"cena\"... per almeno mezz'ora."
 
-# game/dialogues/lisatalk.rpy:4369
+# game/dialogues/lisatalk.rpy:4367
 translate italian lisa_about_ae_sexed5_73916dd2_1:
 
     # Max_04 "Хорошо, я найду чем заняться."
     Max_04 "Ok, troverò qualcosa da fare."
 
-# game/dialogues/lisatalk.rpy:4370
+# game/dialogues/lisatalk.rpy:4368
 translate italian lisa_about_ae_sexed5_37dc3d8a_1:
 
     # Lisa_02 "Было бы неплохо, если бы ты в это время помыл за меня посуду. Я тебе за это только спасибо скажу."
     Lisa_02 "Sarebbe bello se lavassi i piatti per me in questo momento. Ti ringrazierò solo per questo."
 
-# game/dialogues/lisatalk.rpy:4371
+# game/dialogues/lisatalk.rpy:4369
 translate italian lisa_about_ae_sexed5_4efd45fa_1:
 
     # Max_01 "Помою, не вопрос."
     Max_01 ", non c'è dubbio."
 
-# game/dialogues/lisatalk.rpy:4372
+# game/dialogues/lisatalk.rpy:4370
 translate italian lisa_about_ae_sexed5_8284a7b6_1:
 
     # Lisa_01 "Спасибо, Макс! Я рада, что решила посоветоваться с тобой..."
     Lisa_01 "Grazie, Max! Sono contento di aver deciso di consultarmi con te..."
 
-# game/dialogues/lisatalk.rpy:4373
+# game/dialogues/lisatalk.rpy:4371
 translate italian lisa_about_ae_sexed5_94ee0985_3:
 
     # Max_00 "Не за что."
     Max_00 "Non per niente."
 
-# game/dialogues/lisatalk.rpy:4376
+# game/dialogues/lisatalk.rpy:4374
 translate italian lisa_about_ae_sexed5_c6aab9d9:
 
     # Lisa_13 "Потому что мама не хочет учить меня большему, а Эрик предложил это делать без неё. И сказал, что будет лучше, если нам никто не будет мешать при этом."
     Lisa_13 "Perché mia madre non vuole insegnarmi di più, ed Eric ha suggerito di farlo senza di lei. E ha detto che sarebbe stato meglio se nessuno interferisse con noi allo stesso tempo."
 
-# game/dialogues/lisatalk.rpy:4377
+# game/dialogues/lisatalk.rpy:4375
 translate italian lisa_about_ae_sexed5_9b991e15:
 
     # Max_12 "Да вот ещё! Какие ещё, к чёрту, занятия наедине с Эриком?! И ты ещё сомневаешься?"
     Max_12 "Oh sì! Che cosa l'hete, da solo lezione con Eric?! E hai ancora dei dubbi?"
 
-# game/dialogues/lisatalk.rpy:4378
+# game/dialogues/lisatalk.rpy:4376
 translate italian lisa_about_ae_sexed5_dc8c4c15:
 
     # Lisa_10 "Я... Я не знаю, Макс... Мне всё это интересно, но... без мамы..."
     Lisa_10 "Io... Non lo so, Max... Sono interessato a tutto questo, ma... senza mia mamma..."
 
-# game/dialogues/lisatalk.rpy:4383
+# game/dialogues/lisatalk.rpy:4381
 translate italian lisa_about_ae_sexed5_3f9aadb5:
 
     # Max_16 "Да это даже с мамой полным бредом будет! Хрен ему, а не моя младшая сестрёнка. Никаких уроков с Эриком не будет! То, что он затевает - в конец гадко!"
     Max_16 "Sì, anche con mia madre sarà una completa assurdità! Fanculo a lui, non alla mia sorellina. Non ci saranno lezioni con Eric! Quello che sta succedendo è brutto alla fine!"
 
-# game/dialogues/lisatalk.rpy:4384
+# game/dialogues/lisatalk.rpy:4382
 translate italian lisa_about_ae_sexed5_1083feb5:
 
     # Lisa_11 "Серьёзно? Ты правда так думаешь?"
     Lisa_11 "Serio? Pensi davvero di sì?"
 
-# game/dialogues/lisatalk.rpy:4385
+# game/dialogues/lisatalk.rpy:4383
 translate italian lisa_about_ae_sexed5_f648f696:
 
     # Max_15 "Ну конечно серьёзно, в противном случае, он не стал бы делать это у мамы за спиной, а предложил бы это сделать в её присутствии."
     Max_15 "Beh, ovviamente seriamente, altrimenti, non lo farebbe alle spalle di mia madre, ma si offrirebbe di farlo in sua presenza."
 
-# game/dialogues/lisatalk.rpy:4386
+# game/dialogues/lisatalk.rpy:4384
 translate italian lisa_about_ae_sexed5_d92e136c:
 
     # Lisa_09 "Хм... Возможно ты прав..."
     Lisa_09 "Hmm... Forse hai ragione..."
 
-# game/dialogues/lisatalk.rpy:4391
+# game/dialogues/lisatalk.rpy:4389
 translate italian lisa_about_ae_sexed5_a183020d:
 
     # Max_09 "Конечно прав! Даже не думай соглашаться!"
     Max_09 "Certo che hai ragione! Non pensare nemmeno di essere d'accordo!"
 
-# game/dialogues/lisatalk.rpy:4392
+# game/dialogues/lisatalk.rpy:4390
 translate italian lisa_about_ae_sexed5_ef445d0f:
 
     # Lisa_01 "Я так и сделаю... я не стану соглашаться на его предложение."
     Lisa_01 "lo farò... Non accetterò la sua proposta."
 
-# game/dialogues/lisatalk.rpy:4393
+# game/dialogues/lisatalk.rpy:4391
 translate italian lisa_about_ae_sexed5_64be1252:
 
     # Max_05 "Правильное решение, Лиза! Молодец!"
     Max_05 "Decisione giusta, Lisa! Ottimo lavoro!"
 
-# game/dialogues/lisatalk.rpy:4394
+# game/dialogues/lisatalk.rpy:4392
 translate italian lisa_about_ae_sexed5_e151ce34:
 
     # Lisa_02 "Спасибо за совет, Макс! Ты настоящий старший брат!"
     Lisa_02 "Grazie per il consiglio, Max! Sei un vero fratello maggiore!"
 
-# game/dialogues/lisatalk.rpy:4395
+# game/dialogues/lisatalk.rpy:4393
 translate italian lisa_about_ae_sexed5_ce8f6f25:
 
     # Max_07 "Всегда пожалуйста, сестрёнка! А с Эриком я разберусь..."
     Max_07 "Sempre per favore, sorella! E mi occuperò di Eric..."
 
-# game/dialogues/lisatalk.rpy:4400
+# game/dialogues/lisatalk.rpy:4398
 translate italian lisa_about_ae_sexed5_a8cf08b3_2:
 
     # Max_09 "{m}Похоже, Эрик уже во всю начал пользоваться наивностью Лизы и втихушку за спиной мамы хочет развратить мою младшую сестрёнку! Надо это прекращать!{/m}"
     Max_09 "{m}Sembra che Eric abbia già iniziato a sfruttare appieno l'ingenuità di Lisa e silenziosamente dietro le spalle di sua madre vuole corrompere mia sorella minore! Dobbiamo fermarlo! {/m}"
 
-# game/dialogues/lisatalk.rpy:4405
+# game/dialogues/lisatalk.rpy:4403
 translate italian lisa_about_ae_sexed5_6e4f777a:
 
     # Max_07 "{m}Идти к маме с компроматом на Эрика рискованно. Она в слишком большой его власти. Поэтому нужно позаботиться о том, чтобы мои сёстры были со мной на одной стороне и поддержали меня перед мамой. А чтобы пресечь посягательства Эрика на девчонок, нужно устроить ему какую-нибудь подлянку!{/m}"
     Max_07 "{m}Andare da mia madre con la sporcizia su Eric è rischioso. Lei è in troppo del suo potere. Pertanto, devo assicurarmi che le mie sorelle siano dalla stessa parte con me e mi sostengano di fronte a mia madre. E per fermare le invasioni di Eric sulle ragazze, devi organizzargli una sorta di ficcanaso! {/m}"
 
-# game/dialogues/lisatalk.rpy:4408
+# game/dialogues/lisatalk.rpy:4406
 translate italian lisa_about_ae_sexed5_d336737a:
 
     # Max_07 "{m}Мне нужно заснять Эрика в более компрометирующей обстановке, чем у меня сейчас есть. А так как мама находится в огромной власти Эрика, мне нужно позаботиться о том, чтобы мои сёстры были со мной на одной стороне и поддержали меня перед мамой. А чтобы пресечь посягательства Эрика на девчонок, нужно устроить ему какую-нибудь подлянку!{/m}"
     Max_07 "{m}ho bisogno di girare Eric in un ambiente più compromettente di quello che ho ora. E poiché mia madre è nel grande potere di Eric, devo assicurarmi che le mie sorelle siano dalla stessa parte con me e sostenermi di fronte a mia madre. E per fermare le invasioni di Eric sulle ragazze, devi organizzargli una sorta di ficcanaso! {/m}"
 
-# game/dialogues/lisatalk.rpy:4411
+# game/dialogues/lisatalk.rpy:4409
 translate italian lisa_about_ae_sexed5_a052c712:
 
     # Max_07 "{m}На Эрика срочно нужно достать компромат! Если он и делает что-то такое, то явно по ночам, когда никто не видит. Нужно последить за ним... А чтобы пресечь посягательства Эрика на девчонок, нужно устроить ему какую-нибудь подлянку!{/m}"
     Max_07 "{m}Eric ha urgente bisogno di sporcarsi! Se fa qualcosa, è ovviamente di notte, quando nessuno vede. Devi seguirlo... E per fermare le invasioni di Eric sulle ragazze, devi organizzargli una sorta di ficcanaso! {/m}"
 
-# game/dialogues/lisatalk.rpy:4432
+# game/dialogues/lisatalk.rpy:4430
 translate italian take_to_school_e8cf2552:
 
     # Lisa_02 "Да! Я готова пойти в школу и получать пятёрки! И всё благодаря тебе."
     Lisa_02 "sì! Sono pronto per andare a scuola e prendere cinque! Ed è tutto grazie a te."
 
-# game/dialogues/lisatalk.rpy:4433
+# game/dialogues/lisatalk.rpy:4431
 translate italian take_to_school_093ccce0:
 
     # Max_04 "Не за что. Я рад помочь любимой младшей сестрёнке."
     Max_04 "Non per niente. Sono felice di aiutare la mia amata sorellina."
 
-# game/dialogues/lisatalk.rpy:4440
+# game/dialogues/lisatalk.rpy:4438
 translate italian take_to_school_626862b4:
 
     # Lisa_01 "Ещё раз, спасибо тебе, Макс. Я побегу в школу, но сперва немного обнимашек..."
     Lisa_01 "Ancora una volta, grazie, Max. Correrò a scuola, ma prima un piccolo abbraccio..."
 
-# game/dialogues/lisatalk.rpy:4441
+# game/dialogues/lisatalk.rpy:4439
 translate italian take_to_school_470d0a5e:
 
     # Max_03 "На дорожку самое то!"
     Max_03 "In pista è la cosa giusta!"
 
-# game/dialogues/lisatalk.rpy:4444
+# game/dialogues/lisatalk.rpy:4442
 translate italian take_to_school_c9d35dcf:
 
     # Max_04 "{m}Класс! Лиза хочет обниматься... Так классно чувствовать, как она прижимается ко мне. Моя миленькая сестрёнка-школьница...{/m}"
     Max_04 "{m}classe! Lisa vuole abbracciarsi... È così bello sentirla rannicchiarsi verso di me. Mia dolce sorella studentessa... {/m}"
 
-# game/dialogues/lisatalk.rpy:4449
+# game/dialogues/lisatalk.rpy:4447
 translate italian take_to_school_cc3367df:
 
     # Lisa_02 "Ну всё, мне уже пора идти... Я же могу и дальше рассчитывать на твою помощь с учёбой?"
     Lisa_02 "Beh, è ora che io vada... Posso continuare a contare sul vostro aiuto per i miei studi?"
 
-# game/dialogues/lisatalk.rpy:4450
+# game/dialogues/lisatalk.rpy:4448
 translate italian take_to_school_46de9a7a:
 
     # Max_01 "Конечно, можешь! За такие-то объятия... Успехов тебе!"
     Max_01 "Certo che puoi! Per questi e tali abbracci... Buona Fortuna!"
 
-# game/dialogues/lisatalk.rpy:4462
+# game/dialogues/lisatalk.rpy:4460
 translate italian take_to_school_66f9eb7c:
 
     # Lisa_02 "Ну всё, мне уже пора идти... Я же могу и дальше рассчитывать на твою помощь с учёбой?" nointeract
     Lisa_02 "Beh, è ora che io vada... Posso continuare a contare sul vostro aiuto per i miei studi?" nointeract
 
-# game/dialogues/lisatalk.rpy:4466
+# game/dialogues/lisatalk.rpy:4464
 translate italian take_to_school_63df00be:
 
     # Lisa_05 "[succes!t]Это я могу. Но только немножко и в щёчку! Пожалуй, ты это заслужил..."
     Lisa_05 "[succes!t] posso farlo. Ma solo un po 'e nella guancia! Immagino che te lo sia meritato..."
 
-# game/dialogues/lisatalk.rpy:4470
+# game/dialogues/lisatalk.rpy:4468
 translate italian take_to_school_79292d02:
 
     # Max_05 "{m}О да! Этот нежный поцелуй от сестрёнки я и надеялся получить! Блаженно...{/m}" nointeract
     Max_05 "{m}Oh sì! Questo dolce bacio da mia sorella speravo di ottenere! Beatamente... {/m}"
 
-# game/dialogues/lisatalk.rpy:4475
+# game/dialogues/lisatalk.rpy:4473
 translate italian take_to_school_954367ef:
 
     # Lisa_13 "Я сказала, что ты заслужил поцелуй, а не лапать меня за зад, Макс!"
     Lisa_13 "ho detto che meritavi un bacio, non prendermi a calci in, Max!"
 
-# game/dialogues/lisatalk.rpy:4476
+# game/dialogues/lisatalk.rpy:4474
 translate italian take_to_school_ab03ea9e:
 
     # Max_03 "Разве это лапать? Так... легонько прикоснулся, чтобы настроение поднять."
     Max_03 "È una zampa? Così... leggermente toccato per rallegrarsi."
 
-# game/dialogues/lisatalk.rpy:4480
+# game/dialogues/lisatalk.rpy:4478
 translate italian take_to_school_7ac18b10:
 
     # Lisa_01 "Моё или своё?"
     Lisa_01 "mio o mio?"
 
-# game/dialogues/lisatalk.rpy:4481
+# game/dialogues/lisatalk.rpy:4479
 translate italian take_to_school_9d1cdba9:
 
     # Max_02 "Ну... Если тебя это заводит..."
     Max_02 "Beh... Se questo ti accende..."
 
-# game/dialogues/lisatalk.rpy:4486
+# game/dialogues/lisatalk.rpy:4484
 translate italian take_to_school_c2d552ae:
 
     # Lisa_02 "Ну всё, хорошего понемногу. Я побежала, не скучай..."
     Lisa_02 "Beh, un po' di bene. Ho corso, non annoiarti..."
 
-# game/dialogues/lisatalk.rpy:4490
+# game/dialogues/lisatalk.rpy:4488
 translate italian take_to_school_93e24500:
 
     # Lisa_01 "[failed!t]Ну... Я бы чмокнула... Если бы ты почаще помогал с уроками. Так что старайся, а я побежала. Не скучай!"
     Lisa_01 "[failed!t] Beh... Sarei cupo... Se solo potessi aiutare con le lezioni più spesso. Quindi provaci, e ho corso. Non annoiarti!"
 
-# game/dialogues/lisatalk.rpy:4492
+# game/dialogues/lisatalk.rpy:4490
 translate italian take_to_school_bb885618:
 
     # Max_01 "А я буду. Успехов тебе!"
     Max_01 "E lo farò. Buona Fortuna!"
 
-# game/dialogues/lisatalk.rpy:4498
+# game/dialogues/lisatalk.rpy:4496
 translate italian take_to_school_2946fe9e:
 
     # Lisa_05 "[succes!t]Ты в последнее время хорошо мне помогал, так что можно... Но не в губы! Просто в щёчку и всё..."
     Lisa_05 "[succes!t] Ultimamente mi hai aiutato molto, quindi puoi... Ma non nelle labbra! Solo nella guancia e basta..."
 
-# game/dialogues/lisatalk.rpy:4502
+# game/dialogues/lisatalk.rpy:4500
 translate italian take_to_school_50a3f276:
 
     # Max_07 "{m}Это пока что в щёчку... Но твои сладенькие губки рано или поздно не устоят и захотят встретиться с моими!{/m}" nointeract
     Max_07 "{m}È ancora sulla guancia... Ma le tue dolci spugne prima o poi non resisteranno e vorranno incontrarsi con le mie! {/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4506
+# game/dialogues/lisatalk.rpy:4504
 translate italian take_to_school_c2d552ae_1:
 
     # Lisa_02 "Ну всё, хорошего понемногу. Я побежала, не скучай..."
     Lisa_02 "Beh, un po' di bene. Ho corso, non annoiarti..."
 
-# game/dialogues/lisatalk.rpy:4509
+# game/dialogues/lisatalk.rpy:4507
 translate italian take_to_school_fb1c6e25:
 
     # Lisa_01 "[failed!t]Эй... Вот разбежался! Если бы ты почаще помогал с уроками, то я бы разрешила, а так... больше старайся. Я побежала в школу, не скучай!"
     Lisa_01 "[failed!t]Ehi... Che testa vuota! Se mi aiutassi più spesso con i compiti, te lo permetterei, ma... provate di più. Vado a scuola, divertitevi!"
 
-# game/dialogues/lisatalk.rpy:4511
+# game/dialogues/lisatalk.rpy:4509
 translate italian take_to_school_bb885618_1:
 
     # Max_01 "А я буду. Успехов тебе!"
     Max_01 "E lo farò. Buona Fortuna!"
 
-# game/dialogues/lisatalk.rpy:4514
+# game/dialogues/lisatalk.rpy:4512
 translate italian take_to_school_598d67c3:
 
     # Lisa_01 "Ещё раз, спасибо тебе, Макс. Я побегу в школу, так что не скучай..."
     Lisa_01 "Ancora una volta, grazie, Max. Correrò a scuola, quindi non annoiarti..."
 
-# game/dialogues/lisatalk.rpy:4515
+# game/dialogues/lisatalk.rpy:4513
 translate italian take_to_school_bb885618_2:
 
     # Max_01 "А я буду. Успехов тебе!"
     Max_01 "E lo farò. Buona Fortuna!"
 
-# game/dialogues/lisatalk.rpy:4520
+# game/dialogues/lisatalk.rpy:4518
 translate italian take_to_school_af56c02f:
 
     # Lisa_09 "Вроде да... Но не знаю, я как-то не уверена. Сейчас побегу в школу, может вместе с одноклассниками разберусь в некоторых моментах."
     Lisa_09 "Mi piace, sì... Ma non lo so, sono un po' insicuro. Ora correrò a scuola, magari insieme ai compagni di classe capirò qualche momento."
 
-# game/dialogues/lisatalk.rpy:4521
+# game/dialogues/lisatalk.rpy:4519
 translate italian take_to_school_29693a9f:
 
     # Max_01 "Давай. Удачи тебе там..."
     Max_01 "Dai. Buona fortuna lì. . ."
 
-# game/dialogues/lisatalk.rpy:4526
+# game/dialogues/lisatalk.rpy:4524
 translate italian take_to_school_a6bd3f00:
 
     # Lisa_02 "Да! Я готова пойти в школу и получать пятёрки! Со мной ведь занимаются, Макс."
     Lisa_02 "sì! Sono pronto per andare a scuola e prendere cinque! Stanno lavorando con me, Max."
 
-# game/dialogues/lisatalk.rpy:4527
+# game/dialogues/lisatalk.rpy:4525
 translate italian take_to_school_b56ae6aa:
 
     # Max_07 "А я просто уточнил. Но если что, я всегда помогу."
     Max_07 "E ho appena chiarito. Ma semmai, ti aiuterò sempre."
 
-# game/dialogues/lisatalk.rpy:4528
+# game/dialogues/lisatalk.rpy:4526
 translate italian take_to_school_f7d87922:
 
     # Lisa_01 "Ага. Я побегу в школу, так что не скучай..."
     Lisa_01 "sì. Correrò a scuola, quindi non annoiarti..."
 
-# game/dialogues/lisatalk.rpy:4529
+# game/dialogues/lisatalk.rpy:4527
 translate italian take_to_school_bb885618_3:
 
     # Max_01 "А я буду. Успехов тебе!"
     Max_01 "E lo farò. Buona Fortuna!"
 
-# game/dialogues/lisatalk.rpy:4537
+# game/dialogues/lisatalk.rpy:4535
 translate italian lisa_about_wallet_53c90b6e:
 
     # Lisa_12 "Что ты хотел, Макс?"
     Lisa_12 "Cosa volevi, Max?"
 
-# game/dialogues/lisatalk.rpy:4538
+# game/dialogues/lisatalk.rpy:4536
 translate italian lisa_about_wallet_fb1cb05d:
 
     # Max_10 "Надеюсь, ты не поверила Эрику?"
     Max_10 "Spero che tu non abbia creduto a Eric?"
 
-# game/dialogues/lisatalk.rpy:4539
+# game/dialogues/lisatalk.rpy:4537
 translate italian lisa_about_wallet_cc33c7d1:
 
     # Lisa_13 "А зачем ему врать про такое?"
     Lisa_13 "Perché dovrebbe mentire su una cosa del genere?"
 
-# game/dialogues/lisatalk.rpy:4540
+# game/dialogues/lisatalk.rpy:4538
 translate italian lisa_about_wallet_1fe8c5d2:
 
     # Max_07 "Чтобы я побыстрее отправился в военный лагерь, а он мог без проблем к вам всем приставать."
     Max_07 "In modo che io possa andare velocemente al campo militare e lui possa infastidirvi tutti senza problemi."
 
-# game/dialogues/lisatalk.rpy:4541
+# game/dialogues/lisatalk.rpy:4539
 translate italian lisa_about_wallet_7863dfe7:
 
     # Lisa_09 "Что это ещё значит, \"приставать\"?"
     Lisa_09 "Cos'altro significa \"infastidire\"?"
 
-# game/dialogues/lisatalk.rpy:4542
+# game/dialogues/lisatalk.rpy:4540
 translate italian lisa_about_wallet_c596c0c7:
 
     # Max_15 "Это значит, самым грязным и непристойным образом с вами всеми развлекаться."
     Max_15 "Significa divertirsi nel modo più sporco e indecente con tutti voi."
 
-# game/dialogues/lisatalk.rpy:4543
+# game/dialogues/lisatalk.rpy:4541
 translate italian lisa_about_wallet_525e0eed:
 
     # Lisa_10 "Ой, Макс, ну что за ересь! Эрик - прекрасный и честный мужчина, в отличие от тебя. И вообще, я не хочу с тобой разговаривать. Отстань."
     Lisa_10 "Oh, Max, che sciocchezza! Eric è un uomo buono e onesto, a differenza di te. Infatti, non voglio parlare con te. Lasciatemi in pace."
 
-# game/dialogues/lisatalk.rpy:4544
+# game/dialogues/lisatalk.rpy:4542
 translate italian lisa_about_wallet_6226d61a:
 
     # Max_09 "А если бы у меня были доказательства, подтверждающие, что он не такой классный, как ты думаешь?"
     Max_09 "E se avessi la prova che non è così figo come pensi?"
 
-# game/dialogues/lisatalk.rpy:4545
+# game/dialogues/lisatalk.rpy:4543
 translate italian lisa_about_wallet_2ebe63dc:
 
     # Lisa_12 "Думаю, если бы и были, то ты бы уже всё всем доказал. Так что повторю ещё раз... Отстань!"
     Lisa_12 "Penso che se ci fosse, l'avresti già dimostrato a tutti. Quindi ancora una volta... Lasciatemi in pace!"
 
-# game/dialogues/lisatalk.rpy:4549
+# game/dialogues/lisatalk.rpy:4547
 translate italian lisa_about_wallet_8c152f15:
 
     # Max_07 "{m}Ясно. Доказательства у меня есть, вот только девчонки сейчас в таком состоянии, что запросто могут обвинить меня в том, что я эти фотографии нарисовал в каком-нибудь графическом редакторе.{/m}"
     Max_07 "{m}Giusto. Ho le prove, ma le ragazze sono in uno stato tale che potrebbero accusarmi di aver disegnato queste immagini con una specie di editor grafico.{/m}"
 
-# game/dialogues/lisatalk.rpy:4550
+# game/dialogues/lisatalk.rpy:4548
 translate italian lisa_about_wallet_0b4cc1e7:
 
     # Max_01 "{m}Кажется, я знаю, как подкрепить эти снимки фактами... И поможет мне в этом Алиса, ведь именно на неё Эрик так усердно дрочит. Остаётся его грамотно подставить...{/m}"
     Max_01 "{m}Credo di sapere come sostenere queste immagini con i fatti... E Alice mi aiuterà in questo, perché è lei che Eric si è fatto una sega così forte. Non resta che incastrarlo...{/m}"
 
-# game/dialogues/lisatalk.rpy:4551
+# game/dialogues/lisatalk.rpy:4549
 translate italian lisa_about_wallet_3d4efb1f:
 
     # Max_09 "{m}Нужно будет проследить за его ночными делишками в комнате Алисы, а сразу после действовать! Главное, чтобы Алиса спала голой...{/m}"
     Max_09 "{m}Dovremo tenere d'occhio le sue attività notturne nella stanza di Alice e agire subito dopo! L'importante è che Alice dorma nuda...{/m}"
 
-# game/dialogues/lisatalk.rpy:4555
+# game/dialogues/lisatalk.rpy:4553
 translate italian lisa_about_wallet_2a4e3fae:
 
     # Max_07 "{m}Ясно. Хоть у меня и есть снимок, на котором Эрик дрочит у окна в комнату Алисы, но девчонки сейчас в таком состоянии, что запросто могут обвинить меня в том, что я нарисовал этот снимок в каком-нибудь графическом редакторе.{/m}"
     Max_07 "{m}Capisco. Anche se ho una foto di Eric che si masturba alla finestra della stanza di Alice, le ragazze sono in un tale stato che potrebbero accusarmi di averla disegnata con un qualche programma di grafica.{/m}"
 
-# game/dialogues/lisatalk.rpy:4556
+# game/dialogues/lisatalk.rpy:4554
 translate italian lisa_about_wallet_7940bf27:
 
     # Max_01 "{m}Надо думать, на чём можно подловить Эрика. Возможно, у меня получится записать на диктофон наши с ним разговоры? Почему бы и нет! Главное, чтобы он разоткровенничался...{/m}"
     Max_01 "{m}Devo pensare a qualcosa per catturare Eric. Forse posso registrarci per parlare con lui? Non vedo perché no. Finché è aperto su questo...{/m}"
 
-# game/dialogues/lisatalk.rpy:4557
+# game/dialogues/lisatalk.rpy:4555
 translate italian lisa_about_wallet_a2fd0f39:
 
     # Max_09 "{m}На следующей неделе у меня ещё будет время, чтобы поговорить с Эриком, а пока нужно достать диктофон. Он наверняка должен быть у Лизы в телефоне. Правда, вряд ли она мне его даст. Нужно будет спросить у неё через пару дней...{/m}"
     Max_09 "{m}Avrò tempo di parlare con Eric la prossima settimana, ma nel frattempo devo procurarmi un registratore. Lisa dovrebbe averla nel suo telefono. Non credo che me lo darà, però. Dovrò chiederglielo tra un paio di giorni...{/m}"
 
-# game/dialogues/lisatalk.rpy:4561
+# game/dialogues/lisatalk.rpy:4559
 translate italian lisa_about_wallet_14a14016:
 
     # Max_07 "{m}Ясно. Без доказательств, что Эрик тот ещё подлец, поддержки от сестёр мне точно не видать. Надо думать, на чём можно подловить Эрика.{/m}"
     Max_07 "{m}Capisco. Senza la prova che Eric è una canaglia, non avrò alcun sostegno dalle sorelle. Devo capire cosa fare per prendere Eric.{/m}"
 
-# game/dialogues/lisatalk.rpy:4562
+# game/dialogues/lisatalk.rpy:4560
 translate italian lisa_about_wallet_15cf5dd3:
 
     # Max_01 "{m}Возможно, у меня получится записать на диктофон наши с ним разговоры? Почему бы и нет! Главное, чтобы он разоткровенничался...{/m}"
     Max_01 "{m}Forse posso metterci io e lui sul registratore per registrare le nostre conversazioni? Non vedo perché no. Finché è aperto su questo...{/m}"
 
-# game/dialogues/lisatalk.rpy:4563
+# game/dialogues/lisatalk.rpy:4561
 translate italian lisa_about_wallet_a2fd0f39_1:
 
     # Max_09 "{m}На следующей неделе у меня ещё будет время, чтобы поговорить с Эриком, а пока нужно достать диктофон. Он наверняка должен быть у Лизы в телефоне. Правда, вряд ли она мне его даст. Нужно будет спросить у неё через пару дней...{/m}"
     Max_09 "{m}Avrò tempo di parlare con Eric la prossima settimana, ma nel frattempo devo procurarmi un registratore. Lisa dovrebbe averla nel suo telefono. Non credo che me lo darà, però. Dovrò chiederglielo tra un paio di giorni...{/m}"
 
-# game/dialogues/lisatalk.rpy:4576
+# game/dialogues/lisatalk.rpy:4574
 translate italian lisa_asked_phone_2d8609a6:
 
     # Lisa_13 "Макс, я не хочу с тобой разговаривать."
     Lisa_13 "Max, non voglio parlare con te."
 
-# game/dialogues/lisatalk.rpy:4578
+# game/dialogues/lisatalk.rpy:4576
 translate italian lisa_asked_phone_0c81a07b:
 
     # Max_00 "Лиза, мне нужна твоя помощь!"
     Max_00 "Lisa, ho bisogno del tuo aiuto!"
 
-# game/dialogues/lisatalk.rpy:4580
+# game/dialogues/lisatalk.rpy:4578
 translate italian lisa_asked_phone_408a3b67:
 
     # Lisa_13 "Ну уж нет. Я не собираюсь тебе ничего показывать."
     Lisa_13 "Oh, no. Non vi mostrerò nulla."
 
-# game/dialogues/lisatalk.rpy:4581
+# game/dialogues/lisatalk.rpy:4579
 translate italian lisa_asked_phone_39ca9096:
 
     # Max_09 "Мне нужно не это, а твой телефон."
     Max_09 "Non ho bisogno di questo, ho bisogno del tuo telefono."
 
-# game/dialogues/lisatalk.rpy:4582
+# game/dialogues/lisatalk.rpy:4580
 translate italian lisa_asked_phone_bd16cbb9:
 
     # Lisa_09 "Это зачем?"
     Lisa_09 "A cosa serve quello?"
 
-# game/dialogues/lisatalk.rpy:4583
+# game/dialogues/lisatalk.rpy:4581
 translate italian lisa_asked_phone_db149ac4:
 
     # Max_07 "Хочу кое-что... записать. Поможешь? Мне ненадолго."
     Max_07 "C'è qualcosa che voglio... da scrivere. Puoi aiutarmi? Non ci metterò molto."
 
-# game/dialogues/lisatalk.rpy:4584
+# game/dialogues/lisatalk.rpy:4582
 translate italian lisa_asked_phone_add1f78c:
 
     # Lisa_12 "У тебя же полно ворованных денег! Купи себе телефон и записывай, что хочешь."
     Lisa_12 "Hai un sacco di soldi rubati! Comprati un telefono e registra tutto quello che vuoi."
 
-# game/dialogues/lisatalk.rpy:4585
+# game/dialogues/lisatalk.rpy:4583
 translate italian lisa_asked_phone_19bba754:
 
     # Max_10 "Значит не поможешь?"
     Max_10 "Quindi non vuoi aiutare?"
 
-# game/dialogues/lisatalk.rpy:4587
+# game/dialogues/lisatalk.rpy:4585
 translate italian lisa_asked_phone_483aa533:
 
     # Lisa_13 "Нет, Макс. Помоги себе сам." nointeract
     Lisa_13 "No, Max. Aiuta te stesso." nointeract
 
-# game/dialogues/lisatalk.rpy:4593
+# game/dialogues/lisatalk.rpy:4591
 translate italian lisa_asked_phone_5787d988:
 
     # Max_09 "{m}Похоже, остаётся полагаться только на себя. С Эриком я могу поговорить только после ужина, пока мама принимает ванну, а Лиза как раз будет мыть посуду. Наверняка, она оставляет телефон в комнате. Нужно будет его найти и останется только разговорить Эрика...{/m}"
     Max_09 "{m}Immagino che dovrò contare solo su me stesso. Posso parlare con Eric solo dopo cena, mentre mamma sta facendo il bagno e Lisa sta lavando i piatti. Sono sicuro che lascia il suo telefono nella sua stanza. Dovremo solo trovarlo e poi dovremo parlare con Eric...{/m}"
 
-# game/dialogues/lisatalk.rpy:4608
+# game/dialogues/lisatalk.rpy:4606
 translate italian lisa_about_stolen_phone_8b94a697:
 
     # Lisa_12 "Вот ты где! Ты оказывается не только бумажники воруешь, но ещё и телефоны! Ну-ка отдал... Быстро! Или маме рассказать?" nointeract
     Lisa_12 "Eccoti qua! Non state rubando solo i portafogli, ma anche i telefoni! Restituiscilo... Veloce! O dovrei dirlo a mia madre?" nointeract
 
-# game/dialogues/lisatalk.rpy:4611
+# game/dialogues/lisatalk.rpy:4609
 translate italian lisa_about_stolen_phone_a7d84a35:
 
     # Lisa_13 "Это в какой такой Вселенной кража телефона одного человека оправдывает кражу бумажника у другого?"
     Lisa_13 "In quale universo rubare il telefono di una persona giustifica il furto del portafoglio di un'altra persona?"
 
-# game/dialogues/lisatalk.rpy:4612
+# game/dialogues/lisatalk.rpy:4610
 translate italian lisa_about_stolen_phone_f7eb9410:
 
     # Max_07 "В той, где я не крал ни бумажника, ни телефона! Твой телефон я взял лишь на время, к тому же, и ради тебя тоже."
     Max_07 "Quello in cui non ho rubato il portafoglio o il telefono! Ho preso il tuo telefono solo temporaneamente, e anche per il tuo bene."
 
-# game/dialogues/lisatalk.rpy:4613
+# game/dialogues/lisatalk.rpy:4611
 translate italian lisa_about_stolen_phone_f580ae7a:
 
     # Lisa_12 "Не понимаю... Ты меня запутать что ли хочешь? Думаешь, я дурочка какая-то?!"
     Lisa_12 "Non capisco... Stai cercando di confondermi? Pensi che io sia stupido?!"
 
-# game/dialogues/lisatalk.rpy:4614
+# game/dialogues/lisatalk.rpy:4612
 translate italian lisa_about_stolen_phone_87eb2488:
 
     # Max_08 "Ни в коем случае, Лиза! Ты просто послушай, что я записал на диктофон... А уже после решай, что рассказать маме..."
     Max_08 "Niente da fare, Lisa! Ascolta solo quello che ho registrato... E poi decidere cosa dire a tua madre..."
 
-# game/dialogues/lisatalk.rpy:4615
+# game/dialogues/lisatalk.rpy:4613
 translate italian lisa_about_stolen_phone_dd882f9d:
 
     # Lisa_13 "Ну давай, включай... Так уж и быть."
     Lisa_13 "Avanti, accendilo... Tutto a posto."
 
-# game/dialogues/lisatalk.rpy:4623
+# game/dialogues/lisatalk.rpy:4621
 translate italian lisa_about_stolen_phone_d80ba8b0:
 
     # Max_00 "Вот, пожалуйста, слушай, что говорит о тебе ваш обожаемый Эрик..."
     Max_00 "Ecco, per favore ascolta quello che il tuo amato Eric dice di te..."
 
-# game/dialogues/lisatalk.rpy:4624
+# game/dialogues/lisatalk.rpy:4622
 translate italian lisa_about_stolen_phone_2a74b2cc:
 
     # {color=[orange]}(Лиза слушает запись...){/color}"
     new "{color=[orange]}(Lisa ascolta il nastro...){/color}"
 
-# game/dialogues/lisatalk.rpy:4625
+# game/dialogues/lisatalk.rpy:4623
 translate italian lisa_about_stolen_phone_0a6862b6:
 
     # Eric "{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
     Eric "{b}Eric:{/b}\n{i}... inizierà a lucidare il mio cazzo con le sue dolci labbra. L'hai già inviato? Sono qui! La storia sarà la stessa!{/i}"
 
-# game/dialogues/lisatalk.rpy:4626
+# game/dialogues/lisatalk.rpy:4624
 translate italian lisa_about_stolen_phone_4c12b1b6:
 
     # Lisa_10 "Всё, Макс, выключи... Это... Это просто кошмар какой-то... Да меня сейчас просто вырвет от одной мысли о том, что он говорил... Неужели это всё правда?"
     Lisa_10 "Va bene, Max, spegnilo... Questo è... Questo è un incubo... Mi viene da vomitare solo a pensare a quello che ha detto. È davvero vero?"
 
-# game/dialogues/lisatalk.rpy:4627
+# game/dialogues/lisatalk.rpy:4625
 translate italian lisa_about_stolen_phone_e7c089ae:
 
     # Max_07 "Ты сама всё слышала. Или ты не узнала его голос? Я потому и взял твой телефон, чтобы записать разговор с ним. По-другому бы никто мне и не поверил."
     Max_07 "Hai sentito tutto da solo. O non ha riconosciuto la sua voce? Ecco perché ho preso il tuo telefono, per registrare una conversazione con lui. Nessuno mi avrebbe creduto altrimenti."
 
-# game/dialogues/lisatalk.rpy:4628
+# game/dialogues/lisatalk.rpy:4626
 translate italian lisa_about_stolen_phone_76061c05:
 
     # Lisa_09 "У меня просто нет слов... Воспитать под себя... Вот же мерзавец какой! А эта история с его бумажником?"
     Lisa_09 "Sono senza parole... Crescerlo per essere un uomo indipendente... Che bastardo! E la storia del suo portafoglio?"
 
-# game/dialogues/lisatalk.rpy:4629
+# game/dialogues/lisatalk.rpy:4627
 translate italian lisa_about_stolen_phone_a2781c42:
 
     # Max_15 "Враньё это! Я стал ему слишком мешаться, вот он таким образом и решил настроить вас всех против меня и до кучи ещё в военный лагерь сослать."
     Max_15 "Questa è una bugia! Sono diventato troppo fastidioso per lui, così ha deciso di mettervi tutti contro di me e di mandare anche voi in un campo militare."
 
-# game/dialogues/lisatalk.rpy:4630
+# game/dialogues/lisatalk.rpy:4628
 translate italian lisa_about_stolen_phone_a0115d8b:
 
     # Lisa_13 "А вот теперь я и правда чувствую себя дурочкой."
     Lisa_13 "Ora mi sento davvero uno stupido."
 
-# game/dialogues/lisatalk.rpy:4635
+# game/dialogues/lisatalk.rpy:4633
 translate italian lisa_about_stolen_phone_8c2bf242:
 
     # Max_01 "Не переживай, теперь-то ты всё знаешь."
     Max_01 "Non preoccuparti, ora sai tutto."
 
-# game/dialogues/lisatalk.rpy:4636
+# game/dialogues/lisatalk.rpy:4634
 translate italian lisa_about_stolen_phone_ee11f078:
 
     # Lisa_11 "Слушай, нужно маме быстрее всё рассказать! А то он ей тоже все мозги запудрил, причём ещё больше, чем мне..."
     Lisa_11 "Senti, dobbiamo dirlo alla mamma il prima possibile! Anche lui l'ha confusa, anche più di me..."
 
-# game/dialogues/lisatalk.rpy:4639
+# game/dialogues/lisatalk.rpy:4637
 translate italian lisa_about_stolen_phone_47ad2e2d:
 
     # Max_09 "Ага, пошли. Они сейчас должны смотреть ТВ в гостиной. Только давай Алису с собой захватим, её ведь это тоже касается..." nointeract
     Max_09 "Sì, andiamo. Ora dovrebbero guardare la TV in salotto. Ma portiamo con noi Alice, perché anche lei è coinvolta..." nointeract
 
-# game/dialogues/lisatalk.rpy:4648
+# game/dialogues/lisatalk.rpy:4646
 translate italian lisa_about_stolen_phone_3900a779:
 
     # Alice_15 "Что?! Макс! Ну-ка иди отсюда, пока в ухо не получил!"
     Alice_15 "Cosa?! Max! Bene, vai da qui fino a quando non lo prendi nell'orecchio!"
 
-# game/dialogues/lisatalk.rpy:4649
+# game/dialogues/lisatalk.rpy:4647
 translate italian lisa_about_stolen_phone_ce1000ee:
 
     # Max_07 "Потом извиняться устанешь... Мама всех вниз в гостиную зовёт, важное и срочное дело. Тебя это тоже касается, так что пошли..."
     Max_07 "Ti stancherai di scusarti dopo... La mamma chiama tutti in salotto, è importante e urgente. Riguarda anche te, quindi andiamo..."
 
-# game/dialogues/lisatalk.rpy:4651
+# game/dialogues/lisatalk.rpy:4649
 translate italian lisa_about_stolen_phone_bb2fc3cc:
 
     # Alice_16 "Если это окажется твоим тупым розыгрышем, то тебе несдобровать!" nointeract
     Alice_16 "Se questo risulta essere il tuo stupido scherzo, sei nei guai!" nointeract
 
-# game/dialogues/lisatalk.rpy:4661
+# game/dialogues/lisatalk.rpy:4659
 translate italian lisa_about_showdown_894e381f:
 
     # Lisa_09 "Я пока не могу прийти в себя. Всплыла вся эта правда об Эрике..."
     Lisa_09 "Non posso ancora rinsavire. Tutta questa verità su Eric è venuta fuori..."
 
-# game/dialogues/lisatalk.rpy:4662
+# game/dialogues/lisatalk.rpy:4660
 translate italian lisa_about_showdown_fcccc3b6:
 
     # Max_07 "Всё уже в прошлом, просто забудь о нём, словно о приснившемся кошмаре!"
     Max_07 "È tutto nel passato, dimenticalo come un incubo!"
 
-# game/dialogues/lisatalk.rpy:4663
+# game/dialogues/lisatalk.rpy:4661
 translate italian lisa_about_showdown_84ec0003:
 
     # Lisa_10 "Я знаю, что так и стоит сделать... Правда, это довольно сложно."
     Lisa_10 "So che vale la pena farlo... Davvero, è abbastanza complicato."
 
-# game/dialogues/lisatalk.rpy:4664
+# game/dialogues/lisatalk.rpy:4662
 translate italian lisa_about_showdown_b6a1eb3b:
 
     # Max_08 "Почему? Ничего ведь страшного не случилось!"
     Max_08 "Perché? Non è che sia un grosso problema!"
 
-# game/dialogues/lisatalk.rpy:4665
+# game/dialogues/lisatalk.rpy:4663
 translate italian lisa_about_showdown_2692c788:
 
     # Lisa_01 "Но могло... Спасибо тебе, что не случилось."
     Lisa_01 "Ma avrebbe potuto... Grazie per non averlo fatto."
 
-# game/dialogues/lisatalk.rpy:4666
+# game/dialogues/lisatalk.rpy:4664
 translate italian lisa_about_showdown_a9134173:
 
     # Max_09 "Так ты же сама хотела, разве нет?"
     Max_09 "Quindi volevi farlo, vero?"
 
-# game/dialogues/lisatalk.rpy:4667
+# game/dialogues/lisatalk.rpy:4665
 translate italian lisa_about_showdown_a1e3f3c6:
 
     # Lisa_13 "Да, сама... Но он это для собственного удовольствия придумал. А моё сексуальное образование - просто отличный повод."
     Lisa_13 "Sì, io stesso... Ma l'ha inventato per divertirsi. E la mia educazione sessuale è la scusa perfetta."
 
-# game/dialogues/lisatalk.rpy:4668
+# game/dialogues/lisatalk.rpy:4666
 translate italian lisa_about_showdown_5bf43e9b:
 
     # Max_07 "Хоть Эрик явно и испортил твой настрой на сексуальное образование, но у меня есть некоторые идеи на этот счёт. Можно смотреть обучающие фильмы."
     Max_07 "Anche se Eric ha chiaramente rovinato la tua mentalità sull'educazione sessuale, ho qualche idea in proposito. Potreste guardare dei film educativi."
 
-# game/dialogues/lisatalk.rpy:4669
+# game/dialogues/lisatalk.rpy:4667
 translate italian lisa_about_showdown_88187e24:
 
     # Lisa_11 "А такие фильмы действительно есть?! Почему я тогда смотрела не их, а на маму с Эриком?"
     Lisa_11 "Esistono davvero questi film? Perché allora non ero io a guardare loro, ma mia madre ed Eric?"
 
-# game/dialogues/lisatalk.rpy:4670
+# game/dialogues/lisatalk.rpy:4668
 translate italian lisa_about_showdown_cb5389f3:
 
     # Max_00 "На это ты сама уже ответила. Потому что Эрик это для собственного удовольствия и дальнейших перспектив придумал."
     Max_00 "Ti sei già risposto da solo. Perché Eric ha inventato questo per il suo piacere e le sue prospettive future."
 
-# game/dialogues/lisatalk.rpy:4671
+# game/dialogues/lisatalk.rpy:4669
 translate italian lisa_about_showdown_4c3cdb13:
 
     # Lisa_02 "И что, ты мне покажешь эти фильмы?"
     Lisa_02 "Allora, hai intenzione di mostrarmi questi film?"
 
-# game/dialogues/lisatalk.rpy:4672
+# game/dialogues/lisatalk.rpy:4670
 translate italian lisa_about_showdown_b4051f36:
 
     # Max_03 "Запросто! Как-нибудь перед сном обязательно посмотрим. Если захочешь..."
     Max_03 "Certo! Lo guarderemo qualche volta prima di andare a letto. Se vuoi..."
 
-# game/dialogues/lisatalk.rpy:4673
+# game/dialogues/lisatalk.rpy:4671
 translate italian lisa_about_showdown_f97ae655:
 
     # Lisa_10 "А может я хочу одна их посмотреть?"
     Lisa_10 "O forse voglio guardarli da solo?"
 
-# game/dialogues/lisatalk.rpy:4674
+# game/dialogues/lisatalk.rpy:4672
 translate italian lisa_about_showdown_8b04c4e1:
 
     # Max_09 "Ага, потом начнёшь, то одно спрашивать или уточнять, то другое. Не надо мне этого, лучше вместе посмотрим и сразу спросишь всё, что тебя озадачит."
     Max_09 "Sì, e poi comincerai a chiedere una cosa e poi un'altra. Non ditemelo, è meglio che lo guardiate insieme e che mi chiediate tutto ciò che vi lascia perplessi."
 
-# game/dialogues/lisatalk.rpy:4675
+# game/dialogues/lisatalk.rpy:4673
 translate italian lisa_about_showdown_e94b939c:
 
     # Lisa_03 "Это же обучающие фильмы, Макс. После них не должно быть вопросов."
     Lisa_03 "Questi sono film di formazione, Max. Non ci dovrebbero essere domande dopo."
 
-# game/dialogues/lisatalk.rpy:4676
+# game/dialogues/lisatalk.rpy:4674
 translate italian lisa_about_showdown_240c6212:
 
     # Max_07 "То есть, если ты прочитаешь какой-нибудь учебник - он тебе все таинства и опыт передаст? Нет конечно."
     Max_07 "Quindi se leggete qualche libro di testo - vi darà tutti i misteri e le esperienze? No, certo che no."
 
-# game/dialogues/lisatalk.rpy:4677
+# game/dialogues/lisatalk.rpy:4675
 translate italian lisa_about_showdown_20d6306c:
 
     # Lisa_02 "Ага, ты у нас прямо великий учитель. Всё-всё знаешь."
     Lisa_02 "Sì, sei un grande insegnante. Tu sai tutto."
 
-# game/dialogues/lisatalk.rpy:4678
+# game/dialogues/lisatalk.rpy:4676
 translate italian lisa_about_showdown_01084b90:
 
     # Max_04 "Может и не всё, но лишним я точно не буду."
     Max_04 "Forse non tutto, ma certamente non sarò ridondante."
 
-# game/dialogues/lisatalk.rpy:4679
+# game/dialogues/lisatalk.rpy:4677
 translate italian lisa_about_showdown_00bf67cf:
 
     # Lisa_01 "Ладно, тогда посмотрим..."
     Lisa_01 "Ok, vediamo allora..."
 
-# game/dialogues/lisatalk.rpy:4680
+# game/dialogues/lisatalk.rpy:4678
 translate italian lisa_about_showdown_e05d6220:
 
     # Max_01 "Договорились, сестрёнка."
     Max_01 "È un affare, sorella."
 
-# game/dialogues/lisatalk.rpy:4698
+# game/dialogues/lisatalk.rpy:4696
 translate italian lisa_about_olivia_5_805315c8:
 
     # Lisa_11 "Макс, слушай... Знаешь, что я сейчас сообразила?"
     Lisa_11 "Max, ascolta... Sai cosa ho appena capito?"
 
-# game/dialogues/lisatalk.rpy:4699
+# game/dialogues/lisatalk.rpy:4697
 translate italian lisa_about_olivia_5_42eae722:
 
     # Max_07 "Нет. Давай рассказывай..."
     Max_07 "No. Dimmi..."
 
-# game/dialogues/lisatalk.rpy:4700
+# game/dialogues/lisatalk.rpy:4698
 translate italian lisa_about_olivia_5_5914c219:
 
     # Lisa_10 "К нам же теперь Оливия не сможет по ночам приходить! Мама теперь всё время будет дома ночевать."
     Lisa_10 "Olivia non potrà più venire di notte! La mamma sarà sempre a casa ora."
 
-# game/dialogues/lisatalk.rpy:4701
+# game/dialogues/lisatalk.rpy:4699
 translate italian lisa_about_olivia_5_cf4a656a:
 
     # Max_09 "Вот блин! Это плохо... В смысле, хорошо, что она дома, но плохо..."
     Max_09 "Oh, merda! Questo è male... Voglio dire, è un bene che sia a casa, ma è un male..."
 
-# game/dialogues/lisatalk.rpy:4706
+# game/dialogues/lisatalk.rpy:4704
 translate italian lisa_about_olivia_5_d7a9ae54:
 
     # Lisa_09 "Что будем делать?"
     Lisa_09 "Cosa faremo?"
 
-# game/dialogues/lisatalk.rpy:4707
+# game/dialogues/lisatalk.rpy:4705
 translate italian lisa_about_olivia_5_ab36e9a3:
 
     # Max_08 "Знакомить их скорее! Правда, не знаю, как мама отреагирует на... особенность Оливии, но нужно сперва посмотреть на реакцию, а уже потом делать выводы."
     Max_08 "Fateli conoscere presto! Non so come mamma reagirà a Olivia... Non so come la mamma reagirà alla particolarità di Olivia, ma dobbiamo vedere come reagisce prima di trarre conclusioni."
 
-# game/dialogues/lisatalk.rpy:4708
+# game/dialogues/lisatalk.rpy:4706
 translate italian lisa_about_olivia_5_37f257a7:
 
     # Lisa_13 "Думаешь, она будет не против наших полуголых ночных посиделок? Я вот как-то сомневаюсь. Хотя..."
     Lisa_13 "Credi che le dispiacerà delle nostre serate seminude? Ne dubito. Anche se..."
 
-# game/dialogues/lisatalk.rpy:4709
+# game/dialogues/lisatalk.rpy:4707
 translate italian lisa_about_olivia_5_2704fdca:
 
     # Max_04 "Ну, \"полуголых\" - это слабо сказано, потому что из полуголых у нас только ты, а все остальные СОВСЕМ голые."
     Max_04 "Beh, \"mezzo nudo\" - è un eufemismo, perché tu sei l'unico mezzo nudo qui, e tutti gli altri sono TOTALMENTE nudi."
 
-# game/dialogues/lisatalk.rpy:4715
+# game/dialogues/lisatalk.rpy:4713
 translate italian lisa_about_olivia_5_50191b16:
 
     # Lisa_10 "И мне кажется, что кому-кому, а мне она запретит по ночам тусоваться с вами. Да и не факт, что и тебе с Оливией разрешит."
     Lisa_10 "E credo di essere l'unico che non lascia uscire con voi la sera. Non so se anche lei lo permetterà a te e a Olivia."
 
-# game/dialogues/lisatalk.rpy:4716
+# game/dialogues/lisatalk.rpy:4714
 translate italian lisa_about_olivia_5_52089248:
 
     # Max_03 "Как бы там ни было, но зови её к нам завтра. А маму я уж как-нибудь уговорю. К тому же, ей не обязательно сообщать, в каком виде мы тусуемся."
     Max_03 "Comunque, chiedile di unirsi a noi domani. Lo farò fare a mia madre in qualche modo. Inoltre, non deve sapere che tipo di festa stiamo facendo."
 
-# game/dialogues/lisatalk.rpy:4717
+# game/dialogues/lisatalk.rpy:4715
 translate italian lisa_about_olivia_5_ec426758:
 
     # Lisa_01 "Да, подробности лучше опустить. Ох и удивится завтра мама."
     Lisa_01 "Sì, è meglio tralasciare i dettagli. La mamma sarà sorpresa domani."
 
-# game/dialogues/lisatalk.rpy:4722
+# game/dialogues/lisatalk.rpy:4720
 translate italian lisa_about_olivia_5_080cf4d3:
 
     # Max_09 "{m}Лиза может быть права. После подлянки от Эрика, мама может начать снова оберегать Лизу от всего на свете. Надеюсь, мне удастся её завтра убедить, что контактирование с голой Оливией - это безобидное занятие, что для меня, что для Лизы.{/m}"
     Max_09 "{m}Lisa potrebbe avere ragione. Dopo lo scherzo di Eric, la mamma potrebbe ricominciare a proteggere Lisa da tutto il mondo. Spero di poterla convincere domani che contattare una Olivia nuda è un'attività innocua, sia per me che per Lisa.{/m}"
 
-# game/dialogues/lisatalk.rpy:4733
+# game/dialogues/lisatalk.rpy:4731
 translate italian lisa_about_olivia_6_4625ce5e:
 
     # Lisa_03 "Ты про Оливию? И мне с вами можно?"
     Lisa_03 "Intendi Olivia? Posso venire anch'io?"
 
-# game/dialogues/lisatalk.rpy:4734
+# game/dialogues/lisatalk.rpy:4732
 translate italian lisa_about_olivia_6_b6006830:
 
     # Max_07 "Да, я получил добро на всё. Но мама намекнула, что если мы будем шуметь, то она вполне может прийти и проверить, чем мы занимаемся."
     Max_07 "Sì, ho avuto l'ok per tutto. Ma la mamma ha lasciato intendere che se avessimo fatto rumore, sarebbe potuta venire a controllare cosa stavamo facendo."
 
-# game/dialogues/lisatalk.rpy:4735
+# game/dialogues/lisatalk.rpy:4733
 translate italian lisa_about_olivia_6_17e47234:
 
     # Lisa_10 "Ой! Но мы же вроде не собираемся сильно шуметь, да?"
     Lisa_10 "Ma non faremo molto rumore, vero?"
 
-# game/dialogues/lisatalk.rpy:4736
+# game/dialogues/lisatalk.rpy:4734
 translate italian lisa_about_olivia_6_791f2d69:
 
     # Max_02 "Да, но как знать."
     Max_02 "Sì, ma chi lo sa."
 
-# game/dialogues/lisatalk.rpy:4737
+# game/dialogues/lisatalk.rpy:4735
 translate italian lisa_about_olivia_6_0d89823a:
 
     # Lisa_02 "Не знаю, что ты там себе уже нафантазировал, но мы с Оливией шуметь не собираемся."
     Lisa_02 "Non so cosa abbiate già immaginato, ma io e Olivia non faremo alcun rumore."
 
-# game/dialogues/lisatalk.rpy:4738
+# game/dialogues/lisatalk.rpy:4736
 translate italian lisa_about_olivia_6_9ff6f03c:
 
     # Max_08 "Я тоже. Надеюсь, если мама придёт нас проверять, то не станет подходить слишком близко."
     Max_08 "Anch'io. Speriamo che se la mamma viene a controllarci, non si avvicini troppo."
 
-# game/dialogues/lisatalk.rpy:4739
+# game/dialogues/lisatalk.rpy:4737
 translate italian lisa_about_olivia_6_3c37e115:
 
     # Lisa_13 "Да, в таком случае у нас будут проблемы из-за кое-кого."
     Lisa_13 "Sì, in questo caso avremo problemi a causa di qualcuno."
 
-# game/dialogues/lisatalk.rpy:4740
+# game/dialogues/lisatalk.rpy:4738
 translate italian lisa_about_olivia_6_d648b0fe:
 
     # Max_03 "Давай только пальцами не показывать."
     Max_03 "Non puntiamo il dito."
 
-# game/dialogues/lisatalk.rpy:4741
+# game/dialogues/lisatalk.rpy:4739
 translate italian lisa_about_olivia_6_cc4386fa:
 
     # Lisa_01 "Спасибо, что уговорил маму. Видимо, это было не особо сложно."
     Lisa_01 "Grazie per aver convinto la mamma. Apparentemente non era particolarmente difficile."
 
-# game/dialogues/lisatalk.rpy:4742
+# game/dialogues/lisatalk.rpy:4740
 translate italian lisa_about_olivia_6_61461d8f:
 
     # Max_02 "Просто я могу быть очень убедителен, если захочу."
     Max_02 "Posso essere molto persuasivo se voglio."
 
-# game/dialogues/lisatalk.rpy:4743
+# game/dialogues/lisatalk.rpy:4741
 translate italian lisa_about_olivia_6_e1a37a49:
 
     # Lisa_02 "И правда, чему я удивляюсь. Это же из-за голой Оливии."
     Lisa_02 "Davvero, perché sono sorpreso? Si tratta di Olivia nuda."
 
-# game/dialogues/lisatalk.rpy:4744
+# game/dialogues/lisatalk.rpy:4742
 translate italian lisa_about_olivia_6_0a7bae5a:
 
     # Max_05 "Не только. Когда-нибудь мы все будем резвиться ночью голышом!"
     Max_05 "Non solo. Un giorno saremo tutti a sguazzare nudi di notte!"
 
-# game/dialogues/lisatalk.rpy:4745
+# game/dialogues/lisatalk.rpy:4743
 translate italian lisa_about_olivia_6_023ebf67:
 
     # Lisa_01 "Ага, мечтай."
     Lisa_01 "Sì, sogna."
 
-# game/dialogues/lisatalk.rpy:4765
+# game/dialogues/lisatalk.rpy:4763
 translate italian lisa_about_sex_book0_351a8dec:
 
     # Lisa_02 "Ты про ту с забавными картинками? Интересная. Я и правда многое узнала. Думаю, что теперь и сама могу учить кого угодно..."
     Lisa_02 "Intendi quello con le foto divertenti? È interessante. Ho davvero imparato molto. Penso di poter insegnare a chiunque da solo adesso..."
 
-# game/dialogues/lisatalk.rpy:4766
+# game/dialogues/lisatalk.rpy:4764
 translate italian lisa_about_sex_book0_7b00466f:
 
     # Max_08 "Эй, книжка учителя не заменит!"
     Max_08 "Ehi, un libro non sostituisce un insegnante!"
 
-# game/dialogues/lisatalk.rpy:4767
+# game/dialogues/lisatalk.rpy:4765
 translate italian lisa_about_sex_book0_862d72d5:
 
     # Lisa_03 "Что, испугался, учитель?"
     Lisa_03 "Che c'è, hai paura, insegnante?"
 
-# game/dialogues/lisatalk.rpy:4771
+# game/dialogues/lisatalk.rpy:4769
 translate italian lisa_about_sex_book0_8e5b6c38:
 
     # Max_03 "Ещё как. Так значит, возобновим уроки поцелуев?"
     Max_03 "Puoi scommetterci. Allora, riprendiamo le lezioni di bacio?"
 
-# game/dialogues/lisatalk.rpy:4774
+# game/dialogues/lisatalk.rpy:4772
 translate italian lisa_about_sex_book0_7ebe75f0:
 
     # Max_03 "Ещё как. Ну что, продолжим уроки сексуального образования Эрика, но только уже со мной?"
     Max_03 "Puoi scommetterci. Allora, vogliamo continuare le lezioni di educazione sessuale di Eric, ma con me?"
 
-# game/dialogues/lisatalk.rpy:4775
+# game/dialogues/lisatalk.rpy:4773
 translate italian lisa_about_sex_book0_e48b612f:
 
     # Lisa_13 "Ну нет! Хоть Эрик и сказал, что ты знаешь, чему меня учить, но я сильно сомневаюсь в этом. Наверняка, ты чего-то там ему наболтал и он поверил."
     Lisa_13 "Beh, no! Anche se Eric ha detto che sai cosa insegnarmi, ne dubito seriamente. Devi avergli detto qualcosa e lui ti ha creduto."
 
-# game/dialogues/lisatalk.rpy:4776
+# game/dialogues/lisatalk.rpy:4774
 translate italian lisa_about_sex_book0_40be8496:
 
     # Max_09 "Ты серьёзно думаешь, что я провёл Эрика?"
     Max_09 "Pensi davvero che abbia ingannato Eric?"
 
-# game/dialogues/lisatalk.rpy:4777
+# game/dialogues/lisatalk.rpy:4775
 translate italian lisa_about_sex_book0_d7fbed8f:
 
     # Lisa_10 "Не думаю. Я {b}ОЧЕНЬ{/b} в этом уверена!"
     Lisa_10 "Non credo. Ne sono {b}MOLTO{/b} sicura!"
 
-# game/dialogues/lisatalk.rpy:4778
+# game/dialogues/lisatalk.rpy:4776
 translate italian lisa_about_sex_book0_e1846811:
 
     # Max_07 "Тогда, для начала, давай возобновим уроки поцелуев? А когда ты поймёшь, что я знаю, чему учить, то продолжим уроки Эрика..."
     Max_07 "Allora, per cominciare, riprendiamo le lezioni di bacio, va bene? E quando capirete che so cosa insegnare, allora continuiamo con le lezioni di Eric..."
 
-# game/dialogues/lisatalk.rpy:4780
+# game/dialogues/lisatalk.rpy:4778
 translate italian lisa_about_sex_book0_fdec10eb:
 
     # Lisa_13 "Хм... А зачем? Я же теперь умею целоваться. Если это всё, чему ты собрался меня учить, то дальше я сама разберусь..."
     Lisa_13 "Hm... Qual è il punto? Ora so come baciare. Se questo è tutto quello che mi insegnerai, posso continuare io..."
 
-# game/dialogues/lisatalk.rpy:4784
+# game/dialogues/lisatalk.rpy:4782
 translate italian lisa_about_sex_book0_bc716f9b:
 
     # Max_07 "Конечно не всё. Мы пойдём дальше. Ты же уже не стесняешься моих прикосновений?"
     Max_07 "Certamente non tutto. Andremo avanti. Non ti imbarazza più il mio tocco, vero?"
 
-# game/dialogues/lisatalk.rpy:4785
+# game/dialogues/lisatalk.rpy:4783
 translate italian lisa_about_sex_book0_dc029ff0:
 
     # Lisa_01 "Ты имеешь в виду, во время поцелуев? Нет, не стесняюсь. Они делают поцелуи куда приятнее. А что?"
     Lisa_01 "Vuoi dire mentre mi baci? No, non sono timida. Rende il bacio molto più bello. Perché?"
 
-# game/dialogues/lisatalk.rpy:4786
+# game/dialogues/lisatalk.rpy:4784
 translate italian lisa_about_sex_book0_c68a94ec:
 
     # Max_04 "А то, что тебе пора учиться принимать поцелуи не только в губы. Я буду целовать тебя в шею и грудь, а ты не должна стесняться."
     Max_04 "E che è ora che tu impari ad accettare baci diversi da quelli sulle labbra. Ti bacerò il collo e il seno, e non devi essere timida."
 
-# game/dialogues/lisatalk.rpy:4787
+# game/dialogues/lisatalk.rpy:4785
 translate italian lisa_about_sex_book0_2c2f9970:
 
     # Lisa_10 "Ой, ну... В шею ещё можно попробовать, но вот грудь... Не уверена..."
     Lisa_10 "Oh, bene... Potresti provare con il collo, ma il seno... Non sono sicura..."
 
-# game/dialogues/lisatalk.rpy:4788
+# game/dialogues/lisatalk.rpy:4786
 translate italian lisa_about_sex_book0_cceec119:
 
     # Max_01 "Это же всё будет происходить плавно. Начнём с обычных поцелуев в губы, а затем я двинусь ниже."
     Max_01 "Tutto questo avverrà senza intoppi. Inizieremo con i soliti baci sulle labbra e poi mi sposterò più in basso."
 
-# game/dialogues/lisatalk.rpy:4789
+# game/dialogues/lisatalk.rpy:4787
 translate italian lisa_about_sex_book0_6876e809:
 
     # Lisa_02 "Это если мне понравится. А это не факт, Макс! Но давай попробуем..." nointeract
     Lisa_02 "Questo se mi piace. E non è una cosa sicura, Max! Ma facciamo un tentativo..." nointeract
 
-# game/dialogues/lisatalk.rpy:4797
+# game/dialogues/lisatalk.rpy:4795
 translate italian lisa_about_sex_book0_1092223e:
 
     # Max_04 "{m}Эти нежные губки такие сладкие... А её горячий язычок начинает всё активнее играть с моим! Посмотрим, что будет дальше...{/m}" nointeract
     Max_04 "{m}Quelle labbra morbide sono così dolci... E la sua lingua calda comincia a giocare sempre di più con la mia! Vediamo cosa succede dopo...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4803
+# game/dialogues/lisatalk.rpy:4801
 translate italian lisa_about_sex_book0_afa17d8b:
 
     # Max_05 "{m}Классно... Её ножки такие гладкие, а попка очень упругая! Без таких прикосновений наши поцелуи уже не обходятся, а значит можно спокойно двигаться дальше...{/m}" nointeract
     Max_05 "{m}Bello... Le sue gambe sono così lisce e il suo culo è molto sodo! I nostri baci non sono privi di tali tocchi, il che significa che possiamo andare avanti...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4809
+# game/dialogues/lisatalk.rpy:4807
 translate italian lisa_about_sex_book0_d262e2cc:
 
     # Max_06 "{m}О да! Нащупал что-то мягкое и округлое, да ещё и с торчащими сосочками, которые чувствуются даже через её одежду...{/m}" nointeract
     Max_06 "{m}Oh sì, sentì qualcosa di morbido e rotondo, e con i capezzoli sporgenti che si potevano sentire anche attraverso i vestiti...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4815
+# game/dialogues/lisatalk.rpy:4813
 translate italian lisa_about_sex_book0_bba74f75:
 
     # Max_19 "{m}Обалдеть! Её кожа такая нежная... Интересно, её это заводит так же сильно, как и меня? Ощущения от того, что я тискаю её обнажённую грудь и целую её восхитительную шейку, бесподобны!{/m}"
     Max_19 "{m}È incredibile! La sua pelle è così morbida... Mi chiedo se la eccita tanto quanto eccita me. La sensazione di stringere i suoi seni nudi e di baciare il suo delizioso collo era impareggiabile!{/m}"
 
-# game/dialogues/lisatalk.rpy:4816
+# game/dialogues/lisatalk.rpy:4814
 translate italian lisa_about_sex_book0_b4655fea:
 
     # Lisa_04 "Ммм... Макс... Всё, остановись. Давай не будем..."
     Lisa_04 "Mmm... Max... Va bene, basta. Non..."
 
-# game/dialogues/lisatalk.rpy:4820
+# game/dialogues/lisatalk.rpy:4818
 translate italian lisa_about_sex_book0_de1bedf6:
 
     # Max_10 "Почему? Тебе не понравилось?"
     Max_10 "Perché? Non ti è piaciuto?"
 
-# game/dialogues/lisatalk.rpy:4821
+# game/dialogues/lisatalk.rpy:4819
 translate italian lisa_about_sex_book0_a3368a42:
 
     # Lisa_05 "Понравились... Просто это уже слишком... интимно. Не уверена, что таким следует заниматься с братом."
     Lisa_05 "Mi piace... E' troppo... intimo. Non sono sicuro che sia il tipo di cosa che dovresti fare con tuo fratello."
 
-# game/dialogues/lisatalk.rpy:4822
+# game/dialogues/lisatalk.rpy:4820
 translate italian lisa_about_sex_book0_d607c9c9:
 
     # Max_07 "Ну, знаешь... Другие могут и не деликатничать с тобой."
     Max_07 "Beh, sai... Altri potrebbero non essere così delicati con te."
 
-# game/dialogues/lisatalk.rpy:4823
+# game/dialogues/lisatalk.rpy:4821
 translate italian lisa_about_sex_book0_66f59451:
 
     # Lisa_09 "Мне нравится, как ты это делаешь, но я стесняюсь."
     Lisa_09 "Mi piace il tuo modo di fare, ma sono timido."
 
-# game/dialogues/lisatalk.rpy:4824
+# game/dialogues/lisatalk.rpy:4822
 translate italian lisa_about_sex_book0_963f8bda:
 
     # Max_01 "Ладно, может быть ты ещё передумаешь..."
     Max_01 "Ok, forse cambierai idea..."
 
-# game/dialogues/lisatalk.rpy:4825
+# game/dialogues/lisatalk.rpy:4823
 translate italian lisa_about_sex_book0_92b12f4a:
 
     # Lisa_01 "Не знаю, может быть."
     Lisa_01 "Non lo so, forse."
 
-# game/dialogues/lisatalk.rpy:4841
+# game/dialogues/lisatalk.rpy:4839
 translate italian lisa_read_with_Max0_612a816a:
 
     # Lisa_01 "Тебе заняться больше нечем?"
     Lisa_01 "Non hai altro da fare?"
 
-# game/dialogues/lisatalk.rpy:4842
+# game/dialogues/lisatalk.rpy:4840
 translate italian lisa_read_with_Max0_80b95965:
 
     # Max_01 "Просто с тобой хочу побыть."
     Max_01 "Voglio solo stare con te."
 
-# game/dialogues/lisatalk.rpy:4843
+# game/dialogues/lisatalk.rpy:4841
 translate italian lisa_read_with_Max0_88576ab2:
 
     # Lisa_02 "Ну, хорошо... Присоединяйся. Только если мешаться не будешь!" nointeract
     Lisa_02 "Oh, bene... Unisciti a noi... Basta che tu non ti metta in mezzo!" nointeract
 
-# game/dialogues/lisatalk.rpy:4850
+# game/dialogues/lisatalk.rpy:4848
 translate italian lisa_read_with_Max0_90e899b5:
 
     # Lisa_01 "Осторожнее, Макс! Если начнёшь приставать, то я и обидеться могу."
     Lisa_01 "Attento, Max! Se iniziate a molestarmi, potrei offendermi."
 
-# game/dialogues/lisatalk.rpy:4851
+# game/dialogues/lisatalk.rpy:4849
 translate italian lisa_read_with_Max0_3db23ad8:
 
     # Max_04 "Да ладно тебе. Я же ничего не делаю. Ты как, не передумала?"
     Max_04 "Oh, ma dai! Non è che io stia facendo qualcosa. Hai cambiato idea?"
 
-# game/dialogues/lisatalk.rpy:4852
+# game/dialogues/lisatalk.rpy:4850
 translate italian lisa_read_with_Max0_9b51ee12:
 
     # Lisa_00 "Насчёт чего? Уроков поцелуев?"
     Lisa_00 "Su cosa? Lezioni di bacio?"
 
-# game/dialogues/lisatalk.rpy:4853
+# game/dialogues/lisatalk.rpy:4851
 translate italian lisa_read_with_Max0_f5881c27:
 
     # Max_07 "Ага. Не хочешь снова попробовать? Я ведь могу целовать ещё нежнее..."
     Max_07 "Sì. Vuoi provare di nuovo? Posso baciare ancora più delicatamente..."
 
-# game/dialogues/lisatalk.rpy:4854
+# game/dialogues/lisatalk.rpy:4852
 translate italian lisa_read_with_Max0_f6f35474:
 
     # Lisa_09 "Дело не в нежности. С этим всё в порядке. Просто ты ко мне так прикасаешься, а мы брат и сестра. Это ведь как-то неправильно!"
     Lisa_09 "Non si tratta di tenerezza. Non c'è niente di male in questo. È solo il modo in cui mi tocchi, e siamo fratello e sorella. Non mi sembra giusto!"
 
-# game/dialogues/lisatalk.rpy:4860
+# game/dialogues/lisatalk.rpy:4858
 translate italian lisa_read_with_Max0_e3bd0cdf:
 
     # Max_03 "Ты моя любимая сестрёнка и ВОТ ТАК я к тебе прикасаюсь, потому что хочу сделать тебе приятно."
     Max_03 "Sei la mia sorella preferita e QUESTO è il modo in cui ti tocco, perché voglio farti piacere."
 
-# game/dialogues/lisatalk.rpy:4861
+# game/dialogues/lisatalk.rpy:4859
 translate italian lisa_read_with_Max0_26f40943:
 
     # Lisa_02 "Ах вот оно что! А я думала ВОТ ТАК ты ко мне прикасаешься, чтобы свои ручки шаловливые порадовать..."
     Lisa_02 "Oh, è così! Pensavo che mi toccassi così, per compiacere le tue mani birichine..."
 
-# game/dialogues/lisatalk.rpy:4862
+# game/dialogues/lisatalk.rpy:4860
 translate italian lisa_read_with_Max0_39ae90b5:
 
     # Max_02 "Не без этого. Тебе приятно, мне приятно, а остальное как-то неважно."
     Max_02 "Non senza quello. Va bene per te, va bene per me, e il resto è in qualche modo irrilevante."
 
-# game/dialogues/lisatalk.rpy:4863
+# game/dialogues/lisatalk.rpy:4861
 translate italian lisa_read_with_Max0_ad30bc58:
 
     # Lisa_10 "А вдруг кто-то узнает, чем мы с тобой занимаемся? Знаешь как нам прилетит!"
     Lisa_10 "E se qualcuno scopre quello che stiamo facendo io e te? Sai come ci metteremo nei guai!"
 
-# game/dialogues/lisatalk.rpy:4864
+# game/dialogues/lisatalk.rpy:4862
 translate italian lisa_read_with_Max0_b43f08a3:
 
     # Max_09 "Да никто не узнает, если ты сама не проболтаешься."
     Max_09 "Nessuno lo saprà se non glielo dici tu stesso."
 
-# game/dialogues/lisatalk.rpy:4865
+# game/dialogues/lisatalk.rpy:4863
 translate italian lisa_read_with_Max0_a89d5233:
 
     # Lisa_01 "Ну ладно, давай попробуем... Но если я попрошу остановиться, мы остановимся, ясно?" nointeract
     Lisa_01 "Va bene, facciamo una prova... Ma se ti chiedo di fermarti, ci fermiamo, ok?" nointeract
 
-# game/dialogues/lisatalk.rpy:4871
+# game/dialogues/lisatalk.rpy:4869
 translate italian lisa_read_with_Max0_c3cb9e88:
 
     # Max_06 "{m}Ммм... Теперь я могу мять эту упругую попку так, как захочу! А дальше... Дальше мои руки смогут обласкать всё её нежное тело...{/m}"
     Max_06 "{m}Mmm... Ora posso spremere quel culo sodo come voglio! E poi... Poi, le mie mani possono accarezzare il suo tenero corpo...{/m}"
 
-# game/dialogues/lisatalk.rpy:4879
+# game/dialogues/lisatalk.rpy:4877
 translate italian lisa_read_with_Max0_32ffbb2f:
 
     # Lisa_13 "Знаешь, Макс... Мы вот это делаем и я чувствую, что сам ты эту книгу по сексуальному образованию не читал. А ещё учителем называешься!"
     Lisa_13 "Sai, Max... Lo stiamo facendo e percepisco che non hai letto il libro di educazione sessuale. E tu ti definisci un insegnante!"
 
-# game/dialogues/lisatalk.rpy:4880
+# game/dialogues/lisatalk.rpy:4878
 translate italian lisa_read_with_Max0_288ff111:
 
     # Max_09 "Ты каким таким образом это могла почувствовать?"
     Max_09 "Come si può percepire in questo modo?"
 
-# game/dialogues/lisatalk.rpy:4883
+# game/dialogues/lisatalk.rpy:4881
 translate italian lisa_read_with_Max0_ba792759:
 
     # Lisa_01 "А ты вот прочитай сначала, тогда и поймёшь, а уже потом приставай."
     Lisa_01 "Dovresti leggerlo prima, poi capirai, e poi darti da fare."
 
-# game/dialogues/lisatalk.rpy:4887
+# game/dialogues/lisatalk.rpy:4885
 translate italian lisa_read_with_Max0_06d96872:
 
     # Max_11 "Ну ладно... Прочту." nointeract
     Max_11 "Va bene... Lo leggerò." nointeract
 
-# game/dialogues/lisatalk.rpy:4896
+# game/dialogues/lisatalk.rpy:4894
 translate italian lisa_read_with_Max0_8e745304:
 
     # Lisa_05 "Знаешь, Макс... Если и дальше будешь довольно галантно и чутко себя вести, то у тебя вполне может получиться завлечь меня на поцелуи."
     Lisa_05 "Sai, Max... Se continui ad essere abbastanza galante e sensibile, potresti essere in grado di convincermi a baciarti."
 
-# game/dialogues/lisatalk.rpy:4897
+# game/dialogues/lisatalk.rpy:4895
 translate italian lisa_read_with_Max0_5f34a1ae:
 
     # Max_03 "Правда? Тогда я обязательно попробую..."
     Max_03 "Davvero? Allora lo proverò sicuramente..."
 
-# game/dialogues/lisatalk.rpy:4900
+# game/dialogues/lisatalk.rpy:4898
 translate italian lisa_read_with_Max0_6fde9b0d:
 
     # Lisa_02 "Но только уже в следующий раз. А сейчас дай почитать."
     Lisa_02 "Ma solo la prossima volta. Per ora, lasciatemi leggere."
 
-# game/dialogues/lisatalk.rpy:4902
+# game/dialogues/lisatalk.rpy:4900
 translate italian lisa_read_with_Max0_0f10a4f5:
 
     # Max_01 "Хорошо, не буду мешать." nointeract
     Max_01 "Va bene, starò fuori dai piedi." nointeract
 
-# game/dialogues/lisatalk.rpy:4922
+# game/dialogues/lisatalk.rpy:4920
 translate italian lisa_read_with_Max_r_4c0c670e:
 
     # Lisa_09 "Макс, дай сегодня почитать. У меня нет настроения для твоих приставаний..."
     Lisa_09 "Max, fammelo leggere oggi. Non sono dell'umore giusto per il tuo tormento..."
 
-# game/dialogues/lisatalk.rpy:4923
+# game/dialogues/lisatalk.rpy:4921
 translate italian lisa_read_with_Max_r_cabc4c76:
 
     # Max_07 "Хорошо, не буду мешать."
     Max_07 "Va bene, starò fuori dai piedi."
 
-# game/dialogues/lisatalk.rpy:4927
+# game/dialogues/lisatalk.rpy:4925
 translate italian lisa_read_with_Max_r_209f6521:
 
     # Lisa_02 "Да, ложись рядом... Только сильно не приставай!" nointeract
     Lisa_02 "Sì, sdraiati accanto a me... Basta non creare troppi problemi!" nointeract
 
-# game/dialogues/lisatalk.rpy:4937
+# game/dialogues/lisatalk.rpy:4935
 translate italian lisa_read_with_Max_r_7fad580e:
 
     # Lisa_01 "Не успел лечь, уже ручонки начинаешь распускать?"
     Lisa_01 "Appena prima di andare a letto, cominci a sporcarti le mani, vero?"
 
-# game/dialogues/lisatalk.rpy:4938
+# game/dialogues/lisatalk.rpy:4936
 translate italian lisa_read_with_Max_r_c93bf94a:
 
     # Max_03 "Ты что! И в мыслях не было. Просто с тобой хочу побыть."
     Max_03 "Impossibile! Non me lo sognerei mai. Voglio solo stare con te."
 
-# game/dialogues/lisatalk.rpy:4939
+# game/dialogues/lisatalk.rpy:4937
 translate italian lisa_read_with_Max_r_33458038:
 
     # Lisa_02 "Ну конечно... Всё я знаю. Целоваться опять полезешь..."
     Lisa_02 "Naturalmente... Io so tutto. Baciare di nuovo..."
 
-# game/dialogues/lisatalk.rpy:4940
+# game/dialogues/lisatalk.rpy:4938
 translate italian lisa_read_with_Max_r_25b1ed08:
 
     # Max_02 "Как будто ты меня на кровать пустила, чтобы мы оба книжку читали. Ну-ну."
     Max_02 "Come tu mi hai fatto salire sul letto per poter leggere entrambi un libro. Bene, bene."
 
-# game/dialogues/lisatalk.rpy:4947
+# game/dialogues/lisatalk.rpy:4945
 translate italian lisa_read_with_Max_r_8ae6aace:
 
     # Lisa_03 "А зачем ещё? Не знаю, на что ты надеешься, но я девочка приличная и ничего такого себе не позволяю."
     Lisa_03 "Perché altrimenti? Non so cosa speri, ma io sono una ragazza rispettabile e non faccio niente del genere."
 
-# game/dialogues/lisatalk.rpy:4948
+# game/dialogues/lisatalk.rpy:4946
 translate italian lisa_read_with_Max_r_3d1f409c:
 
     # Max_04 "А я вот себе в удовольствии не отказываю. И тебе советую..."
     Max_04 "Non mi nego il piacere. E dovresti farlo anche tu..."
 
-# game/dialogues/lisatalk.rpy:4951
+# game/dialogues/lisatalk.rpy:4949
 translate italian lisa_read_with_Max_r_9f7605bb:
 
     # Lisa_13 "Ты так уверенно пристаёшь... Книжку что ли прочитал наконец-то?"
     Lisa_13 "Sei così sicuro di te... Hai finalmente letto il libro?"
 
-# game/dialogues/lisatalk.rpy:4952
+# game/dialogues/lisatalk.rpy:4950
 translate italian lisa_read_with_Max_r_4c11b74c:
 
     # Max_02 "Да, прочитал. И готов показать, что я из неё почерпнул."
     Max_02 "Sì, l'ho letto. E sono pronto a mostrarvi ciò che ho imparato da esso."
 
-# game/dialogues/lisatalk.rpy:4955
+# game/dialogues/lisatalk.rpy:4953
 translate italian lisa_read_with_Max_r_086ab079:
 
     # Lisa_02 "Ну, не знаю... Думаю, один разочек можно попробовать немного пошалить. Вдруг понравится, да?"
     Lisa_02 "Beh, non so... Penso che sia giusto provare un po' di malizia di tanto in tanto. Potrebbe piacere, eh?"
 
-# game/dialogues/lisatalk.rpy:4956
+# game/dialogues/lisatalk.rpy:4954
 translate italian lisa_read_with_Max_r_6a0241e4:
 
     # Max_01 "Конечно, да!" nointeract
     Max_01 "Certo che lo è!" nointeract
 
-# game/dialogues/lisatalk.rpy:4963
+# game/dialogues/lisatalk.rpy:4961
 translate italian lisa_read_with_Max_r_4a523cd1:
 
     # Max_02 "{m}Надеюсь, этих разочков, на самом деле, будет бесконечное множество. Лиза хоть для приличия и изображает недотрогу, но я уже достаточно её расшевелил, чтобы она не захотела останавливаться. Пора хитрить...{/m}" nointeract
     Max_02 "{m}Spero che ci siano, in effetti, un numero infinito di queste volte. Lisa sta giocando duro, ma ho abbastanza per tenerla su di lei per farla andare avanti. È il momento di fare un po' di bricolage...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4970
+# game/dialogues/lisatalk.rpy:4968
 translate italian lisa_read_with_Max_r_3a83b3a0:
 
     # Max_01 "Всё, Лиза. Немного пошалили и хватит. Как ты там раньше говорила, хорошего помаленьку?"
     Max_01 "Questo è tutto, Lisa. Solo un po' di malizia e basta. Come diceva lei, un po' di cose buone?"
 
-# game/dialogues/lisatalk.rpy:4971
+# game/dialogues/lisatalk.rpy:4969
 translate italian lisa_read_with_Max_r_d0cd9ad4:
 
     # Lisa_10 "В смысле, всё?! Раззадорил меня и уходишь что ли? Я хочу ещё!" nointeract
     Lisa_10 "Cosa intendi per \"tutto qui\"?! Mi fai arrabbiare e poi te ne vai? Ne voglio di più!" nointeract
 
-# game/dialogues/lisatalk.rpy:4980
+# game/dialogues/lisatalk.rpy:4978
 translate italian lisa_read_with_Max_r_1092223e:
 
     # Max_04 "{m}Эти нежные губки такие сладкие... А её горячий язычок начинает всё активнее играть с моим! Посмотрим, что будет дальше...{/m}" nointeract
     Max_04 "{m}Quelle labbra morbide sono così dolci... E la sua lingua calda comincia a giocare sempre di più con la mia! Vediamo cosa succede dopo...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4985
+# game/dialogues/lisatalk.rpy:4983
 translate italian lisa_read_with_Max_r_afa17d8b:
 
     # Max_05 "{m}Классно... Её ножки такие гладкие, а попка очень упругая! Без таких прикосновений наши поцелуи уже не обходятся, а значит можно спокойно двигаться дальше...{/m}" nointeract
     Max_05 "{m}Bello... Le sue gambe sono così lisce e il suo culo è molto sodo! I nostri baci non sono privi di tali tocchi, il che significa che possiamo andare avanti...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:4992
+# game/dialogues/lisatalk.rpy:4990
 translate italian lisa_read_with_Max_r_d262e2cc:
 
     # Max_06 "{m}О да! Нащупал что-то мягкое и округлое, да ещё и с торчащими сосочками, которые чувствуются даже через её одежду...{/m}" nointeract
     Max_06 "{m}Oh sì, sentì qualcosa di morbido e rotondo, e con i capezzoli sporgenti che si potevano sentire anche attraverso i vestiti...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:5002
+# game/dialogues/lisatalk.rpy:5000
 translate italian lisa_read_with_Max_r_31a01586:
 
     # Max_06 "[like!t]{m}О да! Нащупал что-то мягкое и округлое, да ещё и с торчащими сосочками, которые чувствуются даже через её одежду...{/m}" nointeract
     Max_06 "[like!t]{m}Oh sì, sentì qualcosa di morbido e rotondo, e con i capezzoli sporgenti che si potevano sentire anche attraverso i vestiti...{/m}" nointeract
 
-# game/dialogues/lisatalk.rpy:5010
+# game/dialogues/lisatalk.rpy:5008
 translate italian lisa_read_with_Max_r_783629e4:
 
     # Lisa_09 "[dont_like!t]Эй, Макс! Ты куда так торопишься? Лишь бы облапать побыстрее!"
     Lisa_09 "[dont_like!t]Ehi, Max! Che fretta c'è? Ho fretta di metterti le mani addosso!"
 
-# game/dialogues/lisatalk.rpy:5011
+# game/dialogues/lisatalk.rpy:5009
 translate italian lisa_read_with_Max_r_68658364:
 
     # Max_07 "Я думал, что уже достаточно увлёк тебя поцелуями для этого."
     Max_07 "Pensavo di averne già abbastanza di baci per questo."
 
-# game/dialogues/lisatalk.rpy:5012
+# game/dialogues/lisatalk.rpy:5010
 translate italian lisa_read_with_Max_r_7b367055:
 
     # Lisa_01 "Неправильно ты думал. Может быть, в другой раз, ты будешь умнее."
     Lisa_01 "Non stavi pensando bene. Forse la prossima volta sarai più intelligente."
 
-# game/dialogues/lisatalk.rpy:5013
+# game/dialogues/lisatalk.rpy:5011
 translate italian lisa_read_with_Max_r_a5d5a0b3:
 
     # Max_10 "Да, возможно..." nointeract
     Max_10 "Sì, forse..." nointeract
 
-# game/dialogues/lisatalk.rpy:5022
+# game/dialogues/lisatalk.rpy:5020
 translate italian lisa_read_with_Max_r_bba74f75:
 
     # Max_19 "{m}Обалдеть! Её кожа такая нежная... Интересно, её это заводит так же сильно, как и меня? Ощущения от того, что я тискаю её обнажённую грудь и целую её восхитительную шейку, бесподобны!{/m}"
     Max_19 "{m}È incredibile! La sua pelle è così morbida... Mi chiedo se la eccita tanto quanto eccita me. La sensazione di stringere i suoi seni nudi e di baciare il suo delizioso collo era impareggiabile!{/m}"
 
-# game/dialogues/lisatalk.rpy:5023
+# game/dialogues/lisatalk.rpy:5021
 translate italian lisa_read_with_Max_r_20d02ca2:
 
     # Lisa_04 "Ммм... Макс, это так приятно! Мне кажется, я совсем сейчас потеряю голову от удовольствия... Может, нам лучше остановиться?" nointeract
     Lisa_04 "Mmm... Max, che bella sensazione! Credo che perderò la testa per il piacere... Forse dovremmo fermarci?" nointeract
 
-# game/dialogues/lisatalk.rpy:5028
+# game/dialogues/lisatalk.rpy:5026
 translate italian lisa_read_with_Max_r_6bc9d722:
 
     # Lisa_03 "Ухх... Было приятно, настолько, что даже отрываться не хотелось... Но хорошего помаленьку."
     Lisa_03 "Ugh... Era una bella sensazione, tanto che non volevo nemmeno staccarmi... Ma è un po' una cosa positiva."
 
-# game/dialogues/lisatalk.rpy:5029
+# game/dialogues/lisatalk.rpy:5027
 translate italian lisa_read_with_Max_r_1517d0bc:
 
     # Max_03 "Рад, что тебе понравилось... И мне тоже было приятно..." nointeract
     Max_03 "Sono contento che ti sia piaciuto... Anche a me è piaciuto..." nointeract
 
-# game/dialogues/lisatalk.rpy:5040
+# game/dialogues/lisatalk.rpy:5038
 translate italian lisa_read_with_Max_r_6afe97b7:
 
     # Lisa_06 "[lisa_good_kiss!t]Ах, Макс... Мои сосочки... Как хорошо! Ты так нежно это делаешь, что мне хочется начать громко стонать..."
     Lisa_06 "[lisa_good_kiss!t]Ah, Max... I miei capezzoli... Che bella sensazione! Lo fai così delicatamente che mi fa venire voglia di iniziare a gemere forte..."
 
-# game/dialogues/lisatalk.rpy:5041
+# game/dialogues/lisatalk.rpy:5039
 translate italian lisa_read_with_Max_r_af705223:
 
     # Max_04 "{m}Да, Лиза! Наверняка твои шелковистые и сладкие сисечки не хотят, чтобы эти ласки прекращались. Ммм! А мне не хочется от них отрываться, но пора...{/m}"
     Max_04 "{m}Sì, Lisa! Scommetto che le tue dolci e setose tette non vogliono che quelle carezze si fermino. Mmm! E non voglio allontanarmi da loro, ma è ora...{/m}"
 
-# game/dialogues/lisatalk.rpy:5044
+# game/dialogues/lisatalk.rpy:5042
 translate italian lisa_read_with_Max_r_9f51292e:
 
     # Lisa_05 "А я уже сама хотела тебя остановить, Макс... Было приятно, настолько, что даже отрываться не хотелось... Шалость удалась!"
     Lisa_05 "E io stesso volevo fermarti, Max... Era una bella sensazione, tanto che non volevo nemmeno staccarmi... Lo scherzo è stato un successo!"
 
-# game/dialogues/lisatalk.rpy:5048
+# game/dialogues/lisatalk.rpy:5046
 translate italian lisa_read_with_Max_r_08c1057f:
 
     # Max_03 "Рад, что тебе понравилось... Ты очень классная, Лиза! И сисечки у тебя прелестные!"
     Max_03 "Sono contento che ti piaccia... Sei molto forte, Lisa, e le tue tette sono adorabili!"
 
-# game/dialogues/lisatalk.rpy:5053
+# game/dialogues/lisatalk.rpy:5051
 translate italian lisa_read_with_Max_r_f72901e5:
 
     # Lisa_02 "Ой, Макс, не смущай меня так... Но спасибо за комплимент." nointeract
     Lisa_02 "Oh, Max, non mettermi in imbarazzo così... Ma grazie per il complimento." nointeract
 
-# game/dialogues/lisatalk.rpy:5058
+# game/dialogues/lisatalk.rpy:5056
 translate italian lisa_read_with_Max_r_7539a0ef:
 
     # Lisa_02 "[lisa_bad_kiss!t]Ухх... Было приятно, настолько, что даже отрываться не хотелось... Но ты немножко торопишься, так что хорошего помаленьку."
     Lisa_02 "[lisa_bad_kiss!t]Ugh... Era una bella sensazione, tanto che non volevo nemmeno staccarmi... Ma lei ha un po' di fretta, quindi buon viaggio."
 
-# game/dialogues/lisatalk.rpy:5059
+# game/dialogues/lisatalk.rpy:5057
 translate italian lisa_read_with_Max_r_29e49474:
 
     # Max_01 "Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться." nointeract
@@ -11490,91 +11490,91 @@ translate italian strings:
     old "Нет, речь не готовил..."
     new "No, non ho preparato il discorso..."
 
-    # game/dialogues/lisatalk.rpy:3815
+    # game/dialogues/lisatalk.rpy:3813
     old "А то ты не знаешь, как она выглядит..."
     new "O non sai come appare..."
 
-    # game/dialogues/lisatalk.rpy:3815
+    # game/dialogues/lisatalk.rpy:3813
     old "Да легко! Ты показываешь грудь, я член!"
     new "Sì facile! Tu mostri il tuo seno, io sono cazzo!"
 
-    # game/dialogues/lisatalk.rpy:4268
+    # game/dialogues/lisatalk.rpy:4266
     old "Это да... Тогда, на здоровье, сестрёнка. Мешать не буду."
     new "Sì... Poi, sulla salute, sorella. Non interferirò."
 
-    # game/dialogues/lisatalk.rpy:4268
+    # game/dialogues/lisatalk.rpy:4266
     old "Ясно. А тебе не кажется, что это как минимум неправильно?"
     new "Capisco. Non pensi che sia sbagliato almeno?"
 
-    # game/dialogues/lisatalk.rpy:4329
+    # game/dialogues/lisatalk.rpy:4327
     old "Это да... Тогда, на здоровье, сестрёнка. Занимайтесь."
     new "Sì... Poi, sulla salute, sorella. Ingaggiare."
 
-    # game/dialogues/lisatalk.rpy:4329
+    # game/dialogues/lisatalk.rpy:4327
     old "Ясно. И что, ты хочешь на это согласиться?"
     new "Capisco. Vuoi essere d'accordo?"
 
-    # game/dialogues/lisatalk.rpy:4461
+    # game/dialogues/lisatalk.rpy:4459
     old "Если поцелуешь, то вполне можешь!"
     new "Se ti baci, puoi!"
 
-    # game/dialogues/lisatalk.rpy:4461
+    # game/dialogues/lisatalk.rpy:4459
     old "Только если дашь поцеловать!"
     new "Solo se dai un bacio!"
 
-    # game/dialogues/lisatalk.rpy:4469
+    # game/dialogues/lisatalk.rpy:4467
     old "{i}прикоснуться к попке Лизы{/i}"
     new "{i}tocca il di Lisa{/i}"
 
-    # game/dialogues/lisatalk.rpy:4469
+    # game/dialogues/lisatalk.rpy:4467
     old "{i}отпустить Лизу в школу{/i}"
     new "{i}lascia che Lisa vada a scuola{/i}"
 
-    # game/dialogues/lisatalk.rpy:4566
+    # game/dialogues/lisatalk.rpy:4564
     old "{b}Оповещение:{/b} Лиза больше не хочет взаимодействовать с Максом"
     new "{b}Allerta:{/b} Lisa non vuole più interagire con Max"
 
-    # game/dialogues/lisatalk.rpy:4607
+    # game/dialogues/lisatalk.rpy:4605
     old "Мне пришлось его взять, чтобы себя оправдать!"
     new "Ho dovuto prenderlo per giustificarmi!"
 
-    # game/dialogues/lisatalk.rpy:4638
+    # game/dialogues/lisatalk.rpy:4636
     old "{i}идти к Алисе{/i}"
     new "{i}vai a Alice{/i}"
 
-    # game/dialogues/lisatalk.rpy:4650
+    # game/dialogues/lisatalk.rpy:4648
     old "{i}идти с Лизой и Алисой в гостиную{/i}"
     new "{i}per andare con Lisa e Alice nel soggiorno{/i}"
 
-    # game/dialogues/lisatalk.rpy:4790
+    # game/dialogues/lisatalk.rpy:4788
     old "{i}поцеловать Лизу{/i}"
     new "{i}bacio Lisa{/i}"
 
-    # game/dialogues/lisatalk.rpy:4798
+    # game/dialogues/lisatalk.rpy:4796
     old "{i}нежно прикасаться к её попке{/i}"
     new "{i}toccandole delicatamente il sedere{/i}"
 
-    # game/dialogues/lisatalk.rpy:4810
+    # game/dialogues/lisatalk.rpy:4808
     old "{i}целовать её шею{/i}"
     new "{i}baciarle il collo{/i}"
 
-    # game/dialogues/lisatalk.rpy:4844
+    # game/dialogues/lisatalk.rpy:4842
     old "{i}лечь рядом с Лизой{/i}"
     new "{i}sdraiarsi accanto a Lisa{/i}"
 
-    # game/dialogues/lisatalk.rpy:4964
+    # game/dialogues/lisatalk.rpy:4962
     old "{i}закончить поцелуй{/i}"
     new "{i}finire il bacio{/i}"
 
-    # game/dialogues/lisatalk.rpy:4972
+    # game/dialogues/lisatalk.rpy:4970
     old "{i}снова целовать Лизу{/i}"
     new "{i}bacia Lisa di nuovo{/i}"
 
-    # game/dialogues/lisatalk.rpy:5024
+    # game/dialogues/lisatalk.rpy:5022
     old "{i}остановиться{/i}"
     new "{i}rimanere{/i}"
 
-    # game/dialogues/lisatalk.rpy:5024
+    # game/dialogues/lisatalk.rpy:5022
     old "{i}целовать её грудь{/i}"
     new "{i}baciarle i seni{/i}"
 

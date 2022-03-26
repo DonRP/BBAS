@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-11 15:38\n"
+# "PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/dialogues/breakfast.rpy:14
 translate italian typical_breakfast_32286f7d:
@@ -60,7 +60,7 @@ translate italian breakfast_first_6ac209bf:
 translate italian breakfast_first_494e7581:
 
     # Ann_12 "Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно..." nointeract
-    Ann_12 "Già, anch'io sono preoccupato per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non devi pagare la bolletta dell'elettricità..." nointeract
+    Ann_12 "Già, anch'io sono preoccupata per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non si deve pagare la bolletta dell'elettricità..." nointeract
 
 # game/dialogues/breakfast.rpy:38
 translate italian breakfast_first_02490cba:
@@ -216,7 +216,7 @@ translate italian breakfast_first_bf_roof_75336744:
 translate italian breakfast_first_bf_roof_306fdb3a:
 
     # Lisa_09 "Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда." nointeract
-    Lisa_09 "sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco." nointeract
+    Lisa_09 "Sì, a proposito, fa molto caldo qui. Non sono ancora abituata a questo clima. D'altra parte, non sono così dispiaciuta per i vestiti che ho perso durante il trasloco." nointeract
 
 # game/dialogues/breakfast.rpy:198
 translate italian breakfast_first_bf_roof_6de5b34a:
@@ -294,7 +294,7 @@ translate italian breakfast_first_bf_roof_de4768e0:
 translate italian breakfast_first_bf_buy_new_837aef32:
 
     # Alice_06 "Ага, вот только купилка у некоторых не выросла ещё!" nointeract
-    Alice_06 "sì, questo è solo l'acquisto da alcuni non è ancora cresciuto!" nointeract
+    Alice_06 "Sì, peccato che alcuni di noi non sono ancora cresciuti!" nointeract
 
 # game/dialogues/breakfast.rpy:283
 translate italian breakfast_first_bf_buy_new_f7b11ae0:
