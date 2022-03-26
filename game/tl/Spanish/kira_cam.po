@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/kira_cam.rpy:7 ## translate crowdin cam0_kira_sleep_night_07884053:
 msgid "[Max_01] {m}Моя очаровательная тётя Кира спит...{/m}"
@@ -234,5 +234,7 @@ msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/events/kira_cam.rpy:425
 msgid "{i}встретить их{/i}"
-msgstr "{i}cumplirlos{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
