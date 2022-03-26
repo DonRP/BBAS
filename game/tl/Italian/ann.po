@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-26 09:55\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
@@ -490,7 +490,7 @@ msgstr "[Ann_12] Smettila di irrompere nella stanza senza preavviso! O hai qualc
 
 # game/events/ann.rpy:661 ## translate crowdin ann_dressed_balkon_talk1_b906cb2e:
 msgid "[Ann_14] У меня сейчас такое состояние, что я не знаю, как мне жить дальше... Я... Я ужасная мать..."
-msgstr "[Ann_14] In questo momento sono in uno stato in cui non so come andare avanti... Я... Sono una madre terribile..."
+msgstr "[Ann_14] In questo momento sono in uno stato in cui non so come andare avanti... Io... Sono una madre terribile..."
 
 # game/events/ann.rpy:662 ## translate crowdin ann_dressed_balkon_talk1_b034aec8:
 msgid "[Max_08] Что?! Как ты можешь такое говорить?"
