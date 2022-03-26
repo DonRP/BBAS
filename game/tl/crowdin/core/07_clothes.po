@@ -1,60 +1,60 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid  "Повседневная"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Повседневная"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Для сна"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Для сна"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Для йоги"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Для йоги"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Блог в нижнем белье"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Блог в нижнем белье"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Готовит завтрак"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Готовит завтрак"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Готовит ужин"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Готовит ужин"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Утренний отдых"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Утренний отдых"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Вечерний отдых"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Вечерний отдых"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Купальник"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Купальник"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "За уроками"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "За уроками"
 
 # XX## game/core/07_clothes.rpy:393
 msgid  "Для прогулок"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Для прогулок"
 
 # XX## game/core/07_clothes.rpy:472
 msgid  "Влияние Макса недостаточно"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Влияние Макса недостаточно"
 

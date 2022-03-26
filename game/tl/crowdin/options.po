@@ -1,5 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
 msgid  "Большой брат: Другая история"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Большой брат: Другая история"
 

@@ -120,11 +120,11 @@ msgstr "[Max_01] Я тоже, Кристина! Пока."
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/christina.rpy:25
 msgid  "Хорошего тебе дня!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Хорошего тебе дня!"
 
 # XX## game/dialogues/christina.rpy:25
 msgid  "А чем вечером будешь заниматься? Давай погуляем!?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "А чем вечером будешь заниматься? Давай погуляем!?"
 

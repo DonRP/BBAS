@@ -984,66 +984,66 @@ msgstr "[Max_01] Тогда, до следующего раза, девчонк�
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/oliviatalk.rpy:11
 msgid  "Хотя, нет... У меня вообще-то дела есть..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Хотя, нет... У меня вообще-то дела есть..."
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid  "Давай перенесём..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Давай перенесём..."
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid  "Тогда приятного вам просмотра..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Тогда приятного вам просмотра..."
 
 # XX## game/dialogues/oliviatalk.rpy:265
 msgid  "{i}идти в гостиную{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}идти в гостиную{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:320
 msgid  "{i}устроиться поудобнее и наблюдать{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}устроиться поудобнее и наблюдать{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:413
 msgid  "{i}массировать Оливию кремом для загара{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}массировать Оливию кремом для загара{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:438
 msgid  "{i}массировать Лизу кремом для загара{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}массировать Лизу кремом для загара{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:499
 msgid  "{i}сначала делать массаж Оливии{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}сначала делать массаж Оливии{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:499
 msgid  "{i}сначала делать массаж Лизе{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}сначала делать массаж Лизе{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:534
 msgid  "{i}обнаглеть и массировать Оливии попку{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}обнаглеть и массировать Оливии попку{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:534
 msgid  "{i}делать массаж Лизе{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}делать массаж Лизе{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:591
 msgid  "{i}развязать Лизе купальник{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}развязать Лизе купальник{/i}"
 
 # XX## game/dialogues/oliviatalk.rpy:645
 msgid  "{i}делать массаж Оливии{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}делать массаж Оливии{/i}"
 

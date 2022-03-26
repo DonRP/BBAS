@@ -13,7 +13,7 @@ translate crowdin""": """ ## translate crowdin""",
     # """: """:
 msgid \"""",
     """    old \"""": """msgid  \"""",
-    """    new \"""": """msgid_plural "Ingnora this translate only \"One\""\nmsgstr[0]  \"""",
+    """    new \"""": """msgid_plural "Ignore this. translate only: \"One\""\nmsgstr[0]  \"""",
     """\" nointeract""": """ [nointeract]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
     """\n    """: """\nmsgstr \"""",

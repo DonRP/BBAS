@@ -1484,131 +1484,131 @@ msgstr "[Max_01] Спасибо! [nointeract]"
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/erictalk.rpy:11
 msgid  "{i}В другой раз...{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}В другой раз...{/i}"
 
 # XX## game/dialogues/erictalk.rpy:55
 msgid  "Э... Ну не совсем так..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Э... Ну не совсем так..."
 
 # XX## game/dialogues/erictalk.rpy:55
 msgid  "А так можно?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "А так можно?"
 
 # XX## game/dialogues/erictalk.rpy:65
 msgid  "Кстати, как ты это делаешь?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Кстати, как ты это делаешь?"
 
 # XX## game/dialogues/erictalk.rpy:65
 msgid  "Отлично! Спасибо, Эрик."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Отлично! Спасибо, Эрик."
 
 # XX## game/dialogues/erictalk.rpy:71
 msgid  "Это угроза?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Это угроза?"
 
 # XX## game/dialogues/erictalk.rpy:71
 msgid  "Хорошо, Эрик!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Хорошо, Эрик!"
 
 # XX## game/dialogues/erictalk.rpy:172
 msgid  "{i}сесть на кровать{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}сесть на кровать{/i}"
 
 # XX## game/dialogues/erictalk.rpy:187
 msgid  "{i}слегка подвинуться{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}слегка подвинуться{/i}"
 
 # XX## game/dialogues/erictalk.rpy:248
 msgid  "{i}смотреть, как мама сосёт{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}смотреть, как мама сосёт{/i}"
 
 # XX## game/dialogues/erictalk.rpy:307
 msgid  "{i}пересесть{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}пересесть{/i}"
 
 # XX## game/dialogues/erictalk.rpy:399
 msgid  "Нет, можешь обучать... (Настоящая дружба)"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Нет, можешь обучать... (Настоящая дружба)"
 
 # XX## game/dialogues/erictalk.rpy:399
 msgid  "А ей не рановато? (Фальшивая дружба)"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "А ей не рановато? (Фальшивая дружба)"
 
 # XX## game/dialogues/erictalk.rpy:399
 msgid  "Лизу тебе не отдам! (Откровенная вражда)"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Лизу тебе не отдам! (Откровенная вражда)"
 
 # XX## game/dialogues/erictalk.rpy:494
 msgid  "Значит, тебя её блог интересует? (Настоящая дружба)"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Значит, тебя её блог интересует? (Настоящая дружба)"
 
 # XX## game/dialogues/erictalk.rpy:494
 msgid  "Я мало что об этом знаю... (Фальшивая дружба)"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Я мало что об этом знаю... (Фальшивая дружба)"
 
 # XX## game/dialogues/erictalk.rpy:494
 msgid  "Вот у неё и спрашивай! (Откровенная вражда)"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Вот у неё и спрашивай! (Откровенная вражда)"
 
 # XX## game/dialogues/erictalk.rpy:802
 msgid  "Может, договоримся? {i}(добыть компромат){/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Может, договоримся? {i}(добыть компромат){/i}"
 
 # XX## game/dialogues/erictalk.rpy:809
 msgid  "С той, что я могу заплатить тебе больше, чем якобы должен."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "С той, что я могу заплатить тебе больше, чем якобы должен."
 
 # XX## game/dialogues/erictalk.rpy:809
 msgid  "С той, что у меня есть кое-что на тебя."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "С той, что у меня есть кое-что на тебя."
 
 # XX## game/dialogues/erictalk.rpy:827
 msgid  "Ты мутный тип, а моя мама заслуживает лучшего!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ты мутный тип, а моя мама заслуживает лучшего!"
 
 # XX## game/dialogues/erictalk.rpy:827
 msgid  "Сестрёнок моих ты не получишь!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Сестрёнок моих ты не получишь!"
 
 # XX## game/dialogues/erictalk.rpy:837
 msgid  "{i}вернуться в свою комнату{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}вернуться в свою комнату{/i}"
 
 # XX## game/dialogues/erictalk.rpy:848
 msgid  "Не шуми. Держи, всё равно не пригодился..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Не шуми. Держи, всё равно не пригодился..."
 
 # XX## game/dialogues/erictalk.rpy:852
 msgid  "{i}смириться{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}смириться{/i}"
 
 # XX## game/dialogues/erictalk.rpy:909
 msgid  "{i}уйти мыть посуду{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}уйти мыть посуду{/i}"
 

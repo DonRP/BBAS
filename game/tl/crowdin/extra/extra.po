@@ -1,365 +1,365 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
 msgid  "Новый купальник Лизы"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Новый купальник Лизы"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Извинительная пижамка для Алисы"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Извинительная пижамка для Алисы"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Тёмное кружево"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Тёмное кружево"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Давай я нанесу крем"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Давай я нанесу крем"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Ножкам приятно"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ножкам приятно"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Помассирую не только ножки"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Помассирую не только ножки"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Могу не только руками"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Могу не только руками"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Ответная благодарность"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ответная благодарность"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Первый массаж ног"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Первый массаж ног"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Внимание к пальчикам"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Внимание к пальчикам"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Разомнём и плечики"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Разомнём и плечики"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Массаж для любимой тёти"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Массаж для любимой тёти"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Совсем другой массаж"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Совсем другой массаж"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Я спасу их от солнца"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Я спасу их от солнца"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Ночные страхи"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ночные страхи"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Кто это там ползёт"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Кто это там ползёт"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Монстр в ванной комнате"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Монстр в ванной комнате"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Держи и не отпускай"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Держи и не отпускай"
 
 # XX## game/extra/extra.rpy:60
 msgid  "После клуба"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "После клуба"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Я была плохой девочкой"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Я была плохой девочкой"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Как тебе такое?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Как тебе такое?"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Я принес тебе полотенце!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Я принес тебе полотенце!"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Первые снимки для блога Алисы"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Первые снимки для блога Алисы"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Я обошёл Эрика с подарком для Алисы"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Я обошёл Эрика с подарком для Алисы"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Попка, которую я теперь могу отшлёпать"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Попка, которую я теперь могу отшлёпать"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Меня нужно наказать именно так!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Меня нужно наказать именно так!"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Смотрим порно вместе с тётей"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Смотрим порно вместе с тётей"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Первый урок поцелуев"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Первый урок поцелуев"
 
 # XX## game/extra/extra.rpy:60
 msgid  "А это уже совсем не массаж!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "А это уже совсем не массаж!"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Второй урок поцелуев"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Второй урок поцелуев"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Третий урок поцелуев"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Третий урок поцелуев"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Горячее, чем порно"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Горячее, чем порно"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Небольшое приключение перед сном"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Небольшое приключение перед сном"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Не зря купил сорочку"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Не зря купил сорочку"
 
 # XX## game/extra/extra.rpy:60
 msgid  "С меня приятный должок"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "С меня приятный должок"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Стриптиз после клуба"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Стриптиз после клуба"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Порно-портфолио для Киры"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Порно-портфолио для Киры"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Немного БДСМ от Киры"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Немного БДСМ от Киры"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Хватит мять сиськи"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Хватит мять сиськи"
 
 # XX## game/extra/extra.rpy:60
 msgid  "И помылись, и порезвились"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "И помылись, и порезвились"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Кто нас фотографирует?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Кто нас фотографирует?"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Вместо ночного плаванья"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Вместо ночного плаванья"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Вкусные уроки с сестрёнкой"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Вкусные уроки с сестрёнкой"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Кажется, мы что-то забыли"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Кажется, мы что-то забыли"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Всё ниже и ниже"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Всё ниже и ниже"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Больше, чем помощь с домашним заданием"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Больше, чем помощь с домашним заданием"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Ужастики в обнимку с Лизой"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ужастики в обнимку с Лизой"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Без майки куда интереснее"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Без майки куда интереснее"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Долой смущение"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Долой смущение"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Это точно триллер-детектив?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Это точно триллер-детектив?"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Полотенце снова сползает..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Полотенце снова сползает..."
 
 # XX## game/extra/extra.rpy:60
 msgid  "Йога с мамой"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Йога с мамой"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Ещё больше массажа у ТВ"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ещё больше массажа у ТВ"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Не надо печалиться"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Не надо печалиться"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Урок по минету от мамы и Эрика"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Урок по минету от мамы и Эрика"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Так близко к маминой попке"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Так близко к маминой попке"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Глубокий минет в мамином исполнении"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Глубокий минет в мамином исполнении"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Секс-шоу с первых рядов"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Секс-шоу с первых рядов"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Её первые познания..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Её первые познания..."
 
 # XX## game/extra/extra.rpy:60
 msgid  "Как возбудить ещё больше?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Как возбудить ещё больше?"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Нежно и аккуратно!"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Нежно и аккуратно!"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Как долго это нужно делать?"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Как долго это нужно делать?"
 
 # XX## game/extra/extra.rpy:60
 msgid  "Стесняется трогать..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Стесняется трогать..."
 
 # XX## game/extra/extra.rpy:60
 msgid  "Ещё стесняется, но трогает..."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Ещё стесняется, но трогает..."
 
 # XX## game/extra/extra.rpy:60
 msgid  "Кружевное боди для Алисы от Эрика"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Кружевное боди для Алисы от Эрика"
 
 # XX## game/extra/extra.rpy:168
 msgid  "ВОСПОМИНАНИЯ"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "ВОСПОМИНАНИЯ"
 
 # XX## game/extra/extra.rpy:171
 msgid  "ФОТОСНИМКИ"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "ФОТОСНИМКИ"
 
 # XX## game/extra/extra.rpy:222
 msgid  "Воспоминание недоступно"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Воспоминание недоступно"
 
 # XX## game/extra/extra.rpy:228
 msgid  "Воспоминание ещё не открыто"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Воспоминание ещё не открыто"
 
 # XX## game/extra/extra.rpy:234
 msgid  "В вашей коллекции ещё нет фотоснимков."
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "В вашей коллекции ещё нет фотоснимков."
 
 # XX## game/extra/extra.rpy:303
 msgid  "Предыдущий снимок"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Предыдущий снимок"
 
 # XX## game/extra/extra.rpy:309
 msgid  "Вернуться в коллекцию"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Вернуться в коллекцию"
 
 # XX## game/extra/extra.rpy:314
 msgid  "Следующий снимок"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Следующий снимок"
 

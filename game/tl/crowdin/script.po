@@ -136,41 +136,41 @@ msgstr "[Max_04] Но и бояться их не стоит. Именно бл�
 
 # XXtranslate crowdin strings:XX# XX## game/script.rpy:57
 msgid  "{i}далее{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}далее{/i}"
 
 # XX## game/script.rpy:57
 msgid  "{i}пропустить{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}пропустить{/i}"
 
 # XX## game/script.rpy:85
 msgid  "{i}пару недель спустя...{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}пару недель спустя...{/i}"
 
 # XX## game/script.rpy:98
 msgid  "{i}спустя неделю...{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}спустя неделю...{/i}"
 
 # XX## game/script.rpy:104
 msgid  "{i}Начать игру{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}Начать игру{/i}"
 
 # XX## game/script.rpy:104
 msgid  "{i}Повторить историю{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}Повторить историю{/i}"
 
 # XX## game/script.rpy:121
 msgid  "{i}всё ясно{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}всё ясно{/i}"
 
 # XX## game/script.rpy:121
 msgid  "{i}повторить{/i}"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "{i}повторить{/i}"
 

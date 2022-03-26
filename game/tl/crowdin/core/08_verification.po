@@ -1,25 +1,25 @@
 ﻿# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/08_verification.rpy:372
 msgid  "Не определены"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Не определены"
 
 # XX## game/core/08_verification.rpy:374
 msgid  "Откровенная вражда"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Откровенная вражда"
 
 # XX## game/core/08_verification.rpy:384
 msgid  "Дружба"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Дружба"
 
 # XX## game/core/08_verification.rpy:392
 msgid  "Настоящая дружба"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Настоящая дружба"
 
 # XX## game/core/08_verification.rpy:403
 msgid  "Фальшивая дружба"
-msgid_plural "Ingnora this translate only "One""
+msgid_plural "Ignore this. translate only: "One""
 msgstr[0]  "Фальшивая дружба"
 
