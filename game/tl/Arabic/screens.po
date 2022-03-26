@@ -4,16 +4,16 @@ msgstr ""
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/screens.po\n"
-"X-Crowdin-File-ID: 3450\n"
+"X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 3504\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
-msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
+# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
+msgid "массаж, "
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -22,8 +22,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:182
-msgid "{b}ОНЛАЙН-КУРСЫ{/b}"
+# XX## game/screens.rpy:250
+msgid "убеждение, "
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -32,8 +32,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:192
-msgid "{b}КУПИТЬ ПРОДУКТЫ{/b}"
+# XX## game/screens.rpy:250
+msgid "сексуальный опыт, "
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -42,8 +42,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:205
-msgid "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
+# XX## game/screens.rpy:250
+msgid "поцелуи, "
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -52,8 +52,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:213
-msgid "{b}СВОЙ САЙТ{/b}"
+# XX## game/screens.rpy:250
+msgid "удача, "
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -62,8 +62,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:218
-msgid "{b}CYBER-БАНК{/b}"
+# XX## game/screens.rpy:250
+msgid "скрытность, "
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -72,8 +72,9 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:306
-msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+# XX## game/screens.rpy:277
+msgid "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -82,8 +83,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:313
-msgid "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+# XX## game/screens.rpy:339
+msgid "История"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -92,8 +93,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:314
-msgid "[mgg.credit.left] дней на погашение"
+# XX## game/screens.rpy:340
+msgid "Пропуск"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -102,8 +103,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:316
-msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
+# XX## game/screens.rpy:341
+msgid "Авто"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -112,8 +113,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:320
-msgid "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
+# XX## game/screens.rpy:342
+msgid "Сохранить"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -122,8 +123,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:328
-msgid "ВЗЯТЬ КРЕДИТ"
+# XX## game/screens.rpy:343
+msgid "Б.Сохр"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -132,8 +133,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:363
-msgid "Что будем искать?"
+# XX## game/screens.rpy:344
+msgid "Б.Загр"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -142,8 +143,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:434
-msgid "{i}{b}КУПЛЕНО{/b}{/i}"
+# XX## game/screens.rpy:345
+msgid "Опции"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -152,8 +153,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:509
-msgid "ОНЛАЙН-КУРСЫ"
+# XX## game/screens.rpy:390
+msgid "Загрузить игру"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -162,8 +163,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:527
-msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+# XX## game/screens.rpy:393
+msgid "Сохранить игру"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -172,8 +173,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:539
-msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+# XX## game/screens.rpy:396
+msgid "Настройки"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -182,8 +183,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:543
-msgid "Занятие [text1] из [text2]"
+# XX## game/screens.rpy:403
+msgid "Завершить повтор"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -192,8 +193,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:547
-msgid "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
+# XX## game/screens.rpy:406
+msgid "Главное меню"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -202,8 +203,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:552
-msgid "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
+# XX## game/screens.rpy:413
+msgid "Выйти из игры"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -212,8 +213,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:562
-msgid "Количество занятий: [text2]"
+# XX## game/screens.rpy:419
+msgid "Назад"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -222,8 +223,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:568
-msgid "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+# XX## game/screens.rpy:526
+msgid "НОВАЯ ИГРА"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -232,8 +233,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:603
-msgid "ДОХОД ОТ ПРОСМОТРОВ"
+# XX## game/screens.rpy:532
+msgid "ПРОДОЛЖИТЬ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -242,9 +243,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:604
-msgid "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
-"Минимальная сумма единоразового снятия: $100."
+# XX## game/screens.rpy:535
+msgid "ЗАГРУЗИТЬ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -253,8 +253,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:605
-msgid "На вашем счете $[paid]"
+# XX## game/screens.rpy:539
+msgid "НАСТРОЙКИ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -263,8 +263,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:607
-msgid "Забрать $[paid]"
+# XX## game/screens.rpy:540
+msgid "ВЫЙТИ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -273,8 +273,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:620
-msgid "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+# XX## game/screens.rpy:572
+msgid "МЕНЮ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -283,8 +283,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:641
-msgid "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+# XX## game/screens.rpy:706
+msgid "Введите описание файла сохранения:"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -293,9 +293,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:642
-msgid "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
-"За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+# XX## game/screens.rpy:727
+msgid "(Нет описания)"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -304,8 +303,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:644
-msgid "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+# XX## game/screens.rpy:746
+msgid "{} страница"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -314,8 +313,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:748
-msgid "{b}РЕКЛАМА{/b}"
+# XX## game/screens.rpy:746
+msgid "Автосохранения"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -324,8 +323,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:751
-msgid "{b}ВЫВОД СРЕДСТВ{/b}"
+# XX## game/screens.rpy:746
+msgid "Быстрые сохранения"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -334,8 +333,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:756
-msgid "Расположение:"
+# XX## game/screens.rpy:822
+msgid "{#file_time}%a, %d %b %Y, %H:%M"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -344,8 +343,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:757
-msgid "Зрителей:"
+# XX## game/screens.rpy:822
+msgid "Пустой слот"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -354,8 +353,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:758
-msgid "Общий доход:"
+# XX## game/screens.rpy:830
+msgid "ДЕНЬ [load_day]"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -364,8 +363,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:759
-msgid "Доход сегодня:"
+# XX## game/screens.rpy:882
+msgid "{#file_time}%d %b %Y, %H:%M"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -374,8 +373,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:960
-msgid "ЖДАТЬ"
+# XX## game/screens.rpy:906
+msgid "<"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -384,8 +383,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:971
-msgid "Зрителей: [public]"
+# XX## game/screens.rpy:909
+msgid "{#auto_page}Автосохр."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -394,8 +393,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1019
-msgid "ПОЛЕЗНОЕ"
+# XX## game/screens.rpy:912
+msgid "{#quick_page}Быстрые сохр."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -404,8 +403,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1119
-msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
+# XX## game/screens.rpy:918
+msgid ">"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -414,8 +413,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1132
-msgid "В ПРОЦЕССЕ..."
+# XX## game/screens.rpy:990
+msgid "Режим экрана"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -424,8 +423,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1134
-msgid "ЗАВЕРШЕНЫ..."
+# XX## game/screens.rpy:991
+msgid "Оконный"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -434,8 +433,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1136
-msgid "ЗАБЛОКИРОВАНЫ..."
+# XX## game/screens.rpy:992
+msgid "Полный"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -444,8 +443,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1139
-msgid "НЕ ОТКРЫТЫ..."
+# XX## game/screens.rpy:995
+msgid "Сторона отката"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -454,8 +453,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1190
-msgid "Подсказка:"
+# XX## game/screens.rpy:996
+msgid "Отключено"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -464,8 +463,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1200
-msgid "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+# XX## game/screens.rpy:997
+msgid "Левая"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -474,8 +473,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1202
-msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+# XX## game/screens.rpy:998
+msgid "Правая"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -484,8 +483,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1281
-msgid "ВЕЩИ"
+# XX## game/screens.rpy:1004
+msgid "Всего текста"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -494,8 +493,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1329
-msgid "Ни один предмет не выбран"
+# XX## game/screens.rpy:1005
+msgid "После выборов"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -504,8 +503,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1331
-msgid "В данный момент в инвентаре ничего нет"
+# XX## game/screens.rpy:1006
+msgid "Переходов"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -514,8 +513,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1392
-msgid "ПЕРСОНАЖИ"
+# XX## game/screens.rpy:1009
+msgid "Язык"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -524,8 +523,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1447
-msgid "Отношения с [char_name!t]:"
+# XX## game/screens.rpy:1030
+msgid "Дополнительно"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -534,8 +533,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1458
-msgid "Запас сил:"
+# XX## game/screens.rpy:1031
+msgid "Именованные сохранения"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -544,8 +543,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1463
-msgid "Тренированность:"
+# XX## game/screens.rpy:1032
+msgid "Прозрачное текстовое окно"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -554,8 +553,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1468
-msgid "Чистота:"
+# XX## game/screens.rpy:1033
+msgid "Отображать все \"Возможности\""
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -564,8 +563,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1475
-msgid "Навыки:"
+# XX## game/screens.rpy:1034
+msgid "Переодевания Лизы пропускаются, если Макс в комнате"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -574,8 +573,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1478
-msgid "Навык убеждения:"
+# XX## game/screens.rpy:1047
+msgid "Скорость текста"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -584,8 +583,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1483
-msgid "Навык скрытности:"
+# XX## game/screens.rpy:1051
+msgid "Скорость авточтения"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -594,8 +593,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1489
-msgid "Навык массажа:"
+# XX## game/screens.rpy:1058
+msgid "Громкость музыки"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -604,8 +603,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1495
-msgid "Навык эро.массажа:"
+# XX## game/screens.rpy:1065
+msgid "Громкость звуков"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -614,8 +613,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1501
-msgid "Навык поцелуев:"
+# XX## game/screens.rpy:1071
+msgid "Тест"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -624,8 +623,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1507
-msgid "Сексуальный опыт:"
+# XX## game/screens.rpy:1075
+msgid "Громкость голоса"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -634,8 +633,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1519
-msgid "Настроение:"
+# XX## game/screens.rpy:1086
+msgid "Без звука"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -644,8 +643,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1525
-msgid "Уровень отношений:"
+# XX## game/screens.rpy:1207
+msgid "История диалогов пуста."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -654,8 +653,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1539
-msgid "Влияние Макса:"
+# XX## game/screens.rpy:1270
+msgid "Помощь"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -664,8 +663,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1544
-msgid "Влияние Эрика:"
+# XX## game/screens.rpy:1279
+msgid "Клавиатура"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -674,8 +673,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1553
-msgid "Лучше пока не попадаться на подглядывании за Лизой в душе"
+# XX## game/screens.rpy:1280
+msgid "Мышь"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -684,8 +683,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1557
-msgid "Предпочтения в сладостях:"
+# XX## game/screens.rpy:1283
+msgid "Геймпад"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -694,8 +693,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1561
-msgid "Любит \"Ritter Sport\""
+# XX## game/screens.rpy:1296
+msgid "Enter"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -704,8 +703,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1563
-msgid "Сгодится \"Raffaello\""
+# XX## game/screens.rpy:1297
+msgid "Прохождение диалогов, активация интерфейса."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -714,8 +713,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1565
-msgid "Ненавидит \"Ferrero Rocher\""
+# XX## game/screens.rpy:1300
+msgid "Пробел"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -724,8 +723,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1570
-msgid "Предпочтения в массаже:"
+# XX## game/screens.rpy:1301
+msgid "Прохождение диалогов без возможности делать выбор."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -734,8 +733,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1573
-msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+# XX## game/screens.rpy:1304
+msgid "Стрелки"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -744,8 +743,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1577
-msgid "Лучше пока не попадаться на подглядывании за Алисой в душе"
+# XX## game/screens.rpy:1305
+msgid "Навигация по интерфейсу."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -754,8 +753,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1585
-msgid "Любит \"Ferrero Rocher\""
+# XX## game/screens.rpy:1308
+msgid "Esc"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -764,8 +763,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1587
-msgid "Сгодится \"Ritter Sport\""
+# XX## game/screens.rpy:1309
+msgid "Вход в игровое меню."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -774,8 +773,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1589
-msgid "Ненавидит \"Raffaello\""
+# XX## game/screens.rpy:1312
+msgid "Ctrl"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -784,8 +783,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1593
-msgid "Действие алкоголя:"
+# XX## game/screens.rpy:1313
+msgid "Пропускает диалоги, пока зажат."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -794,8 +793,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1596
-msgid "???"
+# XX## game/screens.rpy:1316
+msgid "Tab"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -804,8 +803,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1600
-msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
+# XX## game/screens.rpy:1317
+msgid "Включает режим пропуска."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -814,8 +813,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1606
-msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+# XX## game/screens.rpy:1320
+msgid "Page Up"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -824,8 +823,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1608
-msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+# XX## game/screens.rpy:1321
+msgid "Откат назад по сюжету игры."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -834,8 +833,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1610
-msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+# XX## game/screens.rpy:1324
+msgid "Page Down"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -844,8 +843,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1653
-msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+# XX## game/screens.rpy:1325
+msgid "Откатывает предыдущее действие вперёд."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -854,8 +853,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1750
-msgid "Автосмена каждые 2 дня"
+# XX## game/screens.rpy:1329
+msgid "Скрывает интерфейс пользователя."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -864,8 +863,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1761
-msgid "Сделать текущей"
+# XX## game/screens.rpy:1333
+msgid "Делает снимок экрана."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -874,8 +873,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1809
-msgid "[view_cam[1].public]"
+# XX## game/screens.rpy:1337
+msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -884,8 +883,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1892
-msgid "ВНИМАНИЕ"
+# XX## game/screens.rpy:1343
+msgid "Левый клик"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -894,8 +893,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1893
-msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+# XX## game/screens.rpy:1347
+msgid "Клик колёсиком"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -904,8 +903,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1897
-msgid "Эта игра содержит контент сексуального характера"
+# XX## game/screens.rpy:1351
+msgid "Правый клик"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -914,8 +913,9 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1898
-msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+# XX## game/screens.rpy:1355
+msgid "Колёсико вверх\n"
+"Клик на сторону отката"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -924,8 +924,8 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1900
-msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+# XX## game/screens.rpy:1359
+msgid "Колёсико вниз"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -934,8 +934,9 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1904
-msgid "Продолжить"
+# XX## game/screens.rpy:1366
+msgid "Правый триггер\n"
+"A/Нижняя кнопка"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
@@ -944,8 +945,109 @@ msgstr[3] ""
 msgstr[4] ""
 msgstr[5] ""
 
-# XX## game/core/screens.rpy:1917
-msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+# XX## game/screens.rpy:1370
+msgid "Левый Триггер\n"
+"Левый Бампер"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1374
+msgid "Правый бампер"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1379
+msgid "Крестовина, Стики"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1383
+msgid "Start, Guide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1387
+msgid "Y/Верхняя кнопка"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1390
+msgid "Калибровка"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1456
+msgid "Да"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1457
+msgid "Нет"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1503
+msgid "Пропускаю"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1727
+msgid "Скрыть интерфейс"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+# XX## game/screens.rpy:1728
+msgid "Меню"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
