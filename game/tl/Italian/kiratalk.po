@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:18\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01] Не против компании?"
@@ -2138,305 +2138,457 @@ msgstr "[Max_01] Lo spero anch'io!"
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/kiratalk.rpy:11
 msgid "{i}Ой, в другой раз...{/i}"
-msgstr "{i}Oh, un'altra volta... {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:41
 msgid "О... Да, было бы супер!"
-msgstr "Circa... Sì, sarebbe fantastico!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:41
 msgid "Ну, я не знаю..."
-msgstr "Beh, io non lo so..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:44
 msgid "Извини, тётя Кира..."
-msgstr "Mi dispiace, zia Kira..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:44
 msgid "Просто я отвлёкся..."
-msgstr "Sono solo distratto..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:61
 msgid "Да я и не скрываю..."
-msgstr "E non mi nascondo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:68
 msgid "Что?!"
-msgstr "A cosa?!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:68
 msgid "Откуда ты знаешь, что..."
-msgstr "Come fai a saperlo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:80
 msgid "{i}снять напряжение{/i}"
-msgstr "{i}alleviare la tensione{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:100
 msgid "Есть!"
-msgstr "Mangiare!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:100
 msgid "Нет..."
-msgstr "No..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:103
 msgid "Ты права, нет девушки..."
-msgstr "Hai ragione, non c'è nessuna ragazza..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:122
 msgid "Что ты, всё хорошо!"
-msgstr "Che tu, tutto va bene!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:122
 msgid "Меня всё устраивает..."
-msgstr "Sto bene con quello..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:134
 msgid "Верно..."
-msgstr "Fedelmente..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:134
 msgid "И что ты ей скажешь?"
-msgstr "E cosa le dici?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:144
 msgid "Не надо прикрываться!"
-msgstr "Non c'è bisogno di nascondersi dietro!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:144
 msgid "Пожалуй, я пойду..."
-msgstr "Immagino che andrò..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:154
 msgid "{i}кончить{/i}"
-msgstr "{i}cum{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:171
 msgid "Сегодня точно всё в порядке!"
-msgstr "Oggi tutto è decisamente in ordine!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:171
 msgid "Да я не могу ни о чём думать, когда тут такое..."
-msgstr "Non riesco a pensare a nulla quando c'è questo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:184
 msgid "Вот именно!"
-msgstr "Esattamente!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:184
 msgid "Нет, тебе показалось..."
-msgstr "No, hai pensato..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:187
 msgid "{i}рассказать всю правду про Эрика{/i}"
-msgstr "{i}dire tutta la verità su Eric{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:192
 msgid "Ну ладно... {i}Рассказать всю правду про Эрика{/i}"
-msgstr "Ok... {i}Dire tutta la verità su Eric{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:196
 msgid "Чем ты пользовалась?"
-msgstr "Cosa hai usato?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:196
 msgid "Я говорю правду!"
-msgstr "Sto dicendo la verità!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:219
 msgid "А можно что-то ещё?"
-msgstr "Puoi fare qualcos'altro?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:219
 msgid "Для начала только целоваться!"
-msgstr "Basta baciare per cominciare!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:226
 msgid "Мама не помогла..."
-msgstr "La mamma non ha aiutato..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:226
 msgid "Да, Алиса меня отшила..."
-msgstr "Sì, Alice mi ha cucito via..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:236
 msgid "Договорились!"
-msgstr "Fatto!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:236
 msgid "Хорошо! А ты только этому учишь?"
-msgstr "Ok! È questo che stai insegnando?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:261
 msgid "Кто же вечером порядок наводит?"
-msgstr "Chi porta ordine la sera?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:261
 msgid "Ну, твои руки не как у горничной..."
-msgstr "Beh, le tue mani non sono come quella di una cameriera..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:271
 msgid "А кем тогда?"
-msgstr "E chi allora?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:271
 msgid "И для чего тебе форма горничной?"
-msgstr "E perché hai bisogno di un'uniforme da cameriera?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:282
 msgid "И что это за фильм?"
-msgstr "E che tipo di film è questo?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:409
 msgid "Ещё нет..."
-msgstr "Non ancora..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:409
 msgid "Ага, он у меня!"
-msgstr "Sì, ce l'ho!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:412
 msgid "Всё понял..."
-msgstr "Ho capito tutto..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:442
 msgid "{i}подарить сорочку{/i}"
-msgstr "{i}regala una camicia{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:460
 msgid "Да, сделаем сперва снимок, будто ты только-только проснулась..."
-msgstr "Sì, facciamo prima una foto, come se ti fossi appena svegliato..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:460
 msgid "Ты уже проснулась и решила красиво потянуться..."
-msgstr "Ti sei già svegliato e hai deciso di allungare magnificamente..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:488
 msgid "Просто повернись в сторону окна..."
-msgstr "Basta girare verso la finestra..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:488
 msgid "Немного привстань, а остальное за мной..."
-msgstr "Alzati un po' e il resto sta a me..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:517
 msgid "Сделаем снимок не для портфолио в монастырь..."
-msgstr "Facciamo una foto non per un portfolio nel monastero..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:517
 msgid "Переходим с дивана к столу..."
-msgstr "Passando dal divano al tavolo..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:550
 msgid "Хотя, я знаю, как он станет ещё лучше..."
-msgstr "Anche se, so come andrà ancora meglio..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:573
 msgid "Пора показать класс, тётя Кира!"
-msgstr "È tempo di mostrare alla classe, zia Kira!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:573
 msgid "Может, сразу удивишь меня чем-нибудь?"
-msgstr "Forse mi sorprenderai subito con qualcosa?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:682
 msgid "{i}кончить!{/i}"
-msgstr "{i}cum! {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:713
 msgid "Нет, я не забыл... были дела с Лизой."
-msgstr "No, non l'ho dimenticato... c'erano cose con Lisa."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:713
 msgid "Нет, просто были дела с Алисой."
-msgstr "No, c'erano solo affari con Alice."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:755
 msgid "Всё, что угодно!"
-msgstr "Vabbè!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:755
 msgid "Особая? Это какая?"
-msgstr "Speciale? Cos'è?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:779
 msgid "{i}подсмотреть за Кирой{/i}"
-msgstr "{i}spia kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:848
 msgid "{i}крепко привязать Киру{/i}"
-msgstr "{i}legare strettamente Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:856
 msgid "{i}раздеться и поиграть с её грудью{/i}"
-msgstr "{i}spogliarsi e giocare con il seno{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:856
 msgid "{i}раздеться и дать ей пососать свой член{/i}"
-msgstr "{i}spogliarsi e lasciarla succhiare il suo cazzo{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:868
 msgid "А вот это вряд ли! (дать ей пососать свой член)"
-msgstr "Ma è improbabile! (lasciala succhiare il suo cazzo)"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:889
 msgid "{i}проникнуть в её киску пальцами{/i}"
-msgstr "{i}penetrarla con le dita{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:895
 msgid "{i}активнее работать языком и губами{/i}"
-msgstr "{i}lavorare più attivamente con la lingua e le labbra{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:902
 msgid "{i}тереться членом о её киску{/i}"
-msgstr "{i}strofinando il suo contro la sua figa{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:908
 msgid "{i}трахать её пальцами{/i}"
-msgstr "{i}scopare con le dita{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:914
 msgid "{i}медленно проникнуть в неё членом{/i}"
-msgstr "{i}penetrarlo lentamente con un membro{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:953
 msgid "{i}трахать тётю Киру{/i}"
-msgstr "{i}cazzo zia Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:962
 msgid "{i}ускориться{/i}"
-msgstr "{i}accelerare{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:969
 msgid "{i}кончить Кире на живот{/i}"
-msgstr "{i}Kira sullo stomaco{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:982
 msgid "{i}развязать Киру{/i}"
-msgstr "{i}scatenare Kira{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:1032
 msgid "Но это моя семья!"
-msgstr "Ma questa è la mia famiglia!"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:1052
 msgid "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь..."
-msgstr "Non lo sto chiedendo per scopi egoistici! Voglio aiutarla..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:1073
 msgid "Так ты бросила там мою маму?"
-msgstr "Quindi hai lasciato mia madre lì?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:1073
 msgid "Тебе удалось сбежать?"
-msgstr "Sei riuscito a fuggire?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:1247
 msgid "{i}зайти в комнату{/i}"
-msgstr "{i}entra nella stanza{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/kiratalk.rpy:1435
 msgid "{i}Наслаждаться{/i}"
-msgstr "{i}Enjoy{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
