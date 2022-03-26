@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-05 HH:HH# game/events/alice_cam.rpy:25 ## translate crowdin cam0_alice_sleep_night_8807f690:
+﻿# TODO: Translation updated at 2022-03-26 HH:HH# game/events/alice_cam.rpy:25 ## translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
 msgstr "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
 

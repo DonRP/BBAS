@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
+﻿# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
 msgstr "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
 
