@@ -10,53 +10,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/07_clothes.rpy:393
 msgid "Повседневная"
-msgstr "Informel"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для сна"
-msgstr "Pour dormir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для йоги"
-msgstr "Pour le yoga"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Блог в нижнем белье"
-msgstr "Blog sur la lingerie"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит завтрак"
-msgstr "Préparer le petit-déjeuner"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Готовит ужин"
-msgstr "Dîner du soir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Утренний отдых"
-msgstr "Repos matinal"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Вечерний отдых"
-msgstr "Repos du soir"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Купальник"
-msgstr "Maillot de bain"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "За уроками"
-msgstr "Pour les leçons"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:393
 msgid "Для прогулок"
-msgstr "Pour les promenades"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/07_clothes.rpy:472
 msgid "Влияние Макса недостаточно"
-msgstr "Le niveau de persuasion de Max n'est pas suffisant"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
