@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+"PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
@@ -2489,589 +2489,590 @@ msgstr "[Max_07] {m}Eric decide di rendere più intelligente Alice con la sua co
 # XXtranslate crowdin strings:XX# XX## game/events/alice.rpy:14
 msgid "{i}постучаться{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}bussa{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}заглянуть со двора{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}guardare dal cortile{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}установить стремянку{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}installare la scala{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:14
 msgid "{i}воспользоваться стремянкой{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}usare la scala{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:17
 msgid "Это я, Макс. Можно войти?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sono io, Max. Posso entrare?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:61
 msgid "{i}смотреть ещё{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}vedere di più{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:102
 msgid "{i}заглянуть в окно{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}sbircia dalla finestra{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:160
 msgid "{i}прокрасться в комнату{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}intrufolarsi nella stanza{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:360
 msgid "{i}продолжить смотреть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}continua a guardare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:360
 msgid "{i}взглянуть со стороны{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}guarda dall'esterno{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:360
 msgid "{i}немного пошуметь{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}fare un po' di rumore{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:360
 msgid "{i}запустить паука к Алисе{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}lancia spider ad Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:382
 msgid "{i}спрятаться{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}nascondi{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:415
 msgid "{i}принести Алисе полотенце{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}porta ad Alice un asciugamano{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:425
 msgid "{i}отдать Алисе полотенце{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}dare ad Alice un asciugamano{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:425
 msgid "{i}отдать Алисе полотенце (выронив его из одной руки){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}dare ad Alice un asciugamano (lasciandolo cadere da una mano){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:432
 msgid "Да ладно, это ерунда, обращайся."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Dai, è una sciocchezza, vai un po '."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:432
 msgid "А как же братика обнять?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Che ne dici di un abbraccio per tuo fratello?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:454
 msgid "Конечно нет! Оно случайно выскочило из руки!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Certo che no! Mi è accidentalmente scivolato di mano!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:480
 msgid "Зато у меня руки свободны... {i}(обнять в ответ){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ma le mie mani sono libere... {i}(abbraccio in risposta){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:480
 msgid "Вот это другое дело! Рад был помочь."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Questa è un'altra cosa! Felice di aiutarti."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:486
 msgid "Нет. Слишком - это вот так... {i}(обнять за попку){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lol · Troppo - è così... {i}(abbraccia il culo){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:486
 msgid "Может быть, чуть-чуть... Рад был помочь."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Forse un po'... Felice di aiutarti."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:519
 msgid "{i}не убирать руки{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}non togliere le mani{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:639
 msgid "{i}Бежать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Run{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:717
 msgid "Хорошо, я подожду..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ok, aspetterò..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:930
 msgid "Выглядишь... шикарно!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sembri... stupenda!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:930
 msgid "У меня для тебя презент..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ho un regalo per te..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:935
 msgid "Ты знаешь, я забыл..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sai, dimenticavo..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:946
 msgid "{i}дать одну конфету{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}dai una caramella{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:950
 msgid "Ну, можешь трусы показать..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Beh, mi puoi fare vedere le tue mutandine..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:950
 msgid "Да, никакого подвоха!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sì, nessun trucco!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1058
 msgid "Разбирайся сама..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Scoprilo tu stesso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1066
 msgid "Ну, пойдём посмотрим..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bene, andiamo a vedere..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1066
 msgid "Паук? Ерунда какая. Сама разбирайся с ним..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ragno? Che assurdità. Affrontalo tu stesso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1080
 msgid "{i}спать до утра{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}dormire fino al mattino{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1096
 msgid "А что мне за это будет?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "E cosa farò per questo?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1096
 msgid "Хорошо, где он там..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ok, dov'è lì..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1096
 msgid "Паука-то я поймаю, только вот кое-кто нарушает уговор! Или может я не прав?!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Cetach il ragno, ma alcune persone stanno rompendo la persuasione! O forse mi sbaglio?!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1101
 msgid "Давай $10!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Forza €10!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1101
 msgid "Сними верх!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Togliete il top!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1101
 msgid "А, ничего. Так поймаю..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Aa, niente. Quindi sarò attraverso..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1130
 msgid "На красивое глаза легче открываются..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "È più facile aprire gli occhi alle cose belle..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1130
 msgid "Давай уже показывай сиськи!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Mostriamo le tue tette!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1144
 msgid "Не прикрывайся руками!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non coprirti con le mani!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1184
 msgid "Раздевайся!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spogliati!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1192
 msgid "Сиськи ещё покажи..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Le tette mostrano ancora..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1192
 msgid "О да, я очень доволен!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Oh sì, sono molto soddisfatto!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1292
 msgid "{i}оставлю этого паука себе{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}terrò questo ragno per me{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1292
 msgid "{i}выброшу этого паука с балкона{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}getterai questo ragno dal balcone{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1292
 msgid "{i}убью этого паука{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}ucciderai questo ragno{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1295
 msgid "Я не буду его убивать!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non lo ucciderò!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1295
 msgid "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lasciatelo vivere. Vado a buttarlo dal balcone oltre la recinzione, così non tornerà strisciando."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1295
 msgid "{i}выбросить с балкона{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}gettato dal balcone{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1295
 msgid "{i}убить паука{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}uccidere un ragno{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1298
 msgid "{i}вернуться в кровать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}tornare a letto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1495
 msgid "У тебя... Очень красивая грудь..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hai... Seni molto belli..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1495
 msgid "А ты не хочешь мне помочь?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non vuoi aiutarmi?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1530
 msgid "Ну Алиса... Ну чуть-чуть..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Beh, Alice... Beh, un po'..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1530
 msgid "Хорошо. Спокойной ночи, Алиса..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ok. Buona notte, Alice..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1552
 msgid "Хочу, чтобы ты сняла трусики..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Voglio che ti togli le mutandine..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1552
 msgid "Хочу, чтобы ты поласкала его..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Voglio che tu lo accarezzi..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1552
 msgid "Хочу, чтобы ты отсосала..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Voglio che tu faccia schifo..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1585
 msgid "Хочу показать тебе, как я научился целоваться..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Voglio mostrarvi come ho imparato a baciare..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1585
 msgid "А если бы я был твоим парнем... Что бы ты сделала дальше?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "E se fossi il tuo ragazzo... Cosa faresti dopo?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1585
 msgid "На всё остальное ты не согласишься..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non accetterai nient'altro..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1593
 msgid "{i}целовать Алису{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}bacio Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1601
 msgid "{i}закончить целоваться{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}finisci di baciare{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1601
 msgid "{i}прикоснуться к её груди{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}toccarle il seno{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1675
 msgid "{i}ласкать её киску рукой{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}accarezzarla con la mano{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1729
 msgid "{i}кончить ей на лицо{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}sul suo viso{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1729
 msgid "{i}кончить ей на грудь{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}sul petto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1729
 msgid "Нет, я хочу ещё, но нужно поторопиться..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "No, voglio di più, ma dobbiamo sbrigarci..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1729
 msgid "Вообще-то, я надеялся, что ты возьмёшь его в рот..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "In realtà, speravo che lo prendessi in bocca..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1842
 msgid "{i}отправиться спать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}andare a letto{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1883
 msgid "Я могу лучше..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Posso fare di meglio..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:1883
 msgid "Извини, я не хотел. Не обижайся..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Mi dispiace, non volevo. Non offenderti..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2094
 msgid "Я твои фотки принёс..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ho portato le tue foto..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2094
 msgid "Я тут не удержался и купил тебе боди раньше Эрика!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non ho resistito e ti ho comprato un body prima di Eric!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2094
 msgid "Отлично смотришься в этом белье!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hai un bell'aspetto in questa lingerie!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2094
 msgid "Как идут дела с блогом?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Come stanno andando le cose con il blog?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2199
 msgid "{i}сбежать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}escape{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2199
 msgid "Классно смотришься!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bello da vedere!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2199
 msgid "А я тебе принёс кое-что!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "E ti ho portato qualcosa!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2208
 msgid "Чем занята?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Come va?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2208
 msgid "Чего дверь-то закрыла?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Cosa ha chiuso la porta?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2213
 msgid "Точно получается?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Esattamente?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2225
 msgid "Что делаешь-то?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Che stai facendo?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2252
 msgid "Ладно, подожду..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ok, aspetterò..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2252
 msgid "А если конфетку дам, то остаться можно?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "E se do una caramella, allora puoi rimanere?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2452
 msgid "{i}открыть дверь{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}apri la porta{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2519
 msgid "Ну, разве, что так...\n"
 "{i}(начать массировать её киску рукой){/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Beh, a meno che...\n"
+"{i}(inizia a massaggiarle la figa con la mano){/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2519
 msgid "Поласкай свою киску для меня..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Accarezza il tuo per me..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2568
 msgid "{i}массировать её ножки{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}massaggiare le gambe{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2579
 msgid "{i}тереться членом о её ногу{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}strofinando il suo contro la sua gamba{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2609
 msgid "Ох! Тогда тебе стоит быстрее работать рукой..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Oh! Allora dovresti lavorare più velocemente con la mano..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2609
 msgid "Так пусти в дело свой язычок..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Quindi lascia andare la tua lingua..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice.rpy:2637
 msgid "Нет, я даже не близко..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "No, non ci sono nemmeno vicino..."
+msgstr[1] "Ignore this. translate only: One"
 
