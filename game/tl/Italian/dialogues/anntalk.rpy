@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:17\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
 msgstr "[Ann_17] Vai via, Max. Non abbiamo niente di cui parlare finché non restituisci i soldi a Eric e ti scusi con lui e con tutti noi! [nointeract]"
 
@@ -1746,7 +1746,7 @@ msgstr "[Ann_14] A quanto pare, Eric mi ha reso troppo sospettoso. Cercare di nu
 
 # game/dialogues/anntalk.rpy:1812 ## translate crowdin ann_about_olivia0_succes_a1e2dec6:
 msgid "[Max_09] И вспомни, кто вывел Эрика на чистую воду? Я! И я же тебе говорю, что присмотрю за Лизой и Оливией."
-msgstr "[Max_09] E ricordate, chi ha portato Eric alla luce? Я! E ti ho detto che mi sarei preso cura di Lisa e Olivia."
+msgstr "[Max_09] E ricordate, chi ha portato Eric alla luce? Io! E ti ho detto che mi sarei preso cura di Lisa e Olivia."
 
 # game/dialogues/anntalk.rpy:1813 ## translate crowdin ann_about_olivia0_succes_e99695fc:
 msgid "[Ann_17] Хорошо, я разрешу вам собираться по ночам, но! Если мне будет слишком неспокойно, я могу взять и проверить, чем вы занимаетесь."

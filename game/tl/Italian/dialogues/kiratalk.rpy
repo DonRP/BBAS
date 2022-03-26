@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01] Не против компании?"
 msgstr "[Max_01] Non contro l'azienda?"
 
@@ -1442,7 +1442,7 @@ msgstr "[Max_11] Ed è molto umiliante!"
 
 # game/dialogues/kiratalk.rpy:1111 ## translate crowdin story_from_childhood_ann_9069ca5d:
 msgid "[Kira_05] Да, да, я именно так и сказала. Ну это уже не моё дело. Как вас воспитывать будет решать ваша мама. Я могу лишь понаблюдать со стороны на всё это..."
-msgstr "[Kira_05] sì, sì, è esattamente quello che ho detto. Beh, non sono affari miei. Il modo in cui sarai cresciuto sarà deciso da tua madre. Posso solo guardare da bordo campo per tutto questo..."
+msgstr "[Kira_05] Sì, sì, è esattamente quello che ho detto. Beh, non sono affari miei. Il modo in cui sarete cresciuti dipenderà da vostra madre. Tutto quello che posso fare è guardare da bordo campo..."
 
 # game/dialogues/kiratalk.rpy:1112 ## translate crowdin story_from_childhood_ann_14140d51:
 msgid "[Max_07] Ясно. Ну, спасибо за историю. Теперь многое стало понятно!"

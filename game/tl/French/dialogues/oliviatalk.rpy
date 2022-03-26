@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-09 15:23\n"
+"PO-Revision-Date: 2022-03-26 10:13\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
 msgstr "[Max_01] Ça te dérange si je prends aussi un bain de soleil ?"
 

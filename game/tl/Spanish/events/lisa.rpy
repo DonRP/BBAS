@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-06 11:18\n"
+"PO-Revision-Date: 2022-03-26 10:14\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
 msgstr ""
 

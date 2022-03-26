@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
 "Мне кажется, не стоит её будить...{/m} [nointeract]"
 msgstr "[Max_00] {m}La mamma di solito dorme a quest'ora.\n"
@@ -490,7 +490,7 @@ msgstr "[Ann_12] Smettila di irrompere nella stanza senza preavviso! O hai qualc
 
 # game/events/ann.rpy:661 ## translate crowdin ann_dressed_balkon_talk1_b906cb2e:
 msgid "[Ann_14] У меня сейчас такое состояние, что я не знаю, как мне жить дальше... Я... Я ужасная мать..."
-msgstr "[Ann_14] In questo momento sono in uno stato in cui non so come andare avanti... Я... Sono una madre terribile..."
+msgstr "[Ann_14] In questo momento sono in uno stato in cui non so come andare avanti... Io... Sono una madre terribile..."
 
 # game/events/ann.rpy:662 ## translate crowdin ann_dressed_balkon_talk1_b034aec8:
 msgid "[Max_08] Что?! Как ты можешь такое говорить?"
@@ -498,7 +498,7 @@ msgstr "[Max_08] Cosa?! Come puoi dire questo?"
 
 # game/events/ann.rpy:663 ## translate crowdin ann_dressed_balkon_talk1_79bc09d7:
 msgid "[Ann_13] А разве нет? Я... Я была так глупа, что привела в дом проходимца, который не только воспользовался мной, но и чуть не совратил моих девочек!"
-msgstr "[Ann_13] Non è vero? Я... Sono stata così stupida da portare in casa un vagabondo che non solo ha approfittato di me, ma ha quasi molestato le mie ragazze!"
+msgstr "[Ann_13] Non è vero? Io... Sono stata così stupida da portare in casa un vagabondo che non solo ha approfittato di me, ma ha quasi molestato le mie ragazze!"
 
 # game/events/ann.rpy:664 ## translate crowdin ann_dressed_balkon_talk1_de50c165:
 msgid "[Max_09] Мам, прекрати, это уже всё в прошлом... Забудь..."

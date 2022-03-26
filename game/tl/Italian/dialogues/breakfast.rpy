@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-11 15:38\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
 msgstr "[Ann_00] Buongiorno a tutti ancora una volta, buon appetito a tutti! Facciamo uno spuntino in silenzio oggi, se non ti dispiace... [nointeract]"
 
@@ -42,7 +42,7 @@ msgstr "[Alice_07] Semplicemente mi ha lasciato senza parole! Dopo il nostro vec
 
 # game/dialogues/breakfast.rpy:31 ## translate crowdin breakfast_first_494e7581:
 msgid "[Ann_12] Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно... [nointeract]"
-msgstr "[Ann_12] Già, anch'io sono preoccupato per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non devi pagare la bolletta dell'elettricità... [nointeract]"
+msgstr "[Ann_12] Già, anch'io sono preoccupata per questo. Ma il mio nuovo lavoro promette un ottimo stipendio. Forse non è così male. A proposito, non si deve pagare la bolletta dell'elettricità... [nointeract]"
 
 # game/dialogues/breakfast.rpy:38 ## translate crowdin breakfast_first_02490cba:
 msgid "[Lisa_01] А вдруг, нигде не кидают? Хотя я папу и не помню, но мне кажется, что никто не стал бы дарить целый дом только чтобы как-то кинуть... [nointeract]"
@@ -146,7 +146,7 @@ msgstr "[Ann_01] Il nostro intero tetto è costituito da pannelli solari. C'è u
 
 # game/dialogues/breakfast.rpy:195 ## translate crowdin breakfast_first_bf_roof_306fdb3a:
 msgid "[Lisa_09] Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда. [nointeract]"
-msgstr "[Lisa_09] sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco. [nointeract]"
+msgstr "[Lisa_09] Sì, a proposito, fa molto caldo qui. Non sono ancora abituata a questo clima. D'altra parte, non sono così dispiaciuta per i vestiti che ho perso durante il trasloco. [nointeract]"
 
 # game/dialogues/breakfast.rpy:198 ## translate crowdin breakfast_first_bf_roof_6de5b34a:
 msgid "[Ann_00] Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно... [nointeract]"
@@ -198,7 +198,7 @@ msgstr "[Alice_07] selvaggio! Vivi nella stessa stanza con tua sorella minore, d
 
 # game/dialogues/breakfast.rpy:280 ## translate crowdin breakfast_first_bf_buy_new_837aef32:
 msgid "[Alice_06] Ага, вот только купилка у некоторых не выросла ещё! [nointeract]"
-msgstr "[Alice_06] sì, questo è solo l'acquisto da alcuni non è ancora cresciuto! [nointeract]"
+msgstr "[Alice_06] Sì, peccato che alcuni di noi non sono ancora cresciuti! [nointeract]"
 
 # game/dialogues/breakfast.rpy:283 ## translate crowdin breakfast_first_bf_buy_new_f7b11ae0:
 msgid "[Alice_15] Так ты ею будешь зарабатывать? Любопытно... [nointeract]"

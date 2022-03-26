@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-14 23:46\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
 msgstr "[Eric_01] Cosa volevi, Max? [nointeract]"
 
@@ -470,7 +470,7 @@ msgstr "[Max_00] Ok, ci proverò..."
 
 # game/dialogues/erictalk.rpy:447 ## translate crowdin Eric_talk_about_Lisa_0_98c18922:
 msgid "[Eric_04] Я это спросил, просто чтобы тебя позлить. Я её всё равно заберу, скоро ты в этом убедишься. И да, готовь сапоги. Военный лагерь ждёт..."
-msgstr "[Eric_04] ho chiesto questo, solo a te. Lo prenderò comunque, presto sarai convinto. E sì, prepara gli stivali. Il campo militare è in attesa..."
+msgstr "[Eric_04] L'ho chiesto solo per farti arrabbiare. La porterò comunque, vedrai presto. E sì, preparate gli stivali. Il campo di guerra aspetta..."
 
 # game/dialogues/erictalk.rpy:448 ## translate crowdin Eric_talk_about_Lisa_0_2c68645b:
 msgid "[Max_16] Посмотрим..."
@@ -1258,7 +1258,7 @@ msgstr "[Eric_02] Sputa il rospo se hai deciso cosa vuoi."
 
 # game/dialogues/erictalk.rpy:962 ## translate crowdin Eric_bonus_for_Lisa_f5b3af6e:
 msgid "[Max_07] Я... Я хотел бы смотреть, как вы с мамой трахаетесь! При чём, так сказать, с первых рядов..."
-msgstr "[Max_07] Я... Mi piacerebbe guardare te e la mamma mentre scopate! Dalla prima fila, per così dire..."
+msgstr "[Max_07] Io... Mi piacerebbe guardare te e la mamma mentre scopate! Dalla prima fila, per così dire..."
 
 # game/dialogues/erictalk.rpy:963 ## translate crowdin Eric_bonus_for_Lisa_9b8cd369:
 msgid "[Eric_03] И что ты, мелкий извращенец, подразумеваешь под \"первыми рядами\"?"

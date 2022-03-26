@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:20\n"
+"PO-Revision-Date: 2022-03-26 10:13\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/christina.rpy:7 ## translate crowdin christina_first_talk_a072d515:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/christina.rpy:7 ## translate crowdin christina_first_talk_a072d515:
 msgid "[Christine_03] А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
 msgstr "[Christine_03] Pourquoi signez-vous toujours pour des vêtements pour femmes? Avez-vous chassé des filles d'ici?"
 

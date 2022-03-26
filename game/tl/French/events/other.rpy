@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:19\n"
+"PO-Revision-Date: 2022-03-26 10:15\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/other.rpy:11 ## translate crowdin shoping_034007bc:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/other.rpy:11 ## translate crowdin shoping_034007bc:
 msgid "[Ann_05] Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
 msgstr "[Ann_05] Max! Nous sommes allés faire du shopping. Ne te manque pas ici sans nous, d'accord? On revient dans 3 heures... [nointeract]"
 
@@ -964,75 +964,75 @@ msgstr "[Ann_02] j'Espère... Je n'ai plus rien à respirer. C'est l'heure des a
 msgid "[Lisa_05] И мы тебя!"
 msgstr "[Lisa_05] Et nous sommes vous!"
 
-# game/events/other.rpy:819 ## translate crowdin failed_dinner_b8e2672f:
+# game/events/other.rpy:818 ## translate crowdin failed_dinner_b8e2672f:
 msgid "[Eric_00] Итак, настал момент истины. Я дал тебе, Макс, достаточно времени, чтобы ты вернул мне мои деньги при всех. Ну что, ты готов покаяться и исправить свою ошибку?"
 msgstr "[Eric_00] donc, le moment de vérité est venu. Je t'ai donné, Max, assez de temps pour que Tu me rendes mon argent avec tout le monde. Tu es prêt à te repentir et à corriger ton erreur?"
 
-# game/events/other.rpy:823 ## translate crowdin failed_dinner_d3811ad8:
+# game/events/other.rpy:822 ## translate crowdin failed_dinner_d3811ad8:
 msgid "[Max_15] Да пошёл ты... Нет у меня твоих денег, и ты это прекрасно знаешь!"
 msgstr "[Max_15] va te faire foutre... Je n'ai pas ton argent, et tu le sais très bien!"
 
-# game/events/other.rpy:826 ## translate crowdin failed_dinner_851dce21:
+# game/events/other.rpy:825 ## translate crowdin failed_dinner_851dce21:
 msgid "[Max_15] Да пошёл ты... Я ни за что не стану возвращать тебе то, чего не брал! И признавать себя вором тоже не стану!"
 msgstr "[Max_15] va te faire foutre... Je ne te rendrai jamais ce que je n'ai pas pris! Et je ne vais pas me reconnaître comme un voleur non plus!"
 
-# game/events/other.rpy:828 ## translate crowdin failed_dinner_2c4314ba:
+# game/events/other.rpy:827 ## translate crowdin failed_dinner_2c4314ba:
 msgid "[Eric_09] Что ж, значит продолжаем отпираться... Ладно... Как ты видишь, Ань, я сделал всё, что было в моих силах, но это твой сын и тебе принимать решение."
 msgstr "[Eric_09] alors on continue à se défaire... D'accord... Comme tu vois, Anh, j'ai fait tout ce qui était en mon pouvoir, mais c'est ton fils et c'est à toi de décider."
 
-# game/events/other.rpy:829 ## translate crowdin failed_dinner_e02fe136:
+# game/events/other.rpy:828 ## translate crowdin failed_dinner_e02fe136:
 msgid "[Ann_14] Да-да... Прости, Макс, но ты очень меня разочаровал и... нам не остаётся другого выбора, кроме как отправить тебя в военный лагерь. Надеюсь, там из тебя сделают ответственного человека."
 msgstr "[Ann_14] Oui... Désolé, Max, mais tu m'as vraiment déçu... nous n'avons pas d'autre choix que de vous envoyer dans un camp militaire. J'espère que ça fera de toi une personne responsable."
 
-# game/events/other.rpy:830 ## translate crowdin failed_dinner_03357d46:
+# game/events/other.rpy:829 ## translate crowdin failed_dinner_03357d46:
 msgid "[Max_13] Что?! Кому это, \"нам\"? Вам с Эриком? Это же не ты сейчас говоришь, а он! Как ты можешь выгонять из дома родного сына?"
 msgstr "[Max_13] Quoi?! Qui est-ce, \"nous\"? Toi et Eric? Ce n'est pas toi qui parle, c'est lui! Comment peux-tu expulser ton fils de chez toi?"
 
-# game/events/other.rpy:831 ## translate crowdin failed_dinner_d29fb4a6:
+# game/events/other.rpy:830 ## translate crowdin failed_dinner_d29fb4a6:
 msgid "[Ann_17] Прекрати, Макс! Я устала слушать твои оправдания. Ты даже не представляешь, до какой степени мне стыдно, что мой единственный сын - вор!"
 msgstr "[Ann_17] Arrête, Max! J'en ai marre d'entendre tes excuses. Tu ne sais même pas à quel point j'ai honte que mon fils unique soit un voleur!"
 
-# game/events/other.rpy:832 ## translate crowdin failed_dinner_c43f223d:
+# game/events/other.rpy:831 ## translate crowdin failed_dinner_c43f223d:
 msgid "[Max_14] Но мам, это всё неправда! Не говори так! Это же Эрик всё подстроил!"
 msgstr "[Max_14] mais maman, ce n'est pas vrai! Ne dis pas ça! C'est Eric qui a tout arrangé!"
 
-# game/events/other.rpy:833 ## translate crowdin failed_dinner_5a9be7a6:
+# game/events/other.rpy:832 ## translate crowdin failed_dinner_5a9be7a6:
 msgid "[Eric_13] Да, стыдно за тебя, Макс, ты разбиваешь сердце собственной матери... Какой позор..."
 msgstr "[Eric_13] oui, j'ai honte de toi, Max, tu brises le cœur de ta mère... Quelle honte..."
 
-# game/events/other.rpy:834 ## translate crowdin failed_dinner_c7cc51b7:
+# game/events/other.rpy:833 ## translate crowdin failed_dinner_c7cc51b7:
 msgid "[Max_16] Заткнись, Эрик! Мам, неужели ты не видишь, что он тобой манипулирует?!"
 msgstr "[Max_16] Tais-Toi, Eric! Maman, tu ne vois pas qu'il te manipule?!"
 
-# game/events/other.rpy:835 ## translate crowdin failed_dinner_81894a93:
+# game/events/other.rpy:834 ## translate crowdin failed_dinner_81894a93:
 msgid "[Ann_18] Не хочу ничего слышать про это. Всё. Собираешь вещи и едешь. Давно надо было это сделать, но я тебя всё жалела. В результате докатились, воруешь в собственном доме! А что будет дальше?"
 msgstr "[Ann_18] Je ne veux rien entendre à ce sujet. C'est tout. Tu fais tes bagages et tu conduis. J'aurais dû le faire il y a longtemps, mais j'ai eu pitié de toi. En conséquence, vous volez dans votre propre maison! Qu'est-ce qui va se passer ensuite?"
 
-# game/events/other.rpy:836 ## translate crowdin failed_dinner_ffb1b7ea:
+# game/events/other.rpy:835 ## translate crowdin failed_dinner_ffb1b7ea:
 msgid "[Max_11] Но мам..."
 msgstr "[Max_11] Mais maman..."
 
-# game/events/other.rpy:837 ## translate crowdin failed_dinner_b3c54058:
+# game/events/other.rpy:836 ## translate crowdin failed_dinner_b3c54058:
 msgid "[Ann_16] Всё, Макс, разговор окончен!"
 msgstr "[Ann_16] tout le monde, Max, la conversation est terminée!"
 
-# game/events/other.rpy:839 ## translate crowdin failed_dinner_4d7ce5c3:
+# game/events/other.rpy:838 ## translate crowdin failed_dinner_4d7ce5c3:
 msgid "[Eric_01] Не переживай, Макс, я позабочусь обо всех, пока ты будешь тянуть лямку в армии... [nointeract]"
 msgstr "[Eric_01] ne t'inquiète pas, Max, Je m'occuperai de tout le monde pendant que tu Tires la sangle dans l'armée... [nointeract]"
 
-# game/events/other.rpy:846 ## translate crowdin failed_dinner_fe32100d:
+# game/events/other.rpy:845 ## translate crowdin failed_dinner_fe32100d:
 msgid "[Max_14] {m}Вот так и закончилась моя история. Больше мне не верили и не хотели меня видеть. Конечно, если бы не Эрик, всё было бы хорошо, но этот гад... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m} [nointeract]"
 msgstr "[Max_14] {m}c'est ainsi que mon histoire s'est terminée. Ils ne me croyaient plus et ne voulaient plus me voir. Bien sûr, sans Eric, tout serait bien, mais ce connard... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m} [nointeract]"
 
-# game/events/other.rpy:853 ## translate crowdin failed_dinner_79acb07c:
+# game/events/other.rpy:852 ## translate crowdin failed_dinner_79acb07c:
 msgid "[Max_14] {m}Вот так и закончилась моя история. От всей этой несправедливости я немного слетел с катушек и почти размазал Эрика по балкону... Почти... Теперь ему ничто не помешает сделать с моей семьёй всё, что он задумал... Вот если бы я мог вернуться в прошлое... Но есть ли в этом смысл?{/m} [nointeract]"
 msgstr "[Max_14] {m}c'est ainsi que mon histoire s'est terminée. De toute cette injustice, je me suis un peu envolé et j'ai presque barbouillé Eric sur le balcon... Presque... Maintenant, rien ne l'empêche de faire ce qu'il a prévu avec ma famille... Si seulement je pouvais revenir dans le passé... Mais cela a-t-il un sens?{/m} [nointeract]"
 
-# game/events/other.rpy:870 ## translate crowdin left_cream_68a6f9b5:
+# game/events/other.rpy:869 ## translate crowdin left_cream_68a6f9b5:
 msgid "[Max_10] {m}Ну вот, крем закончился. Надо ещё купить.{/m}"
 msgstr "[Max_10] {m}Eh bien, la crème est finie. Nous devons en acheter plus.{/m}"
 
-# game/events/other.rpy:876 ## translate crowdin left_cream_61f00467:
+# game/events/other.rpy:875 ## translate crowdin left_cream_61f00467:
 msgid "[Max_08] {m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
 msgstr "[Max_08] {m}Il reste peu de crème, la prochaine fois que ce ne sera peut-être pas suffisant, il est préférable d’en acheter à l’avance.{/m}"
 
@@ -1208,27 +1208,27 @@ msgstr "{i}sperme sur Alice sur ses pieds {/i}"
 msgid "{i}осторожно идти спать{/i}"
 msgstr "{i}allez doucement au lit{/i}"
 
-# XX## game/events/other.rpy:809
+# XX## game/events/other.rpy:808
 msgid "{g}Отношения Макса с семьёй значительно улучшились.{/g}"
 msgstr "{g}la Relation de Max avec sa famille s'est considérablement améliorée.{/g}"
 
-# XX## game/events/other.rpy:838
+# XX## game/events/other.rpy:837
 msgid "{i}собираться в военный лагерь{/i}"
 msgstr "{i}se rassembler dans un camp militaire {/i}"
 
-# XX## game/events/other.rpy:838
+# XX## game/events/other.rpy:837
 msgid "{i}накинуться на Эрика{/i}"
 msgstr "{i}jeter sur Eric {/i}"
 
-# XX## game/events/other.rpy:855
+# XX## game/events/other.rpy:854
 msgid "{i}загрузить игру{/i}"
 msgstr "{i}télécharger le jeu {/i}"
 
-# XX## game/events/other.rpy:855
+# XX## game/events/other.rpy:854
 msgid "{i}вернуться в главное меню{/i}"
 msgstr "{i}retour au menu principal {/i}"
 
-# XX## game/events/other.rpy:855
+# XX## game/events/other.rpy:854
 msgid "{i}выйти из игры{/i}"
 msgstr "{i}quitter le jeu {/i}"
 
