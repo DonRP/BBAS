@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-09 15:23\n"
+"PO-Revision-Date: 2022-03-26 10:13\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/alice.rpy:15 ## translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
 msgstr "[Max_00] {m}si minuit, alors Alice se mouille dans la baignoire... Entrer sans frapper est dangereux pour la vie.{/m} [nointeract]"
 
