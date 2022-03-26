@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-06 11:19\n"
+"PO-Revision-Date: 2022-03-26 10:13\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
+# TODO: Translation updated at 2022-03-26 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
 msgid "[Max_01] {m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m} [nointeract]"
 msgstr "[Max_01] {m}Solo una persona può rimanere sveglia durante questo tempo e sguazzare nella vasca. E quella persona è Kira!{/m} [nointeract]"
 
