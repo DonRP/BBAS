@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 13:35\n"
+"PO-Revision-Date: 2022-03-26 14:05\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/script.rpy:58 ## translate crowdin intro_8dea4dcf:
 msgid "[Max_00] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
@@ -178,7 +178,7 @@ msgstr "{i}è tutto chiaro{/i}"
 
 # XX## game/script.rpy:121
 msgid "{i}повторить{/i}"
-msgid_plural "[no_traslate]"
+msgid_plural "Ingnora this translate only \"One\""
 msgstr[0] "{i}ripeti{/i}"
 msgstr[1] ""
 
