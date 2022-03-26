@@ -10,45 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
-msgstr "{i}buscar debajo de la cama{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:34
 msgid "{i}искать в тумбочке{/i}"
-msgstr "{i}mira en la mesita de noche{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:37
 msgid "{i}искать в столе{/i}"
-msgstr "{i}buscar en la tabla{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:56
 msgid "{i}массировать ступни{/i}"
-msgstr "{i}masajea tus pies{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:64
 msgid "{i}массировать голени{/i}"
-msgstr "{i}masajear las espinillas{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:74
 msgid "{i}массировать бёдра{/i}"
-msgstr "{i}masajea tus caderas{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:78
 msgid "{i}массировать плечи{/i}"
-msgstr "{i}masajear los hombros{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:82
 msgid "{i}массировать спину{/i}"
-msgstr "{i}masajea tu espalda{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:87
 msgid "{i}массировать попку{/i}"
-msgstr "{i}masajear mi culo{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:108
 msgid "{i}искать на кровати{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
