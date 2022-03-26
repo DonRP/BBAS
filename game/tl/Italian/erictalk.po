@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-17 22:39\n"
+"PO-Revision-Date: 2022-03-26 09:55\n"
 
 # TODO: Translation updated at 2022-03-05 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -1258,7 +1258,7 @@ msgstr "[Eric_02] Sputa il rospo se hai deciso cosa vuoi."
 
 # game/dialogues/erictalk.rpy:962 ## translate crowdin Eric_bonus_for_Lisa_f5b3af6e:
 msgid "[Max_07] Я... Я хотел бы смотреть, как вы с мамой трахаетесь! При чём, так сказать, с первых рядов..."
-msgstr "[Max_07] Я... Mi piacerebbe guardare te e la mamma mentre scopate! Dalla prima fila, per così dire..."
+msgstr "[Max_07] Io... Mi piacerebbe guardare te e la mamma mentre scopate! Dalla prima fila, per così dire..."
 
 # game/dialogues/erictalk.rpy:963 ## translate crowdin Eric_bonus_for_Lisa_9b8cd369:
 msgid "[Eric_03] И что ты, мелкий извращенец, подразумеваешь под \"первыми рядами\"?"
