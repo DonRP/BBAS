@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/alice_cam.rpy:25 ## translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
@@ -386,25 +386,37 @@ msgstr "[Max_08]  {m} Eric está en la habitación de Alice hoy. Parece que est�
 
 # XXtranslate crowdin strings:XX# XX## game/events/alice_cam.rpy:57
 msgid "{i}Конечно{/i}"
-msgstr "{i}Por supuesto{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgstr "{i}Toma la cámara y ve a la ventana de Alice{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgstr "{i}Y a la mierda con él, déjalo temblar{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/alice_cam.rpy:88
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgstr "{i}Toma la cámara y ve al balcón{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}продолжать смотреть{/i}"
-msgstr "{i}sigue mirando{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}достаточно{/i}"
-msgstr "{i}suficiente{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
