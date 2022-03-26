@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:18\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
@@ -998,53 +998,79 @@ msgstr "[Max_01] alors, jusqu'à la prochaine fois, les filles. [nointeract]"
 
 # XXtranslate crowdin strings:XX# XX## game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
-msgstr "Bien que, non... En fait, j'ai des choses à faire..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid "Давай перенесём..."
-msgstr "Passons à autre chose..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid "Тогда приятного вам просмотра..."
-msgstr "Alors profitez de votre film..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:265
 msgid "{i}идти в гостиную{/i}"
-msgstr "{i}aller dans le salon{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:320
 msgid "{i}устроиться поудобнее и наблюдать{/i}"
-msgstr "{i}pour se mettre à l’aise et regarder{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:413
 msgid "{i}массировать Оливию кремом для загара{/i}"
-msgstr "{i}masser Olivia avec de la crème solaire {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:438
 msgid "{i}массировать Лизу кремом для загара{/i}"
-msgstr "{i}masser Lisa avec de la crème solaire {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:499
 msgid "{i}сначала делать массаж Оливии{/i}"
-msgstr "{i}premier massage Olivia {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:499
 msgid "{i}сначала делать массаж Лизе{/i}"
-msgstr "{i}premier massage Lisa {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:534
 msgid "{i}обнаглеть и массировать Оливии попку{/i}"
-msgstr "{i}se mettre nu et masser le cul d’Olivia{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:534
 msgid "{i}делать массаж Лизе{/i}"
-msgstr "{i}faire un massage à Lisa {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:591
 msgid "{i}развязать Лизе купальник{/i}"
-msgstr "{i}dénouer le maillot de bain de Lisa{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:645
 msgid "{i}делать массаж Оливии{/i}"
-msgstr "{i}faire un massage à Olivia {/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
