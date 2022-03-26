@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -18,49 +18,61 @@ translate crowdin strings:
 
     # game/core/07_clothes.rpy:393
     old "Повседневная"
-    new "Casual"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Для сна"
-    new "Para dormir"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Для йоги"
-    new "Para Yoga"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Блог в нижнем белье"
-    new "Blog en ropa interior"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Готовит завтрак"
-    new "Prepara el desayuno"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Готовит ужин"
-    new "Cocina la cena"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Утренний отдых"
-    new "Descanso matutino"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Вечерний отдых"
-    new "Descanso nocturno"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Купальник"
-    new "Traje de baño"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "За уроками"
-    new "Para lecciones"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:393
     old "Для прогулок"
-    new "Para paseos"
+    new ""
+#--- ""
 
     # game/core/07_clothes.rpy:472
     old "Влияние Макса недостаточно"
-    new "La influencia de Max no es suficiente"
+    new ""
+#--- ""
 

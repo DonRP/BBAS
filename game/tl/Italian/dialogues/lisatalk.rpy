@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -1938,7 +1938,7 @@ translate italian Lisa_HomeWork_2e4b11ca:
 translate italian Lisa_HomeWork_641cf30e:
 
     # {i}Спустя какое-то время...{/i}"
-    new "{i}Dopo un po'... {/i}"
+    "{i}Dopo un po'... {/i}"
 
 # game/dialogues/lisatalk.rpy:1089
 translate italian Lisa_HomeWork_c91852c6:
@@ -2568,7 +2568,7 @@ translate italian Lisa_HomeWork_random_answer_b6886dad:
 translate italian Lisa_HomeWork_new_self_641cf30e:
 
     # {i}Спустя какое-то время...{/i}"
-    new "{i}Dopo un po'... {/i}"
+    "{i}Dopo un po'... {/i}"
 
 # game/dialogues/lisatalk.rpy:1530
 translate italian Lisa_HomeWork_new_self_64ba960e:
@@ -9750,7 +9750,7 @@ translate italian lisa_about_stolen_phone_d80ba8b0:
 translate italian lisa_about_stolen_phone_2a74b2cc:
 
     # {color=[orange]}(Лиза слушает запись...){/color}"
-    new "{color=[orange]}(Lisa ascolta il nastro...){/color}"
+    "{color=[orange]}(Lisa ascolta il nastro...){/color}"
 
 # game/dialogues/lisatalk.rpy:4623
 translate italian lisa_about_stolen_phone_0a6862b6:
@@ -11577,4 +11577,5 @@ translate italian strings:
     # game/dialogues/lisatalk.rpy:5022
     old "{i}целовать её грудь{/i}"
     new "{i}baciarle i seni{/i}"
+#--- "Ignore this. translate only: One"
 

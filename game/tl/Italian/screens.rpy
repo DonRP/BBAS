@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:19\n"
+# "PO-Revision-Date: 2022-03-26 14:36\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 translate italian strings:
 
@@ -431,4 +431,5 @@ translate italian strings:
     # game/screens.rpy:1728
     old "Меню"
     new "Menù"
+#--- "Ignore this. translate only: One"
 

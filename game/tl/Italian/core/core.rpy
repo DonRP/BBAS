@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:12\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -84,13 +84,13 @@ translate italian after_buying_46e6b997:
 translate italian after_load_84f87582:
 
     # ver [current_ver], _ver [_version], conf.ver [config.version]"
-    new "ver [current_ver], _ver [_version], conf.ver [config.version]"
+    "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:1009
 translate italian after_load_e53fbeb7:
 
     # _ver [_version], conf.ver [config.version]"
-    new "_ver [_version], conf.ver [config.version]"
+    "_ver [_version], conf.ver [config.version]"
 
 translate italian strings:
 
@@ -113,4 +113,5 @@ translate italian strings:
     # game/core/core.rpy:1108
     old "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\nХоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\nИ теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
     new "È davvero uno spettacolo affascinante! Non molti sono riusciti a spogliare e sculacciare la loro sorella maggiore...\nAnche se è capricciosa e minacciosa, la mia insistenza sembra aver preso il sopravvento. È un piacere ammirare il suo culo nudo e sodo, così come schiaffeggiarlo.\n\nE ora so come non esagerare per godermi questa punizione privata il più a lungo possibile..."
+#--- "Ignore this. translate only: One"
 

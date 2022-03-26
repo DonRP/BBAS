@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/eric_cam.rpy:13 ## translate crowdin cam0_eric_ann_sleep_b363be42:
 msgid "[Max_07] {m}Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда...{/m}"
@@ -258,5 +258,11 @@ msgstr ""
 
 # XXtranslate crowdin strings:XX# XX## game/events/eric_cam.rpy:436
 msgid "{i}идти к комнате Алисы{/i}"
-msgstr ""
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 

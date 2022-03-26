@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:10\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -18,127 +18,157 @@ translate crowdin strings:
 
     # game/core/04function.rpy:302
     old "+ к навыку скрытности"
-    new "+ a la habilidad del sigilo"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:306
     old "+ к навыку убеждения"
-    new "+ a la habilidad de persuasión"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:310
     old "+ к навыку массажа"
-    new "+ a la habilidad del masaje"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:314
     old "+ к навыку поцелуев"
-    new "+ a la habilidad de besar"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:318
     old "+ к навыку эротического массажа"
-    new "+ a la habilidad del masaje erótico"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:322
     old "+ к тренированности"
-    new "+ a fitness"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:326
     old "+ к навыку кунилингуса"
-    new "+ a la habilidad de"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:330
     old "+ к сексуальному опыту"
-    new "+ a la experiencia sexual"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:334
     old "+ к опыту анального секса"
-    new "+ a la experiencia del sexo"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:343
     old "{color=[red]}значительно ухудшилось{/color}"
-    new "{color=[red]}se ha deteriorado significativamente{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:343
     old "{color=[red]}ухудшилось{/color}"
-    new "{color=[red]}empeorado{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:343
     old "{color=[red]}немного ухудшилось{/color}"
-    new "{color=[red]}ligeramente empeorado{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:343
     old "{color=[lime]}немного улучшилось{/color}"
-    new "{color=[lime]}ligeramente mejorado{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:343
     old "{color=[lime]}улучшилось{/color}"
-    new "{color=[lime]}mejorado{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:343
     old "{color=[lime]}значительно улучшилось{/color}"
-    new "{color=[lime]}ha mejorado significativamente{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:354
     old "{color=[red]}снизилось{/color}"
-    new "{color=[red]}disminuido{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:354
     old "{color=[lime]}повысилось{/color}"
-    new "{color=[lime]}increased{/color}"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:385
     old "Настроение %s %s \n"
 "Её отношение к Максу %s"
-    new "Su estado de ánimo %s %s \n"
-"su actitud hacia Max %s"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:387
     old "Отношение %s к Максу %s"
-    new "La actitud de %s hacia Max %s"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:389
     old "Настроение %s %s"
-    new "%s %sdel estado de ánimo"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:406
     old "Так... В накладной написано следующее:"
-    new "Así que... La factura dice lo siguiente:"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:712
     old "Прохладные"
-    new "Fresco"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Война"
-    new "Guerra"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Враждебные"
-    new "Hostil"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Плохие"
-    new "Malo"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Неплохие"
-    new "Bien"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Хорошие"
-    new "Bien"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Тёплые"
-    new "Cálido"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Дружеские"
-    new "Amistoso"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:714
     old "Близкие"
-    new "Cerrar"
+    new ""
+#--- ""
 
     # game/core/04function.rpy:1011
     old "Конфеты закончились"
-    new "Se acabó el caramelo"
+    new ""
+#--- ""
 

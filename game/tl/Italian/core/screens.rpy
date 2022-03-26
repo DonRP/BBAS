@@ -10,9 +10,9 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-06 11:17\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH
+# TODO: Translation updated at 2022-03-26 HH:HH
 
 translate italian strings:
 
@@ -220,175 +220,176 @@ translate italian strings:
     old "ПЕРСОНАЖИ"
     new "PERSONAGGI"
 
-    # game/core/screens.rpy:1444
+    # game/core/screens.rpy:1447
     old "Отношения с [char_name!t]:"
     new "Rapporto con [char_name!t]:"
 
-    # game/core/screens.rpy:1455
+    # game/core/screens.rpy:1458
     old "Запас сил:"
     new "Riserva di forze:"
 
-    # game/core/screens.rpy:1460
+    # game/core/screens.rpy:1463
     old "Тренированность:"
     new "Idoneità:"
 
-    # game/core/screens.rpy:1465
+    # game/core/screens.rpy:1468
     old "Чистота:"
     new "Purezza:"
 
-    # game/core/screens.rpy:1472
+    # game/core/screens.rpy:1475
     old "Навыки:"
     new "Abilità:"
 
-    # game/core/screens.rpy:1475
+    # game/core/screens.rpy:1478
     old "Навык убеждения:"
     new "Abilità di persuasione:"
 
-    # game/core/screens.rpy:1480
+    # game/core/screens.rpy:1483
     old "Навык скрытности:"
     new "Abilità Stealth:"
 
-    # game/core/screens.rpy:1486
+    # game/core/screens.rpy:1489
     old "Навык массажа:"
     new "Abilità di massaggio:"
 
-    # game/core/screens.rpy:1492
+    # game/core/screens.rpy:1495
     old "Навык эро.массажа:"
     new "Ero.massage abilità:"
 
-    # game/core/screens.rpy:1498
+    # game/core/screens.rpy:1501
     old "Навык поцелуев:"
     new "Abilità di bacio:"
 
-    # game/core/screens.rpy:1504
+    # game/core/screens.rpy:1507
     old "Сексуальный опыт:"
     new "Esperienza sessuale:"
 
-    # game/core/screens.rpy:1516
+    # game/core/screens.rpy:1519
     old "Настроение:"
     new "Umore:"
 
-    # game/core/screens.rpy:1522
+    # game/core/screens.rpy:1525
     old "Уровень отношений:"
     new "Livello di relazione:"
 
-    # game/core/screens.rpy:1536
+    # game/core/screens.rpy:1539
     old "Влияние Макса:"
     new "Influenza di Max:"
 
-    # game/core/screens.rpy:1541
+    # game/core/screens.rpy:1544
     old "Влияние Эрика:"
     new "Influenza di Eric:"
 
-    # game/core/screens.rpy:1550
+    # game/core/screens.rpy:1553
     old "Лучше пока не попадаться на подглядывании за Лизой в душе"
     new "Meglio non farsi beccare a sbirciare Lisa sotto la doccia"
 
-    # game/core/screens.rpy:1554
+    # game/core/screens.rpy:1557
     old "Предпочтения в сладостях:"
     new "Preferenze nei dolci:"
 
-    # game/core/screens.rpy:1558
+    # game/core/screens.rpy:1561
     old "Любит \"Ritter Sport\""
     new "Ama \"Ritter Sport\""
 
-    # game/core/screens.rpy:1560
+    # game/core/screens.rpy:1563
     old "Сгодится \"Raffaello\""
     new "\"Raffaello\" farà"
 
-    # game/core/screens.rpy:1562
+    # game/core/screens.rpy:1565
     old "Ненавидит \"Ferrero Rocher\""
     new "Odia \"Ferrero Rocher\""
 
-    # game/core/screens.rpy:1567
+    # game/core/screens.rpy:1570
     old "Предпочтения в массаже:"
     new "Preferenze di massaggio:"
 
-    # game/core/screens.rpy:1570
+    # game/core/screens.rpy:1573
     old "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
     new "- Dopo un massaggio alle mani, Lisa può lasciare che le sue spalle (e non solo loro) vengano massaggiate quando fa i compiti"
 
-    # game/core/screens.rpy:1574
+    # game/core/screens.rpy:1577
     old "Лучше пока не попадаться на подглядывании за Алисой в душе"
     new "Meglio non essere ancora sorpresi a sbirciare Alice sotto la doccia"
 
-    # game/core/screens.rpy:1582
+    # game/core/screens.rpy:1585
     old "Любит \"Ferrero Rocher\""
     new "Ama \"Ferrero Rocher\""
 
-    # game/core/screens.rpy:1584
+    # game/core/screens.rpy:1587
     old "Сгодится \"Ritter Sport\""
     new "Vestibilità \"Ritter Sport\""
 
-    # game/core/screens.rpy:1586
+    # game/core/screens.rpy:1589
     old "Ненавидит \"Raffaello\""
     new "Odia \"Raffaello\""
 
-    # game/core/screens.rpy:1590
+    # game/core/screens.rpy:1593
     old "Действие алкоголя:"
     new "Effetto dell'alcol:"
 
-    # game/core/screens.rpy:1593
+    # game/core/screens.rpy:1596
     old "???"
-    new "???"
+    new ""
 
-    # game/core/screens.rpy:1597
+    # game/core/screens.rpy:1600
     old "- Не может вспомнить всё, что происходило, пока она была пьяна"
     new "- Non riesco a ricordare tutto ciò che è successo mentre era ubriaca"
 
-    # game/core/screens.rpy:1603
+    # game/core/screens.rpy:1606
     old "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
     new "- Se inizi un massaggio per Alice nel cortile con un piede, allora la probabilità di massaggiare il resto è maggiore"
 
-    # game/core/screens.rpy:1605
+    # game/core/screens.rpy:1608
     old "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
     new "- Con l'aiuto di caramelle con liquore, è possibile ottenere un lavoro ai piedi (e non solo) da Alice durante un massaggio in TV"
 
-    # game/core/screens.rpy:1607
+    # game/core/screens.rpy:1610
     old "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
     new "- Avendo ricevuto un lavoro ai piedi da Alice durante un massaggio in TV, c'è la possibilità di vedere attraverso la telecamera come si masturba prima di coricarsi"
 
-    # game/core/screens.rpy:1650
+    # game/core/screens.rpy:1653
     old "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
     new "IMPOSTA ABITI DA PERSONAGGIO"
 
-    # game/core/screens.rpy:1747
+    # game/core/screens.rpy:1750
     old "Автосмена каждые 2 дня"
     new "Cambio automatico ogni 2 giorni"
 
-    # game/core/screens.rpy:1758
+    # game/core/screens.rpy:1761
     old "Сделать текущей"
     new "Rendi corrente"
 
-    # game/core/screens.rpy:1806
+    # game/core/screens.rpy:1809
     old "[view_cam[1].public]"
     new "[view_cam[1].public]"
 
-    # game/core/screens.rpy:1889
+    # game/core/screens.rpy:1892
     old "ВНИМАНИЕ"
     new "ATTENZIONE"
 
-    # game/core/screens.rpy:1890
+    # game/core/screens.rpy:1893
     old "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
     new "CONTENUTI PER ADULTI"
 
-    # game/core/screens.rpy:1894
+    # game/core/screens.rpy:1897
     old "Эта игра содержит контент сексуального характера"
     new "Questo gioco contiene contenuti di natura sessuale"
 
-    # game/core/screens.rpy:1895
+    # game/core/screens.rpy:1898
     old "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
     new "Continuando, confermi di essere abbastanza grande per questi contenuti"
 
-    # game/core/screens.rpy:1897
+    # game/core/screens.rpy:1900
     old "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
     new "Tutti i personaggi rappresentati in questo gioco sono immaginari e hanno più di 18 anni"
 
-    # game/core/screens.rpy:1901
+    # game/core/screens.rpy:1904
     old "Продолжить"
     new "Continua"
 
-    # game/core/screens.rpy:1914
+    # game/core/screens.rpy:1917
     old "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
     new "ABBIGLIAMENTO DEL PERSONAGGIO NEL MENU PRINCIPALE"
+#--- "Ignore this. translate only: One"
 

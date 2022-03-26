@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:34\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -63,4 +63,5 @@ translate italian strings:
     # game/core/07_clothes.rpy:472
     old "Влияние Макса недостаточно"
     new "L'influenza di Max non è sufficiente"
+#--- "Ignore this. translate only: One"
 

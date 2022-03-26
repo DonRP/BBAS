@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -343,4 +343,5 @@ translate italian strings:
     # game/core/03variables.rpy:286
     old "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
     new "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto dolce. E per di più, ha un colpo di scena... Va in giro per la scuola senza mutandine, e per casa nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
+#--- "Ignore this. translate only: One"
 

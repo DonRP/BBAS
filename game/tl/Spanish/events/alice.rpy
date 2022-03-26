@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:18\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -48,363 +48,435 @@ translate crowdin alice_bath_ca8063ee:
 translate crowdin alice_bath_7fffd1ec:
 
     # Max_09 "{m}Нужно что-нибудь придумать...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:37
 translate crowdin alice_bath_4a929722:
 
     # Max_01 "{m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
+    ""
 
 # game/events/alice.rpy:52
 translate crowdin alice_bath_ladder_76e8b72b:
 
     # Max_04 "{m}Посмотрим, что у нас тут...{/m}"
+    ""
 
 # game/events/alice.rpy:62
 translate crowdin alice_bath_ladder_89e275c4:
 
     # Max_03 "{m}Вот это повезло! Алиса как раз собирается принять ванну... Её шикарная попка меня просто завораживает! Так бы любовался и любовался...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:68
 translate crowdin alice_bath_ladder_4c824ef4:
 
     # Max_05 "{m}Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:77
 translate crowdin alice_bath_ladder_4c824ef4_1:
 
     # Max_05 "{m}Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:83
 translate crowdin alice_bath_ladder_acb863d5:
 
     # Max_07 "{m}Эх! Самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладится её бесподобной попкой!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:103
 translate crowdin alice_sleep_night_e1c2fdd7:
 
     # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
 "Да и входить опасно для здоровья...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:117
 translate crowdin alice_sleep_night_c0808a95:
 
     # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела, в одних лишь трусиках, хочется смотреть вечно!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:119
 translate crowdin alice_sleep_night_ea249669:
 
     # Max_04 "{m}Эх! Не повезло, что Алиса спит спиной к окну и её грудь не видно... Правда, в таком случае, всегда можно насладиться красотой Алисиной попки.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:121
 translate crowdin alice_sleep_night_f84d87b6:
 
     # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:125
 translate crowdin alice_sleep_night_60e127e3:
 
     # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:127
 translate crowdin alice_sleep_night_58e230bc:
 
     # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:129
 translate crowdin alice_sleep_night_f84d87b6_1:
 
     # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:136
 translate crowdin alice_sleep_night_853ba5e8:
 
     # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела в этом полупрозрачном белье хочется смотреть вечно! Только вот не всё из этого должно быть на ней одето!{/m}"
+    ""
 
 # game/events/alice.rpy:138
 translate crowdin alice_sleep_night_4602945a:
 
     # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою попку для меня во всей красе. И есть на ней что-то явно лишнее!{/m}"
+    ""
 
 # game/events/alice.rpy:140
 translate crowdin alice_sleep_night_f246ecd9:
 
     # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её грудь торчит, как два холмика... Соблазнительно... Но, похоже, она кое-что забыла с себя снять перед сном!{/m}"
+    ""
 
 # game/events/alice.rpy:141
 translate crowdin alice_sleep_night_34ca0717:
 
     # Max_09 "{m}Так что надо выводить тебя на чистую воду... Возможно, мне стоит воспользоваться тем, чего Алиса боится больше всего?!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:147
 translate crowdin alice_sleep_night_2617e24b:
 
     # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела в этом полупрозрачном белье хочется смотреть вечно! Но она должна быть совершенно голой! Эх, Алиса, не хорошо нарушать наш уговор...{/m}"
+    ""
 
 # game/events/alice.rpy:149
 translate crowdin alice_sleep_night_bef1aa98:
 
     # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою попку для меня во всей красе. Но она должна быть совершенно голой! Эх, Алиса, не хорошо нарушать наш уговор...{/m}"
+    ""
 
 # game/events/alice.rpy:151
 translate crowdin alice_sleep_night_d9be871a:
 
     # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её грудь торчит, как два холмика... Соблазнительно... Но она должна быть совершенно голой! Эх, Алиса, не хорошо нарушать наш уговор...{/m}"
+    ""
 
 # game/events/alice.rpy:152
 translate crowdin alice_sleep_night_34ca0717_1:
 
     # Max_09 "{m}Так что надо выводить тебя на чистую воду... Возможно, мне стоит воспользоваться тем, чего Алиса боится больше всего?!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:155
 translate crowdin alice_sleep_night_72104d1d:
 
     # Max_07 "{m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела в этом полупрозрачном белье хочется смотреть вечно!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:157
 translate crowdin alice_sleep_night_de140260:
 
     # Max_04 "{m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою попку для меня во всей красе.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:159
 translate crowdin alice_sleep_night_356580d2:
 
     # Max_01 "{m}Обалденно! Сестрёнка спит выгнув спину, отчего её грудь торчит, как два холмика... Соблазнительно...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:172
 translate crowdin alice_sleep_night_e0f22406:
 
     # Max_03 "{m}Да уж... Жаль только, что грудь не видно так, как хотелось бы, но её обворожительной попкой можно любоваться бесконечно... Так и хочется по ней шлёпнуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:174
 translate crowdin alice_sleep_night_14b80d7c:
 
     # Max_02 "{m}Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы пристроился с огромным удовольствием... Можно было бы пройти ещё дальше и хоть одним глазком увидеть сиськи, но лучше уйти, а то ещё проснётся...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:176
 translate crowdin alice_sleep_night_fb659758:
 
     # Max_05 "{m}Чёрт, какая же она притягательная, когда лежит вот так, с совершенно голой грудью... Так и хочется занырнуть между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:179
 translate crowdin alice_sleep_night_17c5e360:
 
     # Max_03 "{m}Да уж... Её обворожительной попкой можно любоваться бесконечно... Так и хочется кое-что в неё присунуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:181
 translate crowdin alice_sleep_night_7e6b25a5:
 
     # Max_02 "{m}Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы не лежал без дела, а как следует её... Но пора уходить, а то ещё проснётся...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:183
 translate crowdin alice_sleep_night_a62e4072:
 
     # Max_05 "{m}Чёрт, какая же она притягательная, когда лежит вот так, полностью голая... И как будто только и ждёт, когда я занырну между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:186
 translate crowdin alice_sleep_night_c65e42c8:
 
     # Max_03 "{m}Да уж... Её обворожительной попкой можно любоваться бесконечно... Так и хочется по ней шлёпнуть... Правда, тогда это будет последнее, что я сделаю в жизни. Так что лучше потихоньку уходить...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:188
 translate crowdin alice_sleep_night_92a1d1e1:
 
     # Max_02 "{m}Класс! Может Алиса мне и сестра, но рядом с этой упругой попкой я бы пристроился с огромным удовольствием... Но пора уходить, а то ещё проснётся...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:190
 translate crowdin alice_sleep_night_56b097f3:
 
     # Max_01 "{m}Чёрт, какая же она притягательная, когда лежит вот так... Так и хочется занырнуть между этих сисечек и её стройных ножек! Только бы она сейчас не проснулась...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:208
 translate crowdin alice_sleep_morning_e1c2fdd7:
 
     # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
 "Да и входить опасно для здоровья...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:219
 translate crowdin alice_sleep_morning_34a5f34f:
 
     # Max_07 "{m}Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную фигурку, на которой лишь одни трусики...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:221
 translate crowdin alice_sleep_morning_aafec992:
 
     # Max_01 "{m}Чёрт! Как же хорошо, что теперь она спит без лифчика и я могу насладится почти всей красотой её тела, и ещё как... Обалденные у неё сиськи!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:223
 translate crowdin alice_sleep_morning_2d3b95bb:
 
     # Max_04 "{m}Вот это да! От таких соблазнительных изгибов и сисечек можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:227
 translate crowdin alice_sleep_morning_3ea14864:
 
     # Max_07 "{m}Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, совершенно голую фигурку как следует...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:229
 translate crowdin alice_sleep_morning_c7ed5e4d:
 
     # Max_01 "{m}Чёрт! Как же хорошо, что теперь она спит голая и я могу насладится всей красотой её тела, и ещё как... Обалденные у неё сиськи!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:231
 translate crowdin alice_sleep_morning_9cea0bab:
 
     # Max_04 "{m}Вот это да! От таких соблазнительных изгибов её полностью голого тела можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:237
 translate crowdin alice_sleep_morning_a224140f:
 
     # Max_07 "{m}Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, почти голую фигурку как следует... Только вот одето на ней больше, чем должно быть!{/m}"
+    ""
 
 # game/events/alice.rpy:239
 translate crowdin alice_sleep_morning_91b3d405:
 
     # Max_01 "{m}Чёрт! Хоть она и спит, но прямо лицом ко мне... И тем не менее, насладится красотой её тела я могу, и ещё как... Хотя, если бы она не забыла кое-что с себя снять, было бы куда интереснее!{/m}"
+    ""
 
 # game/events/alice.rpy:241
 translate crowdin alice_sleep_morning_6c2b9b48:
 
     # Max_02 "{m}Вот это да! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка! А была бы ещё лучше, если бы снимала с себя то, что должна!{/m}"
+    ""
 
 # game/events/alice.rpy:243
 translate crowdin alice_sleep_morning_5de3529b:
 
     # Max_09 "{m}Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:249
 translate crowdin alice_sleep_morning_8552aea7:
 
     # Max_07 "{m}Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, почти голую фигурку как следует... А если бы она снимала с себя то, что должна, то было бы просто шикарно! Нарушительница...{/m}"
+    ""
 
 # game/events/alice.rpy:251
 translate crowdin alice_sleep_morning_b9b99f76:
 
     # Max_01 "{m}Чёрт! Хоть она и спит, но прямо лицом ко мне... И тем не менее, насладится красотой её тела я могу, и ещё как... А если бы она снимала с себя то, что должна, то было бы просто шикарно! Нарушительница...{/m}"
+    ""
 
 # game/events/alice.rpy:253
 translate crowdin alice_sleep_morning_1cb6c296:
 
     # Max_02 "{m}Вот это да! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка! А если бы она снимала с себя то, что должна, то было бы просто шикарно! Нарушительница...{/m}"
+    ""
 
 # game/events/alice.rpy:255
 translate crowdin alice_sleep_morning_5de3529b_1:
 
     # Max_09 "{m}Надо бы мне вывести тебя на чистую воду... Может, стоит воспользоваться тем, что пугает Алису больше всего?!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:259
 translate crowdin alice_sleep_morning_36502c3c:
 
     # Max_07 "{m}Ухх! Алиса ещё спит, что меня безусловно радует... Ведь это значит, что я могу рассмотреть её классную, почти голую фигурку как следует... {/m}" nointeract
+    ""
 
 # game/events/alice.rpy:261
 translate crowdin alice_sleep_morning_7ab2755b:
 
     # Max_01 "{m}Чёрт! Хоть она и спит, но прямо лицом ко мне... И тем не менее, насладится красотой её тела я могу, и ещё как...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:263
 translate crowdin alice_sleep_morning_60597ff1:
 
     # Max_02 "{m}Вот это да! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... Классная у меня старшая сестрёнка!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:276
 translate crowdin alice_sleep_morning_b045c0ab:
 
     # Max_05 "{m}Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эти сиськи! И стянуть эти трусики... и ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:278
 translate crowdin alice_sleep_morning_505e294d:
 
     # Max_03 "{m}О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Как и поласкать эти аппетитные сосочки! Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:280
 translate crowdin alice_sleep_morning_f1c174ea:
 
     # Max_02 "{m}Вот чёрт! С каким же огромным удовольствием я бы сел рядом с ней, запустил свои руки в её трусики и мял эти упругие сисечки всё утро... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:284
 translate crowdin alice_sleep_morning_c8788f32:
 
     # Max_05 "{m}Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эту попку! А после натянуть её на свой... И ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:286
 translate crowdin alice_sleep_morning_505e294d_1:
 
     # Max_03 "{m}О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Как и поласкать эти аппетитные сосочки! Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:288
 translate crowdin alice_sleep_morning_ed75ce98:
 
     # Max_02 "{m}Вот чёрт! С каким же огромным удовольствием я бы запустил свои руки во все самые интересные места на ёё теле... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:292
 translate crowdin alice_sleep_morning_aa8d7dd5:
 
     # Max_05 "{m}Ох, от такого вида в голове остаются лишь самые пошлые мысли... Как же я хочу помять эту попку! И стянуть эти трусики... и ещё... пожалуй, пока она не проснулась, тихонько отсюда уйти.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:294
 translate crowdin alice_sleep_morning_a32c1f57:
 
     # Max_03 "{m}О, да! Не лечь и не приобнять эту нежную попку – настоящее преступление... Только вот Алиса посчитает иначе и оторвёт мне голову прямо здесь. Так что лучше потихоньку уходить...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:296
 translate crowdin alice_sleep_morning_51682248:
 
     # Max_02 "{m}Вот чёрт! С каким же огромным удовольствием я бы сел рядом с ней, запустил свои руки под её белье и ласкал эти упругие сисечки всё утро... Эх, хороша сестрёнка, но пора уходить... Если она проснётся, мне точно не поздоровится.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:308
 translate crowdin alice_shower_2251f388:
 
     # Max_00 "{m}Алиса меня уже поймала сегодня. Не стоит злить её ещё больше, а то точно что-нибудь оторвет.{/m}"
+    ""
 
 # game/events/alice.rpy:311
 translate crowdin alice_shower_e3b9a431:
 
     # Max_00 "{m}Я уже подсматривал сегодня за Алисой. Не стоит искушать судьбу слишком часто.{/m}"
+    ""
 
 # game/events/alice.rpy:314
 translate crowdin alice_shower_1440ee87:
 
     # Max_00 "{m}Алиса меня и так сегодня едва не поймала. Не стоит искушать судьбу слишком часто.{/m}"
+    ""
 
 # game/events/alice.rpy:318
 translate crowdin alice_shower_6301971c:
 
     # Max_00 "{m}Алиса сейчас принимает душ...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:325
 translate crowdin alice_shower_01c3b2fa:
 
     # Max_00 "{m}Похоже, Алиса принимает душ...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:328
 translate crowdin alice_shower_95c67eec:
 
     # Max_10 "{m}С радостью бы подсмотрел за голенькой сестрёнкой, но это слишком опасно! Сперва нужно подарить то, что обещал...{/m}"
+    ""
 
 # game/events/alice.rpy:347
 translate crowdin alice_shower_start_peeping_fc5db481:
 
     # Max_09 "{m}Лучше вообще свести подглядывания к минимуму, пока я не избавлюсь от Эрика. Чтобы никого ещё больше не расстраивать...{/m}"
+    ""
 
 # game/events/alice.rpy:349
 translate crowdin alice_shower_start_peeping_dda24c4d:
 
     # Max_01 "{m}Хорошо, что это не распространяется на Киру...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:354
 translate crowdin alice_shower_start_peeping_98b6392d:
 
     # Max_07 "{m}Ого... Голая Алиса всего в паре метров от меня! Как же она хороша... Главное, чтобы она меня не заметила, а то ведь убьёт на месте.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:356
 translate crowdin alice_shower_start_peeping_6a6f2000:
 
     # Max_07 "{m}Ого... Голая Алиса всего в паре метров от меня! Но мне стоит подглядывать очень осторожно... Помогая Алисе с блогом у меня могут возникнуть незапланированные траты, а если она меня сейчас заметит - траты только увеличатся.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:358
 translate crowdin alice_shower_start_peeping_18322a1b:
 
     # Max_07 "{m}Ого... Голая Алиса всего в паре метров от меня! Как же она хороша... И даже если она меня заметит - не страшно! Выкручусь как-нибудь.{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:383
 translate crowdin alice_shower_spider_09c9d753:
@@ -416,6 +488,7 @@ translate crowdin alice_shower_spider_09c9d753:
 translate crowdin alice_shower_spider_8a6baa78:
 
     # Max_01 "{m}Похоже, я успел обойти ванную комнату через дом ещё до криков Алисы... Это хорошо, значит Алиса вот-вот должна заметить паука! Остаётся только немного...{/m}"
+    ""
 
 # game/events/alice.rpy:389
 translate crowdin alice_shower_spider_3f8fc33f:
@@ -427,6 +500,7 @@ translate crowdin alice_shower_spider_3f8fc33f:
 translate crowdin alice_shower_spider_6b101d76:
 
     # Max_02 "{m}...подождать.{/m}"
+    ""
 
 # game/events/alice.rpy:395
 translate crowdin alice_shower_spider_ae2ec1f2:
@@ -666,6 +740,7 @@ translate crowdin alice_shower_dangerous_hugs_e3f63f1b:
 translate crowdin alice_shower_dangerous_hugs_11fdb519:
 
     # extend "" nointeract
+    ""
 
 # game/events/alice.rpy:532
 translate crowdin alice_shower_dangerous_hugs_8f49945b:
@@ -731,27 +806,32 @@ translate crowdin alice_shower_hands_off_c95561c5:
 translate crowdin alice_shower_alt_peepeng_c2a36f38:
 
     # Max_01 "[undetect!t]{m}Супер! С распущенными волосами моя старшая сестрёнка становится очень сексуальной... Ухх, помылить бы эти сисечки, как следует...{/m}"
+    ""
 
 # game/events/alice.rpy:570
 translate crowdin alice_shower_alt_peepeng_3d1ede2b:
 
     # Max_01 "[undetect!t]{m}О, да... Перед мокренькой Алисой сложно устоять! Особенно, когда она так соблазнительно крутит своей попкой...{/m}"
+    ""
 
 # game/events/alice.rpy:584
 translate crowdin alice_shower_closer_peepeng_c2a36f38:
 
     # Max_01 "[undetect!t]{m}Супер! С распущенными волосами моя старшая сестрёнка становится очень сексуальной... Ухх, помылить бы эти сисечки, как следует...{/m}"
+    ""
 
 # game/events/alice.rpy:586
 translate crowdin alice_shower_closer_peepeng_3d1ede2b:
 
     # Max_01 "[undetect!t]{m}О, да... Перед мокренькой Алисой сложно устоять! Особенно, когда она так соблазнительно крутит своей попкой...{/m}"
+    ""
 
 # game/events/alice.rpy:600
 translate crowdin alice_shower_not_luck_11b8b725:
 
     # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n"
 "{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"
+    ""
 
 # game/events/alice.rpy:619
 translate crowdin alice_shower_pinded_e826d0b4:
@@ -835,51 +915,61 @@ translate crowdin alice_shower_pinded_e19147dd:
 translate crowdin alice_shower_ladder_76e8b72b:
 
     # Max_04 "{m}Посмотрим, что у нас тут...{/m}"
+    ""
 
 # game/events/alice.rpy:665
 translate crowdin alice_shower_ladder_4450736e:
 
     # Max_00 "{m}Посмотреть на Алису всегда приятно, но почему она в трусиках? Ведь мы же с ней договаривались...{/m}"
+    ""
 
 # game/events/alice.rpy:666
 translate crowdin alice_shower_ladder_a5cade7b:
 
     # Max_00 "{m}Непорядок. Нужно с этим что-то делать...{/m}"
+    ""
 
 # game/events/alice.rpy:670
 translate crowdin alice_shower_ladder_fdf6d96a:
 
     # Max_02 "{m}Да-а... Может Алиса и в халатике, но сиськи её видны просто замечательно! А они у неё - что надо...{/m}"
+    ""
 
 # game/events/alice.rpy:672
 translate crowdin alice_shower_ladder_d859d175:
 
     # Max_05 "{m}Ого! Кто бы мог подумать, что курение может принести пользу в виде моей сестрёнки, не носящей трусики. Как же она хороша...{/m}"
+    ""
 
 # game/events/alice.rpy:674
 translate crowdin alice_shower_ladder_4a32c8f9:
 
     # Max_04 "{m}Прекрасно! Алиса сегодня без халатика... в одних трусиках... Глядя на эту красоту, можно мечтать лишь об одном!{/m}"
+    ""
 
 # game/events/alice.rpy:676
 translate crowdin alice_shower_ladder_52c8b19e:
 
     # Max_06 "{m}Вау! Алиса сегодня совершенно голая! Как мы и договорились, трусики она не носит и даже не представляет, что тем самым дарит мне возможность любоваться всеми её прелестями...{/m}"
+    ""
 
 # game/events/alice.rpy:681
 translate crowdin alice_shower_ladder_1409147d:
 
     # Max_07 "{m}Мои зрители явно пропускают много всего интересного! Мне однозначно стоит установить сюда ещё одну камеру...{/m}"
+    ""
 
 # game/events/alice.rpy:682
 translate crowdin alice_shower_ladder_5478c4d6:
 
     # Max_00 "{m}Ладно, хорошего понемногу, а то ещё заметит меня здесь кто-нибудь...{/m}"
+    ""
 
 # game/events/alice.rpy:715
 translate crowdin alice_dressed_shop_b2ccdc4e:
 
     # Max_09 "{m}Кажется, все собираются на шоппинг и Алиса сейчас переодевается...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:718
 translate crowdin alice_dressed_shop_f5380b66:
@@ -903,26 +993,31 @@ translate crowdin alice_dressed_shop_6e7aee99:
 translate crowdin alice_dressed_shop_00eeba5f:
 
     # Max_01 "{m}Ага! Алиса одевается на шопинг. И похоже, пойдёт она в трусиках, а не должна... Считай, сестрёнка, ты попала! Но не сейчас... Сейчас мне лучше уходить, пока никто не заметил.{/m}"
+    ""
 
 # game/events/alice.rpy:761
 translate crowdin alice_dressed_shop_90968c05:
 
     # Max_05 "{m}Ого! Алиса даже на шопинг пойдёт без трусиков! Интересно, что она скажет маме в кабинке для переодевания, если та это заметит? Но лучше буду гадать об этом в другом месте, а то меня заметят...{/m}"
+    ""
 
 # game/events/alice.rpy:764
 translate crowdin alice_dressed_shop_c8dc0455:
 
     # Max_04 "{m}Алиса переодевается... Какая соблазнительная попка у неё... Ммм! Так. Пора бы сваливать. Вдруг, кто-то заметит!{/m}"
+    ""
 
 # game/events/alice.rpy:767
 translate crowdin alice_dressed_shop_1b7b43c8:
 
     # Max_03 "{m}О, какой вид! Да, сестрёнка, такими классными и голыми сиськами грех не покрасоваться перед зеркалом... Однако, пора сваливать. Вдруг, кто-то заметит!{/m}"
+    ""
 
 # game/events/alice.rpy:810
 translate crowdin alice_dressed_friend_bb0f5056:
 
     # Max_09 "{m}Кажется, Алиса куда-то собирается...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:813
 translate crowdin alice_dressed_friend_f5380b66:
@@ -946,21 +1041,25 @@ translate crowdin alice_dressed_friend_6e7aee99:
 translate crowdin alice_dressed_friend_9a9d302b:
 
     # Max_01 "{m}Алиса переодевается... Трусики хорошо смотрятся на её попке. Вот только быть их на ней не должно... Считай, сестрёнка, ты попала! Но не сейчас... Сейчас мне лучше уходить, пока никто не заметил.{/m}"
+    ""
 
 # game/events/alice.rpy:856
 translate crowdin alice_dressed_friend_e5b6c754:
 
     # Max_05 "{m}Супер! Алиса не надевает трусики... И правильно делает! Надеюсь, кто-то это заметит там, куда она идёт... А чтобы меня никто не заметил, лучше уходить!{/m}"
+    ""
 
 # game/events/alice.rpy:859
 translate crowdin alice_dressed_friend_4096b7a9:
 
     # Max_04 "{m}Алиса переодевается... Трусики хорошо смотрятся на её попке. Но без них было бы лучше... Так. Пора бы сваливать. Вдруг, кто-то заметит!{/m}"
+    ""
 
 # game/events/alice.rpy:862
 translate crowdin alice_dressed_friend_1b7b43c8:
 
     # Max_03 "{m}О, какой вид! Да, сестрёнка, такими классными и голыми сиськами грех не покрасоваться перед зеркалом... Однако, пора сваливать. Вдруг, кто-то заметит!{/m}"
+    ""
 
 # game/events/alice.rpy:881
 translate crowdin alice_dressed_club_272de662:
@@ -972,16 +1071,19 @@ translate crowdin alice_dressed_club_272de662:
 translate crowdin alice_dressed_club_9a9d302b:
 
     # Max_01 "{m}Алиса переодевается... Трусики хорошо смотрятся на её попке. Вот только быть их на ней не должно... Считай, сестрёнка, ты попала! Но не сейчас... Сейчас мне лучше уходить, пока никто не заметил.{/m}"
+    ""
 
 # game/events/alice.rpy:912
 translate crowdin alice_dressed_club_96f96bd0:
 
     # Max_05 "{m}Супер! Алиса не надевает трусики... И правильно делает! Это платье без трусиков смотрится гораздо лучше... Интересно, в клубе на это кто-нибудь обратит внимание? А чтобы меня никто не заметил, лучше уходить!{/m}"
+    ""
 
 # game/events/alice.rpy:915
 translate crowdin alice_dressed_club_cc8da161:
 
     # Max_04 "{m}Алиса переодевается... Трусики хорошо смотрятся на её попке. Но без них это платье смотрелось бы гораздо лучше... Так. Пора бы сваливать. Вдруг, кто-то заметит!{/m}"
+    ""
 
 # game/events/alice.rpy:925
 translate crowdin alice_dressed_club_knock_7b60fad6:
@@ -1467,11 +1569,13 @@ translate crowdin spider_in_bed_kill_7019a935:
 translate crowdin alice_after_club_f3b2feca:
 
     # Max_07 "{m}После клуба Алиса сразу пошла в ванную. Интересно, в каком она состоянии?{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:1440
 translate crowdin alice_after_club_165b5253:
 
     # Max_07 "{m}Алиса только что вернулась из клуба и сразу забежала в ванную. Интересно, в каком она состоянии?{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:1448
 translate crowdin alice_after_club_ab9e6db9:
@@ -1495,11 +1599,13 @@ translate crowdin alice_after_club_9ddb515e:
 translate crowdin alice_after_club_b4f26bf1:
 
     # Max_00 "{m}Эх! Не повезло... Алиса уже плюхнулась принимать ванну. Отсюда я уже ничего увидеть не смогу...{/m}"
+    ""
 
 # game/events/alice.rpy:1461
 translate crowdin alice_after_club_4a929722:
 
     # Max_01 "{m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
+    ""
 
 # game/events/alice.rpy:1484
 translate crowdin alice_after_club_knock_04993f02:
@@ -1829,6 +1935,7 @@ translate crowdin alice_after_club_caress_330435b3_1:
 translate crowdin alice_after_club_next2_1dcb9921:
 
     # Max_04 "{m}Ох, какая у неё нежная и упругая грудь! Ухх.. Она ещё активнее начала мне дрочить, а это означает, что ей нравится, как я мну её сиськи! Может даже удастся зайти ещё дальше...{/m}"
+    ""
 
 # game/events/alice.rpy:1667
 translate crowdin alice_after_club_next2_2ee98cf3:
@@ -1888,6 +1995,7 @@ translate crowdin alice_after_club_next2_a9d15c00:
 translate crowdin alice_after_club_next2_b99a9ce5:
 
     # Max_04 "{m}Алиса так приятно постанывает... А уж мне не менее приятно трахать эту нежную киску пальцами. Может быть, она даже кончит, если я ускорюсь...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:1713
 translate crowdin alice_after_club_fast_fingers_4c3bcf59:
@@ -2127,91 +2235,109 @@ translate crowdin alice_after_club_suck_cfe6cd28:
 translate crowdin alice_lisa_shower_d3df6d43:
 
     # Max_00 "{m}Сестрёнки принимают душ, не стоит им мешать...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:1923
 translate crowdin alice_lisa_shower_537fba6c:
 
     # Max_01 "{m}Интересно, кто сейчас в душе?{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:1936
 translate crowdin alice_lisa_shower_ladder_76e8b72b:
 
     # Max_04 "{m}Посмотрим, что у нас тут...{/m}"
+    ""
 
 # game/events/alice.rpy:1970
 translate crowdin alice_lisa_shower_ladder_85738d45:
 
     # Max_03 "{m}Лиза смотрится в подаренном мною халатике очень соблазнительно... Особенно когда так хорошо видно её упругие сисечки, а за кадром ещё и Алиса принимает душ!{/m}"
+    ""
 
 # game/events/alice.rpy:1972
 translate crowdin alice_lisa_shower_ladder_57c0e44e:
 
     # Max_07 "{m}Моя обворожительная сестрёнка в одних трусиках... Так и хочется зайти и стянуть их с её прекрасной попки, а за кадром ещё и Алиса принимает душ!{/m}"
+    ""
 
 # game/events/alice.rpy:1974
 translate crowdin alice_lisa_shower_ladder_9f686337:
 
     # Max_06 "{m}Утро может быть действительно очень добрым, если удаётся полюбоваться совершенно голенькой Лизой, а за кадром ещё и Алиса принимает душ!{/m}"
+    ""
 
 # game/events/alice.rpy:1990
 translate crowdin alice_lisa_shower_ladder_a85d594b:
 
     # Max_02 "{m}Может Алиса и в халатике, но сиськи её видны просто замечательно, а за кадром ещё и Лиза принимает душ!{/m}"
+    ""
 
 # game/events/alice.rpy:1992
 translate crowdin alice_lisa_shower_ladder_fa8e6e85:
 
     # Max_04 "{m}Алиса сегодня без халатика... в одних трусиках... Гдядя на эту красоту, можно мечтать лишь об одном, а за кадром ещё и Лиза принимает душ!{/m}"
+    ""
 
 # game/events/alice.rpy:1994
 translate crowdin alice_lisa_shower_ladder_f2029104:
 
     # Max_06 "{m}Алиса сегодня совершенно голая! И даже не представляет, что тем самым дарит мне возможность любоваться всеми её прелестями, а за кадром ещё и Лиза принимает душ!{/m}"
+    ""
 
 # game/events/alice.rpy:2002
 translate crowdin alice_lisa_shower_ladder_9201a124:
 
     # Max_05 "{m}Две мои сестрёнки красуются перед зеркалом в одних лишь трусиках! Такую прелесть редко можно увидеть...{/m}"
+    ""
 
 # game/events/alice.rpy:2006
 translate crowdin alice_lisa_shower_ladder_3a487e9b:
 
     # Max_06 "{m}Да они же обе голенькие красуются перед зеркалом! Ох, сестрёнки, я бы вами целую вечность любовался...{/m}"
+    ""
 
 # game/events/alice.rpy:2008
 translate crowdin alice_lisa_shower_ladder_5478c4d6:
 
     # Max_00 "{m}Ладно, хорошего понемногу, а то ещё заметит меня здесь кто-нибудь...{/m}"
+    ""
 
 # game/events/alice.rpy:2019
 translate crowdin alice_lisa_shower_start_peeping_fc5db481:
 
     # Max_09 "{m}Лучше вообще свести подглядывания к минимуму, пока я не избавлюсь от Эрика. Чтобы никого ещё больше не расстраивать...{/m}"
+    ""
 
 # game/events/alice.rpy:2021
 translate crowdin alice_lisa_shower_start_peeping_dda24c4d:
 
     # Max_01 "{m}Хорошо, что это не распространяется на Киру...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:2027
 translate crowdin alice_lisa_shower_start_peeping_2321ce11:
 
     # Max_07 "{m}Класс! Сегодня мои прекрасные сестрёнки принимают душ вместе... Красота!{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:2042
 translate crowdin alice_lisa_shower_start_peeping_a2b77766:
 
     # Max_03 "{m}Да-а-а... Вот бы оказаться между двумя этими мокрыми попками... Я бы уж их помылил!{/m}"
+    ""
 
 # game/events/alice.rpy:2057
 translate crowdin alice_lisa_shower_alt_peepeng_a2b77766:
 
     # Max_03 "{m}Да-а-а... Вот бы оказаться между двумя этими мокрыми попками... Я бы уж их помылил!{/m}"
+    ""
 
 # game/events/alice.rpy:2079
 translate crowdin alice_blog_lingerie_0331bea3:
 
     # Max_00 "{m}Обычно в это время Алиса занимается своим блогом, но сейчас её дверь закрыта...{/m}" nointeract
+    ""
 
 # game/events/alice.rpy:2095
 translate crowdin alice_blog_lingerie_44e4a54e:
@@ -2979,6 +3105,7 @@ translate crowdin alice_body_photoset1_cec47c00:
 translate crowdin alice_towel_after_club_3479dfb8:
 
     # Max "" nointeract
+    ""
 
 # game/events/alice.rpy:2455
 translate crowdin alice_towel_after_club_164b6a94:
@@ -3596,395 +3723,492 @@ translate crowdin strings:
 
     # game/events/alice.rpy:14
     old "{i}постучаться{/i}"
-    new "{i}knock{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:14
     old "{i}заглянуть со двора{/i}"
-    new "{i}mirar desde el patio{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:14
     old "{i}установить стремянку{/i}"
-    new "{i}instalar una stepladder{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:14
     old "{i}воспользоваться стремянкой{/i}"
-    new "{i}usar una stepladder{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:17
     old "Это я, Макс. Можно войти?"
-    new "Soy yo, Max. ¿Puedo entrar?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:61
     old "{i}смотреть ещё{/i}"
-    new "{i}ver más{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:102
     old "{i}заглянуть в окно{/i}"
-    new "{i}mira por la ventana{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:160
     old "{i}прокрасться в комнату{/i}"
-    new "{i}colarse en la habitación{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:360
     old "{i}продолжить смотреть{/i}"
-    new "{i}sigue mirando{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:360
     old "{i}взглянуть со стороны{/i}"
-    new "{i}mira desde el exterior{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:360
     old "{i}немного пошуметь{/i}"
-    new "{i}hacer un poco de ruido{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:360
     old "{i}запустить паука к Алисе{/i}"
-    new "{i}lanzar araña a Alice{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:382
     old "{i}спрятаться{/i}"
-    new "{i}ocultar{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:415
     old "{i}принести Алисе полотенце{/i}"
-    new "{i}trae a Alice una toalla{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:425
     old "{i}отдать Алисе полотенце{/i}"
-    new "{i}dale a Alice una toalla{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:425
     old "{i}отдать Алисе полотенце (выронив его из одной руки){/i}"
-    new "{i}dale a Alice una toalla (dejándola caer de una mano){/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:432
     old "Да ладно, это ерунда, обращайся."
-    new "Vamos, eso es una tontería, ve un poco."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:432
     old "А как же братика обнять?"
-    new "¿Qué tal un abrazo para tu hermano?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:454
     old "Конечно нет! Оно случайно выскочило из руки!"
-    new "¡Por supuesto que no! ¡Salió accidentalmente de mi mano!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:480
     old "Зато у меня руки свободны... {i}(обнять в ответ){/i}"
-    new "Pero mis manos están libres... {i}(abrazo en respuesta){/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:480
     old "Вот это другое дело! Рад был помочь."
-    new "¡Eso es otra cosa! Encantado de ayudar."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:486
     old "Нет. Слишком - это вот так... {i}(обнять за попку){/i}"
-    new "No. También, es así... {i}(abrazar el culo){/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:486
     old "Может быть, чуть-чуть... Рад был помочь."
-    new "Tal vez un poco... Encantado de ayudar."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:519
     old "{i}не убирать руки{/i}"
-    new "{i}no quitar las manos{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:639
     old "{i}Бежать{/i}"
-    new "{i}Ejecutar{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:717
     old "Хорошо, я подожду..."
-    new "¡Vale, no puedo esperar..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:930
     old "Выглядишь... шикарно!"
-    new "Mirar... ¡Elegante!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:930
     old "У меня для тебя презент..."
-    new "Tengo un regalo para ti..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:935
     old "Ты знаешь, я забыл..."
-    new "Ya sabes, me olvidé..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:946
     old "{i}дать одну конфету{/i}"
-    new "{i}dar un caramelo{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:950
     old "Ну, можешь трусы показать..."
-    new "Pues puedes mostrar tus bragas..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:950
     old "Да, никакого подвоха!"
-    new "¡Sí, no hay trampa!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1058
     old "Разбирайся сама..."
-    new "Descúéntalo por ti mismo..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1066
     old "Ну, пойдём посмотрим..."
-    new "Bueno, vamos a ver..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1066
     old "Паук? Ерунда какая. Сама разбирайся с ним..."
-    new "¿Araña? Qué tontería. Lidia con ello tú mismo..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1080
     old "{i}спать до утра{/i}"
-    new "{i}dormir hasta la mañana{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1096
     old "А что мне за это будет?"
-    new "¿Y qué haré por ello?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1096
     old "Хорошо, где он там..."
-    new "Está bien, ¿dónde está allí..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1096
     old "Паука-то я поймаю, только вот кое-кто нарушает уговор! Или может я не прав?!"
-    new "Voy a cetach la araña, ¡pero algunas personas están rompiendo la persuasión! ¡¿O tal vez me equivoco?!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1101
     old "Давай $10!"
-    new "¡Dame $ 10!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1101
     old "Сними верх!"
-    new "¡Quítate la parte superior!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1101
     old "А, ничего. Так поймаю..."
-    new "Aa, nada. Así que estaré al otro lado..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1130
     old "На красивое глаза легче открываются..."
-    new "Es más fácil abrir los ojos a lo hermoso..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1130
     old "Давай уже показывай сиськи!"
-    new "¡Vamos a mostrar tus tetas!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1144
     old "Не прикрывайся руками!"
-    new "¡No te cubras con las manos!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1184
     old "Раздевайся!"
-    new "¡Desnudarse!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1192
     old "Сиськи ещё покажи..."
-    new "Las tetas todavía se muestran..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1192
     old "О да, я очень доволен!"
-    new "¡Oh sí, estoy muy satisfecho!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1292
     old "{i}оставлю этого паука себе{/i}"
-    new "{i}quedaré con esta araña para mí{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1292
     old "{i}выброшу этого паука с балкона{/i}"
-    new "{i}tiraré a esta araña del balcón{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1292
     old "{i}убью этого паука{/i}"
-    new "{i}mataré a esta araña{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1295
     old "Я не буду его убивать!"
-    new "¡No lo mataré!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1295
     old "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз."
-    new "Déjalo vivir. Iré y lo tiraré del balcón detrás de la cerca para que no se arrastre hacia atrás."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1295
     old "{i}выбросить с балкона{/i}"
-    new "{i}arrojado desde el balcón{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1295
     old "{i}убить паука{/i}"
-    new "{i}mata a una araña{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1298
     old "{i}вернуться в кровать{/i}"
-    new "{i}volver a la cama{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1495
     old "У тебя... Очень красивая грудь..."
-    new "Tienes... Pechos muy bonitos..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1495
     old "А ты не хочешь мне помочь?"
-    new "¿No quieres ayudarme?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1530
     old "Ну Алиса... Ну чуть-чуть..."
-    new "Bueno, Alicia... Bueno, un poco..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1530
     old "Хорошо. Спокойной ночи, Алиса..."
-    new "De acuerdo. Buenas noches, Alice..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1552
     old "Хочу, чтобы ты сняла трусики..."
-    new "Quiero que te quitas las bragas..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1552
     old "Хочу, чтобы ты поласкала его..."
-    new "Quiero que lo acaricias..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1552
     old "Хочу, чтобы ты отсосала..."
-    new "Quiero que chupes..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1585
     old "Хочу показать тебе, как я научился целоваться..."
-    new "Quiero mostrarte cómo aprendí a besar..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1585
     old "А если бы я был твоим парнем... Что бы ты сделала дальше?"
-    new "Y si yo fuera tu chico... ¿Qué harías a continuación?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1585
     old "На всё остальное ты не согласишься..."
-    new "No estarás de acuerdo con nada más..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1593
     old "{i}целовать Алису{/i}"
-    new "{i}beso Alice{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1601
     old "{i}закончить целоваться{/i}"
-    new "{i}terminar de besar{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1601
     old "{i}прикоснуться к её груди{/i}"
-    new "{i}toca sus pechos{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1675
     old "{i}ласкать её киску рукой{/i}"
-    new "{i}acariciarla con la mano{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1729
     old "{i}кончить ей на лицо{/i}"
-    new "{i}en su cara{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1729
     old "{i}кончить ей на грудь{/i}"
-    new "{i}en su pecho{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1729
     old "Нет, я хочу ещё, но нужно поторопиться..."
-    new "No, quiero más, pero necesito darme prisa..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1729
     old "Вообще-то, я надеялся, что ты возьмёшь его в рот..."
-    new "En realidad, esperaba que te lo llevaras a la boca..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1842
     old "{i}отправиться спать{/i}"
-    new "{i}ir a la cama{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1883
     old "Я могу лучше..."
-    new "Puedo hacerlo mejor..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:1883
     old "Извини, я не хотел. Не обижайся..."
-    new "Lo siento, no quería. No te ofendas..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2094
     old "Я твои фотки принёс..."
-    new "Traje tus fotos..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2094
     old "Я тут не удержался и купил тебе боди раньше Эрика!"
-    new "¡No pude resistirme y te compré un traje de cuerpo antes que Eric!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2094
     old "Отлично смотришься в этом белье!"
-    new "¡Te ves genial en esta lencería!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2094
     old "Как идут дела с блогом?"
-    new "¿Cómo van las cosas con el blog?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2199
     old "{i}сбежать{/i}"
-    new "{i}ejecutar{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2199
     old "Классно смотришься!"
-    new "¡De aspecto genial!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2199
     old "А я тебе принёс кое-что!"
-    new "¡Y te traje algo!"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2208
     old "Чем занята?"
-    new "¿Qué pasa?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2208
     old "Чего дверь-то закрыла?"
-    new "¿Qué se cienó la puerta?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2213
     old "Точно получается?"
-    new "¿Exactamente?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2225
     old "Что делаешь-то?"
-    new "¿Qué estás haciendo?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2252
     old "Ладно, подожду..."
-    new "Está bien, esperaré..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2252
     old "А если конфетку дам, то остаться можно?"
-    new "Y si doy un caramelo, ¿entonces puedes quedarte?"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2452
     old "{i}открыть дверь{/i}"
-    new "{i}abrir la puerta{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2519
     old "Ну, разве, что так...\n"
 "{i}(начать массировать её киску рукой){/i}"
-    new "Bueno, excepto que ese es el caso...\n"
-"{i}(comienza a masajearla con tu mano){/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2519
     old "Поласкай свою киску для меня..."
-    new "Acaricia tu por mí..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2568
     old "{i}массировать её ножки{/i}"
-    new "{i}masajear las espinillas{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2579
     old "{i}тереться членом о её ногу{/i}"
-    new "{i}frotando la suya contra su pierna{/i}"
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2609
     old "Ох! Тогда тебе стоит быстрее работать рукой..."
-    new "¡Oh! Entonces deberías trabajar más rápido con la mano..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2609
     old "Так пусти в дело свой язычок..."
-    new "Así que deja ir tu lengua..."
+    new ""
+#--- ""
 
     # game/events/alice.rpy:2637
     old "Нет, я даже не близко..."
-    new "No, ni siquiera estoy cerca..."
+    new ""
+#--- ""
 

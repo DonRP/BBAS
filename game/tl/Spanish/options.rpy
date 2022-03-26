@@ -1,6 +1,5 @@
     old ""
-    new ""
-"Большой брат: Другая история\n"
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -11,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -19,5 +18,6 @@ translate crowdin strings:
 
     # game/options.rpy:15
     old "Большой брат: Другая история"
-    new "Gran Hermano: Otra historia"
+    new ""
+#--- ""
 

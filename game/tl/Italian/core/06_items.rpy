@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:10\n"
+# "PO-Revision-Date: 2022-03-26 14:34\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -311,4 +311,5 @@ translate italian strings:
     # game/core/06_items.rpy:2
     old "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
     new "Ottimo per chi non vuole essere sovraeccitato. Solo calma e serenità. Consultare sempre un medico prima dell'uso per determinare il corretto dosaggio."
+#--- "Ignore this. translate only: One"
 

@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -66,7 +66,7 @@ translate italian Ann_cooldown_fa220d84:
 translate italian ann_ask_money_cf2d6379:
 
     # При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
-    new "Nello scenario normale, questa riga non avrebbe dovuto apparire. Dillo allo sviluppatore."
+    "Nello scenario normale, questa riga non avrebbe dovuto apparire. Dillo allo sviluppatore."
 
 # game/dialogues/anntalk.rpy:97
 translate italian ann_ask_money_59ac536a:
@@ -2891,4 +2891,5 @@ translate italian strings:
     # game/dialogues/anntalk.rpy:1786
     old "Ну пожалуйста! Всё будет хорошо."
     new "Oh, per favore! Andrà tutto bene."
+#--- "Ignore this. translate only: One"
 

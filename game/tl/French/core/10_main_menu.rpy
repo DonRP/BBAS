@@ -1,154 +1,188 @@
-#     old ""
-#     new ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/core/10_main_menu.po\n"
-# "X-french-File-ID: 3440\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-26 10:12\n"
+    old ""
+    ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/10_main_menu.po\n"
+"X-Crowdin-File-ID: 3440\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
-translate french strings:
+translate crowdin strings:
 
     # game/core/10_main_menu.rpy:51
     old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
-    new "{color =[lime]} le réglage détaillé de l'un des costumes %s est Ouvert dans le menu principal {/color}"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:289
     old "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-    new "{color=#00FF00}nouveau costume %s Ouvert pour le menu principal {/color}"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Шорты"
-    new "Short"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Трусы"
-    new "Culotte"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Шапка"
-    new "Chapeau"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Борода"
-    new "Barbe"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Трусы #1"
-    new "Culotte #1"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Трусы #2"
-    new "Culotte #2"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Маечка"
-    new "T-shirt"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Минишортики"
-    new "Mini-Short"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Лиф"
-    new "Corsage"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Плавки"
-    new "Slip"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Лифчик"
-    new "Soutien-gorge"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Трусики"
-    new "Culotte"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Шапочка"
-    new "Bonnet"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Бант на шею"
-    new "Arc autour du cou"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Кружевное платье"
-    new "Robe en dentelle"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Чулочки"
-    new "Bas"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Топик"
-    new "Sujet"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Шортики"
-    new "Short"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Шляпка"
-    new "Casquette"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Бабочка на шею"
-    new "Papillon autour du cou"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Мишура на груди"
-    new "Guirlande sur la poitrine"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Минилиф"
-    new "Minilifter"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Миниплавки"
-    new "Mini-flotteurs"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Сорочка"
-    new "Chemise"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Свитер без рукавов"
-    new "Pull sans manche"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Откровенный корсет"
-    new "Corset candide"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Браслетики на запястья"
-    new "Bracelets de poignet"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Юбочка"
-    new "Jupe"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Штанишки"
-    new "Culotte"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Леденец на шею"
-    new "Sucette sur le cou"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Свитер с рукавами"
-    new "Pull à manches longues"
+    new ""
+#--- ""
 
     # game/core/10_main_menu.rpy:421
     old "Колготки"
-    new "Collant"
+    new ""
+#--- ""
 

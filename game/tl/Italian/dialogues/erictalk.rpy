@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -1554,7 +1554,7 @@ translate italian Eric_with_dictaphone_5e5e5db9:
 translate italian Eric_with_dictaphone_fde14d10:
 
     # {color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
-    new "{color=[orange]}( Poi venne la cena, quando tutto fu deciso... ){/color}"
+    "{color=[orange]}( Poi venne la cena, quando tutto fu deciso... ){/color}"
 
 # game/dialogues/erictalk.rpy:861
 translate italian Eric_with_dictaphone_b4b1461d:
@@ -2345,4 +2345,5 @@ translate italian strings:
     # game/dialogues/erictalk.rpy:909
     old "{i}уйти мыть посуду{/i}"
     new "{i}andare a fare i piatti{/i}"
+#--- "Ignore this. translate only: One"
 

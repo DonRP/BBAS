@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:14\n"
+# "PO-Revision-Date: 2022-03-26 14:36\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -1248,7 +1248,7 @@ translate italian dictaphone_showdown_with_eric_8684e2a4:
 translate italian dictaphone_showdown_with_eric_60fce6d7:
 
     # {color=[orange]}(все слушают запись...){/color}"
-    new "{color=[orange]}(tutti ascoltano il nastro...){/color}"
+    "{color=[orange]}(tutti ascoltano il nastro...){/color}"
 
 # game/events/other.rpy:677
 translate italian dictaphone_showdown_with_eric_1c22e674:
@@ -1747,4 +1747,5 @@ translate italian strings:
     # game/events/other.rpy:854
     old "{i}выйти из игры{/i}"
     new "{i}abbandonare{/i}"
+#--- "Ignore this. translate only: One"
 

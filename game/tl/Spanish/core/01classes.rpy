@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:11\n"
+"PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -18,45 +18,56 @@ translate crowdin strings:
 
     # game/core/01classes.rpy:682
     old "Ужасное"
-    new "Terrible"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Очень плохое"
-    new "Muy malo"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Плохое"
-    new "Malo"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Не очень"
-    new "No mucho"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Нейтральное"
-    new "Neutral"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Неплохое"
-    new "Decente"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Хорошее"
-    new "Bien"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Очень хорошее"
-    new "Muy bien"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:682
     old "Прекрасное"
-    new "Perfecto"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:1078
     old "Приобретен пакет рекламы"
-    new "Compró un paquete publicitario"
+    new ""
+#--- ""
 
     # game/core/01classes.rpy:1334
     old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-    new "{color=[lime]}{i}{b}Atención:{/b} ¡Ha obtenido una nueva \"oportunidad\"! {/i} {/color"
+    new ""
+#--- ""
 

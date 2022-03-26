@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,26 +10,26 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/core/oldfix.rpy:6
 translate italian old_fix_6c975de3:
 
-    # "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
+    # Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
     "Il salvataggio della versione demo techno non è supportato. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:10
 translate italian old_fix_93331e6b:
 
-    # "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+    # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:14
 translate italian old_fix_93331e6b_1:
 
-    # "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+    # К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 translate italian strings:
@@ -125,4 +125,5 @@ translate italian strings:
     # game/core/oldfix.rpy:697
     old "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\nБыло бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."
     new "L'ho fatto! Ho fatto una foto di Eric che si masturbava con Alice! Naturalmente, non è molto chiaro con chi o cosa si stia masturbando, quindi non mi è di grande aiuto nel caso ci sia qualche tipo di casino con Eric.\n\nSarebbe bello se Eric diventasse abbastanza presuntuoso da masturbarsi con Alice in mezzo alla sua stanza... Questo sì che sarebbe un bel po' di sporco! Alice sarebbe nella foto, ma l'attenzione sarebbe su Eric. Si tratta solo di capire come attirarlo nella stanza di Alice..."
+#--- "Ignore this. translate only: One"
 

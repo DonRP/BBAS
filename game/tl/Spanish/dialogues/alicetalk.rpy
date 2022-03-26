@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -18,16 +18,19 @@
 translate crowdin AliceTalkStart_123d1aca:
 
     # Max_07 "{m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:15
 translate crowdin AliceTalkStart_40123f86:
 
     # Max_09 "{m}Впечатлений от времяпрепровождения с Алисой мне и в её комнате хватило. Сегодня к ней лучше больше не лезть...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:36
 translate crowdin AliceTalkStart_429c2af4:
 
     # Alice_17 "Тебя выпнуть, Макс, или сам отвалишь?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:41
 translate crowdin AliceTalkStart_50ef2ada:
@@ -87,6 +90,7 @@ translate crowdin wash_dishes_alice_9cbbc5d1:
 translate crowdin wash_dishes_alice_133a9c4b:
 
     # Max_11 "{m}И почему здесь нет посудомоечной машины...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:124
 translate crowdin wash_dishes_alice_e341ef54:
@@ -344,11 +348,13 @@ translate crowdin talkblog1_findout_3e01b911:
 translate crowdin alice_talk_tv_2cedd5bd:
 
     # Alice_12 "Вот так вот просто? Как будто утром было всё так, как должно быть! Где извинения, Макс?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:331
 translate crowdin alice_talk_tv_4bea1b3e:
 
     # Max_07 "Извини, я больше так не буду."
+    ""
 
 # game/dialogues/alicetalk.rpy:334
 translate crowdin alice_talk_tv_01add315:
@@ -372,6 +378,7 @@ translate crowdin alice_talk_tv_a38da904:
 translate crowdin alice_talk_tv_0f86ff43:
 
     # Max_11 "{m}По телику сегодня нет ничего интересного... Ни порнушки, ни даже эротики... А было бы забавно посмотреть такое с сестрёнкой...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:343
 translate crowdin alice_talk_tv_55b37ec4:
@@ -515,6 +522,7 @@ translate crowdin alice_talk_tv_choco_0383591b:
 translate crowdin alice_talk_tv_massage_d849cd29:
 
     # Max_03 "{m}Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает?{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:483
 translate crowdin alice_talk_tv_massage_953afbb3:
@@ -598,6 +606,7 @@ translate crowdin alice_talk_tv_jeans_66b75c74:
 translate crowdin alice_talk_tv_jeans_6db9afd9:
 
     # Alice_04 "Ты знаешь, мешают. И очень жарко. Пожалуй, порадую тебя немного, раз ты так хорошо массаж делаешь..."
+    ""
 
 # game/dialogues/alicetalk.rpy:612
 translate crowdin alice_talk_tv_jeans_077f86cb:
@@ -609,6 +618,7 @@ translate crowdin alice_talk_tv_jeans_077f86cb:
 translate crowdin alice_talk_tv_jeans_9563ece2:
 
     # Alice_04 "[succes!t]Ты знаешь, мешают. И очень жарко. Пожалуй, порадую тебя немного, раз ты так хорошо массаж делаешь..."
+    ""
 
 # game/dialogues/alicetalk.rpy:620
 translate crowdin alice_talk_tv_jeans_c64ca38f:
@@ -638,6 +648,7 @@ translate crowdin alice_talk_tv_jeans_61204728:
 translate crowdin alice_talk_tv_jeans_743c6689:
 
     # Max_07 "{m}Ого...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:641
 translate crowdin alice_talk_tv_jeans_off_68d09736:
@@ -685,6 +696,7 @@ translate crowdin alice_talk_tv_jeans_off_a6d60220:
 translate crowdin alice_talk_tv_jeans_off_78a36e19:
 
     # Alice_03 "Ты чего там так тормозишь? Как будто в трусиках меня никогда не видел..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:672
 translate crowdin alice_talk_tv_jeans_off_6b6d69b9:
@@ -720,6 +732,7 @@ translate crowdin alice_talk_tv_jeans_off_f74debfa:
 translate crowdin alice_nopants_massage_66d83013:
 
     # Alice_05 "Ты только там сильно не заглядывайся, куда не нужно! Я только сейчас поняла, что ты меня подловил со своим уговором не носить трусики. Лучше скорее продолжай массаж, пока я не расхотела..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:707
 translate crowdin alice_nopants_massage_not_nopants_9a2648a0:
@@ -761,6 +774,7 @@ translate crowdin alice_nopants_massage_not_nopants_73f29683:
 translate crowdin alice_nopants_massage_not_nopants_6a2a08bc:
 
     # Max_04 "{m}Похоже, Алиса не на шутку завелась! Она всё активнее дрочит мне своими ножками... Почему бы и мне не поласкать её киску, она ведь так близко и ничем на этот раз не прикрыта...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:758
 translate crowdin alice_nopants_massage_not_nopants_f09cc31b:
@@ -772,31 +786,37 @@ translate crowdin alice_nopants_massage_not_nopants_f09cc31b:
 translate crowdin alice_nopants_massage_not_nopants_e7556b2b:
 
     # Max_02 "{m}Ухх... Алиса начала сама тереться об мои пальцы! Теперь, она уже не хочет останавливаться...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:761
 translate crowdin alice_nopants_massage_not_nopants_9ecfa650:
 
     # Alice_11 "Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... Да..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:770
 translate crowdin alice_nopants_massage_not_nopants_21863491:
 
     # Max_05 "{m}Алиса так жарко и классно трётся об мои пальцы своей киской! Её киска такая мокренькая от возбуждения, что никакого масла для массажа не надо...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:771
 translate crowdin alice_nopants_massage_not_nopants_48efcab8:
 
     # Alice_10 "Ох, чёрт... Макс... Я больше не могу! Только не убирай свою руку оттуда... Я уже кончаю... Ахх!"
+    ""
 
 # game/dialogues/alicetalk.rpy:772
 translate crowdin alice_nopants_massage_not_nopants_d3da814d:
 
     # Max_06 "{m}Моя старшая сестрёнка совсем сошла с ума... Её ноги дрожат от того, как сладко она кончила!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:782
 translate crowdin alice_nopants_massage_not_nopants_91ea12d6:
 
     # Alice_07 "Да... Такой массаж мне нравится... Вот бы всё время так!"
+    ""
 
 # game/dialogues/alicetalk.rpy:783
 translate crowdin alice_nopants_massage_not_nopants_890368bd:
@@ -832,11 +852,13 @@ translate crowdin alice_nopants_massage_not_nopants_9141846d:
 translate crowdin alice_nopants_massage_not_nopants_6fb4c924:
 
     # Alice_08 "Ммм... Макс... Я же твоя сестра, а ты... ведёшь себя со мной... как будто я твоя девушка... Но я могу это представить, ненадолго... Так что успевай."
+    ""
 
 # game/dialogues/alicetalk.rpy:806
 translate crowdin alice_nopants_massage_not_nopants_ed79bd1c:
 
     # Max_02 "Ты правда хочешь, чтобы это было быстро?"
+    ""
 
 # game/dialogues/alicetalk.rpy:830
 translate crowdin alice_talk_tv_jeans_not_jeans_769ebcfd:
@@ -866,6 +888,7 @@ translate crowdin alice_talk_tv_jeans_not_jeans_f7f309ef:
 translate crowdin alice_talk_tv_jeans_not_jeans_a2d4a2f1:
 
     # Max_09 "Вот ты и попалась! Я значит тут со всей любезностью массаж сестрёнке делаю, а она..."
+    ""
 
 # game/dialogues/alicetalk.rpy:840
 translate crowdin alice_talk_tv_jeans_not_jeans_6c18c11f:
@@ -883,11 +906,13 @@ translate crowdin alice_talk_tv_jeans_not_jeans_9418e786:
 translate crowdin alice_talk_tv_jeans_not_jeans_8d0aac73:
 
     # Alice_06 "Макс! Какой же ты... Ладно, только снимай их с меня сам. И когда продолжишь массаж, не пялься на меня!"
+    ""
 
 # game/dialogues/alicetalk.rpy:847
 translate crowdin alice_talk_tv_jeans_not_jeans_9d77976c:
 
     # Max_03 "Да, да, конечно." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:853
 translate crowdin alice_talk_tv_jeans_not_jeans_adb6b9f6:
@@ -929,6 +954,7 @@ translate crowdin alice_talk_tv_massage_next_689c772b:
 translate crowdin alice_talk_tv_massage_next_e52ff194:
 
     # Alice_03 "[alice_good_mass!t]Ух, как хорошо... Макс, а ты молодец сегодня! Не ожидала такой чувственности и в то же время силы... Ну всё спасибо, иди..."
+    ""
 
 # game/dialogues/alicetalk.rpy:905
 translate crowdin alice_talk_tv_massage_next_e263d7d3:
@@ -940,6 +966,7 @@ translate crowdin alice_talk_tv_massage_next_e263d7d3:
 translate crowdin alice_talk_tv_massage_next_db75bb50:
 
     # Alice_07 "[alice_good_mass!t]Макс... Сегодня твои ручки творят чудеса... А во что это моя нога упёрлась? Это часть программы или как?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:924
 translate crowdin alice_talk_tv_massage_next_3837de84:
@@ -1275,6 +1302,7 @@ translate crowdin alice_talk_tv_sober_mass_r_e263d7d3:
 translate crowdin advanced_massage1_e9bffa3c:
 
     # Max_08 "{m}Я раньше и внимания не обращал, а ведь Алиса всегда намекала на то, что мне можно массировать не только её ступни! Вот я олух...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:1170
 translate crowdin advanced_massage1_e8f2dc82:
@@ -1310,6 +1338,7 @@ translate crowdin advanced_massage1_73f29683:
 translate crowdin advanced_massage1_c07bcd66:
 
     # Max_04 "{m}Похоже, Алиса не на шутку завелась! Она всё активнее дрочит мне своими ножками... Почему бы и мне не поласкать её киску, она ведь так близко...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:1200
 translate crowdin advanced_massage1_f09cc31b:
@@ -1321,6 +1350,7 @@ translate crowdin advanced_massage1_f09cc31b:
 translate crowdin advanced_massage1_255f3e33:
 
     # Max_02 "{m}Ухх... Алиса начала сама тереться об мои пальцы! Конфеты сделали своё дело и теперь она уже не хочет останавливаться...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:1203
 translate crowdin advanced_massage1_924dbedc:
@@ -1332,6 +1362,7 @@ translate crowdin advanced_massage1_924dbedc:
 translate crowdin advanced_massage1_faster_a9850eeb:
 
     # Max_05 "{m}Алиса так жарко и классно трётся об мои пальцы своей киской! Хоть на ней и есть одежда, но я чувствую через неё всё...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:1230
 translate crowdin advanced_massage1_faster_d19db20f:
@@ -1343,6 +1374,7 @@ translate crowdin advanced_massage1_faster_d19db20f:
 translate crowdin advanced_massage1_faster_d3da814d:
 
     # Max_06 "{m}Моя старшая сестрёнка совсем сошла с ума... Её ноги дрожат от того, как сладко она кончила!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:1240
 translate crowdin advanced_massage1_faster_95058917:
@@ -1414,6 +1446,7 @@ translate crowdin advanced_massage1_cuni_32373cd7:
 translate crowdin advanced_massage1_cuni_1faf42c9:
 
     # Max_04 "{m}Я сейчас устрою твоей сладкой киске такое, чего ты точно не забудешь! Хотя... нет, ты забудешь... Да и ладно.{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:1318
 translate crowdin advanced_massage1_cuni_b40ae767:
@@ -1443,6 +1476,7 @@ translate crowdin advanced_massage1_cuni_51e45fcc:
 translate crowdin advanced_massage1_cuni_63ca8df7:
 
     # Alice_05 "Да... такой массаж мне нравится... Вот бы всё время так! А сейчас, давай-ка засовывай свой член обратно, а то все ноги мне испачкаешь... Массаж классный, Макс... Спасибо!"
+    ""
 
 # game/dialogues/alicetalk.rpy:1338
 translate crowdin advanced_massage1_cuni_ef15cedf:
@@ -1454,6 +1488,7 @@ translate crowdin advanced_massage1_cuni_ef15cedf:
 translate crowdin advanced_massage1_cuni_94dbdbbd:
 
     # Max_09 "{m}С Алисой нужно как-то сближаться без конфет. Только как?! Она стала более адекватно воспринимать мои стояки, после случая с пауком во дворе... Так может, и при массаже ног у ТВ без конфет у меня что-то выгорит?{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:1351
 translate crowdin advanced_massage1_cuni_79e35b5c:
@@ -1483,66 +1518,79 @@ translate crowdin advanced_massage1_cuni_7e6ff7bf:
 translate crowdin advanced_massage1_reciprocity_194015b5:
 
     # Alice_02 "Ты даришь мне столько удовольствия, что я просто вынуждена ответить тебе взаимностью."
+    ""
 
 # game/dialogues/alicetalk.rpy:1368
 translate crowdin advanced_massage1_reciprocity_2405c908:
 
     # Max_02 "Значит, это будет что-то приятное?"
+    ""
 
 # game/dialogues/alicetalk.rpy:1374
 translate crowdin advanced_massage1_reciprocity_6a543908:
 
     # Alice_03 "Думаю, тебе будет настолько хорошо, что закачаешься... Ты ведь наверняка об этом мечтал кучу раз?"
+    ""
 
 # game/dialogues/alicetalk.rpy:1375
 translate crowdin advanced_massage1_reciprocity_768593ae:
 
     # Max_04 "Хорошо, что мечты сбываются!"
+    ""
 
 # game/dialogues/alicetalk.rpy:1393
 translate crowdin advanced_massage1_reciprocity_f810aaf0:
 
     # Alice_08 "И ещё как! Я уже приласкала тебя своими ножками... А как тебе мой язычок? Вижу, тебе это нравится... Я буду исследовать им твой член столько, сколько ты сможешь сдержаться!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:1403
 translate crowdin advanced_massage1_reciprocity_b368585e:
 
     # Alice_05 "[restrain!t]А ты стойкий, Макс! Похоже, без помощи моих губ тебя не удастся удовлетворить. Ну, держись..."
+    ""
 
 # game/dialogues/alicetalk.rpy:1411
 translate crowdin advanced_massage1_reciprocity_9410eaf1:
 
     # Max_21 "{m}Ох, как это классно! Алиса с явным наслаждением посасывает мой член. Мой массаж её определённо очень возбуждает, раз она делает мне минет с таким смаком. Д-а-а, это кайф!{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:1420
 translate crowdin advanced_massage1_reciprocity_1272725b:
 
     # Max_22 "[restrain!t]Давай, сестрёнка! Ты сосёшь просто отпадно! Если ты продолжишь ещё быстрее, то сдержаться я уже не смогу... О да, молодчинка... Д-а-а... Давай ещё... Именно так! Ох-х-х, я кончаю..."
+    ""
 
 # game/dialogues/alicetalk.rpy:1427
 translate crowdin advanced_massage1_reciprocity_da5f55a1:
 
     # Alice_07 "Давай! Кончи мне на грудь... Я бы удивилась, если бы ты продержался ещё дольше. Массаж получился классный, Макс... и я не только про сам массаж. А сейчас, давай-ка засовывай свой член обратно, а мне нужно скорее привести себя в порядок."
+    ""
 
 # game/dialogues/alicetalk.rpy:1428
 translate crowdin advanced_massage1_reciprocity_7fef34b9:
 
     # Max_03 "Да, повеселились от души."
+    ""
 
 # game/dialogues/alicetalk.rpy:1436
 translate crowdin advanced_massage1_no_restrain_1bb78087:
 
     # Max_20 "[norestrain!t]Ох, Алиса... Нет, я уже больше не могу... Ухх... Сейчас кончу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:1443
 translate crowdin advanced_massage1_no_restrain_da5f55a1:
 
     # Alice_07 "Давай! Кончи мне на грудь... Я бы удивилась, если бы ты продержался ещё дольше. Массаж получился классный, Макс... и я не только про сам массаж. А сейчас, давай-ка засовывай свой член обратно, а мне нужно скорее привести себя в порядок."
+    ""
 
 # game/dialogues/alicetalk.rpy:1444
 translate crowdin advanced_massage1_no_restrain_7fef34b9:
 
     # Max_03 "Да, повеселились от души."
+    ""
 
 # game/dialogues/alicetalk.rpy:1452
 translate crowdin alice_aboutbooks_5cb6ebb3:
@@ -2830,206 +2878,247 @@ translate crowdin Alice_sorry_2e277d51:
 translate crowdin Alice_sorry_18b50308:
 
     # Alice_05 "Это, конечно, очень здорово, Макс. Дай угадаю... Сейчас ты пообещаешь купить мне сладостей, чтобы мама не узнала, какой ты извращенец, верно?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2202
 translate crowdin Alice_sorry_d47fbc3e:
 
     # Max_01 "Верно. Но ты, видимо, хочешь чего-то другого?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2203
 translate crowdin Alice_sorry_5d6b678a:
 
     # Alice_01 "О да, Макс! У меня есть кое-какие мыслишки, как отучить тебя от этих \"случайных\" подглядываний за мной."
+    ""
 
 # game/dialogues/alicetalk.rpy:2204
 translate crowdin Alice_sorry_ad1df19d:
 
     # Max_04 "А может я лучше сам себя отучу..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2205
 translate crowdin Alice_sorry_6ce5aa94:
 
     # Alice_02 "Ну уж нет! Макс, ты что?! У нас здесь очень тяжёлый случай - хронический вуайеризм! Но не переживай, уж я возьмусь за твоё лечение... Но это позже... Сейчас, мне нужно кое-что другое."
+    ""
 
 # game/dialogues/alicetalk.rpy:2206
 translate crowdin Alice_sorry_28d4bb71:
 
     # Max_07 "Другое? И что же?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2207
 translate crowdin Alice_sorry_2f0085b5:
 
     # Alice_05 "Я тут подумала, что в этот раз стильный кожаный костюмчик вполне мог бы спасти твою задницу от маминого наказания. Их ещё используют в ролевых играх..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2208
 translate crowdin Alice_sorry_a3de421e:
 
     # Max_08 "Ничего себе запросики! И зачем тебе такой? Перед кем ты собираешься его демонстрировать?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2209
 translate crowdin Alice_sorry_e0e237f3:
 
     # Alice_03 "А вот есть перед кем... Но это не твоё дело, Макс, кому я его продемонстрирую."
+    ""
 
 # game/dialogues/alicetalk.rpy:2210
 translate crowdin Alice_sorry_785271a6:
 
     # Max_02 "Ну, интересно же..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2211
 translate crowdin Alice_sorry_be8e64f4:
 
     # Alice_07 "Не сомневаюсь! Наверняка уже во всю представляешь, как я его при тебе буду примерять, но не угадал."
+    ""
 
 # game/dialogues/alicetalk.rpy:2212
 translate crowdin Alice_sorry_6943c4c1:
 
     # Max_09 "Эй, но так же не интересно!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2213
 translate crowdin Alice_sorry_af83a90f:
 
     # Alice_16 "Это что вообще за недовольства?! Наверное, я погорячилась со свои заказом и тебя нужно просто отправить маме, которая отучит тебя подглядывать."
+    ""
 
 # game/dialogues/alicetalk.rpy:2214
 translate crowdin Alice_sorry_1951a195:
 
     # Max_08 "Э-э-э... Да ладно тебе! Чего ты сразу? Я же просто так... без задней мысли ляпнул..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2215
 translate crowdin Alice_sorry_db18883b:
 
     # Alice_12 "Ну конечно, без задней, у тебя все мысли только \"передние\"... Думать надо, что говоришь, особенно когда находишься в таком шатком положении. Ну так что, принимаешь моё предложение?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2216
 translate crowdin Alice_sorry_8e8113ab:
 
     # Max_09 "Так-то да, принимаю, но..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2217
 translate crowdin Alice_sorry_c6b0a949:
 
     # Alice_17 "Что, но?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2218
 translate crowdin Alice_sorry_fcfcdff9:
 
     # Max_10 "Но ведь это, наверняка, стоит очень дорого."
+    ""
 
 # game/dialogues/alicetalk.rpy:2219
 translate crowdin Alice_sorry_11f015fc:
 
     # Alice_05 "Ну конечно, ведь всё имеет свою цену. Это только подглядывать за собственной сестрой и дрочить на неё в тихушку ничего не стоит!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2220
 translate crowdin Alice_sorry_00fd6771:
 
     # Max_08 "Эй... Я не дрочил!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2221
 translate crowdin Alice_sorry_ed67e6da:
 
     # Alice_03 "Ага, давай рассказывай... Короче, это твои проблемы, где ты возьмёшь деньги. И не тормози, если не хочешь получить по заднице от мамы."
+    ""
 
 # game/dialogues/alicetalk.rpy:2222
 translate crowdin Alice_sorry_131a11d8:
 
     # Max_09 "Ладно... Я постараюсь."
+    ""
 
 # game/dialogues/alicetalk.rpy:2223
 translate crowdin Alice_sorry_b9be9b86:
 
     # Alice_01 "Да уж, постарайся. И не затягивай, я не буду ждать вечно. Если уложишься в четыре дня, то мама, так уж и быть, ничего не узнает."
+    ""
 
 # game/dialogues/alicetalk.rpy:2224
 translate crowdin Alice_sorry_d7920a5c:
 
     # Max_00 "Я понял..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2230
 translate crowdin Alice_sorry_0b2bc12c:
 
     # Alice_05 "Да неужели?! И что, хочешь снова, как всегда, откупиться?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2231
 translate crowdin Alice_sorry_5668ec1c:
 
     # Max_01 "Ну-у... да... Мне как, бежать за сладостями или, как в тот раз, тебе нужно что-то другое?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2232
 translate crowdin Alice_sorry_de7928c4:
 
     # Alice_02 "Ты проницателен как никогда, Макс, именно другое..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2233
 translate crowdin Alice_sorry_00884ff2:
 
     # Max_04 "И что же это?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2234
 translate crowdin Alice_sorry_6f11d57e:
 
     # Alice_01 "Плётка!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2235
 translate crowdin Alice_sorry_34a7cc2b:
 
     # Max_08 "Что? Плётка?! Я не ослышался?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2236
 translate crowdin Alice_sorry_161ef843:
 
     # Alice_03 "Нет-нет, всё верно - мне нужна плётка. Она вроде стеком называется. Ну знаешь, которой лошадок подгоняют."
+    ""
 
 # game/dialogues/alicetalk.rpy:2237
 translate crowdin Alice_sorry_e33f5b76:
 
     # Max_09 "Я стесняюсь спросить, а кого ты собираешься ей подгонять?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2238
 translate crowdin Alice_sorry_a9ff7b55:
 
     # Alice_05 "Тебя, Макс, кого же ещё!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2239
 translate crowdin Alice_sorry_859ed5bf:
 
     # Max_10 "Э-э-э... А серьёзно?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2240
 translate crowdin Alice_sorry_a1382b76:
 
     # Alice_12 "А я как раз серьёзно. Меня уже достали твои подглядывания! Может быть теперь ты подумаешь о последствиях, прежде чем засунешь свой длинный нос ко мне в ванную комнату."
+    ""
 
 # game/dialogues/alicetalk.rpy:2241
 translate crowdin Alice_sorry_3407ba3a:
 
     # Max_08 "Так я же случайно..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2242
 translate crowdin Alice_sorry_26badf4e:
 
     # Alice_07 "Ха-ха... Ладно, я шучу! Видел бы ты сейчас своё лицо!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2243
 translate crowdin Alice_sorry_0c0d9cc5:
 
     # Max_07 "Фух... Отстойные у тебя шутки, Алиса!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2244
 translate crowdin Alice_sorry_612915b1:
 
     # Alice_05 "Сам ты отстойный! Короче, мне нужна плётка, чтобы дополнить тот кожаный костюм. В противном случае, будешь объясняться с мамой о своём фетише."
+    ""
 
 # game/dialogues/alicetalk.rpy:2245
 translate crowdin Alice_sorry_c7b21e38:
 
     # Max_09 "Ладно, я понял..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2246
 translate crowdin Alice_sorry_72e2b7bf:
 
     # Alice_03 "Вот и хорошо. Я готова подождать три дня, а там пеняй на себя."
+    ""
 
 # game/dialogues/alicetalk.rpy:2247
 translate crowdin Alice_sorry_7852d704:
@@ -3041,66 +3130,79 @@ translate crowdin Alice_sorry_7852d704:
 translate crowdin Alice_sorry_0cb5d3d9:
 
     # Alice_05 "Ух ты! Неужели у тебя, мелкого извращенца, проснулась совесть и ты решил сразу замолить свои грехи?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2254
 translate crowdin Alice_sorry_b89844da:
 
     # Max_07 "Чего сразу грехи-то? Просто небольшая слабость..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2255
 translate crowdin Alice_sorry_a6094fa7:
 
     # Alice_12 "А то, что подглядывать за голой сестрой это грех! Или ты этого не знал? В общем собирайся и пошли к маме... Очень хочется посмотреть, что она с тобой сделает, когда об этом узнает..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2256
 translate crowdin Alice_sorry_b695a1ae:
 
     # Max_01 "Так может мы договоримся, как раньше? Может быть тебе что-то надо?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2257
 translate crowdin Alice_sorry_f1a7cc2c:
 
     # Alice_13 "Ай-ай-ай... Пытаешься меня подкупить?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2258
 translate crowdin Alice_sorry_2090c37f:
 
     # Max_08 "Почему сразу подкупить?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2259
 translate crowdin Alice_sorry_644eb3d1:
 
     # Alice_05 "А как ещё это можно назвать? Взятка? Кстати, за неё тоже предусмотрено наказание."
+    ""
 
 # game/dialogues/alicetalk.rpy:2260
 translate crowdin Alice_sorry_f725e921:
 
     # Max_10 "Так я ведь хотел..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2261
 translate crowdin Alice_sorry_fba75b67:
 
     # Alice_07 "Откупиться и избежать наказания... Ха-ха-ха... Ладно, Макс, не парься, я пошутила. Я сегодня добрая и потому наказывать тебя не буду... пока что."
+    ""
 
 # game/dialogues/alicetalk.rpy:2262
 translate crowdin Alice_sorry_f642316c:
 
     # Max_09 "В каком смысле, пока что?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:2263
 translate crowdin Alice_sorry_6e6863df:
 
     # Alice_03 "Ну... Я решила отложить твоё наказание. С этого момента, если есть за что извиниться, можешь подходить ко мне вечером, когда я смотрю ТВ. И уже тогда я скажу, что с тобой будет..."
+    ""
 
 # game/dialogues/alicetalk.rpy:2264
 translate crowdin Alice_sorry_1981e35e:
 
     # Max_07 "И что будет этим вечером?"
+    ""
 
 # game/dialogues/alicetalk.rpy:2265
 translate crowdin Alice_sorry_2728f6ac:
 
     # Alice_05 "Сказала же, вечером узнаешь. Если, конечно, не решишь, что лучше позориться перед всеми нами у мамы на коленях. А сейчас можешь идти."
+    ""
 
 # game/dialogues/alicetalk.rpy:2266
 translate crowdin Alice_sorry_6e7aee99:
@@ -3184,7 +3286,7 @@ translate crowdin gift_dress_newdress_show_c73d3c3a:
 translate crowdin gift_dress_newdress_show_4109c7f9:
 
     # Max_05 "Выглядишь... шикарно!"
-    new "Mirar... ¡Elegante!"
+    "Mirar... ¡Elegante!"
 
 # game/dialogues/alicetalk.rpy:2336
 translate crowdin gift_dress_newdress_show_1de0592f:
@@ -3832,16 +3934,19 @@ translate crowdin Alice_solar_260044ac:
 translate crowdin Alice_solar_596d8ab7:
 
     # Max_09 "{m}Такой крем наверняка можно найти в интернет-магазине. Да и прежде чем пытаться поприставать к сестрёнке таким образом, стоит обзавестись одеждой полегче.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2641
 translate crowdin Alice_solar_f917ca15:
 
     # Max_07 "{m}Прежде чем пытаться поприставать к сестрёнке таким образом, стоит обзавестись одеждой полегче.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2646
 translate crowdin Alice_solar_a419850a:
 
     # Max_07 "{m}Крем почти закончился. Нужно купить ещё.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2651
 translate crowdin Alice_solar_22c9ef31:
@@ -3865,16 +3970,19 @@ translate crowdin Alice_solar_type_choice_327b0489:
 translate crowdin Alice_solar_type_choice_a17bff06:
 
     # Max_01 "{m}Так, хорошенько намажем эти стройные ножки...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2677
 translate crowdin Alice_solar_type_choice_c137fcb4:
 
     # Max_01 "{m}Теперь плечи и совсем немного шею...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:2687
 translate crowdin Alice_solar_type_choice_ddface62:
 
     # Max_03 "{m}И закончим, хорошенько намазав всю её спину...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2690
 translate crowdin Alice_solar_type_choice_f13e59c6:
@@ -3892,6 +4000,7 @@ translate crowdin Alice_solar_type_choice_acc696ab:
 translate crowdin Alice_solar_type_choice_14b2ab6d:
 
     # Max_07 "{m}В чём-то Алиса права, поучиться этому, пожалуй, стоит.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2706
 translate crowdin Alice_solar_type_choice_69129f17:
@@ -3963,26 +4072,31 @@ translate crowdin massage_sunscreen_3f529b58:
 translate crowdin massage_sunscreen_left_foot_d6f62d5a:
 
     # Max_01 "{m}Начнём сегодня с левой пяточки... Вот так. И, пока я хорошенько её массирую, можно заодно поглазеть на аппетитную Алисину попку!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2789
 translate crowdin massage_sunscreen_left_foot_70acc529:
 
     # Max_03 "{m}А теперь правую... Вот так. Да уж, глаз не оторвать, попка - что надо!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2795
 translate crowdin massage_sunscreen_right_foot_0b2794d1:
 
     # Max_01 "{m}Начнём сегодня с правой пяточки... Вот так. И, пока я хорошенько её массирую, можно заодно поглазеть на аппетитную Алисину попку!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2798
 translate crowdin massage_sunscreen_right_foot_66f3ce74:
 
     # Max_03 "{m}А теперь левую... Вот так. Да уж, глаз не оторвать, попка - что надо!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2805
 translate crowdin massage_sunscreen_shin_94f57cc5:
 
     # Max_02 "{m}Помассируем эти стройные ножки, вот так...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2817
 translate crowdin massage_sunscreen_shin_35e52f27:
@@ -3994,6 +4108,7 @@ translate crowdin massage_sunscreen_shin_35e52f27:
 translate crowdin massage_sunscreen_shoulders_65819867:
 
     # Max_04 "{m}Хорошенько разомнём плечи и немного шею...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:2837
 translate crowdin massage_sunscreen_shoulders_865217d9:
@@ -4005,6 +4120,7 @@ translate crowdin massage_sunscreen_shoulders_865217d9:
 translate crowdin massage_sunscreen_shoulders_5dd0a340:
 
     # Max_04 "{m}Хорошенько разомнём плечи и немного шею...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2855
 translate crowdin massage_sunscreen_shoulders_ce187fe2:
@@ -4016,6 +4132,7 @@ translate crowdin massage_sunscreen_shoulders_ce187fe2:
 translate crowdin massage_sunscreen_spine_62dc12f7:
 
     # Max_05 "{m}Вот так, нужно хорошенько растереть крем... А теперь тщательно помнём спинку... Нежно, но сильно.{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:2879
 translate crowdin massage_sunscreen_spine_7e3da85a:
@@ -4027,6 +4144,7 @@ translate crowdin massage_sunscreen_spine_7e3da85a:
 translate crowdin massage_sunscreen_spine_f1e19ee1:
 
     # Max_05 "{m}Вот так, нужно хорошенько растереть крем... А теперь тщательно помнём спинку... Нежно, но сильно.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:2897
 translate crowdin massage_sunscreen_spine_3c450833:
@@ -4038,6 +4156,7 @@ translate crowdin massage_sunscreen_spine_3c450833:
 translate crowdin massage_sunscreen_ass_e47a4169:
 
     # попка"
+    ""
 
 # game/dialogues/alicetalk.rpy:2929
 translate crowdin massage_sunscreen_hips_cac75cfe:
@@ -4637,6 +4756,7 @@ translate crowdin massage_sunscreen_squeeze_chest_1c5bed82:
 translate crowdin massage_sunscreen_squeeze_chest_11fdb519:
 
     # extend "" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:3202
 translate crowdin massage_sunscreen_squeeze_chest_1160d297:
@@ -4714,6 +4834,7 @@ translate crowdin massage_sunscreen_hands_off_64bbd7a2:
 translate crowdin alice_sorry_gifts_3ad3d6a8:
 
     # Max_09 "{m}Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:3264
 translate crowdin alice_sorry_gifts_fd790983:
@@ -4725,11 +4846,13 @@ translate crowdin alice_sorry_gifts_fd790983:
 translate crowdin alice_sorry_gifts_567ab5fa:
 
     # Alice_02 "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:3268
 translate crowdin alice_sorry_gifts_e3d28a54:
 
     # Alice_02 "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:3322
 translate crowdin alice_sorry_gifts_middle_again_ebaef405:
@@ -6865,6 +6988,7 @@ translate crowdin alice_sorry_gifts_good_088d0b2a:
 translate crowdin alice_sorry_gifts_good_8c11f335:
 
     # Alice_05 "Слишком уж долго до тебя доходило, что я больше всего люблю... Так что - не повезло тебе..."
+    ""
 
 # game/dialogues/alicetalk.rpy:3929
 translate crowdin alice_sorry_gifts_good_e2b944cc_3:
@@ -6936,11 +7060,13 @@ translate crowdin alice_sorry_gifts_good_3e4a4815_2:
 translate crowdin alice_sorry_gifts_good_784e185e:
 
     # Alice_05 "Ну, ты обещал мне вкусняшку и сдержал слово. Я даже подумываю, а не обнять ли тебя, Макс? Ну так... совсем немного..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:3955
 translate crowdin alice_sorry_gifts_good_835ab3bd:
 
     # Alice_04 "[succes!t]Пожалуй ты заслужил это своими подарками..."
+    ""
 
 # game/dialogues/alicetalk.rpy:3957
 translate crowdin alice_sorry_gifts_good_f070e574:
@@ -7378,31 +7504,37 @@ translate crowdin alice_about_kiss_a95ad17e:
 translate crowdin alice_about_kiss_2cc2ac5d:
 
     # Alice_07 "Срочно?! Бедняжка... Ты знаешь, я в каком-то фильме смотрела, там учились целоваться на помидорах. Попробуй, может получится хотя бы у тебя..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4121
 translate crowdin alice_about_kiss_91a55c2f:
 
     # Max_07 "Алиса, я серьёзно же!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4122
 translate crowdin alice_about_kiss_5fe5be63:
 
     # Alice_12 "Макс, отвали. Я не буду целоваться с тобой, даже не мечтай. И придумай другой способ клеиться, а то этот на уровне детского сада, серьёзно."
+    ""
 
 # game/dialogues/alicetalk.rpy:4123
 translate crowdin alice_about_kiss_f6b0c7e6:
 
     # Max_09 "Да я не клеился!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4133
 translate crowdin talkblog2_8c928df1:
 
     # Alice_00 "Я тебя внимательно слушаю..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4134
 translate crowdin talkblog2_81673401:
 
     # Max_00 "Я выяснил, какие блоги популярны..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4135
 translate crowdin talkblog2_8c61026c:
@@ -7642,6 +7774,7 @@ translate crowdin gift_black_lingerie_5cfb418f:
 translate crowdin gift_black_lingerie_52c30a67:
 
     # Max_09 "{m}А посмотреть-то хочется! Быстренько оббежать комнаты и подглядеть в окно? Может заметить... Или пойти в комнату и подглядеть через камеру? Пока дойду и открою свой сайт она уже переоденется... Эх, вот я пролетел!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4217
 translate crowdin gift_black_lingerie_3163cf24:
@@ -7893,11 +8026,13 @@ translate crowdin gift_black_lingerie_final_efb73eb0:
 translate crowdin alice_gift_sweets_3ad3d6a8:
 
     # Max_09 "{m}Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4359
 translate crowdin alice_gift_sweets_3bc9c952:
 
     # Max_09 "{m}Ещё рановато для сладостей, так недолго и фигуру Алисе испортить. Лучше немного подождать...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4365
 translate crowdin alice_gift_sweets_fd790983:
@@ -8023,31 +8158,37 @@ translate crowdin alice_gift_sweets_c9c4f595_1:
 translate crowdin alice_gift_sweets_9a2d0fc0:
 
     # Alice_12 "Так, Макс, это что за дела? У тебя почему стоит? На меня что ли?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4412
 translate crowdin alice_gift_sweets_51f009cc:
 
     # Max_02 "Даже не знаю! Здесь больше никого нет. Похоже, что на тебя..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4413
 translate crowdin alice_gift_sweets_5c50d3fc:
 
     # Alice_03 "Ты же в курсе, что есть иные способы сказать, что я нисколько не порчу этими конфетами фигуру?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4414
 translate crowdin alice_gift_sweets_07748222:
 
     # Max_04 "Ну, а я выдал комплимент без слов! Честнее некуда."
+    ""
 
 # game/dialogues/alicetalk.rpy:4415
 translate crowdin alice_gift_sweets_44bf1dad:
 
     # Alice_05 "Ну да, я вижу... Считай, этот комплимент принят!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4416
 translate crowdin alice_gift_sweets_1ebc62cf:
 
     # Max_01 "Наслаждайся конфетами, сластёна! Не буду мешать..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4418
 translate crowdin alice_gift_sweets_d1ecaad6_1:
@@ -8077,11 +8218,13 @@ translate crowdin alice_gift_sweets_05193b35_1:
 translate crowdin alice_about_lingerie0_d8fa105c:
 
     # Alice_12 "Слышал или подслушал?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4442
 translate crowdin alice_about_lingerie0_2a44705b:
 
     # Max_01 "Слышал. Эрик мне и сказал."
+    ""
 
 # game/dialogues/alicetalk.rpy:4443
 translate crowdin alice_about_lingerie0_43b3d5bb:
@@ -8099,56 +8242,67 @@ translate crowdin alice_about_lingerie0_f8fd533a:
 translate crowdin alice_about_lingerie0_7f85a848:
 
     # Alice_03 "Для этого компьютер нужен. Так что, если интересно, то заходи, когда я в своей комнате. Покажу..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4449
 translate crowdin alice_about_lingerie0_4fea5bb2:
 
     # Max_01 "Ага. Обязательно зайду"
+    ""
 
 # game/dialogues/alicetalk.rpy:4462
 translate crowdin alice_showing_lingerie1_5f50ce1d:
 
     # Alice_03 "Вот, смотри... Боди, как боди, слегка прозрачное и кружевное. Всё, как вы, мальчики, любите."
+    ""
 
 # game/dialogues/alicetalk.rpy:4463
 translate crowdin alice_showing_lingerie1_6bddc98c:
 
     # Max_03 "Ну да, мне уже не терпится увидеть его на тебе!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4464
 translate crowdin alice_showing_lingerie1_3f45c9af:
 
     # Alice_05 "Это если я ещё разрешу тебе смотреть на меня в этом боди! Вот Эрик купит - ему и можно будет смотреть, ну и тем, для кого я всё это рекламирую."
+    ""
 
 # game/dialogues/alicetalk.rpy:4465
 translate crowdin alice_showing_lingerie1_21921cd2:
 
     # Max_11 "А как же я?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4466
 translate crowdin alice_showing_lingerie1_dfc1c960:
 
     # Alice_02 "Интернет тебе в помощь, Макс! Там полно всяких разных девушек в любом нижнем белье. Может и меня там найдёшь, уже..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4467
 translate crowdin alice_showing_lingerie1_0be86b3e:
 
     # Max_08 "Ладно, я тебя понял."
+    ""
 
 # game/dialogues/alicetalk.rpy:4468
 translate crowdin alice_showing_lingerie1_16a37343:
 
     # Max_09 "{m}Мне ещё как можно будет на тебя смотреть, когда я куплю это боди первее Эрика! Вот только времени совсем в обрез, надо торопиться... Блин, Эрик точно будет этому не рад! Стоит ли оно того, это боди?{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4481
 translate crowdin gift_lace_lingerie_7a0bce7e:
 
     # Alice_15 "Ого! В смысле, то самое, которое я тебе показывала или какое-то другое?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4482
 translate crowdin gift_lace_lingerie_5acfd87b:
 
     # Max_01 "Да, то самое. Ты же не против?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4483
 translate crowdin gift_lace_lingerie_d05d1c9b:
@@ -8160,46 +8314,55 @@ translate crowdin gift_lace_lingerie_d05d1c9b:
 translate crowdin gift_lace_lingerie_88551f02:
 
     # Max_03 "Конечно! Мне не терпится увидеть, как оно на тебе сидит..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4491
 translate crowdin gift_lace_lingerie_1bb4de64:
 
     # Alice_12 "Неплохо это ты уселся в первых рядах, Макс! Отвернись хоть для приличия или живо пойдёшь гулять..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4492
 translate crowdin gift_lace_lingerie_c20736bf:
 
     # Max_02 "Я глаза закрою..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4496
 translate crowdin gift_lace_lingerie_54299116:
 
     # Alice_14 "Эй! Макс! Ты же сказал, что закроешь глаза. Хорошо я заметила, что ты пялишься на меня, прежде чем всё с себя сняла! Отвернись, быстро! Ну или хотя бы закрой глаза руками..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4497
 translate crowdin gift_lace_lingerie_8cbe532e:
 
     # Max_04 "Ты так красиво начала раздеваться, что я забыл не смотреть. Считай, закрыл."
+    ""
 
 # game/dialogues/alicetalk.rpy:4501
 translate crowdin gift_lace_lingerie_88c80c12:
 
     # Alice_05 "Смотри мне, Макс! Я ведь сразу увижу в зеркало, если ты начнёшь подглядывать сквозь пальцы. Ты же не хочешь получить с ноги за это?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4503
 translate crowdin gift_lace_lingerie_b8b29617:
 
     # Max_19 "Естественно, не хочу." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:4510
 translate crowdin gift_lace_lingerie_8d5dabdd:
 
     # Max_02 "{m}Ага, взял и закрыл! Я что, совсем святой, чтобы не рискнуть хоть одним глазком увидеть голую Алису! Да ещё так близко! Бесподобная у меня сестрёнка...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4513
 translate crowdin gift_lace_lingerie_95927baa:
 
     # Max_07 "{m}Ухх... Алиса не спешит спрятать свои аппетитные сисечки под боди! Прямо, как мне и хочется... Хм, а может она заметила, что я всё равно подглядываю и таким образом дразнит меня?! Знать бы это наверняка...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4518
 translate crowdin gift_lace_lingerie_b0f28e71:
@@ -8211,6 +8374,7 @@ translate crowdin gift_lace_lingerie_b0f28e71:
 translate crowdin gift_lace_lingerie_9137b0d5:
 
     # Max_08 "Не бей! Я просто тебя проверял. На внимательность..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:4532
 translate crowdin gift_lace_lingerie_027a5864:
@@ -8222,26 +8386,31 @@ translate crowdin gift_lace_lingerie_027a5864:
 translate crowdin gift_lace_lingerie_a50a9b69:
 
     # Max_04 "Алиса, на твоём чудесном теле, что угодно будет смотреться шикарно. И да, мне нравится, как это выглядит! Покрутись ещё немного для меня..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4537
 translate crowdin gift_lace_lingerie_db6ef32c:
 
     # Alice_06 "Ну как, всё посмотрел? Ай!!! У меня ногу свело! Ой, как же сильно свело... Ой-ёй-ёй!!!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4538
 translate crowdin gift_lace_lingerie_c2765e70:
 
     # Max_07 "Которую? Давай её мне, я помассирую..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4544
 translate crowdin gift_lace_lingerie_8d729ac8:
 
     # Alice_13 "Правую. Ой, Макс! По-моему, лучше не трогать... Очень уж тянет. А хотя... вроде лучше... Да, так намного лучше... Фух!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4545
 translate crowdin gift_lace_lingerie_27120bb2:
 
     # Max_09 "Многовато ты за компьютером времени проводишь. Двигаться надо побольше."
+    ""
 
 # game/dialogues/alicetalk.rpy:4546
 translate crowdin gift_lace_lingerie_fe88edb1:
@@ -8475,6 +8644,7 @@ translate crowdin alice_private_punish_0_smoke_5f4eb3c1:
 translate crowdin alice_private_punish_0_smoke_2259f05c:
 
     # Alice_03 "Всё, я готова. Где это сделаем?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4671
 translate crowdin alice_private_punish_0_pun_64b31743:
@@ -8612,6 +8782,7 @@ translate crowdin alice_private_punish_r_smoke_pun_9bb538a8:
 translate crowdin alice_private_punish_r_pun_e4f55396:
 
     # Max_01 "А ты куда-то торопишься разве?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4776
 translate crowdin alice_private_punish_r_pun_ace551c8:
@@ -8665,11 +8836,13 @@ translate crowdin alice_private_punish_r_pun_c75cb6e6:
 translate crowdin alice_private_punish_r_pun_5a4d6fec:
 
     # Alice_03 "Ты меня своим озабоченным взглядом не смущай. Вали уже, оденусь я без твоей помощи..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4824
 translate crowdin alice_private_punish_r_pun_a4f2c5d6:
 
     # Alice_06 "Ой, Макс! Ну ты чего? Так уже больно. Ты же говорил, что будешь с нежностью шлёпать!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4826
 translate crowdin alice_private_punish_r_pun_960d624c:
@@ -8759,716 +8932,859 @@ translate crowdin alice_private_punish_r_pun_e5a94fd2:
 translate crowdin alice_gift_mistress1_cc0d1a6f:
 
     # Alice_14 "Подожди! Ты серьёзно достал деньги на кожаный костюм?! Неужели ты действительно его купил?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4880
 translate crowdin alice_gift_mistress1_7de5e751:
 
     # Max_01 "Разумеется! Твой кожаный костюм, как ты и хотела. Вот, держи..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4883
 translate crowdin alice_gift_mistress1_033b8db9:
 
     # Alice_02 "О да! Моя мечта сбылась! Ты такой молодец, Макс! Правда, со сроками ты опоздал, но спасибо тебе большое, что всё-таки подарил..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4884
 translate crowdin alice_gift_mistress1_55c0f2ae:
 
     # Max_07 "Ну так, зря я что ли деньги на этот костюм собирал? Может хоть примеришь его при мне?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4886
 translate crowdin alice_gift_mistress1_7c290682:
 
     # Alice_07 "О да! Моя мечта сбылась! Ты такой молодец, Макс! Спасибо тебе большое..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4887
 translate crowdin alice_gift_mistress1_3236daef:
 
     # Max_02 "Ну что, примеришь его при мне?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4889
 translate crowdin alice_gift_mistress1_5bcb46c0:
 
     # Alice_13 "Примерю при тебе? Разве мы с тобой об этом договаривались?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4890
 translate crowdin alice_gift_mistress1_e63acb48:
 
     # Max_08 "Нет, но... просто я подумал... Почему бы и не примерить?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4891
 translate crowdin alice_gift_mistress1_62932bde:
 
     # Alice_12 "Что? Раз ты мне его купил, то я обязательно тебе в нём должна показаться? Так ты считаешь, да? Костюмчик ведь для ролевых игр, а мы с тобой вообще-то брат и сестра!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4892
 translate crowdin alice_gift_mistress1_7c4b01e3:
 
     # Max_05 "Видишь, даже играть не нужно!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4893
 translate crowdin alice_gift_mistress1_a22a7ce6:
 
     # Alice_16 "Ну, Макс! Если продолжишь прикалываться в таком же духе дальше, то я сыграю нашу маму, только вот бить буду ногами и со всего размаху! Давай гуляй иди... Или тебе помочь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4894
 translate crowdin alice_gift_mistress1_11cf806c:
 
     # Max_10 "Нет, я сам."
+    ""
 
 # game/dialogues/alicetalk.rpy:4910
 translate crowdin alice_gift_whip_630eb3f2:
 
     # Alice_15 "Да где ты деньги-то на всё это берешь?! Надеюсь, она именно такая, как я просила..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4911
 translate crowdin alice_gift_whip_5c54da21:
 
     # Max_02 "О да! Твоя плётка для садо-мазо, как ты и хотела. Вот, держи..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4912
 translate crowdin alice_gift_whip_6bce3a34:
 
     # Alice_13 "Какое садо-мазо, Макс, что ты несёшь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4913
 translate crowdin alice_gift_whip_34569bf8:
 
     # Max_01 "Ну так, а для чего же она ещё?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4914
 translate crowdin alice_gift_whip_c58cb444:
 
     # Alice_05 "Может быть тебе показать? С удовольствием продемонстрирую... прямо на твоей заднице!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4917
 translate crowdin alice_gift_whip_bf59dae4:
 
     # Max_10 "Нет-нет... Спасибо, но посягательств от мамы более чем хватило! Так что не надо."
+    ""
 
 # game/dialogues/alicetalk.rpy:4919
 translate crowdin alice_gift_whip_4da3856f:
 
     # Max_08 "Нет-нет... не надо!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4921
 translate crowdin alice_gift_whip_713a7aab:
 
     # Alice_01 "Точно не надо? А то я могу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4922
 translate crowdin alice_gift_whip_7653d151:
 
     # Max_07 "Точно! Я как-нибудь обойдусь..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4923
 translate crowdin alice_gift_whip_5bbb8668:
 
     # Alice_02 "Вот то-то же! А, вообще, ты молодец, Макс! Спасибо тебе..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4924
 translate crowdin alice_gift_whip_be8a1373:
 
     # Max_01 "Да на здоровье..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4942
 translate crowdin alice_mistress_0_d88405d8:
 
     # Alice_16 "Господи, ну что за детский сад?! Что ты не будешь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4944
 translate crowdin alice_mistress_0_914e64fb:
 
     # Max_10 "Подглядывать..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4945
 translate crowdin alice_mistress_0_9ad307ff:
 
     # Alice_17 "Нет, Макс, так не пойдёт! Я не услышала искренности в твоих словах!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4946
 translate crowdin alice_mistress_0_91c370e9:
 
     # Max_09 "И что мне теперь, в театральный поступать?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4947
 translate crowdin alice_mistress_0_61bfbeea:
 
     # Alice_05 "Нет, мы поступим проще... Тебе придётся пойти со мной!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4948
 translate crowdin alice_mistress_0_75671c9d:
 
     # Max_08 "Куда это? Зачем?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4950
 translate crowdin alice_mistress_0_bbce7676:
 
     # Alice_01 "Сейчас узнаешь... Пошли в мою комнату..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:4956
 translate crowdin alice_mistress_0_f57bb277:
 
     # Alice "{b}Алиса:{/b} Жди за дверью, Макс! Я сейчас подготовлюсь и позову тебя."
+    ""
 
 # game/dialogues/alicetalk.rpy:4957
 translate crowdin alice_mistress_0_ac44d106:
 
     # Max_09 "К чему подготовишься?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4958
 translate crowdin alice_mistress_0_c84b412e:
 
     # Alice "{b}Алиса:{/b} Немного терпения и ты всё узнаешь!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4959
 translate crowdin alice_mistress_0_878ce08d:
 
     # Max_14 "Ладно. Жду..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4960
 translate crowdin alice_mistress_0_f9c4c600:
 
     # Max_09 "{m}Хм... Меня начинают терзать смутные сомнения, насчёт того, к чему она там готовится. Уж как-то подозрительно она улыбалась, когда я извинялся.{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4962
 translate crowdin alice_mistress_0_be0cb566:
 
     # Alice "{b}Алиса:{/b} Можешь входить, если ты ещё не сбежал..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:4970
 translate crowdin alice_mistress_0_15abff2f:
 
     # Max_05 "{m}Ох, ничего себе, вот это вид! Она такая секси в этом костюмчике. А говорила, что не покажется мне в нём!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:4971
 translate crowdin alice_mistress_0_fc3717f4:
 
     # Alice_02 "Ну же, Макс, чего ты застыл в дверях, проходи!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4972
 translate crowdin alice_mistress_0_3c66c427:
 
     # Max_03 "Я это... опешил от твоего вида!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4973
 translate crowdin alice_mistress_0_d4858c12:
 
     # Alice_05 "Что, так страшно?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4974
 translate crowdin alice_mistress_0_b131d55f:
 
     # Max_02 "Нет, что ты! Ты очень классно выглядишь - такая сексуальная!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4975
 translate crowdin alice_mistress_0_7b86761e:
 
     # Alice_07 "Вообще-то, ты с сестрой разговариваешь, если что... Но мне приятно такое слышать."
+    ""
 
 # game/dialogues/alicetalk.rpy:4976
 translate crowdin alice_mistress_0_68e80c99:
 
     # Max_04 "И сидит он на тебе отпадно!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4979
 translate crowdin alice_mistress_0_81107382:
 
     # Alice_03 "Ну конечно... всё только благодаря тебе. Проходи... Снимай майку, она будет только мешаться... Присаживайся на стул, у меня для тебя есть кое-что интересное."
+    ""
 
 # game/dialogues/alicetalk.rpy:4981
 translate crowdin alice_mistress_0_f527dad3:
 
     # Alice_03 "Ну конечно... всё только благодаря тебе. Проходи... Присаживайся на стул, у меня для тебя есть кое-что интересное."
+    ""
 
 # game/dialogues/alicetalk.rpy:4982
 translate crowdin alice_mistress_0_53485488:
 
     # Max_05 "Серьёзно?! Ну хорошо..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4987
 translate crowdin alice_mistress_0_0a9a067b:
 
     # Alice_05 "А чтобы это стало ещё более интересным для тебя, я привяжу тебя к стулу..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4988
 translate crowdin alice_mistress_0_aeaa0a2e:
 
     # Max_07 "Э-э-э... Но только, если так мне действительно будет ещё интереснее."
+    ""
 
 # game/dialogues/alicetalk.rpy:4989
 translate crowdin alice_mistress_0_fb41b4c5:
 
     # Alice_02 "Ну как, не туго?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4990
 translate crowdin alice_mistress_0_0b992451:
 
     # Max_01 "Нет, всё нормально. Продолжай..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4991
 translate crowdin alice_mistress_0_3bdfb7ee:
 
     # Alice_06 "Макс, я же вижу, что ты пялишься на мой зад... Оу! Я так же вижу, что твой восторг уже не умещается в шортах... Тебе как, не стыдно вообще?"
+    ""
 
 # game/dialogues/alicetalk.rpy:4992
 translate crowdin alice_mistress_0_e46bf788:
 
     # Max_02 "Немного... Но по большей части, твоя блестящая попка вызывает во мне много пошлых фантазий!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4993
 translate crowdin alice_mistress_0_8aa9b539:
 
     # Alice_14 "Ты совершенно испорченный мальчишка и я вынуждена познакомить тебя с ещё одним предметом моего гардероба!"
+    ""
 
 # game/dialogues/alicetalk.rpy:4994
 translate crowdin alice_mistress_0_ebf41a2c:
 
     # Max_03 "О да! Интересно, с каким же..."
+    ""
 
 # game/dialogues/alicetalk.rpy:4999
 translate crowdin alice_mistress_0_384f6e34:
 
     # Alice_05 "Да вот с этим, Макс... Ну что, узнаёшь его?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5000
 translate crowdin alice_mistress_0_b07b0cf8:
 
     # Max_08 "Эй... Потише, это тебе не игрушки!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5001
 translate crowdin alice_mistress_0_53b888cf:
 
     # Alice_03 "Хм... А ты думал, что тебя здесь будут ожидать игрушки?! После того, как ты всё так же, как и раньше, продолжаешь подглядывать за мной?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5002
 translate crowdin alice_mistress_0_5f771666:
 
     # Max_10 "Эй... Ты чего? Я могу ещё раз извиниться..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5007
 translate crowdin alice_mistress_0_4204b561:
 
     # Alice_05 "А с чего ты взял, что это поможет? Нет, благодаря этому ты конечно не сразу оказываешься у мамы на коленях, но... мне этого мало, Макс... Я хочу, чтобы оказавшись у ванной комнаты, ты начал задумываться, а стоит ли оно того!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5008
 translate crowdin alice_mistress_0_8a98b0ec:
 
     # Max_07 "Знаешь, очень сложно удержаться и не..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5009
 translate crowdin alice_mistress_0_4b04c487:
 
     # Alice_12 "Это не важно, Макс! Раз за разом, ты говоришь, что это случайность или больше не будешь подглядывать за мной, и... это снова повторяется!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5010
 translate crowdin alice_mistress_0_b5d05fa8:
 
     # Max_10 "Я просто..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5015
 translate crowdin alice_mistress_0_bb08674b:
 
     # Alice_16 "Не перебивай меня, Макс! Я ведь могу использовать этот стек по его назначению... Хочешь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5016
 translate crowdin alice_mistress_0_febc43c1:
 
     # Max_13 "Нет-нет... Извини."
+    ""
 
 # game/dialogues/alicetalk.rpy:5017
 translate crowdin alice_mistress_0_ded9dfc8:
 
     # Alice_12 "Так вот, если ты действительно мужчина, а твоя торчащая штуковина говорит именно об этом, будь добр, перестань говорить, что ты случайно увидел, как я принимаю душ и не подглядывай за мной! Ты меня понял?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5018
 translate crowdin alice_mistress_0_d39294b0:
 
     # Max_14 "Д-да... Я понял..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5019
 translate crowdin alice_mistress_0_a0188ae2:
 
     # Alice_05 "Хороший мальчик. Но если продолжишь, то вы с этим стеком станете очень близки. Особенно близки вы станете в районе твоей голой задницы, по которой я буду хлестать так, что ты будешь молить меня отпустить тебя к маме!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5020
 translate crowdin alice_mistress_0_05076bc1:
 
     # Max_10 "Понял."
+    ""
 
 # game/dialogues/alicetalk.rpy:5025
 translate crowdin alice_mistress_0_6621baa0:
 
     # Alice_02 "Умница... Теперь можешь идти. Сейчас развяжу..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5026
 translate crowdin alice_mistress_0_daea34df:
 
     # Max_08 "Ага..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5027
 translate crowdin alice_mistress_0_74782507:
 
     # Alice_15 "Ты что, бессмертным себя считаешь что ли?! Снова пялишься?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5028
 translate crowdin alice_mistress_0_e994b0c0:
 
     # Max_10 "Нет. Просто задумался."
+    ""
 
 # game/dialogues/alicetalk.rpy:5030
 translate crowdin alice_mistress_0_ba9278ff:
 
     # Alice_01 "Вот и правильно!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5036
 translate crowdin alice_mistress_0_6d9d3f32:
 
     # Max_09 "{m}Странный вечерок получился! С одной стороны, Алиса хотела мне пригрозить и напугать... Но с другой, а зачем так сексуально наряжаться передо мной было для этого? Может, проверяет меня?!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:5037
 translate crowdin alice_mistress_0_5f6933b1:
 
     # Max_07 "{m}Хорошо, что есть способ проверить, что у неё действительно на уме. Нужно продолжить за ней подглядывать, а когда она снова меня заметит, как-то умудриться уговорить её на конфету с ликёром перед этим... наказанием...{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:5053
 translate crowdin alice_mistress_1_36b8bd42:
 
     # Alice_12 "Ты что, Макс, забыл, что одних \"извини\" мне мало? Думаю, нам стоит подняться ко мне в комнату и побеседовать там в... особой обстановке..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5054
 translate crowdin alice_mistress_1_b133d546:
 
     # Max_08 "Это точно необходимо?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5055
 translate crowdin alice_mistress_1_89b05aec:
 
     # Alice_05 "Ты что, боишься?! Ха-ха..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5056
 translate crowdin alice_mistress_1_88c2fc63:
 
     # Max_07 "Нет, просто я думал, что мы сможем решить это как-то без всего, что было в прошлый раз..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5058
 translate crowdin alice_mistress_1_1a71d79c:
 
     # Alice_16 "Тебе сейчас не думать нужно, а просто делать то, что я хочу. Пошли ко мне в комнату..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5064
 translate crowdin alice_mistress_1_d1fa99ac:
 
     # Max_09 "{m}Надеюсь, всё обойдётся привязыванием и угрозами, как в прошлый раз. И зачем я ей этот стек купил?!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:5066
 translate crowdin alice_mistress_1_843d85a9:
 
     # Alice "{b}Алиса:{/b} Макс, заходи!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5074
 translate crowdin alice_mistress_1_6c9fc7dd:
 
     # Alice_02 "Ну же, Макс, не тормози, проходи! Или снова наслаждаешься видом!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5075
 translate crowdin alice_mistress_1_28ac6dd3:
 
     # Max_03 "Ага... Ты очень красивая!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5078
 translate crowdin alice_mistress_1_bb754d35:
 
     # Alice_05 "Спасибо! Но комплименты не спасут тебя от того, что я хочу сделать. Снимай майку и присаживайся на стул." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5080
 translate crowdin alice_mistress_1_92e1d765:
 
     # Alice_05 "Спасибо! Но комплименты не спасут тебя от того, что я хочу сделать. Присаживайся на стул." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5084
 translate crowdin alice_mistress_1_38316ab5:
 
     # Alice_16 "На стул, Макс. Живо!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5085
 translate crowdin alice_mistress_1_6d11b7e8:
 
     # Max_14 "Понял, сажусь..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5090
 translate crowdin alice_mistress_1_38e3be30:
 
     # Alice_03 "Ну как, не туго я тебя привязала?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5091
 translate crowdin alice_mistress_1_706c0535:
 
     # Max_09 "Вообще-то, немного жмёт."
+    ""
 
 # game/dialogues/alicetalk.rpy:5092
 translate crowdin alice_mistress_1_4dca2d04:
 
     # Alice_05 "Это ничего, тем более, что ты, как я вижу, снова блещешь своими причиндалами. Тебе что, так нравится, когда тебя связывают, фетишист мелкий?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5093
 translate crowdin alice_mistress_1_6293c4ed:
 
     # Max_02 "Просто наряд твой очень нравится..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5098
 translate crowdin alice_mistress_1_4203d633:
 
     # Alice_12 "Ах... Ты, видимо, считаешь, что всё это шутки. Тебе было так же весело стоять за углом и глазеть, как я моюсь? Это очень по-мужски! Подглядывать за собственной сестрой! Хм... Может быть, тебе всё-таки всыпать?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5099
 translate crowdin alice_mistress_1_881104af:
 
     # Max_08 "Эй, потише с этой штукой! Ты чего?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5100
 translate crowdin alice_mistress_1_d1417488:
 
     # Alice_16 "А ничего! Наверняка ты стоял, смотрел на меня и представлял, как зайдёшь в душ и жёстко оттрахаешь меня?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5101
 translate crowdin alice_mistress_1_ccc44999:
 
     # Max_10 "Ну... Оно само так получается думать..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5106
 translate crowdin alice_mistress_1_cb59d800:
 
     # Alice_15 "Ах вот так! Само получается?! У меня начинает складываться впечатление, что моя \"запугивающая терапия\" не даст результатов с таким извращугой, как ты."
+    ""
 
 # game/dialogues/alicetalk.rpy:5107
 translate crowdin alice_mistress_1_c15dd01e:
 
     # Max_15 "Тогда прекращай размахивать этой плёткой... Давай, развяжи меня!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5112
 translate crowdin alice_mistress_1_b30b33cf:
 
     # Alice_17 "Что, не нравится? Мне тоже не нравится, что ты постоянно за мной подглядываешь! Знаешь, Макс... Я могла бы, например, дать тебе этим стеком по яйцам. Ну так... чтобы до тебя лучше дошло! Но я поступлю иначе..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5113
 translate crowdin alice_mistress_1_0cf493c2:
 
     # Max_09 "Да?! И как же, интересно?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5118
 translate crowdin alice_mistress_1_c07c8399:
 
     # Alice_05 "А очень просто! Я буду высекать эту твою мерзкую привычку подглядывать за мной. Прямо этим стеком и прямо по твоей заднице. И сила, с которой я это буду делать, будет зависеть от того, насколько покладисто ты этому подчинишься."
+    ""
 
 # game/dialogues/alicetalk.rpy:5119
 translate crowdin alice_mistress_1_089afa86:
 
     # Max_15 "Эй! Может мне ещё и самому себя отхлестать, прямо на твоих глазах?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5124
 translate crowdin alice_mistress_1_9206dbf7:
 
     # Alice_07 "Ох, я бы с удовольствием на это посмотрела, но стек я тебе не доверю. Всё будет в моей власти. Но ты всегда можешь выбрать наказание от мамы перед всеми нами."
+    ""
 
 # game/dialogues/alicetalk.rpy:5125
 translate crowdin alice_mistress_1_f123fc47:
 
     # Max_14 "Какие классные у меня варианты! Один лучше другого."
+    ""
 
 # game/dialogues/alicetalk.rpy:5126
 translate crowdin alice_mistress_1_d54a583d:
 
     # Alice_16 "В общем, я предупредила тебя в последний раз. Дальше всё зависит от тебя. Увижу, что подглядываешь - накажу или сама, или это будет мама! Понял меня?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5127
 translate crowdin alice_mistress_1_b6efeed9:
 
     # Max_11 "Понял-понял..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5133
 translate crowdin alice_mistress_1_832d4481:
 
     # Alice_12 "Это не шутка, Макс - я тебя предупредила! Всё, вали отсюда." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5151
 translate crowdin alice_mistress_2_2420c156:
 
     # Alice_02 "Ой, Макс, спасибо, что разрешил... А как ты хочешь, чтобы я это сделала? Понежнее?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5152
 translate crowdin alice_mistress_2_79b6aa34:
 
     # Max_07 "Желательно, да!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5154
 translate crowdin alice_mistress_2_c7e32ed5:
 
     # Alice_05 "Ха-ха... Размечтался! Сперва глазел на меня голую, а теперь пришёл и ещё указываешь, как тебя наказать?! Совсем больной что ли? Идём быстро в мою комнату..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5160
 translate crowdin alice_mistress_2_de2fccb5:
 
     # Alice "{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5161
 translate crowdin alice_mistress_2_47ba9f6f:
 
     # Max_09 "Да, конечно. Жду."
+    ""
 
 # game/dialogues/alicetalk.rpy:5163
 translate crowdin alice_mistress_2_fc43cc0c:
 
     # Alice "{b}Алиса:{/b} Давай, заходи." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5171
 translate crowdin alice_mistress_2_b898a43b:
 
     # Alice_02 "Ну же, Макс, не тормози, проходи!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5172
 translate crowdin alice_mistress_2_329baf0e:
 
     # Max_11 "Опять привязывать будешь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5173
 translate crowdin alice_mistress_2_a79d3f53:
 
     # Alice_03 "А вот и не угадал! Раздевайся!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5174
 translate crowdin alice_mistress_2_1f573daa:
 
     # Max_08 "В смысле?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5175
 translate crowdin alice_mistress_2_4ed0c16d:
 
     # Alice_07 "В прямом. Ты же смотрел на меня голую, теперь я на тебя посмотрю!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5176
 translate crowdin alice_mistress_2_cb28e33b:
 
     # Max_09 "Это ещё зачем?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5177
 translate crowdin alice_mistress_2_9b5aa4e3:
 
     # Alice_05 "Чтобы побольше неудобства тебе принести... Это такая часть наказания."
+    ""
 
 # game/dialogues/alicetalk.rpy:5178
 translate crowdin alice_mistress_2_212243b5:
 
     # Max_10 "Ну-у... ладно..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5184
 translate crowdin alice_mistress_2_2abd2c6e:
 
     # Alice_03 "Ну вот, теперь ты в том же положении, что и я в ванной комнате. Нравится обстановка?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5185
 translate crowdin alice_mistress_2_f0a64feb:
 
     # Max_09 "Вообще-то не очень..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5186
 translate crowdin alice_mistress_2_951fb089:
 
     # Alice_05 "Вот именно так я чувствую себя, когда ты за мной смотришь! А теперь живо поворачивайся к столу и подставляй задницу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5187
 translate crowdin alice_mistress_2_50fbe9c8:
 
     # Max_13 "Ты что, меня серьёзно накажешь? Прямо плёткой?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5194
 translate crowdin alice_mistress_2_e9b9dd05:
 
     # Alice_12 "Да, Макс, серьёзно! И если помнишь, я говорила в прошлый раз от чего будет зависеть сила, с которой я буду это делать... Так как? Есть желание меня злить или ты будешь послушным мальчиком?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5200
 translate crowdin alice_mistress_2_4880142c:
 
     # Max_12 "Ай!!! Бо-о-ольно... С ума сошла что ли так бить?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5202
 translate crowdin alice_mistress_2_2615d068:
 
     # Alice_16 "Запомни, глупый мальчишка, мы здесь не для того, чтобы побыстрее со всем разобраться, а чтобы ты прочувствовал, что подглядывать не хорошо! Живо руки на стол!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5212
 translate crowdin alice_mistress_2_4880142c_1:
 
     # Max_12 "Ай!!! Бо-о-ольно... С ума сошла что ли так бить?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5214
 translate crowdin alice_mistress_2_b2668f11:
 
     # Alice_16 "Ну как? Ты прочувствовал, что мне лучше не угрожать и не подглядывать за мной?! Живо руки на стол!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5225
 translate crowdin alice_mistress_2_submit_18617f58:
 
     # Max_14 "Ай! Ай... Всё, я всё понял..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5226
 translate crowdin alice_mistress_2_submit_afd9742b:
 
     # Alice_05 "Точно? Может добавки?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5227
 translate crowdin alice_mistress_2_submit_71218d7c:
 
     # Max_10 "Не надо! Я всё прочувствовал..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5232
 translate crowdin alice_mistress_2_submit_e6c91767:
 
     # Alice_07 "Ну, раз так, можешь идти. Да, и спасибо ещё раз за то, что подарил мне этот стек. Надеюсь, ты его оценил."
+    ""
 
 # game/dialogues/alicetalk.rpy:5234
 translate crowdin alice_mistress_2_submit_91bec0a7:
 
     # Max_11 "Ага... Оценил..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5243
 translate crowdin alice_mistress_2_fuck_you_28518983:
 
     # Alice_15 "Что?! Ничего себе, как ты заговорил! Ну держись..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5247
 translate crowdin alice_mistress_2_fuck_you_8a940fe6:
 
     # Max_13 "Чёрт!!! Алиса, бо-о-ольно... Я всё понял!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5252
 translate crowdin alice_mistress_2_fuck_you_afd9742b:
 
     # Alice_05 "Точно? Может добавки?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5253
 translate crowdin alice_mistress_2_fuck_you_237323fc:
 
     # Max_10 "Нет-нет, я всё прочувствовал! Достаточно!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5254
 translate crowdin alice_mistress_2_fuck_you_8b2fa365:
 
     # Alice_07 "Ну ладно, сделаю вид, что я поверила. Вали отсюда. Да, и спасибо ещё раз за твой великолепный подарок. Надеюсь, он тебе понравился?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5256
 translate crowdin alice_mistress_2_fuck_you_30a1fd57:
 
     # Max_11 "Ага... Очень..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5277
 translate crowdin alice_mistress_3_78b6d46d:
 
     # Alice_02 "Я рада, что ты сделал такой выбор. Это справедливо, когда жертве вопиющего вуайеризма даётся возможность расквитаться с обидчиком!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5280
 translate crowdin alice_mistress_3_b3a8e3d6:
 
     # Alice_05 "[succes!t]Звучит вроде искренне... Хорошо, твоё признание я принимаю. Но учти, наказание от этого добрее не станет!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5281
 translate crowdin alice_mistress_3_9a9eff04:
@@ -9480,1914 +9796,2350 @@ translate crowdin alice_mistress_3_9a9eff04:
 translate crowdin alice_mistress_3_f131083f:
 
     # Alice_08 "Ммм... Люблю эти конфетки! Пошли за мной!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5289
 translate crowdin alice_mistress_3_dc08410d:
 
     # Alice_06 "[failed!t]А мне вот чувствуется, что это просто способ меня задобрить... Так что нет. Спасибо, но я обойдусь."
+    ""
 
 # game/dialogues/alicetalk.rpy:5290
 translate crowdin alice_mistress_3_3f92400e:
 
     # Max_07 "Ну и зря, я хотел, как лучше."
+    ""
 
 # game/dialogues/alicetalk.rpy:5295
 translate crowdin alice_mistress_3_0c4117fa:
 
     # Alice_05 "За каждым преступлением должно следовать наказание! Так что не будем медлить. Пойдём ко мне в комнату..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5297
 translate crowdin alice_mistress_3_61898918:
 
     # Alice_03 "Да? Вот обидно... Ну ладно, это твой выбор... В любом случае, когда тебя будут наказывать, на моём лице будет очень довольная улыбка."
+    ""
 
 # game/dialogues/alicetalk.rpy:5299
 translate crowdin alice_mistress_3_e413dc04:
 
     # Max_09 "Да мне всё-равно..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5312
 translate crowdin alice_mistress_3_follow_de2fccb5:
 
     # Alice "{b}Алиса:{/b} И даже не думай сбегать, потому что я уже почти оделась!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5313
 translate crowdin alice_mistress_3_follow_47ba9f6f:
 
     # Max_09 "Да, конечно. Жду."
+    ""
 
 # game/dialogues/alicetalk.rpy:5315
 translate crowdin alice_mistress_3_follow_fc43cc0c:
 
     # Alice "{b}Алиса:{/b} Давай, заходи." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5329
 translate crowdin alice_mistress_3_follow_1598145f:
 
     # Alice_02 "Ну же, Макс, не тормози. Хватит на меня так пялиться и проходи! Раздевайся давай..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5340
 translate crowdin alice_mistress_3_domine_no_drink_90d53df6:
 
     # Alice_05 "Ну и чего стоишь? Ты же знаешь, что делать! Не заставляй меня ждать... Хуже ведь будет тебе!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5347
 translate crowdin alice_mistress_3_domine_no_drink_21840dd9:
 
     # Alice_03 "Хороший мальчик. Что теперь нужно сказать?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5354
 translate crowdin alice_mistress_3_domine_no_drink_e6a1536b:
 
     # Alice_04 "Ох, как же моим ушам приятно слышать такое... Это ведь искреннее твоё желание?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5360
 translate crowdin alice_mistress_3_domine_no_drink_25fbab07:
 
     # Alice_05 "Ой, когда меня так об этом просят, я не могу отказать... Может, ещё разок для закрепления, чтобы лучше прочувствовать, что подглядывать не хорошо?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5361
 translate crowdin alice_mistress_3_domine_no_drink_71218d7c:
 
     # Max_10 "Не надо! Я всё прочувствовал..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5367
 translate crowdin alice_mistress_3_domine_no_drink_a33029f8:
 
     # Alice_07 "Ну, раз так, можешь идти. Я на самом деле сильно сомневаюсь, что до тебя дошло. Но всё же понадеюсь..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5384
 translate crowdin alice_mistress_3_domine_no_drink_4880142c:
 
     # Max_12 "Ай!!! Бо-о-ольно... С ума сошла что ли так бить?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5386
 translate crowdin alice_mistress_3_domine_no_drink_56a049d6:
 
     # Alice_16 "Вот так ты значит хочешь? Дерзить мне будешь... Ну, смотри... Если не поставишь руки на стол и не отклячишь свою задницу, добавки будет столько, что ноги откажут!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5392
 translate crowdin alice_mistress_3_domine_no_drink_a578cf2b:
 
     # Alice_04 "Хороший мальчик. Сейчас ты у меня прочувствуешь, что подглядывать не хорошо! Как тебе?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5393
 translate crowdin alice_mistress_3_domine_no_drink_3a79efc9:
 
     # Max_14 "Больно... Может уже хватит?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5394
 translate crowdin alice_mistress_3_domine_no_drink_829e8023:
 
     # Alice_05 "Правда? Хмм... Что-то как-то быстро до тебя дошло... Давай ещё раз, для закрепления..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5400
 translate crowdin alice_mistress_3_domine_no_drink_7c6d427c:
 
     # Max_13 "Ай! Я всё прочувствовал... Прекращай!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5401
 translate crowdin alice_mistress_3_domine_no_drink_8bfd7bd1:
 
     # Alice_03 "Ну как, понравилось? Я надеюсь, сейчас ты всё понял?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5406
 translate crowdin alice_mistress_3_domine_no_drink_1755dd23:
 
     # Max_10 "Да, я понял, что подглядывать не хорошо..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5408
 translate crowdin alice_mistress_3_domine_no_drink_a03004fb:
 
     # Alice_07 "Ну, а раз понял, можешь идти. Я на самом деле сильно сомневаюсь, что до тебя дошло. Но всё же понадеюсь..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5418
 translate crowdin alice_mistress_3_domine_no_drink_28518983:
 
     # Alice_15 "Что?! Ничего себе, как ты заговорил! Ну держись..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5422
 translate crowdin alice_mistress_3_domine_no_drink_c87be605:
 
     # Max_13 "Чёрт!!! Алиса, бо-о-ольно... Хватит!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5428
 translate crowdin alice_mistress_3_domine_no_drink_1adc516a:
 
     # Alice_05 "Точно? Может добавки? Хотя вижу, что и правда хватит, а то вот-вот чувствую - заплачешь. Или всё-таки..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5429
 translate crowdin alice_mistress_3_domine_no_drink_6a20833b:
 
     # Max_10 "Нет-нет, я усвоил, что подглядывать не хорошо! Достаточно!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5431
 translate crowdin alice_mistress_3_domine_no_drink_07b7d700:
 
     # Alice_07 "Ну ладно, сделаю вид, что я поверила. Вали отсюда. Надеюсь, ты и правда что-то усвоил." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5445
 translate crowdin alice_domine_drink_2879aca1:
 
     # Alice_02 "Ну же, Макс, не тормози. Хватит на меня так пялиться и проходи! Раздевайся давай..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5446
 translate crowdin alice_domine_drink_dd706ac2:
 
     # Max_07 "А может без этого? Может, лучше привяжешь меня к стулу и уже там как-нибудь накажешь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5448
 translate crowdin alice_domine_drink_39940f2d:
 
     # Alice_05 "Неужели такому мелкому извращенцу, как ты, стало страшно поворачиваться ко мне задом? Это хорошо... Но раздеться тебе придётся всё равно! Или есть возражения?!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5455
 translate crowdin alice_domine_drink_c8a300e9:
 
     # Alice_12 "Хм... А я смотрю, Макс, тебе нравится то, что я делаю. Задницу подставлять боишься, а вот демонстрировать, насколько ты \"большой\" извращенец и близко не стесняешься!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5456
 translate crowdin alice_domine_drink_809834fe:
 
     # Max_04 "А чего стесняться? Это естественно, что у парня стоит на такую сексуальную девушку... Да ещё и в таком костюмчике..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5457
 translate crowdin alice_domine_drink_df544769:
 
     # Alice_16 "Ах, вот так, да?! Вообще-то, тебя должен настораживать мой внешний вид!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5458
 translate crowdin alice_domine_drink_0ed5c76a:
 
     # Max_03 "А меня заводит! С огромной радостью бы залез руками под этот костюмчик, да вот только они связаны..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5462
 translate crowdin alice_domine_drink_36743246:
 
     # Alice_17 "Вот ты наглец, Макс! Думаешь, это шуточки такие и я тебя связала ради развлечений?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5463
 translate crowdin alice_domine_drink_b2cf343b:
 
     # Max_07 "Нет... Просто у меня не получается по другому реагировать на тебя!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5464
 translate crowdin alice_domine_drink_05e0ace7:
 
     # Alice_05 "Ох... Это так мило... У моего младшего брата-извращенца на меня стоит. Должно быть это так мучительно, просто смотреть и мечтать обо мне!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5465
 translate crowdin alice_domine_drink_ba4b2a5d:
 
     # Max_10 "А то! Очень мучительно..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5466
 translate crowdin alice_domine_drink_be80be0c:
 
     # Alice_03 "Ха! В таком случае, теперь я знаю, как тебя нужно наказывать... Как тебе это!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5471
 translate crowdin alice_domine_drink_f8bdc8dd:
 
     # Max_05 "Ого! Эти офигенные сисечки всегда радуют мои глаза!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5472
 translate crowdin alice_domine_drink_796711e9:
 
     # Alice_06 "Ну ещё бы! Ты же наверняка их уже наизусть запомнил, пока подглядывал за мной в душе... Ведь я ловила тебя на этом так много раз, что даже страшно представить, сколько раз ты подглядывал за мной, пока я не видела!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5473
 translate crowdin alice_domine_drink_d3d28512:
 
     # Max_02 "Я бы сказал, соотношение примерно 50 на 50. Около того..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5475
 translate crowdin alice_domine_drink_47a27bae:
 
     # Alice_13 "Ну и что ты там, подглядывая в душе, мечтал со мной сделать, а Макс?! Признавайся!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5480
 translate crowdin alice_domine_drink_b8f1c5c0:
 
     # Alice_05 "И правильно! Твои похотливые мысли и фантазии обо мне должны таковыми и оставаться. Но это полбеды! В добавок к этому, что ты ещё должен?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5481
 translate crowdin alice_domine_drink_910c3a69:
 
     # Max_10 "Ай! Моё ухо! Наверно... не подглядывать за тобой..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5488
 translate crowdin alice_domine_drink_a46cd81a:
 
     # Alice_05 "Поближе, значит... Настолько ближе? Или ты хотел бы быть ещё ближе к моей груди?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5489
 translate crowdin alice_domine_drink_5d0d17a3:
 
     # Max_05 "О да! Я бы хотел ещё ближе!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5491
 translate crowdin alice_domine_drink_b60fd174:
 
     # Alice_07 "Какая жалость! Похоже, кто-то привязан к стулу и не может быть так близко ко мне, как ему хотелось... Должно быть, обидно?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5496
 translate crowdin alice_domine_drink_a3418458:
 
     # Alice_16 "Вот ещё! Такое мог попросить только очень плохой мальчик, который совершенно не понимает, как себя надо вести со своей госпожой!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5497
 translate crowdin alice_domine_drink_cb32de16:
 
     # Max_08 "А как надо?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5502
 translate crowdin alice_domine_drink_1001ec6a:
 
     # Alice_12 "Услужливо! Если ты ещё до сих пор это не усвоил, то я просто обязана тебя наказать... Как ты того и заслужил!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5503
 translate crowdin alice_domine_drink_b1b05964:
 
     # Max_10 "Эй! В смысле плёткой что ли?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5509
 translate crowdin alice_domine_drink_d6c3bcdd:
 
     # Alice_04 "Ох, я ценю такую услужливость, но твои похотливые мысли и фантазии обо мне должны таковыми и оставаться. В добавок к этому, что ты ещё должен?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5510
 translate crowdin alice_domine_drink_64ff5657:
 
     # Max_07 "Наверно... не подглядывать за тобой..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5517
 translate crowdin alice_domine_drink_7fe3c6f4:
 
     # Alice_03 "И правда! Ах, как приятно порой бывает сесть и расслабиться... Приятно, что ты не просто извращенец, а галантный извращенец!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5518
 translate crowdin alice_domine_drink_916f938b:
 
     # Max_04 "Таким стройным и красивым ножкам надо давать отдых."
+    ""
 
 # game/dialogues/alicetalk.rpy:5519
 translate crowdin alice_domine_drink_7c75c335:
 
     # Alice_08 "Ну а моя грудь... Не поверю, что ты хотел только любоваться!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5520
 translate crowdin alice_domine_drink_ce1b1967:
 
     # Max_02 "Не только! Я и без рук могу дарить приятные ощущения..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5526
 translate crowdin alice_domine_drink_63f01203:
 
     # Alice_07 "Смотри, Макс! Я не хочу разочаровываться... Ах-х! Это хорошо... Но если мне хоть что-то не понравится, то я..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5536
 translate crowdin alice_domine_drink_afraid_to_say_51dc47bd:
 
     # Alice_03 "А твоя штуковина, похоже, всё ещё считает иначе, как и ты! Или всё из-за того, что я глажу по нему своей плёткой? Учти, я могу сделать то, для чего она предназначена!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5537
 translate crowdin alice_domine_drink_afraid_to_say_3ff39e85:
 
     # Max_08 "Э-э-э... Может, не надо этого?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5538
 translate crowdin alice_domine_drink_afraid_to_say_aef33c3d:
 
     # Alice_07 "А может, наоборот, надо? Как думаешь, если я шлёпну по нему, то твоё возбуждение в миг исчезнет?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5539
 translate crowdin alice_domine_drink_afraid_to_say_9dab96f3:
 
     # Max_14 "Уверен, всё дело именно в том, что ты гладишь его!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5544
 translate crowdin alice_domine_drink_afraid_to_say_f51d7b9d:
 
     # Alice_05 "Тогда я, пожалуй, это прекращу и в следующий раз, если таковой будет, уже не буду такой... деликатной... Или ты хочешь уже сейчас пожёстче?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5545
 translate crowdin alice_domine_drink_afraid_to_say_d572dd23:
 
     # Max_13 "Нет-нет, не надо! Я этого не хочу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5546
 translate crowdin alice_domine_drink_afraid_to_say_b47c30be:
 
     # Alice_03 "Ха-ха... Боишься? Это хорошо... Так и должно быть, ты должен меня бояться!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5547
 translate crowdin alice_domine_drink_afraid_to_say_992e79da:
 
     # Alice_05 "В общем, я предупредила тебя в последний раз. Дальше всё зависит от тебя. Увижу, что подглядываешь - накажу или сама, или это будет мама! Понял меня?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5548
 translate crowdin alice_domine_drink_afraid_to_say_b6efeed9:
 
     # Max_11 "Понял-понял..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5554
 translate crowdin alice_domine_drink_afraid_to_say_832d4481:
 
     # Alice_12 "Это не шутка, Макс - я тебя предупредила! Всё, вали отсюда." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5567
 translate crowdin alice_domine_drink_caressing_tongue_2daa297f:
 
     # Alice_09 "[like!t]Ахх, Макс! Ты так приятно и нежно ласкаешь языком мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5575
 translate crowdin alice_domine_drink_caressing_tongue_281fa531:
 
     # Alice_08 "Охх... Да, Макс, ещё! Ммм... Хорошо... Не знаю где ты научился это делать, но получается у тебя... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5583
 translate crowdin alice_domine_drink_caressing_tongue_4a53814e:
 
     # Alice_16 "[dont_like!t]Ай! Ты слишком грубо это делаешь! Я люблю грубость, но не до такой же степени... Такое мог сделать только очень плохой мальчик, который совершенно не знает, как надо ублажать свою госпожу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5593
 translate crowdin alice_domine_drink_caressing_lips_2e84dff8:
 
     # Alice_09 "[like!t]Ахх, Макс! Ты так приятно и нежно посасываешь мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а..." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5601
 translate crowdin alice_domine_drink_caressing_lips_281fa531:
 
     # Alice_08 "Охх... Да, Макс, ещё! Ммм... Хорошо... Не знаю где ты научился это делать, но получается у тебя... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5609
 translate crowdin alice_domine_drink_caressing_lips_4a53814e:
 
     # Alice_16 "[dont_like!t]Ай! Ты слишком грубо это делаешь! Я люблю грубость, но не до такой же степени... Такое мог сделать только очень плохой мальчик, который совершенно не знает, как надо ублажать свою госпожу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5617
 translate crowdin alice_domine_drink_kiss_9d6bbf0d:
 
     # Max_20 "{m}Надеюсь, моего опыта поцелуев хватит, чтобы Алиса приятно удивилась... Она так страстно целуется и трётся о мой член, что вполне могла бы в порыве страсти взять и отсосать мне! Это было бы круто!{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5627
 translate crowdin alice_domine_drink_kiss_1d65d60e:
 
     # Max_19 "[like!t]{m}Эх, если бы мои руки не были привязаны к стулу, мне бы не пришлось так стараться и мои прикосновения завели её ещё сильнее. Но судя по тому, как сладко наши язычки играют с друг другом, у меня всё получается и так!{/m}"
+    ""
 
 # game/dialogues/alicetalk.rpy:5632
 translate crowdin alice_domine_drink_kiss_f5f2f359:
 
     # Alice_06 "Всё, Макс, я больше не могу! Эти шортики не должны мешать тому, что я хочу от тебя получить..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5633
 translate crowdin alice_domine_drink_kiss_b091f74a:
 
     # Max_03 "Оу... И что же это?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5634
 translate crowdin alice_domine_drink_kiss_bcca434a:
 
     # Alice_08 "Ни слова, Макс! Это должно остаться нашей тайной, ведь брат с сестрой не должны таким заниматься... Но я {b}ХОЧУ{/b}!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5639
 translate crowdin alice_domine_drink_kiss_15083d57:
 
     # Alice_09 "Ахх... Так намного лучше... Ммм... Он такой твёрдый и горячий! Я совсем сошла с ума, раз делаю такое... Ох, как же хорошо!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5640
 translate crowdin alice_domine_drink_kiss_f0c0b220:
 
     # Max_20 "Ухх... Это точно! Но почему бы не посходить с ума, если об этом никто не узнает?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5641
 translate crowdin alice_domine_drink_kiss_9d5fdb90:
 
     # Alice_11 "Вот именно! Д-а-а... Я хочу скользить киской по твоему мощному члену до тех пор, пока не кончу! Как приятно... Держись, Макс, ведь я буду это делать это всё быстрее и быстрее... Ах-х-х..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5650
 translate crowdin alice_domine_drink_kiss_cdcd1179:
 
     # Max_19 "{m}Да я этому только рад, сестрёнка! Как бы мне не кончить от её стонов и жарких поцелуев... Так можно ей всё удовольствие обломать, а после схлопотать вдогонку по заднице её стеком! Мне лучше и правда держаться, но как же это непросто...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5659
 translate crowdin alice_domine_drink_kiss_9e72ee84:
 
     # Alice_10 "Ох, Божечки! Макс! Я сейчас кончу... Д-а-а... Ммм... Ещё немножко и... Ах! Да-а-а... Как же это было классно! Ох..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5660
 translate crowdin alice_domine_drink_kiss_09ec5b74:
 
     # Max_05 "Вау, Алиса! Хорошо порезвилась?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5661
 translate crowdin alice_domine_drink_kiss_e903bfdb:
 
     # Alice_06 "Фух... Это было нечто... Макс... Я не совсем ЭТО планировала! Но..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5662
 translate crowdin alice_domine_drink_kiss_216d308b:
 
     # Max_02 "Но, может ты поможешь мне с кое-чем?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5667
 translate crowdin alice_domine_drink_kiss_4f93df2a:
 
     # Alice_05 "Ладно я, но вот ты точно не должен забывать, Макс, что мы тут делаем! Наказываем тебя!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5668
 translate crowdin alice_domine_drink_kiss_032fa13d:
 
     # Max_10 "Ну Алиса! Так нельзя..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5669
 translate crowdin alice_domine_drink_kiss_cce00283:
 
     # Alice_13 "Что нельзя, так это подглядывать за мной! Но знаешь, кое-чем я тебе всё же помогу..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5670
 translate crowdin alice_domine_drink_kiss_b757c018:
 
     # Max_07 "Правда?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5676
 translate crowdin alice_domine_drink_kiss_d00a5927:
 
     # Alice_05 "Отвяжу тебя от стула и ты сможешь уйти без какого-либо вреда для здоровья. А в остальном помоги себе сам! Всё, вали отсюда." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5684
 translate crowdin alice_domine_drink_kiss_9299017f:
 
     # Alice_16 "[dont_like!t]Макс! С чего ты взял, что мне понравится, если ты так грубо будешь напирать своим языком?! Такое мог сделать только очень плохой мальчик, который совершенно не знает, как надо себя вести со своей госпожой!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5688
 translate crowdin alice_domine_drink_how_should_cb32de16:
 
     # Max_08 "А как надо?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5693
 translate crowdin alice_domine_drink_how_should_2bdfa3d2:
 
     # Alice_12 "Приятно и нежно! Если ты так не умеешь, то я просто обязана тебя наказать... Как ты того и заслужил!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5694
 translate crowdin alice_domine_drink_how_should_b1b05964:
 
     # Max_10 "Эй! В смысле плёткой что ли?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5713
 translate crowdin alice_help_carry_plates_170dcbe9:
 
     # Alice_07 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5715
 translate crowdin alice_help_carry_plates_78889183:
 
     # Alice_07 "Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5723
 translate crowdin alice_help_carry_plates_9489751c:
 
     # Max_09 "{m}Вот зачем таскать эти тарелки на второй этаж, когда у нас есть прямо здесь, в гостиной, прекрасный большой стол?!{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5732
 translate crowdin alice_help_carry_plates_f1599bc0:
 
     # Max_07 "{m}Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5734
 translate crowdin alice_help_carry_plates_c0d8ea5b:
 
     # Max_07 "{m}Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться.{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5736
 translate crowdin alice_help_carry_plates_3d1a9524:
 
     # Max_07 "{m}А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5744
 translate crowdin alice_help_carry_plates_d89e30f0:
 
     # Max_02 "{m}Ну что, Эрик... Удачно тебе посидеть на унитазе. Думаю, тебе будет не скучно...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5752
 translate crowdin alice_help_carry_plates_ddbe426e:
 
     # Max_03 "{m}Надеюсь, сегодня Эрику никакие потрахушки не светят, благодаря этому средству. Если он сгорит со стыда, я только порадуюсь...{/m}" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5763
 translate crowdin alice_help_carry_plates_008120f8:
 
     # Alice_16 "Вот ты козлина, Макс!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5764
 translate crowdin alice_help_carry_plates_2edc33ad:
 
     # Max_01 "Заодно и попку разомнёшь, а то за своим ноутбуком слишком много сидишь."
+    ""
 
 # game/dialogues/alicetalk.rpy:5772
 translate crowdin alice_about_wallet_1fc2b461:
 
     # Alice_16 "Мне это не интересно, Макс!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5773
 translate crowdin alice_about_wallet_7fa286a3:
 
     # Max_07 "Э-э-э... Что не интересно?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5774
 translate crowdin alice_about_wallet_b528c3ce:
 
     # Alice_12 "Всё, с чем бы ты не пришёл. Просто уходи... Или врежу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5775
 translate crowdin alice_about_wallet_d249d4b4:
 
     # Max_09 "Ты что, поверила Эрику?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5776
 translate crowdin alice_about_wallet_1310eef7:
 
     # Alice_17 "А ты ещё здесь?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5777
 translate crowdin alice_about_wallet_3deff628:
 
     # Max_10 "Ладно. Всё понял. Ухожу."
+    ""
 
 # game/dialogues/alicetalk.rpy:5789
 translate crowdin smoke_after_wallet_aa2d0826:
 
     # Alice_12 "Нечего на меня тут глазеть, Макс! Иди отсюда. Или тебя поджопником ускорить?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5790
 translate crowdin smoke_after_wallet_8a0bacb0:
 
     # Max_09 "Ты, конечно, можешь это сделать... Но, знаешь кто вечером узнает, что ты продолжаешь курить?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5791
 translate crowdin smoke_after_wallet_b149a7c2:
 
     # Alice_16 "Не вздумай говорить маме!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5792
 translate crowdin smoke_after_wallet_4b38b441:
 
     # Max_07 "Запросто! Ты спишь голая, а я молчу. И всем хорошо..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5793
 translate crowdin smoke_after_wallet_02e0beca:
 
     # Alice_17 "Говнюк ты, Макс! Не знаю, зачем тебе, извращенцу, это нужно, но лучше я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
+    ""
 
 # game/dialogues/alicetalk.rpy:5794
 translate crowdin smoke_after_wallet_b5ff10cd:
 
     # Max_01 "Вот и отлично!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5796
 translate crowdin smoke_after_wallet_40b817ec:
 
     # Alice_13 "А теперь вали отсюда. Дай спокойно покурить!" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5806
 translate crowdin smoke_after_wallet_429c2af4:
 
     # Alice_17 "Тебя выпнуть, Макс, или сам отвалишь?" nointeract
+    ""
 
 # game/dialogues/alicetalk.rpy:5818
 translate crowdin alice_about_showdown_b4204cf5:
 
     # Alice_12 "Даже не знаю, как тебе сказать... Узнать, что кто-то приходит ночью и дрочит на тебя - довольно мерзко!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5819
 translate crowdin alice_about_showdown_ec63fe69:
 
     # Max_07 "Я как раз хотел поговорить с тобой об этом."
+    ""
 
 # game/dialogues/alicetalk.rpy:5820
 translate crowdin alice_about_showdown_aa4e88a7:
 
     # Alice_13 "Макс, ты меня прости, но сейчас я не настроена для разговора по-душам."
+    ""
 
 # game/dialogues/alicetalk.rpy:5821
 translate crowdin alice_about_showdown_26d0557c:
 
     # Max_10 "Понимаю. Но ты ведь не злишься за эти снимки?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5822
 translate crowdin alice_about_showdown_a7037251:
 
     # Alice_16 "Во-первых, удали их! А то я там голая... А во-вторых, злюсь. Я так понимаю, ты поэтому уговорил меня спать голой? Чтобы Эрика было на чём подловить..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5823
 translate crowdin alice_about_showdown_dfaf5e9e:
 
     # Max_09 "Да, всё верно. Вы же меня не слушали. Вот и приходилось его заманивать к тебе в комнату."
+    ""
 
 # game/dialogues/alicetalk.rpy:5824
 translate crowdin alice_about_showdown_19cc68f2:
 
     # Alice_06 "А если бы он меня взял и... сделал бы что-нибудь со мной?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5825
 translate crowdin alice_about_showdown_5fce1d0b:
 
     # Max_02 "Так он и сделал. Из-за этого ты ко мне и прибежала."
+    ""
 
 # game/dialogues/alicetalk.rpy:5826
 translate crowdin alice_about_showdown_9a5ab198:
 
     # Alice_17 "Макс! Ещё раз так пошутишь и я тебе врежу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5827
 translate crowdin alice_about_showdown_30688f5a:
 
     # Max_04 "Да ничего бы он такого дерзкого не сделал. Он же не в конец придурок. К тому же, если бы он распоясался, то я бы вмешался."
+    ""
 
 # game/dialogues/alicetalk.rpy:5828
 translate crowdin alice_about_showdown_a6730d12:
 
     # Alice_12 "И Макс, узнаю, что ты фотографируешь меня в душе или когда я сплю... Ты покойник..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5829
 translate crowdin alice_about_showdown_2c04e40c:
 
     # Max_03 "О! Хорошую мысль ты подкинула, спасибо."
+    ""
 
 # game/dialogues/alicetalk.rpy:5830
 translate crowdin alice_about_showdown_a07f89f9:
 
     # Alice_17 "Макс, я не шутила!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5831
 translate crowdin alice_about_showdown_7ae816d6:
 
     # Max_07 "Да ладно тебе. Какая-то ты напряжённая, моих шуток не понимаешь. Давай я тебя отвлеку чем-нибудь? Например, сходим и выберем тебе какое-нибудь нижнее бельё новенькое. Да и фоточки с ним можно будет красивые сделать. Как тебе?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5835
 translate crowdin alice_about_showdown_33337c7f:
 
     # Alice_12 "Даже не знаю, как тебе сказать... Узнать, что Эрик хотел сделать с нашей Лизой - довольно мерзко!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5836
 translate crowdin alice_about_showdown_ec63fe69_1:
 
     # Max_07 "Я как раз хотел поговорить с тобой об этом."
+    ""
 
 # game/dialogues/alicetalk.rpy:5837
 translate crowdin alice_about_showdown_8bb1d706:
 
     # Alice_06 "Ты молодец, Макс, что показал, как мы ошибались в Эрике. Уж не знаю, что бы тут без тебя произошло."
+    ""
 
 # game/dialogues/alicetalk.rpy:5841
 translate crowdin alice_about_showdown_c3bbc5ac:
 
     # Max_09 "Нууу... Я вот не знаю, показать тебе кое-что или нет."
+    ""
 
 # game/dialogues/alicetalk.rpy:5842
 translate crowdin alice_about_showdown_f055e52d:
 
     # Alice_17 "Если ты сейчас высунешь свою пипирку, то я тебе врежу!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5843
 translate crowdin alice_about_showdown_a83bcdd4:
 
     # Max_00 "Не это. Дело в том, что аудиозапись разговора с Эриком, это не всё, что у меня есть. У меня ещё есть фотография, как он дрочит на тебя, пока ты спишь."
+    ""
 
 # game/dialogues/alicetalk.rpy:5844
 translate crowdin alice_about_showdown_ae73099f:
 
     # Alice_14 "Макс, ты сейчас серьёзно?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5845
 translate crowdin alice_about_showdown_52b43e07:
 
     # Max_15 "Ага. Я как-то заметил его случайно со двора, ночью. Поближе подобрался и сфотографировал, как он стоит у твоего окна и шишку свою натирает."
+    ""
 
 # game/dialogues/alicetalk.rpy:5846
 translate crowdin alice_about_showdown_95f24655:
 
     # Alice_12 "Фу, Макс! Ты зачем мне это обрисовал. У меня теперь эта картина перед глазами стоит!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5847
 translate crowdin alice_about_showdown_3e6bc570:
 
     # Max_09 "Посмотреть снимок хочешь?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5848
 translate crowdin alice_about_showdown_ebf19ff3:
 
     # Alice_15 "Нет, конечно, сдурел что ли! Нашёл, что предлагать."
+    ""
 
 # game/dialogues/alicetalk.rpy:5852
 translate crowdin alice_about_showdown_54999ed3:
 
     # Max_09 "Ничего хорошего. Ты знаешь не всё. Я например видел, как Эрик дрочит на тебя, пока ты спишь."
+    ""
 
 # game/dialogues/alicetalk.rpy:5853
 translate crowdin alice_about_showdown_ae73099f_1:
 
     # Alice_14 "Макс, ты сейчас серьёзно?!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5854
 translate crowdin alice_about_showdown_02bbd577:
 
     # Max_15 "Ага. Я как-то заметил его случайно со двора, ночью. Хотел сфотографировать, но не успел. Он прямо у твоего окна стоял и шишку свою натирал."
+    ""
 
 # game/dialogues/alicetalk.rpy:5855
 translate crowdin alice_about_showdown_95f24655_1:
 
     # Alice_12 "Фу, Макс! Ты зачем мне это обрисовал. У меня теперь эта картина перед глазами стоит!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5856
 translate crowdin alice_about_showdown_d48585fb:
 
     # Max_09 "Был бы снимок - показал бы."
+    ""
 
 # game/dialogues/alicetalk.rpy:5857
 translate crowdin alice_about_showdown_db96b47f:
 
     # Alice_15 "Оно мне надо, такое видеть?! Сдурел что ли!"
+    ""
 
 # game/dialogues/alicetalk.rpy:5859
 translate crowdin alice_about_showdown_4125882f:
 
     # Max_07 "Да ладно тебе. Какая-то ты напряжённая. Давай я тебя отвлеку чем-нибудь? Например, сходим и выберем тебе какое-нибудь нижнее бельё новенькое. Да и фоточки с ним можно будет красивые сделать. Как тебе?"
+    ""
 
 # game/dialogues/alicetalk.rpy:5861
 translate crowdin alice_about_showdown_fce06d05:
 
     # Alice_06 "Звучит очень заманчиво, но я пока ещё не готова. Мне нужно время, чтобы отойти от того, что делал Эрик. Фууу..."
+    ""
 
 # game/dialogues/alicetalk.rpy:5862
 translate crowdin alice_about_showdown_fd54e914:
 
     # Max_01 "Конечно. Если что, зови."
-    new ""
+    ""
 
 translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:25
     old "{i}уйти{/i}"
-    new "{i}leave{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:67
     old "Ок..."
-    new "De Acuerdo..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:67
     old "Я хотел извиниться"
-    new "Quería disculparme"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:85
     old "Ты знаешь, я передумал..."
-    new "Ya sabes, cambié de opinión..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:106
     old "Давай, я домою остальное"
-    new "Vamos, que estoy en casa por el resto"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:106
     old "Нет, просто хотел поглазеть"
-    new "No, solo quería mirar"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:109
     old "{i}мыть посуду{/i}"
-    new "{i}lavar los platos{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:117
     old "{i}закончить{/i}"
-    new "{i}finish{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:137
     old "Нет, хотел просто больше узнать"
-    new "No, solo quería saber más"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:137
     old "Много подписчиков уже?"
-    new "¿Muchos seguidores ya?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:137
     old "Заработала уже на нём что-то?"
-    new "¿Ya te has ganado algo con él?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:140
     old "Расскажи, что ты там делаешь"
-    new "Cuéntanos qué estás haciendo allí"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:140
     old "Как планируешь развиваться?"
-    new "¿Cómo planeas desarrollarte?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:143
     old "Хитростями? А откуда ты сама всё это узнала?"
-    new "¿Trucos? ¿Y cómo supiste todo esto?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:143
     old "И что теперь без этих своих вещей делать будешь?"
-    new "¿Y ahora qué harás sin estas cosas?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:146
     old "Тема бьюти разве единственная?"
-    new "¿Es el tema de la belleza el único?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:146
     old "Понятно. Ну, и что теперь?"
-    new "Entiendo. ¿Y ahora qué?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:149
     old "Давай что-то придумаем вместе!"
-    new "¡Vamos a llegar a algo juntos!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:149
     old "Может быть, изменить твой блог?"
-    new "¿Tal vez cambiar tu blog?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:160
     old "Что, совсем всё пропало?"
-    new "¿Todo ha desaparecido por completo?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:160
     old "Постой, и что теперь будет?"
-    new "Espera, ¿y qué pasará ahora?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:163
     old "Может, это твоя фишка. Да и майка счастливая..."
-    new "Tal vez eso sea lo tuyo. Y la camiseta es feliz..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:163
     old "Разве это важно?"
-    new "¿Eso importa?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:166
     old "Да уж, грусть-печаль..."
-    new "Oh, tristeza-tristeza..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:166
     old "Тебе как-то можно помочь?"
-    new "¿Hay algo que puedas ayudar?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:182
     old "Нет. С чего ты взяла?"
-    new "No. ¿De dónde sacaste eso?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:182
     old "Ты о чём, вообще?"
-    new "¿Qué dices?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:188
     old "Да ладно?"
-    new "¿Vamos?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:188
     old "В курсе, конечно"
-    new "Lo sé, por supuesto"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:197
     old "Мне очень жаль..."
-    new "Lo sentimos..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:197
     old "И как тебе помочь?"
-    new "¿Y cómo puedo ayudarte?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:204
     old "Что пропало? Ты о чём?"
-    new "¿Qué falta? ¿Qué dices?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:204
     old "Ты о тех вещах во время переезда?"
-    new "¿Estás hablando de esas cosas durante la mudanza?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:209
     old "Да, печально..."
-    new "Sí, triste..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:209
     old "Тебе можно как-то помочь?"
-    new "¿Puedes obtener ayuda?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:215
     old "Может быть, попробуем вместе найти решение?"
-    new "¿Tal vez tratemos de encontrar una solución juntos?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:215
     old "Я обязательно придумаю, что можно с этим сделать"
-    new "Definitivamente descubriré qué se puede hacer al respecto"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:222
     old "Денег у меня нет..."
-    new "No tengo el dinero..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:222
     old "Я не детектив, чтобы искать вещи..."
-    new "No soy un detective para buscar cosas..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:225
     old "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
-    new "¿Vida? Pero eso es todo para bien. Tal casa, piscina, el lugar es genial!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:225
     old "Не грусти. Могло быть и хуже"
-    new "No te entristezes. Podría haber sido peor"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:225
     old "Может быть, зарабатывать на чём-то другом?"
-    new "¿Tal vez ganar dinero con otra cosa?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:228
     old "Ты всё ещё можешь. Может быть, просто смени формат блога"
-    new "Todavía puedes hacerlo. Tal vez solo cambie el formato del blog"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:244
     old "Ну, у меня много разных идей"
-    new "Bueno, tengo muchas ideas diferentes"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:244
     old "Советами!"
-    new "¡Consejos!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:261
     old "Может быть, заняться чем-то другим?"
-    new "¿Tal vez hacer algo más?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:270
     old "Мы можем с тобой вместе что-то придумать"
-    new "Podemos llegar a algo juntos"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:270
     old "Давай, я подумаю и, когда будут мысли, продолжим разговор"
-    new "Vamos, que lo pensaré y cuando haya pensamientos, continuemos la conversación"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:270
     old "Пока нет, но я подумаю что можно сделать"
-    new "Todavía no, pero pensaré en lo que se puede hacer"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:281
     old "Ну если придумаю что-то, то почему нет?"
-    new "Bueno, si se me ocurrió algo, ¿por qué no?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:281
     old "Конечно! Будет у нас семейный бизнес!"
-    new "¡Claro! ¡Tendremos un negocio familiar!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:281
     old "Ну, можно попробовать же?"
-    new "Bueno, ¿puedes probarlo?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:287
     old "Ну да, многие так делают!"
-    new "Bueno, sí, ¡muchos lo hacen!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:287
     old "Нет, из меня ведущий так себе..."
-    new "No, yo soy el que lidera el tan-tan..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:287
     old "Попробовать то можем?"
-    new "¿Podemos probarlo?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:304
     old "Постараюсь..."
-    new "lo intentaré..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:304
     old "Но ничего не обещаю"
-    new "Pero no prometo nada."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:304
     old "Обещаю, что-нибудь придумаю"
-    new "Prometo que se me ocurrirá algo."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:339
     old "Ну, давай смотреть всё подряд..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:339
     old "Тебе сделать массаж ног?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:367
     old "Хорошо {i}(начать массаж){/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:367
     old "Может конфетку перед массажем?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:381
     old "Почему ютуб? Это платные курсы..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:381
     old "Конечно! Я же научился..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:389
     old "Так тебе продемонстрировать или как?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:394
     old "Тебе понравится!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:428
     old "Хочу тебя!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:428
     old "Просто я такой хороший парень!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:428
     old "Ты узнаешь... В своё время..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:444
     old "От конфетки не поправишься!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:454
     old "Ну, хорошо {i}(начать массаж){/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:473
     old "{i}продолжить{/i}"
-    new "{i}continuar{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:504
     old "Может, ещё конфетку?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:504
     old "Тебе джинсы не мешают?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:504
     old "Тебе джинсы не мешают? Может, снять..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:504
     old "{i}высунуть член{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:504
     old "{i}закончить массаж{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:585
     old "Э... Я к тебе не подкатываю. Просто, жарко же..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:585
     old "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:618
     old "Почему?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:618
     old "Потому-что ты без трусиков?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:665
     old "{i}стянуть джинсы до конца{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:691
     old "{i}продолжить массаж{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:718
     old "{i}массировать её ноги выше{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:733
     old "{i}массировать ещё выше{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:745
     old "{i}ласкать её киску пальцами{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:760
     old "{i}ласкать её киску быстрее{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:760
     old "{i}не торопиться{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:829
     old "А почему на тебе трусики?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:846
     old "{i}стянуть с неё трусики и продолжить массаж{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:920
     old "Да, это будет на десерт..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:920
     old "{i}продолжать молча{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:923
     old "{i}попытаться приставать{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:923
     old "{i}продолжать массаж{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:941
     old "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1188
     old "{i}ласкать её киску через одежду{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1262
     old "{i}снять с Алисы трусики{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1262
     old "{i}снять с Алисы шортики{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1286
     old "{i}ласкать её киску языком{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1303
     old "{i}ещё быстрее работать языком{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1392
     old "{i}сдерживаться{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1451
     old "Спасибо, кэп!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1451
     old "Очень смешно..."
-    new "Muy divertido..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1451
     old "Это понятно, а какую? Только не говори, что бумажную..."
-    new "Es comprensible, pero ¿cuál? Simplemente no digas papel..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1462
     old "Не всё равно, раз спрашиваю"
-    new "No importa si pregunto"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1462
     old "Так ты скажешь или нет?"
-    new "¿Entonces dices o no?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1468
     old "Какой-то дамский роман?"
-    new "¿Alguna novela de damas?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1468
     old "Какие-то сопли с сахаром?"
-    new "¿Algún mo mo mo modo con azúcar?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1468
     old "Неужели справочник по квантовой механике?"
-    new "¿Es un manual de mecánica cuántica?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1477
     old "Ну и ладно!"
-    new "Está bien!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1477
     old "{i}узнать подробнее о \"Возможностях\"{/i}"
-    new "{i}más información sobre \"Características\"{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1494
     old "А если уйду, что мне за это будет?"
-    new "Y si me voy, ¿qué obtendré por ello?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1494
     old "Ну ок, только я ничего не обещаю..."
-    new "Está bien, pero no prometo nada..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Ну да. Мама что с тобой сделает, если узнает?"
-    new "Piensa que sí. ¿Mamá te hará si se entera?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Ну, мы можем договориться"
-    new "Bueno, podemos negociar"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Как знать, может быть..."
-    new "Quién sabe, tal vez..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Нет, конечно. Мне жизнь дорога!"
-    new "No, claro que no. ¡La vida es querida para mí!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Не хочешь расстраивать маму или получить по заднице?"
-    new "¿No quieres molestar a tu mamá o tener un?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Мы всё ещё можем договориться..."
-    new "Todavía podemos estar de acuerdo..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Посмотрим..."
-    new "Vale, vale..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Ну ладно, ладно..."
-    new "Está bien..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Если заплатишь, буду молчать"
-    new "Si pagas, guardaré silencio"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Покажи сиськи!"
-    new "¡Muestra tus tetas!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Сними трусы!"
-    new "¡Quítese las bragas!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Отсоси мне!"
-    new "¡Chúpeme!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Ты будешь мне должна услугу"
-    new "Me debes un favor"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1534
     old "Ну, давай"
-    new "Está bien, supongo"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1534
     old "Нет, этого мало..."
-    new "No, eso no es suficiente..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1541
     old "Так!"
-    new "So!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1541
     old "Как знать..."
-    new "Quién sabe..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1546
     old "Ну, как скажешь..."
-    new "Bueno, como dices..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Покажешь сиськи, когда попрошу..."
-    new "Muéstrame rebotes cuando te pregunte..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Разденешься, когда скажу..."
-    new "Te desensaste cuando te diga..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Отсосёшь, когда нужно будет..."
-    new "Sáctelo cuando lo necesite..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Я ещё не решил..."
-    new "Todavía no me he decidido..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1609
     old "Хорошо..."
-    new "Bien..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1622
     old "Да хотел узнать, что ты куришь?"
-    new "¿Querías saber lo que fumas?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1622
     old "Нет, ничего..."
-    new "No, nada..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1625
     old "Просто любопытно"
-    new "Simplemente curioso"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1625
     old "Для поддержания разговора"
-    new "Para mantener la conversación"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1625
     old "А, не важно..."
-    new "Ah, no importa..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1638
     old "Скучаешь о нём?"
-    new "¿Lo extrañas?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1638
     old "Может, и мне попробовать?"
-    new "¿Tal vez yo también pueda probarlo?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1645
     old "Может быть, тебе помочь?"
-    new "¿Tal vez ayudarte?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1645
     old "Ну и ладно..."
-    new "Está bien..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1649
     old "Ну, я попробую через интернет"
-    new "Bueno, lo probaré en línea"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1649
     old "Может быть..."
-    new "Tal vez..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1675
     old "А что взамен?"
-    new "¿Y a cambio?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1675
     old "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
-    new "Solo acordemos que no le contarás a tu mamá cómo te miré en la ducha..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1675
     old "Держи!"
-    new "Aquí tienes!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1707
     old "Нет, конечно!"
-    new "Por supuesto que no!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1712
     old "Дай $20, и я буду молчать"
-    new "Da $20 y estaré en silencio"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1712
     old "Если днём ты будешь ходить без трусов, буду молчать"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1712
     old "Если будешь курить без верха, буду молчать"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1712
     old "Если разрешишь тебя отшлёпать, ничего не скажу"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1712
     old "Ничего. Не переживай!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1733
     old "Угу..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Дай $20, и я ничего не скажу"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Если больше не будешь носить лифчик, буду молчать"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Если будешь курить без верха купальника, буду молчать"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
-    new "Si quieres que tu madre no sepa nada, caminarás sin jeans."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
-    new "Si me dejas darte una nalgada, ¡no diré nada!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Хочу, чтобы ты спала голой!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Ты знаешь, я сегодня добрый..."
-    new "Ya sabes, soy amable hoy ..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1765
     old "Нет. Или получаешь вечером по заднице или не одеваешь джинсы."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1770
     old "Конечно!"
-    new "¡Por supuesto!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1802
     old "Но сейчас тебя есть за что отшлёпать!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1808
     old "{i}подождать Алису{/i}"
-    new "{i}espera a Alice{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1845
     old "Что ты! Нет, конечно..."
-    new "¡Qué eres! No, claro que no..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1913
     old "Нет, давай $20"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1913
     old "Хорошо, устроит и $10"
-    new "Está bien, se adaptará y $ 10"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1929
     old "Удачи!"
-    new "¡Buena suerte!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1946
     old "{i}Ну, как скажешь...{/i}"
-    new "Bueno, como dices"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1960
     old "Доволен, конечно!"
-    new "¡Estoy satisfecho, por supuesto!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1960
     old "А чего ты прикрываешься?"
-    new "¿Y de qué te escondes?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1960
     old "Я передумал. Можешь одеться."
-    new "Cambié de opinión. Puedes vestirte."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1963
     old "Не переживай, не скажу"
-    new "No te preocupes, no diré"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1963
     old "Ну... это зависит от тебя!"
-    new "Bueno, depende de ti!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Ну, я перегнул палку..."
-    new "Bueno, fui demasiado lejos ..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Это мой шаг к дружбе"
-    new "Este es mi paso hacia la amistad"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Да надоела!"
-    new "¡Sí cansado!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Ты знаешь, пусть всё остаётся как есть..."
-    new "Ya sabes, deja que se quede como está..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:1989
     old "{i}свалить{/i}"
-    new "{i}ejecutar{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2022
     old "Ага..."
-    new "Ajá..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2035
     old "Ничего, просто любуюсь..."
-    new "Nada, solo admirando..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2035
     old "А ты чего в трусах?"
-    new "¿Y qué llevas en calzoncillos?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2035
     old "Я передумал. Можешь носить трусы..."
-    new "Cambié de opinión. Puedes usar bragas..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2041
     old "Мы же договорились - без трусов!"
-    new "Estuvimos de acuerdo, ¡sin bragas!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2041
     old "Да шучу я..."
-    new "Estoy bromeando..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2091
     old "Я передумал. Ты можешь спать в лифчике, если хочешь."
-    new "Cambié de opinión. Puedes dormir en un sostén si quieres."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2091
     old "Я передумал. Ты можешь спать в нижнем белье..."
-    new "Cambié de opinión. Puedes dormir en ropa interior..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2117
     old "Я передумал. Ты можешь носить свои джинсы, если захочешь."
-    new "Cambié de opinión. Puedes usar tus jeans si quieres."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2285
     old "Держи..."
-    new "Espera..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2285
     old "Не так быстро..."
-    new "Frena un poco"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2290
     old "Да ничего, просто держи..."
-    new "Nada, solo espera..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2290
     old "Устрой мне показ в нём..."
-    new "Dame un espectáculo en él..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2323
     old "Э... Хорошо..."
-    new "Este... De acuerdo..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2339
     old "Очень... очень хорошо..."
-    new "Mucho... Muy bien..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2339
     old "А можешь наклониться?"
-    new "¿Puedes agacharte?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2367
     old "Порылся в твоих вещах и нашёл, что читаешь!"
-    new "¡Hurgo en tus cosas y encontré lo que estabas leyendo!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2367
     old "Ну, я догадался! Я же умный!"
-    new "Bueno, ¡lo adiviné! ¡Soy inteligente!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2367
     old "Я и не знал. Просто угадал видимо..."
-    new "No sabía. Solo adivinado aparentemente..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2471
     old "Ага, я и не подглядываю..."
-    new "Sí, no estoy mirando..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2563
     old "Нет, просто хотел увидеть, как на тебе будет смотреться пижама..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2618
     old "Может быть, тебя намазать кремом для загара?"
-    new "¿Tal vez mancharse con protector solar?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2618
     old "{i}Предложить Алисе намазать её кремом{/i}"
-    new "{i}Sugiere que Alice unte su crema{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2618
     old "Ладно, загорай..."
-    new "Está bien, tomar el sol..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}нанести крем{/i}"
-    new "{i}aplicar crema{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}сделать массаж с кремом{/i}"
-    new "{i}masaje con crema{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\n"
 "крема недостаточно{/color}{/i}"
-    new "{i}{color=[gray]}masaje con crema{/color}{color=[red]}\n"
-"crema no es suficiente{/color}{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
-    new "{i}Maldita sea, la crema casi ha terminado... Vamos otra vez entonces... {/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2676
     old "{i}наносить крем молча{/i}"
-    new "{i}aplicar la crema en silencio{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2676
     old "А тебе нравится, что следы от лямок остаются?"
-    new "¿Te gusta que queden las huellas de las correas?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Массаж"
-    new "Masajes"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Массаж ступней"
-    new "Masaje de pies"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-    new "Este es un método único de masaje para tener un efecto curativo en el cuerpo. Es eficaz y al mismo tiempo fácil de ejecutar."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Массаж кистей рук"
-    new "Masaje de manos"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2829
     old "{i}массировать молча{/i}"
-    new "{i}masajear los hombros{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2854
     old "{i}выпустить рядом паука{/i}"
-    new "{i}suelta una araña junto a ella{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2983
     old "Что, стесняешься?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:2983
     old "Ну, как хочешь..."
-    new "Bueno, como quieras..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3056
     old "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
-    new "Sentémonos así, esperamos. Fuera se arrastra..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3056
     old "Спрячься за меня, хотя бы..."
-    new "Escóndete detrás de mí, al menos..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3056
     old "{i}потискать Алису за грудь{/i}"
-    new "{i}apretar los senos de Alice{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3189
     old "{i}убрать руки{/i}"
-    new "{i}quitar manos{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3189
     old "{i}тискать дальше...{/i}"
-    new "{i}apretar... {/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3327
     old "Да я же случайно оказался около душа..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3733
     old "Хочется надеяться, что так и будет..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3817
     old "Именно на это я и надеюсь..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:3901
     old "Только если без последующего насилия..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Ты мне кое-что показала..."
-    new "Me mostraste algo..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Ты мне кое-что сделала..."
-    new "Me mostraste algo..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Мы делали кое-что..."
-    new "Hicimos algo..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Да, ну извини..."
-    new "Sí, bueno, lo siento..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4166
     old "Ничего..."
-    new "Nada..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4166
     old "Может, попозируешь для меня..."
-    new "Tal vez preguntes por mí..."
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4202
     old "Ну что, примеришь при мне?"
-    new "Bueno, ¿probarlo conmigo?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4502
     old "{i}подглядывать{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4502
     old "{i}ждать{/i}"
-    new "{i}espera{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4600
     old "Ладно, как знаешь..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4696
     old "{i}стянуть верх купальника{/i}"
-    new "{i}quitarse la parte superior del traje de baño{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4702
     old "{i}стянуть низ купальника{/i}"
-    new "{i}quitarse la parte superior del traje de baño{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4709
     old "{i}шлёпать сильно{/i}"
-    new "{i}bofetada fuerte{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4796
     old "{i}шлёпать нежно{/i}"
-    new "{i}azote suavemente{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4804
     old "И как, тебе нравится?"
-    new "Y como, ¿te gusta?"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4804
     old "Могу сильнее, раз ты заскучала!"
-    new "¡Puedo hacerlo más difícil, ya que estás aburrido!"
+    new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4949
     old "{i}идти за Алисой{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:4961
     old "{i}войти в комнату{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5081
     old "Конфетка, я полагаю, тоже не спасёт. Но я всё равно предложу..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5193
     old "Давай уже быстрее с этим покончим..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5193
     old "Ты же понимаешь, что я могу всыпать по твоей заднице в ответ?"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5201
     old "{i}подчиниться{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5201
     old "Да пошла ты!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5233
     old "{i}одеться и уйти{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5276
     old "Конфетку? Она ни к чему не обязывает. Просто признание моей испорченности..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5276
     old "То же мне, преступника нашла..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5294
     old "Хотя, знаешь... Я передумал. Лучше уж от мамы получить..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5328
     old "{i}снять одежду{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5339
     old "Ничего. Подождёшь, не развалишься..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5346
     old "Накажи меня! Я это заслужил..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5346
     old "Давай уже быстрее, тебя ждём..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5353
     old "Да, я виноват и меня нужно наказать!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5385
     old "Вертел я тебя знаешь на чём?!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5474
     old "Как-то мне страшно это озвучивать..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5474
     old "Для начала, я бы полюбовался твоими прелестями поближе!"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5490
     old "А ты меня развяжи и мы это исправим..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5490
     old "Раз я привязан, то на меня можно очень удобно присесть..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5525
     old "{i}ласкать её грудь языком{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5525
     old "{i}ласкать её грудь губами{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5566
     old "{i}продолжить ласкать{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5574
     old "{i}целоваться с Алисой{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5616
     old "{i}пытаться впечатлить{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5649
     old "{i}дать Алисе кончить{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5717
     old "Ага, не вопрос. Сделаю."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5717
     old "Нет, лучше давай сама..."
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5722
     old "{i}отнести тарелки на веранду{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5737
     old "{i}приступить к ужину{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5737
     old "{i}подмешать Эрику в тарелку слабительное{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5737
     old "{i}подмешать Эрику в тарелку успокоительное{/i}"
     new ""
+#--- ""
 
     # game/dialogues/alicetalk.rpy:5779
     old "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
     new ""
+#--- ""
 

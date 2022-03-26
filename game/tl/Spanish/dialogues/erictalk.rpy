@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:18\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -504,51 +504,61 @@ translate crowdin lessons_from_Eric_fourth_visit_fa9a17f5:
 translate crowdin lessons_from_Eric_fourth_visit_5499a427:
 
     # Eric_01 "Ну, как сказать... Вообще-то, того, что мы тебе до этого показали, более чем достаточно. На этом всё, Макс."
+    ""
 
 # game/dialogues/erictalk.rpy:337
 translate crowdin lessons_from_Eric_fourth_visit_ea18ead2:
 
     # Ann_14 "Да, сынок. Дальше ты уже сам разберёшься, что и как. Поэтому постарайся нас не беспокоить по пустякам, хорошо?"
+    ""
 
 # game/dialogues/erictalk.rpy:338
 translate crowdin lessons_from_Eric_fourth_visit_c7465eb5:
 
     # Max_08 "Ну, ладно. Как скажешь, мам." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:349
 translate crowdin lessons_from_Eric_fourth_visit_87030dec:
 
     # Max_09 "{m}Хм... Значит, это ВСЁ говорите... Нет, такое меня не устраивает. Здесь облом. С Алисой тоже непонятно, ведь Эрику может и не понадобится моя помощь с ней. Может, хоть с Лизой будут какие-то перспективы...{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:354
 translate crowdin lessons_from_Eric_fourth_visit_63b985ee:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Нужно понять, всё дело в Эрике или маме!{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:357
 translate crowdin lessons_from_Eric_fourth_visit_463416a1:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Но, я уже знаю, почему... А значит нужно побольше сблизится с мамой и тогда, может быть, получится уговорить её на кое-какие \"образовательные\" уроки.{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:363
 translate crowdin lessons_from_Eric_fourth_visit_8be9de5b:
 
     # Max_09 "{m}Хм... Значит, это ВСЁ говорите... А вот я так не считаю! Эрик сам сказал, что я могу попросить что-нибудь за то, что помог с Лизой. И я уже знаю, что попросить...{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:368
 translate crowdin lessons_from_Eric_fourth_visit_63b985ee_1:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Нужно понять, всё дело в Эрике или маме!{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:371
 translate crowdin lessons_from_Eric_fourth_visit_463416a1_1:
 
     # Max_09 "{m}Хм... Всё, так всё. Пришлось, конечно, насмотреться, как мама делает Эрику минет и так, и этак, но зато было видно, до какой степени она его слушается. Но, я уже знаю, почему... А значит нужно побольше сблизится с мамой и тогда, может быть, получится уговорить её на кое-какие \"образовательные\" уроки.{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:374
 translate crowdin lessons_from_Eric_fourth_visit_c96b2882:
 
     # Max_09 "{m}Хм... Меня совершенно не устраивает такая дружба с Эриком! Если это действительно {b}ВСЁ{/b}, что я буду иметь с этой дружбы, то зачем он тут сдался? Пожалуй, стоит немного подождать и посмотреть, как он собирается пудрить мозги моим сёстрам... Тогда и станет ясно, светит мне что-нибудь там или нет.{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:395
 translate crowdin Eric_talk_about_Lisa_0_77426e44:
@@ -1256,16 +1266,19 @@ translate crowdin Eric_talk_about_Kira_1_c1884aa1:
 translate crowdin Eric_talk_about_Kira_1_92183915:
 
     # Eric_02 "Ну, спорить с этим не буду. Но ты, вроде как, хотел возобновить шоу со своей мамой?"
+    ""
 
 # game/dialogues/erictalk.rpy:709
 translate crowdin Eric_talk_about_Kira_1_fd7af465:
 
     # Max_07 "Точно! Хочу возобновить шоу с мамой в очках для сна!"
+    ""
 
 # game/dialogues/erictalk.rpy:710
 translate crowdin Eric_talk_about_Kira_1_b808aecd:
 
     # Eric_01 "Хорошо, Макс. Как скажешь."
+    ""
 
 # game/dialogues/erictalk.rpy:711
 translate crowdin Eric_talk_about_Kira_1_90c46fa5:
@@ -1277,36 +1290,43 @@ translate crowdin Eric_talk_about_Kira_1_90c46fa5:
 translate crowdin Eric_talk_about_Kira_1_99319513:
 
     # Eric_01 "Да, Макс, тянуло бы... Если бы ты не обломал мой подарок для Алисы! Но за то, что ты подогнал мне Киру на блюдечке, я тебя прощаю и даже даю возможность попросить что-либо. Но ты, вроде как, хотел возобновить шоу со своей мамой?"
+    ""
 
 # game/dialogues/erictalk.rpy:716
 translate crowdin Eric_talk_about_Kira_1_fd7af465_1:
 
     # Max_07 "Точно! Хочу возобновить шоу с мамой в очках для сна!"
+    ""
 
 # game/dialogues/erictalk.rpy:717
 translate crowdin Eric_talk_about_Kira_1_63295c66:
 
     # Eric_01 "Хорошо, Макс. Как скажешь. Но денег от меня ты больше получать не будешь, а то я наспонсирую себе проблем."
+    ""
 
 # game/dialogues/erictalk.rpy:721
 translate crowdin Eric_talk_about_Kira_1_153dc910:
 
     # Max_11 "Ладно, давай так." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:730
 translate crowdin Eric_talk_about_Kira_1_0c0c1bbe:
 
     # Eric_02 "Ну, спорить с этим не буду. Мы, вроде как, договорились о шоу с твоей мамой?"
+    ""
 
 # game/dialogues/erictalk.rpy:731
 translate crowdin Eric_talk_about_Kira_1_01036b8a:
 
     # Max_07 "Точно! Хочу шоу с мамой в очках для сна!"
+    ""
 
 # game/dialogues/erictalk.rpy:732
 translate crowdin Eric_talk_about_Kira_1_b808aecd_1:
 
     # Eric_01 "Хорошо, Макс. Как скажешь."
+    ""
 
 # game/dialogues/erictalk.rpy:733
 translate crowdin Eric_talk_about_Kira_1_90c46fa5_1:
@@ -1318,21 +1338,25 @@ translate crowdin Eric_talk_about_Kira_1_90c46fa5_1:
 translate crowdin Eric_talk_about_Kira_1_5a7bd4f7:
 
     # Eric_01 "Да, Макс, тянуло бы... Если бы ты не обломал мой подарок для Алисы! Но за то, что ты подогнал мне Киру на блюдечке, я тебя прощаю и даже даю возможность попросить что-либо. Но мы, вроде как, договорились о шоу с твоей мамой?"
+    ""
 
 # game/dialogues/erictalk.rpy:738
 translate crowdin Eric_talk_about_Kira_1_01036b8a_1:
 
     # Max_07 "Точно! Хочу шоу с мамой в очках для сна!"
+    ""
 
 # game/dialogues/erictalk.rpy:739
 translate crowdin Eric_talk_about_Kira_1_63295c66_1:
 
     # Eric_01 "Хорошо, Макс. Как скажешь. Но денег от меня ты больше получать не будешь, а то я наспонсирую себе проблем."
+    ""
 
 # game/dialogues/erictalk.rpy:743
 translate crowdin Eric_talk_about_Kira_1_153dc910_1:
 
     # Max_11 "Ладно, давай так." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:758
 translate crowdin Eric_tribute_936f5724:
@@ -1374,6 +1398,7 @@ translate crowdin Eric_tribute_6795eebc:
 translate crowdin Eric_tribute_no_money_e6e6f0f4:
 
     # Eric_09 "Эх, Макс... Ну вот ни черта с тебя толку нет. Только подумал, что ты можешь принести хоть какую-то пользу... Свали с глаз моих!"
+    ""
 
 # game/dialogues/erictalk.rpy:781
 translate crowdin Eric_tribute_no_money_70d7eeaa:
@@ -1409,256 +1434,307 @@ translate crowdin Eric_with_dictaphone_210d83ab:
 translate crowdin Eric_with_dictaphone_9dfe8aef:
 
     # Eric_02 "И о чём таком мы с тобой можем договориться?"
+    ""
 
 # game/dialogues/erictalk.rpy:808
 translate crowdin Eric_with_dictaphone_39024e04:
 
     # Max_15 "Раз ты меня обвинил в воровстве бумажника, то и оправдать можешь..."
+    ""
 
 # game/dialogues/erictalk.rpy:810
 translate crowdin Eric_with_dictaphone_8f068430:
 
     # Eric_07 "И с какой стати мне тебя оправдывать?" nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:812
 translate crowdin Eric_with_dictaphone_cdac9939:
 
     # Eric_04 "Дело, Макс, не в деньгах. А в том, что такому воришке и бездельнику, как ты, здесь не место."
+    ""
 
 # game/dialogues/erictalk.rpy:813
 translate crowdin Eric_with_dictaphone_27a885e0:
 
     # Max_09 "А может это тебе здесь не место?"
+    ""
 
 # game/dialogues/erictalk.rpy:814
 translate crowdin Eric_with_dictaphone_71008328:
 
     # Eric_05 "Сам подумай... Твоя семья меня любит и уважает, да и обеспечить я их смогу без проблем. А вот ты - большое разочарование для них."
+    ""
 
 # game/dialogues/erictalk.rpy:815
 translate crowdin Eric_with_dictaphone_e9c20a7f:
 
     # Max_16 "Это только потому, что ты меня подставил!"
+    ""
 
 # game/dialogues/erictalk.rpy:816
 translate crowdin Eric_with_dictaphone_bbaeb3f4:
 
     # Eric_06 "Ну, Макс... Надо было не мешать мне с планами по развращению твоей семьи. И был бы ты сейчас в шоколаде. А так..." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:819
 translate crowdin Eric_with_dictaphone_da084f59:
 
     # Eric_04 "Шантажировать меня решил? Твой блеф ничего не изменит и тебе придётся вернуть мне деньги. Или же бюджетный вариант - военный лагерь."
+    ""
 
 # game/dialogues/erictalk.rpy:820
 translate crowdin Eric_with_dictaphone_a6187998:
 
     # Max_07 "А как же то, что ты любишь потереть шишку на Алису?"
+    ""
 
 # game/dialogues/erictalk.rpy:821
 translate crowdin Eric_with_dictaphone_fadbb170:
 
     # Eric_05 "Понятия не имею о чём ты говоришь. А тебя эти извращенские и влажные фантазии только ещё больше не красят."
+    ""
 
 # game/dialogues/erictalk.rpy:822
 translate crowdin Eric_with_dictaphone_7754fb83:
 
     # Max_09 "Фантазии фантазиями, а вот фотоснимки - это уже совершенно другое."
+    ""
 
 # game/dialogues/erictalk.rpy:823
 translate crowdin Eric_with_dictaphone_824ffff7:
 
     # Eric_06 "Нет у тебя, Макс, никаких фотоснимков. И если ты даже что-то там нафотошопил, правдой это не станет."
+    ""
 
 # game/dialogues/erictalk.rpy:824
 translate crowdin Eric_with_dictaphone_4c2c47ee:
 
     # Max_07 "Думаешь, у мамы и Алисы не появятся сомнения на счёт тебя, после того, как они увидят эти снимки?"
+    ""
 
 # game/dialogues/erictalk.rpy:825
 translate crowdin Eric_with_dictaphone_fef296d0:
 
     # Eric_07 "Макс, ты может не в курсе, но для твоей мамы я самый любимый мужчина. И сёстры твои от меня в восторге. А ты тот, кто её очень сильно разочаровал и за кого ей сейчас стыдно." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:829
 translate crowdin Eric_with_dictaphone_42a46437:
 
     # Eric_03 "О, не переживай, у твоей мамы будет всё самое лучшее. И давай маму не расстраивай, шуруй сапоги чисти, скоро в лагерь."
+    ""
 
 # game/dialogues/erictalk.rpy:830
 translate crowdin Eric_with_dictaphone_26629fad:
 
     # Max_17 "Да пошёл ты..."
+    ""
 
 # game/dialogues/erictalk.rpy:839
 translate crowdin Eric_with_dictaphone_3a815690:
 
     # Max_14 "[bad_mission!t]{m}Вот блин! Ничего толкового я из него не вытянул. Этого явно будет мало, чтобы на него начали хотя бы подозрительно смотреть. Похоже, это конец...{/m}" nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:849
 translate crowdin Eric_with_dictaphone_8b94a697:
 
     # Lisa_12 "Вот ты где! Ты оказывается не только бумажники воруешь, но ещё и телефоны! Ну-ка отдал... Быстро! Или маме рассказать?" nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:853
 translate crowdin Eric_with_dictaphone_5e5e5db9:
 
     # Lisa_13 "Больше даже близко не подходи к моему телефону! И ко мне тоже." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:857
 translate crowdin Eric_with_dictaphone_fde14d10:
 
     # {color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+    ""
 
 # game/dialogues/erictalk.rpy:861
 translate crowdin Eric_with_dictaphone_b4b1461d:
 
     # Eric_03 "Уже получил, Макс! И если ты ещё до сих пор не осознал, то для тебя уже всё потеряно и на днях ты отправишься маршировать, а я наконец получу всё, что хотел."
+    ""
 
 # game/dialogues/erictalk.rpy:862
 translate crowdin Eric_with_dictaphone_f5b8245a:
 
     # Max_10 "Не трогай хотя бы Лизу! Она ведь ещё младше меня."
+    ""
 
 # game/dialogues/erictalk.rpy:863
 translate crowdin Eric_with_dictaphone_84c7d60f:
 
     # Eric_08 "Ты что, на Лизу у меня самые... особые планы. Ведь она в таком возрасте, когда её легко можно воспитать под себя на такой разврат и утехи, на которые не удастся развести ни твою маму, ни Алису."
+    ""
 
 # game/dialogues/erictalk.rpy:864
 translate crowdin Eric_with_dictaphone_c1653118:
 
     # Max_09 "Воспитать Лизу под себя? У тебя это ни за что не получится. Лиза не такая!"
+    ""
 
 # game/dialogues/erictalk.rpy:865
 translate crowdin Eric_with_dictaphone_0f17c3cf:
 
     # Eric_05 "Вот свалишь ты в лагерь и без твоих вмешательств у меня всё наладится! Я уже предвкушаю, как старательно Лиза будет надрачивать мне своими нежными ручками... А затем мы перейдём к следующему шагу. То ли ещё будет!"
+    ""
 
 # game/dialogues/erictalk.rpy:866
 translate crowdin Eric_with_dictaphone_9b4d53c3:
 
     # Max_08 "К какому ещё шагу?"
+    ""
 
 # game/dialogues/erictalk.rpy:867
 translate crowdin Eric_with_dictaphone_2c100bd9:
 
     # Eric_06 "При котором она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!"
+    ""
 
 # game/dialogues/erictalk.rpy:868
 translate crowdin Eric_with_dictaphone_67186cad:
 
     # Max_15 "Вот ты больной ублюдок!"
+    ""
 
 # game/dialogues/erictalk.rpy:869
 translate crowdin Eric_with_dictaphone_9740bacb:
 
     # Eric_01 "Старшим грубить - нехорошо. Давай-ка проваливай и подумай над своим поведением хорошенько."
+    ""
 
 # game/dialogues/erictalk.rpy:870
 translate crowdin Eric_with_dictaphone_26629fad_1:
 
     # Max_17 "Да пошёл ты..."
+    ""
 
 # game/dialogues/erictalk.rpy:880
 translate crowdin Eric_with_dictaphone_9ddf8dae:
 
     # Max_03 "[good_mission!t]{m}Отлично! Самое главное я записал, а именно его планы относительно нашей маленькой Лизы. Этого должно хватить, чтобы на него начали не просто подозрительно смотреть, а выгнали ко всем чертям...{/m}" nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:895
 translate crowdin Eric_talk_about_Lisa_3_58112272:
 
     # Eric_01 "Ты что-то хотел, Макс? Спрашивай..."
+    ""
 
 # game/dialogues/erictalk.rpy:896
 translate crowdin Eric_talk_about_Lisa_3_6ec16737:
 
     # Max_08 "Да, знаешь, я подглядывал за вашими с Лизой уроками и подумал... А ничего, что она ещё маленькая?"
+    ""
 
 # game/dialogues/erictalk.rpy:897
 translate crowdin Eric_talk_about_Lisa_3_2e69e3bf:
 
     # Eric_05 "Ты что! То, что она ещё такая юная - это вообще бомба. Прямо то, что надо для полного счастья!"
+    ""
 
 # game/dialogues/erictalk.rpy:898
 translate crowdin Eric_talk_about_Lisa_3_d4b10974:
 
     # Max_07 "Это понятно. Я о другом... Вас же всё равно, рано или поздно, кто-нибудь увидит. А если даже и нет, то что будет, когда Лиза кому-нибудь об этом разболтает?"
+    ""
 
 # game/dialogues/erictalk.rpy:899
 translate crowdin Eric_talk_about_Lisa_3_4ecceec3:
 
     # Eric_09 "Хм... Нет, я с ней поработаю и она будет держать это втайне."
+    ""
 
 # game/dialogues/erictalk.rpy:900
 translate crowdin Eric_talk_about_Lisa_3_67167989:
 
     # Max_09 "Просто, я хорошо знаю Лизу и она мне разболтала несколько секретов, хотя мы были не так близки, как сейчас. А у вас с ней секрет очень... наказуемый... Из-за его раскрытия можно всё потерять!"
+    ""
 
 # game/dialogues/erictalk.rpy:901
 translate crowdin Eric_talk_about_Lisa_3_5ff62a9d:
 
     # Eric_10 "Эх, как-то я об этом не подумал..."
+    ""
 
 # game/dialogues/erictalk.rpy:902
 translate crowdin Eric_talk_about_Lisa_3_999fc9b3:
 
     # Max_07 "Смотри... Я тебе по дружески эти опасения высказал. Если ты на все 150%% уверен, что вам удастся сохранить это в тайне, то пожалуйста. Но тебе потом от этого отмыться не удастся, если что."
+    ""
 
 # game/dialogues/erictalk.rpy:903
 translate crowdin Eric_talk_about_Lisa_3_d9d496ce:
 
     # Eric_16 "Блин, рискованно! А так хочется! Вот какой же ты, Макс... Всю малину растоптал..."
+    ""
 
 # game/dialogues/erictalk.rpy:904
 translate crowdin Eric_talk_about_Lisa_3_90215746:
 
     # Max_09 "А я не знаю, почему ты об этом не подумал. Видимо, из-за обилия перспектив с моей семьёй, ты совсем перестал думать тем, чем надо. Это будет невероятное везение, если тебя за это не посадят."
+    ""
 
 # game/dialogues/erictalk.rpy:905
 translate crowdin Eric_talk_about_Lisa_3_c9d70062:
 
     # Eric_09 "Что теперь с Лизой делать... Если эти уроки прекратить в самом начале, она может начать задавать вопросы тем, кому не надо."
+    ""
 
 # game/dialogues/erictalk.rpy:906
 translate crowdin Eric_talk_about_Lisa_3_f9b2bcd6:
 
     # Max_07 "Ну, я попробую взять её на себя. Чем-нибудь, да займу её. К тому же, она же не всегда будет маленькой. Подрастёт и можно будет с ней делать всё, что захочется! И без такой лютой опаски. А с остальными членами моей семьи я тебе помогу, как и договаривались."
+    ""
 
 # game/dialogues/erictalk.rpy:907
 translate crowdin Eric_talk_about_Lisa_3_72418067:
 
     # Eric_06 "Ладно, Макс, повезло тебе. Отдам Лизу на твоё попечение. Сейчас я ей объясню, что ты прекрасно справишься с этим обучением, а дальше уже твои проблемы. Возись с ней сам. У меня зато больше времени на другие киски будет..."
+    ""
 
 # game/dialogues/erictalk.rpy:908
 translate crowdin Eric_talk_about_Lisa_3_7def813d:
 
     # Max_08 "Ого! Спасибо! Я за ней присмотрю." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:919
 translate crowdin Eric_talk_about_Lisa_3_36c2b900:
 
     # Max_11 "{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
+    ""
 
 # game/dialogues/erictalk.rpy:931
 translate crowdin Eric_bonus_for_Lisa_f73c4a0a:
 
     # Eric_04 "Какую ещё премию, парень?! С Лизой ты мне, конечно, помог, только ведь она теперь отдана на поруки ТЕБЕ. Вот и считай это премией."
+    ""
 
 # game/dialogues/erictalk.rpy:932
 translate crowdin Eric_bonus_for_Lisa_c2636588:
 
     # Max_10 "Обидно, конечно. Но я понял."
+    ""
 
 # game/dialogues/erictalk.rpy:933
 translate crowdin Eric_bonus_for_Lisa_53a711aa:
 
     # Eric_03 "Но, если вдруг, например, ты будешь располагать крайне полезной для меня информацией, в отношении твоей семьи, то у тебя будут ещё премиальные."
+    ""
 
 # game/dialogues/erictalk.rpy:934
 translate crowdin Eric_bonus_for_Lisa_373c87f8:
 
     # Max_07 "Так у меня уже есть такая информация для тебя. О моей тёте Кире."
+    ""
 
 # game/dialogues/erictalk.rpy:935
 translate crowdin Eric_bonus_for_Lisa_a0b9d0c1:
@@ -1742,6 +1818,7 @@ translate crowdin Eric_bonus_for_Lisa_e0b3dd08:
 translate crowdin Eric_bonus_for_Lisa_fdd8e06e:
 
     # Max_09 "Значит, такая информация тянет на премию?"
+    ""
 
 # game/dialogues/erictalk.rpy:949
 translate crowdin Eric_bonus_for_Lisa_9942b3b4:
@@ -1789,131 +1866,157 @@ translate crowdin Eric_bonus_for_Lisa_840a0cb4:
 translate crowdin Eric_bonus_for_Lisa_176f968d:
 
     # Max_03 "Если я получу премию, то подыграю."
+    ""
 
 # game/dialogues/erictalk.rpy:957
 translate crowdin Eric_bonus_for_Lisa_326a2cf3:
 
     # Eric_02 "Само собой, Макс. Выкладывай, если решил, чего хочешь."
+    ""
 
 # game/dialogues/erictalk.rpy:961
 translate crowdin Eric_bonus_for_Lisa_869907d3:
 
     # Eric_02 "Выкладывай, если решил, чего хочешь."
+    ""
 
 # game/dialogues/erictalk.rpy:962
 translate crowdin Eric_bonus_for_Lisa_f5b3af6e:
 
     # Max_07 "Я... Я хотел бы смотреть, как вы с мамой трахаетесь! При чём, так сказать, с первых рядов..."
+    ""
 
 # game/dialogues/erictalk.rpy:963
 translate crowdin Eric_bonus_for_Lisa_9b8cd369:
 
     # Eric_03 "И что ты, мелкий извращенец, подразумеваешь под \"первыми рядами\"?"
+    ""
 
 # game/dialogues/erictalk.rpy:964
 translate crowdin Eric_bonus_for_Lisa_e3ea4723:
 
     # Max_09 "Быть прямо в комнате. Как на тех уроках, где мама отсасывала тебе."
+    ""
 
 # game/dialogues/erictalk.rpy:965
 translate crowdin Eric_bonus_for_Lisa_47defc6f:
 
     # Eric_09 "Смело просить такое! А ты, парень, случаем на солнышке не перегрелся сегодня днём? Нет, я конечно польщён, что ты считаешь меня настолько крутым, но лучше подумай о каких-нибудь... более реальных просьбах."
+    ""
 
 # game/dialogues/erictalk.rpy:966
 translate crowdin Eric_bonus_for_Lisa_62140d11:
 
     # Max_08 "Почему? Ты же каким-то образом уговорил мою маму отсасывать тебе, пока я смотрю во всех подробностях!"
+    ""
 
 # game/dialogues/erictalk.rpy:967
 translate crowdin Eric_bonus_for_Lisa_cce9de36:
 
     # Eric_04 "Так это одно... И даже с этим было не всё так просто, как тебе думается. А ты сейчас просишь запредельного. Не смотря на все внешние прелести твоей мамы, характер у неё довольно сложный, особенно, что касается её детей."
+    ""
 
 # game/dialogues/erictalk.rpy:968
 translate crowdin Eric_bonus_for_Lisa_b51621dc:
 
     # Max_11 "То есть, это невозможно?"
+    ""
 
 # game/dialogues/erictalk.rpy:969
 translate crowdin Eric_bonus_for_Lisa_5b534c40:
 
     # Eric_01 "Я бы не сказал. Это вполне возможно, просто... Чтобы настроить твою маму на то, что ты просишь, уйдёт много времени и моих стараний, а ты ведь не хочешь долго ждать, верно?"
+    ""
 
 # game/dialogues/erictalk.rpy:970
 translate crowdin Eric_bonus_for_Lisa_b9e56a5b:
 
     # Max_10 "Ну, да. Ты ведь можешь с этим сколько угодно тянуть, а я в дураках буду сидеть и ждать."
+    ""
 
 # game/dialogues/erictalk.rpy:971
 translate crowdin Eric_bonus_for_Lisa_aa1d7b5e:
 
     # Eric_02 "Вот... Поэтому, я предлагаю тебе альтернативу, Макс. Будет тебе то, что ты просишь, но с рядом нюансов."
+    ""
 
 # game/dialogues/erictalk.rpy:972
 translate crowdin Eric_bonus_for_Lisa_724db350:
 
     # Max_09 "И что за нюансы такие?"
+    ""
 
 # game/dialogues/erictalk.rpy:973
 translate crowdin Eric_bonus_for_Lisa_127c681f:
 
     # Eric_05 "Во-первых, она не будет знать, что ты находишься в комнате."
+    ""
 
 # game/dialogues/erictalk.rpy:974
 translate crowdin Eric_bonus_for_Lisa_8c73dcb6:
 
     # Max_07 "Это как так? Я невидимым становиться не умею."
+    ""
 
 # game/dialogues/erictalk.rpy:975
 translate crowdin Eric_bonus_for_Lisa_9583dd2a:
 
     # Eric_01 "Плохо, Макс! Но не волнуйся из-за этого. Я одену на неё очки для сна и она ничего не увидит."
+    ""
 
 # game/dialogues/erictalk.rpy:976
 translate crowdin Eric_bonus_for_Lisa_a903a483:
 
     # Max_05 "А, это отлично! То, что надо."
+    ""
 
 # game/dialogues/erictalk.rpy:977
 translate crowdin Eric_bonus_for_Lisa_45e005db:
 
     # Eric_06 "А во-вторых, тебе нужно будет вести себя {b}ОЧЕНЬ{/b} тихо. Думаю, сам понимаешь почему."
+    ""
 
 # game/dialogues/erictalk.rpy:978
 translate crowdin Eric_bonus_for_Lisa_2dc708b0:
 
     # Max_02 "Ага, понятное дело."
+    ""
 
 # game/dialogues/erictalk.rpy:979
 translate crowdin Eric_bonus_for_Lisa_dbbb2eec:
 
     # Eric_03 "Я, конечно, буду трахать твою маму так, что за её стонами мало что ещё будет слышно, но всё равно... Не шуметь - в твоих интересах. Если не справишься и она тебя услышит, то я прикинусь, будто не заметил тебя в порыве страсти."
+    ""
 
 # game/dialogues/erictalk.rpy:980
 translate crowdin Eric_bonus_for_Lisa_3f434d2f:
 
     # Max_07 "Понял. Я буду стараться не шуметь."
+    ""
 
 # game/dialogues/erictalk.rpy:981
 translate crowdin Eric_bonus_for_Lisa_9bf8dbda:
 
     # Eric_01 "Тогда, вот и порешали. Только, Макс, давай не чаще, чем раз в неделю. Если упустишь день - твои проблемы, понял? И заглядывай в окно без опаски, Аню я возьму на себя."
+    ""
 
 # game/dialogues/erictalk.rpy:990
 translate crowdin Eric_bonus_for_Lisa_0a7c5d4d:
 
     # Max_01 "Ладно, договорились. Ты натыкаешься на нас с Кирой в ванне, я за это получаю шоу с мамой, а ты Киру." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:994
 translate crowdin Eric_bonus_for_Lisa_ce78d8b5:
 
     # Max_01 "Ладно, договорились." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:1011
 translate crowdin Eric_stopLisa_bonus_b64e4b51:
 
     # Eric_00 "Макс, задержись ненадолго. Кое-что скажу..."
+    ""
 
 # game/dialogues/erictalk.rpy:1012
 translate crowdin Eric_stopLisa_bonus_e7f5724b:
@@ -1925,31 +2028,37 @@ translate crowdin Eric_stopLisa_bonus_e7f5724b:
 translate crowdin Eric_stopLisa_bonus_35b241fd:
 
     # Eric_02 "Раз Лиза, пока что, отошла тебе на поруки, то никакого больше шоу с твоей мамой в очках для сна не будет. Это ясно?"
+    ""
 
 # game/dialogues/erictalk.rpy:1014
 translate crowdin Eric_stopLisa_bonus_de267cbe:
 
     # Max_08 "Э-э-э! Не понял! Это почему?!"
+    ""
 
 # game/dialogues/erictalk.rpy:1015
 translate crowdin Eric_stopLisa_bonus_5f3d05f9:
 
     # Eric_04 "Причина и следствие, Шерлок! Ты мне с Лизой помог? Помог... Но для меня это оказалось зря. Поэтому, шоу аннулировано. Вместо него ты получил Лизу."
+    ""
 
 # game/dialogues/erictalk.rpy:1016
 translate crowdin Eric_stopLisa_bonus_c2636588:
 
     # Max_10 "Обидно, конечно. Но я понял."
+    ""
 
 # game/dialogues/erictalk.rpy:1017
 translate crowdin Eric_stopLisa_bonus_d2b6da8b:
 
     # Eric_03 "Но, если вдруг, например, ты будешь располагать крайне полезной для меня информацией в отношении твоей семьи, то не исключаю, что шоу с твоей мамой можно будет возобновить."
+    ""
 
 # game/dialogues/erictalk.rpy:1018
 translate crowdin Eric_stopLisa_bonus_373c87f8:
 
     # Max_07 "Так у меня уже есть такая информация для тебя. О моей тёте Кире."
+    ""
 
 # game/dialogues/erictalk.rpy:1019
 translate crowdin Eric_stopLisa_bonus_a0b9d0c1:
@@ -2003,6 +2112,7 @@ translate crowdin Eric_stopLisa_bonus_1dc507c8:
 translate crowdin Eric_stopLisa_bonus_dd4462cc:
 
     # Eric_06 "Погоди... То есть {b}ТЕБЕ{/b} отсасывает {b}ТВОЯ{/b} родная тётя?! Это ты хочешь сказать?"
+    ""
 
 # game/dialogues/erictalk.rpy:1028
 translate crowdin Eric_stopLisa_bonus_9acc7a48:
@@ -2032,6 +2142,7 @@ translate crowdin Eric_stopLisa_bonus_e0b3dd08:
 translate crowdin Eric_stopLisa_bonus_cb36dfe8:
 
     # Max_09 "Значит, такая информация тянет на возобновление шоу с мамой?"
+    ""
 
 # game/dialogues/erictalk.rpy:1033
 translate crowdin Eric_stopLisa_bonus_9942b3b4:
@@ -2079,6 +2190,7 @@ translate crowdin Eric_stopLisa_bonus_840a0cb4:
 translate crowdin Eric_stopLisa_bonus_4562bb07:
 
     # Max_03 "Если я получу шоу с мамой, то подыграю."
+    ""
 
 # game/dialogues/erictalk.rpy:1041
 translate crowdin Eric_stopLisa_bonus_c1a34d4e:
@@ -2090,141 +2202,173 @@ translate crowdin Eric_stopLisa_bonus_c1a34d4e:
 translate crowdin Eric_stopLisa_bonus_f22feeb6:
 
     # Max_01 "Значит, договорились." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:1063
 translate crowdin Eric_ask_stockings_45f8d67f:
 
     # Eric_13 "А вот хрен тебе, Макс, а не Аня в чулках! Не надо было дарить Алисе нижнее бельё первее меня."
+    ""
 
 # game/dialogues/erictalk.rpy:1065
 translate crowdin Eric_ask_stockings_3e3e64a5:
 
     # Max_14 "Вот блин!" nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:1069
 translate crowdin Eric_ask_stockings_faecdce4:
 
     # Eric_03 "О-о-о, пацан, это я с радостью устрою. Твоя мама в чулках - это бомба!"
+    ""
 
 # game/dialogues/erictalk.rpy:1071
 translate crowdin Eric_ask_stockings_7978befc:
 
     # Max_02 "Спасибо! Рад, что мы на одной волне." nointeract
+    ""
 
 # game/dialogues/erictalk.rpy:1086
 translate crowdin Eric_ask_no_stockings_945fa08a:
 
     # Eric_02 "Что, Макс, чулки надоели? Не вопрос, твоя мама и без чулков жутко сексуальна."
+    ""
 
 # game/dialogues/erictalk.rpy:1088
 translate crowdin Eric_ask_no_stockings_6fbaeb06:
 
     # Max_01 "Спасибо!" nointeract
-    new ""
+    ""
 
 translate crowdin strings:
 
     # game/dialogues/erictalk.rpy:11
     old "{i}В другой раз...{/i}"
-    new "{i}Otra vez... {/i}"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:55
     old "Э... Ну не совсем так..."
-    new "Este... Bueno, no exactamente..."
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:55
     old "А так можно?"
-    new "¿Es posible?"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:65
     old "Кстати, как ты это делаешь?"
-    new "Por cierto, ¿cómo lo haces?"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:65
     old "Отлично! Спасибо, Эрик."
-    new "¡Es genial! Gracias, Eric."
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:71
     old "Это угроза?"
-    new "¿Es una amenaza?"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:71
     old "Хорошо, Эрик!"
-    new "¡Está bien, Eric!"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:172
     old "{i}сесть на кровать{/i}"
-    new "{i}se sientan en la cama{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:187
     old "{i}слегка подвинуться{/i}"
-    new "{i}mueve ligeramente{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:248
     old "{i}смотреть, как мама сосёт{/i}"
-    new "{i}mira a mamá chupar{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:307
     old "{i}пересесть{/i}"
-    new "{i}cambiar{/i}"
+    new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:399
     old "Нет, можешь обучать... (Настоящая дружба)"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:399
     old "А ей не рановато? (Фальшивая дружба)"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:399
     old "Лизу тебе не отдам! (Откровенная вражда)"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:494
     old "Значит, тебя её блог интересует? (Настоящая дружба)"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:494
     old "Я мало что об этом знаю... (Фальшивая дружба)"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:494
     old "Вот у неё и спрашивай! (Откровенная вражда)"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:802
     old "Может, договоримся? {i}(добыть компромат){/i}"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:809
     old "С той, что я могу заплатить тебе больше, чем якобы должен."
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:809
     old "С той, что у меня есть кое-что на тебя."
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:827
     old "Ты мутный тип, а моя мама заслуживает лучшего!"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:827
     old "Сестрёнок моих ты не получишь!"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:837
     old "{i}вернуться в свою комнату{/i}"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:848
     old "Не шуми. Держи, всё равно не пригодился..."
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:852
     old "{i}смириться{/i}"
     new ""
+#--- ""
 
     # game/dialogues/erictalk.rpy:909
     old "{i}уйти мыть посуду{/i}"
     new ""
+#--- ""
 

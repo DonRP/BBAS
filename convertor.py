@@ -4,7 +4,9 @@ import os
 
 # ATTENTION: there must not be 2 equal key or value
 dict = {
-    # potorpy only
+    # potorpy only#--- "Ignore this. translate only: One"
+    """\n  """: """#--- \"Ignore this. translate only: One\"\n\n  """,
+    """ """: """#p--- \"Ignore this. translate only: One\"\n """,
     """:\n\n    # """: """:\n    # """,
     # not traslate
     """\n# game""": """    new \"\"\n\n# game""",
@@ -15,7 +17,7 @@ dict = {
     """""": """\"\n\"""",
     """""": """\"\n\"""",
     """    old \"""": """msgid \"""",
-    """    new \"""": """    \"""",
+    """    new \"""": """msgstr[0] \"""",
 
     # search_text : replace_text
     """
@@ -285,6 +287,8 @@ msgid \"""",
     """msgstr \"[""": """msgstr \"\"[""",
     """msgstr \"\"""": """msgstr \"""",
     """""": """msgstr \"\"""",
+    """#p---""": """msgid_plural""",
+    """#---""": """msgstr[1]""",
 }
 
 

@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:11\n"
+# "PO-Revision-Date: 2022-03-26 14:35\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -4152,7 +4152,7 @@ translate italian massage_sunscreen_spine_3c450833:
 translate italian massage_sunscreen_ass_e47a4169:
 
     # попка"
-    new "pappagallo"
+    "pappagallo"
 
 # game/dialogues/alicetalk.rpy:2929
 translate italian massage_sunscreen_hips_cac75cfe:
@@ -11857,4 +11857,5 @@ translate italian strings:
     # game/dialogues/alicetalk.rpy:5779
     old "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
     new "{b}Attenzione:{/b} Alice non vuole più interagire con Max"
+#--- "Ignore this. translate only: One"
 

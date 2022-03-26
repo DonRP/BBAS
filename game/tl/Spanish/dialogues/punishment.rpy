@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:13\n"
+"PO-Revision-Date: 2022-03-26 14:18\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -318,261 +318,313 @@ translate crowdin punishment_max_pun_reson_bf38fe93:
 translate crowdin punishment_max_pun_reson_db52f1d4:
 
     # Ann_14 "[succes!t]Ты знаешь, Макс, всё говорит о том, что ты виноват и должен быть наказан. Но поверю тебе на слово, что это была какая-то ошибка. Надеюсь, я не пожалею о своём решении..."
+    ""
 
 # game/dialogues/punishment.rpy:257
 translate crowdin punishment_max_pun_reson_dbaef78e:
 
     # Max_08 "Спасибо, мам!"
+    ""
 
 # game/dialogues/punishment.rpy:270
 translate crowdin punishment_max_pun_reson_291cc499:
 
     # Ann_19 "[failed!t]Вот так просто? \"Я не виноват\" и всё забудем? Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай [_text!t] и ложись на мои колени. Надеюсь, ты сегодня в трусах..." nointeract
+    ""
 
 # game/dialogues/punishment.rpy:278
 translate crowdin punishment_max_pun_reson_8b8f1722:
 
     # Ann_18 "Ну и долго я буду ждать?! Давай ложись..."
+    ""
 
 # game/dialogues/punishment.rpy:291
 translate crowdin punishment_max_pun_reson_831f2da1:
 
     # Ann_16 "У Макса несколько провинностей... Он их прекрасно знает и перечислять я их не стану. Сейчас он получит за все сразу!"
+    ""
 
 # game/dialogues/punishment.rpy:301
 translate crowdin punishment_max_pun_reson_678436cc:
 
     # Ann_16 "[_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:308
 translate crowdin punishment_max_pun_reson_e027e673:
 
     # Max_14 "[impact_reduced!t]{m}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:328
 translate crowdin punishment_max_pun_reson_700a2ea3:
 
     # Ann_12 "Ну вот. Теперь все всё поняли? Ведите себя хорошо и вас не ждёт эта участь..."
+    ""
 
 # game/dialogues/punishment.rpy:334
 translate crowdin punishment_max_pun_reson_2f01137f:
 
     # Ann_12 "Ну, Макс, раздевайся до трусов. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+    ""
 
 # game/dialogues/punishment.rpy:339
 translate crowdin punishment_max_pun_reson_09e2a1e5:
 
     # Ann_12 "Ну, Макс, снимай шорты. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+    ""
 
 # game/dialogues/punishment.rpy:344
 translate crowdin punishment_max_pun_reson_ad895117:
 
     # Ann_12 "Ну, Макс, раздевайся. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+    ""
 
 # game/dialogues/punishment.rpy:351
 translate crowdin punishment_max_pun_reson_2f871657:
 
     # Ann_14 "Хорошо. А теперь, ложись на мои колени и приступим, а то все голодные сидят..."
+    ""
 
 # game/dialogues/punishment.rpy:362
 translate crowdin punishment_max_pun_reson_831f2da1_1:
 
     # Ann_16 "У Макса несколько провинностей... Он их прекрасно знает и перечислять я их не стану. Сейчас он получит за все сразу!"
+    ""
 
 # game/dialogues/punishment.rpy:372
 translate crowdin punishment_max_pun_reson_678436cc_1:
 
     # Ann_16 "[_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:378
 translate crowdin punishment_max_pun_reson_a77a4336:
 
     # Max_14 "[impact_reduced!t]{m}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:400
 translate crowdin punishment_max_pun_reson_faf292df:
 
     # Ann_12 "Ну всё, Макс, одевайся. Надеюсь, ты сделал выводы и постараешься больше не попадать в такую унизительную ситуацию..."
+    ""
 
 # game/dialogues/punishment.rpy:459
 translate crowdin punishment_lisa_678436cc:
 
     # Ann_16 "[_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:462
 translate crowdin punishment_lisa_0b6806cc:
 
     # Ann_16 "[_text!t]" nointeract
+    ""
 
 # game/dialogues/punishment.rpy:465
 translate crowdin punishment_lisa_f1ea86d0:
 
     # Max_08 "Мам, не нужно наказывать Лизу. Она правда старалась, я сам видел. Ну и я помогу ей подтянуть оценки."
+    ""
 
 # game/dialogues/punishment.rpy:467
 translate crowdin punishment_lisa_0fa8acfd:
 
     # Ann_12 "Нет, Макс, и даже не пытайся меня уговорить. Ты и сам накосячил... А ты, Лиза, не стой столбом, шевелись давай..."
+    ""
 
 # game/dialogues/punishment.rpy:469
 translate crowdin punishment_lisa_9739ac77:
 
     # Ann_00 "[succes!t]Хорошо, Макс, в этот раз я не стану её наказывать. Надеюсь, я не пожалею о своём решении... А ты, Лиза, благодари брата, да учись давай, а то в следующий раз не помилую..."
+    ""
 
 # game/dialogues/punishment.rpy:470
 translate crowdin punishment_lisa_6d672e8d:
 
     # Lisa_02 "Спасибо тебе, Макс!"
+    ""
 
 # game/dialogues/punishment.rpy:476
 translate crowdin punishment_lisa_929c11ac:
 
     # Ann_12 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай..."
+    ""
 
 # game/dialogues/punishment.rpy:480
 translate crowdin punishment_lisa_8b6bc93a:
 
     # Lisa_10 "Мам... Я не специально... Просто, задание было сложное..."
+    ""
 
 # game/dialogues/punishment.rpy:485
 translate crowdin punishment_lisa_68fc5c88:
 
     # Ann_14 "Сложное? У тебя была куча времени, чтобы подготовиться! Сидишь в своём телефоне вечно вместо того, чтобы учиться. [_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:488
 translate crowdin punishment_lisa_cc22447a:
 
     # Ann_12 "Лиза. Мне нужно всем объяснять за что ты сейчас будешь наказана? Молчишь? Значит, знаешь... Всё, давай раздевайся до трусов и быстро, без разговоров!"
+    ""
 
 # game/dialogues/punishment.rpy:491
 translate crowdin punishment_lisa_98ec972c:
 
     # Ann_12 "Лиза. Твой классный руководитель говорит, ты плохо себя ведёшь в школе! Молчишь? Значит, это правда... Всё, давай раздевайся догола и быстро, без разговоров!"
+    ""
 
 # game/dialogues/punishment.rpy:493
 translate crowdin punishment_lisa_e15cfc8b:
 
     # Ann_12 "Лиза. Мне нужно всем объяснять за что ты сейчас будешь наказана? Молчишь? Значит, знаешь... Всё, давай раздевайся и быстро, без разговоров!"
+    ""
 
 # game/dialogues/punishment.rpy:506
 translate crowdin punishment_lisa_a4b257c5:
 
     # Ann_18 "[_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:509
 translate crowdin punishment_lisa_67c8b436:
 
     # Ann_18 "[_text!t]" nointeract
+    ""
 
 # game/dialogues/punishment.rpy:513
 translate crowdin punishment_lisa_a1d39e4d:
 
     # Max_08 "Мам, не нужно наказывать Лизу. Обещаю, что бы там ни было, я поработаю с ней над поведением, честно. Вот увидишь, проблем больше не будет!"
+    ""
 
 # game/dialogues/punishment.rpy:515
 translate crowdin punishment_lisa_f1ea86d0_1:
 
     # Max_08 "Мам, не нужно наказывать Лизу. Она правда старалась, я сам видел. Ну и я помогу ей подтянуть оценки."
+    ""
 
 # game/dialogues/punishment.rpy:517
 translate crowdin punishment_lisa_0fa8acfd_1:
 
     # Ann_12 "Нет, Макс, и даже не пытайся меня уговорить. Ты и сам накосячил... А ты, Лиза, не стой столбом, шевелись давай..."
+    ""
 
 # game/dialogues/punishment.rpy:519
 translate crowdin punishment_lisa_5e582e44:
 
     # Ann_12 "Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... А ты, Лиза, не стой столбом, шевелись давай..."
+    ""
 
 # game/dialogues/punishment.rpy:521
 translate crowdin punishment_lisa_85987843:
 
     # Ann_00 "[succes!t]Хорошо, Макс, в этот раз я не стану её наказывать. Надеюсь, я не пожалею о своём решении... А ты, Лиза, можешь одеваться. Скажи спасибо Максу, что сегодня осталась безнаказанной. Но не думай, что я всегда буду такой доброй..."
+    ""
 
 # game/dialogues/punishment.rpy:522
 translate crowdin punishment_lisa_6d672e8d_1:
 
     # Lisa_02 "Спасибо тебе, Макс!"
+    ""
 
 # game/dialogues/punishment.rpy:528
 translate crowdin punishment_lisa_edabdf61:
 
     # Max_07 "{m}На одних \"спасибо\" далеко не уедешь... Нужно придумать и для себя что-то хорошее. Думаю, Лизу удастся уговорить смотреть ужастики без маечки. Это точно лучше, чем получать по голой заднице от мамы у всех на глазах! И поговорить с ней лучше, пока моя доброта свежа в её памяти...{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:538
 translate crowdin punishment_lisa_929c11ac_1:
 
     # Ann_12 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай..."
+    ""
 
 # game/dialogues/punishment.rpy:554
 translate crowdin punishment_lisa_022518f9:
 
     # Max_04 "{m}А вот это мне уже нравится... Сестрёнка сверкает своими классными сиськами... Можно смотреть и ничего за это не будет! Красота!{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:557
 translate crowdin punishment_lisa_ba80b6fd:
 
     # Max_04 "{m}Хоть Лиза и получает сейчас по своей миленькой попке, но зато можно полюбоваться и всем остальным... А видно много чего интересного!{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:560
 translate crowdin punishment_lisa_81192a03:
 
     # Lisa_09 "Ма-ам, я больше не буду... Ай... В смысле, буду лучше учиться. Извини..."
+    ""
 
 # game/dialogues/punishment.rpy:573
 translate crowdin punishment_lisa_3b824b98:
 
     # Ann_00 "Конечно, будешь. [_text!t] Совсем расслабилась."
+    ""
 
 # game/dialogues/punishment.rpy:575
 translate crowdin punishment_lisa_1be74016:
 
     # Lisa_10 "Ой... Мам! Больно!"
+    ""
 
 # game/dialogues/punishment.rpy:577
 translate crowdin punishment_lisa_2a6e0df8:
 
     # Ann_16 "Давай терпи! Плохо вела себя в школе - получила по голой заднице у всех на глазах."
+    ""
 
 # game/dialogues/punishment.rpy:579
 translate crowdin punishment_lisa_22426d4e:
 
     # Ann_16 "Давай терпи! Получила двойку - получила по голой заднице у всех на глазах."
+    ""
 
 # game/dialogues/punishment.rpy:591
 translate crowdin punishment_lisa_d5d2561c:
 
     # Ann_12 "Лиза, надеюсь, ты извлекла урок из этого наказания и больше это не повторится. А теперь одевайся!"
+    ""
 
 # game/dialogues/punishment.rpy:593
 translate crowdin punishment_lisa_3250d4ff:
 
     # Ann_12 "Лиза, надеюсь, ты извлекла урок из этого наказания. Да, тебе было стыдно и неприятно, что все пялились на тебя, но надеюсь, ты всё поняла и больше это не повторится. А теперь одевайся!"
+    ""
 
 # game/dialogues/punishment.rpy:619
 translate crowdin punishment_alice_d88fc265:
 
     # Ann_16 "Подходи, подходи, Алиса, чего ты там мнешься. Штаны снимай, есть разговор!"
+    ""
 
 # game/dialogues/punishment.rpy:621
 translate crowdin punishment_alice_d608324e:
 
     # Ann_16 "Подходи, подходи, Алиса, чего ты там мнешься. Снимай шорты, есть разговор!"
+    ""
 
 # game/dialogues/punishment.rpy:622
 translate crowdin punishment_alice_8e33c890:
 
     # Alice_12 "Мам, за что? Что я такого сделала?"
+    ""
 
 # game/dialogues/punishment.rpy:628
 translate crowdin punishment_alice_a4b257c5:
 
     # Ann_18 "[_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:631
 translate crowdin punishment_alice_67c8b436:
 
     # Ann_18 "[_text!t]" nointeract
+    ""
 
 # game/dialogues/punishment.rpy:635
 translate crowdin punishment_alice_cb34e360:
@@ -596,91 +648,109 @@ translate crowdin punishment_alice_48884e9e:
 translate crowdin punishment_alice_2a128a29:
 
     # Alice_13 "Хорошо, мам. Спасибо, Макс, я этого не забуду."
+    ""
 
 # game/dialogues/punishment.rpy:645
 translate crowdin punishment_alice_c8f8e3ea:
 
     # Ann_16 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит в любом случае, не за себя, так за подружку. Не будет водится с такими, до добра они не доведут..."
+    ""
 
 # game/dialogues/punishment.rpy:650
 translate crowdin punishment_alice_055a6121:
 
     # Alice_13 "Мам... Это не мои сигареты... Я не курю, честно..."
+    ""
 
 # game/dialogues/punishment.rpy:652
 translate crowdin punishment_alice_3761a8bd:
 
     # Ann_14 "Не твои? А чьи они тогда? Быстро снимай штаны!"
+    ""
 
 # game/dialogues/punishment.rpy:654
 translate crowdin punishment_alice_194e9daf:
 
     # Alice_06 "Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    ""
 
 # game/dialogues/punishment.rpy:655
 translate crowdin punishment_alice_8ad85845:
 
     # Ann_20 "Ты ещё и без трусов?! Сейчас ещё и за это получишь! Макс пусть смотрит, а тебе будет стыдно. Может тогда за ум возьмёшься!"
+    ""
 
 # game/dialogues/punishment.rpy:662
 translate crowdin punishment_alice_933f2254:
 
     # Max_09 "{m}Ничего себе! А что это на Алисе делают трусики?! Мы же с ней договорились... Ну всё, сестрёнка, считай ты попала... и куда больше, чем есть сейчас!{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:664
 translate crowdin punishment_alice_90ee680b:
 
     # Ann_14 "Не твои? А чьи они тогда? Быстро шорты снимай!"
+    ""
 
 # game/dialogues/punishment.rpy:665
 translate crowdin punishment_alice_cd360a25:
 
     # Alice_06 "Мам, но под ними нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    ""
 
 # game/dialogues/punishment.rpy:666
 translate crowdin punishment_alice_011ed976:
 
     # Ann_00 "А вот нечего целый день в пижаме по дому шарахаться... Совсем разленилась! Макс пусть смотрит, а тебе будет стыдно. Может тогда за ум возьмёшься!"
+    ""
 
 # game/dialogues/punishment.rpy:669
 translate crowdin punishment_alice_05b9287b:
 
     # Ann_12 "Так, Алиса, раздевайся до трусов. Надеюсь, не надо объяснять, за что я тебя сейчас буду наказывать и сама всё понимаешь..."
+    ""
 
 # game/dialogues/punishment.rpy:671
 translate crowdin punishment_alice_194e9daf_1:
 
     # Alice_06 "Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    ""
 
 # game/dialogues/punishment.rpy:673
 translate crowdin punishment_alice_74c9db0c:
 
     # Alice_06 "Мам, но под шортами нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    ""
 
 # game/dialogues/punishment.rpy:675
 translate crowdin punishment_alice_f85f1017:
 
     # Ann_16 "Тогда раздевайся догола, так наказание даже эффективней будет. А Макс пусть смотрит, как и все остальные..."
+    ""
 
 # game/dialogues/punishment.rpy:683
 translate crowdin punishment_alice_dd1264f2:
 
     # Ann_12 "Так, Алиса, раздевайся. Надеюсь, не надо объяснять, за что я тебя сейчас буду наказывать и сама всё понимаешь..."
+    ""
 
 # game/dialogues/punishment.rpy:696
 translate crowdin punishment_alice_23976523:
 
     # Max_07 "{m}Посмотрим, станет ли Алиса посговорчивей, если я перестану вмешиваться... Главное, успеть поговорить с ней, пока ей будет ещё больно сидеть!{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:701
 translate crowdin punishment_alice_a4b257c5_1:
 
     # Ann_18 "[_text!t]"
+    ""
 
 # game/dialogues/punishment.rpy:704
 translate crowdin punishment_alice_67c8b436_1:
 
     # Ann_18 "[_text!t]" nointeract
+    ""
 
 # game/dialogues/punishment.rpy:708
 translate crowdin punishment_alice_cb34e360_1:
@@ -698,196 +768,240 @@ translate crowdin punishment_alice_e5b82d3f_1:
 translate crowdin punishment_alice_3eaef6e3:
 
     # Ann_12 "Нет, Макс! И скажи спасибо, что я не наказываю и тебя вместе с ней... Алиса, пошевеливайся..."
+    ""
 
 # game/dialogues/punishment.rpy:714
 translate crowdin punishment_alice_a3fb885d:
 
     # Ann_14 "[succes!t]Хорошо, Макс, сегодня я не стану её наказывать. Надеюсь, я не пожалею об этом... Можешь одеваться, Алиса, да скажи брату спасибо, что заступился. И не приглашай сюда больше таких подружек, хорошему они не научат..."
+    ""
 
 # game/dialogues/punishment.rpy:715
 translate crowdin punishment_alice_2a128a29_1:
 
     # Alice_13 "Хорошо, мам. Спасибо, Макс, я этого не забуду."
+    ""
 
 # game/dialogues/punishment.rpy:720
 translate crowdin punishment_alice_f34a7f97:
 
     # Max_09 "{m}Ага, как же, не забудет она... Хм... Может, стоит попросить у неё что-нибудь, чтобы она не думала, что моя доброта безвозмездна?! И сделать это нужно сегодня, пока она ещё под впечатлением...{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:728
 translate crowdin punishment_alice_c8f8e3ea_1:
 
     # Ann_16 "[failed!t]Нет, Макс, твои уговоры ей не помогут. Получит в любом случае, не за себя, так за подружку. Не будет водится с такими, до добра они не доведут..."
+    ""
 
 # game/dialogues/punishment.rpy:755
 translate crowdin punishment_alice_6bf98fd4:
 
     # Alice_15 "Ай, больно же! Мам, я больше не буду!!!"
+    ""
 
 # game/dialogues/punishment.rpy:759
 translate crowdin punishment_alice_1f7fc295:
 
     # Max_04 "{m}Вот в такие моменты я не жалею, что нас наказывают практически голыми на глазах друг у друга! Даже порно не надо, когда такое шоу в паре метров от меня!{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:761
 translate crowdin punishment_alice_43f002e8:
 
     # Max_04 "{m}Люблю, когда Алису наказывают... Стервозинка она та ещё, но без последствий полюбоваться её голыми прелестями в других ситуациях опасно для жизни!{/m}"
+    ""
 
 # game/dialogues/punishment.rpy:765
 translate crowdin punishment_alice_9e2ea44b:
 
     # Ann_17 "Я знаю, что не будешь. Заслужила наказание, терпи!"
+    ""
 
 # game/dialogues/punishment.rpy:767
 translate crowdin punishment_alice_be504ff7:
 
     # Alice_15 "Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
+    ""
 
 # game/dialogues/punishment.rpy:768
 translate crowdin punishment_alice_02510b3b:
 
     # Ann_16 "Давай не мамкай тут! Я знаю, что не будешь. Заслужила наказание, терпи!"
+    ""
 
 # game/dialogues/punishment.rpy:786
 translate crowdin punishment_alice_7f307a07:
 
     # Ann_12 "Так, всё, надевай свои джинсы. Надеюсь, ты осознала свои поступки и следующего раза не будет..."
+    ""
 
 # game/dialogues/punishment.rpy:788
 translate crowdin punishment_alice_06c1e8de:
 
     # Ann_12 "Так, всё, надевай свои шорты. Надеюсь, ты осознала свои поступки и следующего раза не будет..."
+    ""
 
 # game/dialogues/punishment.rpy:790
 translate crowdin punishment_alice_3006a77e:
 
     # Ann_12 "Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
-    new ""
+    ""
 
 translate crowdin strings:
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я подглядывал за тобой, мам..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я подглядывал за вами с Эриком..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:207
     old "Ну, я плохо себя вёл..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:251
     old "Я же не виноват!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:266
     old "штаны"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:268
     old "шорты"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:269
     old "{i}снять штаны{/i}"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной... с Эриком. Я уже предупреждала, что такое недопустимо!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за своё отвратительное поведение. Надеюсь, теперь ты будешь хорошенько думать о том, что делаешь и что говоришь!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:293
     old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой в душе и, возможно, даже подбросил туда паука. Ты знаешь, что такое я не потерплю!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:333
     old "{i}раздеться{/i}"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:338
     old "{i}снять шорты{/i}"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:455
     old "Ближе подходи, Лиза. И да, снимай штаны, ты заслужила!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:457
     old "Ближе подходи, Лиза. И да, снимай свой халат, ты заслужила!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:461
     old "{i}Заступиться за Лизу{/i}"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:482
     old "Быстро снимай штаны!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:484
     old "Быстро снимай халат!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:499
     old "Теперь ложись, и побыстрее, все есть хотят..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:502
     old "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:564
     old "Говоришь тебе, говоришь, все как об стенку горох..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:570
     old "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:624
     old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:626
     old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:630
     old "{i}Заступиться за Алису{/i}"
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:688
     old "Теперь ложись побыстрее, ужин стынет..."
     new ""
+#--- ""
 
     # game/dialogues/punishment.rpy:691
     old "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
     new ""
+#--- ""
 

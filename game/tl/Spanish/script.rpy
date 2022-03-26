@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:20\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -60,7 +60,7 @@ translate crowdin intro_75876970:
 translate crowdin intro_bebe466e:
 
     # Max_14 "Отца я плохо помню. Он ушёл, когда мне было лет пять. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
-    new "No recuerdo bien la [Max_14]del Padre. Se fue cuando yo tenía unos cinco años. Mamá no quiere decirme lo que pasó entonces... Hubo rumores de que las cosas le habían ido cuesta arriba. No hemos oído hablar de él desde entonces. Hasta el mes pasado, cuando llegó esa chica..."
+    "No recuerdo bien la [Max_14]del Padre. Se fue cuando yo tenía unos cinco años. Mamá no quiere decirme lo que pasó entonces... Hubo rumores de que las cosas le habían ido cuesta arriba. No hemos oído hablar de él desde entonces. Hasta el mes pasado, cuando llegó esa chica..."
 
 # game/script.rpy:73
 translate crowdin intro_fdc8ae44:
@@ -222,33 +222,41 @@ translate crowdin strings:
 
     # game/script.rpy:57
     old "{i}далее{/i}"
-    new "{i}siguiente{/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:57
     old "{i}пропустить{/i}"
-    new "{i}omitir{/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:85
     old "{i}пару недель спустя...{/i}"
-    new "{i}un par de semanas después... {/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:98
     old "{i}спустя неделю...{/i}"
-    new "{i}una semana después... {/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:104
     old "{i}Начать игру{/i}"
-    new "{i}Iniciar juego{/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:104
     old "{i}Повторить историю{/i}"
-    new "{i}Repetir historial{/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:121
     old "{i}всё ясно{/i}"
-    new "{i}todo está claro{/i}"
+    new ""
+#--- ""
 
     # game/script.rpy:121
     old "{i}повторить{/i}"
-    new "{i}repetir{/i}"
+    new ""
+#--- ""
 

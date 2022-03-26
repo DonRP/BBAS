@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:12\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -379,6 +379,7 @@ translate crowdin breakfast_2_591293ef:
 translate crowdin breakfast_2_1be74016:
 
     # Lisa_10 "Ой... Мам! Больно!"
+    ""
 
 # game/dialogues/breakfast.rpy:360
 translate crowdin breakfast_2_c74a4ad7:
@@ -1158,106 +1159,127 @@ translate crowdin breakfast_7_c014efc6:
 translate crowdin breakfast_7_1ae19837:
 
     # Ann_12 "Почему же, вполне серьёзно. Он меня убедил, что я вас не так наказывала всё это время, как полагается. Конечно, я ещё сомневаюсь, но он точно знает о чём говорит. Так что..."
+    ""
 
 # game/dialogues/breakfast.rpy:680
 translate crowdin breakfast_7_9b97c9c4:
 
     # Max_00 "Мам, ты о чём, вообще?"
+    ""
 
 # game/dialogues/breakfast.rpy:681
 translate crowdin breakfast_7_df7add7c:
 
     # Ann_12 "Эрик считает, что наказание в том случае эффективно, если оно затрагивает не только тело, но и... кое-что внутри. Я имею в виду чувство стыда, когда стыд от поступка переплетается со стыдом от наказания..."
+    ""
 
 # game/dialogues/breakfast.rpy:682
 translate crowdin breakfast_7_93e5d926:
 
     # Max_09 "Мам, ну что за бред?!"
+    ""
 
 # game/dialogues/breakfast.rpy:683
 translate crowdin breakfast_7_2d52c1dc:
 
     # Ann_01 "Бред, говоришь? А вот проверим. Эрик предложил отложить новую методику до следующей недели, чтобы у вас было время морально подготовиться и обдумать все свои поступки. Может быть, вы сами не захотите косячить, чтобы и не получать наказание..."
+    ""
 
 # game/dialogues/breakfast.rpy:684
 translate crowdin breakfast_7_677739a3:
 
     # Max_07 "Новую методику?"
+    ""
 
 # game/dialogues/breakfast.rpy:685
 translate crowdin breakfast_7_161dce96:
 
     # Lisa_09 "Мам, ты меня пугаешь. Что за новая методика? Это ремнём, что ли? Ты и ладошкой очень больно шлёпаешь, а ремнём я не выдержу, умру сразу!"
+    ""
 
 # game/dialogues/breakfast.rpy:686
 translate crowdin breakfast_7_a34321c8:
 
     # Ann_01 "Нет, Лиза, дело не в этом. Эрик считает, что если вас наказывать без одежды, то вам будет жутко стыдно друг перед другом и вы не захотите повторения наказания. К счастью или нет, вы разных полов и это обычно очень действует..."
+    ""
 
 # game/dialogues/breakfast.rpy:687
 translate crowdin breakfast_7_9d10ae8c:
 
     # Max_01 "Я бы сказал, на что именно это действует..."
+    ""
 
 # game/dialogues/breakfast.rpy:688
 translate crowdin breakfast_7_29ce6767:
 
     # Ann_00 "Что, Макс? Я не поняла, о чём ты? Хотя, это не важно. В любом случае, до следующей недели это вам не грозит. У Лизы будет время подтянуть уроки, чтобы не получать больше двоек, ну а вы старайтесь не косячить и не будете наказаны... К тому же, если уже от этих разговоров вы станете лучше себя вести, то и раздеваться вам не придётся в дальнейшем."
+    ""
 
 # game/dialogues/breakfast.rpy:689
 translate crowdin breakfast_7_b66fc958:
 
     # Max_07 "Что, Алиса, всё ещё в восторге от своего Эрика?"
+    ""
 
 # game/dialogues/breakfast.rpy:690
 translate crowdin breakfast_7_9cdee9c9:
 
     # Alice_05 "Ты знаешь, а я не буду делать ничего плохого и меня не накажут. Это ты подумай, прежде чем через балконы лезть за нами подглядывать... Так что, мне всё равно. Я хорошо себя веду..."
+    ""
 
 # game/dialogues/breakfast.rpy:691
 translate crowdin breakfast_7_bff4d1fa:
 
     # Max_00 "Посмотрим..."
+    ""
 
 # game/dialogues/breakfast.rpy:692
 translate crowdin breakfast_7_f574e6e4:
 
     # Ann_05 "В общем, я вам рассказала, а дальше вы думайте. Время ещё есть. Просто ведите себя прилично и вас это не коснётся... Думаю, завтрак закончен. Всем больше спасибо."
+    ""
 
 # game/dialogues/breakfast.rpy:693
 translate crowdin breakfast_7_315443a7:
 
     # Max_00 "Ага, спасибо за завтрак..."
+    ""
 
 # game/dialogues/breakfast.rpy:703
 translate crowdin breakfast_12_9aa18fca:
 
     # Ann_04 "Всем доброе утро, приятного аппетита... Я хочу рассказать вам кое-что по секрету..."
+    ""
 
 # game/dialogues/breakfast.rpy:704
 translate crowdin breakfast_12_2aeac290:
 
     # Max_01 "По секрету от кого?"
+    ""
 
 # game/dialogues/breakfast.rpy:706
 translate crowdin breakfast_12_e27f5c8d:
 
     # Ann_07 "Ты прав, Макс. Здесь же все свои. В общем, мы с Эриком решили пожениться!" nointeract
+    ""
 
 # game/dialogues/breakfast.rpy:709
 translate crowdin breakfast_12_f740488d:
 
     # Ann_13 "Макс! Сейчас выпорю перед всеми за такие слова. Я думала, ты порадуешься за свою маму, но такой реакции точно не ожидала..." nointeract
+    ""
 
 # game/dialogues/breakfast.rpy:711
 translate crowdin breakfast_12_88a4a734:
 
     # Ann_19 "Ну всё, Макс. Ты договорился. Вечером, перед ужином, тебя ждёт наказание. У тебя есть время всё обдумать. Ты сказал достаточно и теперь сиди и молчи. Я хочу выслушать твоих сестёр."
+    ""
 
 # game/dialogues/breakfast.rpy:716
 translate crowdin breakfast_12_f02c331b:
 
     # Ann_00 "Ну вот, так уже лучше. Вообще, не понимаю почему ты не можешь найти с ним общий язык... Ладно, твою точку зрения я уже поняла. Давай выслушаем твоих сестёр."
+    ""
 
 # game/dialogues/breakfast.rpy:718
 translate crowdin breakfast_12_25ab2a90:
@@ -1503,91 +1525,109 @@ translate crowdin breakfast_18_next_6e7aee99:
 translate crowdin breakfast_18_next_38a95e47:
 
     # Kira_13 "Ого! У вас снова в моде физические наказания? Прямо как у нас в детстве, да Ань? Неужели, дети перестали слушаться обычных голосовых команд?" nointeract
+    ""
 
 # game/dialogues/breakfast.rpy:792
 translate crowdin breakfast_18_next_7b275243:
 
     # Kira_04 "Да ладно, расслабься Макс, я же шучу. Ты разве забыл, что я умная, весёлая и красивая?"
+    ""
 
 # game/dialogues/breakfast.rpy:793
 translate crowdin breakfast_18_next_455cade9:
 
     # Max_01 "Да помню, помню..."
+    ""
 
 # game/dialogues/breakfast.rpy:795
 translate crowdin breakfast_18_next_7fc3d25b:
 
     # Kira_14 "Да. Бывает, получишь двойку и думаешь. Идти домой или нет. Кушать хочется, а дома сначала накормят десертом - ремнём по голой заднице... Ух, вот это были времена..."
+    ""
 
 # game/dialogues/breakfast.rpy:796
 translate crowdin breakfast_18_next_57c98dc0:
 
     # Max_08 "Хорошего мало..."
+    ""
 
 # game/dialogues/breakfast.rpy:799
 translate crowdin breakfast_18_next_df2f93f7:
 
     # Kira_07 "А ты, Макс, я вижу, нашёл с ним общий язык? Значит, Эрик и правда хороший парень. Нужно будет с ним познакомиться..." nointeract
+    ""
 
 # game/dialogues/breakfast.rpy:801
 translate crowdin breakfast_18_next_cc699149:
 
     # Kira_06 "Так это же здорово! Поздравляю, сестрёнка! Когда свадьба?"
+    ""
 
 # game/dialogues/breakfast.rpy:802
 translate crowdin breakfast_18_next_1758a9af:
 
     # Ann_02 "Да рано ещё о свадьбе говорить. Мы недавно только познакомились. Да, сделал предложение, да, я приняла, но ничего конкретного ещё не решили..."
+    ""
 
 # game/dialogues/breakfast.rpy:808
 translate crowdin breakfast_18_next_fd109b60:
 
     # Ann_07 "Ну, он сильный, мужественный, внимательный, ответственный... В общем, мужчина моей мечты... Я же тебе рассказывала уже о нём?"
+    ""
 
 # game/dialogues/breakfast.rpy:810
 translate crowdin breakfast_18_next_57a8ba37:
 
     # Kira_01 "Ну, так или иначе, нужно будет познакомиться с этим вашим Эриком. Столько разговоров, историй. Хочу всё знать!"
+    ""
 
 # game/dialogues/breakfast.rpy:811
 translate crowdin breakfast_18_next_856aad49:
 
     # Ann_04 "Да успеешь ещё. Кстати, мы сегодня едем на шоппинг, за нами Эрик пришлёт машину, там и познакомитесь. Если хочешь, поехали с нами!"
+    ""
 
 # game/dialogues/breakfast.rpy:812
 translate crowdin breakfast_18_next_c706d294:
 
     # Max_08 "А может быть, я хочу с тётей пообщаться..."
+    ""
 
 # game/dialogues/breakfast.rpy:813
 translate crowdin breakfast_18_next_266789ea:
 
     # Kira_05 "Ну если племянник настаивает, его нельзя обижать. А если серьёзно, то я бы на солнышке повалялась. К тому же, у меня новый купальник..."
+    ""
 
 # game/dialogues/breakfast.rpy:814
 translate crowdin breakfast_18_next_7f1e65f0:
 
     # Ann_02 "С каких пор ты носишь купальники? Ты меня удивляешь всё больше, Кира. Но я рада, что ты за ум взялась. К тому же, тут дети..."
+    ""
 
 # game/dialogues/breakfast.rpy:815
 translate crowdin breakfast_18_next_6bc24e91:
 
     # Max_09 "Я уже взрослый!"
+    ""
 
 # game/dialogues/breakfast.rpy:816
 translate crowdin breakfast_18_next_d00b8c9b:
 
     # Kira_07 "Только из-за твоих детей и купила этот самый купальник. А так я не очень люблю все эти верёвочки..."
+    ""
 
 # game/dialogues/breakfast.rpy:817
 translate crowdin breakfast_18_next_ac565b62:
 
     # Max_07 "Какие верёвочки?"
+    ""
 
 # game/dialogues/breakfast.rpy:818
 translate crowdin breakfast_18_next_accdd7e1:
 
     # Ann_04 "Верёвочки? Наверняка, опять супермини-бикини? Ох, Кира... Я уж думала ты и правда повзрослела... Ладно, спасибо всем за завтрак. Пора собираеться на шоппинг."
+    ""
 
 # game/dialogues/breakfast.rpy:819
 translate crowdin breakfast_18_next_81d2ad52:
@@ -1599,36 +1639,43 @@ translate crowdin breakfast_18_next_81d2ad52:
 translate crowdin breakfast_18_next_782a5fef:
 
     # Kira_04 "Совсем забыла сказать, что сегодня я вернусь домой поздно. Где мне лечь спать?"
+    ""
 
 # game/dialogues/breakfast.rpy:821
 translate crowdin breakfast_18_next_098c64a8:
 
     # Max_03 "Вернёшься? Откуда?"
+    ""
 
 # game/dialogues/breakfast.rpy:822
 translate crowdin breakfast_18_next_0e8e13c0:
 
     # Ann_06 "Ну, либо с Лизой в комнате на кровати Макса, а он в гостиной поспит, либо..."
+    ""
 
 # game/dialogues/breakfast.rpy:823
 translate crowdin breakfast_18_next_0a2cd2b6:
 
     # Max_04 "Мне без разницы, если что..."
+    ""
 
 # game/dialogues/breakfast.rpy:824
 translate crowdin breakfast_18_next_0f7bf573:
 
     # Kira_02 "Ой, а давай я в гостиной буду спать, чтобы никого не тревожить, а?"
+    ""
 
 # game/dialogues/breakfast.rpy:825
 translate crowdin breakfast_18_next_e1c445f6:
 
     # Ann_05 "Как хочешь, Кир. Где тебе будет удобнее. Постельное под диваном. Его можно раздвинуть, ну, сама разберёшься тогда. Всё, мы побежали..."
+    ""
 
 # game/dialogues/breakfast.rpy:826
 translate crowdin breakfast_18_next_bec83eb5:
 
     # Max_01 "Давайте, удачи..."
+    ""
 
 # game/dialogues/breakfast.rpy:841
 translate crowdin breakfast_35_ca36c610:
@@ -1646,896 +1693,1107 @@ translate crowdin breakfast_35_b6e4f095:
 translate crowdin breakfast_35_ee7bd26a:
 
     # Lisa_02 "Как же всё-таки здорово, что ты снова с нами, тётя Кира! Мне так нравится одежда, которую ты нам подарила..."
+    ""
 
 # game/dialogues/breakfast.rpy:844
 translate crowdin breakfast_35_dc2af0f6:
 
     # Ann_12 "За это, конечно, спасибо, но благо вы не видели в какой сорочке собиралась спать ваша тётя! Повезло, что я это заметила..."
+    ""
 
 # game/dialogues/breakfast.rpy:845
 translate crowdin breakfast_35_3c3029c9:
 
     # Kira_07 "Мне кажется, Ань, ты слишком волнуешься из-за этого."
+    ""
 
 # game/dialogues/breakfast.rpy:846
 translate crowdin breakfast_35_9e534fbb:
 
     # Max_09 "А что с сорочкой не так?"
+    ""
 
 # game/dialogues/breakfast.rpy:847
 translate crowdin breakfast_35_361a3b97:
 
     # Ann_14 "Да там видно всё, что только можно! Не представляю, как ей вообще пришло в голову такое купить... Дети же увидят."
+    ""
 
 # game/dialogues/breakfast.rpy:848
 translate crowdin breakfast_35_31bd5602:
 
     # Alice_05 "А я бы посмотрела на эту сорочку, похоже она интересная, раз мама так взволновалась."
+    ""
 
 # game/dialogues/breakfast.rpy:849
 translate crowdin breakfast_35_fcf5caa4:
 
     # Lisa_03 "И я..."
+    ""
 
 # game/dialogues/breakfast.rpy:850
 translate crowdin breakfast_35_ee69b2c6:
 
     # Ann_13 "Так! Никто ничего не будет смотреть! Кира, не вздумай им показывать..."
+    ""
 
 # game/dialogues/breakfast.rpy:851
 translate crowdin breakfast_35_937c8234:
 
     # Kira_04 "Ань, ну что ты в самом деле? Алиса уже взрослая. А Лиза... ну может ей такое ещё и рановато видеть, но ничего катастрофичного в этом всё равно нет."
+    ""
 
 # game/dialogues/breakfast.rpy:852
 translate crowdin breakfast_35_b01754b3:
 
     # Alice_02 "Макс, а ты чего притих!? Ты видимо не понял, что мы тут об откровенной сорочке говорим, а ты даже не сказал своё любомое: \"Я бы тоже посмотрел...\"!"
+    ""
 
 # game/dialogues/breakfast.rpy:853
 translate crowdin breakfast_35_4f031040:
 
     # Max_02 "Всё равно никто ничего мне не покажет такого..."
+    ""
 
 # game/dialogues/breakfast.rpy:854
 translate crowdin breakfast_35_1a4b2891:
 
     # Alice_01 "А я вот думаю, что ты уже успел увидеть! Признавайся!"
+    ""
 
 # game/dialogues/breakfast.rpy:855
 translate crowdin breakfast_35_34472028:
 
     # Max_07 "Я тихий, потому что всё не решаюсь спросить кое о чём... Как там Александра, тётя Кира!?"
+    ""
 
 # game/dialogues/breakfast.rpy:856
 translate crowdin breakfast_35_0fa00af2:
 
     # Lisa_09 "Кстати, да! Ты была тогда так зла на неё, что запретила даже вспоминать о ней. У неё всё хорошо?"
+    ""
 
 # game/dialogues/breakfast.rpy:857
 translate crowdin breakfast_35_b37a11b6:
 
     # Kira_00 "Да что с ней будет! Всё у неё хорошо, по крайней мере сейчас. Возможно, она даже к нам заедет в скором времени, если ей, конечно, снова не взбредёт в голову отчудить что-нибудь безумное."
+    ""
 
 # game/dialogues/breakfast.rpy:858
 translate crowdin breakfast_35_0a7cc259:
 
     # Alice_12 "А что она в тот раз такое сделала?"
+    ""
 
 # game/dialogues/breakfast.rpy:859
 translate crowdin breakfast_35_a8da0503:
 
     # Kira_14 "Давайте не будем об этом... Я стараюсь это забыть!"
+    ""
 
 # game/dialogues/breakfast.rpy:860
 translate crowdin breakfast_35_4a19b78c:
 
     # Max_08 "Хорошо... Она так и называет меня Макси?"
+    ""
 
 # game/dialogues/breakfast.rpy:861
 translate crowdin breakfast_35_2a3d1c38:
 
     # Kira_05 "Может быть да, а может и нет... Узнаешь, если она всё же к нам приедет."
+    ""
 
 # game/dialogues/breakfast.rpy:862
 translate crowdin breakfast_35_e6830c16:
 
     # Alice_07 "Мы так давно её не видели. Было бы здорово, если бы она к нам заглянула."
+    ""
 
 # game/dialogues/breakfast.rpy:863
 translate crowdin breakfast_35_79b424d8:
 
     # Ann_02 "Да, Кира. Мы будем рады её увидеть. Думаю, завтрак мы на этом закончим. Спасибо вам всем!"
+    ""
 
 # game/dialogues/breakfast.rpy:870
 translate crowdin breakfast_after_showdown_with_eric_d26cf396:
 
     # Ann_00 "Всем приятного аппетита! Давайте просто помолчим и поедим."
+    ""
 
 # game/dialogues/breakfast.rpy:871
 translate crowdin breakfast_after_showdown_with_eric_8a681cc1:
 
     # Max_00 "Конечно..."
+    ""
 
 # game/dialogues/breakfast.rpy:872
 translate crowdin breakfast_after_showdown_with_eric_fcdb0431:
 
     # Lisa_10 "Подожди, мам, ты почему такая грустная? Неужели до сих пор грустишь из-за Эрика?"
+    ""
 
 # game/dialogues/breakfast.rpy:873
 translate crowdin breakfast_after_showdown_with_eric_59835e43:
 
     # Alice_05 "Мама, да не переживай ты так! Мужиков этих, как грязи, а ты у нас красавица! Они к тебе сами слетаться будут, как пчёлы на мёд, только выбирай!"
+    ""
 
 # game/dialogues/breakfast.rpy:874
 translate crowdin breakfast_after_showdown_with_eric_64589ce5:
 
     # Max_07 "Вот не надо... Что-то случилось?"
+    ""
 
 # game/dialogues/breakfast.rpy:875
 translate crowdin breakfast_after_showdown_with_eric_523c4edf:
 
     # Ann_12 "Эээ... В некотором смысле, да... Это всё из-за работы..."
+    ""
 
 # game/dialogues/breakfast.rpy:876
 translate crowdin breakfast_after_showdown_with_eric_aa6a0925:
 
     # Kira_14 "Аня, что опять стряслось?! На тебе лица нет!"
+    ""
 
 # game/dialogues/breakfast.rpy:877
 translate crowdin breakfast_after_showdown_with_eric_c53523b1:
 
     # Max_09 "Да, мам... в чём дело?"
+    ""
 
 # game/dialogues/breakfast.rpy:878
 translate crowdin breakfast_after_showdown_with_eric_d19c6569:
 
     # Ann_14 "Нуу... Если вы помните, то Эрик мой начальник и, как вы все прекрасно понимаете, теперь у нас с ним складываются весьма натянутые отношения."
+    ""
 
 # game/dialogues/breakfast.rpy:879
 translate crowdin breakfast_after_showdown_with_eric_e556daca:
 
     # Alice_06 "Ничего себе... Я и забыла, что вы работаете вместе. Так может это и к лучшему? Может тебе уволиться, чтобы нервы не трепать? Устроишься в другое место! Лучше прежнего!"
+    ""
 
 # game/dialogues/breakfast.rpy:880
 translate crowdin breakfast_after_showdown_with_eric_8b47b3d2:
 
     # Max_00 "Согласен с Алисой!"
+    ""
 
 # game/dialogues/breakfast.rpy:881
 translate crowdin breakfast_after_showdown_with_eric_6cb65c7a:
 
     # Kira_15 "Слушай, Ань, а может тебе и правда уйти? Как можно терпеть каждый день человека, который сделал тебе столько гадостей?"
+    ""
 
 # game/dialogues/breakfast.rpy:882
 translate crowdin breakfast_after_showdown_with_eric_d661b13d:
 
     # Ann_13 "Боюсь, что с этим могут быть проблемы..."
+    ""
 
 # game/dialogues/breakfast.rpy:883
 translate crowdin breakfast_after_showdown_with_eric_024b2013:
 
     # Max_09 "В каком смысле, мам?"
+    ""
 
 # game/dialogues/breakfast.rpy:884
 translate crowdin breakfast_after_showdown_with_eric_f91c5150:
 
     # Ann_14 "В общем, он очень злопамятным оказался. Пообещал, что постарается, чтобы я никогда не смогла найти приличную работу в этом городе. Злорадствует, гад!"
+    ""
 
 # game/dialogues/breakfast.rpy:885
 translate crowdin breakfast_after_showdown_with_eric_bfdeb3ee:
 
     # Max_16 "Вот подонок! И это после всего, что он тут устроил?!"
+    ""
 
 # game/dialogues/breakfast.rpy:886
 translate crowdin breakfast_after_showdown_with_eric_5b0614af:
 
     # Ann_17 "Наверное, я поступила слишком резко, выставив его за дверь..."
+    ""
 
 # game/dialogues/breakfast.rpy:887
 translate crowdin breakfast_after_showdown_with_eric_1dd25179:
 
     # Lisa_13 "Мам, что ты такое говоришь? Неужели ты готова смириться с тем, чтобы тебя и нас развращал этот мерзавец? Вдруг он действительно... маньяк!"
+    ""
 
 # game/dialogues/breakfast.rpy:888
 translate crowdin breakfast_after_showdown_with_eric_62c62745:
 
     # Ann_13 "Ага! То хвостом вертели, крутились вокруг него, подарочки принимали. Эрик хороший! Эрик добрый! Мама с Эриком так счастлива! А теперь маньяк?!"
+    ""
 
 # game/dialogues/breakfast.rpy:889
 translate crowdin breakfast_after_showdown_with_eric_ee4c327b:
 
     # Alice_16 "А тех доказательств, что предоставил Макс, тебе недостаточно? Может будет убедительнее, когда Эрик устроит оргию со всеми нами прямо у тебя на глазах?"
+    ""
 
 # game/dialogues/breakfast.rpy:890
 translate crowdin breakfast_after_showdown_with_eric_6ff1ea73:
 
     # Kira_01 "Прекрати, Аня, мы что-нибудь обязательно придумаем!"
+    ""
 
 # game/dialogues/breakfast.rpy:891
 translate crowdin breakfast_after_showdown_with_eric_66e7da4f:
 
     # Max_07 "Да, мам. Что-нибудь придумаем!"
+    ""
 
 # game/dialogues/breakfast.rpy:892
 translate crowdin breakfast_after_showdown_with_eric_e1136eba:
 
     # Ann_00 "Спасибо вам за поддержку, мои родные! Я постараюсь поменьше контактировать с Эриком. Если уже в конец достанет, то уйду с работы."
+    ""
 
 # game/dialogues/breakfast.rpy:893
 translate crowdin breakfast_after_showdown_with_eric_81418ab0:
 
     # Max_01 "Мы рядом, мам, это главное."
+    ""
 
 # game/dialogues/breakfast.rpy:894
 translate crowdin breakfast_after_showdown_with_eric_8d40d181:
 
     # Ann_01 "Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
-    new ""
+    ""
 
 translate crowdin strings:
 
     # game/dialogues/breakfast.rpy:13
     old "Конечно, мам..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:13
     old "А что, что-то случилось?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:27
     old "Посмотрим, какой ещё счёт придёт за жильё..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:27
     old "Да, это небо и земля. Ещё бы знать, где кидают?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:27
     old "А вот у меня кровать точно такая же..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:30
     old "Почему не нужно?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:30
     old "Ну, я тоже попробую заработать"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:37
     old "Как знать. Может быть, у него не всё чисто с законом и дом отберут"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:37
     old "Верно. У нас толком ничего и не было, чтобы планировать что-то отобрать"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:37
     old "Хотелось бы так думать..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:46
     old "Меня моя тоже устраивает"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:46
     old "Вот заработаю и куплю себе новую кровать!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:49
     old "Ага. Кстати, я планирую уже начать зарабатывать!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:57
     old "Поздравляю, Лиза!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:57
     old "Кстати, в какое время начинается учёба?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:57
     old "А школа платная?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:60
     old "Если нужна помощь - обращайся"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:60
     old "Ну, ты справишься!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:63
     old "Меня не за знания выгнали"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:63
     old "Ну, кое-что я знаю..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:66
     old "Обязательно меня доставать?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:66
     old "Нормально я учился..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:75
     old "А сама, такая умная, даже помощь сестрёнке не предложила!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:75
     old "Чему смогу, тому и научу..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:82
     old "Сегодня укороченный день?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:82
     old "Всего 5 часов?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:82
     old "Ну, удачи тебе в школе!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:85
     old "Мы в тебя верим..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:94
     old "А почему так мало?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:119
     old "Ой. Кого же мне это всё напоминает?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:119
     old "А вот и заработаю. Научусь что-то делать и сразу заработаю!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:119
     old "Ну а ты разве не дома сидишь в своём ноуте? Ты как зарабатывать планируешь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:123
     old "И что твой блог тебе даёт?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:123
     old "Много уже на нём заработала?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:123
     old "А у меня есть мозги!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:126
     old "Смотри, не захлебнись... рекой"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:126
     old "Ну, посмотрим на твою реку..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:133
     old "Ага, как Кардашьян"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:133
     old "Может быть, тебе подарить губозакатывательную машинку?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:140
     old "Да поумнее некоторых..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:140
     old "Меня не за оценки выперли!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:140
     old "Да мне школа и не нужна"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:149
     old "Да ты сама дома целыми днями сидишь!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:149
     old "Ага, дворником или посудомойкой?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:149
     old "Вот сама бы и шла работать по объявлению!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:162
     old "Ага, всё же так просто..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:162
     old "И что ты будешь рекламировать?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:162
     old "Сколько миллионов подписчиков у тебя, говоришь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:165
     old "Да уж, делом. Деловая..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:165
     old "Не перетрудись!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:165
     old "Я хотя бы реалист!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:174
     old "Бьюти-блогеров как грязи. Чем ты лучше их?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:174
     old "Думаешь, кому-то нужна твоя реклама?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:174
     old "Всё фантазируешь..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:183
     old "У меня есть планы и идеи"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:183
     old "Я тоже что-то придумаю"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:183
     old "Ага, десять миллионов..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:194
     old "Ты им звонила, мам, узнала где наши вещи?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:194
     old "Ничего страшного, купим новую!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:194
     old "Я не понял, а где кондиционеры?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:197
     old "Ну и обойдёмся без неё"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:197
     old "Вот заработаю и куплю всё, что потеряли..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:201
     old "Может и рад. Мне стесняться нечего!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:201
     old "Да всем плевать, в чём ты там что ведёшь"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:201
     old "Раз ты такой успешный блогер, купишь новые"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:204
     old "Что, богатый жизненный опыт?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:204
     old "Да я хоть сейчас покажу!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:204
     old "На слабо берёшь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:213
     old "Да на тебя вещей не напасёшься!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:213
     old "У тебя репа не треснет с такими запросами?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:220
     old "И что ты там раскручиваешь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:220
     old "Я придумаю и заработаю!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:231
     old "Ну и купим, без проблем"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:231
     old "Вот попробую заработать и всё наладится"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:231
     old "Ну что, копим на кондиционеры?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:238
     old "Ну а если что, всегда можно снять лишнее"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:238
     old "Да я бы и в трусах не прочь ходить"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:241
     old "Я не против!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:241
     old "Начинай, я уже в предвкушении..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:241
     old "Ну и ходи в своих джинсах дома"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:244
     old "Да я хоть сейчас!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:244
     old "На слабо разводишь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:244
     old "Я тебе покажу. Всё покажу..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:262
     old "Кто о чём, а Алиса о шоппинге..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:262
     old "Сначала заработай"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:269
     old "А может быть, Лиза и не против?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:269
     old "Я же в трусах, а не без них"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:269
     old "А это тут причём?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:279
     old "Да моей купилке любой позавидует!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:279
     old "А у самой то денег куры не клюют, да?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:279
     old "Ну вот возьму и заработаю"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:282
     old "А ты чем зарабатываешь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:289
     old "Не всё то шоколад, что коричневого цвета!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:299
     old "Не сомневаюсь"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:299
     old "Вот ещё..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:307
     old "Хорошо, я посмотрю"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:307
     old "А что за коробки?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:312
     old "Понял. Посмотрю..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:337
     old "Я не балбес! Я всё знаю!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:337
     old "Меня не за знания выгнали!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:348
     old "{i}Наблюдать{/i}"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:348
     old "Мама! Лиза права. Дай ей шанс подготовиться. Я ей помогу!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:369
     old "Ясно..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:369
     old "Я тут вообще ни при чём"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:369
     old "{i}молчать{/i}"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:387
     old "Конечно, Лиза!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:395
     old "Какие картины?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:395
     old "Ты про тех голых женщин в ваших спальнях?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:398
     old "И ничего я не пялился!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:398
     old "Ну и что. Хорошие картины..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:410
     old "Что, от Эрика?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:410
     old "Что, сам Эрик приедет?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:410
     old "Тогда поспеши!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:413
     old "Что-то я сомневаюсь..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:413
     old "Может быть. Тогда, поспеши!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:449
     old "Мама всё правильно говорит!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:456
     old "Может быть, помочь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:466
     old "Э... Почему кроме меня?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:466
     old "Не очень то и хотелось..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:469
     old "Так у вас же денег нет?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:469
     old "И кто вас повезёт?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:486
     old "Так ты знакомишь Эрика с семьёй? Без меня?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:486
     old "Надеюсь, я то его увижу, когда вернётесь?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:495
     old "Ага! Почти?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:495
     old "И какие недостатки?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:500
     old "А вы уже признались?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:500
     old "Кто говорит о свадьбе?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:500
     old "А ты сама не слишком спешишь?!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:510
     old "А я рад. Правда."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:510
     old "Мне просто любопытно!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:544
     old "{i}закончить завтрак{/i}"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:560
     old "Ну, я его не знаю..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:560
     old "А вдруг он не тот, за кого себя выдаёт"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:560
     old "Я переживаю о маме"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:567
     old "Ну не знаю. Может, он маньяк..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:567
     old "Дело не в этом, я не знаю его мотивов..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:567
     old "Может он очередной придурок!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:579
     old "Ладно, ладно. Посмотрим..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:579
     old "Да я рад..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:610
     old "Как о чём? Про ночь с Эриком!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:610
     old "Я про визит к Эрику..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:621
     old "А что сразу я? Но да, я согласен с Алисой..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:631
     old "Да, вот интересно, как часто он будет нарушать это пространство..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:631
     old "Ага, мне просто любопытно..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:637
     old "Ого, так часто?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:637
     old "Может, ему переехать сюда тогда?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:637
     old "Может, тебе к нему переехать?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:637
     old "Понятно..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:654
     old "Никогда!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:705
     old "Какого хрена, мам?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:705
     old "Отличная идея, мам!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:708
     old "Да он козёл!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:708
     old "Извини, мам..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:754
     old "Горничной Эрика!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:754
     old "Секретаршей"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:754
     old "{i}промолчать{/i}"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:757
     old "В общем, секретарша..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:764
     old "Ну я так и сказал - секретарша..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:779
     old "Подонок, каких мало..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:779
     old "Нормальный мужик"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:782
     old "Извини, мам, я пошутил..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:782
     old "Ну и сниму. От своих слов я не отказываюсь!"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:789
     old "Очень смешно, тётя Кира..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:789
     old "Вас тоже пороли?"
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:798
     old "А ещё он маме предложение сделал..."
     new ""
+#--- ""
 
     # game/dialogues/breakfast.rpy:798
     old "Ну, не настолько хороший..."
     new ""
+#--- ""
 

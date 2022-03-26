@@ -1,30 +1,33 @@
-#     old ""
-#     new ""
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/core/characters.po\n"
-# "X-french-File-ID: 3442\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-26 10:12\n"
+    old ""
+    ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/characters.po\n"
+"X-Crowdin-File-ID: 3442\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
-translate french strings:
+translate crowdin strings:
 
     # game/core/characters.rpy:230
     old "Мама"
-    new "Maman"
+    new ""
+#--- ""
 
     # game/core/characters.rpy:356
     old "Майя"
-    new "Maya"
+    new ""
+#--- ""
 
     # game/core/characters.rpy:369
     old "Сэм"
-    new "Sam"
+    new ""
+#--- ""
 

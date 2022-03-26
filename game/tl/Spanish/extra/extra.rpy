@@ -1,5 +1,5 @@
     old ""
-    new ""
+    ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -18,293 +18,366 @@ translate crowdin strings:
 
     # game/extra/extra.rpy:60
     old "Новый купальник Лизы"
-    new "El nuevo bañador de Lisa"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Извинительная пижамка для Алисы"
-    new "Pijama apologético para Alice"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Тёмное кружево"
-    new "Encaje oscuro"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Давай я нанесу крем"
-    new "Déjame aplicar crema"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Ножкам приятно"
-    new "Las piernas son bonitas"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Помассирую не только ножки"
-    new "Masajear no solo las piernas"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Могу не только руками"
-    new "No puedo solo con mis manos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Ответная благодарность"
-    new "Agradecimientos sinceros"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Первый массаж ног"
-    new "Primer masaje de pies"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Внимание к пальчикам"
-    new "Atención a los dedos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Разомнём и плечики"
-    new "Vamos a trillar y perchas"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Массаж для любимой тёти"
-    new "Masaje para tu querida tía"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Совсем другой массаж"
-    new "Un masaje completamente diferente"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Я спасу их от солнца"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Ночные страхи"
-    new "Terrores nocturnos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Кто это там ползёт"
-    new "¿Quién se arrastra allí?"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Монстр в ванной комнате"
-    new "Monstruo en el baño"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Держи и не отпускай"
-    new "Guarda y no lo suéjate"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "После клуба"
-    new "Después del club"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Я была плохой девочкой"
-    new "Era una chica mala"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Как тебе такое?"
-    new "¿Qué le parece eso?"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Я принес тебе полотенце!"
-    new "¡Te traje una toalla!"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Первые снимки для блога Алисы"
-    new "Primeras fotos para el blog de Alice"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Я обошёл Эрика с подарком для Алисы"
-    new "Caminé alrededor de Eric con un regalo para Alice."
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Попка, которую я теперь могу отшлёпать"
-    new "Un culo que puedo azotar ahora"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Меня нужно наказать именно так!"
-    new "¡Así es como necesito ser castigado!"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Смотрим порно вместе с тётей"
-    new "Mira con mi tía"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Первый урок поцелуев"
-    new "La primera lección de besos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "А это уже совсем не массаж!"
-    new "¡Y esto no es un masaje en absoluto!"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Второй урок поцелуев"
-    new "La segunda lección de besos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Третий урок поцелуев"
-    new "La tercera lección de los besos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Горячее, чем порно"
-    new "Más caliente que"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Небольшое приключение перед сном"
-    new "Una pequeña aventura antes de acostarse"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Не зря купил сорочку"
-    new "No es de extrañar que haya comprado una camisa"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "С меня приятный должок"
-    new "Tengo una buena deuda."
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Стриптиз после клуба"
-    new "Striptease después del club"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Порно-портфолио для Киры"
-    new "portafolio para Kira"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Немного БДСМ от Киры"
-    new "Un poco de BDSM de Kira"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Хватит мять сиськи"
-    new "Deja de arrugar las sienes"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "И помылись, и порезвились"
-    new "Nos bañamos, nos divertimos"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Кто нас фотографирует?"
-    new "¿Quién nos fotografió?"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Вместо ночного плаванья"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Вкусные уроки с сестрёнкой"
-    new "Deliciosas lecciones con mi hermana"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Кажется, мы что-то забыли"
-    new "Parece que hemos olvidado algo."
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Всё ниже и ниже"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Больше, чем помощь с домашним заданием"
-    new "Más que ayuda con la tarea"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Ужастики в обнимку с Лизой"
-    new "Horror en un abrazo con Lisa"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Без майки куда интереснее"
-    new "Sin camiseta es mucho más interesante"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Долой смущение"
-    new "Abajo la vergüenza"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Это точно триллер-детектив?"
-    new "¿Es un thriller detectivesco?"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Полотенце снова сползает..."
-    new "La toalla se desliza de nuevo..."
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Йога с мамой"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Ещё больше массажа у ТВ"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Не надо печалиться"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Урок по минету от мамы и Эрика"
-    new "lección de mamá y Eric"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Так близко к маминой попке"
-    new "Tan cerca del de mamá"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Глубокий минет в мамином исполнении"
-    new "En lo profundo de la versión de mi madre"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Секс-шоу с первых рядов"
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Её первые познания..."
-    new "Su primer conocimiento..."
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Как возбудить ещё больше?"
-    new "¿Cómo emocionar aún más?"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Нежно и аккуратно!"
-    new "¡Suave y ordenado!"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Как долго это нужно делать?"
-    new "¿Cuánto tiempo se debe hacer esto?"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Стесняется трогать..."
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Ещё стесняется, но трогает..."
     new ""
+#--- ""
 
     # game/extra/extra.rpy:60
     old "Кружевное боди для Алисы от Эрика"
-    new "Bodysuit de encaje para Alice por Eric"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:168
     old "ВОСПОМИНАНИЯ"
-    new "RECUERDOS"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:171
     old "ФОТОСНИМКИ"
-    new "FOTOS"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:222
     old "Воспоминание недоступно"
-    new "La memoria no está disponible"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:228
     old "Воспоминание ещё не открыто"
-    new "La memoria aún no está abierta"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:234
     old "В вашей коллекции ещё нет фотоснимков."
-    new "Todavía no hay fotos en su colección."
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:303
     old "Предыдущий снимок"
-    new "Foto anterior"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:309
     old "Вернуться в коллекцию"
-    new "Volver a la colección"
+    new ""
+#--- ""
 
     # game/extra/extra.rpy:314
     old "Следующий снимок"
-    new "Siguiente imagen"
+    new ""
+#--- ""
 

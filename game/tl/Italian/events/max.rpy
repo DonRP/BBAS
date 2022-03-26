@@ -1,5 +1,5 @@
 #     old ""
-#     new ""
+# "
 # "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 # "X-italian-Project: big-brother-as\n"
 # "X-italian-Project-ID: 461654\n"
@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 10:15\n"
+# "PO-Revision-Date: 2022-03-26 14:37\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -708,13 +708,13 @@ translate italian need_money_14f2a995:
 translate italian cheat_money_46383d7e:
 
     # На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-    new "In questa fase del gioco, Max non può avere una tale quantità. L'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
+    "In questa fase del gioco, Max non può avere una tale quantità. L'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
 
 # game/events/max.rpy:1034
 translate italian cheat_money_strateg_16b9bde6:
 
     # Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
-    new "O sei un ladro pulito o un buon stratega. In ogni caso, non hai bisogno di metodi aggiuntivi per ottenere denaro. Si prega di notare che l'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
+    "O sei un ladro pulito o un buon stratega. In ogni caso, non hai bisogno di metodi aggiuntivi per ottenere denaro. Si prega di notare che l'hacking del gioco può portare a conseguenze imprevedibili, in particolare, alla perdita di alcune caratteristiche e funzionalità del gioco, nonché al verificarsi di errori critici che non ti permetteranno di continuare il gioco."
 
 # game/events/max.rpy:1042
 translate italian about_credit_3ac552dc:
@@ -1045,4 +1045,5 @@ translate italian strings:
     # game/events/max.rpy:1146
     old "{i}идти к Эрику с включённым диктофоном{/i}"
     new "{i}per andare da Eric con il registratore acceso{/i}"
+#--- "Ignore this. translate only: One"
 
