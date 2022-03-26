@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:19\n"
+"PO-Revision-Date: 2022-03-26 10:12\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
+# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
 msgstr "{i}rechercher sous le lit{/i}"
 
