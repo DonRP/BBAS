@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-08 15:20\n"
+"PO-Revision-Date: 2022-03-26 10:11\n"
 
-# TODO: Translation updated at 2022-03-05 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
+# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}BOUTIQUE EN LIGNE{/b}"
 
@@ -220,175 +220,175 @@ msgstr "Il n’y a rien dans l’inventaire pour le moment"
 msgid "ПЕРСОНАЖИ"
 msgstr "PERSONNAGES"
 
-# XX## game/core/screens.rpy:1444
+# XX## game/core/screens.rpy:1447
 msgid "Отношения с [char_name!t]:"
 msgstr "Relation avec [char_name!t]:"
 
-# XX## game/core/screens.rpy:1455
+# XX## game/core/screens.rpy:1458
 msgid "Запас сил:"
 msgstr "Réserve de force:"
 
-# XX## game/core/screens.rpy:1460
+# XX## game/core/screens.rpy:1463
 msgid "Тренированность:"
 msgstr "Aptitude:"
 
-# XX## game/core/screens.rpy:1465
+# XX## game/core/screens.rpy:1468
 msgid "Чистота:"
 msgstr "Propreté:"
 
-# XX## game/core/screens.rpy:1472
+# XX## game/core/screens.rpy:1475
 msgid "Навыки:"
 msgstr "Compétences:"
 
-# XX## game/core/screens.rpy:1475
+# XX## game/core/screens.rpy:1478
 msgid "Навык убеждения:"
 msgstr "Force de persuasion:"
 
-# XX## game/core/screens.rpy:1480
+# XX## game/core/screens.rpy:1483
 msgid "Навык скрытности:"
 msgstr "Discrétion:"
 
-# XX## game/core/screens.rpy:1486
+# XX## game/core/screens.rpy:1489
 msgid "Навык массажа:"
 msgstr "Compétence de massage:"
 
-# XX## game/core/screens.rpy:1492
+# XX## game/core/screens.rpy:1495
 msgid "Навык эро.массажа:"
 msgstr "Compétence de massage érotique:"
 
-# XX## game/core/screens.rpy:1498
+# XX## game/core/screens.rpy:1501
 msgid "Навык поцелуев:"
 msgstr "Compétence pour embrasser:"
 
-# XX## game/core/screens.rpy:1504
+# XX## game/core/screens.rpy:1507
 msgid "Сексуальный опыт:"
 msgstr "Expérience sexuelle :"
 
-# XX## game/core/screens.rpy:1516
+# XX## game/core/screens.rpy:1519
 msgid "Настроение:"
 msgstr "Humeur:"
 
-# XX## game/core/screens.rpy:1522
+# XX## game/core/screens.rpy:1525
 msgid "Уровень отношений:"
 msgstr "Niveau de relation :"
 
-# XX## game/core/screens.rpy:1536
+# XX## game/core/screens.rpy:1539
 msgid "Влияние Макса:"
 msgstr "L’influence de Max :"
 
-# XX## game/core/screens.rpy:1541
+# XX## game/core/screens.rpy:1544
 msgid "Влияние Эрика:"
 msgstr "L’influence d’Eric :"
 
-# XX## game/core/screens.rpy:1550
+# XX## game/core/screens.rpy:1553
 msgid "Лучше пока не попадаться на подглядывании за Лизой в душе"
 msgstr "Il vaut mieux ne pas se faire prendre en train d’espionner Lisa sous la douche"
 
-# XX## game/core/screens.rpy:1554
+# XX## game/core/screens.rpy:1557
 msgid "Предпочтения в сладостях:"
 msgstr "Préférence de sucreries:"
 
-# XX## game/core/screens.rpy:1558
+# XX## game/core/screens.rpy:1561
 msgid "Любит \"Ritter Sport\""
 msgstr "Aime 'Ritter Sport'"
 
-# XX## game/core/screens.rpy:1560
+# XX## game/core/screens.rpy:1563
 msgid "Сгодится \"Raffaello\""
 msgstr "'Raffaello' fera l'affaire"
 
-# XX## game/core/screens.rpy:1562
+# XX## game/core/screens.rpy:1565
 msgid "Ненавидит \"Ferrero Rocher\""
 msgstr "Déteste 'Ferrero Rocher'"
 
-# XX## game/core/screens.rpy:1567
+# XX## game/core/screens.rpy:1570
 msgid "Предпочтения в массаже:"
 msgstr "Préférences de massage:"
 
-# XX## game/core/screens.rpy:1570
+# XX## game/core/screens.rpy:1573
 msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
 msgstr "- Après un massage des mains, Lisa peut se laisser masser les épaules (et plus encore) tout en faisant ses devoirs"
 
-# XX## game/core/screens.rpy:1574
+# XX## game/core/screens.rpy:1577
 msgid "Лучше пока не попадаться на подглядывании за Алисой в душе"
 msgstr "Il vaut mieux ne pas se faire prendre à espionner Alice sous la douche"
 
-# XX## game/core/screens.rpy:1582
+# XX## game/core/screens.rpy:1585
 msgid "Любит \"Ferrero Rocher\""
 msgstr "Aime 'Ferrero Rocher'"
 
-# XX## game/core/screens.rpy:1584
+# XX## game/core/screens.rpy:1587
 msgid "Сгодится \"Ritter Sport\""
 msgstr "'Ritter Sport' fera l'affaire"
 
-# XX## game/core/screens.rpy:1586
+# XX## game/core/screens.rpy:1589
 msgid "Ненавидит \"Raffaello\""
 msgstr "Déteste 'Raffaello'"
 
-# XX## game/core/screens.rpy:1590
+# XX## game/core/screens.rpy:1593
 msgid "Действие алкоголя:"
 msgstr "Effet de l’alcool:"
 
-# XX## game/core/screens.rpy:1593
+# XX## game/core/screens.rpy:1596
 msgid "???"
 msgstr "???"
 
-# XX## game/core/screens.rpy:1597
+# XX## game/core/screens.rpy:1600
 msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
 msgstr "- Je ne me souviens pas de tout ce qui s’est passé pendant qu’elle était ivre"
 
-# XX## game/core/screens.rpy:1603
+# XX## game/core/screens.rpy:1606
 msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
 msgstr "- Si vous commencez un massage pour Alice dans la cour par ses jambes (bas des jambes), vous avez plus de chances de masser le reste de son corps"
 
-# XX## game/core/screens.rpy:1605
+# XX## game/core/screens.rpy:1608
 msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
 msgstr "- Vous pouvez masser les jambes (et plus encore) à Alice lors d'un massage devant la TV avec l'aide du chocolats à la liqueur"
 
-# XX## game/core/screens.rpy:1607
+# XX## game/core/screens.rpy:1610
 msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
 msgstr "- Si Alice s'est laissée masser les jambes devant la TV, vous pouvez la voir se masturber sur la caméra avant d'aller vous coucher"
 
-# XX## game/core/screens.rpy:1650
+# XX## game/core/screens.rpy:1653
 msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
 msgstr "DÉFINIR LES VÊTEMENTS DU PERSONNAGE"
 
-# XX## game/core/screens.rpy:1747
+# XX## game/core/screens.rpy:1750
 msgid "Автосмена каждые 2 дня"
 msgstr "Changement automatique tous les 2 jours"
 
-# XX## game/core/screens.rpy:1758
+# XX## game/core/screens.rpy:1761
 msgid "Сделать текущей"
 msgstr "Utiliser comme vêtements actuel"
 
-# XX## game/core/screens.rpy:1806
+# XX## game/core/screens.rpy:1809
 msgid "[view_cam[1].public]"
 msgstr "[view_cam[1].public]"
 
-# XX## game/core/screens.rpy:1889
+# XX## game/core/screens.rpy:1892
 msgid "ВНИМАНИЕ"
 msgstr "ATTENTION"
 
-# XX## game/core/screens.rpy:1890
+# XX## game/core/screens.rpy:1893
 msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 msgstr "CONTENU POUR ADULTES"
 
-# XX## game/core/screens.rpy:1894
+# XX## game/core/screens.rpy:1897
 msgid "Эта игра содержит контент сексуального характера"
 msgstr "Ce jeu contient du contenu sexuel"
 
-# XX## game/core/screens.rpy:1895
+# XX## game/core/screens.rpy:1898
 msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 msgstr "En continuant, vous confirmez que vous êtes assez vieux pour un tel contenu"
 
-# XX## game/core/screens.rpy:1897
+# XX## game/core/screens.rpy:1900
 msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 msgstr "Tous les personnages représentés dans ce jeu sont fictifs et âgés de plus de 18 ans"
 
-# XX## game/core/screens.rpy:1901
+# XX## game/core/screens.rpy:1904
 msgid "Продолжить"
 msgstr "Continuer"
 
-# XX## game/core/screens.rpy:1914
+# XX## game/core/screens.rpy:1917
 msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 msgstr "LES VÊTEMENTS DES PERSONNAGES DANS LE MENU PRINCIPAL"
 
