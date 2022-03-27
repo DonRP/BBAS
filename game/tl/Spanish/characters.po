@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-03-27 14:44\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/characters.rpy:230
 msgid "Мама"
@@ -21,12 +21,12 @@ msgstr[1] ""
 # XX## game/core/characters.rpy:356
 msgid "Майя"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Maya"
 msgstr[1] ""
 
 # XX## game/core/characters.rpy:369
 msgid "Сэм"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sam"
 msgstr[1] ""
 
