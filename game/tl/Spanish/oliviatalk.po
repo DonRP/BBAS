@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+"PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/oliviatalk.rpy:19 ## translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
@@ -999,25 +999,25 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Aunque, no... De hecho, tengo cosas que hacer..."
 msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid "Давай перенесём..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Vamos a movernos..."
 msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:262
 msgid "Тогда приятного вам просмотра..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Entonces disfruta de tu visualización..."
 msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:265
 msgid "{i}идти в гостиную{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}ir a la sala de estar{/i}"
 msgstr[1] ""
 
 # XX## game/dialogues/oliviatalk.rpy:320
