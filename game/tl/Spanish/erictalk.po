@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+"PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -1499,67 +1499,67 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/dialogues/erictalk.rpy:11
 msgid "{i}В другой раз...{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}Otra vez... {/i}"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:55
 msgid "Э... Ну не совсем так..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Este... Bueno, no exactamente..."
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:55
 msgid "А так можно?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¿Es posible?"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:65
 msgid "Кстати, как ты это делаешь?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Por cierto, ¿cómo lo haces?"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:65
 msgid "Отлично! Спасибо, Эрик."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Es genial! Gracias, Eric."
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:71
 msgid "Это угроза?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¿Es una amenaza?"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:71
 msgid "Хорошо, Эрик!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Está bien, Eric!"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:172
 msgid "{i}сесть на кровать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}se sientan en la cama{/i}"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:187
 msgid "{i}слегка подвинуться{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}mueve ligeramente{/i}"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:248
 msgid "{i}смотреть, как мама сосёт{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}mira a mamá chupar{/i}"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:307
 msgid "{i}пересесть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}cambiar{/i}"
 msgstr[1] ""
 
 # XX## game/dialogues/erictalk.rpy:399
