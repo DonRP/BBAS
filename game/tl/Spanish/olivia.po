@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+"PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/olivia.rpy:38 ## translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07] {m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m} [nointeract]"
@@ -1383,37 +1383,37 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/events/olivia.rpy:37
 msgid "{i}подсмотреть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}espía{/i}"
 msgstr[1] ""
 
 # XX## game/events/olivia.rpy:97
 msgid "{i}дождаться девчонок{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}espera a las chicas{/i}"
 msgstr[1] ""
 
 # XX## game/events/olivia.rpy:189
 msgid "Конечно с вами!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Por supuesto contigo!"
 msgstr[1] ""
 
 # XX## game/events/olivia.rpy:328
 msgid "Я с вами!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Estoy contigo!"
 msgstr[1] ""
 
 # XX## game/events/olivia.rpy:416
 msgid "{i}раздеться и сесть рядом{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}desnudarme y sentarte al lado de{/i}"
 msgstr[1] ""
 
 # XX## game/events/olivia.rpy:671
 msgid "{i}идти в свою комнату{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}ir a tu habitación{/i}"
 msgstr[1] ""
 
 # XX## game/events/olivia.rpy:730
