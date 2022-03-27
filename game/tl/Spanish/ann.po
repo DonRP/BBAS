@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+"PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/ann.rpy:11 ## translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
@@ -869,31 +869,31 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/events/ann.rpy:195
 msgid "{i}Отвернуться{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}Alejarse{/i}"
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:206
 msgid "Я не подглядывал. Это случайность!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "No estaba mirando. ¡Fue un accidente!"
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:206
 msgid "Мам, извини..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Lo siento..."
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:206
 msgid "Попка у тебя - что надо!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Tu es lo que necesitas!"
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:278
 msgid "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Soy yo, Max. ¿Puedo entrar? Tengo algo para ti."
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:372
@@ -917,7 +917,7 @@ msgstr[1] ""
 # XX## game/events/ann.rpy:427
 msgid "У меня для тебя кое-что есть."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Tengo algo para ti."
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:427
@@ -971,13 +971,13 @@ msgstr[1] ""
 # XX## game/events/ann.rpy:522
 msgid "Ну мам! Этого было так мало, давай ещё..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Vamos mamá! Era tan poco, vamos a tener más..."
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:522
 msgid "Конечно, мам! Хорошего тебе дня..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Por supuesto, mamá! Que tengas un buen día..."
 msgstr[1] ""
 
 # XX## game/events/ann.rpy:604
