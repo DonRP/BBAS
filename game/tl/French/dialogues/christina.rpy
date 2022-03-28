@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+"PO-Revision-Date: 2022-03-28 14:54\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/christina.rpy:7 ## translate crowdin christina_first_talk_a072d515:
 msgid "[Christine_03] А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
@@ -135,12 +135,12 @@ msgstr "[Max_01] Moi aussi, Christine ! Au revoir."
 # XXtranslate crowdin strings:XX# XX## game/dialogues/christina.rpy:25
 msgid "Хорошего тебе дня!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bonne journée!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/christina.rpy:25
 msgid "А чем вечером будешь заниматься? Давай погуляем!?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Que vas-tu faire ce soir? Allons nous nous promener !?"
+msgstr[1] "Ignore this. translate only: One"
 

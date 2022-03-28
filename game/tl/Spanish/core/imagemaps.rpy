@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-03-27 14:44\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/imagemaps.rpy:31
 msgid "{i}искать под кроватью{/i}"
@@ -21,49 +21,49 @@ msgstr[1] ""
 # XX## game/core/imagemaps.rpy:34
 msgid "{i}искать в тумбочке{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}mira en la mesita de noche{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:37
 msgid "{i}искать в столе{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}buscar en la tabla{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:56
 msgid "{i}массировать ступни{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}masajea tus pies{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:64
 msgid "{i}массировать голени{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}masajear las espinillas{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:74
 msgid "{i}массировать бёдра{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}masajea tus caderas{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:78
 msgid "{i}массировать плечи{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}masajear los hombros{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:82
 msgid "{i}массировать спину{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}masajea tu espalda{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:87
 msgid "{i}массировать попку{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{i}masajear mi culo{/i}"
 msgstr[1] ""
 
 # XX## game/core/imagemaps.rpy:108

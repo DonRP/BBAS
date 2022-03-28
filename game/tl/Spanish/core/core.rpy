@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-03-27 14:44\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
@@ -67,7 +67,7 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/core/core.rpy:411
 msgid "В интернет-магазине доступен новый товар."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Un nuevo producto está disponible en la tienda en línea."
 msgstr[1] ""
 
 # XX## game/core/core.rpy:817

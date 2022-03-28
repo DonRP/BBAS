@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+"PO-Revision-Date: 2022-03-28 14:55\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/alice_cam.rpy:25 ## translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
@@ -387,36 +387,36 @@ msgstr "[Max_08] {m}Eric est dans la chambre d'Alice aujourd'hui. Il semble essa
 # XXtranslate crowdin strings:XX# XX## game/events/alice_cam.rpy:57
 msgid "{i}Конечно{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Bien sûr{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Prendre l'appareil photo et aller à la fenêtre d'Alice.{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:74
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Putain, laisse-le se branler.{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:88
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Prendre l'appareil photo et aller sur le balcon.{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}продолжать смотреть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}continuer à chercher{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/alice_cam.rpy:332
 msgid "{i}достаточно{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}assez!{/i}"
+msgstr[1] "Ignore this. translate only: One"
 

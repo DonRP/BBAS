@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
@@ -1767,103 +1767,103 @@ msgstr ""
 # XXtranslate crowdin strings:XX# XX## game/dialogues/anntalk.rpy:71
 msgid "В другой раз..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "En otro momento..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:96
 msgid "Точно, извини..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Exactamente, lo siento..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:108
 msgid "Мне стыдно, но очень нужны деньги..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Estoy avergonzado, pero realmente necesito dinero..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:108
 msgid "Я могу сделать какую-то работу, чтобы не просто так выпрашивать деньги..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Puedo hacer algún trabajo para pedir dinero por una razón..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:108
 msgid "Ты права, стыдно. В другой раз..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Tienes razón, vergonzoso. Otra vez..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:112
 msgid "Ага! Спасибо, мам!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Ajá! ¡Gracias mamá!"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:112
 msgid "Может быть, я могу что-то сделать?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¿Tal vez pueda hacer algo?"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:123
 msgid "Может быть, почистить бассейн?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¿Tal vez limpiar la piscina?"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:123
 msgid "Ну, могу заказать продукты"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Bueno, puedo pedir productos"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:123
 msgid "Не знаю. Видимо, ничего..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "No sé. Aparentemente nada..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:128
 msgid "Может я могу ещё что-то сделать?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¿Tal vez pueda hacer otra cosa?"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:148
 msgid "Супер!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Perfecto!"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:178
 msgid "Конечно! Что смотреть будем?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "¡Claro! ¿Qué veremos?"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:178
 msgid "А я прикупил фильм на вечер. Посмотрим?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Y compré una película para la noche. ¿Ver?"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:178
 msgid "Мы не досмотрели один фильм. Помнишь?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "No terminamos una película. ¿Recordar?"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:202
 msgid "Не буду тебе мешать..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "No te molestaré..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:221
 msgid "Нет, не слышал о таком. Давай смотреть!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "No, no he oído hablar de ninguno. ¡Veamos!"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:221
@@ -1905,13 +1905,13 @@ msgstr[1] ""
 # XX## game/dialogues/anntalk.rpy:380
 msgid "Да, очень!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Sí, mucho!"
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:380
 msgid "Почти также, как сидеть рядом с тобой..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Casi como sentarse a tu lado..."
 msgstr[1] ""
 
 # XX## game/dialogues/anntalk.rpy:421

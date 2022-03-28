@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+"PO-Revision-Date: 2022-03-28 14:55\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/olivia.rpy:38 ## translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07] {m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m} [nointeract]"
@@ -1383,108 +1383,108 @@ msgstr "[Lisa_03] Je ne m'attendais pas à d'autres souhaits."
 # XXtranslate crowdin strings:XX# XX## game/events/olivia.rpy:37
 msgid "{i}подсмотреть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}espionner{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:97
 msgid "{i}дождаться девчонок{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}attendre les filles{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:189
 msgid "Конечно с вами!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bien sûr, avec vous !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:328
 msgid "Я с вами!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "J'en suis !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:416
 msgid "{i}раздеться и сесть рядом{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:671
 msgid "{i}идти в свою комнату{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}allez dans votre chambre{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:730
 msgid "{i}подождать за дверью, пока девочки переоденутся{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}attendre devant la porte pendant que les filles se changent {/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:824
 msgid "Аж глаза разбегаются, на кого смотреть..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Déjà les yeux se dispersent, qui regarder..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:824
 msgid "У меня встал!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "J'ai levé!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:824
 msgid "Извините... Мне стыдно, но смотритесь вы красиво!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Excusez-moi... J'ai honte, mais vous êtes belle!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:841
 msgid "Сколько округлостей красивых! Глаза разбегаются..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Combien de rondeurs sont belles! Les yeux s'enfuient..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:841
 msgid "Как-то даже в шортах тесно стало..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "D'une manière ou d'une autre, même en short, il est devenu étroit..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:841
 msgid "Кого-то угораздило, очень удачно для меня, снять трусики..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Quelqu'un a réussi, très bien pour moi, à enlever sa culotte..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:841
 msgid "Извините... Вид, конечно, очаровательнее некуда!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Excusez-moi... La vue, bien sûr, est plus charmante nulle part!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:908
 msgid "Да ладно вам, можете меня не стесняться!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Allez, n'hésitez pas!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:908
 msgid "Извините, не удержался... Хорошо выглядите, девчонки!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, je n'ai pas pu résister... Vous avez l'air bien, les filles!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:926
 msgid "А вы представьте, что меня тут на самом деле нет!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Et vous imaginez que je ne suis pas là!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/olivia.rpy:926
 msgid "Извините, не удержался... Красота ведь неописуемая!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, je n'ai pas pu résister... La beauté est indescriptible!"
+msgstr[1] "Ignore this. translate only: One"
 
