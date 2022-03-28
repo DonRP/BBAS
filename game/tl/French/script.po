@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+"PO-Revision-Date: 2022-03-28 14:56\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/script.rpy:58 ## translate crowdin intro_8dea4dcf:
 msgid "[Max_00] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
@@ -151,48 +151,48 @@ msgstr "[Max_04] Mais vous ne devez pas non plus en avoir peur. C'est grâce à 
 # XXtranslate crowdin strings:XX# XX## game/script.rpy:57
 msgid "{i}далее{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}suivant{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:57
 msgid "{i}пропустить{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}sauter - skipper{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:85
 msgid "{i}пару недель спустя...{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}quelques semaines plus tard... {/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:98
 msgid "{i}спустя неделю...{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}une semaine plus tard... {/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:104
 msgid "{i}Начать игру{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Démarrer le jeu{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:104
 msgid "{i}Повторить историю{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Répéter le prologue{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:121
 msgid "{i}всё ясно{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}tout est clair{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/script.rpy:121
 msgid "{i}повторить{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}répéter{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
