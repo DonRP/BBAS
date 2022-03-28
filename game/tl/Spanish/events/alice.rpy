@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/alice.po\n"
-"X-Crowdin-File-ID: 3472\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/alice.po\n"
+# "X-Crowdin-File-ID: 3472\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -89,8 +89,7 @@ translate crowdin alice_bath_ladder_acb863d5:
 # game/events/alice.rpy:103
 translate crowdin alice_sleep_night_e1c2fdd7:
 
-    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья...{/m}" nointeract
+    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract
     ""
 
 # game/events/alice.rpy:117
@@ -252,8 +251,7 @@ translate crowdin alice_sleep_night_56b097f3:
 # game/events/alice.rpy:208
 translate crowdin alice_sleep_morning_e1c2fdd7:
 
-    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья...{/m}" nointeract
+    # Max_00 "{m}Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья...{/m}" nointeract
     ""
 
 # game/events/alice.rpy:219
@@ -829,8 +827,7 @@ translate crowdin alice_shower_closer_peepeng_3d1ede2b:
 # game/events/alice.rpy:600
 translate crowdin alice_shower_not_luck_11b8b725:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n"
-"{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n{m}Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть...{/m}"
     ""
 
 # game/events/alice.rpy:619
@@ -3723,492 +3720,491 @@ translate crowdin strings:
 
     # game/events/alice.rpy:14
     old "{i}постучаться{/i}"
-    new ""
+    new "{i}knock{/i}"
 #--- ""
 
     # game/events/alice.rpy:14
     old "{i}заглянуть со двора{/i}"
-    new ""
+    new "{i}mirar desde el patio{/i}"
 #--- ""
 
     # game/events/alice.rpy:14
     old "{i}установить стремянку{/i}"
-    new ""
+    new "{i}instalar una stepladder{/i}"
 #--- ""
 
     # game/events/alice.rpy:14
     old "{i}воспользоваться стремянкой{/i}"
-    new ""
+    new "{i}usar una stepladder{/i}"
 #--- ""
 
     # game/events/alice.rpy:17
     old "Это я, Макс. Можно войти?"
-    new ""
+    new "Soy yo, Max. ¿Puedo entrar?"
 #--- ""
 
     # game/events/alice.rpy:61
     old "{i}смотреть ещё{/i}"
-    new ""
+    new "{i}ver más{/i}"
 #--- ""
 
     # game/events/alice.rpy:102
     old "{i}заглянуть в окно{/i}"
-    new ""
+    new "{i}mira por la ventana{/i}"
 #--- ""
 
     # game/events/alice.rpy:160
     old "{i}прокрасться в комнату{/i}"
-    new ""
+    new "{i}colarse en la habitación{/i}"
 #--- ""
 
     # game/events/alice.rpy:360
     old "{i}продолжить смотреть{/i}"
-    new ""
+    new "{i}sigue mirando{/i}"
 #--- ""
 
     # game/events/alice.rpy:360
     old "{i}взглянуть со стороны{/i}"
-    new ""
+    new "{i}mira desde el exterior{/i}"
 #--- ""
 
     # game/events/alice.rpy:360
     old "{i}немного пошуметь{/i}"
-    new ""
+    new "{i}hacer un poco de ruido{/i}"
 #--- ""
 
     # game/events/alice.rpy:360
     old "{i}запустить паука к Алисе{/i}"
-    new ""
+    new "{i}lanzar araña a Alice{/i}"
 #--- ""
 
     # game/events/alice.rpy:382
     old "{i}спрятаться{/i}"
-    new ""
+    new "{i}ocultar{/i}"
 #--- ""
 
     # game/events/alice.rpy:415
     old "{i}принести Алисе полотенце{/i}"
-    new ""
+    new "{i}trae a Alice una toalla{/i}"
 #--- ""
 
     # game/events/alice.rpy:425
     old "{i}отдать Алисе полотенце{/i}"
-    new ""
+    new "{i}dale a Alice una toalla{/i}"
 #--- ""
 
     # game/events/alice.rpy:425
     old "{i}отдать Алисе полотенце (выронив его из одной руки){/i}"
-    new ""
+    new "{i}dale a Alice una toalla (dejándola caer de una mano){/i}"
 #--- ""
 
     # game/events/alice.rpy:432
     old "Да ладно, это ерунда, обращайся."
-    new ""
+    new "Vamos, eso es una tontería, ve un poco."
 #--- ""
 
     # game/events/alice.rpy:432
     old "А как же братика обнять?"
-    new ""
+    new "¿Qué tal un abrazo para tu hermano?"
 #--- ""
 
     # game/events/alice.rpy:454
     old "Конечно нет! Оно случайно выскочило из руки!"
-    new ""
+    new "¡Por supuesto que no! ¡Salió accidentalmente de mi mano!"
 #--- ""
 
     # game/events/alice.rpy:480
     old "Зато у меня руки свободны... {i}(обнять в ответ){/i}"
-    new ""
+    new "Pero mis manos están libres... {i}(abrazo en respuesta){/i}"
 #--- ""
 
     # game/events/alice.rpy:480
     old "Вот это другое дело! Рад был помочь."
-    new ""
+    new "¡Eso es otra cosa! Encantado de ayudar."
 #--- ""
 
     # game/events/alice.rpy:486
     old "Нет. Слишком - это вот так... {i}(обнять за попку){/i}"
-    new ""
+    new "No. También, es así... {i}(abrazar el culo){/i}"
 #--- ""
 
     # game/events/alice.rpy:486
     old "Может быть, чуть-чуть... Рад был помочь."
-    new ""
+    new "Tal vez un poco... Encantado de ayudar."
 #--- ""
 
     # game/events/alice.rpy:519
     old "{i}не убирать руки{/i}"
-    new ""
+    new "{i}no quitar las manos{/i}"
 #--- ""
 
     # game/events/alice.rpy:639
     old "{i}Бежать{/i}"
-    new ""
+    new "{i}Ejecutar{/i}"
 #--- ""
 
     # game/events/alice.rpy:717
     old "Хорошо, я подожду..."
-    new ""
+    new "¡Vale, no puedo esperar..."
 #--- ""
 
     # game/events/alice.rpy:930
     old "Выглядишь... шикарно!"
-    new ""
+    new "Mirar... ¡Elegante!"
 #--- ""
 
     # game/events/alice.rpy:930
     old "У меня для тебя презент..."
-    new ""
+    new "Tengo un regalo para ti..."
 #--- ""
 
     # game/events/alice.rpy:935
     old "Ты знаешь, я забыл..."
-    new ""
+    new "Ya sabes, me olvidé..."
 #--- ""
 
     # game/events/alice.rpy:946
     old "{i}дать одну конфету{/i}"
-    new ""
+    new "{i}dar un caramelo{/i}"
 #--- ""
 
     # game/events/alice.rpy:950
     old "Ну, можешь трусы показать..."
-    new ""
+    new "Pues puedes mostrar tus bragas..."
 #--- ""
 
     # game/events/alice.rpy:950
     old "Да, никакого подвоха!"
-    new ""
+    new "¡Sí, no hay trampa!"
 #--- ""
 
     # game/events/alice.rpy:1058
     old "Разбирайся сама..."
-    new ""
+    new "Descúéntalo por ti mismo..."
 #--- ""
 
     # game/events/alice.rpy:1066
     old "Ну, пойдём посмотрим..."
-    new ""
+    new "Bueno, vamos a ver..."
 #--- ""
 
     # game/events/alice.rpy:1066
     old "Паук? Ерунда какая. Сама разбирайся с ним..."
-    new ""
+    new "¿Araña? Qué tontería. Lidia con ello tú mismo..."
 #--- ""
 
     # game/events/alice.rpy:1080
     old "{i}спать до утра{/i}"
-    new ""
+    new "{i}dormir hasta la mañana{/i}"
 #--- ""
 
     # game/events/alice.rpy:1096
     old "А что мне за это будет?"
-    new ""
+    new "¿Y qué haré por ello?"
 #--- ""
 
     # game/events/alice.rpy:1096
     old "Хорошо, где он там..."
-    new ""
+    new "Está bien, ¿dónde está allí..."
 #--- ""
 
     # game/events/alice.rpy:1096
     old "Паука-то я поймаю, только вот кое-кто нарушает уговор! Или может я не прав?!"
-    new ""
+    new "Voy a cetach la araña, ¡pero algunas personas están rompiendo la persuasión! ¡¿O tal vez me equivoco?!"
 #--- ""
 
     # game/events/alice.rpy:1101
     old "Давай $10!"
-    new ""
+    new "¡Dame $ 10!"
 #--- ""
 
     # game/events/alice.rpy:1101
     old "Сними верх!"
-    new ""
+    new "¡Quítate la parte superior!"
 #--- ""
 
     # game/events/alice.rpy:1101
     old "А, ничего. Так поймаю..."
-    new ""
+    new "Aa, nada. Así que estaré al otro lado..."
 #--- ""
 
     # game/events/alice.rpy:1130
     old "На красивое глаза легче открываются..."
-    new ""
+    new "Es más fácil abrir los ojos a lo hermoso..."
 #--- ""
 
     # game/events/alice.rpy:1130
     old "Давай уже показывай сиськи!"
-    new ""
+    new "¡Vamos a mostrar tus tetas!"
 #--- ""
 
     # game/events/alice.rpy:1144
     old "Не прикрывайся руками!"
-    new ""
+    new "¡No te cubras con las manos!"
 #--- ""
 
     # game/events/alice.rpy:1184
     old "Раздевайся!"
-    new ""
+    new "¡Desnudarse!"
 #--- ""
 
     # game/events/alice.rpy:1192
     old "Сиськи ещё покажи..."
-    new ""
+    new "Las tetas todavía se muestran..."
 #--- ""
 
     # game/events/alice.rpy:1192
     old "О да, я очень доволен!"
-    new ""
+    new "¡Oh sí, estoy muy satisfecho!"
 #--- ""
 
     # game/events/alice.rpy:1292
     old "{i}оставлю этого паука себе{/i}"
-    new ""
+    new "{i}quedaré con esta araña para mí{/i}"
 #--- ""
 
     # game/events/alice.rpy:1292
     old "{i}выброшу этого паука с балкона{/i}"
-    new ""
+    new "{i}tiraré a esta araña del balcón{/i}"
 #--- ""
 
     # game/events/alice.rpy:1292
     old "{i}убью этого паука{/i}"
-    new ""
+    new "{i}mataré a esta araña{/i}"
 #--- ""
 
     # game/events/alice.rpy:1295
     old "Я не буду его убивать!"
-    new ""
+    new "¡No lo mataré!"
 #--- ""
 
     # game/events/alice.rpy:1295
     old "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз."
-    new ""
+    new "Déjalo vivir. Iré y lo tiraré del balcón detrás de la cerca para que no se arrastre hacia atrás."
 #--- ""
 
     # game/events/alice.rpy:1295
     old "{i}выбросить с балкона{/i}"
-    new ""
+    new "{i}arrojado desde el balcón{/i}"
 #--- ""
 
     # game/events/alice.rpy:1295
     old "{i}убить паука{/i}"
-    new ""
+    new "{i}mata a una araña{/i}"
 #--- ""
 
     # game/events/alice.rpy:1298
     old "{i}вернуться в кровать{/i}"
-    new ""
+    new "{i}volver a la cama{/i}"
 #--- ""
 
     # game/events/alice.rpy:1495
     old "У тебя... Очень красивая грудь..."
-    new ""
+    new "Tienes... Pechos muy bonitos..."
 #--- ""
 
     # game/events/alice.rpy:1495
     old "А ты не хочешь мне помочь?"
-    new ""
+    new "¿No quieres ayudarme?"
 #--- ""
 
     # game/events/alice.rpy:1530
     old "Ну Алиса... Ну чуть-чуть..."
-    new ""
+    new "Bueno, Alicia... Bueno, un poco..."
 #--- ""
 
     # game/events/alice.rpy:1530
     old "Хорошо. Спокойной ночи, Алиса..."
-    new ""
+    new "De acuerdo. Buenas noches, Alice..."
 #--- ""
 
     # game/events/alice.rpy:1552
     old "Хочу, чтобы ты сняла трусики..."
-    new ""
+    new "Quiero que te quitas las bragas..."
 #--- ""
 
     # game/events/alice.rpy:1552
     old "Хочу, чтобы ты поласкала его..."
-    new ""
+    new "Quiero que lo acaricias..."
 #--- ""
 
     # game/events/alice.rpy:1552
     old "Хочу, чтобы ты отсосала..."
-    new ""
+    new "Quiero que chupes..."
 #--- ""
 
     # game/events/alice.rpy:1585
     old "Хочу показать тебе, как я научился целоваться..."
-    new ""
+    new "Quiero mostrarte cómo aprendí a besar..."
 #--- ""
 
     # game/events/alice.rpy:1585
     old "А если бы я был твоим парнем... Что бы ты сделала дальше?"
-    new ""
+    new "Y si yo fuera tu chico... ¿Qué harías a continuación?"
 #--- ""
 
     # game/events/alice.rpy:1585
     old "На всё остальное ты не согласишься..."
-    new ""
+    new "No estarás de acuerdo con nada más..."
 #--- ""
 
     # game/events/alice.rpy:1593
     old "{i}целовать Алису{/i}"
-    new ""
+    new "{i}beso Alice{/i}"
 #--- ""
 
     # game/events/alice.rpy:1601
     old "{i}закончить целоваться{/i}"
-    new ""
+    new "{i}terminar de besar{/i}"
 #--- ""
 
     # game/events/alice.rpy:1601
     old "{i}прикоснуться к её груди{/i}"
-    new ""
+    new "{i}toca sus pechos{/i}"
 #--- ""
 
     # game/events/alice.rpy:1675
     old "{i}ласкать её киску рукой{/i}"
-    new ""
+    new "{i}acariciarla con la mano{/i}"
 #--- ""
 
     # game/events/alice.rpy:1729
     old "{i}кончить ей на лицо{/i}"
-    new ""
+    new "{i}en su cara{/i}"
 #--- ""
 
     # game/events/alice.rpy:1729
     old "{i}кончить ей на грудь{/i}"
-    new ""
+    new "{i}en su pecho{/i}"
 #--- ""
 
     # game/events/alice.rpy:1729
     old "Нет, я хочу ещё, но нужно поторопиться..."
-    new ""
+    new "No, quiero más, pero necesito darme prisa..."
 #--- ""
 
     # game/events/alice.rpy:1729
     old "Вообще-то, я надеялся, что ты возьмёшь его в рот..."
-    new ""
+    new "En realidad, esperaba que te lo llevaras a la boca..."
 #--- ""
 
     # game/events/alice.rpy:1842
     old "{i}отправиться спать{/i}"
-    new ""
+    new "{i}ir a la cama{/i}"
 #--- ""
 
     # game/events/alice.rpy:1883
     old "Я могу лучше..."
-    new ""
+    new "Puedo hacerlo mejor..."
 #--- ""
 
     # game/events/alice.rpy:1883
     old "Извини, я не хотел. Не обижайся..."
-    new ""
+    new "Lo siento, no quería. No te ofendas..."
 #--- ""
 
     # game/events/alice.rpy:2094
     old "Я твои фотки принёс..."
-    new ""
+    new "Traje tus fotos..."
 #--- ""
 
     # game/events/alice.rpy:2094
     old "Я тут не удержался и купил тебе боди раньше Эрика!"
-    new ""
+    new "¡No pude resistirme y te compré un traje de cuerpo antes que Eric!"
 #--- ""
 
     # game/events/alice.rpy:2094
     old "Отлично смотришься в этом белье!"
-    new ""
+    new "¡Te ves genial en esta lencería!"
 #--- ""
 
     # game/events/alice.rpy:2094
     old "Как идут дела с блогом?"
-    new ""
+    new "¿Cómo van las cosas con el blog?"
 #--- ""
 
     # game/events/alice.rpy:2199
     old "{i}сбежать{/i}"
-    new ""
+    new "{i}ejecutar{/i}"
 #--- ""
 
     # game/events/alice.rpy:2199
     old "Классно смотришься!"
-    new ""
+    new "¡De aspecto genial!"
 #--- ""
 
     # game/events/alice.rpy:2199
     old "А я тебе принёс кое-что!"
-    new ""
+    new "¡Y te traje algo!"
 #--- ""
 
     # game/events/alice.rpy:2208
     old "Чем занята?"
-    new ""
+    new "¿Qué pasa?"
 #--- ""
 
     # game/events/alice.rpy:2208
     old "Чего дверь-то закрыла?"
-    new ""
+    new "¿Qué se cienó la puerta?"
 #--- ""
 
     # game/events/alice.rpy:2213
     old "Точно получается?"
-    new ""
+    new "¿Exactamente?"
 #--- ""
 
     # game/events/alice.rpy:2225
     old "Что делаешь-то?"
-    new ""
+    new "¿Qué estás haciendo?"
 #--- ""
 
     # game/events/alice.rpy:2252
     old "Ладно, подожду..."
-    new ""
+    new "Está bien, esperaré..."
 #--- ""
 
     # game/events/alice.rpy:2252
     old "А если конфетку дам, то остаться можно?"
-    new ""
+    new "Y si doy un caramelo, ¿entonces puedes quedarte?"
 #--- ""
 
     # game/events/alice.rpy:2452
     old "{i}открыть дверь{/i}"
-    new ""
+    new "{i}abrir la puerta{/i}"
 #--- ""
 
     # game/events/alice.rpy:2519
-    old "Ну, разве, что так...\n"
-"{i}(начать массировать её киску рукой){/i}"
-    new ""
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+    new "Bueno, excepto que ese es el caso...\n{i}(comienza a masajearla con tu mano){/i}"
 #--- ""
 
     # game/events/alice.rpy:2519
     old "Поласкай свою киску для меня..."
-    new ""
+    new "Acaricia tu por mí..."
 #--- ""
 
     # game/events/alice.rpy:2568
     old "{i}массировать её ножки{/i}"
-    new ""
+    new "{i}masajear las espinillas{/i}"
 #--- ""
 
     # game/events/alice.rpy:2579
     old "{i}тереться членом о её ногу{/i}"
-    new ""
+    new "{i}frotando la suya contra su pierna{/i}"
 #--- ""
 
     # game/events/alice.rpy:2609
     old "Ох! Тогда тебе стоит быстрее работать рукой..."
-    new ""
+    new "¡Oh! Entonces deberías trabajar más rápido con la mano..."
 #--- ""
 
     # game/events/alice.rpy:2609
     old "Так пусти в дело свой язычок..."
-    new ""
+    new "Así que deja ir tu lengua..."
 #--- ""
 
     # game/events/alice.rpy:2637
     old "Нет, я даже не близко..."
-    new ""
+    new "No, ni siquiera estoy cerca..."
 #--- ""
 

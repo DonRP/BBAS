@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/dialogues/alicetalk.po\n"
-"X-Crowdin-File-ID: 3452\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/alicetalk.po\n"
+# "X-Crowdin-File-ID: 3452\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -1643,10 +1643,8 @@ translate crowdin alice_aboutbooks_6405d1b7:
 # game/dialogues/alicetalk.rpy:1469
 translate crowdin alice_aboutbooks_af00f0d1:
 
-    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n"
-"{i}Алиса прикрыла обложку рукой{/i}" nointeract
-    Alice_00 "no lo diré. ¡Siéntate ahora y adivina! \n\n"
-"{i}Alice cubrió la portada con su mano{/i}" nointeract
+    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}" nointeract
+    Alice_00 "no lo diré. ¡Siéntate ahora y adivina! \n\n{i}Alice cubrió la portada con su mano{/i}" nointeract
 
 # game/dialogues/alicetalk.rpy:1478
 translate crowdin alice_aboutbooks_2eac1a27:
@@ -1717,10 +1715,8 @@ translate crowdin first_talk_smoke_talk_b5a5e27d:
 # game/dialogues/alicetalk.rpy:1542
 translate crowdin first_talk_smoke_talk_ee9ba89b:
 
-    # Alice_13 "Сейчас сбегаю за деньгами...\n"
-"Вот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
-    Alice_13 "Ahora estoy corriendo por dinero ...\n"
-"Aquí, mantén $ 10, y ahora ciertamente no viste nada. ¿Así que?" nointeract
+    # Alice_13 "Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
+    Alice_13 "Ahora estoy corriendo por dinero ...\nAquí, mantén $ 10, y ahora ciertamente no viste nada. ¿Así que?" nointeract
 
 # game/dialogues/alicetalk.rpy:1547
 translate crowdin first_talk_smoke_talk_86687067:
@@ -10744,292 +10740,292 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:25
     old "{i}уйти{/i}"
-    new ""
+    new "{i}leave{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:67
     old "Ок..."
-    new ""
+    new "De Acuerdo..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:67
     old "Я хотел извиниться"
-    new ""
+    new "Quería disculparme"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:85
     old "Ты знаешь, я передумал..."
-    new ""
+    new "Ya sabes, cambié de opinión..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:106
     old "Давай, я домою остальное"
-    new ""
+    new "Vamos, que estoy en casa por el resto"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:106
     old "Нет, просто хотел поглазеть"
-    new ""
+    new "No, solo quería mirar"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:109
     old "{i}мыть посуду{/i}"
-    new ""
+    new "{i}lavar los platos{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:117
     old "{i}закончить{/i}"
-    new ""
+    new "{i}finish{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:137
     old "Нет, хотел просто больше узнать"
-    new ""
+    new "No, solo quería saber más"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:137
     old "Много подписчиков уже?"
-    new ""
+    new "¿Muchos seguidores ya?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:137
     old "Заработала уже на нём что-то?"
-    new ""
+    new "¿Ya te has ganado algo con él?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:140
     old "Расскажи, что ты там делаешь"
-    new ""
+    new "Cuéntanos qué estás haciendo allí"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:140
     old "Как планируешь развиваться?"
-    new ""
+    new "¿Cómo planeas desarrollarte?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:143
     old "Хитростями? А откуда ты сама всё это узнала?"
-    new ""
+    new "¿Trucos? ¿Y cómo supiste todo esto?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:143
     old "И что теперь без этих своих вещей делать будешь?"
-    new ""
+    new "¿Y ahora qué harás sin estas cosas?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:146
     old "Тема бьюти разве единственная?"
-    new ""
+    new "¿Es el tema de la belleza el único?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:146
     old "Понятно. Ну, и что теперь?"
-    new ""
+    new "Entiendo. ¿Y ahora qué?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:149
     old "Давай что-то придумаем вместе!"
-    new ""
+    new "¡Vamos a llegar a algo juntos!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:149
     old "Может быть, изменить твой блог?"
-    new ""
+    new "¿Tal vez cambiar tu blog?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:160
     old "Что, совсем всё пропало?"
-    new ""
+    new "¿Todo ha desaparecido por completo?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:160
     old "Постой, и что теперь будет?"
-    new ""
+    new "Espera, ¿y qué pasará ahora?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:163
     old "Может, это твоя фишка. Да и майка счастливая..."
-    new ""
+    new "Tal vez eso sea lo tuyo. Y la camiseta es feliz..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:163
     old "Разве это важно?"
-    new ""
+    new "¿Eso importa?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:166
     old "Да уж, грусть-печаль..."
-    new ""
+    new "Oh, tristeza-tristeza..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:166
     old "Тебе как-то можно помочь?"
-    new ""
+    new "¿Hay algo que puedas ayudar?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:182
     old "Нет. С чего ты взяла?"
-    new ""
+    new "No. ¿De dónde sacaste eso?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:182
     old "Ты о чём, вообще?"
-    new ""
+    new "¿Qué dices?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:188
     old "Да ладно?"
-    new ""
+    new "¿Vamos?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:188
     old "В курсе, конечно"
-    new ""
+    new "Lo sé, por supuesto"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:197
     old "Мне очень жаль..."
-    new ""
+    new "Lo sentimos..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:197
     old "И как тебе помочь?"
-    new ""
+    new "¿Y cómo puedo ayudarte?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:204
     old "Что пропало? Ты о чём?"
-    new ""
+    new "¿Qué falta? ¿Qué dices?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:204
     old "Ты о тех вещах во время переезда?"
-    new ""
+    new "¿Estás hablando de esas cosas durante la mudanza?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:209
     old "Да, печально..."
-    new ""
+    new "Sí, triste..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:209
     old "Тебе можно как-то помочь?"
-    new ""
+    new "¿Puedes obtener ayuda?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:215
     old "Может быть, попробуем вместе найти решение?"
-    new ""
+    new "¿Tal vez tratemos de encontrar una solución juntos?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:215
     old "Я обязательно придумаю, что можно с этим сделать"
-    new ""
+    new "Definitivamente descubriré qué se puede hacer al respecto"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:222
     old "Денег у меня нет..."
-    new ""
+    new "No tengo el dinero..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:222
     old "Я не детектив, чтобы искать вещи..."
-    new ""
+    new "No soy un detective para buscar cosas..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:225
     old "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
-    new ""
+    new "¿Vida? Pero eso es todo para bien. Tal casa, piscina, el lugar es genial!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:225
     old "Не грусти. Могло быть и хуже"
-    new ""
+    new "No te entristezes. Podría haber sido peor"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:225
     old "Может быть, зарабатывать на чём-то другом?"
-    new ""
+    new "¿Tal vez ganar dinero con otra cosa?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:228
     old "Ты всё ещё можешь. Может быть, просто смени формат блога"
-    new ""
+    new "Todavía puedes hacerlo. Tal vez solo cambie el formato del blog"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:244
     old "Ну, у меня много разных идей"
-    new ""
+    new "Bueno, tengo muchas ideas diferentes"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:244
     old "Советами!"
-    new ""
+    new "¡Consejos!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:261
     old "Может быть, заняться чем-то другим?"
-    new ""
+    new "¿Tal vez hacer algo más?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:270
     old "Мы можем с тобой вместе что-то придумать"
-    new ""
+    new "Podemos llegar a algo juntos"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:270
     old "Давай, я подумаю и, когда будут мысли, продолжим разговор"
-    new ""
+    new "Vamos, que lo pensaré y cuando haya pensamientos, continuemos la conversación"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:270
     old "Пока нет, но я подумаю что можно сделать"
-    new ""
+    new "Todavía no, pero pensaré en lo que se puede hacer"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:281
     old "Ну если придумаю что-то, то почему нет?"
-    new ""
+    new "Bueno, si se me ocurrió algo, ¿por qué no?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:281
     old "Конечно! Будет у нас семейный бизнес!"
-    new ""
+    new "¡Claro! ¡Tendremos un negocio familiar!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:281
     old "Ну, можно попробовать же?"
-    new ""
+    new "Bueno, ¿puedes probarlo?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:287
     old "Ну да, многие так делают!"
-    new ""
+    new "Bueno, sí, ¡muchos lo hacen!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:287
     old "Нет, из меня ведущий так себе..."
-    new ""
+    new "No, yo soy el que lidera el tan-tan..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:287
     old "Попробовать то можем?"
-    new ""
+    new "¿Podemos probarlo?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:304
     old "Постараюсь..."
-    new ""
+    new "lo intentaré..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:304
     old "Но ничего не обещаю"
-    new ""
+    new "Pero no prometo nada."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:304
     old "Обещаю, что-нибудь придумаю"
-    new ""
+    new "Prometo que se me ocurrirá algo."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:339
@@ -11099,7 +11095,7 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:473
     old "{i}продолжить{/i}"
-    new ""
+    new "{i}continuar{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:504
@@ -11254,252 +11250,252 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:1451
     old "Очень смешно..."
-    new ""
+    new "Muy divertido..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1451
     old "Это понятно, а какую? Только не говори, что бумажную..."
-    new ""
+    new "Es comprensible, pero ¿cuál? Simplemente no digas papel..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1462
     old "Не всё равно, раз спрашиваю"
-    new ""
+    new "No importa si pregunto"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1462
     old "Так ты скажешь или нет?"
-    new ""
+    new "¿Entonces dices o no?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1468
     old "Какой-то дамский роман?"
-    new ""
+    new "¿Alguna novela de damas?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1468
     old "Какие-то сопли с сахаром?"
-    new ""
+    new "¿Algún mo mo mo modo con azúcar?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1468
     old "Неужели справочник по квантовой механике?"
-    new ""
+    new "¿Es un manual de mecánica cuántica?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1477
     old "Ну и ладно!"
-    new ""
+    new "Está bien!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1477
     old "{i}узнать подробнее о \"Возможностях\"{/i}"
-    new ""
+    new "{i}más información sobre \"Características\"{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1494
     old "А если уйду, что мне за это будет?"
-    new ""
+    new "Y si me voy, ¿qué obtendré por ello?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1494
     old "Ну ок, только я ничего не обещаю..."
-    new ""
+    new "Está bien, pero no prometo nada..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Ну да. Мама что с тобой сделает, если узнает?"
-    new ""
+    new "Piensa que sí. ¿Mamá te hará si se entera?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Ну, мы можем договориться"
-    new ""
+    new "Bueno, podemos negociar"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Как знать, может быть..."
-    new ""
+    new "Quién sabe, tal vez..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1501
     old "Нет, конечно. Мне жизнь дорога!"
-    new ""
+    new "No, claro que no. ¡La vida es querida para mí!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Не хочешь расстраивать маму или получить по заднице?"
-    new ""
+    new "¿No quieres molestar a tu mamá o tener un?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Мы всё ещё можем договориться..."
-    new ""
+    new "Todavía podemos estar de acuerdo..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Посмотрим..."
-    new ""
+    new "Vale, vale..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1504
     old "Ну ладно, ладно..."
-    new ""
+    new "Está bien..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Если заплатишь, буду молчать"
-    new ""
+    new "Si pagas, guardaré silencio"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Покажи сиськи!"
-    new ""
+    new "¡Muestra tus tetas!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Сними трусы!"
-    new ""
+    new "¡Quítese las bragas!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Отсоси мне!"
-    new ""
+    new "¡Chúpeme!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1531
     old "Ты будешь мне должна услугу"
-    new ""
+    new "Me debes un favor"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1534
     old "Ну, давай"
-    new ""
+    new "Está bien, supongo"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1534
     old "Нет, этого мало..."
-    new ""
+    new "No, eso no es suficiente..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1541
     old "Так!"
-    new ""
+    new "So!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1541
     old "Как знать..."
-    new ""
+    new "Quién sabe..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1546
     old "Ну, как скажешь..."
-    new ""
+    new "Bueno, como dices..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Покажешь сиськи, когда попрошу..."
-    new ""
+    new "Muéstrame rebotes cuando te pregunte..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Разденешься, когда скажу..."
-    new ""
+    new "Te desensaste cuando te diga..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Отсосёшь, когда нужно будет..."
-    new ""
+    new "Sáctelo cuando lo necesite..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1584
     old "Я ещё не решил..."
-    new ""
+    new "Todavía no me he decidido..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1609
     old "Хорошо..."
-    new ""
+    new "Bien..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1622
     old "Да хотел узнать, что ты куришь?"
-    new ""
+    new "¿Querías saber lo que fumas?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1622
     old "Нет, ничего..."
-    new ""
+    new "No, nada..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1625
     old "Просто любопытно"
-    new ""
+    new "Simplemente curioso"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1625
     old "Для поддержания разговора"
-    new ""
+    new "Para mantener la conversación"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1625
     old "А, не важно..."
-    new ""
+    new "Ah, no importa..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1638
     old "Скучаешь о нём?"
-    new ""
+    new "¿Lo extrañas?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1638
     old "Может, и мне попробовать?"
-    new ""
+    new "¿Tal vez yo también pueda probarlo?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1645
     old "Может быть, тебе помочь?"
-    new ""
+    new "¿Tal vez ayudarte?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1645
     old "Ну и ладно..."
-    new ""
+    new "Está bien..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1649
     old "Ну, я попробую через интернет"
-    new ""
+    new "Bueno, lo probaré en línea"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1649
     old "Может быть..."
-    new ""
+    new "Tal vez..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1675
     old "А что взамен?"
-    new ""
+    new "¿Y a cambio?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1675
     old "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
-    new ""
+    new "Solo acordemos que no le contarás a tu mamá cómo te miré en la ducha..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1675
     old "Держи!"
-    new ""
+    new "Aquí tienes!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1707
     old "Нет, конечно!"
-    new ""
+    new "Por supuesto que no!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1712
     old "Дай $20, и я буду молчать"
-    new ""
+    new "Da $20 y estaré en silencio"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1712
@@ -11544,12 +11540,12 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:1747
     old "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
-    new ""
+    new "Si quieres que tu madre no sepa nada, caminarás sin jeans."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1747
     old "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
-    new ""
+    new "Si me dejas darte una nalgada, ¡no diré nada!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1747
@@ -11559,7 +11555,7 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:1747
     old "Ты знаешь, я сегодня добрый..."
-    new ""
+    new "Ya sabes, soy amable hoy ..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1765
@@ -11569,7 +11565,7 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:1770
     old "Конечно!"
-    new ""
+    new "¡Por supuesto!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1802
@@ -11579,12 +11575,12 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:1808
     old "{i}подождать Алису{/i}"
-    new ""
+    new "{i}espera a Alice{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1845
     old "Что ты! Нет, конечно..."
-    new ""
+    new "¡Qué eres! No, claro que no..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1913
@@ -11594,167 +11590,167 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:1913
     old "Хорошо, устроит и $10"
-    new ""
+    new "Está bien, se adaptará y $ 10"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1929
     old "Удачи!"
-    new ""
+    new "¡Buena suerte!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1946
     old "{i}Ну, как скажешь...{/i}"
-    new ""
+    new "Bueno, como dices"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1960
     old "Доволен, конечно!"
-    new ""
+    new "¡Estoy satisfecho, por supuesto!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1960
     old "А чего ты прикрываешься?"
-    new ""
+    new "¿Y de qué te escondes?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1960
     old "Я передумал. Можешь одеться."
-    new ""
+    new "Cambié de opinión. Puedes vestirte."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1963
     old "Не переживай, не скажу"
-    new ""
+    new "No te preocupes, no diré"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1963
     old "Ну... это зависит от тебя!"
-    new ""
+    new "Bueno, depende de ti!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Ну, я перегнул палку..."
-    new ""
+    new "Bueno, fui demasiado lejos ..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Это мой шаг к дружбе"
-    new ""
+    new "Este es mi paso hacia la amistad"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Да надоела!"
-    new ""
+    new "¡Sí cansado!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1976
     old "Ты знаешь, пусть всё остаётся как есть..."
-    new ""
+    new "Ya sabes, deja que se quede como está..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:1989
     old "{i}свалить{/i}"
-    new ""
+    new "{i}ejecutar{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2022
     old "Ага..."
-    new ""
+    new "Ajá..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2035
     old "Ничего, просто любуюсь..."
-    new ""
+    new "Nada, solo admirando..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2035
     old "А ты чего в трусах?"
-    new ""
+    new "¿Y qué llevas en calzoncillos?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2035
     old "Я передумал. Можешь носить трусы..."
-    new ""
+    new "Cambié de opinión. Puedes usar bragas..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2041
     old "Мы же договорились - без трусов!"
-    new ""
+    new "Estuvimos de acuerdo, ¡sin bragas!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2041
     old "Да шучу я..."
-    new ""
+    new "Estoy bromeando..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2091
     old "Я передумал. Ты можешь спать в лифчике, если хочешь."
-    new ""
+    new "Cambié de opinión. Puedes dormir en un sostén si quieres."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2091
     old "Я передумал. Ты можешь спать в нижнем белье..."
-    new ""
+    new "Cambié de opinión. Puedes dormir en ropa interior..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2117
     old "Я передумал. Ты можешь носить свои джинсы, если захочешь."
-    new ""
+    new "Cambié de opinión. Puedes usar tus jeans si quieres."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2285
     old "Держи..."
-    new ""
+    new "Espera..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2285
     old "Не так быстро..."
-    new ""
+    new "Frena un poco"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2290
     old "Да ничего, просто держи..."
-    new ""
+    new "Nada, solo espera..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2290
     old "Устрой мне показ в нём..."
-    new ""
+    new "Dame un espectáculo en él..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2323
     old "Э... Хорошо..."
-    new ""
+    new "Este... De acuerdo..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2339
     old "Очень... очень хорошо..."
-    new ""
+    new "Mucho... Muy bien..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2339
     old "А можешь наклониться?"
-    new ""
+    new "¿Puedes agacharte?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2367
     old "Порылся в твоих вещах и нашёл, что читаешь!"
-    new ""
+    new "¡Hurgo en tus cosas y encontré lo que estabas leyendo!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2367
     old "Ну, я догадался! Я же умный!"
-    new ""
+    new "Bueno, ¡lo adiviné! ¡Soy inteligente!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2367
     old "Я и не знал. Просто угадал видимо..."
-    new ""
+    new "No sabía. Solo adivinado aparentemente..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2471
     old "Ага, я и не подглядываю..."
-    new ""
+    new "Sí, no estoy mirando..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2563
@@ -11764,78 +11760,77 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:2618
     old "Может быть, тебя намазать кремом для загара?"
-    new ""
+    new "¿Tal vez mancharse con protector solar?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2618
     old "{i}Предложить Алисе намазать её кремом{/i}"
-    new ""
+    new "{i}Sugiere que Alice unte su crema{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2618
     old "Ладно, загорай..."
-    new ""
+    new "Está bien, tomar el sol..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}нанести крем{/i}"
-    new ""
+    new "{i}aplicar crema{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}сделать массаж с кремом{/i}"
-    new ""
+    new "{i}masaje con crema{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2660
-    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\n"
-"крема недостаточно{/color}{/i}"
-    new ""
+    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+    new "{i}{color=[gray]}masaje con crema{/color}{color=[red]}\ncrema no es suficiente{/color}{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2660
     old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
-    new ""
+    new "{i}Maldita sea, la crema casi ha terminado... Vamos otra vez entonces... {/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2676
     old "{i}наносить крем молча{/i}"
-    new ""
+    new "{i}aplicar la crema en silencio{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2676
     old "А тебе нравится, что следы от лямок остаются?"
-    new ""
+    new "¿Te gusta que queden las huellas de las correas?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Массаж"
-    new ""
+    new "Masajes"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Массаж ступней"
-    new ""
+    new "Masaje de pies"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-    new ""
+    new "Este es un método único de masaje para tener un efecto curativo en el cuerpo. Es eficaz y al mismo tiempo fácil de ejecutar."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2699
     old "Массаж кистей рук"
-    new ""
+    new "Masaje de manos"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2829
     old "{i}массировать молча{/i}"
-    new ""
+    new "{i}masajear los hombros{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2854
     old "{i}выпустить рядом паука{/i}"
-    new ""
+    new "{i}suelta una araña junto a ella{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:2983
@@ -11845,32 +11840,32 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:2983
     old "Ну, как хочешь..."
-    new ""
+    new "Bueno, como quieras..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:3056
     old "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
-    new ""
+    new "Sentémonos así, esperamos. Fuera se arrastra..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:3056
     old "Спрячься за меня, хотя бы..."
-    new ""
+    new "Escóndete detrás de mí, al menos..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:3056
     old "{i}потискать Алису за грудь{/i}"
-    new ""
+    new "{i}apretar los senos de Alice{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:3189
     old "{i}убрать руки{/i}"
-    new ""
+    new "{i}quitar manos{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:3189
     old "{i}тискать дальше...{/i}"
-    new ""
+    new "{i}apretar... {/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:3327
@@ -11895,37 +11890,37 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:4083
     old "Ты мне кое-что показала..."
-    new ""
+    new "Me mostraste algo..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Ты мне кое-что сделала..."
-    new ""
+    new "Me mostraste algo..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Мы делали кое-что..."
-    new ""
+    new "Hicimos algo..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4083
     old "Да, ну извини..."
-    new ""
+    new "Sí, bueno, lo siento..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4166
     old "Ничего..."
-    new ""
+    new "Nada..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4166
     old "Может, попозируешь для меня..."
-    new ""
+    new "Tal vez preguntes por mí..."
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4202
     old "Ну что, примеришь при мне?"
-    new ""
+    new "Bueno, ¿probarlo conmigo?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4502
@@ -11935,7 +11930,7 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:4502
     old "{i}ждать{/i}"
-    new ""
+    new "{i}espera{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4600
@@ -11945,32 +11940,32 @@ translate crowdin strings:
 
     # game/dialogues/alicetalk.rpy:4696
     old "{i}стянуть верх купальника{/i}"
-    new ""
+    new "{i}quitarse la parte superior del traje de baño{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4702
     old "{i}стянуть низ купальника{/i}"
-    new ""
+    new "{i}quitarse la parte superior del traje de baño{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4709
     old "{i}шлёпать сильно{/i}"
-    new ""
+    new "{i}bofetada fuerte{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4796
     old "{i}шлёпать нежно{/i}"
-    new ""
+    new "{i}azote suavemente{/i}"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4804
     old "И как, тебе нравится?"
-    new ""
+    new "Y como, ¿te gusta?"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4804
     old "Могу сильнее, раз ты заскучала!"
-    new ""
+    new "¡Puedo hacerlo más difícil, ya que estás aburrido!"
 #--- ""
 
     # game/dialogues/alicetalk.rpy:4949

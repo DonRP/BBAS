@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/max.po\n"
-"X-Crowdin-File-ID: 3492\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/max.po\n"
+# "X-Crowdin-File-ID: 3492\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -449,34 +449,26 @@ translate crowdin BookRead_9562ffab:
 # game/events/max.rpy:658
 translate crowdin BookRead_manual_41be558e:
 
-    # Max_00 "Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n"
-"{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"
-    Max_00 " Rayos... un montón de palabras incomprensibles. Parece que los primeros capítulos tendrán que ser re-leídos...\n\n"
-"{color=[orange]}{i}(El libro está 20% estudiado%){/i}{/color}"
+    # Max_00 "Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы...\n\n{color=[orange]}{i}(Книга изучена на 20%%){/i}{/color}"
+    Max_00 " Rayos... un montón de palabras incomprensibles. Parece que los primeros capítulos tendrán que ser re-leídos...\n\n{color=[orange]}{i}(El libro está 20% estudiado%){/i}{/color}"
 
 # game/events/max.rpy:660
 translate crowdin BookRead_manual_0826f3fe:
 
-    # Max_00 "Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n"
-"{color=[orange]}{i}(Книга изучена на 40%%){/i}{/color}"
-    Max_00 "Entonces, bueno, lo he descubierto, está bien... ¿Y qué es eso? No está claro. Tendremos que darle sentido a todo...\n\n"
-"{color=[orange]}{i}(El libro está estudiado en un 40%){/i}{/color}"
+    # Max_00 "Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить...\n\n{color=[orange]}{i}(Книга изучена на 40%%){/i}{/color}"
+    Max_00 "Entonces, bueno, lo he descubierto, está bien... ¿Y qué es eso? No está claro. Tendremos que darle sentido a todo...\n\n{color=[orange]}{i}(El libro está estudiado en un 40%){/i}{/color}"
 
 # game/events/max.rpy:662
 translate crowdin BookRead_manual_3605e1d8:
 
-    # Max_00 "Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз.\n\n"
-"{color=[orange]}{i}(Книга изучена на 60%%){/i}{/color}"
-    Max_00 "¡Guau, eso es genial! ¿Ya puedo hacer un sitio web? No... Todavía no está claro... Bueno, lo resolveré en otra ocasión.\n\n"
-"{color=[orange]}{i}(Libro 60% estudiado%){/i}{/color}"
+    # Max_00 "Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз.\n\n{color=[orange]}{i}(Книга изучена на 60%%){/i}{/color}"
+    Max_00 "¡Guau, eso es genial! ¿Ya puedo hacer un sitio web? No... Todavía no está claro... Bueno, lo resolveré en otra ocasión.\n\n{color=[orange]}{i}(Libro 60% estudiado%){/i}{/color}"
 
 # game/events/max.rpy:664
 translate crowdin BookRead_manual_1c08c83d:
 
-    # Max_00 "Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?\n\n"
-"{color=[orange]}{i}(Книга изучена на 80%%){/i}{/color}"
-    Max_00 "Entonces, bueno, ahora está surgiendo la imagen. Queda lidiar solo con las pequeñas cosas... ¿O no es trivialidad?\n\n"
-"{color=[orange]}{i}(El libro está estudiado en un 80%%){/i}{/color}"
+    # Max_00 "Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?\n\n{color=[orange]}{i}(Книга изучена на 80%%){/i}{/color}"
+    Max_00 "Entonces, bueno, ahora está surgiendo la imagen. Queda lidiar solo con las pequeñas cosas... ¿O no es trivialidad?\n\n{color=[orange]}{i}(El libro está estudiado en un 80%%){/i}{/color}"
 
 # game/events/max.rpy:666
 translate crowdin BookRead_manual_bd8ad388:
@@ -487,25 +479,20 @@ translate crowdin BookRead_manual_bd8ad388:
 # game/events/max.rpy:678
 translate crowdin BookRead_sex_ed_e2e2e4d9:
 
-    # Max_01 "Ага. У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать.\n\n"
-"{color=[orange]}{i}(Книга изучена на 25%%){/i}{/color}"
-    Max_01 "sí. Cada uno tiene sus propias características, ¡o no lo sabía! Aquí, la estructura de los genitales de una adolescente, lo que necesitas... Leeremos y miraremos.\n\n"
-"{color=[orange]}{i}(Libro 25% estudiado%){/i}{/color}"
+    # Max_01 "Ага. У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать.\n\n{color=[orange]}{i}(Книга изучена на 25%%){/i}{/color}"
+    Max_01 "sí. Cada uno tiene sus propias características, ¡o no lo sabía! Aquí, la estructura de los genitales de una adolescente, lo que necesitas... Leeremos y miraremos.\n\n{color=[orange]}{i}(Libro 25% estudiado%){/i}{/color}"
 
 # game/events/max.rpy:680
 translate crowdin BookRead_sex_ed_5dc0d1da:
 
-    # Max_03 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n"
-"{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
+    # Max_03 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер...\n\n{color=[orange]}{i}(Книга изучена на 50%%){/i}{/color}"
     ""
 
 # game/events/max.rpy:682
 translate crowdin BookRead_sex_ed_cdf53c7a:
 
-    # Max_07 "Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n"
-"{color=[orange]}{i}(Книга изучена на 75%%){/i}{/color}"
-    Max_07 " Genial, incluso hay un breve ensayo histórico sobre educación sexual para niños y adolescentes... ¡Tan pronto como la cabeza no fue engañada por todo este tiempo!\n\n"
-"{color=[orange]}{i}(Libro 75% estudiado%){/i}{/color}"
+    # Max_07 "Ого, здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только голову не дурили за всё это время!\n\n{color=[orange]}{i}(Книга изучена на 75%%){/i}{/color}"
+    Max_07 " Genial, incluso hay un breve ensayo histórico sobre educación sexual para niños y adolescentes... ¡Tan pronto como la cabeza no fue engañada por todo este tiempo!\n\n{color=[orange]}{i}(Libro 75% estudiado%){/i}{/color}"
 
 # game/events/max.rpy:687
 translate crowdin BookRead_sex_ed_58528ae0:
@@ -756,10 +743,7 @@ translate crowdin about_credit_90bb447c:
 # game/events/max.rpy:1047
 translate crowdin about_credit_73692d65:
 
-    # Max_04 "{m}Подытожим условия: \n"
-"{b}В течение месяца нужно вернуть всю сумму займа + 10%% \n"
-"В случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\n"
-"Лучше, конечно же, до такого не доводить.{/m}"
+    # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"
     ""
 
 # game/events/max.rpy:1048
@@ -820,267 +804,267 @@ translate crowdin strings:
 
     # game/events/max.rpy:31
     old "{i}установить будильник{/i}"
-    new ""
+    new "{i}configurar una alarma"
 #--- ""
 
     # game/events/max.rpy:34
     old "{i}в 6 утра{/i}"
-    new ""
+    new "{i}a las 6 a.m"
 #--- ""
 
     # game/events/max.rpy:34
     old "{i}в 7 утра{/i}"
-    new ""
+    new "{i}a las 7 a.m"
 #--- ""
 
     # game/events/max.rpy:84
     old "{i}вздремнуть{/i}"
-    new ""
+    new "{i}tomar una siesta{/i}"
 #--- ""
 
     # game/events/max.rpy:120
     old "{i}подремать пару часов{/i}"
-    new ""
+    new "{i}tomar una siesta durante un par de horas{/i}"
 #--- ""
 
     # game/events/max.rpy:120
     old "{i}подремать 3 часа{/i}"
-    new ""
+    new "{i}tomar una siesta durante 3 horas{/i}"
 #--- ""
 
     # game/events/max.rpy:120
     old "{i}подремать 4 часа{/i}"
-    new ""
+    new "{i}tomar una siesta durante 4 horas{/i}"
 #--- ""
 
     # game/events/max.rpy:120
     old "{i}подремать 5 часов{/i}"
-    new ""
+    new "{i}tomar una siesta durante 5 horas{/i}"
 #--- ""
 
     # game/events/max.rpy:120
     old "{i}не-а, может позже...{/i}"
-    new ""
+    new "{i}no, tal vez más tarde... {/i}"
 #--- ""
 
     # game/events/max.rpy:278
     old "{i}почитать о камерах{/i}"
-    new ""
+    new "{i}leer sobre cámaras{/i}"
 #--- ""
 
     # game/events/max.rpy:280
     old "{i}читать о блогах{/i}"
-    new ""
+    new "{i}leer sobre blogs{/i}"
 #--- ""
 
     # game/events/max.rpy:282
     old "{i}узнать о книге Алисы{/i}"
-    new ""
+    new "{i}aprender sobre el libro de Alice{/i}"
 #--- ""
 
     # game/events/max.rpy:284
     old "{i}читать о пауках{/i}"
-    new ""
+    new "{i}leer sobre blogs{/i}"
 #--- ""
 
     # game/events/max.rpy:286
     old "{i}искать информацию по кредитам{/i}"
-    new ""
+    new "{i}buscar información sobre préstamos{/i}"
 #--- ""
 
     # game/events/max.rpy:357
     old "Оплатить всё ($100)"
-    new ""
+    new "Pagar por todo ($100)"
 #--- ""
 
     # game/events/max.rpy:364
     old "Настроить работу сайта"
-    new ""
+    new "Configure su mapa de sitio"
 #--- ""
 
     # game/events/max.rpy:418
     old "Собрать статистику"
-    new ""
+    new "Recopilar estadísticas"
 #--- ""
 
     # game/events/max.rpy:418
     old "Просмотреть популярные блоги"
-    new ""
+    new "Ver blogs populares"
 #--- ""
 
     # game/events/max.rpy:418
     old "Почитать комменты на блогах"
-    new ""
+    new "Leer comentarios en blogs"
 #--- ""
 
     # game/events/max.rpy:421
     old "Проанализировать результаты"
-    new ""
+    new "Analizar resultados"
 #--- ""
 
     # game/events/max.rpy:421
     old "Построить таблицу"
-    new ""
+    new "Tabla de compilación"
 #--- ""
 
     # game/events/max.rpy:421
     old "Нарисовать график"
-    new ""
+    new "Dibujar pupila"
 #--- ""
 
     # game/events/max.rpy:424
     old "Хм... Так... Ага. Это сюда запишем, это сюда..."
-    new ""
+    new "Hmm... Así que... Ajá. Vamos a escribirlo aquí, está aquí..."
 #--- ""
 
     # game/events/max.rpy:426
     old "Так. Из этой таблицы мы делаем вывод. Ага. Вот это значит, что... Нет, не так. Вот. Вроде получилось..."
-    new ""
+    new "Así, de esta tabla sacamos una conclusión. Ajá. Eso significa... No, no lo es. Aquí. Parece que resultó..."
 #--- ""
 
     # game/events/max.rpy:428
     old "Рисователь графиков из меня ещё тот. Но попробуем. Так, это шкала популярности, это... Ага. Кажется, всё сходится..."
-    new ""
+    new "El cajón de mi carta es siempre el mismo. Pero déjame intentar. Entonces, es una escala de popularidad, es... Ajá. Todo parece ir de la mano..."
 #--- ""
 
     # game/events/max.rpy:430
     old "Составить список"
-    new ""
+    new "Hacer una lista"
 #--- ""
 
     # game/events/max.rpy:430
     old "Отсортировать..."
-    new ""
+    new "Ordenar..."
 #--- ""
 
     # game/events/max.rpy:430
     old "Сравнить количество лайков..."
-    new ""
+    new "Compara el número de likes..."
 #--- ""
 
     # game/events/max.rpy:433
     old "Так, вычёркиваем из списка этих, вот этих и тех. Что тут у нас остаётся?"
-    new ""
+    new "Entonces, tachamos de la lista de estos, estos y aquellos. ¿Qué nos queda aquí?"
 #--- ""
 
     # game/events/max.rpy:435
     old "Так, сравниваем аудиторию. Время публикации... Исключаем сомнительный контент..."
-    new ""
+    new "Entonces, comparamos la audiencia. Tiempo de publicación... Excluir contenido cuestionable..."
 #--- ""
 
     # game/events/max.rpy:437
     old "Сортируем по количеству лайков. Убираем тех, кто с дизлайками больше этого процента..."
-    new ""
+    new "Ordena por el número de me gusta. Eliminamos a los que tienen no me gusta más que este porcentaje..."
 #--- ""
 
     # game/events/max.rpy:439
     old "Воспользоваться поиском"
-    new ""
+    new "Usar la búsqueda"
 #--- ""
 
     # game/events/max.rpy:439
     old "Читать всё подряд"
-    new ""
+    new "Leer todo"
 #--- ""
 
     # game/events/max.rpy:439
     old "Выбрать лучшие комменты"
-    new ""
+    new "Selecciona los mejores comentarios"
 #--- ""
 
     # game/events/max.rpy:442
     old "Так, в поиске мы видим любопытные результаты. Так, выберем то что нам подходит..."
-    new ""
+    new "Así, en la búsqueda vemos resultados interesantes. Entonces, elijamos lo que más nos convenga..."
 #--- ""
 
     # game/events/max.rpy:444
     old "Ох. Всё оказалось ещё хуже. Кажется, тут нет ничего полезного... Хотя. Думаю, можно сделать даже какой-то вывод..."
-    new ""
+    new "Oh. Fue aún peor. No parece haber nada útil aquí... Aunque. Creo que incluso se puede sacar alguna conclusión..."
 #--- ""
 
     # game/events/max.rpy:446
     old "Так, топовые комменты все сводятся к одному. Не может быть?"
-    new ""
+    new "Entonces, los comentarios principales se reducen a uno. ¿No es posible?"
 #--- ""
 
     # game/events/max.rpy:448
     old "Сделать вывод..."
-    new ""
+    new "Inferir..."
 #--- ""
 
     # game/events/max.rpy:464
     old "{i}читать о книге{/i}"
-    new ""
+    new "{i}leer sobre el libro{/i}"
 #--- ""
 
     # game/events/max.rpy:480
     old "Искать виды насекомых по регионам"
-    new ""
+    new "Buscar especies de insectos por región"
 #--- ""
 
     # game/events/max.rpy:480
     old "Читать где водятся какие пауки"
-    new ""
+    new "Leer dónde hay arañas"
 #--- ""
 
     # game/events/max.rpy:487
     old "Выяснить, чем питается..."
-    new ""
+    new "Descubra lo que comen..."
 #--- ""
 
     # game/events/max.rpy:487
     old "Почитать о повадках..."
-    new ""
+    new "Leer sobre hábitos..."
 #--- ""
 
     # game/events/max.rpy:648
     old "{i}читать \"WEB STANDARDS\"{/i}"
-    new ""
+    new "{i}decir \"ESTÁNDARES WEB\"{/i}"
 #--- ""
 
     # game/events/max.rpy:648
     old "{i}читать \"СЕКС-ОБРАЗОВАНИЕ\"{/i}"
-    new ""
+    new "{i}dice \"EDUCACIÓN SEXUAL\"{/i}"
 #--- ""
 
     # game/events/max.rpy:702
     old "{i}искать под подушкой{/i}"
-    new ""
+    new "{i}mira debajo de la almohada{/i}"
 #--- ""
 
     # game/events/max.rpy:702
     old "{i}искать в шкафу{/i}"
-    new ""
+    new "{i}mira en el armario{/i}"
 #--- ""
 
     # game/events/max.rpy:702
     old "{i}прекратить поиски{/i}"
-    new ""
+    new "{i}detener la búsqueda{/i}"
 #--- ""
 
     # game/events/max.rpy:859
     old "{i}искать...{/i}"
-    new ""
+    new "{i}buscando... {/i}"
 #--- ""
 
     # game/events/max.rpy:886
     old "{i}Подложить сейчас{/i}"
-    new ""
+    new "{i}Colocar ahora{/i}"
 #--- ""
 
     # game/events/max.rpy:932
     old "Вы просматриваете видеоурок и повышаете свои навыки."
-    new ""
+    new "Ves un video tutorial y mejoras tus habilidades."
 #--- ""
 
     # game/events/max.rpy:966
     old "{i}подставить Алису{/i}"
-    new ""
+    new "{i}sustituir a Alice{/i}"
 #--- ""
 
     # game/events/max.rpy:966
     old "{i}не подставлять Алису{/i}"
-    new ""
+    new "{i}no sustituir a Alice{/i}"
 #--- ""
 
     # game/events/max.rpy:1061

@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/script.po\n"
-"X-Crowdin-File-ID: 3506\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/script.po\n"
+# "X-Crowdin-File-ID: 3506\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -222,41 +222,41 @@ translate crowdin strings:
 
     # game/script.rpy:57
     old "{i}далее{/i}"
-    new ""
+    new "{i}siguiente{/i}"
 #--- ""
 
     # game/script.rpy:57
     old "{i}пропустить{/i}"
-    new ""
+    new "{i}omitir{/i}"
 #--- ""
 
     # game/script.rpy:85
     old "{i}пару недель спустя...{/i}"
-    new ""
+    new "{i}un par de semanas después... {/i}"
 #--- ""
 
     # game/script.rpy:98
     old "{i}спустя неделю...{/i}"
-    new ""
+    new "{i}una semana después... {/i}"
 #--- ""
 
     # game/script.rpy:104
     old "{i}Начать игру{/i}"
-    new ""
+    new "{i}Iniciar juego{/i}"
 #--- ""
 
     # game/script.rpy:104
     old "{i}Повторить историю{/i}"
-    new ""
+    new "{i}Repetir historial{/i}"
 #--- ""
 
     # game/script.rpy:121
     old "{i}всё ясно{/i}"
-    new ""
+    new "{i}todo está claro{/i}"
 #--- ""
 
     # game/script.rpy:121
     old "{i}повторить{/i}"
-    new ""
+    new "{i}repetir{/i}"
 #--- ""
 

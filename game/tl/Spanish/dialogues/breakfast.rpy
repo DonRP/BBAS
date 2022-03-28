@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/dialogues/breakfast.po\n"
-"X-Crowdin-File-ID: 3456\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+#     old ""
+#     ""
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/breakfast.po\n"
+# "X-Crowdin-File-ID: 3456\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-26 14:17\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -108,8 +108,7 @@ translate crowdin breakfast_first_bf_change_e252eb97:
 translate crowdin breakfast_first_bf_change_f6a0ca75:
 
     # Alice_06 "Ага, знаешь как к учителям приставать. Этому планируешь научить Лизу?" nointeract
-    Alice_06 "Sí, sabes cómo molestar a los profesores. ¿Es esto lo que quieres enseñarle a Lisa?\n"
-"" nointeract
+    Alice_06 "Sí, sabes cómo molestar a los profesores. ¿Es esto lo que quieres enseñarle a Lisa?\n" nointeract
 
 # game/dialogues/breakfast.rpy:83
 translate crowdin breakfast_first_bf_change_50f154cf:

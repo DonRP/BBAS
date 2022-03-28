@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/eric.po\n"
-"X-Crowdin-File-ID: 3480\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/eric.po\n"
+# "X-Crowdin-File-ID: 3480\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -2844,327 +2844,327 @@ translate crowdin strings:
 
     # game/events/eric.rpy:17
     old "Понимаю, хорошо..."
-    new ""
+    new "Entiendo, está bien..."
 #--- ""
 
     # game/events/eric.rpy:17
     old "И зачем мне это?"
-    new ""
+    new "¿Y por qué lo haría?"
 #--- ""
 
     # game/events/eric.rpy:46
     old "А если нет, то что?"
-    new ""
+    new "Y si no, ¿qué?"
 #--- ""
 
     # game/events/eric.rpy:46
     old "Думаю, подружимся..."
-    new ""
+    new "Creo que haremos amigos..."
 #--- ""
 
     # game/events/eric.rpy:58
     old "Это ещё почему?"
-    new ""
+    new "¿Por qué?"
 #--- ""
 
     # game/events/eric.rpy:58
     old "Да я не собираюсь воевать..."
-    new ""
+    new "No voy a pelear..."
 #--- ""
 
     # game/events/eric.rpy:66
     old "Да верю, верю. Я просто спросил и не хочу ссориться..."
-    new ""
+    new "Sí, creo, creo. Acabo de preguntar y no quiero pelear..."
 #--- ""
 
     # game/events/eric.rpy:66
     old "Меня все любят и мне поверят, что ты мне угрожал!"
-    new ""
+    new "¡Todos me aman y me creerán que me amenazaste!"
 #--- ""
 
     # game/events/eric.rpy:66
     old "У меня есть мозги и я что-нибудь придумаю!"
-    new ""
+    new "¡Tengo cerebro y se me ocurrió algo!"
 #--- ""
 
     # game/events/eric.rpy:75
     old "Не верю! Всё не так!"
-    new ""
+    new "¡No lo creo! ¡No es así!"
 #--- ""
 
     # game/events/eric.rpy:75
     old "Она так сказала?"
-    new ""
+    new "¿Dijo eso?"
 #--- ""
 
     # game/events/eric.rpy:93
     old "Ладно, посмотрим..."
-    new ""
+    new "Vale, ya veremos..."
 #--- ""
 
     # game/events/eric.rpy:93
     old "Никогда. Отвали!"
-    new ""
+    new "Nunca. ¡Atrás!"
 #--- ""
 
     # game/events/eric.rpy:103
     old "Ладно, посмотрим... И что я выиграю?"
-    new ""
+    new "Vale, ya veremos... ¿Y qué voy a ganar?"
 #--- ""
 
     # game/events/eric.rpy:113
     old "Какие проблемы?"
-    new ""
+    new "¿Necesitas ayuda?"
 #--- ""
 
     # game/events/eric.rpy:113
     old "Договорились..."
-    new ""
+    new "De acuerdo..."
 #--- ""
 
     # game/events/eric.rpy:116
     old "Ну, ладно, убедил."
-    new ""
+    new "Bueno, está bien, lo hice."
 #--- ""
 
     # game/events/eric.rpy:116
     old "Нет, без вариантов..."
-    new ""
+    new "No, no hay opciones..."
 #--- ""
 
     # game/events/eric.rpy:155
     old "Да, я только за."
-    new ""
+    new "Sí, estoy a favor."
 #--- ""
 
     # game/events/eric.rpy:155
     old "Тебе показалось. Я тебя ненавижу!"
-    new ""
+    new "Pensaste. ¡Te odio!"
 #--- ""
 
     # game/events/eric.rpy:163
     old "Думаю, воевать смысла нет..."
-    new ""
+    new "Creo que no tiene sentido pelear..."
 #--- ""
 
     # game/events/eric.rpy:163
     old "Я тебя ненавижу!"
-    new ""
+    new "¡Te odio!"
 #--- ""
 
     # game/events/eric.rpy:171
     old "Почему? Я подумал как следует. Воевать точно не хочу..."
-    new ""
+    new "¿Por qué? Me pareció correcto. Definitivamente no quiero pelear..."
 #--- ""
 
     # game/events/eric.rpy:171
     old "Правильно. Я тебя ненавижу!"
-    new ""
+    new "Correcto. ¡Te odio!"
 #--- ""
 
     # game/events/eric.rpy:182
     old "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
-    new ""
+    new "{color=[orange]}{i}{b}Advertencia:{/b} ¡Tu relación se ha deteriorado significativamente! {/i} {/color}"
 #--- ""
 
     # game/events/eric.rpy:195
     old "Что? Ты ошибаешься!"
-    new ""
+    new "¿Un qué? ¡Te equivocas!"
 #--- ""
 
     # game/events/eric.rpy:195
     old "Они никакие не цыпочки!"
-    new ""
+    new "¡No son pollitos!"
 #--- ""
 
     # game/events/eric.rpy:195
     old "Я вдруг понял... Да пошёл ты!"
-    new ""
+    new "De repente me di cuenta... ¡Recorrer un largo camino!"
 #--- ""
 
     # game/events/eric.rpy:203
     old "Думаешь?"
-    new ""
+    new "¿Pensar?"
 #--- ""
 
     # game/events/eric.rpy:203
     old "Постой, и ты этого хочешь?"
-    new ""
+    new "Espera, ¿y quieres eso?"
 #--- ""
 
     # game/events/eric.rpy:206
     old "А если я расскажу про это всем?"
-    new ""
+    new "¿Qué pasa si se lo digo a todo el mundo?"
 #--- ""
 
     # game/events/eric.rpy:206
     old "Только, если я что-то получу за это..."
-    new ""
+    new "Solo si consigo algo por ello..."
 #--- ""
 
     # game/events/eric.rpy:206
     old "Ты подонок! Я передумал. Убирайся!"
-    new ""
+    new "¡Eres un bajo! Cambié de opinión. ¡Véncelo!"
 #--- ""
 
     # game/events/eric.rpy:223
     old "Да я не собираюсь рассказывать, просто спросил..."
-    new ""
+    new "Sí, no te lo voy a decir, solo pregunté..."
 #--- ""
 
     # game/events/eric.rpy:223
     old "Вот и проверим..."
-    new ""
+    new "Así que vamos a comprobar..."
 #--- ""
 
     # game/events/eric.rpy:223
     old "Ты - псих ненормальный. Убирайся!"
-    new ""
+    new "Estás loco loco. ¡Véncelo!"
 #--- ""
 
     # game/events/eric.rpy:228
     old "Да я пошутил! Конечно, не расскажу никому..."
-    new ""
+    new "¡Sí, estaba bromeando! Por supuesto, no se lo diré a nadie..."
 #--- ""
 
     # game/events/eric.rpy:228
     old "Вот и посмотрим..."
-    new ""
+    new "Así que ya veremos..."
 #--- ""
 
     # game/events/eric.rpy:248
     old "Нет, на это я не согласен."
-    new ""
+    new "No, no estoy de acuerdo con eso."
 #--- ""
 
     # game/events/eric.rpy:253
     old "Я не извращенец!"
-    new ""
+    new "¡No soy un pervertido!"
 #--- ""
 
     # game/events/eric.rpy:253
     old "А есть только два варианта?"
-    new ""
+    new "¿Y solo hay dos opciones?"
 #--- ""
 
     # game/events/eric.rpy:253
     old "Ты знаешь... Я тут подумал. Да пошёл ты! Не надо мне ничего от тебя. Я от тебя избавлюсь!"
-    new ""
+    new "Sabes... Lo pensé. ¡Recorrer un largo camino! No necesito nada de ti. ¡Me desharé de ti!"
 #--- ""
 
     # game/events/eric.rpy:256
     old "Тогда... Остаётся только послать тебя куда подальше. Такая дружба мне не нужна!"
-    new ""
+    new "Entonces... Solo queda enviarte lejos. ¡No necesito esa amistad!"
 #--- ""
 
     # game/events/eric.rpy:266
     old "Если так, то я согласен на твои условия, конечно!"
-    new ""
+    new "Si es así, ¡estoy de acuerdo con sus términos, por supuesto!"
 #--- ""
 
     # game/events/eric.rpy:266
     old "Знаешь, что... Эрик? А иди-ка ты в жопу! Без тебя справимся!"
-    new ""
+    new "Sepa qué... ¿Eric? ¡Y vete en el culo! ¡Podemos hacerlo sin ti!"
 #--- ""
 
     # game/events/eric.rpy:279
     old "{color=[lime]}{i}{b}Внимание:{/b} Ваши отношения значительно улучшились{/i}{/color}"
-    new ""
+    new "{color=[lime]}{i}{b}Advertencia:{/b} ¡Tu relación se ha deteriorado significativamente! {/i} {/color}"
 #--- ""
 
     # game/events/eric.rpy:323
     old "{i}наблюдать за ними{/i}"
-    new ""
+    new "{i}verlos{/i}"
 #--- ""
 
     # game/events/eric.rpy:323
     old "{i}подойти к ним{/i}"
-    new ""
+    new "{i}acercarse a ellos{/i}"
 #--- ""
 
     # game/events/eric.rpy:333
     old "Конечно, мам! {i}(уйти){/i}"
-    new ""
+    new "¡Por supuesto, mamá! {i}(permiso){/i}"
 #--- ""
 
     # game/events/eric.rpy:333
     old "Конечно, мам! {i}(спрятаться){/i}"
-    new ""
+    new "¡Por supuesto, mamá! {i}(ocultar){/i}"
 #--- ""
 
     # game/events/eric.rpy:356
     old "{i}подойти ближе{/i}"
-    new ""
+    new "{i}acercarse a ellos{/i}"
 #--- ""
 
     # game/events/eric.rpy:356
     old "{i}тихо уйти{/i}"
-    new ""
+    new "{i}se va en silencio{/i}"
 #--- ""
 
     # game/events/eric.rpy:368
     old "{i}Что за вопрос? Конечно!{/i}"
-    new ""
+    new "{i}¿Cuál es la pregunta? ¡Claro! {/i}"
 #--- ""
 
     # game/events/eric.rpy:422
     old "{i}тихо сматываться{/i}"
-    new ""
+    new "{i}rodar silenciosamente{/i}"
 #--- ""
 
     # game/events/eric.rpy:459
     old "Ма-а-ам?"
-    new ""
+    new "¿Señora?"
 #--- ""
 
     # game/events/eric.rpy:459
     old "Вы охренели!"
-    new ""
+    new "¡Tú arriba!"
 #--- ""
 
     # game/events/eric.rpy:489
     old "Как раз всё вижу. Не стыдно?"
-    new ""
+    new "Lo veo todo. ¿No te avergüenzas?"
 #--- ""
 
     # game/events/eric.rpy:489
     old "Хорошо. А вы тут продолжайте... Не стесняйтесь."
-    new ""
+    new "De acuerdo. Y sigues adelante... No seas tímido."
 #--- ""
 
     # game/events/eric.rpy:489
     old "Извини, мам. Я просто не ожидал ТАКОЕ увидеть..."
-    new ""
+    new "Lo siento, mamá. Simplemente no esperaba ver ESO..."
 #--- ""
 
     # game/events/eric.rpy:505
     old "Хотите потрахаться - идите в свою комнату. Нечего этим на виду у всех заниматься!"
-    new ""
+    new "Si quieres follar, ve a tu habitación. ¡No hay nada que hacer a plena vista!"
 #--- ""
 
     # game/events/eric.rpy:505
     old "Да всё в порядке. Это ты извини... Я просто от неожиданности крикнул."
-    new ""
+    new "Sí, está bien. Lo siento... Solo grité de sorpresa."
 #--- ""
 
     # game/events/eric.rpy:505
     old "А вы не против, если я посмотрю?"
-    new ""
+    new "¿Te importa si le doy un vistazo?"
 #--- ""
 
     # game/events/eric.rpy:534
     old "{i}зайти в спальню{/i}"
-    new ""
+    new "{i}entrar en el dormitorio{/i}"
 #--- ""
 
     # game/events/eric.rpy:592
     old "Я никому не мешаю же..."
-    new ""
+    new "No estoy molestando a nadie..."
 #--- ""
 
     # game/events/eric.rpy:592
     old "Я уже ухожу, мам... Извини..."
-    new ""
+    new "Me voy, mamá... Arrepentido..."
 #--- ""
 
     # game/events/eric.rpy:686
@@ -3189,22 +3189,22 @@ translate crowdin strings:
 
     # game/events/eric.rpy:802
     old "{i}проверить{/i}"
-    new ""
+    new "{i}comprobación{/i}"
 #--- ""
 
     # game/events/eric.rpy:1027
     old "{i}смотреть до конца{/i}"
-    new ""
+    new "{i}mira hasta el final{/i}"
 #--- ""
 
     # game/events/eric.rpy:1118
     old "{i}посмотреть через камеру{/i}"
-    new ""
+    new "{i}vista a través de la cámara{/i}"
 #--- ""
 
     # game/events/eric.rpy:1447
     old "{i}Осторожно подсмотреть за ним с балкона{/i}"
-    new ""
+    new "{i}Espiarlo cuidadosamente desde el balcón{/i}"
 #--- ""
 
     # game/events/eric.rpy:1480

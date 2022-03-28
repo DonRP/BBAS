@@ -1,24 +1,23 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/ann.po\n"
-"X-Crowdin-File-ID: 3476\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/ann.po\n"
+# "X-Crowdin-File-ID: 3476\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
 # game/events/ann.rpy:11
 translate crowdin ann_sleep_6173ff68:
 
-    # Max_00 "{m}В это время мама обычно спит.\n"
-"Мне кажется, не стоит её будить...{/m}" nointeract
+    # Max_00 "{m}В это время мама обычно спит.\nМне кажется, не стоит её будить...{/m}" nointeract
     ""
 
 # game/events/ann.rpy:19
@@ -210,8 +209,7 @@ translate crowdin ann_shower_closer_peepeng_bb7b0422:
 # game/events/ann.rpy:187
 translate crowdin ann_shower_not_luck_6222d56c:
 
-    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n"
-"{m}Упс... надо бежать, пока она меня не увидела!{/m}"
+    # Max_12 "{color=[orange]}{i}Кажется, мама что-то заподозрила!{/i}{/color}\n{m}Упс... надо бежать, пока она меня не увидела!{/m}"
     ""
 
 # game/events/ann.rpy:196
@@ -1298,27 +1296,27 @@ translate crowdin strings:
 
     # game/events/ann.rpy:195
     old "{i}Отвернуться{/i}"
-    new ""
+    new "{i}Alejarse{/i}"
 #--- ""
 
     # game/events/ann.rpy:206
     old "Я не подглядывал. Это случайность!"
-    new ""
+    new "No estaba mirando. ¡Fue un accidente!"
 #--- ""
 
     # game/events/ann.rpy:206
     old "Мам, извини..."
-    new ""
+    new "Lo siento..."
 #--- ""
 
     # game/events/ann.rpy:206
     old "Попка у тебя - что надо!"
-    new ""
+    new "¡Tu es lo que necesitas!"
 #--- ""
 
     # game/events/ann.rpy:278
     old "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-    new ""
+    new "Soy yo, Max. ¿Puedo entrar? Tengo algo para ti."
 #--- ""
 
     # game/events/ann.rpy:372
@@ -1338,7 +1336,7 @@ translate crowdin strings:
 
     # game/events/ann.rpy:427
     old "У меня для тебя кое-что есть."
-    new ""
+    new "Tengo algo para ti."
 #--- ""
 
     # game/events/ann.rpy:427
@@ -1383,12 +1381,12 @@ translate crowdin strings:
 
     # game/events/ann.rpy:522
     old "Ну мам! Этого было так мало, давай ещё..."
-    new ""
+    new "¡Vamos mamá! Era tan poco, vamos a tener más..."
 #--- ""
 
     # game/events/ann.rpy:522
     old "Конечно, мам! Хорошего тебе дня..."
-    new ""
+    new "¡Por supuesto, mamá! Que tengas un buen día..."
 #--- ""
 
     # game/events/ann.rpy:604

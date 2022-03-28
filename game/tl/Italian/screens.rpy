@@ -10,7 +10,7 @@
 # "Content-Type: text/plain; charset=UTF-8\n"
 # "Language-Team: Italian\n"
 # "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
+# "PO-Revision-Date: 2022-03-28 14:56\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 

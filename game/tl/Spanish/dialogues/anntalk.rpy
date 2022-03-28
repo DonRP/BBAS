@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/dialogues/anntalk.po\n"
-"X-Crowdin-File-ID: 3454\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/anntalk.po\n"
+# "X-Crowdin-File-ID: 3454\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -2646,87 +2646,87 @@ translate crowdin strings:
 
     # game/dialogues/anntalk.rpy:71
     old "В другой раз..."
-    new ""
+    new "En otro momento..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:96
     old "Точно, извини..."
-    new ""
+    new "Exactamente, lo siento..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:108
     old "Мне стыдно, но очень нужны деньги..."
-    new ""
+    new "Estoy avergonzado, pero realmente necesito dinero..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:108
     old "Я могу сделать какую-то работу, чтобы не просто так выпрашивать деньги..."
-    new ""
+    new "Puedo hacer algún trabajo para pedir dinero por una razón..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:108
     old "Ты права, стыдно. В другой раз..."
-    new ""
+    new "Tienes razón, vergonzoso. Otra vez..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:112
     old "Ага! Спасибо, мам!"
-    new ""
+    new "¡Ajá! ¡Gracias mamá!"
 #--- ""
 
     # game/dialogues/anntalk.rpy:112
     old "Может быть, я могу что-то сделать?"
-    new ""
+    new "¿Tal vez pueda hacer algo?"
 #--- ""
 
     # game/dialogues/anntalk.rpy:123
     old "Может быть, почистить бассейн?"
-    new ""
+    new "¿Tal vez limpiar la piscina?"
 #--- ""
 
     # game/dialogues/anntalk.rpy:123
     old "Ну, могу заказать продукты"
-    new ""
+    new "Bueno, puedo pedir productos"
 #--- ""
 
     # game/dialogues/anntalk.rpy:123
     old "Не знаю. Видимо, ничего..."
-    new ""
+    new "No sé. Aparentemente nada..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:128
     old "Может я могу ещё что-то сделать?"
-    new ""
+    new "¿Tal vez pueda hacer otra cosa?"
 #--- ""
 
     # game/dialogues/anntalk.rpy:148
     old "Супер!"
-    new ""
+    new "¡Perfecto!"
 #--- ""
 
     # game/dialogues/anntalk.rpy:178
     old "Конечно! Что смотреть будем?"
-    new ""
+    new "¡Claro! ¿Qué veremos?"
 #--- ""
 
     # game/dialogues/anntalk.rpy:178
     old "А я прикупил фильм на вечер. Посмотрим?"
-    new ""
+    new "Y compré una película para la noche. ¿Ver?"
 #--- ""
 
     # game/dialogues/anntalk.rpy:178
     old "Мы не досмотрели один фильм. Помнишь?"
-    new ""
+    new "No terminamos una película. ¿Recordar?"
 #--- ""
 
     # game/dialogues/anntalk.rpy:202
     old "Не буду тебе мешать..."
-    new ""
+    new "No te molestaré..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:221
     old "Нет, не слышал о таком. Давай смотреть!"
-    new ""
+    new "No, no he oído hablar de ninguno. ¡Veamos!"
 #--- ""
 
     # game/dialogues/anntalk.rpy:221
@@ -2761,12 +2761,12 @@ translate crowdin strings:
 
     # game/dialogues/anntalk.rpy:380
     old "Да, очень!"
-    new ""
+    new "Sí, mucho!"
 #--- ""
 
     # game/dialogues/anntalk.rpy:380
     old "Почти также, как сидеть рядом с тобой..."
-    new ""
+    new "Casi como sentarse a tu lado..."
 #--- ""
 
     # game/dialogues/anntalk.rpy:421

@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/dialogues/lisatalk.po\n"
-"X-Crowdin-File-ID: 3466\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/lisatalk.po\n"
+# "X-Crowdin-File-ID: 3466\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -3527,8 +3527,7 @@ translate crowdin gift_swimsuit_swimsuit_show_c6805f5f:
 # game/dialogues/lisatalk.rpy:2014
 translate crowdin gift_swimsuit_swimsuit_show_7374967a:
 
-    # Max_04 "{m}Да, закрою глаза, когда тут такое... как же!\n"
-"Ух! А, сестрёнка хороша... Местами даже очень...{/m}"
+    # Max_04 "{m}Да, закрою глаза, когда тут такое... как же!\nУх! А, сестрёнка хороша... Местами даже очень...{/m}"
     ""
 
 # game/dialogues/lisatalk.rpy:2016
@@ -9756,8 +9755,7 @@ translate crowdin lisa_about_stolen_phone_2a74b2cc:
 # game/dialogues/lisatalk.rpy:4623
 translate crowdin lisa_about_stolen_phone_0a6862b6:
 
-    # Eric "{b}Эрик:{/b}\n"
-"{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
+    # Eric "{b}Эрик:{/b}\n{i}... она начнёт полировать мой член своими сладкими губками. Ты уже это представил? Я вот да! Сказка будет та ещё!{/i}"
     ""
 
 # game/dialogues/lisatalk.rpy:4624
@@ -10815,252 +10813,252 @@ translate crowdin strings:
 
     # game/dialogues/lisatalk.rpy:369
     old "Ты права..."
-    new ""
+    new "Tienes razón..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:372
     old "Ты же у нас оптимист обычно?"
-    new ""
+    new "¿Sueles ser optimista?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:372
     old "Ага. Или адвокат не заметит ошибку в документах какую-нибудь..."
-    new ""
+    new "Ajá. O el abogado no notará un error en los documentos de algunos..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:385
     old "Ну, я постараюсь"
-    new ""
+    new "Bueno, lo intentaré"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:385
     old "Человек как таракан, ко всему привыкает"
-    new ""
+    new "Una persona es como una cucaracha, se acostumbra a todo"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:392
     old "Ещё не решил. Что посоветуешь?"
-    new ""
+    new "Todavía no lo he decidido. ¿Qué recomiendas?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:392
     old "Придумаю ещё. А у тебя какие планы?"
-    new ""
+    new "Se me opondré algunas más. ¿Cuáles son sus planes?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:392
     old "Буду думать как заработать"
-    new ""
+    new "Pensaré cómo ganar"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:407
     old "А если я настаиваю?"
-    new ""
+    new "¿Y si insisto?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:407
     old "Договорились"
-    new ""
+    new "De acuerdo"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:410
     old "Короче, рассказывай!"
-    new ""
+    new "En resumen, ¡cuéntanos!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:410
     old "Ой, всё..."
-    new ""
+    new "Carga explosiva C4 con temporizador..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:422
     old "А подробнее?"
-    new ""
+    new "¿Y para más detalles?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:422
     old "И как вы познакомились?"
-    new ""
+    new "¿Cómo habéis quedado?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:422
     old "Расскажи о нём"
-    new ""
+    new "Cuéntanos sobre él"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:433
     old "Я не зануда!"
-    new ""
+    new "¡No soy un nerd!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:433
     old "Значит, нравится мой типаж?"
-    new ""
+    new "Entonces, ¿como mi tipo?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:433
     old "А я тебе нравлюсь?"
-    new ""
+    new "¿Te gusto?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:438
     old "А хотела бы, чтобы он им стал?"
-    new ""
+    new "¿Te gustaría que lo fuera?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:438
     old "Я, между прочим, тоже ничего..."
-    new ""
+    new "Yo, por cierto, tampoco nada..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:441
     old "Значит, он тебе нравится?"
-    new ""
+    new "Así que te gusta?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:441
     old "И что теперь?"
-    new ""
+    new "¿Y ahora qué?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:448
     old "А ты своему парню скажешь, что спишь со своим братом?"
-    new ""
+    new "¿Le dirás a tu novio que te acuestas con tu hermano?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:448
     old "Спим вместе!"
-    new ""
+    new "¡Duerman juntos!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:454
     old "Ладно, ладно. Ну а что он говорил?"
-    new ""
+    new "Está bien. Bueno, ¿qué dijo?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:461
     old "Эй, я не неудачник!"
-    new ""
+    new "¡Oye, no soy un perdedor!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:461
     old "Я разве достаю? Просто интересуюсь твоей жизнью"
-    new ""
+    new "¿Lo estoy consiguiendo? Solo interesado en tu vida"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:468
     old "А кто тебе нравится больше? Я или он?"
-    new ""
+    new "¿Y quién te gusta más? ¿Yo o él?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:471
     old "Ладно, ладно, извини..."
-    new ""
+    new "Vale, vale, lo siento..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:471
     old "А он, значит, теперь нравится больше?"
-    new ""
+    new "¿Y a él, entonces, ahora le gusta más?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:471
     old "И всё-таки?"
-    new ""
+    new "¿Y sin embargo?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:474
     old "А вот теперь я могу обидеться..."
-    new ""
+    new "Pero ahora puedo sentirme ofendido..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:474
     old "Я же в шутку. И, кстати, придурок - это обидно!"
-    new ""
+    new "Estoy bromeando. Y, por cierto, un imbécil, ¡es una pena!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:491
     old "Ну, со мной ты всегда можешь поболтать"
-    new ""
+    new "Bueno, siempre puedes chatear conmigo"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:491
     old "Можешь на меня рассчитывать"
-    new ""
+    new "Puedes contar conmigo"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:491
     old "Только не превращай меня в свою подушку!"
-    new ""
+    new "¡Simplemente no me conviertas en tu almohada!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:498
     old "Что? Он уже тебя бросил?!"
-    new ""
+    new "¿Un qué? ¡¿Ya te ha abandonado?!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:498
     old "А я не убежал и всё ещё здесь!"
-    new ""
+    new "¡Y no me escapé y todavía estoy aquí!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:521
     old "Он тебе нравится?"
-    new ""
+    new "¿Cuál es tu estética?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:521
     old "Думаю, у вас всё получится"
-    new ""
+    new "Creo que tendrás éxito"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:530
     old "Всё будет хорошо"
-    new ""
+    new "Todo saldrá bien"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:530
     old "Если что, я всегда помогу советом"
-    new ""
+    new "En todo caso, siempre ayudaré con consejos"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:530
     old "А не рано тебе с кем-то встречаться?"
-    new ""
+    new "¿No es demasiado pronto para salir con alguien?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:537
     old "Это я её бросил"
-    new ""
+    new "La dejé"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:537
     old "Так что, у меня есть опыт"
-    new ""
+    new "Entonces, tengo experiencia"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:540
     old "Всё было не так!"
-    new ""
+    new "¡No fue así!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:540
     old "В любом случае, у меня опыта больше"
-    new ""
+    new "De cualquier manera, tengo más experiencia"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:540
     old "Это всё в прошлом..."
-    new ""
+    new "Todo está en el pasado..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:556
     old "Я же не обо всём рассказывал..."
-    new ""
+    new "No hablé de todo..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:556
     old "Именно поэтому за советами обращайся ко мне"
-    new ""
+    new "Es por eso que contáctame para obtener asesoramiento"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:564
@@ -11315,137 +11313,137 @@ translate crowdin strings:
 
     # game/dialogues/lisatalk.rpy:803
     old "Извини, я забыл, что обещал"
-    new ""
+    new "Lo siento, olvidé lo que prometí"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:803
     old "Извини, но было же весело?"
-    new ""
+    new "Lo siento, ¿pero fue divertido?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:803
     old "Извини, я не подумал..."
-    new ""
+    new "Lo siento, no pensé..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:816
     old "Я ни с кем не встречаюсь. В моей жизни есть только ты!"
-    new ""
+    new "No saldré con nadie. ¡En mi vida solo estás tú!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:816
     old "Если бы и был кто-то, ты бы точно свой нос совала!"
-    new ""
+    new "Si hubiera alguien, ¡definitivamente estarías asomando la nariz!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:827
     old "Они всё врут. Ты - самая красивая!"
-    new ""
+    new "Todos están mintiendo. ¡Eres la más hermosa!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:827
     old "Ты уверена, что она самая красивая?"
-    new ""
+    new "¿Estás seguro de que es la más hermosa?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:834
     old "Наверное, стерва?"
-    new ""
+    new "¿Probablemente un?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:834
     old "И какая она?"
-    new ""
+    new "¿Y qué es?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:837
     old "В твоём вкусе?"
-    new ""
+    new "¿A tu gusto?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:837
     old "Странно..."
-    new ""
+    new "Qué extraño..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:853
     old "Ну вот видишь, не всё потеряно!"
-    new ""
+    new "Bueno, ya ves, ¡no todo está perdido!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:853
     old "Значит, у тебя есть шанс!"
-    new ""
+    new "¿Entonces tienes un blog!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:872
     old "Да ты послушай!"
-    new ""
+    new "¡Oh sí, escucha!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:872
     old "Я хотел извиниться..."
-    new ""
+    new "Quería disculparme..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:950
     old "Помочь, конечно!"
-    new ""
+    new "¡Ayuda, por supuesto!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:950
     old "Для начала хотел узнать, как у тебя дела?"
-    new ""
+    new "En primer lugar, quería saber cómo te iba?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:953
     old "Тебе повезло, у меня всё хорошо с этими предметами!"
-    new ""
+    new "¡Estás de suerte, estoy bien con estos artículos!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:953
     old "Может быть, я тебе и смогу помочь..."
-    new ""
+    new "Tal vez pueda ayudarte..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:967
     old "Конечно, сестрёнка!"
-    new ""
+    new "¡Por supuesto, hermana!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:970
     old "Ну может быть..."
-    new ""
+    new "Pero quizás..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:970
     old "Обещаю! Хочу только помогать и ничего взамен!"
-    new ""
+    new "¡Lo prometo! ¡Solo quiero ayudar y nada a cambio!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:989
     old "Ну сама подумай, зачем мне тратить время просто так?"
-    new ""
+    new "Bueno, piénsalo, ¿por qué debería perder el tiempo así?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:989
     old "Может быть, попрошу что-то..."
-    new ""
+    new "Tal vez pida algo..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:989
     old "Да нет, конечно. Обещаю, что ничего не попрошу взамен!"
-    new ""
+    new "Claro que no. ¡Prometo que no pediré nada a cambio!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:997
     old "Нет, Лиза. Ты мне - я тебе."
-    new ""
+    new "No, Lisa. Tú yo, yo soy tú."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:997
     old "А я пошутил. Обещаю, что ничего не попрошу взамен!"
-    new ""
+    new "Y estaba bromeando. ¡Prometo que no pediré nada a cambio!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1053
@@ -11455,47 +11453,47 @@ translate crowdin strings:
 
     # game/dialogues/lisatalk.rpy:1073
     old "Ну, давай посмотрим..."
-    new ""
+    new "Bueno, veamos..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1073
     old "Хотя, в другой раз..."
-    new ""
+    new "Aunque, en otro momento..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "Без проблем!"
-    new ""
+    new "¡No hay problema!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "Ты пока отдохни, я сам всё сделаю!"
-    new ""
+    new "Todavía estás descansando, ¡lo haré yo mismo!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "Ага... {i}(сделать ошибки){/i}"
-    new ""
+    new "Sí... {i}(cometer errores){/i}"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "Давай я всё сделаю сам! {i}(без ошибок){/i}"
-    new ""
+    new "¡Déjame hacerlo yo mismo! {i}(sin errores){/i}"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "Я всё сделаю сам на пятёрку, если ты сделаешь кое-что для меня..."
-    new ""
+    new "Lo haré yo mismo entre los cinco primeros si haces algo por mí..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "А ножки тебе помассировать?"
-    new ""
+    new "¿Masajeas tus piernas?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1085
     old "Ой, тут много... Давай в другой раз."
-    new ""
+    new "Oh, hay mucho... Vamos en otro momento."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1105
@@ -11505,17 +11503,17 @@ translate crowdin strings:
 
     # game/dialogues/lisatalk.rpy:1145
     old "Тебе напомнить как мама больно наказывает?"
-    new ""
+    new "¿Puedes recordarte cómo a mi madre le duele castigar?"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1145
     old "Как хочешь. Но мама тебя накажет!"
-    new ""
+    new "Como quieras. ¡Pero mamá te castigará!"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1194
     old "Да, Лиза, ты права..."
-    new ""
+    new "Sí, Lisa, tienes razón..."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1194
@@ -11525,12 +11523,12 @@ translate crowdin strings:
 
     # game/dialogues/lisatalk.rpy:1228
     old "Лиза очень ценит помощь Макса. Её отношение значительно улучшилось."
-    new ""
+    new "Lisa realmente aprecia la ayuda de Max. Su actitud ha mejorado significativamente."
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1263
     old "{i}начать массаж{/i}"
-    new ""
+    new "{i}comenzar un masaje{/i}"
 #--- ""
 
     # game/dialogues/lisatalk.rpy:1382

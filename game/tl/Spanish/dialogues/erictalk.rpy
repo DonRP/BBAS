@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/dialogues/erictalk.po\n"
-"X-Crowdin-File-ID: 3462\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/erictalk.po\n"
+# "X-Crowdin-File-ID: 3462\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -2244,57 +2244,57 @@ translate crowdin strings:
 
     # game/dialogues/erictalk.rpy:11
     old "{i}В другой раз...{/i}"
-    new ""
+    new "{i}Otra vez... {/i}"
 #--- ""
 
     # game/dialogues/erictalk.rpy:55
     old "Э... Ну не совсем так..."
-    new ""
+    new "Este... Bueno, no exactamente..."
 #--- ""
 
     # game/dialogues/erictalk.rpy:55
     old "А так можно?"
-    new ""
+    new "¿Es posible?"
 #--- ""
 
     # game/dialogues/erictalk.rpy:65
     old "Кстати, как ты это делаешь?"
-    new ""
+    new "Por cierto, ¿cómo lo haces?"
 #--- ""
 
     # game/dialogues/erictalk.rpy:65
     old "Отлично! Спасибо, Эрик."
-    new ""
+    new "¡Es genial! Gracias, Eric."
 #--- ""
 
     # game/dialogues/erictalk.rpy:71
     old "Это угроза?"
-    new ""
+    new "¿Es una amenaza?"
 #--- ""
 
     # game/dialogues/erictalk.rpy:71
     old "Хорошо, Эрик!"
-    new ""
+    new "¡Está bien, Eric!"
 #--- ""
 
     # game/dialogues/erictalk.rpy:172
     old "{i}сесть на кровать{/i}"
-    new ""
+    new "{i}se sientan en la cama{/i}"
 #--- ""
 
     # game/dialogues/erictalk.rpy:187
     old "{i}слегка подвинуться{/i}"
-    new ""
+    new "{i}mueve ligeramente{/i}"
 #--- ""
 
     # game/dialogues/erictalk.rpy:248
     old "{i}смотреть, как мама сосёт{/i}"
-    new ""
+    new "{i}mira a mamá chupar{/i}"
 #--- ""
 
     # game/dialogues/erictalk.rpy:307
     old "{i}пересесть{/i}"
-    new ""
+    new "{i}cambiar{/i}"
 #--- ""
 
     # game/dialogues/erictalk.rpy:399

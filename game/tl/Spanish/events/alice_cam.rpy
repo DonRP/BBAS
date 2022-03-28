@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/alice_cam.po\n"
-"X-Crowdin-File-ID: 3474\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/alice_cam.po\n"
+# "X-Crowdin-File-ID: 3474\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -576,31 +576,31 @@ translate crowdin strings:
 
     # game/events/alice_cam.rpy:57
     old "{i}Конечно{/i}"
-    new ""
+    new "{i}Por supuesto{/i}"
 #--- ""
 
     # game/events/alice_cam.rpy:74
     old "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-    new ""
+    new "{i}Toma la cámara y ve a la ventana de Alice{/i}"
 #--- ""
 
     # game/events/alice_cam.rpy:74
     old "{i}Да и хрен с ним, пусть дрочит{/i}"
-    new ""
+    new "{i}Y a la mierda con él, déjalo temblar{/i}"
 #--- ""
 
     # game/events/alice_cam.rpy:88
     old "{i}Взять фотоаппарат и пойти на балкон{/i}"
-    new ""
+    new "{i}Toma la cámara y ve al balcón{/i}"
 #--- ""
 
     # game/events/alice_cam.rpy:332
     old "{i}продолжать смотреть{/i}"
-    new ""
+    new "{i}sigue mirando{/i}"
 #--- ""
 
     # game/events/alice_cam.rpy:332
     old "{i}достаточно{/i}"
-    new ""
+    new "{i}suficiente{/i}"
 #--- ""
 

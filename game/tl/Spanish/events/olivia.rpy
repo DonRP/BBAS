@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/olivia.po\n"
-"X-Crowdin-File-ID: 3494\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/olivia.po\n"
+# "X-Crowdin-File-ID: 3494\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -2070,32 +2070,32 @@ translate crowdin strings:
 
     # game/events/olivia.rpy:37
     old "{i}подсмотреть{/i}"
-    new ""
+    new "{i}espía{/i}"
 #--- ""
 
     # game/events/olivia.rpy:97
     old "{i}дождаться девчонок{/i}"
-    new ""
+    new "{i}espera a las chicas{/i}"
 #--- ""
 
     # game/events/olivia.rpy:189
     old "Конечно с вами!"
-    new ""
+    new "¡Por supuesto contigo!"
 #--- ""
 
     # game/events/olivia.rpy:328
     old "Я с вами!"
-    new ""
+    new "¡Estoy contigo!"
 #--- ""
 
     # game/events/olivia.rpy:416
     old "{i}раздеться и сесть рядом{/i}"
-    new ""
+    new "{i}desnudarme y sentarte al lado de{/i}"
 #--- ""
 
     # game/events/olivia.rpy:671
     old "{i}идти в свою комнату{/i}"
-    new ""
+    new "{i}ir a tu habitación{/i}"
 #--- ""
 
     # game/events/olivia.rpy:730

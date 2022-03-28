@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/dialogues/oliviatalk.po\n"
-"X-Crowdin-File-ID: 3468\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:18\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/dialogues/oliviatalk.po\n"
+# "X-Crowdin-File-ID: 3468\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:45\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -1494,22 +1494,22 @@ translate crowdin strings:
 
     # game/dialogues/oliviatalk.rpy:11
     old "Хотя, нет... У меня вообще-то дела есть..."
-    new ""
+    new "Aunque, no... De hecho, tengo cosas que hacer..."
 #--- ""
 
     # game/dialogues/oliviatalk.rpy:262
     old "Давай перенесём..."
-    new ""
+    new "Vamos a movernos..."
 #--- ""
 
     # game/dialogues/oliviatalk.rpy:262
     old "Тогда приятного вам просмотра..."
-    new ""
+    new "Entonces disfruta de tu visualización..."
 #--- ""
 
     # game/dialogues/oliviatalk.rpy:265
     old "{i}идти в гостиную{/i}"
-    new ""
+    new "{i}ir a la sala de estar{/i}"
 #--- ""
 
     # game/dialogues/oliviatalk.rpy:320

@@ -1,174 +1,143 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/04function.po\n"
-"X-Crowdin-File-ID: 3430\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: French\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+# "X-french-Project: big-brother-as\n"
+# "X-french-Project-ID: 461654\n"
+# "X-french-Language: fr\n"
+# "X-french-File: /master/game/tl/french/core/04function.po\n"
+# "X-french-File-ID: 3430\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: French\n"
+# "Language: fr_FR\n"
+# "PO-Revision-Date: 2022-03-28 14:54\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
-translate crowdin strings:
+translate french strings:
 
     # game/core/04function.rpy:302
     old "+ к навыку скрытности"
-    new ""
-#--- ""
+    new "+ de compétence pour la furtivité"
 
     # game/core/04function.rpy:306
     old "+ к навыку убеждения"
-    new ""
-#--- ""
+    new "+ de capacité de persuasion"
 
     # game/core/04function.rpy:310
     old "+ к навыку массажа"
-    new ""
-#--- ""
+    new "+ d’habileté pour le massage"
 
     # game/core/04function.rpy:314
     old "+ к навыку поцелуев"
-    new ""
-#--- ""
+    new "+ d’habileté pour embrasser"
 
     # game/core/04function.rpy:318
     old "+ к навыку эротического массажа"
-    new ""
-#--- ""
+    new "+ d’habileté pour le massage érotique"
 
     # game/core/04function.rpy:322
     old "+ к тренированности"
-    new ""
-#--- ""
+    new "+ de forme physique"
 
     # game/core/04function.rpy:326
     old "+ к навыку кунилингуса"
-    new ""
-#--- ""
+    new "+ de compétence pour le cunnilingus"
 
     # game/core/04function.rpy:330
     old "+ к сексуальному опыту"
-    new ""
-#--- ""
+    new "+ d’expérience sexuelle"
 
     # game/core/04function.rpy:334
     old "+ к опыту анального секса"
-    new ""
-#--- ""
+    new "+ d’expérience pour le sexe"
 
     # game/core/04function.rpy:343
     old "{color=[red]}значительно ухудшилось{/color}"
-    new ""
-#--- ""
+    new "{color=[red]}s’est considérablement détérioré {/color}"
 
     # game/core/04function.rpy:343
     old "{color=[red]}ухудшилось{/color}"
-    new ""
-#--- ""
+    new "{color=[red]}s'est aggravé{/color}"
 
     # game/core/04function.rpy:343
     old "{color=[red]}немного ухудшилось{/color}"
-    new ""
-#--- ""
+    new "{color=[red]}s'est légèrement aggravé{/color}"
 
     # game/core/04function.rpy:343
     old "{color=[lime]}немного улучшилось{/color}"
-    new ""
-#--- ""
+    new "{color=[lime]}s'est légèrement amélioré{/color}"
 
     # game/core/04function.rpy:343
     old "{color=[lime]}улучшилось{/color}"
-    new ""
-#--- ""
+    new "{color=[lime]}s'est amélioré{/color}"
 
     # game/core/04function.rpy:343
     old "{color=[lime]}значительно улучшилось{/color}"
-    new ""
-#--- ""
+    new "{color=[lime]}s’est considérablement amélioré{/color}"
 
     # game/core/04function.rpy:354
     old "{color=[red]}снизилось{/color}"
-    new ""
-#--- ""
+    new "{color=[red]}à diminué{/color}"
 
     # game/core/04function.rpy:354
     old "{color=[lime]}повысилось{/color}"
-    new ""
-#--- ""
+    new "{color=[lime]}à augmenté{/color}"
 
     # game/core/04function.rpy:385
-    old "Настроение %s %s \n"
-"Её отношение к Максу %s"
-    new ""
-#--- ""
+    old "Настроение %s %s \nЕё отношение к Максу %s"
+    new "Humeur %s %s \nSon attitude envers Max %s"
 
     # game/core/04function.rpy:387
     old "Отношение %s к Максу %s"
-    new ""
-#--- ""
+    new "L’attitude de %s envers Max %s"
 
     # game/core/04function.rpy:389
     old "Настроение %s %s"
-    new ""
-#--- ""
+    new "%s %s d’humeur"
 
     # game/core/04function.rpy:406
     old "Так... В накладной написано следующее:"
-    new ""
-#--- ""
+    new "Ainsi... La facture se lit comme suit :"
 
     # game/core/04function.rpy:712
     old "Прохладные"
-    new ""
-#--- ""
+    new "Refroidir"
 
     # game/core/04function.rpy:714
     old "Война"
-    new ""
-#--- ""
+    new "Guerre"
 
     # game/core/04function.rpy:714
     old "Враждебные"
-    new ""
-#--- ""
+    new "Hostile"
 
     # game/core/04function.rpy:714
     old "Плохие"
-    new ""
-#--- ""
+    new "Mauvais"
 
     # game/core/04function.rpy:714
     old "Неплохие"
-    new ""
-#--- ""
+    new "Pas mauvais"
 
     # game/core/04function.rpy:714
     old "Хорошие"
-    new ""
-#--- ""
+    new "Bon"
 
     # game/core/04function.rpy:714
     old "Тёплые"
-    new ""
-#--- ""
+    new "Chaud"
 
     # game/core/04function.rpy:714
     old "Дружеские"
-    new ""
-#--- ""
+    new "Amical"
 
     # game/core/04function.rpy:714
     old "Близкие"
-    new ""
-#--- ""
+    new "Fermer"
 
     # game/core/04function.rpy:1011
     old "Конфеты закончились"
-    new ""
-#--- ""
+    new "Les bonbons sont fini"
+#--- "Ignore this. translate only: One"
 

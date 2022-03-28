@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/other.po\n"
-"X-Crowdin-File-ID: 3498\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/other.po\n"
+# "X-Crowdin-File-ID: 3498\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -1554,197 +1554,197 @@ translate crowdin strings:
 
     # game/events/other.rpy:10
     old "Удачи"
-    new ""
+    new "Buena suerte"
 #--- ""
 
     # game/events/other.rpy:40
     old "Да, жаль, что не купили его..."
-    new ""
+    new "Sí, lo siento, no lo compramos..."
 #--- ""
 
     # game/events/other.rpy:40
     old "Я бы с удовольствием на это посмотрел..."
-    new ""
+    new "Me encantaría ver eso..."
 #--- ""
 
     # game/events/other.rpy:48
     old "Слишком дорогой это сколько?"
-    new ""
+    new "Demasiado caro ¿cuánto?"
 #--- ""
 
     # game/events/other.rpy:48
     old "Насколько открытые?"
-    new ""
+    new "¿Qué tan abierto?"
 #--- ""
 
     # game/events/other.rpy:59
     old "Верно, сами разберёмся без Эрика"
-    new ""
+    new "Bien, lo resolveremos nosotros mismos sin Eric"
 #--- ""
 
     # game/events/other.rpy:59
     old "Кстати, где он?"
-    new ""
+    new "Por cierto, ¿dónde está?"
 #--- ""
 
     # game/events/other.rpy:123
     old "Очень приятно..."
-    new ""
+    new "Qué bien..."
 #--- ""
 
     # game/events/other.rpy:123
     old "Я думал он выше..."
-    new ""
+    new "Pensé que era más alto..."
 #--- ""
 
     # game/events/other.rpy:128
     old "Всё отлично. Ищу себя, так сказать..."
-    new ""
+    new "Todo perfectamente. Me estoy buscando a mí mismo, por así decirlo..."
 #--- ""
 
     # game/events/other.rpy:128
     old "Да то тем, то этим..."
-    new ""
+    new "Sí, entonces esto, luego esto..."
 #--- ""
 
     # game/events/other.rpy:128
     old "Отвечаю вот на дурацкие вопросы..."
-    new ""
+    new "Estoy respondiendo preguntas estúpidas..."
 #--- ""
 
     # game/events/other.rpy:149
     old "Стараюсь больше слушать..."
-    new ""
+    new "Intento escuchar más..."
 #--- ""
 
     # game/events/other.rpy:149
     old "Типа того..."
-    new ""
+    new "Algo como eso..."
 #--- ""
 
     # game/events/other.rpy:149
     old "Да было бы о чём говорить..."
-    new ""
+    new "Sí, habría algo de qué hablar..."
 #--- ""
 
     # game/events/other.rpy:170
     old "Да, мне тоже. Извините..."
-    new ""
+    new "Sí, yo también. Perdona..."
 #--- ""
 
     # game/events/other.rpy:170
     old "А мне вот не очень..."
-    new ""
+    new "Realmente no..."
 #--- ""
 
     # game/events/other.rpy:187
     old "Да мне всё равно..."
-    new ""
+    new "No me importa..."
 #--- ""
 
     # game/events/other.rpy:198
     old "{i}идти к столу{/i}"
-    new ""
+    new "{i}Ir a la mesa{/i}"
 #--- ""
 
     # game/events/other.rpy:218
     old "Извини, Эрик, я просто не в духе..."
-    new ""
+    new "Lo siento Eric, no estoy de muy buen humor..."
 #--- ""
 
     # game/events/other.rpy:218
     old "Нормально себя веду..."
-    new ""
+    new "Me comporto normalmente..."
 #--- ""
 
     # game/events/other.rpy:245
     old "Здравствуй, тётя Кира!"
-    new ""
+    new "¡Hola, tía Kira!"
 #--- ""
 
     # game/events/other.rpy:245
     old "Что значит почти? Я настоящий мужчина!"
-    new ""
+    new "¿Qué significa casi? ¡Soy un hombre de verdad!"
 #--- ""
 
     # game/events/other.rpy:260
     old "А мне можно тоже обнять свою тётю?"
-    new ""
+    new "¿Puedo abrazar a mi tía también?"
 #--- ""
 
     # game/events/other.rpy:269
     old "В гостинице?"
-    new ""
+    new "¿En un hotel?"
 #--- ""
 
     # game/events/other.rpy:269
     old "Дела?"
-    new ""
+    new "¿Asuntos?"
 #--- ""
 
     # game/events/other.rpy:269
     old "Так ты два дня здесь?"
-    new ""
+    new "¿Así que estás aquí por dos días?"
 #--- ""
 
     # game/events/other.rpy:299
     old "Да не стоит..."
-    new ""
+    new "Sí, no merece la pena..."
 #--- ""
 
     # game/events/other.rpy:299
     old "Хорошо, тётя Кира!"
-    new ""
+    new "¡Muy bien, tía Kira!"
 #--- ""
 
     # game/events/other.rpy:313
     old "Выглядит отлично!"
-    new ""
+    new "¡Se ve genial!"
 #--- ""
 
     # game/events/other.rpy:313
     old "Ну-ка, повернись..."
-    new ""
+    new "Bueno, de la vuelta..."
 #--- ""
 
     # game/events/other.rpy:326
     old "А что такого? Пусть ходит, я не против..."
-    new ""
+    new "¿Qué es eso? Déjalo caminar, no me importa..."
 #--- ""
 
     # game/events/other.rpy:340
     old "Нет, мам, всё отлично!"
-    new ""
+    new "No, mamá, ¡está bien!"
 #--- ""
 
     # game/events/other.rpy:340
     old "А можешь немного повернуться?"
-    new ""
+    new "¿Puedes darte la vuelta un poco?"
 #--- ""
 
     # game/events/other.rpy:347
     old "Ты знаешь, длина оптимальная!"
-    new ""
+    new "Ya sabes, ¡la longitud es óptima!"
 #--- ""
 
     # game/events/other.rpy:347
     old "Мне нравится, мам!"
-    new ""
+    new "¡Me gusta, mamá!"
 #--- ""
 
     # game/events/other.rpy:358
     old "Мне нравится. Просто и со вкусом!"
-    new ""
+    new "Me gusta. ¡Simple y de buen gusto!"
 #--- ""
 
     # game/events/other.rpy:358
     old "Отличные... вещички!"
-    new ""
+    new "Bien... ¡Cosas!"
 #--- ""
 
     # game/events/other.rpy:358
     old "И почти ничего не видно..."
-    new ""
+    new "Y casi nada es visible..."
 #--- ""
 
     # game/events/other.rpy:442

@@ -1,24 +1,23 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/03variables.po\n"
-"X-Crowdin-File-ID: 3428\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:16\n"
+#     old ""
+#     ""
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/core/03variables.po\n"
+# "X-Crowdin-File-ID: 3428\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-26 14:16\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
 translate crowdin strings:
 
     # game/core/03variables.rpy:39
-    old "МОЯ\n"
-"КОМНАТА"
+    old "МОЯ\nКОМНАТА"
     new ""
 #--- ""
 
@@ -28,8 +27,7 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:39
-    old "КОМНАТА\n"
-"АЛИСЫ"
+    old "КОМНАТА\nАЛИСЫ"
     new ""
 #--- ""
 
@@ -39,8 +37,7 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:39
-    old "КОМНАТА\n"
-"АННЫ"
+    old "КОМНАТА\nАННЫ"
     new ""
 #--- ""
 
@@ -50,8 +47,7 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:39
-    old "ВАННАЯ\n"
-"КОМНАТА"
+    old "ВАННАЯ\nКОМНАТА"
     new ""
 #--- ""
 
@@ -196,68 +192,57 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ПОСМОТРЕТЬ\n"
-"ФИЛЬМ"
+    old "ПОСМОТРЕТЬ\nФИЛЬМ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ВЫЙТИ\n"
-"ИЗ ДОМА"
+    old "ВЫЙТИ\nИЗ ДОМА"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ПОИГРАТЬ\n"
-"С ЛИЗОЙ"
+    old "ПОИГРАТЬ\nС ЛИЗОЙ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\n"
-"КЕЙЛОГГЕР"
+    old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\n"
-"КАМЕРУ"
+    old "УСТАНОВИТЬ\nКАМЕРУ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "СПРЯТАТЬ\n"
-"ПАУКА"
+    old "СПРЯТАТЬ\nПАУКА"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "БРОСИТЬ\n"
-"ПАУКА"
+    old "БРОСИТЬ\nПАУКА"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\n"
-"ПАУКОВ"
+    old "ИСКАТЬ\nПАУКОВ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\n"
-"СИГАРЕТЫ"
+    old "ИСКАТЬ\nСИГАРЕТЫ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\n"
-"КНИГУ"
+    old "ИСКАТЬ\nКНИГУ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ЧИСТИТЬ\n"
-"БАССЕЙН"
+    old "ЧИСТИТЬ\nБАССЕЙН"
     new ""
 #--- ""
 
@@ -267,26 +252,22 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\n"
-"КАМЕРУ"
+    old "ИСКАТЬ\nКАМЕРУ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ИСКАТЬ\n"
-"ТЕЛЕФОН"
+    old "ИСКАТЬ\nТЕЛЕФОН"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "РАЗОБРАТЬ\n"
-"КОРОБКИ"
+    old "РАЗОБРАТЬ\nКОРОБКИ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ВКЛЮЧИТЬ\n"
-"НОУТБУК"
+    old "ВКЛЮЧИТЬ\nНОУТБУК"
     new ""
 #--- ""
 
@@ -296,8 +277,7 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "УСТАНОВИТЬ\n"
-"БУДИЛЬНИК"
+    old "УСТАНОВИТЬ\nБУДИЛЬНИК"
     new ""
 #--- ""
 
@@ -307,14 +287,12 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ПРИНЯТЬ\n"
-"ДУШ"
+    old "ПРИНЯТЬ\nДУШ"
     new ""
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "ПРИНЯТЬ\n"
-"ВАННУ"
+    old "ПРИНЯТЬ\nВАННУ"
     new ""
 #--- ""
 
@@ -324,8 +302,7 @@ translate crowdin strings:
 #--- ""
 
     # game/core/03variables.rpy:149
-    old "МЫТЬ\n"
-"ПОСУДУ"
+    old "МЫТЬ\nПОСУДУ"
     new ""
 #--- ""
 

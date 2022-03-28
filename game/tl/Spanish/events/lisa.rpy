@@ -1,16 +1,16 @@
-    old ""
-    ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: big-brother-as\n"
-"X-Crowdin-Project-ID: 461654\n"
-"X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/game/tl/crowdin/events/lisa.po\n"
-"X-Crowdin-File-ID: 3488\n"
-"Project-Id-Version: big-brother-as\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+#     old ""
+# "
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "X-Crowdin-Project: big-brother-as\n"
+# "X-Crowdin-Project-ID: 461654\n"
+# "X-Crowdin-Language: es-ES\n"
+# "X-Crowdin-File: /master/game/tl/crowdin/events/lisa.po\n"
+# "X-Crowdin-File-ID: 3488\n"
+# "Project-Id-Version: big-brother-as\n"
+# "Content-Type: text/plain; charset=UTF-8\n"
+# "Language-Team: Spanish\n"
+# "Language: es_ES\n"
+# "PO-Revision-Date: 2022-03-27 14:46\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH
 
@@ -149,8 +149,7 @@ translate crowdin lisa_shower_closer_peepeng_cd01369c:
 # game/events/lisa.rpy:178
 translate crowdin lisa_shower_not_luck_76384340:
 
-    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n"
-"{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"
+    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n{m}О нет! Похоже, она что-то заметила... Надо бежать!{/m}"
     ""
 
 # game/events/lisa.rpy:200
@@ -1809,186 +1808,186 @@ translate crowdin strings:
 
     # game/events/lisa.rpy:403
     old "Хорошо, только ноутбук заберу..."
-    new ""
+    new "Está bien, solo tomaré la computadora portátil..."
 #--- ""
 
     # game/events/lisa.rpy:406
     old "Не буду. Честное слово!"
-    new ""
+    new "No lo haré. ¡Ni una palabra al respecto!"
 #--- ""
 
     # game/events/lisa.rpy:445
     old "{i}отвернуться{/i}"
-    new ""
+    new "{i}alejarse{/i}"
 #--- ""
 
     # game/events/lisa.rpy:445
     old "{i}подождать за дверью, пока Лиза переоденется{/i}"
-    new ""
+    new "{i}esperar afuera de la puerta a que Lisa se cambie de vestido{/i}"
 #--- ""
 
     # game/events/lisa.rpy:455
     old "{i}не подглядывать{/i}"
-    new ""
+    new "{i}no espiar{/i}"
 #--- ""
 
     # game/events/lisa.rpy:455
     old "{i}попробовать подглядеть{/i}"
-    new ""
+    new "{i}tratar de espiar{/i}"
 #--- ""
 
     # game/events/lisa.rpy:516
     old "А у тебя сиськи подросли!"
-    new ""
+    new "¡Sus tetas han crecido!"
 #--- ""
 
     # game/events/lisa.rpy:516
     old "Отличный зад, я тебе скажу!"
-    new ""
+    new "¡Gran culo, te lo diré!"
 #--- ""
 
     # game/events/lisa.rpy:516
     old "А если я хочу на это посмотреть?"
-    new ""
+    new "¿Qué pasa si quiero verlo?"
 #--- ""
 
     # game/events/lisa.rpy:516
     old "Извини, я не знал... Красиво смотришься!"
-    new ""
+    new "Lo siento, no lo sabía... ¡Te ves muy bien!"
 #--- ""
 
     # game/events/lisa.rpy:530
     old "У тебя красивая грудь, Лиза. Не стесняйся..."
-    new ""
+    new "Tienes senos hermosos, Lisa. No seas tímida..."
 #--- ""
 
     # game/events/lisa.rpy:530
     old "Какая соблазнительная попка у тебя..."
-    new ""
+    new "Que culo tan seductor tienes..."
 #--- ""
 
     # game/events/lisa.rpy:530
     old "А где же волшебное слово?"
-    new ""
+    new "¿Y dónde está la palabra mágica?"
 #--- ""
 
     # game/events/lisa.rpy:544
     old "У тебя красивая грудь, Лиза. Не прячь её..."
-    new ""
+    new "Tienes senos hermosos, Lisa. No los escondas..."
 #--- ""
 
     # game/events/lisa.rpy:544
     old "Эх, не повезло! Я надеялся, что ты будешь раздета..."
-    new ""
+    new "¡Oh, sin suerte! Esperaba que te desnudaras..."
 #--- ""
 
     # game/events/lisa.rpy:544
     old "Кто-то у нас тут трусики не успел надеть..."
-    new ""
+    new "Alguien aquí no tuvo tiempo de ponerse bragas..."
 #--- ""
 
     # game/events/lisa.rpy:544
     old "Извини, я не знал... Ты такая очаровательная!"
-    new ""
+    new "Lo siento, no lo sabía... ¡Eres tan encantador!"
 #--- ""
 
     # game/events/lisa.rpy:596
     old "Подумаешь, сестрёнку полуголую увидел..."
-    new ""
+    new "Piénsalo, vi a mi hermana semidesnuda..."
 #--- ""
 
     # game/events/lisa.rpy:596
     old "Да ладно тебе, можешь меня не стесняться!"
-    new ""
+    new "¡Vamos, no te avergüences de mí!"
 #--- ""
 
     # game/events/lisa.rpy:596
     old "Извини, не удержался... Хорошо выглядишь!"
-    new ""
+    new "Lo siento, no pude resistir... ¡Te ves bien!"
 #--- ""
 
     # game/events/lisa.rpy:596
     old "А ты представь, что меня тут на самом деле нет!"
-    new ""
+    new "¡Y te imaginas que realmente no estoy aquí!"
 #--- ""
 
     # game/events/lisa.rpy:596
     old "Извини, не удержался... Ты очень красивая!"
-    new ""
+    new "Lo siento, no pude resistirme... ¡Eres muy bella!"
 #--- ""
 
     # game/events/lisa.rpy:824
     old "Это я, Макс! Можно войти?"
-    new ""
+    new "¡Soy yo, Max! ¿Puedo entrar?"
 #--- ""
 
     # game/events/lisa.rpy:873
     old "Извини, дверь была открыта и я подумал..."
-    new ""
+    new "Lo siento, la puerta estaba abierta y pensé..."
 #--- ""
 
     # game/events/lisa.rpy:873
     old "А ты симпатичная..."
-    new ""
+    new "Y eres bonita..."
 #--- ""
 
     # game/events/lisa.rpy:873
     old "И что такого? Сестра стесняется брата?"
-    new ""
+    new "¿Y qué? ¿Mi hermana está avergonzada por su hermano?"
 #--- ""
 
     # game/events/lisa.rpy:1097
     old "{i}смотреть \"Кошмар на улице Вязов\"{/i}"
-    new ""
+    new "{i}ver \"A Nightmare on Elm Street\"{/i}"
 #--- ""
 
     # game/events/lisa.rpy:1097
     old "{i}смотреть \"Пятница 13-е\"{/i}"
-    new ""
+    new "{i}ver \"Viernes 13\"{/i}"
 #--- ""
 
     # game/events/lisa.rpy:1097
     old "{i}смотреть \"Крик\"{/i}"
-    new ""
+    new "{i}ver \"Scream\"{/i}"
 #--- ""
 
     # game/events/lisa.rpy:1188
     old "Тогда досматриваем... (продолжаем смотреть \"Кошмар на улице Вязов\")"
-    new ""
+    new "Luego inspeccionamos... (continúa viendo \"A Nightmare on Elm Street\")"
 #--- ""
 
     # game/events/lisa.rpy:1188
     old "Тогда досматриваем... (продолжаем смотреть \"Пятница 13-е\")"
-    new ""
+    new "Luego inspeccionamos... (seguir viendo \"Viernes 13\")"
 #--- ""
 
     # game/events/lisa.rpy:1188
     old "Тогда досматриваем... (продолжаем смотреть \"Крик\")"
-    new ""
+    new "Luego inspeccionamos... (sigue viendo \"Scream\")"
 #--- ""
 
     # game/events/lisa.rpy:1224
     old "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Кошмар на улице Вязов\")"
-    new ""
+    new "Entonces miramos más lejos... (continuar viendo la serie de películas \"Pesadilla en Elm Street\")"
 #--- ""
 
     # game/events/lisa.rpy:1224
     old "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Пятница 13-е\")"
-    new ""
+    new "Entonces miramos más lejos...(seguir viendo la serie de películas \"Viernes 13\")"
 #--- ""
 
     # game/events/lisa.rpy:1224
     old "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Крик\")"
-    new ""
+    new "Entonces miramos más lejos...(seguir viendo la serie de películas \"Viernes 13 \")"
 #--- ""
 
     # game/events/lisa.rpy:1294
     old "{i}да пофиг!{/i}"
-    new ""
+    new "{i}no importa!{/i}"
 #--- ""
 
     # game/events/lisa.rpy:1318
     old "Просто иди и всё..."
-    new ""
+    new "Solo ve y eso es todo..."
 #--- ""
 
