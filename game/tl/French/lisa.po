@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:19\n"
+"PO-Revision-Date: 2022-03-28 14:55\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/lisa.rpy:24 ## translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
@@ -1177,282 +1177,282 @@ msgstr "[Lisa_13] Je peux le faire moi-même ! Oh oh!"
 # XXtranslate crowdin strings:XX# XX## game/events/lisa.rpy:44
 msgid "Это я, Макс!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "C’est moi, Max!"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:47
 msgid "Можно я войду? Мне очень нужно..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Je peux entrer ? J'ai vraiment besoin..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:47
 msgid "Хорошо, я подожду"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ok, je vais attendre"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:50
 msgid "Ладно, ладно..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "D’accord, d’accord..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:292
 msgid "Можно войти на секунду? Я только ноутбук возьму..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Je peux entrer une seconde ? Je vais juste prendre mon ordinateur portable..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:298
 msgid "{i}всё равно забрать ноутбук{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}ramasser l'ordinateur portable de toute façon{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:362
 msgid "{i}уйти с ноутбуком на веранду{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}se retirer avec l'ordinateur portable dans la véranda{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:371
 msgid "{i}забрать ноутбук{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}prendre l'ordinateur portable{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:403
 msgid "Да чего я там не видел..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Qu'est-ce que je n'ai pas vu..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:403
 msgid "А при мне ты этого сделать не можешь?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tu ne peux pas le faire devant moi ?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:403
 msgid "Хорошо, только ноутбук заберу..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ok, je vais juste prendre l'ordinateur portable..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:406
 msgid "Не буду. Честное слово!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Je ne le ferai pas. Honnêtement !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:445
 msgid "{i}отвернуться{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}se retourner{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:445
 msgid "{i}подождать за дверью, пока Лиза переоденется{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}attendre devant la porte jusqu'à ce que Lisa se soit changée{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:455
 msgid "{i}не подглядывать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}pas de coup d'œil{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:455
 msgid "{i}попробовать подглядеть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}jeter un coup d'œil{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:516
 msgid "А у тебя сиськи подросли!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Et tes seins sont devenus plus gros !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:516
 msgid "Отличный зад, я тебе скажу!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Joli cul, je te dis !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:516
 msgid "А если я хочу на это посмотреть?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Et si je veux regarder?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:516
 msgid "Извини, я не знал... Красиво смотришься!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, je ne savais pas... Tu es magnifique !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:530
 msgid "У тебя красивая грудь, Лиза. Не стесняйся..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tu as de beaux seins, Lisa. Ne sois pas timide..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:530
 msgid "Какая соблазнительная попка у тебя..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Quel cul tentant tu as..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:530
 msgid "А где же волшебное слово?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Où est le mot magique ?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:544
 msgid "У тебя красивая грудь, Лиза. Не прячь её..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tu as de beaux seins, Lisa. Ne les caches pas..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:544
 msgid "Эх, не повезло! Я надеялся, что ты будешь раздета..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Eh, pas de chance ! J'espérais que tu serais nue..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:544
 msgid "Кто-то у нас тут трусики не успел надеть..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Quelqu'un ici n'a pas eu le temps de mettre sa culotte..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:544
 msgid "Извини, я не знал... Ты такая очаровательная!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, je ne savais pas... Tu es si adorable !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:596
 msgid "Подумаешь, сестрёнку полуголую увидел..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors il a vu sa sœur à moitié nue..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:596
 msgid "Да ладно тебе, можешь меня не стесняться!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Allez, ne sois pas gênée par moi !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:596
 msgid "Извини, не удержался... Хорошо выглядишь!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, je n'ai pas pu résister... Tu as l'air en forme !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:596
 msgid "А ты представь, что меня тут на самом деле нет!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Faites comme si je n'étais pas là !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:596
 msgid "Извини, не удержался... Ты очень красивая!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, je n'ai pas pu résister... Tu es très belle !"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:824
 msgid "Это я, Макс! Можно войти?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "C'est moi, Max! Je peux entrer ?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:873
 msgid "Извини, дверь была открыта и я подумал..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Désolé, la porte était ouverte et j'ai pensé..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:873
 msgid "А ты симпатичная..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Et tu es mignonne..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:873
 msgid "И что такого? Сестра стесняется брата?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors, quel est le problème ? Ma sœur est-elle timide par rapport à son frère ?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1097
 msgid "{i}смотреть \"Кошмар на улице Вязов\"{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Regarder 'A Nightmare on Elm Street'{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1097
 msgid "{i}смотреть \"Пятница 13-е\"{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}regarder 'Vendredi 13'{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1097
 msgid "{i}смотреть \"Крик\"{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}regarder 'Scream'{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1188
 msgid "Тогда досматриваем... (продолжаем смотреть \"Кошмар на улице Вязов\")"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors nous allons nous pencher sur la question... (en continuant à regarder 'A Nightmare on Elm Street')"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1188
 msgid "Тогда досматриваем... (продолжаем смотреть \"Пятница 13-е\")"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors nous allons nous pencher sur la question... (en continuant à regarder 'Vendredi 13')"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1188
 msgid "Тогда досматриваем... (продолжаем смотреть \"Крик\")"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors nous allons nous pencher sur la question... (continue à regarder 'Scream')"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1224
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Кошмар на улице Вязов\")"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors ne cherches pas plus loin... (en continuant à regarder la série de films 'Nightmare on Elm Street')"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1224
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Пятница 13-е\")"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors ne cherches pas plus loin... (en continuant à regarder la série de films 'Vendredi 13')"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1224
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Крик\")"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Alors ne cherches pas plus loin... (en continuant à regarder la série de films 'Scream')"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1294
 msgid "{i}да пофиг!{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}oui J'ai hâte!{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/lisa.rpy:1318
 msgid "Просто иди и всё..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Vas-y et c’est tout..."
+msgstr[1] "Ignore this. translate only: One"
 
