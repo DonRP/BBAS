@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-26 14:20\n"
+"PO-Revision-Date: 2022-03-28 14:55\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/events/max.rpy:4 ## translate crowdin StartDialog_e88dfdc8:
 msgid "[Max_10] {m}Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил...{/m}"
@@ -559,366 +559,366 @@ msgstr "[Max_09] {m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne r
 # XXtranslate crowdin strings:XX# XX## game/events/max.rpy:31
 msgid "{i}установить будильник{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}mettre une alarme{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:34
 msgid "{i}в 6 утра{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}à 6 heures du matin{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:34
 msgid "{i}в 7 утра{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}à 7 heures du matin{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:84
 msgid "{i}вздремнуть{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}faire une sieste{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:120
 msgid "{i}подремать пару часов{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}faire une sieste pendant quelques heures{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:120
 msgid "{i}подремать 3 часа{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}faire une sieste pendant 3 heures{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:120
 msgid "{i}подремать 4 часа{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}faire une sieste pendant 4 heures{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:120
 msgid "{i}подремать 5 часов{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}faire une sieste pendant 5 heures{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:120
 msgid "{i}не-а, может позже...{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}non, peut-être plus tard... {/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:278
 msgid "{i}почитать о камерах{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Regarder les caméras{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:280
 msgid "{i}читать о блогах{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}En apprendre plus sur les blogs{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:282
 msgid "{i}узнать о книге Алисы{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Découvrir le livre d'Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:284
 msgid "{i}читать о пауках{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}En apprendre plus sur les araignées{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:286
 msgid "{i}искать информацию по кредитам{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}recherche d’informations sur les prêts{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:357
 msgid "Оплатить всё ($100)"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Payer pour tout (100 $)"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:364
 msgid "Настроить работу сайта"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Configurer votre site"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:418
 msgid "Собрать статистику"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Recueillir des statistiques"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:418
 msgid "Просмотреть популярные блоги"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Voir les blogs populaires"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:418
 msgid "Почитать комменты на блогах"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lire les commentaires sur les blogs"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:421
 msgid "Проанализировать результаты"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Analyser les résultats"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:421
 msgid "Построить таблицу"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Mettre la table"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:421
 msgid "Нарисовать график"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Dessiner un graphique"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:424
 msgid "Хм... Так... Ага. Это сюда запишем, это сюда..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Hum... Donc... Ouais. On va écrire ça ici..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:426
 msgid "Так. Из этой таблицы мы делаем вывод. Ага. Вот это значит, что... Нет, не так. Вот. Вроде получилось..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Donc. De ce tableau, j'en conclus. Ouais. Voici ce qui signifie que... Non, pas vrai. Voici. Voilà..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:428
 msgid "Рисователь графиков из меня ещё тот. Но попробуем. Так, это шкала популярности, это... Ага. Кажется, всё сходится..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Je suis le dessinateur. Mais essayons. Donc, c'est l'échelle de popularité, c'est... Ouais. Tout semble converger..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:430
 msgid "Составить список"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Faire une liste"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:430
 msgid "Отсортировать..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trier..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:430
 msgid "Сравнить количество лайков..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Comparer le nombre de likes..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:433
 msgid "Так, вычёркиваем из списка этих, вот этих и тех. Что тут у нас остаётся?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "On raye de la liste ceux-là, ceux-là et ceux-là?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:435
 msgid "Так, сравниваем аудиторию. Время публикации... Исключаем сомнительный контент..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Donc, nous comparons le public. Temps de publication... Exclure le contenu douteux..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:437
 msgid "Сортируем по количеству лайков. Убираем тех, кто с дизлайками больше этого процента..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trier par le nombre de likes. Nous enlevons ceux qui ont des aversions plus que ce pourcentage..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:439
 msgid "Воспользоваться поиском"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Utiliser la recherche"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:439
 msgid "Читать всё подряд"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Tout lire"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:439
 msgid "Выбрать лучшие комменты"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sélectionner les meilleurs commentaires"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:442
 msgid "Так, в поиске мы видим любопытные результаты. Так, выберем то что нам подходит..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ainsi, dans la recherche, je vois des résultats curieux. Je choisirais ce qui me convient..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:444
 msgid "Ох. Всё оказалось ещё хуже. Кажется, тут нет ничего полезного... Хотя. Думаю, можно сделать даже какой-то вывод..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Oh. Tout est encore pire. Il n'y a rien d'utile ici... Quoique. Je pense que je peux même tirer une conclusion..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:446
 msgid "Так, топовые комменты все сводятся к одному. Не может быть?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Donc, les principaux commentaires se résument tous à un. Pas possible?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:448
 msgid "Сделать вывод..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Déduire..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:464
 msgid "{i}читать о книге{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}En apprendre plus sur le livre{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:480
 msgid "Искать виды насекомых по регионам"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Rechercher des espèces d'insectes par région"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:480
 msgid "Читать где водятся какие пауки"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lire où sont les araignées"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:487
 msgid "Выяснить, чем питается..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Découvrir ce qu’elle mange..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:487
 msgid "Почитать о повадках..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En savoir plus sur les habitudes..."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:648
 msgid "{i}читать \"WEB STANDARDS\"{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}lire les 'WEB STANDARDS'{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:648
 msgid "{i}читать \"СЕКС-ОБРАЗОВАНИЕ\"{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}lire 'ÉDUCATION SEXUELLE'{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:702
 msgid "{i}искать под подушкой{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}regarder sous l’oreiller{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:702
 msgid "{i}искать в шкафу{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}regarder dans le placard{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:702
 msgid "{i}прекратить поиски{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}arrêter la recherche{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:859
 msgid "{i}искать...{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}chercher...{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:886
 msgid "{i}Подложить сейчас{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}Mettre maintenant{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:932
 msgid "Вы просматриваете видеоурок и повышаете свои навыки."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Regarder des leçons vidéo pour améliorer mes compétences."
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:966
 msgid "{i}подставить Алису{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}piéger Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:966
 msgid "{i}не подставлять Алису{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}ne pas piéger Alice{/i}"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1061
 msgid "$500"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "500 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1061
 msgid "$1000"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1000 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1061
 msgid "$2000"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "2000 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1061
 msgid "$5000"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "5000 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1078
 msgid "$50"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "50 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1078
 msgid "$100"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "100 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1078
 msgid "$200"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "200 $"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/events/max.rpy:1146
 msgid "{i}идти к Эрику с включённым диктофоном{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{i}aller voir Eric avec l'enregistreur activé {/i}"
+msgstr[1] "Ignore this. translate only: One"
 
