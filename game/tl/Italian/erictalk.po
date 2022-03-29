@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 14:36\n"
+"PO-Revision-Date: 2022-03-29 19:49\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/erictalk.rpy:17 ## translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -382,7 +382,7 @@ msgstr "[Eric_00] Max, dobbiamo parlare in privato."
 
 # game/dialogues/erictalk.rpy:396 ## translate crowdin Eric_talk_about_Lisa_0_e7f5724b:
 msgid "[Max_07] Я слушаю..."
-msgstr "[Max_07] sto ascoltando..."
+msgstr "[Max_07] Ti ascolto..."
 
 # game/dialogues/erictalk.rpy:397 ## translate crowdin Eric_talk_about_Lisa_0_e5a04ecc:
 msgid "[Eric_01] Как там твоя младшая сестрёнка, проявляет сексуальный интерес к кому-нибудь?"
@@ -490,7 +490,7 @@ msgstr "[Eric_00] Max, dobbiamo parlare in privato."
 
 # game/dialogues/erictalk.rpy:469 ## translate crowdin Eric_talk_about_Lisa_1_b13b8f39:
 msgid "[Max_07] Я слушаю... Что такое?"
-msgstr "[Max_07] sto ascoltando... Che cosa?"
+msgstr "[Max_07] Sto ascoltando... Che cosa?"
 
 # game/dialogues/erictalk.rpy:470 ## translate crowdin Eric_talk_about_Lisa_1_ed483f99:
 msgid "[Eric_13] А сам как думаешь!? Как там твои успехи с Лизой?"
@@ -638,7 +638,7 @@ msgstr "[Eric_00] Max, dobbiamo parlare in privato."
 
 # game/dialogues/erictalk.rpy:558 ## translate crowdin Eric_talk_about_Alice_1_b13b8f39:
 msgid "[Max_07] Я слушаю... Что такое?"
-msgstr "[Max_07] sto ascoltando... Che cosa?"
+msgstr "[Max_07] Sto ascoltando... Che cosa?"
 
 # game/dialogues/erictalk.rpy:559 ## translate crowdin Eric_talk_about_Alice_1_6c5a1fd9:
 msgid "[Eric_13] А сам как думаешь!? Как там твои успехи с Алисой?"
@@ -1350,7 +1350,7 @@ msgstr "[Eric_00] Max, resta qui per un po'. Ho qualcosa da dire..."
 
 # game/dialogues/erictalk.rpy:1012 ## translate crowdin Eric_stopLisa_bonus_e7f5724b:
 msgid "[Max_07] Я слушаю..."
-msgstr "[Max_07] sto ascoltando..."
+msgstr "[Max_07] Ti ascolto..."
 
 # game/dialogues/erictalk.rpy:1013 ## translate crowdin Eric_stopLisa_bonus_35b241fd:
 msgid "[Eric_02] Раз Лиза, пока что, отошла тебе на поруки, то никакого больше шоу с твоей мамой в очках для сна не будет. Это ясно?"
