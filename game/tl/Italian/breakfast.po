@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 14:35\n"
+"PO-Revision-Date: 2022-03-30 19:57\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/breakfast.rpy:14 ## translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
@@ -142,7 +142,7 @@ msgstr "[Alice_00] Non ho detto che ho un milione di abbonati, ma li farò. E no
 
 # game/dialogues/breakfast.rpy:193 ## translate crowdin breakfast_first_bf_roof_75336744:
 msgid "[Ann_01] У нас вся крыша состоит из солнечных панелей. Тут какой-то накопитель есть и своей энергии вполне хватает. Даже на отопление хватило бы, если бы не было так жарко!"
-msgstr "[Ann_01] Il nostro intero tetto è costituito da pannelli solari. C'è una sorta di stoccaggio e la sua energia è abbastanza. Anche per il riscaldamento sarebbe sufficiente se non fosse così caldo!"
+msgstr "[Ann_01] Il nostro intero tetto è costituito da pannelli solari. C'è una sorta di stoccaggio e la sua energia è abbastanza. Abbastanza per il riscaldamento se non facesse così caldo!"
 
 # game/dialogues/breakfast.rpy:195 ## translate crowdin breakfast_first_bf_roof_306fdb3a:
 msgid "[Lisa_09] Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда. [nointeract]"
@@ -150,7 +150,7 @@ msgstr "[Lisa_09] Sì, a proposito, fa molto caldo qui. Non sono ancora abituata
 
 # game/dialogues/breakfast.rpy:198 ## translate crowdin breakfast_first_bf_roof_6de5b34a:
 msgid "[Ann_00] Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно... [nointeract]"
-msgstr "[Ann_00] chiamato. Dicono di aver mandato in un'altra città per errore, e poi completamente perso. Promettono di compensare, ma quando - è ancora sconosciuto... [nointeract]"
+msgstr "[Ann_00] Ho chiamato. Dicono che l'hanno mandato per errore in un'altra città e poi l'hanno perso del tutto. Promettono di rimediare, ma non si sa quando... [nointeract]"
 
 # game/dialogues/breakfast.rpy:202 ## translate crowdin breakfast_first_bf_roof_640b53f3:
 msgid "[Alice_00] Ты и рад, наверное, голым ходить, а у меня там были хорошие вещички, в которых я блог веду обычно... [nointeract]"
