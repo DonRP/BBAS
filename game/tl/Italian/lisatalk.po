@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-03-26 14:35\n"
+"PO-Revision-Date: 2022-03-30 19:57\n"
 
 # TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -2672,7 +2672,7 @@ msgstr "[Lisa_09] Ricordi che hai detto che mi avresti aiutato a fare i compiti?
 
 # game/dialogues/lisatalk.rpy:2320 ## translate crowdin conversation_after_dinner_0cc9eda2:
 msgid "[Max_09] Возможно... А что?"
-msgstr "[Max_09] Forse... Che cosa?"
+msgstr "[Max_09] Forse... Perché?"
 
 # game/dialogues/lisatalk.rpy:2324 ## translate crowdin conversation_after_dinner_43c7a7f2:
 msgid "[Lisa_10] Тогда почему ты не помогал?"
