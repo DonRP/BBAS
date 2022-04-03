@@ -4,579 +4,643 @@ msgstr ""
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/game/tl/crowdin/core/screens.po\n"
-"X-Crowdin-File-ID: 3450\n"
+"X-Crowdin-File: /master/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 3504\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-04-03 12:41\n"
+"PO-Revision-Date: 2022-04-03 12:42\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:178
-msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
+# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/screens.rpy:250
+msgid "массаж, "
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}BOUTIQUE EN LIGNE{/b}"
+msgstr[0] "masser, "
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:182
-msgid "{b}ОНЛАЙН-КУРСЫ{/b}"
+# XX## game/screens.rpy:250
+msgid "убеждение, "
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}COURS EN LIGNE{/b}"
+msgstr[0] "croyance, "
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:192
-msgid "{b}КУПИТЬ ПРОДУКТЫ{/b}"
+# XX## game/screens.rpy:250
+msgid "сексуальный опыт, "
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}ACHETER DES PRODUITS{/b}"
+msgstr[0] "expérience sexuelle, "
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:205
-msgid "{b}ЗАНЯТЬСЯ СВОИМ САЙТОМ{/b}"
+# XX## game/screens.rpy:250
+msgid "поцелуи, "
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}FAIRE VOTRE SITE{/b}"
+msgstr[0] "embrasser, "
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:213
-msgid "{b}СВОЙ САЙТ{/b}"
+# XX## game/screens.rpy:250
+msgid "удача, "
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}VOTRE SITE{/b}"
+msgstr[0] "chance, "
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:218
-msgid "{b}CYBER-БАНК{/b}"
+# XX## game/screens.rpy:250
+msgid "скрытность, "
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}CYBER-BANQUE{/b}"
+msgstr[0] "secret, "
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:306
-msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+# XX## game/screens.rpy:277
+msgid "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "PRÊTS INTERESSANT POUR LES ENTREPRENEURS D'INTERNET"
+msgstr[0] "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:313
-msgid "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
+# XX## game/screens.rpy:339
+msgid "История"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Dettes: {color=[_col]}$[mgg.credit.debt]{/color}"
+msgstr[0] "Histoire principale"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:314
-msgid "[mgg.credit.left] дней на погашение"
+# XX## game/screens.rpy:340
+msgid "Пропуск"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "mgg.credit.left] jours pour rembourser"
+msgstr[0] "Sauter"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:316
-msgid "ПОГАСИТЬ ЗАДОЛЖЕННОСТЬ"
+# XX## game/screens.rpy:341
+msgid "Авто"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "REMBOURSER LA DETTE"
+msgstr[0] "Automatique"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:320
-msgid "ПОГАСИТЬ ЧАСТЬ ДОЛГА"
+# XX## game/screens.rpy:342
+msgid "Сохранить"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "REMBOURSER UNE PARTIE DE LA DETTE"
+msgstr[0] "Sauvegarder"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:328
-msgid "ВЗЯТЬ КРЕДИТ"
+# XX## game/screens.rpy:343
+msgid "Б.Сохр"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "CONTRACTER UN PRÊT"
+msgstr[0] "B.Sohr"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:363
-msgid "Что будем искать?"
+# XX## game/screens.rpy:344
+msgid "Б.Загр"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Qu'est ce que je recherche?"
+msgstr[0] "B.Zagr"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:434
-msgid "{i}{b}КУПЛЕНО{/b}{/i}"
+# XX## game/screens.rpy:345
+msgid "Опции"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}{b}AQUISITION{/b}{/i}"
+msgstr[0] "Options"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:509
-msgid "ОНЛАЙН-КУРСЫ"
+# XX## game/screens.rpy:390
+msgid "Загрузить игру"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "COURS EN LIGNE"
+msgstr[0] "Charger un Jeu"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:527
-msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+# XX## game/screens.rpy:393
+msgid "Сохранить игру"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Vous avez terminé tous les leçons et cours disponibles dans cette catégorie. Peut-être que de nouvelles leçons apparaîtront dans la prochaine version du jeu."
+msgstr[0] "Sauvegarder la partie"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:539
-msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+# XX## game/screens.rpy:396
+msgid "Настройки"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Vous avez déjà payé pour ce cours et pouvez activer le prochain didacticiel vidéo disponible à tout moment."
+msgstr[0] "Paramètres"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:543
-msgid "Занятие [text1] из [text2]"
+# XX## game/screens.rpy:403
+msgid "Завершить повтор"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Cours [text1] de [text2]"
+msgstr[0] "Terminer la répétition"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:547
-msgid "{i}{b}НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА{/b}{/i}"
+# XX## game/screens.rpy:406
+msgid "Главное меню"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}{b}COMMENCER À REGARDER LE TUTORIEL VIDÉO{/b}{/i}"
+msgstr[0] "Menu principal"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:552
-msgid "{i}{b}ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!{/b}{/i}"
+# XX## game/screens.rpy:413
+msgid "Выйти из игры"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}{b}VOUS AVEZ ÉTUDIÉ RÉCEMMENT. FAITES UNE PAUSE!{/b}{/i}"
+msgstr[0] "Quitter le jeu"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:562
-msgid "Количество занятий: [text2]"
+# XX## game/screens.rpy:419
+msgid "Назад"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Nombre de leçons: [text2]"
+msgstr[0] "Précédent"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:568
-msgid "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
+# XX## game/screens.rpy:526
+msgid "НОВАЯ ИГРА"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}{b}ACHETER CE COURS POUR: [price]${/b}{/i}"
+msgstr[0] "NOUVEAU JEU"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:603
-msgid "ДОХОД ОТ ПРОСМОТРОВ"
+# XX## game/screens.rpy:532
+msgid "ПРОДОЛЖИТЬ"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "REVENUS DES VUS"
+msgstr[0] "CONTINUER"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:604
-msgid "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
-"Минимальная сумма единоразового снятия: $100."
+# XX## game/screens.rpy:535
+msgid "ЗАГРУЗИТЬ"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Chaque visite sur les pages de votre site web génère un petit revenu. Augmentez votre audience et gagnez de l'argent avec la publicité !\n\n"
-"Montant minimum pour un retrait: 100$."
+msgstr[0] "TÉLÉCHARGER"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:605
-msgid "На вашем счете $[paid]"
+# XX## game/screens.rpy:539
+msgid "НАСТРОЙКИ"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "$[paid] dans votre compte"
+msgstr[0] "PARAMÈTRES"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:607
-msgid "Забрать $[paid]"
+# XX## game/screens.rpy:540
+msgid "ВЫЙТИ"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Collecter [paid]$"
+msgstr[0] "QUITTER"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:620
-msgid "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
+# XX## game/screens.rpy:572
+msgid "МЕНЮ"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "MONTANT INSUFFISANT POUR UN RETRAIT"
+msgstr[0] "MENU"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:641
-msgid "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
+# XX## game/screens.rpy:706
+msgid "Введите описание файла сохранения:"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "RÉSEAU DE BANNIÈRES PUBLICITAIRES"
+msgstr[0] "Entrer une description du fichier de sauvegarde:"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:642
-msgid "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
-"За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
+# XX## game/screens.rpy:727
+msgid "(Нет описания)"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Une offre unique rien que pour vous ! Notre réseau de bannières est conçu pour les clients ayant des demandes spécifiques et est prêt à diffuser votre publicité auprès de votre public cible.\n\n"
-"Pour chaque forfait que vous payez maintenant, nous garantissons 10 000 impressions publicitaires pour votre site dans un avenir proche !"
+msgstr[0] "(Aucune description)"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:644
-msgid "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
+# XX## game/screens.rpy:746
+msgid "{} страница"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "ACHETER UN FORFAIT D’ANNONCES POUR 50 $"
+msgstr[0] "{} page"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:748
-msgid "{b}РЕКЛАМА{/b}"
+# XX## game/screens.rpy:746
+msgid "Автосохранения"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}PUBLICITÉ{/b}"
+msgstr[0] "Enregistrement automatique"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:751
-msgid "{b}ВЫВОД СРЕДСТВ{/b}"
+# XX## game/screens.rpy:746
+msgid "Быстрые сохранения"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{b}RETRAIT{/b}"
+msgstr[0] "Sauvegarde rapides"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:756
-msgid "Расположение:"
+# XX## game/screens.rpy:822
+msgid "{#file_time}%a, %d %b %Y, %H:%M"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Emplacement :"
+msgstr[0] "{#file_time}%a, %d %b %Y, %H:%M"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:757
-msgid "Зрителей:"
+# XX## game/screens.rpy:822
+msgid "Пустой слот"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Spectateurs:"
+msgstr[0] "Emplacement vide"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:758
-msgid "Общий доход:"
+# XX## game/screens.rpy:830
+msgid "ДЕНЬ [load_day]"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Revenu total:"
+msgstr[0] "JOUR [load_day]"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:759
-msgid "Доход сегодня:"
+# XX## game/screens.rpy:882
+msgid "{#file_time}%d %b %Y, %H:%M"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Revenus aujourd’hui :"
+msgstr[0] "{#file_time}%d %b %Y, %H:%M"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:960
-msgid "ЖДАТЬ"
+# XX## game/screens.rpy:906
+msgid "<"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "ATTENDRE"
+msgstr[0] "<"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:971
-msgid "Зрителей: [public]"
+# XX## game/screens.rpy:909
+msgid "{#auto_page}Автосохр."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Spectateurs : [public]"
+msgstr[0] "{#auto_page}Sauvegarde automatique."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1019
-msgid "ПОЛЕЗНОЕ"
+# XX## game/screens.rpy:912
+msgid "{#quick_page}Быстрые сохр."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "UTILE"
+msgstr[0] "{#quick_page}Sauvegarde rapide."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1119
-msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
+# XX## game/screens.rpy:918
+msgid ">"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "OPPORTUNITÉS ([kol] / [all])"
+msgstr[0] ">"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1132
-msgid "В ПРОЦЕССЕ..."
+# XX## game/screens.rpy:990
+msgid "Режим экрана"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "DANS LE PROCESSUS..."
+msgstr[0] "Mode d'affichage"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1134
-msgid "ЗАВЕРШЕНЫ..."
+# XX## game/screens.rpy:991
+msgid "Оконный"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "TERMINÉ..."
+msgstr[0] "Fenêtre"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1136
-msgid "ЗАБЛОКИРОВАНЫ..."
+# XX## game/screens.rpy:992
+msgid "Полный"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "VERROUILLÉ..."
+msgstr[0] "Plein écran"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1139
-msgid "НЕ ОТКРЫТЫ..."
+# XX## game/screens.rpy:995
+msgid "Сторона отката"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "NON OUVERT..."
+msgstr[0] "Côté retour en arrière"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1190
-msgid "Подсказка:"
+# XX## game/screens.rpy:996
+msgid "Отключено"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Indice :"
+msgstr[0] "Désactivé"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1200
-msgid "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
+# XX## game/screens.rpy:997
+msgid "Левая"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}{b}Félicitations!{/b} Vous avez terminé cette fonctionnalité - 'opportunité' !{/i}"
+msgstr[0] "Gauche"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1202
-msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
+# XX## game/screens.rpy:998
+msgid "Правая"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}{b}Échec.{/b} Malheureusement, votre choix a conduit à une fin malheureuse, bloquant le développement ultérieur d'autres 'opportunités'.{/i}"
+msgstr[0] "Droite"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1281
-msgid "ВЕЩИ"
+# XX## game/screens.rpy:1004
+msgid "Всего текста"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "EFFETS PERSONELS"
+msgstr[0] "Texte entier"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1329
-msgid "Ни один предмет не выбран"
+# XX## game/screens.rpy:1005
+msgid "После выборов"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Aucun élément sélectionné"
+msgstr[0] "Après la selection"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1331
-msgid "В данный момент в инвентаре ничего нет"
+# XX## game/screens.rpy:1006
+msgid "Переходов"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Il n’y a rien dans l’inventaire pour le moment"
+msgstr[0] "Navigation"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1392
-msgid "ПЕРСОНАЖИ"
+# XX## game/screens.rpy:1009
+msgid "Язык"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "PERSONNAGES"
+msgstr[0] "Langue"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1447
-msgid "Отношения с [char_name!t]:"
+# XX## game/screens.rpy:1030
+msgid "Дополнительно"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Relation avec [char_name!t]:"
+msgstr[0] "Avancés"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1458
-msgid "Запас сил:"
+# XX## game/screens.rpy:1031
+msgid "Именованные сохранения"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Réserve de force:"
+msgstr[0] "Conservation nommée"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1463
-msgid "Тренированность:"
+# XX## game/screens.rpy:1032
+msgid "Прозрачное текстовое окно"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Aptitude:"
+msgstr[0] "Zone texte transparente"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1468
-msgid "Чистота:"
+# XX## game/screens.rpy:1033
+msgid "Отображать все \"Возможности\""
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Propreté:"
+msgstr[0] "Afficher toutes les 'opportunités'"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1475
-msgid "Навыки:"
+# XX## game/screens.rpy:1034
+msgid "Переодевания Лизы пропускаются, если Макс в комнате"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Compétences:"
+msgstr[0] "Le changement de tenue de Lisa est ignoré si Max est dans la pièce"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1478
-msgid "Навык убеждения:"
+# XX## game/screens.rpy:1047
+msgid "Скорость текста"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Force de persuasion:"
+msgstr[0] "Vitesse du texte"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1483
-msgid "Навык скрытности:"
+# XX## game/screens.rpy:1051
+msgid "Скорость авточтения"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Discrétion:"
+msgstr[0] "Vitesse de lecture automatique"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1489
-msgid "Навык массажа:"
+# XX## game/screens.rpy:1058
+msgid "Громкость музыки"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Compétence de massage:"
+msgstr[0] "Volume de la musique"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1495
-msgid "Навык эро.массажа:"
+# XX## game/screens.rpy:1065
+msgid "Громкость звуков"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Compétence de massage érotique:"
+msgstr[0] "Volume des sons du jeu"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1501
-msgid "Навык поцелуев:"
+# XX## game/screens.rpy:1071
+msgid "Тест"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Compétence pour embrasser:"
+msgstr[0] "Tester"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1507
-msgid "Сексуальный опыт:"
+# XX## game/screens.rpy:1075
+msgid "Громкость голоса"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Expérience sexuelle :"
+msgstr[0] "Volume des voix"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1519
-msgid "Настроение:"
+# XX## game/screens.rpy:1086
+msgid "Без звука"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Humeur:"
+msgstr[0] "En sourdine"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1525
-msgid "Уровень отношений:"
+# XX## game/screens.rpy:1207
+msgid "История диалогов пуста."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Niveau de relation :"
+msgstr[0] "L'historique de dialogue est vide."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1539
-msgid "Влияние Макса:"
+# XX## game/screens.rpy:1270
+msgid "Помощь"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "L’influence de Max :"
+msgstr[0] "Aide"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1544
-msgid "Влияние Эрика:"
+# XX## game/screens.rpy:1279
+msgid "Клавиатура"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "L’influence d’Eric :"
+msgstr[0] "Clavier"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1553
-msgid "Лучше пока не попадаться на подглядывании за Лизой в душе"
+# XX## game/screens.rpy:1280
+msgid "Мышь"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Il vaut mieux ne pas se faire prendre en train d’espionner Lisa sous la douche"
+msgstr[0] "Souris"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1557
-msgid "Предпочтения в сладостях:"
+# XX## game/screens.rpy:1283
+msgid "Геймпад"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Préférence de sucreries:"
+msgstr[0] "Manette de Jeu"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1561
-msgid "Любит \"Ritter Sport\""
+# XX## game/screens.rpy:1296
+msgid "Enter"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Aime 'Ritter Sport'"
+msgstr[0] "Entrée"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1563
-msgid "Сгодится \"Raffaello\""
+# XX## game/screens.rpy:1297
+msgid "Прохождение диалогов, активация интерфейса."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "'Raffaello' fera l'affaire"
+msgstr[0] "Passer les dialogues, activer l'interface de choix."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1565
-msgid "Ненавидит \"Ferrero Rocher\""
+# XX## game/screens.rpy:1300
+msgid "Пробел"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Déteste 'Ferrero Rocher'"
+msgstr[0] "Barre d'espace"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1570
-msgid "Предпочтения в массаже:"
+# XX## game/screens.rpy:1301
+msgid "Прохождение диалогов без возможности делать выбор."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Préférences de massage:"
+msgstr[0] "Passer les dialogues sans pouvoir faire de choix."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1573
-msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
+# XX## game/screens.rpy:1304
+msgid "Стрелки"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "- Après un massage des mains, Lisa peut se laisser masser les épaules (et plus encore) tout en faisant ses devoirs"
+msgstr[0] "Flèches"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1577
-msgid "Лучше пока не попадаться на подглядывании за Алисой в душе"
+# XX## game/screens.rpy:1305
+msgid "Навигация по интерфейсу."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Il vaut mieux ne pas se faire prendre à espionner Alice sous la douche"
+msgstr[0] "Navigation dans l’interface."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1585
-msgid "Любит \"Ferrero Rocher\""
+# XX## game/screens.rpy:1308
+msgid "Esc"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Aime 'Ferrero Rocher'"
+msgstr[0] "Esc"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1587
-msgid "Сгодится \"Ritter Sport\""
+# XX## game/screens.rpy:1309
+msgid "Вход в игровое меню."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "'Ritter Sport' fera l'affaire"
+msgstr[0] "Entrez dans le menu du jeu."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1589
-msgid "Ненавидит \"Raffaello\""
+# XX## game/screens.rpy:1312
+msgid "Ctrl"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Déteste 'Raffaello'"
+msgstr[0] "Ctrl"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1593
-msgid "Действие алкоголя:"
+# XX## game/screens.rpy:1313
+msgid "Пропускает диалоги, пока зажат."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Effet de l’alcool:"
+msgstr[0] "Ignore la boîte de dialogue lorsque s’est skippé."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1596
-msgid "???"
+# XX## game/screens.rpy:1316
+msgid "Tab"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "???"
+msgstr[0] "Tab"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1600
-msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
+# XX## game/screens.rpy:1317
+msgid "Включает режим пропуска."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "- Je ne me souviens pas de tout ce qui s’est passé pendant qu’elle était ivre"
+msgstr[0] "Active le mode skipper - ignorer."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1606
-msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
+# XX## game/screens.rpy:1320
+msgid "Page Up"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "- Si vous commencez un massage pour Alice dans la cour par ses jambes (bas des jambes), vous avez plus de chances de masser le reste de son corps"
+msgstr[0] "Page haut"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1608
-msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
+# XX## game/screens.rpy:1321
+msgid "Откат назад по сюжету игры."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "- Vous pouvez masser les jambes (et plus encore) à Alice lors d'un massage devant la TV avec l'aide du chocolats à la liqueur"
+msgstr[0] "Revenir en arrière dans l'histoire du jeu."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1610
-msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
+# XX## game/screens.rpy:1324
+msgid "Page Down"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "- Si Alice s'est laissée masser les jambes devant la TV, vous pouvez la voir se masturber sur la caméra avant d'aller vous coucher"
+msgstr[0] "Page bas"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1653
-msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
+# XX## game/screens.rpy:1325
+msgid "Откатывает предыдущее действие вперёд."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "DÉFINIR LES VÊTEMENTS DU PERSONNAGE"
+msgstr[0] "Faire avancer à l’action précédente."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1750
-msgid "Автосмена каждые 2 дня"
+# XX## game/screens.rpy:1329
+msgid "Скрывает интерфейс пользователя."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Changement automatique tous les 2 jours"
+msgstr[0] "Masquer l’interface utilisateur."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1761
-msgid "Сделать текущей"
+# XX## game/screens.rpy:1333
+msgid "Делает снимок экрана."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Utiliser comme vêtements actuel"
+msgstr[0] "Prend une capture d’écran."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1809
-msgid "[view_cam[1].public]"
+# XX## game/screens.rpy:1337
+msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "[view_cam[1].public]"
+msgstr[0] "Activer le synthétiseur vocal {a=https://www.renpy.org/l/voicing}pris en charge{/a}."
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1892
-msgid "ВНИМАНИЕ"
+# XX## game/screens.rpy:1343
+msgid "Левый клик"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "ATTENTION"
+msgstr[0] "Clic gauche"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1893
-msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+# XX## game/screens.rpy:1347
+msgid "Клик колёсиком"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "CONTENU POUR ADULTES"
+msgstr[0] "Clic sur la molette"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1897
-msgid "Эта игра содержит контент сексуального характера"
+# XX## game/screens.rpy:1351
+msgid "Правый клик"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Ce jeu contient du contenu sexuel"
+msgstr[0] "Clic droit"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1898
-msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+# XX## game/screens.rpy:1355
+msgid "Колёсико вверх\n"
+"Клик на сторону отката"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "En continuant, vous confirmez que vous êtes assez vieux pour un tel contenu"
+msgstr[0] "Roulette en haut\n"
+"Cliquer sur le côté pour le retour en arrière"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1900
-msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+# XX## game/screens.rpy:1359
+msgid "Колёсико вниз"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Tous les personnages représentés dans ce jeu sont fictifs et âgés de plus de 18 ans"
+msgstr[0] "Roulette vers le bas"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1904
-msgid "Продолжить"
+# XX## game/screens.rpy:1366
+msgid "Правый триггер\n"
+"A/Нижняя кнопка"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Continuer"
+msgstr[0] "Bouton droit\n"
+"A/Bouton du bas"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/screens.rpy:1917
-msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
+# XX## game/screens.rpy:1370
+msgid "Левый Триггер\n"
+"Левый Бампер"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "LES VÊTEMENTS DES PERSONNAGES DANS LE MENU PRINCIPAL"
+msgstr[0] "Bouton gauche\n"
+"pare-chocs gauche"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1374
+msgid "Правый бампер"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bouton en haut à droite"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1379
+msgid "Крестовина, Стики"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "D-pad, Bouton"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1383
+msgid "Start, Guide"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Démarrer, le guide"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1387
+msgid "Y/Верхняя кнопка"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Bouton Y/En haut"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1390
+msgid "Калибровка"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Calibration"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1456
+msgid "Да"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Oui"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1457
+msgid "Нет"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Non"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1503
+msgid "Пропускаю"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Sauter"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1727
+msgid "Скрыть интерфейс"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Masquer l'interface graphique"
+msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/screens.rpy:1728
+msgid "Меню"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] "Menu"
 msgstr[1] "Ignore this. translate only: One"
 
