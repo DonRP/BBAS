@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
+﻿# TODO: Translation updated at 2022-04-25 HH:HH# game/dialogues/lisatalk.rpy:26 ## translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
 msgstr "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
 
