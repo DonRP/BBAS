@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-28 14:54\n"
+"PO-Revision-Date: 2022-04-27 19:25\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
+# TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
 msgid "+ к навыку скрытности"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "+ de compétence pour la furtivité"
@@ -134,67 +134,67 @@ msgid_plural "Ignore this. translate only: One"
 msgstr[0] "%s %s d’humeur"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:406
+# XX## game/core/04function.rpy:407
 msgid "Так... В накладной написано следующее:"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Ainsi... La facture se lit comme suit :"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:712
+# XX## game/core/04function.rpy:713
 msgid "Прохладные"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Refroidir"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Война"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Guerre"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Враждебные"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Hostile"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Плохие"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mauvais"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Неплохие"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Pas mauvais"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Хорошие"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Bon"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Тёплые"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Chaud"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Дружеские"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Amical"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:714
+# XX## game/core/04function.rpy:715
 msgid "Близкие"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Fermer"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/core/04function.rpy:1011
+# XX## game/core/04function.rpy:1012
 msgid "Конфеты закончились"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Les bonbons sont fini"
