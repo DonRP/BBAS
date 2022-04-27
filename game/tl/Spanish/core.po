@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-27 14:44\n"
+"PO-Revision-Date: 2022-04-27 19:26\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
+# TODO: Translation updated at 2022-04-25 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
 msgstr ""
 
