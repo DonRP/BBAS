@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-03-26 10:14\n"
+"PO-Revision-Date: 2022-04-27 19:26\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# game/events/ann_cam.rpy:8 ## translate crowdin cam0_ann_sleep_97963875:
+# TODO: Translation updated at 2022-04-25 HH:HH# game/events/ann_cam.rpy:8 ## translate crowdin cam0_ann_sleep_97963875:
 msgid "[Max_01] {m}Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!{/m}"
 msgstr ""
 
