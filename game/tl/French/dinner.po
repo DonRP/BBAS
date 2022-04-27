@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-28 14:54\n"
+"PO-Revision-Date: 2022-04-27 19:25\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
+# TODO: Translation updated at 2022-04-25 HH:HH# game/dialogues/dinner.rpy:62 ## translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01] Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать... [nointeract]"
 msgstr "[Ann_01] bon appétit à tous. Je suis contente, Max, que tu aies acheté tes courses à tes frais. Et la piscine est propre. Bravo d'avoir pris cette responsabilité, nous l'apprécions tous. Maintenant, dînons... [nointeract]"
 
