@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-03-28 14:56\n"
+"PO-Revision-Date: 2022-04-27 19:24\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
+# TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Le nouveau maillot de bain de Lisa"
