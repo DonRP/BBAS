@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-05-01 18:35\n"
+"PO-Revision-Date: 2022-05-03 16:09\n"
 
 # TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/screens.rpy:165
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
@@ -51,7 +51,7 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/core/screens.rpy:220
 msgid "{b}ЧИТ-МЕНЮ{/b}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "{b}MENU DE TRICHE{/b}"
 msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/screens.rpy:324
