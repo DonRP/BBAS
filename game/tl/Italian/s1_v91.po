@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-27 19:27\n"
+"PO-Revision-Date: 2022-05-12 20:10\n"
 
 # TODO: Translation updated at 2022-04-25 HH:HH# game/scripts_s1/s1_v91.rpy:17 ## translate crowdin s1_ann_drink_cam_e1d89378:
 msgid "[Max_09] {m}Что это мама делает в такой поздний час в гостиной? Может, что-то случилось...{/m} [nointeract]"
@@ -365,6 +365,6 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/scripts_s1/s1_v91.rpy:179
 msgid "Хватит пить! Мы идём спать!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Smettete di bere! Andiamo a letto!"
 msgstr[1] "Ignore this. translate only: One"
 
