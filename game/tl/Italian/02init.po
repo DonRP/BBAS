@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-04-27 19:26\n"
+"PO-Revision-Date: 2022-05-12 20:09\n"
 
 # TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -929,7 +929,7 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/core/02init.rpy:141
 msgid "Хотел поговорить о маме..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Volevo parlare di mia madre..."
 msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/02init.rpy:278
