@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-05-12 20:10\n"
+"PO-Revision-Date: 2022-05-13 20:06\n"
 
 # TODO: Translation updated at 2022-04-25 HH:HH# game/scripts_s1/s1_v91.rpy:17 ## translate crowdin s1_ann_drink_cam_e1d89378:
 msgid "[Max_09] {m}Что это мама делает в такой поздний час в гостиной? Может, что-то случилось...{/m} [nointeract]"
@@ -22,15 +22,15 @@ msgstr "[Max_07] {m}Sembra che la mamma stia bevendo di nuovo nella sua orgoglio
 
 # game/scripts_s1/s1_v91.rpy:32 ## translate crowdin s1_ann_first_drink_f0d16941:
 msgid "[Max_07] {m}Ох, ничего себе! Мама сидит здесь совсем одна и выпивает... Почему? Лучше мне не оставлять её одну в таком состоянии...{/m}"
-msgstr ""
+msgstr "[Max_07] {m}Oh, wow! La mamma si siede qui tutta sola e beve... Perché? È meglio che non la lasci da sola in questo stato...{/m}"
 
 # game/scripts_s1/s1_v91.rpy:35 ## translate crowdin s1_ann_first_drink_89deb820:
 msgid "[Max_09] {m}Что это мама делает в такой поздний час в гостиной? Кажется, ничего хорошего...{/m}"
-msgstr ""
+msgstr "[Max_09] {m}cosa fa questa mamma a un'ora così tardi nel soggiorno? Non sembra niente di buono...{/m}"
 
 # game/scripts_s1/s1_v91.rpy:39 ## translate crowdin s1_ann_first_drink_db692275:
 msgid "[Max_00] Эй, мам, что ты здесь делаешь?"
-msgstr ""
+msgstr "[Max_00] Ehi mamma, cosa ci fai qui?"
 
 # game/scripts_s1/s1_v91.rpy:40 ## translate crowdin s1_ann_first_drink_c2453842:
 msgid "[Ann_14] А? Это ты Макс... Я... Просто решила немножко расслабиться..."
