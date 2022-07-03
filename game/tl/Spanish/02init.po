@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-27 19:24\n"
+"PO-Revision-Date: 2022-07-03 07:56\n"
 
-# TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
+# TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
@@ -156,97 +156,97 @@ msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ВС"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Dom"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ВОСКРЕСЕНЬЕ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "DOMINGO"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ПН"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Lun"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ПОНЕДЕЛЬНИК"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "LUNES"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ВТ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mar"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ВТОРНИК"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "MARTES"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "СР"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mie"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "СРЕДА"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "MIÉRCOLES"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ЧТ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Jue"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ЧЕТВЕРГ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "JUEVES"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ПТ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Vie"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "ПЯТНИЦА"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "VIERNES"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "СБ"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Sáb"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:89
+# XX## game/core/02init.rpy:91
 msgid "СУББОТА"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "SÁBADO"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "Управление"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Gestión"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\n"
 "F5 - сохранить, F8 - загрузить.\n\n\n"
 "Кроме того, во время диалогов работают клавиши 1... 9 для различных вариантов ответов. Если вариант всего один, можно нажимать клавишу [[Space].\n\n\n"
@@ -262,13 +262,13 @@ msgstr[0] "Este juego proporciona control de teclado. Puede ahorrar en cualquier
 "Esto es muy conveniente si el área de diálogo oculta una parte interesante de la imagen ..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "Возможности"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Posibilidades"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n"
 "\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
 msgid_plural "Ignore this. translate only: One"
@@ -276,13 +276,13 @@ msgstr[0] "Durante el juego, durante los diálogos y otras acciones, puedes desc
 "\"Características\" puede abrir el acceso a eventos ocultos o compras en la tienda en línea, a nuevas opciones en la computadora portátil o acciones en algunas salas. ¡Lee detenidamente la descripción de cada \"oportunidad\" y no te perderás nada!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "Настроение"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Estado de ánimo"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\n"
 "Если у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\n"
 "Постепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\n"
@@ -294,13 +294,13 @@ msgstr[0] "Varias acciones o frases dichas por Max pueden causar una reacción c
 "Para animarte, puedes darle lo que necesitas a este personaje en particular o simplemente disculparte. Y a veces la palabra correcta durante una conversación puede mejorar significativamente el estado de ánimo."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "Шоу"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mostrar"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:133
+# XX## game/core/02init.rpy:135
 msgid "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\n"
 "Увеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\n"
 "Если у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n"
@@ -312,559 +312,559 @@ msgstr[0] "Las cámaras ocultas pueden ser la principal fuente de ingresos. Cuan
 "{i}{b}Nota:{/b} En futuras versiones del juego, los usuarios VIP aparecerán con peticiones especiales. Si los realizas, recibirás un sólido aumento en los ingresos. {/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Значит, у тебя есть блог?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Entonces tienes un blog?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Слушай, насчёт блога..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Escucha, sobre el blog..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт твоего блога... А если не особо раздеваться?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto a tu blog... ¿Y si realmente no te desnudas?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт посуды..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto a los platos..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Не возражаешь против компании?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿No te importa la compañía?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что читаешь?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Qué lees?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Хотел извиниться за утренний инцидент..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Quería disculparme por el incidente de la mañana..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Извини, но я случайно увидел, как ты принимаешь душ..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Lo siento, pero te vi duchándote..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Хочу извиниться. Я бессовестно подглядывал за тобой утром..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Pido disculpas. Te miré descaradamente por la mañana..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Загораешь?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Estás tomando el sol?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "У меня для тебя обещанная вкусняшка!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Tengo lo delicioso prometido para ti!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт ванны ночью..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto al baño por la noche..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "А ты умеешь целоваться?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Sabes cómo besar?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я слышал, Эрик тебе новое бельё собирается купить?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Escuché que Eric te va a comprar ropa interior nueva?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Покажешь боди, которое тебе Эрик купит?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Puedes mostrarme el bodysuit que Eric te comprará?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Хотел узнать, хорошо ли тебе сидится?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Quería saber si estabas bien?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Не слабо тебя отшлёпали!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡No levemente te han cruzado!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ты не передумала о наказаниях?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿No has pensado en los castigos?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Отшлёпать тебя сейчас или..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Azotarte ahora o..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Пора отшлёпать одну милую попку!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Es hora de golpear a ese lindo trasero!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Тебе помочь накрыть на стол?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Puedo ayudarte a poner la mesa?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Как ты после случившегося?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я пришёл извиниться за то, что было утром. Я больше не буду."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Vine a disculparme por lo ocurrido en la mañana. Ya no lo haré."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я снова подглядывал. Извини."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Miré de nuevo. Perdón."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну давай, можешь меня наказывать..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Vamos, puedes castigarme..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я выбираю наказание от тебя..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Elijo que tu me castigues..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, дай денег, пожалуйста..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mamá, dame dinero, por favor..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я продукты заказал!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Pedí los productos!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, бассейн чист!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mamá, la piscina está limpia!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что смотришь?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Qué estás viendo?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт случая с Лизой..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto al caso Lisa..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, а как учатся целоваться?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mamá, ¿cómo aprendes a besar?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, Кира отправила меня к тебе..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mamá, Kira me envió a ti..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "С тобой можно?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Puedo estar con ustedes?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я присоединюсь?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Me uniré?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, нужно поговорить об Оливии."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, ты подумала об Оливии?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Mamá, ¿pensaste en Olivia?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мне нужны деньги..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Necesito dinero..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Эрик, мы же договорились!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Eric, ¡estuvimos de acuerdo!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я хотел поговорить о Кире..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Quería hablar de Kira..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мою премию за помощь с Лизой!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Mi premio por ayudar con Lisa!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Чтобы на маме были не только очки для сна, но и чулки!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Para qué mamá no solamente lleve gafas ¡Para dormir, sino también medias!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Чтобы на маме были только очки для сна!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Aquí está el dinero para que no vayas con Liza..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "У меня нет денег, чтобы ты не лез к Лизе."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "No tengo dinero para mantenerte alejado de Liza."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Да тут всегда хорошая погода..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Sí, siempre hay buen tiempo..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ага, как всегда..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Sí, como siempre..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Да, шикарная!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Sí, precioso!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Кира, мне нужно научиться целоваться..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Kira, necesito aprender a besar..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну как, ты с мамой-то поговорила?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Bueno, ¿hablaste con tu mamá?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Как отдыхается, тётя Кира?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Cómo descansa la tía Kira?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт фотосессии..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto a la sesión de fotos..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Понравились фотографии?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Te gustan las fotos?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Не злишься на меня, тётя Кира?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿No estás enojada conmigo, tía Kira?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Так когда будем снова фотографироваться, тётя Кира?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Entonces, ¿cuándo vamos a ser fotografiados de nuevo, tía Kira?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Тётя Кира, когда ты уже с мамой поговоришь?!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tía Kira, ¿cuándo estás hablando con tu mamá?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Я хотел спросить про тот случай из детства мамы..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Quería preguntar sobre ese incidente de la infancia de mi madre..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Расскажи уже про тот случай из детства мамы..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Cuéntanos sobre ese incidente de la infancia de mi madre..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Когда будет новая фотосессия, тётя Кира?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Cuándo es la nueva sesión de fotos, tía Kira?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Уже слышала новость, тётя Кира?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "О школе..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Sobre la escuela..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "А ты чего так загораешь?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Y por qué tomas el sol así?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт твоего парня..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto a tu novio..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт этого случая утром..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto a este incidente por la mañana..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Хотел поговорить о Большом Максе..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Quería hablar de Big Max..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "А ты у нас шалунья, оказывается..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Y tú eres un, resulta que..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт успеваемости..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto al rendimiento académico..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Помочь с уроками?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Ayuda con las lecciones?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "У тебя странный вид..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tienes una mirada extraña..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Может всё-таки поделишься своими переживаниями по поводу Алисы?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Puedes compartir tus sentimientos sobre Alice?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Массаж рук заказывала?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Pediste un masaje de manos?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну что, Лиза, готова?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Está lista Lisa?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну что, готова?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Está listo?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Лиза, ты же любишь читать?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Lisa, ¿te gusta leer?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Лиза, у меня для тебя особая книжка..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Lisa, tengo un libro especial para ti..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Рассказывай, что делали?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Cuéntanos qué hiciste?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну так и чему же тебя учили?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Entonces, ¿qué te enseñaron?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что новенького было на уроке?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Qué había de nuevo en clase?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что нового мама с Эриком тебе рассказали?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Qué te dijeron mamá y Eric?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что нового узнала на уроке у мамы и Эрика?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Qué aprendiste de mamá y Eric en clase?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "{i}урок поцелуев{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}Lección de besos{/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Насчёт Алекса..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "En cuanto a Alex..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Есть успехи с Оливией?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Has tenido éxito con Olivia?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что-нибудь узнала про Оливию?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Descubriste algo sobre Olivia?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну так, что там с трусиками Оливии?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Entonces, ¿qué pasa con las bragas de Olivia?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ты позвала Оливию к нам?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Invitaste a Olivia con nosotros?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну как, получилось рассказать всё Оливии?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Bueno, ¿cómo llegaste a contarle todo a Olivia?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Нравится, что я спасаю твою попку от наказания?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Como que te salvo el del castigo?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Учтите, я испытываю... некоторый подъём!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Eso sí, estoy experimentando... ¡algo de elevación!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Пошепчемся немного о моей сестрёнке?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Vamos a susurrar un poco sobre mi hermana?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Что новенького, Оливия?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¿Qué hay de nuevo, Olivia?"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Рад тебя видеть, Оливия!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Me alegro de verte, Alice!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Ну как, всё повторила? \n"
 "{i}(проводить Лизу в школу){/i}"
 msgid_plural "Ignore this. translate only: One"
@@ -872,193 +872,199 @@ msgstr[0] "Bueno, ¿repitió todo? \n"
 "{i}(acompaña a Lisa a la escuela){/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Лиза, ты чего нос повесила?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мама разрешила!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Кстати, а как тебе та книжка, которую я дарил?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Можно вместе с тобой книжку почитать?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Можно к тебе присоединиться?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "А у меня есть крем для загара. Хотите?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Давайте, я намажу вас кремом для загара?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Вам дать крем для загара?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Мам, поговорим?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:141
+# XX## game/core/02init.rpy:143
 msgid "Хотел поговорить о маме..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:143
+msgid "Мам, ты подумала?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/02init.rpy:281
 msgid "Одежда"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Ropa"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Книги"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Libros"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Продукты"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Comestibles"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Электроника"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Electrónica"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Товары 18+"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Productos 18+"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Косметика"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Cosméticos"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Украшения"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Decoraciones"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:278
+# XX## game/core/02init.rpy:281
 msgid "Другое"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Otro"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "А у меня есть то, о чём ты мечтала..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Y tengo lo que soñaste..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня для тебя подарок {i}(Халат){/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo un regalo para ti {i}(Albornoz){/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня для тебя вкусняшка!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Tengo una deliciosa comida para ti!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня есть кое-что запрещённое..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo algo prohibido..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "Угадай: маленькое, чёрненькое..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Adivina qué: pequeño, negro..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня для тебя одна книжка..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo un libro para ti..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня снова для тебя книжка..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo un libro para ti de nuevo..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "И снова у меня для тебя книжка..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "De nuevo, tengo un libro para ti..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня для тебя подарок {i}(Пижама){/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo un regalo para ti {i}(Pijama){/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня есть кое-что, о чём мы беседовали..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo algo de lo que hablamos..."
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "Прикупил для тебя немного сладенького!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Compré un poco de dulce para ti!"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня для тебя подарок {i}(Кожаный костюм){/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo un regalo para ti {i}(Traje de cuero){/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "У меня для тебя подарок {i}(Плётка){/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Tengo un regalo para ti {i}(Pijama){/i}"
 msgstr[1] ""
 
-# XX## game/core/02init.rpy:289
+# XX## game/core/02init.rpy:292
 msgid "Мам, я купил тебе одежду полегче!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "¡Mamá, te compré ropa más ligera!"
