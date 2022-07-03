@@ -10,361 +10,1543 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-05-03 16:09\n"
+"PO-Revision-Date: 2022-07-03 07:56\n"
 
-# TODO: Translation updated at 2022-04-25 HH:HH# game/scripts_s1/s1_v91.rpy:17 ## translate crowdin s1_ann_drink_cam_e1d89378:
+# TODO: Translation updated at 2022-06-17 HH:HH# game/scripts_s1/s1_v91.rpy:43 ## translate crowdin s1_cheat_skip_2bea6bd9:
+msgid "Есть важные события. Пропуск завершить не удалось."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:76 ## translate crowdin s1_ann_drink_cam_e1d89378:
 msgid "[Max_09] {m}Что это мама делает в такой поздний час в гостиной? Может, что-то случилось...{/m} [nointeract]"
 msgstr "[Max_09] {m}Qu'est-ce que maman fait à cette heure tardive dans le salon? Il s'est peut-être passé quelque chose...{/m} [nointeract]"
 
-# game/scripts_s1/s1_v91.rpy:22 ## translate crowdin s1_ann_drink_cam_be712d34:
+# game/scripts_s1/s1_v91.rpy:81 ## translate crowdin s1_ann_drink_cam_be712d34:
 msgid "[Max_07] {m}Похоже, мама снова выпивает в гордом одиночестве!{/m}"
 msgstr "[Max_07] {m}on dirait que maman boit à nouveau dans une fière solitude!{/m}"
 
-# game/scripts_s1/s1_v91.rpy:32 ## translate crowdin s1_ann_first_drink_f0d16941:
+# game/scripts_s1/s1_v91.rpy:97 ## translate crowdin s1_ann_first_drink_f0d16941:
 msgid "[Max_07] {m}Ох, ничего себе! Мама сидит здесь совсем одна и выпивает... Почему? Лучше мне не оставлять её одну в таком состоянии...{/m}"
 msgstr "[Max_07] {m}Oh, wow! Maman est assise toute seule ici et boit... Pourquoi ? Je ferais mieux de ne pas la laisser seule dans cet état...{/m}"
 
-# game/scripts_s1/s1_v91.rpy:35 ## translate crowdin s1_ann_first_drink_89deb820:
+# game/scripts_s1/s1_v91.rpy:100 ## translate crowdin s1_ann_first_drink_89deb820:
 msgid "[Max_09] {m}Что это мама делает в такой поздний час в гостиной? Кажется, ничего хорошего...{/m}"
 msgstr "[Max_09] {m}Qu'est-ce que maman fait à cette heure tardive dans le salon? Ça ne semble pas être bon...{/m}"
 
-# game/scripts_s1/s1_v91.rpy:39 ## translate crowdin s1_ann_first_drink_db692275:
+# game/scripts_s1/s1_v91.rpy:104 ## translate crowdin s1_ann_first_drink_db692275:
 msgid "[Max_00] Эй, мам, что ты здесь делаешь?"
 msgstr "[Max_00] maman, que fais-tu ici?"
 
-# game/scripts_s1/s1_v91.rpy:40 ## translate crowdin s1_ann_first_drink_c2453842:
+# game/scripts_s1/s1_v91.rpy:105 ## translate crowdin s1_ann_first_drink_c2453842:
 msgid "[Ann_14] А? Это ты Макс... Я... Просто решила немножко расслабиться..."
 msgstr "[Ann_14] A? C'est toi Max... Moi... J'ai juste décidé de me détendre un peu..."
 
-# game/scripts_s1/s1_v91.rpy:43 ## translate crowdin s1_ann_first_drink_24bc1e46:
+# game/scripts_s1/s1_v91.rpy:109 ## translate crowdin s1_ann_first_drink_24bc1e46:
 msgid "[Max_08] Обычно ты не так расслабляешься... Так что давай рассказывай, что не так?"
 msgstr "[Max_08] d'habitude, tu ne te détends pas comme ça... Alors vas-y, raconte que ce passe t'il?"
 
-# game/scripts_s1/s1_v91.rpy:44 ## translate crowdin s1_ann_first_drink_60b5bf99:
+# game/scripts_s1/s1_v91.rpy:110 ## translate crowdin s1_ann_first_drink_60b5bf99:
 msgid "[Ann_12] Всё хорошо. Я просто устала..."
 msgstr "[Ann_12] Tout va bien. Je suis juste fatiguée..."
 
-# game/scripts_s1/s1_v91.rpy:45 ## translate crowdin s1_ann_first_drink_1bcbb002:
+# game/scripts_s1/s1_v91.rpy:111 ## translate crowdin s1_ann_first_drink_1bcbb002:
 msgid "[Max_09] От чего?"
 msgstr "[Max_09] de quoi?"
 
-# game/scripts_s1/s1_v91.rpy:46 ## translate crowdin s1_ann_first_drink_fd74038e:
+# game/scripts_s1/s1_v91.rpy:112 ## translate crowdin s1_ann_first_drink_fd74038e:
 msgid "[Ann_17] Да от Эрика и его злорадной рожи... И от чувства собственной ничтожности..."
 msgstr "[Ann_17] oui d'Eric et son visage malicieux... Et le sentiment de sa propre insignifiance..."
 
-# game/scripts_s1/s1_v91.rpy:47 ## translate crowdin s1_ann_first_drink_93c46a4a:
+# game/scripts_s1/s1_v91.rpy:113 ## translate crowdin s1_ann_first_drink_93c46a4a:
 msgid "[Max_07] Эй, не говори так! Ты самая замечательная женщина на свете!"
 msgstr "[Max_07] hé, ne dis pas ça! Tu es la femme la plus merveilleuse du monde!"
 
-# game/scripts_s1/s1_v91.rpy:48 ## translate crowdin s1_ann_first_drink_8819ff24:
+# game/scripts_s1/s1_v91.rpy:114 ## translate crowdin s1_ann_first_drink_8819ff24:
 msgid "[Ann_18] А кто этого поганого извращенца, привёл в наш дом? Ведь я! Я виновата..."
 msgstr "[Ann_18] et qui a amené ce sale pervers chez nous? En effet, je suis, je suis coupable..."
 
-# game/scripts_s1/s1_v91.rpy:49 ## translate crowdin s1_ann_first_drink_e167331c:
+# game/scripts_s1/s1_v91.rpy:115 ## translate crowdin s1_ann_first_drink_e167331c:
 msgid "[Max_09] Ты же не знала, что он такой! Всё хорошо, сейчас эта проблема уже решена. Так что прекращай себя винить и пить в одиночестве. Ты не одна, мам! Я всегда рядом!"
 msgstr "[Max_09] Tu ne savais pas qu'il était comme ça! Tout va bien, maintenant ce problème est déjà résolu. Alors arrête de te blâmer et de boire seul. Tu n'es pas seule, maman! Je suis toujours à côté!"
 
-# game/scripts_s1/s1_v91.rpy:50 ## translate crowdin s1_ann_first_drink_fac106ef:
+# game/scripts_s1/s1_v91.rpy:116 ## translate crowdin s1_ann_first_drink_fac106ef:
 msgid "[Ann_02] Ох, это так мило, сынок... Ты... Ты самый лучший. Сразу видно настоящего мужчину."
 msgstr "[Ann_02] Oh, c'est mignon, fiston... Tu... Tu es le meilleur. On voit immédiatement un vrai homme."
 
-# game/scripts_s1/s1_v91.rpy:51 ## translate crowdin s1_ann_first_drink_528df7bd:
+# game/scripts_s1/s1_v91.rpy:117 ## translate crowdin s1_ann_first_drink_528df7bd:
 msgid "[Max_15] Вот. И мужчина тебе говорит, что с алкоголем на сегодня всё. Пора идти спать."
 msgstr "[Max_15] Voilà. Et l'homme te dit que c'est tout avec l'alcool pour aujourd'hui. Il est temps d'aller au lit."
 
-# game/scripts_s1/s1_v91.rpy:52 ## translate crowdin s1_ann_first_drink_fada79ea:
+# game/scripts_s1/s1_v91.rpy:118 ## translate crowdin s1_ann_first_drink_fada79ea:
 msgid "[Ann_14] Хорошо, мой милый... Только... Ты проводишь меня до комнаты? Кажется, меня развезло уже с одного бокала вина."
 msgstr "[Ann_14] D'accord, mon chéri... Seulement... Tu m'emmènes dans ma chambre? Je crois que j'ai déjà eu un verre de vin de trop."
 
-# game/scripts_s1/s1_v91.rpy:53 ## translate crowdin s1_ann_first_drink_c1467082:
+# game/scripts_s1/s1_v91.rpy:119 ## translate crowdin s1_ann_first_drink_c1467082:
 msgid "[Max_07] Ну, конечно! Пойдём..."
 msgstr "[Max_07] Bien sûr! Allons-y..."
 
-# game/scripts_s1/s1_v91.rpy:54 ## translate crowdin s1_ann_first_drink_aed28936:
+# game/scripts_s1/s1_v91.rpy:120 ## translate crowdin s1_ann_first_drink_aed28936:
 msgid "[Ann_04] Спасибо, сынок... Ты... Ты такой заботливый. [nointeract]"
 msgstr "[Ann_04] Merci, fiston... Tu... Tu es si attentionné. [nointeract]"
 
-# game/scripts_s1/s1_v91.rpy:60 ## translate crowdin s1_ann_first_drink_df49f996:
+# game/scripts_s1/s1_v91.rpy:129 ## translate crowdin s1_ann_first_drink_df49f996:
 msgid "[Ann_07] Хи-хи... Комната так смешно качается... Правда?"
 msgstr "[Ann_07] Hee-hee... La pièce est si drôle... C'est vrai?"
 
-# game/scripts_s1/s1_v91.rpy:61 ## translate crowdin s1_ann_first_drink_15bef9ab:
+# game/scripts_s1/s1_v91.rpy:130 ## translate crowdin s1_ann_first_drink_15bef9ab:
 msgid "[Max_10] А тебя и правда развезло, мам! Осталось идти совсем немного..."
 msgstr "[Max_10] et tu as vraiment fait ça, maman! Reste à aller un peu..."
 
-# game/scripts_s1/s1_v91.rpy:62 ## translate crowdin s1_ann_first_drink_062f1560:
+# game/scripts_s1/s1_v91.rpy:131 ## translate crowdin s1_ann_first_drink_062f1560:
 msgid "[Ann_06] Спа... Спасибо, что довёл меня, милый... Если бы не ты, я бы точно выселила Киру с дивана в гостиной."
 msgstr "[Ann_06] Spa... Merci de m'avoir amené, chéri... Si ce n'était pas pour toi, j'aurais certainement expulsé Kira du canapé du salon."
 
-# game/scripts_s1/s1_v91.rpy:63 ## translate crowdin s1_ann_first_drink_ae1c22ca:
+# game/scripts_s1/s1_v91.rpy:132 ## translate crowdin s1_ann_first_drink_ae1c22ca:
 msgid "[Max_01] У нас вообще-то два дивана в гостиной, помнишь?"
 msgstr "[Max_01] on a deux canapés dans le salon, tu te souviens?"
 
-# game/scripts_s1/s1_v91.rpy:64 ## translate crowdin s1_ann_first_drink_ef7ad95b:
+# game/scripts_s1/s1_v91.rpy:133 ## translate crowdin s1_ann_first_drink_ef7ad95b:
 msgid "[Ann_05] О, точно! Я вспомнила... Хи-хи... Вот и моя кроватка!"
 msgstr "[Ann_05] Oh, oui! Je me suis souvenue... Hee-hee... Voilà mon berceau!"
 
-# game/scripts_s1/s1_v91.rpy:65 ## translate crowdin s1_ann_first_drink_0836aaae:
+# game/scripts_s1/s1_v91.rpy:134 ## translate crowdin s1_ann_first_drink_0836aaae:
 msgid "[Max_04] Ага, добрались."
 msgstr "[Max_04] oui, on y est."
 
-# game/scripts_s1/s1_v91.rpy:68 ## translate crowdin s1_ann_first_drink_016ed5c5:
+# game/scripts_s1/s1_v91.rpy:139 ## translate crowdin s1_ann_first_drink_016ed5c5:
 msgid "[Ann_03] Ох, как же хорошо оказаться в мягкой постели... Всё, я спать..."
 msgstr "[Ann_03] Oh, c'est bien d'être dans un lit mou... Tous, je dors..."
 
-# game/scripts_s1/s1_v91.rpy:69 ## translate crowdin s1_ann_first_drink_4a26f1e0:
+# game/scripts_s1/s1_v91.rpy:140 ## translate crowdin s1_ann_first_drink_4a26f1e0:
 msgid "[Max_09] Эй, мам, подожди! А ты переодеться не хочешь? В халате будет жарко спать."
 msgstr "[Max_09] Hey, maman, attends! Tu ne veux pas te changer? Le peignoir sera chaud pour dormir."
 
-# game/scripts_s1/s1_v91.rpy:70 ## translate crowdin s1_ann_first_drink_ec98d9cc:
+# game/scripts_s1/s1_v91.rpy:141 ## translate crowdin s1_ann_first_drink_ec98d9cc:
 msgid "[Ann_14] Да, ты прав, будет жарко. Но я сейчас не в том состоянии, чтобы переодеваться..."
 msgstr "[Ann_14] Oui, tu as raison, ça va faire chaud. Mais je ne peux pas me changer maintenant..."
 
-# game/scripts_s1/s1_v91.rpy:71 ## translate crowdin s1_ann_first_drink_5356e943:
+# game/scripts_s1/s1_v91.rpy:142 ## translate crowdin s1_ann_first_drink_5356e943:
 msgid "[Max_07] Не переживай, я всё сделаю. Тебе нужно только приподняться."
 msgstr "[Max_07] Ne t'inquiète pas, je le ferai. Tu as seulement besoin de te soulever."
 
-# game/scripts_s1/s1_v91.rpy:74 ## translate crowdin s1_ann_first_drink_6b3d1384:
+# game/scripts_s1/s1_v91.rpy:146 ## translate crowdin s1_ann_first_drink_6b3d1384:
 msgid "[Ann_13] Ох, только я без лифчика, сынок. Давай, я попробую сама переодеться..."
 msgstr "[Ann_13] Oh, juste moi sans soutien-gorge, fiston. Allez, je vais essayer de me changer moi-même..."
 
-# game/scripts_s1/s1_v91.rpy:75 ## translate crowdin s1_ann_first_drink_72883ba9:
+# game/scripts_s1/s1_v91.rpy:147 ## translate crowdin s1_ann_first_drink_72883ba9:
 msgid "[Max_01] Не волнуйся, здесь довольно темно, так что при всём желании я всё равно ничего не увижу."
 msgstr "[Max_01] Ne t'inquiètes pas, il fait assez sombre ici, donc si tu le souhaites, je ne verrai rien de toute façon."
 
-# game/scripts_s1/s1_v91.rpy:76 ## translate crowdin s1_ann_first_drink_da72dfe0:
+# game/scripts_s1/s1_v91.rpy:148 ## translate crowdin s1_ann_first_drink_da72dfe0:
 msgid "[Ann_12] Да? Эээ... И ты даже не хочешь увидеть?"
 msgstr "[Ann_12] Oui? Heu... Et tu ne veux même pas voir?"
 
-# game/scripts_s1/s1_v91.rpy:77 ## translate crowdin s1_ann_first_drink_45219040:
+# game/scripts_s1/s1_v91.rpy:149 ## translate crowdin s1_ann_first_drink_45219040:
 msgid "[Max_07] Ну, как мужчина, конечно хочу! И не только увидеть... Но сейчас я всего лишь пытаюсь тебе помочь..."
 msgstr "[Max_07] Eh bien, comme un homme, bien sûr que je veux! Et pas seulement voir... Mais maintenant, j'essaie juste de t'aider..."
 
-# game/scripts_s1/s1_v91.rpy:80 ## translate crowdin s1_ann_first_drink_c71d9dbb:
+# game/scripts_s1/s1_v91.rpy:153 ## translate crowdin s1_ann_first_drink_c71d9dbb:
 msgid "[Ann_14] Спасибо, мой хороший. Мне как-то даже не удобно перед тобой... Что тебе приходится делать такое для меня..."
 msgstr "[Ann_14] Merci, mon bon. Je ne suis même pas à l'aise devant toi... Que tu dois faire ça pour moi..."
 
-# game/scripts_s1/s1_v91.rpy:81 ## translate crowdin s1_ann_first_drink_a0c5943f:
+# game/scripts_s1/s1_v91.rpy:154 ## translate crowdin s1_ann_first_drink_a0c5943f:
 msgid "[Max_04] Всё нормально, мам. Поддержка любимой мамы - дело святое... Вот и всё! Твой лифчик там, где ему и положено быть."
 msgstr "[Max_04] tout va bien, maman. Soutenir ta mère bien-aimée est une chose sainte... C'est tout! Ton soutien-gorge est là où il est censé être."
 
-# game/scripts_s1/s1_v91.rpy:82 ## translate crowdin s1_ann_first_drink_246c96e1:
+# game/scripts_s1/s1_v91.rpy:155 ## translate crowdin s1_ann_first_drink_246c96e1:
 msgid "[Ann_03] Ох, даже не знаю, чтобы я без тебя делала... А сейчас прости, я просто умираю, так хочу спать..."
 msgstr "[Ann_03] Oh, je ne sais même pas ce que je ferais sans toi... Je suis désolée, je meurs, j'ai envie de dormir..."
 
-# game/scripts_s1/s1_v91.rpy:83 ## translate crowdin s1_ann_first_drink_e6dabdcc:
+# game/scripts_s1/s1_v91.rpy:156 ## translate crowdin s1_ann_first_drink_e6dabdcc:
 msgid "[Max_07] Конечно, мам, ложись. Но я, на всякий случай, останусь здесь. Вдруг, тебе станет плохо и нужна будет помощь."
 msgstr "[Max_07] Bien sûr, maman, couches-toi. Mais je vais rester ici au cas où. Tout à coup, tu vas devenir malade et avoir besoin d'aide."
 
-# game/scripts_s1/s1_v91.rpy:84 ## translate crowdin s1_ann_first_drink_cfe77046:
+# game/scripts_s1/s1_v91.rpy:157 ## translate crowdin s1_ann_first_drink_cfe77046:
 msgid "[Ann_17] Ты останешься спать со мной? Рядом? Сынок, ты уже слишком большой, чтобы спать с мамой..."
 msgstr "[Ann_17] tu vas dormir avec moi? À côté? Fiston, tu es trop grand pour coucher avec ta mère..."
 
-# game/scripts_s1/s1_v91.rpy:85 ## translate crowdin s1_ann_first_drink_efc3b7d6:
+# game/scripts_s1/s1_v91.rpy:158 ## translate crowdin s1_ann_first_drink_efc3b7d6:
 msgid "[Max_09] И тем не менее, я останусь, мне так будет спокойнее за тебя. Кровать большая."
 msgstr "[Max_09] et pourtant, je reste, je serai plus calme pour toi. Le lit est grand."
 
-# game/scripts_s1/s1_v91.rpy:88 ## translate crowdin s1_ann_first_drink_cba7487a:
+# game/scripts_s1/s1_v91.rpy:163 ## translate crowdin s1_ann_first_drink_cba7487a:
 msgid "[Ann_02] Я... Спасибо, мой милый, ты такой заботливый... Ты у меня самый лучший!"
 msgstr "[Ann_02] ... Merci, mon chéri, tu es si attentionné... Pour moi le meilleur!"
 
-# game/scripts_s1/s1_v91.rpy:89 ## translate crowdin s1_ann_first_drink_feb90cca:
+# game/scripts_s1/s1_v91.rpy:164 ## translate crowdin s1_ann_first_drink_feb90cca:
 msgid "[Max_01] Поцелую перед сном, чтобы ты ни о чём не переживала и отдыхала..."
 msgstr "[Max_01] Un baiser avant d’aller au lit, pour que tu ne t'inquiètes de rien et que tu te reposes ..."
 
-# game/scripts_s1/s1_v91.rpy:90 ## translate crowdin s1_ann_first_drink_15e6e7c9:
+# game/scripts_s1/s1_v91.rpy:165 ## translate crowdin s1_ann_first_drink_15e6e7c9:
 msgid "[Ann_08] Ох... Это так мило и нежно, сынок... Спокойной ночи."
 msgstr "[Ann_08] Oh... C'est si doux et doux, fiston... Bonne nuit."
 
-# game/scripts_s1/s1_v91.rpy:91 ## translate crowdin s1_ann_first_drink_4685800b:
+# game/scripts_s1/s1_v91.rpy:166 ## translate crowdin s1_ann_first_drink_4685800b:
 msgid "[Max_04] Спи, мам... Сладких снов."
 msgstr "[Max_04] Dors, maman... Fais de beaux rêves."
 
-# game/scripts_s1/s1_v91.rpy:94 ## translate crowdin s1_ann_first_drink_a89e1c95:
+# game/scripts_s1/s1_v91.rpy:170 ## translate crowdin s1_ann_first_drink_a89e1c95:
 msgid "[Max_02] {m}Наконец-то я лежу с мамой в одной постели! И не смотря на то, что сейчас она просто спит, это огромное достижение, поскольку она не выгнала меня, а позволила остаться. И я безумно рад засыпать рядом с такой шикарной женщиной...{/m} [nointeract]"
 msgstr "[Max_02] {m}Enfin, je suis couché avec ma mère dans le même lit! Et même si elle dort maintenant, c'est une énorme réussite, car elle ne m'a pas viré, mais m'a laissé rester. Et je suis incroyablement heureux de m'endormir à côté d'une femme aussi chic...{/m} [nointeract]"
 
-# game/scripts_s1/s1_v91.rpy:102 ## translate crowdin s1_ann_first_drink_ba7774a4:
+# game/scripts_s1/s1_v91.rpy:180 ## translate crowdin s1_ann_first_drink_ba7774a4:
 msgid "[Max_19] {m}Что это?! Оу! Похоже, маме не хватает близости и она во сне потянулась обниматься... Это так сильно возбуждает, чувствовать её нежное и горячее тело, которое так крепко прижимается ко мне...{/m}"
 msgstr "[Max_19] {m}Qu'est-ce que c'est?! Oh! Il semble que ma mère manque d'intimité et elle a tendu un câlin dans un rêve... C'est tellement excitant de sentir son corps tendre et chaud qui se blottit si fermement contre moi...{/m}"
 
-# game/scripts_s1/s1_v91.rpy:103 ## translate crowdin s1_ann_first_drink_f293a6e7:
+# game/scripts_s1/s1_v91.rpy:181 ## translate crowdin s1_ann_first_drink_f293a6e7:
 msgid "[Ann_03] Ммм... Неужели это не сон и ты действительно здесь... рядом со мной?"
 msgstr "[Ann_03] Mmm... Ce n'est pas un rêve et tu es vraiment là... près de moi?"
 
-# game/scripts_s1/s1_v91.rpy:104 ## translate crowdin s1_ann_first_drink_5a7ea8ac:
+# game/scripts_s1/s1_v91.rpy:182 ## translate crowdin s1_ann_first_drink_5a7ea8ac:
 msgid "[Max_01] Да, я здесь. Всё хорошо..."
 msgstr "[Max_01] Oui, je suis là. Tout est bon..."
 
-# game/scripts_s1/s1_v91.rpy:107 ## translate crowdin s1_ann_first_drink_a9a967b9:
+# game/scripts_s1/s1_v91.rpy:186 ## translate crowdin s1_ann_first_drink_a9a967b9:
 msgid "[Ann_03] Ох... Похоже, что ты соскучился по мне так же сильно, как и я по тебе... Мне так не хватало твоего большого и горячего мальчика... Я очень хочу его..."
 msgstr "[Ann_03] Oh... On dirait que je t'ai manqué autant que toi... Mon grand et chaud garçon me manquait tellement... J'ai très envie de lui..."
 
-# game/scripts_s1/s1_v91.rpy:108 ## translate crowdin s1_ann_first_drink_70954202:
+# game/scripts_s1/s1_v91.rpy:187 ## translate crowdin s1_ann_first_drink_70954202:
 msgid "[Max_07] Эээ... Мам?"
 msgstr "[Max_07] Euh... Maman?"
 
-# game/scripts_s1/s1_v91.rpy:111 ## translate crowdin s1_ann_first_drink_026b39b6:
+# game/scripts_s1/s1_v91.rpy:191 ## translate crowdin s1_ann_first_drink_026b39b6:
 msgid "[Ann_15] Ой!!! Макс! Я совсем не думала, что это ты, сынок... Какой стыд!"
 msgstr "[Ann_15] Oh!!! Max! Je ne pensais pas que c'était toi, fiston... Quelle honte!"
 
-# game/scripts_s1/s1_v91.rpy:112 ## translate crowdin s1_ann_first_drink_1f5f4afc:
+# game/scripts_s1/s1_v91.rpy:192 ## translate crowdin s1_ann_first_drink_1f5f4afc:
 msgid "[Max_09] Да? И кто, ты думала, рядом с тобой лежит? Неужели, Эрик?"
 msgstr "[Max_09] Oui? Et qui tu croyais être à côté de toi? Eric?"
 
-# game/scripts_s1/s1_v91.rpy:113 ## translate crowdin s1_ann_first_drink_87397b48:
+# game/scripts_s1/s1_v91.rpy:193 ## translate crowdin s1_ann_first_drink_87397b48:
 msgid "[Ann_19] Конечно, нет! С этим подонком я бы уж точно не потянулась обниматься!"
 msgstr "[Ann_19] Bien sûr que non! Avec ce salaud, je n'aurais certainement pas pris un câlin!"
 
-# game/scripts_s1/s1_v91.rpy:114 ## translate crowdin s1_ann_first_drink_df3cca05:
+# game/scripts_s1/s1_v91.rpy:194 ## translate crowdin s1_ann_first_drink_df3cca05:
 msgid "[Max_07] А кто тогда?"
 msgstr "[Max_07] et qui alors?"
 
-# game/scripts_s1/s1_v91.rpy:115 ## translate crowdin s1_ann_first_drink_8b10c661:
+# game/scripts_s1/s1_v91.rpy:195 ## translate crowdin s1_ann_first_drink_8b10c661:
 msgid "[Ann_17] Неважно! Зря я так напилась. Иди к себе, Макс. Нам не стоит спать вместе, от греха подальше. [nointeract]"
 msgstr "[Ann_17] peu Importe! J'aurais dû me saouler comme ça. On ne devrait pas dormir ensemble, loin du péché. [nointeract]"
 
-# game/scripts_s1/s1_v91.rpy:130 ## translate crowdin s1_ann_talk_about_night_f4b840e4:
+# game/scripts_s1/s1_v91.rpy:212 ## translate crowdin s1_ann_talk_about_night_f4b840e4:
 msgid "[Ann_12] Если ты про то, что случилось ночью, то можешь даже не утруждаться. Я не хочу это обсуждать. Давай просто забудем."
 msgstr "[Ann_12] Si tu parles de ce qui s'est passé la nuit, tu ne peux même pas t'embêter. Je ne veux pas en discuter. Viens simplement, nous oublierons jamais."
 
-# game/scripts_s1/s1_v91.rpy:131 ## translate crowdin s1_ann_talk_about_night_fafad11c:
+# game/scripts_s1/s1_v91.rpy:213 ## translate crowdin s1_ann_talk_about_night_fafad11c:
 msgid "[Max_07] Ну, знаешь... После того, как ты запустила свою руку мне в шорты, у меня много вопросов!"
 msgstr "[Max_07] Tu sais... Après avoir mis ta main dans mon short, j'ai beaucoup de questions!"
 
-# game/scripts_s1/s1_v91.rpy:132 ## translate crowdin s1_ann_talk_about_night_015d0eaf:
+# game/scripts_s1/s1_v91.rpy:214 ## translate crowdin s1_ann_talk_about_night_015d0eaf:
 msgid "[Ann_14] Ох, ну зачем напоминать о таком? Мне ужасно стыдно! Выводы для себя я уже сделала, что алкоголь для меня - зло. Тема закрыта, Макс."
 msgstr "[Ann_14] Oh, pourquoi me le rappeler? Moi, j'ai terriblement honte! Les conclusions pour moi c'est que j'ai déjà fait que l'alcool me rends méchante. Le sujet est clos, Max."
 
-# game/scripts_s1/s1_v91.rpy:133 ## translate crowdin s1_ann_talk_about_night_cbc0a9bb:
+# game/scripts_s1/s1_v91.rpy:215 ## translate crowdin s1_ann_talk_about_night_cbc0a9bb:
 msgid "[Max_10] Ладно, как скажешь."
 msgstr "[Max_10] D’accord, comme tu veux."
 
-# game/scripts_s1/s1_v91.rpy:141 ## translate crowdin s1_kira_talk_about_ann_drink_ee018491:
+# game/scripts_s1/s1_v91.rpy:228 ## translate crowdin s1_kira_talk_about_ann_drink_ee018491:
 msgid "[Kira_01] Не переживай за неё, Макс. Она женщина взрослая и переживёт это расставание с Эриком. Но моральная поддержка будет очень кстати."
 msgstr "[Kira_01] ne t'inquiètes pas pour elle, Max. c'est une femme adulte et survivra à cette séparation avec Eric. Mais le soutien moral sera très utile."
 
-# game/scripts_s1/s1_v91.rpy:142 ## translate crowdin s1_kira_talk_about_ann_drink_3cddc573:
+# game/scripts_s1/s1_v91.rpy:229 ## translate crowdin s1_kira_talk_about_ann_drink_3cddc573:
 msgid "[Max_09] Это всё понятно. Я про другое хотел спросить. Похоже, мама начала искать утешение в алкоголе."
 msgstr "[Max_09] tout est clair. Je voulais demander autre chose. On dirait que maman a commencé à chercher du réconfort dans l'alcool."
 
-# game/scripts_s1/s1_v91.rpy:143 ## translate crowdin s1_kira_talk_about_ann_drink_f28ad24b:
+# game/scripts_s1/s1_v91.rpy:230 ## translate crowdin s1_kira_talk_about_ann_drink_f28ad24b:
 msgid "[Kira_03] Ну... Это не так и страшно, если в меру. Она же не каждый день это делает, иначе по ней было бы видно."
 msgstr "[Kira_03] Eh bien... Ce n'est pas si effrayant, si avec modération. Elle ne le fait pas tous les jours, sinon ça serait visible."
 
-# game/scripts_s1/s1_v91.rpy:144 ## translate crowdin s1_kira_talk_about_ann_drink_b1d4a448:
+# game/scripts_s1/s1_v91.rpy:231 ## translate crowdin s1_kira_talk_about_ann_drink_b1d4a448:
 msgid "[Max_07] Да, пока я только раз застал её за этим делом. Она себя вообще нормально ведёт, когда выпьет?"
 msgstr "[Max_07] Oui, jusqu'à ce que je l'ai trouvée une fois derrière cette affaire. Est-ce qu'elle se comporte normalement quand elle boit?"
 
-# game/scripts_s1/s1_v91.rpy:145 ## translate crowdin s1_kira_talk_about_ann_drink_52b93e7c:
+# game/scripts_s1/s1_v91.rpy:232 ## translate crowdin s1_kira_talk_about_ann_drink_52b93e7c:
 msgid "[Kira_08] Боишься, что она начнёт всех по заднице лупить направо и налево?"
 msgstr "[Kira_08] tu as peur qu'elle se mette à frapper tout le monde à droite et à gauche?"
 
-# game/scripts_s1/s1_v91.rpy:146 ## translate crowdin s1_kira_talk_about_ann_drink_db21659c:
+# game/scripts_s1/s1_v91.rpy:233 ## translate crowdin s1_kira_talk_about_ann_drink_db21659c:
 msgid "[Max_10] Нет. Просто хочу знать, чего от неё стоит ожидать в таком состоянии."
 msgstr "[Max_10] Non. Je veux juste savoir à quoi s'attendre d'elle dans cet état."
 
-# game/scripts_s1/s1_v91.rpy:147 ## translate crowdin s1_kira_talk_about_ann_drink_8a8e4391:
+# game/scripts_s1/s1_v91.rpy:234 ## translate crowdin s1_kira_talk_about_ann_drink_8a8e4391:
 msgid "[Kira_14] На самом деле Аню пьяной я видела не так уж много раз. По молодости было дело, уже после того нашего с ней детского... происшествия..."
 msgstr "[Kira_14] en fait, je n'ai pas vu Anya ivre beaucoup de fois. Dans sa jeunesse, il y avait une affaire, après notre enfance avec elle... faits divers..."
 
-# game/scripts_s1/s1_v91.rpy:148 ## translate crowdin s1_kira_talk_about_ann_drink_6d17d919:
+# game/scripts_s1/s1_v91.rpy:235 ## translate crowdin s1_kira_talk_about_ann_drink_6d17d919:
 msgid "[Max_09] И ничего странного за ней ты тогда не наблюдала?"
 msgstr "[Max_09] et tu ne l'as pas regardée à l'époque?"
 
-# game/scripts_s1/s1_v91.rpy:149 ## translate crowdin s1_kira_talk_about_ann_drink_7bf2578d:
+# game/scripts_s1/s1_v91.rpy:236 ## translate crowdin s1_kira_talk_about_ann_drink_7bf2578d:
 msgid "[Kira_05] Расскажу маленькую тайну... Мой первый, сам знаешь какой опыт, с девушками был как раз с твоей мамой."
 msgstr "[Kira_05] je vais te dire un petit secret... Ma première expérience avec les filles, c'était avec ta mère."
 
-# game/scripts_s1/s1_v91.rpy:150 ## translate crowdin s1_kira_talk_about_ann_drink_c7b6d6be:
+# game/scripts_s1/s1_v91.rpy:237 ## translate crowdin s1_kira_talk_about_ann_drink_c7b6d6be:
 msgid "[Max_08] Ого! Вот с этого момента поподробнее..."
 msgstr "[Max_08] Wow! À partir de maintenant, plus en détail..."
 
-# game/scripts_s1/s1_v91.rpy:151 ## translate crowdin s1_kira_talk_about_ann_drink_c594ec4e:
+# game/scripts_s1/s1_v91.rpy:238 ## translate crowdin s1_kira_talk_about_ann_drink_c594ec4e:
 msgid "[Kira_07] Помню, мы с ней урвали бутылочку вина... Ну и пустились во все тяжкие. Как я поняла, когда её развезёт, то она впадает в какое-то состояние... типа фантазии. Она понимает, что происходит и всё помнит, но не считает, что это было правдой."
 msgstr "[Kira_07] je me souviens qu'elle et moi avons arraché une bouteille de vin... Eh bien, ils se sont lancés dans tous les problèmes. Si je comprends bien, quand elle est transportée, elle tombe dans un état... type de fantaisie. Elle comprend ce qui se passe et se souvient de tout, mais ne croit pas que c'était vrai."
 
-# game/scripts_s1/s1_v91.rpy:152 ## translate crowdin s1_kira_talk_about_ann_drink_1b8e0f89:
-msgid "[Max_02] Во как! Ну и... понравилось тебе «развлекаться» с моей мамой?"
-msgstr "[Max_02] Dans comment! Eh bien, et... ça t'a plu de t'amuser avec ma mère?"
+# game/scripts_s1/s1_v91.rpy:239 ## translate crowdin s1_kira_talk_about_ann_drink_2c727844:
+msgid "[Max_02] Во как! Ну и... понравилось тебе \"развлекаться\" с моей мамой?"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:153 ## translate crowdin s1_kira_talk_about_ann_drink_7bca3c9c:
+# game/scripts_s1/s1_v91.rpy:240 ## translate crowdin s1_kira_talk_about_ann_drink_7bca3c9c:
 msgid "[Kira_06] А то! Мы были молодые и любопытные... Я и сейчас, собственно, осталась такой же... По большей части."
 msgstr "[Kira_06] Ou alors! Nous étions jeunes et curieuses... Je suis, en fait, est resté le même... En majeure partie."
 
-# game/scripts_s1/s1_v91.rpy:154 ## translate crowdin s1_kira_talk_about_ann_drink_b6525852:
+# game/scripts_s1/s1_v91.rpy:241 ## translate crowdin s1_kira_talk_about_ann_drink_b6525852:
 msgid "[Max_03] И мне это нравится, тётя Кира!"
 msgstr "[Max_03] et j'aime ça, tante Kira!"
 
-# game/scripts_s1/s1_v91.rpy:155 ## translate crowdin s1_kira_talk_about_ann_drink_2fafe674:
+# game/scripts_s1/s1_v91.rpy:242 ## translate crowdin s1_kira_talk_about_ann_drink_2fafe674:
 msgid "[Kira_04] Мне тоже, Макс. Ты уж там присматривай за своей мамой, чтобы она много не пила."
 msgstr "[Kira_04] Moi aussi, Max. Tu es là pour t'occuper de ta mère, donc elle ne boit pas beaucoup."
 
-# game/scripts_s1/s1_v91.rpy:156 ## translate crowdin s1_kira_talk_about_ann_drink_9e9fdd8c:
+# game/scripts_s1/s1_v91.rpy:243 ## translate crowdin s1_kira_talk_about_ann_drink_9e9fdd8c:
 msgid "[Max_04] Обязательно!"
 msgstr "[Max_04] Absolument !"
 
-# game/scripts_s1/s1_v91.rpy:164 ## translate crowdin s1_ann_drink_269fbda5:
+# game/scripts_s1/s1_v91.rpy:258 ## translate crowdin s1_ann_drink_269fbda5:
 msgid "[Max_07] {m}Лучше мне не оставлять её одну в таком состоянии...{/m}"
 msgstr "[Max_07] {m}je préfère ne pas la laisser seule dans cet état...{/m}"
 
-# game/scripts_s1/s1_v91.rpy:167 ## translate crowdin s1_ann_drink_84e869ac:
+# game/scripts_s1/s1_v91.rpy:261 ## translate crowdin s1_ann_drink_84e869ac:
 msgid "[Max_09] {m}Ага, мама снова выпивает, пока все спят! Ну, кроме меня, конечно...{/m}"
 msgstr "[Max_09] {m}ouais, maman boit encore pendant que tout le monde dort! Sauf moi, bien sûr...{/m}"
 
-# game/scripts_s1/s1_v91.rpy:171 ## translate crowdin s1_ann_drink_c1a6cbc7:
-msgid "[Max_00] Снова расслабляешься, пока никто не видит?"
-msgstr "[Max_00] Tu te détends encore pendant que personne ne le voit?"
+# game/scripts_s1/s1_v91.rpy:265 ## translate crowdin s1_ann_drink_95e0d854:
+msgid "[Max_09] Снова расслабляешься, пока никто не видит?"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:172 ## translate crowdin s1_ann_drink_2d055518:
-msgid "[Ann_00] Да, сынок. Раз в недельку, да немножко, почему бы и нет. Ты почему не спишь?"
-msgstr "[Ann_00] oui, fiston. Une fois par semaine, un peu, pourquoi pas. Pourquoi tu ne dors pas?"
+# game/scripts_s1/s1_v91.rpy:266 ## translate crowdin s1_ann_drink_62a37d3d:
+msgid "[Ann_12] Да, сынок. Раз в недельку, да немножко, почему бы и нет. Ты почему не спишь?"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:175 ## translate crowdin s1_ann_drink_52cd4b1e:
+# game/scripts_s1/s1_v91.rpy:270 ## translate crowdin s1_ann_drink_52cd4b1e:
 msgid "[Max_00] Кто-то же должен за тобой присматривать. Много ты уже выпила?"
 msgstr "[Max_00] Quelqu'un doit s'occuper de toi. Tu as déjà bu beaucoup?"
 
-# game/scripts_s1/s1_v91.rpy:176 ## translate crowdin s1_ann_drink_4ad19dfc:
-msgid "[Ann_00] Нет, всего лишь бокальчик. Я знаю, что мне лучше не напиваться."
-msgstr "[Ann_00] Non, juste un verre. Je sais que je ferais mieux de ne pas me saouler."
+# game/scripts_s1/s1_v91.rpy:271 ## translate crowdin s1_ann_drink_1b69c140:
+msgid "[Ann_13] Нет, всего лишь бокальчик. Я знаю, что мне лучше не напиваться."
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:177 ## translate crowdin s1_ann_drink_fd3e14ed:
-msgid "[Max_00] Да, тебя и от одного бокала развозит неплохо. Может, уже в сторону постельки выдвигаться будем, если тебя ещё ноги держат?"
-msgstr "[Max_00] oui, toi et un verre c'est bon. Peut-être que nous allons avancer vers le lit, si tu as encore les jambes?"
+# game/scripts_s1/s1_v91.rpy:272 ## translate crowdin s1_ann_drink_2b627bd9:
+msgid "[Max_07] Да, тебя и от одного бокала развозит неплохо. Может, уже в сторону постельки выдвигаться будем, если тебя ещё ноги держат?"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:178 ## translate crowdin s1_ann_drink_6f2aac42:
-msgid "[Ann_00] Нет, сынок, я ещё посижу здесь... А ты иди спать, не переживай за меня. [nointeract]"
-msgstr "[Ann_00] non, fiston, je reste ici... Va te coucher, ne t'inquiète pas pour moi. [nointeract]"
+# game/scripts_s1/s1_v91.rpy:273 ## translate crowdin s1_ann_drink_ff4a35d0:
+msgid "[Ann_02] Нет, сынок, я ещё посижу здесь... А ты иди спать, не переживай за меня. [nointeract]"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:181 ## translate crowdin s1_ann_drink_81dd338b:
-msgid "[Ann_00] А я не хочу!"
-msgstr "[Ann_00] et je ne veux pas!"
+# game/scripts_s1/s1_v91.rpy:276 ## translate crowdin s1_ann_drink_13299f28:
+msgid "[Ann_14] А я не хочу!"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:182 ## translate crowdin s1_ann_drink_a1ae8ebf:
-msgid "[Max_00] А мне до лампочки, мам. Спать!"
-msgstr "[Max_00] Et je me soucie de l’ampoule, mamans. Va dormir!"
+# game/scripts_s1/s1_v91.rpy:277 ## translate crowdin s1_ann_drink_52f68794:
+msgid "[Max_15] А мне до лампочки, мам. Спать!"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:183 ## translate crowdin s1_ann_drink_944b0579:
-msgid "[Ann_00] Да? Ну, ладно... [nointeract]"
-msgstr "[Ann_00] Oui? Eh bien, d'accord... [nointeract]"
+# game/scripts_s1/s1_v91.rpy:278 ## translate crowdin s1_ann_drink_d7ab74a7:
+msgid "[Ann_05] Да? Ну, ладно... раз ты такой настойчивый... [nointeract]"
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:192 ## translate crowdin s1_ann_drink_79b48a5b:
-msgid "[Ann_00] Вот и добрались! Если бы не ты, я бы точно не смогла сюда подняться, пришлось бы спать прямо на барной стойке. Хи-хи..."
-msgstr "[Ann_00] Voilà! Si ce n'était pas pour toi, je n'aurais pas pu monter ici, je devrais dormir au bar. Hee-hee..."
+# game/scripts_s1/s1_v91.rpy:289 ## translate crowdin s1_ann_drink_70cb03ea:
+msgid "[Ann_07] Вот и добрались! Если бы не ты, я бы точно не смогла сюда подняться, пришлось бы спать прямо на барной стойке. Хи-хи..."
+msgstr ""
 
-# game/scripts_s1/s1_v91.rpy:193 ## translate crowdin s1_ann_drink_74f0c116:
-msgid "[Max_00] Нет, мам, до такой степени я не дам тебе опуститься. Вот и твоя кроватка..."
-msgstr "[Max_00] non, maman, je ne te laisserai pas tomber. Voilà ton berceau..."
+# game/scripts_s1/s1_v91.rpy:290 ## translate crowdin s1_ann_drink_5fbe2d5d:
+msgid "[Max_01] Нет, мам, до такой степени я не дам тебе опуститься. Вот и твоя кроватка..."
+msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/scripts_s1/s1_v91.rpy:56
+# game/scripts_s1/s1_v91.rpy:295 ## translate crowdin s1_ann_drink_e1e9aa8b:
+msgid "[Ann_03] Да... Моя постелька... Спасибо, мой милый, что помог. Можешь идти спать..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:296 ## translate crowdin s1_ann_drink_38f1a458:
+msgid "[Max_07] Ты рано легла, сначала нужно переодеться. Если приподнимешься, то я помогу тебе с этим..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:300 ## translate crowdin s1_ann_drink_ff680f4b:
+msgid "[Ann_02] Ох... У меня почти нет на это сил... Дальше давай сам, только не подглядывай."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:301 ## translate crowdin s1_ann_drink_99160781:
+msgid "[Max_04] Здесь темно, мам. Я работаю практически на ощупь. Но, не переживай, лишнего не трону."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:305 ## translate crowdin s1_ann_drink_a27de2e6:
+msgid "[Ann_04] Я не переживаю. Мне очень повезло с таким заботливым и деликатным сыном."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:306 ## translate crowdin s1_ann_drink_cf3e0eea:
+msgid "[Max_02] Вот и всё! Твой лифчик там, где ему и положено быть. Теперь можно ложиться спать."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:310 ## translate crowdin s1_ann_drink_575f8f7f:
+msgid "[Ann_14] Хорошо... Если ты снова хочешь остаться здесь, то лучше не стоит. Если мне станет худо, то я справлюсь сама."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:311 ## translate crowdin s1_ann_drink_873453b3:
+msgid "[Max_07] Нет, мам. Я останусь однозначно. А чтобы тебя ничто не тревожило, одень свою маску для сна. Она поможет тебе лучше выспаться."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:312 ## translate crowdin s1_ann_drink_7d95ec5d:
+msgid "[Ann_08] Надеюсь, так и будет. Спокойной ночи, сынок."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:313 ## translate crowdin s1_ann_drink_6498dd9a:
+msgid "[Max_01] Поцелую перед сном, чтобы ты ни о чём не переживала и отдыхала... Сладких снов."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:317 ## translate crowdin s1_ann_drink_1a597b2d:
+msgid "[Max_19] {m}Ну вот, теперь остаётся только ждать... Благодаря маске для сна, мама сможет в полной мере оторваться в своей фантазии. Если, конечно, не станет её снимать...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:328 ## translate crowdin s1_ann_drink_7e2fabc6:
+msgid "[Max_04] {m}О да! Мама снова лезет обниматься... Мой член уже в огромном предвкушении всяческих забав!{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:329 ## translate crowdin s1_ann_drink_c9c94fff:
+msgid "[Ann_03] Ммм... Наконец-то ты снова рядом, дорогой... Как же мне хорошо с тобой... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:341 ## translate crowdin s1_ann_drink_demonstrate_1878288f:
+msgid "[Ann_05] Ухх! Я ещё ничего не делала, а он уже такой твёрдый! Кто-то явно нацелен хорошенько порезвиться..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:342 ## translate crowdin s1_ann_drink_demonstrate_0e7c069a:
+msgid "[Max_02] С такой горячей сексуальной женщиной как ты, только этим и хочется заниматься! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:350 ## translate crowdin s1_ann_drink_demonstrate_73685471:
+msgid "[Max_05] {m}Ох, не знаю за кого мама меня принимает, но её поцелуи это что-то! А от того, как нежно её рука обхватила мой член, у меня внутри всё начинает трепетать от восторга...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:353 ## translate crowdin s1_ann_drink_demonstrate_bf6638a1:
+msgid "[Ann_08] Становится слишком жарко, чтобы продолжать. Давай освободимся от всей одежды."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:354 ## translate crowdin s1_ann_drink_demonstrate_cf788ce3:
+msgid "[Max_07] Давай. Но я хочу, чтобы оставила маску. Так будет куда чувственнее... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:362 ## translate crowdin s1_ann_drink_demonstrate_649abd07:
+msgid "[Max_20] {m}О да! Мама сразу же потянулась прямо вниз... Теперь её губки нежно скользят по концу моего члена, а язычок исследует и играет со всеми изгибами... Она никуда не торопится и просто наслаждается им. Фантастика!{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:363 ## translate crowdin s1_ann_drink_demonstrate_32bdb443:
+msgid "[Ann_07] Ммм... Ты же любишь, когда я дразню твоего мальчика своим языком, прежде чем он попадёт ко мне в рот?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:364 ## translate crowdin s1_ann_drink_demonstrate_9e501bef:
+msgid "[Max_19] Да, мне очень нравится это, продолжай..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:368 ## translate crowdin s1_ann_drink_demonstrate_1a060af5:
+msgid "[Max_21] {m}Пока она играется с моим членом, нужно пользоваться моментом и отвлечься на её киску. Иначе, я просто не выдержу и кончу. Мамина щёлочка слегка мокренькая, но так не пойдёт. Сейчас мои пальцы решат эту проблему...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:392 ## translate crowdin s1_ann_drink_no_restrain_23fb7d5a:
+msgid "[Ann_13] [norestrain!t]Ого! Ты уже кончил, дорогой... Не думала, что это будет так быстро, ведь я ещё даже не начала стараться!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:393 ## translate crowdin s1_ann_drink_no_restrain_afae4d6a:
+msgid "[Max_07] Прости. Просто твои прикосновения и ласки меня перевозбудили."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:394 ## translate crowdin s1_ann_drink_no_restrain_2776a308:
+msgid "[Ann_08] Ничего страшного. Возможно, я так соскучилась по твоему члену, что немного увлеклась. Сейчас я приведу всё в порядок..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:395 ## translate crowdin s1_ann_drink_no_restrain_db8070f2:
+msgid "[Max_19] {m}Вот чёрт! От того, как тщательно и эротично она слизывает мою сперму запросто можно бы было кончить ещё раз! Просто невероятно, что это на самом деле происходит.{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:400 ## translate crowdin s1_ann_drink_no_restrain_cae2d9bf:
+msgid "[Ann_05] Обещаю, в следующий раз, я не буду так увлекаться и постараюсь растянуть наше удовольствие подольше."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:401 ## translate crowdin s1_ann_drink_no_restrain_d98841bc:
+msgid "[Max_04] Но это в следующий раз. А сейчас я просто обязан постараться сделать всё, чтобы ты тоже кончила."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:405 ## translate crowdin s1_ann_drink_no_restrain_718b6dc4:
+msgid "[Ann_09] Ахх... Этого я и жду... Я вся в предвкушении того, что ты будешь для этого делать. Ох..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:406 ## translate crowdin s1_ann_drink_no_restrain_6e349e3f:
+msgid "[Max_03] {m}Ммм... От такой сочной и пышной груди даже отрываться не хочется! Но у меня есть не менее интересные дела кое-где пониже! Только устроюсь поудобнее...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:410 ## translate crowdin s1_ann_drink_no_restrain_8cf76278:
+msgid "[Ann_10] Да... Как же меня возбуждают твои нежные прикосновения... Твои пальцы знают, как нужно ласкать мою киску. Ухх... Да... Ещё..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:411 ## translate crowdin s1_ann_drink_no_restrain_bf8a6272:
+msgid "[Max_02] {m}Да, мои пальцы довольно легко скользят по маминой киске. Если бы она только знала, что это делаю я, всё в миг бы прекратилось. Но она не знает, так что нужно пользоваться моментом...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:418 ## translate crowdin s1_ann_drink_no_restrain_f0f106cc:
+msgid "[Ann_14] Ухх, да... Как же мне хорошо от твоих пальчиков... Да, продолжай... Ещё... Поглубже... Ммм... Я сейчас просто потеряю голову от наслаждения... Ах! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:426 ## translate crowdin s1_ann_drink_no_restrain_beef9a92:
+msgid "[Ann_11] Ох, это... нет слов, как приятно... Ахх... Ты самый лучший мужчина на свете! Д-а-а! Твой язычок сводит меня с ума... Я... Я больше не могу... Я сейчас... Я кончаю! Д-а-а!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:427 ## translate crowdin s1_ann_drink_no_restrain_bcd0f0c5:
+msgid "[Max_05] {m}Да, мам! Вот так... Её тело так классно содрогается от оргазма. Ради такой шикарной женщины грех не постараться.{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:438 ## translate crowdin s1_ann_drink_restrain_5baa544f:
+msgid "[Max_22] [restrain!t]{m}Ох, она начала посасывать мой член... Это просто божественно! Я прямо чувствую, с каким удовольствием она это делает. Как же это приятно, мам, чёрт возьми!{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:446 ## translate crowdin s1_ann_drink_restrain_ae9af4f4:
+msgid "[Max_03] {m}Ммм... Мои пальцы запросто проскользнули в неё. Обалденно, она стала сосать ещё активнее от моих ласк. Ох, мама... Знала бы ты, что сейчас вытворяешь! Вернее, с кем. Д-а-а...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:452 ## translate crowdin s1_ann_drink_restrain_3f1d3b3e:
+msgid "[Max_02] {m}Ухх... Уткнуться в её сногсшибательную большую попку одно наслаждение! Теперь она сосёт и одновременно постанывает от того, что вытворяет мой язык с её сочной киской...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:460 ## translate crowdin s1_ann_drink_restrain_eab11e6a:
+msgid "[Max_20] {m}Блин! Она ещё и рукой начала моими яичками играть! А уж про то, что она всё смачнее и глубже заглатывает мой член, я вообще молчу... Только стонать и остаётся. Долго я так не протяну...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:469 ## translate crowdin s1_ann_drink_restrain_f9f680a2:
+msgid "[Max_21] {m}Д-а-а! Ах, мама не отрываясь принимает всю мою сперму! Она умничка... Знает, как порадовать мужчину. Но я с кое-чем ещё не закончил...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:477 ## translate crowdin s1_ann_drink_restrain_6e37798e:
+msgid "[Ann_10] Да, дорогой... Уфф... Ты кончил так мощно! Я даже не смогла удержать всё в себе. Ммм... Я хочу кончить так же сильно, как ты. Пожалуйста... Ах-х-х... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:485 ## translate crowdin s1_ann_drink_restrain_beef9a92:
+msgid "[Ann_11] Ох, это... нет слов, как приятно... Ахх... Ты самый лучший мужчина на свете! Д-а-а! Твой язычок сводит меня с ума... Я... Я больше не могу... Я сейчас... Я кончаю! Д-а-а!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:490 ## translate crowdin s1_ann_drink_restrain_bcd0f0c5:
+msgid "[Max_05] {m}Да, мам! Вот так... Её тело так классно содрогается от оргазма. Ради такой шикарной женщины грех не постараться.{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:501 ## translate crowdin s1_ann_drink_end_1_68e5f607:
+msgid "[Ann_08] Ох... Это было... нечто! Я просто... Извини, не знаю даже, что сказать... Так хорошо..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:502 ## translate crowdin s1_ann_drink_end_1_2df45fd4:
+msgid "[Max_03] Ты была великолепна! Теперь просто отдыхай... Спокойной ночи."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:507 ## translate crowdin s1_ann_drink_end_1_d975ed12:
+msgid "[Ann_07] Спасибо, дорогой. Мне тоже понравилось. И тебе доброй ночи."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:508 ## translate crowdin s1_ann_drink_end_1_cb4a8a27:
+msgid "[Max_09] {m}Надо бы натянуть шорты, а то утром будет много визга, когда мама проснётся голой. И ещё больше визга будет, если я буду лежать рядом такой же голый. И не исключено, что с утренним стояком...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:513 ## translate crowdin s1_ann_drink_end_1_481c4fe1:
+msgid "[Max_19] {m}Фух... Теперь можно и спать. Вот это мы с мамой выдали! Она фантазировала, а я, так сказать, сделал эту фантазию реальной. Эх, вот бы почаще так развлекаться...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:522 ## translate crowdin s1_ann_drink_end_1_d84609d5:
+msgid "[Ann_17] Охх... Моя голова... Что происходит?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:523 ## translate crowdin s1_ann_drink_end_1_a96f79e8:
+msgid "[Max_20] Доброе утро, мам."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:527 ## translate crowdin s1_ann_drink_end_1_1046c4a1:
+msgid "[Ann_15] Макс! Быстро отвернись! Ты что тут делаешь?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:528 ## translate crowdin s1_ann_drink_end_1_7f7438f4:
+msgid "[Max_08] Не помнишь? Ты вчера выпила и я решил остаться с тобой на случай, если тебе будет плохо."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:529 ## translate crowdin s1_ann_drink_end_1_de11b26c:
+msgid "[Ann_13] Ах, ну да, точно... Но почему я голая?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:530 ## translate crowdin s1_ann_drink_end_1_5ed568e4:
+msgid "[Max_07] Ну, видимо тебе стало жарко. А я не стал этому возражать."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:531 ## translate crowdin s1_ann_drink_end_1_e786afda:
+msgid "[Ann_14] Макс, я же твоя мама! Это всё совсем не правильно... Надо было меня остановить!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:532 ## translate crowdin s1_ann_drink_end_1_c74b39dc:
+msgid "[Max_09] Мне кажется, телу нужно дышать. Особенно в том состоянии, в котором ты находилась."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:533 ## translate crowdin s1_ann_drink_end_1_05a3d7ce:
+msgid "[Ann_17] Может и так, но не в присутствии же собственного сына! Получается, я сама разделась?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:534 ## translate crowdin s1_ann_drink_end_1_3b5fb676:
+msgid "[Max_01] Ага. Ты разделась и заснула."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:535 ## translate crowdin s1_ann_drink_end_1_b513fece:
+msgid "[Ann_13] Фух... А то, мне такой сон приснился... Там я тоже разделась, но не только... Ой, сынок, это ты из-за моего вида так возбудился?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:536 ## translate crowdin s1_ann_drink_end_1_a041acec:
+msgid "[Max_07] Нет, у меня часто такое по утрам. Лиза не даст соврать. Хотя, возможно, сегодня это произошло благодаря тебе."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:537 ## translate crowdin s1_ann_drink_end_1_5fc3fabf:
+msgid "[Ann_18] Макс, что ты такое при маме говоришь! И вообще, хватит меня забалтывать и глазеть. Давай-ка отвернись уже и иди к себе, ты меня смущаешь. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:541 ## translate crowdin s1_ann_drink_end_1_2638b5b5:
+msgid "[Ann_07] Спасибо, дорогой. Мне тоже понравилось. И тебе доброй ночи. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:549 ## translate crowdin s1_ann_drink_end_1_529b9202:
+msgid "[Max_19] {m}Фух... Теперь можно и спать. А когда рядом засыпает совершенно голая и невероятно сексуальная женщина, пускай это и моя мама, то засыпать одно удовольствие.{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:558 ## translate crowdin s1_ann_drink_end_1_405b7193:
+msgid "[Ann_17] Охх... Неужели опять... Я тут валяюсь совершенно голая, а мой сын лежит рядом с огромным возбуждением! Тебе не стыдно?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:559 ## translate crowdin s1_ann_drink_end_1_670a9ff8:
+msgid "[Max_20] Ага, и тебе доброе утро. Почему мне должно быть стыдно, если ты сама разделась?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:563 ## translate crowdin s1_ann_drink_end_1_e3cb293d:
+msgid "[Ann_14] Потому что это мягко говоря странно, когда сына возбуждает собственная мать. Это что-то нездоровое."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:564 ## translate crowdin s1_ann_drink_end_1_f0c77805:
+msgid "[Max_07] Подумаешь, возбудился. Это же самый искренний комплимент для такой прекрасной женщины, как ты."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:565 ## translate crowdin s1_ann_drink_end_1_9db04b62:
+msgid "[Ann_12] Ой, Макс, прекрати... Спасибо, конечно, но это неуместно! Ты не мог бы отвернуться?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:566 ## translate crowdin s1_ann_drink_end_1_1cd036b1:
+msgid "[Max_02] А ты мне расскажешь, как спалось? Что снилось?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:567 ## translate crowdin s1_ann_drink_end_1_b122c91c:
+msgid "[Ann_14] Ты выбрал просто самое \"лучшее\" время, чтобы об этом поболтать. Спасибо, что присмотрел за мной, но прекращай глазеть. Давай шуруй к себе."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:568 ## translate crowdin s1_ann_drink_end_1_5e15ef72:
+msgid "[Max_01] Не за что, мам. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:580 ## translate crowdin s1_about_intimate_lessons_fc38a309:
+msgid "[Ann_12] Да, я подумала и приняла решение - ничего не получится. А теперь давай закончим этот разговор и сделаем вид, что ничего не было. Живут же другие семьи как-то без этих... уроков..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:581 ## translate crowdin s1_about_intimate_lessons_5893e70d:
+msgid "[Max_10] Но ведь ты была не против! Ты позволяла смотреть за тем, что вы с Эриком делали..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:582 ## translate crowdin s1_about_intimate_lessons_19d06407:
+msgid "[Ann_18] Макс! Я всё сказала! Ты мой сын и делать такие вещи... Это неправильно!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:583 ## translate crowdin s1_about_intimate_lessons_6ba1fc46:
+msgid "[Max_11] Ты это серьёзно?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:584 ## translate crowdin s1_about_intimate_lessons_cbc29c20:
+msgid "[Ann_16] Более чем! Нормальные мальчики, если ты не в курсе, находят себе девочку и осваивают всё с ней."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:585 ## translate crowdin s1_about_intimate_lessons_c695435d:
+msgid "[Max_09] Согласен, мам. Но у меня есть идейка получше... И ходить далеко не придётся..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:586 ## translate crowdin s1_about_intimate_lessons_f2042d88:
+msgid "[Ann_15] Не поняла! Что значит, \"ходить далеко не придётся\"?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:587 ## translate crowdin s1_about_intimate_lessons_d432d3e1:
+msgid "[Max_07] По-моему мы договорились о том, что никакого разговора не было? Так что я пошёл..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:588 ## translate crowdin s1_about_intimate_lessons_9e75a728:
+msgid "[Ann_17] Минуточку! Я тебя не отпускала! Ты что, уже подстраховался на случай моего отказа?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:589 ## translate crowdin s1_about_intimate_lessons_7e387496:
+msgid "[Max_09] Ну... Я не особо надеялся на твою помощь... Поэтому пойду к тёте Кире. Она взрослая и опытная женщина... Уж она-то наверняка знает, как мужчине нужно ублажать женщину."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:590 ## translate crowdin s1_about_intimate_lessons_921e42b8:
+msgid "[Ann_13] Господи, Макс, ты совсем с ума сошёл, просить о таком мою сестру?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:591 ## translate crowdin s1_about_intimate_lessons_94beb716:
+msgid "[Max_07] А что? Мне кажется, она как раз таки та женщина, которая действительно не отвернётся от своего любимого племянника, а не будет искать отговорки, как и думать, правильно это или нет."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:592 ## translate crowdin s1_about_intimate_lessons_fc2a769a:
+msgid "[Ann_15] Нет, Макс, я не отворачивалась от тебя! Просто... Я считаю, что мама не должна учить {b}ТАКОМУ{/b} своего сына."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:593 ## translate crowdin s1_about_intimate_lessons_b87e3e4e:
+msgid "[Max_09] А смотреть, как ты занимаешься этим с Эриком - это должное? Или тебе нравилось, что я на вас смотрел?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:594 ## translate crowdin s1_about_intimate_lessons_248dd135:
+msgid "[Ann_14] Господи, Макс, ну что ты такое говоришь? Я просто... Я..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:595 ## translate crowdin s1_about_intimate_lessons_380b082b:
+msgid "[Max_00] Короче, я пошёл..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:596 ## translate crowdin s1_about_intimate_lessons_616b441d:
+msgid "[Ann_17] О боже... Ну ладно, будь по-твоему, давай попробуем... Не хватало ещё, чтобы ты просил о подобной помощи кого-то ещё."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:597 ## translate crowdin s1_about_intimate_lessons_b0bd52a7:
+msgid "[Max_03] Отлично! Когда начнём?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:598 ## translate crowdin s1_about_intimate_lessons_7ca0b85a:
+msgid "[Ann_12] Так, давай не торопиться! Вот как я вечером, после ванны, буду одна в гостиной отдыхать за просмотром ТВ, так и подходи. Будем разбираться..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:599 ## translate crowdin s1_about_intimate_lessons_01316ee1:
+msgid "[Max_02] Договорились. Кстати, можно было бы тогда посмотреть что-то... обучающего плана... Заодно, так сказать."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:600 ## translate crowdin s1_about_intimate_lessons_4b24ef57:
+msgid "[Ann_13] Пожалуй... Это будет весьма уместно. Но никому не говори об этом. И к Кире не вздумай ходить!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:601 ## translate crowdin s1_about_intimate_lessons_499f29a4:
+msgid "[Max_01] Конечно! Это будет нашим секретом, мам. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:614 ## translate crowdin s1_ann_intimate_lesson_1_7599b96c:
+msgid "[Ann_01] Проведём... Я же согласилась, на свою голову. Я, в общем-то, определилась, что тебе покажу..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:615 ## translate crowdin s1_ann_intimate_lesson_1_dfc9c730:
+msgid "[Max_01] Я весь в предвкушении!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:618 ## translate crowdin s1_ann_intimate_lesson_1_dcdcc847:
+msgid "[Ann_02] Вот... Сейчас посмотришь, как девочки развлекают себя без мальчиков. Думаю, этого будет вполне достаточно, чтобы понять... основу..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:619 ## translate crowdin s1_ann_intimate_lesson_1_41224389:
+msgid "[Max_08] Так, ладно... И в чем основа?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:622 ## translate crowdin s1_ann_intimate_lesson_1_031ce397:
+msgid "[Ann_04] В стимуляции... сам знаешь чего. У вас, мальчиков, с этим куда проще. Ты и сам, уж я думаю, прекрасно знаешь, как снять напряжение... самостоятельно."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:623 ## translate crowdin s1_ann_intimate_lesson_1_021896f4:
+msgid "[Max_07] А у вас?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:626 ## translate crowdin s1_ann_intimate_lesson_1_775d59dd:
+msgid "[Ann_14] А у нас множество нюансов, из-за которых добиться... оргазма сложнее. Женщинам важна и обстановка, максимально ли мы привлекательны, нет ли у нас в голове каких-то проблем, которые нас не оставят в покое..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:627 ## translate crowdin s1_ann_intimate_lesson_1_676e08c8:
+msgid "[Max_10] О-о-о... Как всё печально."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:630 ## translate crowdin s1_ann_intimate_lesson_1_8ce0f08a:
+msgid "[Max_09] Но, мам, это какой-то уж совсем детский уровень. Я, например, уже взрослый, а потому хочу знать, как целовать девочек, как прикасаться к ним... Так что давай, показывай."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:631 ## translate crowdin s1_ann_intimate_lesson_1_52061cc9:
+msgid "[Ann_01] Ну да, я так и думала, что просмотром одного ролика мы не обойдёмся..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:634 ## translate crowdin s1_ann_intimate_lesson_1_71a91c7c:
+msgid "[Max_03] Во! Вот это уже ближе к теме... Такое мне нравится. Красиво!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:635 ## translate crowdin s1_ann_intimate_lesson_1_6cea527e:
+msgid "[Ann_02] Тогда смотри и запоминай. Если будет что-то непонятно, я объясню."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:638 ## translate crowdin s1_ann_intimate_lesson_1_ee056de1:
+msgid "[Max_07] Да, вопросик есть. А что, ласки женской груди действительно настолько приятны, что эта девушка просто потеряла голову?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:639 ## translate crowdin s1_ann_intimate_lesson_1_5355b1ad:
+msgid "[Ann_05] Ну конечно! А вообще, у всех это бывает по-разному... Это зависит от чувствительности и возбудимости девушки..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:642 ## translate crowdin s1_ann_intimate_lesson_1_aa83dc45:
+msgid "[Max_09] И как это выяснить?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:643 ## translate crowdin s1_ann_intimate_lesson_1_24d351a1:
+msgid "[Ann_14] В процессе сближения с девушкой. Иначе, просто никак."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:646 ## translate crowdin s1_ann_intimate_lesson_1_d99b1ea5:
+msgid "[Max_11] Хмм... Засада, однако..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:647 ## translate crowdin s1_ann_intimate_lesson_1_418ad13b:
+msgid "[Ann_01] И почему ты так тяжко вздыхаешь? Разочарован, что не ко всему можно подготовиться заранее?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:650 ## translate crowdin s1_ann_intimate_lesson_1_23526750:
+msgid "[Max_04] Ага. Так когда мы это всё попробуем, мам?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:651 ## translate crowdin s1_ann_intimate_lesson_1_20fc9780:
+msgid "[Ann_13] В смысле, \"мы\"?! Это же очень интимные процессы..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:654 ## translate crowdin s1_ann_intimate_lesson_1_5b0aa651:
+msgid "[Max_07] Поэтому я к тебе и обратился. И я же не прошу целоваться в губы, а так... Хотя бы в шею попробовать... Заодно и массаж сделаю..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:655 ## translate crowdin s1_ann_intimate_lesson_1_2848ecd9:
+msgid "[Ann_12] Даже не знаю... Как-то это всё... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:661 ## translate crowdin s1_ann_intimate_lesson_1_472590a6:
+msgid "[Ann_17] Массаж и поцелуи, это всё, конечно, здорово, сынок... Но не когда это происходит с мамой."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:662 ## translate crowdin s1_ann_intimate_lesson_1_94042a4a:
+msgid "[Max_01] Да не напрягайся ты так, мам. Мы просто проверим, насколько я с этим справлюсь, вот и всё."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:665 ## translate crowdin s1_ann_intimate_lesson_1_dfb8ce5b:
+msgid "[Ann_12] И как, по-твоему, я должна оценивать твои поцелуи? Я вряд ли смогу сделать это, как женщина, потому что я твоя мать. Но, ладно, так уж и быть, я постараюсь... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:671 ## translate crowdin s1_ann_intimate_lesson_1_154bb5cf:
+msgid "[Max_04] {m}Мама замолчала... И начала так глубоко дышать! Нужно постараться целовать её хоть немного неуклюже, чтобы не было похоже, что у меня есть в этом опыт. Вот только не так-то это и просто...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:674 ## translate crowdin s1_ann_intimate_lesson_1_1983b8c2:
+msgid "[Ann_02] Ну что я скажу... Получается у тебя, Макс, довольно неплохо. Я имею ввиду сами поцелуи. Но тебе нужно расширять область их применения."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:675 ## translate crowdin s1_ann_intimate_lesson_1_d6beaf4d:
+msgid "[Max_09] Эээ... То есть?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:676 ## translate crowdin s1_ann_intimate_lesson_1_cce37033:
+msgid "[Ann_05] Нужно не забывать и про остальное: ключицу, плечи, спину, мочку ушка. Раз уж ты взялся это осваивать..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:677 ## translate crowdin s1_ann_intimate_lesson_1_f069bec4:
+msgid "[Max_02] Понял. Тогда я сейчас попробую... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:683 ## translate crowdin s1_ann_intimate_lesson_1_70ee05dc:
+msgid "[Max_03] {m}Всё перечисленное я с удовольствием попробую, пока мой массаж всё ближе и ближе подступает к маминой груди. Ох, вот бы их тоже помассировать...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:684 ## translate crowdin s1_ann_intimate_lesson_1_d2feb746:
+msgid "[Ann_03] Ахх... Сынок, если ты не будешь так частить с поцелуями, а будешь повышать их качество продолжительностью, то в сочетании с твоими навыками массажа, все девочки будут терять голову... Ммм..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:685 ## translate crowdin s1_ann_intimate_lesson_1_68b5a75b:
+msgid "[Max_04] Ну... Если ты потеряешь голову, то твой прогноз однозначно верен."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:686 ## translate crowdin s1_ann_intimate_lesson_1_e254abbd:
+msgid "[Ann_14] Ох... Мне кажется, что ты сейчас не только о своём образовании заботишься, но и... Тебе не хватает кое-чего. И заниматься тебе этим нужно не со мной..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:689 ## translate crowdin s1_ann_intimate_lesson_1_382e011b:
+msgid "[Max_07] Мам, а с кем, как не с тобой, мне такое можно пробовать делать? С тобой мне как-то легче преодолеть страхи. А девочкам, как я слышал, нравятся уверенные мальчики!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:690 ## translate crowdin s1_ann_intimate_lesson_1_345fa74a:
+msgid "[Ann_12] И что, я теперь из-за этого должна отбросить всё смущение и наслаждаться, как эта девушка на экране?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:691 ## translate crowdin s1_ann_intimate_lesson_1_2afa5928:
+msgid "[Max_09] А почему нет? Для меня бесценный опыт, для тебя одно удовольствие. Тебе же нравится массаж?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:694 ## translate crowdin s1_ann_intimate_lesson_1_5e32cafa:
+msgid "[Ann_17] Ну, Макс! Одно дело, когда это просто массаж и другое, когда сын начинает делать своей маме эротический массаж!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:695 ## translate crowdin s1_ann_intimate_lesson_1_29386537:
+msgid "[Max_07] То есть, если бы я, например, начал массировать твою грудь, то тебе бы не понравилось?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:696 ## translate crowdin s1_ann_intimate_lesson_1_f2bfe275:
+msgid "[Ann_12] Зная твой талант в массаже, я не сомневаюсь, что мне бы понравилось. Но делать такое мы не будем!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:697 ## translate crowdin s1_ann_intimate_lesson_1_1323a763:
+msgid "[Max_08] Почему ты так сильно этого стесняешься? У тебя же просто невероятно прекрасная грудь! Мне же нужно знать, как массировать её так, чтобы женщине нравилось. Вдруг, мой массаж здесь не сработает и нужны иные движения рук!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:700 ## translate crowdin s1_ann_intimate_lesson_1_6545d9ef:
+msgid "[Ann_14] Ох, сынок... Ты, видимо, не отстанешь, да? Хорошо, попробуем разок, чтобы ты знал, как это... делается... Я скажу, если ты будешь делать что-то не так. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:706 ## translate crowdin s1_ann_intimate_lesson_1_960c1adc:
+msgid "[Max_05] {m}Неужто мои руки наконец дотянулись до этих самых потрясающих сисек на свете! Несмотря на свои годы, мамина грудь выглядит просто отлично, а на ощупь, вообще, обалденная! Но продолжать неуклюжничать, как с поцелуями, так же нужно не забывать...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:707 ## translate crowdin s1_ann_intimate_lesson_1_d0dadc91:
+msgid "[Ann_08] Да, Макс... У тебя довольно неплохо получается. Но с грудью, по крайней мере, поначалу, лучше обращаться как можно нежнее... А так, твои навыки в массаже здесь очень к месту. Охх..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:708 ## translate crowdin s1_ann_intimate_lesson_1_2aa5e608:
+msgid "[Max_02] Значит, как женщине, тебе нравится, как я это делаю? Может, ещё что-нибудь подскажешь?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:709 ## translate crowdin s1_ann_intimate_lesson_1_e1eb7ba8:
+msgid "[Ann_03] Да, не останавливайся только на груди. Продолжай массировать и всё то, что ты массировал до этого. Ммм... Но обязательно возвращайся... Как же пошло такое говорить своему сыну..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:712 ## translate crowdin s1_ann_intimate_lesson_1_98be7369:
+msgid "[Max_03] {m}Да, мять эти сочные сисечки одно удовольствие, как и целовать её в шею. Она дышит жарко и глубоко, ей явно приятно. Но вместе с этим, я всё ещё чувствую, как она напрягается от того, что всё это делаю я.{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:715 ## translate crowdin s1_ann_intimate_lesson_1_c127b58d:
+msgid "[Ann_05] Так, сынок, достаточно. Я думаю, ты вполне готов сводить с ума всех девочек, какие попадутся в твои умелые руки. Ты ещё талантливее, чем мне казалось."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:716 ## translate crowdin s1_ann_intimate_lesson_1_314e3e67:
+msgid "[Max_07] Супер! А как же остальное?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:719 ## translate crowdin s1_ann_intimate_lesson_1_3c77be73:
+msgid "[Ann_17] Остальное? В смысле остальное? Ты о чём, Макс?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:720 ## translate crowdin s1_ann_intimate_lesson_1_5e421526:
+msgid "[Max_01] Ну как... Мне же ещё нужно попробовать доставить удовольствие женщине там... внизу... Там же можно не только руками, так ведь?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:721 ## translate crowdin s1_ann_intimate_lesson_1_1b043e2f:
+msgid "[Ann_13] Да, но это уже осваивай без меня. С мамой таким заниматься, даже в образовательных целях - уже чересчур!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:722 ## translate crowdin s1_ann_intimate_lesson_1_ebad62e7:
+msgid "[Max_07] Наверно, ты права. Лучше учиться у нескольких женщин. К тому же, у тёти Киры, наверно, такого опыта побольше, чем у тебя. Ты же не против, если я поучусь у неё?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:725 ## translate crowdin s1_ann_intimate_lesson_1_ce9b98ea:
+msgid "[Ann_06] Ага, хотела бы я посмотреть, как ты будешь её на это уговаривать. Думаю, она ещё не всю свою нравственность растеряла, чтобы заниматься таким."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:726 ## translate crowdin s1_ann_intimate_lesson_1_60c104a5:
+msgid "[Max_09] Но! Если что... Никаких претензий к ней или ко мне, хорошо?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:727 ## translate crowdin s1_ann_intimate_lesson_1_ad057f04:
+msgid "[Ann_07] Ой, сынок, давай без этой ерунды. Найди уже себе девочку. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:742 ## translate crowdin s1_bait_for_ann_57679d55:
+msgid "[Max_03] Ого... Купаешься голой, тётя Кира?! Классно смотришься!"
+msgstr "[Max_03] Wow... Tu te baignes nue, tante Kira ? ! Tu es superbe !"
+
+# game/scripts_s1/s1_v91.rpy:743 ## translate crowdin s1_bait_for_ann_41436e7f:
+msgid "[Kira_01] А, Макс... Я думала, что все уже спят. Хотела немного поплавать... А ты чего не спишь? [nointeract]"
+msgstr "[Kira_01] Ah, Max... Je pensais que tout le monde était endormi maintenant. Je voulais aller nager un peu... Qu'est-ce que tu fais debout? [nointeract]"
+
+# game/scripts_s1/s1_v91.rpy:747 ## translate crowdin s1_bait_for_ann_a15a1f83:
+msgid "[Kira_14] Ой, Макс, может лучше будем решать проблемы с утра? На свежую голову..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:748 ## translate crowdin s1_bait_for_ann_cb24c246:
+msgid "[Max_07] От тебя почти ничего не потребуется."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:749 ## translate crowdin s1_bait_for_ann_9fabc03c:
+msgid "[Kira_01] Оу... Ну раз так, то дай мне пару минут, я только загляну в ванную комнату."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:750 ## translate crowdin s1_bait_for_ann_fac376a1:
+msgid "[Max_04] Без проблем, тётя Кира."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:757 ## translate crowdin s1_bait_for_ann_7e99f327:
+msgid "[Kira_06] Ничего, если я включу что-нибудь \"горяченькое\"? Или это будет мешать?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:758 ## translate crowdin s1_bait_for_ann_0b28652a:
+msgid "[Max_02] Обязательно включай! Это как раз таки будет нам необходимо для того, чтобы задуманная мной постановка сработала."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:759 ## translate crowdin s1_bait_for_ann_bffab8dc:
+msgid "[Kira_07] О как! Ты решил перейти со мной на ролевые игры? Интересно! Я думала, ты сперва будешь просить попробовать со мной анальный секс..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:760 ## translate crowdin s1_bait_for_ann_d7a277e7:
+msgid "[Max_06] Ух ты! А что, уже можно?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:761 ## translate crowdin s1_bait_for_ann_4f82bd8a:
+msgid "[Kira_05] Можно? Макс, твой член уже столько раз побывал у меня во рту и вообще во мне, что просто грех для тебя, как мне кажется, не натянуть на него мою попку."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:762 ## translate crowdin s1_bait_for_ann_a2f0e512:
+msgid "[Max_09] Блин, тётя Кира! Как ты с этим не вовремя! У меня теперь моральная дилемма, между моей задумкой и твоей..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:763 ## translate crowdin s1_bait_for_ann_ead7d151:
+msgid "[Kira_01] Ну, ролевые игры - это тоже весьма интересный опыт."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:764 ## translate crowdin s1_bait_for_ann_7026412e:
+msgid "[Max_07] Да, это здорово, но мне сейчас нужно не совсем это. Нужна ролевая помощь с мамой!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:765 ## translate crowdin s1_bait_for_ann_2ef9dc7c:
+msgid "[Kira_15] Эээ... Думаешь, она согласится на ролевой тройничок?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:766 ## translate crowdin s1_bait_for_ann_5e66f6ec:
+msgid "[Max_09] Так, тётя Кира, давай серьёзнее! Помнишь, я говорил, что мама вытворяет вещи, которые до Эрика и не подумала бы делать?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:769 ## translate crowdin s1_bait_for_ann_32302405:
+msgid "[Kira_13] Да, помню. А что, градус таких вещей стал ещё больше?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:770 ## translate crowdin s1_bait_for_ann_f0afb72d:
+msgid "[Max_07] Ага, знаешь, я подглядывал за ними... Мама несколько раз меня за это наказала, но Эрик взял и убедил её, что нужно удовлетворить моё подростковое любопытство. Они во всех подробностях показали мне, что такое минет..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:771 ## translate crowdin s1_bait_for_ann_fa71c365:
+msgid "[Kira_17] Ничего себе! Хочешь сказать, моя сестра, которая довольно строго вас от этого всего старалась оберегать, теперь вытворяет такие номера? Вау!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:772 ## translate crowdin s1_bait_for_ann_d8d6f810:
+msgid "[Max_01] Вот-вот. Но раз уж у нас теперь такие вот реалии наступили, то я начал упрашивать её на продолжение таких вот уроков, но в плане ублажения женщин."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:773 ## translate crowdin s1_bait_for_ann_ab689666:
+msgid "[Kira_03] Смело и находчиво, должна сказать! Только немного обидно, что меня тебе стало мало..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:776 ## translate crowdin s1_bait_for_ann_4b55ef21:
+msgid "[Max_03] Что ты, тётя Кира! Ты вообще лучшая тётя на свете! Просто, я хочу получить такой опыт от разных женщин, чтобы расширить свои границы в сексе."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:777 ## translate crowdin s1_bait_for_ann_47d2723b:
+msgid "[Kira_04] Ну... Не могу здесь с тобой не согласиться. И чему же тебя учит моя сестра-развратница?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:778 ## translate crowdin s1_bait_for_ann_586539e2:
+msgid "[Max_02] Мы начали со слегка интимных поцелуев и эротического массажа. Ну как, эротического... Она разрешила поласкать её грудь."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:779 ## translate crowdin s1_bait_for_ann_bc4b4bb0:
+msgid "[Kira_05] Ухх... Моё воображение уже не слабо меня заводит от твоих рассказов. А дальше?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:780 ## translate crowdin s1_bait_for_ann_5dc7ef6e:
+msgid "[Max_07] А дальше, всё. Большее - это уже слишком интимно, а потому дальше я должен завести девушку и постигать всё это с ней. И вот здесь мне и нужна твоя помощь."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:783 ## translate crowdin s1_bait_for_ann_88a3f603:
+msgid "[Kira_14] Ты хочешь, чтобы я с ней об этом поговорила? Я, конечно, могу попробовать..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:784 ## translate crowdin s1_bait_for_ann_1e339f19:
+msgid "[Max_04] Это ни к чему. Я сказал ей, что наберусь опыта у тебя."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:785 ## translate crowdin s1_bait_for_ann_17dd95c7:
+msgid "[Kira_15] Да?! И как она на такое мощное заявление отреагировала?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:786 ## translate crowdin s1_bait_for_ann_06a6ee89:
+msgid "[Max_03] Ха, она думает, что ты до такой степени нравственность ещё не потеряла. Как же много всего она не знает."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:787 ## translate crowdin s1_bait_for_ann_c38e70f6:
+msgid "[Kira_06] И хорошо, что не знает. Если бы знала, то точно не пустила бы меня сюда жить."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:790 ## translate crowdin s1_bait_for_ann_c1489104:
+msgid "[Max_07] Так вот, я надеюсь, что она сегодня пойдёт проверять, так ли она в тебе уверена. В другие дни ей не до этого, а вот сегодня..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:791 ## translate crowdin s1_bait_for_ann_7d49d5ed:
+msgid "[Kira_16] Макс, ты же понимаешь, что в таком случае ругани будет море. Не знаю, что она сделает с тобой, а вот мне точно придётся искать новое жильё."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:792 ## translate crowdin s1_bait_for_ann_8524dae7:
+msgid "[Max_09] Не придётся, тётя Кира! Главное подыграй мне, если она начнёт спускаться по лестнице. А когда пойдут разборки, продолжай подыгрывать в направлении, что меня нужно готовить к взрослой жизни."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:793 ## translate crowdin s1_bait_for_ann_dd3c316e:
+msgid "[Kira_07] Ох, Макс... Рискованно... Но смело! Затея мне нравится."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:796 ## translate crowdin s1_bait_for_ann_85d60993:
+msgid "[Max_02] Так, а что ты там насчёт анального секса говорила?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:797 ## translate crowdin s1_bait_for_ann_2aaa7b97:
+msgid "[Kira_05] Я просто думала, что тебе уже неймётся это попробовать..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:798 ## translate crowdin s1_bait_for_ann_e1f885e0:
+msgid "[Max_04] Честно говоря, было столько забот, что я и не успевал об этом думать... Попробуем?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:799 ## translate crowdin s1_bait_for_ann_c09ffee1:
+msgid "[Kira_04] Обязательно! Но у меня давненько не было анального секса, поэтому мне нужно будет к этому немного подготовиться..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:802 ## translate crowdin s1_bait_for_ann_9dde754b:
+msgid "[Max_08] Тихо, а вот и мама! Самое время тебе раздвинуть ножки, тётя Кира. Начинаем..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:805 ## translate crowdin s1_bait_for_ann_87d088a9:
+msgid "[Kira_02] Да, Макс... Всё правильно. Нужны именно вот-такие лёгкие прикосновения..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:808 ## translate crowdin s1_bait_for_ann_40479877:
+msgid "[Ann_20] Это что тут такое происходит!!! Ну-ка немедленно прекратите! Кира! Макс! С ума сошли что ли?!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:811 ## translate crowdin s1_bait_for_ann_bb0262b6:
+msgid "[Max_09] Мам, давай потише, а то всех разбудишь! Ты же сама разрешила, помнишь? Никаких претензий..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:812 ## translate crowdin s1_bait_for_ann_0bf995e8:
+msgid "[Ann_18] Вообще-то, я ничего такого не разрешала! Я подумала, ты сказал про Киру просто так, чтобы меня позлить..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:813 ## translate crowdin s1_bait_for_ann_6ded7eed:
+msgid "[Max_15] Ну вот, будешь знать, что ко мне нужно относиться посерьёзнее. А теперь, будь добра, иди спать, не отвлекай..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:814 ## translate crowdin s1_bait_for_ann_32f4e841:
+msgid "[Ann_16] Ах вот так, значит! И вы считаете это нормальным, да? Чтобы родная тётя лежала тут с раздвинутыми ногами и учила своего племянника всяким непристойностям, если не сказать похуже!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:815 ## translate crowdin s1_bait_for_ann_2241c813:
+msgid "[Kira_16] Не непристойностям, а взрослой жизни и её... важным аспектам. Раз уж ты сама отказалась помогать сыну, то кому, как не мне следует позаботиться о его воспитании..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:818 ## translate crowdin s1_bait_for_ann_f8bf6b26:
+msgid "[Ann_17] Вот пусть заведёт себе девочку и там осваивает все эти... занятия! Именно таким образом приходит этот опыт и знания, а не на диване со своей тётей."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:819 ## translate crowdin s1_bait_for_ann_607ee02b:
+msgid "[Kira_15] Ой, Ань, а то ты не знаешь, какие бывают девочки по молодости глупые и жестокие. С ними ничему хорошему не научишься, а в добавок они ещё и сердце разобьют. И если второе Макса однозначно ждёт, то вот с первым мы как раз и можем действительно помочь."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:820 ## translate crowdin s1_bait_for_ann_bddd3b15:
+msgid "[Ann_19] Знаешь, тоже мне великая учительница нашлась. Ты-то как раз именно такой и была. Ещё не известно, какой похабщине ты его научишь..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:821 ## translate crowdin s1_bait_for_ann_e62e79fa:
+msgid "[Kira_13] Если до тебя ещё вдруг не дошло, то твой мальчик вырос и его запросы тоже! И твоя задача, держать процесс воспитания детей в своих собственных руках, как ты и делала. Только уже интимной сферы жизни."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:822 ## translate crowdin s1_bait_for_ann_ca3bfb9f:
+msgid "[Ann_14] Но это... Одно дело обучать детей каким-то бытовым навыкам и совсем другое... интимным моментам. Это сложно."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:823 ## translate crowdin s1_bait_for_ann_ba59e7e9:
+msgid "[Max_07] Может, хватит? Тётя Кира мне помочь хочет, в отличие от тебя. Кто не помогает, тот мешает."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:824 ## translate crowdin s1_bait_for_ann_0032ea38:
+msgid "[Ann_16] Так, сынок, давай-ка отойдём и поговорим наедине... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:830 ## translate crowdin s1_bait_for_ann_1dc89583:
+msgid "[Ann_12] Как я уже, наверное, говорила - ни стыда, ни совести у тебя, Макс. Вот что прикажешь с тобой делать? Я не знаю..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:831 ## translate crowdin s1_bait_for_ann_ca2469be:
+msgid "[Max_09] Давай, пока ты будешь думать, я пойду к Кире?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:832 ## translate crowdin s1_bait_for_ann_53f00c17:
+msgid "[Ann_13] Ну уж нет! Как представлю, чему тебя может научить моя сестра-оторва, аж страшно становится. Я лучше возьму эту задачу на себя, чем буду каждый день беспокоится об этом..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:833 ## translate crowdin s1_bait_for_ann_7c238abc:
+msgid "[Max_10] Здорово, но... Ты же всё время занята. Когда мы будем успевать?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:834 ## translate crowdin s1_bait_for_ann_e6287c08:
+msgid "[Ann_12] Что-нибудь придумаем. Можем попробовать тогда, когда я принимаю ванну. Там нам с этим не должны помешать."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:835 ## translate crowdin s1_bait_for_ann_05f5e63c:
+msgid "[Max_07] Отлично! Договорились. А ты уверена, что справишься с этим?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:836 ## translate crowdin s1_bait_for_ann_ec2bc7c4:
+msgid "[Ann_14] Ну... Будет непросто, но я постараюсь. А теперь расходимся по комнатам и спим. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:846 ## translate crowdin s1_ann_bath_59e8f8d8:
+msgid "[Max_00] {m}Сейчас, обычно, мама должна принимать ванну...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:853 ## translate crowdin s1_ann_bath_752a4ee4:
+msgid "[Ann_15] Макс! Ты почему так нагло врываешься?! Я тут вообще-то ванну принимаю..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:854 ## translate crowdin s1_ann_bath_9bd203b4:
+msgid "[Max_07] У нас ведь есть дело, помнишь?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:855 ## translate crowdin s1_ann_bath_b8985256:
+msgid "[Ann_16] Я не вижу смысла тебя чему-либо учить, Макс, пока ты не научишься стучаться перед тем, как войти!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:856 ## translate crowdin s1_ann_bath_834f0d78:
+msgid "[Max_09] Хорошо, в следующий раз постучусь."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:857 ## translate crowdin s1_ann_bath_f18fbf7a:
+msgid "[Ann_17] Вот и урок наш состоится только в следующий раз, если постучишься. А сейчас выйди. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:872 ## translate crowdin s1_ann_intimate_lesson_02_3aa93926:
+msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:873 ## translate crowdin s1_ann_intimate_lesson_02_006aa2f9:
+msgid "[Max_07] Это я, Макс. Можно войти?"
+msgstr "[Max_07] c'est moi, Max?"
+
+# game/scripts_s1/s1_v91.rpy:874 ## translate crowdin s1_ann_intimate_lesson_02_896e111e:
+msgid "[Ann] {b}Анна:{/b} Молодец, что постучался. Заходи, только смотри, чтобы никто не увидел... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:880 ## translate crowdin s1_ann_intimate_lesson_02_83499f7b:
+msgid "[Ann_12] Только, сынок, это должно быть нашим с тобой огромным секретом, понял? Потому что маме с сыном нехорошо этим заниматься, неправильно."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:881 ## translate crowdin s1_ann_intimate_lesson_02_2a769a8a:
+msgid "[Max_01] Ты же просто будешь меня учить. Что в этом плохого?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:884 ## translate crowdin s1_ann_intimate_lesson_02_b2fcf636:
+msgid "[Ann_14] Да, но {b}ЧЕМУ{/b} учить! Для тебя это всё будет, наверняка, очень интересно... Но чтобы ты понимал, для меня не просто учить {b}ТАКОМУ{/b} своего сына."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:885 ## translate crowdin s1_ann_intimate_lesson_02_b387c27d:
+msgid "[Max_09] Ну... Уж кто и может научить ТАКОМУ лучше всех, так это мама. Ты же заинтересована в том, чтобы я был лучшим во всём, в том числе и в ЭТОМ?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:886 ## translate crowdin s1_ann_intimate_lesson_02_07f19152:
+msgid "[Ann_13] Ох, только такие мысли мне и помогают сейчас. Ладно, раздевайся и залазь ко мне в ванну. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:892 ## translate crowdin s1_ann_intimate_lesson_02_80245246:
+msgid "[Ann_01] Сейчас мы сядем и немного побеседуем. Ты девочку ещё не завёл?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:893 ## translate crowdin s1_ann_intimate_lesson_02_f01f6a8e:
+msgid "[Max_04] Нет. Но на примете несколько есть."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:894 ## translate crowdin s1_ann_intimate_lesson_02_ee5e67c7:
+msgid "[Ann_02] Честно говоря, я рада, что ты интересуешься тем, как не только доставить удовольствие себе, но и твоей девушке."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:895 ## translate crowdin s1_ann_intimate_lesson_02_8ff25c03:
+msgid "[Max_03] Я хочу наслаждаться этим по полной, чтобы хорошо было всем."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:898 ## translate crowdin s1_ann_intimate_lesson_02_d3346fad:
+msgid "[Ann_04] Приятно слышать. Значит будем учить тебя, как следует ласкать женские эрогенные зоны."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:899 ## translate crowdin s1_ann_intimate_lesson_02_77dc7d16:
+msgid "[Max_02] Вверху я в тот раз ведь немного освоился?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:900 ## translate crowdin s1_ann_intimate_lesson_02_4ed32277:
+msgid "[Ann_14] Да, но эрогенных зон у женщины очень много, сынок. При чём их уровень возбудимости у каждой женщины разный. Если одна женщина просто с ума сходит, когда ей массируют ножки, то другой это может не особо нравится."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:901 ## translate crowdin s1_ann_intimate_lesson_02_8eda2b08:
+msgid "[Max_07] И определить, какой женщине что нравится, можно только \"прощупав реакцию\", да?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:902 ## translate crowdin s1_ann_intimate_lesson_02_1db96e37:
+msgid "[Ann_12] Да, Макс. Всё правильно. Но меня мы \"прощупывать\" не будем. С этим, я думаю, и так всё понятно. А вот то, как нужно ласкать... Вот с этим нам нужно разобраться."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:905 ## translate crowdin s1_ann_intimate_lesson_02_4650bde4:
+msgid "[Max_04] К этому я готов. У меня, вроде, неплохо получалось тогда... на диване?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:906 ## translate crowdin s1_ann_intimate_lesson_02_0b059c20:
+msgid "[Ann_14] Да, только вот там мы занимались детскими шалостями по сравнению с тем, чему я должна научить тебя дальше..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:907 ## translate crowdin s1_ann_intimate_lesson_02_b7d855e9:
+msgid "[Max_01] Мам, не напрягайся ты так. Это же всё в образовательных целях делается. С чего мы начнём?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:908 ## translate crowdin s1_ann_intimate_lesson_02_b5296c29:
+msgid "[Ann_12] Ох, ну... Я думаю, сначала нужно проверить, как... как у тебя получится ласкать мою грудь. Даже не верится, что я тебе такое говорю. Давай, устраивайся поближе ко мне... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:914 ## translate crowdin s1_ann_intimate_lesson_02_a01e74fd:
+msgid "[Ann_02] С поцелуями и массажем у тебя более-менее, но женская грудь... Она куда чувствительнее, особенно сосочки. Поэтому с ней лучше обходиться понежнее. По крайней мере, сначала."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:915 ## translate crowdin s1_ann_intimate_lesson_02_0283ec79:
+msgid "[Max_07] А впоследствии?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:916 ## translate crowdin s1_ann_intimate_lesson_02_7252ae2e:
+msgid "[Ann_05] А дальше всё зависит от женщины. Может быть дальше она любит погрубее."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:917 ## translate crowdin s1_ann_intimate_lesson_02_eb253a72:
+msgid "[Max_02] А как любишь ты?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:918 ## translate crowdin s1_ann_intimate_lesson_02_6905e57b:
+msgid "[Ann_13] Макс, ну что за вопрос такой? Мы же этим занимаемся в образовательных целях, а не для удовольствия и забавы."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:919 ## translate crowdin s1_ann_intimate_lesson_02_1178f669:
+msgid "[Max_03] Да, но тебе же должно быть приятно, чтобы понять, что у меня хорошо получается?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:920 ## translate crowdin s1_ann_intimate_lesson_02_5b651a27:
+msgid "[Ann_12] Макс, ты давай пробуй, а я в свою очередь сделаю какие-то замечания. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:926 ## translate crowdin s1_ann_intimate_lesson_02_d45e60d2:
+msgid "[Ann_09] Ахх... Только поаккуратнее с моими сосочками, они очень чувствительные... Не нужно их так грубо ласкать языком! Нежнее, сынок... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:932 ## translate crowdin s1_ann_intimate_lesson_02_0c29d27a:
+msgid "[Ann_03] Да-а... Всё правильно, вот так... Охх... Ты молодец. Продолжай..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:933 ## translate crowdin s1_ann_intimate_lesson_02_b10b45b3:
+msgid "[Max_05] {m}Какое блаженство играть с маминой грудью! У неё невероятно шикарные сиськи! Такие большие и аппетитные, а сосочки твёрденькие... Ласкал бы без отрыва. Ммм...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:934 ## translate crowdin s1_ann_intimate_lesson_02_de6b87b3:
+msgid "[Ann_14] Ухх... А руками уже можно работать более властно... По-хозяйски, так сказать. Ммм... Д-а-а! Ой, что же я такое говорю..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:937 ## translate crowdin s1_ann_intimate_lesson_02_a0c59985:
+msgid "[Max_07] Ладно тебе, мам, не смущайся. Тебе понравилось?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:938 ## translate crowdin s1_ann_intimate_lesson_02_0de91542:
+msgid "[Ann_17] Сынок, ну вот как я должна на это ответить? Если \"да\", то получается я в конец больная, а если \"нет\", то лгунья... Как же неправильно то, что мы делаем!"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:939 ## translate crowdin s1_ann_intimate_lesson_02_bd28a745:
+msgid "[Max_08] Так может мне всё-таки к тёте Кире пойти, чтобы ты не мучилась?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:940 ## translate crowdin s1_ann_intimate_lesson_02_203aa821:
+msgid "[Ann_18] Нет уж! Раз взялась, то нужно проконтролировать твоё обучение. А там я понятия не имею, чему она тебя научит."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:943 ## translate crowdin s1_ann_intimate_lesson_02_9be3c691:
+msgid "[Max_09] Почему ты так плохо о ней думаешь в этом плане?"
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:944 ## translate crowdin s1_ann_intimate_lesson_02_08eb3fe2:
+msgid "[Ann_12] Да у неё вся жизнь какая-то сомнительная. Ладно, не будем о ней. Давай закругляться. Продолжим в следующий раз."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:945 ## translate crowdin s1_ann_intimate_lesson_02_c5f6330b:
+msgid "[Max_10] Это что, всё?! Я думал ещё что-то будет..."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:948 ## translate crowdin s1_ann_intimate_lesson_02_b0e4030c:
+msgid "[Ann_00] Сынок, мне всё это очень непросто даётся делать. Так что дай маме отдохнуть и побыть одной. О многом нужно подумать."
+msgstr ""
+
+# game/scripts_s1/s1_v91.rpy:949 ## translate crowdin s1_ann_intimate_lesson_02_b790d1ab:
+msgid "[Max_00] Хорошо. Тогда до следующего раза. [nointeract]"
+msgstr ""
+
+# XXtranslate crowdin strings:XX# XX## game/scripts_s1/s1_v91.rpy:122
 msgid "{i}помочь маме добраться до кровати{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "{i}aider maman à se rendre au lit {/i}"
 msgstr[1] "Ignore this. translate only: One"
 
-# XX## game/scripts_s1/s1_v91.rpy:179
+# XX## game/scripts_s1/s1_v91.rpy:274
 msgid "Хватит пить! Мы идём спать!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Arrête de boire! Nous allons dormir!"
 msgstr[1] "Ignore this. translate only: One"
+
+# XX## game/scripts_s1/s1_v91.rpy:319
+msgid "{i}дремать{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:331
+msgid "Мне тоже... Хочешь почувствовать, насколько?"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:331
+msgid "{i}притвориться спящим{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:344
+msgid "{i}целовать маму{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:370
+msgid "отвлечься на её киску"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:420
+msgid "{i}ласкать маму языком{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:440
+msgid "{i}проникнуть пальцами в её киску{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:448
+msgid "{i}перебраться в позу 69{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:448
+msgid "другие позы"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:454
+msgid "{i}ласкать языком неспеша{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:462
+msgid "{i}кончить маме в рот{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:471
+msgid "{i}продолжить ласкать языком{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:479
+msgid "{i}ласкать языком активнее{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:542
+msgid "{i}натянуть шорты{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:570
+msgid "{i}уйти к себе в комнату{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:666
+msgid "{i}продолжить массаж с поцелуями в шею{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:678
+msgid "{i}продолжить массаж и поцелуи{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:701
+msgid "{i}массировать мамину грудь{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:744
+msgid "Нужна твоя помощь. Пойдём на диван, расскажу..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:825
+msgid "{i}идти на кухню{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:837
+msgid "{i}пойти спать{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:847
+msgid "{i}войти без стука{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:909
+msgid "{i}устроиться между маминых ног{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:921
+msgid "{i}ласкать мамину грудь{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_v91.rpy:927
+msgid "{i}ласкать языком нежнее{/i}"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
 
