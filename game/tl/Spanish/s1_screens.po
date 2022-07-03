@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-27 19:25\n"
+"PO-Revision-Date: 2022-07-03 07:57\n"
 
-# TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/scripts_s1/s1_screens.rpy:17
+# TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/scripts_s1/s1_screens.rpy:17
 msgid "ПРЕДУПРЕЖДЕНИЕ!"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
@@ -66,50 +66,56 @@ msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:188
+# XX## game/scripts_s1/s1_screens.rpy:190
 msgid "Доступно только после приезда Киры"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:189
+# XX## game/scripts_s1/s1_screens.rpy:191
 msgid "Вторника"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:192
+# XX## game/scripts_s1/s1_screens.rpy:196
 msgid "Среды"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:195
+# XX## game/scripts_s1/s1_screens.rpy:201
 msgid "Четверга"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:198
+# XX## game/scripts_s1/s1_screens.rpy:206
 msgid "Пятницы"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:201
+# XX## game/scripts_s1/s1_screens.rpy:211
 msgid "Субботы"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:204
+# XX## game/scripts_s1/s1_screens.rpy:216
 msgid "Воскресения"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/scripts_s1/s1_screens.rpy:315
+# XX## game/scripts_s1/s1_screens.rpy:334
 msgid "ЧЕРЕЗ НЕКОТОРОЕ ВРЕМЯ..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/scripts_s1/s1_screens.rpy:345
+msgid "ЧЕРЕЗ НЕСКОЛЬКО МИНУТ..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
