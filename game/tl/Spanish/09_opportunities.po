@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-04-27 19:25\n"
+"PO-Revision-Date: 2022-07-03 07:57\n"
 
-# TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/09_opportunities.rpy:4
+# TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
@@ -3305,6 +3305,12 @@ msgstr[0] ""
 msgstr[1] ""
 
 # XX## game/core/09_opportunities.rpy:4
+msgid "Надеюсь, у мамы не будет проблем на работе из-за того, что она разругалась с Эриком. Со временем это станет ясно, а пока нужно поговорить с остальными об Эрике..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
 msgid "Чтобы не попадать на мамины переодевания, заходя к ней в комнату, лучше заглядывать во второй половине часа перед её работой..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
@@ -3345,127 +3351,181 @@ msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:4
+msgid "Нужно присматривать за тем, что делает мама. Вдруг Эрик её в конец достанет и она начнёт искать утешение в чём-то... нехорошем..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Вот это новость! Мама начала заливать своё горе алкоголем. Конечно, не в огромных и постоянных масштабах, но её и от малого количества неплохо сносит. Уже с одного только бокальчика вина мне пришлось помогать ей подняться в комнату. Хоть это всё до добра и не доведёт, но я немного воспользовался маминым уязвимым положением... Помог ей переодеться... Остался с ней... Так, на всякий случай. Каково же было моё удивление, когда она начала со мной обниматься и заигрывать! Не знаю о ком она думала в тот момент, но уж точно не обо мне. Вряд ли мама как-то это прояснит, но попытаться можно. В крайнем случае, всегда можно спросить тётю Киру."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Сперва нужно поговорить с мамой о том, что это такое ночью она вытворяла..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Неплохо бы поинтересоваться у тёти Киры, пока она загорает, о том, как на маму действует алкоголь..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Теперь, если мама снова будет прикладываться к выпивке, то я знаю, как ей стоит подыграть, чтобы нам обоим было хорошо..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Похоже, Кира была права! Мама и правда в выпившем состоянии впадает в какие-то фантазии. Видимо, о каком-то идеальном мужчине... А что, я вполне могу эти фантазии поддержать! Правда, это будет ох как непросто, ведь у меня ухх какая мама! Она ещё не успела заглотить мой член, а я уже перевозбудился, как-будто в первый раз. У меня это действительно первый раз с мамой. Ох, что же будет, если смогу продержаться дольше..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Мне бы надо постараться не перевозбуждаться так сильно от маминых ласк, чтобы получить больше..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Как же офигенно поддерживать мамины фантазии, когда она выпьет! Сосёт она прямо как мне хочется, ммм... А играться с её киской при этом одно удовольствие! Я уже не могу, так хочу её трахнуть... И ведь могу... Наверно... Но сперва лучше привыкнуть к тому, чем мы занимаемся. А делаем мы это не так уж и часто. Нужно продолжать ей подыгрывать, а уж потом я ей такой трах-бабах устрою..."
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:4
+msgid "Нужно хоть немного привыкнуть к минету от мамы, чтобы не облажаться с ней в большем. Успешно выдержано минетов от мамы: [ann.flags.held_out] из 3"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+msgstr[1] ""
+
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "А не посмотреть ли вместе с мамой какой-нибудь фильм? Может и стоит..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Алиса любит понежиться на солнышке. Интересно, а она бы разрешила мне растереть ей спину каким-нибудь средством для загара? Стоит узнать..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Почему бы не составить Алисе компанию, когда она смотрит ТВ? А чтобы не сидеть без дела, можно и массаж ей сделать. Только нужно хоть какими-то знаниями обзавестись в этом деле..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Чтобы лезть к Лизе с расспросами о её однокласснике, лучше сперва позаботиться о том, чтобы у неё было хорошее настроение..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "С тётей Кирой о стольком можно поговорить! Нужно успевать, пока она нежится на солнце..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Если мои сёстры увидят, что я подглядываю за тем, как они принимают душ, то у меня будет много проблем. Но вдруг их удастся чем-то задобрить..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Эта возможность доступна только при дружбе с Эриком..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Эрик намекнул, что мне можно подглядывать за тем, чем они с мамой занимаются наедине. Теперь за ними спокойно можно подглядывать в спальне..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Эрик явно проявляет к Алисе особый интерес. Нужно приглядывать за этой парочкой, когда они вместе. Но что-то непристойное может происходить и ночью, если вдруг не все будут спать..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Нет смысла что-либо затевать в отношении Алисиной попки, пока её хотя бы раз не накажут голой..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Я слишком мало защищал Алису от наказаний мамы..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Нужно опередить Эрика во всём, что он будет делать для Алисы. Особенно в дарении одежды..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Нужно и дальше защищать Алису от наказаний..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Эрик подарил Алисе кружевное боди раньше меня, а значит я упустил возможность ещё больше с ней сблизиться. По крайней мере, пока не избавлюсь от него (но не в этой версии игры)..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:986
+# XX## game/core/09_opportunities.rpy:1003
 msgid "Пока мама встречается с Эриком, мне не занять главное место в нашей семье, а значит потребуются успехи в возможности \"Альфа\"..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
 msgstr[1] ""
 
-# XX## game/core/09_opportunities.rpy:1024
+# XX## game/core/09_opportunities.rpy:1041
 msgid "Эта возможность не доступна при дружбе с Эриком..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] ""
