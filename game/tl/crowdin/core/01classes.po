@@ -1,54 +1,54 @@
-﻿# TODO: Translation updated at 2022-04-25 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:684
+﻿# TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:686
 msgid  "Ужасное"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Ужасное"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Очень плохое"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Очень плохое"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Плохое"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Плохое"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Не очень"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Не очень"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Нейтральное"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Нейтральное"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Неплохое"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Неплохое"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Хорошее"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Хорошее"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Очень хорошее"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Очень хорошее"
 
-# XX## game/core/01classes.rpy:684
+# XX## game/core/01classes.rpy:686
 msgid  "Прекрасное"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Прекрасное"
 
-# XX## game/core/01classes.rpy:1080
+# XX## game/core/01classes.rpy:1082
 msgid  "Приобретен пакет рекламы"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Приобретен пакет рекламы"
 
-# XX## game/core/01classes.rpy:1336
+# XX## game/core/01classes.rpy:1338
 msgid  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"

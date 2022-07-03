@@ -1,76 +1,72 @@
-﻿# TODO: Translation updated at 2022-04-25 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
+﻿# TODO: Translation updated at 2022-06-17 HH:HH# game/core/core.rpy:560 ## translate crowdin AfterWaiting_583fe90e:
 msgid "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
 msgstr "[Max_00] {m}Я слишком устал. Надо бы вздремнуть...{/m}"
 
-# game/core/core.rpy:781 ## translate crowdin night_of_fun_35c4c591:
+# game/core/core.rpy:784 ## translate crowdin night_of_fun_35c4c591:
 msgid "[Max_19] {m}Теперь можно спокойно спать и ничего больше...{/m}"
 msgstr "[Max_19] {m}Теперь можно спокойно спать и ничего больше...{/m}"
 
-# game/core/core.rpy:818 ## translate crowdin cam_after_waiting_bfada06d:
+# game/core/core.rpy:821 ## translate crowdin cam_after_waiting_bfada06d:
 msgid "[Max_09] {m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m} [nointeract]"
 msgstr "[Max_09] {m}Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m} [nointeract]"
 
-# game/core/core.rpy:825 ## translate crowdin cam_after_waiting_44f62349:
+# game/core/core.rpy:828 ## translate crowdin cam_after_waiting_44f62349:
 msgid "[Max_09] {m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
 msgstr "[Max_09] {m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
 
-# game/core/core.rpy:830 ## translate crowdin cam_after_waiting_935d8f7d:
+# game/core/core.rpy:833 ## translate crowdin cam_after_waiting_935d8f7d:
 msgid "[Max_09] {m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m} [nointeract]"
 msgstr "[Max_09] {m}Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...{/m} [nointeract]"
 
-# game/core/core.rpy:842 ## translate crowdin cam_after_waiting_af0a2821:
+# game/core/core.rpy:845 ## translate crowdin cam_after_waiting_af0a2821:
 msgid "[Max_09] {m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m} [nointeract]"
 msgstr "[Max_09] {m}Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...{/m} [nointeract]"
 
-# game/core/core.rpy:849 ## translate crowdin cam_after_waiting_44f62349_1:
+# game/core/core.rpy:852 ## translate crowdin cam_after_waiting_44f62349_1:
 msgid "[Max_09] {m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
 msgstr "[Max_09] {m}Лиза сейчас в комнате... И на веранде место занято! Лучше не рисковать и подождать с просмотром камер.{/m}"
 
-# game/core/core.rpy:854 ## translate crowdin cam_after_waiting_24007a63:
+# game/core/core.rpy:857 ## translate crowdin cam_after_waiting_24007a63:
 msgid "[Max_09] {m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m} [nointeract]"
 msgstr "[Max_09] {m}Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...{/m} [nointeract]"
 
-# game/core/core.rpy:906 ## translate crowdin cam_after_waiting_b8378225:
+# game/core/core.rpy:910 ## translate crowdin cam_after_waiting_b8378225:
 msgid "[Max_00] {m}Сейчас здесь ничего не происходит.{/m}"
 msgstr "[Max_00] {m}Сейчас здесь ничего не происходит.{/m}"
 
-# game/core/core.rpy:941 ## translate crowdin after_buying_27b33f97:
+# game/core/core.rpy:945 ## translate crowdin after_buying_27b33f97:
 msgid "[Max_01] {m}Так, фотокамеру я заказал, осталось дождаться доставки...{/m}"
 msgstr "[Max_01] {m}Так, фотокамеру я заказал, осталось дождаться доставки...{/m}"
 
-# game/core/core.rpy:942 ## translate crowdin after_buying_46e6b997:
+# game/core/core.rpy:946 ## translate crowdin after_buying_46e6b997:
 msgid "[Max_07] {m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
 msgstr "[Max_07] {m}Интересно, а в чём тётя Кира будет фотографироваться из одежды? Ей это нужно для порно-портфолио... Так может мне стоит прикупить что-нибудь сексуальное для неё?! Например, более откровенную ночнушку! Это пойдёт мне только в плюс...{/m}"
 
-# game/core/core.rpy:1003 ## translate crowdin after_load_84f87582:
+# game/core/core.rpy:1007 ## translate crowdin after_load_84f87582:
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
 msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
-
-# game/core/core.rpy:1009 ## translate crowdin after_load_e53fbeb7:
-msgid "_ver [_version], conf.ver [config.version]"
-msgstr "_ver [_version], conf.ver [config.version]"
 
 # XXtranslate crowdin strings:XX# XX## game/core/core.rpy:411
 msgid  "В интернет-магазине доступен новый товар."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "В интернет-магазине доступен новый товар."
 
-# XX## game/core/core.rpy:817
+# XX## game/core/core.rpy:820
 msgid  "{i}идти на веранду{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}идти на веранду{/i}"
 
-# XX## game/core/core.rpy:817
+# XX## game/core/core.rpy:820
 msgid  "{i}не сейчас{/i}"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "{i}не сейчас{/i}"
 
-# XX## game/core/core.rpy:1108
+# XX## game/core/core.rpy:1123
 msgid  "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\nОна сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\nПравда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\nОна сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\nПравда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
 
-# XX## game/core/core.rpy:1108
+# XX## game/core/core.rpy:1123
 msgid  "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\nХоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\nИ теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0]  "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\nХоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\nИ теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."

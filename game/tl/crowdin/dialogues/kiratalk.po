@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-25 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
+﻿# TODO: Translation updated at 2022-06-17 HH:HH# game/dialogues/kiratalk.rpy:21 ## translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01] Не против компании?"
 msgstr "[Max_01] Не против компании?"
 
