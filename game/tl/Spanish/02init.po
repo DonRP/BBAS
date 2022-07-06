@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-03 07:56\n"
+"PO-Revision-Date: 2022-07-06 20:20\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -135,8 +135,8 @@ msgstr[1] ""
 # XX## game/core/02init.rpy:40
 msgid "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{color=#FFBE00}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}\n"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/02init.rpy:41
 msgid "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
@@ -147,8 +147,8 @@ msgstr[1] ""
 # XX## game/core/02init.rpy:43
 msgid "{color=#00FF00}{i}Успех!{/i}{/color}\n"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{color=#00FF00}{i}Успех!{/i}{/color}\n"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/02init.rpy:44
 msgid "{color=#E59400}{i}Провал!{/i}{/color}\n"
@@ -567,8 +567,8 @@ msgstr[1] ""
 # XX## game/core/02init.rpy:143
 msgid "Чтобы на маме были только очки для сна!"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Чтобы на маме были только очки для сна!"
+msgstr[1] "Ignore tris. translate only: One"
 
 # XX## game/core/02init.rpy:143
 msgid "Вот деньги, чтобы ты не лез к Лизе..."
@@ -669,8 +669,8 @@ msgstr[1] ""
 # XX## game/core/02init.rpy:143
 msgid "Уже слышала новость, тётя Кира?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Уже слышала новость, тётя Кира?"
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/core/02init.rpy:143
 msgid "О школе..."
