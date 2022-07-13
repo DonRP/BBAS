@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-03 14:42\n"
+"PO-Revision-Date: 2022-07-13 09:57\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -3334,7 +3334,7 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/core/09_opportunities.rpy:4
 msgid "Надеюсь, у мамы не будет проблем на работе из-за того, что она разругалась с Эриком. Со временем это станет ясно, а пока нужно поговорить с остальными об Эрике..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Spero che la mamma non si metta nei guai al lavoro perché ha litigato con Eric. Questo diventerà chiaro col tempo, ma per ora dobbiamo parlare con gli altri di Eric..."
 msgstr[1] ""
 
 # XX## game/core/09_opportunities.rpy:4
@@ -3386,7 +3386,7 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/core/09_opportunities.rpy:4
 msgid "Нужно присматривать за тем, что делает мама. Вдруг Эрик её в конец достанет и она начнёт искать утешение в чём-то... нехорошем..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
+msgstr[0] "Dobbiamo tenere d'occhio quello che fa la mamma. Forse Eric le darà sui nervi e lei inizierà a cercare conforto in qualcosa... male..."
 msgstr[1] ""
 
 # XX## game/core/09_opportunities.rpy:4
