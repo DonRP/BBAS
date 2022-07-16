@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-14 10:17\n"
+"PO-Revision-Date: 2022-07-16 10:19\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
@@ -1890,7 +1890,7 @@ msgstr[1] "Ignore this. translate only: One"
 msgid "Проведём сегодня вечер с \"образовательной\" пользой?"
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "Facciamo qualcosa di educativo stasera?"
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
 # XX## game/dialogues/anntalk.rpy:204
 msgid "Не буду тебе мешать..."
