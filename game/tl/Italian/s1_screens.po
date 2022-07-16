@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-14 10:17\n"
+"PO-Revision-Date: 2022-07-16 10:19\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/scripts_s1/s1_screens.rpy:17
 msgid "ПРЕДУПРЕЖДЕНИЕ!"
@@ -118,5 +118,5 @@ msgstr[1] "Ignore this. translate only: One"
 msgid "ЧЕРЕЗ НЕСКОЛЬКО МИНУТ..."
 msgid_plural "Ignore this. translate only: One"
 msgstr[0] "TRA POCHI MINUTI..."
-msgstr[1] ""
+msgstr[1] "Ignore this. translate only: One"
 
