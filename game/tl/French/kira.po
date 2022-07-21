@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-03 07:56\n"
+"PO-Revision-Date: 2022-07-21 13:25\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# game/events/kira.rpy:26 ## translate crowdin kira_bath_a64599ce:
 msgid "[Max_01] {m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m} [nointeract]"
@@ -38,7 +38,7 @@ msgstr "[Max_09] {m}la prochaine fois, il vaut mieux regarder de l'échelle...{/
 
 # game/events/kira.rpy:43 ## translate crowdin kira_bath_6147c55c:
 msgid "[Max_09] Сегодня лучше отдохнуть. А с тётей Кирой можно поговорить о произошедшем и утром."
-msgstr ""
+msgstr "[Max_09] C'est mieux de se reposer aujourd'hui. Tu peux parler à tante Kira de ce qui s'est passé demain matin."
 
 # game/events/kira.rpy:49 ## translate crowdin kira_bath_22e7552b:
 msgid "[Max_09] {m}Пусть лучше тётя Кира отдохнёт, а вернее отмоется от Эрика... А то как-то не очень хочется что-то делать в ванне сразу после него!{/m}"
@@ -1010,7 +1010,7 @@ msgstr "[Max_05] {m}Merde, de la vue de ces jambes écartées et minces en short
 
 # game/events/kira.rpy:990 ## translate crowdin kira_night_tv_6147c55c:
 msgid "[Max_09] Сегодня лучше отдохнуть. А с тётей Кирой можно поговорить о произошедшем и утром."
-msgstr ""
+msgstr "[Max_09] C'est mieux de se reposer aujourd'hui. Tu peux parler à tante Kira de ce qui s'est passé demain matin."
 
 # game/events/kira.rpy:996 ## translate crowdin kira_night_tv_8077fc73:
 msgid "[Max_01] {m}Тётя Кира ещё не легла спать... смотрит сериалы. Может, стоит задержаться?{/m} [nointeract]"
