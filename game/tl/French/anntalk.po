@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-03 07:56\n"
+"PO-Revision-Date: 2022-07-21 13:26\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# game/dialogues/anntalk.rpy:22 ## translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
@@ -490,23 +490,23 @@ msgstr "[Ann_13] Wow, un peu! D'accord, imaginons qu'il n'y ait rien. Va quelque
 
 # game/dialogues/anntalk.rpy:656 ## translate crowdin ann_tv_continuation_massage_massage_221bc697:
 msgid "[Ann_14] [failed!t]Да что ты говоришь, Макс! Почему же ты тогда возбуждён так сильно?! Ни стыда, ни совести у тебя нет!"
-msgstr ""
+msgstr "[Ann_14] [failed!t]De quoi tu parles, Max ! Pourquoi es-tu si excité alors ? ! Vous n'avez aucune honte et aucune conscience !"
 
 # game/dialogues/anntalk.rpy:657 ## translate crowdin ann_tv_continuation_massage_massage_9cb21df5:
 msgid "[Max_07] Ну, да... Сползло немного твоё полотенце, но не критично. Мне это не мешает. Тебе же понравился массаж?"
-msgstr ""
+msgstr "[Max_07] Eh bien, oui... Votre serviette a glissé un peu, mais ce n'est pas critique. Ça ne me dérange pas. Tu as aimé le massage, n'est-ce pas ?"
 
 # game/dialogues/anntalk.rpy:658 ## translate crowdin ann_tv_continuation_massage_massage_8695f276:
 msgid "[Ann_13] Понравился, но вот то, что у меня за спиной происходит помимо массажа... Это вот мне совсем не нравится."
-msgstr ""
+msgstr "[Ann_13] J'aime bien, mais ce qui se passe dans mon dos, à part le massage... Je n'aime pas ça du tout."
 
 # game/dialogues/anntalk.rpy:659 ## translate crowdin ann_tv_continuation_massage_massage_403df953:
 msgid "[Max_03] Ну мам, ты же красивая! Уж извини, но воспринимай, как комплимент."
-msgstr ""
+msgstr "[Max_03] Allez, maman, tu es belle ! Désolé, mais prenez-le comme un compliment."
 
 # game/dialogues/anntalk.rpy:660 ## translate crowdin ann_tv_continuation_massage_massage_157b0aa7:
 msgid "[Ann_12] Да уж, большой комплимент! Так, ладно, представим, что ничего не было. Иди куда-нибудь, развейся... [nointeract]"
-msgstr ""
+msgstr "[Ann_12] Oui, c'est un grand compliment ! Très bien, faisons comme si rien ne s'était passé. Sortez, passez un bon moment... [nointeract]"
 
 # game/dialogues/anntalk.rpy:665 ## translate crowdin ann_tv_continuation_massage_massage_21542021:
 msgid "[Ann_15] Ничего себе! Ты почему сидишь и молчишь об этом, а, Макс?! Я же предупредила, что голая под ним..."
@@ -1110,11 +1110,11 @@ msgstr "[Max_10] comme tu veux, maman. Jusqu'à la prochaine fois... [nointeract
 
 # game/dialogues/anntalk.rpy:1139 ## translate crowdin ann_yoga_with_maxr_6d31e3c0:
 msgid "[Ann_12] Ох, пора бы тебе уже девушку себе найти и с ней время проводить. Я, конечно, не против твоей помощи, но я всё-таки твоя мама, а потому никак не смогу помочь тебе... ну, снять напряжение."
-msgstr ""
+msgstr "[Ann_12] Oh, il est temps que tu aies une petite amie et que tu passes du temps avec elle. Je veux bien que tu m'aides, mais je suis toujours ta mère, alors je ne peux pas t'aider... tu sais, prendre le large."
 
 # game/dialogues/anntalk.rpy:1140 ## translate crowdin ann_yoga_with_maxr_74c82a5d:
 msgid "[Max_07] Может и найду. А пока, до следующего раза... [nointeract]"
-msgstr ""
+msgstr "[Max_07] Peut-être que je le ferai. En attendant, jusqu'à la prochaine fois... [nointeract]"
 
 # game/dialogues/anntalk.rpy:1143 ## translate crowdin ann_yoga_with_maxr_f2c16400:
 msgid "[Max_02] Под моим присмотром у тебя всегда будет великолепная фигура!"
@@ -1889,8 +1889,8 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/dialogues/anntalk.rpy:178
 msgid "Проведём сегодня вечер с \"образовательной\" пользой?"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "On fait quelque chose d'éducatif ce soir ?"
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/dialogues/anntalk.rpy:204
 msgid "Не буду тебе мешать..."
