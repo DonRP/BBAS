@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-03 07:57\n"
+"PO-Revision-Date: 2022-07-21 13:25\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# game/events/ann_cam.rpy:7 ## translate crowdin cam0_ann_sleep_e0ca90ce:
 msgid "[Max_09] Хм... Мамы нет. Где же она?"
-msgstr ""
+msgstr "[Max_09] Hum... Maman n'est pas là. Où est-elle ?"
 
 # game/events/ann_cam.rpy:15 ## translate crowdin cam0_ann_sleep_97963875:
 msgid "[Max_01] {m}Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!{/m}"
