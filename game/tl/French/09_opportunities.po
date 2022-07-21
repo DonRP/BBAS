@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-03 07:56\n"
+"PO-Revision-Date: 2022-07-21 13:25\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -3330,8 +3330,8 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/core/09_opportunities.rpy:4
 msgid "Надеюсь, у мамы не будет проблем на работе из-за того, что она разругалась с Эриком. Со временем это станет ясно, а пока нужно поговорить с остальными об Эрике..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "J'espère que ma mère n'aura pas de problèmes au travail parce qu'elle s'est disputée avec Eric. Cela deviendra clair avec le temps, mais en attendant, nous devons parler aux autres d'Eric..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Чтобы не попадать на мамины переодевания, заходя к ней в комнату, лучше заглядывать во второй половине часа перед её работой..."
@@ -3382,56 +3382,56 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/core/09_opportunities.rpy:4
 msgid "Нужно присматривать за тем, что делает мама. Вдруг Эрик её в конец достанет и она начнёт искать утешение в чём-то... нехорошем..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nous devons garder un œil sur ce que fait maman. Peut-être qu'Eric lui tapera sur les nerfs et qu'elle cherchera du réconfort dans quelque chose... mauvais..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Вот это новость! Мама начала заливать своё горе алкоголем. Конечно, не в огромных и постоянных масштабах, но её и от малого количества неплохо сносит. Уже с одного только бокальчика вина мне пришлось помогать ей подняться в комнату. Хоть это всё до добра и не доведёт, но я немного воспользовался маминым уязвимым положением... Помог ей переодеться... Остался с ней... Так, на всякий случай. Каково же было моё удивление, когда она начала со мной обниматься и заигрывать! Не знаю о ком она думала в тот момент, но уж точно не обо мне. Вряд ли мама как-то это прояснит, но попытаться можно. В крайнем случае, всегда можно спросить тётю Киру."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "C'est la nouvelle ! Maman a commencé à noyer son chagrin dans l'alcool. Pas à une échelle énorme et constante, bien sûr, mais une petite quantité était suffisante pour l'époustoufler. Avec un seul verre de vin, j'ai dû l'aider à monter dans sa chambre. Ça ne servira à rien, mais j'ai profité de la vulnérabilité de ma mère... Je l'ai aidée à changer... Je suis resté avec elle... Juste au cas où. Quelle ne fut pas ma surprise quand elle a commencé à me serrer dans ses bras et à flirter avec moi ! Je ne sais pas à qui elle pensait à ce moment-là, mais certainement pas à moi. Il est peu probable que ma mère le fasse comprendre, mais ça vaut la peine d'essayer. En cas de besoin, tu peux toujours demander à tante Kira."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Сперва нужно поговорить с мамой о том, что это такое ночью она вытворяла..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "D'abord, tu dois parler à ta mère de ce qu'elle faisait la nuit..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Неплохо бы поинтересоваться у тёти Киры, пока она загорает, о том, как на маму действует алкоголь..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "C'est une bonne idée de demander à tante Kira, pendant qu'elle prend un bain de soleil, quels sont les effets de l'alcool sur maman..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Теперь, если мама снова будет прикладываться к выпивке, то я знаю, как ей стоит подыграть, чтобы нам обоим было хорошо..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Maintenant, si maman va prendre un autre verre, je sais comment jouer le jeu pour qu'on se sente bien toutes les deux..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Похоже, Кира была права! Мама и правда в выпившем состоянии впадает в какие-то фантазии. Видимо, о каком-то идеальном мужчине... А что, я вполне могу эти фантазии поддержать! Правда, это будет ох как непросто, ведь у меня ухх какая мама! Она ещё не успела заглотить мой член, а я уже перевозбудился, как-будто в первый раз. У меня это действительно первый раз с мамой. Ох, что же будет, если смогу продержаться дольше..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "On dirait que Kira avait raison ! Maman est tombée dans une sorte de fantasme quand elle était ivre. Apparemment à propos d'un homme parfait... Eh bien, je peux soutenir ce fantasme ! Mais ça ne va pas être facile, parce que j'ai une telle maman ! Elle n'a même pas encore avalé ma bite, et je suis déjà aussi excité que si c'était ma première fois. C'est vraiment la première fois que je suis avec ma mère. Oh, ce qui se passe si je peux tenir plus longtemps..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Мне бы надо постараться не перевозбуждаться так сильно от маминых ласк, чтобы получить больше..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Je devrais essayer de ne pas être surexcité par les caresses de ma mère au point de..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Как же офигенно поддерживать мамины фантазии, когда она выпьет! Сосёт она прямо как мне хочется, ммм... А играться с её киской при этом одно удовольствие! Я уже не могу, так хочу её трахнуть... И ведь могу... Наверно... Но сперва лучше привыкнуть к тому, чем мы занимаемся. А делаем мы это не так уж и часто. Нужно продолжать ей подыгрывать, а уж потом я ей такой трах-бабах устрою..."
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Quelle belle façon de soutenir les fantasmes de ma mère quand elle est ivre ! Elle suce juste comme je veux qu'elle le fasse, mmm... Et jouer avec sa chatte est un plaisir ! Je n'en peux plus, j'ai tellement envie de la baiser... Et je peux... Je suppose... Mais d'abord, je dois m'habituer à ce que nous faisons. Et nous ne le faisons pas si souvent. Je dois continuer à jouer le jeu avec elle et ensuite je la baiserai si fort..."
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:4
 msgid "Нужно хоть немного привыкнуть к минету от мамы, чтобы не облажаться с ней в большем. Успешно выдержано минетов от мамы: [ann.flags.held_out] из 3"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Il faut au moins un peu de temps pour s'habituer à une pipe de sa mère afin de ne pas faire plus de conneries avec elle. Avoir réussi à supporter une fellation de maman : [ann.flags.held_out] sur 3"
+msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/core/09_opportunities.rpy:1003
 msgid "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
