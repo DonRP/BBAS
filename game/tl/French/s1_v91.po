@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-21 13:26\n"
+"PO-Revision-Date: 2022-07-22 14:00\n"
 
 # TODO: Translation updated at 2022-06-17 HH:HH# game/scripts_s1/s1_v91.rpy:43 ## translate crowdin s1_cheat_skip_2bea6bd9:
 msgid "Есть важные события. Пропуск завершить не удалось."
@@ -694,7 +694,7 @@ msgstr "[Max_07] Pourquoi ? Je pense qu'elle est le genre de femme qui ne tourne
 
 # game/scripts_s1/s1_v91.rpy:592 ## translate crowdin s1_about_intimate_lessons_fc2a769a:
 msgid "[Ann_15] Нет, Макс, я не отворачивалась от тебя! Просто... Я считаю, что мама не должна учить {b}ТАКОМУ{/b} своего сына."
-msgstr "[Ann_15] Non, Max, je ne t'ai pas tourné le dos ! C'est juste que... Je ne pense pas qu'une mère doive enseigner {b}CELA à son fils."
+msgstr "[Ann_15] Non, Max, je ne t'ai pas tourné le dos ! C'est juste que... Je ne pense pas qu'une mère doive enseigner {b}CELA{/b} à son fils."
 
 # game/scripts_s1/s1_v91.rpy:593 ## translate crowdin s1_about_intimate_lessons_b87e3e4e:
 msgid "[Max_09] А смотреть, как ты занимаешься этим с Эриком - это должное? Или тебе нравилось, что я на вас смотрел?"
@@ -982,7 +982,7 @@ msgstr "[Max_04] Pas de problème, tante Kira."
 
 # game/scripts_s1/s1_v91.rpy:757 ## translate crowdin s1_bait_for_ann_7e99f327:
 msgid "[Kira_06] Ничего, если я включу что-нибудь \"горяченькое\"? Или это будет мешать?"
-msgstr "[Kira_06] Est-ce que ça va si j'allume quelque chose de \"chaud\" ? Ou est-ce qu'elle se mettrait en travers du chemin ?"
+msgstr "[Kira_06] Est-ce que ça va si j'allume quelque chose de \"chaud'? Ou est-ce qu'elle se mettrait en travers du chemin ?"
 
 # game/scripts_s1/s1_v91.rpy:758 ## translate crowdin s1_bait_for_ann_0b28652a:
 msgid "[Max_02] Обязательно включай! Это как раз таки будет нам необходимо для того, чтобы задуманная мной постановка сработала."
@@ -1346,7 +1346,7 @@ msgstr "[Ann_03] Ouais... C'est ça, c'est ça... Ohhh... Vous êtes bon. Contin
 
 # game/scripts_s1/s1_v91.rpy:933 ## translate crowdin s1_ann_intimate_lesson_02_b10b45b3:
 msgid "[Max_05] {m}Какое блаженство играть с маминой грудью! У неё невероятно шикарные сиськи! Такие большие и аппетитные, а сосочки твёрденькие... Ласкал бы без отрыва. Ммм...{/m}"
-msgstr "[Max_05] {m}Quel bonheur de jouer avec les seins de ma mère ! Ses seins sont incroyablement beaux ! Si gros et délicieux, et ses tétons si durs... J'aimerais les caresser. Mmm..."
+msgstr "[Max_05] {m}Quel bonheur de jouer avec les seins de ma mère ! Ses seins sont incroyablement beaux ! Si gros et délicieux, et ses tétons si durs... J'aimerais les caresser. Mmm...{/m}"
 
 # game/scripts_s1/s1_v91.rpy:934 ## translate crowdin s1_ann_intimate_lesson_02_de6b87b3:
 msgid "[Ann_14] Ухх... А руками уже можно работать более властно... По-хозяйски, так сказать. Ммм... Д-а-а! Ой, что же я такое говорю..."
@@ -1403,7 +1403,7 @@ msgstr[1] "Ignore this. translate only: One"
 # XX## game/scripts_s1/s1_v91.rpy:319
 msgid "{i}дремать{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}snooze{/i}"
+msgstr[0] "{i}sieste{/i}"
 msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/scripts_s1/s1_v91.rpy:331
@@ -1421,7 +1421,7 @@ msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 # XX## game/scripts_s1/s1_v91.rpy:344
 msgid "{i}целовать маму{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}embrasse ma mère{/i}"
+msgstr[0] "{i}embrasser maman {/i}"
 msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/scripts_s1/s1_v91.rpy:370
@@ -1433,13 +1433,13 @@ msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 # XX## game/scripts_s1/s1_v91.rpy:420
 msgid "{i}ласкать маму языком{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}caresser ma mère avec sa langue{/i}"
+msgstr[0] "{i}caresser ma mère avec la langue{/i}"
 msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/scripts_s1/s1_v91.rpy:440
 msgid "{i}проникнуть пальцами в её киску{/i}"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "{i}pénétrer sa chatte avec ses doigts."
+msgstr[0] "{i}pénétrer sa chatte avec ses doigts.{/i}"
 msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/scripts_s1/s1_v91.rpy:448
@@ -1451,7 +1451,7 @@ msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 # XX## game/scripts_s1/s1_v91.rpy:448
 msgid "другие позы"
 msgid_plural "Ignore this. translate only: One"
-msgstr[0] "autres postes"
+msgstr[0] "autres poses"
 msgstr[1] "Ignorez ceci. Traduisez seulement : Un"
 
 # XX## game/scripts_s1/s1_v91.rpy:454
