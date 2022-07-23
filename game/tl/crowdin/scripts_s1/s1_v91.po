@@ -1832,7 +1832,9 @@ msgstr "[Max_07] Это я, Макс. Можно войти?"
 
 # game/scripts_s1/s1_v91.rpy:1421 #-#-# translate crowdin s1_ann_rejection_f1089d36:
 msgid "[Ann] {b}Анна:{/b} Никаких больше уроков. Я ведь уже сказала! Не мешай... [nointeract]"
-msgstr "[Ann] {b}Анна:{/b} Никаких больше уроков. Я ведь уже сказала! Не мешай... [nointeract]" #|#|# #§translate crowdin strings: #|#|# # game/scripts_s1/s1_v91.rpy:178
+msgstr "[Ann] {b}Анна:{/b} Никаких больше уроков. Я ведь уже сказала! Не мешай... [nointeract]"
+
+#§translate crowdin strings: #|#|# # game/scripts_s1/s1_v91.rpy:178
 msgid "{i}помочь маме добраться до кровати{/i}"
 msgstr "{i}помочь маме добраться до кровати{/i}"
 
