@@ -67,20 +67,16 @@ def replacetext(search_text, replace_text, pathFile):
     return True
 
 
-def replaceDictionary(pathFile, dict={}, reverse=False):
+def replaceDictionary(pathFile, dict={}):
     newpathFile = fileRename(pathFile, extension=".po")
     print(pathFile)
-    if(reverse):
-        for item in reversed(list(dict.items())):
-            replacetext(pathFile=newpathFile,
-                        search_text=item[1], replace_text=item[0])
-    else:
-        for search_text in dict.keys():
-            replacetext(pathFile=newpathFile, search_text=search_text,
-                        replace_text=dict[search_text])
+    for search_text in dict.keys():
+        replacetext(pathFile=newpathFile, search_text=search_text,
+                    replace_text=dict[search_text])
+    return
 
 
-def getListFiles(extension=".po"):
+def getListFiles(extension):
     # Get the list of all files and directories
     path = "game/tl/"
     dir_list = glob(path + "/**/*"+extension, recursive=True)
@@ -92,12 +88,7 @@ def rpytopo():
         replaceDictionary(path, dict=dict)
 
 
-def potorpy():
-    for path in getListFiles():
-        replaceDictionary(path, dict=dict, reverse=True)
-
-
-def fileRename(pathFile, extension=".rpy"):
+def fileRename(pathFile, extension):
     pre, ext = os.path.splitext(pathFile)
     shutil.copyfile(pathFile, pre + extension)
     return pre + extension
