@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/alice_cam.rpy:25 #-#-# translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
@@ -385,25 +385,25 @@ msgid "[Max_08] {m}Эрик сегодня в комнате Алисы. Пох�
 msgstr "[Max_08] {m}Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog... Ma davvero, solo per guardare Alice in mutande, lo so...{/m}"
 
 msgid "{i}Конечно{/i}"
-msgstr ""
+msgstr "{i}Certo{/i}"
 
 # game/events/alice_cam.rpy:74
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы{/i}"
-msgstr ""
+msgstr "{i}Prendi la macchina fotografica e vai alla finestra di Alice{/i}"
 
 # game/events/alice_cam.rpy:74
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgstr ""
+msgstr "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
 
 # game/events/alice_cam.rpy:88
 msgid "{i}Взять фотоаппарат и пойти на балкон{/i}"
-msgstr ""
+msgstr "{i}Prendi la macchina fotografica e vai al balcone{/i}"
 
 # game/events/alice_cam.rpy:332
 msgid "{i}продолжать смотреть{/i}"
-msgstr ""
+msgstr "{i}continua a guardare{/i}"
 
 # game/events/alice_cam.rpy:332
 msgid "{i}достаточно{/i}"
-msgstr ""
+msgstr "{i}abbastanza{/i}"
 
