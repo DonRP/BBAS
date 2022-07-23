@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/kira_cam.rpy:7 #-#-# translate crowdin cam0_kira_sleep_night_07884053:
 msgid "[Max_01] {m}Моя очаровательная тётя Кира спит...{/m}"
@@ -233,5 +233,5 @@ msgid "[Max_09] {m}Через эту камеру никого не видно..
 msgstr "[Max_09] {m}Non si può vedere nessuno attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
 msgid "{i}встретить их{/i}"
-msgstr ""
+msgstr "{i}li incontriamo{/i}"
 
