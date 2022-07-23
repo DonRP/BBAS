@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/dialogues/christina.po\n"
-# "X-french-File-ID: 3458\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/christina.rpy:7
 translate french christina_first_talk_a072d515:
@@ -194,14 +180,10 @@ translate french christina_first_talk_204a6521_1:
     # Max_01 "Я тоже, Кристина! Пока."
     Max_01 "Moi aussi, Christine ! Au revoir."
 
-translate french strings:
-
-    # game/dialogues/christina.rpy:25
     old "Хорошего тебе дня!"
     new "Bonne journée!"
 
     # game/dialogues/christina.rpy:25
     old "А чем вечером будешь заниматься? Давай погуляем!?"
     new "Que vas-tu faire ce soir? Allons nous nous promener !?"
-#--- "Ignore this. translate only: One"
 

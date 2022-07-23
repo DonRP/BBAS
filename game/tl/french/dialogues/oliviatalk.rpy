@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/dialogues/oliviatalk.po\n"
-# "X-french-File-ID: 3468\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/oliviatalk.rpy:19
 translate french OliviaTalkStart_26661b27:
@@ -1490,9 +1476,6 @@ translate french olivia_give_sunscreen_0860fa68:
     # Max_01 "Тогда, до следующего раза, девчонки." nointeract
     Max_01 "alors, jusqu'à la prochaine fois, les filles." nointeract
 
-translate french strings:
-
-    # game/dialogues/oliviatalk.rpy:11
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Bien que, non... En fait, j'ai des choses à faire..."
 
@@ -1543,5 +1526,4 @@ translate french strings:
     # game/dialogues/oliviatalk.rpy:645
     old "{i}делать массаж Оливии{/i}"
     new "{i}faire un massage à Olivia {/i}"
-#--- "Ignore this. translate only: One"
 

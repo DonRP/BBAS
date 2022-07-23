@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/dialogues/erictalk.po\n"
-# "X-french-File-ID: 3462\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/erictalk.rpy:17
 translate french EricTalkStart_210d83ab:
@@ -1553,7 +1539,7 @@ translate french Eric_with_dictaphone_5e5e5db9:
 # game/dialogues/erictalk.rpy:857
 translate french Eric_with_dictaphone_fde14d10:
 
-    # {color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+    # "{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
     "{color=[orange]}( Puis vint le dîner quand tout fut décidé...) {/couleur}"
 
 # game/dialogues/erictalk.rpy:861
@@ -2240,9 +2226,6 @@ translate french Eric_ask_no_stockings_6fbaeb06:
     # Max_01 "Спасибо!" nointeract
     Max_01 "Merci!" nointeract
 
-translate french strings:
-
-    # game/dialogues/erictalk.rpy:11
     old "{i}В другой раз...{/i}"
     new "{i}Une autre fois...{/i}"
 
@@ -2345,5 +2328,4 @@ translate french strings:
     # game/dialogues/erictalk.rpy:909
     old "{i}уйти мыть посуду{/i}"
     new "{i}aller faire la vaisselle {/i}"
-#--- "Ignore this. translate only: One"
 

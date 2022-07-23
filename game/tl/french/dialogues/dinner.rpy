@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/dialogues/dinner.po\n"
-# "X-french-File-ID: 3460\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/dinner.rpy:62
 translate french typical_dinner_abe1c298:
@@ -1892,9 +1878,6 @@ translate french dinner_lace_lingerie_e0b844ce:
     # Max_01 "Пока, мам..."
     Max_01 "Au revoir, maman..."
 
-translate french strings:
-
-    # game/dialogues/dinner.rpy:75
     old "Как скажешь, мам..."
     new "Comme tu veux, maman..."
 
@@ -2237,5 +2220,4 @@ translate french strings:
     # game/dialogues/dinner.rpy:672
     old "Может быть, наоборот?"
     new "Peut-être l'inverse?"
-#--- "Ignore this. translate only: One"
 

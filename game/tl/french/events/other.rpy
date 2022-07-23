@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/events/other.po\n"
-# "X-french-File-ID: 3498\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:56\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/other.rpy:11
 translate french shoping_034007bc:
@@ -1247,7 +1233,7 @@ translate french dictaphone_showdown_with_eric_8684e2a4:
 # game/events/other.rpy:676
 translate french dictaphone_showdown_with_eric_60fce6d7:
 
-    # {color=[orange]}(все слушают запись...){/color}"
+    # "{color=[orange]}(все слушают запись...){/color}"
     "{color =[orange]} (tout le monde écoute l'enregistrement...){/color}"
 
 # game/events/other.rpy:677
@@ -1550,9 +1536,6 @@ translate french left_cream_61f00467:
     # Max_08 "{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
     Max_08 "{m}Il reste peu de crème, la prochaine fois que ce ne sera peut-être pas suffisant, il est préférable d’en acheter à l’avance.{/m}"
 
-translate french strings:
-
-    # game/events/other.rpy:10
     old "Удачи"
     new "Bonne chance"
 
@@ -1747,5 +1730,4 @@ translate french strings:
     # game/events/other.rpy:854
     old "{i}выйти из игры{/i}"
     new "{i}quitter le jeu {/i}"
-#--- "Ignore this. translate only: One"
 

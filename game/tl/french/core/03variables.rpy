@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/core/03variables.po\n"
-# "X-french-File-ID: 3428\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 translate french strings:
 
@@ -343,5 +329,4 @@ translate french strings:
     # game/core/03variables.rpy:286
     old "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
     new "Olivia, une camarade de classe de ma sœur cadette Lisa. Fille mignonne. Et surtout avec une touche sexy... Elle se promène à l’école sans culotte, et à la maison elle est généralement nue, comme ses parents, ils sont naturistes. C’est cool que Lisa ait une petite amie aussi intéressante!"
-#--- "Ignore this. translate only: One"
 

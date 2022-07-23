@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/events/eric_cam.po\n"
-# "X-french-File-ID: 3482\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:55\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/eric_cam.rpy:13
 translate french cam0_eric_ann_sleep_b363be42:
@@ -380,10 +366,6 @@ translate french cam1_eric_kira_night_swim_45123771:
     # Max_10 "{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
     Max_10 "{m}Voici les caractéristiques de la! On dirait que Kira fait plaisir à Eric pour qu'il ne nous mette pas à ma mère...{/m}"
 
-translate french strings:
-
-    # game/events/eric_cam.rpy:436
     old "{i}идти к комнате Алисы{/i}"
     new "{i}aller à la chambre d'Alice {/i}"
-#--- "Ignore this. translate only: One"
 

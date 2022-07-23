@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/events/alice_cam.po\n"
-# "X-french-File-ID: 3474\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:55\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/alice_cam.rpy:25
 translate french cam0_alice_sleep_night_8807f690:
@@ -572,9 +558,6 @@ translate french cam0_blog_with_Eric_4181192f:
     # Max_08 "{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
     Max_08 "{m}Eric est dans la chambre d'Alice aujourd'hui. Il semble essayer de l'aider avec le blog... Mais en réalité, pour regarder Alice en sous-vêtements, je sais par expérience...{/m}"
 
-translate french strings:
-
-    # game/events/alice_cam.rpy:57
     old "{i}Конечно{/i}"
     new "{i}Bien sûr{/i}"
 
@@ -597,5 +580,4 @@ translate french strings:
     # game/events/alice_cam.rpy:332
     old "{i}достаточно{/i}"
     new "{i}assez!{/i}"
-#--- "Ignore this. translate only: One"
 

@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/dialogues/lisatalk.po\n"
-# "X-french-File-ID: 3466\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/lisatalk.rpy:26
 translate french LisaTalkStart_e91aa3e9:
@@ -1937,7 +1923,7 @@ translate french Lisa_HomeWork_2e4b11ca:
 # game/dialogues/lisatalk.rpy:1088
 translate french Lisa_HomeWork_641cf30e:
 
-    # {i}Спустя какое-то время...{/i}"
+    # "{i}Спустя какое-то время...{/i}"
     "{i}Après un certain temps...{/i}"
 
 # game/dialogues/lisatalk.rpy:1089
@@ -2567,7 +2553,7 @@ translate french Lisa_HomeWork_random_answer_b6886dad:
 # game/dialogues/lisatalk.rpy:1529
 translate french Lisa_HomeWork_new_self_641cf30e:
 
-    # {i}Спустя какое-то время...{/i}"
+    # "{i}Спустя какое-то время...{/i}"
     "{i}Après un certain temps...{/i}"
 
 # game/dialogues/lisatalk.rpy:1530
@@ -9749,7 +9735,7 @@ translate french lisa_about_stolen_phone_d80ba8b0:
 # game/dialogues/lisatalk.rpy:4622
 translate french lisa_about_stolen_phone_2a74b2cc:
 
-    # {color=[orange]}(Лиза слушает запись...){/color}"
+    # "{color=[orange]}(Лиза слушает запись...){/color}"
     "{color=[orange]}(Lisa écoute l'enregistrement...){/color}"
 
 # game/dialogues/lisatalk.rpy:4623
@@ -10604,9 +10590,6 @@ translate french lisa_read_with_Max_r_29e49474:
     # Max_01 "Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться." nointeract
     Max_01 "Content que tu aies aimé... La prochaine fois, je vais essayer de prendre mon temps." nointeract
 
-translate french strings:
-
-    # game/dialogues/lisatalk.rpy:78
     old "Кажется, я передумал..."
     new "Je crois que j'ai changé d'avis..."
 
@@ -11577,5 +11560,4 @@ translate french strings:
     # game/dialogues/lisatalk.rpy:5022
     old "{i}целовать её грудь{/i}"
     new "{i}embrasser ses seins {/i}"
-#--- "Ignore this. translate only: One"
 

@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/dialogues/punishment.po\n"
-# "X-french-File-ID: 3470\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/punishment.rpy:99
 translate french StartPunishment_42b2fac4:
@@ -848,9 +834,6 @@ translate french punishment_alice_3006a77e:
     # Ann_12 "Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
     Ann_12 "Alors, tu as compris la leçon ? Honteuse ? Bien. Il faut avoir honte. J'espère que ça ne se reproduira pas. Maintenant, habille-toi..."
 
-translate french strings:
-
-    # game/dialogues/punishment.rpy:207
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new "Il se trouve que j'étais à côté de la douche quand Lisa était là..."
 
@@ -973,5 +956,4 @@ translate french strings:
     # game/dialogues/punishment.rpy:691
     old "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
     new "Alors, Alice, tu as honte? Tu te tais? Penses à ce que tu fais pendant que je te punis devant tout le monde... Allonges-toi sur mes genoux!"
-#--- "Ignore this. translate only: One"
 

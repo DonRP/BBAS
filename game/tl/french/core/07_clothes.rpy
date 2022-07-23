@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/core/07_clothes.po\n"
-# "X-french-File-ID: 3434\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:53\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 translate french strings:
 
@@ -63,5 +49,4 @@ translate french strings:
     # game/core/07_clothes.rpy:472
     old "Влияние Макса недостаточно"
     new "Le niveau de persuasion de Max n'est pas suffisant"
-#--- "Ignore this. translate only: One"
 

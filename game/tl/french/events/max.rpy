@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/events/max.po\n"
-# "X-french-File-ID: 3492\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:55\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/max.rpy:4
 translate french StartDialog_e88dfdc8:
@@ -662,147 +648,144 @@ translate french need_money_7d60b08e:
     # Max_10 "{m}Сегодня уже четверг. Последний день когда я могу заказать подарки девчонкам, чтобы опередить Эрика.{/m}"
     Max_10 "{m}aujourd'hui est jeudi. Le dernier jour où je peux commander des cadeaux aux filles pour devancer Eric.{/m}"
 
-# game/events/max.rpy:991
+# game/events/max.rpy:992
 translate french need_money_d5c0c6aa:
 
     # Max_11 "{m}Нужно скорее купить платье Алисе и купальник для Лизы, а денег у меня хватает лишь на что-то одно...{/m}"
     Max_11 "{m}vous devez plutôt acheter une robe Alice et un maillot de bain pour Lisa, et je n'ai assez d'argent que pour quelque chose...{/m}"
 
-# game/events/max.rpy:993
+# game/events/max.rpy:994
 translate french need_money_b39c15a3:
 
     # Max_11 "{m}Нужно скорее купить платье Алисе и купальник для Лизы, а денег мне не хватит даже на что-то одно...{/m}"
     Max_11 "{m}vous devez plutôt acheter une robe Alice et un maillot de bain pour Lisa, et je n'ai même pas assez d'argent pour quelque chose...{/m}"
 
-# game/events/max.rpy:998
+# game/events/max.rpy:1000
 translate french need_money_adfa0cdd:
 
     # Max_11 "{m}Я уже купил платье Алисе, но на купальник для Лизы мне не хватит денег...{/m}"
     Max_11 "{m}j'ai déjà acheté une robe à Alice, mais je n'ai pas assez d'argent pour un maillot de bain pour Lisa...{/m}"
 
-# game/events/max.rpy:1003
+# game/events/max.rpy:1006
 translate french need_money_ae118bc4:
 
     # Max_11 "{m}Я уже купил купальник для Лизы, но на платье Алисе мне не хватит денег...{/m}"
     Max_11 "{m}j'ai déjà acheté un maillot de bain pour Lisa, mais je n'ai pas assez d'argent pour la robe d'Alice...{/m}"
 
-# game/events/max.rpy:1007
+# game/events/max.rpy:1011
 translate french need_money_aa38a4e7:
 
     # Max_08 "{m}Сайт у меня есть и уже приносит какую-то прибыль, но нужно время, чтобы раскрутить его.{/m}"
     Max_08 "{m}le Site que j'ai et apporte déjà un certain profit, mais il faut du temps pour le promouvoir.{/m}"
 
-# game/events/max.rpy:1009
+# game/events/max.rpy:1013
 translate french need_money_6eaa0c79:
 
     # Max_08 "{m}К сожалению, у меня нет источника доходов, все мои деньги я получаю только от мамы. Ну и от Алисы ещё могу...{/m}"
     Max_08 "{m}malheureusement, je n'ai pas de source de revenus, tout mon argent je ne reçois que de ma mère. Eh bien, je peux encore d'Alice...{/m}"
 
-# game/events/max.rpy:1010
+# game/events/max.rpy:1014
 translate french need_money_14f2a995:
 
     # Max_09 "{m}Нужно поискать какую-нибудь информацию в интернете, может есть возможность получить кредит.{/m}"
     Max_09 "{m}vous Devez rechercher des informations sur Internet, il peut y avoir une possibilité d'obtenir un prêt.{/m}"
 
-# game/events/max.rpy:1030
+# game/events/max.rpy:1034
 translate french cheat_money_46383d7e:
 
-    # На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
+    # "На данном этапе игры у Макса не может быть такой суммы. Взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
     "A ce stade du jeu, Max ne peut pas avoir ce montant. Le piratage peut entraîner des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités, ainsi que des erreurs critiques qui vous empêcheront de continuer à jouer au jeu."
 
-# game/events/max.rpy:1034
+# game/events/max.rpy:1038
 translate french cheat_money_strateg_16b9bde6:
 
-    # Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
+    # "Вы либо аккуратный взломщик, либо хороший стратег. В любом случае вы не нуждаетесь в дополнительных методах получения денег. Учтите, взлом игры может привести к непредсказуемым последствиям, в частности, к потере некоторых возможностей и функционала игры, а так же к возникновению критических ошибок, которые не позволят вам продолжить игру."
     "Vous êtes soit un hacker prudent, soit un bon stratège. Dans les deux cas, vous n'avez pas besoin de méthodes supplémentaires pour obtenir de l'argent. Sachez que le piratage peut avoir des conséquences imprévisibles, telles que la perte de certaines caractéristiques et fonctionnalités du jeu, ainsi que des erreurs critiques qui vous empêcheront de poursuivre le jeu."
 
-# game/events/max.rpy:1042
+# game/events/max.rpy:1046
 translate french about_credit_3ac552dc:
 
     # Max_00 "{m}Итак, поищем, где можно простому парню разжиться деньгами...{/m}"
     Max_00 "{m}donc, nous allons chercher où un gars simple peut obtenir de l'argent...{/m}"
 
-# game/events/max.rpy:1043
+# game/events/max.rpy:1047
 translate french about_credit_aa91eb63:
 
     # Max_09 "{m}Это не подходит... Здесь нужно иметь официальное трудоустройство на работе...{/m}"
     Max_09 "{m}Ce n'est pas approprié... Ici, vous devez avoir un emploi officiel au travail...{/m}"
 
-# game/events/max.rpy:1044
+# game/events/max.rpy:1048
 translate french about_credit_2eacd86e:
 
     # Max_07 "{m}Ага, а вот это может и подойти - краткосрочные займы начинающим интернет-предпринимателям. О, да, это про меня...{/m}"
     Max_07 "{m}oui, mais cela peut convenir-prêts à court terme pour les entrepreneurs Internet en herbe. Oh, oui, c'est à propos de moi...{/m}"
 
-# game/events/max.rpy:1045
+# game/events/max.rpy:1049
 translate french about_credit_90bb447c:
 
     # Max_01 "Бла, бла, бла... ... если у Вас есть работающий проект в интернете, мы предоставляем займы на раскрутку Вашего бизнеса..."
     Max_01 "Bla, bla, bla... ...si vous avez un projet Internet qui fonctionne, nous fournissons des prêts pour promouvoir votre entreprise..."
 
-# game/events/max.rpy:1047
+# game/events/max.rpy:1051
 translate french about_credit_73692d65:
 
     # Max_04 "{m}Подытожим условия: \n{b}В течение месяца нужно вернуть всю сумму займа + 10%% \nВ случае не погашения в срок, сумма долга утраивается каждые 30 дней, а с моего сайта будут ежедневно изымать половину прибыли. И занять ещё раз уже не получится...{/b} \n\nЛучше, конечно же, до такого не доводить.{/m}"
     Max_04 "{m}, pour conclure conditions: \n{b}Dans le délai d'un mois vous devez rembourser la totalité du montant du prêt + 10%% \nEn cas de non-remboursement dans les délais, le montant de la dette triples toutes les 30 jours, et avec mon site tous les jours de retirer la moitié des bénéfices. Et prendre une fois de plus ne fonctionnera pas...{/b} \n\nMieux, bien sûr, de ne pas apporter à cela.{/m}"
 
-# game/events/max.rpy:1048
+# game/events/max.rpy:1052
 translate french about_credit_5011fb20:
 
     # Max_05 "{m}Регистрируюсь... Указываю свои реквизиты... Свой сайт в качестве источника дохода... Готово!{/m}"
     Max_05 "{m}m'inscris... Je précise mes coordonnées... Votre site comme une source de revenus... C'est prêt!{/m}"
 
-# game/events/max.rpy:1049
+# game/events/max.rpy:1053
 translate french about_credit_ec914392:
 
     # Max_02 "{m}Теперь я могу взять кредит, если срочно понадобятся деньги. Главное вовремя его погасить, чтобы проблем не было...{/m}"
     Max_02 "{m}Maintenant, je peux prendre un prêt si vous avez un besoin urgent d'argent. L'essentiel est de le rembourser à temps pour qu'il n'y ait pas de problèmes...{/m}"
 
-# game/events/max.rpy:1052
+# game/events/max.rpy:1056
 translate french about_credit_dc6f567b:
 
     # Max_16 "{m}Вот чёрт, а у меня нет никакого проекта! Получается, что денег мне никто не даст.{/m}"
     Max_16 "{m}merde, je n'ai pas de projet! Il s'avère que personne ne me donnera de l'argent.{/m}"
 
-# game/events/max.rpy:1062
+# game/events/max.rpy:1067
 translate french getting_load_f43833f1:
 
     # Max_00 "{m}Сколько мне сейчас нужно занять?{/m}" nointeract
     Max_00 "{m}Combien dois-je emprunter maintenant?{/m}" nointeract
 
-# game/events/max.rpy:1079
+# game/events/max.rpy:1087
 translate french return_part_loan_67582e30:
 
     # Max_00 "{m}Сколько я верну сейчас?{/m}" nointeract
     Max_00 "{m}combien vais-je récupérer maintenant?{/m}" nointeract
 
-# game/events/max.rpy:1102
+# game/events/max.rpy:1112
 translate french bedtime_thoughts_a9917f30:
 
     # Max_07 "{m}Как же напакостить Эрику, чтобы он хотя бы на время перестал лезть к моим сёстрам... и Кире... да и к маме тоже... Хм... У меня была бы отличная возможность что-нибудь подмешать в его еду за ужином, если помочь Алисе накрыть на стол! Стоит посмотреть в интернет-магазине, можно ли что-то такое купить...{/m}"
     Max_07 "{m}Comment faire pour qu'Eric arrête d'embêter mes sœurs, au moins pour un moment... et Kira... et ma mère aussi... Hmmm... J'aurais une belle occasion de glisser quelque chose dans sa nourriture au dîner si j'aidais Alice à mettre la table ! Cela vaut la peine de regarder la boutique en ligne pour voir si je peux acheter quelque chose comme ça....{/m}"
 
-# game/events/max.rpy:1137
+# game/events/max.rpy:1147
 translate french SearchPhone_no_9a51253a:
 
     # Max_10 "{m}Здесь телефона Лизы нет.{/m}"
     Max_10 "{m}le téléphone de Lisa n'Est pas là.{/m}"
 
-# game/events/max.rpy:1145
+# game/events/max.rpy:1155
 translate french SearchPhone_yes_48a26421:
 
     # Max_07 "{m}А вот и телефон Лизы! Надеюсь, диктофон на нём есть, иначе я влип...{/m}"
     Max_07 "{m}voici le téléphone de Lisa! J'espère qu'il y a un enregistreur sur lui, sinon je suis coincé...{/m}"
 
-# game/events/max.rpy:1147
+# game/events/max.rpy:1157
 translate french SearchPhone_yes_075e9758:
 
     # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}" nointeract
     Max_09 "{m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m}" nointeract
 
-translate french strings:
-
-    # game/events/max.rpy:31
     old "{i}установить будильник{/i}"
     new "{i}mettre une alarme{/i}"
 
@@ -1014,36 +997,35 @@ translate french strings:
     old "{i}не подставлять Алису{/i}"
     new "{i}ne pas piéger Alice{/i}"
 
-    # game/events/max.rpy:1061
+    # game/events/max.rpy:1066
     old "$500"
     new "500 $"
 
-    # game/events/max.rpy:1061
+    # game/events/max.rpy:1066
     old "$1000"
     new "1000 $"
 
-    # game/events/max.rpy:1061
+    # game/events/max.rpy:1066
     old "$2000"
     new "2000 $"
 
-    # game/events/max.rpy:1061
+    # game/events/max.rpy:1066
     old "$5000"
     new "5000 $"
 
-    # game/events/max.rpy:1078
+    # game/events/max.rpy:1086
     old "$50"
     new "50 $"
 
-    # game/events/max.rpy:1078
+    # game/events/max.rpy:1086
     old "$100"
     new "100 $"
 
-    # game/events/max.rpy:1078
+    # game/events/max.rpy:1086
     old "$200"
     new "200 $"
 
-    # game/events/max.rpy:1146
+    # game/events/max.rpy:1156
     old "{i}идти к Эрику с включённым диктофоном{/i}"
     new "{i}aller voir Eric avec l'enregistreur activé {/i}"
-#--- "Ignore this. translate only: One"
 

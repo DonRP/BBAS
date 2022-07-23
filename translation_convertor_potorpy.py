@@ -108,3 +108,5 @@ def fileRename(pathFile, extension):
 
 
 potorpy("italian")
+
+potorpy("french")

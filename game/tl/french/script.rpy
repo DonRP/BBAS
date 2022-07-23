@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/script.po\n"
-# "X-french-File-ID: 3506\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:56\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/script.rpy:58
 translate french intro_8dea4dcf:
@@ -218,9 +204,6 @@ translate french about_poss_95f72849:
     # Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
     Max_04 "Mais vous ne devez pas non plus en avoir peur. C'est grâce à des 'opportunités' que vous pouvez réaliser des choses dont certaines personnes ne rêvent même pas !" nointeract
 
-translate french strings:
-
-    # game/script.rpy:57
     old "{i}далее{/i}"
     new "{i}suivant{/i}"
 
@@ -251,5 +234,4 @@ translate french strings:
     # game/script.rpy:121
     old "{i}повторить{/i}"
     new "{i}répéter{/i}"
-#--- "Ignore this. translate only: One"
 

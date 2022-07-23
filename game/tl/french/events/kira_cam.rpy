@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/events/kira_cam.po\n"
-# "X-french-File-ID: 3486\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:55\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/kira_cam.rpy:7
 translate french cam0_kira_sleep_night_07884053:
@@ -344,10 +330,6 @@ translate french cam1_kira_bath_with_eric_90e1f759:
     # Max_09 "{m}Через эту камеру никого не видно... Может посмотреть через другую?{/m}"
     Max_09 "{m}personne ne peut être vu Par cette caméra... Peut-être regarder à travers l'autre?{/m}"
 
-translate french strings:
-
-    # game/events/kira_cam.rpy:425
     old "{i}встретить их{/i}"
     new "{i}les rencontrer{/i}"
-#--- "Ignore this. translate only: One"
 

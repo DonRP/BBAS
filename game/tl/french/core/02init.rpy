@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-# "X-french-Project: big-brother-as\n"
-# "X-french-Project-ID: 461654\n"
-# "X-french-Language: fr\n"
-# "X-french-File: /master/game/tl/french/core/02init.po\n"
-# "X-french-File-ID: 3426\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: French\n"
-# "Language: fr_FR\n"
-# "PO-Revision-Date: 2022-03-28 14:54\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 translate french strings:
 
@@ -112,584 +98,595 @@ translate french strings:
     old "{color=#E59400}{i}Провал!{/i}{/color}\n"
     new "{color=#E59400}{i}échec!{/i}{/color}\n"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ВС"
     new "DIM"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ВОСКРЕСЕНЬЕ"
     new "DIMANCHE"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ПН"
     new "LUN"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ПОНЕДЕЛЬНИК"
     new "LUNDI"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ВТ"
     new "MAR"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ВТОРНИК"
     new "MARDI"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "СР"
     new "MER"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "СРЕДА"
     new "MERCREDI"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ЧТ"
     new "JEU"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ЧЕТВЕРГ"
     new "JEUDI"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ПТ"
     new "VEN"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "ПЯТНИЦА"
     new "VENDREDI"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "СБ"
     new "SAM"
 
-    # game/core/02init.rpy:87
+    # game/core/02init.rpy:93
     old "СУББОТА"
     new "SAMEDI"
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "Управление"
     new "Essayer"
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\nF5 - сохранить, F8 - загрузить.\n\n\nКроме того, во время диалогов работают клавиши 1... 9 для различных вариантов ответов. Если вариант всего один, можно нажимать клавишу [[Space].\n\n\nДля переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\nОтключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\nЭто очень удобно, если область диалогов скрывает интересную часть изображения..."
     new "Ce jeu fournit un contrôle \\nF5 - Enregistrer, F8 - Charger.\\n\\n En outre, lors de dialogues, 1 à 9 pour différentes options de réponse. S'il n'y a qu'un seule option, vous pouvez appuyer sur la barre [[Space].\\n\\nPour passer d'une pièce à une autre, vous pouvez utiliser les touches 1 à 7.\\n\\nVous pouvez désactiver l'interface en appuyant sur [[ ' ], [[ h ] ou en appuyant sur le bouton central de la souris.\\nCeci est très pratique si la zone de dialogue cache une partie intéressante de l'image ..."
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "Возможности"
     new "Opportunités"
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
     new "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'possibilités'. Leurs mécanismes ressemblent un peu aux 'quêtes' ou aux 'quêtes' d'autres jeux, mais il y a quelques différences.\n\n\nles 'Opportunités' peuvent ouvrir l'accès à des événements cachés ou à des achats en ligne, à de nouvelles options dans un ordinateur portable ou à des activités dans certaines pièces. Lisez attentivement la Description de chaque 'opportunité' et vous ne manquerez rien!"
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "Настроение"
     new "Humeur"
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\nЕсли у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\nПостепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\nЧтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
     new "Diverses actions ou phrases dites par Max peuvent provoquer une réaction correspondante sous la forme d'un changement d'humeur du personnage.\\n\\nSi un personnage est de mauvaise humeur, il peut refuser de discuter de certains sujets avec vous.\\n\\nProgressivement, toutes les heures, l’humeur tend doucement vers un état neutre. Cependant, si l’humeur est très mauvaise, il faudra beaucoup de temps pour récupérer.\\n\\nPour vous remonter le moral, vous pouvez donner ce dont vous avez besoin à ce personnage particulier ou simplement vous excuser. Et parfois, le bon mot au cours d’une conversation peut améliorer considérablement l’humeur."
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "Шоу"
     new "Montrer"
 
-    # game/core/02init.rpy:131
+    # game/core/02init.rpy:139
     old "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\nУвеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\nЕсли у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
     new "Les caméras cachées peuvent être la principale source de revenus. Plus le public est grand, plus les gens sont prêts à payer pour regarder.\\n\\n\\nVous pouvez augmenter votre audience avec des publicités. Si rien d’intéressant ne se passe sur les caméras, le public partira. Si des moments piquants\\nSi vous avez un site Web, vous pouvez gagner de l’argent avec des bannières publicitaires. Donc, plus le public est grand, plus vous avez d’argent.\\n\\n\\n{i}{b}Note:{/b} Dans les futures versions du jeu, les utilisateurs VIP pourront avoir des demandes spéciales. Si vous les effectuez, vous recevrez une solide augmentation de revenu.{/i}"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Значит, у тебя есть блог?"
     new "Vous avez donc un blog ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Слушай, насчёт блога..."
     new "Écoutez, à propos du blog..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт твоего блога... А если не особо раздеваться?"
     new "Quant à votre blog... Et si vous ne vous déshabillez pas vraiment ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт посуды..."
     new "Quant aux plats ..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Не возражаешь против компании?"
     new "Ne pensez-vous pas la compagnie?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что читаешь?"
     new "Que lisez-vous?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Хотел извиниться за утренний инцидент..."
     new "Je voulais m’excuser pour l’incident de ce matin..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Извини, но я случайно увидел, как ты принимаешь душ..."
     new "Désolé, mais il m’est arrivé de te voir prendre une douche..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Хочу извиниться. Я бессовестно подглядывал за тобой утром..."
     new "Je m’excuse. J’ai jeté un coup d’œil sans intention ce matin..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Загораешь?"
     new "Se bronzer?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "У меня для тебя обещанная вкусняшка!"
     new "J'ai la chose délicieuse que je vous ai promis!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт ванны ночью..."
     new "Quant à la salle de bain durant la nuit ..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "А ты умеешь целоваться?"
     new "Sais-tu comment embrasser?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я слышал, Эрик тебе новое бельё собирается купить?"
     new "J’ai entendu dire qu’Eric allait t'acheter de nouveaux sous-vêtements?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Покажешь боди, которое тебе Эрик купит?"
     new "Peux-tu me montrer ce qu’Eric va t'acheter ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Хотел узнать, хорошо ли тебе сидится?"
     new "Je voulais savoir si ça t'allais bien?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Не слабо тебя отшлёпали!"
     new "Pas doucement, tu as enjambé!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ты не передумала о наказаниях?"
     new "Tu n'as pas pensé à la punition?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Отшлёпать тебя сейчас или..."
     new "Des fessées maintenant oubien ..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Пора отшлёпать одну милую попку!"
     new "Il est temps de donner la fessée à ce cul mignon!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Тебе помочь накрыть на стол?"
     new "Peux-tu m'aider à mettre la table?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Как ты после случившегося?"
     new "Comment ça va après ça?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я пришёл извиниться за то, что было утром. Я больше не буду."
     new "Je suis venu m’excuser pour ce qui s’est passé ce matin. Je ne le referais plus."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я снова подглядывал. Извини."
     new "J’ai jeté un coup d’œil à nouveau. Pardon."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну давай, можешь меня наказывать..."
     new "Aller, tu peux me punir..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я выбираю наказание от тебя..."
     new "Je choisis la punition par toi..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мам, дай денег, пожалуйста..."
     new "Maman, donne-moi de l’argent, s’il te plaît..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я продукты заказал!"
     new "J’ai commandé les produits!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мам, бассейн чист!"
     new "Maman, la piscine est propre !"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что смотришь?"
     new "Que regardes-tu?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт случая с Лизой..."
     new "Quant au cas de Lisa..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мам, а как учатся целоваться?"
     new "Maman, comment apprends-tu à embrasser?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мам, Кира отправила меня к тебе..."
     new "Maman, Kira m’a envoyé vers toi..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "С тобой можно?"
     new "Puis-je rester avec toi?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я присоединюсь?"
     new "Vais-je m’inscrire?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мам, нужно поговорить об Оливии."
     new "Maman, je dois parler d'Olivia."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мам, ты подумала об Оливии?"
     new "Maman, tu as pensé à Olivia?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мне нужны деньги..."
     new "J’ai besoin d’argent..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Эрик, мы же договорились!"
     new "Eric, nous étions d’accord !"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я хотел поговорить о Кире..."
     new "Je voulais parler de Kira..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мою премию за помощь с Лизой!"
     new "Mon prix pour avoir aidé Lisa!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Чтобы на маме были не только очки для сна, но и чулки!"
     new "Pour maman, il n'y avait pas seulement des lunettes pour dormir, mais aussi des bas!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Чтобы на маме были только очки для сна!"
     new "Pour que maman n'ait que des lunettes pour dormir!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Вот деньги, чтобы ты не лез к Лизе..."
     new "Voici l’argent pour que tu n’arrivais pas à donner à Lisa..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "У меня нет денег, чтобы ты не лез к Лизе."
     new "Je n’ai pas l’argent que tu devais à Lisa."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Да тут всегда хорошая погода..."
     new "Oui, il fait toujours beau..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ага, как всегда..."
     new "Oui, comme toujours..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Да, шикарная!"
     new "Oui, magnifique!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Кира, мне нужно научиться целоваться..."
     new "Kira, j’ai besoin d’apprendre à embrasser..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну как, ты с мамой-то поговорила?"
     new "Eh bien, avez-vous parlé à ta mère?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Как отдыхается, тётя Кира?"
     new "Ou tante Kira dort-elle?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт фотосессии..."
     new "Quant à la séance photo..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Понравились фотографии?"
     new "Tu aimes les photos ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Не злишься на меня, тётя Кира?"
     new "Es-tu en colère contre moi, tante Kira?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Так когда будем снова фотографироваться, тётя Кира?"
     new "Alors, quand allons-nous refaire des photos, tante Kira?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Тётя Кира, когда ты уже с мамой поговоришь?!"
     new "Tante Kira, quand parleras-tu à ma mère?!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Я хотел спросить про тот случай из детства мамы..."
     new "Je voulais poser des questions sur cet incident d’enfance avec ma mère..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Расскажи уже про тот случай из детства мамы..."
     new "Parlez-nous de cet incident de ton enfance avec ta mère ..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Когда будет новая фотосессия, тётя Кира?"
     new "Quand y aura-t-il une nouvelle séance photo, tante Kira?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Уже слышала новость, тётя Кира?"
     new "Tu as entendu la nouvelle, tante Kira?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "О школе..."
     new "À propos de l’école..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "А ты чего так загораешь?"
     new "Et pourquoi prenez-vous un bain de soleil comme ça?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт твоего парня..."
     new "Quant à votre petit ami..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт этого случая утром..."
     new "Quant à cet incident de ce matin..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Хотел поговорить о Большом Максе..."
     new "Je voulais parler de 'Grand Max'..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "А ты у нас шалунья, оказывается..."
     new "Et vous êtes un, il se trouve que..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт успеваемости..."
     new "Quant à la performance académique..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Помочь с уроками?"
     new "De l’aide pour les leçons?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "У тебя странный вид..."
     new "Tu as un regard étrange..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Может всё-таки поделишься своими переживаниями по поводу Алисы?"
     new "Peux-tu me donner ton sentiment à propos d’Alice?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Массаж рук заказывала?"
     new "As-tu envie d'un massage?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну что, Лиза, готова?"
     new "Lisa es-tu prête ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну что, готова?"
     new "Est-ce que tu as fini?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Лиза, ты же любишь читать?"
     new "Lisa, aimes-tu lire?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Лиза, у меня для тебя особая книжка..."
     new "Lisa, j’ai un livre spécial pour toi..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Рассказывай, что делали?"
     new "Dis-nous ce que tu as fait?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну так и чему же тебя учили?"
     new "Alors, qu’est-ce que tu as appris?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что новенького было на уроке?"
     new "Qu’y a-t-il de nouveau en classe ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что нового мама с Эриком тебе рассказали?"
     new "Qu’est-ce que maman et Eric t'as dit?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что нового узнала на уроке у мамы и Эрика?"
     new "Qu’as-tu appris en classe de ma mère et d’Eric?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "{i}урок поцелуев{/i}"
     new "{i}leçon de baiser{/i}"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Насчёт Алекса..."
     new "Quant à Alex..."
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Есть успехи с Оливией?"
     new "Un peu de succès avec Olivia?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что-нибудь узнала про Оливию?"
     new "As-tu appris quelque chose sur Olivia ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну так, что там с трусиками Оливии?"
     new "Alors, que se passe-t-il avec la culotte d’Olivia?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ты позвала Оливию к нам?"
     new "Tu m'as appelé Olivia ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну как, получилось рассказать всё Оливии?"
     new "Eh bien, comment se fait-il que tu as tout raconter à Olivia ?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Нравится, что я спасаю твою попку от наказания?"
     new "Comme ça je sauve ton cul de la punition?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Учтите, я испытываю... некоторый подъём!"
     new "Tu vois, j'acquière de l’expérience... un peu d’évolution!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Пошепчемся немного о моей сестрёнке?"
     new "Devrions-nous parler de ma petite sœur?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Что новенького, Оливия?"
     new "Quoi de neuf, Olivia?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Рад тебя видеть, Оливия!"
     new "Heureux de te voir, Olivia!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Ну как, всё повторила? \n{i}(проводить Лизу в школу){/i}"
     new "Tu as tout répété? \n{i}(conduire Lisa à l'école){/i}"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Лиза, ты чего нос повесила?"
     new "Lisa, qu'est-ce que tu as fait?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Мама разрешила!"
     new "Maman l’a permis!"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Кстати, а как тебе та книжка, которую я дарил?"
     new "Au fait, comment aimes-tu le livre que je t'ai donné?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Можно вместе с тобой книжку почитать?"
     new "Je peux lire le livre avec toi?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Можно к тебе присоединиться?"
     new "Je peux me joindre à toi?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "А у меня есть крем для загара. Хотите?"
     new "J'ai de la crème solaire. Tu en veux?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Давайте, я намажу вас кремом для загара?"
     new "Aller, je te mets de la crème solaire?"
 
-    # game/core/02init.rpy:139
+    # game/core/02init.rpy:147
     old "Вам дать крем для загара?"
     new "Veux-tu de la crème solaire?"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:147
+    old "Мам, поговорим?"
+    new "Maman, on en parle?"
+
+    # game/core/02init.rpy:147
+    old "Хотел поговорить о маме..."
+    new "Je voulais parler de ma mère..."
+
+    # game/core/02init.rpy:147
+    old "Мам, ты подумала?"
+    new "Maman, tu y as pensé ?"
+
+    # game/core/02init.rpy:289
     old "Одежда"
     new "Vêtements"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Книги"
     new "Livres"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Продукты"
     new "Nourriture"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Электроника"
     new "Électronique"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Товары 18+"
     new "Produits pour plus de 18"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Косметика"
     new "Cosmétiques"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Украшения"
     new "Décorations"
 
-    # game/core/02init.rpy:273
+    # game/core/02init.rpy:289
     old "Другое"
     new "Autre"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "А у меня есть то, о чём ты мечтала..."
     new "Et j’ai ce dont tu rêvais..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня для тебя подарок {i}(Халат){/i}"
     new "J’ai un cadeau pour toi {i}(Peignoir){/i}"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня для тебя вкусняшка!"
     new "J’ai un délicieux cadeau pour toi!"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня есть кое-что запрещённое..."
     new "J’ai quelque chose d’interdit..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "Угадай: маленькое, чёрненькое..."
     new "Devines quoi : petit, noir..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня для тебя одна книжка..."
     new "J’ai un livre pour toi..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня снова для тебя книжка..."
     new "J’ai à nouveau un livre pour toi..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "И снова у меня для тебя книжка..."
     new "Encore une fois, j’ai un livre pour toi..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня для тебя подарок {i}(Пижама){/i}"
     new "J’ai un cadeau pour toi {i}(pyjama){/i}"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня есть кое-что, о чём мы беседовали..."
     new "J’ai la chose dont nous avons parlé..."
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "Прикупил для тебя немного сладенького!"
     new "J'ai acheté un chose sucrée pour toi!"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня для тебя подарок {i}(Кожаный костюм){/i}"
     new "J’ai un cadeau pour toi{i}(Costume en cuir){/i}"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "У меня для тебя подарок {i}(Плётка){/i}"
     new "J’ai un cadeau pour toi{i}(Cravache){/i}"
 
-    # game/core/02init.rpy:284
+    # game/core/02init.rpy:300
     old "Мам, я купил тебе одежду полегче!"
     new "Maman, je t’ai acheté des vêtements plus légers!"
-#--- "Ignore this. translate only: One"
 
