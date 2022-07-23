@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:33\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/kira.rpy:26 #-#-# translate crowdin kira_bath_a64599ce:
 msgid "[Max_01] {m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m} [nointeract]"
@@ -2849,333 +2849,333 @@ msgid "[Max_02] {m}Кира не упустила ни единой капли �
 msgstr "[Max_02] {m}Kira n'a pas manqué une seule goutte! Et comme si personne ne venait de sucer... Travail propre!{/m} [nointeract]"
 
 msgid "{i}идти к Кире{/i}"
-msgstr ""
+msgstr "{i}aller voir Kira{/i}"
 
 # game/events/kira.rpy:208
 msgid "{i}присоединиться к тёте{/i}"
-msgstr ""
+msgstr "{i}rejoindre ma tante{/i}"
 
 # game/events/kira.rpy:243
 msgid "А моё напряжение только растёт, тётя Кира! Может поможешь?"
-msgstr ""
+msgstr "Et ma tension ne fait que croître, tante Kira ! Peux-tu m'aider ?"
 
 # game/events/kira.rpy:274
 msgid "{i}подтянуть её к себе и ласкать пальцами{/i}"
-msgstr ""
+msgstr "{i}la serrer contre elle et la caresser avec ses doigts{/i}"
 
 # game/events/kira.rpy:274
 msgid "{i}пытаться не кончить{/i}"
-msgstr ""
+msgstr "{i}essayer de ne pas jouir{/i}"
 
 # game/events/kira.rpy:313
 msgid "{i}поработать языком{/i}"
-msgstr ""
+msgstr "{i}travailler avec la langue{/i}"
 
 # game/events/kira.rpy:313
 msgid "{i}проникнуть в неё пальцами{/i}"
-msgstr ""
+msgstr "{i}la pénétrer avec les doigts{/i}"
 
 # game/events/kira.rpy:321
 msgid "{i}работать языком быстрее{/i}"
-msgstr ""
+msgstr "{i}travailler plus vite{/i}"
 
 # game/events/kira.rpy:371
 msgid "Садись на меня, тётя Кира!"
-msgstr ""
+msgstr "Assieds-toi sur moi, tante Kira !"
 
 # game/events/kira.rpy:371
 msgid "Давай-ка сюда свою шикарную попку!"
-msgstr ""
+msgstr "Amènes ton magnifique cul par ici !"
 
 # game/events/kira.rpy:390
 msgid "{i}приблизиться членом к её лицу{/i}"
-msgstr ""
+msgstr "{i}mettre sa bite près de son visage{/i}"
 
 # game/events/kira.rpy:408
 msgid "Ох, тётя Кира... Ты слишком ловко меня дразнишь! Я могу не выдержать..."
-msgstr ""
+msgstr "Oh, tante Kira... Tu me taquines trop gentiment! Je pourrais ne pas y arriver..."
 
 # game/events/kira.rpy:424
 msgid "Да, давай ещё тётя Кира! Какие же горячие и ненасытные у тебя губки... Да..."
-msgstr ""
+msgstr "Oui, aller tante Kira ! Comme tes lèvres sont chaudes et insatiables... Oui..."
 
 # game/events/kira.rpy:434
 msgid "Тётя Кира, я больше не могу... сейчас кончу! Да-а-а..."
-msgstr ""
+msgstr "Tante Kira, je ne peux pas continuer... Je vais jouir! Ouais..."
 
 # game/events/kira.rpy:541
 msgid "{i}кончить в неё{/i}"
-msgstr ""
+msgstr "{i}jouir en elle{/i}"
 
 # game/events/kira.rpy:541
 msgid "{i}кончить ей на ноги{/i}"
-msgstr ""
+msgstr "{i}le sperme sur ses pieds{/i}"
 
 # game/events/kira.rpy:541
 msgid "{i}кончить ей в рот{/i}"
-msgstr ""
+msgstr "{i}dans sa bouche{/i}"
 
 # game/events/kira.rpy:581
 msgid "{i}трахать её{/i}"
-msgstr ""
+msgstr "{i}la baiser{/i}"
 
 # game/events/kira.rpy:597
 msgid "{i}кончить ей на попку{/i}"
-msgstr ""
+msgstr "{i}le sperme sur son cul{/i}"
 
 # game/events/kira.rpy:739
 msgid "Да, что-то не спится... К тебе можно?"
-msgstr ""
+msgstr "Oui, je ne peux pas dormir... Je peux venir ?"
 
 # game/events/kira.rpy:739
 msgid "Не могу уснуть, слишком напряжён! {i}(снять шорты){/i}"
-msgstr ""
+msgstr "Je ne peux pas dormir, je suis trop tendu! {i}(baisser le short){/i}"
 
 # game/events/kira.rpy:739
 msgid "Я просто прогуливался перед сном. Пойду, уже поздно..."
-msgstr ""
+msgstr "Je faisais juste une promenade avant d'aller me coucher. Je vais y aller, il se fait tard..."
 
 # game/events/kira.rpy:772
 msgid "{i}кончить ей в рот!{/i}"
-msgstr ""
+msgstr "{i}dans sa bouche !{/i}"
 
 # game/events/kira.rpy:800
 msgid "{i}спуститься к Кире{/i}"
-msgstr ""
+msgstr "{i}descendre voir Kira{/i}"
 
 # game/events/kira.rpy:854
 msgid "{i}получать удовольствие{/i}"
-msgstr ""
+msgstr "{i}Se divertir{/i}"
 
 # game/events/kira.rpy:921
 msgid "{i}подойти поближе{/i}"
-msgstr ""
+msgstr "{i}s'approcher{/i}"
 
 # game/events/kira.rpy:999
 msgid "{i}посмотреть, что будет дальше{/i}"
-msgstr ""
+msgstr "{i}voir ce qui se passe ensuite{/i}"
 
 # game/events/kira.rpy:999
 msgid "{i}уже поздно, пора спать...{/i}"
-msgstr ""
+msgstr "{i}Il est tard, c'est l'heure de se coucher....{/i}"
 
 # game/events/kira.rpy:1009
 msgid "Мне что-то не спится. Можно тоже телик с тобой посмотреть?"
-msgstr ""
+msgstr "Moi quelque chose de pas dormi. Je peux regarder la télé aussi?"
 
 # game/events/kira.rpy:1009
 msgid "Я насчёт уроков поцелуев, если момент подходящий..."
-msgstr ""
+msgstr "Je suis là pour les leçons de baisers, si le moment est bien choisi..."
 
 # game/events/kira.rpy:1009
 msgid "Я просто хотел пожелать спокойной ночи!"
-msgstr ""
+msgstr "Je voulais juste te dire bonne nuit !"
 
 # game/events/kira.rpy:1012
 msgid "Может быть, эротику?"
-msgstr ""
+msgstr "Peut-être érotique ?"
 
 # game/events/kira.rpy:1012
 msgid "Давай смотреть порно?!"
-msgstr ""
+msgstr "Regardons du porno?!"
 
 # game/events/kira.rpy:1041
 msgid "Ни капли!"
-msgstr ""
+msgstr "Pas une goutte !"
 
 # game/events/kira.rpy:1041
 msgid "Да ты продолжай, я посижу, посмотрю..."
-msgstr ""
+msgstr "Vas-y, je vais m'asseoir et regarder..."
 
 # game/events/kira.rpy:1095
 msgid "Конечно, да!"
-msgstr ""
+msgstr "Oui bien sûr!"
 
 # game/events/kira.rpy:1134
 msgid "Вообще-то, с лучшей тётей на свете!"
-msgstr ""
+msgstr "En fait, avec la meilleure tante du monde!"
 
 # game/events/kira.rpy:1185
 msgid "{i}начать дрочить{/i}"
-msgstr ""
+msgstr "{i}commencer à se branler{/i}"
 
 # game/events/kira.rpy:1273
 msgid "{i}начать ласкать её киску языком{/i}"
-msgstr ""
+msgstr "{i}commencer à caresser sa chatte avec la langue{/i}"
 
 # game/events/kira.rpy:1278
 msgid "{i}раздеть её и повернуть{/i}"
-msgstr ""
+msgstr "{i}la déshabiller et la retourner{/i}"
 
 # game/events/kira.rpy:1299
 msgid "{i}продолжить языком{/i}"
-msgstr ""
+msgstr "{i}Continuer avec la langue{/i}"
 
 # game/events/kira.rpy:1331
 msgid "С чего начнём?"
-msgstr ""
+msgstr "Par où commencer?"
 
 # game/events/kira.rpy:1331
 msgid "Как в прошлый раз?"
-msgstr ""
+msgstr "Comme la dernière fois ?"
 
 # game/events/kira.rpy:1361
 msgid "{i}поцеловать её{/i}"
-msgstr ""
+msgstr "{i}l'embrasser{/i}"
 
 # game/events/kira.rpy:1367
 msgid "{i}продолжить целоваться{/i}"
-msgstr ""
+msgstr "{i}continuer à embrasser{/i}"
 
 # game/events/kira.rpy:1429
 msgid "{i}прикоснуться к её попке{/i}"
-msgstr ""
+msgstr "{i}toucher son cul{/i}"
 
 # game/events/kira.rpy:1429
 msgid "{i}подтянуть её ближе к себе{/i}"
-msgstr ""
+msgstr "{i}la rapprocher de moi{/i}"
 
 # game/events/kira.rpy:1505
 msgid "Давай ещё немного, тётя Кира... У меня ведь неплохо получается?"
-msgstr ""
+msgstr "Encore un peu, tante Kira... Je suis plutôt bon, n'est-ce pas ?"
 
 # game/events/kira.rpy:1514
 msgid "{i}развязать её ночнушку{/i}"
-msgstr ""
+msgstr "{i}détacher sa nuisette{/i}"
 
 # game/events/kira.rpy:1580
 msgid "{i}ласкать её грудь и киску{/i}"
-msgstr ""
+msgstr "{i}Caresser ses seins et sa chatte{/i}"
 
 # game/events/kira.rpy:1602
 msgid "{i}продолжить пальцами и языком{/i}"
-msgstr ""
+msgstr "{i}continuer avec les doigts et la langue{/i}"
 
 # game/events/kira.rpy:1626
 msgid "Как бы мне не кончить уже сейчас! Какой у тебя игривый язычок... Ммм..."
-msgstr ""
+msgstr "J'aimerais pouvoir jouir maintenant! Quelle langue experte tu as... Mmm..."
 
 # game/events/kira.rpy:1645
 msgid "Да, вот так тётя Кира, твои губки творят чудеса! Охх..."
-msgstr ""
+msgstr "Oui, c'est ça tante Kira, tes lèvres font des merveilles! Ohhh..."
 
 # game/events/kira.rpy:1660
 msgid "Тётя Кира, ещё быстрее... Да... Я сейчас кончу... А-а-а..."
-msgstr ""
+msgstr "Tante Kira, encore plus vite... Oui... Je vais jouir maintenant... Ahh..."
 
 # game/events/kira.rpy:1733
 msgid "{i}раздеть её{/i}"
-msgstr ""
+msgstr "{i}la mettre à poil{/i}"
 
 # game/events/kira.rpy:1733
 msgid "{i}раздеться вместе{/i}"
-msgstr ""
+msgstr "{i}se déshabiller ensemble{/i}"
 
 # game/events/kira.rpy:1953
 msgid "{i}трахнуть тётю Киру{/i} (миссионерская поза)"
-msgstr ""
+msgstr "{i}baiser tante Kira{/i} (position du missionnaire)"
 
 # game/events/kira.rpy:1953
 msgid "{i}снять шорты и трахнуть тётю Киру{/i} (миссионерская поза)"
-msgstr ""
+msgstr "{i}enlever son short et baiser Tante Kira{/i} (position du missionnaire)"
 
 # game/events/kira.rpy:1953
 msgid "{i}трахнуть тётю Киру{/i} (поза на боку)"
-msgstr ""
+msgstr "{i}baiser tante Kira{/i} (position latérale)"
 
 # game/events/kira.rpy:1965
 msgid "{i}трахнуть тётю Киру (догги-стайл){/i}"
-msgstr ""
+msgstr "{i}baiser tante Kira{/i}  (doggie-style)"
 
 # game/events/kira.rpy:1995
 msgid "Порадуешь меня минетом, тётя Кира?"
-msgstr ""
+msgstr "Tu me feras une fellation, tante Kira ?"
 
 # game/events/kira.rpy:1995
 msgid "Давай сменим позу, тётя Кира..."
-msgstr ""
+msgstr "Changeons de position, tante Kira..."
 
 # game/events/kira.rpy:2060
 msgid "{i}кончить в Киру{/i}"
-msgstr ""
+msgstr "{i}Jouir sur Kira{/i}"
 
 # game/events/kira.rpy:2114
 msgid "{i}кончить ей на живот{/i}"
-msgstr ""
+msgstr "{i}le sperme sur son ventre{/i}"
 
 # game/events/kira.rpy:2389
 msgid "К тебе можно, тётя Кира?"
-msgstr ""
+msgstr "Je peux te voir, tante Kira ?"
 
 # game/events/kira.rpy:2389
 msgid "Я не помешаю?"
-msgstr ""
+msgstr "Je peux vous déranger?"
 
 # game/events/kira.rpy:2480
 msgid "{i}раздеться и присоединиться к Кире{/i}"
-msgstr ""
+msgstr "{i}se déshabiller et rejoindre Kira{/i}"
 
 # game/events/kira.rpy:2486
 msgid "{i}ласкать её грудь{/i}"
-msgstr ""
+msgstr "{i}Caresser ses seins{/i}"
 
 # game/events/kira.rpy:2550
 msgid "{i}ласкать быстрее{/i}"
-msgstr ""
+msgstr "{i}caresser plus vite {/i}"
 
 # game/events/kira.rpy:2550
 msgid "{i}ласкать медленнее{/i}"
-msgstr ""
+msgstr "{i}caresser plus lentement {/i}"
 
 # game/events/kira.rpy:2993
 msgid "Давай лучше я уложу тётю Киру!"
-msgstr ""
+msgstr "Mieux vaut que je mette tante Kira au lit!"
 
 # game/events/kira.rpy:2993
 msgid "Ну, ладно... Пока!"
-msgstr ""
+msgstr "Oh, eh bien... Au revoir !"
 
 # game/events/kira.rpy:3000
 msgid "{i}отвести тётю в гостиную{/i}"
-msgstr ""
+msgstr "{i}emmener tante dans le salon{/i}"
 
 # game/events/kira.rpy:3041
 msgid "{i}Дать Алисе конфету и отвести тётю в гостиную{/i}"
-msgstr ""
+msgstr "{i}Donner des friandises à Alice et emmener tante dans le salon{/i}"
 
 # game/events/kira.rpy:3041
 msgid "{i}Отвести тётю в гостиную{/i}"
-msgstr ""
+msgstr "{i}Emmener tante dans le salon{/i}"
 
 # game/events/kira.rpy:3064
 msgid "Такого поворота событий я не ожидал! Можно и задержаться..."
-msgstr ""
+msgstr "C'est une tournure des événements à laquelle je ne m'attendais pas ! Il est possible de s'attarder..."
 
 # game/events/kira.rpy:3064
 msgid "Я бы задержался, но нужно проверить, как там Алиса..."
-msgstr ""
+msgstr "Je serais bien resté plus longtemps, mais je dois aller voir Alice..."
 
 # game/events/kira.rpy:3164
 msgid "Хочу грудью!"
-msgstr ""
+msgstr "Je veux les seins!"
 
 # game/events/kira.rpy:3164
 msgid "Хочу попкой!"
-msgstr ""
+msgstr "Je veux le cul!"
 
 # game/events/kira.rpy:3173
 msgid "Но я всё равно хочу твою грудь!"
-msgstr ""
+msgstr "Mais je veux toujours tes seins!"
 
 # game/events/kira.rpy:3173
 msgid "Я не могу устоять перед твоей попкой. Хочу её!"
-msgstr ""
+msgstr "Je ne peux pas résister à ton cul. Je le veux!"
 
 # game/events/kira.rpy:3204
 msgid "Но я всё равно хочу твою попку!"
-msgstr ""
+msgstr "Mais je veux toujours ton cul!"
 
 # game/events/kira.rpy:3204
 msgid "Я не могу устоять перед твоей грудью. Хочу её!"
-msgstr ""
+msgstr "Je ne peux pas résister à tes seins. Je les veux !"
 
