@@ -11,8 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 11:52\n"
+"PO-Revision-Date: 2022-07-23 14:10\n"
 
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/options.rpy:15
 msgid "Большой брат: Другая история"
 msgstr ""
 
