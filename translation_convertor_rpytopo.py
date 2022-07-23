@@ -29,11 +29,11 @@ dict = {
     r'    new "(.*?)"': r'msgstr "\1"',
     # find:    # (.*?) "(.*?)"
     # replace:msgid "[$1] $2"
-    r'# (.*?) "(.*?)"': r'msgid "[_\1_] \2"',
+    r'# (.*?) "(.*?)"': r'msgid "[\1] \2"',
     # after
     # find:    (.*?) "(.*?)"
     # replace:msgstr "[$1] $2"
-    r'    (.*?) "(.*?)"': r'msgstr "[_\1_] \2"',
+    r'    (.*?) "(.*?)"': r'msgstr "[\1] \2"',
     r'# "(.*?)"': r'msgid "\1"',
     r'    "(.*?)"': r'msgstr "\1"',
     # Comment
@@ -60,14 +60,6 @@ def replacetext(search_text, replace_text, pathFile):
     # filedata = filedata.replace(search_text, replace_text)
     filedata = re.sub(search_text, replace_text, filedata)
     # TODO: to improve
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
-    filedata = re.sub(r'\[_(.*?)\b (.*?)_\]', r'[_\1_s_\2_]', filedata)
 
     # Write the file out again
     with open(pathFile, 'w', encoding="utf8") as file:

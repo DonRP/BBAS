@@ -1,55 +1,46 @@
-﻿# TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/01classes.rpy:686
-msgid  "Ужасное"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Ужасное"
+﻿# TODO: Translation updated at 2022-07-09 12:49
 
-# XX## game/core/01classes.rpy:686
-msgid  "Очень плохое"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Очень плохое"
+#§translate crowdin strings: #|#|# # game/core/01classes.rpy:693
+msgid "Ужасное"
+msgstr "Ужасное"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Плохое"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Плохое"
+# game/core/01classes.rpy:693
+msgid "Очень плохое"
+msgstr "Очень плохое"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Не очень"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Не очень"
+# game/core/01classes.rpy:693
+msgid "Плохое"
+msgstr "Плохое"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Нейтральное"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Нейтральное"
+# game/core/01classes.rpy:693
+msgid "Не очень"
+msgstr "Не очень"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Неплохое"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Неплохое"
+# game/core/01classes.rpy:693
+msgid "Нейтральное"
+msgstr "Нейтральное"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Хорошее"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Хорошее"
+# game/core/01classes.rpy:693
+msgid "Неплохое"
+msgstr "Неплохое"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Очень хорошее"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Очень хорошее"
+# game/core/01classes.rpy:693
+msgid "Хорошее"
+msgstr "Хорошее"
 
-# XX## game/core/01classes.rpy:686
-msgid  "Прекрасное"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Прекрасное"
+# game/core/01classes.rpy:693
+msgid "Очень хорошее"
+msgstr "Очень хорошее"
 
-# XX## game/core/01classes.rpy:1082
-msgid  "Приобретен пакет рекламы"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "Приобретен пакет рекламы"
+# game/core/01classes.rpy:693
+msgid "Прекрасное"
+msgstr "Прекрасное"
 
-# XX## game/core/01classes.rpy:1338
-msgid  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0]  "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+# game/core/01classes.rpy:1089
+msgid "Приобретен пакет рекламы"
+msgstr "Приобретен пакет рекламы"
+
+# game/core/01classes.rpy:1345
+msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+msgstr "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 
