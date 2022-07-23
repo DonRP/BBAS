@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/alicetalk.rpy:12 #-#-# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -7165,1122 +7165,1123 @@ msgid "[Max_01] Конечно. Если что, зови."
 msgstr "[Max_01] Naturalmente. Chiamatemi se avete bisogno di qualcosa."
 
 msgid "{i}уйти{/i}"
-msgstr ""
+msgstr "{i}vattene{/i}"
 
 # game/dialogues/alicetalk.rpy:67
 msgid "Ок..."
-msgstr ""
+msgstr "Ok..."
 
 # game/dialogues/alicetalk.rpy:67
 msgid "Я хотел извиниться"
-msgstr ""
+msgstr "Volevo scusarmi"
 
 # game/dialogues/alicetalk.rpy:85
 msgid "Ты знаешь, я передумал..."
-msgstr ""
+msgstr "Sai, ho cambiato idea..."
 
 # game/dialogues/alicetalk.rpy:106
 msgid "Давай, я домою остальное"
-msgstr ""
+msgstr "Dai, sono a casa per il resto"
 
 # game/dialogues/alicetalk.rpy:106
 msgid "Нет, просто хотел поглазеть"
-msgstr ""
+msgstr "No, volevo solo guardare"
 
 # game/dialogues/alicetalk.rpy:109
 msgid "{i}мыть посуду{/i}"
-msgstr ""
+msgstr "{i}lava i piatti{/i}"
 
 # game/dialogues/alicetalk.rpy:117
 msgid "{i}закончить{/i}"
-msgstr ""
+msgstr "{i}fine{/i}"
 
 # game/dialogues/alicetalk.rpy:137
 msgid "Нет, хотел просто больше узнать"
-msgstr ""
+msgstr "No, volevo solo saperne di più"
 
 # game/dialogues/alicetalk.rpy:137
 msgid "Много подписчиков уже?"
-msgstr ""
+msgstr "Hai già un sacco di abbonati?"
 
 # game/dialogues/alicetalk.rpy:137
 msgid "Заработала уже на нём что-то?"
-msgstr ""
+msgstr "Ci hai già fatto dei soldi?"
 
 # game/dialogues/alicetalk.rpy:140
 msgid "Расскажи, что ты там делаешь"
-msgstr ""
+msgstr "Spiegami cosa stai facendo lì"
 
 # game/dialogues/alicetalk.rpy:140
 msgid "Как планируешь развиваться?"
-msgstr ""
+msgstr "Come pensi di crescere?"
 
 # game/dialogues/alicetalk.rpy:143
 msgid "Хитростями? А откуда ты сама всё это узнала?"
-msgstr ""
+msgstr "Trucchi? Come fai a conoscere tutto questo da sola?"
 
 # game/dialogues/alicetalk.rpy:143
 msgid "И что теперь без этих своих вещей делать будешь?"
-msgstr ""
+msgstr "E ora cosa farai senza le tue cose?"
 
 # game/dialogues/alicetalk.rpy:146
 msgid "Тема бьюти разве единственная?"
-msgstr ""
+msgstr "Il tema della bellezza è l'unico?"
 
 # game/dialogues/alicetalk.rpy:146
 msgid "Понятно. Ну, и что теперь?"
-msgstr ""
+msgstr "Capito. E adesso?"
 
 # game/dialogues/alicetalk.rpy:149
 msgid "Давай что-то придумаем вместе!"
-msgstr ""
+msgstr "Facciamo qualcosa insieme!"
 
 # game/dialogues/alicetalk.rpy:149
 msgid "Может быть, изменить твой блог?"
-msgstr ""
+msgstr "Magari cambiamo il tuo blog?"
 
 # game/dialogues/alicetalk.rpy:160
 msgid "Что, совсем всё пропало?"
-msgstr ""
+msgstr "È tutto completamente sparito?"
 
 # game/dialogues/alicetalk.rpy:160
 msgid "Постой, и что теперь будет?"
-msgstr ""
+msgstr "Aspetta, e cosa succederà ora?"
 
 # game/dialogues/alicetalk.rpy:163
 msgid "Может, это твоя фишка. Да и майка счастливая..."
-msgstr ""
+msgstr "Forse è la tua passione. E la maglia è felice..."
 
 # game/dialogues/alicetalk.rpy:163
 msgid "Разве это важно?"
-msgstr ""
+msgstr "È importante?"
 
 # game/dialogues/alicetalk.rpy:166
 msgid "Да уж, грусть-печаль..."
-msgstr ""
+msgstr "Oh, è una cosa triste, triste..."
 
 # game/dialogues/alicetalk.rpy:166
 msgid "Тебе как-то можно помочь?"
-msgstr ""
+msgstr "Posso fare qualcosa per aiutarti?"
 
 # game/dialogues/alicetalk.rpy:182
 msgid "Нет. С чего ты взяла?"
-msgstr ""
+msgstr "No. Da dove l'hai trovato?"
 
 # game/dialogues/alicetalk.rpy:182
 msgid "Ты о чём, вообще?"
-msgstr ""
+msgstr "Di cosa stai parlando?"
 
 # game/dialogues/alicetalk.rpy:188
 msgid "Да ладно?"
-msgstr ""
+msgstr "Dai?"
 
 # game/dialogues/alicetalk.rpy:188
 msgid "В курсе, конечно"
-msgstr ""
+msgstr "Lo so, ovviamente"
 
 # game/dialogues/alicetalk.rpy:197
 msgid "Мне очень жаль..."
-msgstr ""
+msgstr "Mi dispiace tanto..."
 
 # game/dialogues/alicetalk.rpy:197
 msgid "И как тебе помочь?"
-msgstr ""
+msgstr "E come posso aiutarti?"
 
 # game/dialogues/alicetalk.rpy:204
 msgid "Что пропало? Ты о чём?"
-msgstr ""
+msgstr "Cosa manca? Di cosa stai parlando?"
 
 # game/dialogues/alicetalk.rpy:204
 msgid "Ты о тех вещах во время переезда?"
-msgstr ""
+msgstr "Stai parlando di queste cose durante il trasloco?"
 
 # game/dialogues/alicetalk.rpy:209
 msgid "Да, печально..."
-msgstr ""
+msgstr "Sì, triste..."
 
 # game/dialogues/alicetalk.rpy:209
 msgid "Тебе можно как-то помочь?"
-msgstr ""
+msgstr "Puoi avere qualche aiuto?"
 
 # game/dialogues/alicetalk.rpy:215
 msgid "Может быть, попробуем вместе найти решение?"
-msgstr ""
+msgstr "Forse proviamo a trovare una soluzione insieme?"
 
 # game/dialogues/alicetalk.rpy:215
 msgid "Я обязательно придумаю, что можно с этим сделать"
-msgstr ""
+msgstr "Capirò sicuramente cosa si può fare al riguardo"
 
 # game/dialogues/alicetalk.rpy:222
 msgid "Денег у меня нет..."
-msgstr ""
+msgstr "Non ho i soldi..."
 
 # game/dialogues/alicetalk.rpy:222
 msgid "Я не детектив, чтобы искать вещи..."
-msgstr ""
+msgstr "Non sono un detective che cerca le cose..."
 
 # game/dialogues/alicetalk.rpy:225
 msgid "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
-msgstr ""
+msgstr "Vita? Ma questo è tutto per il meglio. Una casa del genere, una piscina, un posto fantastico!"
 
 # game/dialogues/alicetalk.rpy:225
 msgid "Не грусти. Могло быть и хуже"
-msgstr ""
+msgstr "Non essere triste. Poteva andare peggio"
 
 # game/dialogues/alicetalk.rpy:225
 msgid "Может быть, зарабатывать на чём-то другом?"
-msgstr ""
+msgstr "Che ne dici di fare soldi con qualcos'altro?"
 
 # game/dialogues/alicetalk.rpy:228
 msgid "Ты всё ещё можешь. Может быть, просто смени формат блога"
-msgstr ""
+msgstr "Puoi ancora farlo. Forse basta cambiare il formato del blog"
 
 # game/dialogues/alicetalk.rpy:244
 msgid "Ну, у меня много разных идей"
-msgstr ""
+msgstr "Beh, ho un sacco di idee diverse"
 
 # game/dialogues/alicetalk.rpy:244
 msgid "Советами!"
-msgstr ""
+msgstr "Suggerimenti!"
 
 # game/dialogues/alicetalk.rpy:261
 msgid "Может быть, заняться чем-то другим?"
-msgstr ""
+msgstr "Forse facciamo qualcos'altro?"
 
 # game/dialogues/alicetalk.rpy:270
 msgid "Мы можем с тобой вместе что-то придумать"
-msgstr ""
+msgstr "Possiamo inventarci qualcosa"
 
 # game/dialogues/alicetalk.rpy:270
 msgid "Давай, я подумаю и, когда будут мысли, продолжим разговор"
-msgstr ""
+msgstr "Lasciatemi pensare e, quando avrò un idea, continueremo la conversazione"
 
 # game/dialogues/alicetalk.rpy:270
 msgid "Пока нет, но я подумаю что можно сделать"
-msgstr ""
+msgstr "Non ancora, ma penserò a cosa possiamo fare"
 
 # game/dialogues/alicetalk.rpy:281
 msgid "Ну если придумаю что-то, то почему нет?"
-msgstr ""
+msgstr "Beh, se mi viene in mente qualcosa, perché no?"
 
 # game/dialogues/alicetalk.rpy:281
 msgid "Конечно! Будет у нас семейный бизнес!"
-msgstr ""
+msgstr "Certo! Faremo un'impresa familiare!"
 
 # game/dialogues/alicetalk.rpy:281
 msgid "Ну, можно попробовать же?"
-msgstr ""
+msgstr "Beh, si può provare, no?"
 
 # game/dialogues/alicetalk.rpy:287
 msgid "Ну да, многие так делают!"
-msgstr ""
+msgstr "Beh, sì, molti lo fanno!"
 
 # game/dialogues/alicetalk.rpy:287
 msgid "Нет, из меня ведущий так себе..."
-msgstr ""
+msgstr "No, sono io che conduco così così..."
 
 # game/dialogues/alicetalk.rpy:287
 msgid "Попробовать то можем?"
-msgstr ""
+msgstr "Possiamo provare?"
 
 # game/dialogues/alicetalk.rpy:304
 msgid "Постараюсь..."
-msgstr ""
+msgstr "Cercherò di..."
 
 # game/dialogues/alicetalk.rpy:304
 msgid "Но ничего не обещаю"
-msgstr ""
+msgstr "Ma non posso promettere nulla"
 
 # game/dialogues/alicetalk.rpy:304
 msgid "Обещаю, что-нибудь придумаю"
-msgstr ""
+msgstr "Prometto che penserò a qualcosa"
 
 # game/dialogues/alicetalk.rpy:340
 msgid "Ну, давай смотреть всё подряд..."
-msgstr ""
+msgstr "Bene, guardiamo tutto..."
 
 # game/dialogues/alicetalk.rpy:340
 msgid "Тебе сделать массаж ног?"
-msgstr ""
+msgstr "Ti fai un massaggio ai piedi?"
 
 # game/dialogues/alicetalk.rpy:369
 msgid "Хорошо {i}(начать массаж){/i}"
-msgstr ""
+msgstr "Ben {i}(iniziare il massaggio){/i}"
 
 # game/dialogues/alicetalk.rpy:369
 msgid "Может конфетку перед массажем?"
-msgstr ""
+msgstr "Forse caramelle prima del massaggio?"
 
 # game/dialogues/alicetalk.rpy:383
 msgid "Почему ютуб? Это платные курсы..."
-msgstr ""
+msgstr "Perché Tu Thu? Si tratta di corsi a pagamento..."
 
 # game/dialogues/alicetalk.rpy:383
 msgid "Конечно! Я же научился..."
-msgstr ""
+msgstr "Certo! Ho imparato..."
 
 # game/dialogues/alicetalk.rpy:391
 msgid "Так тебе продемонстрировать или как?"
-msgstr ""
+msgstr "Quindi per dimostrarti o come?"
 
 # game/dialogues/alicetalk.rpy:396
 msgid "Тебе понравится!"
-msgstr ""
+msgstr "Ti piacerà!"
 
 # game/dialogues/alicetalk.rpy:430
 msgid "Хочу тебя!"
-msgstr ""
+msgstr "Ti voglio!"
 
 # game/dialogues/alicetalk.rpy:430
 msgid "Просто я такой хороший парень!"
-msgstr ""
+msgstr "Sono proprio un bravo ragazzo!"
 
 # game/dialogues/alicetalk.rpy:430
 msgid "Ты узнаешь... В своё время..."
-msgstr ""
+msgstr "Lo scoprirai... Un tempo..."
 
 # game/dialogues/alicetalk.rpy:446
 msgid "От конфетки не поправишься!"
-msgstr ""
+msgstr "Non puoi migliorare dalle caramelle!"
 
 # game/dialogues/alicetalk.rpy:456
 msgid "Ну, хорошо {i}(начать массаж){/i}"
-msgstr ""
+msgstr "Bene, è buono {i}(iniziare un massaggio){/i}"
 
 # game/dialogues/alicetalk.rpy:475
 msgid "{i}продолжить{/i}"
-msgstr ""
+msgstr "{i}continua{/i}"
 
 # game/dialogues/alicetalk.rpy:506
 msgid "Может, ещё конфетку?"
-msgstr ""
+msgstr "Forse più caramelle?"
 
 # game/dialogues/alicetalk.rpy:506
 msgid "Тебе джинсы не мешают?"
-msgstr ""
+msgstr "I jeans ti infastidiscono?"
 
 # game/dialogues/alicetalk.rpy:506
 msgid "Тебе джинсы не мешают? Может, снять..."
-msgstr ""
+msgstr "I jeans ti infastidiscono? Forse rimuovere..."
 
 # game/dialogues/alicetalk.rpy:506
 msgid "{i}высунуть член{/i}"
-msgstr ""
+msgstr "{i}sporgere il gallo{/i}"
 
 # game/dialogues/alicetalk.rpy:506
 msgid "{i}закончить массаж{/i}"
-msgstr ""
+msgstr "{i}finire il massaggio{/i}"
 
 # game/dialogues/alicetalk.rpy:587
 msgid "Э... Я к тебе не подкатываю. Просто, жарко же..."
-msgstr ""
+msgstr "Uh... Non mi sto arrotolando verso di te. È solo, fa caldo..."
 
 # game/dialogues/alicetalk.rpy:587
 msgid "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
-msgstr ""
+msgstr "Beh, hai delle fantasie, Alice... Non mi arrotolo!"
 
 # game/dialogues/alicetalk.rpy:620
 msgid "Почему?"
-msgstr ""
+msgstr "Perché?"
 
 # game/dialogues/alicetalk.rpy:620
 msgid "Потому-что ты без трусиков?"
-msgstr ""
+msgstr "Perché sei senza mutandine?"
 
 # game/dialogues/alicetalk.rpy:667
 msgid "{i}стянуть джинсы до конца{/i}"
-msgstr ""
+msgstr "{i}tira i jeans fino alla fine{/i}"
 
 # game/dialogues/alicetalk.rpy:693
 msgid "{i}продолжить массаж{/i}"
-msgstr ""
+msgstr "{i}continuare il massaggio{/i}"
 
 # game/dialogues/alicetalk.rpy:720
 msgid "{i}массировать её ноги выше{/i}"
-msgstr ""
+msgstr "{i}massaggia le gambe sopra{/i}"
 
 # game/dialogues/alicetalk.rpy:735
 msgid "{i}массировать ещё выше{/i}"
-msgstr ""
+msgstr "{i}massaggiato ancora più in alto{/i}"
 
 # game/dialogues/alicetalk.rpy:747
 msgid "{i}ласкать её киску пальцами{/i}"
-msgstr ""
+msgstr "{i}accarezzarla con le dita{/i}"
 
 # game/dialogues/alicetalk.rpy:762
 msgid "{i}ласкать её киску быстрее{/i}"
-msgstr ""
+msgstr "{i}accarezzarla più velocemente{/i}"
 
 # game/dialogues/alicetalk.rpy:762
 msgid "{i}не торопиться{/i}"
-msgstr ""
+msgstr "{i}prenditi il tuo tempo{/i}"
 
 # game/dialogues/alicetalk.rpy:831
 msgid "А почему на тебе трусики?"
-msgstr ""
+msgstr "E perché indossi le mutandine?"
 
 # game/dialogues/alicetalk.rpy:848
 msgid "{i}стянуть с неё трусики и продолжить массаж{/i}"
-msgstr ""
+msgstr "{i}togliersi le mutandine e continuare il massaggio{/i}"
 
 # game/dialogues/alicetalk.rpy:922
 msgid "Да, это будет на десерт..."
-msgstr ""
+msgstr "Sì, sarà per dessert..."
 
 # game/dialogues/alicetalk.rpy:922
 msgid "{i}продолжать молча{/i}"
-msgstr ""
+msgstr "{i}continuare in silenzio{/i}"
 
 # game/dialogues/alicetalk.rpy:925
 msgid "{i}попытаться приставать{/i}"
-msgstr ""
+msgstr "{i}prova a molestare{/i}"
 
 # game/dialogues/alicetalk.rpy:925
 msgid "{i}продолжать массаж{/i}"
-msgstr ""
+msgstr "{i}continuare il massaggio{/i}"
 
 # game/dialogues/alicetalk.rpy:943
 msgid "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
-msgstr ""
+msgstr "Beh, posso essere il tuo ragazzo... Almeno per un'ora... o quanto vuoi..."
 
 # game/dialogues/alicetalk.rpy:1190
 msgid "{i}ласкать её киску через одежду{/i}"
-msgstr ""
+msgstr "{i}accarezzarla attraverso i suoi vestiti{/i}"
 
 # game/dialogues/alicetalk.rpy:1264
 msgid "{i}снять с Алисы трусики{/i}"
-msgstr ""
+msgstr "{i}togli le mutandine di Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:1264
 msgid "{i}снять с Алисы шортики{/i}"
-msgstr ""
+msgstr "{i}rimuovere i pantaloncini di Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:1288
 msgid "{i}ласкать её киску языком{/i}"
-msgstr ""
+msgstr "{i}accarezzarla con la lingua{/i}"
 
 # game/dialogues/alicetalk.rpy:1305
 msgid "{i}ещё быстрее работать языком{/i}"
-msgstr ""
+msgstr "{i}funzionano ancora più velocemente nel{/i}"
 
 # game/dialogues/alicetalk.rpy:1394
 msgid "{i}сдерживаться{/i}"
-msgstr ""
+msgstr "{i}trattenere{/i}"
 
 # game/dialogues/alicetalk.rpy:1453
 msgid "Спасибо, кэп!"
-msgstr ""
+msgstr "Grazie, Cap!"
 
 # game/dialogues/alicetalk.rpy:1453
 msgid "Очень смешно..."
-msgstr ""
+msgstr "Molto divertente..."
 
 # game/dialogues/alicetalk.rpy:1453
 msgid "Это понятно, а какую? Только не говори, что бумажную..."
-msgstr ""
+msgstr "È comprensibile, ma quale? Basta non dire carta..."
 
 # game/dialogues/alicetalk.rpy:1464
 msgid "Не всё равно, раз спрашиваю"
-msgstr ""
+msgstr "Non importa se chiedo"
 
 # game/dialogues/alicetalk.rpy:1464
 msgid "Так ты скажешь или нет?"
-msgstr ""
+msgstr "Quindi dici o no?"
 
 # game/dialogues/alicetalk.rpy:1470
 msgid "Какой-то дамский роман?"
-msgstr ""
+msgstr "Qualche romanzo per donne?"
 
 # game/dialogues/alicetalk.rpy:1470
 msgid "Какие-то сопли с сахаром?"
-msgstr ""
+msgstr "Qualche mo momo con lo zucchero?"
 
 # game/dialogues/alicetalk.rpy:1470
 msgid "Неужели справочник по квантовой механике?"
-msgstr ""
+msgstr "È un manuale di meccanica quantistica?"
 
 # game/dialogues/alicetalk.rpy:1479
 msgid "Ну и ладно!"
-msgstr ""
+msgstr "Oh bene!"
 
 # game/dialogues/alicetalk.rpy:1479
 msgid "{i}узнать подробнее о \"Возможностях\"{/i}"
-msgstr ""
+msgstr "{i}ulteriori informazioni sulle \"Caratteristiche\"{/i}"
 
 # game/dialogues/alicetalk.rpy:1496
 msgid "А если уйду, что мне за это будет?"
-msgstr ""
+msgstr "E se me ne vado, cosa otterrò per questo?"
 
 # game/dialogues/alicetalk.rpy:1496
 msgid "Ну ок, только я ничего не обещаю..."
-msgstr ""
+msgstr "Ok, ma non prometto nulla..."
 
 # game/dialogues/alicetalk.rpy:1503
 msgid "Ну да. Мама что с тобой сделает, если узнает?"
-msgstr ""
+msgstr "Pensa così. La mamma ti farà se lo scopre?"
 
 # game/dialogues/alicetalk.rpy:1503
 msgid "Ну, мы можем договориться"
-msgstr ""
+msgstr "Bene, possiamo negoziare"
 
 # game/dialogues/alicetalk.rpy:1503
 msgid "Как знать, может быть..."
-msgstr ""
+msgstr "Chissà, forse..."
 
 # game/dialogues/alicetalk.rpy:1503
 msgid "Нет, конечно. Мне жизнь дорога!"
-msgstr ""
+msgstr "No, certo che no. La vita mi è cara!"
 
 # game/dialogues/alicetalk.rpy:1506
 msgid "Не хочешь расстраивать маму или получить по заднице?"
-msgstr ""
+msgstr "Non vuoi turbare tua madre o prendere un?"
 
 # game/dialogues/alicetalk.rpy:1506
 msgid "Мы всё ещё можем договориться..."
-msgstr ""
+msgstr "Possiamo ancora essere d'accordo..."
 
 # game/dialogues/alicetalk.rpy:1506
 msgid "Посмотрим..."
-msgstr ""
+msgstr "Vediamo..."
 
 # game/dialogues/alicetalk.rpy:1506
 msgid "Ну ладно, ладно..."
-msgstr ""
+msgstr "Va bene, va bene..."
 
 # game/dialogues/alicetalk.rpy:1533
 msgid "Если заплатишь, буду молчать"
-msgstr ""
+msgstr "Se paghi, io taccio"
 
 # game/dialogues/alicetalk.rpy:1533
 msgid "Покажи сиськи!"
-msgstr ""
+msgstr "Mostra le tue tette!"
 
 # game/dialogues/alicetalk.rpy:1533
 msgid "Сними трусы!"
-msgstr ""
+msgstr "Togliti le mutandine!"
 
 # game/dialogues/alicetalk.rpy:1533
 msgid "Отсоси мне!"
-msgstr ""
+msgstr "Succhiami!"
 
 # game/dialogues/alicetalk.rpy:1533
 msgid "Ты будешь мне должна услугу"
-msgstr ""
+msgstr "Mi dovrai un favore"
 
 # game/dialogues/alicetalk.rpy:1536
 msgid "Ну, давай"
-msgstr ""
+msgstr "Dai"
 
 # game/dialogues/alicetalk.rpy:1536
 msgid "Нет, этого мало..."
-msgstr ""
+msgstr "No, non basta..."
 
 # game/dialogues/alicetalk.rpy:1543
 msgid "Так!"
-msgstr ""
+msgstr "Così!"
 
 # game/dialogues/alicetalk.rpy:1543
 msgid "Как знать..."
-msgstr ""
+msgstr "Chissà..."
 
 # game/dialogues/alicetalk.rpy:1548
 msgid "Ну, как скажешь..."
-msgstr ""
+msgstr "Beh, come dici tu..."
 
 # game/dialogues/alicetalk.rpy:1586
 msgid "Покажешь сиськи, когда попрошу..."
-msgstr ""
+msgstr "Mostrami bouncs quando chiedo..."
 
 # game/dialogues/alicetalk.rpy:1586
 msgid "Разденешься, когда скажу..."
-msgstr ""
+msgstr "Ti disacierai quando dico..."
 
 # game/dialogues/alicetalk.rpy:1586
 msgid "Отсосёшь, когда нужно будет..."
-msgstr ""
+msgstr "Succhialo quando ne hai bisogno..."
 
 # game/dialogues/alicetalk.rpy:1586
 msgid "Я ещё не решил..."
-msgstr ""
+msgstr "Non ho ancora deciso..."
 
 # game/dialogues/alicetalk.rpy:1611
 msgid "Хорошо..."
-msgstr ""
+msgstr "Ok..."
 
 # game/dialogues/alicetalk.rpy:1624
 msgid "Да хотел узнать, что ты куришь?"
-msgstr ""
+msgstr "Volevi sapere cosa fumi?"
 
 # game/dialogues/alicetalk.rpy:1624
 msgid "Нет, ничего..."
-msgstr ""
+msgstr "No, niente..."
 
 # game/dialogues/alicetalk.rpy:1627
 msgid "Просто любопытно"
-msgstr ""
+msgstr "Semplicemente curioso"
 
 # game/dialogues/alicetalk.rpy:1627
 msgid "Для поддержания разговора"
-msgstr ""
+msgstr "Per mantenere la conversazione in corso"
 
 # game/dialogues/alicetalk.rpy:1627
 msgid "А, не важно..."
-msgstr ""
+msgstr "Ah, non importa..."
 
 # game/dialogues/alicetalk.rpy:1640
 msgid "Скучаешь о нём?"
-msgstr ""
+msgstr "Ti manca?"
 
 # game/dialogues/alicetalk.rpy:1640
 msgid "Может, и мне попробовать?"
-msgstr ""
+msgstr "Forse dovrei provarlo?"
 
 # game/dialogues/alicetalk.rpy:1647
 msgid "Может быть, тебе помочь?"
-msgstr ""
+msgstr "Forse aiutarti?"
 
 # game/dialogues/alicetalk.rpy:1647
 msgid "Ну и ладно..."
-msgstr ""
+msgstr "Oh beh..."
 
 # game/dialogues/alicetalk.rpy:1651
 msgid "Ну, я попробую через интернет"
-msgstr ""
+msgstr "Bene, lo proverò online"
 
 # game/dialogues/alicetalk.rpy:1651
 msgid "Может быть..."
-msgstr ""
+msgstr "Potrebbe essere..."
 
 # game/dialogues/alicetalk.rpy:1677
 msgid "А что взамен?"
-msgstr ""
+msgstr "E cosa in cambio?"
 
 # game/dialogues/alicetalk.rpy:1677
 msgid "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
-msgstr ""
+msgstr "Mettiamoci d'accordo sul fatto che non dirai a tua madre di come ti ho sbirciato sotto la doccia..."
 
 # game/dialogues/alicetalk.rpy:1677
 msgid "Держи!"
-msgstr ""
+msgstr "Aspettare!"
 
 # game/dialogues/alicetalk.rpy:1709
 msgid "Нет, конечно!"
-msgstr ""
+msgstr "No, certo che no!"
 
 # game/dialogues/alicetalk.rpy:1714
 msgid "Дай $20, и я буду молчать"
-msgstr ""
+msgstr "Dai € 20 e rimarrò in silenzio"
 
 # game/dialogues/alicetalk.rpy:1714
 msgid "Если днём ты будешь ходить без трусов, буду молчать"
-msgstr ""
+msgstr "Se durante il giorno camminerai senza mutandine, io rimarrò in silenzio"
 
 # game/dialogues/alicetalk.rpy:1714
 msgid "Если будешь курить без верха, буду молчать"
-msgstr ""
+msgstr "Se fumi senza top, rimarrò in silenzio"
 
 # game/dialogues/alicetalk.rpy:1714
 msgid "Если разрешишь тебя отшлёпать, ничего не скажу"
-msgstr ""
+msgstr "Se ti permetti di sculacciarti, non dirò nulla"
 
 # game/dialogues/alicetalk.rpy:1714
 msgid "Ничего. Не переживай!"
-msgstr ""
+msgstr "Non c'è problema. Non preoccuparti!"
 
 # game/dialogues/alicetalk.rpy:1735
 msgid "Угу..."
-msgstr ""
+msgstr "Uh-huh..."
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Дай $20, и я ничего не скажу"
-msgstr ""
+msgstr "Dai € 20 e non dirò nulla"
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Если больше не будешь носить лифчик, буду молчать"
-msgstr ""
+msgstr "Se non indosso più il reggiseno, rimarrò in silenzio."
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Если будешь курить без верха купальника, буду молчать"
-msgstr ""
+msgstr "Se fumi senza la parte superiore del costume da bagno, rimarrò in silenzio."
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
-msgstr ""
+msgstr "Se vuoi che tua madre non sappia nulla, camminerai senza jeans."
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
-msgstr ""
+msgstr "Se mi lasci sculacciare, non dirò nulla!"
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Хочу, чтобы ты спала голой!"
-msgstr ""
+msgstr "Voglio che tu dorma nudo!"
 
 # game/dialogues/alicetalk.rpy:1749
 msgid "Ты знаешь, я сегодня добрый..."
-msgstr ""
+msgstr "Sai, oggi sono gentile..."
 
 # game/dialogues/alicetalk.rpy:1767
 msgid "Нет. Или получаешь вечером по заднице или не одеваешь джинсы."
-msgstr ""
+msgstr "No. O ti prendi il la sera o non indossi i jeans."
 
 # game/dialogues/alicetalk.rpy:1772
 msgid "Конечно!"
-msgstr ""
+msgstr "Certo!"
 
 # game/dialogues/alicetalk.rpy:1804
 msgid "Но сейчас тебя есть за что отшлёпать!"
-msgstr ""
+msgstr "Ma ora hai qualcosa da sculacciare!"
 
 # game/dialogues/alicetalk.rpy:1810
 msgid "{i}подождать Алису{/i}"
-msgstr ""
+msgstr "{i}aspettare Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:1847
 msgid "Что ты! Нет, конечно..."
-msgstr ""
+msgstr "Cosa stai! No, certo che no..."
 
 # game/dialogues/alicetalk.rpy:1915
 msgid "Нет, давай $20"
-msgstr ""
+msgstr "No, diamo € 20"
 
 # game/dialogues/alicetalk.rpy:1915
 msgid "Хорошо, устроит и $10"
-msgstr ""
+msgstr "Va bene, si adatta e € 10"
 
 # game/dialogues/alicetalk.rpy:1931
 msgid "Удачи!"
-msgstr ""
+msgstr "Buona Fortuna!"
 
 # game/dialogues/alicetalk.rpy:1948
 msgid "{i}Ну, как скажешь...{/i}"
-msgstr ""
+msgstr "{i}Beh, come dici tu... {/i}"
 
 # game/dialogues/alicetalk.rpy:1962
 msgid "Доволен, конечно!"
-msgstr ""
+msgstr "Sono soddisfatto, ovviamente!"
 
 # game/dialogues/alicetalk.rpy:1962
 msgid "А чего ты прикрываешься?"
-msgstr ""
+msgstr "E cosa ti nascondi dietro?"
 
 # game/dialogues/alicetalk.rpy:1962
 msgid "Я передумал. Можешь одеться."
-msgstr ""
+msgstr "Ho cambiato idea. Puoi vestirti."
 
 # game/dialogues/alicetalk.rpy:1965
 msgid "Не переживай, не скажу"
-msgstr ""
+msgstr "Non ti preoccupare, non dirò"
 
 # game/dialogues/alicetalk.rpy:1965
 msgid "Ну... это зависит от тебя!"
-msgstr ""
+msgstr "Bene... sta a te!"
 
 # game/dialogues/alicetalk.rpy:1978
 msgid "Ну, я перегнул палку..."
-msgstr ""
+msgstr "Beh, sono andato troppo oltre..."
 
 # game/dialogues/alicetalk.rpy:1978
 msgid "Это мой шаг к дружбе"
-msgstr ""
+msgstr "Questo è il mio passo verso l'amicizia"
 
 # game/dialogues/alicetalk.rpy:1978
 msgid "Да надоела!"
-msgstr ""
+msgstr "Sì stanco!"
 
 # game/dialogues/alicetalk.rpy:1978
 msgid "Ты знаешь, пусть всё остаётся как есть..."
-msgstr ""
+msgstr "Sai, lascia che rimanga così com'è..."
 
 # game/dialogues/alicetalk.rpy:1991
 msgid "{i}свалить{/i}"
-msgstr ""
+msgstr "{i}dump{/i}"
 
 # game/dialogues/alicetalk.rpy:2024
 msgid "Ага..."
-msgstr ""
+msgstr "Aha..."
 
 # game/dialogues/alicetalk.rpy:2037
 msgid "Ничего, просто любуюсь..."
-msgstr ""
+msgstr "Niente, solo ammirando..."
 
 # game/dialogues/alicetalk.rpy:2037
 msgid "А ты чего в трусах?"
-msgstr ""
+msgstr "E cosa sei nelle tue mutande?"
 
 # game/dialogues/alicetalk.rpy:2037
 msgid "Я передумал. Можешь носить трусы..."
-msgstr ""
+msgstr "Ho cambiato idea. Puoi indossare le mutandine..."
 
 # game/dialogues/alicetalk.rpy:2043
 msgid "Мы же договорились - без трусов!"
-msgstr ""
+msgstr "Abbiamo concordato - senza mutandine!"
 
 # game/dialogues/alicetalk.rpy:2043
 msgid "Да шучу я..."
-msgstr ""
+msgstr "Non ho i soldi..."
 
 # game/dialogues/alicetalk.rpy:2093
 msgid "Я передумал. Ты можешь спать в лифчике, если хочешь."
-msgstr ""
+msgstr "Ho cambiato idea. Puoi dormire in un reggiseno se vuoi."
 
 # game/dialogues/alicetalk.rpy:2093
 msgid "Я передумал. Ты можешь спать в нижнем белье..."
-msgstr ""
+msgstr "Ho cambiato idea. Puoi dormire in mutande..."
 
 # game/dialogues/alicetalk.rpy:2119
 msgid "Я передумал. Ты можешь носить свои джинсы, если захочешь."
-msgstr ""
+msgstr "Ho cambiato idea. Puoi indossare i tuoi jeans se vuoi."
 
 # game/dialogues/alicetalk.rpy:2287
 msgid "Держи..."
-msgstr ""
+msgstr "Aspettare..."
 
 # game/dialogues/alicetalk.rpy:2287
 msgid "Не так быстро..."
-msgstr ""
+msgstr "Rallenta..."
 
 # game/dialogues/alicetalk.rpy:2292
 msgid "Да ничего, просто держи..."
-msgstr ""
+msgstr "Niente, aspetta..."
 
 # game/dialogues/alicetalk.rpy:2292
 msgid "Устрой мне показ в нём..."
-msgstr ""
+msgstr "Dammi uno spettacolo in esso..."
 
 # game/dialogues/alicetalk.rpy:2325
 msgid "Э... Хорошо..."
-msgstr ""
+msgstr "Uh... Ok..."
 
 # game/dialogues/alicetalk.rpy:2341
 msgid "Очень... очень хорошо..."
-msgstr ""
+msgstr "Moltissimo... Molto bene..."
 
 # game/dialogues/alicetalk.rpy:2341
 msgid "А можешь наклониться?"
-msgstr ""
+msgstr "Riesci a piegarti?"
 
 # game/dialogues/alicetalk.rpy:2369
 msgid "Порылся в твоих вещах и нашёл, что читаешь!"
-msgstr ""
+msgstr "Ho rovistato tra le tue cose e ho trovato quello che stavi leggendo!"
 
 # game/dialogues/alicetalk.rpy:2369
 msgid "Ну, я догадался! Я же умный!"
-msgstr ""
+msgstr "Beh, ho indovinato! Sono intelligente!"
 
 # game/dialogues/alicetalk.rpy:2369
 msgid "Я и не знал. Просто угадал видимо..."
-msgstr ""
+msgstr "Non lo sapevo. Ho appena indovinato a quanto pare..."
 
 # game/dialogues/alicetalk.rpy:2473
 msgid "Ага, я и не подглядываю..."
-msgstr ""
+msgstr "Sì, non sto sbirciando..."
 
 # game/dialogues/alicetalk.rpy:2565
 msgid "Нет, просто хотел увидеть, как на тебе будет смотреться пижама..."
-msgstr ""
+msgstr "No, volevo solo vedere come ti avrebbe guardato il tuo pigiama..."
 
 # game/dialogues/alicetalk.rpy:2620
 msgid "Может быть, тебя намазать кремом для загара?"
-msgstr ""
+msgstr "Forse ti spalmi con la protezione solare?"
 
 # game/dialogues/alicetalk.rpy:2620
 msgid "{i}Предложить Алисе намазать её кремом{/i}"
-msgstr ""
+msgstr "{i}suggerisci ad Alice di spalmare la sua crema{/i}"
 
 # game/dialogues/alicetalk.rpy:2620
 msgid "Ладно, загорай..."
-msgstr ""
+msgstr "Ok, prendi il sole..."
 
 # game/dialogues/alicetalk.rpy:2662
 msgid "{i}нанести крем{/i}"
-msgstr ""
+msgstr "{i}applicare la crema{/i}"
 
 # game/dialogues/alicetalk.rpy:2662
 msgid "{i}сделать массаж с кремом{/i}"
-msgstr ""
+msgstr "massaggio {i}con crema{/i}"
 
 # game/dialogues/alicetalk.rpy:2662
 msgid "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\n"
 "крема недостаточно{/color}{/i}"
-msgstr ""
+msgstr "{i}{color=[gray]}per ottenere un massaggio alla crema{/color}{color=[red]}\n"
+"la crema non è sufficiente{/color}{/i}"
 
 # game/dialogues/alicetalk.rpy:2662
 msgid "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
-msgstr ""
+msgstr "{i}accidenti, la crema è quasi finita... Dai, un'altra volta allora... {/i}"
 
 # game/dialogues/alicetalk.rpy:2678
 msgid "{i}наносить крем молча{/i}"
-msgstr ""
+msgstr "{i}applicare la crema in silenzio{/i}"
 
 # game/dialogues/alicetalk.rpy:2678
 msgid "А тебе нравится, что следы от лямок остаются?"
-msgstr ""
+msgstr "Ti piace che le tracce delle cinghie rimangano?"
 
 # game/dialogues/alicetalk.rpy:2701
 msgid "Массаж"
-msgstr ""
+msgstr "Massaggio"
 
 # game/dialogues/alicetalk.rpy:2701
 msgid "Массаж ступней"
-msgstr ""
+msgstr "Massaggio ai piedi"
 
 # game/dialogues/alicetalk.rpy:2701
 msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr ""
+msgstr "Questo è un metodo unico di massaggio per avere un effetto curativo sul corpo. È efficace e allo stesso tempo semplice da eseguire."
 
 # game/dialogues/alicetalk.rpy:2701
 msgid "Массаж кистей рук"
-msgstr ""
+msgstr "Massaggio alle mani"
 
 # game/dialogues/alicetalk.rpy:2831
 msgid "{i}массировать молча{/i}"
-msgstr ""
+msgstr "massaggio {i}in silenzio{/i}"
 
 # game/dialogues/alicetalk.rpy:2856
 msgid "{i}выпустить рядом паука{/i}"
-msgstr ""
+msgstr "{i}rilascia uno spider accanto ad esso{/i}"
 
 # game/dialogues/alicetalk.rpy:2985
 msgid "Что, стесняешься?"
-msgstr ""
+msgstr "Sei imbarazzato?"
 
 # game/dialogues/alicetalk.rpy:2985
 msgid "Ну, как хочешь..."
-msgstr ""
+msgstr "Beh, come vuoi..."
 
 # game/dialogues/alicetalk.rpy:3058
 msgid "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
-msgstr ""
+msgstr "Sediamoci così, aspettiamo. Fuori striscia via..."
 
 # game/dialogues/alicetalk.rpy:3058
 msgid "Спрячься за меня, хотя бы..."
-msgstr ""
+msgstr "Nasconditi dietro di me, almeno..."
 
 # game/dialogues/alicetalk.rpy:3058
 msgid "{i}потискать Алису за грудь{/i}"
-msgstr ""
+msgstr "{i}per spremere il seno di Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:3191
 msgid "{i}убрать руки{/i}"
-msgstr ""
+msgstr "{i}rimuovi le mani{/i}"
 
 # game/dialogues/alicetalk.rpy:3191
 msgid "{i}тискать дальше...{/i}"
-msgstr ""
+msgstr "{i}spremere su... {/i}"
 
 # game/dialogues/alicetalk.rpy:3329
 msgid "Да я же случайно оказался около душа..."
-msgstr ""
+msgstr "Sì, mi è capitato di essere vicino alla doccia. . ."
 
 # game/dialogues/alicetalk.rpy:3735
 msgid "Хочется надеяться, что так и будет..."
-msgstr ""
+msgstr "Speriamo che sia così..."
 
 # game/dialogues/alicetalk.rpy:3819
 msgid "Именно на это я и надеюсь..."
-msgstr ""
+msgstr "Questo è quello che spero..."
 
 # game/dialogues/alicetalk.rpy:3903
 msgid "Только если без последующего насилия..."
-msgstr ""
+msgstr "Solo se senza successive violenze..."
 
 # game/dialogues/alicetalk.rpy:4085
 msgid "Ты мне кое-что показала..."
-msgstr ""
+msgstr "Mi hai mostrato qualcosa..."
 
 # game/dialogues/alicetalk.rpy:4085
 msgid "Ты мне кое-что сделала..."
-msgstr ""
+msgstr "Mi hai fatto qualcosa..."
 
 # game/dialogues/alicetalk.rpy:4085
 msgid "Мы делали кое-что..."
-msgstr ""
+msgstr "Abbiamo fatto qualcosa..."
 
 # game/dialogues/alicetalk.rpy:4085
 msgid "Да, ну извини..."
-msgstr ""
+msgstr "Sì, beh, mi dispiace..."
 
 # game/dialogues/alicetalk.rpy:4168
 msgid "Ничего..."
-msgstr ""
+msgstr "Non c'è problema..."
 
 # game/dialogues/alicetalk.rpy:4168
 msgid "Может, попозируешь для меня..."
-msgstr ""
+msgstr "Forse mi chiederete..."
 
 # game/dialogues/alicetalk.rpy:4204
 msgid "Ну что, примеришь при мне?"
-msgstr ""
+msgstr "Bene, provalo con me?"
 
 # game/dialogues/alicetalk.rpy:4504
 msgid "{i}подглядывать{/i}"
-msgstr ""
+msgstr "{i}non sbirciare{/i}"
 
 # game/dialogues/alicetalk.rpy:4504
 msgid "{i}ждать{/i}"
-msgstr ""
+msgstr "{i}wait{/i}"
 
 # game/dialogues/alicetalk.rpy:4602
 msgid "Ладно, как знаешь..."
-msgstr ""
+msgstr "Ok, come sai..."
 
 # game/dialogues/alicetalk.rpy:4698
 msgid "{i}стянуть верх купальника{/i}"
-msgstr ""
+msgstr "{i}togliere la parte superiore del costume da bagno{/i}"
 
 # game/dialogues/alicetalk.rpy:4704
 msgid "{i}стянуть низ купальника{/i}"
-msgstr ""
+msgstr "{i}tirare il fondo del costume da bagno{/i}"
 
 # game/dialogues/alicetalk.rpy:4711
 msgid "{i}шлёпать сильно{/i}"
-msgstr ""
+msgstr "{i}schiaffo duro{/i}"
 
 # game/dialogues/alicetalk.rpy:4798
 msgid "{i}шлёпать нежно{/i}"
-msgstr ""
+msgstr "{i}sculacciare delicatamente{/i}"
 
 # game/dialogues/alicetalk.rpy:4806
 msgid "И как, тебе нравится?"
-msgstr ""
+msgstr "E come, ti piace?"
 
 # game/dialogues/alicetalk.rpy:4806
 msgid "Могу сильнее, раз ты заскучала!"
-msgstr ""
+msgstr "Posso farlo più duramente, dato che sei annoiato!"
 
 # game/dialogues/alicetalk.rpy:4951
 msgid "{i}идти за Алисой{/i}"
-msgstr ""
+msgstr "{i}seguire Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:4963
 msgid "{i}войти в комнату{/i}"
-msgstr ""
+msgstr "{i}entra nella stanza{/i}"
 
 # game/dialogues/alicetalk.rpy:5083
 msgid "Конфетка, я полагаю, тоже не спасёт. Но я всё равно предложу..."
-msgstr ""
+msgstr "Candy, credo, non salverà neanche. Ma offrirò comunque..."
 
 # game/dialogues/alicetalk.rpy:5195
 msgid "Давай уже быстрее с этим покончим..."
-msgstr ""
+msgstr "Facciamolo prima ..."
 
 # game/dialogues/alicetalk.rpy:5195
 msgid "Ты же понимаешь, что я могу всыпать по твоей заднице в ответ?"
-msgstr ""
+msgstr "Sai che posso prenderti a calci in?"
 
 # game/dialogues/alicetalk.rpy:5203
 msgid "{i}подчиниться{/i}"
-msgstr ""
+msgstr "{i}conformità{/i}"
 
 # game/dialogues/alicetalk.rpy:5203
 msgid "Да пошла ты!"
-msgstr ""
+msgstr "Vaffanculo!"
 
 # game/dialogues/alicetalk.rpy:5235
 msgid "{i}одеться и уйти{/i}"
-msgstr ""
+msgstr "{i}vestirsi e andarsene{/i}"
 
 # game/dialogues/alicetalk.rpy:5278
 msgid "Конфетку? Она ни к чему не обязывает. Просто признание моей испорченности..."
-msgstr ""
+msgstr "Caramella? Non obbliga a nulla. Solo un'ammissione della mia depravazione..."
 
 # game/dialogues/alicetalk.rpy:5278
 msgid "То же мне, преступника нашла..."
-msgstr ""
+msgstr "Lo stesso per me, il criminale trovato ..."
 
 # game/dialogues/alicetalk.rpy:5296
 msgid "Хотя, знаешь... Я передумал. Лучше уж от мамы получить..."
-msgstr ""
+msgstr "Anche se, sai... Ho cambiato idea. È meglio prendere da mia madre..."
 
 # game/dialogues/alicetalk.rpy:5330
 msgid "{i}снять одежду{/i}"
-msgstr ""
+msgstr "{i}togliermi i vestiti{/i}"
 
 # game/dialogues/alicetalk.rpy:5341
 msgid "Ничего. Подождёшь, не развалишься..."
-msgstr ""
+msgstr "Non c'è problema. Aspetta, non cadere a pezzi..."
 
 # game/dialogues/alicetalk.rpy:5348
 msgid "Накажи меня! Я это заслужил..."
-msgstr ""
+msgstr "Puniscimi! Me lo sono meritato..."
 
 # game/dialogues/alicetalk.rpy:5348
 msgid "Давай уже быстрее, тебя ждём..."
-msgstr ""
+msgstr "Andiamo più veloci, ti aspettiamo..."
 
 # game/dialogues/alicetalk.rpy:5355
 msgid "Да, я виноват и меня нужно наказать!"
-msgstr ""
+msgstr "Sì, sono colpevole e ho bisogno di essere punito!"
 
 # game/dialogues/alicetalk.rpy:5387
 msgid "Вертел я тебя знаешь на чём?!"
-msgstr ""
+msgstr "Sputo ti conosco su cosa?!"
 
 # game/dialogues/alicetalk.rpy:5476
 msgid "Как-то мне страшно это озвучивать..."
-msgstr ""
+msgstr "In qualche modo ho paura di esprimerlo..."
 
 # game/dialogues/alicetalk.rpy:5476
 msgid "Для начала, я бы полюбовался твоими прелестями поближе!"
-msgstr ""
+msgstr "Per cominciare, darei un'occhiata più da vicino alle tue delizie!"
 
 # game/dialogues/alicetalk.rpy:5492
 msgid "А ты меня развяжи и мы это исправим..."
-msgstr ""
+msgstr "E mi undierai e lo risolveremo ..."
 
 # game/dialogues/alicetalk.rpy:5492
 msgid "Раз я привязан, то на меня можно очень удобно присесть..."
-msgstr ""
+msgstr "Dato che sono attaccato, puoi sederti su di me molto comodamente ..."
 
 # game/dialogues/alicetalk.rpy:5527
 msgid "{i}ласкать её грудь языком{/i}"
-msgstr ""
+msgstr "{i}accarezza il suo seno con la mia lingua{/i}"
 
 # game/dialogues/alicetalk.rpy:5527
 msgid "{i}ласкать её грудь губами{/i}"
-msgstr ""
+msgstr "{i}accarezza il seno con le labbra{/i}"
 
 # game/dialogues/alicetalk.rpy:5568
 msgid "{i}продолжить ласкать{/i}"
-msgstr ""
+msgstr "{i}continua ad accarezzare{/i}"
 
 # game/dialogues/alicetalk.rpy:5576
 msgid "{i}целоваться с Алисой{/i}"
-msgstr ""
+msgstr "{i}bacio Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:5618
 msgid "{i}пытаться впечатлить{/i}"
-msgstr ""
+msgstr "{i}prova a impressionare{/i}"
 
 # game/dialogues/alicetalk.rpy:5651
 msgid "{i}дать Алисе кончить{/i}"
-msgstr ""
+msgstr "{i}lascia Alice cum{/i}"
 
 # game/dialogues/alicetalk.rpy:5719
 msgid "Ага, не вопрос. Сделаю."
-msgstr ""
+msgstr "Sì, non c'è dubbio. Fare."
 
 # game/dialogues/alicetalk.rpy:5719
 msgid "Нет, лучше давай сама..."
-msgstr ""
+msgstr "No, preferirei andare da solo..."
 
 # game/dialogues/alicetalk.rpy:5724
 msgid "{i}отнести тарелки на веранду{/i}"
-msgstr ""
+msgstr "{i}portare i piatti in veranda{/i}"
 
 # game/dialogues/alicetalk.rpy:5739
 msgid "{i}приступить к ужину{/i}"
-msgstr ""
+msgstr "{i}per iniziare la cena{/i}"
 
 # game/dialogues/alicetalk.rpy:5739
 msgid "{i}подмешать Эрику в тарелку слабительное{/i}"
-msgstr ""
+msgstr "{i}mescolare Eric in un lassativo piatto{/i}"
 
 # game/dialogues/alicetalk.rpy:5739
 msgid "{i}подмешать Эрику в тарелку успокоительное{/i}"
-msgstr ""
+msgstr "{i}mescolare Eric in un piatto di sedativi{/i}"
 
 # game/dialogues/alicetalk.rpy:5781
 msgid "{b}Оповещение:{/b} Алиса больше не хочет взаимодействовать с Максом"
-msgstr ""
+msgstr "{b}Attenzione:{/b} Alice non vuole più interagire con Max"
 
