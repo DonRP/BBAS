@@ -24,8 +24,8 @@ dict = {
     # first
     r'msgid "(.*?) \[special_delimiter\] (.*?)"':       r'    # "\1" "\2"',
     r'msgstr "(.*?) \[special_delimiter\] (.*?)"':      r'    "\1" "\2"',
-    r'msgstr "\[(.*?)\] (.*?)"':                        r'    \1 "\2"',
     r':\nmsgid "(.*?)"':                                r':\n    # "\1"',
+    r'    #(.*?)\nmsgstr "\[(.*?)\] (.*?)"':            r'    #\1\n    #(.*?)\n    \2 "\3"',
     r'    # (.*?)\nmsgstr "(.*?)"':                     r'    # \1\n    "\2"',
     # after
     # r'# (.*?) "(.*?)"': r'msgid "[\1] \2"',
