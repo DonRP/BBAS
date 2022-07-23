@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/dialogues/oliviatalk.po\n"
-# "X-italian-File-ID: 3468\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:35\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/oliviatalk.rpy:19
 translate italian OliviaTalkStart_26661b27:
@@ -1490,9 +1476,6 @@ translate italian olivia_give_sunscreen_0860fa68:
     # Max_01 "Тогда, до следующего раза, девчонки." nointeract
     Max_01 "Alla prossima volta, allora, ragazze." nointeract
 
-translate italian strings:
-
-    # game/dialogues/oliviatalk.rpy:11
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Anche se, no... In realtà ho cose da fare..."
 
@@ -1543,5 +1526,4 @@ translate italian strings:
     # game/dialogues/oliviatalk.rpy:645
     old "{i}делать массаж Оливии{/i}"
     new "{i}fare un massaggio a Olivia{/i}"
-#--- "Ignore this. translate only: One"
 

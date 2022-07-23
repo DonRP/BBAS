@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/dialogues/christina.po\n"
-# "X-italian-File-ID: 3458\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/christina.rpy:7
 translate italian christina_first_talk_a072d515:
@@ -194,14 +180,10 @@ translate italian christina_first_talk_204a6521_1:
     # Max_01 "Я тоже, Кристина! Пока."
     Max_01 "anch'io, Christina! Finalmente."
 
-translate italian strings:
-
-    # game/dialogues/christina.rpy:25
     old "Хорошего тебе дня!"
     new "Buona Giornata!"
 
     # game/dialogues/christina.rpy:25
     old "А чем вечером будешь заниматься? Давай погуляем!?"
     new "E cosa farai la sera? Facciamo una passeggiata!?"
-#--- "Ignore this. translate only: One"
 

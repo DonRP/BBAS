@@ -1,20 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/core/10_main_menu.po\n"
-# "X-italian-File-ID: 3440\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:35\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
-
-translate italian strings:
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
 
     # game/core/10_main_menu.rpy:51
     old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
@@ -151,5 +135,4 @@ translate italian strings:
     # game/core/10_main_menu.rpy:421
     old "Колготки"
     new "Collant"
-#--- "Ignore this. translate only: One"
 

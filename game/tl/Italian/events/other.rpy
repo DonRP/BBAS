@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/events/other.po\n"
-# "X-italian-File-ID: 3498\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/other.rpy:11
 translate italian shoping_034007bc:
@@ -1247,7 +1233,7 @@ translate italian dictaphone_showdown_with_eric_8684e2a4:
 # game/events/other.rpy:676
 translate italian dictaphone_showdown_with_eric_60fce6d7:
 
-    # {color=[orange]}(все слушают запись...){/color}"
+    # "{color=[orange]}(все слушают запись...){/color}"
     "{color=[orange]}(tutti ascoltano il nastro...){/color}"
 
 # game/events/other.rpy:677
@@ -1550,9 +1536,6 @@ translate italian left_cream_61f00467:
     # Max_08 "{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
     Max_08 "{m}C'è poca crema rimasta, la prossima volta potrebbe non essere sufficiente, è meglio acquistare in anticipo.{/m}"
 
-translate italian strings:
-
-    # game/events/other.rpy:10
     old "Удачи"
     new "Buona Fortuna"
 
@@ -1747,5 +1730,4 @@ translate italian strings:
     # game/events/other.rpy:854
     old "{i}выйти из игры{/i}"
     new "{i}abbandonare{/i}"
-#--- "Ignore this. translate only: One"
 

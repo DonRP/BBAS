@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/events/kira_cam.po\n"
-# "X-italian-File-ID: 3486\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/kira_cam.rpy:7
 translate italian cam0_kira_sleep_night_07884053:
@@ -344,10 +330,6 @@ translate italian cam1_kira_bath_with_eric_90e1f759:
     # Max_09 "{m}Через эту камеру никого не видно... Может посмотреть через другую?{/m}"
     Max_09 "{m}Non si può vedere nessuno attraverso questa telecamera... Dovremmo guardare nell'altro?{/m}"
 
-translate italian strings:
-
-    # game/events/kira_cam.rpy:425
     old "{i}встретить их{/i}"
     new "{i}li incontriamo{/i}"
-#--- "Ignore this. translate only: One"
 

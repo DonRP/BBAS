@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/dialogues/erictalk.po\n"
-# "X-italian-File-ID: 3462\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/erictalk.rpy:17
 translate italian EricTalkStart_210d83ab:
@@ -570,55 +556,55 @@ translate italian Eric_talk_about_Lisa_0_77426e44:
 translate italian Eric_talk_about_Lisa_0_e7f5724b:
 
     # Max_07 "Я слушаю..."
-    Max_07 "sto ascoltando..."
+    Max_07 "Ti ascolto..."
 
 # game/dialogues/erictalk.rpy:397
 translate italian Eric_talk_about_Lisa_0_e5a04ecc:
 
     # Eric_01 "Как там твоя младшая сестрёнка, проявляет сексуальный интерес к кому-нибудь?"
-    Eric_01 "In che modo la tua sorellina è sessualmente interessata a qualcuno?"
+    Eric_01 "A che punto è la tua sorellina, ha un interesse sessuale per qualcuno?"
 
 # game/dialogues/erictalk.rpy:398
 translate italian Eric_talk_about_Lisa_0_0cc9eda2:
 
     # Max_09 "Возможно... А что?"
-    Max_09 "Forse... Che cosa?"
+    Max_09 "Forse... Perché?"
 
 # game/dialogues/erictalk.rpy:400
 translate italian Eric_talk_about_Lisa_0_29ab7eaa:
 
     # Eric_04 "Думаю, пришло время мне взяться за её сексуальное образование. Возражения будут?" nointeract
-    Eric_04 "penso che sia giunto il momento per me di intraprendere la sua educazione sessuale. Ci saranno obiezioni?" nointeract
+    Eric_04 "Penso che sia il momento di occuparmi della sua educazione sessuale. Ci sono obiezioni?" nointeract
 
 # game/dialogues/erictalk.rpy:405
 translate italian Eric_talk_about_Lisa_0_e2daf20d:
 
     # Eric_03 "Вот и славно! Как она реагирует на твои стояки, Макс? Уже привыкла?"
-    Eric_03 "È glorioso! Come reagisce ai tuoi riser, Max? Sei già abituato?"
+    Eric_03 "È grandioso! Come reagisce alle tue erezioni, Max? Ci sei già abituata?"
 
 # game/dialogues/erictalk.rpy:406
 translate italian Eric_talk_about_Lisa_0_8d6f9d1a:
 
     # Max_01 "Более-менее... По крайней мере маму больше не зовёт на помощь."
-    Max_01 "Più o meno... Almeno mia madre non è più chiamata in aiuto."
+    Max_01 "Più o meno... Almeno non chiama più sua madre per chiedere aiuto."
 
 # game/dialogues/erictalk.rpy:407
 translate italian Eric_talk_about_Lisa_0_d948e080:
 
     # Eric_02 "Уже неплохо. А о мальчиках много спрашивает?"
-    Eric_02 "Non male. E dei ragazzi molte persone chiedono?"
+    Eric_02 "Non male. E chiede molto sui ragazzi?"
 
 # game/dialogues/erictalk.rpy:408
 translate italian Eric_talk_about_Lisa_0_94d23536:
 
     # Max_02 "Я ей книгу подарил по секс-образованию. Она как раз сейчас её читает."
-    Max_02 "le ho dato un libro sull'educazione sessuale. Lo sta leggendo proprio ora."
+    Max_02 "Le ho dato un libro sull'educazione sessuale. Lo sta leggendo in questo momento."
 
 # game/dialogues/erictalk.rpy:409
 translate italian Eric_talk_about_Lisa_0_832a57f9:
 
     # Eric_05 "Вот это ты хорошо сделал, Макс! Мне меньше работы будет... А с тебя содействие на счёт Лизы, если вдруг оно мне понадобится. Она теперь моя, так что больше ничему её не учи, я сделаю это сам."
-    Eric_05 "Questo è quello che hai fatto bene, Max! Avrò meno lavoro da fare... E da te assistenza a spese di Lisa, se all'improvviso ne ho bisogno. Ora è mia, quindi non le insegno nient'altro, lo farò da solo."
+    Eric_05 "Hai fatto bene, Max! Meno lavoro per me... E tu mi darai un piccolo aiuto sul con Lisa, nel caso ne avessi bisogno. Ora è mia, quindi non insegnatele altro, lo farò io da solo."
 
 # game/dialogues/erictalk.rpy:410
 translate italian Eric_talk_about_Lisa_0_8d96290d:
@@ -636,31 +622,31 @@ translate italian Eric_talk_about_Lisa_0_7767603c:
 translate italian Eric_talk_about_Lisa_0_8adb268b:
 
     # Max_09 "В том, что мы с тобой друзья... А я, как ты сейчас сказал, облегчил тебе задачу по обучению Лизы! Хотелось бы тоже что-то получить за это."
-    Max_09 "Il fatto che tu ed io siamo amici... E io, come hai appena detto, ti ho reso più facile addestrare Lisa! Mi piacerebbe ottenere qualcosa anche per questo."
+    Max_09 "Il fatto che io e te siamo amici... E come hai appena detto, ti ho facilitato l'insegnamento di Lisa! Mi piacerebbe avere qualcosa in cambio."
 
 # game/dialogues/erictalk.rpy:413
 translate italian Eric_talk_about_Lisa_0_bfb417f6:
 
     # Eric_01 "Ладно, это будет справедливо. Но давай обсудим это в другой раз? Ты как раз хорошенько подумаешь, чего хочешь. И когда надумаешь, то подходи, только смотри чтобы мы были наедине."
-    Eric_01 "Va bene, è giusto. Ma discutiamone un'altra volta? Penserai attentamente a ciò che vuoi. E quando pensi, vieni su, cerca solo che siamo soli."
+    Eric_01 "Va bene, è giusto. Ma possiamo discuterne un'altra volta? Pensa attentamente a quello che vuoi. E quando lo sai, assicurati che siamo soli."
 
 # game/dialogues/erictalk.rpy:414
 translate italian Eric_talk_about_Lisa_0_108fbf0f:
 
     # Max_07 "Договорились. Но подглядывать же можно будет... за тем, чему ты будешь её учить?"
-    Max_07 "d'accordo. Ma sarà possibile sbirciare... cosa hai intenzione di insegnarle?"
+    Max_07 "D'accordo. Ma sarà possibile sbirciare... cosa hai intenzione di insegnarle?"
 
 # game/dialogues/erictalk.rpy:415
 translate italian Eric_talk_about_Lisa_0_c8565167:
 
     # Eric_02 "Ну если тебе интересно, то да. Ты можешь подглядывать за нашими с Лизой... уроками. В комнате Ани... Я так и быть, позабочусь, чтобы тебя не заметили."
-    Eric_02 "Beh, se sei interessato, sì. Puoi spiare la nostra Lisa e io... Lezioni. Nella stanza di Ani... Farò in modo che tu non ti faccia notare."
+    Eric_02 "Beh, se sei interessato, sì. Puoi sbirciare me e Lisa... lezioni. Nella stanza di Anm... Farò in modo che tu non possa essere notato."
 
 # game/dialogues/erictalk.rpy:416
 translate italian Eric_talk_about_Lisa_0_00a3aa0c:
 
     # Max_02 "О, класс! Обязательно гляну..."
-    Max_02 "Oh, classe! Sarò sicuro di dare un'occhiata..."
+    Max_02 "Oh, fantastico! Darò sicuramente un'occhiata..."
 
 # game/dialogues/erictalk.rpy:427
 translate italian Eric_talk_about_Lisa_0_bf62eaee:
@@ -732,7 +718,7 @@ translate italian Eric_talk_about_Lisa_1_77426e44:
 translate italian Eric_talk_about_Lisa_1_b13b8f39:
 
     # Max_07 "Я слушаю... Что такое?"
-    Max_07 "sto ascoltando... Che cosa?"
+    Max_07 "Sto ascoltando... Che cosa?"
 
 # game/dialogues/erictalk.rpy:470
 translate italian Eric_talk_about_Lisa_1_ed483f99:
@@ -954,7 +940,7 @@ translate italian Eric_talk_about_Alice_1_77426e44:
 translate italian Eric_talk_about_Alice_1_b13b8f39:
 
     # Max_07 "Я слушаю... Что такое?"
-    Max_07 "sto ascoltando... Che cosa?"
+    Max_07 "Sto ascoltando... Che cosa?"
 
 # game/dialogues/erictalk.rpy:559
 translate italian Eric_talk_about_Alice_1_6c5a1fd9:
@@ -1553,7 +1539,7 @@ translate italian Eric_with_dictaphone_5e5e5db9:
 # game/dialogues/erictalk.rpy:857
 translate italian Eric_with_dictaphone_fde14d10:
 
-    # {color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
+    # "{color=[orange]}( Затем наступил тот самый ужин, когда все решилось... ){/color}"
     "{color=[orange]}( Poi venne la cena, quando tutto fu deciso... ){/color}"
 
 # game/dialogues/erictalk.rpy:861
@@ -2022,7 +2008,7 @@ translate italian Eric_stopLisa_bonus_b64e4b51:
 translate italian Eric_stopLisa_bonus_e7f5724b:
 
     # Max_07 "Я слушаю..."
-    Max_07 "sto ascoltando..."
+    Max_07 "Ti ascolto..."
 
 # game/dialogues/erictalk.rpy:1013
 translate italian Eric_stopLisa_bonus_35b241fd:
@@ -2240,9 +2226,6 @@ translate italian Eric_ask_no_stockings_6fbaeb06:
     # Max_01 "Спасибо!" nointeract
     Max_01 "Grazie!" nointeract
 
-translate italian strings:
-
-    # game/dialogues/erictalk.rpy:11
     old "{i}В другой раз...{/i}"
     new "{i}Un'altra volta... {/i}"
 
@@ -2345,5 +2328,4 @@ translate italian strings:
     # game/dialogues/erictalk.rpy:909
     old "{i}уйти мыть посуду{/i}"
     new "{i}andare a fare i piatti{/i}"
-#--- "Ignore this. translate only: One"
 

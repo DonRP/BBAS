@@ -1,20 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/extra/extra.po\n"
-# "X-italian-File-ID: 3500\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
-
-translate italian strings:
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
 
     # game/extra/extra.rpy:60
     old "Новый купальник Лизы"
@@ -27,6 +11,10 @@ translate italian strings:
     # game/extra/extra.rpy:60
     old "Тёмное кружево"
     new "Pizzo scuro"
+
+    # game/extra/extra.rpy:60
+    old "Влажные фантазии"
+    new "Fantasie bagnate"
 
     # game/extra/extra.rpy:60
     old "Давай я нанесу крем"
@@ -276,36 +264,51 @@ translate italian strings:
     old "Кружевное боди для Алисы от Эрика"
     new "Body in pizzo per Alice di Eric"
 
-    # game/extra/extra.rpy:168
+    # game/extra/extra.rpy:60
+    old "1-ый интимный урок с Анной"
+    new "La 1° lezione intima con Anna"
+
+    # game/extra/extra.rpy:60
+    old "2-ый интимный урок с Анной"
+    new "2a lezione intima con Anna"
+
+    # game/extra/extra.rpy:60
+    old "3-ый интимный урок с Анной"
+    new "La 3a lezione intima con Anna"
+
+    # game/extra/extra.rpy:60
+    old "4-ый интимный урок с Анной"
+    new "La quarta lezione intima con Anna"
+
+    # game/extra/extra.rpy:175
     old "ВОСПОМИНАНИЯ"
     new "RICORDI"
 
-    # game/extra/extra.rpy:171
+    # game/extra/extra.rpy:178
     old "ФОТОСНИМКИ"
     new "FOTO"
 
-    # game/extra/extra.rpy:222
+    # game/extra/extra.rpy:231
     old "Воспоминание недоступно"
     new "La memoria non è disponibile"
 
-    # game/extra/extra.rpy:228
+    # game/extra/extra.rpy:237
     old "Воспоминание ещё не открыто"
     new "La memoria non è ancora aperta"
 
-    # game/extra/extra.rpy:234
+    # game/extra/extra.rpy:243
     old "В вашей коллекции ещё нет фотоснимков."
     new "Non ci sono ancora foto nella tua collezione."
 
-    # game/extra/extra.rpy:303
+    # game/extra/extra.rpy:312
     old "Предыдущий снимок"
     new "Foto precedente"
 
-    # game/extra/extra.rpy:309
+    # game/extra/extra.rpy:318
     old "Вернуться в коллекцию"
     new "Torna alla collezione"
 
-    # game/extra/extra.rpy:314
+    # game/extra/extra.rpy:323
     old "Следующий снимок"
     new "Immagine successiva"
-#--- "Ignore this. translate only: One"
 

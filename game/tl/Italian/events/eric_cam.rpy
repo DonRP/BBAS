@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/events/eric_cam.po\n"
-# "X-italian-File-ID: 3482\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/eric_cam.rpy:13
 translate italian cam0_eric_ann_sleep_b363be42:
@@ -380,10 +366,6 @@ translate italian cam1_eric_kira_night_swim_45123771:
     # Max_10 "{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
     Max_10 "{m}Oh, merda! Sembra che Kira stia dando piacere a Eric per non darlo in pasto a sua madre...{/m}"
 
-translate italian strings:
-
-    # game/events/eric_cam.rpy:436
     old "{i}идти к комнате Алисы{/i}"
     new "{i}vai nella stanza di Alice{/i}"
-#--- "Ignore this. translate only: One"
 

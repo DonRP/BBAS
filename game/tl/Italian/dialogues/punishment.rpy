@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/dialogues/punishment.po\n"
-# "X-italian-File-ID: 3470\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/punishment.rpy:99
 translate italian StartPunishment_42b2fac4:
@@ -848,9 +834,6 @@ translate italian punishment_alice_3006a77e:
     # Ann_12 "Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
     Ann_12 "Beh, hai imparato una lezione? Vergognoso? Corretto. Dovrebbe essere un peccato. Speriamo che questo non accada di nuovo. Ora, vestiti..."
 
-translate italian strings:
-
-    # game/dialogues/punishment.rpy:207
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 
@@ -973,5 +956,4 @@ translate italian strings:
     # game/dialogues/punishment.rpy:691
     old "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
     new "Bene, Alice, ti vergogni? Silenzioso? Pensa al tuo atto mentre io ti punisco davanti a tutti... Sdraiati sulle mie ginocchia!"
-#--- "Ignore this. translate only: One"
 

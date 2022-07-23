@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/events/alice_cam.po\n"
-# "X-italian-File-ID: 3474\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/events/alice_cam.rpy:25
 translate italian cam0_alice_sleep_night_8807f690:
@@ -572,9 +558,6 @@ translate italian cam0_blog_with_Eric_4181192f:
     # Max_08 "{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
     Max_08 "{m}Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog... Ma davvero, solo per guardare Alice in mutande, lo so...{/m}"
 
-translate italian strings:
-
-    # game/events/alice_cam.rpy:57
     old "{i}Конечно{/i}"
     new "{i}Certo{/i}"
 
@@ -597,5 +580,4 @@ translate italian strings:
     # game/events/alice_cam.rpy:332
     old "{i}достаточно{/i}"
     new "{i}abbastanza{/i}"
-#--- "Ignore this. translate only: One"
 

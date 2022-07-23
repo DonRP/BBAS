@@ -1,20 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/core/09_opportunities.po\n"
-# "X-italian-File-ID: 3438\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:35\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
-
-translate italian strings:
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
 
     # game/core/09_opportunities.rpy:4
     old "Скрытые камеры"
@@ -225,10 +209,6 @@ translate italian strings:
     new "Così io e mia madre abbiamo finito di guardare Il colore della notte. Ho ammirato di nuovo i suoi seni nudi e, in generale, le cose vanno bene per noi. Comincia lentamente a capire che sono un adulto e non resiste più a guardare questo tipo di film con me. Per amor di decenza, naturalmente, mia madre mi ha detto di non comprare più tali erotici espliciti, ma come se io volessi ascoltare!"
 
     # game/core/09_opportunities.rpy:4
-    old "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь! \n\nСамое обидное, это то, что мы слишком редко когда можем посмотреть вместе с мамой ТВ."
-    new "Così io e mia madre abbiamo finito di guardare Il colore della notte. Ho ammirato di nuovo i suoi seni nudi e, in generale, le cose vanno bene per noi. Comincia lentamente a capire che sono un adulto e non resiste più a guardare questo tipo di film con me. Per amor di decenza, naturalmente, mia madre mi ha detto di non comprare più tali erotici espliciti, ma come se io volessi ascoltare!\n\nLa cosa più frustrante è che anche noi riusciamo troppo raramente a guardare la TV insieme alla mamma."
-
-    # game/core/09_opportunities.rpy:4
     old "Потребуются успехи в возможности \"Контроль\"..."
     new "Saranno necessari progressi nella capacità di \"controllo\"..."
 
@@ -239,6 +219,10 @@ translate italian strings:
     # game/core/09_opportunities.rpy:4
     old "Нужно попробовать сделать маме массаж спины, пока она смотрит ТВ..."
     new "Devi provare a fare un massaggio alla schiena alla mamma mentre guarda la TV..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь! \n\nСамое обидное, это то, что мы слишком редко когда можем посмотреть вместе с мамой ТВ."
+    new "Così io e mia madre abbiamo finito di guardare Il colore della notte. Ho ammirato di nuovo i suoi seni nudi e, in generale, le cose vanno bene per noi. Comincia lentamente a capire che sono un adulto e non resiste più a guardare questo tipo di film con me. Per amor di decenza, naturalmente, mia madre mi ha detto di non comprare più tali erotici espliciti, ma come se io volessi ascoltare!\n\nLa cosa più frustrante è che anche noi riusciamo troppo raramente a guardare la TV insieme alla mamma."
 
     # game/core/09_opportunities.rpy:4
     old "Вот мы с мамой и досмотрели \"Цвет ночи\". Я снова полюбовался её голой грудью и вообще, в целом, всё у нас складывается хорошо. Она понемногу начинает понимать, что я уже взрослый и уже не противится смотреть со мной такие фильмы. Ради приличия мама, конечно сказала, чтобы столь откровенную эротику я больше не покупал, но как будто я послушаюсь! \n\nСамое обидное, это то, что мы слишком редко когда можем посмотреть вместе с мамой ТВ. Нужно сперва избавиться от Эрика, а уже потом покупать эротические фильмы. Пока только массаж время от времени..."
@@ -261,8 +245,16 @@ translate italian strings:
     new "Credo che questo sia sufficiente per cercare di convincerla a nuove lezioni intime... Massaggi alla schiena eseguiti con successo per la mamma alla TV: [ann.flags.m_back] su 3"
 
     # game/core/09_opportunities.rpy:4
+    old "Потребуются успехи в возможности \"Волнующие изгибы\"..."
+    new "Gli anticipi saranno necessari nell'opportunità Exciting Bends..."
+
+    # game/core/09_opportunities.rpy:4
     old "Может быть, попробовать поговорить с мамой, когда она принимает ванну? Это отличное место, чтобы напомнить ей о том, что они с Эриком мне показывали в своей комнате..."
     new "Magari prova a parlare con la mamma mentre fa il bagno, è un ottimo posto per ricordarle quello che lei ed Eric mi stavano mostrando nella loro stanza..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Осталось проверить, изменилась ли реакция мамы на мой стояк. Лучше быть без майки..."
+    new "Resta da vedere se la reazione della mamma alla mia erezione è cambiata. Meglio essere a torso nudo..."
 
     # game/core/09_opportunities.rpy:4
     old "Похоже, мама обожает массаж спины, а это значит, что мне будет не так-то и просто сделать его на отлично. Но, если хотя бы иногда будет получаться, то уже хорошо и я смогу, например, обнимать её сзади, когда она будет грустить на балконе."
@@ -271,6 +263,14 @@ translate italian strings:
     # game/core/09_opportunities.rpy:4
     old "Думаю, этого хватит, чтобы я мог обнимать маму сзади и ей от этого было бы комфортно... Успешно выполнено массажей спины мамы у ТВ: [ann.flags.m_back] из 3"
     new "Credo che questo sia sufficiente per abbracciare mia madre da dietro e la farebbe sentire a suo agio... Massaggi alla schiena eseguiti con successo per la mamma alla TV: [ann.flags.m_back] su 3"
+
+    # game/core/09_opportunities.rpy:4
+    old "После всех этих интимных маминых уроков в ванне, она уже гораздо спокойней воспринимает моё возбуждение во время массажа. Может, в дальнейшем, это и вовсе перестанет её напрягать и она позволит мне помассировать не только спину и плечи, но и грудь?"
+    new "Dopo tutte le lezioni di intimità impartite dalla mamma nella vasca da bagno, è già molto più rilassata riguardo alla mia eccitazione durante il massaggio. Forse in futuro non le darà più fastidio e mi permetterà di massaggiarle non solo la schiena e le spalle, ma anche il seno?"
+
+    # game/core/09_opportunities.rpy:4
+    old "После всех этих ночных маминых фантазий, она уже гораздо спокойней воспринимает моё возбуждение во время массажа. Может, в дальнейшем, это и вовсе перестанет её напрягать и она позволит мне помассировать не только спину и плечи, но и грудь?"
+    new "Dopo tutte queste fantasie notturne della mamma, è già molto più rilassata riguardo alla mia eccitazione durante il massaggio. Forse in futuro non le darà più fastidio e mi permetterà di massaggiarle non solo la schiena e le spalle, ma anche il seno?"
 
     # game/core/09_opportunities.rpy:4
     old "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
@@ -391,6 +391,14 @@ translate italian strings:
     # game/core/09_opportunities.rpy:4
     old "Нужно больше подарков для Алисы, а значит потребуются успехи в возможности \"Блог\"..."
     new "Abbiamo bisogno di più regali per Alice, il che significa che sarà richiesto il successo nell'opportunità \"Blog\"..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Теперь с Алисой можно вести себя посмелее..."
+    new "Ora potete essere più coraggiosi con Alice..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Эрик подарил Алисе кружевное боди раньше меня, а значит я упустил возможность ещё больше с ней сблизиться. По крайней мере, пока не избавлюсь от него (но не в этой версии игры)..."
+    new "Eric ha dato ad Alice un body di pizzo davanti a me, il che significa che ho perso l'opportunità di avvicinarmi ancora di più a lei. Almeno fino a quando non me ne libererò (ma non in questa versione del gioco)..."
 
     # game/core/09_opportunities.rpy:4
     old "Такие игры с Алисой в ванной комнате уже куда интереснее... Вот бы она ещё помнила, что вытворяет, хотя бы немного. Ну, а пока, у меня есть всё, чтобы оттачивать на Алисе свой сексуальный опыт. Нужно лишь не забывать давать ей ещё одну конфету с ликёром по возвращению из клуба. А уже где я её застану, у зеркала или в ванне, зависит от того, сколько времени я потрачу на тётю Киру."
@@ -1941,10 +1949,6 @@ translate italian strings:
     new "Ci vorrà un po' di progresso nel \"Cosa vediamo, mamma?\"..."
 
     # game/core/09_opportunities.rpy:4
-    old "Потребуются успехи в возможности \"Волнующие изгибы\"..."
-    new "Gli anticipi saranno necessari nell'opportunità Exciting Bends..."
-
-    # game/core/09_opportunities.rpy:4
     old "Вот так дела! Из-за того, что сексуальное воспитание Лизы теперь доверено мне, я лишился порно-шоу с мамой. Очень обидно, если не сказать похуже. Правда, Эрик намекнул, что если мне будет, что ему рассказать, то это шоу можно будет возобновить. Но это должна быть стоящая информация и она у меня есть! Я сразу же рассказал Эрику о нас с Кирой и его это приятно удивило! Ещё бы, узнать, что у тебя под боком имеется порноактриса... Я тоже был приятно удивлен, когда это узнал. Теперь нужно подыграть Эрику в ванне с Кирой, когда он якобы случайно на нас натолкнётся, чтобы и ему было с ней проще, и я смог возобновить шоу с мамой."
     new "Questo è lo spirito giusto! Poiché l'educazione sessuale di Lisa è ora affidata a me, ho perso il mio spettacolo porno con mia madre. È un peccato, per non dire altro. È vero, Eric mi ha accennato che se avessi avuto qualcosa da dirgli, lo spettacolo poteva essere ripreso. Ma doveva essere un'informazione utile e io l'avevo! Ho subito detto a Eric di me e Kira e lui è rimasto piacevolmente sorpreso! Era sorpreso di scoprire che avevi un'attrice porno come secondo lavoro... Anch'io sono rimasto piacevolmente sorpreso quando l'ho scoperto. Ora devo stare al gioco di Eric nella vasca con Kira quando presumibilmente ci sbatte contro per caso, in modo che lui possa facilitare anche lei, e io possa riprendere lo spettacolo con mia madre."
 
@@ -1953,12 +1957,60 @@ translate italian strings:
     new "Sembra che la mia chiacchierata sfacciata con mia madre sia stata un successo! Naturalmente, se Eric non mi avesse dato quelle lezioni di pompini, non sarei stato in grado di convincere mia madre a continuarle. \nDavvero, finora ha solo accettato di pensarci, quindi forse dirà ancora di no. Potrebbe non essere facile convincerla a farlo, ma credo che lo farà, prima o poi."
 
     # game/core/09_opportunities.rpy:4
+    old "Через несколько дней нужно будет спросить маму о том, подумала ли она о моей просьбе..."
+    new "Tra qualche giorno dovrei chiedere a mia madre se ha pensato alla mia richiesta..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Чтобы у меня появилась возможность начать интимные уроки с мамой, нужно чтобы она смотрела ТВ одна..."
+    new "Per poter iniziare le lezioni di intimità con mia madre, ho bisogno che lei guardi la TV da sola..."
+
+    # game/core/09_opportunities.rpy:4
     old "Вот нас и поймали с поличным! Конечно, это был спектакль специально для Киры, чтобы Эрик получал свой любимый минет теперь и от неё, а я получу порно-шоу с мамой. Главное, с Эриком не забыть поговорить об этом!"
     new "Eccoci colti in flagrante! Naturalmente, questo era uno spettacolo specialmente per Kira, in modo che Eric avrebbe avuto il suo pompino preferito ora anche da lei, e io avrei avuto uno spettacolo porno con mia madre. La cosa principale è ricordarsi di parlarne con Eric!"
 
     # game/core/09_opportunities.rpy:4
-    old "Наконец-то я смог попасть на порно-шоу с мамой и Эриком! Тёте Кире, правда, теперь придётся за мои прихоти отдуваться перед Эриком... В промежутках между шоу, нужно будет найти способ присоединиться к Кире с Эриком. Может быть, даже удастся поучаствовать в их... развлечениях..."
-    new "Finalmente sono riuscito ad andare ad uno spettacolo porno con mia madre ed Eric! La zia Kira, tuttavia, avrebbe dovuto rispondere a Eric dei miei capricci... Tra uno spettacolo e l'altro, dovremo trovare un modo per raggiungere Kira ed Eric. Forse anche arrivare a partecipare al loro... intrattenimento..."
+    old "Наконец-то я смог попасть на порно-шоу с мамой и Эриком! Тёте Кире, правда, теперь придётся за мои прихоти отдуваться перед Эриком... В промежутках между шоу, нужно будет найти способ присоединиться к Кире с Эриком. Может быть, даже удастся поучаствовать в их... развлечениях... Да и маму можно попробовать развести на продолжение уроков по минету, которые организовал Эрик. По крайней мере, можно выразить недовольство тем, что мне никто не разъяснил, каким образом следует ублажать женщин!"
+    new "Finalmente sono riuscita ad andare ad uno spettacolo porno con mia madre ed Eric! Zia Kira, tuttavia, avrebbe dovuto rispondere a Eric dei miei capricci... Tra uno spettacolo e l'altro, dovremo trovare un modo per raggiungere Kira ed Eric. Forse anche di partecipare alla loro... Intrattenimento... Oh, e la mamma potrebbe cercare di farle continuare le lezioni di pompino che Eric ha organizzato. Almeno potevo lamentarmi del fatto che nessuno mi aveva spiegato come piacere alle donne!"
+
+    # game/core/09_opportunities.rpy:4
+    old "Чтобы произвести самый сильный эффект по вопросу об интимных уроках, с мамой следует поговорить тогда, когда она принимает ванну..."
+    new "Per avere l'effetto più forte sul tema delle lezioni intime, dovreste parlare con vostra madre mentre fa il bagno..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Наконец-то мы с мамой посмотрели порнушку, да ещё и с якобы обучающими целями. \nСтранно, что когда я спросил о том, когда мы увиденное будем практиковать, она сильно удивилась. Должно быть она думала, что отделается просмотром порно с некоторыми комментариями. \nНо моя наглость не знает границ и уже через несколько минут я целовал её шею и массировал её грудь! Просто сказочные сиськи! \nНо вот когда речь зашла о том, чтобы переместиться ниже... Тут мама уже наотрез отказалась. \nБлаго, это не проблема, ведь тётя Кира всегда поможет. И мне кажется, что моя уверенность на счёт тёти Киры, теперь не даст маме покоя. Она точно решит проверить, что мы ничем таким не балуемся, как только у неё будет время."
+    new "Infine, io e mia madre abbiamo guardato un po' di porno, e anche a scopo presumibilmente educativo. \nStranamente, quando le ho chiesto quando avremmo messo in pratica ciò che avevamo visto, è rimasta molto sorpresa. Deve aver pensato di cavarsela guardando un porno con qualche commento. \nMa la mia insolenza non conosce limiti e in pochi minuti le stavo baciando il collo e massaggiando i seni! Tette semplicemente favolose! \nMa quando si trattava di spostarsi più in basso... La mamma si rifiutò di andare oltre. \nPer fortuna non era un problema, perché zia Kira ci aiutava sempre. E credo che la mia fiducia nella zia Kira avrà la meglio sulla mamma. Si assicurerà che non ci dilettiamo in cose del genere non appena ne avrà il tempo."
+
+    # game/core/09_opportunities.rpy:4
+    old "По воскресеньям мама ночует дома и к тому же одна. Отличные условия для того, чтобы она не смогла заснуть, пока не проверит, не с Кирой ли я провожу время ночью..."
+    new "La domenica mia madre passa la notte a casa ed è anch'essa sola. Le condizioni perfette perché non riesca a dormire finché non controlla se passo la notte con Kira..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Сказать, что мама была шокирована увиденным, ничего не сказать. Тётя Кира отлично отыграла свою роль и теперь мама уже не так категорична в отношении интимных уроков. Лишь бы меня не учила этому развратница Кира. А продолжатся наши с мамой уроки там, где и началась моя инициатива... В ванной комнате! Но это будет возможно, только если Эрика не будет у нас дома."
+    new "Dire che la mamma è rimasta scioccata da ciò che ha visto è dire poco. Zia Kira aveva recitato bene la sua parte e mia madre non era più così irremovibile sulle lezioni intime. Basta che non mi venga insegnato dalla lasciva Kira. E io e mia madre continueremo le nostre lezioni da dove è partita la mia iniziativa... In bagno! Ma questo sarebbe possibile solo se Erica non fosse in casa nostra."
+
+    # game/core/09_opportunities.rpy:4
+    old "Нужно пойти к маме, когда она принимает ванну..."
+    new "Devi andare a casa di tua madre quando sta facendo il bagno..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Нужно пойти к маме, когда она принимает ванну. И лучше стучаться, а не врываться..."
+    new "Devi andare a casa di tua madre quando fa il bagno. Ed è meglio bussare piuttosto che irrompere..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Сказать, что мама была шокирована увиденным, ничего не сказать. Тётя Кира отлично отыграла свою роль и теперь мама уже не так категорична в отношении интимных уроков. Лишь бы меня не учила этому развратница Кира. А продолжатся наши с мамой уроки там, где и началась моя инициатива... В ванной комнате! \nВот только желательно обезвредить Эрика, чтобы он не застукал нас там. Слабительное точно отпадает."
+    new "Dire che la mamma è rimasta scioccata da ciò che ha visto è un eufemismo. Zia Kira ha interpretato perfettamente il suo ruolo e ora la mamma non è più così categorica riguardo alle lezioni intime. Se non me lo insegnasse la dissoluta Kira. E le nostre lezioni con mia madre continueranno dove è iniziata la mia iniziativa... In bagno! \nquesto è solo auspicabile disinnescare Eric in modo che non ci catturi lì. Il lassativo scompare sicuramente."
+
+    # game/core/09_opportunities.rpy:4
+    old "Интимные уроки с совершенно голой мамой в ванне... Ухх... О таком я даже и мечтать не мог. Хотя, что я говорю, об этом я как раз и мечтал! Понятно, что учить меня такому ей не просто, но когда я ласкал её грудь руками и языком - удовольствие она получала однозначно. А значит, ей будет сложно устоять и не пойти дальше... Но смущение от того, что это делает её сын, пусть и в образовательных целях, может перекрыть это удовольствие."
+    new "Lezioni intime con una madre completamente nuda nella vasca da bagno... Ugh... È una cosa che non mi sarei mai sognato di fare. Anche se, come dire, è proprio quello che sognavo! È chiaro che non è facile per lei insegnarmi questo, ma quando le accarezzavo i seni con le mani e la lingua, le piaceva decisamente. Il che significa che sarebbe stato difficile per lei resistere e non andare oltre... Ma l'imbarazzo di farlo fare a suo figlio, anche se a scopo educativo, potrebbe annullare il piacere."
+
+    # game/core/09_opportunities.rpy:4
+    old "Вот мои пальцы и добрались до маминой киски! Она дала мне столько советов... Видимо, компенсирует это тем, чего не получает от Эрика. С такой женщиной, как моя мама нужно выкладываться на все 100%, она того стоит. А Эрику лишь бы себя любимого порадовать. Ох, зря ты так, Эрик... \nПравда, теперь у меня есть сомнения, что эти уроки продолжатся. Мама удивлена, что ей понравилась моя работа руками, а я в открытую пошёл и подрочил на неё в душе. Но, может обойдётся..."
+    new "Qui le mie dita sono arrivate alla figa di mia madre! Mi ha dato così tanti consigli... Immagino che compensi con ciò che non ottiene da Eric. Con una donna come mia madre, devi dare il 100%, ne vale la pena. Eric vuole solo compiacere se stesso. Oh, non dovresti farlo, Eric... \nHo i miei dubbi che queste lezioni continueranno. Mamma è sorpresa che le sia piaciuto il mio lavoro e io sono andato a masturbarla sotto la doccia. Ma forse le passerà..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Ох, как же всё пошло не по плану... Нет, в целом, всё было круто, но я явно перешёл черту, когда довёл маму до оргазма своим языком. Мы должны были закрепить пройденный материал, а я не сдержался и показал ей то, на что способен. Это я, конечно, зря... К тому же ещё и сам не сдержался и кончил прямо на неё... \nМама довольно чётко дала понять, что нашим интимным урокам пришёл конец. Что же теперь делать?"
+    new "Oh, non è andata secondo i piani... No, nel complesso è stato bello, ma ho chiaramente esagerato quando ho fatto provare un orgasmo a mia madre con la lingua. Dovevamo rinforzare ciò che avevamo imparato e io non mi sono trattenuto e le ho mostrato ciò che sapevo fare. Non avrei dovuto farlo... Non ho potuto fare a meno di sborrare proprio sopra di lei... \nLa mamma ha detto chiaramente che le nostre lezioni di intimità erano finite. Cosa fare ora?"
 
     # game/core/09_opportunities.rpy:4
     old "Кристина"
@@ -2145,12 +2197,24 @@ translate italian strings:
     new "Una volta che la mamma si abitua ad essere toccata in modo così poco cerimonioso per il sacro allo yoga, allora potrò confortarla allo stesso modo... Ha aiutato con successo mia madre con lo yoga: [ann.flags.truehelp] su 5"
 
     # game/core/09_opportunities.rpy:4
+    old "После всех этих интимных маминых уроков в ванне, она уже гораздо спокойней воспринимает моё возбуждение во время занятий йогой. Может, в дальнейшем, это и вовсе перестанет её напрягать, а я смогу сделать эту йогу ещё интереснее?"
+    new "Dopo tutte le lezioni di intimità impartite da mia madre nella vasca da bagno, è già molto più rilassata riguardo alla mia eccitazione durante le lezioni di yoga. Forse in futuro non le darà più fastidio e potrò rendere questo yoga ancora più interessante?"
+
+    # game/core/09_opportunities.rpy:4
+    old "После всех этих ночных маминых фантазий, она уже гораздо спокойней воспринимает моё возбуждение во время занятий йогой. Может, в дальнейшем, это и вовсе перестанет её напрягать, а я смогу сделать эту йогу ещё интереснее?"
+    new "Dopo tutte queste fantasie notturne della mamma, percepisce già la mia eccitazione durante le lezioni di yoga in modo molto più calmo. Forse in futuro, questo smetterà completamente di stressarlo e posso rendere questo yoga ancora più interessante?"
+
+    # game/core/09_opportunities.rpy:4
     old "Во главе семьи!"
     new "A capo della famiglia!"
 
     # game/core/09_opportunities.rpy:4
     old "После того, как я вывел Эрика на чистую воду, мама однозначно будет переживать, грустить, заниматься самобичеванием... Я обязательно должен быть рядом и, как смогу, утешать и ободрять её. Правда, перед всеми нами она скорее всего будет стараться этого не показывать, поэтому нужно будет периодически заглядывать к ней в комнату и если она будет грустить, побыть с ней."
     new "Dopo aver esposto Eric alla verità, mia madre sarebbe stata sicuramente preoccupata, triste, autoironica... Dovrei sicuramente essere lì per confortarla e incoraggiarla il più possibile. Probabilmente cercherà di non mostrarlo davanti al resto di noi, però, quindi dovrò controllare periodicamente e stare con lei se è triste."
+
+    # game/core/09_opportunities.rpy:4
+    old "Надеюсь, у мамы не будет проблем на работе из-за того, что она разругалась с Эриком. Со временем это станет ясно, а пока нужно поговорить с остальными об Эрике..."
+    new "Spero che la mamma non si metta nei guai al lavoro perché ha litigato con Eric. Questo diventerà chiaro col tempo, ma per ora dobbiamo parlare con gli altri di Eric..."
 
     # game/core/09_opportunities.rpy:4
     old "Чтобы не попадать на мамины переодевания, заходя к ней в комнату, лучше заглядывать во второй половине часа перед её работой..."
@@ -2176,88 +2240,119 @@ translate italian strings:
     old "Как только мама перестанет смущаться моих прикосновений к её сочной попке во время йоги, то и утешать я смогу её куда эффективнее. Для этого потребуются успехи в возможности \"Волнующие изгибы\"..."
     new "Quando la mamma smetterà di essere imbarazzata dal mio toccare il suo culo succoso durante lo yoga, sarò in grado di confortarla molto più efficacemente. Questo richiederà un progresso sull'opportunità di Exciting Bends..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:4
+    old "Нужно присматривать за тем, что делает мама. Вдруг Эрик её в конец достанет и она начнёт искать утешение в чём-то... нехорошем..."
+    new "Dobbiamo tenere d'occhio quello che fa la mamma. Forse Eric le darà sui nervi e lei inizierà a cercare conforto in qualcosa... male..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Вот это новость! Мама начала заливать своё горе алкоголем. Конечно, не в огромных и постоянных масштабах, но её и от малого количества неплохо сносит. Уже с одного только бокальчика вина мне пришлось помогать ей подняться в комнату. Хоть это всё до добра и не доведёт, но я немного воспользовался маминым уязвимым положением... Помог ей переодеться... Остался с ней... Так, на всякий случай. Каково же было моё удивление, когда она начала со мной обниматься и заигрывать! Не знаю о ком она думала в тот момент, но уж точно не обо мне. Вряд ли мама как-то это прояснит, но попытаться можно. В крайнем случае, всегда можно спросить тётю Киру."
+    new "Questa è la notizia! La mamma ha iniziato ad affogare i suoi dispiaceri nell'alcol. Non su scala enorme e costante, naturalmente, ma una piccola quantità era sufficiente a sconvolgerla. Con un solo bicchiere di vino, ho dovuto aiutarla a salire in camera. Non servirà a nulla, ma ho approfittato della vulnerabilità di mia madre... L'ho aiutata a cambiarsi... Sono rimasto con lei... E che sorpresa quando ha iniziato ad abbracciarmi e a flirtare con me! Non so a chi stesse pensando in quel momento, ma di certo non a me. È improbabile che la mamma lo chiarisca in qualche modo, ma vale la pena provare. Come ultima risorsa, posso sempre chiedere a zia Kira."
+
+    # game/core/09_opportunities.rpy:4
+    old "Сперва нужно поговорить с мамой о том, что это такое ночью она вытворяла..."
+    new "Per prima cosa, devo parlare con la mamma di quello che ha fatto di notte..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Неплохо бы поинтересоваться у тёти Киры, пока она загорает, о том, как на маму действует алкоголь..."
+    new "È una buona idea chiedere alla zia Kira, mentre prende il sole, quali sono gli effetti dell'alcol sulla mamma..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Теперь, если мама снова будет прикладываться к выпивке, то я знаю, как ей стоит подыграть, чтобы нам обоим было хорошо..."
+    new "Ora, se la mamma ricomincia a bere, allora so come giocare con lei in modo che ci sentiamo entrambi bene..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Похоже, Кира была права! Мама и правда в выпившем состоянии впадает в какие-то фантазии. Видимо, о каком-то идеальном мужчине... А что, я вполне могу эти фантазии поддержать! Правда, это будет ох как непросто, ведь у меня ухх какая мама! Она ещё не успела заглотить мой член, а я уже перевозбудился, как-будто в первый раз. У меня это действительно первый раз с мамой. Ох, что же будет, если смогу продержаться дольше..."
+    new "Sembra che Kira avesse ragione! La mamma è caduta in una specie di fantasia quando era ubriaca. Apparentemente su un uomo perfetto... Beh, posso sostenere questa fantasia! Non sarà facile, però, perché ho una mamma così bella! Non aveva ancora ingoiato il mio cazzo, ed ero già troppo eccitato, come se fosse la prima volta. Questa è davvero la mia prima volta con mia mamma. Oh, cosa accadrebbe se potessi resistere più a lungo..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Мне бы надо постараться не перевозбуждаться так сильно от маминых ласк, чтобы получить больше..."
+    new "Dovrei cercare di non eccitarmi troppo per le carezze di mia madre, per ottenere di più..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Как же офигенно поддерживать мамины фантазии, когда она выпьет! Сосёт она прямо как мне хочется, ммм... А играться с её киской при этом одно удовольствие! Я уже не могу, так хочу её трахнуть... И ведь могу... Наверно... Но сперва лучше привыкнуть к тому, чем мы занимаемся. А делаем мы это не так уж и часто. Нужно продолжать ей подыгрывать, а уж потом я ей такой трах-бабах устрою..."
+    new "Che bello assecondare le fantasie di mia madre quando beve! Succhia proprio come voglio io, mmm... E giocare con la sua figa è un piacere! Non ce la faccio più, voglio scoparla così tanto... E posso... Immagino... Ma prima è meglio abituarsi a quello che stiamo facendo. E non lo facciamo spesso. Devo continuare a giocare con lei e poi la scopero' cosi' forte..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Нужно хоть немного привыкнуть к минету от мамы, чтобы не облажаться с ней в большем. Успешно выдержано минетов от мамы: [ann.flags.held_out] из 3"
+    new "Ci vuole almeno un po' di tempo per abituarsi a un pompino da parte della mamma, in modo da non sbagliare più con lei. Ho sopportato con successo un pompino da parte di mia madre:[ann.flags.held_out] di 3"
+
+    # game/core/09_opportunities.rpy:1075
     old "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
     new "Forse vale la pena sistemare le scatole di cui parlava mia madre..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
     new "Forse dovresti chiederti cosa vive mia sorella maggiore quando non è seduta nella sua stanza..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "А не посмотреть ли вместе с мамой какой-нибудь фильм? Может и стоит..."
     new "E non guardare con mia madre qualche film? Forse dovrebbe..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
     new "Forse dovresti essere interessato a ciò che vive la mia sorellina quando non è seduta nella sua stanza..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
     new "Forse Alice ha qualche hobby segreto? Se è così, ovviamente lo farà quando ci saranno meno persone a casa..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Алиса любит понежиться на солнышке. Интересно, а она бы разрешила мне растереть ей спину каким-нибудь средством для загара? Стоит узнать..."
     new "Alice ama prendere il sole. Mi chiedo se mi lascerebbe strofinare la schiena con una sorta di agente abbronzante. Vale la pena saperlo..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Почему бы не составить Алисе компанию, когда она смотрит ТВ? А чтобы не сидеть без дела, можно и массаж ей сделать. Только нужно хоть какими-то знаниями обзавестись в этом деле..."
     new "Perché non tenere compagnia ad Alice quando guarda la TV? E per non stare seduto inattivo, puoi massaggiarla. Solo tu hai bisogno di almeno un po 'di conoscenza da acquisire in questa materia ..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Чтобы лезть к Лизе с расспросами о её однокласснике, лучше сперва позаботиться о том, чтобы у неё было хорошее настроение..."
     new "Per arrivare a Lisa con domande sulla sua compagna di classe, è meglio prima assicurarsi che abbia un buon umore ..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "С тётей Кирой о стольком можно поговорить! Нужно успевать, пока она нежится на солнце..."
     new "Puoi parlare con zia Kira di così tanto! Devi tenere il passo mentre lei è in ovatta al sole ..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Если мои сёстры увидят, что я подглядываю за тем, как они принимают душ, то у меня будет много проблем. Но вдруг их удастся чем-то задобрить..."
     new "Se le mie sorelle mi vedono spiare loro mentre si fa la doccia, avrò molti problemi. Ma all'improvviso saranno in grado di placarli con qualcosa..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Эта возможность доступна только при дружбе с Эриком..."
     new "Questa opportunità è disponibile solo con un'amicizia con Eric..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Эрик намекнул, что мне можно подглядывать за тем, чем они с мамой занимаются наедине. Теперь за ними спокойно можно подглядывать в спальне..."
     new "Eric ha lasciato intendere che potevo spiare quello che lui e sua madre stavano facendo in privato. Ora puoi tranquillamente spiarli in camera da letto ..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Эрик явно проявляет к Алисе особый интерес. Нужно приглядывать за этой парочкой, когда они вместе. Но что-то непристойное может происходить и ночью, если вдруг не все будут спать..."
     new "Eric ha chiaramente un interesse speciale per Alice. Devi tenere d'occhio questa coppia quando sono insieme. Ma qualcosa di osceno può accadere di notte, se improvvisamente non tutti dormiranno ..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Нет смысла что-либо затевать в отношении Алисиной попки, пока её хотя бы раз не накажут голой..."
     new "Non ha senso iniziare nulla sul di Alisina fino a quando non viene punita nuda almeno una volta..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Я слишком мало защищал Алису от наказаний мамы..."
     new "Ho difeso Alice troppo poco dalla punizione di mia madre..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Нужно опередить Эрика во всём, что он будет делать для Алисы. Особенно в дарении одежды..."
     new "Devi anticipare Eric in tutto ciò che farà per Alice. Soprattutto nel regalo di vestiti..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Нужно и дальше защищать Алису от наказаний..."
     new "È necessario continuare a proteggere Alice dalla punizione ..."
 
-    # game/core/09_opportunities.rpy:986
-    old "Эрик подарил Алисе кружевное боди раньше меня, а значит я упустил возможность ещё больше с ней сблизиться. По крайней мере, пока не избавлюсь от него (но не в этой версии игры)..."
-    new "Eric ha dato ad Alice un body di pizzo davanti a me, il che significa che ho perso l'opportunità di avvicinarmi ancora di più a lei. Almeno fino a quando non me ne libererò (ma non in questa versione del gioco)..."
-
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
     new "Ho bisogno di passare più tempo con mia madre. Le sue lezioni di yoga mattutine ci aiuteranno ad avvicinarci..."
 
-    # game/core/09_opportunities.rpy:986
+    # game/core/09_opportunities.rpy:1075
     old "Пока мама встречается с Эриком, мне не занять главное место в нашей семье, а значит потребуются успехи в возможности \"Альфа\"..."
     new "Finché mia madre esce con Eric, non potrò prendere il primo posto nella nostra famiglia, il che significa che ci vorrà un progresso nell'opportunità Alpha..."
 
-    # game/core/09_opportunities.rpy:1024
+    # game/core/09_opportunities.rpy:1113
     old "Эта возможность не доступна при дружбе с Эриком..."
     new "Questa opzione non è disponibile quando sei amico di Eric..."
-#--- "Ignore this. translate only: One"
 

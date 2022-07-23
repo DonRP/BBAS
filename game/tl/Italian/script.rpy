@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/script.po\n"
-# "X-italian-File-ID: 3506\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:37\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/script.rpy:58
 translate italian intro_8dea4dcf:
@@ -218,9 +204,6 @@ translate italian about_poss_95f72849:
     # Max_04 "Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
     Max_04 "Ma non dovreste nemmeno averne paura. È attraverso le \"opportunità\" che si possono raggiungere risultati che altri nemmeno sognano!" nointeract
 
-translate italian strings:
-
-    # game/script.rpy:57
     old "{i}далее{/i}"
     new "{i}prosegui{/i}"
 
@@ -251,5 +234,4 @@ translate italian strings:
     # game/script.rpy:121
     old "{i}повторить{/i}"
     new "{i}ripeti{/i}"
-#--- "Ignore this. translate only: One"
 

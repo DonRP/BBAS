@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/dialogues/lisatalk.po\n"
-# "X-italian-File-ID: 3466\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:35\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/lisatalk.rpy:26
 translate italian LisaTalkStart_e91aa3e9:
@@ -1937,7 +1923,7 @@ translate italian Lisa_HomeWork_2e4b11ca:
 # game/dialogues/lisatalk.rpy:1088
 translate italian Lisa_HomeWork_641cf30e:
 
-    # {i}Спустя какое-то время...{/i}"
+    # "{i}Спустя какое-то время...{/i}"
     "{i}Dopo un po'... {/i}"
 
 # game/dialogues/lisatalk.rpy:1089
@@ -2567,7 +2553,7 @@ translate italian Lisa_HomeWork_random_answer_b6886dad:
 # game/dialogues/lisatalk.rpy:1529
 translate italian Lisa_HomeWork_new_self_641cf30e:
 
-    # {i}Спустя какое-то время...{/i}"
+    # "{i}Спустя какое-то время...{/i}"
     "{i}Dopo un po'... {/i}"
 
 # game/dialogues/lisatalk.rpy:1530
@@ -4002,7 +3988,7 @@ translate italian conversation_after_dinner_f5a57d16:
 translate italian conversation_after_dinner_0cc9eda2:
 
     # Max_09 "Возможно... А что?"
-    Max_09 "Forse... Che cosa?"
+    Max_09 "Forse... Perché?"
 
 # game/dialogues/lisatalk.rpy:2324
 translate italian conversation_after_dinner_43c7a7f2:
@@ -9749,7 +9735,7 @@ translate italian lisa_about_stolen_phone_d80ba8b0:
 # game/dialogues/lisatalk.rpy:4622
 translate italian lisa_about_stolen_phone_2a74b2cc:
 
-    # {color=[orange]}(Лиза слушает запись...){/color}"
+    # "{color=[orange]}(Лиза слушает запись...){/color}"
     "{color=[orange]}(Lisa ascolta il nastro...){/color}"
 
 # game/dialogues/lisatalk.rpy:4623
@@ -10604,9 +10590,6 @@ translate italian lisa_read_with_Max_r_29e49474:
     # Max_01 "Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться." nointeract
     Max_01 "Sono contento che ti sia piaciuto... La prossima volta cercherò di fare con calma." nointeract
 
-translate italian strings:
-
-    # game/dialogues/lisatalk.rpy:78
     old "Кажется, я передумал..."
     new "Penso di aver cambiato idea..."
 
@@ -11577,5 +11560,4 @@ translate italian strings:
     # game/dialogues/lisatalk.rpy:5022
     old "{i}целовать её грудь{/i}"
     new "{i}baciarle i seni{/i}"
-#--- "Ignore this. translate only: One"
 

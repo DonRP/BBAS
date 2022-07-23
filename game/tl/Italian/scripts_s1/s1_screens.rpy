@@ -1,6 +1,4 @@
-
-
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings:
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
 
     # game/scripts_s1/s1_screens.rpy:17
     old "ПРЕДУПРЕЖДЕНИЕ!"

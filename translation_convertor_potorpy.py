@@ -18,8 +18,9 @@ dict = {
     r'\n"Project-Id-V(.*)':         r'',
     r'\n"Content-Type(.*)':         r'',
     r'\n"Language-Tea(.*)':         r'',
-    r'\n"Language: it(.*)':         r'',
+    r'\n"Language:(.*)':         r'',
     r'\n"PO-Revision-(.*)':         r'',
+    r'\n"Большой(.*)':         r'',
     r'msgid ""\nmsgstr ""':         r'',
     r'\\n"\n"':                     r'\\n',
     r'\\'+'"':                      r'§§§§§§§§',
@@ -38,10 +39,9 @@ dict = {
     r'msgid "(.*?) \[special_delimiter\] (.*?)"':       r'    # "\1" "\2"',
     r'msgstr "(.*?) \[special_delimiter\] (.*?)"':      r'    "\1" "\2"',
     r':\nmsgid "(.*?)"':                                r':\n    # "\1"',
-    r'    #(.*?)\nmsgstr "\[(.*?)\] (.*?)"':            r'    #\1\n    #(.*?)\n    \2 "\3"',
+    r'    #(.*?)\nmsgstr "\[(.*?)\] (.*?)"':            r'    #\1\n    \2 "\3"',
     r'    # (.*?)\nmsgstr "(.*?)"':                     r'    # \1\n    "\2"',
     # after
-    # r'# (.*?) "(.*?)"': r'msgid "[\1] \2"',
     r'    # "\[(.*?)\] (.*?)"':                         r'    # \1 "\2"',
     # Comment
     r':\n    # ':                                                   r':\n\n    # ',
@@ -50,15 +50,16 @@ dict = {
     r'\n#§translate':                                               r'\ntranslate',
     r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # ':         r'updated at \1-\2-\3 \4:\5\n\n# ',
     # end
-    r'msgid "(.*?)"':           r'    old "\1"',
-    r'msgstr "(.*?)"':          r'    new "\1"',
-    r'\n#(.*?)\n    old "':     r'\n    #\1\n    old "',
-    r'§§§§§§§§': r'\\'+'"',
+    r'msgid "(.*?)"':                       r'    old "\1"',
+    r'msgstr "(.*?)"':                      r'    new "\1"',
+    r'\n#(.*?)\n    old "':                 r'\n    #\1\n    old "',
+    r'\n\n# TODO: Translation updated':     r'# TODO: Translation updated',
+    r'§§§§§§§§':                            r'\\'+'"',
 }
 
 
 # Creating a function to replace the text
-def replacetext(search_text, replace_text, pathFile):
+def replacetext(search_text, replace_text, pathFile, languege):
 
     # Read in the file
     with open(pathFile, "r+", encoding="utf8") as file:
@@ -69,7 +70,7 @@ def replacetext(search_text, replace_text, pathFile):
     # Replace the target string
     # filedata = filedata.replace(search_text, replace_text)
     filedata = re.sub(search_text, replace_text, filedata)
-    # TODO: to improve
+    filedata = re.sub(r'crowdin', languege, filedata)
 
     # Write the file out again
     with open(pathFile, 'w', encoding="utf8") as file:
@@ -77,24 +78,26 @@ def replacetext(search_text, replace_text, pathFile):
     return True
 
 
-def replaceDictionary(pathFile, dict={}):
+def replaceDictionary(pathFile, dict={}, languege="crowdin"):
     newpathFile = fileRename(pathFile, extension=".rpy")
     print(pathFile)
     for search_text in dict.keys():
         replacetext(pathFile=newpathFile, search_text=search_text,
-                    replace_text=dict[search_text])
+                    replace_text=dict[search_text], languege=languege)
 
 
-def getListFiles(extension):
+def getListFiles(extension, languege="**"):
     # Get the list of all files and directories
     path = "game/tl/"
-    dir_list = glob(path + "/**/*"+extension, recursive=True)
+    dir_list =  glob(path + languege+"/*"+extension, recursive=True)
+    if languege != "**":
+        dir_list = dir_list + glob(path + languege+"/**/*"+extension, recursive=True)
     return dir_list
 
 
-def potorpy():
-    for path in getListFiles(extension=".po"):
-        replaceDictionary(path, dict=dict)
+def potorpy(languege):
+    for path in getListFiles(extension=".po", languege=languege):
+        replaceDictionary(path, dict=dict, languege=languege)
 
 
 def fileRename(pathFile, extension):
@@ -103,4 +106,4 @@ def fileRename(pathFile, extension):
     return pre + extension
 
 
-potorpy()
+potorpy("italian")

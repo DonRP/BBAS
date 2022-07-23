@@ -1,18 +1,4 @@
-#     old ""
-# "
-# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-# "X-italian-Project: big-brother-as\n"
-# "X-italian-Project-ID: 461654\n"
-# "X-italian-Language: it\n"
-# "X-italian-File: /master/game/tl/italian/dialogues/dinner.po\n"
-# "X-italian-File-ID: 3460\n"
-# "Project-Id-Version: big-brother-as\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Language-Team: Italian\n"
-# "Language: it_IT\n"
-# "PO-Revision-Date: 2022-03-26 14:36\n"
-
-# TODO: Translation updated at 2022-03-26 HH:HH
+# TODO: Translation updated at 2022-07-09 12:49
 
 # game/dialogues/dinner.rpy:62
 translate italian typical_dinner_abe1c298:
@@ -1892,9 +1878,6 @@ translate italian dinner_lace_lingerie_e0b844ce:
     # Max_01 "Пока, мам..."
     Max_01 "Bye, Mamma..."
 
-translate italian strings:
-
-    # game/dialogues/dinner.rpy:75
     old "Как скажешь, мам..."
     new "Come dici tu, mamma..."
 
@@ -2237,5 +2220,4 @@ translate italian strings:
     # game/dialogues/dinner.rpy:672
     old "Может быть, наоборот?"
     new "Forse il contrario?"
-#--- "Ignore this. translate only: One"
 
