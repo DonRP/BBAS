@@ -10,16 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 msgid "Мама"
-msgstr ""
+msgstr "Mamma"
 
 # game/core/characters.rpy:356
 msgid "Майя"
-msgstr ""
+msgstr "Maya"
 
 # game/core/characters.rpy:369
 msgid "Сэм"
-msgstr ""
+msgstr "Sam"
 
