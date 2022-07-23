@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
-
-#§translate crowdin strings: #|#|# # game/core/characters.rpy:230
+﻿# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/characters.rpy:230
 msgid "Мама"
 msgstr "Мама"
 

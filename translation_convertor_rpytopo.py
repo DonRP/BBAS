@@ -42,6 +42,7 @@ dict = {
     r'strings:\n\n# ': r'strings: #|#|# # ',
     r'\ntranslate': r'\n#§translate',
     r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?)\n\n# ': r'updated at \1-\2-\3 \4:\5 #|#|# # ',
+    r'(.*?):(.*?)\n\n#§': r'\1:\2 #|#|# #§',
     # end
     r'§§§§§§§§': r'\\'+'"',
 }

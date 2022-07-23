@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
-
-#§translate crowdin strings: #|#|# # game/core/10_main_menu.rpy:51
+﻿# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
 msgstr "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
 

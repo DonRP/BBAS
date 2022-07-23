@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
-
-#§translate crowdin strings: #|#|# # game/options.rpy:15
+﻿# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/options.rpy:15
 msgid "Большой брат: Другая история"
 msgstr "Большой брат: Другая история"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
-
-#§translate crowdin strings: #|#|# # game/extra/extra.rpy:60
+﻿# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
 msgstr "Новый купальник Лизы"
 
