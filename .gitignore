@@ -139,3 +139,6 @@ game/cache
 
 # Templete files
 .renpy-sdk
+
+/renpy
+*.rpa
