@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:33\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/max.rpy:4 #-#-# translate crowdin StartDialog_e88dfdc8:
 msgid "[Max_10] {m}Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил...{/m}"
@@ -557,245 +557,245 @@ msgid "[Max_09] {m}Да, диктофон есть. Теперь, пока Ли�
 msgstr "[Max_09] {m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m} [nointeract]"
 
 msgid "{i}установить будильник{/i}"
-msgstr ""
+msgstr "{i}mettre une alarme{/i}"
 
 # game/events/max.rpy:34
 msgid "{i}в 6 утра{/i}"
-msgstr ""
+msgstr "{i}à 6 heures du matin{/i}"
 
 # game/events/max.rpy:34
 msgid "{i}в 7 утра{/i}"
-msgstr ""
+msgstr "{i}à 7 heures du matin{/i}"
 
 # game/events/max.rpy:84
 msgid "{i}вздремнуть{/i}"
-msgstr ""
+msgstr "{i}faire une sieste{/i}"
 
 # game/events/max.rpy:120
 msgid "{i}подремать пару часов{/i}"
-msgstr ""
+msgstr "{i}faire une sieste pendant quelques heures{/i}"
 
 # game/events/max.rpy:120
 msgid "{i}подремать 3 часа{/i}"
-msgstr ""
+msgstr "{i}faire une sieste pendant 3 heures{/i}"
 
 # game/events/max.rpy:120
 msgid "{i}подремать 4 часа{/i}"
-msgstr ""
+msgstr "{i}faire une sieste pendant 4 heures{/i}"
 
 # game/events/max.rpy:120
 msgid "{i}подремать 5 часов{/i}"
-msgstr ""
+msgstr "{i}faire une sieste pendant 5 heures{/i}"
 
 # game/events/max.rpy:120
 msgid "{i}не-а, может позже...{/i}"
-msgstr ""
+msgstr "{i}non, peut-être plus tard... {/i}"
 
 # game/events/max.rpy:278
 msgid "{i}почитать о камерах{/i}"
-msgstr ""
+msgstr "{i}Regarder les caméras{/i}"
 
 # game/events/max.rpy:280
 msgid "{i}читать о блогах{/i}"
-msgstr ""
+msgstr "{i}En apprendre plus sur les blogs{/i}"
 
 # game/events/max.rpy:282
 msgid "{i}узнать о книге Алисы{/i}"
-msgstr ""
+msgstr "{i}Découvrir le livre d'Alice{/i}"
 
 # game/events/max.rpy:284
 msgid "{i}читать о пауках{/i}"
-msgstr ""
+msgstr "{i}En apprendre plus sur les araignées{/i}"
 
 # game/events/max.rpy:286
 msgid "{i}искать информацию по кредитам{/i}"
-msgstr ""
+msgstr "{i}recherche d’informations sur les prêts{/i}"
 
 # game/events/max.rpy:357
 msgid "Оплатить всё ($100)"
-msgstr ""
+msgstr "Payer pour tout (100 $)"
 
 # game/events/max.rpy:364
 msgid "Настроить работу сайта"
-msgstr ""
+msgstr "Configurer votre site"
 
 # game/events/max.rpy:418
 msgid "Собрать статистику"
-msgstr ""
+msgstr "Recueillir des statistiques"
 
 # game/events/max.rpy:418
 msgid "Просмотреть популярные блоги"
-msgstr ""
+msgstr "Voir les blogs populaires"
 
 # game/events/max.rpy:418
 msgid "Почитать комменты на блогах"
-msgstr ""
+msgstr "Lire les commentaires sur les blogs"
 
 # game/events/max.rpy:421
 msgid "Проанализировать результаты"
-msgstr ""
+msgstr "Analyser les résultats"
 
 # game/events/max.rpy:421
 msgid "Построить таблицу"
-msgstr ""
+msgstr "Mettre la table"
 
 # game/events/max.rpy:421
 msgid "Нарисовать график"
-msgstr ""
+msgstr "Dessiner un graphique"
 
 # game/events/max.rpy:424
 msgid "Хм... Так... Ага. Это сюда запишем, это сюда..."
-msgstr ""
+msgstr "Hum... Donc... Ouais. On va écrire ça ici..."
 
 # game/events/max.rpy:426
 msgid "Так. Из этой таблицы мы делаем вывод. Ага. Вот это значит, что... Нет, не так. Вот. Вроде получилось..."
-msgstr ""
+msgstr "Donc. De ce tableau, j'en conclus. Ouais. Voici ce qui signifie que... Non, pas vrai. Voici. Voilà..."
 
 # game/events/max.rpy:428
 msgid "Рисователь графиков из меня ещё тот. Но попробуем. Так, это шкала популярности, это... Ага. Кажется, всё сходится..."
-msgstr ""
+msgstr "Je suis le dessinateur. Mais essayons. Donc, c'est l'échelle de popularité, c'est... Ouais. Tout semble converger..."
 
 # game/events/max.rpy:430
 msgid "Составить список"
-msgstr ""
+msgstr "Faire une liste"
 
 # game/events/max.rpy:430
 msgid "Отсортировать..."
-msgstr ""
+msgstr "Trier..."
 
 # game/events/max.rpy:430
 msgid "Сравнить количество лайков..."
-msgstr ""
+msgstr "Comparer le nombre de likes..."
 
 # game/events/max.rpy:433
 msgid "Так, вычёркиваем из списка этих, вот этих и тех. Что тут у нас остаётся?"
-msgstr ""
+msgstr "On raye de la liste ceux-là, ceux-là et ceux-là?"
 
 # game/events/max.rpy:435
 msgid "Так, сравниваем аудиторию. Время публикации... Исключаем сомнительный контент..."
-msgstr ""
+msgstr "Donc, nous comparons le public. Temps de publication... Exclure le contenu douteux..."
 
 # game/events/max.rpy:437
 msgid "Сортируем по количеству лайков. Убираем тех, кто с дизлайками больше этого процента..."
-msgstr ""
+msgstr "Trier par le nombre de likes. Nous enlevons ceux qui ont des aversions plus que ce pourcentage..."
 
 # game/events/max.rpy:439
 msgid "Воспользоваться поиском"
-msgstr ""
+msgstr "Utiliser la recherche"
 
 # game/events/max.rpy:439
 msgid "Читать всё подряд"
-msgstr ""
+msgstr "Tout lire"
 
 # game/events/max.rpy:439
 msgid "Выбрать лучшие комменты"
-msgstr ""
+msgstr "Sélectionner les meilleurs commentaires"
 
 # game/events/max.rpy:442
 msgid "Так, в поиске мы видим любопытные результаты. Так, выберем то что нам подходит..."
-msgstr ""
+msgstr "Ainsi, dans la recherche, je vois des résultats curieux. Je choisirais ce qui me convient..."
 
 # game/events/max.rpy:444
 msgid "Ох. Всё оказалось ещё хуже. Кажется, тут нет ничего полезного... Хотя. Думаю, можно сделать даже какой-то вывод..."
-msgstr ""
+msgstr "Oh. Tout est encore pire. Il n'y a rien d'utile ici... Quoique. Je pense que je peux même tirer une conclusion..."
 
 # game/events/max.rpy:446
 msgid "Так, топовые комменты все сводятся к одному. Не может быть?"
-msgstr ""
+msgstr "Donc, les principaux commentaires se résument tous à un. Pas possible?"
 
 # game/events/max.rpy:448
 msgid "Сделать вывод..."
-msgstr ""
+msgstr "Déduire..."
 
 # game/events/max.rpy:464
 msgid "{i}читать о книге{/i}"
-msgstr ""
+msgstr "{i}En apprendre plus sur le livre{/i}"
 
 # game/events/max.rpy:480
 msgid "Искать виды насекомых по регионам"
-msgstr ""
+msgstr "Rechercher des espèces d'insectes par région"
 
 # game/events/max.rpy:480
 msgid "Читать где водятся какие пауки"
-msgstr ""
+msgstr "Lire où sont les araignées"
 
 # game/events/max.rpy:487
 msgid "Выяснить, чем питается..."
-msgstr ""
+msgstr "Découvrir ce qu’elle mange..."
 
 # game/events/max.rpy:487
 msgid "Почитать о повадках..."
-msgstr ""
+msgstr "En savoir plus sur les habitudes..."
 
 # game/events/max.rpy:648
 msgid "{i}читать \"WEB STANDARDS\"{/i}"
-msgstr ""
+msgstr "{i}lire les 'WEB STANDARDS'{/i}"
 
 # game/events/max.rpy:648
 msgid "{i}читать \"СЕКС-ОБРАЗОВАНИЕ\"{/i}"
-msgstr ""
+msgstr "{i}lire 'ÉDUCATION SEXUELLE'{/i}"
 
 # game/events/max.rpy:702
 msgid "{i}искать под подушкой{/i}"
-msgstr ""
+msgstr "{i}regarder sous l’oreiller{/i}"
 
 # game/events/max.rpy:702
 msgid "{i}искать в шкафу{/i}"
-msgstr ""
+msgstr "{i}regarder dans le placard{/i}"
 
 # game/events/max.rpy:702
 msgid "{i}прекратить поиски{/i}"
-msgstr ""
+msgstr "{i}arrêter la recherche{/i}"
 
 # game/events/max.rpy:859
 msgid "{i}искать...{/i}"
-msgstr ""
+msgstr "{i}chercher...{/i}"
 
 # game/events/max.rpy:886
 msgid "{i}Подложить сейчас{/i}"
-msgstr ""
+msgstr "{i}Mettre maintenant{/i}"
 
 # game/events/max.rpy:932
 msgid "Вы просматриваете видеоурок и повышаете свои навыки."
-msgstr ""
+msgstr "Regarder des leçons vidéo pour améliorer mes compétences."
 
 # game/events/max.rpy:966
 msgid "{i}подставить Алису{/i}"
-msgstr ""
+msgstr "{i}piéger Alice{/i}"
 
 # game/events/max.rpy:966
 msgid "{i}не подставлять Алису{/i}"
-msgstr ""
+msgstr "{i}ne pas piéger Alice{/i}"
 
 # game/events/max.rpy:1066
 msgid "$500"
-msgstr ""
+msgstr "500 $"
 
 # game/events/max.rpy:1066
 msgid "$1000"
-msgstr ""
+msgstr "1000 $"
 
 # game/events/max.rpy:1066
 msgid "$2000"
-msgstr ""
+msgstr "2000 $"
 
 # game/events/max.rpy:1066
 msgid "$5000"
-msgstr ""
+msgstr "5000 $"
 
 # game/events/max.rpy:1086
 msgid "$50"
-msgstr ""
+msgstr "50 $"
 
 # game/events/max.rpy:1086
 msgid "$100"
-msgstr ""
+msgstr "100 $"
 
 # game/events/max.rpy:1086
 msgid "$200"
-msgstr ""
+msgstr "200 $"
 
 # game/events/max.rpy:1156
 msgid "{i}идти к Эрику с включённым диктофоном{/i}"
-msgstr ""
+msgstr "{i}aller voir Eric avec l'enregistreur activé {/i}"
 
