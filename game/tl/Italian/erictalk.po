@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:54\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/erictalk.rpy:17 #-#-# translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -1497,105 +1497,105 @@ msgid "[Max_01] Спасибо! [nointeract]"
 msgstr "[Max_01] Grazie! [nointeract]"
 
 msgid "{i}В другой раз...{/i}"
-msgstr ""
+msgstr "{i}Un'altra volta... {/i}"
 
 # game/dialogues/erictalk.rpy:55
 msgid "Э... Ну не совсем так..."
-msgstr ""
+msgstr "Uh... Beh, non esattamente..."
 
 # game/dialogues/erictalk.rpy:55
 msgid "А так можно?"
-msgstr ""
+msgstr "E' possibile?"
 
 # game/dialogues/erictalk.rpy:65
 msgid "Кстати, как ты это делаешь?"
-msgstr ""
+msgstr "A proposito, come si fa?"
 
 # game/dialogues/erictalk.rpy:65
 msgid "Отлично! Спасибо, Эрик."
-msgstr ""
+msgstr "È fantastico! Grazie, Eric."
 
 # game/dialogues/erictalk.rpy:71
 msgid "Это угроза?"
-msgstr ""
+msgstr "È una minaccia?"
 
 # game/dialogues/erictalk.rpy:71
 msgid "Хорошо, Эрик!"
-msgstr ""
+msgstr "Va bene, Eric!"
 
 # game/dialogues/erictalk.rpy:172
 msgid "{i}сесть на кровать{/i}"
-msgstr ""
+msgstr "{i}siedono sul letto{/i}"
 
 # game/dialogues/erictalk.rpy:187
 msgid "{i}слегка подвинуться{/i}"
-msgstr ""
+msgstr "{i}spostati leggermente{/i}"
 
 # game/dialogues/erictalk.rpy:248
 msgid "{i}смотреть, как мама сосёт{/i}"
-msgstr ""
+msgstr "{i}guarda la mamma succhiare{/i}"
 
 # game/dialogues/erictalk.rpy:307
 msgid "{i}пересесть{/i}"
-msgstr ""
+msgstr "{i}cambiare{/i}"
 
 # game/dialogues/erictalk.rpy:399
 msgid "Нет, можешь обучать... (Настоящая дружба)"
-msgstr ""
+msgstr "No, si può insegnare... (Vera amicizia)"
 
 # game/dialogues/erictalk.rpy:399
 msgid "А ей не рановато? (Фальшивая дружба)"
-msgstr ""
+msgstr "Non è un po' presto? (Falsa amicizia)"
 
 # game/dialogues/erictalk.rpy:399
 msgid "Лизу тебе не отдам! (Откровенная вражда)"
-msgstr ""
+msgstr "Non ti darò Lisa! (Ostilità aperta)"
 
 # game/dialogues/erictalk.rpy:494
 msgid "Значит, тебя её блог интересует? (Настоящая дружба)"
-msgstr ""
+msgstr "Quindi sei interessato al suo blog? (Vera amicizia)"
 
 # game/dialogues/erictalk.rpy:494
 msgid "Я мало что об этом знаю... (Фальшивая дружба)"
-msgstr ""
+msgstr "Non ne so molto... (Falsa amicizia)"
 
 # game/dialogues/erictalk.rpy:494
 msgid "Вот у неё и спрашивай! (Откровенная вражда)"
-msgstr ""
+msgstr "Chiedetelo a lei! (Ostilità aperta)"
 
 # game/dialogues/erictalk.rpy:802
 msgid "Может, договоримся? {i}(добыть компромат){/i}"
-msgstr ""
+msgstr "Che ne dici di un accordo? {i}(compromesso){/i}"
 
 # game/dialogues/erictalk.rpy:809
 msgid "С той, что я могу заплатить тебе больше, чем якобы должен."
-msgstr ""
+msgstr "Con quella che posso pagarti piu ' di quanto dovrei."
 
 # game/dialogues/erictalk.rpy:809
 msgid "С той, что у меня есть кое-что на тебя."
-msgstr ""
+msgstr "Perché ho qualcosa su di te."
 
 # game/dialogues/erictalk.rpy:827
 msgid "Ты мутный тип, а моя мама заслуживает лучшего!"
-msgstr ""
+msgstr "Sei un tipo fangoso e mia madre merita di meglio!"
 
 # game/dialogues/erictalk.rpy:827
 msgid "Сестрёнок моих ты не получишь!"
-msgstr ""
+msgstr "Non avrai le mie sorelle!"
 
 # game/dialogues/erictalk.rpy:837
 msgid "{i}вернуться в свою комнату{/i}"
-msgstr ""
+msgstr "{i}Torna nella tua stanza{/i}"
 
 # game/dialogues/erictalk.rpy:848
 msgid "Не шуми. Держи, всё равно не пригодился..."
-msgstr ""
+msgstr "Non fare rumore. Tieni, non ti serve..."
 
 # game/dialogues/erictalk.rpy:852
 msgid "{i}смириться{/i}"
-msgstr ""
+msgstr "{i}venire a patti{/i}"
 
 # game/dialogues/erictalk.rpy:909
 msgid "{i}уйти мыть посуду{/i}"
-msgstr ""
+msgstr "{i}andare a fare i piatti{/i}"
 
