@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:33\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/olivia.rpy:38 #-#-# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07] {m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m} [nointeract]"
@@ -1381,73 +1381,73 @@ msgid "[Lisa_03] Других пожеланий я и не ожидала."
 msgstr "[Lisa_03] Je ne m'attendais pas à d'autres souhaits."
 
 msgid "{i}подсмотреть{/i}"
-msgstr ""
+msgstr "{i}espionner{/i}"
 
 # game/events/olivia.rpy:97
 msgid "{i}дождаться девчонок{/i}"
-msgstr ""
+msgstr "{i}attendre les filles{/i}"
 
 # game/events/olivia.rpy:189
 msgid "Конечно с вами!"
-msgstr ""
+msgstr "Bien sûr, avec vous !"
 
 # game/events/olivia.rpy:328
 msgid "Я с вами!"
-msgstr ""
+msgstr "J'en suis !"
 
 # game/events/olivia.rpy:418
 msgid "{i}раздеться и сесть рядом{/i}"
-msgstr ""
+msgstr "{i}enlever les vêtements et s'asseoir les uns à côté des autres{/i}"
 
 # game/events/olivia.rpy:682
 msgid "{i}идти в свою комнату{/i}"
-msgstr ""
+msgstr "{i}allez dans votre chambre{/i}"
 
 # game/events/olivia.rpy:740
 msgid "{i}подождать за дверью, пока девочки переоденутся{/i}"
-msgstr ""
+msgstr "{i}attendre devant la porte pendant que les filles se changent {/i}"
 
 # game/events/olivia.rpy:834
 msgid "Аж глаза разбегаются, на кого смотреть..."
-msgstr ""
+msgstr "Déjà les yeux se dispersent, qui regarder..."
 
 # game/events/olivia.rpy:834
 msgid "У меня встал!"
-msgstr ""
+msgstr "J'ai levé!"
 
 # game/events/olivia.rpy:834
 msgid "Извините... Мне стыдно, но смотритесь вы красиво!"
-msgstr ""
+msgstr "Excusez-moi... J'ai honte, mais vous êtes belle!"
 
 # game/events/olivia.rpy:851
 msgid "Сколько округлостей красивых! Глаза разбегаются..."
-msgstr ""
+msgstr "Combien de rondeurs sont belles! Les yeux s'enfuient..."
 
 # game/events/olivia.rpy:851
 msgid "Как-то даже в шортах тесно стало..."
-msgstr ""
+msgstr "D'une manière ou d'une autre, même en short, il est devenu étroit..."
 
 # game/events/olivia.rpy:851
 msgid "Кого-то угораздило, очень удачно для меня, снять трусики..."
-msgstr ""
+msgstr "Quelqu'un a réussi, très bien pour moi, à enlever sa culotte..."
 
 # game/events/olivia.rpy:851
 msgid "Извините... Вид, конечно, очаровательнее некуда!"
-msgstr ""
+msgstr "Excusez-moi... La vue, bien sûr, est plus charmante nulle part!"
 
 # game/events/olivia.rpy:918
 msgid "Да ладно вам, можете меня не стесняться!"
-msgstr ""
+msgstr "Allez, n'hésitez pas!"
 
 # game/events/olivia.rpy:918
 msgid "Извините, не удержался... Хорошо выглядите, девчонки!"
-msgstr ""
+msgstr "Désolé, je n'ai pas pu résister... Vous avez l'air bien, les filles!"
 
 # game/events/olivia.rpy:936
 msgid "А вы представьте, что меня тут на самом деле нет!"
-msgstr ""
+msgstr "Et vous imaginez que je ne suis pas là!"
 
 # game/events/olivia.rpy:936
 msgid "Извините, не удержался... Красота ведь неописуемая!"
-msgstr ""
+msgstr "Désolé, je n'ai pas pu résister... La beauté est indescriptible!"
 
