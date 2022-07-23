@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/other.rpy:11 #-#-# translate crowdin shoping_034007bc:
 msgid "[Ann_05] Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -1037,197 +1037,197 @@ msgid "[Max_08] {m}Осталось мало крема, в следующий �
 msgstr "[Max_08] {m}C'è poca crema rimasta, la prossima volta potrebbe non essere sufficiente, è meglio acquistare in anticipo.{/m}"
 
 msgid "Удачи"
-msgstr ""
+msgstr "Buona Fortuna"
 
 # game/events/other.rpy:40
 msgid "Да, жаль, что не купили его..."
-msgstr ""
+msgstr "Sì, vorrei che l'avessimo comprato..."
 
 # game/events/other.rpy:40
 msgid "Я бы с удовольствием на это посмотрел..."
-msgstr ""
+msgstr "Mi piacerebbe guardarlo..."
 
 # game/events/other.rpy:48
 msgid "Слишком дорогой это сколько?"
-msgstr ""
+msgstr "Troppo costoso è quanto?"
 
 # game/events/other.rpy:48
 msgid "Насколько открытые?"
-msgstr ""
+msgstr "Quanto è aperto?"
 
 # game/events/other.rpy:59
 msgid "Верно, сами разберёмся без Эрика"
-msgstr ""
+msgstr "Esatto, cerchiamo di capirlo senza Eric"
 
 # game/events/other.rpy:59
 msgid "Кстати, где он?"
-msgstr ""
+msgstr "A proposito, dov'è?"
 
 # game/events/other.rpy:123
 msgid "Очень приятно..."
-msgstr ""
+msgstr "Molto bello..."
 
 # game/events/other.rpy:123
 msgid "Я думал он выше..."
-msgstr ""
+msgstr "Pensavo che fosse sopra..."
 
 # game/events/other.rpy:128
 msgid "Всё отлично. Ищу себя, так сказать..."
-msgstr ""
+msgstr "Va tutto bene. Sto cercando me stesso, per così dire..."
 
 # game/events/other.rpy:128
 msgid "Да то тем, то этим..."
-msgstr ""
+msgstr "Sì, allora questo, allora questo..."
 
 # game/events/other.rpy:128
 msgid "Отвечаю вот на дурацкие вопросы..."
-msgstr ""
+msgstr "Sto rispondendo a domande stupide..."
 
 # game/events/other.rpy:149
 msgid "Стараюсь больше слушать..."
-msgstr ""
+msgstr "Cerco di ascoltare di più..."
 
 # game/events/other.rpy:149
 msgid "Типа того..."
-msgstr ""
+msgstr "Così..."
 
 # game/events/other.rpy:149
 msgid "Да было бы о чём говорить..."
-msgstr ""
+msgstr "Sì, ci sarebbe qualcosa di cui parlare..."
 
 # game/events/other.rpy:170
 msgid "Да, мне тоже. Извините..."
-msgstr ""
+msgstr "Sì, anche io. Mi scusi..."
 
 # game/events/other.rpy:170
 msgid "А мне вот не очень..."
-msgstr ""
+msgstr "E io non proprio..."
 
 # game/events/other.rpy:187
 msgid "Да мне всё равно..."
-msgstr ""
+msgstr "Non mi interessa..."
 
 # game/events/other.rpy:198
 msgid "{i}идти к столу{/i}"
-msgstr ""
+msgstr "{i}vai alla tabella{/i}"
 
 # game/events/other.rpy:218
 msgid "Извини, Эрик, я просто не в духе..."
-msgstr ""
+msgstr "Scusa Eric, non sono proprio nello spirito..."
 
 # game/events/other.rpy:218
 msgid "Нормально себя веду..."
-msgstr ""
+msgstr "Mi comporto normalmente..."
 
 # game/events/other.rpy:245
 msgid "Здравствуй, тётя Кира!"
-msgstr ""
+msgstr "Ciao, zia Kira!"
 
 # game/events/other.rpy:245
 msgid "Что значит почти? Я настоящий мужчина!"
-msgstr ""
+msgstr "Cosa significa quasi? Sono un vero uomo!"
 
 # game/events/other.rpy:260
 msgid "А мне можно тоже обнять свою тётю?"
-msgstr ""
+msgstr "Posso abbracciare anche mia zia?"
 
 # game/events/other.rpy:269
 msgid "В гостинице?"
-msgstr ""
+msgstr "In un hotel?"
 
 # game/events/other.rpy:269
 msgid "Дела?"
-msgstr ""
+msgstr "Caso?"
 
 # game/events/other.rpy:269
 msgid "Так ты два дня здесь?"
-msgstr ""
+msgstr "Quindi sei qui per due giorni?"
 
 # game/events/other.rpy:299
 msgid "Да не стоит..."
-msgstr ""
+msgstr "Non..."
 
 # game/events/other.rpy:299
 msgid "Хорошо, тётя Кира!"
-msgstr ""
+msgstr "Va bene, zia Kira!"
 
 # game/events/other.rpy:313
 msgid "Выглядит отлично!"
-msgstr ""
+msgstr "Sembra fantastico!"
 
 # game/events/other.rpy:313
 msgid "Ну-ка, повернись..."
-msgstr ""
+msgstr "Beh, girati..."
 
 # game/events/other.rpy:326
 msgid "А что такого? Пусть ходит, я не против..."
-msgstr ""
+msgstr "Cos'è? Lascialo camminare, non mi dispiace..."
 
 # game/events/other.rpy:340
 msgid "Нет, мам, всё отлично!"
-msgstr ""
+msgstr "No, mamma, va bene!"
 
 # game/events/other.rpy:340
 msgid "А можешь немного повернуться?"
-msgstr ""
+msgstr "Riesci a girarti un po '?"
 
 # game/events/other.rpy:347
 msgid "Ты знаешь, длина оптимальная!"
-msgstr ""
+msgstr "Sai, la lunghezza è ottimale!"
 
 # game/events/other.rpy:347
 msgid "Мне нравится, мам!"
-msgstr ""
+msgstr "Mi piace, mamma!"
 
 # game/events/other.rpy:358
 msgid "Мне нравится. Просто и со вкусом!"
-msgstr ""
+msgstr "Mi piace. Semplice e di buon gusto!"
 
 # game/events/other.rpy:358
 msgid "Отличные... вещички!"
-msgstr ""
+msgstr "Benissimo... Cose!"
 
 # game/events/other.rpy:358
 msgid "И почти ничего не видно..."
-msgstr ""
+msgstr "E quasi nulla è visibile..."
 
 # game/events/other.rpy:442
 msgid "{i}подставить Эрика{/i}"
-msgstr ""
+msgstr "{i}incastrare Eric{/i}"
 
 # game/events/other.rpy:449
 msgid "{i}осторожно дрочить на Алису{/i}"
-msgstr ""
+msgstr "{i}che si masturba cautamente con Alice{/i}"
 
 # game/events/other.rpy:456
 msgid "{i}кончить Алисе на ноги{/i}"
-msgstr ""
+msgstr "{i}sborrare sui piedi di Alice{/i}"
 
 # game/events/other.rpy:463
 msgid "{i}осторожно идти спать{/i}"
-msgstr ""
+msgstr "{i}attento ad andare a letto{/i}"
 
 # game/events/other.rpy:808
 msgid "{g}Отношения Макса с семьёй значительно улучшились.{/g}"
-msgstr ""
+msgstr "{g}Il rapporto di Max con la sua famiglia è migliorato notevolmente.{/g}"
 
 # game/events/other.rpy:837
 msgid "{i}собираться в военный лагерь{/i}"
-msgstr ""
+msgstr "{i}fare i bagagli per un campo militare{/i}"
 
 # game/events/other.rpy:837
 msgid "{i}накинуться на Эрика{/i}"
-msgstr ""
+msgstr "{i}balzare su Eric{/i}"
 
 # game/events/other.rpy:854
 msgid "{i}загрузить игру{/i}"
-msgstr ""
+msgstr "{i}scaricare il gioco{/i}"
 
 # game/events/other.rpy:854
 msgid "{i}вернуться в главное меню{/i}"
-msgstr ""
+msgstr "{i}torna al menu principale{/i}"
 
 # game/events/other.rpy:854
 msgid "{i}выйти из игры{/i}"
-msgstr ""
+msgstr "{i}abbandonare{/i}"
 
