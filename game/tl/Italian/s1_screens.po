@@ -10,113 +10,48 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-16 10:19\n"
+"PO-Revision-Date: 2022-07-23 11:51\n"
 
-# TODO: Translation updated at 2022-06-17 HH:HH# XXtranslate crowdin strings:XX# XX## game/scripts_s1/s1_screens.rpy:17
 msgid "ПРЕДУПРЕЖДЕНИЕ!"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "ATTENZIONE!"
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:19
+# game/scripts_s1/s1_screens.rpy:19
 msgid "С осторожностью используйте чит-меню - это может привести к ошибкам в прохождении."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Fate attenzione all'uso dei menu cheat, che possono portare a errori nel passaggio."
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:20
+# game/scripts_s1/s1_screens.rpy:20
 msgid "Доступ к части читов будет открыт после достижения некоторого прогресса для минимизации последствий вмешательства в переменные игры."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Una parte dei cheat sarà accessibile dopo che saranno stati compiuti alcuni progressi per ridurre al minimo le conseguenze della manomissione delle variabili di gioco."
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:87
+# game/scripts_s1/s1_screens.rpy:79
+msgid "Деньги:"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:88
 msgid "Невозможно до открытия доступа к банку (открывается на 9 день)"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Non disponibile fino all'apertura dell'accesso alla banca (apertura il giorno 9)"
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:89
+# game/scripts_s1/s1_screens.rpy:90
 msgid "Доступно один раз в день"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Disponibile una volta al giorno"
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:105
+# game/scripts_s1/s1_screens.rpy:106
 msgid "Восстановить"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Ripristino"
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:126
+# game/scripts_s1/s1_screens.rpy:127
 msgid "Необходимо пройти первый урок онлайн-курса \"Общение\""
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Necessità di completare la prima lezione del corso online Comunicazione"
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:182
-msgid "Пропустить дни до:"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Saltare i giorni fino a:"
-msgstr[1] "Ignore this. translate only: One"
+# game/scripts_s1/s1_screens.rpy:184
+msgid "{b}Пропустить дни:{/b}"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:186
-msgid "Понедельника"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Lunedì"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:190
-msgid "Доступно только после приезда Киры"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Disponibile solo dopo l'arrivo di Kira"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:191
-msgid "Вторника"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Martedì"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:196
-msgid "Среды"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Mercoledì"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:201
-msgid "Четверга"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Giovedì"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:206
-msgid "Пятницы"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Il venerdì"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:211
-msgid "Субботы"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "Sabato"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:216
-msgid "Воскресения"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "La resurrezione"
-msgstr[1] "Ignore this. translate only: One"
-
-# XX## game/scripts_s1/s1_screens.rpy:334
+# game/scripts_s1/s1_screens.rpy:311
 msgid "ЧЕРЕЗ НЕКОТОРОЕ ВРЕМЯ..."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "DOPO UN PO'..."
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
-# XX## game/scripts_s1/s1_screens.rpy:345
+# game/scripts_s1/s1_screens.rpy:322
 msgid "ЧЕРЕЗ НЕСКОЛЬКО МИНУТ..."
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] "TRA POCHI MINUTI..."
-msgstr[1] "Ignore this. translate only: One"
+msgstr ""
 
