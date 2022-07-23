@@ -10,192 +10,129 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-03-26 14:17\n"
+"PO-Revision-Date: 2022-07-23 11:52\n"
 
-# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/core/04function.rpy:302
 msgid "+ к навыку скрытности"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:306
+# game/core/04function.rpy:286
 msgid "+ к навыку убеждения"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:310
+# game/core/04function.rpy:290
 msgid "+ к навыку массажа"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:314
+# game/core/04function.rpy:294
 msgid "+ к навыку поцелуев"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:318
+# game/core/04function.rpy:298
 msgid "+ к навыку эротического массажа"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:322
+# game/core/04function.rpy:302
 msgid "+ к тренированности"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:326
+# game/core/04function.rpy:306
 msgid "+ к навыку кунилингуса"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:330
+# game/core/04function.rpy:310
 msgid "+ к сексуальному опыту"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:334
+# game/core/04function.rpy:314
 msgid "+ к опыту анального секса"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:343
+# game/core/04function.rpy:323
 msgid "{color=[red]}значительно ухудшилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:343
+# game/core/04function.rpy:323
 msgid "{color=[red]}ухудшилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:343
+# game/core/04function.rpy:323
 msgid "{color=[red]}немного ухудшилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:343
+# game/core/04function.rpy:323
 msgid "{color=[lime]}немного улучшилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:343
+# game/core/04function.rpy:323
 msgid "{color=[lime]}улучшилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:343
+# game/core/04function.rpy:323
 msgid "{color=[lime]}значительно улучшилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:354
+# game/core/04function.rpy:334
 msgid "{color=[red]}снизилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:354
+# game/core/04function.rpy:334
 msgid "{color=[lime]}повысилось{/color}"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:385
+# game/core/04function.rpy:365
 msgid "Настроение %s %s \n"
 "Её отношение к Максу %s"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:387
+# game/core/04function.rpy:367
 msgid "Отношение %s к Максу %s"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:389
+# game/core/04function.rpy:369
 msgid "Настроение %s %s"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:406
+# game/core/04function.rpy:387
 msgid "Так... В накладной написано следующее:"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:712
+# game/core/04function.rpy:693
 msgid "Прохладные"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Война"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Враждебные"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Плохие"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Неплохие"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Хорошие"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Тёплые"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Дружеские"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:714
+# game/core/04function.rpy:695
 msgid "Близкие"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
-# XX## game/core/04function.rpy:1011
+# game/core/04function.rpy:992
 msgid "Конфеты закончились"
-msgid_plural "Ignore this. translate only: One"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 

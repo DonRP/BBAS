@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /master/game/tl/crowdin/scripts_s1/s1_screens.po\n"
+"X-Crowdin-File-ID: 3728\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2022-07-23 11:53\n"
+
+msgid "ПРЕДУПРЕЖДЕНИЕ!"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:19
+msgid "С осторожностью используйте чит-меню - это может привести к ошибкам в прохождении."
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:20
+msgid "Доступ к части читов будет открыт после достижения некоторого прогресса для минимизации последствий вмешательства в переменные игры."
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:79
+msgid "Деньги:"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:88
+msgid "Невозможно до открытия доступа к банку (открывается на 9 день)"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:90
+msgid "Доступно один раз в день"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:106
+msgid "Восстановить"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:127
+msgid "Необходимо пройти первый урок онлайн-курса \"Общение\""
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:184
+msgid "{b}Пропустить дни:{/b}"
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:311
+msgid "ЧЕРЕЗ НЕКОТОРОЕ ВРЕМЯ..."
+msgstr ""
+
+# game/scripts_s1/s1_screens.rpy:322
+msgid "ЧЕРЕЗ НЕСКОЛЬКО МИНУТ..."
+msgstr ""
+
