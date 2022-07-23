@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/lisa.rpy:24 #-#-# translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
@@ -388,7 +388,7 @@ msgstr "[Lisa_12] Max! Mi lamenterò con mia mamma se non te ne vai! [nointeract
 
 # game/events/lisa.rpy:529 #-#-# translate crowdin lisa_dressed_lvl_1_8112b755:
 msgid "[Lisa_13] Ну и долго ты ещё пялиться на меня будешь?! Выйди и подожди за дверью. Пожалуйста! [nointeract]"
-msgstr ""
+msgstr "[Lisa_13] Per quanto tempo hai intenzione di continuare a fissarmi?! Scendete e aspettate fuori dalla porta. Per favore! [nointeract]"
 
 # game/events/lisa.rpy:535 #-#-# translate crowdin lisa_dressed_lvl_2_366df3c4:
 msgid "[Lisa_10] Не надо меня тут комплиментами одаривать, чтобы подольше поглазеть! Или хочешь, чтобы я маме об этом рассказала? [nointeract]"
@@ -1175,189 +1175,189 @@ msgid "[Lisa_13] Сама справлюсь! Ой ой ой!"
 msgstr "[Lisa_13] posso farlo da solo! Oh oh!"
 
 msgid "Это я, Макс!"
-msgstr ""
+msgstr "Sono io, Max!"
 
 # game/events/lisa.rpy:47
 msgid "Можно я войду? Мне очень нужно..."
-msgstr ""
+msgstr "Posso partecipare? Ho davvero bisogno di..."
 
 # game/events/lisa.rpy:47
 msgid "Хорошо, я подожду"
-msgstr ""
+msgstr "Ok, aspetterò"
 
 # game/events/lisa.rpy:50
 msgid "Ладно, ладно..."
-msgstr ""
+msgstr "Va bene, va bene..."
 
 # game/events/lisa.rpy:292
 msgid "Можно войти на секунду? Я только ноутбук возьму..."
-msgstr ""
+msgstr "Posso accedere per un secondo? Prenderò solo un laptop..."
 
 # game/events/lisa.rpy:298
 msgid "{i}всё равно забрать ноутбук{/i}"
-msgstr ""
+msgstr "{i}ancora prendere il laptop{/i}"
 
 # game/events/lisa.rpy:365
 msgid "{i}уйти с ноутбуком на веранду{/i}"
-msgstr ""
+msgstr "{i}andare con il tuo laptop in veranda{/i}"
 
 # game/events/lisa.rpy:374
 msgid "{i}забрать ноутбук{/i}"
-msgstr ""
+msgstr "{i}il tuo laptop{/i}"
 
 # game/events/lisa.rpy:406
 msgid "Да чего я там не видел..."
-msgstr ""
+msgstr "Quello che non ho visto lì..."
 
 # game/events/lisa.rpy:406
 msgid "А при мне ты этого сделать не можешь?"
-msgstr ""
+msgstr "E con me, non puoi farlo?"
 
 # game/events/lisa.rpy:406
 msgid "Хорошо, только ноутбук заберу..."
-msgstr ""
+msgstr "Ok, prenderò solo il portatile ..."
 
 # game/events/lisa.rpy:409
 msgid "Не буду. Честное слово!"
-msgstr ""
+msgstr "Non lo farò. La mia parola su di esso!"
 
 # game/events/lisa.rpy:448
 msgid "{i}отвернуться{/i}"
-msgstr ""
+msgstr "{i}voltare le spalle{/i}"
 
 # game/events/lisa.rpy:448
 msgid "{i}подождать за дверью, пока Лиза переоденется{/i}"
-msgstr ""
+msgstr "{i}aspettare fuori dalla porta che Lisa si cambi il vestito{/i}"
 
 # game/events/lisa.rpy:458
 msgid "{i}не подглядывать{/i}"
-msgstr ""
+msgstr "{i}non sbirciare{/i}"
 
 # game/events/lisa.rpy:458
 msgid "{i}попробовать подглядеть{/i}"
-msgstr ""
+msgstr "{i}prova a sbirciare{/i}"
 
 # game/events/lisa.rpy:519
 msgid "А у тебя сиськи подросли!"
-msgstr ""
+msgstr "E le tue tette sono cresciute!"
 
 # game/events/lisa.rpy:519
 msgid "Отличный зад, я тебе скажу!"
-msgstr ""
+msgstr "Grande, te lo dirò!"
 
 # game/events/lisa.rpy:519
 msgid "А если я хочу на это посмотреть?"
-msgstr ""
+msgstr "Cosa succede se voglio guardarlo?"
 
 # game/events/lisa.rpy:519
 msgid "Извини, я не знал... Красиво смотришься!"
-msgstr ""
+msgstr "Scusa, non lo sapevo... Sei bellissima!"
 
 # game/events/lisa.rpy:533
 msgid "У тебя красивая грудь, Лиза. Не стесняйся..."
-msgstr ""
+msgstr "Hai un bel seno, Lisa. Non essere timido..."
 
 # game/events/lisa.rpy:533
 msgid "Какая соблазнительная попка у тебя..."
-msgstr ""
+msgstr "Che seducente hai..."
 
 # game/events/lisa.rpy:533
 msgid "А где же волшебное слово?"
-msgstr ""
+msgstr "E dov'è la parola magica?"
 
 # game/events/lisa.rpy:547
 msgid "У тебя красивая грудь, Лиза. Не прячь её..."
-msgstr ""
+msgstr "Hai un bel seno, Lisa. Non nasconderlo..."
 
 # game/events/lisa.rpy:547
 msgid "Эх, не повезло! Я надеялся, что ты будешь раздета..."
-msgstr ""
+msgstr "Oh, senza fortuna! Speravo che ti spogliavi..."
 
 # game/events/lisa.rpy:547
 msgid "Кто-то у нас тут трусики не успел надеть..."
-msgstr ""
+msgstr "Qualcuno qui mutandine non ha avuto il tempo di indossare ..."
 
 # game/events/lisa.rpy:547
 msgid "Извини, я не знал... Ты такая очаровательная!"
-msgstr ""
+msgstr "Scusa, non lo sapevo... Sei così affascinante!"
 
 # game/events/lisa.rpy:599
 msgid "Подумаешь, сестрёнку полуголую увидел..."
-msgstr ""
+msgstr "Pensateci, ho visto mia sorella seminuda..."
 
 # game/events/lisa.rpy:599
 msgid "Да ладно тебе, можешь меня не стесняться!"
-msgstr ""
+msgstr "Dai, non vergognarti di me!"
 
 # game/events/lisa.rpy:599
 msgid "Извини, не удержался... Хорошо выглядишь!"
-msgstr ""
+msgstr "Scusate, non ho potuto resistere... Guardando un bell'uomo!"
 
 # game/events/lisa.rpy:599
 msgid "А ты представь, что меня тут на самом деле нет!"
-msgstr ""
+msgstr "E immaginate che io non sia proprio qui!"
 
 # game/events/lisa.rpy:599
 msgid "Извини, не удержался... Ты очень красивая!"
-msgstr ""
+msgstr "Scusate, non ho potuto resistere... Sei davvero bellissima!"
 
 # game/events/lisa.rpy:834
 msgid "Это я, Макс! Можно войти?"
-msgstr ""
+msgstr "Sono io, Max! Posso entrare?"
 
 # game/events/lisa.rpy:883
 msgid "Извини, дверь была открыта и я подумал..."
-msgstr ""
+msgstr "Mi dispiace, la porta era aperta e ho pensato..."
 
 # game/events/lisa.rpy:883
 msgid "А ты симпатичная..."
-msgstr ""
+msgstr "E sei carino..."
 
 # game/events/lisa.rpy:883
 msgid "И что такого? Сестра стесняется брата?"
-msgstr ""
+msgstr "E allora? Mia sorella è imbarazzata da suo fratello?"
 
 # game/events/lisa.rpy:1107
 msgid "{i}смотреть \"Кошмар на улице Вязов\"{/i}"
-msgstr ""
+msgstr "{i}guardare \"A Nightmare on Elm Street\"{/i}"
 
 # game/events/lisa.rpy:1107
 msgid "{i}смотреть \"Пятница 13-е\"{/i}"
-msgstr ""
+msgstr "{i}guarda \"Venerdì 13\"{/i}"
 
 # game/events/lisa.rpy:1107
 msgid "{i}смотреть \"Крик\"{/i}"
-msgstr ""
+msgstr "{i}guardare \"Scream\"{/i}"
 
 # game/events/lisa.rpy:1198
 msgid "Тогда досматриваем... (продолжаем смотреть \"Кошмар на улице Вязов\")"
-msgstr ""
+msgstr "Poi ispezioniamo... (continua a guardare \"A Nightmare on Elm Street\")"
 
 # game/events/lisa.rpy:1198
 msgid "Тогда досматриваем... (продолжаем смотреть \"Пятница 13-е\")"
-msgstr ""
+msgstr "Poi ispezioniamo... (continua a guardare \"Venerdì 13\")"
 
 # game/events/lisa.rpy:1198
 msgid "Тогда досматриваем... (продолжаем смотреть \"Крик\")"
-msgstr ""
+msgstr "Poi ispezioniamo... (continua a guardare \"Scream\")"
 
 # game/events/lisa.rpy:1234
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Кошмар на улице Вязов\")"
-msgstr ""
+msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Nightmare on Elm Street\")"
 
 # game/events/lisa.rpy:1234
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Пятница 13-е\")"
-msgstr ""
+msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Venerdì 13\")"
 
 # game/events/lisa.rpy:1234
 msgid "Тогда смотрим дальше... (продолжаем смотреть серию фильмов \"Крик\")"
-msgstr ""
+msgstr "Allora guardiamo oltre... (continua a guardare la serie di film \"Scream\")"
 
 # game/events/lisa.rpy:1304
 msgid "{i}да пофиг!{/i}"
-msgstr ""
+msgstr "{i}chi se ne frega!{/i}"
 
 # game/events/lisa.rpy:1328
 msgid "Просто иди и всё..."
-msgstr ""
+msgstr "Basta andare e il è tutto..."
 
