@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:33\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/eric_cam.rpy:13 #-#-# translate crowdin cam0_eric_ann_sleep_b363be42:
 msgid "[Max_07] {m}Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда...{/m}"
@@ -257,5 +257,5 @@ msgid "[Max_10] {m}Вот чёрт! Похоже, Кира ублажает Эр
 msgstr "[Max_10] {m}Voici les caractéristiques de la! On dirait que Kira fait plaisir à Eric pour qu'il ne nous mette pas à ma mère...{/m}"
 
 msgid "{i}идти к комнате Алисы{/i}"
-msgstr ""
+msgstr "{i}aller à la chambre d'Alice {/i}"
 
