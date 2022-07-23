@@ -9,8 +9,19 @@ import re
 dict = {
     # search_text : replace_text
     # start
-    r'\n"(.*)':                     r'',
+    r'\n"Plural-Forms(.*)':         r'',
+    r'\n"X-Crowdin-Pr(.*)':         r'',
+    r'\n"X-Crowdin-Pr(.*)':         r'',
+    r'\n"X-Crowdin-La(.*)':         r'',
+    r'\n"X-Crowdin-Fi(.*)':         r'',
+    r'\n"X-Crowdin-Fi(.*)':         r'',
+    r'\n"Project-Id-V(.*)':         r'',
+    r'\n"Content-Type(.*)':         r'',
+    r'\n"Language-Tea(.*)':         r'',
+    r'\n"Language: it(.*)':         r'',
+    r'\n"PO-Revision-(.*)':         r'',
     r'msgid ""\nmsgstr ""':         r'',
+    r'\\n"\n"':                     r'\\n',
     r'\\'+'"':                      r'§§§§§§§§',
     # Effect
     r' \[nointeract\]"':            r'" nointeract',
