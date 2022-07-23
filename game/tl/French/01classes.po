@@ -10,48 +10,48 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:34\n"
 
 msgid "Ужасное"
-msgstr ""
+msgstr "Terrible"
 
 # game/core/01classes.rpy:693
 msgid "Очень плохое"
-msgstr ""
+msgstr "New"
 
 # game/core/01classes.rpy:693
 msgid "Плохое"
-msgstr ""
+msgstr "Mauvais"
 
 # game/core/01classes.rpy:693
 msgid "Не очень"
-msgstr ""
+msgstr "Pas vraiment"
 
 # game/core/01classes.rpy:693
 msgid "Нейтральное"
-msgstr ""
+msgstr "Neutre"
 
 # game/core/01classes.rpy:693
 msgid "Неплохое"
-msgstr ""
+msgstr "Décent"
 
 # game/core/01classes.rpy:693
 msgid "Хорошее"
-msgstr ""
+msgstr "Bon"
 
 # game/core/01classes.rpy:693
 msgid "Очень хорошее"
-msgstr ""
+msgstr "Très bon"
 
 # game/core/01classes.rpy:693
 msgid "Прекрасное"
-msgstr ""
+msgstr "Parfait"
 
 # game/core/01classes.rpy:1089
 msgid "Приобретен пакет рекламы"
-msgstr ""
+msgstr "Pack de pub acheté"
 
 # game/core/01classes.rpy:1345
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr ""
+msgstr "{color=[lime]}{i}{b}Attention:{/b} Vous avez obtenu une nouvelle 'opportunité'! {/i} {/color}"
 
