@@ -1,4 +1,6 @@
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
+# TODO: Translation updated at 2022-07-09 12:49
+
+translate italian strings:
 
     # game/core/02init.rpy:18
     old "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"

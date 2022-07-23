@@ -1,4 +1,6 @@
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
+# TODO: Translation updated at 2022-07-09 12:49
+
+translate italian strings:
 
     # game/core/10_main_menu.rpy:51
     old "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"

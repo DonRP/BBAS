@@ -55,6 +55,7 @@ dict = {
     r'\n#(.*?)\n    old "':                 r'\n    #\1\n    old "',
     r'\n\n# TODO: Translation updated':     r'# TODO: Translation updated',
     r'§§§§§§§§':                            r'\\'+'"',
+    r'# TODO: Translation updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# #§translate ': r'# TODO: Translation updated at \1-\2-\3 \4:\5\n\ntranslate ',
 }
 
 

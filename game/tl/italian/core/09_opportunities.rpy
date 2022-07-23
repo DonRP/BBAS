@@ -1,4 +1,6 @@
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate italian strings:
+# TODO: Translation updated at 2022-07-09 12:49
+
+translate italian strings:
 
     # game/core/09_opportunities.rpy:4
     old "Скрытые камеры"
