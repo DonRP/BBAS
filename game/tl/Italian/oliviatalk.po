@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:54\n"
+"PO-Revision-Date: 2022-07-23 13:35\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/oliviatalk.rpy:19 #-#-# translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
@@ -997,53 +997,53 @@ msgid "[Max_01] Тогда, до следующего раза, девчонки
 msgstr "[Max_01] Alla prossima volta, allora, ragazze. [nointeract]"
 
 msgid "Хотя, нет... У меня вообще-то дела есть..."
-msgstr ""
+msgstr "Anche se, no... In realtà ho cose da fare..."
 
 # game/dialogues/oliviatalk.rpy:262
 msgid "Давай перенесём..."
-msgstr ""
+msgstr "Spostiamoci..."
 
 # game/dialogues/oliviatalk.rpy:262
 msgid "Тогда приятного вам просмотра..."
-msgstr ""
+msgstr "Allora goditi la tua visione..."
 
 # game/dialogues/oliviatalk.rpy:265
 msgid "{i}идти в гостиную{/i}"
-msgstr ""
+msgstr "{i}vai in salotto{/i}"
 
 # game/dialogues/oliviatalk.rpy:320
 msgid "{i}устроиться поудобнее и наблюдать{/i}"
-msgstr ""
+msgstr "{i}siediti e guarda{/i}"
 
 # game/dialogues/oliviatalk.rpy:413
 msgid "{i}массировать Оливию кремом для загара{/i}"
-msgstr ""
+msgstr "{i}massaggiare Olivia con la protezione solare{/i}"
 
 # game/dialogues/oliviatalk.rpy:438
 msgid "{i}массировать Лизу кремом для загара{/i}"
-msgstr ""
+msgstr "{i}per massaggiare Lisa con la protezione solare{/i}"
 
 # game/dialogues/oliviatalk.rpy:499
 msgid "{i}сначала делать массаж Оливии{/i}"
-msgstr ""
+msgstr "{i}per dare a Olivia un massaggio prima{/i}"
 
 # game/dialogues/oliviatalk.rpy:499
 msgid "{i}сначала делать массаж Лизе{/i}"
-msgstr ""
+msgstr "{i}per massaggiare Lisa prima{/i}"
 
 # game/dialogues/oliviatalk.rpy:534
 msgid "{i}обнаглеть и массировать Оливии попку{/i}"
-msgstr ""
+msgstr "{i}spogliarsi e massaggiare il sedere di Olivia{/i}"
 
 # game/dialogues/oliviatalk.rpy:534
 msgid "{i}делать массаж Лизе{/i}"
-msgstr ""
+msgstr "{i}per fare un massaggio a Lisa{/i}"
 
 # game/dialogues/oliviatalk.rpy:591
 msgid "{i}развязать Лизе купальник{/i}"
-msgstr ""
+msgstr "{i}slegare il costume da bagno di Lisa{/i}"
 
 # game/dialogues/oliviatalk.rpy:645
 msgid "{i}делать массаж Оливии{/i}"
-msgstr ""
+msgstr "{i}fare un massaggio a Olivia{/i}"
 
