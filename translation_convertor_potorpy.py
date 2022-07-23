@@ -37,9 +37,9 @@ dict = {
     r'\n#§translate':                                               r'\ntranslate',
     r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # ':         r'updated at \1-\2-\3 \4:\5\n\n# ',
     # end
-    # r'    #':                   r'#',
-    # r'    old "(.*?)"':         r'msgid "\1"',
-    # r'    new "(.*?)"':         r'msgstr "\1"',
+    r'msgid "(.*?)"':           r'    old "\1"',
+    r'msgstr "(.*?)"':          r'    new "\1"',
+    r'\n#(.*?)\n    old "':     r'\n    #\1\n    old "',
     r'§§§§§§§§': r'\\'+'"',
 }
 
