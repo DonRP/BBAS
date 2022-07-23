@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:34\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/scripts_s1/s1_v91.rpy:99 #-#-# translate crowdin s1_cheat_skip_2bea6bd9:
 msgid "Есть важные события. Пропуск завершить не удалось."
@@ -1206,7 +1206,7 @@ msgstr "[Max_00] {m}Ora, di solito, la mamma dovrebbe fare un bagno...{/m} [noin
 
 # game/scripts_s1/s1_v91.rpy:977 #-#-# translate crowdin s1_ann_bath_6272e6b4:
 msgid "[Max_09] {m}Пока Эрик у нас в доме, лучше не рисковать заходить к маме. Он в любой момент может зайти в ванную комнату.{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_09] {m}Mentre Eric è a casa nostra, è meglio non rischiare di andare dalla mamma. Potrebbe entrare in bagno in qualsiasi momento.{/m}[nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:995 #-#-# translate crowdin s1_ann_bath_752a4ee4:
 msgid "[Ann_15] Макс! Ты почему так нагло врываешься?! Я тут вообще-то ванну принимаю..."
@@ -1214,11 +1214,11 @@ msgstr "[Ann_15] Max! Perché stai irrompendo così sfacciatamente?! In realtà 
 
 # game/scripts_s1/s1_v91.rpy:1000 #-#-# translate crowdin s1_ann_bath_8b2e455e:
 msgid "[Max_07] Я просто спросить хотел..."
-msgstr ""
+msgstr "[Max_07] Mi chiedevo..."
 
 # game/scripts_s1/s1_v91.rpy:1001 #-#-# translate crowdin s1_ann_bath_d6e21fdb:
 msgid "[Ann_12] Никаких больше уроков. Я ведь уже сказала! А сейчас выйди. [nointeract]"
-msgstr ""
+msgstr "[Ann_12] Niente più lezioni. Te l'ho già detto! Ora esci. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1005 #-#-# translate crowdin s1_ann_bath_9bd203b4:
 msgid "[Max_07] У нас ведь есть дело, помнишь?"
@@ -1262,7 +1262,7 @@ msgstr "[Ann_14] Sì, ma {b}COSA{/b} insegnare! Per te sarà tutto, di sicuro, m
 
 # game/scripts_s1/s1_v91.rpy:1041 #-#-# translate crowdin s1_ann_intimate_lesson_02_a9e1c035:
 msgid "[Max_09] Ну... Уж кто и может научить {b}ТАКОМУ{/b} лучше всех, так это мама. Ты же заинтересована в том, чтобы я был лучшим во всём, в том числе и в {b}ЭТОМ{/b}?"
-msgstr ""
+msgstr "[Max_09] Beh... Se c'è qualcuno che può insegnare {b}QUESTO{/b} meglio di chiunque altro, è la mamma. Ti interessa che io sia il migliore in tutto, compreso {b}QUESTO{/b}, vero?"
 
 # game/scripts_s1/s1_v91.rpy:1042 #-#-# translate crowdin s1_ann_intimate_lesson_02_07f19152:
 msgid "[Ann_13] Ох, только такие мысли мне и помогают сейчас. Ладно, раздевайся и залазь ко мне в ванну. [nointeract]"
@@ -1414,283 +1414,283 @@ msgstr "[Ann] {b}Анна:{/b} È bello che tu abbia bussato. Entra, ma non fart
 
 # game/scripts_s1/s1_v91.rpy:1140 #-#-# translate crowdin s1_ann_intimate_lesson_03_9c627c00:
 msgid "[Ann_14] Я надеюсь Лиза не видела, что ты пошёл в ванную комнату? Она же сейчас на кухне..."
-msgstr ""
+msgstr "[Ann_14] Spero che Lisa non ti abbia visto andare in bagno. Ora è in cucina..."
 
 # game/scripts_s1/s1_v91.rpy:1141 #-#-# translate crowdin s1_ann_intimate_lesson_03_e8444647:
 msgid "[Max_00] Да я как-то не смотрел, видела она или нет."
-msgstr ""
+msgstr "[Max_00] Non ho guardato se l'avesse visto o meno."
 
 # game/scripts_s1/s1_v91.rpy:1142 #-#-# translate crowdin s1_ann_intimate_lesson_03_da4d684b:
 msgid "[Ann_18] Макс, ты же понимаешь, как важно держать наши с тобой занятия в тайне! Если она видела..."
-msgstr ""
+msgstr "[Ann_18] Max, sai quanto sia importante mantenere il segreto sulle nostre attività! Se ha visto..."
 
 # game/scripts_s1/s1_v91.rpy:1143 #-#-# translate crowdin s1_ann_intimate_lesson_03_3c28894a:
 msgid "[Max_01] Мам, это шутка была. Она не видела, так что расслабься."
-msgstr ""
+msgstr "[Max_01] Mamma, era uno scherzo. Non l'ha visto, quindi rilassatevi."
 
 # game/scripts_s1/s1_v91.rpy:1148 #-#-# translate crowdin s1_ann_intimate_lesson_03_749e00f2:
 msgid "[Ann_13] Фух... Не пугай меня так больше! Я и так на нервах из-за наших уроков."
-msgstr ""
+msgstr "[Ann_13] Phew... Non spaventarmi di nuovo in questo modo! Sono già abbastanza nervosa per le nostre lezioni."
 
 # game/scripts_s1/s1_v91.rpy:1149 #-#-# translate crowdin s1_ann_intimate_lesson_03_e3b6ee31:
 msgid "[Max_07] Извини. А ты почему прикрываешься? Я же ведь уже всё видел и не раз. И не только видел."
-msgstr ""
+msgstr "[Max_07] Mi dispiace. Perché ti stai coprendo? Ho già visto tutto. E non solo visto."
 
 # game/scripts_s1/s1_v91.rpy:1150 #-#-# translate crowdin s1_ann_intimate_lesson_03_2842875b:
 msgid "[Ann_16] Смотри мне, договоришься сейчас! Если ты здесь только для того, чтобы поглазеть на голую маму, то урока сегодня не будет."
-msgstr ""
+msgstr "[Ann_16] Guardami, ora ti accontenterai! Se siete qui solo per guardare la vostra mamma nuda, oggi non c'è lezione."
 
 # game/scripts_s1/s1_v91.rpy:1151 #-#-# translate crowdin s1_ann_intimate_lesson_03_d1ca0782:
 msgid "[Max_09] Что ты! Я здесь ради знаний!"
-msgstr ""
+msgstr "[Max_09] Di cosa stai parlando? Sono qui per la conoscenza!"
 
 # game/scripts_s1/s1_v91.rpy:1152 #-#-# translate crowdin s1_ann_intimate_lesson_03_ba442144:
 msgid "[Ann_12] Тогда хватит шутки шутить, залазь ко мне в ванну. [nointeract]"
-msgstr ""
+msgstr "[Ann_12] Allora smettila di scherzare ed entra nel mio bagno. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1159 #-#-# translate crowdin s1_ann_intimate_lesson_03_41306dbb:
 msgid "[Ann_14] Да, сынок... Не верится даже, что ты так подрос. Кажется, что ещё совсем недавно только в школу пошёл..."
-msgstr ""
+msgstr "[Ann_14] Sì, figliolo... Non riesco a credere a quanto sei cresciuto. Sembra che tu sia a scuola solo da poco tempo..."
 
 # game/scripts_s1/s1_v91.rpy:1160 #-#-# translate crowdin s1_ann_intimate_lesson_03_d4f2d4ce:
 msgid "[Max_03] Ну ты, мам, вспомнила!"
-msgstr ""
+msgstr "[Max_03] Ti sei ricordata, mamma!"
 
 # game/scripts_s1/s1_v91.rpy:1164 #-#-# translate crowdin s1_ann_intimate_lesson_03_88e11b8c:
 msgid "[Ann_12] Да, было время... А сейчас вон чем мы занимаемся! Дальше, я так полагаю, нужно показать тебе, как ласкать женщину... ну там, внизу..."
-msgstr ""
+msgstr "[Ann_12] Sì, c'è stato un tempo... E ora questo è ciò che stiamo facendo! Poi, suppongo che dovrò mostrarti come si accarezza una donna... sai, là sotto..."
 
 # game/scripts_s1/s1_v91.rpy:1165 #-#-# translate crowdin s1_ann_intimate_lesson_03_f3a4c8b3:
 msgid "[Max_02] Мне нравится слово \"киска\"!"
-msgstr ""
+msgstr "[Max_02] Adoro la parola \"figa\"!"
 
 # game/scripts_s1/s1_v91.rpy:1166 #-#-# translate crowdin s1_ann_intimate_lesson_03_c47c7cf4:
 msgid "[Ann_02] Пусть так. Честно говоря, я считаю, ты с этим справишься и без уроков, потому что пальчиками ты работаешь хорошо, массажист ты наш талантливый."
-msgstr ""
+msgstr "[Ann_02] E così sia. Onestamente, credo che tu possa farcela senza lezioni, perché lavori bene con le dita, sei un massaggiatore di talento."
 
 # game/scripts_s1/s1_v91.rpy:1167 #-#-# translate crowdin s1_ann_intimate_lesson_03_5fcd471d:
 msgid "[Max_09] Подожди! Но это всё равно же не одно и то же! Там же тоже, наверно, нужно как-то понежнее себя вести? Или нет?"
-msgstr ""
+msgstr "[Max_09] Aspetta! Non è ancora la stessa cosa! Anche lì bisogna essere più delicati, non crede? Non è vero?"
 
 # game/scripts_s1/s1_v91.rpy:1171 #-#-# translate crowdin s1_ann_intimate_lesson_03_cca5d1a8:
 msgid "[Ann_04] Ну... Там, на самом деле, можно по разному, то наращивая темп стимуляции, то сбавляя. А сначала лучше конечно понежнее и помедленнее. По крайней мере, мне так нравится... В смысле, я думаю, что так нравится всем женщинам."
-msgstr ""
+msgstr "[Ann_04] Beh... In realtà è possibile farlo in modi diversi, aumentando il ritmo della stimolazione o diminuendolo. All'inizio è meglio essere delicati e lenti. Almeno a me piace così... Credo che a tutte le donne piaccia così."
 
 # game/scripts_s1/s1_v91.rpy:1172 #-#-# translate crowdin s1_ann_intimate_lesson_03_91c1be4d:
 msgid "[Max_07] Ага... Но мне же всё равно нужно попробовать это сделать! Чтобы хоть представление иметь, как это вообще происходит..."
-msgstr ""
+msgstr "[Max_07] Già... Ma devo provarlo comunque! Solo per avere un'idea di come funziona..."
 
 # game/scripts_s1/s1_v91.rpy:1173 #-#-# translate crowdin s1_ann_intimate_lesson_03_0e933278:
 msgid "[Ann_13] Ой, не знаю, сынок... Понимаю, что тебе это нужно, но может... Мне нравится, что у нас тобой такие близкие отношения, но делать {b}ТАКОЕ{/b}... В голове не укладывается."
-msgstr ""
+msgstr "[Ann_13] Oh, non lo so, figliolo... So che ne hai bisogno, ma forse... Mi piace il fatto che abbiamo un rapporto così stretto, ma fare {b}CHE{/b}... Non riesco a capacitarmi."
 
 # game/scripts_s1/s1_v91.rpy:1174 #-#-# translate crowdin s1_ann_intimate_lesson_03_b9a2b566:
 msgid "[Max_01] А мы всего разок попробуем и всё. Для образовательных целей же."
-msgstr ""
+msgstr "[Max_01] Proviamo solo una volta, tutto qui. A scopo didattico."
 
 # game/scripts_s1/s1_v91.rpy:1178 #-#-# translate crowdin s1_ann_intimate_lesson_03_9db8175b:
 msgid "[Ann_12] Так уж и быть. Ты уже меня видел, так что постараюсь не стесняться и покажу тебе, как это всё происходит."
-msgstr ""
+msgstr "[Ann_12] Va bene, allora. Mi avete già visto, quindi cercherò di non essere timido e di mostrarvi come si svolge il tutto."
 
 # game/scripts_s1/s1_v91.rpy:1179 #-#-# translate crowdin s1_ann_intimate_lesson_03_d7a8a4ef:
 msgid "[Max_04] Ты лучшая мама на свете! Как же я благодарен тебе за эти знания и опыт. Это очень дорогого стоит. Ты самая-самая!"
-msgstr ""
+msgstr "[Max_04] Sei la madre migliore del mondo! Vi sono grato per questa conoscenza ed esperienza. Ne vale davvero la pena. Sei il migliore!"
 
 # game/scripts_s1/s1_v91.rpy:1180 #-#-# translate crowdin s1_ann_intimate_lesson_03_b53b83fe:
 msgid "[Ann_02] Спасибо! Надеюсь, ты помнишь, как это делали в том эротическом ролике, что мы смотрели?"
-msgstr ""
+msgstr "[Ann_02] Grazie! Spero che vi ricordiate come è stato fatto in quel video erotico che stavamo guardando?"
 
 # game/scripts_s1/s1_v91.rpy:1181 #-#-# translate crowdin s1_ann_intimate_lesson_03_e48adeab:
 msgid "[Max_07] Ну, в общих чертах, да. Но, твои наставления однозначно нужны."
-msgstr ""
+msgstr "[Max_07] In generale, sì. Ma la vostra guida è assolutamente necessaria."
 
 # game/scripts_s1/s1_v91.rpy:1185 #-#-# translate crowdin s1_ann_intimate_lesson_03_f379e77f:
 msgid "[Ann_04] Для начала, попробуй просто поводить по ней пальчиком... вверх-вниз... нежно и аккуратно, не торопясь. [nointeract]"
-msgstr ""
+msgstr "[Ann_04] Per cominciare, prova a passarci sopra il dito... su e giù... delicatamente e con calma, prendendosi tutto il tempo necessario. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1191 #-#-# translate crowdin s1_ann_intimate_lesson_03_3574b02c:
 msgid "[Ann_14] Да, вот так... Можно до такой степени не осторожничать, не бойся. Поувереннее, сынок..."
-msgstr ""
+msgstr "[Ann_14] Sì, ecco... Si può arrivare a non essere prudenti, a non avere paura. Stai attento, figliolo..."
 
 # game/scripts_s1/s1_v91.rpy:1192 #-#-# translate crowdin s1_ann_intimate_lesson_03_69803dd1:
 msgid "[Max_10] Я просто не знаю... Вдруг, я сделаю тебе больно!"
-msgstr ""
+msgstr "[Max_10] Non lo so... E se ti faccio male!"
 
 # game/scripts_s1/s1_v91.rpy:1193 #-#-# translate crowdin s1_ann_intimate_lesson_03_5b13e978:
 msgid "[Ann_09] Не переживай из-за этого, всё хорошо. Нежно и уверенно... Ухх... Да... Хорошо... В смысле, у тебя хорошо получается."
-msgstr ""
+msgstr "[Ann_09] Non preoccuparti, va bene così. Delicato e sicuro di sé... Uh... Sì... Bene, uh... Voglio dire, sei bravo."
 
 # game/scripts_s1/s1_v91.rpy:1194 #-#-# translate crowdin s1_ann_intimate_lesson_03_b4302cb5:
 msgid "[Max_07] А что делать дальше?"
-msgstr ""
+msgstr "[Max_07] Cosa facciamo adesso?"
 
 # game/scripts_s1/s1_v91.rpy:1198 #-#-# translate crowdin s1_ann_intimate_lesson_03_21f9fde7:
 msgid "[Ann_08] Теперь можешь попробовать водить пальчиками из стороны в сторону, а так же круговыми движениями. И темп уже можно понемногу наращивать."
-msgstr ""
+msgstr "[Ann_08] Ora potete provare a muovere le dita da un lato all'altro e con un movimento circolare. Si può quindi aumentare il tempo un po' alla volta."
 
 # game/scripts_s1/s1_v91.rpy:1199 #-#-# translate crowdin s1_ann_intimate_lesson_03_68d72acd:
 msgid "[Max_01] Ага, сейчас попробую..."
-msgstr ""
+msgstr "[Max_01] Sì, ci proverò..."
 
 # game/scripts_s1/s1_v91.rpy:1203 #-#-# translate crowdin s1_ann_intimate_lesson_03_4458c9ef:
 msgid "[Ann_09] Ох, сынок... Никогда бы не подумала, что ты делаешь это впервые! Ммм... У тебя волшебные пальчики..."
-msgstr ""
+msgstr "[Ann_09] Oh, figliolo... Non avrei mai pensato che l'avresti fatto per la prima volta! Mmm... Hai dita magiche..."
 
 # game/scripts_s1/s1_v91.rpy:1204 #-#-# translate crowdin s1_ann_intimate_lesson_03_9709739b:
 msgid "[Max_05] Правда?! Видимо, сказываются мои навыки в массаже."
-msgstr ""
+msgstr "[Max_05] Davvero?! A quanto pare, le mie capacità di massaggiatore si stanno esaurendo."
 
 # game/scripts_s1/s1_v91.rpy:1205 #-#-# translate crowdin s1_ann_intimate_lesson_03_0e7264fb:
 msgid "[Ann_14] Похоже на то... Д-а-а... Можно побыстрее. Помнишь, что я говорила? Ухх... Наращивать темп... О да! Вот так... Ещё... Ой, что я такое говорю!"
-msgstr ""
+msgstr "[Ann_14] Sembra che... S-a-a... Possiamo sbrigarci? Ricordate cosa vi ho detto? Uh... Aumentare il ritmo... Oh, sì! Ecco... Altro... Oh, cosa sto dicendo?"
 
 # game/scripts_s1/s1_v91.rpy:1206 #-#-# translate crowdin s1_ann_intimate_lesson_03_f803a7c5:
 msgid "[Max_04] Не напрягайся из-за этого, мам. По твоим эмоциям я лучше понимаю, что всё делаю правильно."
-msgstr ""
+msgstr "[Max_04] Non stressarti, mamma. Grazie alle vostre emozioni, so che sto facendo la cosa giusta."
 
 # game/scripts_s1/s1_v91.rpy:1207 #-#-# translate crowdin s1_ann_intimate_lesson_03_398c7a36:
 msgid "[Ann_09] Я понимаю, но... Мне стоит держать себя в руках, иначе пропадёт вся серьёзность наших с тобой уроков."
-msgstr ""
+msgstr "[Ann_09] Capisco, ma... Devo darmi una regolata, o la serietà delle nostre lezioni andrà persa."
 
 # game/scripts_s1/s1_v91.rpy:1208 #-#-# translate crowdin s1_ann_intimate_lesson_03_d592e138:
 msgid "[Max_07] Так, а как мне действовать дальше?"
-msgstr ""
+msgstr "[Max_07] Quindi, come procedo?"
 
 # game/scripts_s1/s1_v91.rpy:1212 #-#-# translate crowdin s1_ann_intimate_lesson_03_1e24aa34:
 msgid "[Ann_13] Ой, сынок, я даже не знаю... Дальше должно идти уже проникновение пальчиков... в киску. Но это..."
-msgstr ""
+msgstr "[Ann_13] Oh, figliolo, non so nemmeno... Il passo successivo dovrebbe essere la penetrazione delle dita... nella figa. Ma questo..."
 
 # game/scripts_s1/s1_v91.rpy:1213 #-#-# translate crowdin s1_ann_intimate_lesson_03_9f5cbf9c:
 msgid "[Max_03] О, круто! Значит, постимулировал снаружи, раззадорил, а теперь смещаю акцент внутрь?"
-msgstr ""
+msgstr "[Max_03] Oh, fantastico! Quindi ho stimolato l'esterno, l'ho agitato e ora sto spostando l'attenzione verso l'interno?"
 
 # game/scripts_s1/s1_v91.rpy:1214 #-#-# translate crowdin s1_ann_intimate_lesson_03_7c403b85:
 msgid "[Ann_17] Смахиваешь на лету. Но я не уверена, что мы будем это делать."
-msgstr ""
+msgstr "[Ann_17] Lo stai scorrendo al volo. Ma non sono sicuro che lo faremo."
 
 # game/scripts_s1/s1_v91.rpy:1215 #-#-# translate crowdin s1_ann_intimate_lesson_03_caa452a5:
 msgid "[Max_08] Но почему? Я же, вроде, всё нормально делал..."
-msgstr ""
+msgstr "[Max_08] Ma perché? Pensavo di cavarmela bene..."
 
 # game/scripts_s1/s1_v91.rpy:1219 #-#-# translate crowdin s1_ann_intimate_lesson_03_274e5d31:
 msgid "[Ann_12] Ты молодец, Макс. Просто, проникнуть пальцами в свою маму... Тебе не кажется, что это уже совсем перебор? Не говоря уже о том, до какой степени матери с сыном неправильно заниматься {b}ТАКИМ{/b}..."
-msgstr ""
+msgstr "[Ann_12] Stai andando alla grande, Max. Solo, mettere le dita dentro la mamma... Non credi che sia un po' esagerato? Per non parlare di quanto sia sbagliato che una madre e suo figlio facciano {b}CHE{/b}..."
 
 # game/scripts_s1/s1_v91.rpy:1220 #-#-# translate crowdin s1_ann_intimate_lesson_03_dd7ed56f:
 msgid "[Max_09] Мы же учимся! Вернее, учусь я, а ты делишься со мной важными знаниями. Я же должен знать, какие движения делать там, внутри. Там явно будет иначе."
-msgstr ""
+msgstr "[Max_09] Stiamo imparando! O meglio, io sto imparando e voi state condividendo con me importanti conoscenze. Dovrei sapere quali mosse fare all'interno. È ovvio che lì la situazione sarà diversa."
 
 # game/scripts_s1/s1_v91.rpy:1221 #-#-# translate crowdin s1_ann_intimate_lesson_03_7c35c2cb:
 msgid "[Ann_14] Ох, Макс... Надеюсь, я потом, после всего этого, смогу тебе в глаза смотреть и не краснеть. Что я делаю..."
-msgstr ""
+msgstr "[Ann_14] Oh, Max... Spero di riuscire a guardarvi negli occhi dopo, senza arrossire. Cosa sto facendo..."
 
 # game/scripts_s1/s1_v91.rpy:1222 #-#-# translate crowdin s1_ann_intimate_lesson_03_41224b86:
 msgid "[Max_07] Так как мне лучше это сделать?"
-msgstr ""
+msgstr "[Max_07] Qual è il modo migliore per farlo?"
 
 # game/scripts_s1/s1_v91.rpy:1223 #-#-# translate crowdin s1_ann_intimate_lesson_03_2f4be1e2:
 msgid "[Ann_12] Всё так же, нежно и не спеша. Просто вводи свои пальчики в мою киску... [nointeract]"
-msgstr ""
+msgstr "[Ann_12] Sempre lo stesso, gentile e senza fretta. Metti le dita nella mia figa... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1229 #-#-# translate crowdin s1_ann_intimate_lesson_03_45ab582b:
 msgid "[Ann_09] Ахх... Да... Не спеши, не проникай сразу как можно глубже. Вот так... Ммм..."
-msgstr ""
+msgstr "[Ann_09] Ahhh... Sì... Prendetevi il tempo necessario, non andate subito in profondità. Questo è tutto... Mmm..."
 
 # game/scripts_s1/s1_v91.rpy:1230 #-#-# translate crowdin s1_ann_intimate_lesson_03_181dce01:
 msgid "[Max_05] Ух ты, мам! Это классно! Что дальше?"
-msgstr ""
+msgstr "[Max_05] Wow, mamma! E' fantastico! Cosa c'è dopo?"
 
 # game/scripts_s1/s1_v91.rpy:1231 #-#-# translate crowdin s1_ann_intimate_lesson_03_fdca3f7b:
 msgid "[Ann_10] Теперь двигай своими пальчиками, назад-вперёд... Постепенно наращивая темп... Ухх... Да, отлично..."
-msgstr ""
+msgstr "[Ann_10] Ora muovete le dita avanti e indietro... Aumentando gradualmente il ritmo... Uh... Sì, va bene..."
 
 # game/scripts_s1/s1_v91.rpy:1232 #-#-# translate crowdin s1_ann_intimate_lesson_03_59fa2106:
 msgid "[Max_08] Ой, мам, а там становится... мокренько! Это нормально или я что-то не так делаю?"
-msgstr ""
+msgstr "[Max_08] Oh, mamma, sta diventando... bagnato! È normale o sto facendo qualcosa di sbagliato?"
 
 # game/scripts_s1/s1_v91.rpy:1236 #-#-# translate crowdin s1_ann_intimate_lesson_03_43177c17:
 msgid "[Ann_08] Ах, Макс, ты всё делаешь правильно. Чем больше женщина возбуждена твоей прелюдией, тем влажнее становится её киска. Ммм..."
-msgstr ""
+msgstr "[Ann_08] Ah, Max, stai facendo bene. Più una donna è eccitata dai vostri preliminari, più la sua figa si bagna. Mmm..."
 
 # game/scripts_s1/s1_v91.rpy:1237 #-#-# translate crowdin s1_ann_intimate_lesson_03_9b9504bb:
 msgid "[Max_03] Мои пальцы от этого проскальзывают в тебя всё легче и легче, хотя ты довольно узенькая."
-msgstr ""
+msgstr "[Max_03] Le mie dita scivolano sempre più facilmente in te, anche se sei piuttosto stretto."
 
 # game/scripts_s1/s1_v91.rpy:1238 #-#-# translate crowdin s1_ann_intimate_lesson_03_9f8cebdc:
 msgid "[Ann_14] Ой, сынок, не смущай меня ещё сильнее такими словами! Я вообще не ожидала такой реакции от себя... Ахх... Это очень странно."
-msgstr ""
+msgstr "[Ann_14] Oh, figliolo, non mettermi più in imbarazzo con queste parole! Non mi aspettavo affatto una simile reazione da parte mia... Ahh... È molto strano."
 
 # game/scripts_s1/s1_v91.rpy:1239 #-#-# translate crowdin s1_ann_intimate_lesson_03_a241e038:
 msgid "[Max_07] А ты думала, что тебе будет приятно, но при этом мокренькой ты становиться не будешь?"
-msgstr ""
+msgstr "[Max_07] Pensavate di sentirvi bene ma di non bagnarvi?"
 
 # game/scripts_s1/s1_v91.rpy:1240 #-#-# translate crowdin s1_ann_intimate_lesson_03_08a8b06c:
 msgid "[Ann_12] Именно! Поэтому... На этот раз, я думаю, достаточно, сынок. Закругляемся."
-msgstr ""
+msgstr "[Ann_12] Esattamente! Quindi... Credo che per ora sia sufficiente, figliolo. Concludiamo."
 
 # game/scripts_s1/s1_v91.rpy:1244 #-#-# translate crowdin s1_ann_intimate_lesson_03_1054e4c7:
 msgid "[Max_04] Ты только не переживай из-за этого, мам. Ну подумаешь, понравилось... Мне вот это всё очень нравится. Столько нового для себя открыл."
-msgstr ""
+msgstr "[Max_04] Non preoccuparti, mamma. E se mi piace... Mi piace tutto questo. Ho imparato molto."
 
 # game/scripts_s1/s1_v91.rpy:1245 #-#-# translate crowdin s1_ann_intimate_lesson_03_c7828ec0:
 msgid "[Ann_17] Да уж, но вот мои открытия меня больше озадачили... Всё, хватит глазеть. [nointeract]"
-msgstr ""
+msgstr "[Ann_17] Sì, ma le mie scoperte mi hanno lasciato più perplesso... Basta con gli sguardi fissi. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1251 #-#-# translate crowdin s1_ann_intimate_lesson_03_a9e6e6ca:
 msgid "[Ann_15] Ой, Макс! Как же ты возбудился! Хотя, чего я удивляюсь. Я же здесь, перед тобой, с раздвинутыми ногами сидела и {b}ТАКОМУ{/b} учила..."
-msgstr ""
+msgstr "[Ann_15] Oh, Max! Sei così arrapato! Tuttavia, non sono sorpreso. Ero seduto qui davanti a te con le gambe aperte e {b}ti insegnava QUELLO{/b}..."
 
 # game/scripts_s1/s1_v91.rpy:1252 #-#-# translate crowdin s1_ann_intimate_lesson_03_d68b3bac:
 msgid "[Max_07] Ну да. Я же сказал, что мне {b}ОЧЕНЬ{/b} понравилось."
-msgstr ""
+msgstr "[Max_07] Giusto. Ho detto che mi è piaciuto MOLTO {b}{/b}."
 
 # game/scripts_s1/s1_v91.rpy:1253 #-#-# translate crowdin s1_ann_intimate_lesson_03_d28bff17:
 msgid "[Ann_13] Думаю, тебе нужно принять душ и сбросить... это напряжение. С учётом того, чем мы тут с тобой занимались, смысла стесняться нет. Давай бегом, я не буду смотреть."
-msgstr ""
+msgstr "[Ann_13] Credo che tu abbia bisogno di fare una doccia e di darti un po' di sollievo... questa tensione. Visto quello che abbiamo fatto qui, non c'è motivo di essere timidi. Corriamo, non sto guardando."
 
 # game/scripts_s1/s1_v91.rpy:1254 #-#-# translate crowdin s1_ann_intimate_lesson_03_fef83954:
 msgid "[Max_01] Хорошо, мам!"
-msgstr ""
+msgstr "[Max_01] Va bene, mamma!"
 
 # game/scripts_s1/s1_v91.rpy:1259 #-#-# translate crowdin s1_ann_intimate_lesson_03_3888c586:
 msgid "[Max_07] {m}Это что-то с чем-то! Теперь мои пальцы побывали в маминой киске. В маминой!!! И не менее приятно то, что она от этого так потекла... Интересно, что она теперь будет делать после такого? Вдруг она решит прекратить эти уроки?!{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_07] {m}È una cosa fuori dal mondo! Ora le mie dita sono state nella figa della mamma. La figa della mamma!!! E, cosa altrettanto bella, la faceva sudare così tanto... Mi chiedo cosa farà ora dopo questo? E se decidesse di interrompere le lezioni?! [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1265 #-#-# translate crowdin s1_ann_intimate_lesson_03_a431a981:
 msgid "[Ann_15] Макс! А что это ты там делаешь?!"
-msgstr ""
+msgstr "[Ann_15] Max! Che ci fai lassù?"
 
 # game/scripts_s1/s1_v91.rpy:1266 #-#-# translate crowdin s1_ann_intimate_lesson_03_04af0b5f:
 msgid "[Max_08] Эээ... Ну, как бы это... снимаю напряжение. Ты же сама разрешила."
-msgstr ""
+msgstr "[Max_08] Ehm... Beh, è una specie di... per togliere la tensione. Hai detto che andava bene."
 
 # game/scripts_s1/s1_v91.rpy:1270 #-#-# translate crowdin s1_ann_intimate_lesson_03_ec8d607e:
 msgid "[Ann_17] Да, но... Я думала, ты хотя бы отвернёшься и будешь делать это не глядя на меня."
-msgstr ""
+msgstr "[Ann_17] Sì, ma... Pensavo che almeno ti saresti girato e l'avresti fatto senza guardarmi."
 
 # game/scripts_s1/s1_v91.rpy:1271 #-#-# translate crowdin s1_ann_intimate_lesson_03_dbe0841a:
 msgid "[Max_09] А зачем мне отворачиваться и фантазировать о ком-то, когда всего в метре от меня, за стеклом {b}ТЫ{/b}? С твоей красотой ни одна фантазия не сравнится и близко!"
-msgstr ""
+msgstr "[Max_09] Perché dovrei girarmi dall'altra parte e fantasticare su qualcuno quando a un metro da me, dietro il vetro {b}ci sei TU{/b}? Nessuna fantasia può essere paragonata alla vostra bellezza!"
 
 # game/scripts_s1/s1_v91.rpy:1272 #-#-# translate crowdin s1_ann_intimate_lesson_03_1b5e0ed1:
 msgid "[Ann_12] Очень приятно слышать, конечно, но это ненормально, когда сына так сильно возбуждает его собственная мать."
-msgstr ""
+msgstr "[Ann_12] È bello sentirlo, naturalmente, ma non è normale che un figlio sia così eccitato dalla propria madre."
 
 # game/scripts_s1/s1_v91.rpy:1273 #-#-# translate crowdin s1_ann_intimate_lesson_03_6a444508:
 msgid "[Max_07] Ты для меня и женщиной являешься. И очень сексуальной женщиной!"
-msgstr ""
+msgstr "[Max_07] Anche tu sei una donna per me. E anche una donna molto sexy!"
 
 # game/scripts_s1/s1_v91.rpy:1274 #-#-# translate crowdin s1_ann_intimate_lesson_03_f94d7691:
 msgid "[Ann_16] И не стыдно тебе вот так демонстративно это делать прямо передо мной, а? [nointeract]"
-msgstr ""
+msgstr "[Ann_16] E non ti vergogni di farlo così palesemente davanti a me, eh? [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1281 #-#-# translate crowdin s1_ann_intimate_lesson_03_138d5c05:
 msgid "[Ann_17] Ну Макс! Вот что ты наделал! Всё стекло заляпал... Даже не вздумай уходить, не прибравшись за собой! Безобразник."
-msgstr ""
+msgstr "[Ann_17] Oh, Max! Che cosa hai fatto? Su tutto il vetro... Non osate andarvene senza aver pulito! Piccolo monello."
 
 # game/scripts_s1/s1_v91.rpy:1282 #-#-# translate crowdin s1_ann_intimate_lesson_03_031d6965:
 msgid "[Max_20] Фух... Конечно приберусь, не ругайся. [nointeract]"
-msgstr ""
+msgstr "[Max_20] Phew... Certo che lo farò, non giurare. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1296 #-#-# translate crowdin s1_ann_intimate_lesson_04_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
@@ -1706,135 +1706,135 @@ msgstr "[Ann] {b}Анна:{/b} È bello che tu abbia bussato. Entra, ma non fart
 
 # game/scripts_s1/s1_v91.rpy:1306 #-#-# translate crowdin s1_ann_intimate_lesson_04_a1d94f75:
 msgid "[Ann_02] Ну... Что стоишь и глазеешь? Раздевайся и залазь в ванну."
-msgstr ""
+msgstr "[Ann_02] Beh... Cosa stai fissando? Spogliatevi ed entrate nella vasca."
 
 # game/scripts_s1/s1_v91.rpy:1307 #-#-# translate crowdin s1_ann_intimate_lesson_04_bf13bde3:
 msgid "[Max_09] Я просто не был уверен, что наши уроки будут продолжаться."
-msgstr ""
+msgstr "[Max_09] Non ero sicuro che le nostre lezioni sarebbero continuate."
 
 # game/scripts_s1/s1_v91.rpy:1312 #-#-# translate crowdin s1_ann_intimate_lesson_04_803c2d63:
 msgid "[Ann_05] Уж как минимум закрепить пройденное надо, Макс. Если ты готов."
-msgstr ""
+msgstr "[Ann_05] Come minimo, devi consolidare ciò che hai imparato, Max. Se siete pronti."
 
 # game/scripts_s1/s1_v91.rpy:1313 #-#-# translate crowdin s1_ann_intimate_lesson_04_b100e351:
 msgid "[Max_05] Я всегда готов! [nointeract]"
-msgstr ""
+msgstr "[Max_05] Sono sempre pronto! [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1320 #-#-# translate crowdin s1_ann_intimate_lesson_04_c43a615e:
 msgid "[Ann_12] Надеюсь, на всех прошедших уроках ты не просто меня разглядывал, но и усвоил мои наставления."
-msgstr ""
+msgstr "[Ann_12] Spero che in tutte le lezioni passate non vi siate limitati a guardarmi, ma che abbiate assorbito le mie istruzioni."
 
 # game/scripts_s1/s1_v91.rpy:1321 #-#-# translate crowdin s1_ann_intimate_lesson_04_24cd072d:
 msgid "[Max_01] Я был очень внимательным! Ну... к наставлениям."
-msgstr ""
+msgstr "[Max_01] Sono stato molto attento! Bene... all'ammonimento."
 
 # game/scripts_s1/s1_v91.rpy:1325 #-#-# translate crowdin s1_ann_intimate_lesson_04_642d9a26:
 msgid "[Ann_04] Тогда сегодня твоя задача, попытаться совместить знания со всех наших уроков. Думаю, ты справишься. Ты у меня талантливый. [nointeract]"
-msgstr ""
+msgstr "[Ann_04] Il vostro compito oggi è cercare di combinare le conoscenze di tutte le lezioni. Penso che possiate farcela. Hai talento. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1331 #-#-# translate crowdin s1_ann_intimate_lesson_04_ed2d911e:
 msgid "[Ann_02] Сейчас я не буду тебе ничего подсказывать. Попробуешь полностью сам."
-msgstr ""
+msgstr "[Ann_02] Non ho intenzione di dirvi nulla ora. Lo proverete completamente da soli."
 
 # game/scripts_s1/s1_v91.rpy:1332 #-#-# translate crowdin s1_ann_intimate_lesson_04_57f52aab:
 msgid "[Max_07] Тогда ты должна не сдерживаться в выражении эмоций! Мне же нужен ориентир."
-msgstr ""
+msgstr "[Max_07] Allora non dovete trattenervi dall'esprimere le vostre emozioni! Ho bisogno di un punto di riferimento, vero?"
 
 # game/scripts_s1/s1_v91.rpy:1333 #-#-# translate crowdin s1_ann_intimate_lesson_04_14854d78:
 msgid "[Ann_13] Ну... Хорошо, я буду вести себя так, как вела бы со своим мужчиной. Хоть мне и не очень удобно это делать... [nointeract]"
-msgstr ""
+msgstr "[Ann_13] Beh... Ok, mi comporterò come farei con il mio uomo. Anche se non mi sento molto a mio agio nel farlo... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1339 #-#-# translate crowdin s1_ann_intimate_lesson_04_8ff301a2:
 msgid "[Ann_14] Оу! Ты решил начать сразу оттуда... Чему я тебя учила, сынок? А как же прелюдия?"
-msgstr ""
+msgstr "[Ann_14] Oh! Hai deciso di partire direttamente da lì... Cosa ti ho insegnato, figliolo? E i preliminari?"
 
 # game/scripts_s1/s1_v91.rpy:1340 #-#-# translate crowdin s1_ann_intimate_lesson_04_538e281d:
 msgid "[Max_02] Не переживай, она тоже будет."
-msgstr ""
+msgstr "[Max_02] Non preoccupatevi, lo farà anche lei."
 
 # game/scripts_s1/s1_v91.rpy:1341 #-#-# translate crowdin s1_ann_intimate_lesson_04_0ddc1141:
 msgid "[Ann_03] Охх... Не знаю, что ты там придумал, но, так уж и быть, продолжай... Д-а-а... [nointeract]"
-msgstr ""
+msgstr "[Ann_03] Ohhh... Non so cosa tu abbia in mente, ma continua... S-a-a... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1347 #-#-# translate crowdin s1_ann_intimate_lesson_04_1e1d5cdc:
 msgid "[Ann_08] Ммм... Должна признать, пальчиками ты работаешь очень приятно. Ахх... Как хорошо... что ты стал заниматься массажем."
-msgstr ""
+msgstr "[Ann_08] Mmm... Devo ammettere che il tuo lavoro con le dita è molto bello. Ahh... È bello... che tu sia entrato nel mondo della massoterapia."
 
 # game/scripts_s1/s1_v91.rpy:1348 #-#-# translate crowdin s1_ann_intimate_lesson_04_c4d8a8d0:
 msgid "[Max_03] {m}Чёрт, как же мне хочется попробовать на вкус эти нежные губки... Интересно, она позволит мне это сделать? Лучше посильнее её раззадорить, чтобы она не смогла от этого отказаться.{/m}"
-msgstr ""
+msgstr "[Max_03] {m}Accidenti, voglio assaggiare quelle labbra delicate... Mi chiedo se me lo lascerà fare. Meglio renderla più eccitata, così non potrà rifiutare."
 
 # game/scripts_s1/s1_v91.rpy:1352 #-#-# translate crowdin s1_ann_intimate_lesson_04_4a78fe22:
 msgid "[Ann_09] Да, как хорошо! Я хочу, чтобы твои пальчики двигались ещё быстрее... Ухх... Д-а-а... Вот так. Какой же ты у меня молодец!"
-msgstr ""
+msgstr "[Ann_09] Sì, è una bella sensazione! Voglio che le tue dita si muovano ancora più velocemente... Uhh... S-a-a... Tutto qui. Ecco di cosa sto parlando."
 
 # game/scripts_s1/s1_v91.rpy:1353 #-#-# translate crowdin s1_ann_intimate_lesson_04_beda0759:
 msgid "[Max_04] {m}Ох, мама так завелась от удовольствия или же она просто отыгрывает роль? Как бы там ни было, самое время переходить к её груди... Все руки должны быть при деле!{/m}"
-msgstr ""
+msgstr "[Max_04] {m}Oh, la mamma è così eccitata dal piacere o sta solo recitando la parte? In ogni caso, è ora di passare al suo seno... Tutte le mani devono andare!"
 
 # game/scripts_s1/s1_v91.rpy:1357 #-#-# translate crowdin s1_ann_intimate_lesson_04_7135350f:
 msgid "[Ann_14] Да, продолжай... Всё правильно. Свои ручки используй по максимуму. Д-а-а... А так же не забывай потренировать свой язычок на моих сосочках, потому что с этим у тебя куда меньше опыта... [nointeract]"
-msgstr ""
+msgstr "[Ann_14] Sì, vai avanti... Proprio così. Sfruttate al massimo le vostre mani. Già... Ricordati anche di fare pratica con la lingua sui miei capezzoli, perché sei molto meno esperto in questo... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1363 #-#-# translate crowdin s1_ann_intimate_lesson_04_e61e4718:
 msgid "[Max_02] {m}Мама даже и близко не представляет, сколько на самом деле у меня опыта и в том, и в том. Но языком всё же лучше работать не очень изобретательно. Если с руками ещё можно успехи списать на опыт в массаже, то с языком так не выйдет. Я же не чемпион по облизыванию Чупа-Чупсов.{/m}"
-msgstr ""
+msgstr "[Max_02] {m}Mamma non ha idea di quanta esperienza io abbia in realtà in entrambe le cose. Ma è meglio non essere troppo creativi con la lingua. Se le mie mani potevano essere accusate per la mia esperienza di massaggio, la mia lingua non poteva esserlo. Non è che io sia un campione di leccate di Chupa Chups."
 
 # game/scripts_s1/s1_v91.rpy:1364 #-#-# translate crowdin s1_ann_intimate_lesson_04_05c7906b:
 msgid "[Ann_10] Ох, сынок... Ммм... Да... Очень неплохо. Думаю, я достаточно хорошо тебя подготовила... Ухх... Надо закругляться."
-msgstr ""
+msgstr "[Ann_10] Oh, figliolo... Mmm... Sì... Molto bene. Penso di averti preparato abbastanza bene... Uh... Concludiamo."
 
 # game/scripts_s1/s1_v91.rpy:1368 #-#-# translate crowdin s1_ann_intimate_lesson_04_29d2acbe:
 msgid "[Max_08] Как это закругляться?! А мне разве не стоит побольше попрактиковаться языком, раз уж он у меня отстаёт от пальцев? Я хочу опробовать его на твоей киске."
-msgstr ""
+msgstr "[Max_08] Cosa vuol dire \"impacchettare\"?! Non dovrei esercitarmi di più con la lingua, visto che è in ritardo rispetto alle dita? Voglio provarlo sulla tua figa."
 
 # game/scripts_s1/s1_v91.rpy:1369 #-#-# translate crowdin s1_ann_intimate_lesson_04_cdf904e6:
 msgid "[Ann_13] Нет, Макс... Такое делать - это уже совсем уму не постижимо... [nointeract]"
-msgstr ""
+msgstr "[Ann_13] No, Max... È incomprensibile fare una cosa del genere... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1375 #-#-# translate crowdin s1_ann_intimate_lesson_04_e3c6affd:
 msgid "[Ann_14] Охх... сынок... Что же ты вытворяешь! Нам нельзя... Ах... Это... невероятно... Я... я не могу сопротивляться... Это не в моих силах! Как же хорошо... [nointeract]"
-msgstr ""
+msgstr "[Ann_14] Ohhh... figlio... Che cosa stai facendo? Non possiamo... Ah... Questo è... incredibile... Я... Non posso resistere... E' fuori dalle mie mani! È così bello... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1381 #-#-# translate crowdin s1_ann_intimate_lesson_04_2355dedf:
 msgid "[Ann_09] Д-а-а... Кажется, я ошиблась... Ты и языком талантливо управляешься! Ухх... Ещё... Ох, это... нет слов, как приятно... Я и секунды больше не продержусь..."
-msgstr ""
+msgstr "[Ann_09] S-a-a... Credo di essermi sbagliato... Hai un talento anche per la lingua! Uh... Altro... Oh, è... Non so dirvi quanto sia bello... Non posso resistere un secondo di più..."
 
 # game/scripts_s1/s1_v91.rpy:1382 #-#-# translate crowdin s1_ann_intimate_lesson_04_ab6477bc:
 msgid "[Max_07] {m}Да, мама вот-вот кончит! Чёрт, да я и сам от её стонов уже на грани...{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_07] {m}Sì, la mamma sta per sborrare! Cazzo, i suoi gemiti mi hanno fatto venire anch'io... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1388 #-#-# translate crowdin s1_ann_intimate_lesson_04_b84b58ab:
 msgid "[Ann_11] Ещё быстрее... Моё тело меня больше не слушается... Ох, я кончаю, сынок... Д-а-а... [nointeract]"
-msgstr ""
+msgstr "[Ann_11] Ancora più veloce... Il mio corpo non mi ascolta più... Oh, sto arrivando, figliolo... Duh-uh... [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1395 #-#-# translate crowdin s1_ann_intimate_lesson_04_62323a41:
 msgid "[Ann_17] Макс! Ну что же ты делаешь?! Всю меня своей спермой забрызгал! Не мог отвернуться что ли?"
-msgstr ""
+msgstr "[Ann_17] Max! Cosa stai facendo? Hai schizzato il tuo sperma su di me! Non potevi distogliere lo sguardo?"
 
 # game/scripts_s1/s1_v91.rpy:1396 #-#-# translate crowdin s1_ann_intimate_lesson_04_c153e0ef:
 msgid "[Max_22] Фух, извини... Перевозбудился... Хотелось просто кончить, а куда - неважно!"
-msgstr ""
+msgstr "[Max_22] Uff, scusate... Mi sono eccitato troppo... Volevo solo sborrare e non importava dove!"
 
 # game/scripts_s1/s1_v91.rpy:1400 #-#-# translate crowdin s1_ann_intimate_lesson_04_af3d407f:
 msgid "[Ann_12] Пора, сынок, всё это заканчивать. Я имею ввиду, эти уроки. До добра это не доведёт точно. И зачем я только на это согласилась..."
-msgstr ""
+msgstr "[Ann_12] È ora, figliolo, di finirla qui. Voglio dire, queste lezioni. Non servirà a nulla. Non so perché ho accettato di farlo..."
 
 # game/scripts_s1/s1_v91.rpy:1401 #-#-# translate crowdin s1_ann_intimate_lesson_04_c441a121:
 msgid "[Max_08] Но, мам..."
-msgstr ""
+msgstr "[Max_08] Ma, mamma..."
 
 # game/scripts_s1/s1_v91.rpy:1402 #-#-# translate crowdin s1_ann_intimate_lesson_04_d8e85bcd:
 msgid "[Ann_16] Не спорь! Всё это ты должен осваивать со своей девушкой, а не с мамой. Надеюсь, мы сможем представить, что на этих уроках ничего не было."
-msgstr ""
+msgstr "[Ann_16] Non discutere! È una cosa che dovresti imparare a fare con la tua ragazza, non con tua madre. Spero che si possa immaginare che in queste lezioni non sia successo nulla."
 
 # game/scripts_s1/s1_v91.rpy:1403 #-#-# translate crowdin s1_ann_intimate_lesson_04_561f1b40:
 msgid "[Max_09] Ну... Даже не знаю. После твоих стонов..."
-msgstr ""
+msgstr "[Max_09] Beh... Non lo so. Dopo i tuoi gemiti..."
 
 # game/scripts_s1/s1_v91.rpy:1404 #-#-# translate crowdin s1_ann_intimate_lesson_04_ec4a933e:
 msgid "[Ann_17] Забыли, сынок! А теперь иди. Мне нужно привести себя в порядок. [nointeract]"
-msgstr ""
+msgstr "[Ann_17] Lascia perdere, figliolo! Ora vai. Ho bisogno di riordinarmi. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1419 #-#-# translate crowdin s1_ann_rejection_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
@@ -1846,156 +1846,156 @@ msgstr "[Max_07] Sono io, Max. Posso entrare?"
 
 # game/scripts_s1/s1_v91.rpy:1421 #-#-# translate crowdin s1_ann_rejection_f1089d36:
 msgid "[Ann] {b}Анна:{/b} Никаких больше уроков. Я ведь уже сказала! Не мешай... [nointeract]"
-msgstr ""
+msgstr "[Ann] {b}Niente più lezioni. Te l'ho già detto! Non interferire... [nointeract]"
 
 msgid "{i}помочь маме добраться до кровати{/i}"
-msgstr ""
+msgstr "{i}Aiuta la mamma ad andare a letto{/i}"
 
 # game/scripts_s1/s1_v91.rpy:330
 msgid "Хватит пить! Мы идём спать!"
-msgstr ""
+msgstr "Smettete di bere! Andiamo a letto!"
 
 # game/scripts_s1/s1_v91.rpy:375
 msgid "{i}дремать{/i}"
-msgstr ""
+msgstr "{i}Dormire{/i}"
 
 # game/scripts_s1/s1_v91.rpy:387
 msgid "Мне тоже... Хочешь почувствовать, насколько?"
-msgstr ""
+msgstr "Anch'io... Vuoi sentire quanto?"
 
 # game/scripts_s1/s1_v91.rpy:387
 msgid "{i}притвориться спящим{/i}"
-msgstr ""
+msgstr "{i}Fingi di dormire{/i}"
 
 # game/scripts_s1/s1_v91.rpy:400
 msgid "{i}целовать маму{/i}"
-msgstr ""
+msgstr "{i}Bacio mamma{/i}"
 
 # game/scripts_s1/s1_v91.rpy:426
 msgid "отвлечься на её киску"
-msgstr ""
+msgstr "distratto dalla sua figa"
 
 # game/scripts_s1/s1_v91.rpy:476
 msgid "{i}ласкать маму языком{/i}"
-msgstr ""
+msgstr "{i}Accarezza la mamma con la lingua{/i}"
 
 # game/scripts_s1/s1_v91.rpy:497
 msgid "{i}проникнуть пальцами в её киску{/i}"
-msgstr ""
+msgstr "{i}Penetrare la sua figa con le dita{/i}"
 
 # game/scripts_s1/s1_v91.rpy:505
 msgid "{i}перебраться в позу 69{/i}"
-msgstr ""
+msgstr "{i}Passa alla posizione 69{/i}"
 
 # game/scripts_s1/s1_v91.rpy:505
 msgid "другие позы"
-msgstr ""
+msgstr "altre posizioni"
 
 # game/scripts_s1/s1_v91.rpy:511
 msgid "{i}ласкать языком неспеша{/i}"
-msgstr ""
+msgstr "{i}Accarezza con la lingua lentamente{/i}"
 
 # game/scripts_s1/s1_v91.rpy:519
 msgid "{i}кончить маме в рот{/i}"
-msgstr ""
+msgstr "{i}Sborra nella bocca di mamma{/i}"
 
 # game/scripts_s1/s1_v91.rpy:528
 msgid "{i}продолжить ласкать языком{/i}"
-msgstr ""
+msgstr "{i}Continua ad accarezzare con la lingua{/i}"
 
 # game/scripts_s1/s1_v91.rpy:536
 msgid "{i}ласкать языком активнее{/i}"
-msgstr ""
+msgstr "{i}Leccare più forte{/i}"
 
 # game/scripts_s1/s1_v91.rpy:600
 msgid "{i}натянуть шорты{/i}"
-msgstr ""
+msgstr "{i}Indossare i pantaloncini{/i}"
 
 # game/scripts_s1/s1_v91.rpy:629
 msgid "{i}уйти к себе в комнату{/i}"
-msgstr ""
+msgstr "{i}Vai nella tua stanza{/i}"
 
 # game/scripts_s1/s1_v91.rpy:749
 msgid "{i}продолжить массаж с поцелуями в шею{/i}"
-msgstr ""
+msgstr "{i}Continua il massaggio con baci sul collo{/i}"
 
 # game/scripts_s1/s1_v91.rpy:764
 msgid "{i}продолжить массаж и поцелуи{/i}"
-msgstr ""
+msgstr "{i}Continua a massaggiare e baciare{/i}"
 
 # game/scripts_s1/s1_v91.rpy:792
 msgid "{i}массировать мамину грудь{/i}"
-msgstr ""
+msgstr "{i}Massaggiare il seno della mamma{/i}"
 
 # game/scripts_s1/s1_v91.rpy:844
 msgid "Нужна твоя помощь. Пойдём на диван, расскажу..."
-msgstr ""
+msgstr "Ho bisogno del tuo aiuto. Andiamo sul divano, ti dirò..."
 
 # game/scripts_s1/s1_v91.rpy:944
 msgid "{i}идти на кухню{/i}"
-msgstr ""
+msgstr "{i}Vai in cucina{/i}"
 
 # game/scripts_s1/s1_v91.rpy:957
 msgid "{i}пойти спать{/i}"
-msgstr ""
+msgstr "{i}Vai a dormire{/i}"
 
 # game/scripts_s1/s1_v91.rpy:973
 msgid "{i}войти без стука{/i}"
-msgstr ""
+msgstr "{i}Entra senza bussare{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1070
 msgid "{i}устроиться между маминых ног{/i}"
-msgstr ""
+msgstr "{i}Siediti tra le gambe della mamma{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1083
 msgid "{i}ласкать мамину грудь{/i}"
-msgstr ""
+msgstr "{i}Accarezzare il seno della mamma{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1090
 msgid "{i}ласкать языком нежнее{/i}"
-msgstr ""
+msgstr "{i}Accarezzare con la lingua più dolcemente{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1186
 msgid "{i}следовать маминому совету{/i}"
-msgstr ""
+msgstr "{i}seguire il consiglio di mia madre{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1224
 msgid "{i}сделать, как сказала мама{/i}"
-msgstr ""
+msgstr "{i}fai come ha detto mia madre{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1246
 msgid "{i}освободить ванну{/i}"
-msgstr ""
+msgstr "{i}svuotare la vasca da bagno{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1260
 msgid "{i}дрочить, глядя на маму{/i}"
-msgstr ""
+msgstr "{i}masturbarsi guardando mia madre{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1283
 msgid "{i}прибраться и уйти{/i}"
-msgstr ""
+msgstr "{i}pulire e andarsene{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1334
 msgid "{i}начать водить пальцами по маминой киске{/i}"
-msgstr ""
+msgstr "{i}inizia a passare le dita nella figa della mamma{/i}."
 
 # game/scripts_s1/s1_v91.rpy:1342
 msgid "{i}ласкать пальцами быстрее{/i}"
-msgstr ""
+msgstr "{i}accarezzando le dita più velocemente{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1370
 msgid "{i}ласкать мамину киску языком{/i}"
-msgstr ""
+msgstr "{i}accarezzare la figa di mia madre con la lingua{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1376
 msgid "{i}не останавливаться{/i}"
-msgstr ""
+msgstr "{i}non fermarti{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1383
 msgid "{i}проникнуть в маму пальцами{/i}"
-msgstr ""
+msgstr "{i}penetrare la madre con le dita{/i}"
 
 # game/scripts_s1/s1_v91.rpy:1389
 msgid "{i}тоже кончить!{/i}"
-msgstr ""
+msgstr "{i}anche la sborra!"
 
