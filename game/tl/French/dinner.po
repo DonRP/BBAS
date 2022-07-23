@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 11:51\n"
+"PO-Revision-Date: 2022-07-23 13:34\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/dinner.rpy:62 #-#-# translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01] Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать... [nointeract]"
@@ -1265,345 +1265,345 @@ msgid "[Max_01] Пока, мам..."
 msgstr "[Max_01] Au revoir, maman..."
 
 msgid "Как скажешь, мам..."
-msgstr ""
+msgstr "Comme tu veux, maman..."
 
 # game/dialogues/dinner.rpy:75
 msgid "У тебя всё хорошо?"
-msgstr ""
+msgstr "Les choses vont-elles bien pour toi?"
 
 # game/dialogues/dinner.rpy:89
 msgid "Напомни, а кем ты работаешь?"
-msgstr ""
+msgstr "Rappelle-moi, tu travailles pour qui?"
 
 # game/dialogues/dinner.rpy:89
 msgid "А где находится твой офис?"
-msgstr ""
+msgstr "Où est ton bureau?"
 
 # game/dialogues/dinner.rpy:92
 msgid "Точно. Ну, поздравляю!"
-msgstr ""
+msgstr "Exactement. Eh bien, félicitations!"
 
 # game/dialogues/dinner.rpy:92
 msgid "А с начальником повезло?"
-msgstr ""
+msgstr "Le patron a-t-il eu de la chance?"
 
 # game/dialogues/dinner.rpy:99
 msgid "Поздравляю!"
-msgstr ""
+msgstr "Félicitations!"
 
 # game/dialogues/dinner.rpy:111
 msgid "А что с ним?"
-msgstr ""
+msgstr "Et lui?"
 
 # game/dialogues/dinner.rpy:111
 msgid "Ещё толще и лысее?"
-msgstr ""
+msgstr "Encore plus gros et plus chauve?"
 
 # game/dialogues/dinner.rpy:117
 msgid "Ого! Да он в тебя влюбился?"
-msgstr ""
+msgstr "Wow! Il est tombé amoureux de toi?"
 
 # game/dialogues/dinner.rpy:117
 msgid "И как его зовут?"
-msgstr ""
+msgstr "Et quel est son nom?"
 
 # game/dialogues/dinner.rpy:117
 msgid "Мне кажется, это плохая идея"
-msgstr ""
+msgstr "Je pense que c'est une mauvaise idée"
 
 # game/dialogues/dinner.rpy:120
 msgid "Да, точно! А может быть, и он тебе нравится?"
-msgstr ""
+msgstr "Oui, exactement! Peut-être que tu l'aimes aussi?"
 
 # game/dialogues/dinner.rpy:129
 msgid "А вред такой, что если поссорится, её уволят!"
-msgstr ""
+msgstr "Et le mal est tel que si elle se dispute, elle sera virée!"
 
 # game/dialogues/dinner.rpy:129
 msgid "Может, ты и права..."
-msgstr ""
+msgstr "Tu as peut-être raison..."
 
 # game/dialogues/dinner.rpy:148
 msgid "Ага, а подружку зовут Алекс..."
-msgstr ""
+msgstr "Sa copine s'appelle Alex..."
 
 # game/dialogues/dinner.rpy:148
 msgid "Что за подружка?"
-msgstr ""
+msgstr "Quelle petite amie?"
 
 # game/dialogues/dinner.rpy:148
 msgid "Что за подружка? {i}(подмигнуть){/i}"
-msgstr ""
+msgstr "Quelle petite amie? {i}(clin d’œil){/i}"
 
 # game/dialogues/dinner.rpy:152
 msgid "Ой, извини. Я думал, у нас нет секретов..."
-msgstr ""
+msgstr "Oh, désolé. Je croyais qu'on n'avait pas de secrets..."
 
 # game/dialogues/dinner.rpy:152
 msgid "А ты не сказала, что это секрет..."
-msgstr ""
+msgstr "Tu n'as pas dit que c'était un secret..."
 
 # game/dialogues/dinner.rpy:178
 msgid "Хорошо, мам!"
-msgstr ""
+msgstr "D'accord, maman!"
 
 # game/dialogues/dinner.rpy:190
 msgid "А ты прямо уработалась, да?"
-msgstr ""
+msgstr "Tu t'es occupée, hein?"
 
 # game/dialogues/dinner.rpy:190
 msgid "А ты чем занимаешься?"
-msgstr ""
+msgstr "Et toi, que fais-tu?"
 
 # game/dialogues/dinner.rpy:201
 msgid "А на что она будет поступать?"
-msgstr ""
+msgstr "Et ce qu'il viendra?"
 
 # game/dialogues/dinner.rpy:201
 msgid "Да ей лень!"
-msgstr ""
+msgstr "Elle est paresseuse!"
 
 # game/dialogues/dinner.rpy:204
 msgid "Это кто одарённый? Алиса?"
-msgstr ""
+msgstr "Qui est le doué? Alice?"
 
 # game/dialogues/dinner.rpy:204
 msgid "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
-msgstr ""
+msgstr "Eh bien, oui, elle doit déjà être payée pour être une telle Star!"
 
 # game/dialogues/dinner.rpy:204
 msgid "А при чём тут Алиса?"
-msgstr ""
+msgstr "Qu'est-ce qu'Alice a à voir avec ça?"
 
 # game/dialogues/dinner.rpy:223
 msgid "Так чего жы ты такая бедная?"
-msgstr ""
+msgstr "Pourquoi es-tu si pauvre?"
 
 # game/dialogues/dinner.rpy:223
 msgid "И какой план?"
-msgstr ""
+msgstr "Quel est le plan?"
 
 # game/dialogues/dinner.rpy:242
 msgid "Ну как построишь, позови!"
-msgstr ""
+msgstr "Eh bien, comment construire, appelez!"
 
 # game/dialogues/dinner.rpy:242
 msgid "Помощь нужна?"
-msgstr ""
+msgstr "Besoin d'aide?"
 
 # game/dialogues/dinner.rpy:269
 msgid "Даже спасибо? Ну, хорошо..."
-msgstr ""
+msgstr "Même merci? Eh bien, d'accord..."
 
 # game/dialogues/dinner.rpy:269
 msgid "Ладно..."
-msgstr ""
+msgstr "D'accord..."
 
 # game/dialogues/dinner.rpy:276
 msgid "Спасибо? Мне? От тебя?!"
-msgstr ""
+msgstr "Merci? Pour moi? De toi?!"
 
 # game/dialogues/dinner.rpy:288
 msgid "Ты что, пауков боишься?"
-msgstr ""
+msgstr "Tu as peur des araignées?"
 
 # game/dialogues/dinner.rpy:288
 msgid "Да они же безобидные, наверное..."
-msgstr ""
+msgstr "Elles sont inoffensifs, peut-être..."
 
 # game/dialogues/dinner.rpy:313
 msgid "А это точно хорошо?"
-msgstr ""
+msgstr "C'est sûr que c'est bon?"
 
 # game/dialogues/dinner.rpy:313
 msgid "Поздравляю, мам!"
-msgstr ""
+msgstr "Félicitations, maman!"
 
 # game/dialogues/dinner.rpy:322
 msgid "И теперь ты будешь ещё больше от него зависеть..."
-msgstr ""
+msgstr "Et maintenant tu vas en dépendre encore plus..."
 
 # game/dialogues/dinner.rpy:322
 msgid "А если поссоришься с этим Эриком, то всё..."
-msgstr ""
+msgstr "Et si tu te disputes avec Eric, c'est tout..."
 
 # game/dialogues/dinner.rpy:331
 msgid "Давай, рассказывай подробности!"
-msgstr ""
+msgstr "Allez, donne-moi les détails!"
 
 # game/dialogues/dinner.rpy:331
 msgid "Ладно, не будем мучать Лизу вопросами..."
-msgstr ""
+msgstr "On ne va pas torturer Lisa avec des questions..."
 
 # game/dialogues/dinner.rpy:342
 msgid "Бери меня с собой!"
-msgstr ""
+msgstr "Emmène-moi avec toi!"
 
 # game/dialogues/dinner.rpy:342
 msgid "Я тоже люблю клубы!"
-msgstr ""
+msgstr "J'aime aussi les clubs!"
 
 # game/dialogues/dinner.rpy:366
 msgid "А меня сейчас стошнит..."
-msgstr ""
+msgstr "Et moi maintenant malade..."
 
 # game/dialogues/dinner.rpy:373
 msgid "Да загорай голая!"
-msgstr ""
+msgstr "Oui, bronzer nue!"
 
 # game/dialogues/dinner.rpy:386
 msgid "Попрошайка!"
-msgstr ""
+msgstr "Mendiant!"
 
 # game/dialogues/dinner.rpy:393
 msgid "И правильно!"
-msgstr ""
+msgstr "Et correctement!"
 
 # game/dialogues/dinner.rpy:401
 msgid "Подробнее, пожалуйста..."
-msgstr ""
+msgstr "La suite, s'il vous plaît..."
 
 # game/dialogues/dinner.rpy:408
 msgid "{i}О нет...{/i}"
-msgstr ""
+msgstr "{i}O non...{/i}"
 
 # game/dialogues/dinner.rpy:412
 msgid "И правильно делаешь!"
-msgstr ""
+msgstr "Et tu le fais bien!"
 
 # game/dialogues/dinner.rpy:422
 msgid "Повеселитесь там, как следует!"
-msgstr ""
+msgstr "Amusez-vous bien là-bas!"
 
 # game/dialogues/dinner.rpy:422
 msgid "А что вы будете делать?"
-msgstr ""
+msgstr "Et que faites-vous?"
 
 # game/dialogues/dinner.rpy:446
 msgid "И чем будете заниматься?"
-msgstr ""
+msgstr "Et qu’allez-vous faire?"
 
 # game/dialogues/dinner.rpy:446
 msgid "Отлично!"
-msgstr ""
+msgstr "Excellent!"
 
 # game/dialogues/dinner.rpy:446
 msgid "Зачем он тут нужен?"
-msgstr ""
+msgstr "Pourquoi il est là?"
 
 # game/dialogues/dinner.rpy:453
 msgid "Почему понравился? Нормальный мужик..."
-msgstr ""
+msgstr "Pourquoi t'as aimé? Un mec normal..."
 
 # game/dialogues/dinner.rpy:453
 msgid "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
-msgstr ""
+msgstr "Eric? Aimé?! Non, je suis content que tu sois à la maison..."
 
 # game/dialogues/dinner.rpy:461
 msgid "А за что его любить?"
-msgstr ""
+msgstr "Pourquoi l'aimer?"
 
 # game/dialogues/dinner.rpy:461
 msgid "Да козёл он!"
-msgstr ""
+msgstr "Oui chèvre et il!"
 
 # game/dialogues/dinner.rpy:482
 msgid "Ну, кто рад, а кто..."
-msgstr ""
+msgstr "Eh bien, qui est heureux, et qui..."
 
 # game/dialogues/dinner.rpy:486
 msgid "Да всё нормально..."
-msgstr ""
+msgstr "Oui tout est normal..."
 
 # game/dialogues/dinner.rpy:486
 msgid "Вы слишком торопитесь."
-msgstr ""
+msgstr "Vous êtes trop pressé."
 
 # game/dialogues/dinner.rpy:486
 msgid "Просто не нравишься!"
-msgstr ""
+msgstr "Il suffit de ne plais!"
 
 # game/dialogues/dinner.rpy:498
 msgid "Тебе показалось..."
-msgstr ""
+msgstr "Tu l'as imaginé..."
 
 # game/dialogues/dinner.rpy:559
 msgid "Может быть, я такой..."
-msgstr ""
+msgstr "Peut-être que je suis comme ça..."
 
 # game/dialogues/dinner.rpy:565
 msgid "Сдалось оно мне..."
-msgstr ""
+msgstr "Il m’a abandonné..."
 
 # game/dialogues/dinner.rpy:565
 msgid "Я подумаю..."
-msgstr ""
+msgstr "J'y pense encore..."
 
 # game/dialogues/dinner.rpy:591
 msgid "Ты беременна?"
-msgstr ""
+msgstr "Tu es enceinte?"
 
 # game/dialogues/dinner.rpy:591
 msgid "Опять про Эрика?"
-msgstr ""
+msgstr "Encore une fois à propos d’Eric?"
 
 # game/dialogues/dinner.rpy:591
 msgid "Не знаю даже..."
-msgstr ""
+msgstr "Je ne sais même pas..."
 
 # game/dialogues/dinner.rpy:602
 msgid "Я так и знал!"
-msgstr ""
+msgstr "Je le savais!"
 
 # game/dialogues/dinner.rpy:602
 msgid "Тётя Кира?"
-msgstr ""
+msgstr "Tante Kira?"
 
 # game/dialogues/dinner.rpy:610
 msgid "Первая хорошая новость..."
-msgstr ""
+msgstr "Première bonne nouvelle..."
 
 # game/dialogues/dinner.rpy:617
 msgid "Почему ты так говоришь?"
-msgstr ""
+msgstr "Pourquoi dis-tu ça?"
 
 # game/dialogues/dinner.rpy:617
 msgid "А на кого она училась?"
-msgstr ""
+msgstr "Et pour qui a-t-elle étudié?"
 
 # game/dialogues/dinner.rpy:620
 msgid "В каком виде?!"
-msgstr ""
+msgstr "Sous quelle forme?!"
 
 # game/dialogues/dinner.rpy:620
 msgid "Её арестовывали?"
-msgstr ""
+msgstr "Elle a été arrêtée?"
 
 # game/dialogues/dinner.rpy:631
 msgid "Я не в курсе этой истории"
-msgstr ""
+msgstr "Je ne suis pas au courant de cette histoire"
 
 # game/dialogues/dinner.rpy:650
 msgid "День шоппинга?"
-msgstr ""
+msgstr "Journée shopping?"
 
 # game/dialogues/dinner.rpy:650
 msgid "Тётя Кира приезжает?"
-msgstr ""
+msgstr "Tante Kira vient?"
 
 # game/dialogues/dinner.rpy:657
 msgid "А без Эрика сегодня никак?"
-msgstr ""
+msgstr "Et sans Eric aujourd'hui?"
 
 # game/dialogues/dinner.rpy:657
 msgid "А как же шоппинг?"
-msgstr ""
+msgstr "Et le shopping?"
 
 # game/dialogues/dinner.rpy:672
 msgid "Ну, я не против"
-msgstr ""
+msgstr "Eh bien, je ne suis pas contre"
 
 # game/dialogues/dinner.rpy:672
 msgid "Может быть, наоборот?"
-msgstr ""
+msgstr "Peut-être l'inverse?"
 
