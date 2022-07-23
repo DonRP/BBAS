@@ -9,18 +9,18 @@ import re
 dict = {
     # search_text : replace_text
     # start
-    r'\\'+'"': r'§§§§§§§§',
+    r'\\'+'"':                      r'§§§§§§§§',
     # Effect
-    r' \[nointeract\]"':          r'" nointeract',
-    r' \[withfade\]"':            r'" with fade',
-    r' \[withdissolve\]"':        r'" with dissolve',
-    r' \[withslowdissolve\]"':    r'" with slowdissolve',
-    r' \[withhpunch\]"':          r'" with hpunch',
-    r' \[withflash\]"':           r'" with flash',
-    r' \[withvpunch\]"':          r'" with vpunch',
-    r' \[withDissolve20\]"':      r'" with Dissolve(2.0)',
-    r'msgid "\[nvl_clear\]"':     r'    # nvl clear',
-    r'msgstr "\[nvl_clear\]"':    r'    nvl clear',
+    r' \[nointeract\]"':            r'" nointeract',
+    r' \[withfade\]"':              r'" with fade',
+    r' \[withdissolve\]"':          r'" with dissolve',
+    r' \[withslowdissolve\]"':      r'" with slowdissolve',
+    r' \[withhpunch\]"':            r'" with hpunch',
+    r' \[withflash\]"':             r'" with flash',
+    r' \[withvpunch\]"':            r'" with vpunch',
+    r' \[withDissolve20\]"':        r'" with Dissolve(2.0)',
+    r'msgid "\[nvl_clear\]"':       r'    # nvl clear',
+    r'msgstr "\[nvl_clear\]"':      r'    nvl clear',
     # first
     r'msgid "(.*?) \[special_delimiter\] (.*?)"':       r'    # "\1" "\2"',
     r'msgstr "(.*?) \[special_delimiter\] (.*?)"':      r'    "\1" "\2"',
@@ -29,13 +29,13 @@ dict = {
     r'    # (.*?)\nmsgstr "(.*?)"':                     r'    # \1\n    "\2"',
     # after
     # r'# (.*?) "(.*?)"': r'msgid "[\1] \2"',
-    r'    # "\[(.*?)\] (.*?)"':         r'    # \1 "\2"',
+    r'    # "\[(.*?)\] (.*?)"':                         r'    # \1 "\2"',
     # Comment
-    # r':\n\nmsgid': r':\nmsgid',
-    # r'rpy:(.*?)\ntranslate': r'rpy:\1 #-#-# translate',
-    # r'strings:\n\n# ': r'strings: #|#|# # ',
-    # r'\ntranslate': r'\n#§translate',
-    # r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?)\n\n# ': r'updated at \1-\2-\3 \4:\5 #|#|# # ',
+    r':\n    # ':                                                   r':\n\n    # ',
+    r'rpy:(.*?) #-#-# translate':                                   r'rpy:\1\ntranslate',
+    r'strings: #\|#\|# # ':                                         r'strings:\n\n# ',
+    r'\n#§translate':                                               r'\ntranslate',
+    r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?) #\|#\|# # ':         r'updated at \1-\2-\3 \4:\5\n\n# ',
     # end
     # r'    #':                   r'#',
     # r'    old "(.*?)"':         r'msgid "\1"',
