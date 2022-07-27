@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-24 14:55\n"
+"PO-Revision-Date: 2022-07-27 00:28\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -339,7 +339,7 @@ msgstr "Eric"
 
 # game/core/03variables.rpy:236
 msgid "Ещё до того, как мама познакомила меня со своим внезапным ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт. Слишком уж он подозрительный..."
-msgstr "Ancora prima che mia madre mi presentasse il suo improvviso fidanzato Eric, iniziai a pensare che non avrebbe portato nulla di buono nella mia vita. È troppo sospettoso..."
+msgstr "Mesmo antes de minha mãe me apresentar ao seu namorado repentino Eric, comecei a pensar que isso não traria nada de bom para minha vida. Ele é muito suspeito..."
 
 # game/core/03variables.rpy:250
 msgid "Кира"
@@ -363,7 +363,7 @@ msgstr "Kira"
 
 # game/core/03variables.rpy:250
 msgid "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
-msgstr "Zia Kira, la sorella minore della mamma. Certo, prima non sembrava avere complessi, ma ora è diventata così... quindi..."
+msgstr "Tia Kira, irmã mais nova da mamãe. Claro, ela não parecia ter complexos antes, mas agora ela se tornou tão... tão..."
 
 # game/core/03variables.rpy:286
 msgid "Оливия"
