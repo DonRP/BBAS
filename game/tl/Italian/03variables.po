@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-27 00:28\n"
+"PO-Revision-Date: 2022-07-28 00:33\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -383,5 +383,5 @@ msgstr "Olivia"
 
 # game/core/03variables.rpy:286
 msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
-msgstr "Olivia, una compagna di classe della mia sorellina Lisa. Una ragazza piuttosto dolce. E per di più, ha un colpo di scena... Va in giro per la scuola senza mutandine, e per casa nuda, proprio come i suoi genitori, perché sono naturisti. È fantastico che Lisa abbia una ragazza così interessante!"
+msgstr "Olivia, uma colega de classe da minha irmã Lisa. Uma menina muito doce. E mais, ela tem uma mania... Anda pela escola sem calcinha, e pela casa nua, tal como os pais, porque são naturistas. É ótimo que Lisa tenha uma namorada tão interessante!"
 
