@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-28 00:34\n"
+"PO-Revision-Date: 2022-07-29 00:31\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/06_items.rpy:2
 msgid "ПАУК"
@@ -230,75 +230,75 @@ msgstr "CAMISA SEXY CURTA"
 
 # game/core/06_items.rpy:2
 msgid "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
-msgstr "La seducente camicia nera è realizzata in tulle elastico. Il kit include anche mutandine-perizoma."
+msgstr "A sedutora camisa preta é feita de tule elástico. O kit também inclui calcinha-tanga."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
-msgstr "BODY SEXY NERO"
+msgstr "CORPETE NERO SEXY"
 
 # game/core/06_items.rpy:2
 msgid "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
-msgstr "Body in mesh trasparente con retro aperto di colore nero."
+msgstr "Corpete de malha transparente com costas abertas pretas."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
-msgstr "BODY IN PIZZO NERO"
+msgstr "CORPETE EM RENDA PRETA"
 
 # game/core/06_items.rpy:2
 msgid "Женское сексуальное нижнее бельё с кружевным узором по краям."
-msgstr "Intimo sexy da donna con un motivo di pizzo intorno ai bordi."
+msgstr "Roupa intima feminina sexy com um padrão de renda nas bordas."
 
 # game/core/06_items.rpy:2
 msgid "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
-msgstr "CORPETTO SPORTIVO E MINI PANTALONCINI"
+msgstr "CORPETE ESPORTIVO E MINI SHORTS"
 
 # game/core/06_items.rpy:2
 msgid "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
-msgstr "Abiti comodi, aperti e leggeri per lo sport. È anche perfetto per la ricreazione all'aperto."
+msgstr "Roupas confortáveis, abertas e leves para esportes. Também é perfeito para recreação ao ar livre."
 
 # game/core/06_items.rpy:2
 msgid "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
-msgstr "FILM \"IL COLORE DELLA NOTTE\" 1994"
+msgstr "FILME \"A COR DA NOITE\" 1994"
 
 # game/core/06_items.rpy:2
 msgid "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
-msgstr "Bruce Willis nel ruolo di uno psicologo di New York che ha perso un paziente - si è buttata fuori dalla finestra proprio durante la sessione. Per riprendersi, va a Los Angeles dal suo amico, con il quale hanno studiato insieme..."
+msgstr "Bruce Willis é um psicólogo de Nova York que perdeu um paciente - ela se jogou pela janela logo durante a sessão. Para se recuperar, ele vai para Los Angeles com sua amiga, com quem estudou."
 
 # game/core/06_items.rpy:2
 msgid "КОМПРОМАТ НА ЭРИКА"
-msgstr "COMPROMETTERE ERIC"
+msgstr "COMPROMISSO COM ERIK"
 
 # game/core/06_items.rpy:2
 msgid "Снимок того, как Эрик по ночам дрочит на Алису у окна её комнаты."
-msgstr "Un'istantanea di Eric che si masturba davanti ad Alice fuori dalla finestra della sua stanza, di notte."
+msgstr "Uma foto de Eric se masturbando na frente de Alice do lado de fora da janela de seu quarto à noite."
 
 # game/core/06_items.rpy:2
 msgid "Снимки того, как Эрик по ночам сперва дрочил на Алису у окна её комнаты, а затем и в самой комнате."
-msgstr "Istantanee di Eric che si masturba davanti ad Alice fuori dalla finestra della sua stanza di notte, e poi nella stanza stessa."
+msgstr "Fotos de Eric se masturbando na frente de Alice do lado de fora da janela do quarto à noite, e depois entrando no próprio quarto."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ КОСТЮМ ДЛЯ РОЛЕВЫХ ИГР"
-msgstr "COSTUME DI RUOLO IN PELLE NERA"
+msgstr "TRAJE DE PASSEIO EM COURO PRETO"
 
 # game/core/06_items.rpy:2
 msgid "Женский сексуальный комплект из натуральной кожи чёрного цвета. Топ с воротничком и коротенькие шортики, которые застёгиваются на стильные заклёпки."
-msgstr "Set da donna sexy in pelle nera. Il top con colletto e pantaloncini corti che si chiudono con eleganti rivetti."
+msgstr "Conjunto feminino sexy de couro preto. A parte superior com gola e shorts curtos que fecham com rebites elegantes."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ СТЕК"
-msgstr "PILA DI PELLE NERA"
+msgstr "CHICOTE DE COURO PRETO"
 
 # game/core/06_items.rpy:2
 msgid "Стек освежит и разнообразит ваши отношения. Шлепок на конце девайса воспитает дерзкого и непослушного партнера. Секс-игрушка откроет просторы истинного БДСМ."
-msgstr "La pila rinfrescherà e diversificherà la vostra relazione. La sculacciata all'estremità del dispositivo alimenterà un partner ribelle e birichino. Un sex toy che apre il regno del vero BDSM."
+msgstr "O chicote irá atualizar e diversificar seu relacionamento. A surra na ponta do aparelho vai alimentar um parceiro safado e rebelde. Um brinquedo sexual que abre o reino do verdadeiro BDSM."
 
 # game/core/06_items.rpy:2
 msgid "БЫСТРОДЕЙСТВУЮЩЕЕ СЛАБИТЕЛЬНОЕ"
-msgstr "LASSATIVO ISTANTANEO"
+msgstr "LAXANTE INSTANTÂNEO"
 
 # game/core/06_items.rpy:2
 msgid "Эффективное слабительное средство. Эффект не заставит себя ждать. Деликатное решение деликатной проблемы."
-msgstr "Un efficace lassativo. L'effetto non tarderà ad arrivare. Una soluzione delicata per un problema delicato."
+msgstr "Um laxante eficaz. O efeito não tardará a chegar. Uma solução delicada para um problema delicado."
 
 # game/core/06_items.rpy:2
 msgid "УСПОКОИТЕЛЬНОЕ СРЕДСТВО"
@@ -306,5 +306,5 @@ msgstr "SEDATIVO"
 
 # game/core/06_items.rpy:2
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
-msgstr "Ottimo per chi non vuole essere sovraeccitato. Solo calma e serenità. Consultare sempre un medico prima dell'uso per determinare il corretto dosaggio."
+msgstr "Ótimo para quem não quer ser superexcitado. Apenas calma e serenidade. Sempre consulte um médico antes de usar para determinar a dosagem correta."
 
