@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 14:09\n"
+"PO-Revision-Date: 2022-07-29 00:31\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
-msgstr "Telecamere nascoste"
+msgstr "Câmeras ocultas"
 
 # game/core/09_opportunities.rpy:4
 msgid "Я нашёл пустую коробку из под скрытой камеры. Видимо, она установлена где-то в доме. Нужно поискать как следует - вдруг, кто-то за нами наблюдал всё это время?"
-msgstr "Ho trovato una scatola vuota da sotto la telecamera nascosta. Apparentemente, è installato da qualche parte in casa. Dobbiamo cercare come dovrebbe essere - improvvisamente, qualcuno ci ha guardato per tutto questo tempo?"
+msgstr "Encontrei uma caixa vazia debaixo da câmera escondida. Aparentemente, ele está instalado em algum lugar da casa. Temos que ver como deveria ser - de repente, alguém está olhando para nós todo esse tempo?"
 
 # game/core/09_opportunities.rpy:4
 msgid "Вероятнее всего, скрытая камера будет охватывать самую людную комнату внутри дома..."
-msgstr "Molto probabilmente, la telecamera nascosta coprirà la stanza più affollata all'interno della casa..."
+msgstr "Muito provavelmente, a câmera escondida cobrirá o cômodo mais movimentado da casa..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Итак, я нашёл скрытую камеру в гостиной. Она вмонтирована в стену, видимо, во время ремонта. Поэтому, её нельзя вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Может быть, стоит целенаправленно изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
