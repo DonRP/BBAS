@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-29 00:31\n"
+"PO-Revision-Date: 2022-07-30 00:39\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -26,43 +26,43 @@ msgstr "Muito provavelmente, a câmera escondida cobrirá o cômodo mais movimen
 
 # game/core/09_opportunities.rpy:4
 msgid "Итак, я нашёл скрытую камеру в гостиной. Она вмонтирована в стену, видимо, во время ремонта. Поэтому, её нельзя вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Может быть, стоит целенаправленно изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
-msgstr "Così, ho trovato una telecamera nascosta nel soggiorno. È montato nel muro, apparentemente durante le riparazioni. Pertanto, non può essere estratto senza danneggiare. Inoltre, si è scoperto che la fotocamera ora non è collegata a nulla. Forse dovresti esplorare intenzionalmente i modi per collegare le telecamere per trarne qualche beneficio..."
+msgstr "Então, encontrei uma câmera escondida na sala. Aparentemente foi fixada na parede durante os reparos. Portanto, não pode ser retirada sem danificar. Além disso, descobriu-se que a câmera agora não está conectada a nada. Talvez você deva explorar intencionalmente maneiras de conectar câmeras para obter algum benefício..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Информацию можно поискать с помощью ноутбука..."
-msgstr "Le informazioni possono essere ricercate utilizzando un laptop..."
+msgstr "As informações podem ser pesquisadas usando um laptop..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Ко мне пришла отличная идея - заработать на трансляции с веб-камеры в интернет, но я об этом знаю очень мало... Может быть, поможет какая-то литература?"
-msgstr "Mi è venuta una grande idea: fare soldi con la trasmissione dalla webcam a Internet, ma ne so molto poco... Forse un po' di letteratura aiuterà?"
+msgstr "Tive uma ótima ideia: ganhar dinheiro transmitindo da webcam para a Internet, mas sei muito pouco sobre isso... Talvez um pouco de literatura ajude?"
 
 # game/core/09_opportunities.rpy:4
 msgid "Иногда, специализированные книги куда лучше, чем то, что пишут в интернете! Это как раз такой случай..."
-msgstr "A volte, i libri specializzati sono molto meglio di ciò che è scritto su Internet! Questo è proprio un caso del genere..."
+msgstr "Às vezes, livros especializados são muito melhores do que se encontra escrito na Internet! Talvez este seja o caso..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Итак, я внимательно прочитал книгу Web Standards и разобрался, как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
-msgstr "Quindi, ho letto attentamente il libro Web Standards e ho capito come creare il tuo sito web. Forse dovremmo iniziare con questo. Avrò bisogno di soldi per un dominio, hosting e pagamento per un modello già pronto con un design. In totale, hai bisogno di circa € 100."
+msgstr "Então, eu li o livro de Padrões da Web com atenção e descobri como criar meu site. Talvez eu devêsse começar com isso. Vou precisar de dinheiro para um domínio, hospedagem e pagamento de um modelo pronto com um design. No total, precisarei de €100."
 
 # game/core/09_opportunities.rpy:4
 msgid "Главное, собрать нужную сумму, а остальное - уже ерунда..."
-msgstr "La cosa principale è raccogliere la quantità necessaria, e il resto è già una sciocchezza..."
+msgstr "O principal é coletar a quantidade necessária, o resto é bobagem..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход от рекламных баннеров. Сделать это можно с помощью вложений в рекламу своего сайта. Кроме того, если в кадре происходит что-то интересное, аудитория также растёт. Для начала стоит установить камеры в каждую комнату, а так же во двор..."
-msgstr "Infine, ho il mio sito web che trasmette l'immagine dalla fotocamera dal soggiorno! Ora è necessario aumentare il pubblico, perché più persone, maggiori sono le entrate derivanti dai banner pubblicitari. Questo può essere fatto con l'aiuto di allegati per pubblicizzare il tuo sito. Inoltre, se succede qualcosa di interessante nell'inquadratura, anche il pubblico cresce. Per cominciare, vale la pena installare telecamere in ogni stanza, così come nel cortile..."
+msgstr "Finalmente, tenho meu próprio site que transmite a imagem da câmera da sala! Agora você precisa aumentar sua audiência, pois quanto mais pessoas, mais receita com banners. Isso pode ser feito com a ajuda de anexos para anunciar seu site. Além disso, se algo interessante acontece no quadro, o público também cresce. Para começar, vale a pena instalar câmeras em cada quarto, bem como no pátio..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
-msgstr "Devi pagare periodicamente per la pubblicità per il sito al fine di risparmiare rapidamente denaro per nuove telecamere e, in alternativa, provare a chiedere qualcosa ad Alice, mamma o Eric..."
+msgstr "Você precisa pagar periodicamente pela publicidade do site para economizar dinheiro rapidamente para novas câmeras e, alternativamente, tentar pedir algo a Alice, mamãe ou Eric..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
-msgstr "È fantastico! Ora ho telecamere in ogni stanza! I costi erano alti, ma chiaramente pagheranno, perché in questa casa ci sono così tante belle ragazze che periodicamente brillano con il loro fascino... Anche se, non sarebbe male mettere un'altra macchina fotografica nel cortile, perché le ragazze non solo prendono il sole, ma nuotano anche. Per completezza, il mio pubblico vorrà sicuramente ammirare le ragazze bagnate! Eppure, la copertura della fotocamera in bagno è troppo piccola, anche se molto interessante. Devo installare un'altra telecamera lì? Questo dovrà essere controllato..."
+msgstr "É fantástico! Agora eu tenho câmeras em todos os quartos! Os custos foram altos, mas é claro que eles vão compensar, porque nesta casa há tantas garotas bonitas que periodicamente brilham com seu charme ao sol, mas também nadam. Para completar, meu público definitivamente vai querer admirar garotas molhadas! Mas a cobertura da câmera no banheiro é muito pequena, embora muito interessante. Preciso instalar outra câmera lá? Vou ter que ver isso..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Лучше начать с поиска хорошего обзора ванной комнаты..."
-msgstr "È meglio iniziare cercando una buona vista sul bagno..."
+msgstr "O melhor é começar procurando uma boa vista do banheiro..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Вечер - это самое лучшее время, чтобы попробовать подсмотреть за кем-нибудь в ванной комнате и не попасться..."
