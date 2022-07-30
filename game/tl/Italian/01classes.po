@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/01classes.po\n"
+"X-Crowdin-File-ID: 3424\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-07-24 14:55\n"
+
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/01classes.rpy:693
+msgid "Ужасное"
+msgstr "Terrível"
+
+# game/core/01classes.rpy:693
+msgid "Очень плохое"
+msgstr "Pessimo"
+
+# game/core/01classes.rpy:693
+msgid "Плохое"
+msgstr "Mau"
+
+# game/core/01classes.rpy:693
+msgid "Не очень"
+msgstr "Não Muito"
+
+# game/core/01classes.rpy:693
+msgid "Нейтральное"
+msgstr "Neutro"
+
+# game/core/01classes.rpy:693
+msgid "Неплохое"
+msgstr "Certo"
+
+# game/core/01classes.rpy:693
+msgid "Хорошее"
+msgstr "Bom"
+
+# game/core/01classes.rpy:693
+msgid "Очень хорошее"
+msgstr "Muito bem"
+
+# game/core/01classes.rpy:693
+msgid "Прекрасное"
+msgstr "Perfeito"
+
+# game/core/01classes.rpy:1089
+msgid "Приобретен пакет рекламы"
+msgstr "Comprou um pacote de publicidade"
+
+# game/core/01classes.rpy:1345
+msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+msgstr "{color=[lime]}{i}{b}Atenção:{/b} Apareceu uma nova \"oportunidade\"!{/i}{/color}"
+

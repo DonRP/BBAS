@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/scripts_s1/s1_screens.po\n"
+"X-Crowdin-File-ID: 3728\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-07-23 14:09\n"
+
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/scripts_s1/s1_screens.rpy:17
+msgid "ПРЕДУПРЕЖДЕНИЕ!"
+msgstr "ATTENZIONE!"
+
+# game/scripts_s1/s1_screens.rpy:19
+msgid "С осторожностью используйте чит-меню - это может привести к ошибкам в прохождении."
+msgstr "Fate attenzione all'uso dei menu cheat, che possono portare a errori nel passaggio."
+
+# game/scripts_s1/s1_screens.rpy:20
+msgid "Доступ к части читов будет открыт после достижения некоторого прогресса для минимизации последствий вмешательства в переменные игры."
+msgstr "Una parte dei cheat sarà accessibile dopo che saranno stati compiuti alcuni progressi per ridurre al minimo le conseguenze della manomissione delle variabili di gioco."
+
+# game/scripts_s1/s1_screens.rpy:79
+msgid "Деньги:"
+msgstr "Soldi:"
+
+# game/scripts_s1/s1_screens.rpy:88
+msgid "Невозможно до открытия доступа к банку (открывается на 9 день)"
+msgstr "Non disponibile fino all'apertura dell'accesso alla banca (apertura il giorno 9)"
+
+# game/scripts_s1/s1_screens.rpy:90
+msgid "Доступно один раз в день"
+msgstr "Disponibile una volta al giorno"
+
+# game/scripts_s1/s1_screens.rpy:106
+msgid "Восстановить"
+msgstr "Ripristino"
+
+# game/scripts_s1/s1_screens.rpy:127
+msgid "Необходимо пройти первый урок онлайн-курса \"Общение\""
+msgstr "Necessità di completare la prima lezione del corso online Comunicazione"
+
+# game/scripts_s1/s1_screens.rpy:184
+msgid "{b}Пропустить дни:{/b}"
+msgstr "{b}Giorni di salto:{/b}"
+
+# game/scripts_s1/s1_screens.rpy:311
+msgid "ЧЕРЕЗ НЕКОТОРОЕ ВРЕМЯ..."
+msgstr "DOPO UN PO'..."
+
+# game/scripts_s1/s1_screens.rpy:322
+msgid "ЧЕРЕЗ НЕСКОЛЬКО МИНУТ..."
+msgstr "TRA POCHI MINUTI..."
+

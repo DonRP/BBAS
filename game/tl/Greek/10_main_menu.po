@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /master/game/tl/crowdin/core/10_main_menu.po\n"
+"X-Crowdin-File-ID: 3440\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2022-07-23 14:10\n"
+
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/10_main_menu.rpy:51
+msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
+msgstr ""
+
+# game/core/10_main_menu.rpy:289
+msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Шорты"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусы"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Шапка"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Борода"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусы #1"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусы #2"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Маечка"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Минишортики"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Лиф"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Плавки"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Лифчик"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусики"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Шапочка"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Бант на шею"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Кружевное платье"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Чулочки"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Топик"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Шортики"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Шляпка"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Бабочка на шею"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Мишура на груди"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Минилиф"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Миниплавки"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Сорочка"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Свитер без рукавов"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Откровенный корсет"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Браслетики на запястья"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Юбочка"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Штанишки"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Леденец на шею"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Свитер с рукавами"
+msgstr ""
+
+# game/core/10_main_menu.rpy:421
+msgid "Колготки"
+msgstr ""
+

@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/game/tl/crowdin/options.po\n"
+"X-Crowdin-File-ID: 3502\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2022-03-26 14:19\n"
+
+# TODO: Translation updated at 2022-03-26 HH:HH# XXtranslate crowdin strings:XX# XX## game/options.rpy:15
+msgid "Большой брат: Другая история"
+msgid_plural "Ignore this. translate only: One"
+msgstr[0] ""
+
